@@ -1,0 +1,30 @@
+name: TJC Web TV Tracker
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # every 5 minutes — GitHub's minimum schedule interval
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab too
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run tracker
+        run: python tjc_tracker.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "tjc-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Update TJC tracker data [skip ci]"
+          git push
