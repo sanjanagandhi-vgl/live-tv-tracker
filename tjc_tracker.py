@@ -11,6 +11,9 @@ import re
 import time
 import urllib.request
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
+
+UK_TZ = ZoneInfo("Europe/London")
 
 WATCH_URL = "https://www.tjc.co.uk/watch-tjc"
 MISSED_URL = "https://www.tjc.co.uk/on/demandware.store/Sites-TJC-GB-Site/en/LiveTV-GetLast24Items?channel=tjc"
@@ -161,7 +164,7 @@ def main():
     state = load_state()
     air = state.setdefault("air", {})
     t = int(time.time() * 1000)
-    now_str = datetime.now(timezone.utc).strftime("%H:%M:%S")
+    now_str = datetime.now(UK_TZ).strftime("%H:%M:%S")
 
     w_status, w_body = fetch(WATCH_URL)
     m_status, m_body = fetch(MISSED_URL)
@@ -184,6 +187,14 @@ def main():
 
     by_auction, by_sku = extract_missed_grid(m_body) if m_status == 200 else ({}, {})
     print(f"missed grid tiles parsed: {len(by_sku)}")
+
+    if m_status == 200:
+        tile_count = m_body.count('data-pdpproductid="')
+        price_class_count = m_body.count('price-sales')
+        sample_idx = m_body.find('data-pdpproductid="')
+        sample = m_body[sample_idx:sample_idx + 1500] if sample_idx >= 0 else "(no tile found)"
+        print(f"DEBUG: raw tile count={tile_count}, 'price-sales' occurrences={price_class_count}")
+        print(f"DEBUG: first tile raw HTML sample:\n{sample}\n---END SAMPLE---")
 
     for sku, a in list(air.items()):
         if a.get("missedAt"):
