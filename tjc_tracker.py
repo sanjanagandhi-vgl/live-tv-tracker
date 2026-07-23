@@ -5,6 +5,7 @@ transitions, computes delay, price parity, overcharge flag, image validity.
 State persists in data/tjc_state.json (committed back to the repo each run).
 """
 import csv
+import html
 import json
 import os
 import re
@@ -44,14 +45,14 @@ def is_valid_image(url):
     return "sirv.com" in u and "noimage" not in u
 
 
-def extract_on_air(html):
-    idx = html.find("newLiveTVcurrProd")
+def extract_on_air(raw_html):
+    idx = raw_html.find("newLiveTVcurrProd")
     if idx < 0:
         return None
-    start = html.rfind('<div class="tile-inner', 0, idx)
+    start = raw_html.rfind('<div class="tile-inner', 0, idx)
     if start < 0:
         return None
-    win = html[start:start + 6000]
+    win = raw_html[start:start + 6000]
 
     def m1(pat):
         mm = re.search(pat, win)
@@ -63,7 +64,7 @@ def extract_on_air(html):
     if not sku:
         return None
     title_m = re.search(r'class="text-bottom"[^>]*>\s*([\s\S]*?)\s*</div>', win)
-    title = re.sub(r"\s+", " ", title_m.group(1)).strip() if title_m else None
+    title = html.unescape(re.sub(r"\s+", " ", title_m.group(1)).strip()) if title_m else None
     img = m1(r'class="Sirv image-main"[^>]*\ssrc="([^"]+)"')
     login = bool(re.search(r'home-page-login-bid-now|href="/live-tv/login"', win))
     buy = (not login) and bool(re.search(r'id="ltvpagebidnow"[^>]*class="[^"]*enablebutton', win))
@@ -74,16 +75,16 @@ def extract_on_air(html):
     }
 
 
-def extract_missed_grid(html):
+def extract_missed_grid(raw_html):
     by_auction, by_sku = {}, {}
-    for m in re.finditer(r'data-pdpproductid="(\d+)"', html):
+    for m in re.finditer(r'data-pdpproductid="(\d+)"', raw_html):
         top_sku = m.group(1)
-        win = html[m.start():m.start() + 5000]
+        win = raw_html[m.start():m.start() + 5000]
         top_auction_m = re.search(r'data-auctioncode="(\d+)"', win)
         top_auction = top_auction_m.group(1) if top_auction_m else None
         title_m = re.search(r'class="product-name mb-0">\s*([\s\S]*?)\s*</div>', win)
-        title = re.sub(r"\s+", " ", title_m.group(1)).strip() if title_m else ""
-        price_m = re.search(r'class="price-sales"[^>]*>\s*£?([\d,.]+)', win)
+        title = html.unescape(re.sub(r"\s+", " ", title_m.group(1)).strip()) if title_m else ""
+        price_m = re.search(r'class="price-sales"[^>]*>\s*(?:£|&#163;|&pound;)?\s*([\d,.]+)', win)
         price = float(price_m.group(1).replace(",", "")) if price_m else None
         top_img_m = (re.search(r'class="clickable-image pdp-main-img"[^>]*\ssrc="([^"]+)"', win)
                      or re.search(r'class="Sirv image-main"[^>]*\ssrc="([^"]+)"', win))
@@ -107,7 +108,7 @@ def extract_missed_grid(html):
             if not opt_sku or "," in opt_sku:
                 continue
             n_m = re.search(r'data-name="([^"]*)"', tag)
-            opt_title = n_m.group(1) if n_m else title
+            opt_title = html.unescape(n_m.group(1)) if n_m else title
             i_m = re.search(r'data-image="([^"]*)"', tag)
             opt_img = i_m.group(1) if i_m else top_img
             if opt_auction not in by_auction:
