@@ -471,7 +471,11 @@
       "login": false,
       "img": true,
       "time": "08:21:03",
-      "source": "gha"
+      "source": "gha",
+      "missedAt": 1784792161586,
+      "missedDelay": 15,
+      "missedPrice": 29.99,
+      "missedImg": false
     },
     "8422339": {
       "sku": "8422339",
@@ -485,6 +489,35 @@
       "missedImg": true,
       "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Half Hoop Earring in Yellow Gold Plated Sterling Silver",
       "auctionCode": "0019791306",
+      "source": "gha"
+    },
+    "8631609": {
+      "sku": "8631609",
+      "firstAir": 1784792161586,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1784792161586,
+      "title": "Luxuriant - 9K Yellow Gold IGI Certified Lab Grown Diamond (VS/E-F) Ring 2.00 Ct.",
+      "pdpPrice": 1799.99,
+      "auctionCode": "0019791266",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "time": "08:36:01",
+      "source": "gha"
+    },
+    "8485194": {
+      "sku": "8485194",
+      "tvPrice": "",
+      "remarks": "",
+      "time": "08:36:01",
+      "preExisting": true,
+      "missedAt": 1784792161586,
+      "missedDelay": null,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Luxuriant Lab Grown Diamond Solitaire Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019791327",
       "source": "gha"
     }
   }
