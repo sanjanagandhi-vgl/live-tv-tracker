@@ -158,7 +158,11 @@
       "login": false,
       "img": true,
       "time": "07:13:59",
-      "source": "gha"
+      "source": "gha",
+      "missedAt": 1784791263433,
+      "missedDelay": 7,
+      "missedPrice": null,
+      "missedImg": false
     },
     "8415491": {
       "sku": "8415491",
@@ -452,6 +456,35 @@
       "missedImg": true,
       "title": "La Marey Colour Block Stripe Design Shirt (Size L) - Blue, Pink &amp; White Strips",
       "auctionCode": "0019790646",
+      "source": "gha"
+    },
+    "8485117": {
+      "sku": "8485117",
+      "firstAir": 1784791263433,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1784791263433,
+      "title": "Luxuriant - Lab Grown Diamond Solitaire Pendant in Rhodium Overlay Sterling Silver. 0.25 Cts",
+      "pdpPrice": 29.99,
+      "auctionCode": "0019791326",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "time": "08:21:03",
+      "source": "gha"
+    },
+    "8422339": {
+      "sku": "8422339",
+      "tvPrice": "",
+      "remarks": "",
+      "time": "08:21:03",
+      "preExisting": true,
+      "missedAt": 1784791263433,
+      "missedDelay": null,
+      "missedPrice": null,
+      "missedImg": true,
+      "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Half Hoop Earring in Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019791306",
       "source": "gha"
     }
   }
