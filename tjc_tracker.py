@@ -13,7 +13,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 WATCH_URL = "https://www.tjc.co.uk/watch-tjc"
-MISSED_URL = "https://www.tjc.co.uk/live-tv/missed-auctions"
+MISSED_URL = "https://www.tjc.co.uk/on/demandware.store/Sites-TJC-GB-Site/en/LiveTV-GetLast24Items?channel=tjc"
 STATE_PATH = "data/tjc_state.json"
 LOG_PATH = "data/tjc_events.log"
 CSV_PATH = "data/tjc_report.csv"
