@@ -4056,8 +4056,12 @@
       "img": true,
       "date": "2026-07-24",
       "time": "12:51:18",
-      "lastUpdated": 1784893878096,
-      "source": "gha"
+      "lastUpdated": 1784893996989,
+      "source": "gha",
+      "missedAt": 1784893996989,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8231408": {
       "sku": "8231408",
@@ -4089,6 +4093,38 @@
       "missedImg": true,
       "title": "LA Marey Knit Trousers (Size XL) - Brown",
       "auctionCode": "0019792738",
+      "source": "gha"
+    },
+    "8231404": {
+      "sku": "8231404",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "12:53:16",
+      "preExisting": true,
+      "missedAt": 1784893996989,
+      "missedDelay": null,
+      "lastUpdated": 1784893996989,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "LA Marey Knit Trousers (Size 16-18) - Black",
+      "auctionCode": "0019792741",
+      "source": "gha"
+    },
+    "8231405": {
+      "sku": "8231405",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "12:53:16",
+      "preExisting": true,
+      "missedAt": 1784893996989,
+      "missedDelay": null,
+      "lastUpdated": 1784893996989,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "LA Marey Knit Trousers (Size L) - Black",
+      "auctionCode": "0019792742",
       "source": "gha"
     }
   }
