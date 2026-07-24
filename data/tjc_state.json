@@ -4584,8 +4584,12 @@
       "img": true,
       "date": "2026-07-24",
       "time": "15:02:21",
-      "lastUpdated": 1784901741498,
-      "source": "gha"
+      "lastUpdated": 1784901799333,
+      "source": "gha",
+      "missedAt": 1784901799333,
+      "missedDelay": 1,
+      "missedPrice": 59.99,
+      "missedImg": false
     },
     "8670125": {
       "sku": "8670125",
@@ -4633,6 +4637,55 @@
       "missedImg": true,
       "title": "TJC Special Ladies Sandal (Size - 40) - Nude",
       "auctionCode": "0019793214",
+      "source": "gha"
+    },
+    "8660801": {
+      "sku": "8660801",
+      "firstAir": 1784901799333,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1784901799333,
+      "title": "Ashwood Highgate Real Leather Crossbody Shoulder Bag - Black",
+      "pdpPrice": 299.99,
+      "auctionCode": "0019792876",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-24",
+      "time": "15:03:19",
+      "lastUpdated": 1784901799333,
+      "source": "gha"
+    },
+    "8660942": {
+      "sku": "8660942",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "15:03:19",
+      "preExisting": true,
+      "missedAt": 1784901799333,
+      "missedDelay": null,
+      "lastUpdated": 1784901799333,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "TJC Special Leather Tote Bag - Red",
+      "auctionCode": "0019792885",
+      "source": "gha"
+    },
+    "8660941": {
+      "sku": "8660941",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "15:03:19",
+      "preExisting": true,
+      "missedAt": 1784901799333,
+      "missedDelay": null,
+      "lastUpdated": 1784901799333,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "TJC Special Leather Tote Bag - Brown",
+      "auctionCode": "0019792884",
       "source": "gha"
     }
   }
