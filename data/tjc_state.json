@@ -3684,8 +3684,12 @@
       "img": false,
       "date": "2026-07-24",
       "time": "11:44:19",
-      "lastUpdated": 1784889859649,
-      "source": "gha"
+      "lastUpdated": 1784889981449,
+      "source": "gha",
+      "missedAt": 1784889981449,
+      "missedDelay": 2,
+      "missedPrice": 29.99,
+      "missedImg": false
     },
     "8667800": {
       "sku": "8667800",
@@ -3717,6 +3721,54 @@
       "missedImg": true,
       "title": "TJC Special Sunglass - Black",
       "auctionCode": "0019792870",
+      "source": "gha"
+    },
+    "8667806": {
+      "sku": "8667806",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "11:46:21",
+      "preExisting": true,
+      "missedAt": 1784889981449,
+      "missedDelay": null,
+      "lastUpdated": 1784889981449,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "TJC Special Sunglass - Green",
+      "auctionCode": "0019792874",
+      "source": "gha"
+    },
+    "8667808": {
+      "sku": "8667808",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "11:46:21",
+      "preExisting": true,
+      "missedAt": 1784889981449,
+      "missedDelay": null,
+      "lastUpdated": 1784889981449,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "TJC Special Sunglass - Brown",
+      "auctionCode": "0019792875",
+      "source": "gha"
+    },
+    "8667805": {
+      "sku": "8667805",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "11:46:21",
+      "preExisting": true,
+      "missedAt": 1784889981449,
+      "missedDelay": null,
+      "lastUpdated": 1784889981449,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "TJC Special Sunglass - Black",
+      "auctionCode": "0019792873",
       "source": "gha"
     }
   }
