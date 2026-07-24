@@ -168,7 +168,7 @@
       "sku": "8415491",
       "tvPrice": "",
       "remarks": "",
-      "time": "23:53:17",
+      "time": "23:54:22",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
@@ -177,13 +177,13 @@
       "title": "9K Yellow Gold Spinner Band Ring",
       "auctionCode": "0019793371",
       "source": "gha",
-      "lastAir": 1784933597822,
-      "pdpPrice": 5211.99,
+      "lastAir": 1784933662491,
+      "pdpPrice": 229.99,
       "buy": false,
       "login": false,
       "img": true,
       "date": "2026-07-24",
-      "lastUpdated": 1784933597822
+      "lastUpdated": 1784933662491
     },
     "8415496": {
       "sku": "8415496",
@@ -6033,8 +6033,12 @@
       "img": false,
       "date": "2026-07-24",
       "time": "23:52:23",
-      "lastUpdated": 1784933543199,
-      "source": "gha"
+      "lastUpdated": 1784933662491,
+      "source": "gha",
+      "missedAt": 1784933662491,
+      "missedDelay": 2,
+      "missedPrice": 299.99,
+      "missedImg": false
     }
   }
 }
