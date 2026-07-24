@@ -4653,8 +4653,12 @@
       "img": true,
       "date": "2026-07-24",
       "time": "15:13:18",
-      "lastUpdated": 1784902398357,
-      "source": "gha"
+      "lastUpdated": 1784902462481,
+      "source": "gha",
+      "missedAt": 1784902462481,
+      "missedDelay": 1,
+      "missedPrice": 49.99,
+      "missedImg": false
     },
     "8660942": {
       "sku": "8660942",
@@ -4686,6 +4690,38 @@
       "missedImg": true,
       "title": "TJC Special Leather Tote Bag - Brown",
       "auctionCode": "0019792884",
+      "source": "gha"
+    },
+    "8660820": {
+      "sku": "8660820",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "15:14:22",
+      "preExisting": true,
+      "missedAt": 1784902462481,
+      "missedDelay": null,
+      "lastUpdated": 1784902462481,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "title": "TJC Special Leather Shoulder Bag - Taupe",
+      "auctionCode": "0019792878",
+      "source": "gha"
+    },
+    "8660802": {
+      "sku": "8660802",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "15:14:22",
+      "preExisting": true,
+      "missedAt": 1784902462481,
+      "missedDelay": null,
+      "lastUpdated": 1784902462481,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "title": "TJC Special Leather Shoulder Bag - Navy",
+      "auctionCode": "0019792877",
       "source": "gha"
     }
   }
