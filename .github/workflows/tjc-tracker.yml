@@ -1,8 +1,10 @@
 name: TJC Web TV Tracker
 
 on:
+  repository_dispatch:
+    types: [run-tracker]   # triggered by the external cron-job.org ping every 1 min
   schedule:
-    - cron: '*/5 * * * *'   # every 5 minutes — GitHub's minimum schedule interval
+    - cron: '*/5 * * * *'   # kept as a redundant backup — unreliable timing, don't rely on this alone
   workflow_dispatch: {}      # lets you trigger it manually from the Actions tab too
 
 permissions:
