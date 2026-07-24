@@ -4019,8 +4019,12 @@
       "img": true,
       "date": "2026-07-24",
       "time": "12:47:18",
-      "lastUpdated": 1784893638459,
-      "source": "gha"
+      "lastUpdated": 1784893701582,
+      "source": "gha",
+      "missedAt": 1784893701582,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "7854544": {
       "sku": "7854544",
@@ -4036,6 +4040,55 @@
       "missedImg": true,
       "title": "La Marey Plaid Plush Coat With Hood (Size 12 to 14) - Blue",
       "auctionCode": "0019792982",
+      "source": "gha"
+    },
+    "8231403": {
+      "sku": "8231403",
+      "firstAir": 1784893701582,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1784893701582,
+      "title": "LA Marey Knit Trousers (Size M) - Black",
+      "pdpPrice": 149.99,
+      "auctionCode": "0019792740",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-24",
+      "time": "12:48:21",
+      "lastUpdated": 1784893701582,
+      "source": "gha"
+    },
+    "8231408": {
+      "sku": "8231408",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "12:48:21",
+      "preExisting": true,
+      "missedAt": 1784893701582,
+      "missedDelay": null,
+      "lastUpdated": 1784893701582,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "LA Marey Knit Trousers (Size L) - Brown",
+      "auctionCode": "0019792739",
+      "source": "gha"
+    },
+    "8231409": {
+      "sku": "8231409",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "12:48:21",
+      "preExisting": true,
+      "missedAt": 1784893701582,
+      "missedDelay": null,
+      "lastUpdated": 1784893701582,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "LA Marey Knit Trousers (Size XL) - Brown",
+      "auctionCode": "0019792738",
       "source": "gha"
     }
   }
