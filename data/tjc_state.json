@@ -4199,8 +4199,12 @@
       "img": true,
       "date": "2026-07-24",
       "time": "13:31:20",
-      "lastUpdated": 1784896280975,
-      "source": "gha"
+      "lastUpdated": 1784896462148,
+      "source": "gha",
+      "missedAt": 1784896462148,
+      "missedDelay": 3,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8584237": {
       "sku": "8584237",
@@ -4232,6 +4236,38 @@
       "missedImg": true,
       "title": "La Marey Sleeveless Top",
       "auctionCode": "0019792916",
+      "source": "gha"
+    },
+    "8584160": {
+      "sku": "8584160",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "13:34:22",
+      "preExisting": true,
+      "missedAt": 1784896462148,
+      "missedDelay": null,
+      "lastUpdated": 1784896462148,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Full Sleeves Open Front Cardigan",
+      "auctionCode": "0019793254",
+      "source": "gha"
+    },
+    "8584190": {
+      "sku": "8584190",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "13:34:22",
+      "preExisting": true,
+      "missedAt": 1784896462148,
+      "missedDelay": null,
+      "lastUpdated": 1784896462148,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Full Sleeves Open Front Cardigan",
+      "auctionCode": "0019793258",
       "source": "gha"
     }
   }
