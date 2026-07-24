@@ -3403,8 +3403,12 @@
       "img": true,
       "date": "2026-07-24",
       "time": "10:59:16",
-      "lastUpdated": 1784887156091,
-      "source": "gha"
+      "lastUpdated": 1784887278885,
+      "source": "gha",
+      "missedAt": 1784887278885,
+      "missedDelay": 2,
+      "missedPrice": 8.99,
+      "missedImg": false
     },
     "8689643": {
       "sku": "8689643",
@@ -3436,6 +3440,38 @@
       "missedImg": true,
       "title": "Laurelle Divine Fleur Gardenia Bliss 100ml EDP",
       "auctionCode": "0019791376",
+      "source": "gha"
+    },
+    "8689649": {
+      "sku": "8689649",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "11:01:18",
+      "preExisting": true,
+      "missedAt": 1784887278885,
+      "missedDelay": null,
+      "lastUpdated": 1784887278885,
+      "missedPrice": 8.99,
+      "missedImg": true,
+      "title": "null",
+      "auctionCode": "0019791380",
+      "source": "gha"
+    },
+    "8689648": {
+      "sku": "8689648",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "11:01:18",
+      "preExisting": true,
+      "missedAt": 1784887278885,
+      "missedDelay": null,
+      "lastUpdated": 1784887278885,
+      "missedPrice": 8.99,
+      "missedImg": true,
+      "title": "Laurelle Amarai Red Desire EDP - 100ml",
+      "auctionCode": "0019791379",
       "source": "gha"
     }
   }
