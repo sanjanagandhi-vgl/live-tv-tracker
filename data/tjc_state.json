@@ -4796,8 +4796,12 @@
       "img": true,
       "date": "2026-07-24",
       "time": "15:50:36",
-      "lastUpdated": 1784904636003,
-      "source": "gha"
+      "lastUpdated": 1784904678390,
+      "source": "gha",
+      "missedAt": 1784904678390,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8555289": {
       "sku": "8555289",
@@ -4829,6 +4833,38 @@
       "missedImg": true,
       "title": "La Marey Striped Blouse",
       "auctionCode": "0019793223",
+      "source": "gha"
+    },
+    "8555281": {
+      "sku": "8555281",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "15:51:18",
+      "preExisting": true,
+      "missedAt": 1784904678390,
+      "missedDelay": null,
+      "lastUpdated": 1784904678390,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Striped Blouse",
+      "auctionCode": "0019793218",
+      "source": "gha"
+    },
+    "8555280": {
+      "sku": "8555280",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-24",
+      "time": "15:51:18",
+      "preExisting": true,
+      "missedAt": 1784904678390,
+      "missedDelay": null,
+      "lastUpdated": 1784904678390,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Striped Blouse",
+      "auctionCode": "0019793217",
       "source": "gha"
     }
   }
