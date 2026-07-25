@@ -7641,8 +7641,12 @@
       "img": true,
       "date": "2026-07-25",
       "time": "08:52:19",
-      "lastUpdated": 1784965939517,
-      "source": "gha"
+      "lastUpdated": 1784966838368,
+      "source": "gha",
+      "missedAt": 1784966838368,
+      "missedDelay": 15,
+      "missedPrice": 129.99,
+      "missedImg": false
     },
     "8370072": {
       "sku": "8370072",
@@ -7659,6 +7663,22 @@
       "date": "2026-07-25",
       "time": "09:02:19",
       "lastUpdated": 1784966539912,
+      "source": "gha"
+    },
+    "8658042": {
+      "sku": "8658042",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-25",
+      "time": "09:07:18",
+      "preExisting": true,
+      "missedAt": 1784966838368,
+      "missedDelay": null,
+      "lastUpdated": 1784966838368,
+      "missedPrice": 129.99,
+      "missedImg": true,
+      "title": "D'Joy - Black Jade & Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 24.90 Ct.",
+      "auctionCode": "0019791457",
       "source": "gha"
     }
   }
