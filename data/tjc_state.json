@@ -8771,8 +8771,12 @@
       "img": true,
       "date": "2026-07-25",
       "time": "15:32:22",
-      "lastUpdated": 1784989942197,
-      "source": "gha"
+      "lastUpdated": 1784990555052,
+      "source": "gha",
+      "missedAt": 1784990555052,
+      "missedDelay": 10,
+      "missedPrice": 17.99,
+      "missedImg": false
     },
     "8662614": {
       "sku": "8662614",
@@ -8809,15 +8813,19 @@
       "img": true,
       "date": "2026-07-25",
       "time": "15:38:21",
-      "lastUpdated": 1784990301862,
-      "source": "gha"
+      "lastUpdated": 1784990555052,
+      "source": "gha",
+      "missedAt": 1784990555052,
+      "missedDelay": 4,
+      "missedPrice": 14.99,
+      "missedImg": false
     },
     "8608117": {
       "sku": "8608117",
       "firstAir": 1784990485636,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784990485636,
+      "lastAir": 1784990555052,
       "title": "EverTrue Bronzella Collection - Hoop Earring in 18K Gold Plating",
       "pdpPrice": 19.99,
       "auctionCode": "0019794271",
@@ -8825,8 +8833,24 @@
       "login": true,
       "img": true,
       "date": "2026-07-25",
-      "time": "15:41:25",
-      "lastUpdated": 1784990485636,
+      "time": "15:42:35",
+      "lastUpdated": 1784990555052,
+      "source": "gha"
+    },
+    "8608115": {
+      "sku": "8608115",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-25",
+      "time": "15:42:35",
+      "preExisting": true,
+      "missedAt": 1784990555052,
+      "missedDelay": null,
+      "lastUpdated": 1784990555052,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "EverTrue Bronzella Collection - Band Ring in 18K Gold Plating",
+      "auctionCode": "0019794292",
       "source": "gha"
     }
   }
