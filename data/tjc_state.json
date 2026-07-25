@@ -9371,8 +9371,12 @@
       "img": true,
       "date": "2026-07-25",
       "time": "18:27:20",
-      "lastUpdated": 1785000440067,
-      "source": "gha"
+      "lastUpdated": 1785000602526,
+      "source": "gha",
+      "missedAt": 1785000602526,
+      "missedDelay": 3,
+      "missedPrice": 12.99,
+      "missedImg": false
     },
     "8646038": {
       "sku": "8646038",
@@ -9420,6 +9424,22 @@
       "missedImg": true,
       "title": "Yellow Gold Plated Sterling Silver Band Ring",
       "auctionCode": "0019795011",
+      "source": "gha"
+    },
+    "8646041": {
+      "sku": "8646041",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-25",
+      "time": "18:30:02",
+      "preExisting": true,
+      "missedAt": 1785000602526,
+      "missedDelay": null,
+      "lastUpdated": 1785000602526,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Yellow Gold Plated Sterling Silver Band Ring",
+      "auctionCode": "0019795015",
       "source": "gha"
     }
   }
