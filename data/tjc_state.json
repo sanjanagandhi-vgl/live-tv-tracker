@@ -6297,8 +6297,12 @@
       "img": true,
       "date": "2026-07-25",
       "time": "01:53:19",
-      "lastUpdated": 1784940799475,
-      "source": "gha"
+      "lastUpdated": 1784940860784,
+      "source": "gha",
+      "missedAt": 1784940860784,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": false
     },
     "8515026": {
       "sku": "8515026",
@@ -6346,6 +6350,22 @@
       "missedImg": true,
       "title": "Royal Bali Collection - D'Joy Sleeping Beauty Turquoise Sterling Silver Floral Band Ring 0.50 Ct.",
       "auctionCode": "0019793151",
+      "source": "gha"
+    },
+    "8447778": {
+      "sku": "8447778",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-25",
+      "time": "01:54:20",
+      "preExisting": true,
+      "missedAt": 1784940860784,
+      "missedDelay": null,
+      "lastUpdated": 1784940860784,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "D'Joy Sleeping Beauty Turquoise 7 Stone Ring in Rhodium Overlay Sterling Silver 2.53 Ct.",
+      "auctionCode": "0019793133",
       "source": "gha"
     }
   }
