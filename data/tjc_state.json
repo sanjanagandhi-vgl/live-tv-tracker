@@ -8834,8 +8834,12 @@
       "img": true,
       "date": "2026-07-25",
       "time": "15:42:35",
-      "lastUpdated": 1784990555052,
-      "source": "gha"
+      "lastUpdated": 1784990598577,
+      "source": "gha",
+      "missedAt": 1784990598577,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8608115": {
       "sku": "8608115",
@@ -8851,6 +8855,23 @@
       "missedImg": true,
       "title": "EverTrue Bronzella Collection - Band Ring in 18K Gold Plating",
       "auctionCode": "0019794292",
+      "source": "gha"
+    },
+    "8607792": {
+      "sku": "8607792",
+      "firstAir": 1784990598577,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1784990598577,
+      "title": "EverTrue Bronzella Collection - Cross Link Bracelet (Size - 7.5) in 18K Gold Plating",
+      "pdpPrice": 19.99,
+      "auctionCode": "0019794245",
+      "buy": false,
+      "login": true,
+      "img": true,
+      "date": "2026-07-25",
+      "time": "15:43:18",
+      "lastUpdated": 1784990598577,
       "source": "gha"
     }
   }
