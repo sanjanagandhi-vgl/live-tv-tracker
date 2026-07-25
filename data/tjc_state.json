@@ -7166,8 +7166,12 @@
       "img": false,
       "date": "2026-07-25",
       "time": "06:33:17",
-      "lastUpdated": 1784957597460,
-      "source": "gha"
+      "lastUpdated": 1784957766181,
+      "source": "gha",
+      "missedAt": 1784957766181,
+      "missedDelay": 3,
+      "missedPrice": 16.99,
+      "missedImg": false
     },
     "8071901": {
       "sku": "8071901",
@@ -7183,6 +7187,23 @@
       "missedImg": true,
       "title": "Round Magnetic Lock (8mm) with Lobster Clasp (11mm) in Yellow Gold Plated Sterling Silver",
       "auctionCode": "0019793310",
+      "source": "gha"
+    },
+    "8356031": {
+      "sku": "8356031",
+      "firstAir": 1784957766181,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1784957766181,
+      "title": "999 Sterling Silver Dragon Bar",
+      "pdpPrice": 719.99,
+      "auctionCode": "0019793296",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-25",
+      "time": "06:36:06",
+      "lastUpdated": 1784957766181,
       "source": "gha"
     }
   }
