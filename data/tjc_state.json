@@ -7905,8 +7905,12 @@
       "img": false,
       "date": "2026-07-25",
       "time": "10:27:19",
-      "lastUpdated": 1784971639114,
-      "source": "gha"
+      "lastUpdated": 1784972237221,
+      "source": "gha",
+      "missedAt": 1784972237221,
+      "missedDelay": 10,
+      "missedPrice": 149.99,
+      "missedImg": false
     },
     "8416911": {
       "sku": "8416911",
@@ -7971,8 +7975,12 @@
       "img": true,
       "date": "2026-07-25",
       "time": "10:36:23",
-      "lastUpdated": 1784972183899,
-      "source": "gha"
+      "lastUpdated": 1784972237221,
+      "source": "gha",
+      "missedAt": 1784972237221,
+      "missedDelay": 1,
+      "missedPrice": 1499.99,
+      "missedImg": false
     }
   }
 }
