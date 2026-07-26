@@ -10990,8 +10990,12 @@
       "img": true,
       "date": "2026-07-26",
       "time": "02:18:22",
-      "lastUpdated": 1785028702048,
-      "source": "gha"
+      "lastUpdated": 1785028958496,
+      "source": "gha",
+      "missedAt": 1785028958496,
+      "missedDelay": 4,
+      "missedPrice": 5.99,
+      "missedImg": false
     },
     "7846716": {
       "sku": "7846716",
@@ -11023,6 +11027,39 @@
       "missedImg": true,
       "title": "Lightweight and Cozy Faux Fur Bucket Hat (58cm) - White",
       "auctionCode": "0019794621",
+      "source": "gha"
+    },
+    "7850547": {
+      "sku": "7850547",
+      "firstAir": 1785028958496,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785028958496,
+      "title": "Super Soft Plush Hat and Scarf Set - Pink",
+      "pdpPrice": 7.99,
+      "auctionCode": "0019794609",
+      "buy": false,
+      "login": true,
+      "img": true,
+      "date": "2026-07-26",
+      "time": "02:22:38",
+      "lastUpdated": 1785028958496,
+      "source": "gha"
+    },
+    "7852911": {
+      "sku": "7852911",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-26",
+      "time": "02:22:38",
+      "preExisting": true,
+      "missedAt": 1785028958496,
+      "missedDelay": null,
+      "lastUpdated": 1785028958496,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "One Time Closeout - Cashmere Wool Gloves (24 x 9cm) - Navy",
+      "auctionCode": "0019794618",
       "source": "gha"
     }
   }
