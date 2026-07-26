@@ -10742,8 +10742,12 @@
       "img": true,
       "date": "2026-07-26",
       "time": "01:41:22",
-      "lastUpdated": 1785026482008,
-      "source": "gha"
+      "lastUpdated": 1785026554200,
+      "source": "gha",
+      "missedAt": 1785026554200,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8503697": {
       "sku": "8503697",
@@ -10759,6 +10763,22 @@
       "missedImg": true,
       "title": "EverTrue - Skyblue Topaz Pear Cut Solitaire Ring in Yellow Gold Tone 2.73 Ct.",
       "auctionCode": "0019794963",
+      "source": "gha"
+    },
+    "8553661": {
+      "sku": "8553661",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-26",
+      "time": "01:42:34",
+      "preExisting": true,
+      "missedAt": 1785026554200,
+      "missedDelay": null,
+      "lastUpdated": 1785026554200,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 20) with Lobster Clasp",
+      "auctionCode": "0019794975",
       "source": "gha"
     }
   }
