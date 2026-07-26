@@ -11212,8 +11212,12 @@
       "img": true,
       "date": "2026-07-26",
       "time": "03:01:55",
-      "lastUpdated": 1785031315223,
-      "source": "gha"
+      "lastUpdated": 1785031398998,
+      "source": "gha",
+      "missedAt": 1785031398998,
+      "missedDelay": 1,
+      "missedPrice": 5.99,
+      "missedImg": false
     },
     "8520687": {
       "sku": "8520687",
@@ -11245,6 +11249,39 @@
       "missedImg": true,
       "title": "Emma Ladies Raphael Elegant Open-Toe Casual Beach Mules (Size 6) - Khaki",
       "auctionCode": "0019794605",
+      "source": "gha"
+    },
+    "8417131": {
+      "sku": "8417131",
+      "firstAir": 1785031398998,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785031398998,
+      "title": "La Marey Abstract Print Summer Maxi Skirt (One Size) - Red",
+      "pdpPrice": 174.99,
+      "auctionCode": "0019794631",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-26",
+      "time": "03:03:18",
+      "lastUpdated": 1785031398998,
+      "source": "gha"
+    },
+    "7689187": {
+      "sku": "7689187",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-26",
+      "time": "03:03:18",
+      "preExisting": true,
+      "missedAt": 1785031398998,
+      "missedDelay": null,
+      "lastUpdated": 1785031398998,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Duffle Bag- 3 slip pockets and 1 zip pocket - Water Repellent Multipurpose - Black",
+      "auctionCode": "0019794623",
       "source": "gha"
     }
   }
