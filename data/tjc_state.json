@@ -11339,8 +11339,12 @@
       "img": false,
       "date": "2026-07-26",
       "time": "03:25:52",
-      "lastUpdated": 1785032752447,
-      "source": "gha"
+      "lastUpdated": 1785032837814,
+      "source": "gha",
+      "missedAt": 1785032837814,
+      "missedDelay": 1,
+      "missedPrice": 14.99,
+      "missedImg": false
     },
     "8530054": {
       "sku": "8530054",
@@ -11372,6 +11376,22 @@
       "missedImg": true,
       "title": "QED London Pullover Sweatshirt Hoodie With Shirt (Size M, 12 to 14) - Grey",
       "auctionCode": "0019794637",
+      "source": "gha"
+    },
+    "8234404": {
+      "sku": "8234404",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-26",
+      "time": "03:27:17",
+      "preExisting": true,
+      "missedAt": 1785032837814,
+      "missedDelay": null,
+      "lastUpdated": 1785032837814,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Tamsy Super Soft Fleece Checkered Oversize Hoodie (One Size) - Black & White",
+      "auctionCode": "0019794634",
       "source": "gha"
     }
   }
