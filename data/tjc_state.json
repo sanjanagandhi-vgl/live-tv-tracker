@@ -11043,8 +11043,12 @@
       "img": true,
       "date": "2026-07-26",
       "time": "02:25:30",
-      "lastUpdated": 1785029130366,
-      "source": "gha"
+      "lastUpdated": 1785029239414,
+      "source": "gha",
+      "missedAt": 1785029239414,
+      "missedDelay": 2,
+      "missedPrice": 5.19,
+      "missedImg": false
     },
     "7852911": {
       "sku": "7852911",
@@ -11060,6 +11064,22 @@
       "missedImg": true,
       "title": "One Time Closeout - Cashmere Wool Gloves (24 x 9cm) - Navy",
       "auctionCode": "0019794618",
+      "source": "gha"
+    },
+    "7850548": {
+      "sku": "7850548",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-26",
+      "time": "02:27:19",
+      "preExisting": true,
+      "missedAt": 1785029239414,
+      "missedDelay": null,
+      "lastUpdated": 1785029239414,
+      "missedPrice": 5.19,
+      "missedImg": true,
+      "title": "Super Soft Plush Hat and Scarf Set - Cream",
+      "auctionCode": "0019794610",
       "source": "gha"
     }
   }
