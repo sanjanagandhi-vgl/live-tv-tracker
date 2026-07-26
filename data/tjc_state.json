@@ -11763,8 +11763,12 @@
       "img": true,
       "date": "2026-07-26",
       "time": "04:50:34",
-      "lastUpdated": 1785037834507,
-      "source": "gha"
+      "lastUpdated": 1785037876500,
+      "source": "gha",
+      "missedAt": 1785037876500,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8503853": {
       "sku": "8503853",
@@ -11780,6 +11784,22 @@
       "missedImg": true,
       "title": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
       "auctionCode": "0019795684",
+      "source": "gha"
+    },
+    "8236025": {
+      "sku": "8236025",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-26",
+      "time": "04:51:16",
+      "preExisting": true,
+      "missedAt": 1785037876500,
+      "missedDelay": null,
+      "lastUpdated": 1785037876500,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Designer Inspired - Natural Chrome Diopside Panther Ring in Yellow Gold Plated",
+      "auctionCode": "0019794741",
       "source": "gha"
     }
   }
