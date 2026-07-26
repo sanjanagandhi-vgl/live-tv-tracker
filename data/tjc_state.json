@@ -12818,17 +12818,22 @@
       "sku": "8663130",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-26",
-      "time": "10:32:03",
+      "date": "2026-07-27",
+      "time": "00:31:42",
       "preExisting": true,
       "missedAt": 1785058323717,
       "missedDelay": null,
-      "lastUpdated": 1785058323717,
+      "lastUpdated": 1785108702925,
       "missedPrice": 29.99,
       "missedImg": false,
       "title": "LA Closeout Deals Multi Colour Golden, Peacock, Silver & White Fresh Water Pearl Necklace (Size - 16) With Sterling Silver Lobster Clasp",
-      "auctionCode": "0019793192",
-      "source": "gha"
+      "auctionCode": "0019796563",
+      "source": "gha",
+      "lastAir": 1785108702925,
+      "pdpPrice": 29.99,
+      "buy": false,
+      "login": true,
+      "img": true
     },
     "8610448": {
       "sku": "8610448",
@@ -14313,8 +14318,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "00:29:19",
-      "lastUpdated": 1785108559457,
-      "source": "gha"
+      "lastUpdated": 1785108702925,
+      "source": "gha",
+      "missedAt": 1785108702925,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": false
     }
   }
 }
