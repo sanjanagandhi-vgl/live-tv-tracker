@@ -11138,8 +11138,12 @@
       "img": true,
       "date": "2026-07-26",
       "time": "02:47:22",
-      "lastUpdated": 1785030442273,
-      "source": "gha"
+      "lastUpdated": 1785030557582,
+      "source": "gha",
+      "missedAt": 1785030557582,
+      "missedDelay": 2,
+      "missedPrice": 12.99,
+      "missedImg": false
     },
     "8519659": {
       "sku": "8519659",
@@ -11171,6 +11175,23 @@
       "missedImg": true,
       "title": "Designer Inspired - Dual-Handle Convertible Crossbody & Shoulder Handbag - White",
       "auctionCode": "0019794627",
+      "source": "gha"
+    },
+    "8520683": {
+      "sku": "8520683",
+      "firstAir": 1785030557582,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785030557582,
+      "title": "Emma Ladies Raphael Elegant Open-Toe Casual Beach Mules (Size 4) - Khaki",
+      "pdpPrice": 159.99,
+      "auctionCode": "0019794603",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-26",
+      "time": "02:49:17",
+      "lastUpdated": 1785030557582,
       "source": "gha"
     }
   }
