@@ -17641,8 +17641,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "17:09:18",
-      "lastUpdated": 1785168558745,
-      "source": "gha"
+      "lastUpdated": 1785168641898,
+      "source": "gha",
+      "missedAt": 1785168641898,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": false
     },
     "8547865": {
       "sku": "8547865",
@@ -17658,6 +17662,38 @@
       "missedImg": true,
       "title": "Pure And Natural Cotton Trousers With 21Inch Inseam (Size 18) - White",
       "auctionCode": "0019798257",
+      "source": "gha"
+    },
+    "8481524": {
+      "sku": "8481524",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "17:10:41",
+      "preExisting": true,
+      "missedAt": 1785168641898,
+      "missedDelay": null,
+      "lastUpdated": 1785168641898,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Sequins Embroidery Poncho Top (One Size) - Brown",
+      "auctionCode": "0019796910",
+      "source": "gha"
+    },
+    "8481518": {
+      "sku": "8481518",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "17:10:41",
+      "preExisting": true,
+      "missedAt": 1785168641898,
+      "missedDelay": null,
+      "lastUpdated": 1785168641898,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Sequins Embroidery Poncho Top (One Size) - Purple",
+      "auctionCode": "0019796909",
       "source": "gha"
     }
   }
