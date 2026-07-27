@@ -18048,8 +18048,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "19:42:24",
-      "lastUpdated": 1785177744375,
-      "source": "gha"
+      "lastUpdated": 1785177863252,
+      "source": "gha",
+      "missedAt": 1785177863252,
+      "missedDelay": 2,
+      "missedPrice": 29.99,
+      "missedImg": false
     },
     "8515161": {
       "sku": "8515161",
@@ -18081,6 +18085,22 @@
       "missedImg": true,
       "title": "Royal Bali Collection - Moissanite & Red Coral Sterling Silver Solitaire Band Ring 15.64 Ct.",
       "auctionCode": "0019796766",
+      "source": "gha"
+    },
+    "8552956": {
+      "sku": "8552956",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "19:44:23",
+      "preExisting": true,
+      "missedAt": 1785177863252,
+      "missedDelay": null,
+      "lastUpdated": 1785177863252,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Rhodium Overlay Sterling Silver Franco Chain (Size - 24) with Lobster Clasp",
+      "auctionCode": "0019798317",
       "source": "gha"
     }
   }
