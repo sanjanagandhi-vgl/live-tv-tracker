@@ -17269,8 +17269,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "16:27:19",
-      "lastUpdated": 1785166039574,
-      "source": "gha"
+      "lastUpdated": 1785166157710,
+      "source": "gha",
+      "missedAt": 1785166157710,
+      "missedDelay": 2,
+      "missedPrice": 29.99,
+      "missedImg": false
     },
     "8437313": {
       "sku": "8437313",
@@ -17286,6 +17290,55 @@
       "missedImg": true,
       "title": "La Marey Printed Dress",
       "auctionCode": "0019796905",
+      "source": "gha"
+    },
+    "8426586": {
+      "sku": "8426586",
+      "firstAir": 1785166157710,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785166157710,
+      "title": "DOD- La Marey Artisan Cotton Block-Printed Tiered Skirt (Size S, 8-10) - Blue & White",
+      "pdpPrice": 349.99,
+      "auctionCode": "0019796946",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-27",
+      "time": "16:29:17",
+      "lastUpdated": 1785166157710,
+      "source": "gha"
+    },
+    "8437355": {
+      "sku": "8437355",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "16:29:17",
+      "preExisting": true,
+      "missedAt": 1785166157710,
+      "missedDelay": null,
+      "lastUpdated": 1785166157710,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "La Marey Printed Dress",
+      "auctionCode": "0019796906",
+      "source": "gha"
+    },
+    "8503684": {
+      "sku": "8503684",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "16:29:17",
+      "preExisting": true,
+      "missedAt": 1785166157710,
+      "missedDelay": null,
+      "lastUpdated": 1785166157710,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "LIVMORE Bamboo Patterned Towel (Size 33x1 cm) - Pink & Pink",
+      "auctionCode": "0019796886",
       "source": "gha"
     }
   }
