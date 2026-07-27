@@ -17200,8 +17200,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "16:14:23",
-      "lastUpdated": 1785165263189,
-      "source": "gha"
+      "lastUpdated": 1785165343577,
+      "source": "gha",
+      "missedAt": 1785165343577,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8545210": {
       "sku": "8545210",
@@ -17249,6 +17253,39 @@
       "missedImg": true,
       "title": "Patterned Travel Bag (Size 52x31x37 cm) - Blue",
       "auctionCode": "0019796192",
+      "source": "gha"
+    },
+    "8437354": {
+      "sku": "8437354",
+      "firstAir": 1785165343577,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785165343577,
+      "title": "La Marey Elastic Waist Printed Maxi Dress (Size - S/M, 8-14) - Blue",
+      "pdpPrice": 19.99,
+      "auctionCode": "0019796903",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-27",
+      "time": "16:15:43",
+      "lastUpdated": 1785165343577,
+      "source": "gha"
+    },
+    "8437313": {
+      "sku": "8437313",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "16:15:43",
+      "preExisting": true,
+      "missedAt": 1785165343577,
+      "missedDelay": null,
+      "lastUpdated": 1785165343577,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Printed Dress",
+      "auctionCode": "0019796905",
       "source": "gha"
     }
   }
