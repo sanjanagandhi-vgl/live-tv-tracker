@@ -17306,8 +17306,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "16:34:22",
-      "lastUpdated": 1785166462151,
-      "source": "gha"
+      "lastUpdated": 1785166582771,
+      "source": "gha",
+      "missedAt": 1785166582771,
+      "missedDelay": 2,
+      "missedPrice": 14.99,
+      "missedImg": false
     },
     "8437355": {
       "sku": "8437355",
@@ -17339,6 +17343,39 @@
       "missedImg": true,
       "title": "LIVMORE Bamboo Patterned Towel (Size 33x1 cm) - Pink & Pink",
       "auctionCode": "0019796886",
+      "source": "gha"
+    },
+    "8426488": {
+      "sku": "8426488",
+      "firstAir": 1785166582771,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785166582771,
+      "title": "La Marey Artisan Cotton Block-Printed Tiered Skirt (Size S, 8-10) - Pink & White",
+      "pdpPrice": 14.99,
+      "auctionCode": "0019796941",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-27",
+      "time": "16:36:22",
+      "lastUpdated": 1785166582771,
+      "source": "gha"
+    },
+    "8426587": {
+      "sku": "8426587",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "16:36:22",
+      "preExisting": true,
+      "missedAt": 1785166582771,
+      "missedDelay": null,
+      "lastUpdated": 1785166582771,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Artisan Cotton Block-Printed Tiered Skirt (Size M, 12-14) - Blue & White",
+      "auctionCode": "0019796947",
       "source": "gha"
     }
   }
