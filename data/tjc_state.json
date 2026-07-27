@@ -16551,8 +16551,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "12:39:18",
-      "lastUpdated": 1785152358634,
-      "source": "gha"
+      "lastUpdated": 1785152477019,
+      "source": "gha",
+      "missedAt": 1785152477019,
+      "missedDelay": 2,
+      "missedPrice": 14.99,
+      "missedImg": false
     },
     "8504298": {
       "sku": "8504298",
@@ -16632,6 +16636,22 @@
       "missedImg": true,
       "title": "100% Mulberry Silk Signature Printed Silk Scarf (Size 50 x 175 m) - Red",
       "auctionCode": "0019796595",
+      "source": "gha"
+    },
+    "8432055": {
+      "sku": "8432055",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "12:41:17",
+      "preExisting": true,
+      "missedAt": 1785152477019,
+      "missedDelay": null,
+      "lastUpdated": 1785152477019,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Cotton Blend Striped Shirt (Size 12 to 14) - Green & Off-White",
+      "auctionCode": "0019797387",
       "source": "gha"
     }
   }
