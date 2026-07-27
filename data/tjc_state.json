@@ -711,15 +711,22 @@
       "sku": "8238629",
       "tvPrice": "",
       "remarks": "",
-      "time": "13:16:00",
+      "time": "16:40:38",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 12.99,
       "missedImg": false,
       "title": "Emreco Vest Tops (Size 10) - Navy",
-      "auctionCode": "0019790174",
-      "source": "gha"
+      "auctionCode": "0019797832",
+      "source": "gha",
+      "lastAir": 1785166838934,
+      "pdpPrice": 12.99,
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-27",
+      "lastUpdated": 1785166838934
     },
     "8238633": {
       "sku": "8238633",
@@ -17359,8 +17366,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "16:39:18",
-      "lastUpdated": 1785166758757,
-      "source": "gha"
+      "lastUpdated": 1785166838934,
+      "source": "gha",
+      "missedAt": 1785166838934,
+      "missedDelay": 1,
+      "missedPrice": 14.99,
+      "missedImg": false
     },
     "8426587": {
       "sku": "8426587",
@@ -17376,6 +17387,22 @@
       "missedImg": true,
       "title": "La Marey Artisan Cotton Block-Printed Tiered Skirt (Size M, 12-14) - Blue & White",
       "auctionCode": "0019796947",
+      "source": "gha"
+    },
+    "8426579": {
+      "sku": "8426579",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "16:40:38",
+      "preExisting": true,
+      "missedAt": 1785166838934,
+      "missedDelay": null,
+      "lastUpdated": 1785166838934,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "DOD- La Marey Artisan Cotton Block-Printed Tiered Skirt (Size M, 12-14) - Pink & White",
+      "auctionCode": "0019796942",
       "source": "gha"
     }
   }
