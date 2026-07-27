@@ -14866,8 +14866,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "03:10:38",
-      "lastUpdated": 1785118238980,
-      "source": "gha"
+      "lastUpdated": 1785118279812,
+      "source": "gha",
+      "missedAt": 1785118279812,
+      "missedDelay": 1,
+      "missedPrice": 7.99,
+      "missedImg": false
     },
     "8252125": {
       "sku": "8252125",
@@ -14883,6 +14887,55 @@
       "missedImg": true,
       "title": "Duffle Bag- 3 slip pockets and 1 zip pocket - Water Repellent Multipurpose - Purple",
       "auctionCode": "0019797220",
+      "source": "gha"
+    },
+    "8636856": {
+      "sku": "8636856",
+      "firstAir": 1785118279812,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785118279812,
+      "title": "Antigua Apparel Mens Polo T-shirt (Size M, 12 to 14) - White",
+      "pdpPrice": 79.99,
+      "auctionCode": "0019795731",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-27",
+      "time": "03:11:19",
+      "lastUpdated": 1785118279812,
+      "source": "gha"
+    },
+    "8670611": {
+      "sku": "8670611",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "03:11:19",
+      "preExisting": true,
+      "missedAt": 1785118279812,
+      "missedDelay": null,
+      "lastUpdated": 1785118279812,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "La Marey Printed Scarf",
+      "auctionCode": "0019796033",
+      "source": "gha"
+    },
+    "8670610": {
+      "sku": "8670610",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "03:11:19",
+      "preExisting": true,
+      "missedAt": 1785118279812,
+      "missedDelay": null,
+      "lastUpdated": 1785118279812,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "La Marey Printed Scarf",
+      "auctionCode": "0019796032",
       "source": "gha"
     }
   }
