@@ -14956,8 +14956,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "03:21:17",
-      "lastUpdated": 1785118877062,
-      "source": "gha"
+      "lastUpdated": 1785118941742,
+      "source": "gha",
+      "missedAt": 1785118941742,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": false
     },
     "8636866": {
       "sku": "8636866",
@@ -14973,6 +14977,38 @@
       "missedImg": true,
       "title": "Antigua Apparel Mens Polo T-shirt (Size L, 16 to 18) - Black",
       "auctionCode": "0019795736",
+      "source": "gha"
+    },
+    "8520774": {
+      "sku": "8520774",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "03:22:21",
+      "preExisting": true,
+      "missedAt": 1785118941742,
+      "missedDelay": null,
+      "lastUpdated": 1785118941742,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "JJ Willis Short Sleeve Shirt (Size - XL) - White",
+      "auctionCode": "0019795840",
+      "source": "gha"
+    },
+    "8520768": {
+      "sku": "8520768",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "03:22:21",
+      "preExisting": true,
+      "missedAt": 1785118941742,
+      "missedDelay": null,
+      "lastUpdated": 1785118941742,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "JJ Willis Short Sleeve Shirt (Size - L) - Sage",
+      "auctionCode": "0019795833",
       "source": "gha"
     }
   }
