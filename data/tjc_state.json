@@ -17995,8 +17995,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "19:36:24",
-      "lastUpdated": 1785177384310,
-      "source": "gha"
+      "lastUpdated": 1785177509854,
+      "source": "gha",
+      "missedAt": 1785177509854,
+      "missedDelay": 2,
+      "missedPrice": 79.99,
+      "missedImg": false
     },
     "8515079": {
       "sku": "8515079",
@@ -18028,6 +18032,39 @@
       "missedImg": true,
       "title": "Royal Bali Collection - Moissanite & Red Coral Sterling Silver Solitaire Band Ring 15.64 Ct.",
       "auctionCode": "0019796764",
+      "source": "gha"
+    },
+    "8515102": {
+      "sku": "8515102",
+      "firstAir": 1785177509854,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785177509854,
+      "title": "Royal Bali Collection - Moissanite & Red Coral Sterling Silver Solitaire Circle Pendant 22.60 Ct.",
+      "pdpPrice": 357.99,
+      "auctionCode": "0019798316",
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-07-27",
+      "time": "19:38:29",
+      "lastUpdated": 1785177509854,
+      "source": "gha"
+    },
+    "8515161": {
+      "sku": "8515161",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "19:38:29",
+      "preExisting": true,
+      "missedAt": 1785177509854,
+      "missedDelay": null,
+      "lastUpdated": 1785177509854,
+      "missedPrice": 79.99,
+      "missedImg": true,
+      "title": "Royal Bali Collection - Moissanite & Red Coral Sterling Silver Solitaire Band Ring 15.64 Ct.",
+      "auctionCode": "0019796767",
       "source": "gha"
     }
   }
