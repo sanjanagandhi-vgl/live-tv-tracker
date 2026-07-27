@@ -17916,15 +17916,19 @@
       "img": true,
       "date": "2026-07-27",
       "time": "18:54:20",
-      "lastUpdated": 1785174860830,
-      "source": "gha"
+      "lastUpdated": 1785174982258,
+      "source": "gha",
+      "missedAt": 1785174982258,
+      "missedDelay": 2,
+      "missedPrice": 149.99,
+      "missedImg": false
     },
     "8514546": {
       "sku": "8514546",
       "firstAir": 1785174929794,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785174929794,
+      "lastAir": 1785174982258,
       "title": "Royal Bali Collection - Sterling Silver Flamingo Pendant",
       "pdpPrice": 949.99,
       "auctionCode": "0019798320",
@@ -17932,8 +17936,24 @@
       "login": false,
       "img": true,
       "date": "2026-07-27",
-      "time": "18:55:29",
-      "lastUpdated": 1785174929794,
+      "time": "18:56:22",
+      "lastUpdated": 1785174982258,
+      "source": "gha"
+    },
+    "8512166": {
+      "sku": "8512166",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "18:56:22",
+      "preExisting": true,
+      "missedAt": 1785174982258,
+      "missedDelay": null,
+      "lastUpdated": 1785174982258,
+      "missedPrice": 149.99,
+      "missedImg": true,
+      "title": "Royal Bali Collection - D'Joy Tulang Naga Sterling Silver Necklace (Size - 24) with Lobster Clasp",
+      "auctionCode": "0019798261",
       "source": "gha"
     }
   }
