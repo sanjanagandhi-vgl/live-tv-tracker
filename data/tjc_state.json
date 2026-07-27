@@ -14622,8 +14622,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "02:11:16",
-      "lastUpdated": 1785114676067,
-      "source": "gha"
+      "lastUpdated": 1785114741906,
+      "source": "gha",
+      "missedAt": 1785114741906,
+      "missedDelay": 1,
+      "missedPrice": 17.99,
+      "missedImg": false
     },
     "8420426": {
       "sku": "8420426",
@@ -14639,6 +14643,22 @@
       "missedImg": true,
       "title": "Floral Embroidered Crossbody Bag - Teal",
       "auctionCode": "0019795708",
+      "source": "gha"
+    },
+    "8224328": {
+      "sku": "8224328",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "02:12:21",
+      "preExisting": true,
+      "missedAt": 1785114741906,
+      "missedDelay": null,
+      "lastUpdated": 1785114741906,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "Leatherette Hobo Bag with Adjustable Shoulder Strap - Tan",
+      "auctionCode": "0019795713",
       "source": "gha"
     }
   }
