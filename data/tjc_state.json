@@ -16407,8 +16407,12 @@
       "img": true,
       "date": "2026-07-27",
       "time": "12:04:22",
-      "lastUpdated": 1785150262468,
-      "source": "gha"
+      "lastUpdated": 1785150326005,
+      "source": "gha",
+      "missedAt": 1785150326005,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8670123": {
       "sku": "8670123",
@@ -16440,6 +16444,22 @@
       "missedImg": true,
       "title": "TJC Special Ladies Sandal (Size - 38) - Nude",
       "auctionCode": "0019796583",
+      "source": "gha"
+    },
+    "8621070": {
+      "sku": "8621070",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-27",
+      "time": "12:05:26",
+      "preExisting": true,
+      "missedAt": 1785150326005,
+      "missedDelay": null,
+      "lastUpdated": 1785150326005,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Dunlop Womens Abigail Toe Post Wedge Sandals With Elasticated Ankle Strap (Size 4) - Black",
+      "auctionCode": "0019797490",
       "source": "gha"
     }
   }
