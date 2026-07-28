@@ -16,8 +16,8 @@ from zoneinfo import ZoneInfo
 
 UK_TZ = ZoneInfo("Europe/London")
 
-WATCH_URL = "https://www.tjc.co.uk/watch-tjc"
-MISSED_URL = "https://www.tjc.co.uk/apps/live-tv/last-24-hours"
+WATCH_URL = "https://www.tjc.co.uk/pages/livetv"
+MISSED_URL = "https://www.tjc.co.uk/pages/missed-auctions"
 STATE_PATH = "data/tjc_state.json"
 LOG_PATH = "data/tjc_events.log"
 CSV_PATH = "data/tjc_report.csv"
