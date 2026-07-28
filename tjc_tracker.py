@@ -17,7 +17,7 @@ from zoneinfo import ZoneInfo
 UK_TZ = ZoneInfo("Europe/London")
 
 WATCH_URL = "https://www.tjc.co.uk/watch-tjc"
-MISSED_URL = "https://www.tjc.co.uk/on/demandware.store/Sites-TJC-GB-Site/en/LiveTV-GetLast24Items?channel=tjc"
+MISSED_URL = "https://www.tjc.co.uk/apps/live-tv/last-24-hours"
 STATE_PATH = "data/tjc_state.json"
 LOG_PATH = "data/tjc_events.log"
 CSV_PATH = "data/tjc_report.csv"
@@ -42,80 +42,100 @@ def is_valid_image(url):
     if not url:
         return False
     u = url.lower()
-    return "sirv.com" in u and "noimage" not in u
+    from_shopify = "cdn.shopify.com" in u or "cdn/shop/files" in u or "tjcuk.sirv.com" in u
+    return from_shopify and "no-image" not in u
 
 
 def extract_on_air(raw_html):
-    idx = raw_html.find("newLiveTVcurrProd")
+    idx = raw_html.find('currently-on-air-card"')
     if idx < 0:
         return None
-    start = raw_html.rfind('<div class="tile-inner', 0, idx)
+    start = raw_html.rfind('<article', 0, idx)
     if start < 0:
         return None
-    win = raw_html[start:start + 6000]
+    win = raw_html[start:start + 16000]
 
-    def m1(pat):
-        mm = re.search(pat, win)
-        return mm.group(1) if mm else None
-
-    auction_code = m1(r'data-auctioncode="(\d+)"')
-    price = m1(r'data-price="([\d.]+)"')
-    sku = m1(r'class="product-id" data-value="(\d+)"')
+    sku_m = re.search(r'class="currently-on-air-card__sku">\s*([\s\S]*?)\s*</p>', win)
+    sku = sku_m.group(1).strip() if sku_m else None
     if not sku:
         return None
-    title_m = re.search(r'class="text-bottom"[^>]*>\s*([\s\S]*?)\s*</div>', win)
+    product_id_m = re.search(r'data-product-id="(\d+)"', win)
+    product_id = product_id_m.group(1) if product_id_m else None
+    auction_m = re.search(r'name="properties\[_auctionCode\]" value="([^"]*)"', win)
+    auction_code = auction_m.group(1) if auction_m else None
+    title_m = re.search(r'class="currently-on-air-card__title">[\s\S]*?<a[^>]*>\s*([\s\S]*?)\s*</a>', win)
     title = html.unescape(re.sub(r"\s+", " ", title_m.group(1)).strip()) if title_m else None
-    img = m1(r'class="Sirv image-main"[^>]*\ssrc="([^"]+)"')
-    login = bool(re.search(r'home-page-login-bid-now|href="/live-tv/login"', win))
-    buy = (not login) and bool(re.search(r'id="ltvpagebidnow"[^>]*class="[^"]*enablebutton', win))
+    price_m = re.search(r'class="currently-on-air-card__price">\s*(?:£|&#163;|&pound;)?\s*([\d,.]+)', win)
+    price = float(price_m.group(1).replace(",", "")) if price_m else None
+    img_m = (re.search(r'class="currently-on-air-card__img"[^>]*\ssrc="([^"]+)"', win)
+             or re.search(r'currently-on-air-card__media-link"[^>]*>\s*<img[^>]*\ssrc="([^"]+)"', win))
+    img = img_m.group(1) if img_m else None
+
+    available = None
+    inv_m = re.search(r'data-shopify-inventory="([^"]*)"', win)
+    if inv_m:
+        try:
+            decoded = html.unescape(inv_m.group(1))
+            inv = json.loads(decoded)
+            if sku in inv:
+                available = bool(inv[sku].get("availableForSale"))
+        except Exception:
+            pass
+    oos = available is False
+    has_btn = "currently-on-air-card__cta--add" in win
+    buy = has_btn and not oos
+
     return {
-        "sku": sku, "auctionCode": auction_code,
-        "price": float(price) if price else None,
-        "title": title, "img": img, "login": login, "buy": buy,
+        "sku": sku, "productId": product_id, "auctionCode": auction_code,
+        "price": price, "title": title, "img": img, "login": False, "buy": buy, "oos": oos,
     }
 
 
-def extract_missed_grid(raw_html):
+def extract_missed_grid(raw_text):
     by_auction, by_sku = {}, {}
-    for m in re.finditer(r'data-pdpproductid="(\d+)"', raw_html):
-        top_sku = m.group(1)
-        win = raw_html[m.start():m.start() + 5000]
-        top_auction_m = re.search(r'data-auctioncode="(\d+)"', win)
-        top_auction = top_auction_m.group(1) if top_auction_m else None
-        title_m = re.search(r'class="product-name mb-0">\s*([\s\S]*?)\s*</div>', win)
+
+    # Try JSON first — Shopify app proxies commonly return JSON
+    try:
+        data = json.loads(raw_text)
+        arr = data.get("products") or data.get("items") or data.get("results") or (data if isinstance(data, list) else [])
+        for p in arr:
+            sku = str(p.get("sku") or p.get("variant_sku") or p.get("id") or "")
+            if not sku:
+                continue
+            auction_code = p.get("auction_code") or p.get("auctionCode") or (p.get("properties") or {}).get("_auctionCode")
+            price = p.get("price")
+            if price is not None:
+                price = float(price)
+            elif p.get("price_formatted"):
+                price = float(re.sub(r"[^\d.]", "", str(p["price_formatted"])))
+            title = p.get("title") or p.get("product_title") or ""
+            img = p.get("image") or p.get("featured_image")
+            rec = {"title": title, "price": price, "auctionCode": auction_code, "img": img}
+            if sku not in by_sku:
+                by_sku[sku] = rec
+            if auction_code and auction_code not in by_auction:
+                by_auction[auction_code] = {"sku": sku, **rec}
+        return by_auction, by_sku, "json"
+    except Exception:
+        pass  # not JSON — fall through to generic HTML scan
+
+    # Generic HTML fallback — tighten once we see a real sample via DEBUG log
+    for m in re.finditer(r'data-product-id="(\d+)"', raw_text):
+        sku = m.group(1)
+        win = raw_text[m.start():m.start() + 3000]
+        title_m = re.search(r'class="[^"]*title[^"]*"[^>]*>\s*([\s\S]*?)\s*</[a-z]+>', win, re.I)
         title = html.unescape(re.sub(r"\s+", " ", title_m.group(1)).strip()) if title_m else ""
-        price_m = re.search(r'class="price-sales"[^>]*>\s*(?:£|&#163;|&pound;)?\s*([\d,.]+)', win)
+        price_m = re.search(r'£\s?([\d,.]+)', win)
         price = float(price_m.group(1).replace(",", "")) if price_m else None
-        top_img_m = (re.search(r'class="clickable-image pdp-main-img"[^>]*\ssrc="([^"]+)"', win)
-                     or re.search(r'class="Sirv image-main"[^>]*\ssrc="([^"]+)"', win))
-        top_img = top_img_m.group(1) if top_img_m else None
-
-        if top_sku and top_sku not in by_sku:
-            by_sku[top_sku] = {"title": title, "price": price, "auctionCode": top_auction, "img": top_img}
-        if top_auction and top_auction not in by_auction:
-            by_auction[top_auction] = {"sku": top_sku, "title": title, "price": price, "img": top_img}
-
-        sel_end = win.find("</select>")
-        sel_win = win[:sel_end] if sel_end >= 0 else win
-        for opt in re.finditer(r'<option\b[^>]*>', sel_win):
-            tag = opt.group(0)
-            a_m = re.search(r'data-auctioncode="(\d+)"', tag)
-            if not a_m:
-                continue
-            opt_auction = a_m.group(1)
-            v_m = re.search(r'\svalue="([^"]+)"', tag)
-            opt_sku = v_m.group(1) if v_m else None
-            if not opt_sku or "," in opt_sku:
-                continue
-            n_m = re.search(r'data-name="([^"]*)"', tag)
-            opt_title = html.unescape(n_m.group(1)) if n_m else title
-            i_m = re.search(r'data-image="([^"]*)"', tag)
-            opt_img = i_m.group(1) if i_m else top_img
-            if opt_auction not in by_auction:
-                by_auction[opt_auction] = {"sku": opt_sku, "title": opt_title, "price": price, "img": opt_img}
-            if opt_sku not in by_sku:
-                by_sku[opt_sku] = {"title": opt_title, "price": price, "auctionCode": opt_auction, "img": opt_img}
-    return by_auction, by_sku
+        img_m = re.search(r'\ssrc="([^"]+)"', win)
+        img = img_m.group(1) if img_m else None
+        auction_m = re.search(r'name="properties\[_auctionCode\]" value="([^"]*)"', win)
+        auction_code = auction_m.group(1) if auction_m else None
+        if sku not in by_sku:
+            by_sku[sku] = {"title": title, "price": price, "auctionCode": auction_code, "img": img}
+        if auction_code and auction_code not in by_auction:
+            by_auction[auction_code] = {"sku": sku, "title": title, "price": price, "img": img}
+    return by_auction, by_sku, "html-fallback"
 
 
 def load_state():
@@ -190,16 +210,11 @@ def main():
         else:
             print("no on-air SKU parsed — page layout may differ from a bare fetch")
 
-    by_auction, by_sku = extract_missed_grid(m_body) if m_status == 200 else ({}, {})
-    print(f"missed grid tiles parsed: {len(by_sku)}")
+    by_auction, by_sku, parsed_as = extract_missed_grid(m_body) if m_status == 200 else ({}, {}, "n/a")
+    print(f"missed grid tiles parsed: {len(by_sku)} (as {parsed_as})")
 
-    if m_status == 200:
-        tile_count = m_body.count('data-pdpproductid="')
-        price_class_count = m_body.count('price-sales')
-        sample_idx = m_body.find('data-pdpproductid="')
-        sample = m_body[sample_idx:sample_idx + 1500] if sample_idx >= 0 else "(no tile found)"
-        print(f"DEBUG: raw tile count={tile_count}, 'price-sales' occurrences={price_class_count}")
-        print(f"DEBUG: first tile raw HTML sample:\n{sample}\n---END SAMPLE---")
+    if m_status == 200 and len(by_sku) == 0:
+        print(f"DEBUG: missed API raw response sample (first 1500 chars):\n{m_body[:1500]}\n---END SAMPLE---")
 
     for sku, a in list(air.items()):
         if a.get("missedAt"):
