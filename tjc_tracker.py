@@ -17,7 +17,7 @@ from zoneinfo import ZoneInfo
 UK_TZ = ZoneInfo("Europe/London")
 
 WATCH_URL = "https://www.tjc.co.uk/pages/livetv"
-MISSED_URL = "https://www.tjc.co.uk/pages/missed-auctions"
+MISSED_URL = "https://www.tjc.co.uk/apps/live-tv/last-24-hours"
 STATE_PATH = "data/tjc_state.json"
 LOG_PATH = "data/tjc_events.log"
 CSV_PATH = "data/tjc_report.csv"
@@ -94,7 +94,6 @@ def extract_on_air(raw_html):
 def extract_missed_grid(raw_text):
     by_auction, by_sku = {}, {}
 
-    # Try JSON first — Shopify app proxies commonly return JSON
     try:
         data = json.loads(raw_text)
         arr = data.get("products") or data.get("items") or data.get("results") or (data if isinstance(data, list) else [])
@@ -117,9 +116,8 @@ def extract_missed_grid(raw_text):
                 by_auction[auction_code] = {"sku": sku, **rec}
         return by_auction, by_sku, "json"
     except Exception:
-        pass  # not JSON — fall through to generic HTML scan
+        pass
 
-    # Generic HTML fallback — tighten once we see a real sample via DEBUG log
     for m in re.finditer(r'data-product-id="(\d+)"', raw_text):
         sku = m.group(1)
         win = raw_text[m.start():m.start() + 3000]
@@ -214,7 +212,23 @@ def main():
     print(f"missed grid tiles parsed: {len(by_sku)} (as {parsed_as})")
 
     if m_status == 200 and len(by_sku) == 0:
-        print(f"DEBUG: missed API raw response sample (first 1500 chars):\n{m_body[:1500]}\n---END SAMPLE---")
+        marker = m_body.find('_auctionCode')
+        if marker >= 0:
+            count = m_body.count('_auctionCode')
+            print(f"DEBUG: found '_auctionCode' {count} time(s) in missed response — sample around first occurrence:")
+            print(m_body[max(0, marker - 400):marker + 1500])
+            print("---END SAMPLE---")
+        else:
+            pid_marker = m_body.find('data-product-id')
+            if pid_marker >= 0:
+                print(f"DEBUG: no '_auctionCode' found, but 'data-product-id' occurs {m_body.count('data-product-id')} time(s) — sample:")
+                print(m_body[max(0, pid_marker - 200):pid_marker + 1500])
+                print("---END SAMPLE---")
+            else:
+                print("DEBUG: neither '_auctionCode' nor 'data-product-id' found anywhere in the response.")
+                print(f"DEBUG: response length={len(m_body)}. First 800 chars:\n{m_body[:800]}")
+                print(f"DEBUG: last 800 chars:\n{m_body[-800:]}")
+                print("---END SAMPLE---")
 
     for sku, a in list(air.items()):
         if a.get("missedAt"):
