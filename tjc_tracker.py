@@ -96,44 +96,32 @@ def extract_missed_grid(raw_text):
 
     try:
         data = json.loads(raw_text)
-        arr = data.get("products") or data.get("items") or data.get("results") or (data if isinstance(data, list) else [])
-        for p in arr:
-            sku = str(p.get("sku") or p.get("variant_sku") or p.get("id") or "")
+    except Exception:
+        return by_auction, by_sku, "parse-error"
+
+    hours = ((data.get("data") or {}).get("hours")) or []
+    for hour in hours:
+        for auc in (hour.get("auctions") or []):
+            sku = str(auc.get("stockCode") or "")
             if not sku:
                 continue
-            auction_code = p.get("auction_code") or p.get("auctionCode") or (p.get("properties") or {}).get("_auctionCode")
-            price = p.get("price")
+            auction_code = auc.get("auctionCode")
+            price = auc.get("price")
             if price is not None:
                 price = float(price)
-            elif p.get("price_formatted"):
-                price = float(re.sub(r"[^\d.]", "", str(p["price_formatted"])))
-            title = p.get("title") or p.get("product_title") or ""
-            img = p.get("image") or p.get("featured_image")
+            title = auc.get("itemName") or ""
+            shopify_data = auc.get("shopifyData") or {}
+            img = None
+            media = shopify_data.get("productMedia") or []
+            if media:
+                first = media[0]
+                img = (first.get("src") or first.get("url")) if isinstance(first, dict) else first
             rec = {"title": title, "price": price, "auctionCode": auction_code, "img": img}
             if sku not in by_sku:
                 by_sku[sku] = rec
             if auction_code and auction_code not in by_auction:
                 by_auction[auction_code] = {"sku": sku, **rec}
-        return by_auction, by_sku, "json"
-    except Exception:
-        pass
-
-    for m in re.finditer(r'data-product-id="(\d+)"', raw_text):
-        sku = m.group(1)
-        win = raw_text[m.start():m.start() + 3000]
-        title_m = re.search(r'class="[^"]*title[^"]*"[^>]*>\s*([\s\S]*?)\s*</[a-z]+>', win, re.I)
-        title = html.unescape(re.sub(r"\s+", " ", title_m.group(1)).strip()) if title_m else ""
-        price_m = re.search(r'£\s?([\d,.]+)', win)
-        price = float(price_m.group(1).replace(",", "")) if price_m else None
-        img_m = re.search(r'\ssrc="([^"]+)"', win)
-        img = img_m.group(1) if img_m else None
-        auction_m = re.search(r'name="properties\[_auctionCode\]" value="([^"]*)"', win)
-        auction_code = auction_m.group(1) if auction_m else None
-        if sku not in by_sku:
-            by_sku[sku] = {"title": title, "price": price, "auctionCode": auction_code, "img": img}
-        if auction_code and auction_code not in by_auction:
-            by_auction[auction_code] = {"sku": sku, "title": title, "price": price, "img": img}
-    return by_auction, by_sku, "html-fallback"
+    return by_auction, by_sku, "json"
 
 
 def load_state():
