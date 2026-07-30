@@ -248,25 +248,68 @@ def log_event(msg):
 
 def export_csv(state):
     os.makedirs("data", exist_ok=True)
-    with open(CSV_PATH, "w", newline="") as f:
+
+    with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["Date", "Time", "SKU", "AuctionCode", "Title", "PDP Price", "Missed Price",
-                    "Parity", "Overcharged", "OnAir Img", "Missed Img", "ProductUrl", "Is404",
-                    "Buy", "Login", "In Missed", "Delay(min)", "Source"])
-        records = sorted(state["air"].values(), key=lambda a: a.get("lastUpdated", 0), reverse=True)
+
+        w.writerow([
+            "Date", "Time", "SKU", "AuctionCode", "Title",
+            "PDP Price", "Missed Price",
+            "Parity", "Overcharged",
+            "OnAir Img", "Missed Img",
+            "ProductUrl", "Is404",
+            "Buy", "Login",
+            "In Missed", "Delay(min)", "Source"
+        ])
+
+        records = sorted(
+            state["air"].values(),
+            key=lambda a: a.get("lastUpdated", 0),
+            reverse=True
+        )
+
         for a in records:
-            pdp, missed = a.get("pdpPrice"), a.get("missedPrice")
-            par, overcharged = "", ""
+
+            pdp = a.get("pdpPrice")
+            missed = a.get("missedPrice")
+
+            # Safely convert to float
+            try:
+                pdp = float(pdp) if pdp not in (None, "") else None
+            except (TypeError, ValueError):
+                pdp = None
+
+            try:
+                missed = float(missed) if missed not in (None, "") else None
+            except (TypeError, ValueError):
+                missed = None
+
+            parity = ""
+            overcharged = ""
+
             if pdp is not None and missed is not None:
-                par = "MATCH" if abs(pdp - missed) <= 0.01 else "MISMATCH"
+                parity = "MATCH" if abs(pdp - missed) <= 0.01 else "MISMATCH"
                 overcharged = "Y" if missed > pdp + 0.01 else ""
+
             w.writerow([
-                a.get("date", ""), a.get("time"), a.get("sku"), a.get("auctionCode"), a.get("title"),
-                pdp, missed, par, overcharged,
-                "Y" if a.get("img") else "N", "Y" if a.get("missedImg") else "N",
-                a.get("productUrl"), "Y" if a.get("productUrl404") else "N",
-                "Y" if a.get("buy") else "N", "Y" if a.get("login") else "N",
-                "Y" if a.get("missedAt") else "N", a.get("missedDelay"), a.get("source"),
+                a.get("date", ""),
+                a.get("time", ""),
+                a.get("sku", ""),
+                a.get("auctionCode", ""),
+                a.get("title", ""),
+                pdp,
+                missed,
+                parity,
+                overcharged,
+                "Y" if a.get("img") else "N",
+                "Y" if a.get("missedImg") else "N",
+                a.get("productUrl", ""),
+                "Y" if a.get("productUrl404") else "N",
+                "Y" if a.get("buy") else "N",
+                "Y" if a.get("login") else "N",
+                "Y" if a.get("missedAt") else "N",
+                a.get("missedDelay"),
+                a.get("source", "")
             ])
 
 
