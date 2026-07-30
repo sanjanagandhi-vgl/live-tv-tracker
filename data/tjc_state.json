@@ -22230,9 +22230,16 @@
       "img": true,
       "date": "2026-07-30",
       "time": "12:06:23",
-      "productUrl": null,
-      "lastUpdated": 1785409583301,
-      "source": "gha"
+      "productUrl": "/products/la-marey-printed-blouse-1958483906",
+      "lastUpdated": 1785410191047,
+      "source": "gha",
+      "missedAt": 1785410191047,
+      "missedDelay": 10,
+      "missedPrice": 15.99,
+      "missedImg": true,
+      "productUrlChecked": 1785410192585,
+      "productUrlStatus": 403,
+      "productUrl404": false
     },
     "7972481": {
       "sku": "7972481",
@@ -22250,6 +22257,24 @@
       "time": "12:14:21",
       "productUrl": null,
       "lastUpdated": 1785410061212,
+      "source": "gha"
+    },
+    "7937262": {
+      "sku": "7937262",
+      "firstAir": 1785410191047,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785410191047,
+      "title": "La Marey 55% Linen Ladies Linen Wide-Leg Crop Pants (Size 10) - Dazzling Blue",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019799680",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-07-30",
+      "time": "12:16:31",
+      "productUrl": null,
+      "lastUpdated": 1785410191047,
       "source": "gha"
     }
   }
