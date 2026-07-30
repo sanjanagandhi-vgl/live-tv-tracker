@@ -162,6 +162,9 @@ def run_product_url_checks(air):
             log_event(f"404 ERROR: {sku} — product page not found ({a['productUrl']})")
         checked += 1
     return checked
+
+
+def load_state():
     if os.path.exists(STATE_PATH):
         with open(STATE_PATH) as f:
             return json.load(f)
