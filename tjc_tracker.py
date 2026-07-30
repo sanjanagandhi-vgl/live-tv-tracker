@@ -18,6 +18,7 @@ from zoneinfo import ZoneInfo
 UK_TZ = ZoneInfo("Europe/London")
 
 WATCH_URL = "https://www.tjc.co.uk/pages/livetv"
+ONAIR_API_URL = "https://www.tjc.co.uk/apps/live-tv/currently-on-air"
 MISSED_URL = "https://www.tjc.co.uk/apps/live-tv/last-24-hours"
 STATE_PATH = "data/tjc_state.json"
 LOG_PATH = "data/tjc_events.log"
@@ -93,6 +94,66 @@ def extract_on_air(raw_html):
         "price": price, "title": title, "img": img, "productUrl": product_url,
         "login": False, "buy": buy, "oos": oos,
     }
+
+
+def extract_on_air_api(raw_text):
+    """Parse the dedicated currently-on-air API endpoint. Schema unconfirmed on first use —
+    tries a few reasonable shapes (single object, or hours/auctions like the missed-grid API)
+    and returns (result_dict_or_None, debug_sample_str_or_None)."""
+    try:
+        data = json.loads(raw_text)
+    except Exception as e:
+        return None, f"not JSON: {e}. First 500 chars: {raw_text[:500]}"
+
+    def from_auction_obj(auc):
+        sku = str(auc.get("stockCode") or auc.get("sku") or "")
+        if not sku:
+            return None
+        shopify_data = auc.get("shopifyData") or {}
+        media = shopify_data.get("productMedia") or []
+        img = None
+        if media:
+            first = media[0]
+            img = (first.get("src") or first.get("url")) if isinstance(first, dict) else first
+        available = shopify_data.get("availableForSale")
+        return {
+            "sku": sku,
+            "productId": shopify_data.get("productId"),
+            "auctionCode": auc.get("auctionCode"),
+            "price": auc.get("price") if auc.get("price") is not None else shopify_data.get("productPrice"),
+            "title": auc.get("itemName") or shopify_data.get("productName"),
+            "img": img,
+            "productUrl": shopify_data.get("productUrl"),
+            "login": False,
+            "oos": available is False,
+            "buy": available is not False,
+        }
+
+    payload = data.get("data") if isinstance(data, dict) else None
+    if isinstance(payload, dict):
+        if payload.get("stockCode") or payload.get("auctionCode"):
+            r = from_auction_obj(payload)
+            if r:
+                return r, None
+        hours = payload.get("hours") or []
+        for hour in hours:
+            for auc in (hour.get("auctions") or []):
+                status = str(auc.get("runningStatus") or "").lower()
+                if status in ("live", "on air", "onair", "running", "current"):
+                    r = from_auction_obj(auc)
+                    if r:
+                        return r, None
+        for hour in hours:
+            for auc in (hour.get("auctions") or []):
+                r = from_auction_obj(auc)
+                if r:
+                    return r, None
+    if isinstance(data, dict) and (data.get("stockCode") or data.get("auctionCode")):
+        r = from_auction_obj(data)
+        if r:
+            return r, None
+
+    return None, f"JSON parsed but no recognizable on-air fields. Keys: {list(data.keys()) if isinstance(data, dict) else type(data)}. Sample: {raw_text[:800]}"
 
 
 def extract_missed_grid(raw_text):
@@ -218,25 +279,37 @@ def main():
     now_str = now_dt.strftime("%H:%M:%S")
 
     w_status, w_body = fetch(WATCH_URL)
+    api_status, api_body = fetch(ONAIR_API_URL)
     m_status, m_body = fetch(MISSED_URL)
     print(f"watch status={w_status} len={len(w_body) if w_status == 200 else 0}")
+    print(f"on-air API status={api_status} len={len(api_body) if api_status == 200 else 0}")
     print(f"missed status={m_status} len={len(m_body) if m_status == 200 else 0}")
 
-    if w_status == 200:
+    r = None
+    if api_status == 200:
+        r, api_debug = extract_on_air_api(api_body)
+        if r:
+            print(f"on-air (via live API): {r['sku']} auction={r['auctionCode']} price={r['price']}")
+        else:
+            print(f"DEBUG: on-air API did not yield usable data — {api_debug}")
+    if not r and w_status == 200:
         r = extract_on_air(w_body)
         if r and r["sku"]:
-            a = air.setdefault(r["sku"], {"sku": r["sku"], "firstAir": t, "tvPrice": "", "remarks": ""})
-            a.update({
-                "lastAir": t, "title": r["title"] or a.get("title"),
-                "pdpPrice": r["price"], "auctionCode": r["auctionCode"],
-                "buy": r["buy"], "login": r["login"],
-                "img": is_valid_image(r["img"]), "date": now_date, "time": now_str,
-                "productUrl": r["productUrl"] or a.get("productUrl"),
-                "lastUpdated": t, "source": "gha",
-            })
-            print(f"on-air: {r['sku']} auction={r['auctionCode']} price={r['price']}")
-        else:
-            print("no on-air SKU parsed — page layout may differ from a bare fetch")
+            print(f"on-air (via page scrape, fallback): {r['sku']} auction={r['auctionCode']} price={r['price']}")
+
+    if r and r["sku"]:
+        a = air.setdefault(r["sku"], {"sku": r["sku"], "firstAir": t, "tvPrice": "", "remarks": ""})
+        a.update({
+            "lastAir": t, "title": r["title"] or a.get("title"),
+            "pdpPrice": r["price"], "auctionCode": r["auctionCode"],
+            "buy": r["buy"], "login": r["login"],
+            "img": is_valid_image(r["img"]), "date": now_date, "time": now_str,
+            "productUrl": r["productUrl"] or a.get("productUrl"),
+            "lastUpdated": t, "source": "gha",
+        })
+        print(f"on-air: {r['sku']} auction={r['auctionCode']} price={r['price']}")
+    else:
+        print("no on-air SKU parsed — page layout may differ from a bare fetch")
 
     by_auction, by_sku, parsed_as = extract_missed_grid(m_body) if m_status == 200 else ({}, {}, "n/a")
     print(f"missed grid tiles parsed: {len(by_sku)} (as {parsed_as})")
