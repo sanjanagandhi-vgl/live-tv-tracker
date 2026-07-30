@@ -22305,9 +22305,16 @@
       "img": true,
       "date": "2026-07-30",
       "time": "12:27:17",
-      "productUrl": null,
-      "lastUpdated": 1785410837627,
-      "source": "gha"
+      "productUrl": "/products/emreco-smart-wrap-mid-length-coat",
+      "lastUpdated": 1785411383001,
+      "source": "gha",
+      "missedAt": 1785411383001,
+      "missedDelay": 9,
+      "missedPrice": 34.99,
+      "missedImg": true,
+      "productUrlChecked": 1785411390296,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8095834": {
       "sku": "8095834",
@@ -22343,6 +22350,24 @@
       "time": "12:34:21",
       "productUrl": null,
       "lastUpdated": 1785411261882,
+      "source": "gha"
+    },
+    "8151349": {
+      "sku": "8151349",
+      "firstAir": 1785411383001,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785411383001,
+      "title": "La Marey Signature Genuine Nappa Leather Jacket (Size Large 16 to18) - Chocolate",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019801108",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-07-30",
+      "time": "12:36:23",
+      "productUrl": null,
+      "lastUpdated": 1785411383001,
       "source": "gha"
     }
   }
