@@ -11,6 +11,7 @@ import os
 import re
 import time
 import urllib.request
+import urllib.error
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
@@ -70,6 +71,8 @@ def extract_on_air(raw_html):
     img_m = (re.search(r'class="currently-on-air-card__img"[^>]*\ssrc="([^"]+)"', win)
              or re.search(r'currently-on-air-card__media-link"[^>]*>\s*<img[^>]*\ssrc="([^"]+)"', win))
     img = img_m.group(1) if img_m else None
+    url_m = re.search(r'<a href="(/products/[^"]+)" class="currently-on-air-card__media-link"', win)
+    product_url = url_m.group(1) if url_m else None
 
     available = None
     inv_m = re.search(r'data-shopify-inventory="([^"]*)"', win)
@@ -87,7 +90,8 @@ def extract_on_air(raw_html):
 
     return {
         "sku": sku, "productId": product_id, "auctionCode": auction_code,
-        "price": price, "title": title, "img": img, "login": False, "buy": buy, "oos": oos,
+        "price": price, "title": title, "img": img, "productUrl": product_url,
+        "login": False, "buy": buy, "oos": oos,
     }
 
 
@@ -116,7 +120,8 @@ def extract_missed_grid(raw_text):
             if media:
                 first = media[0]
                 img = (first.get("src") or first.get("url")) if isinstance(first, dict) else first
-            rec = {"title": title, "price": price, "auctionCode": auction_code, "img": img}
+            product_url = shopify_data.get("productUrl")
+            rec = {"title": title, "price": price, "auctionCode": auction_code, "img": img, "productUrl": product_url}
             if sku not in by_sku:
                 by_sku[sku] = rec
             if auction_code and auction_code not in by_auction:
@@ -124,7 +129,39 @@ def extract_missed_grid(raw_text):
     return by_auction, by_sku, "json"
 
 
-def load_state():
+def check_product_url(rel_url):
+    if not rel_url:
+        return None, "no-url"
+    sep = "&" if "?" in rel_url else "?"
+    abs_url = f"https://www.tjc.co.uk{rel_url}{sep}_cb={int(time.time())}"
+    req = urllib.request.Request(abs_url, headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return r.status, None
+    except urllib.error.HTTPError as e:
+        return e.code, None
+    except Exception as e:
+        return None, str(e)
+
+
+URL_CHECKS_PER_RUN = 15  # cap per GitHub Actions run since it fires every ~1 min via cron-job.org
+
+
+def run_product_url_checks(air):
+    checked = 0
+    for sku, a in air.items():
+        if checked >= URL_CHECKS_PER_RUN:
+            break
+        if not a.get("productUrl") or a.get("productUrlChecked"):
+            continue
+        status, err = check_product_url(a["productUrl"])
+        a["productUrlChecked"] = int(time.time() * 1000)
+        a["productUrlStatus"] = status if status is not None else "error"
+        a["productUrl404"] = status == 404
+        if status == 404:
+            log_event(f"404 ERROR: {sku} — product page not found ({a['productUrl']})")
+        checked += 1
+    return checked
     if os.path.exists(STATE_PATH):
         with open(STATE_PATH) as f:
             return json.load(f)
@@ -150,8 +187,8 @@ def export_csv(state):
     with open(CSV_PATH, "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["Date", "Time", "SKU", "AuctionCode", "Title", "PDP Price", "Missed Price",
-                    "Parity", "Overcharged", "OnAir Img", "Missed Img", "Buy", "Login",
-                    "In Missed", "Delay(min)", "Source"])
+                    "Parity", "Overcharged", "OnAir Img", "Missed Img", "ProductUrl", "Is404",
+                    "Buy", "Login", "In Missed", "Delay(min)", "Source"])
         records = sorted(state["air"].values(), key=lambda a: a.get("lastUpdated", 0), reverse=True)
         for a in records:
             pdp, missed = a.get("pdpPrice"), a.get("missedPrice")
@@ -163,6 +200,7 @@ def export_csv(state):
                 a.get("date", ""), a.get("time"), a.get("sku"), a.get("auctionCode"), a.get("title"),
                 pdp, missed, par, overcharged,
                 "Y" if a.get("img") else "N", "Y" if a.get("missedImg") else "N",
+                a.get("productUrl"), "Y" if a.get("productUrl404") else "N",
                 "Y" if a.get("buy") else "N", "Y" if a.get("login") else "N",
                 "Y" if a.get("missedAt") else "N", a.get("missedDelay"), a.get("source"),
             ])
@@ -190,6 +228,7 @@ def main():
                 "pdpPrice": r["price"], "auctionCode": r["auctionCode"],
                 "buy": r["buy"], "login": r["login"],
                 "img": is_valid_image(r["img"]), "date": now_date, "time": now_str,
+                "productUrl": r["productUrl"] or a.get("productUrl"),
                 "lastUpdated": t, "source": "gha",
             })
             print(f"on-air: {r['sku']} auction={r['auctionCode']} price={r['price']}")
@@ -229,6 +268,7 @@ def main():
         a["missedPrice"] = hit["price"]
         a["missedImg"] = is_valid_image(hit["img"])
         a["title"] = a.get("title") or hit["title"]
+        a["productUrl"] = a.get("productUrl") or hit.get("productUrl")
         a["lastUpdated"] = t
         log_event(f"RECENTLY-ON-AIR: {sku} appeared (delay ~{a['missedDelay']}m, £{hit['price']})")
 
@@ -240,7 +280,11 @@ def main():
             "preExisting": True, "missedAt": t, "missedDelay": None, "lastUpdated": t,
             "missedPrice": hit["price"], "missedImg": is_valid_image(hit["img"]),
             "title": hit["title"], "auctionCode": hit["auctionCode"], "source": "gha",
+            "productUrl": hit.get("productUrl"),
         }
+
+    checked_count = run_product_url_checks(air)
+    print(f"product URL checks this run: {checked_count}")
 
     save_state(state)
     export_csv(state)
