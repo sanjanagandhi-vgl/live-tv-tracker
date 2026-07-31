@@ -33386,9 +33386,16 @@
       "img": true,
       "date": "2026-07-31",
       "time": "10:02:26",
-      "productUrl": null,
-      "lastUpdated": 1785488546648,
-      "source": "gha"
+      "productUrl": "/products/ceramic-hanging-8-bells-in-gift-box-multi-colour",
+      "lastUpdated": 1785489144372,
+      "source": "gha",
+      "missedAt": 1785489144372,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1785489149347,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8723089": {
       "sku": "8723089",
@@ -33483,6 +33490,44 @@
       "productUrl": null,
       "lastUpdated": 1785489036963,
       "source": "gha"
+    },
+    "8325209": {
+      "sku": "8325209",
+      "firstAir": 1785489144372,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785489144372,
+      "title": "Multi Colour Baroque Mother Of Pearl & White Crystal Necklace (Size - 20.5) with T-Bar Clasp",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019800008",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-07-31",
+      "time": "10:12:24",
+      "productUrl": null,
+      "lastUpdated": 1785489144372,
+      "source": "gha"
+    },
+    "8376684": {
+      "sku": "8376684",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-31",
+      "time": "10:12:24",
+      "preExisting": true,
+      "missedAt": 1785489144372,
+      "missedDelay": null,
+      "lastUpdated": 1785489144372,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Multi-Tiered Decorative Ceramic Hanging Bells Wind Chime - Pink",
+      "auctionCode": "0019801994",
+      "source": "gha",
+      "productUrl": "/products/ceramic-hanging-8-bells-in-gift-box-multi-colour",
+      "productUrlChecked": 1785489152560,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   }
 }
