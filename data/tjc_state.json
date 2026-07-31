@@ -32931,9 +32931,16 @@
       "img": true,
       "date": "2026-07-31",
       "time": "08:30:55",
-      "productUrl": null,
-      "lastUpdated": 1785483055064,
-      "source": "gha"
+      "productUrl": "/products/voltz-10k-power-bank-6018610736",
+      "lastUpdated": 1785483562155,
+      "source": "gha",
+      "missedAt": 1785483562155,
+      "missedDelay": 8,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1785483569062,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8480630": {
       "sku": "8480630",
@@ -32978,7 +32985,7 @@
       "firstAir": 1785483443895,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785483506179,
+      "lastAir": 1785483562155,
       "title": "Lightweight and Cozy Faux Fur Bucket Hat (58cm) - Grey",
       "pdpPrice": "4.99",
       "auctionCode": "0019801796",
@@ -32986,10 +32993,30 @@
       "login": false,
       "img": true,
       "date": "2026-07-31",
-      "time": "08:38:26",
+      "time": "08:39:22",
       "productUrl": null,
-      "lastUpdated": 1785483506179,
+      "lastUpdated": 1785483562155,
       "source": "gha"
+    },
+    "8610737": {
+      "sku": "8610737",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-31",
+      "time": "08:39:22",
+      "preExisting": true,
+      "missedAt": 1785483562155,
+      "missedDelay": null,
+      "lastUpdated": 1785483562155,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Pink",
+      "auctionCode": "0019801916",
+      "source": "gha",
+      "productUrl": "/products/voltz-10k-power-bank-6018610736",
+      "productUrlChecked": 1785483572240,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   }
 }
