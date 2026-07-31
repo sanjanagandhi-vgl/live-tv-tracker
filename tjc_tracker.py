@@ -49,9 +49,10 @@ def is_valid_image(url):
 
 
 def flatten_auction_family(items):
-    """Recursively flattens groupauctions/mlauctions (any casing) into a flat,
-    deduplicated list of {sku, auctionCode, title, price, stock} — every sibling
-    size/colour variant bundled with an on-air or missed auction item."""
+    """Recursively flattens groupauctions/mlauctions (any casing at all — the
+    site is inconsistent about this) into a flat, deduplicated list of
+    {sku, auctionCode, title, price, stock} — every sibling size/colour
+    variant bundled with an on-air or missed auction item."""
     out = {}
 
     def walk(lst):
@@ -74,10 +75,14 @@ def flatten_auction_family(items):
                     "price": float(price) if price is not None else None,
                     "stock": stock,
                 }
-            for key in ("mlauctions", "mlAuctions", "mlaAuctions", "groupauctions", "groupAuctions"):
-                sub = item.get(key)
-                if isinstance(sub, list) and sub:
-                    walk(sub)
+            # Case-insensitive AND spelling-tolerant match — the site genuinely
+            # uses two different spellings across different pages ("mlauctions"
+            # in the missed-auction data vs "mlaAuctions"/"mlaauctions" in the
+            # on-air data), not just different casing of the same word.
+            for key, val in item.items():
+                lk = key.lower()
+                if ("mlauction" in lk or "mlaauction" in lk or "groupauction" in lk) and isinstance(val, list) and val:
+                    walk(val)
 
     walk(items)
     return list(out.values())
@@ -93,8 +98,8 @@ def extract_on_air_variants(win):
         data = json.loads(m.group(1))
     except Exception:
         return []
-    pool = (data.get("groupauctions") or []) + (data.get("mlaAuctions") or [])
-    return flatten_auction_family(pool)
+    pool = flatten_auction_family([data])
+    return pool
 
 
 def extract_on_air(raw_html):
@@ -238,7 +243,7 @@ def extract_missed_grid(raw_text):
             if auction_code and auction_code not in by_auction:
                 by_auction[auction_code] = {"sku": sku, **rec}
 
-            for v in flatten_auction_family(auc.get("groupauctions") or []):
+            for v in flatten_auction_family([auc]):
                 vsku = v["sku"]
                 if not vsku or vsku == sku:
                     continue
