@@ -308,7 +308,7 @@ def log_event(msg):
 
 def export_csv(state):
     os.makedirs("data", exist_ok=True)
-    with open(CSV_PATH, "w", newline="") as f:
+    with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["Date", "Time", "SKU", "AuctionCode", "Title", "PDP Price", "Missed Price",
                     "Parity", "Overcharged", "OnAir Img", "Missed Img", "ProductUrl", "Is404",
@@ -316,6 +316,14 @@ def export_csv(state):
         records = sorted(state["air"].values(), key=lambda a: a.get("lastUpdated", 0), reverse=True)
         for a in records:
             pdp, missed = a.get("pdpPrice"), a.get("missedPrice")
+            try:
+                pdp = float(pdp) if pdp not in (None, "") else None
+            except (TypeError, ValueError):
+                pdp = None
+            try:
+                missed = float(missed) if missed not in (None, "") else None
+            except (TypeError, ValueError):
+                missed = None
             par, overcharged = "", ""
             if pdp is not None and missed is not None:
                 par = "MATCH" if abs(pdp - missed) <= 0.01 else "MISMATCH"
@@ -350,6 +358,8 @@ def main():
         r, api_debug = extract_on_air_api(api_body)
         if r:
             print(f"on-air (via live API): {r['sku']} auction={r['auctionCode']} price={r['price']}")
+            if r["price"] is None:
+                print(f"DEBUG: on-air API price came back None — raw response (first 1200 chars):\n{api_body[:1200]}")
         else:
             print(f"DEBUG: on-air API did not yield usable data — {api_debug}")
     if not r and w_status == 200:
@@ -358,6 +368,16 @@ def main():
             print(f"on-air (via page scrape, fallback): {r['sku']} auction={r['auctionCode']} price={r['price']}")
 
     if r and r["sku"]:
+        # Sibling size/colour variants (embedded gla-mla-config JSON) are only
+        # available via the full page HTML, so scrape it for that even when the
+        # primary result itself came from the fast live API. Also use it to
+        # backfill price if the live API didn't provide one.
+        page_r = r if "variants" in r else (extract_on_air(w_body) if w_status == 200 else None)
+        variants = page_r.get("variants", []) if page_r else []
+        if r["price"] is None and page_r and page_r.get("sku") == r["sku"] and page_r.get("price") is not None:
+            r["price"] = page_r["price"]
+            print(f"on-air price backfilled from page scrape: £{r['price']}")
+
         a = air.setdefault(r["sku"], {"sku": r["sku"], "firstAir": t, "tvPrice": "", "remarks": ""})
         a.update({
             "lastAir": t, "title": r["title"] or a.get("title"),
@@ -369,11 +389,6 @@ def main():
         })
         print(f"on-air: {r['sku']} auction={r['auctionCode']} price={r['price']}")
 
-        # Sibling size/colour variants (embedded gla-mla-config JSON) are only
-        # available via the full page HTML, so scrape it for that even when the
-        # primary result itself came from the fast live API.
-        page_r = r if "variants" in r else (extract_on_air(w_body) if w_status == 200 else None)
-        variants = page_r.get("variants", []) if page_r else []
         for v in variants:
             vsku = v["sku"]
             if not vsku or vsku == r["sku"]:
