@@ -32906,9 +32906,16 @@
       "img": true,
       "date": "2026-07-31",
       "time": "08:24:23",
-      "productUrl": null,
-      "lastUpdated": 1785482663139,
-      "source": "gha"
+      "productUrl": "/products/livmore-automatic-can-opener-battery-operated-2-x-aa-not-inc",
+      "lastUpdated": 1785483326921,
+      "source": "gha",
+      "missedAt": 1785483326921,
+      "missedDelay": 11,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "productUrlChecked": 1785483332226,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8610736": {
       "sku": "8610736",
@@ -32933,7 +32940,7 @@
       "firstAir": 1785483142774,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785483260589,
+      "lastAir": 1785483326921,
       "title": null,
       "pdpPrice": null,
       "auctionCode": "0019801995",
@@ -32941,10 +32948,30 @@
       "login": false,
       "img": false,
       "date": "2026-07-31",
-      "time": "08:34:20",
+      "time": "08:35:26",
       "productUrl": null,
-      "lastUpdated": 1785483260589,
+      "lastUpdated": 1785483326921,
       "source": "gha"
+    },
+    "8363451": {
+      "sku": "8363451",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-31",
+      "time": "08:35:26",
+      "preExisting": true,
+      "missedAt": 1785483326921,
+      "missedDelay": null,
+      "lastUpdated": 1785483326921,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Livmore Automatic Can Opener - Battery Operated (2 x AA not inc) - Black",
+      "auctionCode": "0019801950",
+      "source": "gha",
+      "productUrl": "/products/livmore-automatic-can-opener-battery-operated-2-x-aa-not-inc",
+      "productUrlChecked": 1785483335414,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   }
 }
