@@ -88,23 +88,21 @@ def flatten_auction_family(items):
     return list(out.values())
 
 
-def extract_on_air_variants(win, debug_prefix=""):
-    """Find the embedded gla-mla-config JSON script inside the on-air card HTML
-    window and flatten every sibling size/colour variant it lists."""
-    m = re.search(r'id="[^"]*gla-mla-config"[^>]*>\s*(\{.*?\})\s*</script>', win, re.S)
+def extract_on_air_variants(raw_html, debug_prefix=""):
+    """Find the embedded gla-mla-config JSON script for the on-air form and
+    flatten every sibling size/colour variant it lists. Searches the FULL page
+    (not a truncated window near the card) since this script can fall well
+    beyond any fixed-size slice — its id is uniquely prefixed 'CurrentlyOnAirForm-'
+    so there's no risk of matching an unrelated script elsewhere on the page."""
+    m = re.search(r'id="CurrentlyOnAirForm-[^"]*gla-mla-config"[^>]*>\s*(\{.*?\})\s*</script>', raw_html, re.S)
     if not m:
-        # Broaden the search: is the id fragment present at all in this window?
-        has_id_fragment = 'gla-mla-config' in win
-        print(f"{debug_prefix}DEBUG variants: no script-tag match. 'gla-mla-config' substring present in window: {has_id_fragment}")
-        if has_id_fragment:
-            idx = win.find('gla-mla-config')
-            print(f"{debug_prefix}DEBUG variants: context around 'gla-mla-config' (400 chars):\n{win[max(0,idx-100):idx+400]}")
+        has_id_fragment = 'CurrentlyOnAirForm' in raw_html and 'gla-mla-config' in raw_html
+        print(f"{debug_prefix}DEBUG variants: no script-tag match in full page. Both id fragments present: {has_id_fragment}")
         return []
     try:
         data = json.loads(m.group(1))
     except Exception as e:
         print(f"{debug_prefix}DEBUG variants: script tag found but JSON parse failed: {e}")
-        print(f"{debug_prefix}DEBUG variants: raw captured content (first 600 chars): {m.group(1)[:600]}")
         return []
     result = flatten_auction_family([data])
     if not result:
@@ -157,7 +155,7 @@ def extract_on_air(raw_html):
         "sku": sku, "productId": product_id, "auctionCode": auction_code,
         "price": price, "title": title, "img": img, "productUrl": product_url,
         "login": False, "buy": buy, "oos": oos,
-        "variants": extract_on_air_variants(win),
+        "variants": extract_on_air_variants(raw_html),
     }
 
 
