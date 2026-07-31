@@ -33131,9 +33131,16 @@
       "img": true,
       "date": "2026-07-31",
       "time": "09:23:18",
-      "productUrl": null,
-      "lastUpdated": 1785486198871,
-      "source": "gha"
+      "productUrl": "/products/pen-and-pencil-size-one-size-black-8567115",
+      "lastUpdated": 1785486806140,
+      "source": "gha",
+      "missedAt": 1785486806140,
+      "missedDelay": 10,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "productUrlChecked": 1785486809627,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8435766": {
       "sku": "8435766",
@@ -33158,7 +33165,7 @@
       "firstAir": 1785486678266,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785486740416,
+      "lastAir": 1785486806140,
       "title": "LIVMORE Cooling Pillowcase with Zipper (75 x 50cm) - White",
       "pdpPrice": "7.99",
       "auctionCode": "0019801989",
@@ -33166,10 +33173,30 @@
       "login": false,
       "img": true,
       "date": "2026-07-31",
-      "time": "09:32:20",
+      "time": "09:33:26",
       "productUrl": null,
-      "lastUpdated": 1785486740416,
+      "lastUpdated": 1785486806140,
       "source": "gha"
+    },
+    "8567116": {
+      "sku": "8567116",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-31",
+      "time": "09:33:26",
+      "preExisting": true,
+      "missedAt": 1785486806140,
+      "missedDelay": null,
+      "lastUpdated": 1785486806140,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "DEAL OF THE DAY - Pack of 2 Tile Grout Restorer - White",
+      "auctionCode": "0019801974",
+      "source": "gha",
+      "productUrl": "/products/pen-and-pencil-size-one-size-black-8567115",
+      "productUrlChecked": 1785486809750,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   }
 }
