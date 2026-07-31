@@ -33493,9 +33493,16 @@
       "img": true,
       "date": "2026-07-31",
       "time": "10:10:36",
-      "productUrl": null,
-      "lastUpdated": 1785489036963,
-      "source": "gha"
+      "productUrl": "/products/heart-locket-pendant-with-rope-necklace",
+      "lastUpdated": 1785489557381,
+      "source": "gha",
+      "missedAt": 1785489557381,
+      "missedDelay": 9,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "productUrlChecked": 1785489567814,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8325209": {
       "sku": "8325209",
@@ -33628,6 +33635,44 @@
       "productUrl": null,
       "lastUpdated": 1785489439884,
       "source": "gha"
+    },
+    "4464075": {
+      "sku": "4464075",
+      "firstAir": 1785489557381,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785489557381,
+      "title": "Set of 3 - Yellow CZ Tennis Bracelet (Size - 7.5), Push Back Earring & Pendant with Chain (Size 20-2 Ext) 17.60 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019800016",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-07-31",
+      "time": "10:19:17",
+      "productUrl": null,
+      "lastUpdated": 1785489557381,
+      "source": "gha"
+    },
+    "8480209": {
+      "sku": "8480209",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-31",
+      "time": "10:19:17",
+      "preExisting": true,
+      "missedAt": 1785489557381,
+      "missedDelay": null,
+      "lastUpdated": 1785489557381,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Mega Closeout Deal - White Diamond Heart Link Bracelet (Size - 7.5) with GB Lock Box",
+      "auctionCode": "0019799988",
+      "source": "gha",
+      "productUrl": "/products/mega-closeout-deal-white-diamond-tennis-bracelet-size-7-5-with-gb-lock-box",
+      "productUrlChecked": 1785489570923,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   }
 }
