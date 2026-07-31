@@ -35283,9 +35283,16 @@
       "img": true,
       "date": "2026-07-31",
       "time": "15:10:38",
-      "productUrl": null,
-      "lastUpdated": 1785507038270,
-      "source": "gha"
+      "productUrl": "/products/pink-round-brush-8661079",
+      "lastUpdated": 1785507560144,
+      "source": "gha",
+      "missedAt": 1785507560144,
+      "missedDelay": 9,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "productUrlChecked": 1785507569673,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8341810": {
       "sku": "8341810",
@@ -35342,6 +35349,46 @@
       "productUrl": null,
       "lastUpdated": 1785507439938,
       "source": "gha"
+    },
+    "8661080": {
+      "sku": "8661080",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-31",
+      "time": "15:19:20",
+      "preExisting": true,
+      "missedAt": 1785507560144,
+      "missedDelay": null,
+      "lastUpdated": 1785507560144,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "title": "Vented Hair Brush in Pink Colour",
+      "auctionCode": "0019801717",
+      "source": "gha",
+      "productUrl": "/products/pink-round-brush-8661079",
+      "productUrlChecked": 1785507572777,
+      "productUrlStatus": 500,
+      "productUrl404": false
+    },
+    "8661081": {
+      "sku": "8661081",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-07-31",
+      "time": "15:19:20",
+      "preExisting": true,
+      "missedAt": 1785507560144,
+      "missedDelay": null,
+      "lastUpdated": 1785507560144,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "title": "Classic Detangling Hair Brush in Pink Colour",
+      "auctionCode": "0019801718",
+      "source": "gha",
+      "productUrl": "/products/pink-round-brush-8661079",
+      "productUrlChecked": 1785507575869,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   }
 }
