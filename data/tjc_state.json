@@ -39441,9 +39441,16 @@
       "img": true,
       "date": "2026-08-01",
       "time": "03:05:30",
-      "productUrl": null,
-      "lastUpdated": 1785549930742,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-lab-grown-diamond-necklace-1548563535",
+      "lastUpdated": 1785550462051,
+      "source": "gha",
+      "missedAt": 1785550462051,
+      "missedDelay": 9,
+      "missedPrice": 189.99,
+      "missedImg": true,
+      "productUrlChecked": 1785550471313,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8167221": {
       "sku": "8167221",
@@ -39488,7 +39495,7 @@
       "firstAir": 1785550278716,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785550398634,
+      "lastAir": 1785550462051,
       "title": "D'Joy Lab Grown Diamond (VS-EF) & Natural Olmec Jadeite Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 10.50 Ct.",
       "pdpPrice": "199.99",
       "auctionCode": "0019802356",
@@ -39496,10 +39503,30 @@
       "login": false,
       "img": true,
       "date": "2026-08-01",
-      "time": "03:13:18",
+      "time": "03:14:22",
       "productUrl": null,
-      "lastUpdated": 1785550398634,
+      "lastUpdated": 1785550462051,
       "source": "gha"
+    },
+    "8563536": {
+      "sku": "8563536",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-01",
+      "time": "03:14:22",
+      "preExisting": true,
+      "missedAt": 1785550462051,
+      "missedDelay": null,
+      "lastUpdated": 1785550462051,
+      "missedPrice": 189.99,
+      "missedImg": true,
+      "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Necklace (Size - 30-2 Ext) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+      "auctionCode": "0019803428",
+      "source": "gha",
+      "productUrl": "/products/luxuriant-lab-grown-diamond-necklace-1548563535",
+      "productUrlChecked": 1785550474365,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   }
 }
