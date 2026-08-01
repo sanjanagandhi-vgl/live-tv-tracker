@@ -9427,21 +9427,22 @@
       "firstAir": 1784994263143,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784994502118,
-      "title": "Luxuriant SGL Certified SI/GH Lab Grown Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
-      "pdpPrice": 399.99,
-      "auctionCode": "0019794555",
-      "buy": false,
+      "lastAir": 1785592950284,
+      "title": "Luxuriant SGL Certified SI-GH Lab Grown Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+      "pdpPrice": "1649.99",
+      "auctionCode": "0019801569",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "16:48:22",
-      "lastUpdated": 1784994635216,
+      "date": "2026-08-01",
+      "time": "15:02:30",
+      "lastUpdated": 1785592950284,
       "source": "gha",
       "missedAt": 1784994635216,
       "missedDelay": 2,
       "missedPrice": 399.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8575816": {
       "sku": "8575816",
@@ -45236,9 +45237,16 @@
       "img": true,
       "date": "2026-08-01",
       "time": "14:52:21",
-      "productUrl": null,
-      "lastUpdated": 1785592341669,
-      "source": "gha"
+      "productUrl": "/products/lab-grown-diamond-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-0-90-ct-1-0-ct-2364493050",
+      "lastUpdated": 1785592950284,
+      "source": "gha",
+      "missedAt": 1785592950284,
+      "missedDelay": 10,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "productUrlChecked": 1785592954281,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8617829": {
       "sku": "8617829",
@@ -45417,6 +45425,26 @@
       "productUrl": null,
       "lastUpdated": 1785592759539,
       "source": "gha"
+    },
+    "4493050": {
+      "sku": "4493050",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-01",
+      "time": "15:02:30",
+      "preExisting": true,
+      "missedAt": 1785592950284,
+      "missedDelay": null,
+      "lastUpdated": 1785592950284,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Circular Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+      "auctionCode": "0019801320",
+      "source": "gha",
+      "productUrl": "/products/lab-grown-diamond-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-0-90-ct-1-0-ct-2364493050",
+      "productUrlChecked": 1785592954386,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   }
 }
