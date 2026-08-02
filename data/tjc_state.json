@@ -53916,8 +53916,12 @@
       "date": "2026-08-02",
       "time": "14:53:17",
       "productUrl": null,
-      "lastUpdated": 1785678797250,
-      "source": "gha"
+      "lastUpdated": 1785679341927,
+      "source": "gha",
+      "missedAt": 1785679341927,
+      "missedDelay": 9,
+      "missedPrice": 19.99,
+      "missedImg": true
     },
     "4453721": {
       "sku": "4453721",
@@ -54102,7 +54106,7 @@
       "firstAir": 1785679105814,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785679305831,
+      "lastAir": 1785679341927,
       "title": "D'Joy - Kyanite Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 1.10 Ct.",
       "pdpPrice": "47.99",
       "auctionCode": "0019804197",
@@ -54110,10 +54114,27 @@
       "login": false,
       "img": true,
       "date": "2026-08-02",
-      "time": "15:01:45",
+      "time": "15:02:21",
       "productUrl": null,
-      "lastUpdated": 1785679305831,
+      "lastUpdated": 1785679341927,
       "source": "gha"
+    },
+    "8719985": {
+      "sku": "8719985",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-02",
+      "time": "15:02:21",
+      "preExisting": true,
+      "missedAt": 1785679341927,
+      "missedDelay": null,
+      "lastUpdated": 1785679341927,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "D'Joy - AAA Natural Kashmir Kyanite Stud Earring with Push Back in Platinum Overlay Sterling Silver 1.40 Ct.",
+      "auctionCode": "0019804191",
+      "source": "gha",
+      "productUrl": null
     }
   }
 }
