@@ -56864,11 +56864,15 @@
       "date": "2026-08-03",
       "time": "02:15:42",
       "productUrl": "/products/djoy-moissanite-full-hoop-earring-in-platinum-overlay-sterling-silver-1-03-ct?variant=53107854770442",
-      "lastUpdated": 1785719742675,
+      "lastUpdated": 1785720036460,
       "source": "gha",
       "productUrlChecked": 1785719751855,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1785720036460,
+      "missedDelay": 5,
+      "missedPrice": 29.99,
+      "missedImg": true
     },
     "8433699": {
       "sku": "8433699",
@@ -56922,6 +56926,24 @@
       "time": "02:19:17",
       "productUrl": null,
       "lastUpdated": 1785719957453,
+      "source": "gha"
+    },
+    "8561885": {
+      "sku": "8561885",
+      "firstAir": 1785720036460,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785720036460,
+      "title": "D'Joy - Moissanite Adjustable Chain Bracelet (Size - 10.5) in Yellow Gold Plated Sterling Silver 3.12 Ct.",
+      "pdpPrice": "44.99",
+      "auctionCode": "0019804903",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-03",
+      "time": "02:20:36",
+      "productUrl": null,
+      "lastUpdated": 1785720036460,
       "source": "gha"
     }
   }
