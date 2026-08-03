@@ -57547,8 +57547,12 @@
       "date": "2026-08-03",
       "time": "04:15:34",
       "productUrl": null,
-      "lastUpdated": 1785726934448,
-      "source": "gha"
+      "lastUpdated": 1785727534179,
+      "source": "gha",
+      "missedAt": 1785727534179,
+      "missedDelay": 10,
+      "missedPrice": 149.99,
+      "missedImg": true
     },
     "8358303": {
       "sku": "8358303",
@@ -57573,18 +57577,35 @@
       "firstAir": 1785727469003,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785727469003,
+      "lastAir": 1785727534179,
       "title": "9K Yellow Gold Premium Vietnamese Cobalt Blue Spinel Pear & (SI-GH) Lab Grown Diamond Ring 3.02 Ct.",
-      "pdpPrice": "3989.99",
+      "pdpPrice": "567.99",
       "auctionCode": "0019805061",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-03",
-      "time": "04:24:29",
+      "time": "04:25:34",
       "productUrl": null,
-      "lastUpdated": 1785727469003,
+      "lastUpdated": 1785727534179,
       "source": "gha"
+    },
+    "8415426": {
+      "sku": "8415426",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-03",
+      "time": "04:25:34",
+      "preExisting": true,
+      "missedAt": 1785727534179,
+      "missedDelay": null,
+      "lastUpdated": 1785727534179,
+      "missedPrice": 149.99,
+      "missedImg": true,
+      "title": "9K Yellow Gold Diamond Cut Band Ring",
+      "auctionCode": "0019805135",
+      "source": "gha",
+      "productUrl": null
     }
   }
 }
