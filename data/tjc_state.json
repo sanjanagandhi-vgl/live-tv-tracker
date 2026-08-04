@@ -67340,11 +67340,29 @@
       "productUrl": null,
       "lastUpdated": 1785853344016,
       "source": "gha"
+    },
+    "8431805": {
+      "sku": "8431805",
+      "firstAir": 1785853471205,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785853471205,
+      "title": "La Marey 100% Coltton Tie Drawstring Top (One Size, 8-18) - Hot Pink",
+      "pdpPrice": "269.99",
+      "auctionCode": "0019807168",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-04",
+      "time": "15:24:31",
+      "productUrl": null,
+      "lastUpdated": 1785853471205,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1785853400234,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -67388,11 +67406,22 @@
         "followingSku": "8508040",
         "followingTitle": "La Marey Womens 100% Viscose Long Kimono (One Size) - Lemon",
         "followingAuctionCode": "0019806019"
+      },
+      {
+        "start": 1785853400234,
+        "end": 1785853471205,
+        "durationMin": 1.2,
+        "precedingSku": "8414088",
+        "precedingTitle": "La Marey Silk-Feeling Asymmetrical Hem Printed Top (Size - L-XL, 16 to 22) - Burgundy & Off-White",
+        "precedingAuctionCode": "0019806472",
+        "followingSku": "8431805",
+        "followingTitle": "La Marey 100% Coltton Tie Drawstring Top (One Size, 8-18) - Hot Pink",
+        "followingAuctionCode": "0019807168"
       }
     ],
-    "lastOnAirSku": "8414088",
-    "lastOnAirTitle": "La Marey Silk-Feeling Asymmetrical Hem Printed Top (Size - L-XL, 16 to 22) - Burgundy & Off-White",
-    "lastOnAirAuctionCode": "0019806472",
+    "lastOnAirSku": "8431805",
+    "lastOnAirTitle": "La Marey 100% Coltton Tie Drawstring Top (One Size, 8-18) - Hot Pink",
+    "lastOnAirAuctionCode": "0019807168",
     "precedingSku": "8414088",
     "precedingTitle": "La Marey Silk-Feeling Asymmetrical Hem Printed Top (Size - L-XL, 16 to 22) - Burgundy & Off-White",
     "precedingAuctionCode": "0019806472"
