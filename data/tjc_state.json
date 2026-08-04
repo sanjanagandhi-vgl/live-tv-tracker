@@ -67943,7 +67943,7 @@
       "firstAir": 1785856466222,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785870142891,
+      "lastAir": 1785870267640,
       "title": "La Marey Women's Relaxed Fit Wide-Leg Trousers (Size - L-XL, 16-22) - Black",
       "pdpPrice": 14.99,
       "auctionCode": "0019806076",
@@ -67951,9 +67951,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-04",
-      "time": "20:02:22",
+      "time": "20:04:27",
       "productUrl": "/products/la-marey-printed-trouser-1958483859?variant=53191548272906",
-      "lastUpdated": 1785870142891,
+      "lastUpdated": 1785870267640,
       "source": "gha",
       "productUrlChecked": 1785856644493,
       "productUrlStatus": 500,
@@ -69253,8 +69253,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1785870202469,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -69427,6 +69427,17 @@
         "precedingSku": "8413557",
         "precedingTitle": "Double Layer Inverted Manual Open Stick Reverse Umbrella - Blue & Black",
         "precedingAuctionCode": "0019807204",
+        "followingSku": "8483859",
+        "followingTitle": "La Marey Women's Relaxed Fit Wide-Leg Trousers (Size - L-XL, 16-22) - Black",
+        "followingAuctionCode": "0019806076"
+      },
+      {
+        "start": 1785870202469,
+        "end": 1785870267640,
+        "durationMin": 1.1,
+        "precedingSku": "8483859",
+        "precedingTitle": "La Marey Women's Relaxed Fit Wide-Leg Trousers (Size - L-XL, 16-22) - Black",
+        "precedingAuctionCode": "0019806076",
         "followingSku": "8483859",
         "followingTitle": "La Marey Women's Relaxed Fit Wide-Leg Trousers (Size - L-XL, 16-22) - Black",
         "followingAuctionCode": "0019806076"
