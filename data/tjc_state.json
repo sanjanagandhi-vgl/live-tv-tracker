@@ -66091,8 +66091,12 @@
       "date": "2026-08-04",
       "time": "09:21:21",
       "productUrl": null,
-      "lastUpdated": 1785831681251,
-      "source": "gha"
+      "lastUpdated": 1785832257033,
+      "source": "gha",
+      "missedAt": 1785832257033,
+      "missedDelay": 10,
+      "missedPrice": 29.99,
+      "missedImg": true
     },
     "8688692": {
       "sku": "8688692",
@@ -66117,7 +66121,7 @@
       "firstAir": 1785832159942,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785832159942,
+      "lastAir": 1785832257033,
       "title": "OPATRA SkinGlam Under Eye Serum - 30ml",
       "pdpPrice": "119.99",
       "auctionCode": "0019806062",
@@ -66125,10 +66129,27 @@
       "login": false,
       "img": true,
       "date": "2026-08-04",
-      "time": "09:29:19",
+      "time": "09:30:57",
       "productUrl": null,
-      "lastUpdated": 1785832159942,
+      "lastUpdated": 1785832257033,
       "source": "gha"
+    },
+    "8688690": {
+      "sku": "8688690",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-04",
+      "time": "09:30:57",
+      "preExisting": true,
+      "missedAt": 1785832257033,
+      "missedDelay": null,
+      "lastUpdated": 1785832257033,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "OPATRA SkinGlam Collagen Night Cream - 50g",
+      "auctionCode": "0019806529",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
