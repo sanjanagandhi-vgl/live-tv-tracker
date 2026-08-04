@@ -65809,7 +65809,7 @@
       "firstAir": 1785815485424,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785854782011,
+      "lastAir": 1785857788334,
       "title": "24K Yellow Gold (99.99% Purity) Embossed Collectable",
       "pdpPrice": 19.99,
       "auctionCode": "0019806556",
@@ -65817,9 +65817,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-04",
-      "time": "15:46:22",
+      "time": "16:36:28",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2447995983?variant=53109343518986",
-      "lastUpdated": 1785854782011,
+      "lastUpdated": 1785857788334,
       "source": "gha",
       "missedAt": 1785816063241,
       "missedDelay": 9,
@@ -68095,8 +68095,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1785857733893,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -68162,11 +68162,22 @@
         "followingSku": "8431983",
         "followingTitle": "La Marey Placement Print Blouse (Size L-XL, 16-22) - Maroon",
         "followingAuctionCode": "0019806042"
+      },
+      {
+        "start": 1785857733893,
+        "end": 1785857788334,
+        "durationMin": 0.9,
+        "precedingSku": "8480063",
+        "precedingTitle": "La Marey Embroidered Large Scarf (One Size) - Brown",
+        "precedingAuctionCode": "0019806491",
+        "followingSku": "8165987",
+        "followingTitle": "24K Yellow Gold (99.99% Purity) Embossed Collectable",
+        "followingAuctionCode": "0019806556"
       }
     ],
-    "lastOnAirSku": "8480063",
-    "lastOnAirTitle": "La Marey Embroidered Large Scarf (One Size) - Brown",
-    "lastOnAirAuctionCode": "0019806491",
+    "lastOnAirSku": "8165987",
+    "lastOnAirTitle": "24K Yellow Gold (99.99% Purity) Embossed Collectable",
+    "lastOnAirAuctionCode": "0019806556",
     "precedingSku": "8480063",
     "precedingTitle": "La Marey Embroidered Large Scarf (One Size) - Brown",
     "precedingAuctionCode": "0019806491"
