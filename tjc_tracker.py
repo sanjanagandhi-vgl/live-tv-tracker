@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """TJC Web TV QA Tracker — GitHub Actions cron backup.
 Fetches watch-tjc + missed-auctions directly, tracks on-air -> missed
-transitions, computes delay, price parity, overcharge flag, image validity.
+transitions, computes delay, price parity, overcharge flag, image validity,
+sibling variant SKUs, and dead-air gaps (no presentation currently live).
 State persists in data/tjc_state.json (committed back to the repo each run).
 """
 import csv
@@ -23,6 +24,7 @@ MISSED_URL = "https://www.tjc.co.uk/apps/live-tv/last-24-hours"
 STATE_PATH = "data/tjc_state.json"
 LOG_PATH = "data/tjc_events.log"
 CSV_PATH = "data/tjc_report.csv"
+GAPS_CSV_PATH = "data/tjc_gaps.csv"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
@@ -48,8 +50,15 @@ def is_valid_image(url):
     return from_shopify and "no-image" not in u
 
 
+def detect_gap(raw_html):
+    """Detect the 'nothing currently on air, next presentation starting
+    shortly' empty-state block. Every second in this state is dead air —
+    no product to buy — which directly costs sales."""
+    return "currently-on-air-block__empty" in raw_html
+
+
 def flatten_auction_family(items):
-    """Recursively flattens groupauctions/mlauctions (any casing at all — the
+    """Recursively flattens groupauctions/mlauctions (any casing/spelling — the
     site is inconsistent about this) into a flat, deduplicated list of
     {sku, auctionCode, title, price, stock} — every sibling size/colour
     variant bundled with an on-air or missed auction item."""
@@ -76,9 +85,8 @@ def flatten_auction_family(items):
                     "stock": stock,
                 }
             # Case-insensitive AND spelling-tolerant match — the site genuinely
-            # uses two different spellings across different pages ("mlauctions"
-            # in the missed-auction data vs "mlaAuctions"/"mlaauctions" in the
-            # on-air data), not just different casing of the same word.
+            # uses two different spellings across pages ("mlauctions" nested in
+            # missed-auction data vs "mlaAuctions"/"mlaauctions" in on-air data).
             for key, val in item.items():
                 lk = key.lower()
                 if ("mlauction" in lk or "mlaauction" in lk or "groupauction" in lk) and isinstance(val, list) and val:
@@ -160,9 +168,9 @@ def extract_on_air(raw_html):
 
 
 def extract_on_air_api(raw_text):
-    """Parse the dedicated currently-on-air API endpoint. Schema unconfirmed on first use —
-    tries a few reasonable shapes (single object, or hours/auctions like the missed-grid API)
-    and returns (result_dict_or_None, debug_sample_str_or_None)."""
+    """Parse the dedicated currently-on-air API endpoint. Schema unconfirmed on
+    first use — tries a few reasonable shapes (single object, or hours/auctions
+    like the missed-grid API) and returns (result_dict_or_None, debug_str_or_None)."""
     try:
         data = json.loads(raw_text)
     except Exception as e:
@@ -351,9 +359,23 @@ def export_csv(state):
             ])
 
 
+def export_gaps_csv(state):
+    """A dedicated report of dead-air gaps — every minute here is lost sales."""
+    os.makedirs("data", exist_ok=True)
+    gaps = state.get("gapTracking", {}).get("gaps", [])
+    with open(GAPS_CSV_PATH, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["Gap Start (UK)", "Gap End (UK)", "Duration (min)"])
+        for g in sorted(gaps, key=lambda x: x.get("start", 0), reverse=True):
+            start_str = datetime.fromtimestamp(g["start"] / 1000, UK_TZ).strftime("%Y-%m-%d %H:%M:%S") if g.get("start") else ""
+            end_str = datetime.fromtimestamp(g["end"] / 1000, UK_TZ).strftime("%Y-%m-%d %H:%M:%S") if g.get("end") else ""
+            w.writerow([start_str, end_str, g.get("durationMin")])
+
+
 def main():
     state = load_state()
     air = state.setdefault("air", {})
+    gap_tracking = state.setdefault("gapTracking", {"inGap": False, "gapStart": None, "gaps": []})
     t = int(time.time() * 1000)
     now_dt = datetime.now(UK_TZ)
     now_date = now_dt.strftime("%Y-%m-%d")
@@ -379,6 +401,25 @@ def main():
         r = extract_on_air(w_body)
         if r and r["sku"]:
             print(f"on-air (via page scrape, fallback): {r['sku']} auction={r['auctionCode']} price={r['price']}")
+
+    # ---- Dead-air gap detection: this is a direct sales-loss signal, tracked
+    # independently of whether on-air parsing itself succeeded or failed. ----
+    in_gap_now = detect_gap(w_body) if w_status == 200 else False
+    has_on_air = bool(r and r["sku"])
+    if in_gap_now and not has_on_air:
+        if not gap_tracking["inGap"]:
+            gap_tracking["inGap"] = True
+            gap_tracking["gapStart"] = t
+            log_event("⚠️ GAP STARTED: no presentation currently on air — sales at risk")
+        else:
+            ongoing_min = round((t - gap_tracking["gapStart"]) / 60000, 1)
+            print(f"GAP ONGOING: {ongoing_min} minute(s) so far")
+    elif has_on_air and gap_tracking["inGap"]:
+        duration_min = round((t - gap_tracking["gapStart"]) / 60000, 1)
+        gap_tracking["gaps"].append({"start": gap_tracking["gapStart"], "end": t, "durationMin": duration_min})
+        log_event(f"✅ GAP ENDED after {duration_min} minute(s) — on-air resumed with {r['sku']}")
+        gap_tracking["inGap"] = False
+        gap_tracking["gapStart"] = None
 
     if r and r["sku"]:
         # Sibling size/colour variants (embedded gla-mla-config JSON) are only
@@ -418,7 +459,10 @@ def main():
         if variants:
             print(f"on-air sibling variants registered: {len(variants)} (skus: {[v['sku'] for v in variants]})")
     else:
-        print("no on-air SKU parsed — page layout may differ from a bare fetch")
+        if not in_gap_now:
+            print("no on-air SKU parsed — page layout may differ from a bare fetch")
+        else:
+            print("no on-air SKU parsed — confirmed dead-air gap (next presentation starting shortly)")
 
     by_auction, by_sku, parsed_as = extract_missed_grid(m_body) if m_status == 200 else ({}, {}, "n/a")
     print(f"missed grid tiles parsed: {len(by_sku)} (as {parsed_as})")
@@ -471,8 +515,13 @@ def main():
     checked_count = run_product_url_checks(air)
     print(f"product URL checks this run: {checked_count}")
 
+    if gap_tracking["inGap"]:
+        ongoing_min = round((t - gap_tracking["gapStart"]) / 60000, 1)
+        print(f"CURRENT STATUS: IN GAP for {ongoing_min} minute(s)")
+
     save_state(state)
     export_csv(state)
+    export_gaps_csv(state)
 
 
 if __name__ == "__main__":
