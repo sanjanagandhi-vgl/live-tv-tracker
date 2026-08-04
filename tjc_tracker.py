@@ -306,6 +306,26 @@ def run_product_url_checks(air):
     return checked
 
 
+def send_notification(title, message):
+    """Push an instant alert via ntfy.sh (free, no account needed) — anyone
+    subscribed to the private topic (phone app, browser, desktop) gets it.
+    Topic name comes from a GitHub Actions secret, never hardcoded, since this
+    repo is public."""
+    topic = os.environ.get("NTFY_TOPIC")
+    if not topic:
+        return  # not configured — silently skip, this is optional
+    try:
+        req = urllib.request.Request(
+            f"https://ntfy.sh/{topic}",
+            data=message.encode("utf-8"),
+            headers={"Title": title, "Priority": "high", "Tags": "warning"},
+            method="POST",
+        )
+        urllib.request.urlopen(req, timeout=10)
+    except Exception as e:
+        print(f"DEBUG: ntfy notification failed: {e}")
+
+
 def load_state():
     if os.path.exists(STATE_PATH):
         with open(STATE_PATH) as f:
@@ -360,22 +380,33 @@ def export_csv(state):
 
 
 def export_gaps_csv(state):
-    """A dedicated report of dead-air gaps — every minute here is lost sales."""
+    """A dedicated report of dead-air gaps — every minute here is lost sales.
+    Includes which product was on air right before the gap and which came on
+    right after, so you can see exactly which transition dropped the ball."""
     os.makedirs("data", exist_ok=True)
     gaps = state.get("gapTracking", {}).get("gaps", [])
     with open(GAPS_CSV_PATH, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["Gap Start (UK)", "Gap End (UK)", "Duration (min)"])
+        w.writerow(["Gap Start (UK)", "Gap End (UK)", "Duration (min)",
+                    "Preceding SKU", "Preceding Title", "Preceding AuctionCode",
+                    "Following SKU", "Following Title", "Following AuctionCode"])
         for g in sorted(gaps, key=lambda x: x.get("start", 0), reverse=True):
             start_str = datetime.fromtimestamp(g["start"] / 1000, UK_TZ).strftime("%Y-%m-%d %H:%M:%S") if g.get("start") else ""
             end_str = datetime.fromtimestamp(g["end"] / 1000, UK_TZ).strftime("%Y-%m-%d %H:%M:%S") if g.get("end") else ""
-            w.writerow([start_str, end_str, g.get("durationMin")])
+            w.writerow([
+                start_str, end_str, g.get("durationMin"),
+                g.get("precedingSku"), g.get("precedingTitle"), g.get("precedingAuctionCode"),
+                g.get("followingSku"), g.get("followingTitle"), g.get("followingAuctionCode"),
+            ])
 
 
 def main():
     state = load_state()
     air = state.setdefault("air", {})
-    gap_tracking = state.setdefault("gapTracking", {"inGap": False, "gapStart": None, "gaps": []})
+    gap_tracking = state.setdefault("gapTracking", {
+        "inGap": False, "gapStart": None, "gaps": [],
+        "lastOnAirSku": None, "lastOnAirTitle": None, "lastOnAirAuctionCode": None,
+    })
     t = int(time.time() * 1000)
     now_dt = datetime.now(UK_TZ)
     now_date = now_dt.strftime("%Y-%m-%d")
@@ -406,18 +437,35 @@ def main():
     # independently of whether on-air parsing itself succeeded or failed. ----
     in_gap_now = detect_gap(w_body) if w_status == 200 else False
     has_on_air = bool(r and r["sku"])
+
+    if has_on_air:
+        gap_tracking["lastOnAirSku"] = r["sku"]
+        gap_tracking["lastOnAirTitle"] = r["title"]
+        gap_tracking["lastOnAirAuctionCode"] = r["auctionCode"]
+
     if in_gap_now and not has_on_air:
         if not gap_tracking["inGap"]:
             gap_tracking["inGap"] = True
             gap_tracking["gapStart"] = t
-            log_event("⚠️ GAP STARTED: no presentation currently on air — sales at risk")
+            gap_tracking["precedingSku"] = gap_tracking.get("lastOnAirSku")
+            gap_tracking["precedingTitle"] = gap_tracking.get("lastOnAirTitle")
+            gap_tracking["precedingAuctionCode"] = gap_tracking.get("lastOnAirAuctionCode")
+            log_event(f"⚠️ GAP STARTED after {gap_tracking['precedingSku'] or 'unknown'} — no presentation currently on air — sales at risk")
+            send_notification("⚠️ TJC Live TV — Dead Air", f"No presentation on air (last was SKU {gap_tracking['precedingSku'] or 'unknown'}). Sales at risk.")
         else:
             ongoing_min = round((t - gap_tracking["gapStart"]) / 60000, 1)
             print(f"GAP ONGOING: {ongoing_min} minute(s) so far")
     elif has_on_air and gap_tracking["inGap"]:
         duration_min = round((t - gap_tracking["gapStart"]) / 60000, 1)
-        gap_tracking["gaps"].append({"start": gap_tracking["gapStart"], "end": t, "durationMin": duration_min})
-        log_event(f"✅ GAP ENDED after {duration_min} minute(s) — on-air resumed with {r['sku']}")
+        gap_tracking["gaps"].append({
+            "start": gap_tracking["gapStart"], "end": t, "durationMin": duration_min,
+            "precedingSku": gap_tracking.get("precedingSku"),
+            "precedingTitle": gap_tracking.get("precedingTitle"),
+            "precedingAuctionCode": gap_tracking.get("precedingAuctionCode"),
+            "followingSku": r["sku"], "followingTitle": r["title"], "followingAuctionCode": r["auctionCode"],
+        })
+        log_event(f"✅ GAP ENDED after {duration_min} minute(s) — on-air resumed with {r['sku']} (was: {gap_tracking.get('precedingSku')})")
+        send_notification("✅ TJC Live TV — Back On Air", f"Gap ended after {duration_min} minute(s). Now showing SKU {r['sku']}.")
         gap_tracking["inGap"] = False
         gap_tracking["gapStart"] = None
 
