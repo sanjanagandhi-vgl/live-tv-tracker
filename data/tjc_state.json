@@ -66890,11 +66890,29 @@
       "productUrlChecked": 1785850471919,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "8508040": {
+      "sku": "8508040",
+      "firstAir": 1785850760047,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785850760047,
+      "title": "La Marey Womens 100% Viscose Long Kimono (One Size) - Lemon",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019806019",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-04",
+      "time": "14:39:20",
+      "productUrl": null,
+      "lastUpdated": 1785850760047,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1785850703387,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -66927,11 +66945,22 @@
         "followingSku": "8052306",
         "followingTitle": "Set Of 4 Silicone Pot Holders",
         "followingAuctionCode": "0019806450"
+      },
+      {
+        "start": 1785850703387,
+        "end": 1785850760047,
+        "durationMin": 0.9,
+        "precedingSku": "8431818",
+        "precedingTitle": "La Marey Cotton Lace Detail Dress (Size XL, 20-22) - Hot Pink",
+        "precedingAuctionCode": "0019806319",
+        "followingSku": "8508040",
+        "followingTitle": "La Marey Womens 100% Viscose Long Kimono (One Size) - Lemon",
+        "followingAuctionCode": "0019806019"
       }
     ],
-    "lastOnAirSku": "8431818",
-    "lastOnAirTitle": "La Marey Cotton Lace Detail Dress (Size XL, 20-22) - Hot Pink",
-    "lastOnAirAuctionCode": "0019806319",
+    "lastOnAirSku": "8508040",
+    "lastOnAirTitle": "La Marey Womens 100% Viscose Long Kimono (One Size) - Lemon",
+    "lastOnAirAuctionCode": "0019806019",
     "precedingSku": "8431818",
     "precedingTitle": "La Marey Cotton Lace Detail Dress (Size XL, 20-22) - Hot Pink",
     "precedingAuctionCode": "0019806319"
