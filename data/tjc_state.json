@@ -27512,21 +27512,26 @@
       "sku": "8071942",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-04",
+      "time": "19:07:28",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1785866848206,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "One Truth 818- Anti-Ageing Serum - 15ml",
-      "auctionCode": "0019800201",
+      "auctionCode": "0019806416",
       "source": "gha",
       "productUrl": "/products/one-truth-818-enzyme-face-masque-50g",
       "productUrlChecked": 1785475533619,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1785866848206,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8532723": {
       "sku": "8532723",
@@ -69122,8 +69127,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1785866785347,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -69233,11 +69238,22 @@
         "followingSku": "8483859",
         "followingTitle": "La Marey Women's Relaxed Fit Wide-Leg Trousers (Size - L-XL, 16-22) - Black",
         "followingAuctionCode": "0019806076"
+      },
+      {
+        "start": 1785866785347,
+        "end": 1785866848206,
+        "durationMin": 1.0,
+        "precedingSku": "8165987",
+        "precedingTitle": "24K Yellow Gold (99.99% Purity) Embossed Collectable",
+        "precedingAuctionCode": "0019806556",
+        "followingSku": "8071942",
+        "followingTitle": "One Truth 818- Anti-Ageing Serum - 15ml",
+        "followingAuctionCode": "0019806416"
       }
     ],
-    "lastOnAirSku": "8165987",
-    "lastOnAirTitle": "24K Yellow Gold (99.99% Purity) Embossed Collectable",
-    "lastOnAirAuctionCode": "0019806556",
+    "lastOnAirSku": "8071942",
+    "lastOnAirTitle": "One Truth 818- Anti-Ageing Serum - 15ml",
+    "lastOnAirAuctionCode": "0019806416",
     "precedingSku": "8165987",
     "precedingTitle": "24K Yellow Gold (99.99% Purity) Embossed Collectable",
     "precedingAuctionCode": "0019806556"
