@@ -66605,11 +66605,29 @@
       "productUrl": null,
       "lastUpdated": 1785847535707,
       "source": "gha"
+    },
+    "8052306": {
+      "sku": "8052306",
+      "firstAir": 1785847709043,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785847709043,
+      "title": "Set Of 4 Silicone Pot Holders",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019806450",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-04",
+      "time": "13:48:29",
+      "productUrl": null,
+      "lastUpdated": 1785847709043,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1785847591455,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -66631,11 +66649,22 @@
         "followingSku": "8236690",
         "followingTitle": "1 HOUR ONLY OFFER - Keplin Lightweight Digital Vacuum with Bending Hose - 3 Speed, 60 Min Run Time, 350W Motor -LIFETIME WARRANTY",
         "followingAuctionCode": "0019807188"
+      },
+      {
+        "start": 1785847591455,
+        "end": 1785847709043,
+        "durationMin": 2.0,
+        "precedingSku": "8528688",
+        "precedingTitle": "Microfibre 25pc Easyclean Microfibre Cloth - Orange",
+        "precedingAuctionCode": "0019806446",
+        "followingSku": "8052306",
+        "followingTitle": "Set Of 4 Silicone Pot Holders",
+        "followingAuctionCode": "0019806450"
       }
     ],
-    "lastOnAirSku": "8528688",
-    "lastOnAirTitle": "Microfibre 25pc Easyclean Microfibre Cloth - Orange",
-    "lastOnAirAuctionCode": "0019806446",
+    "lastOnAirSku": "8052306",
+    "lastOnAirTitle": "Set Of 4 Silicone Pot Holders",
+    "lastOnAirAuctionCode": "0019806450",
     "precedingSku": "8528688",
     "precedingTitle": "Microfibre 25pc Easyclean Microfibre Cloth - Orange",
     "precedingAuctionCode": "0019806446"
