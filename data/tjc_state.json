@@ -67624,9 +67624,16 @@
       "img": true,
       "date": "2026-08-04",
       "time": "15:45:43",
-      "productUrl": null,
-      "lastUpdated": 1785854743361,
-      "source": "gha"
+      "productUrl": "/products/la-marey-printed-blouse-9068431983",
+      "lastUpdated": 1785855336319,
+      "source": "gha",
+      "missedAt": 1785855336319,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1785855341945,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8498486": {
       "sku": "8498486",
@@ -67765,6 +67772,44 @@
       "productUrlChecked": 1785855049667,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "8498196": {
+      "sku": "8498196",
+      "firstAir": 1785855336319,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785855336319,
+      "title": "La Marey Placement Print Blouse (Size L-XL, 16-22) - Peachy Orange",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019806039",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-04",
+      "time": "15:55:36",
+      "productUrl": null,
+      "lastUpdated": 1785855336319,
+      "source": "gha"
+    },
+    "8432019": {
+      "sku": "8432019",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-04",
+      "time": "15:55:36",
+      "preExisting": true,
+      "missedAt": 1785855336319,
+      "missedDelay": null,
+      "lastUpdated": 1785855336319,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Placement Print Blouse (Size L-XL, 16-22) - Maroon",
+      "auctionCode": "0019806053",
+      "source": "gha",
+      "productUrl": "/products/la-marey-printed-blouse-9068431983",
+      "productUrlChecked": 1785855345127,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -67837,9 +67882,9 @@
         "followingAuctionCode": "0019806042"
       }
     ],
-    "lastOnAirSku": "8483494",
-    "lastOnAirTitle": "La Marey Placement Print Blouse (Size L-XL, 16 To 22) - Olive Green",
-    "lastOnAirAuctionCode": "0019806047",
+    "lastOnAirSku": "8498196",
+    "lastOnAirTitle": "La Marey Placement Print Blouse (Size L-XL, 16-22) - Peachy Orange",
+    "lastOnAirAuctionCode": "0019806039",
     "precedingSku": "8636799",
     "precedingTitle": "Love Italian Style Crinkle Pleated Trousers With 27 Inch Inseam (Size 10-22) - Blue",
     "precedingAuctionCode": "0019806030"
