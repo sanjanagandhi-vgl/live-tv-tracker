@@ -65409,9 +65409,16 @@
       "img": true,
       "date": "2026-08-04",
       "time": "04:03:19",
-      "productUrl": null,
-      "lastUpdated": 1785812599194,
-      "source": "gha"
+      "productUrl": "/products/crossbody-bag-1548420491",
+      "lastUpdated": 1785813199419,
+      "source": "gha",
+      "missedAt": 1785813199419,
+      "missedDelay": 10,
+      "missedPrice": 13.99,
+      "missedImg": true,
+      "productUrlChecked": 1785813203965,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8435360": {
       "sku": "8435360",
@@ -65467,6 +65474,24 @@
       "time": "04:12:23",
       "productUrl": null,
       "lastUpdated": 1785813143257,
+      "source": "gha"
+    },
+    "7735533": {
+      "sku": "7735533",
+      "firstAir": 1785813199419,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785813199419,
+      "title": "JUST CAVALLI Water Resistant White Dial Watch with Stainless Steel Chain Strap",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019805870",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-04",
+      "time": "04:13:19",
+      "productUrl": null,
+      "lastUpdated": 1785813199419,
       "source": "gha"
     }
   }
