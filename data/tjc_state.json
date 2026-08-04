@@ -65932,11 +65932,35 @@
       "productUrl": null,
       "lastUpdated": 1785823285681,
       "source": "gha"
+    },
+    "7682838": {
+      "sku": "7682838",
+      "firstAir": 1785823587955,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1785823587955,
+      "title": "Laurelle Baie Des Anges EDP By Perry - 50ml",
+      "pdpPrice": "60.99",
+      "auctionCode": "0019806512",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-04",
+      "time": "07:06:27",
+      "productUrl": null,
+      "lastUpdated": 1785823587955,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1785823527869,
-    "gaps": []
+    "inGap": false,
+    "gapStart": null,
+    "gaps": [
+      {
+        "start": 1785823527869,
+        "end": 1785823587955,
+        "durationMin": 1.0
+      }
+    ]
   }
 }
