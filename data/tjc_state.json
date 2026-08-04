@@ -65826,7 +65826,7 @@
       "firstAir": 1785815485424,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785866732655,
+      "lastAir": 1785867745701,
       "title": "24K Yellow Gold (99.99% Purity) Embossed Collectable",
       "pdpPrice": 19.99,
       "auctionCode": "0019806556",
@@ -65834,9 +65834,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-04",
-      "time": "19:05:32",
+      "time": "19:22:25",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2447995983?variant=53109343518986",
-      "lastUpdated": 1785866732655,
+      "lastUpdated": 1785867745701,
       "source": "gha",
       "missedAt": 1785816063241,
       "missedDelay": 9,
@@ -69127,8 +69127,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1785867678020,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -69249,11 +69249,22 @@
         "followingSku": "8071942",
         "followingTitle": "One Truth 818- Anti-Ageing Serum - 15ml",
         "followingAuctionCode": "0019806416"
+      },
+      {
+        "start": 1785867678020,
+        "end": 1785867745701,
+        "durationMin": 1.1,
+        "precedingSku": "8071942",
+        "precedingTitle": "One Truth 818- Anti-Ageing Serum - 15ml",
+        "precedingAuctionCode": "0019806416",
+        "followingSku": "8165987",
+        "followingTitle": "24K Yellow Gold (99.99% Purity) Embossed Collectable",
+        "followingAuctionCode": "0019806556"
       }
     ],
-    "lastOnAirSku": "8071942",
-    "lastOnAirTitle": "One Truth 818- Anti-Ageing Serum - 15ml",
-    "lastOnAirAuctionCode": "0019806416",
+    "lastOnAirSku": "8165987",
+    "lastOnAirTitle": "24K Yellow Gold (99.99% Purity) Embossed Collectable",
+    "lastOnAirAuctionCode": "0019806556",
     "precedingSku": "8071942",
     "precedingTitle": "One Truth 818- Anti-Ageing Serum - 15ml",
     "precedingAuctionCode": "0019806416"
