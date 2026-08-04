@@ -7,6 +7,14 @@ on:
     - cron: '*/5 * * * *'   # kept as a redundant backup — unreliable timing, don't rely on this alone
   workflow_dispatch: {}      # lets you trigger it manually from the Actions tab too
 
+# Ensures only one run of this workflow executes at a time. If cron-job.org's
+# next ping lands while a previous run is still finishing, the new run queues
+# instead of racing the previous one to push — this is what caused the earlier
+# "rejected (fetch first)" push errors.
+concurrency:
+  group: tjc-tracker-run
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -21,6 +29,12 @@ jobs:
           python-version: '3.11'
 
       - name: Run tracker
+        env:
+          # Set this repo secret (Settings -> Secrets and variables -> Actions)
+          # to a private ntfy.sh topic name to get a push notification the
+          # instant a dead-air gap starts/ends. Leave unset to disable — the
+          # script skips notifications silently if this isn't configured.
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python tjc_tracker.py
 
       - name: Commit updated data
@@ -28,5 +42,22 @@ jobs:
           git config user.name "tjc-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "Update TJC tracker data [skip ci]"
-          git push
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+            exit 0
+          fi
+          git commit -m "Update TJC tracker data [skip ci]"
+
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "push rejected (attempt $attempt) — fetching and rebasing, then retrying"
+            git fetch origin main
+            git rebase origin/main
+            sleep 2
+          done
+
+          echo "push still failing after retries"
+          exit 1
