@@ -7019,21 +7019,22 @@
       "firstAir": 1784945357803,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784945956767,
-      "title": "LOWEST EVER PRICE - LIVMORE TENS/EMS Heating Foot Massager With Electrode Pads To Target Legs, Aching Muscles or tension across the back and shoulders",
-      "pdpPrice": 79.99,
-      "auctionCode": "0019793027",
-      "buy": false,
-      "login": true,
+      "lastAir": 1785872181417,
+      "title": "LOWEST EVER PRICE - LIVMORE TENS-EMS Heating Foot Massager With Electrode Pads To Target Legs, Aching Muscles or tension across the back and shoulders",
+      "pdpPrice": "1211.99",
+      "auctionCode": "0019806541",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "03:19:16",
-      "lastUpdated": 1784946077102,
+      "date": "2026-08-04",
+      "time": "20:36:21",
+      "lastUpdated": 1785872181417,
       "source": "gha",
       "missedAt": 1784946077102,
       "missedDelay": 2,
       "missedPrice": 79.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8478644": {
       "sku": "8478644",
@@ -69271,8 +69272,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1785872129609,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -69459,11 +69460,22 @@
         "followingSku": "8483859",
         "followingTitle": "La Marey Women's Relaxed Fit Wide-Leg Trousers (Size - L-XL, 16-22) - Black",
         "followingAuctionCode": "0019806076"
+      },
+      {
+        "start": 1785872129609,
+        "end": 1785872181417,
+        "durationMin": 0.9,
+        "precedingSku": "8380679",
+        "precedingTitle": "BEAUTECH 3D 4 Mode LED Face Glow Light Therapy Mask (Red & Infrared Anti Aging, Amber & Infrared Brightening, Green Anti Redness, Blue Anti Blemish)  with Smart Controller",
+        "precedingAuctionCode": "0019804890",
+        "followingSku": "8207754",
+        "followingTitle": "LOWEST EVER PRICE - LIVMORE TENS-EMS Heating Foot Massager With Electrode Pads To Target Legs, Aching Muscles or tension across the back and shoulders",
+        "followingAuctionCode": "0019806541"
       }
     ],
-    "lastOnAirSku": "8380679",
-    "lastOnAirTitle": "BEAUTECH 3D 4 Mode LED Face Glow Light Therapy Mask (Red & Infrared Anti Aging, Amber & Infrared Brightening, Green Anti Redness, Blue Anti Blemish)  with Smart Controller",
-    "lastOnAirAuctionCode": "0019804890",
+    "lastOnAirSku": "8207754",
+    "lastOnAirTitle": "LOWEST EVER PRICE - LIVMORE TENS-EMS Heating Foot Massager With Electrode Pads To Target Legs, Aching Muscles or tension across the back and shoulders",
+    "lastOnAirAuctionCode": "0019806541",
     "precedingSku": "8380679",
     "precedingTitle": "BEAUTECH 3D 4 Mode LED Face Glow Light Therapy Mask (Red & Infrared Anti Aging, Amber & Infrared Brightening, Green Anti Redness, Blue Anti Blemish)  with Smart Controller",
     "precedingAuctionCode": "0019804890"
