@@ -87268,7 +87268,10 @@
       "missedAt": 1786060159341,
       "missedDelay": 4,
       "missedPrice": 14.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1786060251540,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "3577019": {
       "sku": "3577019",
@@ -87289,7 +87292,10 @@
       "missedAt": 1786060159341,
       "missedDelay": 4,
       "missedPrice": 14.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1786060251709,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "3577020": {
       "sku": "3577020",
@@ -87310,7 +87316,10 @@
       "missedAt": 1786060159341,
       "missedDelay": 4,
       "missedPrice": 14.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1786060251923,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8361057": {
       "sku": "8361057",
@@ -87366,6 +87375,24 @@
       "time": "00:49:19",
       "productUrl": null,
       "lastUpdated": 1786060159341,
+      "source": "gha"
+    },
+    "8413022": {
+      "sku": "8413022",
+      "firstAir": 1786060241887,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786060241887,
+      "title": "Designer Inspired - Cherry Quartz Magnetic Therapy Necklace (Size - 16) 50.00 Ct.",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019809116",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-07",
+      "time": "00:50:41",
+      "productUrl": null,
+      "lastUpdated": 1786060241887,
       "source": "gha"
     }
   },
@@ -87626,9 +87653,9 @@
         "followingAuctionCode": "0019809813"
       }
     ],
-    "lastOnAirSku": "4424640",
-    "lastOnAirTitle": "Green Crystal Teardrop Pendant with Chain (Size 24) in Silver Tone (48x32)",
-    "lastOnAirAuctionCode": "0019809112",
+    "lastOnAirSku": "8413022",
+    "lastOnAirTitle": "Designer Inspired - Cherry Quartz Magnetic Therapy Necklace (Size - 16) 50.00 Ct.",
+    "lastOnAirAuctionCode": "0019809116",
     "precedingSku": "8572718",
     "precedingTitle": "D'Joy - Tanzanite Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
     "precedingAuctionCode": "0019809878"
