@@ -1911,22 +1911,22 @@
       "sku": "8481717",
       "tvPrice": "",
       "remarks": "",
-      "time": "10:45:37",
+      "time": "00:23:29",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": false,
-      "title": "Natural White Diamond Tennis Adjustable Bracelet (Upto Size - 10.5)",
-      "auctionCode": "0019804474",
+      "title": "Natural White Diamond Adjustable Tennis Bracelet (Upto Size - 10.5)",
+      "auctionCode": "0019809873",
       "source": "gha",
-      "lastAir": 1785663937465,
+      "lastAir": 1786058609999,
       "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-02",
-      "lastUpdated": 1785663937465,
+      "date": "2026-08-07",
+      "lastUpdated": 1786058609999,
       "productUrl": null
     },
     "8500300": {
@@ -86833,8 +86833,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786058576909,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -87054,11 +87054,22 @@
         "followingSku": "4513756",
         "followingTitle": "Luxuriant - Lab Grown Colombian Emerald & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 3.00 Ct.",
         "followingAuctionCode": "0019806563"
+      },
+      {
+        "start": 1786058576909,
+        "end": 1786058609999,
+        "durationMin": 0.6,
+        "precedingSku": "8597627",
+        "precedingTitle": "UltraSoft Silver Jewellery Polishing Cloth - Natural",
+        "precedingAuctionCode": "0019809903",
+        "followingSku": "8481717",
+        "followingTitle": "Natural White Diamond Adjustable Tennis Bracelet (Upto Size - 10.5)",
+        "followingAuctionCode": "0019809873"
       }
     ],
-    "lastOnAirSku": "8597627",
-    "lastOnAirTitle": "UltraSoft Silver Jewellery Polishing Cloth - Natural",
-    "lastOnAirAuctionCode": "0019809903",
+    "lastOnAirSku": "8481717",
+    "lastOnAirTitle": "Natural White Diamond Adjustable Tennis Bracelet (Upto Size - 10.5)",
+    "lastOnAirAuctionCode": "0019809873",
     "precedingSku": "8597627",
     "precedingTitle": "UltraSoft Silver Jewellery Polishing Cloth - Natural",
     "precedingAuctionCode": "0019809903"
