@@ -86866,11 +86866,29 @@
       "productUrl": null,
       "lastUpdated": 1786058969051,
       "source": "gha"
+    },
+    "8727426": {
+      "sku": "8727426",
+      "firstAir": 1786059166463,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786059166463,
+      "title": "Diamond Ring in Sterling Silver",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019809813",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-07",
+      "time": "00:32:46",
+      "productUrl": null,
+      "lastUpdated": 1786059166463,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786059006982,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -87112,11 +87130,22 @@
         "followingSku": "8572718",
         "followingTitle": "D'Joy - Tanzanite Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
         "followingAuctionCode": "0019809878"
+      },
+      {
+        "start": 1786059006982,
+        "end": 1786059166463,
+        "durationMin": 2.7,
+        "precedingSku": "8572718",
+        "precedingTitle": "D'Joy - Tanzanite Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
+        "precedingAuctionCode": "0019809878",
+        "followingSku": "8727426",
+        "followingTitle": "Diamond Ring in Sterling Silver",
+        "followingAuctionCode": "0019809813"
       }
     ],
-    "lastOnAirSku": "8572718",
-    "lastOnAirTitle": "D'Joy - Tanzanite Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019809878",
+    "lastOnAirSku": "8727426",
+    "lastOnAirTitle": "Diamond Ring in Sterling Silver",
+    "lastOnAirAuctionCode": "0019809813",
     "precedingSku": "8572718",
     "precedingTitle": "D'Joy - Tanzanite Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
     "precedingAuctionCode": "0019809878"
