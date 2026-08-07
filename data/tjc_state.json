@@ -92682,9 +92682,16 @@
       "img": true,
       "date": "2026-08-07",
       "time": "11:27:17",
-      "productUrl": null,
-      "lastUpdated": 1786098437241,
-      "source": "gha"
+      "productUrl": "/products/the-carved-treasure-collection-honey-serpentine-carved-ornament",
+      "lastUpdated": 1786099041447,
+      "source": "gha",
+      "missedAt": 1786099041447,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1786099045352,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8506060": {
       "sku": "8506060",
@@ -92711,7 +92718,7 @@
       "firstAir": 1786098565340,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786098991658,
+      "lastAir": 1786099041447,
       "title": "Spring Blossom Laundry Egg Detergent Refill - 70 washes",
       "pdpPrice": "3.99",
       "auctionCode": "0019810452",
@@ -92719,9 +92726,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-07",
-      "time": "11:36:31",
+      "time": "11:37:21",
       "productUrl": null,
-      "lastUpdated": 1786098991658,
+      "lastUpdated": 1786099041447,
       "source": "gha"
     },
     "8376691": {
@@ -92762,6 +92769,26 @@
       "productUrl": "/products/genoa-white-crystal-watch-pure-white-stainless-steel-0-010-ct",
       "productUrlChecked": 1786098747800,
       "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "4414994": {
+      "sku": "4414994",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-07",
+      "time": "11:37:21",
+      "preExisting": true,
+      "missedAt": 1786099041447,
+      "missedDelay": null,
+      "lastUpdated": 1786099041447,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "The Carved Treasure Collection - Honey Serpentine Carved Qi Lin Ornament 3215.00 Ct.",
+      "auctionCode": "0019810560",
+      "source": "gha",
+      "productUrl": "/products/the-carved-treasure-collection-honey-serpentine-carved-ornament",
+      "productUrlChecked": 1786099048619,
+      "productUrlStatus": 500,
       "productUrl404": false
     }
   },
