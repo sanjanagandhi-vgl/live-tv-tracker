@@ -91057,9 +91057,16 @@
       "img": true,
       "date": "2026-08-07",
       "time": "08:53:18",
-      "productUrl": null,
-      "lastUpdated": 1786089198253,
-      "source": "gha"
+      "productUrl": "/products/la-marey-sequined-jumper",
+      "lastUpdated": 1786089799594,
+      "source": "gha",
+      "missedAt": 1786089799594,
+      "missedDelay": 10,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "productUrlChecked": 1786089809040,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8247225": {
       "sku": "8247225",
@@ -91292,6 +91299,44 @@
       "source": "gha",
       "productUrl": "/products/la-marey-sleeve-printed-blouse-with-crystal",
       "productUrlChecked": 1786089676480,
+      "productUrlStatus": 500,
+      "productUrl404": false
+    },
+    "8503366": {
+      "sku": "8503366",
+      "firstAir": 1786089799594,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786089799594,
+      "title": "Pure And Natural Elasticated Neck Top (Size XL, 20 to 22) - Fuschia",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019810448",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-07",
+      "time": "09:03:19",
+      "productUrl": null,
+      "lastUpdated": 1786089799594,
+      "source": "gha"
+    },
+    "8225752": {
+      "sku": "8225752",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-07",
+      "time": "09:03:19",
+      "preExisting": true,
+      "missedAt": 1786089799594,
+      "missedDelay": null,
+      "lastUpdated": 1786089799594,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "La Marey Sequined Jumper (Size - XL) - Black",
+      "auctionCode": "0019809875",
+      "source": "gha",
+      "productUrl": "/products/la-marey-sequined-jumper",
+      "productUrlChecked": 1786089812125,
       "productUrlStatus": 500,
       "productUrl404": false
     }
@@ -91751,9 +91796,9 @@
         "followingAuctionCode": "0019809766"
       }
     ],
-    "lastOnAirSku": "8503358",
+    "lastOnAirSku": "8503366",
     "lastOnAirTitle": "Pure And Natural Elasticated Neck Top (Size XL, 20 to 22) - Fuschia",
-    "lastOnAirAuctionCode": "0019810447",
+    "lastOnAirAuctionCode": "0019810448",
     "precedingSku": "8414896",
     "precedingTitle": "La Marey Soft Touch Asymmetric Top (Size 20 to 22) - Blue",
     "precedingAuctionCode": "0019809746"
