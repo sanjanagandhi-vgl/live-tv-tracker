@@ -88027,8 +88027,12 @@
       "date": "2026-08-07",
       "time": "02:06:20",
       "productUrl": null,
-      "lastUpdated": 1786064780109,
-      "source": "gha"
+      "lastUpdated": 1786122938340,
+      "source": "gha",
+      "missedAt": 1786122938340,
+      "missedDelay": 969,
+      "missedPrice": 7.99,
+      "missedImg": false
     },
     "8352089": {
       "sku": "8352089",
@@ -88570,8 +88574,12 @@
       "date": "2026-08-07",
       "time": "03:09:18",
       "productUrl": null,
-      "lastUpdated": 1786068558101,
-      "source": "gha"
+      "lastUpdated": 1786122938340,
+      "source": "gha",
+      "missedAt": 1786122938340,
+      "missedDelay": 906,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8422699": {
       "sku": "8422699",
@@ -88708,8 +88716,12 @@
       "date": "2026-08-07",
       "time": "03:41:18",
       "productUrl": null,
-      "lastUpdated": 1786070478502,
-      "source": "gha"
+      "lastUpdated": 1786122938340,
+      "source": "gha",
+      "missedAt": 1786122938340,
+      "missedDelay": 874,
+      "missedPrice": 5.99,
+      "missedImg": false
     },
     "7791954": {
       "sku": "7791954",
@@ -95862,6 +95874,41 @@
       "productUrl": null,
       "lastUpdated": 1786122801829,
       "source": "gha"
+    },
+    "8568038": {
+      "sku": "8568038",
+      "firstAir": 1786122938340,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786122938340,
+      "title": "D'Joy - Boulder Opal Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver 1.64 Ct.",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019809932",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-07",
+      "time": "18:15:38",
+      "productUrl": null,
+      "lastUpdated": 1786122938340,
+      "source": "gha"
+    },
+    "8434131": {
+      "sku": "8434131",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-07",
+      "time": "18:15:38",
+      "preExisting": true,
+      "missedAt": 1786122938340,
+      "missedDelay": null,
+      "lastUpdated": 1786122938340,
+      "missedPrice": 9.99,
+      "missedImg": false,
+      "title": "Moissanite Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019809999",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
@@ -96319,9 +96366,9 @@
         "followingAuctionCode": "0019809766"
       }
     ],
-    "lastOnAirSku": "8514021",
-    "lastOnAirTitle": "Royal Bali Collection - Abalone Shell Sterling Silver Dragon Fly Earring with Hook 6.32 Ct.",
-    "lastOnAirAuctionCode": "0019810210",
+    "lastOnAirSku": "8568038",
+    "lastOnAirTitle": "D'Joy - Boulder Opal Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver 1.64 Ct.",
+    "lastOnAirAuctionCode": "0019809932",
     "precedingSku": "8414896",
     "precedingTitle": "La Marey Soft Touch Asymmetric Top (Size 20 to 22) - Blue",
     "precedingAuctionCode": "0019809746"
