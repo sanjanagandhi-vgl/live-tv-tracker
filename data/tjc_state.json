@@ -89785,11 +89785,29 @@
       "productUrl": null,
       "lastUpdated": 1786084528382,
       "source": "gha"
+    },
+    "8502776": {
+      "sku": "8502776",
+      "firstAir": 1786084703280,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786084703280,
+      "title": "Comfortisse Set of 3 Uplift Padded Bra (Size - XL, 38-40) - Black, Beige & White",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019809692",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-07",
+      "time": "07:38:23",
+      "productUrl": null,
+      "lastUpdated": 1786084703280,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786084588356,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -90207,11 +90225,22 @@
         "followingSku": "7550391",
         "followingTitle": "Creme Du Loch- Age Defying Daily Serum - 50ml",
         "followingAuctionCode": "0019810828"
+      },
+      {
+        "start": 1786084588356,
+        "end": 1786084703280,
+        "durationMin": 1.9,
+        "precedingSku": "7550391",
+        "precedingTitle": "Creme Du Loch- Age Defying Daily Serum - 50ml",
+        "precedingAuctionCode": "0019810828",
+        "followingSku": "8502776",
+        "followingTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XL, 38-40) - Black, Beige & White",
+        "followingAuctionCode": "0019809692"
       }
     ],
-    "lastOnAirSku": "7550391",
-    "lastOnAirTitle": "Creme Du Loch- Age Defying Daily Serum - 50ml",
-    "lastOnAirAuctionCode": "0019810828",
+    "lastOnAirSku": "8502776",
+    "lastOnAirTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XL, 38-40) - Black, Beige & White",
+    "lastOnAirAuctionCode": "0019809692",
     "precedingSku": "7550391",
     "precedingTitle": "Creme Du Loch- Age Defying Daily Serum - 50ml",
     "precedingAuctionCode": "0019810828"
