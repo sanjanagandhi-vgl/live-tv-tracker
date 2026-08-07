@@ -89760,11 +89760,29 @@
       "productUrl": null,
       "lastUpdated": 1786083871835,
       "source": "gha"
+    },
+    "7550391": {
+      "sku": "7550391",
+      "firstAir": 1786083989062,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786083989062,
+      "title": "Creme Du Loch- Age Defying Daily Serum - 50ml",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019810828",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-07",
+      "time": "07:26:29",
+      "productUrl": null,
+      "lastUpdated": 1786083989062,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786083932936,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -90171,11 +90189,22 @@
         "followingSku": "8071880",
         "followingTitle": "Marigold & Lotus 100% Natural Rosemary Spray for Hair & Skin Health",
         "followingAuctionCode": "0019810825"
+      },
+      {
+        "start": 1786083932936,
+        "end": 1786083989062,
+        "durationMin": 0.9,
+        "precedingSku": "7539748",
+        "precedingTitle": "Creme Du Loch- Age Defying Daily Moisturiser - New - 50ml",
+        "precedingAuctionCode": "0019810827",
+        "followingSku": "7550391",
+        "followingTitle": "Creme Du Loch- Age Defying Daily Serum - 50ml",
+        "followingAuctionCode": "0019810828"
       }
     ],
-    "lastOnAirSku": "7539748",
-    "lastOnAirTitle": "Creme Du Loch- Age Defying Daily Moisturiser - New - 50ml",
-    "lastOnAirAuctionCode": "0019810827",
+    "lastOnAirSku": "7550391",
+    "lastOnAirTitle": "Creme Du Loch- Age Defying Daily Serum - 50ml",
+    "lastOnAirAuctionCode": "0019810828",
     "precedingSku": "7539748",
     "precedingTitle": "Creme Du Loch- Age Defying Daily Moisturiser - New - 50ml",
     "precedingAuctionCode": "0019810827"
