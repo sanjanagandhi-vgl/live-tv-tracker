@@ -87731,11 +87731,29 @@
       "productUrl": null,
       "lastUpdated": 1786063642259,
       "source": "gha"
+    },
+    "4424071": {
+      "sku": "4424071",
+      "firstAir": 1786063759329,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786063759329,
+      "title": "Natural Crystal- Gemstones of the 12 Constellations",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019809921",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-07",
+      "time": "01:49:19",
+      "productUrl": null,
+      "lastUpdated": 1786063759329,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786063701963,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -88021,11 +88039,22 @@
         "followingSku": "4444235",
         "followingTitle": "Set of 2 - Simulated Mystic White Crystal Dangling Earring with Push Back in Yellow Gold Tone",
         "followingAuctionCode": "0019808775"
+      },
+      {
+        "start": 1786063701963,
+        "end": 1786063759329,
+        "durationMin": 1.0,
+        "precedingSku": "8242372",
+        "precedingTitle": "Greek Key Bracelet (Size - 7.25)",
+        "precedingAuctionCode": "0019808777",
+        "followingSku": "4424071",
+        "followingTitle": "Natural Crystal- Gemstones of the 12 Constellations",
+        "followingAuctionCode": "0019809921"
       }
     ],
-    "lastOnAirSku": "8242372",
-    "lastOnAirTitle": "Greek Key Bracelet (Size - 7.25)",
-    "lastOnAirAuctionCode": "0019808777",
+    "lastOnAirSku": "4424071",
+    "lastOnAirTitle": "Natural Crystal- Gemstones of the 12 Constellations",
+    "lastOnAirAuctionCode": "0019809921",
     "precedingSku": "8242372",
     "precedingTitle": "Greek Key Bracelet (Size - 7.25)",
     "precedingAuctionCode": "0019808777"
