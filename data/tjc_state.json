@@ -24788,21 +24788,26 @@
       "sku": "8438368",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-07",
+      "time": "01:13:23",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1786061603351,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "D'Joy African Amethyst Beads Necklace (Size - 20) with Magnetic Lock in Rhodium Overlay Sterling Silver 375.00 Ct.",
-      "auctionCode": "0019800826",
+      "auctionCode": "0019808773",
       "source": "gha",
       "productUrl": "/products/djoy-african-amethyst-beads-necklace-size-20-with-magnetic-lock-in-rhodium-overlay-sterling-silver-375-00-ct",
       "productUrlChecked": 1785474801049,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1786061603351,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8312123": {
       "sku": "8312123",
@@ -87504,8 +87509,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786061542889,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -87769,11 +87774,22 @@
         "followingSku": "8276625",
         "followingTitle": "Marambaia London Blue Topaz Solitaire Stud Earring with Push Back in Platinum Overlay Sterling Silver 1.92 Ct.",
         "followingAuctionCode": "0019808770"
+      },
+      {
+        "start": 1786061542889,
+        "end": 1786061603351,
+        "durationMin": 1.0,
+        "precedingSku": "8276625",
+        "precedingTitle": "Marambaia London Blue Topaz Solitaire Stud Earring with Push Back in Platinum Overlay Sterling Silver 1.92 Ct.",
+        "precedingAuctionCode": "0019808770",
+        "followingSku": "8438368",
+        "followingTitle": "D'Joy African Amethyst Beads Necklace (Size - 20) with Magnetic Lock in Rhodium Overlay Sterling Silver 375.00 Ct.",
+        "followingAuctionCode": "0019808773"
       }
     ],
-    "lastOnAirSku": "8276625",
-    "lastOnAirTitle": "Marambaia London Blue Topaz Solitaire Stud Earring with Push Back in Platinum Overlay Sterling Silver 1.92 Ct.",
-    "lastOnAirAuctionCode": "0019808770",
+    "lastOnAirSku": "8438368",
+    "lastOnAirTitle": "D'Joy African Amethyst Beads Necklace (Size - 20) with Magnetic Lock in Rhodium Overlay Sterling Silver 375.00 Ct.",
+    "lastOnAirAuctionCode": "0019808773",
     "precedingSku": "8276625",
     "precedingTitle": "Marambaia London Blue Topaz Solitaire Stud Earring with Push Back in Platinum Overlay Sterling Silver 1.92 Ct.",
     "precedingAuctionCode": "0019808770"
