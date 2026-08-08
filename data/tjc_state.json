@@ -2365,15 +2365,23 @@
       "sku": "8535912",
       "tvPrice": "",
       "remarks": "",
-      "time": "21:42:39",
+      "time": "07:17:17",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Navy",
-      "auctionCode": "0019791063",
-      "source": "gha"
+      "title": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
+      "auctionCode": "0019811941",
+      "source": "gha",
+      "lastAir": 1786169837478,
+      "pdpPrice": "24.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-08",
+      "productUrl": null,
+      "lastUpdated": 1786169837478
     },
     "8535919": {
       "sku": "8535919",
@@ -101902,8 +101910,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786169783378,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -102530,11 +102538,22 @@
         "followingSku": "7544838",
         "followingTitle": "GAMAGES OF LONDON Mantua Diamond Swiss Quartz Movement Water Resistant Ladies Watch with Navy Blu...",
         "followingAuctionCode": "0019811043"
+      },
+      {
+        "start": 1786169783378,
+        "end": 1786169837478,
+        "durationMin": 0.9,
+        "precedingSku": "8377488",
+        "precedingTitle": "Inflatable Reclining Couch Sofa Bed with Armrest (178 cm) - Blue",
+        "precedingAuctionCode": "0019810900",
+        "followingSku": "8535912",
+        "followingTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
+        "followingAuctionCode": "0019811941"
       }
     ],
-    "lastOnAirSku": "8377488",
-    "lastOnAirTitle": "Inflatable Reclining Couch Sofa Bed with Armrest (178 cm) - Blue",
-    "lastOnAirAuctionCode": "0019810900",
+    "lastOnAirSku": "8535912",
+    "lastOnAirTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
+    "lastOnAirAuctionCode": "0019811941",
     "precedingSku": "8377488",
     "precedingTitle": "Inflatable Reclining Couch Sofa Bed with Armrest (178 cm) - Blue",
     "precedingAuctionCode": "0019810900"
