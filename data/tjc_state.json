@@ -101932,11 +101932,29 @@
       "productUrl": null,
       "lastUpdated": 1786172837195,
       "source": "gha"
+    },
+    "8301307": {
+      "sku": "8301307",
+      "firstAir": 1786172959042,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786172959042,
+      "title": "Velvet Smoke Zephr 5ml Oud Musk",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019810936",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-08",
+      "time": "08:09:19",
+      "productUrl": null,
+      "lastUpdated": 1786172959042,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786172901424,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -102585,11 +102603,22 @@
         "followingSku": "8413527",
         "followingTitle": "Double Layer Inverted Windproof Manual Open Stick Reverse Umbrella - Green & Black",
         "followingAuctionCode": "0019811952"
+      },
+      {
+        "start": 1786172901424,
+        "end": 1786172959042,
+        "durationMin": 1.0,
+        "precedingSku": "8245391",
+        "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
+        "precedingAuctionCode": "0019810934",
+        "followingSku": "8301307",
+        "followingTitle": "Velvet Smoke Zephr 5ml Oud Musk",
+        "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "8245391",
-    "lastOnAirTitle": "Harry Potter Magical Essence Man EDP - 100ml",
-    "lastOnAirAuctionCode": "0019810934",
+    "lastOnAirSku": "8301307",
+    "lastOnAirTitle": "Velvet Smoke Zephr 5ml Oud Musk",
+    "lastOnAirAuctionCode": "0019810936",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
