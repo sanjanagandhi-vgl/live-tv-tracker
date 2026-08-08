@@ -99391,11 +99391,29 @@
       "productUrl": null,
       "lastUpdated": 1786151248885,
       "source": "gha"
+    },
+    "8214475": {
+      "sku": "8214475",
+      "firstAir": 1786151358431,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786151358431,
+      "title": "La Marey Genuine Leather Crossbody Bag with Chain Strap",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019811109",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-08",
+      "time": "02:09:18",
+      "productUrl": null,
+      "lastUpdated": 1786151358431,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786151300949,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -99868,11 +99886,22 @@
         "followingSku": "8301476",
         "followingTitle": "Adult Light Up Beanie Hat",
         "followingAuctionCode": "0019811904"
+      },
+      {
+        "start": 1786151300949,
+        "end": 1786151358431,
+        "durationMin": 1.0,
+        "precedingSku": "7890954",
+        "precedingTitle": "La Marey Genuine Leather Snakeskin Crossbody Bag",
+        "precedingAuctionCode": "0019811104",
+        "followingSku": "8214475",
+        "followingTitle": "La Marey Genuine Leather Crossbody Bag with Chain Strap",
+        "followingAuctionCode": "0019811109"
       }
     ],
-    "lastOnAirSku": "7890954",
-    "lastOnAirTitle": "La Marey Genuine Leather Snakeskin Crossbody Bag",
-    "lastOnAirAuctionCode": "0019811104",
+    "lastOnAirSku": "8214475",
+    "lastOnAirTitle": "La Marey Genuine Leather Crossbody Bag with Chain Strap",
+    "lastOnAirAuctionCode": "0019811109",
     "precedingSku": "7890954",
     "precedingTitle": "La Marey Genuine Leather Snakeskin Crossbody Bag",
     "precedingAuctionCode": "0019811104"
