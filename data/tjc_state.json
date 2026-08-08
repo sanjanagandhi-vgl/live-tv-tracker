@@ -20392,17 +20392,23 @@
       "sku": "8506032",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "11:44:23",
+      "date": "2026-08-08",
+      "time": "06:14:20",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785321863299,
+      "lastUpdated": 1786166060928,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
-      "auctionCode": "0019797747",
-      "source": "gha"
+      "auctionCode": "0019810923",
+      "source": "gha",
+      "lastAir": 1786166060928,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8535920": {
       "sku": "8535920",
@@ -101741,8 +101747,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786165998206,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -102347,11 +102353,22 @@
         "followingSku": "8552967",
         "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Flat Figaro Necklace (Size - 24) with Lobster C...",
         "followingAuctionCode": "0019810504"
+      },
+      {
+        "start": 1786165998206,
+        "end": 1786166060928,
+        "durationMin": 1.0,
+        "precedingSku": "7544838",
+        "precedingTitle": "GAMAGES OF LONDON Mantua Diamond Swiss Quartz Movement Water Resistant Ladies Watch with Navy Blu...",
+        "precedingAuctionCode": "0019811043",
+        "followingSku": "8506032",
+        "followingTitle": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
+        "followingAuctionCode": "0019810923"
       }
     ],
-    "lastOnAirSku": "7544838",
-    "lastOnAirTitle": "GAMAGES OF LONDON Mantua Diamond Swiss Quartz Movement Water Resistant Ladies Watch with Navy Blu...",
-    "lastOnAirAuctionCode": "0019811043",
+    "lastOnAirSku": "8506032",
+    "lastOnAirTitle": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
+    "lastOnAirAuctionCode": "0019810923",
     "precedingSku": "7544838",
     "precedingTitle": "GAMAGES OF LONDON Mantua Diamond Swiss Quartz Movement Water Resistant Ladies Watch with Navy Blu...",
     "precedingAuctionCode": "0019811043"
