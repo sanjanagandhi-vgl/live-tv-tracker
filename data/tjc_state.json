@@ -107811,9 +107811,16 @@
       "img": true,
       "date": "2026-08-09",
       "time": "02:24:22",
-      "productUrl": null,
-      "lastUpdated": 1786238662418,
-      "source": "gha"
+      "productUrl": "/products/eternal-night-extrait-de-perfume-50ml-male",
+      "lastUpdated": 1786239262590,
+      "source": "gha",
+      "missedAt": 1786239262590,
+      "missedDelay": 10,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1786239272576,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "7971965": {
       "sku": "7971965",
@@ -107832,6 +107839,44 @@
       "productUrl": null,
       "lastUpdated": 1786239199469,
       "source": "gha"
+    },
+    "8081806": {
+      "sku": "8081806",
+      "firstAir": 1786239262590,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786239262590,
+      "title": "Cosmoss Fragrance-Free Cream for Sensitive Skin - 50ml",
+      "pdpPrice": "147.99",
+      "auctionCode": "0019812474",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-09",
+      "time": "02:34:22",
+      "productUrl": null,
+      "lastUpdated": 1786239262590,
+      "source": "gha"
+    },
+    "8021451": {
+      "sku": "8021451",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-09",
+      "time": "02:34:22",
+      "preExisting": true,
+      "missedAt": 1786239262590,
+      "missedDelay": null,
+      "lastUpdated": 1786239262590,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Eternal Day - Extrait de Perfume - 50ml (Male)",
+      "auctionCode": "0019811013",
+      "source": "gha",
+      "productUrl": "/products/eternal-night-extrait-de-perfume-50ml-male",
+      "productUrlChecked": 1786239275756,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -108498,9 +108543,9 @@
         "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "7971965",
-    "lastOnAirTitle": "Soulsmart Handheld Percussion Massage Gun with 4 Attachments for Muscle Relaxation - Black",
-    "lastOnAirAuctionCode": "0019811007",
+    "lastOnAirSku": "8081806",
+    "lastOnAirTitle": "Cosmoss Fragrance-Free Cream for Sensitive Skin - 50ml",
+    "lastOnAirAuctionCode": "0019812474",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
