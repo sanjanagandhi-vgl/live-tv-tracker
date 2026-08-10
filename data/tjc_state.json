@@ -120387,9 +120387,16 @@
       "img": true,
       "date": "2026-08-10",
       "time": "15:31:25",
-      "productUrl": null,
-      "lastUpdated": 1786372285426,
-      "source": "gha"
+      "productUrl": "/products/set-of-5-mini-pouches",
+      "lastUpdated": 1786372838691,
+      "source": "gha",
+      "missedAt": 1786372838691,
+      "missedDelay": 9,
+      "missedPrice": 6.99,
+      "missedImg": true,
+      "productUrlChecked": 1786372847184,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8245124": {
       "sku": "8245124",
@@ -120568,6 +120575,24 @@
       "productUrlChecked": 1786372650004,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "8241554": {
+      "sku": "8241554",
+      "firstAir": 1786372838691,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786372838691,
+      "title": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019813570",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-10",
+      "time": "15:40:38",
+      "productUrl": null,
+      "lastUpdated": 1786372838691,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -121234,9 +121259,9 @@
         "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "8572178",
-    "lastOnAirTitle": "Bordlite Insulated & Leakproof Cooler Lunch Bag (15L) - Black",
-    "lastOnAirAuctionCode": "0019813871",
+    "lastOnAirSku": "8241554",
+    "lastOnAirTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
+    "lastOnAirAuctionCode": "0019813570",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
