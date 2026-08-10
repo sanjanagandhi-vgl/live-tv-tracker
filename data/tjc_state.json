@@ -118372,9 +118372,16 @@
       "img": true,
       "date": "2026-08-10",
       "time": "09:43:20",
-      "productUrl": null,
-      "lastUpdated": 1786351400789,
-      "source": "gha"
+      "productUrl": "/products/qed-london-diamante-drawstring-hoodie",
+      "lastUpdated": 1786351941494,
+      "source": "gha",
+      "missedAt": 1786351941494,
+      "missedDelay": 9,
+      "missedPrice": 16.99,
+      "missedImg": true,
+      "productUrlChecked": 1786351944675,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7966919": {
       "sku": "7966919",
@@ -118392,6 +118399,24 @@
       "time": "09:46:22",
       "productUrl": null,
       "lastUpdated": 1786351582258,
+      "source": "gha"
+    },
+    "8107980": {
+      "sku": "8107980",
+      "firstAir": 1786351941494,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786351941494,
+      "title": "TAMSY Womens Relaxed Fit Elastic Waist Wide Leg Culottes",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019813350",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-10",
+      "time": "09:52:21",
+      "productUrl": null,
+      "lastUpdated": 1786351941494,
       "source": "gha"
     }
   },
@@ -119059,9 +119084,9 @@
         "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "7931122",
-    "lastOnAirTitle": "La Marey Jersey Waistband Midi Dress",
-    "lastOnAirAuctionCode": "0019813367",
+    "lastOnAirSku": "8107980",
+    "lastOnAirTitle": "TAMSY Womens Relaxed Fit Elastic Waist Wide Leg Culottes",
+    "lastOnAirAuctionCode": "0019813350",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
