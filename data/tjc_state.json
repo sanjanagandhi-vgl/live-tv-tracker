@@ -130975,7 +130975,7 @@
       "firstAir": 1786465102342,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786476864473,
+      "lastAir": 1786476987698,
       "title": "Nova of London 2-In-1 Tie Dye Mesh Overlay Necklace Top (Size - S, 10-12) - Blue",
       "pdpPrice": 12.99,
       "auctionCode": "0019814413",
@@ -130983,9 +130983,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-11",
-      "time": "20:34:24",
+      "time": "20:36:27",
       "productUrl": "/products/nova-of-london-top?variant=53102300135690",
-      "lastUpdated": 1786476864473,
+      "lastUpdated": 1786476987698,
       "source": "gha",
       "missedAt": 1786465761979,
       "missedDelay": 10,
@@ -131957,8 +131957,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786476930691,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -132651,6 +132651,17 @@
         "followingSku": "8233790",
         "followingTitle": "100% Viscose Floral V-Neck Midi Dress With Tassel Waist Tie (Size L-XL, 16-22) - Cobalt Blue",
         "followingAuctionCode": "0019815477"
+      },
+      {
+        "start": 1786476930691,
+        "end": 1786476987698,
+        "durationMin": 1.0,
+        "precedingSku": "8566016",
+        "precedingTitle": "Nova of London 2-In-1 Tie Dye Mesh Overlay Necklace Top (Size - S, 10-12) - Blue",
+        "precedingAuctionCode": "0019814413",
+        "followingSku": "8566016",
+        "followingTitle": "Nova of London 2-In-1 Tie Dye Mesh Overlay Necklace Top (Size - S, 10-12) - Blue",
+        "followingAuctionCode": "0019814413"
       }
     ],
     "lastOnAirSku": "8566016",
