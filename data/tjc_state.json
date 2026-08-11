@@ -133477,11 +133477,29 @@
       "productUrlChecked": 1786489133883,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "8466299": {
+      "sku": "8466299",
+      "firstAir": 1786489701840,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786489701840,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019816391",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-12",
+      "time": "00:08:21",
+      "productUrl": null,
+      "lastUpdated": 1786489701840,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786489581483,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -134251,11 +134269,22 @@
         "followingSku": "7962303",
         "followingTitle": "TUCSON FINDS - AAA African Amethyst & White Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 18.30 Ct.",
         "followingAuctionCode": "0019816279"
+      },
+      {
+        "start": 1786489581483,
+        "end": 1786489701840,
+        "durationMin": 2.0,
+        "precedingSku": "8498239",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019816091",
+        "followingSku": "8466299",
+        "followingTitle": null,
+        "followingAuctionCode": "0019816391"
       }
     ],
-    "lastOnAirSku": "8498239",
+    "lastOnAirSku": "8466299",
     "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019816091",
+    "lastOnAirAuctionCode": "0019816391",
     "precedingSku": "8498239",
     "precedingTitle": null,
     "precedingAuctionCode": "0019816091"
