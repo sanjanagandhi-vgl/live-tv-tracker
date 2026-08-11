@@ -124152,9 +124152,16 @@
       "img": true,
       "date": "2026-08-11",
       "time": "03:19:18",
-      "productUrl": null,
-      "lastUpdated": 1786414758535,
-      "source": "gha"
+      "productUrl": "/products/designer-closeout-valentino-rectangular-unisex-readers-power-2-0-d",
+      "lastUpdated": 1786415358948,
+      "source": "gha",
+      "missedAt": 1786415358948,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1786415366898,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8289986": {
       "sku": "8289986",
@@ -124210,6 +124217,24 @@
       "time": "03:28:24",
       "productUrl": null,
       "lastUpdated": 1786415304165,
+      "source": "gha"
+    },
+    "8300417": {
+      "sku": "8300417",
+      "firstAir": 1786415358948,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786415358948,
+      "title": "IW Special Socks",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019814129",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-11",
+      "time": "03:29:18",
+      "productUrl": null,
+      "lastUpdated": 1786415358948,
       "source": "gha"
     }
   },
@@ -124877,9 +124902,9 @@
         "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "7733319",
-    "lastOnAirTitle": "Classic Beret Hat - Black",
-    "lastOnAirAuctionCode": "0019814091",
+    "lastOnAirSku": "8300417",
+    "lastOnAirTitle": "IW Special Socks",
+    "lastOnAirAuctionCode": "0019814129",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
