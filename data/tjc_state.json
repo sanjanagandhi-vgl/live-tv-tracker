@@ -126761,9 +126761,16 @@
       "img": true,
       "date": "2026-08-11",
       "time": "08:42:23",
-      "productUrl": null,
-      "lastUpdated": 1786434143521,
-      "source": "gha"
+      "productUrl": "/products/ladies-leather-sandal",
+      "lastUpdated": 1786434741954,
+      "source": "gha",
+      "missedAt": 1786434741954,
+      "missedDelay": 10,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "productUrlChecked": 1786434747297,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8166417": {
       "sku": "8166417",
@@ -126896,6 +126903,44 @@
       "source": "gha",
       "productUrl": "/products/mandy-ladies-leather-walking-sporty-sandals-size-4-pink-amp-black",
       "productUrlChecked": 1786434656534,
+      "productUrlStatus": 500,
+      "productUrl404": false
+    },
+    "8515765": {
+      "sku": "8515765",
+      "firstAir": 1786434741954,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786434741954,
+      "title": "La Marey Short Sleeve Aop Top (Size 16) - Light Pink",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019814616",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-11",
+      "time": "08:52:21",
+      "productUrl": null,
+      "lastUpdated": 1786434741954,
+      "source": "gha"
+    },
+    "8166424": {
+      "sku": "8166424",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-11",
+      "time": "08:52:21",
+      "preExisting": true,
+      "missedAt": 1786434741954,
+      "missedDelay": null,
+      "lastUpdated": 1786434741954,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "title": "Mandy Leather Comfortable & Lightweight Padded Sandal with Adjustable Straps (Size 6) - Light Blue",
+      "auctionCode": "0019815823",
+      "source": "gha",
+      "productUrl": "/products/ladies-leather-sandal",
+      "productUrlChecked": 1786434750706,
       "productUrlStatus": 500,
       "productUrl404": false
     }
@@ -127564,9 +127609,9 @@
         "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "8188607",
-    "lastOnAirTitle": "Mandy Ladies Leather Walking Sporty Sandals (Size 4) - Pink &amp; Black",
-    "lastOnAirAuctionCode": "0019815817",
+    "lastOnAirSku": "8515765",
+    "lastOnAirTitle": "La Marey Short Sleeve Aop Top (Size 16) - Light Pink",
+    "lastOnAirAuctionCode": "0019814616",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
