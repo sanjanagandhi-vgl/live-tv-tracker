@@ -127666,9 +127666,16 @@
       "img": true,
       "date": "2026-08-11",
       "time": "09:17:21",
-      "productUrl": null,
-      "lastUpdated": 1786436241805,
-      "source": "gha"
+      "productUrl": "/products/tamsy-ladies-shirt",
+      "lastUpdated": 1786436843863,
+      "source": "gha",
+      "missedAt": 1786436843863,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1786436848084,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7898129": {
       "sku": "7898129",
@@ -127941,6 +127948,44 @@
       "productUrl": null,
       "lastUpdated": 1786436727895,
       "source": "gha"
+    },
+    "7856613": {
+      "sku": "7856613",
+      "firstAir": 1786436843863,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786436843863,
+      "title": "La Marey Brushed Checked Shirt-Coat",
+      "pdpPrice": "16.99",
+      "auctionCode": "0019814771",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-11",
+      "time": "09:27:23",
+      "productUrl": null,
+      "lastUpdated": 1786436843863,
+      "source": "gha"
+    },
+    "7724555": {
+      "sku": "7724555",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-11",
+      "time": "09:27:23",
+      "preExisting": true,
+      "missedAt": 1786436843863,
+      "missedDelay": null,
+      "lastUpdated": 1786436843863,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Brushed Cotton Blend Checked Shacket - Brown & Beige",
+      "auctionCode": "0019814736",
+      "source": "gha",
+      "productUrl": "/products/tamsy-ladies-shirt",
+      "productUrlChecked": 1786436851192,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -128607,9 +128652,9 @@
         "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "8420756",
-    "lastOnAirTitle": "Set of 5 Mini Pouches (10 x 9 x 3.5cm) - Multi-Colour",
-    "lastOnAirAuctionCode": "0019814128",
+    "lastOnAirSku": "7856613",
+    "lastOnAirTitle": "La Marey Brushed Checked Shirt-Coat",
+    "lastOnAirAuctionCode": "0019814771",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
