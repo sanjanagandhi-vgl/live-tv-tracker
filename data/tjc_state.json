@@ -132870,7 +132870,7 @@
       "tvPrice": "",
       "remarks": "",
       "lastAir": 1786487239604,
-      "title": null,
+      "title": "D'Joy -  AAA African Amethyst Solitaire floral Vine Earring with Push Back in Platinum Overlay Sterling Silver 5.05 Ct.",
       "pdpPrice": null,
       "auctionCode": "0019816075",
       "buy": true,
@@ -132879,8 +132879,12 @@
       "date": "2026-08-11",
       "time": "23:27:19",
       "productUrl": null,
-      "lastUpdated": 1786487239604,
-      "source": "gha"
+      "lastUpdated": 1786487839669,
+      "source": "gha",
+      "missedAt": 1786487839669,
+      "missedDelay": 10,
+      "missedPrice": 39.99,
+      "missedImg": false
     },
     "8591193": {
       "sku": "8591193",
@@ -133019,11 +133023,29 @@
       "productUrl": null,
       "lastUpdated": 1786487735586,
       "source": "gha"
+    },
+    "7962303": {
+      "sku": "7962303",
+      "firstAir": 1786487839669,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786487839669,
+      "title": "TUCSON FINDS - AAA African Amethyst & White Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 18.30 Ct.",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019816279",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-11",
+      "time": "23:37:19",
+      "productUrl": null,
+      "lastUpdated": 1786487839669,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786487783379,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -133782,11 +133804,22 @@
         "followingSku": "8480190",
         "followingTitle": null,
         "followingAuctionCode": "0019816075"
+      },
+      {
+        "start": 1786487783379,
+        "end": 1786487839669,
+        "durationMin": 0.9,
+        "precedingSku": "8481296",
+        "precedingTitle": "D'Joy - AAA African Amethyst & Fresh Water Pearl Heart Ring in Rhodium Overlay Sterling Silver 12.15 Ct.",
+        "precedingAuctionCode": "0019816182",
+        "followingSku": "7962303",
+        "followingTitle": "TUCSON FINDS - AAA African Amethyst & White Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 18.30 Ct.",
+        "followingAuctionCode": "0019816279"
       }
     ],
-    "lastOnAirSku": "8481296",
-    "lastOnAirTitle": "D'Joy - AAA African Amethyst & Fresh Water Pearl Heart Ring in Rhodium Overlay Sterling Silver 12.15 Ct.",
-    "lastOnAirAuctionCode": "0019816182",
+    "lastOnAirSku": "7962303",
+    "lastOnAirTitle": "TUCSON FINDS - AAA African Amethyst & White Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 18.30 Ct.",
+    "lastOnAirAuctionCode": "0019816279",
     "precedingSku": "8481296",
     "precedingTitle": "D'Joy - AAA African Amethyst & Fresh Water Pearl Heart Ring in Rhodium Overlay Sterling Silver 12.15 Ct.",
     "precedingAuctionCode": "0019816182"
