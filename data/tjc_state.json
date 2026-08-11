@@ -133495,11 +133495,29 @@
       "productUrl": null,
       "lastUpdated": 1786489879930,
       "source": "gha"
+    },
+    "4455137": {
+      "sku": "4455137",
+      "firstAir": 1786490000585,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786490000585,
+      "title": "AAA African Amethyst Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20) 1.17 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019816098",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "00:13:20",
+      "productUrl": null,
+      "lastUpdated": 1786490000585,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786489944731,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -134280,11 +134298,22 @@
         "followingSku": "8466299",
         "followingTitle": null,
         "followingAuctionCode": "0019816391"
+      },
+      {
+        "start": 1786489944731,
+        "end": 1786490000585,
+        "durationMin": 0.9,
+        "precedingSku": "8466299",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019816391",
+        "followingSku": "4455137",
+        "followingTitle": "AAA African Amethyst Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20) 1.17 Ct.",
+        "followingAuctionCode": "0019816098"
       }
     ],
-    "lastOnAirSku": "8466299",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019816391",
+    "lastOnAirSku": "4455137",
+    "lastOnAirTitle": "AAA African Amethyst Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20) 1.17 Ct.",
+    "lastOnAirAuctionCode": "0019816098",
     "precedingSku": "8466299",
     "precedingTitle": null,
     "precedingAuctionCode": "0019816391"
