@@ -127446,9 +127446,16 @@
       "img": true,
       "date": "2026-08-11",
       "time": "09:09:20",
-      "productUrl": null,
-      "lastUpdated": 1786435760295,
-      "source": "gha"
+      "productUrl": "/products/la-marey-viscose-solid-cardigan-and-sweater-jumper",
+      "lastUpdated": 1786436358289,
+      "source": "gha",
+      "missedAt": 1786436358289,
+      "missedDelay": 10,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1786436369115,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8411650": {
       "sku": "8411650",
@@ -127699,6 +127706,44 @@
       "source": "gha",
       "productUrl": "/products/la-marey-viscose-solid-cardigan-and-sweater-jumper",
       "productUrlChecked": 1786436324009,
+      "productUrlStatus": 500,
+      "productUrl404": false
+    },
+    "7724566": {
+      "sku": "7724566",
+      "firstAir": 1786436358289,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786436358289,
+      "title": "Tamsy Ladies Shirt",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019814692",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-11",
+      "time": "09:19:18",
+      "productUrl": null,
+      "lastUpdated": 1786436358289,
+      "source": "gha"
+    },
+    "7898145": {
+      "sku": "7898145",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-11",
+      "time": "09:19:18",
+      "preExisting": true,
+      "missedAt": 1786436358289,
+      "missedDelay": null,
+      "lastUpdated": 1786436358289,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey 100% Cotton Cozy Round Neck Jumper (Size L) - Grey",
+      "auctionCode": "0019814662",
+      "source": "gha",
+      "productUrl": "/products/la-marey-viscose-solid-cardigan-and-sweater-jumper",
+      "productUrlChecked": 1786436372201,
       "productUrlStatus": 500,
       "productUrl404": false
     }
@@ -128367,9 +128412,9 @@
         "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "8420756",
-    "lastOnAirTitle": "Set of 5 Mini Pouches (10 x 9 x 3.5cm) - Multi-Colour",
-    "lastOnAirAuctionCode": "0019814128",
+    "lastOnAirSku": "7724566",
+    "lastOnAirTitle": "Tamsy Ladies Shirt",
+    "lastOnAirAuctionCode": "0019814692",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
