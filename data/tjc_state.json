@@ -127516,9 +127516,16 @@
       "img": true,
       "date": "2026-08-11",
       "time": "09:13:19",
-      "productUrl": null,
-      "lastUpdated": 1786435999207,
-      "source": "gha"
+      "productUrl": "/products/la-marey-balloon-sleeve-jumper-1726131652",
+      "lastUpdated": 1786436542766,
+      "source": "gha",
+      "missedAt": 1786436542766,
+      "missedDelay": 9,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1786436547720,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7724549": {
       "sku": "7724549",
@@ -127831,6 +127838,24 @@
       "productUrlChecked": 1786436459422,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "7810749": {
+      "sku": "7810749",
+      "firstAir": 1786436542766,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786436542766,
+      "title": "La Marey Brushed Checked Shirt",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019814705",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-11",
+      "time": "09:22:22",
+      "productUrl": null,
+      "lastUpdated": 1786436542766,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -128497,9 +128522,9 @@
         "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "7810746",
+    "lastOnAirSku": "7810749",
     "lastOnAirTitle": "La Marey Brushed Checked Shirt",
-    "lastOnAirAuctionCode": "0019814698",
+    "lastOnAirAuctionCode": "0019814705",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
