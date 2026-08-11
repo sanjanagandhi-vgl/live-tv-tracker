@@ -127181,9 +127181,16 @@
       "img": true,
       "date": "2026-08-11",
       "time": "09:01:05",
-      "productUrl": null,
-      "lastUpdated": 1786435265414,
-      "source": "gha"
+      "productUrl": "/products/tamsy-womens-viscose-relaxed-fit-elastic-waist-wide-leg-palazzo-2978111158",
+      "lastUpdated": 1786435843103,
+      "source": "gha",
+      "missedAt": 1786435843103,
+      "missedDelay": 10,
+      "missedPrice": 8.99,
+      "missedImg": true,
+      "productUrlChecked": 1786435847659,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8188608": {
       "sku": "8188608",
@@ -127414,6 +127421,44 @@
       "productUrl": null,
       "lastUpdated": 1786435760295,
       "source": "gha"
+    },
+    "8411650": {
+      "sku": "8411650",
+      "firstAir": 1786435843103,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786435843103,
+      "title": "Heat machine solid scarf",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019814665",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-11",
+      "time": "09:10:43",
+      "productUrl": null,
+      "lastUpdated": 1786435843103,
+      "source": "gha"
+    },
+    "8111220": {
+      "sku": "8111220",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-11",
+      "time": "09:10:43",
+      "preExisting": true,
+      "missedAt": 1786435843103,
+      "missedDelay": null,
+      "lastUpdated": 1786435843103,
+      "missedPrice": 8.99,
+      "missedImg": true,
+      "title": "Tamsy Womens Viscose Relaxed Fit Elastic Waist Wide Leg Palazzo(One Size) - Black",
+      "auctionCode": "0019814632",
+      "source": "gha",
+      "productUrl": "/products/tamsy-womens-viscose-relaxed-fit-elastic-waist-wide-leg-palazzo-2978111158",
+      "productUrlChecked": 1786435850796,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -128080,9 +128125,9 @@
         "followingAuctionCode": "0019810936"
       }
     ],
-    "lastOnAirSku": "7898144",
-    "lastOnAirTitle": "La Marey Viscose Solid Cardigan and Sweater-Jumper",
-    "lastOnAirAuctionCode": "0019814647",
+    "lastOnAirSku": "8411650",
+    "lastOnAirTitle": "Heat machine solid scarf",
+    "lastOnAirAuctionCode": "0019814665",
     "precedingSku": "8245391",
     "precedingTitle": "Harry Potter Magical Essence Man EDP - 100ml",
     "precedingAuctionCode": "0019810934"
