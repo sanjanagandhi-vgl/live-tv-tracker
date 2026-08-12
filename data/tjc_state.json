@@ -135535,11 +135535,29 @@
       "productUrlChecked": 1786519050787,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7898138": {
+      "sku": "7898138",
+      "firstAir": 1786519102990,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786519102990,
+      "title": "La Marey Viscose Solid Cardigan and Sweater-Jumper",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019816652",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "08:18:22",
+      "productUrl": null,
+      "lastUpdated": 1786519102990,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786519040227,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136837,11 +136855,22 @@
         "followingSku": "8196744",
         "followingTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
         "followingAuctionCode": "0019817287"
+      },
+      {
+        "start": 1786519040227,
+        "end": 1786519102990,
+        "durationMin": 1.0,
+        "precedingSku": "8158482",
+        "precedingTitle": "Genuine Leather crossbody bag",
+        "precedingAuctionCode": "0019817264",
+        "followingSku": "7898138",
+        "followingTitle": "La Marey Viscose Solid Cardigan and Sweater-Jumper",
+        "followingAuctionCode": "0019816652"
       }
     ],
-    "lastOnAirSku": "8158482",
-    "lastOnAirTitle": "Genuine Leather crossbody bag",
-    "lastOnAirAuctionCode": "0019817264",
+    "lastOnAirSku": "7898138",
+    "lastOnAirTitle": "La Marey Viscose Solid Cardigan and Sweater-Jumper",
+    "lastOnAirAuctionCode": "0019816652",
     "precedingSku": "8158482",
     "precedingTitle": "Genuine Leather crossbody bag",
     "precedingAuctionCode": "0019817264"
