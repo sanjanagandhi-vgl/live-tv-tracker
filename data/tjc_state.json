@@ -6427,16 +6427,16 @@
       "firstAir": 1784929535364,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786396640525,
+      "lastAir": 1786508958167,
       "title": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
-      "pdpPrice": "199.99",
-      "auctionCode": "0019814052",
+      "pdpPrice": "249.99",
+      "auctionCode": "0019816563",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-10",
-      "time": "22:17:20",
-      "lastUpdated": 1786396640525,
+      "date": "2026-08-12",
+      "time": "05:29:18",
+      "lastUpdated": 1786508958167,
       "source": "gha",
       "missedAt": 1784929876646,
       "missedDelay": 1,
@@ -135135,8 +135135,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786508902335,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136291,11 +136291,22 @@
         "followingSku": "8560433",
         "followingTitle": "9K Yellow Gold Paperclip Necklace with Lobster Clasp",
         "followingAuctionCode": "0019816522"
+      },
+      {
+        "start": 1786508902335,
+        "end": 1786508958167,
+        "durationMin": 0.9,
+        "precedingSku": "8572397",
+        "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019816542",
+        "followingSku": "8597033",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+        "followingAuctionCode": "0019816563"
       }
     ],
-    "lastOnAirSku": "8572397",
-    "lastOnAirTitle": "9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019816542",
+    "lastOnAirSku": "8597033",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019816563",
     "precedingSku": "8572397",
     "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019816542"
