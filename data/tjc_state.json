@@ -134476,9 +134476,16 @@
       "img": true,
       "date": "2026-08-12",
       "time": "02:42:24",
-      "productUrl": null,
-      "lastUpdated": 1786498944023,
-      "source": "gha"
+      "productUrl": "/products/snow-flocked-artificial-christmas-tree",
+      "lastUpdated": 1786499542252,
+      "source": "gha",
+      "missedAt": 1786499542252,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1786499552907,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "7699351": {
       "sku": "7699351",
@@ -134515,11 +134522,29 @@
       "productUrl": null,
       "lastUpdated": 1786499438519,
       "source": "gha"
+    },
+    "8515361": {
+      "sku": "8515361",
+      "firstAir": 1786499542252,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786499542252,
+      "title": "Ikon Recycled Cotton Blend Throw (150 x 125 cm) - Dark Grey",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019815993",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "02:52:22",
+      "productUrl": null,
+      "lastUpdated": 1786499542252,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786499478180,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135498,11 +135523,22 @@
         "followingSku": "8435765",
         "followingTitle": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
         "followingAuctionCode": "0019815898"
+      },
+      {
+        "start": 1786499478180,
+        "end": 1786499542252,
+        "durationMin": 1.1,
+        "precedingSku": "8435765",
+        "precedingTitle": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
+        "precedingAuctionCode": "0019815898",
+        "followingSku": "8515361",
+        "followingTitle": "Ikon Recycled Cotton Blend Throw (150 x 125 cm) - Dark Grey",
+        "followingAuctionCode": "0019815993"
       }
     ],
-    "lastOnAirSku": "8435765",
-    "lastOnAirTitle": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
-    "lastOnAirAuctionCode": "0019815898",
+    "lastOnAirSku": "8515361",
+    "lastOnAirTitle": "Ikon Recycled Cotton Blend Throw (150 x 125 cm) - Dark Grey",
+    "lastOnAirAuctionCode": "0019815993",
     "precedingSku": "8435765",
     "precedingTitle": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
     "precedingAuctionCode": "0019815898"
