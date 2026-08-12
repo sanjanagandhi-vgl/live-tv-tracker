@@ -134133,11 +134133,29 @@
       "productUrl": null,
       "lastUpdated": 1786496542457,
       "source": "gha"
+    },
+    "8280489": {
+      "sku": "8280489",
+      "firstAir": 1786496837599,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786496837599,
+      "title": "Portable Folding & Retractable Telescopic Stool (44cm Adjustable) - Black",
+      "pdpPrice": "8.99",
+      "auctionCode": "0019815894",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "02:07:17",
+      "productUrl": null,
+      "lastUpdated": 1786496837599,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786496599479,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135039,11 +135057,22 @@
         "followingSku": "8479480",
         "followingTitle": null,
         "followingAuctionCode": "0019816472"
+      },
+      {
+        "start": 1786496599479,
+        "end": 1786496837599,
+        "durationMin": 4.0,
+        "precedingSku": "8479480",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019816472",
+        "followingSku": "8280489",
+        "followingTitle": "Portable Folding & Retractable Telescopic Stool (44cm Adjustable) - Black",
+        "followingAuctionCode": "0019815894"
       }
     ],
-    "lastOnAirSku": "8479480",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019816472",
+    "lastOnAirSku": "8280489",
+    "lastOnAirTitle": "Portable Folding & Retractable Telescopic Stool (44cm Adjustable) - Black",
+    "lastOnAirAuctionCode": "0019815894",
     "precedingSku": "8479480",
     "precedingTitle": null,
     "precedingAuctionCode": "0019816472"
