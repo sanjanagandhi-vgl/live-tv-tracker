@@ -135302,11 +135302,29 @@
       "productUrl": null,
       "lastUpdated": 1786513838438,
       "source": "gha"
+    },
+    "7027073": {
+      "sku": "7027073",
+      "firstAir": 1786513943877,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786513943877,
+      "title": "Opatra- 2 Piece Set - Infrared-LED HandyLight",
+      "pdpPrice": "609.00",
+      "auctionCode": "0019816892",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "06:52:23",
+      "productUrl": null,
+      "lastUpdated": 1786513943877,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786513879391,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136549,11 +136567,22 @@
         "followingSku": "3177475",
         "followingTitle": "Opatra- Synergy Neck",
         "followingAuctionCode": "0019816893"
+      },
+      {
+        "start": 1786513879391,
+        "end": 1786513943877,
+        "durationMin": 1.1,
+        "precedingSku": "8217226",
+        "precedingTitle": "Opatra Slim (Radiance Redefined with Radio Frequency, Cavitation Ultrasound and LED Therapy)",
+        "precedingAuctionCode": "0019816891",
+        "followingSku": "7027073",
+        "followingTitle": "Opatra- 2 Piece Set - Infrared-LED HandyLight",
+        "followingAuctionCode": "0019816892"
       }
     ],
-    "lastOnAirSku": "8217226",
-    "lastOnAirTitle": "Opatra Slim (Radiance Redefined with Radio Frequency, Cavitation Ultrasound and LED Therapy)",
-    "lastOnAirAuctionCode": "0019816891",
+    "lastOnAirSku": "7027073",
+    "lastOnAirTitle": "Opatra- 2 Piece Set - Infrared-LED HandyLight",
+    "lastOnAirAuctionCode": "0019816892",
     "precedingSku": "8217226",
     "precedingTitle": "Opatra Slim (Radiance Redefined with Radio Frequency, Cavitation Ultrasound and LED Therapy)",
     "precedingAuctionCode": "0019816891"
