@@ -23679,21 +23679,26 @@
       "sku": "7997042",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-12",
+      "time": "03:46:23",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1786502783136,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Laurelle My Mic EDP - 100ml",
-      "auctionCode": "0019800868",
+      "auctionCode": "0019816000",
       "source": "gha",
       "productUrl": "/products/laurelle-my-mic-edp-100ml",
       "productUrlChecked": 1785474503295,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1786502783136,
+      "pdpPrice": "169.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7814556": {
       "sku": "7814556",
@@ -134734,8 +134739,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786502739184,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135780,11 +135785,22 @@
         "followingSku": "8217761",
         "followingTitle": "ONE TIME CLOSEOUT - Ignacio Figueras Unisex EDP - 100ml",
         "followingAuctionCode": "0019815957"
+      },
+      {
+        "start": 1786502739184,
+        "end": 1786502783136,
+        "durationMin": 0.7,
+        "precedingSku": "8217761",
+        "precedingTitle": "ONE TIME CLOSEOUT - Ignacio Figueras Unisex EDP - 100ml",
+        "precedingAuctionCode": "0019815957",
+        "followingSku": "7997042",
+        "followingTitle": "Laurelle My Mic EDP - 100ml",
+        "followingAuctionCode": "0019816000"
       }
     ],
-    "lastOnAirSku": "8217761",
-    "lastOnAirTitle": "ONE TIME CLOSEOUT - Ignacio Figueras Unisex EDP - 100ml",
-    "lastOnAirAuctionCode": "0019815957",
+    "lastOnAirSku": "7997042",
+    "lastOnAirTitle": "Laurelle My Mic EDP - 100ml",
+    "lastOnAirAuctionCode": "0019816000",
     "precedingSku": "8217761",
     "precedingTitle": "ONE TIME CLOSEOUT - Ignacio Figueras Unisex EDP - 100ml",
     "precedingAuctionCode": "0019815957"
