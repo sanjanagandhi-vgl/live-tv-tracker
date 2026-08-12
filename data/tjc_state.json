@@ -134626,9 +134626,16 @@
       "img": true,
       "date": "2026-08-12",
       "time": "03:08:21",
-      "productUrl": null,
-      "lastUpdated": 1786500501815,
-      "source": "gha"
+      "productUrl": "/products/stripe-crinkle-frayed-scarf-2148519208",
+      "lastUpdated": 1786501038669,
+      "source": "gha",
+      "missedAt": 1786501038669,
+      "missedDelay": 9,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "productUrlChecked": 1786501049383,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8518111": {
       "sku": "8518111",
@@ -134686,8 +134693,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1786501038669,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135715,8 +135722,8 @@
     "lastOnAirSku": "8236435",
     "lastOnAirTitle": "Hiwatch Plus HW37 Smart Watch with 1.28 inch IPS Display",
     "lastOnAirAuctionCode": "0019815953",
-    "precedingSku": "8526865",
-    "precedingTitle": "GLAS Eyewear Andrea Sunglasses- Wine Red",
-    "precedingAuctionCode": "0019815947"
+    "precedingSku": "8236435",
+    "precedingTitle": "Hiwatch Plus HW37 Smart Watch with 1.28 inch IPS Display",
+    "precedingAuctionCode": "0019815953"
   }
 }
