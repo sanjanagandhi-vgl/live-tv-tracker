@@ -98196,17 +98196,17 @@
       "firstAir": 1786140328219,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786169062098,
-      "title": "Italian Made - Yellow Gold Plated Sterling Silver Flat Figaro Necklace (Size - 24) with Lobster C...",
-      "pdpPrice": 34.99,
-      "auctionCode": "0019810504",
-      "buy": false,
+      "lastAir": 1786495109656,
+      "title": "Italian Made - Yellow Gold Plated Sterling Silver Flat Figaro Necklace (Size - 24) with Lobster Clasp",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019816496",
+      "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-08-08",
-      "time": "07:04:22",
+      "date": "2026-08-12",
+      "time": "01:38:29",
       "productUrl": "/products/italian-made-yellow-gold-plated-sterling-silver-flat-figaro-chain-size-24-with-lobster-clasp?variant=53108381876490",
-      "lastUpdated": 1786169062098,
+      "lastUpdated": 1786495109656,
       "source": "gha",
       "productUrlChecked": 1786140802726,
       "productUrlStatus": 500,
@@ -133940,9 +133940,16 @@
       "img": true,
       "date": "2026-08-12",
       "time": "01:29:20",
-      "productUrl": null,
-      "lastUpdated": 1786494560620,
-      "source": "gha"
+      "productUrl": "/products/djoy-fire-opal-solitaire-stud-push-post-earring",
+      "lastUpdated": 1786495109656,
+      "source": "gha",
+      "missedAt": 1786495109656,
+      "missedDelay": 9,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1786495123156,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8481579": {
       "sku": "8481579",
@@ -133964,8 +133971,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786494929883,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -134845,11 +134852,22 @@
         "followingSku": "8503852",
         "followingTitle": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
         "followingAuctionCode": "0019816480"
+      },
+      {
+        "start": 1786494929883,
+        "end": 1786495109656,
+        "durationMin": 3.0,
+        "precedingSku": "8503852",
+        "precedingTitle": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
+        "precedingAuctionCode": "0019816480",
+        "followingSku": "8552967",
+        "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Flat Figaro Necklace (Size - 24) with Lobster Clasp",
+        "followingAuctionCode": "0019816496"
       }
     ],
-    "lastOnAirSku": "8503852",
-    "lastOnAirTitle": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
-    "lastOnAirAuctionCode": "0019816480",
+    "lastOnAirSku": "8552967",
+    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Flat Figaro Necklace (Size - 24) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019816496",
     "precedingSku": "8503852",
     "precedingTitle": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
     "precedingAuctionCode": "0019816480"
