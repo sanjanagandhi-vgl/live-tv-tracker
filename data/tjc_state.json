@@ -135438,11 +135438,29 @@
       "productUrl": null,
       "lastUpdated": 1786517727393,
       "source": "gha"
+    },
+    "8196744": {
+      "sku": "8196744",
+      "firstAir": 1786517838654,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786517838654,
+      "title": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019817287",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "07:57:18",
+      "productUrl": null,
+      "lastUpdated": 1786517838654,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786517783218,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136729,11 +136747,22 @@
         "followingSku": "8158482",
         "followingTitle": "Genuine Leather crossbody bag",
         "followingAuctionCode": "0019817264"
+      },
+      {
+        "start": 1786517783218,
+        "end": 1786517838654,
+        "durationMin": 0.9,
+        "precedingSku": "8196719",
+        "precedingTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
+        "precedingAuctionCode": "0019816785",
+        "followingSku": "8196744",
+        "followingTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
+        "followingAuctionCode": "0019817287"
       }
     ],
-    "lastOnAirSku": "8196719",
-    "lastOnAirTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
-    "lastOnAirAuctionCode": "0019816785",
+    "lastOnAirSku": "8196744",
+    "lastOnAirTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
+    "lastOnAirAuctionCode": "0019817287",
     "precedingSku": "8196719",
     "precedingTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
     "precedingAuctionCode": "0019816785"
