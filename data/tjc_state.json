@@ -139320,8 +139320,12 @@
       "date": "2026-08-12",
       "time": "15:46:28",
       "productUrl": null,
-      "lastUpdated": 1786545988703,
-      "source": "gha"
+      "lastUpdated": 1786546583821,
+      "source": "gha",
+      "missedAt": 1786546583821,
+      "missedDelay": 10,
+      "missedPrice": 14.99,
+      "missedImg": true
     },
     "8221643": {
       "sku": "8221643",
@@ -139614,6 +139618,75 @@
       "productUrlChecked": 1786546470142,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "8097705": {
+      "sku": "8097705",
+      "firstAir": 1786546583821,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786546583821,
+      "title": "Emreco Jean Style Ponte Stretch Trouser",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019817560",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "15:56:23",
+      "productUrl": null,
+      "lastUpdated": 1786546583821,
+      "source": "gha"
+    },
+    "8123037": {
+      "sku": "8123037",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-12",
+      "time": "15:56:23",
+      "preExisting": true,
+      "missedAt": 1786546583821,
+      "missedDelay": null,
+      "lastUpdated": 1786546583821,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Pure & Natural Drop Shoulder Top With Cowl Neck (Size 14-16) - Beige",
+      "auctionCode": "0019817553",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8123038": {
+      "sku": "8123038",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-12",
+      "time": "15:56:23",
+      "preExisting": true,
+      "missedAt": 1786546583821,
+      "missedDelay": null,
+      "lastUpdated": 1786546583821,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Pure & Natural Drop Shoulder Top With Cowl Neck (Size 10-12) - Beige",
+      "auctionCode": "0019817554",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8123040": {
+      "sku": "8123040",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-12",
+      "time": "15:56:23",
+      "preExisting": true,
+      "missedAt": 1786546583821,
+      "missedDelay": null,
+      "lastUpdated": 1786546583821,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Pure & Natural Drop Shoulder Top With Cowl Neck (Size 16-18) - Beige",
+      "auctionCode": "0019817555",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
@@ -140973,9 +141046,9 @@
         "followingAuctionCode": "0019816861"
       }
     ],
-    "lastOnAirSku": "8564236",
-    "lastOnAirTitle": "Livmore Handcrafted Wooden Cot Serving Platter with Resin Inlay (25 x 32 cm) - Grey",
-    "lastOnAirAuctionCode": "0019817293",
+    "lastOnAirSku": "8097705",
+    "lastOnAirTitle": "Emreco Jean Style Ponte Stretch Trouser",
+    "lastOnAirAuctionCode": "0019817560",
     "precedingSku": "8283130",
     "precedingTitle": "Emma Ladies Shoe",
     "precedingAuctionCode": "0019816848"
