@@ -1204,7 +1204,7 @@
       "sku": "8434623",
       "tvPrice": "",
       "remarks": "",
-      "time": "15:50:39",
+      "time": "15:51:18",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
@@ -1213,14 +1213,14 @@
       "title": "Pure And Natural Cable Jumper",
       "auctionCode": "0019817503",
       "source": "gha",
-      "lastAir": 1786546239501,
+      "lastAir": 1786546278681,
       "pdpPrice": "12.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-12",
       "productUrl": null,
-      "lastUpdated": 1786546239501
+      "lastUpdated": 1786546278681
     },
     "8434625": {
       "sku": "8434625",
@@ -139133,9 +139133,16 @@
       "img": true,
       "date": "2026-08-12",
       "time": "15:41:19",
-      "productUrl": null,
-      "lastUpdated": 1786545679283,
-      "source": "gha"
+      "productUrl": "/products/basic-roll-neck-jumper",
+      "lastUpdated": 1786546278681,
+      "source": "gha",
+      "missedAt": 1786546278681,
+      "missedDelay": 10,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1786546289843,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8221639": {
       "sku": "8221639",
@@ -139475,6 +139482,26 @@
       "source": "gha",
       "productUrl": "/products/basic-roll-neck-jumper",
       "productUrlChecked": 1786546251331,
+      "productUrlStatus": 500,
+      "productUrl404": false
+    },
+    "8107648": {
+      "sku": "8107648",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-12",
+      "time": "15:51:18",
+      "preExisting": true,
+      "missedAt": 1786546278681,
+      "missedDelay": null,
+      "lastUpdated": 1786546278681,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Basic Roll Neck Jumper (Size L, 16-18) - Ivory",
+      "auctionCode": "0019817524",
+      "source": "gha",
+      "productUrl": "/products/basic-roll-neck-jumper",
+      "productUrlChecked": 1786546293012,
       "productUrlStatus": 500,
       "productUrl404": false
     }
