@@ -134115,11 +134115,29 @@
       "productUrlChecked": 1786495562869,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "8479480": {
+      "sku": "8479480",
+      "firstAir": 1786496130983,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786496130983,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019816472",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-12",
+      "time": "01:55:30",
+      "productUrl": null,
+      "lastUpdated": 1786496130983,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786496061267,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135010,11 +135028,22 @@
         "followingSku": "8552967",
         "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Flat Figaro Necklace (Size - 24) with Lobster Clasp",
         "followingAuctionCode": "0019816496"
+      },
+      {
+        "start": 1786496061267,
+        "end": 1786496130983,
+        "durationMin": 1.2,
+        "precedingSku": "8552967",
+        "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Flat Figaro Necklace (Size - 24) with Lobster Clasp",
+        "precedingAuctionCode": "0019816496",
+        "followingSku": "8479480",
+        "followingTitle": null,
+        "followingAuctionCode": "0019816472"
       }
     ],
-    "lastOnAirSku": "8552967",
-    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Flat Figaro Necklace (Size - 24) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019816496",
+    "lastOnAirSku": "8479480",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019816472",
     "precedingSku": "8552967",
     "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Flat Figaro Necklace (Size - 24) with Lobster Clasp",
     "precedingAuctionCode": "0019816496"
