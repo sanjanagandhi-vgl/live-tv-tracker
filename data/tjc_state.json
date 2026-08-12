@@ -134497,11 +134497,29 @@
       "productUrl": null,
       "lastUpdated": 1786499182760,
       "source": "gha"
+    },
+    "8435765": {
+      "sku": "8435765",
+      "firstAir": 1786499310138,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786499310138,
+      "title": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
+      "pdpPrice": "8.99",
+      "auctionCode": "0019815898",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "02:48:30",
+      "productUrl": null,
+      "lastUpdated": 1786499310138,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786499238578,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135469,11 +135487,22 @@
         "followingSku": "7718062",
         "followingTitle": "Snow-Flocked Artificial Christmas Tree",
         "followingAuctionCode": "0019815992"
+      },
+      {
+        "start": 1786499238578,
+        "end": 1786499310138,
+        "durationMin": 1.2,
+        "precedingSku": "7699351",
+        "precedingTitle": "Set of 2 - Delicates Wash Bag with Secure Zip Closure (3 Mesh Laundry Bags) - White",
+        "precedingAuctionCode": "0019815880",
+        "followingSku": "8435765",
+        "followingTitle": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
+        "followingAuctionCode": "0019815898"
       }
     ],
-    "lastOnAirSku": "7699351",
-    "lastOnAirTitle": "Set of 2 - Delicates Wash Bag with Secure Zip Closure (3 Mesh Laundry Bags) - White",
-    "lastOnAirAuctionCode": "0019815880",
+    "lastOnAirSku": "8435765",
+    "lastOnAirTitle": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
+    "lastOnAirAuctionCode": "0019815898",
     "precedingSku": "7699351",
     "precedingTitle": "Set of 2 - Delicates Wash Bag with Secure Zip Closure (3 Mesh Laundry Bags) - White",
     "precedingAuctionCode": "0019815880"
