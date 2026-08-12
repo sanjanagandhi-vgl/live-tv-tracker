@@ -135166,11 +135166,29 @@
       "productUrlChecked": 1786509341974,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "8197755": {
+      "sku": "8197755",
+      "firstAir": 1786511305052,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786511305052,
+      "title": "Set of 2 Multi-Colour Woven Pattern Cosmetic Bags - Beige",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019816316",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "06:08:25",
+      "productUrl": null,
+      "lastUpdated": 1786511305052,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786511241522,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136358,11 +136376,22 @@
         "followingSku": "8158482",
         "followingTitle": "Genuine Leather crossbody bag",
         "followingAuctionCode": "0019817264"
+      },
+      {
+        "start": 1786511241522,
+        "end": 1786511305052,
+        "durationMin": 1.1,
+        "precedingSku": "8158482",
+        "precedingTitle": "Genuine Leather crossbody bag",
+        "precedingAuctionCode": "0019817264",
+        "followingSku": "8197755",
+        "followingTitle": "Set of 2 Multi-Colour Woven Pattern Cosmetic Bags - Beige",
+        "followingAuctionCode": "0019816316"
       }
     ],
-    "lastOnAirSku": "8158482",
-    "lastOnAirTitle": "Genuine Leather crossbody bag",
-    "lastOnAirAuctionCode": "0019817264",
+    "lastOnAirSku": "8197755",
+    "lastOnAirTitle": "Set of 2 Multi-Colour Woven Pattern Cosmetic Bags - Beige",
+    "lastOnAirAuctionCode": "0019816316",
     "precedingSku": "8158482",
     "precedingTitle": "Genuine Leather crossbody bag",
     "precedingAuctionCode": "0019817264"
