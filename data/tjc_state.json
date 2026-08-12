@@ -31155,21 +31155,26 @@
       "sku": "8151342",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-12",
+      "time": "08:30:56",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1786519856223,
       "missedPrice": 87.99,
       "missedImg": true,
-      "title": "La Marey Signature Genuine Nappa Leather Jacket (Size 20 to 22) - Black",
-      "auctionCode": "0019801104",
+      "title": "La Marey Signature Genuine Nappa Leather Jacket (Size XL 20 To22) - Chocolate",
+      "auctionCode": "0019817336",
       "source": "gha",
       "productUrl": "/products/la-marey-signature-genuine-nappa-leather-jacket",
       "productUrlChecked": 1785476311182,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1786519856223,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8151341": {
       "sku": "8151341",
@@ -135641,8 +135646,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786519759451,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136951,11 +136956,22 @@
         "followingSku": "7898138",
         "followingTitle": "La Marey Viscose Solid Cardigan and Sweater-Jumper",
         "followingAuctionCode": "0019816652"
+      },
+      {
+        "start": 1786519759451,
+        "end": 1786519856223,
+        "durationMin": 1.6,
+        "precedingSku": "7788930",
+        "precedingTitle": "La Marey Pure Cotton Elastic Waist Casual Wear Trousers",
+        "precedingAuctionCode": "0019816566",
+        "followingSku": "8151342",
+        "followingTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size XL 20 To22) - Chocolate",
+        "followingAuctionCode": "0019817336"
       }
     ],
-    "lastOnAirSku": "7788930",
-    "lastOnAirTitle": "La Marey Pure Cotton Elastic Waist Casual Wear Trousers",
-    "lastOnAirAuctionCode": "0019816566",
+    "lastOnAirSku": "8151342",
+    "lastOnAirTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size XL 20 To22) - Chocolate",
+    "lastOnAirAuctionCode": "0019817336",
     "precedingSku": "7788930",
     "precedingTitle": "La Marey Pure Cotton Elastic Waist Casual Wear Trousers",
     "precedingAuctionCode": "0019816566"
