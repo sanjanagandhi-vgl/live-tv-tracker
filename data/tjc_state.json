@@ -51563,17 +51563,17 @@
       "firstAir": 1785646498779,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785646707089,
+      "lastAir": 1786499900480,
       "title": "Homesmart Heater with Wide Angle Oscillating Function & LED Display (220-240V, 1300-2000W), Safety Trip Feature",
       "pdpPrice": "59.99",
-      "auctionCode": "0019804061",
+      "auctionCode": "0019815886",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-02",
-      "time": "05:58:27",
+      "date": "2026-08-12",
+      "time": "02:58:20",
       "productUrl": "/products/homesmart-heater-with-wide-angle-oscillating-function-led-display-220-240v-1300-2000w-safety-trip-feature",
-      "lastUpdated": 1785647335250,
+      "lastUpdated": 1786499900480,
       "source": "gha",
       "missedAt": 1785647335250,
       "missedDelay": 10,
@@ -134568,8 +134568,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786499839454,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135570,11 +135570,22 @@
         "followingSku": "8528706",
         "followingTitle": "Stripe Microfibre Beach Towel (90 x 180cm) - Multicolour",
         "followingAuctionCode": "0019815994"
+      },
+      {
+        "start": 1786499839454,
+        "end": 1786499900480,
+        "durationMin": 1.0,
+        "precedingSku": "8528706",
+        "precedingTitle": "Stripe Microfibre Beach Towel (90 x 180cm) - Multicolour",
+        "precedingAuctionCode": "0019815994",
+        "followingSku": "7636472",
+        "followingTitle": "Homesmart Heater with Wide Angle Oscillating Function & LED Display (220-240V, 1300-2000W), Safety Trip Feature",
+        "followingAuctionCode": "0019815886"
       }
     ],
-    "lastOnAirSku": "8528706",
-    "lastOnAirTitle": "Stripe Microfibre Beach Towel (90 x 180cm) - Multicolour",
-    "lastOnAirAuctionCode": "0019815994",
+    "lastOnAirSku": "7636472",
+    "lastOnAirTitle": "Homesmart Heater with Wide Angle Oscillating Function & LED Display (220-240V, 1300-2000W), Safety Trip Feature",
+    "lastOnAirAuctionCode": "0019815886",
     "precedingSku": "8528706",
     "precedingTitle": "Stripe Microfibre Beach Towel (90 x 180cm) - Multicolour",
     "precedingAuctionCode": "0019815994"
