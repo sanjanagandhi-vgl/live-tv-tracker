@@ -134426,9 +134426,16 @@
       "img": true,
       "date": "2026-08-12",
       "time": "02:27:21",
-      "productUrl": null,
-      "lastUpdated": 1786498041243,
-      "source": "gha"
+      "productUrl": "/products/livmore-gift-article-2118282801",
+      "lastUpdated": 1786498639117,
+      "source": "gha",
+      "missedAt": 1786498639117,
+      "missedDelay": 10,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "productUrlChecked": 1786498643456,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8429484": {
       "sku": "8429484",
@@ -134447,11 +134454,29 @@
       "productUrl": null,
       "lastUpdated": 1786498281173,
       "source": "gha"
+    },
+    "7718062": {
+      "sku": "7718062",
+      "firstAir": 1786498639117,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786498639117,
+      "title": "Snow-Flocked Artificial Christmas Tree",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019815992",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "02:37:19",
+      "productUrl": null,
+      "lastUpdated": 1786498639117,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786498582113,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135408,11 +135433,22 @@
         "followingSku": "8429484",
         "followingTitle": "Handmade Iron Fairy Wind Chime (51 cm) - Golden",
         "followingAuctionCode": "0019815879"
+      },
+      {
+        "start": 1786498582113,
+        "end": 1786498639117,
+        "durationMin": 1.0,
+        "precedingSku": "8194754",
+        "precedingTitle": "Merry Christmas Bleached Print Coir Doormat (60 x 40 cm) - Christmas",
+        "precedingAuctionCode": "0019815874",
+        "followingSku": "7718062",
+        "followingTitle": "Snow-Flocked Artificial Christmas Tree",
+        "followingAuctionCode": "0019815992"
       }
     ],
-    "lastOnAirSku": "8194754",
-    "lastOnAirTitle": "Merry Christmas Bleached Print Coir Doormat (60 x 40 cm) - Christmas",
-    "lastOnAirAuctionCode": "0019815874",
+    "lastOnAirSku": "7718062",
+    "lastOnAirTitle": "Snow-Flocked Artificial Christmas Tree",
+    "lastOnAirAuctionCode": "0019815992",
     "precedingSku": "8194754",
     "precedingTitle": "Merry Christmas Bleached Print Coir Doormat (60 x 40 cm) - Christmas",
     "precedingAuctionCode": "0019815874"
