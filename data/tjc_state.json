@@ -9851,16 +9851,16 @@
       "firstAir": 1784995582021,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785776547171,
+      "lastAir": 1786509382422,
       "title": "9K Yellow Gold Hand Made Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
-      "pdpPrice": "2757.99",
-      "auctionCode": "0019806296",
+      "pdpPrice": "35679.99",
+      "auctionCode": "0019816024",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-03",
-      "time": "18:02:27",
-      "lastUpdated": 1785776547171,
+      "date": "2026-08-12",
+      "time": "05:36:22",
+      "lastUpdated": 1786509382422,
       "source": "gha",
       "missedAt": 1784996727784,
       "missedDelay": 2,
@@ -135169,8 +135169,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786509263724,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136336,11 +136336,22 @@
         "followingSku": "8597033",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
         "followingAuctionCode": "0019816563"
+      },
+      {
+        "start": 1786509263724,
+        "end": 1786509382422,
+        "durationMin": 2.0,
+        "precedingSku": "8597033",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019816563",
+        "followingSku": "8692858",
+        "followingTitle": "9K Yellow Gold Hand Made Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
+        "followingAuctionCode": "0019816024"
       }
     ],
-    "lastOnAirSku": "8597033",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019816563",
+    "lastOnAirSku": "8692858",
+    "lastOnAirTitle": "9K Yellow Gold Hand Made Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
+    "lastOnAirAuctionCode": "0019816024",
     "precedingSku": "8597033",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
     "precedingAuctionCode": "0019816563"
