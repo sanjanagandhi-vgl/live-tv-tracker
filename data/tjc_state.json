@@ -138874,8 +138874,12 @@
       "date": "2026-08-12",
       "time": "15:34:24",
       "productUrl": null,
-      "lastUpdated": 1786545264622,
-      "source": "gha"
+      "lastUpdated": 1786545863505,
+      "source": "gha",
+      "missedAt": 1786545863505,
+      "missedDelay": 10,
+      "missedPrice": 14.99,
+      "missedImg": true
     },
     "8223557": {
       "sku": "8223557",
@@ -139188,6 +139192,75 @@
       "productUrl": null,
       "lastUpdated": 1786545800716,
       "source": "gha"
+    },
+    "8107662": {
+      "sku": "8107662",
+      "firstAir": 1786545863505,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786545863505,
+      "title": "Basic Roll Neck Jumper",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019817515",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "15:44:23",
+      "productUrl": null,
+      "lastUpdated": 1786545863505,
+      "source": "gha"
+    },
+    "8221647": {
+      "sku": "8221647",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-12",
+      "time": "15:44:23",
+      "preExisting": true,
+      "missedAt": 1786545863505,
+      "missedDelay": null,
+      "lastUpdated": 1786545863505,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Pure And Natural Boat Neck Stripeed Jumper (Size 16 to 18) - Green",
+      "auctionCode": "0019817472",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8221648": {
+      "sku": "8221648",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-12",
+      "time": "15:44:23",
+      "preExisting": true,
+      "missedAt": 1786545863505,
+      "missedDelay": null,
+      "lastUpdated": 1786545863505,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Pure And Natural Boat Neck Stripeed Jumper (Size 12 to 14) - Green",
+      "auctionCode": "0019817473",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8221649": {
+      "sku": "8221649",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-12",
+      "time": "15:44:23",
+      "preExisting": true,
+      "missedAt": 1786545863505,
+      "missedDelay": null,
+      "lastUpdated": 1786545863505,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Pure And Natural Boat Neck Stripeed Jumper (Size 20) - Green",
+      "auctionCode": "0019817474",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
@@ -140547,9 +140620,9 @@
         "followingAuctionCode": "0019816861"
       }
     ],
-    "lastOnAirSku": "8107682",
+    "lastOnAirSku": "8107662",
     "lastOnAirTitle": "Basic Roll Neck Jumper",
-    "lastOnAirAuctionCode": "0019817517",
+    "lastOnAirAuctionCode": "0019817515",
     "precedingSku": "8283130",
     "precedingTitle": "Emma Ladies Shoe",
     "precedingAuctionCode": "0019816848"
