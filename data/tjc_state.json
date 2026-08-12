@@ -134898,9 +134898,16 @@
       "img": true,
       "date": "2026-08-12",
       "time": "04:29:18",
-      "productUrl": null,
-      "lastUpdated": 1786505358167,
-      "source": "gha"
+      "productUrl": "/products/maestro-collection-9k-yellow-gold-specchio-bracelet-size-7-5-2-50-grams",
+      "lastUpdated": 1786520129151,
+      "source": "gha",
+      "missedAt": 1786520129151,
+      "missedDelay": 246,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "productUrlChecked": 1786520136667,
+      "productUrlStatus": 404,
+      "productUrl404": true
     },
     "8364091": {
       "sku": "8364091",
@@ -135693,8 +135700,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1786520129151,
     "gaps": [
       {
         "start": 1785823527869,
@@ -137019,8 +137026,8 @@
     "lastOnAirSku": "8151342",
     "lastOnAirTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size XL 20 To22) - Chocolate",
     "lastOnAirAuctionCode": "0019817336",
-    "precedingSku": "7788930",
-    "precedingTitle": "La Marey Pure Cotton Elastic Waist Casual Wear Trousers",
-    "precedingAuctionCode": "0019816566"
+    "precedingSku": "8151342",
+    "precedingTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size XL 20 To22) - Chocolate",
+    "precedingAuctionCode": "0019817336"
   }
 }
