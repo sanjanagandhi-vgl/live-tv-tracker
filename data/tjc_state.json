@@ -134658,11 +134658,29 @@
       "productUrl": null,
       "lastUpdated": 1786500744456,
       "source": "gha"
+    },
+    "8236435": {
+      "sku": "8236435",
+      "firstAir": 1786500862912,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786500862912,
+      "title": "Hiwatch Plus HW37 Smart Watch with 1.28 inch IPS Display",
+      "pdpPrice": "396.00",
+      "auctionCode": "0019815953",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "03:14:22",
+      "productUrl": null,
+      "lastUpdated": 1786500862912,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786500797084,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135674,11 +135692,22 @@
         "followingSku": "7636472",
         "followingTitle": "Homesmart Heater with Wide Angle Oscillating Function & LED Display (220-240V, 1300-2000W), Safety Trip Feature",
         "followingAuctionCode": "0019815886"
+      },
+      {
+        "start": 1786500797084,
+        "end": 1786500862912,
+        "durationMin": 1.1,
+        "precedingSku": "8526865",
+        "precedingTitle": "GLAS Eyewear Andrea Sunglasses- Wine Red",
+        "precedingAuctionCode": "0019815947",
+        "followingSku": "8236435",
+        "followingTitle": "Hiwatch Plus HW37 Smart Watch with 1.28 inch IPS Display",
+        "followingAuctionCode": "0019815953"
       }
     ],
-    "lastOnAirSku": "8526865",
-    "lastOnAirTitle": "GLAS Eyewear Andrea Sunglasses- Wine Red",
-    "lastOnAirAuctionCode": "0019815947",
+    "lastOnAirSku": "8236435",
+    "lastOnAirTitle": "Hiwatch Plus HW37 Smart Watch with 1.28 inch IPS Display",
+    "lastOnAirAuctionCode": "0019815953",
     "precedingSku": "8526865",
     "precedingTitle": "GLAS Eyewear Andrea Sunglasses- Wine Red",
     "precedingAuctionCode": "0019815947"
