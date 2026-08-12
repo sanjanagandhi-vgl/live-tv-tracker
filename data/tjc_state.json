@@ -135697,11 +135697,29 @@
       "productUrlChecked": 1786520074840,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "3890811": {
+      "sku": "3890811",
+      "firstAir": 1786520183130,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786520183130,
+      "title": "TAMSY Long Sleeves Blazer with Notched Lapel Collar - Grey",
+      "pdpPrice": "397.00",
+      "auctionCode": "0019816497",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "08:36:23",
+      "productUrl": null,
+      "lastUpdated": 1786520183130,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786520129151,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -137021,11 +137039,22 @@
         "followingSku": "8151342",
         "followingTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size XL 20 To22) - Chocolate",
         "followingAuctionCode": "0019817336"
+      },
+      {
+        "start": 1786520129151,
+        "end": 1786520183130,
+        "durationMin": 0.9,
+        "precedingSku": "8151342",
+        "precedingTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size XL 20 To22) - Chocolate",
+        "precedingAuctionCode": "0019817336",
+        "followingSku": "3890811",
+        "followingTitle": "TAMSY Long Sleeves Blazer with Notched Lapel Collar - Grey",
+        "followingAuctionCode": "0019816497"
       }
     ],
-    "lastOnAirSku": "8151342",
-    "lastOnAirTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size XL 20 To22) - Chocolate",
-    "lastOnAirAuctionCode": "0019817336",
+    "lastOnAirSku": "3890811",
+    "lastOnAirTitle": "TAMSY Long Sleeves Blazer with Notched Lapel Collar - Grey",
+    "lastOnAirAuctionCode": "0019816497",
     "precedingSku": "8151342",
     "precedingTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size XL 20 To22) - Chocolate",
     "precedingAuctionCode": "0019817336"
