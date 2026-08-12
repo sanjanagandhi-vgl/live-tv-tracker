@@ -134540,11 +134540,29 @@
       "productUrl": null,
       "lastUpdated": 1786499599659,
       "source": "gha"
+    },
+    "8528706": {
+      "sku": "8528706",
+      "firstAir": 1786499729591,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786499729591,
+      "title": "Stripe Microfibre Beach Towel (90 x 180cm) - Multicolour",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019815994",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "02:55:29",
+      "productUrl": null,
+      "lastUpdated": 1786499729591,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786499662012,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135534,11 +135552,22 @@
         "followingSku": "8515361",
         "followingTitle": "Ikon Recycled Cotton Blend Throw (150 x 125 cm) - Dark Grey",
         "followingAuctionCode": "0019815993"
+      },
+      {
+        "start": 1786499662012,
+        "end": 1786499729591,
+        "durationMin": 1.1,
+        "precedingSku": "8515361",
+        "precedingTitle": "Ikon Recycled Cotton Blend Throw (150 x 125 cm) - Dark Grey",
+        "precedingAuctionCode": "0019815993",
+        "followingSku": "8528706",
+        "followingTitle": "Stripe Microfibre Beach Towel (90 x 180cm) - Multicolour",
+        "followingAuctionCode": "0019815994"
       }
     ],
-    "lastOnAirSku": "8515361",
-    "lastOnAirTitle": "Ikon Recycled Cotton Blend Throw (150 x 125 cm) - Dark Grey",
-    "lastOnAirAuctionCode": "0019815993",
+    "lastOnAirSku": "8528706",
+    "lastOnAirTitle": "Stripe Microfibre Beach Towel (90 x 180cm) - Multicolour",
+    "lastOnAirAuctionCode": "0019815994",
     "precedingSku": "8515361",
     "precedingTitle": "Ikon Recycled Cotton Blend Throw (150 x 125 cm) - Dark Grey",
     "precedingAuctionCode": "0019815993"
