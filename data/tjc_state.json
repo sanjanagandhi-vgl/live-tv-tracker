@@ -136305,11 +136305,29 @@
       "productUrlChecked": 1786521864402,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8380637": {
+      "sku": "8380637",
+      "firstAir": 1786522039275,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786522039275,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019816861",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-12",
+      "time": "09:07:19",
+      "productUrl": null,
+      "lastUpdated": 1786522039275,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786521989921,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -137651,11 +137669,22 @@
         "followingSku": "7874400",
         "followingTitle": "La Marey Checked Belted Winter Shirt",
         "followingAuctionCode": "0019816513"
+      },
+      {
+        "start": 1786521989921,
+        "end": 1786522039275,
+        "durationMin": 0.8,
+        "precedingSku": "8283130",
+        "precedingTitle": "Emma Ladies Shoe",
+        "precedingAuctionCode": "0019816848",
+        "followingSku": "8380637",
+        "followingTitle": null,
+        "followingAuctionCode": "0019816861"
       }
     ],
-    "lastOnAirSku": "8283130",
-    "lastOnAirTitle": "Emma Ladies Shoe",
-    "lastOnAirAuctionCode": "0019816848",
+    "lastOnAirSku": "8380637",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019816861",
     "precedingSku": "8283130",
     "precedingTitle": "Emma Ladies Shoe",
     "precedingAuctionCode": "0019816848"
