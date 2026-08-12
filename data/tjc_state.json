@@ -135998,11 +135998,29 @@
       "productUrl": null,
       "lastUpdated": 1786520736273,
       "source": "gha"
+    },
+    "7874400": {
+      "sku": "7874400",
+      "firstAir": 1786520839005,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786520839005,
+      "title": "La Marey Checked Belted Winter Shirt",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019816513",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "08:47:19",
+      "productUrl": null,
+      "lastUpdated": 1786520839005,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786520787609,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -137333,11 +137351,22 @@
         "followingSku": "3890811",
         "followingTitle": "TAMSY Long Sleeves Blazer with Notched Lapel Collar - Grey",
         "followingAuctionCode": "0019816497"
+      },
+      {
+        "start": 1786520787609,
+        "end": 1786520839005,
+        "durationMin": 0.9,
+        "precedingSku": "7932568",
+        "precedingTitle": "La Marey Classic Twill Jacket with Decorative Pockets (Size XXL, 24-26) - Yellow",
+        "precedingAuctionCode": "0019816876",
+        "followingSku": "7874400",
+        "followingTitle": "La Marey Checked Belted Winter Shirt",
+        "followingAuctionCode": "0019816513"
       }
     ],
-    "lastOnAirSku": "7932568",
-    "lastOnAirTitle": "La Marey Classic Twill Jacket with Decorative Pockets (Size XXL, 24-26) - Yellow",
-    "lastOnAirAuctionCode": "0019816876",
+    "lastOnAirSku": "7874400",
+    "lastOnAirTitle": "La Marey Checked Belted Winter Shirt",
+    "lastOnAirAuctionCode": "0019816513",
     "precedingSku": "7932568",
     "precedingTitle": "La Marey Classic Twill Jacket with Decorative Pockets (Size XXL, 24-26) - Yellow",
     "precedingAuctionCode": "0019816876"
