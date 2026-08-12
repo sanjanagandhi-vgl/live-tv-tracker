@@ -51059,17 +51059,17 @@
       "firstAir": 1785639216034,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786337237758,
+      "lastAir": 1786502479469,
       "title": "ONE TIME CLOSEOUT - Ignacio Figueras Unisex EDP - 100ml",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019812325",
+      "pdpPrice": "236.99",
+      "auctionCode": "0019815957",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-10",
-      "time": "05:47:17",
+      "date": "2026-08-12",
+      "time": "03:41:19",
       "productUrl": "/products/one-time-closeout-ignacio-figueras-unisex-edp-100ml",
-      "lastUpdated": 1786337237758,
+      "lastUpdated": 1786502479469,
       "source": "gha",
       "missedAt": 1785639800145,
       "missedDelay": 10,
@@ -134714,8 +134714,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786502439296,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135749,11 +135749,22 @@
         "followingSku": "7762767",
         "followingTitle": "SWISS MADE Christophe Duchamp Raidillon Chrono 10 ATM WR Watch (44.5mm width case) Gold",
         "followingAuctionCode": "0019816007"
+      },
+      {
+        "start": 1786502439296,
+        "end": 1786502479469,
+        "durationMin": 0.7,
+        "precedingSku": "8165527",
+        "precedingTitle": "Leather Rectangle Tote Bag",
+        "precedingAuctionCode": "0019816010",
+        "followingSku": "8217761",
+        "followingTitle": "ONE TIME CLOSEOUT - Ignacio Figueras Unisex EDP - 100ml",
+        "followingAuctionCode": "0019815957"
       }
     ],
-    "lastOnAirSku": "8165527",
-    "lastOnAirTitle": "Leather Rectangle Tote Bag",
-    "lastOnAirAuctionCode": "0019816010",
+    "lastOnAirSku": "8217761",
+    "lastOnAirTitle": "ONE TIME CLOSEOUT - Ignacio Figueras Unisex EDP - 100ml",
+    "lastOnAirAuctionCode": "0019815957",
     "precedingSku": "8165527",
     "precedingTitle": "Leather Rectangle Tote Bag",
     "precedingAuctionCode": "0019816010"
