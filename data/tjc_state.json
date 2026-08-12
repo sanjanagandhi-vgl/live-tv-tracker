@@ -108290,21 +108290,26 @@
       "sku": "8203512",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-09",
-      "time": "02:39:21",
+      "date": "2026-08-12",
+      "time": "06:17:22",
       "preExisting": true,
       "missedAt": 1786239561164,
       "missedDelay": null,
-      "lastUpdated": 1786239561164,
+      "lastUpdated": 1786511842009,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "LIVMORE Portable LED Makeup Mirror with Storage - Green",
-      "auctionCode": "0019811015",
+      "title": "Minimalist LED Lighted Makeup Mirror 500 mAh Rechargeable Vanity Mirror with 3",
+      "auctionCode": "0019816897",
       "source": "gha",
       "productUrl": "/products/minimalist-led-lighted-makeup-mirror-500-mah-rechargeable-vanity-mirror-with-3",
       "productUrlChecked": 1786239570703,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1786511842009,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7710644": {
       "sku": "7710644",
@@ -135187,8 +135192,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786511782348,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136398,11 +136403,22 @@
         "followingSku": "8197755",
         "followingTitle": "Set of 2 Multi-Colour Woven Pattern Cosmetic Bags - Beige",
         "followingAuctionCode": "0019817281"
+      },
+      {
+        "start": 1786511782348,
+        "end": 1786511842009,
+        "durationMin": 1.0,
+        "precedingSku": "8197755",
+        "precedingTitle": "Set of 2 Multi-Colour Woven Pattern Cosmetic Bags - Beige",
+        "precedingAuctionCode": "0019817281",
+        "followingSku": "8203512",
+        "followingTitle": "Minimalist LED Lighted Makeup Mirror 500 mAh Rechargeable Vanity Mirror with 3",
+        "followingAuctionCode": "0019816897"
       }
     ],
-    "lastOnAirSku": "8197755",
-    "lastOnAirTitle": "Set of 2 Multi-Colour Woven Pattern Cosmetic Bags - Beige",
-    "lastOnAirAuctionCode": "0019817281",
+    "lastOnAirSku": "8203512",
+    "lastOnAirTitle": "Minimalist LED Lighted Makeup Mirror 500 mAh Rechargeable Vanity Mirror with 3",
+    "lastOnAirAuctionCode": "0019816897",
     "precedingSku": "8197755",
     "precedingTitle": "Set of 2 Multi-Colour Woven Pattern Cosmetic Bags - Beige",
     "precedingAuctionCode": "0019817281"
