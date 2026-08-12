@@ -136876,8 +136876,12 @@
       "date": "2026-08-12",
       "time": "10:07:19",
       "productUrl": null,
-      "lastUpdated": 1786525639319,
-      "source": "gha"
+      "lastUpdated": 1786557142721,
+      "source": "gha",
+      "missedAt": 1786557142721,
+      "missedDelay": 525,
+      "missedPrice": 29.99,
+      "missedImg": false
     },
     "8613745": {
       "sku": "8613745",
@@ -137474,8 +137478,12 @@
       "date": "2026-08-12",
       "time": "14:20:39",
       "productUrl": null,
-      "lastUpdated": 1786540839485,
-      "source": "gha"
+      "lastUpdated": 1786557142721,
+      "source": "gha",
+      "missedAt": 1786557142721,
+      "missedDelay": 272,
+      "missedPrice": 14.99,
+      "missedImg": false
     },
     "8564407": {
       "sku": "8564407",
@@ -140824,18 +140832,35 @@
       "firstAir": 1786557039105,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786557078845,
+      "lastAir": 1786557142721,
       "title": "African Ruby & Luxuriant SI-G-H Lab Grown Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box in Rhodium Overlay Sterling Silver 16.95 Ct.",
-      "pdpPrice": "299.99",
+      "pdpPrice": "199.99",
       "auctionCode": "0019816019",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-12",
-      "time": "18:51:18",
+      "time": "18:52:22",
       "productUrl": null,
-      "lastUpdated": 1786557078845,
+      "lastUpdated": 1786557142721,
       "source": "gha"
+    },
+    "8122722": {
+      "sku": "8122722",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-12",
+      "time": "18:52:22",
+      "preExisting": true,
+      "missedAt": 1786557142721,
+      "missedDelay": null,
+      "lastUpdated": 1786557142721,
+      "missedPrice": 999.99,
+      "missedImg": false,
+      "title": "Maestro Collection -9K Yellow Gold Confetti Necklace (Size 20 with Ext) Gold Wt. 13.01 Gms.",
+      "auctionCode": "0019817331",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
