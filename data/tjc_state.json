@@ -11345,21 +11345,22 @@
       "firstAir": 1785025940553,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785037700152,
+      "lastAir": 1786494862540,
       "title": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
-      "pdpPrice": 12.99,
-      "auctionCode": "0019795683",
-      "buy": false,
+      "pdpPrice": "9.99",
+      "auctionCode": "0019816480",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "04:48:20",
-      "lastUpdated": 1785037700152,
+      "date": "2026-08-12",
+      "time": "01:34:22",
+      "lastUpdated": 1786494862540,
       "source": "gha",
       "missedAt": 1785026358918,
       "missedDelay": 2,
       "missedPrice": 12.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8553689": {
       "sku": "8553689",
@@ -133963,8 +133964,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786494799289,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -134833,11 +134834,22 @@
         "followingSku": "8562357",
         "followingTitle": "D'Joy - Natural Crimson Fire Opal Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
         "followingAuctionCode": "0019816445"
+      },
+      {
+        "start": 1786494799289,
+        "end": 1786494862540,
+        "durationMin": 1.1,
+        "precedingSku": "8481579",
+        "precedingTitle": "Verde Onyx Linking Bracelet (Size - 7.5) with Lobster Clasp 13.94 Ct.",
+        "precedingAuctionCode": "0019816461",
+        "followingSku": "8503852",
+        "followingTitle": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
+        "followingAuctionCode": "0019816480"
       }
     ],
-    "lastOnAirSku": "8481579",
-    "lastOnAirTitle": "Verde Onyx Linking Bracelet (Size - 7.5) with Lobster Clasp 13.94 Ct.",
-    "lastOnAirAuctionCode": "0019816461",
+    "lastOnAirSku": "8503852",
+    "lastOnAirTitle": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
+    "lastOnAirAuctionCode": "0019816480",
     "precedingSku": "8481579",
     "precedingTitle": "Verde Onyx Linking Bracelet (Size - 7.5) with Lobster Clasp 13.94 Ct.",
     "precedingAuctionCode": "0019816461"
