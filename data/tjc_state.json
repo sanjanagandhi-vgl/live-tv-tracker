@@ -134151,11 +134151,29 @@
       "productUrl": null,
       "lastUpdated": 1786496837599,
       "source": "gha"
+    },
+    "8279101": {
+      "sku": "8279101",
+      "firstAir": 1786496959497,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786496959497,
+      "title": "LIVMORE Gemstone Orgone Decorative Pyramid (5cm) With Pyrite",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019815870",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "02:09:19",
+      "productUrl": null,
+      "lastUpdated": 1786496959497,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786496902937,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135068,11 +135086,22 @@
         "followingSku": "8280489",
         "followingTitle": "Portable Folding & Retractable Telescopic Stool (44cm Adjustable) - Black",
         "followingAuctionCode": "0019815894"
+      },
+      {
+        "start": 1786496902937,
+        "end": 1786496959497,
+        "durationMin": 0.9,
+        "precedingSku": "8280489",
+        "precedingTitle": "Portable Folding & Retractable Telescopic Stool (44cm Adjustable) - Black",
+        "precedingAuctionCode": "0019815894",
+        "followingSku": "8279101",
+        "followingTitle": "LIVMORE Gemstone Orgone Decorative Pyramid (5cm) With Pyrite",
+        "followingAuctionCode": "0019815870"
       }
     ],
-    "lastOnAirSku": "8280489",
-    "lastOnAirTitle": "Portable Folding & Retractable Telescopic Stool (44cm Adjustable) - Black",
-    "lastOnAirAuctionCode": "0019815894",
+    "lastOnAirSku": "8279101",
+    "lastOnAirTitle": "LIVMORE Gemstone Orgone Decorative Pyramid (5cm) With Pyrite",
+    "lastOnAirAuctionCode": "0019815870",
     "precedingSku": "8280489",
     "precedingTitle": "Portable Folding & Retractable Telescopic Stool (44cm Adjustable) - Black",
     "precedingAuctionCode": "0019815894"
