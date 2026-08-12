@@ -134351,9 +134351,16 @@
       "img": true,
       "date": "2026-08-12",
       "time": "02:18:23",
-      "productUrl": null,
-      "lastUpdated": 1786497503242,
-      "source": "gha"
+      "productUrl": "/products/vintage-metalware-home-decor-car",
+      "lastUpdated": 1786498159670,
+      "source": "gha",
+      "missedAt": 1786498159670,
+      "missedDelay": 11,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1786498171630,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8283251": {
       "sku": "8283251",
@@ -134408,11 +134415,29 @@
       "productUrl": null,
       "lastUpdated": 1786498041243,
       "source": "gha"
+    },
+    "8429484": {
+      "sku": "8429484",
+      "firstAir": 1786498159670,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786498159670,
+      "title": "Handmade Iron Fairy Wind Chime (51 cm) - Golden",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019815879",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "02:29:19",
+      "productUrl": null,
+      "lastUpdated": 1786498159670,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786498102493,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135358,11 +135383,22 @@
         "followingSku": "8379251",
         "followingTitle": "Topped Faux Fur Hot Water Bottle (2L) - Light Grey",
         "followingAuctionCode": "0019815873"
+      },
+      {
+        "start": 1786498102493,
+        "end": 1786498159670,
+        "durationMin": 1.0,
+        "precedingSku": "8282803",
+        "precedingTitle": "LIVMORE Handmade Knitted Flower Bouquet with 10 LED Lights (26cm) - Yellow",
+        "precedingAuctionCode": "0019815878",
+        "followingSku": "8429484",
+        "followingTitle": "Handmade Iron Fairy Wind Chime (51 cm) - Golden",
+        "followingAuctionCode": "0019815879"
       }
     ],
-    "lastOnAirSku": "8282803",
-    "lastOnAirTitle": "LIVMORE Handmade Knitted Flower Bouquet with 10 LED Lights (26cm) - Yellow",
-    "lastOnAirAuctionCode": "0019815878",
+    "lastOnAirSku": "8429484",
+    "lastOnAirTitle": "Handmade Iron Fairy Wind Chime (51 cm) - Golden",
+    "lastOnAirAuctionCode": "0019815879",
     "precedingSku": "8282803",
     "precedingTitle": "LIVMORE Handmade Knitted Flower Bouquet with 10 LED Lights (26cm) - Yellow",
     "precedingAuctionCode": "0019815878"
