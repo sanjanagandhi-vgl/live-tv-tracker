@@ -134761,11 +134761,29 @@
       "productUrlChecked": 1786504250576,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "8108265": {
+      "sku": "8108265",
+      "firstAir": 1786504341893,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786504341893,
+      "title": "Lucy Q Pearl Drop Collection - White Fresh Water Pearl Bracelet in Rhodium Overlay Sterling Silver",
+      "pdpPrice": "87.99",
+      "auctionCode": "0019816039",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "04:12:21",
+      "productUrl": null,
+      "lastUpdated": 1786504341893,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786504281469,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135832,11 +135850,22 @@
         "followingSku": "8158482",
         "followingTitle": "Genuine Leather crossbody bag",
         "followingAuctionCode": "0019817264"
+      },
+      {
+        "start": 1786504281469,
+        "end": 1786504341893,
+        "durationMin": 1.0,
+        "precedingSku": "8158482",
+        "precedingTitle": "Genuine Leather crossbody bag",
+        "precedingAuctionCode": "0019817264",
+        "followingSku": "8108265",
+        "followingTitle": "Lucy Q Pearl Drop Collection - White Fresh Water Pearl Bracelet in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019816039"
       }
     ],
-    "lastOnAirSku": "8158482",
-    "lastOnAirTitle": "Genuine Leather crossbody bag",
-    "lastOnAirAuctionCode": "0019817264",
+    "lastOnAirSku": "8108265",
+    "lastOnAirTitle": "Lucy Q Pearl Drop Collection - White Fresh Water Pearl Bracelet in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019816039",
     "precedingSku": "8158482",
     "precedingTitle": "Genuine Leather crossbody bag",
     "precedingAuctionCode": "0019817264"
