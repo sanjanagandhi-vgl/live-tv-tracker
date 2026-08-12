@@ -131060,7 +131060,7 @@
       "firstAir": 1786465240102,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786514902520,
+      "lastAir": 1786515037603,
       "title": "Genuine Leather crossbody bag",
       "pdpPrice": 24.99,
       "auctionCode": "0019817264",
@@ -131068,9 +131068,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-12",
-      "time": "07:08:22",
+      "time": "07:10:37",
       "productUrl": "/products/genuine-leather-crossbody-bag-1828158478?variant=53109176598794",
-      "lastUpdated": 1786514902520,
+      "lastUpdated": 1786515037603,
       "source": "gha",
       "missedAt": 1786466367646,
       "missedDelay": 9,
@@ -135330,8 +135330,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786514959879,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136593,6 +136593,17 @@
         "precedingSku": "7710644",
         "precedingTitle": "Back By Popular Demand - Opatra HandySpa",
         "precedingAuctionCode": "0019816890",
+        "followingSku": "8158482",
+        "followingTitle": "Genuine Leather crossbody bag",
+        "followingAuctionCode": "0019817264"
+      },
+      {
+        "start": 1786514959879,
+        "end": 1786515037603,
+        "durationMin": 1.3,
+        "precedingSku": "8158482",
+        "precedingTitle": "Genuine Leather crossbody bag",
+        "precedingAuctionCode": "0019817264",
         "followingSku": "8158482",
         "followingTitle": "Genuine Leather crossbody bag",
         "followingAuctionCode": "0019817264"
