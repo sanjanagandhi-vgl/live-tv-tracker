@@ -135467,9 +135467,16 @@
       "img": true,
       "date": "2026-08-12",
       "time": "08:07:20",
-      "productUrl": null,
-      "lastUpdated": 1786518440099,
-      "source": "gha"
+      "productUrl": "/products/onshindo-osaka-face-scrub-for-all-skin-types-75ml",
+      "lastUpdated": 1786519040227,
+      "source": "gha",
+      "missedAt": 1786519040227,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1786519050599,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8196721": {
       "sku": "8196721",
@@ -135508,11 +135515,31 @@
       "productUrl": null,
       "lastUpdated": 1786518864004,
       "source": "gha"
+    },
+    "8196743": {
+      "sku": "8196743",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-12",
+      "time": "08:17:20",
+      "preExisting": true,
+      "missedAt": 1786519040227,
+      "missedDelay": null,
+      "lastUpdated": 1786519040227,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Onshindo Osaka Overnight Creamy-Hydration Mask for All Skin Types - 75ml",
+      "auctionCode": "0019817288",
+      "source": "gha",
+      "productUrl": "/products/onshindo-osaka-face-scrub-for-all-skin-types-75ml",
+      "productUrlChecked": 1786519050787,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1786519040227,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136815,8 +136842,8 @@
     "lastOnAirSku": "8158482",
     "lastOnAirTitle": "Genuine Leather crossbody bag",
     "lastOnAirAuctionCode": "0019817264",
-    "precedingSku": "8196719",
-    "precedingTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
-    "precedingAuctionCode": "0019816785"
+    "precedingSku": "8158482",
+    "precedingTitle": "Genuine Leather crossbody bag",
+    "precedingAuctionCode": "0019817264"
   }
 }
