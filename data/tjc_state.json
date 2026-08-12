@@ -135214,11 +135214,29 @@
       "productUrl": null,
       "lastUpdated": 1786512439704,
       "source": "gha"
+    },
+    "8236481": {
+      "sku": "8236481",
+      "firstAir": 1786512558641,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786512558641,
+      "title": "Maracuja Oil - 100 ml",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019816902",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "06:29:18",
+      "productUrl": null,
+      "lastUpdated": 1786512558641,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786512502753,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -136439,11 +136457,22 @@
         "followingSku": "8203512",
         "followingTitle": "Minimalist LED Lighted Makeup Mirror 500 mAh Rechargeable Vanity Mirror with 3",
         "followingAuctionCode": "0019816897"
+      },
+      {
+        "start": 1786512502753,
+        "end": 1786512558641,
+        "durationMin": 0.9,
+        "precedingSku": "6305360",
+        "precedingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
+        "precedingAuctionCode": "0019816332",
+        "followingSku": "8236481",
+        "followingTitle": "Maracuja Oil - 100 ml",
+        "followingAuctionCode": "0019816902"
       }
     ],
-    "lastOnAirSku": "6305360",
-    "lastOnAirTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
-    "lastOnAirAuctionCode": "0019816332",
+    "lastOnAirSku": "8236481",
+    "lastOnAirTitle": "Maracuja Oil - 100 ml",
+    "lastOnAirAuctionCode": "0019816902",
     "precedingSku": "6305360",
     "precedingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
     "precedingAuctionCode": "0019816332"
