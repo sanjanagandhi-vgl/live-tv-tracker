@@ -39443,21 +39443,26 @@
       "sku": "8505951",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-01",
-      "time": "00:39:19",
+      "date": "2026-08-12",
+      "time": "01:08:21",
       "preExisting": true,
       "missedAt": 1785541159245,
       "missedDelay": null,
-      "lastUpdated": 1785541159245,
+      "lastUpdated": 1786493301703,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Emeraldine Triplet Quartz Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver 3.35 Ct.",
-      "auctionCode": "0019800803",
+      "title": "Emeraldine Triplet Quartz Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver 3.35 Ct.",
+      "auctionCode": "0019816436",
       "source": "gha",
       "productUrl": "/products/emeraldine-triplet-quartz-solitaire-stud-push-post-earring-in-sterling-silver-3-35-ct",
       "productUrlChecked": 1785541172457,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1786493301703,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8544978": {
       "sku": "8544978",
@@ -133873,8 +133878,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786493129037,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -134710,11 +134715,22 @@
         "followingSku": "8566016",
         "followingTitle": "Nova of London 2-In-1 Tie Dye Mesh Overlay Necklace Top (Size - S, 10-12) - Blue",
         "followingAuctionCode": "0019814413"
+      },
+      {
+        "start": 1786493129037,
+        "end": 1786493301703,
+        "durationMin": 2.9,
+        "precedingSku": "8723797",
+        "precedingTitle": "LA Close Out Deal- White Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
+        "precedingAuctionCode": "0019817256",
+        "followingSku": "8505951",
+        "followingTitle": "Emeraldine Triplet Quartz Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver 3.35 Ct.",
+        "followingAuctionCode": "0019816436"
       }
     ],
-    "lastOnAirSku": "8723797",
-    "lastOnAirTitle": "LA Close Out Deal- White Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
-    "lastOnAirAuctionCode": "0019817256",
+    "lastOnAirSku": "8505951",
+    "lastOnAirTitle": "Emeraldine Triplet Quartz Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver 3.35 Ct.",
+    "lastOnAirAuctionCode": "0019816436",
     "precedingSku": "8723797",
     "precedingTitle": "LA Close Out Deal- White Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
     "precedingAuctionCode": "0019817256"
