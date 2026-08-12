@@ -19161,21 +19161,22 @@
       "firstAir": 1785187710002,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785188133317,
+      "lastAir": 1786505184390,
       "title": "D'Joy Ethiopian Opal Tennis Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 12.26 Ct, Silver Wt. 9.00 Gms",
-      "pdpPrice": 149.99,
-      "auctionCode": "0019797120",
-      "buy": false,
+      "pdpPrice": "129.99",
+      "auctionCode": "0019816050",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "22:35:33",
-      "lastUpdated": 1785188243837,
+      "date": "2026-08-12",
+      "time": "04:26:24",
+      "lastUpdated": 1786505184390,
       "source": "gha",
       "missedAt": 1785188243837,
       "missedDelay": 2,
       "missedPrice": 149.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8599330": {
       "sku": "8599330",
@@ -134861,8 +134862,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786505131051,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135940,11 +135941,22 @@
         "followingSku": "8108265",
         "followingTitle": "Lucy Q Pearl Drop Collection - White Fresh Water Pearl Bracelet in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019816039"
+      },
+      {
+        "start": 1786505131051,
+        "end": 1786505184390,
+        "durationMin": 0.9,
+        "precedingSku": "8278791",
+        "precedingTitle": "D'Joy Ethiopian Opal and Natural Zircon Bracelet in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019816049",
+        "followingSku": "8380667",
+        "followingTitle": "D'Joy Ethiopian Opal Tennis Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 12.26 Ct, Silver Wt. 9.00 Gms",
+        "followingAuctionCode": "0019816050"
       }
     ],
-    "lastOnAirSku": "8278791",
-    "lastOnAirTitle": "D'Joy Ethiopian Opal and Natural Zircon Bracelet in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019816049",
+    "lastOnAirSku": "8380667",
+    "lastOnAirTitle": "D'Joy Ethiopian Opal Tennis Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 12.26 Ct, Silver Wt. 9.00 Gms",
+    "lastOnAirAuctionCode": "0019816050",
     "precedingSku": "8278791",
     "precedingTitle": "D'Joy Ethiopian Opal and Natural Zircon Bracelet in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019816049"
