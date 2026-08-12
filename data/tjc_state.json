@@ -134365,11 +134365,29 @@
       "productUrl": null,
       "lastUpdated": 1786497680073,
       "source": "gha"
+    },
+    "8379251": {
+      "sku": "8379251",
+      "firstAir": 1786497798393,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786497798393,
+      "title": "Topped Faux Fur Hot Water Bottle (2L) - Light Grey",
+      "pdpPrice": "3.99",
+      "auctionCode": "0019815873",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-12",
+      "time": "02:23:18",
+      "productUrl": null,
+      "lastUpdated": 1786497798393,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786497744331,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -135304,11 +135322,22 @@
         "followingSku": "8412904",
         "followingTitle": "Livmore Dragon Glass Decor - Yellow",
         "followingAuctionCode": "0019815869"
+      },
+      {
+        "start": 1786497744331,
+        "end": 1786497798393,
+        "durationMin": 0.9,
+        "precedingSku": "8283251",
+        "precedingTitle": "LIVMORE Handmade Knitted Flower Bouquet with Little Bear & LED Lights (26cm) - Blue",
+        "precedingAuctionCode": "0019815872",
+        "followingSku": "8379251",
+        "followingTitle": "Topped Faux Fur Hot Water Bottle (2L) - Light Grey",
+        "followingAuctionCode": "0019815873"
       }
     ],
-    "lastOnAirSku": "8283251",
-    "lastOnAirTitle": "LIVMORE Handmade Knitted Flower Bouquet with Little Bear & LED Lights (26cm) - Blue",
-    "lastOnAirAuctionCode": "0019815872",
+    "lastOnAirSku": "8379251",
+    "lastOnAirTitle": "Topped Faux Fur Hot Water Bottle (2L) - Light Grey",
+    "lastOnAirAuctionCode": "0019815873",
     "precedingSku": "8283251",
     "precedingTitle": "LIVMORE Handmade Knitted Flower Bouquet with Little Bear & LED Lights (26cm) - Blue",
     "precedingAuctionCode": "0019815872"
