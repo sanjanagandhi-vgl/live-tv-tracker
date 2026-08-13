@@ -5717,22 +5717,25 @@
       "firstAir": 1784906781574,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786635443309,
+      "lastAir": 1786635802083,
       "title": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
-      "pdpPrice": "249.99",
+      "pdpPrice": 249.99,
       "auctionCode": "0019818742",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-13",
-      "time": "16:37:23",
-      "lastUpdated": 1786635443309,
+      "time": "16:43:22",
+      "lastUpdated": 1786635802083,
       "source": "gha",
       "missedAt": 1784908398752,
       "missedDelay": 3,
       "missedPrice": 299.99,
       "missedImg": false,
-      "productUrl": null
+      "productUrl": "/products/9k-yellow-gold-belcher-chain-with-lobster-clasp-6028642438?variant=53191488700682",
+      "productUrlChecked": 1786635807272,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8642593": {
       "sku": "8642593",
@@ -147348,8 +147351,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786635679883,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -148702,11 +148705,22 @@
         "followingSku": "8380637",
         "followingTitle": null,
         "followingAuctionCode": "0019816861"
+      },
+      {
+        "start": 1786635679883,
+        "end": 1786635802083,
+        "durationMin": 2.0,
+        "precedingSku": "8484296",
+        "precedingTitle": "Charlotte West Ladies QuiLighted Padded Gilet (Size 18) - Pink",
+        "precedingAuctionCode": "0019818059",
+        "followingSku": "8642438",
+        "followingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
+        "followingAuctionCode": "0019818742"
       }
     ],
-    "lastOnAirSku": "8484296",
-    "lastOnAirTitle": "Charlotte West Ladies QuiLighted Padded Gilet (Size 18) - Pink",
-    "lastOnAirAuctionCode": "0019818059",
+    "lastOnAirSku": "8642438",
+    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019818742",
     "precedingSku": "8484296",
     "precedingTitle": "Charlotte West Ladies QuiLighted Padded Gilet (Size 18) - Pink",
     "precedingAuctionCode": "0019818059"
