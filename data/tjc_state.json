@@ -140216,17 +140216,17 @@
       "firstAir": 1786551749814,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786552037978,
+      "lastAir": 1786654638909,
       "title": "Yellow Gold Plated Sterling Silver Flat Rambo Chain (Size - 18) with Lobster Clasp",
       "pdpPrice": "39.99",
-      "auctionCode": "0019818411",
+      "auctionCode": "0019820432",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-12",
-      "time": "17:27:17",
+      "date": "2026-08-13",
+      "time": "21:57:18",
       "productUrl": "/products/yellow-gold-plated-sterling-silver-flat-chain-size-18-with-lobster-clasp",
-      "lastUpdated": 1786552583306,
+      "lastUpdated": 1786654638909,
       "source": "gha",
       "missedAt": 1786552583306,
       "missedDelay": 9,
@@ -148857,8 +148857,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786654581971,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -150376,11 +150376,22 @@
         "followingSku": "8620514",
         "followingTitle": "Sterling Silver Hoop Earring with Clasp",
         "followingAuctionCode": "0019820427"
+      },
+      {
+        "start": 1786654581971,
+        "end": 1786654638909,
+        "durationMin": 0.9,
+        "precedingSku": "8620512",
+        "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019820426",
+        "followingSku": "8553022",
+        "followingTitle": "Yellow Gold Plated Sterling Silver Flat Rambo Chain (Size - 18) with Lobster Clasp",
+        "followingAuctionCode": "0019820432"
       }
     ],
-    "lastOnAirSku": "8620512",
-    "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019820426",
+    "lastOnAirSku": "8553022",
+    "lastOnAirTitle": "Yellow Gold Plated Sterling Silver Flat Rambo Chain (Size - 18) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019820432",
     "precedingSku": "8620512",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
     "precedingAuctionCode": "0019820426"
