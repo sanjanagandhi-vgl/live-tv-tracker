@@ -104029,18 +104029,23 @@
       "sku": "8516309",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-08",
-      "time": "17:43:19",
+      "date": "2026-08-13",
+      "time": "23:39:18",
       "preExisting": true,
       "missedAt": 1786207399666,
       "missedDelay": null,
-      "lastUpdated": 1786207399666,
+      "lastUpdated": 1786660758968,
       "missedPrice": 1499.99,
       "missedImg": true,
       "title": "New York Close Out - 14K Yellow Gold SGL Certified Earth Mined Natural Yellow Diamond & White Diamond  Band Ring 2.00 Ct. 4.50 gram",
-      "auctionCode": "0019811746",
+      "auctionCode": "0019819469",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1786660758968,
+      "pdpPrice": "19876.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8516310": {
       "sku": "8516310",
@@ -149376,8 +149381,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786660702148,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -150928,11 +150933,22 @@
         "followingSku": "8501407",
         "followingTitle": "D'Joy Natural Pink Diamond Leaf Vine Ring in 18K Vermeil Rose Gold Plated Sterling Silver",
         "followingAuctionCode": "0019819448"
+      },
+      {
+        "start": 1786660702148,
+        "end": 1786660758968,
+        "durationMin": 0.9,
+        "precedingSku": "8527342",
+        "precedingTitle": "NY Close Out Deal- 14K Yellow Gold Natural Yellow Diamond (SI) and Natural White Diamond (I1-I2) Ring 1.75 Ct, Gold Wt. 4.20 Gms",
+        "precedingAuctionCode": "0019819452",
+        "followingSku": "8516309",
+        "followingTitle": "New York Close Out - 14K Yellow Gold SGL Certified Earth Mined Natural Yellow Diamond & White Diamond  Band Ring 2.00 Ct. 4.50 gram",
+        "followingAuctionCode": "0019819469"
       }
     ],
-    "lastOnAirSku": "8527342",
-    "lastOnAirTitle": "NY Close Out Deal- 14K Yellow Gold Natural Yellow Diamond (SI) and Natural White Diamond (I1-I2) Ring 1.75 Ct, Gold Wt. 4.20 Gms",
-    "lastOnAirAuctionCode": "0019819452",
+    "lastOnAirSku": "8516309",
+    "lastOnAirTitle": "New York Close Out - 14K Yellow Gold SGL Certified Earth Mined Natural Yellow Diamond & White Diamond  Band Ring 2.00 Ct. 4.50 gram",
+    "lastOnAirAuctionCode": "0019819469",
     "precedingSku": "8527342",
     "precedingTitle": "NY Close Out Deal- 14K Yellow Gold Natural Yellow Diamond (SI) and Natural White Diamond (I1-I2) Ring 1.75 Ct, Gold Wt. 4.20 Gms",
     "precedingAuctionCode": "0019819452"
