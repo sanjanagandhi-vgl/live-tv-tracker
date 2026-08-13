@@ -5718,7 +5718,7 @@
       "firstAir": 1784906781574,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786639585098,
+      "lastAir": 1786640789213,
       "title": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
       "pdpPrice": 249.99,
       "auctionCode": "0019818742",
@@ -5726,8 +5726,8 @@
       "login": false,
       "img": true,
       "date": "2026-08-13",
-      "time": "17:46:25",
-      "lastUpdated": 1786639585098,
+      "time": "18:06:29",
+      "lastUpdated": 1786640789213,
       "source": "gha",
       "missedAt": 1784908398752,
       "missedDelay": 3,
@@ -147788,8 +147788,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786640662894,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -149208,11 +149208,22 @@
         "followingSku": "8245348",
         "followingTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
         "followingAuctionCode": "0019819039"
+      },
+      {
+        "start": 1786640662894,
+        "end": 1786640789213,
+        "durationMin": 2.1,
+        "precedingSku": "8245348",
+        "precedingTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
+        "precedingAuctionCode": "0019819039",
+        "followingSku": "8642438",
+        "followingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
+        "followingAuctionCode": "0019818742"
       }
     ],
-    "lastOnAirSku": "8245348",
-    "lastOnAirTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
-    "lastOnAirAuctionCode": "0019819039",
+    "lastOnAirSku": "8642438",
+    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019818742",
     "precedingSku": "8245348",
     "precedingTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
     "precedingAuctionCode": "0019819039"
