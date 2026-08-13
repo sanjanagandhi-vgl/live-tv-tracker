@@ -112952,21 +112952,26 @@
       "sku": "8572291",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-09",
-      "time": "14:52:23",
+      "date": "2026-08-13",
+      "time": "18:30:53",
       "preExisting": true,
       "missedAt": 1786283543899,
       "missedDelay": null,
-      "lastUpdated": 1786283543899,
+      "lastUpdated": 1786642253170,
       "missedPrice": 79.99,
       "missedImg": true,
       "title": "Luxuriant - Tanzanite & Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 0.70 Ct.",
-      "auctionCode": "0019813905",
+      "auctionCode": "0019818486",
       "source": "gha",
       "productUrl": "/products/luxuriant-tanzanite-lab-grown-diamond-si-g-h-solitaire-ring-in-rhodium-overlay-sterling-silver-1-00-ct",
       "productUrlChecked": 1786283599247,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1786642253170,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8572293": {
       "sku": "8572293",
@@ -147842,8 +147847,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786642160047,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -149295,11 +149300,22 @@
         "followingSku": "4476888",
         "followingTitle": "D'Joy - Tanzanite & White Zircon Solitaire Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019816707"
+      },
+      {
+        "start": 1786642160047,
+        "end": 1786642253170,
+        "durationMin": 1.6,
+        "precedingSku": "8587168",
+        "precedingTitle": "D'Joy - Tanzanite, Champagne Diamond & Natural White Diamond Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.70 Ct.",
+        "precedingAuctionCode": "0019818468",
+        "followingSku": "8572291",
+        "followingTitle": "Luxuriant - Tanzanite & Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 0.70 Ct.",
+        "followingAuctionCode": "0019818486"
       }
     ],
-    "lastOnAirSku": "8587168",
-    "lastOnAirTitle": "D'Joy - Tanzanite, Champagne Diamond & Natural White Diamond Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.70 Ct.",
-    "lastOnAirAuctionCode": "0019818468",
+    "lastOnAirSku": "8572291",
+    "lastOnAirTitle": "Luxuriant - Tanzanite & Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 0.70 Ct.",
+    "lastOnAirAuctionCode": "0019818486",
     "precedingSku": "8587168",
     "precedingTitle": "D'Joy - Tanzanite, Champagne Diamond & Natural White Diamond Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.70 Ct.",
     "precedingAuctionCode": "0019818468"
