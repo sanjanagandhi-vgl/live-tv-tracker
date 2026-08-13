@@ -13882,21 +13882,22 @@
       "firstAir": 1785078503260,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785080433368,
-      "title": "LIMTED EDITION - Rare AAAA White Edison Pearl (11-13mm) Necklace (Size - 20) in Yellow Gold Plated Sterling Silver 400.00 Ct.",
-      "pdpPrice": 399.99,
-      "auctionCode": "0019790682",
-      "buy": false,
-      "login": true,
+      "lastAir": 1786639840611,
+      "title": "Rare AAA White Edison Pearl (11-13mm)  Necklace (Size - 20) in Yellow Gold Plated Sterling Silver with Magnetic Lock",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019818844",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "16:40:33",
-      "lastUpdated": 1785080540278,
+      "date": "2026-08-13",
+      "time": "17:50:40",
+      "lastUpdated": 1786639840611,
       "source": "gha",
       "missedAt": 1785080540278,
       "missedDelay": 2,
       "missedPrice": 399.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8619492": {
       "sku": "8619492",
@@ -147620,8 +147621,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786639642917,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -149018,11 +149019,22 @@
         "followingSku": "8499105",
         "followingTitle": "Luxuriant - Tarakasi 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
         "followingAuctionCode": "0019819198"
+      },
+      {
+        "start": 1786639642917,
+        "end": 1786639840611,
+        "durationMin": 3.3,
+        "precedingSku": "8642438",
+        "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
+        "precedingAuctionCode": "0019818742",
+        "followingSku": "8708942",
+        "followingTitle": "Rare AAA White Edison Pearl (11-13mm)  Necklace (Size - 20) in Yellow Gold Plated Sterling Silver with Magnetic Lock",
+        "followingAuctionCode": "0019818844"
       }
     ],
-    "lastOnAirSku": "8642438",
-    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019818742",
+    "lastOnAirSku": "8708942",
+    "lastOnAirTitle": "Rare AAA White Edison Pearl (11-13mm)  Necklace (Size - 20) in Yellow Gold Plated Sterling Silver with Magnetic Lock",
+    "lastOnAirAuctionCode": "0019818844",
     "precedingSku": "8642438",
     "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
     "precedingAuctionCode": "0019818742"
