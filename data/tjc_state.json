@@ -149103,11 +149103,29 @@
       "productUrlChecked": 1786656343409,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8501407": {
+      "sku": "8501407",
+      "firstAir": 1786657399599,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786657399599,
+      "title": "D'Joy Natural Pink Diamond Leaf Vine Ring in 18K Vermeil Rose Gold Plated Sterling Silver",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019819448",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-13",
+      "time": "22:43:19",
+      "productUrl": null,
+      "lastUpdated": 1786657399599,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786657343769,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -150647,11 +150665,22 @@
         "followingSku": "8501372",
         "followingTitle": "Brand New D'Joy Natural Pink Diamond Leaf Hoop Earrings with Clasp in 18K Rose Gold Vermeil Sterling Silver 0.25 Ct",
         "followingAuctionCode": "0019819238"
+      },
+      {
+        "start": 1786657343769,
+        "end": 1786657399599,
+        "durationMin": 0.9,
+        "precedingSku": "8501363",
+        "precedingTitle": "D'Joy Natural Pink Diamond Leaf Vine Ring in 18K Vermeil Rose Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019813935",
+        "followingSku": "8501407",
+        "followingTitle": "D'Joy Natural Pink Diamond Leaf Vine Ring in 18K Vermeil Rose Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019819448"
       }
     ],
-    "lastOnAirSku": "8501363",
+    "lastOnAirSku": "8501407",
     "lastOnAirTitle": "D'Joy Natural Pink Diamond Leaf Vine Ring in 18K Vermeil Rose Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019813935",
+    "lastOnAirAuctionCode": "0019819448",
     "precedingSku": "8501363",
     "precedingTitle": "D'Joy Natural Pink Diamond Leaf Vine Ring in 18K Vermeil Rose Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019813935"
