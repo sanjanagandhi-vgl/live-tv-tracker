@@ -145077,9 +145077,16 @@
       "img": true,
       "date": "2026-08-13",
       "time": "08:35:32",
-      "productUrl": null,
-      "lastUpdated": 1786606532701,
-      "source": "gha"
+      "productUrl": "/products/la-marey-faux-fur-hoodie-gilet",
+      "lastUpdated": 1786607064716,
+      "source": "gha",
+      "missedAt": 1786607064716,
+      "missedDelay": 9,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "productUrlChecked": 1786607069758,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7864784": {
       "sku": "7864784",
@@ -145136,6 +145143,44 @@
       "source": "gha",
       "productUrlChecked": 1786607003615,
       "productUrlStatus": 500,
+      "productUrl404": false
+    },
+    "8484306": {
+      "sku": "8484306",
+      "firstAir": 1786607064716,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786607064716,
+      "title": "Charlotte West Ladies QuiLighted Padded Gilet (Size 18) - Pink",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019818060",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-13",
+      "time": "08:44:24",
+      "productUrl": null,
+      "lastUpdated": 1786607064716,
+      "source": "gha"
+    },
+    "8310044": {
+      "sku": "8310044",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-13",
+      "time": "08:44:24",
+      "preExisting": true,
+      "missedAt": 1786607064716,
+      "missedDelay": null,
+      "lastUpdated": 1786607064716,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "La Marey Faux Fur Hoodie Gilet (Size 8 to 16) - Dark Brown",
+      "auctionCode": "0019817046",
+      "source": "gha",
+      "productUrl": "/products/la-marey-faux-fur-hoodie-gilet",
+      "productUrlChecked": 1786607072226,
+      "productUrlStatus": 200,
       "productUrl404": false
     }
   },
@@ -146496,9 +146541,9 @@
         "followingAuctionCode": "0019816861"
       }
     ],
-    "lastOnAirSku": "8484296",
+    "lastOnAirSku": "8484306",
     "lastOnAirTitle": "Charlotte West Ladies QuiLighted Padded Gilet (Size 18) - Pink",
-    "lastOnAirAuctionCode": "0019818059",
+    "lastOnAirAuctionCode": "0019818060",
     "precedingSku": "8283130",
     "precedingTitle": "Emma Ladies Shoe",
     "precedingAuctionCode": "0019816848"
