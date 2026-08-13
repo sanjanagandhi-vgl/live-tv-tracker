@@ -5717,7 +5717,7 @@
       "firstAir": 1784906781574,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786637064077,
+      "lastAir": 1786637183319,
       "title": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
       "pdpPrice": 249.99,
       "auctionCode": "0019818742",
@@ -5725,8 +5725,8 @@
       "login": false,
       "img": true,
       "date": "2026-08-13",
-      "time": "17:04:24",
-      "lastUpdated": 1786637064077,
+      "time": "17:06:23",
+      "lastUpdated": 1786637183319,
       "source": "gha",
       "missedAt": 1784908398752,
       "missedDelay": 3,
@@ -147389,8 +147389,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786637130824,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -148765,6 +148765,17 @@
         "followingSku": "8094863",
         "followingTitle": "Luxuriant Diamond 9K Gold SGL Certified (SI-GH) Lab Grown Diamond Stud Push Back Earring",
         "followingAuctionCode": "0019818846"
+      },
+      {
+        "start": 1786637130824,
+        "end": 1786637183319,
+        "durationMin": 0.9,
+        "precedingSku": "8642438",
+        "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
+        "precedingAuctionCode": "0019818742",
+        "followingSku": "8642438",
+        "followingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
+        "followingAuctionCode": "0019818742"
       }
     ],
     "lastOnAirSku": "8642438",
