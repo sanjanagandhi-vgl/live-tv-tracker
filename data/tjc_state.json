@@ -1659,22 +1659,23 @@
       "sku": "8499105",
       "tvPrice": "",
       "remarks": "",
-      "time": "09:41:17",
+      "time": "17:34:32",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 799.99,
       "missedImg": false,
-      "title": "Luxuriant - Tarakasi 18K Yellow Gold IGI Certified VS-E/F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
-      "auctionCode": "0019796807",
+      "title": "Luxuriant - Tarakasi 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+      "auctionCode": "0019819198",
       "source": "gha",
-      "lastAir": 1785141677217,
-      "pdpPrice": 799.99,
-      "buy": false,
+      "lastAir": 1786638872102,
+      "pdpPrice": "797.99",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "lastUpdated": 1785141677217
+      "date": "2026-08-13",
+      "lastUpdated": 1786638872102,
+      "productUrl": null
     },
     "8610940": {
       "sku": "8610940",
@@ -147414,8 +147415,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786638681375,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -148801,11 +148802,22 @@
         "followingSku": "8642438",
         "followingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
         "followingAuctionCode": "0019818742"
+      },
+      {
+        "start": 1786638681375,
+        "end": 1786638872102,
+        "durationMin": 3.2,
+        "precedingSku": "8642438",
+        "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
+        "precedingAuctionCode": "0019818742",
+        "followingSku": "8499105",
+        "followingTitle": "Luxuriant - Tarakasi 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+        "followingAuctionCode": "0019819198"
       }
     ],
-    "lastOnAirSku": "8642438",
-    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019818742",
+    "lastOnAirSku": "8499105",
+    "lastOnAirTitle": "Luxuriant - Tarakasi 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019819198",
     "precedingSku": "8642438",
     "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 16) with Lobster Clasp",
     "precedingAuctionCode": "0019818742"
