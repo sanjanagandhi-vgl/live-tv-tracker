@@ -147814,7 +147814,7 @@
       "firstAir": 1786641744333,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786642400370,
+      "lastAir": 1786642529372,
       "title": "D'Joy - Tanzanite & White Zircon Dangling Earring with Push Post in Rhodium Overlay Sterling Silv...",
       "pdpPrice": 249.99,
       "auctionCode": "0019816705",
@@ -147822,9 +147822,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-13",
-      "time": "18:33:20",
+      "time": "18:35:29",
       "productUrl": "/products/djoy-tanzanite-white-zircon-dangling-earring-with-push-post-in-rhodium-overlay-sterling-silver-1-45-ct?variant=53108301725962",
-      "lastUpdated": 1786642462292,
+      "lastUpdated": 1786642529372,
       "source": "gha",
       "productUrlChecked": 1786642405415,
       "productUrlStatus": 500,
@@ -147854,8 +147854,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786642462292,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -149318,6 +149318,17 @@
         "followingSku": "8572291",
         "followingTitle": "Luxuriant - Tanzanite & Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 0.70 Ct.",
         "followingAuctionCode": "0019818486"
+      },
+      {
+        "start": 1786642462292,
+        "end": 1786642529372,
+        "durationMin": 1.1,
+        "precedingSku": "8572391",
+        "precedingTitle": "D'Joy - Tanzanite & White Zircon Dangling Earring with Push Post in Rhodium Overlay Sterling Silv...",
+        "precedingAuctionCode": "0019816705",
+        "followingSku": "8572391",
+        "followingTitle": "D'Joy - Tanzanite & White Zircon Dangling Earring with Push Post in Rhodium Overlay Sterling Silv...",
+        "followingAuctionCode": "0019816705"
       }
     ],
     "lastOnAirSku": "8572391",
