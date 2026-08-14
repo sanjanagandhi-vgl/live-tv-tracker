@@ -158992,7 +158992,7 @@
       "tvPrice": "",
       "remarks": "",
       "lastAir": 1786739183388,
-      "title": null,
+      "title": "Bamboo Duvet Cover White - Single",
       "pdpPrice": null,
       "auctionCode": "0019819682",
       "buy": true,
@@ -159001,8 +159001,12 @@
       "date": "2026-08-14",
       "time": "21:26:23",
       "productUrl": null,
-      "lastUpdated": 1786739183388,
-      "source": "gha"
+      "lastUpdated": 1786739782974,
+      "source": "gha",
+      "missedAt": 1786739782974,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8595827": {
       "sku": "8595827",
@@ -159024,8 +159028,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1786739782974,
     "gaps": [
       {
         "start": 1785823527869,
@@ -160768,8 +160772,8 @@
     "lastOnAirSku": "8595827",
     "lastOnAirTitle": "Livmore Set of 2 Shungite Infused Polymer Gel Dotted Heel Pads Targets heel pain, arch pain, foot fatigue, ailment like plantar fasciitis or otherwise due to tiredness",
     "lastOnAirAuctionCode": "0019820259",
-    "precedingSku": "7880261",
-    "precedingTitle": null,
-    "precedingAuctionCode": "0019819682"
+    "precedingSku": "8595827",
+    "precedingTitle": "Livmore Set of 2 Shungite Infused Polymer Gel Dotted Heel Pads Targets heel pain, arch pain, foot fatigue, ailment like plantar fasciitis or otherwise due to tiredness",
+    "precedingAuctionCode": "0019820259"
   }
 }
