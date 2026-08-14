@@ -96196,21 +96196,26 @@
       "sku": "8540587",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "17:38:22",
+      "date": "2026-08-14",
+      "time": "23:32:25",
       "preExisting": true,
       "missedAt": 1786120702070,
       "missedDelay": null,
-      "lastUpdated": 1786120702070,
+      "lastUpdated": 1786746745597,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Peacock Triplet Quartz Stud Push Post Earring in Yellow Gold Plated Sterling Silver 1.95 Ct.",
-      "auctionCode": "0019811612",
+      "auctionCode": "0019820116",
       "source": "gha",
       "productUrl": "/products/peacock-triplet-quartz-push-post-earring",
       "productUrlChecked": 1786120715451,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1786746745597,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8551492": {
       "sku": "8551492",
@@ -159598,8 +159603,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786746681101,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -161403,11 +161408,22 @@
         "followingSku": "8564237",
         "followingTitle": "Sterling Silver Flat Figaro Bracelet (Size - 7.5) with Lobster Clasp",
         "followingAuctionCode": "0019820038"
+      },
+      {
+        "start": 1786746681101,
+        "end": 1786746745597,
+        "durationMin": 1.1,
+        "precedingSku": "8620508",
+        "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019820040",
+        "followingSku": "8540587",
+        "followingTitle": "Peacock Triplet Quartz Stud Push Post Earring in Yellow Gold Plated Sterling Silver 1.95 Ct.",
+        "followingAuctionCode": "0019820116"
       }
     ],
-    "lastOnAirSku": "8620508",
-    "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019820040",
+    "lastOnAirSku": "8540587",
+    "lastOnAirTitle": "Peacock Triplet Quartz Stud Push Post Earring in Yellow Gold Plated Sterling Silver 1.95 Ct.",
+    "lastOnAirAuctionCode": "0019820116",
     "precedingSku": "8620508",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
     "precedingAuctionCode": "0019820040"
