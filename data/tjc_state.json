@@ -159025,11 +159025,29 @@
       "productUrl": null,
       "lastUpdated": 1786739729284,
       "source": "gha"
+    },
+    "8553726": {
+      "sku": "8553726",
+      "firstAir": 1786739961792,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786739961792,
+      "title": "Fragrance Works Golden Gardenia EDP - 100ml",
+      "pdpPrice": "65.99",
+      "auctionCode": "0019819659",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-14",
+      "time": "21:39:21",
+      "productUrl": null,
+      "lastUpdated": 1786739961792,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786739903665,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -160778,11 +160796,22 @@
         "followingSku": "8420761",
         "followingTitle": "Set of 2 Crochet Fruit Charms Keychain - Orange & Red",
         "followingAuctionCode": "0019819600"
+      },
+      {
+        "start": 1786739903665,
+        "end": 1786739961792,
+        "durationMin": 1.0,
+        "precedingSku": "8420761",
+        "precedingTitle": "Set of 2 Crochet Fruit Charms Keychain - Orange & Red",
+        "precedingAuctionCode": "0019819600",
+        "followingSku": "8553726",
+        "followingTitle": "Fragrance Works Golden Gardenia EDP - 100ml",
+        "followingAuctionCode": "0019819659"
       }
     ],
-    "lastOnAirSku": "8420761",
-    "lastOnAirTitle": "Set of 2 Crochet Fruit Charms Keychain - Orange & Red",
-    "lastOnAirAuctionCode": "0019819600",
+    "lastOnAirSku": "8553726",
+    "lastOnAirTitle": "Fragrance Works Golden Gardenia EDP - 100ml",
+    "lastOnAirAuctionCode": "0019819659",
     "precedingSku": "8420761",
     "precedingTitle": "Set of 2 Crochet Fruit Charms Keychain - Orange & Red",
     "precedingAuctionCode": "0019819600"
