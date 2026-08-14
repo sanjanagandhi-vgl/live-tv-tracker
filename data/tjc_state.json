@@ -159559,11 +159559,29 @@
       "productUrlChecked": 1786746087707,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8564237": {
+      "sku": "8564237",
+      "firstAir": 1786746144279,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786746144279,
+      "title": "Sterling Silver Flat Figaro Bracelet (Size - 7.5) with Lobster Clasp",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019820038",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-14",
+      "time": "23:22:24",
+      "productUrl": null,
+      "lastUpdated": 1786746144279,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786746079651,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -161356,11 +161374,22 @@
         "followingSku": "8482745",
         "followingTitle": null,
         "followingAuctionCode": "0019819962"
+      },
+      {
+        "start": 1786746079651,
+        "end": 1786746144279,
+        "durationMin": 1.1,
+        "precedingSku": "8356063",
+        "precedingTitle": "24K Yellow Gold (99.9% Purity) Large Maneki Neko Cat Embossed Treasure - Symbolizing Wealth, Good Fortune & Prosperity",
+        "precedingAuctionCode": "0019823458",
+        "followingSku": "8564237",
+        "followingTitle": "Sterling Silver Flat Figaro Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019820038"
       }
     ],
-    "lastOnAirSku": "8356063",
-    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Large Maneki Neko Cat Embossed Treasure - Symbolizing Wealth, Good Fortune & Prosperity",
-    "lastOnAirAuctionCode": "0019823458",
+    "lastOnAirSku": "8564237",
+    "lastOnAirTitle": "Sterling Silver Flat Figaro Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019820038",
     "precedingSku": "8356063",
     "precedingTitle": "24K Yellow Gold (99.9% Purity) Large Maneki Neko Cat Embossed Treasure - Symbolizing Wealth, Good Fortune & Prosperity",
     "precedingAuctionCode": "0019823458"
