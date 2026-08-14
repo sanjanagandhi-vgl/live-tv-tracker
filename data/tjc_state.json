@@ -155956,11 +155956,29 @@
       "productUrlChecked": 1786721909509,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8421845": {
+      "sku": "8421845",
+      "firstAir": 1786721960783,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786721960783,
+      "title": "Mudflower boat and anchor Embroidery Jumper",
+      "pdpPrice": "13.99",
+      "auctionCode": "0019817884",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-14",
+      "time": "16:39:20",
+      "productUrl": null,
+      "lastUpdated": 1786721960783,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786721904967,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -157577,11 +157595,22 @@
         "followingSku": "8521555",
         "followingTitle": "Pure And Natural V-Neck Cable Jumper (Size 16 to 18) - Fresh Primrose",
         "followingAuctionCode": "0019817861"
+      },
+      {
+        "start": 1786721904967,
+        "end": 1786721960783,
+        "durationMin": 0.9,
+        "precedingSku": "8241554",
+        "precedingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
+        "precedingAuctionCode": "0019819647",
+        "followingSku": "8421845",
+        "followingTitle": "Mudflower boat and anchor Embroidery Jumper",
+        "followingAuctionCode": "0019817884"
       }
     ],
-    "lastOnAirSku": "8241554",
-    "lastOnAirTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
-    "lastOnAirAuctionCode": "0019819647",
+    "lastOnAirSku": "8421845",
+    "lastOnAirTitle": "Mudflower boat and anchor Embroidery Jumper",
+    "lastOnAirAuctionCode": "0019817884",
     "precedingSku": "8241554",
     "precedingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
     "precedingAuctionCode": "0019819647"
