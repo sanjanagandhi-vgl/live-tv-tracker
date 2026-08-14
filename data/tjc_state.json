@@ -159688,11 +159688,29 @@
       "productUrl": null,
       "lastUpdated": 1786747342754,
       "source": "gha"
+    },
+    "8313915": {
+      "sku": "8313915",
+      "firstAir": 1786747584683,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786747584683,
+      "title": "Tigers Eye Stretchable Bracelet",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019820121",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-14",
+      "time": "23:46:24",
+      "productUrl": null,
+      "lastUpdated": 1786747584683,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786747535805,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -161507,11 +161525,22 @@
         "followingSku": "8540587",
         "followingTitle": "Peacock Triplet Quartz Stud Push Post Earring in Yellow Gold Plated Sterling Silver 1.95 Ct.",
         "followingAuctionCode": "0019820116"
+      },
+      {
+        "start": 1786747535805,
+        "end": 1786747584683,
+        "durationMin": 0.8,
+        "precedingSku": "8421194",
+        "precedingTitle": "Tucson Close Out -Rose Quartz Drop Earring with Lever Back",
+        "precedingAuctionCode": "0019820113",
+        "followingSku": "8313915",
+        "followingTitle": "Tigers Eye Stretchable Bracelet",
+        "followingAuctionCode": "0019820121"
       }
     ],
-    "lastOnAirSku": "8421194",
-    "lastOnAirTitle": "Tucson Close Out -Rose Quartz Drop Earring with Lever Back",
-    "lastOnAirAuctionCode": "0019820113",
+    "lastOnAirSku": "8313915",
+    "lastOnAirTitle": "Tigers Eye Stretchable Bracelet",
+    "lastOnAirAuctionCode": "0019820121",
     "precedingSku": "8421194",
     "precedingTitle": "Tucson Close Out -Rose Quartz Drop Earring with Lever Back",
     "precedingAuctionCode": "0019820113"
