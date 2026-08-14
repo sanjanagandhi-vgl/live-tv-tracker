@@ -13639,7 +13639,7 @@
       "firstAir": 1785066389130,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786734382563,
+      "lastAir": 1786736360314,
       "title": "Anti-Skid Carpet Stopper",
       "pdpPrice": 4.99,
       "auctionCode": "0019819558",
@@ -13647,8 +13647,8 @@
       "login": false,
       "img": true,
       "date": "2026-08-14",
-      "time": "20:06:22",
-      "lastUpdated": 1786734382563,
+      "time": "20:39:20",
+      "lastUpdated": 1786736360314,
       "source": "gha",
       "missedAt": 1785066686430,
       "missedDelay": 2,
@@ -158831,8 +158831,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786736303562,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -160537,11 +160537,22 @@
         "followingSku": "8741678",
         "followingTitle": "BORDLITE Cabin Bag on Wheels - Lightweight, Retractable Handle Soft Shell Carry On Flight Holdall & Travel Duffel (Free Bag Allowance Approved) 50x35x20 CM - Pink",
         "followingAuctionCode": "0019819591"
+      },
+      {
+        "start": 1786736303562,
+        "end": 1786736360314,
+        "durationMin": 0.9,
+        "precedingSku": "8312833",
+        "precedingTitle": "Livmore 10-Pack Hanging Dehumidifier Bags - 220g Moisture Absorbers for Wardrobes and Cupboards, Fragrance-Free Calcium Chloride Wardrobe Drier - Blue & White",
+        "precedingAuctionCode": "0019823429",
+        "followingSku": "8526654",
+        "followingTitle": "Anti-Skid Carpet Stopper",
+        "followingAuctionCode": "0019819558"
       }
     ],
-    "lastOnAirSku": "8312833",
-    "lastOnAirTitle": "Livmore 10-Pack Hanging Dehumidifier Bags - 220g Moisture Absorbers for Wardrobes and Cupboards, Fragrance-Free Calcium Chloride Wardrobe Drier - Blue & White",
-    "lastOnAirAuctionCode": "0019823429",
+    "lastOnAirSku": "8526654",
+    "lastOnAirTitle": "Anti-Skid Carpet Stopper",
+    "lastOnAirAuctionCode": "0019819558",
     "precedingSku": "8312833",
     "precedingTitle": "Livmore 10-Pack Hanging Dehumidifier Bags - 220g Moisture Absorbers for Wardrobes and Cupboards, Fragrance-Free Calcium Chloride Wardrobe Drier - Blue & White",
     "precedingAuctionCode": "0019823429"
