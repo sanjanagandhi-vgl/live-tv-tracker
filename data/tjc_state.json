@@ -155743,11 +155743,29 @@
       "productUrlChecked": 1786721459090,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8521555": {
+      "sku": "8521555",
+      "firstAir": 1786721543103,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786721543103,
+      "title": "Pure And Natural V-Neck Cable Jumper (Size 16 to 18) - Fresh Primrose",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019817861",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-14",
+      "time": "16:32:23",
+      "productUrl": null,
+      "lastUpdated": 1786721543103,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786721478991,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -157353,11 +157371,22 @@
         "followingSku": "3888497",
         "followingTitle": "TAMSY Stripe Long Sleeves Knit Top - Black & Beige",
         "followingAuctionCode": "0019818045"
+      },
+      {
+        "start": 1786721478991,
+        "end": 1786721543103,
+        "durationMin": 1.1,
+        "precedingSku": "8480527",
+        "precedingTitle": "Pure And Natural V-Neck Cable Jumper (Size XL, Fit 20 to 22) - Lilac",
+        "precedingAuctionCode": "0019817891",
+        "followingSku": "8521555",
+        "followingTitle": "Pure And Natural V-Neck Cable Jumper (Size 16 to 18) - Fresh Primrose",
+        "followingAuctionCode": "0019817861"
       }
     ],
-    "lastOnAirSku": "8480527",
-    "lastOnAirTitle": "Pure And Natural V-Neck Cable Jumper (Size XL, Fit 20 to 22) - Lilac",
-    "lastOnAirAuctionCode": "0019817891",
+    "lastOnAirSku": "8521555",
+    "lastOnAirTitle": "Pure And Natural V-Neck Cable Jumper (Size 16 to 18) - Fresh Primrose",
+    "lastOnAirAuctionCode": "0019817861",
     "precedingSku": "8480527",
     "precedingTitle": "Pure And Natural V-Neck Cable Jumper (Size XL, Fit 20 to 22) - Lilac",
     "precedingAuctionCode": "0019817891"
