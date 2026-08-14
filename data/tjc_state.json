@@ -158539,11 +158539,29 @@
       "productUrl": null,
       "lastUpdated": 1786733958739,
       "source": "gha"
+    },
+    "8205065": {
+      "sku": "8205065",
+      "firstAir": 1786734079852,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786734079852,
+      "title": "Chic Statement Scarf with Colorful Button Detail",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019819944",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-14",
+      "time": "20:01:19",
+      "productUrl": null,
+      "lastUpdated": 1786734079852,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786734065176,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -160226,11 +160244,22 @@
         "followingSku": "8414471",
         "followingTitle": "Set of 2 - Beaded Pink Flower & Multicolour Cherry Design Key Chains (12cm)",
         "followingAuctionCode": "0019819598"
+      },
+      {
+        "start": 1786734065176,
+        "end": 1786734079852,
+        "durationMin": 0.2,
+        "precedingSku": "8420761",
+        "precedingTitle": "Set of 2 Crochet Fruit Charms Keychain - Orange & Red",
+        "precedingAuctionCode": "0019819600",
+        "followingSku": "8205065",
+        "followingTitle": "Chic Statement Scarf with Colorful Button Detail",
+        "followingAuctionCode": "0019819944"
       }
     ],
-    "lastOnAirSku": "8420761",
-    "lastOnAirTitle": "Set of 2 Crochet Fruit Charms Keychain - Orange & Red",
-    "lastOnAirAuctionCode": "0019819600",
+    "lastOnAirSku": "8205065",
+    "lastOnAirTitle": "Chic Statement Scarf with Colorful Button Detail",
+    "lastOnAirAuctionCode": "0019819944",
     "precedingSku": "8420761",
     "precedingTitle": "Set of 2 Crochet Fruit Charms Keychain - Orange & Red",
     "precedingAuctionCode": "0019819600"
