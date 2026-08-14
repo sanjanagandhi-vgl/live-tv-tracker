@@ -159050,11 +159050,29 @@
       "productUrl": null,
       "lastUpdated": 1786741404702,
       "source": "gha"
+    },
+    "4443231": {
+      "sku": "4443231",
+      "firstAir": 1786741530309,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786741530309,
+      "title": "D'Joy Nebula Quartz Doublet Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver 7.29 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019819899",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-14",
+      "time": "22:05:30",
+      "productUrl": null,
+      "lastUpdated": 1786741530309,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786741466291,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -160814,11 +160832,22 @@
         "followingSku": "8553726",
         "followingTitle": "Fragrance Works Golden Gardenia EDP - 100ml",
         "followingAuctionCode": "0019819659"
+      },
+      {
+        "start": 1786741466291,
+        "end": 1786741530309,
+        "durationMin": 1.1,
+        "precedingSku": "8553726",
+        "precedingTitle": "Fragrance Works Golden Gardenia EDP - 100ml",
+        "precedingAuctionCode": "0019819659",
+        "followingSku": "4443231",
+        "followingTitle": "D'Joy Nebula Quartz Doublet Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver 7.29 Ct.",
+        "followingAuctionCode": "0019819899"
       }
     ],
-    "lastOnAirSku": "8553726",
-    "lastOnAirTitle": "Fragrance Works Golden Gardenia EDP - 100ml",
-    "lastOnAirAuctionCode": "0019819659",
+    "lastOnAirSku": "4443231",
+    "lastOnAirTitle": "D'Joy Nebula Quartz Doublet Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver 7.29 Ct.",
+    "lastOnAirAuctionCode": "0019819899",
     "precedingSku": "8553726",
     "precedingTitle": "Fragrance Works Golden Gardenia EDP - 100ml",
     "precedingAuctionCode": "0019819659"
