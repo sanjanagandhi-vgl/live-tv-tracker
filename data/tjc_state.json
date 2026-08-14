@@ -154691,9 +154691,16 @@
       "img": true,
       "date": "2026-08-14",
       "time": "16:09:21",
-      "productUrl": null,
-      "lastUpdated": 1786720161284,
-      "source": "gha"
+      "productUrl": "/products/pure-and-natural-knitted-scarf-jumper",
+      "lastUpdated": 1786720760882,
+      "source": "gha",
+      "missedAt": 1786720760882,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1786720766555,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8221612": {
       "sku": "8221612",
@@ -155018,11 +155025,51 @@
       "productUrlChecked": 1786720711204,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8221607": {
+      "sku": "8221607",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-14",
+      "time": "16:19:20",
+      "preExisting": true,
+      "missedAt": 1786720760882,
+      "missedDelay": null,
+      "lastUpdated": 1786720760882,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Pure And Natural Scarf Jumper (Size L) - Black",
+      "auctionCode": "0019818228",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-knitted-scarf-jumper",
+      "productUrlChecked": 1786720766767,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8223517": {
+      "sku": "8223517",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-14",
+      "time": "16:19:20",
+      "preExisting": true,
+      "missedAt": 1786720760882,
+      "missedDelay": null,
+      "lastUpdated": 1786720760882,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Pure And Natural Scarf Jumper (Size S) - Black",
+      "auctionCode": "0019818229",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-knitted-scarf-jumper",
+      "productUrlChecked": 1786720768795,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1786720760882,
     "gaps": [
       {
         "start": 1785823527869,
@@ -156600,8 +156647,8 @@
     "lastOnAirSku": "7932016",
     "lastOnAirTitle": "La Marey Acrylic Solid Jumper",
     "lastOnAirAuctionCode": "0019818025",
-    "precedingSku": "8572391",
-    "precedingTitle": "D'Joy - Tanzanite & White Zircon Dangling Earring with Push Post in Rhodium Overlay Sterling Silv...",
-    "precedingAuctionCode": "0019816705"
+    "precedingSku": "7932016",
+    "precedingTitle": "La Marey Acrylic Solid Jumper",
+    "precedingAuctionCode": "0019818025"
   }
 }
