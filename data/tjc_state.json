@@ -154826,9 +154826,16 @@
       "img": true,
       "date": "2026-08-14",
       "time": "16:13:21",
-      "productUrl": null,
-      "lastUpdated": 1786720401091,
-      "source": "gha"
+      "productUrl": "/products/pure-and-nature-sparkling-super-soft-jumper",
+      "lastUpdated": 1786721001040,
+      "source": "gha",
+      "missedAt": 1786721001040,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1786721005444,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8357508": {
       "sku": "8357508",
@@ -155235,11 +155242,31 @@
       "productUrlChecked": 1786720950584,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8357503": {
+      "sku": "8357503",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-14",
+      "time": "16:23:21",
+      "preExisting": true,
+      "missedAt": 1786721001040,
+      "missedDelay": null,
+      "lastUpdated": 1786721001040,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Pure And Natural Super Soft Sparkling Jumper (Size 14) - Black",
+      "auctionCode": "0019818263",
+      "source": "gha",
+      "productUrl": "/products/pure-and-nature-sparkling-super-soft-jumper",
+      "productUrlChecked": 1786721007465,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1786721001040,
     "gaps": [
       {
         "start": 1785823527869,
@@ -156828,8 +156855,8 @@
     "lastOnAirSku": "8241554",
     "lastOnAirTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
     "lastOnAirAuctionCode": "0019819647",
-    "precedingSku": "7932016",
-    "precedingTitle": "La Marey Acrylic Solid Jumper",
-    "precedingAuctionCode": "0019818025"
+    "precedingSku": "8241554",
+    "precedingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
+    "precedingAuctionCode": "0019819647"
   }
 }
