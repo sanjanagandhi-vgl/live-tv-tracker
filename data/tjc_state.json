@@ -154038,9 +154038,16 @@
       "img": true,
       "date": "2026-08-14",
       "time": "15:34:23",
-      "productUrl": null,
-      "lastUpdated": 1786718063491,
-      "source": "gha"
+      "productUrl": "/products/tjc-special-cotton-tshirt-1128319956",
+      "lastUpdated": 1786718667462,
+      "source": "gha",
+      "missedAt": 1786718667462,
+      "missedDelay": 10,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "productUrlChecked": 1786718673117,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8229014": {
       "sku": "8229014",
@@ -154373,6 +154380,44 @@
       "productUrl": null,
       "lastUpdated": 1786718598848,
       "source": "gha"
+    },
+    "8320077": {
+      "sku": "8320077",
+      "firstAir": 1786718667462,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786718667462,
+      "title": "Heat Machine Long Pant (Size 14-16) - White",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019817538",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-14",
+      "time": "15:44:27",
+      "productUrl": null,
+      "lastUpdated": 1786718667462,
+      "source": "gha"
+    },
+    "8319959": {
+      "sku": "8319959",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-14",
+      "time": "15:44:27",
+      "preExisting": true,
+      "missedAt": 1786718667462,
+      "missedDelay": null,
+      "lastUpdated": 1786718667462,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Heat Machine Mens T-Shirt With Advanced Thermal Technology (Size L) - Charcoal",
+      "auctionCode": "0019821905",
+      "source": "gha",
+      "productUrl": "/products/tjc-special-cotton-tshirt-1128319956",
+      "productUrlChecked": 1786718675247,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -155952,9 +155997,9 @@
         "followingAuctionCode": "0019819279"
       }
     ],
-    "lastOnAirSku": "8320010",
-    "lastOnAirTitle": "Heat Machine Ladies Thermal Sleeveless Vest (Size 14 to 16) - White",
-    "lastOnAirAuctionCode": "0019817537",
+    "lastOnAirSku": "8320077",
+    "lastOnAirTitle": "Heat Machine Long Pant (Size 14-16) - White",
+    "lastOnAirAuctionCode": "0019817538",
     "precedingSku": "8572391",
     "precedingTitle": "D'Joy - Tanzanite & White Zircon Dangling Earring with Push Post in Rhodium Overlay Sterling Silv...",
     "precedingAuctionCode": "0019816705"
