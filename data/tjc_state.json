@@ -155656,9 +155656,16 @@
       "img": true,
       "date": "2026-08-14",
       "time": "16:29:20",
-      "productUrl": null,
-      "lastUpdated": 1786721360076,
-      "source": "gha"
+      "productUrl": "/products/pure-and-natural-v-neck-cable-jumper-2628480518",
+      "lastUpdated": 1786721904967,
+      "source": "gha",
+      "missedAt": 1786721904967,
+      "missedDelay": 9,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1786721909284,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7898091": {
       "sku": "7898091",
@@ -155929,11 +155936,31 @@
       "productUrl": null,
       "lastUpdated": 1786721784670,
       "source": "gha"
+    },
+    "8480530": {
+      "sku": "8480530",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-14",
+      "time": "16:38:24",
+      "preExisting": true,
+      "missedAt": 1786721904967,
+      "missedDelay": null,
+      "lastUpdated": 1786721904967,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Pure And Natural V-Neck Cable Jumper (Size 16 to 18) - Sweet Coral",
+      "auctionCode": "0019818167",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-v-neck-cable-jumper-2628480518",
+      "productUrlChecked": 1786721909509,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1786721904967,
     "gaps": [
       {
         "start": 1785823527869,
@@ -157555,8 +157582,8 @@
     "lastOnAirSku": "8241554",
     "lastOnAirTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
     "lastOnAirAuctionCode": "0019819647",
-    "precedingSku": "8480527",
-    "precedingTitle": "Pure And Natural V-Neck Cable Jumper (Size XL, Fit 20 to 22) - Lilac",
-    "precedingAuctionCode": "0019817891"
+    "precedingSku": "8241554",
+    "precedingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
+    "precedingAuctionCode": "0019819647"
   }
 }
