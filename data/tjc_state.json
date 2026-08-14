@@ -158928,11 +158928,29 @@
       "productUrl": null,
       "lastUpdated": 1786738279287,
       "source": "gha"
+    },
+    "8519572": {
+      "sku": "8519572",
+      "firstAir": 1786738461632,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786738461632,
+      "title": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019819626",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-14",
+      "time": "21:14:21",
+      "productUrl": null,
+      "lastUpdated": 1786738461632,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786738398018,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -160648,11 +160666,22 @@
         "followingSku": "8526654",
         "followingTitle": "Anti-Skid Carpet Stopper",
         "followingAuctionCode": "0019819558"
+      },
+      {
+        "start": 1786738398018,
+        "end": 1786738461632,
+        "durationMin": 1.1,
+        "precedingSku": "8526654",
+        "precedingTitle": "Anti-Skid Carpet Stopper",
+        "precedingAuctionCode": "0019819558",
+        "followingSku": "8519572",
+        "followingTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
+        "followingAuctionCode": "0019819626"
       }
     ],
-    "lastOnAirSku": "8526654",
-    "lastOnAirTitle": "Anti-Skid Carpet Stopper",
-    "lastOnAirAuctionCode": "0019819558",
+    "lastOnAirSku": "8519572",
+    "lastOnAirTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
+    "lastOnAirAuctionCode": "0019819626",
     "precedingSku": "8526654",
     "precedingTitle": "Anti-Skid Carpet Stopper",
     "precedingAuctionCode": "0019819558"
