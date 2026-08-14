@@ -13639,16 +13639,16 @@
       "firstAir": 1785066389130,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786009702760,
+      "lastAir": 1786728266398,
       "title": "Anti-Skid Carpet Stopper",
       "pdpPrice": "4.99",
-      "auctionCode": "0019808184",
+      "auctionCode": "0019819558",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-06",
-      "time": "10:48:22",
-      "lastUpdated": 1786009702760,
+      "date": "2026-08-14",
+      "time": "18:24:26",
+      "lastUpdated": 1786728266398,
       "source": "gha",
       "missedAt": 1785066686430,
       "missedDelay": 2,
@@ -157898,8 +157898,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786728198960,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -159538,11 +159538,22 @@
         "followingSku": "8555390",
         "followingTitle": "Pure And Natural Super Soft V-Neck Jumper (Size 20) - Oatmeal",
         "followingAuctionCode": "0019817845"
+      },
+      {
+        "start": 1786728198960,
+        "end": 1786728266398,
+        "durationMin": 1.1,
+        "precedingSku": "8480630",
+        "precedingTitle": "Scented Candle Gift Set of 3 Tins - Cranberry Chutney, Meadow Prairie Grass & Pink Apple & Pear",
+        "precedingAuctionCode": "0019819696",
+        "followingSku": "8526654",
+        "followingTitle": "Anti-Skid Carpet Stopper",
+        "followingAuctionCode": "0019819558"
       }
     ],
-    "lastOnAirSku": "8480630",
-    "lastOnAirTitle": "Scented Candle Gift Set of 3 Tins - Cranberry Chutney, Meadow Prairie Grass & Pink Apple & Pear",
-    "lastOnAirAuctionCode": "0019819696",
+    "lastOnAirSku": "8526654",
+    "lastOnAirTitle": "Anti-Skid Carpet Stopper",
+    "lastOnAirAuctionCode": "0019819558",
     "precedingSku": "8480630",
     "precedingTitle": "Scented Candle Gift Set of 3 Tins - Cranberry Chutney, Meadow Prairie Grass & Pink Apple & Pear",
     "precedingAuctionCode": "0019819696"
