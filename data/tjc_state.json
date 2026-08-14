@@ -158989,11 +158989,29 @@
       "productUrl": null,
       "lastUpdated": 1786739183388,
       "source": "gha"
+    },
+    "8595827": {
+      "sku": "8595827",
+      "firstAir": 1786739302968,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786739302968,
+      "title": "Livmore Set of 2 Shungite Infused Polymer Gel Dotted Heel Pads Targets heel pain, arch pain, foot fatigue, ailment like plantar fasciitis or otherwise due to tiredness",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019820259",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-14",
+      "time": "21:28:22",
+      "productUrl": null,
+      "lastUpdated": 1786739302968,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786739239473,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -160720,11 +160738,22 @@
         "followingSku": "8519572",
         "followingTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
         "followingAuctionCode": "0019819626"
+      },
+      {
+        "start": 1786739239473,
+        "end": 1786739302968,
+        "durationMin": 1.1,
+        "precedingSku": "7880261",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019819682",
+        "followingSku": "8595827",
+        "followingTitle": "Livmore Set of 2 Shungite Infused Polymer Gel Dotted Heel Pads Targets heel pain, arch pain, foot fatigue, ailment like plantar fasciitis or otherwise due to tiredness",
+        "followingAuctionCode": "0019820259"
       }
     ],
-    "lastOnAirSku": "7880261",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019819682",
+    "lastOnAirSku": "8595827",
+    "lastOnAirTitle": "Livmore Set of 2 Shungite Infused Polymer Gel Dotted Heel Pads Targets heel pain, arch pain, foot fatigue, ailment like plantar fasciitis or otherwise due to tiredness",
+    "lastOnAirAuctionCode": "0019820259",
     "precedingSku": "7880261",
     "precedingTitle": null,
     "precedingAuctionCode": "0019819682"
