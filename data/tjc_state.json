@@ -171031,11 +171031,29 @@
       "productUrlChecked": 1786899757426,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8846858": {
+      "sku": "8846858",
+      "firstAir": 1786900237301,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786900237301,
+      "title": "9K White Gold Moissanite 7 Stone Ring",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019821077",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-16",
+      "time": "18:10:37",
+      "productUrl": null,
+      "lastUpdated": 1786900237301,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786900158436,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -173158,11 +173176,22 @@
         "followingSku": "7616285",
         "followingTitle": "D'joy Moissanite Solitaire Band Ring in Sterling Silver",
         "followingAuctionCode": "0019820995"
+      },
+      {
+        "start": 1786900158436,
+        "end": 1786900237301,
+        "durationMin": 1.3,
+        "precedingSku": "7616285",
+        "precedingTitle": "D'joy Moissanite Solitaire Band Ring in Sterling Silver",
+        "precedingAuctionCode": "0019820995",
+        "followingSku": "8846858",
+        "followingTitle": "9K White Gold Moissanite 7 Stone Ring",
+        "followingAuctionCode": "0019821077"
       }
     ],
-    "lastOnAirSku": "7616285",
-    "lastOnAirTitle": "D'joy Moissanite Solitaire Band Ring in Sterling Silver",
-    "lastOnAirAuctionCode": "0019820995",
+    "lastOnAirSku": "8846858",
+    "lastOnAirTitle": "9K White Gold Moissanite 7 Stone Ring",
+    "lastOnAirAuctionCode": "0019821077",
     "precedingSku": "7616285",
     "precedingTitle": "D'joy Moissanite Solitaire Band Ring in Sterling Silver",
     "precedingAuctionCode": "0019820995"
