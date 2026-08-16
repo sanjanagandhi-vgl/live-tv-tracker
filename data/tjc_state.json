@@ -171509,11 +171509,29 @@
       "productUrlChecked": 1786901472532,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7561533": {
+      "sku": "7561533",
+      "firstAir": 1786901597727,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786901597727,
+      "title": "Diamond Wishbone Ring in 9K Gold",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019824436",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-16",
+      "time": "18:33:17",
+      "productUrl": null,
+      "lastUpdated": 1786901597727,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786901544565,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -173647,11 +173665,22 @@
         "followingSku": "8846858",
         "followingTitle": "9K White Gold Moissanite 7 Stone Ring",
         "followingAuctionCode": "0019821077"
+      },
+      {
+        "start": 1786901544565,
+        "end": 1786901597727,
+        "durationMin": 0.9,
+        "precedingSku": "8412266",
+        "precedingTitle": "9K Yellow Gold Greek Key Design Band Ring",
+        "precedingAuctionCode": "0019821124",
+        "followingSku": "7561533",
+        "followingTitle": "Diamond Wishbone Ring in 9K Gold",
+        "followingAuctionCode": "0019824436"
       }
     ],
-    "lastOnAirSku": "8412266",
-    "lastOnAirTitle": "9K Yellow Gold Greek Key Design Band Ring",
-    "lastOnAirAuctionCode": "0019821124",
+    "lastOnAirSku": "7561533",
+    "lastOnAirTitle": "Diamond Wishbone Ring in 9K Gold",
+    "lastOnAirAuctionCode": "0019824436",
     "precedingSku": "8412266",
     "precedingTitle": "9K Yellow Gold Greek Key Design Band Ring",
     "precedingAuctionCode": "0019821124"
