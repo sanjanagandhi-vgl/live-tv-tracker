@@ -169159,11 +169159,29 @@
       "productUrl": null,
       "lastUpdated": 1786885878642,
       "source": "gha"
+    },
+    "4462532": {
+      "sku": "4462532",
+      "firstAir": 1786886840025,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786886840025,
+      "title": "D'Joy - GRA Certified Moissanite D-VVS1 Solitaire Heart Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver",
+      "pdpPrice": "1899.99",
+      "auctionCode": "0019820723",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-16",
+      "time": "14:27:20",
+      "productUrl": null,
+      "lastUpdated": 1786886840025,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786886781531,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -171176,11 +171194,22 @@
         "followingSku": "8613006",
         "followingTitle": "D'Joy - GRA Certified Moissanite 7 Stone Ring in Sterling Silver 1.68 Ct.",
         "followingAuctionCode": "0019820756"
+      },
+      {
+        "start": 1786886781531,
+        "end": 1786886840025,
+        "durationMin": 1.0,
+        "precedingSku": "8613006",
+        "precedingTitle": "D'Joy - GRA Certified Moissanite 7 Stone Ring in Sterling Silver 1.68 Ct.",
+        "precedingAuctionCode": "0019820756",
+        "followingSku": "4462532",
+        "followingTitle": "D'Joy - GRA Certified Moissanite D-VVS1 Solitaire Heart Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019820723"
       }
     ],
-    "lastOnAirSku": "8613006",
-    "lastOnAirTitle": "D'Joy - GRA Certified Moissanite 7 Stone Ring in Sterling Silver 1.68 Ct.",
-    "lastOnAirAuctionCode": "0019820756",
+    "lastOnAirSku": "4462532",
+    "lastOnAirTitle": "D'Joy - GRA Certified Moissanite D-VVS1 Solitaire Heart Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019820723",
     "precedingSku": "8613006",
     "precedingTitle": "D'Joy - GRA Certified Moissanite 7 Stone Ring in Sterling Silver 1.68 Ct.",
     "precedingAuctionCode": "0019820756"
