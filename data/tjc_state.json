@@ -71799,11 +71799,11 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-08-16",
-      "time": "16:52:22",
+      "time": "17:37:18",
       "preExisting": true,
       "missedAt": 1785883349785,
       "missedDelay": null,
-      "lastUpdated": 1786895542166,
+      "lastUpdated": 1786898238533,
       "missedPrice": 169.99,
       "missedImg": true,
       "title": "TJC EXLCLUSIVE - Set of 2 - D'Joy Moissanite Solitaire Stud Push Post Earring & Bracelet (Size - ...",
@@ -71813,7 +71813,7 @@
       "productUrlChecked": 1785883362875,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1786895542166,
+      "lastAir": 1786898238533,
       "pdpPrice": 119.99,
       "buy": true,
       "login": false,
@@ -170536,8 +170536,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786898183380,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -172638,11 +172638,22 @@
         "followingSku": "4477715",
         "followingTitle": "Moissanite Cushion Cut Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 6.61 Ct.",
         "followingAuctionCode": "0019820933"
+      },
+      {
+        "start": 1786898183380,
+        "end": 1786898238533,
+        "durationMin": 0.9,
+        "precedingSku": "4477715",
+        "precedingTitle": "Moissanite Cushion Cut Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 6.61 Ct.",
+        "precedingAuctionCode": "0019820933",
+        "followingSku": "4468756",
+        "followingTitle": "TJC EXLCLUSIVE - Set of 2 - D'Joy Moissanite Solitaire Stud Push Post Earring & Bracelet (Size - ...",
+        "followingAuctionCode": "0019820575"
       }
     ],
-    "lastOnAirSku": "4477715",
-    "lastOnAirTitle": "Moissanite Cushion Cut Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 6.61 Ct.",
-    "lastOnAirAuctionCode": "0019820933",
+    "lastOnAirSku": "4468756",
+    "lastOnAirTitle": "TJC EXLCLUSIVE - Set of 2 - D'Joy Moissanite Solitaire Stud Push Post Earring & Bracelet (Size - ...",
+    "lastOnAirAuctionCode": "0019820575",
     "precedingSku": "4477715",
     "precedingTitle": "Moissanite Cushion Cut Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 6.61 Ct.",
     "precedingAuctionCode": "0019820933"
