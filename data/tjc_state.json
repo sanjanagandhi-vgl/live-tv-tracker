@@ -159049,7 +159049,7 @@
       "firstAir": 1786735280713,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786883061188,
+      "lastAir": 1786883182290,
       "title": "Livmore 10-Pack Hanging Dehumidifier Bags - 220g Moisture Absorbers for Wardrobes and Cupboards, ...",
       "pdpPrice": 7.99,
       "auctionCode": "0019823992",
@@ -159057,9 +159057,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-16",
-      "time": "13:24:21",
+      "time": "13:26:22",
       "productUrl": "/products/home-smart-10-pack-hanging-dehumidifier-bags-220g-moisture-absorbers-for-wardrobes-and-cupboards-fragrance-free-calcium-chloride-wardrobe-drier-blue-white?variant=53107591545098",
-      "lastUpdated": 1786883061188,
+      "lastUpdated": 1786883182290,
       "source": "gha",
       "missedAt": 1786736838681,
       "missedDelay": 10,
@@ -168920,9 +168920,16 @@
       "img": true,
       "date": "2026-08-16",
       "time": "13:16:22",
-      "productUrl": null,
-      "lastUpdated": 1786882582821,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-diamond-lab-grown-diamond-solitaire-stud-with-push-back-earring-in-18k-rg-vermeil-sterling-silver-1-00-ct-1729764941",
+      "lastUpdated": 1786883182290,
+      "source": "gha",
+      "missedAt": 1786883182290,
+      "missedDelay": 10,
+      "missedPrice": 599.99,
+      "missedImg": true,
+      "productUrlChecked": 1786883183959,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8431417": {
       "sku": "8431417",
@@ -169026,8 +169033,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786883128577,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -170985,6 +170992,17 @@
         "followingSku": "8581174",
         "followingTitle": "JCK Vegas Find 2026- 9K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Stud Pus...",
         "followingAuctionCode": "0019824447"
+      },
+      {
+        "start": 1786883128577,
+        "end": 1786883182290,
+        "durationMin": 0.9,
+        "precedingSku": "8312833",
+        "precedingTitle": "Livmore 10-Pack Hanging Dehumidifier Bags - 220g Moisture Absorbers for Wardrobes and Cupboards, ...",
+        "precedingAuctionCode": "0019823992",
+        "followingSku": "8312833",
+        "followingTitle": "Livmore 10-Pack Hanging Dehumidifier Bags - 220g Moisture Absorbers for Wardrobes and Cupboards, ...",
+        "followingAuctionCode": "0019823992"
       }
     ],
     "lastOnAirSku": "8312833",
