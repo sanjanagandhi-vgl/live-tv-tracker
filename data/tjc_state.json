@@ -173112,8 +173112,12 @@
       "date": "2026-08-16",
       "time": "20:41:18",
       "productUrl": null,
-      "lastUpdated": 1786909278578,
-      "source": "gha"
+      "lastUpdated": 1786909837216,
+      "source": "gha",
+      "missedAt": 1786909837216,
+      "missedDelay": 9,
+      "missedPrice": 499.99,
+      "missedImg": true
     },
     "7194725": {
       "sku": "7194725",
@@ -173294,6 +173298,58 @@
       "productUrlChecked": 1786909548616,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7688720": {
+      "sku": "7688720",
+      "firstAir": 1786909837216,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786909837216,
+      "title": "One Time Deal - 950 Platinum SGL Certified (I1-I2-GH) Diamond Trilogy Ring 0.50 Ct, Platinum Wt. 3.78 Gms.",
+      "pdpPrice": "599.99",
+      "auctionCode": "0019824258",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-16",
+      "time": "20:50:37",
+      "productUrl": null,
+      "lastUpdated": 1786909837216,
+      "source": "gha"
+    },
+    "8291106": {
+      "sku": "8291106",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-16",
+      "time": "20:50:37",
+      "preExisting": true,
+      "missedAt": 1786909837216,
+      "missedDelay": null,
+      "lastUpdated": 1786909837216,
+      "missedPrice": 499.99,
+      "missedImg": true,
+      "title": "9K Yellow Gold AAA Premium Gemfields Emerald & Natural White Diamond Ring 1.89 Ct.",
+      "auctionCode": "0019824243",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8291105": {
+      "sku": "8291105",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-16",
+      "time": "20:50:37",
+      "preExisting": true,
+      "missedAt": 1786909837216,
+      "missedDelay": null,
+      "lastUpdated": 1786909837216,
+      "missedPrice": 499.99,
+      "missedImg": true,
+      "title": "9K Yellow Gold AAA Premium Gemfields Emerald & Natural White Diamond Ring 1.89 Ct.",
+      "auctionCode": "0019824242",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
@@ -175445,9 +175501,9 @@
         "followingAuctionCode": "0019824436"
       }
     ],
-    "lastOnAirSku": "8543717",
-    "lastOnAirTitle": "Close Out Deal  - 9K White Gold Natural Black Diamond Solitaire Ring 2.00 Ct",
-    "lastOnAirAuctionCode": "0019824312",
+    "lastOnAirSku": "7688720",
+    "lastOnAirTitle": "One Time Deal - 950 Platinum SGL Certified (I1-I2-GH) Diamond Trilogy Ring 0.50 Ct, Platinum Wt. 3.78 Gms.",
+    "lastOnAirAuctionCode": "0019824258",
     "precedingSku": "8412266",
     "precedingTitle": "9K Yellow Gold Greek Key Design Band Ring",
     "precedingAuctionCode": "0019821124"
