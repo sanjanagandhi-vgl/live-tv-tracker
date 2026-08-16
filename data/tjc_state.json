@@ -21597,17 +21597,23 @@
       "sku": "8708127",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "20:36:21",
+      "date": "2026-08-16",
+      "time": "12:36:21",
       "preExisting": true,
       "missedAt": 1785353781475,
       "missedDelay": null,
-      "lastUpdated": 1785353781475,
+      "lastUpdated": 1786880181885,
       "missedPrice": 999.99,
       "missedImg": true,
       "title": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
-      "auctionCode": "0019798791",
-      "source": "gha"
+      "auctionCode": "0019824723",
+      "source": "gha",
+      "lastAir": 1786880181885,
+      "pdpPrice": "1999.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8646086": {
       "sku": "8646086",
@@ -168153,8 +168159,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786880131941,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -170024,11 +170030,22 @@
         "followingSku": "8591957",
         "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Band Ring in Platinum Overlay Sterling Silver",
         "followingAuctionCode": "0019824773"
+      },
+      {
+        "start": 1786880131941,
+        "end": 1786880181885,
+        "durationMin": 0.8,
+        "precedingSku": "8591957",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Band Ring in Platinum Overlay Sterling Silver",
+        "precedingAuctionCode": "0019824773",
+        "followingSku": "8708127",
+        "followingTitle": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
+        "followingAuctionCode": "0019824723"
       }
     ],
-    "lastOnAirSku": "8591957",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Band Ring in Platinum Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019824773",
+    "lastOnAirSku": "8708127",
+    "lastOnAirTitle": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
+    "lastOnAirAuctionCode": "0019824723",
     "precedingSku": "8591957",
     "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Band Ring in Platinum Overlay Sterling Silver",
     "precedingAuctionCode": "0019824773"
