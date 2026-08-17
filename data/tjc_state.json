@@ -174753,17 +174753,17 @@
       "firstAir": 1786948838102,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786949358412,
+      "lastAir": 1786976358801,
       "title": "La Marey Acrylic Patterned Cardigan (Size - One Size) - Green",
-      "pdpPrice": "15.99",
-      "auctionCode": "0019825943",
+      "pdpPrice": "159.99",
+      "auctionCode": "0019826618",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-17",
-      "time": "07:49:18",
+      "time": "15:19:18",
       "productUrl": "/products/la-marey-acrylic-patterned-cardigan-size-one-size-black-8636431",
-      "lastUpdated": 1786949959254,
+      "lastUpdated": 1786976358801,
       "source": "gha",
       "missedAt": 1786949959254,
       "missedDelay": 10,
@@ -176552,8 +176552,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786976303422,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -178786,11 +178786,22 @@
         "followingSku": "8479523",
         "followingTitle": "Set of 2 - Van Gogh Irises Tote Bag & Cellphone Purse - Blue & Multi",
         "followingAuctionCode": "0019825802"
+      },
+      {
+        "start": 1786976303422,
+        "end": 1786976358801,
+        "durationMin": 0.9,
+        "precedingSku": "8588422",
+        "precedingTitle": "La Marey Contrast Trim Fleece Gilet (Size XL, 20-22) - Chocolate",
+        "precedingAuctionCode": "0019825690",
+        "followingSku": "8636431",
+        "followingTitle": "La Marey Acrylic Patterned Cardigan (Size - One Size) - Green",
+        "followingAuctionCode": "0019826618"
       }
     ],
-    "lastOnAirSku": "8588422",
-    "lastOnAirTitle": "La Marey Contrast Trim Fleece Gilet (Size XL, 20-22) - Chocolate",
-    "lastOnAirAuctionCode": "0019825690",
+    "lastOnAirSku": "8636431",
+    "lastOnAirTitle": "La Marey Acrylic Patterned Cardigan (Size - One Size) - Green",
+    "lastOnAirAuctionCode": "0019826618",
     "precedingSku": "8588422",
     "precedingTitle": "La Marey Contrast Trim Fleece Gilet (Size XL, 20-22) - Chocolate",
     "precedingAuctionCode": "0019825690"
