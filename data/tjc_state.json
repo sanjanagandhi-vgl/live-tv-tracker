@@ -178082,11 +178082,29 @@
       "productUrlChecked": 1786979962106,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8262535": {
+      "sku": "8262535",
+      "firstAir": 1786980145949,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786980145949,
+      "title": "LOWEST EVER CLEARANCE PRICE- Opatra Synergy Marble Neck Device",
+      "pdpPrice": "3799.99",
+      "auctionCode": "0019826387",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-17",
+      "time": "16:22:25",
+      "productUrl": null,
+      "lastUpdated": 1786980145949,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786980081307,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -180352,11 +180370,22 @@
         "followingSku": "8617172",
         "followingTitle": "Charlotte West Close Out V-Neck Puff Sleeve Top (Size 20) - Cream",
         "followingAuctionCode": "0019825715"
+      },
+      {
+        "start": 1786980081307,
+        "end": 1786980145949,
+        "durationMin": 1.1,
+        "precedingSku": "8620470",
+        "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019826110",
+        "followingSku": "8262535",
+        "followingTitle": "LOWEST EVER CLEARANCE PRICE- Opatra Synergy Marble Neck Device",
+        "followingAuctionCode": "0019826387"
       }
     ],
-    "lastOnAirSku": "8620470",
-    "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019826110",
+    "lastOnAirSku": "8262535",
+    "lastOnAirTitle": "LOWEST EVER CLEARANCE PRICE- Opatra Synergy Marble Neck Device",
+    "lastOnAirAuctionCode": "0019826387",
     "precedingSku": "8620470",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
     "precedingAuctionCode": "0019826110"
