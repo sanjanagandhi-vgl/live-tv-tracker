@@ -178095,18 +178095,21 @@
       "firstAir": 1786980145949,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786982466741,
+      "lastAir": 1786982840350,
       "title": "LOWEST EVER CLEARANCE PRICE- Opatra Synergy Marble Neck Device With Lifetime Warranty",
-      "pdpPrice": "199.99",
+      "pdpPrice": 199.99,
       "auctionCode": "0019826387",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-17",
-      "time": "17:01:06",
-      "productUrl": null,
-      "lastUpdated": 1786982466741,
-      "source": "gha"
+      "time": "17:07:20",
+      "productUrl": "/products/opatra-synergy-marble-neck-device?variant=53108035485962",
+      "lastUpdated": 1786982840350,
+      "source": "gha",
+      "productUrlChecked": 1786982844031,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8417107": {
       "sku": "8417107",
@@ -178170,8 +178173,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786982662410,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -180448,11 +180451,22 @@
         "followingSku": "8262535",
         "followingTitle": "LOWEST EVER CLEARANCE PRICE- Opatra Synergy Marble Neck Device",
         "followingAuctionCode": "0019826387"
+      },
+      {
+        "start": 1786982662410,
+        "end": 1786982840350,
+        "durationMin": 3.0,
+        "precedingSku": "8620470",
+        "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019826110",
+        "followingSku": "8262535",
+        "followingTitle": "LOWEST EVER CLEARANCE PRICE- Opatra Synergy Marble Neck Device With Lifetime Warranty",
+        "followingAuctionCode": "0019826387"
       }
     ],
-    "lastOnAirSku": "8620470",
-    "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019826110",
+    "lastOnAirSku": "8262535",
+    "lastOnAirTitle": "LOWEST EVER CLEARANCE PRICE- Opatra Synergy Marble Neck Device With Lifetime Warranty",
+    "lastOnAirAuctionCode": "0019826387",
     "precedingSku": "8620470",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
     "precedingAuctionCode": "0019826110"
