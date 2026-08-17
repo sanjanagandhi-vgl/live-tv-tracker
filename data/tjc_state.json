@@ -176969,9 +176969,16 @@
       "img": true,
       "date": "2026-08-17",
       "time": "15:57:19",
-      "productUrl": null,
-      "lastUpdated": 1786978639450,
-      "source": "gha"
+      "productUrl": "/products/emma-stockholm-womens-ankle-boot",
+      "lastUpdated": 1786979183863,
+      "source": "gha",
+      "missedAt": 1786979183863,
+      "missedDelay": 9,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1786979187508,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8132863": {
       "sku": "8132863",
@@ -177566,11 +177573,71 @@
       "productUrl": null,
       "lastUpdated": 1786979129849,
       "source": "gha"
+    },
+    "8281295": {
+      "sku": "8281295",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-17",
+      "time": "16:06:23",
+      "preExisting": true,
+      "missedAt": 1786979183863,
+      "missedDelay": null,
+      "lastUpdated": 1786979183863,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Emma Stockholm Women's Ankle Boot (Size 7) - Camel",
+      "auctionCode": "0019825859",
+      "source": "gha",
+      "productUrl": "/products/emma-stockholm-womens-ankle-boot",
+      "productUrlChecked": 1786979187750,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8281296": {
+      "sku": "8281296",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-17",
+      "time": "16:06:23",
+      "preExisting": true,
+      "missedAt": 1786979183863,
+      "missedDelay": null,
+      "lastUpdated": 1786979183863,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Emma Stockholm Women's Ankle Boot (Size 8) - Camel",
+      "auctionCode": "0019825860",
+      "source": "gha",
+      "productUrl": "/products/emma-stockholm-womens-ankle-boot",
+      "productUrlChecked": 1786979187992,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8281294": {
+      "sku": "8281294",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-17",
+      "time": "16:06:23",
+      "preExisting": true,
+      "missedAt": 1786979183863,
+      "missedDelay": null,
+      "lastUpdated": 1786979183863,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Emma Stockholm Women's Ankle Boot (Size 6) - Camel",
+      "auctionCode": "0019825861",
+      "source": "gha",
+      "productUrl": "/products/emma-stockholm-womens-ankle-boot",
+      "productUrlChecked": 1786979189798,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1786979183863,
     "gaps": [
       {
         "start": 1785823527869,
@@ -179830,8 +179897,8 @@
     "lastOnAirSku": "8617178",
     "lastOnAirTitle": "Charlotte West Close Out V-Neck Puff Sleeve Top (Size 20) - Cream",
     "lastOnAirAuctionCode": "0019825721",
-    "precedingSku": "8199604",
-    "precedingTitle": "Best Seller - Tamsy Eyelash Coatigan with Pockets",
-    "precedingAuctionCode": "0019825668"
+    "precedingSku": "8617178",
+    "precedingTitle": "Charlotte West Close Out V-Neck Puff Sleeve Top (Size 20) - Cream",
+    "precedingAuctionCode": "0019825721"
   }
 }
