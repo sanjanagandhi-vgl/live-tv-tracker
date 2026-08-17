@@ -174840,9 +174840,16 @@
       "img": true,
       "date": "2026-08-17",
       "time": "08:02:21",
-      "productUrl": null,
-      "lastUpdated": 1786950141142,
-      "source": "gha"
+      "productUrl": "/products/nova-of-london-midi",
+      "lastUpdated": 1786950747686,
+      "source": "gha",
+      "missedAt": 1786950747686,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1786950760490,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7778822": {
       "sku": "7778822",
@@ -174887,7 +174894,7 @@
       "firstAir": 1786950502337,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786950689895,
+      "lastAir": 1786950747686,
       "title": "La Marey Embroidered Shirt (Size - 20 to 22) - Blue",
       "pdpPrice": "9.99",
       "auctionCode": "0019825461",
@@ -174895,9 +174902,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-17",
-      "time": "08:11:29",
+      "time": "08:12:27",
       "productUrl": null,
-      "lastUpdated": 1786950689895,
+      "lastUpdated": 1786950747686,
       "source": "gha"
     },
     "8413696": {
@@ -174957,6 +174964,26 @@
       "source": "gha",
       "productUrl": "/products/la-marey-100-cotton-button-down-ruffle-collar-blouse",
       "productUrlChecked": 1786950519464,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8552634": {
+      "sku": "8552634",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-17",
+      "time": "08:12:27",
+      "preExisting": true,
+      "missedAt": 1786950747686,
+      "missedDelay": null,
+      "lastUpdated": 1786950747686,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Nova Of London Kimono Midi With Satin Bands (Size M-L, 16 to 20) - Cream Pattern",
+      "auctionCode": "0019825457",
+      "source": "gha",
+      "productUrl": "/products/nova-of-london-midi",
+      "productUrlChecked": 1786950760636,
       "productUrlStatus": 200,
       "productUrl404": false
     }
