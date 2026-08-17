@@ -176321,11 +176321,29 @@
       "productUrl": null,
       "lastUpdated": 1786974199961,
       "source": "gha"
+    },
+    "8415248": {
+      "sku": "8415248",
+      "firstAir": 1786974336371,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1786974336371,
+      "title": "Ladies Cosy Slippers with Socks (UK Size 7-8) - Grey",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019825660",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-17",
+      "time": "14:45:36",
+      "productUrl": null,
+      "lastUpdated": 1786974336371,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1786974262907,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -178536,11 +178554,22 @@
         "followingSku": "221330609",
         "followingTitle": "Cyclax Cocoa Body Butter - Cyclax Vitamin E Face & Body Cream (300ML Each)",
         "followingAuctionCode": "0019826407"
+      },
+      {
+        "start": 1786974262907,
+        "end": 1786974336371,
+        "durationMin": 1.2,
+        "precedingSku": "8270066",
+        "precedingTitle": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
+        "precedingAuctionCode": "0019825672",
+        "followingSku": "8415248",
+        "followingTitle": "Ladies Cosy Slippers with Socks (UK Size 7-8) - Grey",
+        "followingAuctionCode": "0019825660"
       }
     ],
-    "lastOnAirSku": "8270066",
-    "lastOnAirTitle": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
-    "lastOnAirAuctionCode": "0019825672",
+    "lastOnAirSku": "8415248",
+    "lastOnAirTitle": "Ladies Cosy Slippers with Socks (UK Size 7-8) - Grey",
+    "lastOnAirAuctionCode": "0019825660",
     "precedingSku": "8270066",
     "precedingTitle": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
     "precedingAuctionCode": "0019825672"
