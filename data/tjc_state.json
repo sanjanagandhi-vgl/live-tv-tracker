@@ -183215,7 +183215,7 @@
       "firstAir": 1787051183137,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787072600043,
+      "lastAir": 1787072839300,
       "title": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
       "pdpPrice": 69.99,
       "auctionCode": "0019827402",
@@ -183223,9 +183223,9 @@
       "login": false,
       "img": false,
       "date": "2026-08-18",
-      "time": "18:03:20",
+      "time": "18:07:19",
       "productUrl": "/products/multi-purpose-cleaner-size-one-size-black-8624713?variant=53528025530634",
-      "lastUpdated": 1787072600043,
+      "lastUpdated": 1787072839300,
       "source": "gha",
       "missedAt": 1787054129545,
       "missedDelay": 10,
@@ -185424,8 +185424,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787072662023,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -188018,6 +188018,17 @@
         "precedingSku": "8487266",
         "precedingTitle": "La Marey Textured Midi Cardigan with Belt (Size 12 to 14) - Green & Blue",
         "precedingAuctionCode": "0019827302",
+        "followingSku": "8624713",
+        "followingTitle": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
+        "followingAuctionCode": "0019827402"
+      },
+      {
+        "start": 1787072662023,
+        "end": 1787072839300,
+        "durationMin": 3.0,
+        "precedingSku": "8624713",
+        "precedingTitle": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
+        "precedingAuctionCode": "0019827402",
         "followingSku": "8624713",
         "followingTitle": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
         "followingAuctionCode": "0019827402"
