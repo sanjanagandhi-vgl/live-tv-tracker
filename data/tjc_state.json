@@ -126710,21 +126710,26 @@
       "sku": "8447619",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-11",
-      "time": "07:12:21",
+      "date": "2026-08-18",
+      "time": "15:37:21",
       "preExisting": true,
       "missedAt": 1786428741827,
       "missedDelay": null,
-      "lastUpdated": 1786428741827,
+      "lastUpdated": 1787063841876,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "David Jones Leatherette Tote Bag - Orange",
-      "auctionCode": "0019815387",
+      "title": "David Jones Leatherette Tote Bag - Lime",
+      "auctionCode": "0019826846",
       "source": "gha",
       "productUrl": "/products/designer-inspired-leatherette-tote-bag",
       "productUrlChecked": 1786428754867,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787063841876,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8447620": {
       "sku": "8447620",
@@ -183640,8 +183645,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787063781832,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -186094,11 +186099,22 @@
         "followingSku": "8242675",
         "followingTitle": "Set of 2 Structured Panel Bag with Silver Chain Strap & Matching Card Slot Purse",
         "followingAuctionCode": "0019826792"
+      },
+      {
+        "start": 1787063781832,
+        "end": 1787063841876,
+        "durationMin": 1.0,
+        "precedingSku": "8242720",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019826803",
+        "followingSku": "8447619",
+        "followingTitle": "David Jones Leatherette Tote Bag - Lime",
+        "followingAuctionCode": "0019826846"
       }
     ],
-    "lastOnAirSku": "8242720",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019826803",
+    "lastOnAirSku": "8447619",
+    "lastOnAirTitle": "David Jones Leatherette Tote Bag - Lime",
+    "lastOnAirAuctionCode": "0019826846",
     "precedingSku": "8242720",
     "precedingTitle": null,
     "precedingAuctionCode": "0019826803"
