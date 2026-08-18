@@ -185979,11 +185979,29 @@
       "productUrlChecked": 1787092256018,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8556214": {
+      "sku": "8556214",
+      "firstAir": 1787092342389,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787092342389,
+      "title": "D'Joy - Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 2.80 Ct.",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019830208",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-18",
+      "time": "23:32:22",
+      "productUrl": null,
+      "lastUpdated": 1787092342389,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787092280070,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -188821,11 +188839,22 @@
         "followingSku": "7194723",
         "followingTitle": "9K Gold 1.98 Ct Moissanite Cluster Boat Ring",
         "followingAuctionCode": "0019829403"
+      },
+      {
+        "start": 1787092280070,
+        "end": 1787092342389,
+        "durationMin": 1.0,
+        "precedingSku": "7194723",
+        "precedingTitle": "9K Gold 1.98 Ct Moissanite Cluster Boat Ring",
+        "precedingAuctionCode": "0019829403",
+        "followingSku": "8556214",
+        "followingTitle": "D'Joy - Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 2.80 Ct.",
+        "followingAuctionCode": "0019830208"
       }
     ],
-    "lastOnAirSku": "7194723",
-    "lastOnAirTitle": "9K Gold 1.98 Ct Moissanite Cluster Boat Ring",
-    "lastOnAirAuctionCode": "0019829403",
+    "lastOnAirSku": "8556214",
+    "lastOnAirTitle": "D'Joy - Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 2.80 Ct.",
+    "lastOnAirAuctionCode": "0019830208",
     "precedingSku": "7194723",
     "precedingTitle": "9K Gold 1.98 Ct Moissanite Cluster Boat Ring",
     "precedingAuctionCode": "0019829403"
