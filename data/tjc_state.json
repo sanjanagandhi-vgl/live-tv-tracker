@@ -183215,7 +183215,7 @@
       "firstAir": 1787051183137,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787074040713,
+      "lastAir": 1787077280269,
       "title": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
       "pdpPrice": 69.99,
       "auctionCode": "0019827402",
@@ -183223,9 +183223,9 @@
       "login": false,
       "img": false,
       "date": "2026-08-18",
-      "time": "18:27:20",
+      "time": "19:21:20",
       "productUrl": "/products/multi-purpose-cleaner-size-one-size-black-8624713?variant=53528025530634",
-      "lastUpdated": 1787074040713,
+      "lastUpdated": 1787077280269,
       "source": "gha",
       "missedAt": 1787054129545,
       "missedDelay": 10,
@@ -185449,8 +185449,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787076939017,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -188112,11 +188112,22 @@
         "followingSku": "8207784",
         "followingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
         "followingAuctionCode": "0019830010"
+      },
+      {
+        "start": 1787076939017,
+        "end": 1787077280269,
+        "durationMin": 5.7,
+        "precedingSku": "8207784",
+        "precedingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
+        "precedingAuctionCode": "0019830010",
+        "followingSku": "8624713",
+        "followingTitle": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
+        "followingAuctionCode": "0019827402"
       }
     ],
-    "lastOnAirSku": "8207784",
-    "lastOnAirTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
-    "lastOnAirAuctionCode": "0019830010",
+    "lastOnAirSku": "8624713",
+    "lastOnAirTitle": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
+    "lastOnAirAuctionCode": "0019827402",
     "precedingSku": "8207784",
     "precedingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
     "precedingAuctionCode": "0019830010"
