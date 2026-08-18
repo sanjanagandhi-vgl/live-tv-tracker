@@ -185574,11 +185574,29 @@
       "productUrl": null,
       "lastUpdated": 1787087239164,
       "source": "gha"
+    },
+    "8503047": {
+      "sku": "8503047",
+      "firstAir": 1787087736639,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787087736639,
+      "title": "D'Joy - GRA Certified (D-VVS1) Moissanite Ring in Rhodium Overlay Sterling Silver 2.37 Ct.",
+      "pdpPrice": "989.00",
+      "auctionCode": "0019827533",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-18",
+      "time": "22:15:36",
+      "productUrl": null,
+      "lastUpdated": 1787087736639,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787087665251,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -188383,11 +188401,22 @@
         "followingSku": "8493540",
         "followingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 1.02 Ct.",
         "followingAuctionCode": "0019827523"
+      },
+      {
+        "start": 1787087665251,
+        "end": 1787087736639,
+        "durationMin": 1.2,
+        "precedingSku": "8493540",
+        "precedingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 1.02 Ct.",
+        "precedingAuctionCode": "0019827523",
+        "followingSku": "8503047",
+        "followingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Ring in Rhodium Overlay Sterling Silver 2.37 Ct.",
+        "followingAuctionCode": "0019827533"
       }
     ],
-    "lastOnAirSku": "8493540",
-    "lastOnAirTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 1.02 Ct.",
-    "lastOnAirAuctionCode": "0019827523",
+    "lastOnAirSku": "8503047",
+    "lastOnAirTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Ring in Rhodium Overlay Sterling Silver 2.37 Ct.",
+    "lastOnAirAuctionCode": "0019827533",
     "precedingSku": "8493540",
     "precedingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 1.02 Ct.",
     "precedingAuctionCode": "0019827523"
