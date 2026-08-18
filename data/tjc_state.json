@@ -183892,9 +183892,16 @@
       "img": true,
       "date": "2026-08-18",
       "time": "16:20:40",
-      "productUrl": null,
-      "lastUpdated": 1787066440684,
-      "source": "gha"
+      "productUrl": "/products/emreco-tapered-leg-stretch-trousers",
+      "lastUpdated": 1787066961615,
+      "source": "gha",
+      "missedAt": 1787066961615,
+      "missedDelay": 9,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1787066966297,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8575476": {
       "sku": "8575476",
@@ -184091,11 +184098,51 @@
       "productUrlChecked": 1787066845964,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8097785": {
+      "sku": "8097785",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-18",
+      "time": "16:29:21",
+      "preExisting": true,
+      "missedAt": 1787066961615,
+      "missedDelay": null,
+      "lastUpdated": 1787066961615,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Emreco Pintuck Bengaline Stretch Trousers With Pockets (Size 18) - Navy",
+      "auctionCode": "0019827444",
+      "source": "gha",
+      "productUrl": "/products/emreco-tapered-leg-stretch-trousers",
+      "productUrlChecked": 1787066966573,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8097786": {
+      "sku": "8097786",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-18",
+      "time": "16:29:21",
+      "preExisting": true,
+      "missedAt": 1787066961615,
+      "missedDelay": null,
+      "lastUpdated": 1787066961615,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Emreco Pintuck Bengaline Stretch Trousers With Pockets (Size 20) - Navy",
+      "auctionCode": "0019827445",
+      "source": "gha",
+      "productUrl": "/products/emreco-tapered-leg-stretch-trousers",
+      "productUrlChecked": 1787066966815,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787066961615,
     "gaps": [
       {
         "start": 1785823527869,
@@ -186586,8 +186633,8 @@
     "lastOnAirSku": "8166851",
     "lastOnAirTitle": "La Marey Mulberry Silk Printed Scarf (175 x 65cm) - Blue Black",
     "lastOnAirAuctionCode": "0019826917",
-    "precedingSku": "8037638",
-    "precedingTitle": "La Marey Embroidered Wide-Leg Trousers (Size 20 To 22) - Cream",
-    "precedingAuctionCode": "0019826891"
+    "precedingSku": "8166851",
+    "precedingTitle": "La Marey Mulberry Silk Printed Scarf (175 x 65cm) - Blue Black",
+    "precedingAuctionCode": "0019826917"
   }
 }
