@@ -185190,11 +185190,29 @@
       "productUrlChecked": 1787069739842,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8520773": {
+      "sku": "8520773",
+      "firstAir": 1787069782898,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787069782898,
+      "title": "JJ Willis Short Sleeve Shirt (Size - M) - Sage",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019827399",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-18",
+      "time": "17:16:22",
+      "productUrl": null,
+      "lastUpdated": 1787069782898,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787069737750,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -187757,11 +187775,22 @@
         "followingSku": "8421882",
         "followingTitle": "Mudflower Butterfly Print Tunic Jumper (Size 8 to 10) - Hot Pink",
         "followingAuctionCode": "0019827249"
+      },
+      {
+        "start": 1787069737750,
+        "end": 1787069782898,
+        "durationMin": 0.8,
+        "precedingSku": "8520769",
+        "precedingTitle": "JJ Willis Short Sleeve Shirt (Size - M) - Sage",
+        "precedingAuctionCode": "0019827395",
+        "followingSku": "8520773",
+        "followingTitle": "JJ Willis Short Sleeve Shirt (Size - M) - Sage",
+        "followingAuctionCode": "0019827399"
       }
     ],
-    "lastOnAirSku": "8520769",
+    "lastOnAirSku": "8520773",
     "lastOnAirTitle": "JJ Willis Short Sleeve Shirt (Size - M) - Sage",
-    "lastOnAirAuctionCode": "0019827395",
+    "lastOnAirAuctionCode": "0019827399",
     "precedingSku": "8520769",
     "precedingTitle": "JJ Willis Short Sleeve Shirt (Size - M) - Sage",
     "precedingAuctionCode": "0019827395"
