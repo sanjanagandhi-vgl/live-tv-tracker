@@ -53398,21 +53398,26 @@
       "sku": "8477146",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-02",
-      "time": "08:01:01",
+      "date": "2026-08-18",
+      "time": "23:36:24",
       "preExisting": true,
       "missedAt": 1785654061510,
       "missedDelay": null,
-      "lastUpdated": 1785654061510,
+      "lastUpdated": 1787092584200,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "D'Joy - Moissanite Multi-Row Solitaire Ring in Yellow Gold Plated Sterling Silver 1.50 Ct.",
-      "auctionCode": "0019804637",
+      "auctionCode": "0019830217",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-fancy-ring-sterling-silver-1-410-ct-8658075",
       "productUrlChecked": 1785654111370,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787092584200,
+      "pdpPrice": "2345.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8477148": {
       "sku": "8477148",
@@ -186000,8 +186005,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787092530060,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -188850,11 +188855,22 @@
         "followingSku": "8556214",
         "followingTitle": "D'Joy - Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 2.80 Ct.",
         "followingAuctionCode": "0019830208"
+      },
+      {
+        "start": 1787092530060,
+        "end": 1787092584200,
+        "durationMin": 0.9,
+        "precedingSku": "8556214",
+        "precedingTitle": "D'Joy - Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 2.80 Ct.",
+        "precedingAuctionCode": "0019830208",
+        "followingSku": "8477146",
+        "followingTitle": "D'Joy - Moissanite Multi-Row Solitaire Ring in Yellow Gold Plated Sterling Silver 1.50 Ct.",
+        "followingAuctionCode": "0019830217"
       }
     ],
-    "lastOnAirSku": "8556214",
-    "lastOnAirTitle": "D'Joy - Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 2.80 Ct.",
-    "lastOnAirAuctionCode": "0019830208",
+    "lastOnAirSku": "8477146",
+    "lastOnAirTitle": "D'Joy - Moissanite Multi-Row Solitaire Ring in Yellow Gold Plated Sterling Silver 1.50 Ct.",
+    "lastOnAirAuctionCode": "0019830217",
     "precedingSku": "8556214",
     "precedingTitle": "D'Joy - Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 2.80 Ct.",
     "precedingAuctionCode": "0019830208"
