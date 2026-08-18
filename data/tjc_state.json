@@ -110837,21 +110837,26 @@
       "sku": "7819288",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-09",
-      "time": "08:51:18",
+      "date": "2026-08-18",
+      "time": "11:40:38",
       "preExisting": true,
       "missedAt": 1786261878160,
       "missedDelay": null,
-      "lastUpdated": 1786261878160,
+      "lastUpdated": 1787049638899,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "Luxurious Super Cozy Double Layer Electric Heated Blanket 220gsm - Red",
-      "auctionCode": "0019813669",
+      "title": "Luxurious Double Layer Electric Heated Blanket",
+      "auctionCode": "0019827201",
       "source": "gha",
       "productUrl": "/products/luxurious-double-layer-electric-heated-blanket",
       "productUrlChecked": 1786261887653,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787049638899,
+      "pdpPrice": "69.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4286182": {
       "sku": "4286182",
@@ -183139,8 +183144,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787049558139,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -185472,11 +185477,22 @@
         "followingSku": "8377488",
         "followingTitle": "Inflatable Chair - Sofa Bed with Armrest (178 cm) - Blue",
         "followingAuctionCode": "0019827164"
+      },
+      {
+        "start": 1787049558139,
+        "end": 1787049638899,
+        "durationMin": 1.3,
+        "precedingSku": "7817447",
+        "precedingTitle": "MEGA CLEARANCE DEAL - High Speed Vacuum Blender",
+        "precedingAuctionCode": "0019827200",
+        "followingSku": "7819288",
+        "followingTitle": "Luxurious Double Layer Electric Heated Blanket",
+        "followingAuctionCode": "0019827201"
       }
     ],
-    "lastOnAirSku": "7817447",
-    "lastOnAirTitle": "MEGA CLEARANCE DEAL - High Speed Vacuum Blender",
-    "lastOnAirAuctionCode": "0019827200",
+    "lastOnAirSku": "7819288",
+    "lastOnAirTitle": "Luxurious Double Layer Electric Heated Blanket",
+    "lastOnAirAuctionCode": "0019827201",
     "precedingSku": "7817447",
     "precedingTitle": "MEGA CLEARANCE DEAL - High Speed Vacuum Blender",
     "precedingAuctionCode": "0019827200"
