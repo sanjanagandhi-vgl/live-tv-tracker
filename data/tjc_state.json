@@ -183583,11 +183583,29 @@
       "productUrl": null,
       "lastUpdated": 1787063241035,
       "source": "gha"
+    },
+    "8242675": {
+      "sku": "8242675",
+      "firstAir": 1787063453780,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787063453780,
+      "title": "Set of 2 Structured Panel Bag with Silver Chain Strap & Matching Card Slot Purse",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019826792",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-18",
+      "time": "15:30:53",
+      "productUrl": null,
+      "lastUpdated": 1787063453780,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787063360933,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -186029,11 +186047,22 @@
         "followingSku": "8624713",
         "followingTitle": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
         "followingAuctionCode": "0019827402"
+      },
+      {
+        "start": 1787063360933,
+        "end": 1787063453780,
+        "durationMin": 1.5,
+        "precedingSku": "8538095",
+        "precedingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
+        "precedingAuctionCode": "0019825946",
+        "followingSku": "8242675",
+        "followingTitle": "Set of 2 Structured Panel Bag with Silver Chain Strap & Matching Card Slot Purse",
+        "followingAuctionCode": "0019826792"
       }
     ],
-    "lastOnAirSku": "8538095",
-    "lastOnAirTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
-    "lastOnAirAuctionCode": "0019825946",
+    "lastOnAirSku": "8242675",
+    "lastOnAirTitle": "Set of 2 Structured Panel Bag with Silver Chain Strap & Matching Card Slot Purse",
+    "lastOnAirAuctionCode": "0019826792",
     "precedingSku": "8538095",
     "precedingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
     "precedingAuctionCode": "0019825946"
