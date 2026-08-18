@@ -5,14 +5,14 @@
       "firstAir": 1784790236863,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787032461123,
+      "lastAir": 1787076330140,
       "title": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019827685",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019830010",
       "buy": true,
       "login": false,
       "img": true,
-      "time": "06:54:21",
+      "time": "19:05:30",
       "source": "gha",
       "missedAt": 1784790839132,
       "missedDelay": 10,
@@ -20,7 +20,7 @@
       "missedImg": false,
       "date": "2026-08-18",
       "productUrl": null,
-      "lastUpdated": 1787032461123
+      "lastUpdated": 1787076330140
     },
     "8436437": {
       "sku": "8436437",
@@ -185449,8 +185449,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787076205001,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -188101,11 +188101,22 @@
         "followingSku": "8019222",
         "followingTitle": "BEAUTECH - Double Head Hair Remover - 6-Level Waterproof, High-Speed & Type-C Rechargeable",
         "followingAuctionCode": "0019830012"
+      },
+      {
+        "start": 1787076205001,
+        "end": 1787076330140,
+        "durationMin": 2.1,
+        "precedingSku": "8429767",
+        "precedingTitle": "Massager",
+        "precedingAuctionCode": "0019826361",
+        "followingSku": "8207784",
+        "followingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
+        "followingAuctionCode": "0019830010"
       }
     ],
-    "lastOnAirSku": "8429767",
-    "lastOnAirTitle": "Massager",
-    "lastOnAirAuctionCode": "0019826361",
+    "lastOnAirSku": "8207784",
+    "lastOnAirTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
+    "lastOnAirAuctionCode": "0019830010",
     "precedingSku": "8429767",
     "precedingTitle": "Massager",
     "precedingAuctionCode": "0019826361"
