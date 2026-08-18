@@ -183202,9 +183202,16 @@
       "img": true,
       "date": "2026-08-18",
       "time": "13:37:19",
-      "productUrl": null,
-      "lastUpdated": 1787056639767,
-      "source": "gha"
+      "productUrl": "/products/cotton-mattress",
+      "lastUpdated": 1787057239140,
+      "source": "gha",
+      "missedAt": 1787057239140,
+      "missedDelay": 10,
+      "missedPrice": 499.99,
+      "missedImg": true,
+      "productUrlChecked": 1787057242560,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8516162": {
       "sku": "8516162",
@@ -183262,6 +183269,24 @@
       "time": "13:46:23",
       "productUrl": null,
       "lastUpdated": 1787057183106,
+      "source": "gha"
+    },
+    "8195995": {
+      "sku": "8195995",
+      "firstAir": 1787057239140,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787057239140,
+      "title": "Cotton Mattress",
+      "pdpPrice": "999.99",
+      "auctionCode": "0019827745",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-18",
+      "time": "13:47:19",
+      "productUrl": null,
+      "lastUpdated": 1787057239140,
       "source": "gha"
     }
   },
@@ -185634,9 +185659,9 @@
         "followingAuctionCode": "0019825946"
       }
     ],
-    "lastOnAirSku": "8195998",
+    "lastOnAirSku": "8195995",
     "lastOnAirTitle": "Cotton Mattress",
-    "lastOnAirAuctionCode": "0019827730",
+    "lastOnAirAuctionCode": "0019827745",
     "precedingSku": "8516163",
     "precedingTitle": "Livmore Microfibre Cleaning Towel Roll - 30 Pulls (25 x 25cm) - Beige",
     "precedingAuctionCode": "0019827403"
