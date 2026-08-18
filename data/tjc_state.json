@@ -183838,11 +183838,29 @@
       "productUrl": null,
       "lastUpdated": 1787066065890,
       "source": "gha"
+    },
+    "8076881": {
+      "sku": "8076881",
+      "firstAir": 1787066183221,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787066183221,
+      "title": "Pure And Natural Crew Neck Cardigans (Size 14) - Grey",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019826897",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-18",
+      "time": "16:16:23",
+      "productUrl": null,
+      "lastUpdated": 1787066183221,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787066138568,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -186317,11 +186335,22 @@
         "followingSku": "8538095",
         "followingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
         "followingAuctionCode": "0019825946"
+      },
+      {
+        "start": 1787066138568,
+        "end": 1787066183221,
+        "durationMin": 0.7,
+        "precedingSku": "8037638",
+        "precedingTitle": "La Marey Embroidered Wide-Leg Trousers (Size 20 To 22) - Cream",
+        "precedingAuctionCode": "0019826891",
+        "followingSku": "8076881",
+        "followingTitle": "Pure And Natural Crew Neck Cardigans (Size 14) - Grey",
+        "followingAuctionCode": "0019826897"
       }
     ],
-    "lastOnAirSku": "8037638",
-    "lastOnAirTitle": "La Marey Embroidered Wide-Leg Trousers (Size 20 To 22) - Cream",
-    "lastOnAirAuctionCode": "0019826891",
+    "lastOnAirSku": "8076881",
+    "lastOnAirTitle": "Pure And Natural Crew Neck Cardigans (Size 14) - Grey",
+    "lastOnAirAuctionCode": "0019826897",
     "precedingSku": "8037638",
     "precedingTitle": "La Marey Embroidered Wide-Leg Trousers (Size 20 To 22) - Cream",
     "precedingAuctionCode": "0019826891"
