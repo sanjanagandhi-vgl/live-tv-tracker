@@ -18602,16 +18602,16 @@
       "firstAir": 1785168747614,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786897038814,
+      "lastAir": 1787093359557,
       "title": "D'Joy Moissanite Fancy Bracelet (Size - 6.5) in Rhodium OverlaySterling Silver 2.680 Ct.",
-      "pdpPrice": "49.99",
-      "auctionCode": "0019825331",
+      "pdpPrice": "4995.99",
+      "auctionCode": "0019829559",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-16",
-      "time": "17:17:18",
-      "lastUpdated": 1786897038814,
+      "date": "2026-08-18",
+      "time": "23:49:19",
+      "lastUpdated": 1787093359557,
       "source": "gha",
       "missedAt": 1785169943960,
       "missedDelay": 2,
@@ -186192,8 +186192,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787093302092,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -189053,11 +189053,22 @@
         "followingSku": "8477146",
         "followingTitle": "D'Joy - Moissanite Multi-Row Solitaire Ring in Yellow Gold Plated Sterling Silver 1.50 Ct.",
         "followingAuctionCode": "0019830217"
+      },
+      {
+        "start": 1787093302092,
+        "end": 1787093359557,
+        "durationMin": 1.0,
+        "precedingSku": "8477146",
+        "precedingTitle": "D'Joy - Moissanite Multi-Row Solitaire Ring in Yellow Gold Plated Sterling Silver 1.50 Ct.",
+        "precedingAuctionCode": "0019830217",
+        "followingSku": "8374652",
+        "followingTitle": "D'Joy Moissanite Fancy Bracelet (Size - 6.5) in Rhodium OverlaySterling Silver 2.680 Ct.",
+        "followingAuctionCode": "0019829559"
       }
     ],
-    "lastOnAirSku": "8477146",
-    "lastOnAirTitle": "D'Joy - Moissanite Multi-Row Solitaire Ring in Yellow Gold Plated Sterling Silver 1.50 Ct.",
-    "lastOnAirAuctionCode": "0019830217",
+    "lastOnAirSku": "8374652",
+    "lastOnAirTitle": "D'Joy Moissanite Fancy Bracelet (Size - 6.5) in Rhodium OverlaySterling Silver 2.680 Ct.",
+    "lastOnAirAuctionCode": "0019829559",
     "precedingSku": "8477146",
     "precedingTitle": "D'Joy - Moissanite Multi-Row Solitaire Ring in Yellow Gold Plated Sterling Silver 1.50 Ct.",
     "precedingAuctionCode": "0019830217"
