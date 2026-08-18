@@ -183355,11 +183355,29 @@
       "productUrl": null,
       "lastUpdated": 1787059159232,
       "source": "gha"
+    },
+    "7860127": {
+      "sku": "7860127",
+      "firstAir": 1787059279974,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787059279974,
+      "title": "Palm Spa and Heat- SoulSmart- Vibration, Palm Spin and Heat Soothing Cordless Hand Massager",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019826578",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-18",
+      "time": "14:21:19",
+      "productUrl": null,
+      "lastUpdated": 1787059279974,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787059241894,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -185724,11 +185742,22 @@
         "followingSku": "8538095",
         "followingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
         "followingAuctionCode": "0019825946"
+      },
+      {
+        "start": 1787059241894,
+        "end": 1787059279974,
+        "durationMin": 0.6,
+        "precedingSku": "8204114",
+        "precedingTitle": "Golden Metal Cryosculptor Tool for Face & Eyes 6-Sided Gua Sha Contouring Massager - Gold",
+        "precedingAuctionCode": "0019826571",
+        "followingSku": "7860127",
+        "followingTitle": "Palm Spa and Heat- SoulSmart- Vibration, Palm Spin and Heat Soothing Cordless Hand Massager",
+        "followingAuctionCode": "0019826578"
       }
     ],
-    "lastOnAirSku": "8204114",
-    "lastOnAirTitle": "Golden Metal Cryosculptor Tool for Face & Eyes 6-Sided Gua Sha Contouring Massager - Gold",
-    "lastOnAirAuctionCode": "0019826571",
+    "lastOnAirSku": "7860127",
+    "lastOnAirTitle": "Palm Spa and Heat- SoulSmart- Vibration, Palm Spin and Heat Soothing Cordless Hand Massager",
+    "lastOnAirAuctionCode": "0019826578",
     "precedingSku": "8204114",
     "precedingTitle": "Golden Metal Cryosculptor Tool for Face & Eyes 6-Sided Gua Sha Contouring Massager - Gold",
     "precedingAuctionCode": "0019826571"
