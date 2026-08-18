@@ -184138,11 +184138,29 @@
       "productUrlChecked": 1787066966815,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8221141": {
+      "sku": "8221141",
+      "firstAir": 1787067054116,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787067054116,
+      "title": "Emreco Jean Style Stretch Trouser With 29 Inch Leg (Size 20) - Black",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019826923",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-18",
+      "time": "16:30:54",
+      "productUrl": null,
+      "lastUpdated": 1787067054116,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787066961615,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -186628,11 +186646,22 @@
         "followingSku": "8076881",
         "followingTitle": "Pure And Natural Crew Neck Cardigans (Size 14) - Grey",
         "followingAuctionCode": "0019826897"
+      },
+      {
+        "start": 1787066961615,
+        "end": 1787067054116,
+        "durationMin": 1.5,
+        "precedingSku": "8166851",
+        "precedingTitle": "La Marey Mulberry Silk Printed Scarf (175 x 65cm) - Blue Black",
+        "precedingAuctionCode": "0019826917",
+        "followingSku": "8221141",
+        "followingTitle": "Emreco Jean Style Stretch Trouser With 29 Inch Leg (Size 20) - Black",
+        "followingAuctionCode": "0019826923"
       }
     ],
-    "lastOnAirSku": "8166851",
-    "lastOnAirTitle": "La Marey Mulberry Silk Printed Scarf (175 x 65cm) - Blue Black",
-    "lastOnAirAuctionCode": "0019826917",
+    "lastOnAirSku": "8221141",
+    "lastOnAirTitle": "Emreco Jean Style Stretch Trouser With 29 Inch Leg (Size 20) - Black",
+    "lastOnAirAuctionCode": "0019826923",
     "precedingSku": "8166851",
     "precedingTitle": "La Marey Mulberry Silk Printed Scarf (175 x 65cm) - Blue Black",
     "precedingAuctionCode": "0019826917"
