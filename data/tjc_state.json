@@ -17783,21 +17783,22 @@
       "firstAir": 1785156860832,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785157581943,
-      "title": "La Marey Soft-Touch Asymmetric Top (Size 8 To 10) - Rose",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019796411",
-      "buy": false,
+      "lastAir": 1787069183547,
+      "title": "La Marey Soft-Touch Asymmetric Top (Size 12 To 14) - Dark Grey",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019827226",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "14:06:21",
-      "lastUpdated": 1785157702286,
+      "date": "2026-08-18",
+      "time": "17:06:23",
+      "lastUpdated": 1787069183547,
       "source": "gha",
       "missedAt": 1785157702286,
       "missedDelay": 2,
       "missedPrice": 9.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8599439": {
       "sku": "8599439",
@@ -185040,8 +185041,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787069129857,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -187571,11 +187572,22 @@
         "followingSku": "8360197",
         "followingTitle": "La Marey Soft-Touch Asymmetric Top (Size 12 To 14) - Dark Grey",
         "followingAuctionCode": "0019827223"
+      },
+      {
+        "start": 1787069129857,
+        "end": 1787069183547,
+        "durationMin": 0.9,
+        "precedingSku": "8360197",
+        "precedingTitle": "La Marey Soft-Touch Asymmetric Top (Size 12 To 14) - Dark Grey",
+        "precedingAuctionCode": "0019827223",
+        "followingSku": "8360202",
+        "followingTitle": "La Marey Soft-Touch Asymmetric Top (Size 12 To 14) - Dark Grey",
+        "followingAuctionCode": "0019827226"
       }
     ],
-    "lastOnAirSku": "8360197",
+    "lastOnAirSku": "8360202",
     "lastOnAirTitle": "La Marey Soft-Touch Asymmetric Top (Size 12 To 14) - Dark Grey",
-    "lastOnAirAuctionCode": "0019827223",
+    "lastOnAirAuctionCode": "0019827226",
     "precedingSku": "8360197",
     "precedingTitle": "La Marey Soft-Touch Asymmetric Top (Size 12 To 14) - Dark Grey",
     "precedingAuctionCode": "0019827223"
