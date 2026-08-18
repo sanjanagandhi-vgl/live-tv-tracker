@@ -183108,9 +183108,16 @@
       "img": true,
       "date": "2026-08-18",
       "time": "11:29:18",
-      "productUrl": null,
-      "lastUpdated": 1787048958950,
-      "source": "gha"
+      "productUrl": "/products/aerolatte-7-cup-french-press-cafetiere",
+      "lastUpdated": 1787049558139,
+      "source": "gha",
+      "missedAt": 1787049558139,
+      "missedDelay": 10,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "productUrlChecked": 1787049561641,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7817447": {
       "sku": "7817447",
@@ -183132,8 +183139,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787049558139,
     "gaps": [
       {
         "start": 1785823527869,
@@ -185470,8 +185477,8 @@
     "lastOnAirSku": "7817447",
     "lastOnAirTitle": "MEGA CLEARANCE DEAL - High Speed Vacuum Blender",
     "lastOnAirAuctionCode": "0019827200",
-    "precedingSku": "8412380",
-    "precedingTitle": "LIVMORE Hanging Wind Chime (74 cm) - Green",
-    "precedingAuctionCode": "0019827158"
+    "precedingSku": "7817447",
+    "precedingTitle": "MEGA CLEARANCE DEAL - High Speed Vacuum Blender",
+    "precedingAuctionCode": "0019827200"
   }
 }
