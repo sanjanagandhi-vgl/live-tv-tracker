@@ -185059,11 +185059,29 @@
       "productUrlChecked": 1787069370631,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8421882": {
+      "sku": "8421882",
+      "firstAir": 1787069478431,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787069478431,
+      "title": "Mudflower Butterfly Print Tunic Jumper (Size 8 to 10) - Hot Pink",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019827249",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-18",
+      "time": "17:11:18",
+      "productUrl": null,
+      "lastUpdated": 1787069478431,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787069439293,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -187615,11 +187633,22 @@
         "followingSku": "8487218",
         "followingTitle": "Pure and Natural V-Neck Light Knit Top (One Size - Upto 18) - Multi Colour",
         "followingAuctionCode": "0019827295"
+      },
+      {
+        "start": 1787069439293,
+        "end": 1787069478431,
+        "durationMin": 0.7,
+        "precedingSku": "8487218",
+        "precedingTitle": "Pure and Natural V-Neck Light Knit Top (One Size - Upto 18) - Multi Colour",
+        "precedingAuctionCode": "0019827295",
+        "followingSku": "8421882",
+        "followingTitle": "Mudflower Butterfly Print Tunic Jumper (Size 8 to 10) - Hot Pink",
+        "followingAuctionCode": "0019827249"
       }
     ],
-    "lastOnAirSku": "8487218",
-    "lastOnAirTitle": "Pure and Natural V-Neck Light Knit Top (One Size - Upto 18) - Multi Colour",
-    "lastOnAirAuctionCode": "0019827295",
+    "lastOnAirSku": "8421882",
+    "lastOnAirTitle": "Mudflower Butterfly Print Tunic Jumper (Size 8 to 10) - Hot Pink",
+    "lastOnAirAuctionCode": "0019827249",
     "precedingSku": "8487218",
     "precedingTitle": "Pure and Natural V-Neck Light Knit Top (One Size - Upto 18) - Multi Colour",
     "precedingAuctionCode": "0019827295"
