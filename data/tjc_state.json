@@ -183215,7 +183215,7 @@
       "firstAir": 1787051183137,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787072839300,
+      "lastAir": 1787074040713,
       "title": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
       "pdpPrice": 69.99,
       "auctionCode": "0019827402",
@@ -183223,9 +183223,9 @@
       "login": false,
       "img": false,
       "date": "2026-08-18",
-      "time": "18:07:19",
+      "time": "18:27:20",
       "productUrl": "/products/multi-purpose-cleaner-size-one-size-black-8624713?variant=53528025530634",
-      "lastUpdated": 1787072839300,
+      "lastUpdated": 1787074040713,
       "source": "gha",
       "missedAt": 1787054129545,
       "missedDelay": 10,
@@ -185424,8 +185424,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787073981425,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -188043,11 +188043,22 @@
         "followingSku": "8276811",
         "followingTitle": "Blushly Vibrating Silicone Cleansing Tool with Heat Treatment",
         "followingAuctionCode": "0019830014"
+      },
+      {
+        "start": 1787073981425,
+        "end": 1787074040713,
+        "durationMin": 1.0,
+        "precedingSku": "8276811",
+        "precedingTitle": "Blushly Vibrating Silicone Cleansing Tool with Heat Treatment",
+        "precedingAuctionCode": "0019830014",
+        "followingSku": "8624713",
+        "followingTitle": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
+        "followingAuctionCode": "0019827402"
       }
     ],
-    "lastOnAirSku": "8276811",
-    "lastOnAirTitle": "Blushly Vibrating Silicone Cleansing Tool with Heat Treatment",
-    "lastOnAirAuctionCode": "0019830014",
+    "lastOnAirSku": "8624713",
+    "lastOnAirTitle": "Cordless Pressure Washer with 2 x 21v Batteries, Accessories for Car, Patio and Garden Cleaning. ...",
+    "lastOnAirAuctionCode": "0019827402",
     "precedingSku": "8276811",
     "precedingTitle": "Blushly Vibrating Silicone Cleansing Tool with Heat Treatment",
     "precedingAuctionCode": "0019830014"
