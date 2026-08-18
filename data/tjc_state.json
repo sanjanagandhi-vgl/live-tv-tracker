@@ -146109,21 +146109,26 @@
       "sku": "8355464",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "09:01:05",
+      "date": "2026-08-18",
+      "time": "16:52:22",
       "preExisting": true,
       "missedAt": 1786608065058,
       "missedDelay": null,
-      "lastUpdated": 1786608065058,
+      "lastUpdated": 1787068342375,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "La Marey Corduroy Shacket with Checked Lining (Size 18 to 20) - Beige",
-      "auctionCode": "0019817810",
+      "title": "La Marey Corduroy Shacket with Checked Lining (Size 22 to 24) - Red",
+      "auctionCode": "0019827039",
       "source": "gha",
       "productUrl": "/products/la-marey-shirt-1928355462",
       "productUrlChecked": 1786608076649,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787068342375,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8355469": {
       "sku": "8355469",
@@ -184512,9 +184517,16 @@
       "img": true,
       "date": "2026-08-18",
       "time": "16:43:18",
-      "productUrl": null,
-      "lastUpdated": 1787067798919,
-      "source": "gha"
+      "productUrl": "/products/la-marey-super-soft-brushed-top",
+      "lastUpdated": 1787068342375,
+      "source": "gha",
+      "missedAt": 1787068342375,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787068345720,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8226225": {
       "sku": "8226225",
@@ -184769,11 +184781,31 @@
       "productUrlChecked": 1787068250790,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8237687": {
+      "sku": "8237687",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-18",
+      "time": "16:52:22",
+      "preExisting": true,
+      "missedAt": 1787068342375,
+      "missedDelay": null,
+      "lastUpdated": 1787068342375,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Super Soft Brushed Top (Size - L-XL) - Chocolate",
+      "auctionCode": "0019827475",
+      "source": "gha",
+      "productUrl": "/products/la-marey-super-soft-brushed-top",
+      "productUrlChecked": 1787068347504,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787068281690,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -187270,11 +187302,22 @@
         "followingSku": "8221141",
         "followingTitle": "Emreco Jean Style Stretch Trouser With 29 Inch Leg (Size 20) - Black",
         "followingAuctionCode": "0019826923"
+      },
+      {
+        "start": 1787068281690,
+        "end": 1787068342375,
+        "durationMin": 1.0,
+        "precedingSku": "8355469",
+        "precedingTitle": "La Marey Corduroy Shacket with Checked Lining (Size 22 to 24) - Red",
+        "precedingAuctionCode": "0019827040",
+        "followingSku": "8355464",
+        "followingTitle": "La Marey Corduroy Shacket with Checked Lining (Size 22 to 24) - Red",
+        "followingAuctionCode": "0019827039"
       }
     ],
-    "lastOnAirSku": "8355469",
+    "lastOnAirSku": "8355464",
     "lastOnAirTitle": "La Marey Corduroy Shacket with Checked Lining (Size 22 to 24) - Red",
-    "lastOnAirAuctionCode": "0019827040",
+    "lastOnAirAuctionCode": "0019827039",
     "precedingSku": "8355469",
     "precedingTitle": "La Marey Corduroy Shacket with Checked Lining (Size 22 to 24) - Red",
     "precedingAuctionCode": "0019827040"
