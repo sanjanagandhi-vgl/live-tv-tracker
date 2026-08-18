@@ -182832,7 +182832,7 @@
       "firstAir": 1787039137207,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787053583342,
+      "lastAir": 1787054303188,
       "title": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
       "pdpPrice": 39.99,
       "auctionCode": "0019825946",
@@ -182840,9 +182840,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-18",
-      "time": "12:46:23",
+      "time": "12:58:23",
       "productUrl": "/products/cbd-queen-broad-spectrum-oil-20-2000mg-natural-10ml?variant=53106978226442",
-      "lastUpdated": 1787053583342,
+      "lastUpdated": 1787054303188,
       "source": "gha",
       "productUrlChecked": 1787041762411,
       "productUrlStatus": 200,
@@ -183190,8 +183190,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787054183580,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -185545,11 +185545,22 @@
         "followingSku": "8099103",
         "followingTitle": "Genuine Leather Snakeskin Pattern Crossbody Bag with Top Handle - Pink & Black",
         "followingAuctionCode": "0019826437"
+      },
+      {
+        "start": 1787054183580,
+        "end": 1787054303188,
+        "durationMin": 2.0,
+        "precedingSku": "8516163",
+        "precedingTitle": "Livmore Microfibre Cleaning Towel Roll - 30 Pulls (25 x 25cm) - Beige",
+        "precedingAuctionCode": "0019827403",
+        "followingSku": "8538095",
+        "followingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
+        "followingAuctionCode": "0019825946"
       }
     ],
-    "lastOnAirSku": "8516163",
-    "lastOnAirTitle": "Livmore Microfibre Cleaning Towel Roll - 30 Pulls (25 x 25cm) - Beige",
-    "lastOnAirAuctionCode": "0019827403",
+    "lastOnAirSku": "8538095",
+    "lastOnAirTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
+    "lastOnAirAuctionCode": "0019825946",
     "precedingSku": "8516163",
     "precedingTitle": "Livmore Microfibre Cleaning Towel Roll - 30 Pulls (25 x 25cm) - Beige",
     "precedingAuctionCode": "0019827403"
