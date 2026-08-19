@@ -189360,11 +189360,29 @@
       "productUrlChecked": 1787127757491,
       "productUrlStatus": 500,
       "productUrl404": false
+    },
+    "8247816": {
+      "sku": "8247816",
+      "firstAir": 1787127862390,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787127862390,
+      "title": "La Marey Signature Wrap Coat (Size XL) - Camel",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019828142",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "09:24:22",
+      "productUrl": null,
+      "lastUpdated": 1787127862390,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787127799811,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -192631,11 +192649,22 @@
         "followingSku": "8242199",
         "followingTitle": "La Marey Leopard Blouse",
         "followingAuctionCode": "0019828127"
+      },
+      {
+        "start": 1787127799811,
+        "end": 1787127862390,
+        "durationMin": 1.0,
+        "precedingSku": "8247806",
+        "precedingTitle": "La Marey Signature Military Tailored Midi Coat",
+        "precedingAuctionCode": "0019828137",
+        "followingSku": "8247816",
+        "followingTitle": "La Marey Signature Wrap Coat (Size XL) - Camel",
+        "followingAuctionCode": "0019828142"
       }
     ],
-    "lastOnAirSku": "8247806",
-    "lastOnAirTitle": "La Marey Signature Military Tailored Midi Coat",
-    "lastOnAirAuctionCode": "0019828137",
+    "lastOnAirSku": "8247816",
+    "lastOnAirTitle": "La Marey Signature Wrap Coat (Size XL) - Camel",
+    "lastOnAirAuctionCode": "0019828142",
     "precedingSku": "8247806",
     "precedingTitle": "La Marey Signature Military Tailored Midi Coat",
     "precedingAuctionCode": "0019828137"
