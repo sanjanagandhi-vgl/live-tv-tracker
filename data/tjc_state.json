@@ -187991,9 +187991,16 @@
       "img": true,
       "date": "2026-08-19",
       "time": "08:21:20",
-      "productUrl": null,
-      "lastUpdated": 1787124080633,
-      "source": "gha"
+      "productUrl": "/products/emreco-single-breasted-rever-collar-coat-size-12-camel",
+      "lastUpdated": 1787124653134,
+      "source": "gha",
+      "missedAt": 1787124653134,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1787124656687,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7993474": {
       "sku": "7993474",
@@ -188184,6 +188191,44 @@
       "productUrl": null,
       "lastUpdated": 1787124559251,
       "source": "gha"
+    },
+    "8097755": {
+      "sku": "8097755",
+      "firstAir": 1787124653134,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787124653134,
+      "title": "Emreco Woven Jean and Pant/Trouser",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019827988",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "08:30:53",
+      "productUrl": null,
+      "lastUpdated": 1787124653134,
+      "source": "gha"
+    },
+    "8095616": {
+      "sku": "8095616",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "08:30:53",
+      "preExisting": true,
+      "missedAt": 1787124653134,
+      "missedDelay": null,
+      "lastUpdated": 1787124653134,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Emreco Single Breasted Revere Collar Coat (Size 20) - Camel",
+      "auctionCode": "0019829080",
+      "source": "gha",
+      "productUrl": "/products/emreco-single-breasted-rever-collar-coat-size-12-camel",
+      "productUrlChecked": 1787124656923,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -191358,9 +191403,9 @@
         "followingAuctionCode": "0019827979"
       }
     ],
-    "lastOnAirSku": "8097749",
-    "lastOnAirTitle": "Fleece Lined Pull On Bengaline Trouser",
-    "lastOnAirAuctionCode": "0019827986",
+    "lastOnAirSku": "8097755",
+    "lastOnAirTitle": "Emreco Woven Jean and Pant/Trouser",
+    "lastOnAirAuctionCode": "0019827988",
     "precedingSku": "8097620",
     "precedingTitle": "Emreco Knitted Top",
     "precedingAuctionCode": "0019827975"
