@@ -190596,11 +190596,29 @@
       "productUrl": null,
       "lastUpdated": 1787139638111,
       "source": "gha"
+    },
+    "7930470": {
+      "sku": "7930470",
+      "firstAir": 1787140040031,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787140040031,
+      "title": "Ladies MONTREAL Lace-up Military Style Boots",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019829240",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "12:47:20",
+      "productUrl": null,
+      "lastUpdated": 1787140040031,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787139982438,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -193988,11 +194006,22 @@
         "followingSku": "8305903",
         "followingTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
         "followingAuctionCode": "0019828996"
+      },
+      {
+        "start": 1787139982438,
+        "end": 1787140040031,
+        "durationMin": 1.0,
+        "precedingSku": "8321859",
+        "precedingTitle": "Shoes by Emma Ladies Shoe",
+        "precedingAuctionCode": "0019829242",
+        "followingSku": "7930470",
+        "followingTitle": "Ladies MONTREAL Lace-up Military Style Boots",
+        "followingAuctionCode": "0019829240"
       }
     ],
-    "lastOnAirSku": "8321859",
-    "lastOnAirTitle": "Shoes by Emma Ladies Shoe",
-    "lastOnAirAuctionCode": "0019829242",
+    "lastOnAirSku": "7930470",
+    "lastOnAirTitle": "Ladies MONTREAL Lace-up Military Style Boots",
+    "lastOnAirAuctionCode": "0019829240",
     "precedingSku": "8321859",
     "precedingTitle": "Shoes by Emma Ladies Shoe",
     "precedingAuctionCode": "0019829242"
