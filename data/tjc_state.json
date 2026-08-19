@@ -189225,11 +189225,29 @@
       "productUrl": null,
       "lastUpdated": 1787127384442,
       "source": "gha"
+    },
+    "8242186": {
+      "sku": "8242186",
+      "firstAir": 1787127504227,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787127504227,
+      "title": "La Marey Leopard Blouse",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019828124",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "09:18:24",
+      "productUrl": null,
+      "lastUpdated": 1787127504227,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787127439835,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -192474,11 +192492,22 @@
         "followingSku": "8240270",
         "followingTitle": "La Marey Leaf Pattern Frill Jersey Blouse",
         "followingAuctionCode": "0019828121"
+      },
+      {
+        "start": 1787127439835,
+        "end": 1787127504227,
+        "durationMin": 1.1,
+        "precedingSku": "8240270",
+        "precedingTitle": "La Marey Leaf Pattern Frill Jersey Blouse",
+        "precedingAuctionCode": "0019828121",
+        "followingSku": "8242186",
+        "followingTitle": "La Marey Leopard Blouse",
+        "followingAuctionCode": "0019828124"
       }
     ],
-    "lastOnAirSku": "8240270",
-    "lastOnAirTitle": "La Marey Leaf Pattern Frill Jersey Blouse",
-    "lastOnAirAuctionCode": "0019828121",
+    "lastOnAirSku": "8242186",
+    "lastOnAirTitle": "La Marey Leopard Blouse",
+    "lastOnAirAuctionCode": "0019828124",
     "precedingSku": "8240270",
     "precedingTitle": "La Marey Leaf Pattern Frill Jersey Blouse",
     "precedingAuctionCode": "0019828121"
