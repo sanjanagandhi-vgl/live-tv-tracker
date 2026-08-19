@@ -90698,17 +90698,17 @@
       "firstAir": 1786080142476,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787133863688,
+      "lastAir": 1787134160882,
       "title": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
-      "pdpPrice": "14.99",
+      "pdpPrice": 14.99,
       "auctionCode": "0019828996",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-19",
-      "time": "11:04:23",
-      "productUrl": "/products/douvalls-tinted-eyebrow-growth-serum",
-      "lastUpdated": 1787133863688,
+      "time": "11:09:20",
+      "productUrl": "/products/douvalls-tinted-eyebrow-growth-serum?variant=53107704103178",
+      "lastUpdated": 1787134160882,
       "source": "gha",
       "missedAt": 1786081103370,
       "missedDelay": 10,
@@ -190576,8 +190576,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787133929780,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -193929,6 +193929,17 @@
         "precedingSku": "221330683",
         "precedingTitle": "MEGA CLEARANCE DEAL- Set of 3 V.V LOVE I'M The One, Chandelier Rouge & La Bella Viva 2 Piece Gift Set",
         "precedingAuctionCode": "0019830353",
+        "followingSku": "8305903",
+        "followingTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
+        "followingAuctionCode": "0019828996"
+      },
+      {
+        "start": 1787133929780,
+        "end": 1787134160882,
+        "durationMin": 3.9,
+        "precedingSku": "8305903",
+        "precedingTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
+        "precedingAuctionCode": "0019828996",
         "followingSku": "8305903",
         "followingTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
         "followingAuctionCode": "0019828996"
