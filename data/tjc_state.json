@@ -19589,21 +19589,22 @@
       "firstAir": 1785268864559,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785297659559,
-      "title": "BLACK FRIDAY DOORBUSTER - Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Str...",
-      "pdpPrice": 37.99,
-      "auctionCode": "0019797526",
-      "buy": false,
+      "lastAir": 1787172560481,
+      "title": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
+      "pdpPrice": "37.99",
+      "auctionCode": "0019831975",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-29",
-      "time": "05:00:59",
-      "lastUpdated": 1785321863299,
+      "date": "2026-08-19",
+      "time": "21:49:20",
+      "lastUpdated": 1787172560481,
       "source": "gha",
       "missedAt": 1785321863299,
       "missedDelay": 403,
       "missedPrice": 37.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrl": null
     },
     "8431614": {
       "sku": "8431614",
@@ -192855,8 +192856,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787172264183,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196288,11 +196289,22 @@
         "followingSku": "7140965",
         "followingTitle": "VLL : Polyester : Kaftan : Black",
         "followingAuctionCode": "0019829591"
+      },
+      {
+        "start": 1787172264183,
+        "end": 1787172560481,
+        "durationMin": 4.9,
+        "precedingSku": "7140965",
+        "precedingTitle": "VLL : Polyester : Kaftan : Black",
+        "precedingAuctionCode": "0019829591",
+        "followingSku": "8579249",
+        "followingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
+        "followingAuctionCode": "0019831975"
       }
     ],
-    "lastOnAirSku": "7140965",
-    "lastOnAirTitle": "VLL : Polyester : Kaftan : Black",
-    "lastOnAirAuctionCode": "0019829591",
+    "lastOnAirSku": "8579249",
+    "lastOnAirTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
+    "lastOnAirAuctionCode": "0019831975",
     "precedingSku": "7140965",
     "precedingTitle": "VLL : Polyester : Kaftan : Black",
     "precedingAuctionCode": "0019829591"
