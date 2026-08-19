@@ -187072,11 +187072,29 @@
       "productUrl": null,
       "lastUpdated": 1787106930813,
       "source": "gha"
+    },
+    "8576847": {
+      "sku": "8576847",
+      "firstAir": 1787107397764,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787107397764,
+      "title": "D'Joy - Ammolite & Natural White Diamond Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.60 Ct.",
+      "pdpPrice": "129.99",
+      "auctionCode": "0019827780",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "03:43:17",
+      "productUrl": null,
+      "lastUpdated": 1787107397764,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787107343491,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -190024,11 +190042,22 @@
         "followingSku": "4482259",
         "followingTitle": "D'Joy - Ammolite & Natural White Diamond Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.56 Ct.",
         "followingAuctionCode": "0019827746"
+      },
+      {
+        "start": 1787107343491,
+        "end": 1787107397764,
+        "durationMin": 0.9,
+        "precedingSku": "4482259",
+        "precedingTitle": "D'Joy - Ammolite & Natural White Diamond Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.56 Ct.",
+        "precedingAuctionCode": "0019827746",
+        "followingSku": "8576847",
+        "followingTitle": "D'Joy - Ammolite & Natural White Diamond Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.60 Ct.",
+        "followingAuctionCode": "0019827780"
       }
     ],
-    "lastOnAirSku": "4482259",
-    "lastOnAirTitle": "D'Joy - Ammolite & Natural White Diamond Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.56 Ct.",
-    "lastOnAirAuctionCode": "0019827746",
+    "lastOnAirSku": "8576847",
+    "lastOnAirTitle": "D'Joy - Ammolite & Natural White Diamond Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.60 Ct.",
+    "lastOnAirAuctionCode": "0019827780",
     "precedingSku": "4482259",
     "precedingTitle": "D'Joy - Ammolite & Natural White Diamond Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.56 Ct.",
     "precedingAuctionCode": "0019827746"
