@@ -6630,22 +6630,23 @@
       "sku": "8055952",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-27",
-      "time": "20:11:19",
+      "date": "2026-08-19",
+      "time": "22:44:21",
       "preExisting": true,
       "missedAt": 1784930728239,
       "missedDelay": null,
-      "lastUpdated": 1785179479968,
+      "lastUpdated": 1787175861735,
       "missedPrice": 199.99,
       "missedImg": true,
-      "title": "9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
-      "auctionCode": "0019798300",
+      "title": "9K Yellow Gold Spiga Necklace",
+      "auctionCode": "0019830664",
       "source": "gha",
-      "lastAir": 1785179479968,
-      "pdpPrice": 199.99,
-      "buy": false,
+      "lastAir": 1787175861735,
+      "pdpPrice": "399.99",
+      "buy": true,
       "login": false,
-      "img": true
+      "img": true,
+      "productUrl": null
     },
     "8055955": {
       "sku": "8055955",
@@ -192933,8 +192934,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787175744910,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196399,11 +196400,22 @@
         "followingSku": "8613734",
         "followingTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
         "followingAuctionCode": "0019830683"
+      },
+      {
+        "start": 1787175744910,
+        "end": 1787175861735,
+        "durationMin": 1.9,
+        "precedingSku": "8613734",
+        "precedingTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
+        "precedingAuctionCode": "0019830683",
+        "followingSku": "8055952",
+        "followingTitle": "9K Yellow Gold Spiga Necklace",
+        "followingAuctionCode": "0019830664"
       }
     ],
-    "lastOnAirSku": "8613734",
-    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
-    "lastOnAirAuctionCode": "0019830683",
+    "lastOnAirSku": "8055952",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace",
+    "lastOnAirAuctionCode": "0019830664",
     "precedingSku": "8613734",
     "precedingTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
     "precedingAuctionCode": "0019830683"
