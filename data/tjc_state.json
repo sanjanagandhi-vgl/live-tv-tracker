@@ -188130,11 +188130,29 @@
       "productUrlChecked": 1787124271286,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8097626": {
+      "sku": "8097626",
+      "firstAir": 1787124383581,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787124383581,
+      "title": "Emreco Knitted Top",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019827979",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "08:26:23",
+      "productUrl": null,
+      "lastUpdated": 1787124383581,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787124331068,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -191291,11 +191309,22 @@
         "followingSku": "7993496",
         "followingTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
         "followingAuctionCode": "0019827942"
+      },
+      {
+        "start": 1787124331068,
+        "end": 1787124383581,
+        "durationMin": 0.9,
+        "precedingSku": "8097620",
+        "precedingTitle": "Emreco Knitted Top",
+        "precedingAuctionCode": "0019827975",
+        "followingSku": "8097626",
+        "followingTitle": "Emreco Knitted Top",
+        "followingAuctionCode": "0019827979"
       }
     ],
-    "lastOnAirSku": "8097620",
+    "lastOnAirSku": "8097626",
     "lastOnAirTitle": "Emreco Knitted Top",
-    "lastOnAirAuctionCode": "0019827975",
+    "lastOnAirAuctionCode": "0019827979",
     "precedingSku": "8097620",
     "precedingTitle": "Emreco Knitted Top",
     "precedingAuctionCode": "0019827975"
