@@ -166583,21 +166583,26 @@
       "sku": "8247806",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "10:03:19",
+      "date": "2026-08-19",
+      "time": "09:22:23",
       "preExisting": true,
       "missedAt": 1786870999419,
       "missedDelay": null,
-      "lastUpdated": 1786870999419,
+      "lastUpdated": 1787127743346,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "La Marey Signature Military Tailored Midi Coat (Size L) - Camel",
-      "auctionCode": "0019824040",
+      "title": "La Marey Signature Military Tailored Midi Coat",
+      "auctionCode": "0019828137",
       "source": "gha",
       "productUrl": "/products/la-marey-signature-military-tailored-midi-coat",
       "productUrlChecked": 1786871009684,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787127743346,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8247810": {
       "sku": "8247810",
@@ -189133,9 +189138,16 @@
       "img": true,
       "date": "2026-08-19",
       "time": "09:13:19",
-      "productUrl": null,
-      "lastUpdated": 1787127199550,
-      "source": "gha"
+      "productUrl": "/products/la-marey-soft-touch-striped-jumper",
+      "lastUpdated": 1787127743346,
+      "source": "gha",
+      "missedAt": 1787127743346,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787127754411,
+      "productUrlStatus": 500,
+      "productUrl404": false
     },
     "8240240": {
       "sku": "8240240",
@@ -189328,6 +189340,26 @@
       "productUrl": null,
       "lastUpdated": 1787127678949,
       "source": "gha"
+    },
+    "8238656": {
+      "sku": "8238656",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "09:22:23",
+      "preExisting": true,
+      "missedAt": 1787127743346,
+      "missedDelay": null,
+      "lastUpdated": 1787127743346,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Soft Touch Striped Jumper (Size XL) - Burgundy & Pink",
+      "auctionCode": "0019829013",
+      "source": "gha",
+      "productUrl": "/products/la-marey-soft-touch-striped-jumper",
+      "productUrlChecked": 1787127757491,
+      "productUrlStatus": 500,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -192601,9 +192633,9 @@
         "followingAuctionCode": "0019828127"
       }
     ],
-    "lastOnAirSku": "8242199",
-    "lastOnAirTitle": "La Marey Leopard Blouse",
-    "lastOnAirAuctionCode": "0019828127",
+    "lastOnAirSku": "8247806",
+    "lastOnAirTitle": "La Marey Signature Military Tailored Midi Coat",
+    "lastOnAirAuctionCode": "0019828137",
     "precedingSku": "8242186",
     "precedingTitle": "La Marey Leopard Blouse",
     "precedingAuctionCode": "0019828124"
