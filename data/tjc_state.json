@@ -188927,11 +188927,29 @@
       "productUrlChecked": 1787126133979,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8231937": {
+      "sku": "8231937",
+      "firstAir": 1787126301855,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787126301855,
+      "title": "La Marey Patterned Shawl",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019828099",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "08:58:21",
+      "productUrl": null,
+      "lastUpdated": 1787126301855,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787126241124,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -192132,11 +192150,22 @@
         "followingSku": "8231403",
         "followingTitle": "La Marey Solid Jean and Pant/Trouser",
         "followingAuctionCode": "0019828092"
+      },
+      {
+        "start": 1787126241124,
+        "end": 1787126301855,
+        "durationMin": 1.0,
+        "precedingSku": "8231407",
+        "precedingTitle": "La Marey Solid Jean and Pant/Trouser",
+        "precedingAuctionCode": "0019828095",
+        "followingSku": "8231937",
+        "followingTitle": "La Marey Patterned Shawl",
+        "followingAuctionCode": "0019828099"
       }
     ],
-    "lastOnAirSku": "8231407",
-    "lastOnAirTitle": "La Marey Solid Jean and Pant/Trouser",
-    "lastOnAirAuctionCode": "0019828095",
+    "lastOnAirSku": "8231937",
+    "lastOnAirTitle": "La Marey Patterned Shawl",
+    "lastOnAirAuctionCode": "0019828099",
     "precedingSku": "8231407",
     "precedingTitle": "La Marey Solid Jean and Pant/Trouser",
     "precedingAuctionCode": "0019828095"
