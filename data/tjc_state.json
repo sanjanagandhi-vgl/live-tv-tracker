@@ -188627,9 +188627,16 @@
       "img": true,
       "date": "2026-08-19",
       "time": "08:42:24",
-      "productUrl": null,
-      "lastUpdated": 1787125344739,
-      "source": "gha"
+      "productUrl": "/products/la-marey-paisley-emboss-velvet-blouse",
+      "lastUpdated": 1787125942427,
+      "source": "gha",
+      "missedAt": 1787125942427,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787125947302,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8134064": {
       "sku": "8134064",
@@ -188726,11 +188733,71 @@
       "productUrlChecked": 1787125589359,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8134057": {
+      "sku": "8134057",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "08:52:22",
+      "preExisting": true,
+      "missedAt": 1787125942427,
+      "missedDelay": null,
+      "lastUpdated": 1787125942427,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Paisley Emboss Velvet Blouse (Size L) - Black",
+      "auctionCode": "0019829111",
+      "source": "gha",
+      "productUrl": "/products/la-marey-paisley-emboss-velvet-blouse",
+      "productUrlChecked": 1787125948903,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8134059": {
+      "sku": "8134059",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "08:52:22",
+      "preExisting": true,
+      "missedAt": 1787125942427,
+      "missedDelay": null,
+      "lastUpdated": 1787125942427,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Paisley Emboss Velvet Blouse (Size S) - Black",
+      "auctionCode": "0019829113",
+      "source": "gha",
+      "productUrl": "/products/la-marey-paisley-emboss-velvet-blouse",
+      "productUrlChecked": 1787125949021,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8134060": {
+      "sku": "8134060",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "08:52:22",
+      "preExisting": true,
+      "missedAt": 1787125942427,
+      "missedDelay": null,
+      "lastUpdated": 1787125942427,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Paisley Emboss Velvet Blouse (Size XL) - Black",
+      "auctionCode": "0019829115",
+      "source": "gha",
+      "productUrl": "/products/la-marey-paisley-emboss-velvet-blouse",
+      "productUrlChecked": 1787125949156,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787125942427,
     "gaps": [
       {
         "start": 1785823527869,
@@ -191925,8 +191992,8 @@
     "lastOnAirSku": "8228028",
     "lastOnAirTitle": "LA Marey Knit Hoodie",
     "lastOnAirAuctionCode": "0019828085",
-    "precedingSku": "8224280",
-    "precedingTitle": "La Marey Leopard Blouse",
-    "precedingAuctionCode": "0019828075"
+    "precedingSku": "8228028",
+    "precedingTitle": "LA Marey Knit Hoodie",
+    "precedingAuctionCode": "0019828085"
   }
 }
