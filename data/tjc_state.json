@@ -18857,19 +18857,19 @@
       "sku": "8512166",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-09",
-      "time": "18:48:22",
+      "date": "2026-08-19",
+      "time": "05:33:22",
       "preExisting": true,
       "missedAt": 1785174982258,
       "missedDelay": null,
-      "lastUpdated": 1786297702858,
+      "lastUpdated": 1787114002310,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "Royal Bali Collection - D'Joy Tulang Naga Sterling Silver Necklace (Size - 24) with Lobster Clasp",
-      "auctionCode": "0019812963",
+      "auctionCode": "0019830198",
       "source": "gha",
-      "lastAir": 1786297702858,
-      "pdpPrice": "99.99",
+      "lastAir": 1787114002310,
+      "pdpPrice": "2299.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -187637,8 +187637,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787113945703,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -190718,11 +190718,22 @@
         "followingSku": "8599329",
         "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tulangnaga Necklace (Size - 30) with Lobster Clasp",
         "followingAuctionCode": "0019827795"
+      },
+      {
+        "start": 1787113945703,
+        "end": 1787114002310,
+        "durationMin": 0.9,
+        "precedingSku": "8599329",
+        "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tulangnaga Necklace (Size - 30) with Lobster Clasp",
+        "precedingAuctionCode": "0019827795",
+        "followingSku": "8512166",
+        "followingTitle": "Royal Bali Collection - D'Joy Tulang Naga Sterling Silver Necklace (Size - 24) with Lobster Clasp",
+        "followingAuctionCode": "0019830198"
       }
     ],
-    "lastOnAirSku": "8599329",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Tulangnaga Necklace (Size - 30) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019827795",
+    "lastOnAirSku": "8512166",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Tulang Naga Sterling Silver Necklace (Size - 24) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019830198",
     "precedingSku": "8599329",
     "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tulangnaga Necklace (Size - 30) with Lobster Clasp",
     "precedingAuctionCode": "0019827795"
