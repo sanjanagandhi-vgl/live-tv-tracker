@@ -189163,9 +189163,16 @@
       "img": true,
       "date": "2026-08-19",
       "time": "09:14:22",
-      "productUrl": null,
-      "lastUpdated": 1787127262983,
-      "source": "gha"
+      "productUrl": "/products/la-marey-leaf-pattern-frill-jersey-blouse",
+      "lastUpdated": 1787127930345,
+      "source": "gha",
+      "missedAt": 1787127930345,
+      "missedDelay": 11,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787127934462,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8477127": {
       "sku": "8477127",
@@ -189378,11 +189385,51 @@
       "productUrl": null,
       "lastUpdated": 1787127862390,
       "source": "gha"
+    },
+    "8240241": {
+      "sku": "8240241",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "09:25:30",
+      "preExisting": true,
+      "missedAt": 1787127930345,
+      "missedDelay": null,
+      "lastUpdated": 1787127930345,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Leaf Pattern Frill Jersey Blouse (Size L, 16 to 18) - Navy",
+      "auctionCode": "0019829014",
+      "source": "gha",
+      "productUrl": "/products/la-marey-leaf-pattern-frill-jersey-blouse",
+      "productUrlChecked": 1787127934634,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8240266": {
+      "sku": "8240266",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "09:25:30",
+      "preExisting": true,
+      "missedAt": 1787127930345,
+      "missedDelay": null,
+      "lastUpdated": 1787127930345,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Leaf Pattern Frill Jersey Blouse (Size XL, 20 to 22) - Navy",
+      "auctionCode": "0019829015",
+      "source": "gha",
+      "productUrl": "/products/la-marey-leaf-pattern-frill-jersey-blouse",
+      "productUrlChecked": 1787127934799,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787127930345,
     "gaps": [
       {
         "start": 1785823527869,
@@ -192665,8 +192712,8 @@
     "lastOnAirSku": "8247816",
     "lastOnAirTitle": "La Marey Signature Wrap Coat (Size XL) - Camel",
     "lastOnAirAuctionCode": "0019828142",
-    "precedingSku": "8247806",
-    "precedingTitle": "La Marey Signature Military Tailored Midi Coat",
-    "precedingAuctionCode": "0019828137"
+    "precedingSku": "8247816",
+    "precedingTitle": "La Marey Signature Wrap Coat (Size XL) - Camel",
+    "precedingAuctionCode": "0019828142"
   }
 }
