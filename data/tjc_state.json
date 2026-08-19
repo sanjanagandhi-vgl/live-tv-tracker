@@ -190641,11 +190641,29 @@
       "productUrlChecked": 1787140245733,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8520643": {
+      "sku": "8520643",
+      "firstAir": 1787140399497,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787140399497,
+      "title": "Emma Diamante Trim Ladies Wedge Sandals (Size 8) - Blue",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019829152",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "12:53:19",
+      "productUrl": null,
+      "lastUpdated": 1787140399497,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787140343536,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -194044,11 +194062,22 @@
         "followingSku": "7930470",
         "followingTitle": "Ladies MONTREAL Lace-up Military Style Boots",
         "followingAuctionCode": "0019829240"
+      },
+      {
+        "start": 1787140343536,
+        "end": 1787140399497,
+        "durationMin": 0.9,
+        "precedingSku": "8017998",
+        "precedingTitle": "Emma Ladies LUISA Ankle Boots",
+        "precedingAuctionCode": "0019829239",
+        "followingSku": "8520643",
+        "followingTitle": "Emma Diamante Trim Ladies Wedge Sandals (Size 8) - Blue",
+        "followingAuctionCode": "0019829152"
       }
     ],
-    "lastOnAirSku": "8017998",
-    "lastOnAirTitle": "Emma Ladies LUISA Ankle Boots",
-    "lastOnAirAuctionCode": "0019829239",
+    "lastOnAirSku": "8520643",
+    "lastOnAirTitle": "Emma Diamante Trim Ladies Wedge Sandals (Size 8) - Blue",
+    "lastOnAirAuctionCode": "0019829152",
     "precedingSku": "8017998",
     "precedingTitle": "Emma Ladies LUISA Ankle Boots",
     "precedingAuctionCode": "0019829239"
