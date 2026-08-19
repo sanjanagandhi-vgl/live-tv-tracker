@@ -187937,11 +187937,29 @@
       "productUrl": null,
       "lastUpdated": 1787123598187,
       "source": "gha"
+    },
+    "7993496": {
+      "sku": "7993496",
+      "firstAir": 1787123735618,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787123735618,
+      "title": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019827942",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "08:15:35",
+      "productUrl": null,
+      "lastUpdated": 1787123735618,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787123660972,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -191087,11 +191105,22 @@
         "followingSku": "7993500",
         "followingTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
         "followingAuctionCode": "0019827945"
+      },
+      {
+        "start": 1787123660972,
+        "end": 1787123735618,
+        "durationMin": 1.2,
+        "precedingSku": "7993500",
+        "precedingTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
+        "precedingAuctionCode": "0019827945",
+        "followingSku": "7993496",
+        "followingTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
+        "followingAuctionCode": "0019827942"
       }
     ],
-    "lastOnAirSku": "7993500",
+    "lastOnAirSku": "7993496",
     "lastOnAirTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
-    "lastOnAirAuctionCode": "0019827945",
+    "lastOnAirAuctionCode": "0019827942",
     "precedingSku": "7993500",
     "precedingTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
     "precedingAuctionCode": "0019827945"
