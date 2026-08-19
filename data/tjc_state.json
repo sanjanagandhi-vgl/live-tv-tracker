@@ -161199,21 +161199,26 @@
       "sku": "7676726",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "03:20:39",
+      "date": "2026-08-19",
+      "time": "06:08:23",
       "preExisting": true,
       "missedAt": 1786760439946,
       "missedDelay": null,
-      "lastUpdated": 1786760439946,
+      "lastUpdated": 1787116103688,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Douvalls Argan Colour Stick Balm - Enchanted Spice - Nude-Brown",
-      "auctionCode": "0019821636",
+      "title": "Douvalls Argan Color Stick Balm -Enchanted Spice - Nude-Brown",
+      "auctionCode": "0019828887",
       "source": "gha",
       "productUrl": "/products/douvalls-argan-color-stick-balm-enchanted-spice-nude-brown",
       "productUrlChecked": 1786760452927,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787116103688,
+      "pdpPrice": "25.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7676729": {
       "sku": "7676729",
@@ -187655,8 +187660,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787116040472,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -190758,11 +190763,22 @@
         "followingSku": "8514122",
         "followingTitle": "Royal Bali Collection- Kechak Dance Inspired - D'Joy Hessonite Garnet Ethnic Motif Ring in Sterling Silver, 1.50 Ct",
         "followingAuctionCode": "0019827801"
+      },
+      {
+        "start": 1787116040472,
+        "end": 1787116103688,
+        "durationMin": 1.1,
+        "precedingSku": "8514122",
+        "precedingTitle": "Royal Bali Collection- Kechak Dance Inspired - D'Joy Hessonite Garnet Ethnic Motif Ring in Sterling Silver, 1.50 Ct",
+        "precedingAuctionCode": "0019827801",
+        "followingSku": "7676726",
+        "followingTitle": "Douvalls Argan Color Stick Balm -Enchanted Spice - Nude-Brown",
+        "followingAuctionCode": "0019828887"
       }
     ],
-    "lastOnAirSku": "8514122",
-    "lastOnAirTitle": "Royal Bali Collection- Kechak Dance Inspired - D'Joy Hessonite Garnet Ethnic Motif Ring in Sterling Silver, 1.50 Ct",
-    "lastOnAirAuctionCode": "0019827801",
+    "lastOnAirSku": "7676726",
+    "lastOnAirTitle": "Douvalls Argan Color Stick Balm -Enchanted Spice - Nude-Brown",
+    "lastOnAirAuctionCode": "0019828887",
     "precedingSku": "8514122",
     "precedingTitle": "Royal Bali Collection- Kechak Dance Inspired - D'Joy Hessonite Garnet Ethnic Motif Ring in Sterling Silver, 1.50 Ct",
     "precedingAuctionCode": "0019827801"
