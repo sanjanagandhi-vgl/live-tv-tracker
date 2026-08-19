@@ -189050,9 +189050,16 @@
       "img": true,
       "date": "2026-08-19",
       "time": "09:09:21",
-      "productUrl": null,
-      "lastUpdated": 1787126961705,
-      "source": "gha"
+      "productUrl": "/products/la-marey-lightweight-crew-neck-jumper-size-s-8-10-sky-blue-8477125",
+      "lastUpdated": 1787127563067,
+      "source": "gha",
+      "missedAt": 1787127563067,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1787127564549,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8231936": {
       "sku": "8231936",
@@ -189243,11 +189250,71 @@
       "productUrl": null,
       "lastUpdated": 1787127504227,
       "source": "gha"
+    },
+    "8477135": {
+      "sku": "8477135",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "09:19:23",
+      "preExisting": true,
+      "missedAt": 1787127563067,
+      "missedDelay": null,
+      "lastUpdated": 1787127563067,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Lightweight Crew Neck Jumper (Size M, 12-14) - Red",
+      "auctionCode": "0019830232",
+      "source": "gha",
+      "productUrl": "/products/la-marey-lightweight-crew-neck-jumper-size-s-8-10-sky-blue-8477125",
+      "productUrlChecked": 1787127564667,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8477136": {
+      "sku": "8477136",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "09:19:23",
+      "preExisting": true,
+      "missedAt": 1787127563067,
+      "missedDelay": null,
+      "lastUpdated": 1787127563067,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Lightweight Crew Neck Jumper (Size L, 16-18) - Red",
+      "auctionCode": "0019830233",
+      "source": "gha",
+      "productUrl": "/products/la-marey-lightweight-crew-neck-jumper-size-s-8-10-sky-blue-8477125",
+      "productUrlChecked": 1787127564783,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8477137": {
+      "sku": "8477137",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-19",
+      "time": "09:19:23",
+      "preExisting": true,
+      "missedAt": 1787127563067,
+      "missedDelay": null,
+      "lastUpdated": 1787127563067,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Lightweight Crew Neck Jumper (Size XL, 20-22) - Red",
+      "auctionCode": "0019830234",
+      "source": "gha",
+      "productUrl": "/products/la-marey-lightweight-crew-neck-jumper-size-s-8-10-sky-blue-8477125",
+      "productUrlChecked": 1787127564895,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787127563067,
     "gaps": [
       {
         "start": 1785823527869,
@@ -192508,8 +192575,8 @@
     "lastOnAirSku": "8242186",
     "lastOnAirTitle": "La Marey Leopard Blouse",
     "lastOnAirAuctionCode": "0019828124",
-    "precedingSku": "8240270",
-    "precedingTitle": "La Marey Leaf Pattern Frill Jersey Blouse",
-    "precedingAuctionCode": "0019828121"
+    "precedingSku": "8242186",
+    "precedingTitle": "La Marey Leopard Blouse",
+    "precedingAuctionCode": "0019828124"
   }
 }
