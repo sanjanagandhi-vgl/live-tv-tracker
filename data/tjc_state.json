@@ -90698,7 +90698,7 @@
       "firstAir": 1786080142476,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787136142031,
+      "lastAir": 1787138306126,
       "title": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
       "pdpPrice": 14.99,
       "auctionCode": "0019828996",
@@ -90706,9 +90706,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-19",
-      "time": "11:42:22",
+      "time": "12:18:26",
       "productUrl": "/products/douvalls-tinted-eyebrow-growth-serum?variant=53107704103178",
-      "lastUpdated": 1787136142031,
+      "lastUpdated": 1787138306126,
       "source": "gha",
       "missedAt": 1786081103370,
       "missedDelay": 10,
@@ -190576,8 +190576,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787138240021,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -193954,11 +193954,22 @@
         "followingSku": "8575475",
         "followingTitle": "MEGA BAG CLEARANCE OFFER- 100% Genuine Leather Holdall Travel Duffel Bag - Navy",
         "followingAuctionCode": "0019830251"
+      },
+      {
+        "start": 1787138240021,
+        "end": 1787138306126,
+        "durationMin": 1.1,
+        "precedingSku": "8575475",
+        "precedingTitle": "MEGA BAG CLEARANCE OFFER- 100% Genuine Leather Holdall Travel Duffel Bag - Navy",
+        "precedingAuctionCode": "0019830251",
+        "followingSku": "8305903",
+        "followingTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
+        "followingAuctionCode": "0019828996"
       }
     ],
-    "lastOnAirSku": "8575475",
-    "lastOnAirTitle": "MEGA BAG CLEARANCE OFFER- 100% Genuine Leather Holdall Travel Duffel Bag - Navy",
-    "lastOnAirAuctionCode": "0019830251",
+    "lastOnAirSku": "8305903",
+    "lastOnAirTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
+    "lastOnAirAuctionCode": "0019828996",
     "precedingSku": "8575475",
     "precedingTitle": "MEGA BAG CLEARANCE OFFER- 100% Genuine Leather Holdall Travel Duffel Bag - Navy",
     "precedingAuctionCode": "0019830251"
