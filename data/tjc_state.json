@@ -6690,16 +6690,16 @@
       "firstAir": 1784931502226,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786847361753,
+      "lastAir": 1787180782963,
       "title": "Vicenza Find - Italian Made 9K Yellow Gold Serafina Necklace (Size - 20), Gold Wt.8.82 Gms",
-      "pdpPrice": "999.99",
-      "auctionCode": "0019823933",
+      "pdpPrice": "1799.99",
+      "auctionCode": "0019831811",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-16",
-      "time": "03:29:21",
-      "lastUpdated": 1786847361753,
+      "date": "2026-08-20",
+      "time": "00:06:22",
+      "lastUpdated": 1787180782963,
       "source": "gha",
       "missedAt": 1784931981149,
       "missedDelay": 1,
@@ -192941,8 +192941,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787180661926,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196440,11 +196440,22 @@
         "followingSku": "8416655",
         "followingTitle": "9K Yellow Gold Flat Curb Necklace (Size - 22) with Lobster Clasp, Gold Wt. 10.6 Gms.",
         "followingAuctionCode": "0019830890"
+      },
+      {
+        "start": 1787180661926,
+        "end": 1787180782963,
+        "durationMin": 2.0,
+        "precedingSku": "8579249",
+        "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
+        "precedingAuctionCode": "0019831975",
+        "followingSku": "8571438",
+        "followingTitle": "Vicenza Find - Italian Made 9K Yellow Gold Serafina Necklace (Size - 20), Gold Wt.8.82 Gms",
+        "followingAuctionCode": "0019831811"
       }
     ],
-    "lastOnAirSku": "8579249",
-    "lastOnAirTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
-    "lastOnAirAuctionCode": "0019831975",
+    "lastOnAirSku": "8571438",
+    "lastOnAirTitle": "Vicenza Find - Italian Made 9K Yellow Gold Serafina Necklace (Size - 20), Gold Wt.8.82 Gms",
+    "lastOnAirAuctionCode": "0019831811",
     "precedingSku": "8579249",
     "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
     "precedingAuctionCode": "0019831975"
