@@ -189207,11 +189207,29 @@
       "productUrlChecked": 1787127346675,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8240270": {
+      "sku": "8240270",
+      "firstAir": 1787127384442,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787127384442,
+      "title": "La Marey Leaf Pattern Frill Jersey Blouse",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019828121",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "09:16:24",
+      "productUrl": null,
+      "lastUpdated": 1787127384442,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787127339160,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -192445,11 +192463,22 @@
         "followingSku": "8477125",
         "followingTitle": "La Marey Lightweight Crew Neck Jumper (Size S, 8-10) - Sky Blue",
         "followingAuctionCode": "0019829565"
+      },
+      {
+        "start": 1787127339160,
+        "end": 1787127384442,
+        "durationMin": 0.8,
+        "precedingSku": "8240240",
+        "precedingTitle": "La Marey Leaf Pattern Frill Jersey Blouse",
+        "precedingAuctionCode": "0019828118",
+        "followingSku": "8240270",
+        "followingTitle": "La Marey Leaf Pattern Frill Jersey Blouse",
+        "followingAuctionCode": "0019828121"
       }
     ],
-    "lastOnAirSku": "8240240",
+    "lastOnAirSku": "8240270",
     "lastOnAirTitle": "La Marey Leaf Pattern Frill Jersey Blouse",
-    "lastOnAirAuctionCode": "0019828118",
+    "lastOnAirAuctionCode": "0019828121",
     "precedingSku": "8240240",
     "precedingTitle": "La Marey Leaf Pattern Frill Jersey Blouse",
     "precedingAuctionCode": "0019828118"
