@@ -189310,11 +189310,29 @@
       "productUrlChecked": 1787127564895,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8242199": {
+      "sku": "8242199",
+      "firstAir": 1787127641206,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787127641206,
+      "title": "La Marey Leopard Blouse",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019828127",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "09:20:41",
+      "productUrl": null,
+      "lastUpdated": 1787127641206,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787127563067,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -192570,11 +192588,22 @@
         "followingSku": "8242186",
         "followingTitle": "La Marey Leopard Blouse",
         "followingAuctionCode": "0019828124"
+      },
+      {
+        "start": 1787127563067,
+        "end": 1787127641206,
+        "durationMin": 1.3,
+        "precedingSku": "8242186",
+        "precedingTitle": "La Marey Leopard Blouse",
+        "precedingAuctionCode": "0019828124",
+        "followingSku": "8242199",
+        "followingTitle": "La Marey Leopard Blouse",
+        "followingAuctionCode": "0019828127"
       }
     ],
-    "lastOnAirSku": "8242186",
+    "lastOnAirSku": "8242199",
     "lastOnAirTitle": "La Marey Leopard Blouse",
-    "lastOnAirAuctionCode": "0019828124",
+    "lastOnAirAuctionCode": "0019828127",
     "precedingSku": "8242186",
     "precedingTitle": "La Marey Leopard Blouse",
     "precedingAuctionCode": "0019828124"
