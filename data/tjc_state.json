@@ -165701,17 +165701,17 @@
       "firstAir": 1786857336612,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786857560619,
+      "lastAir": 1787130559613,
       "title": "BODY SOFT SCRUBBER",
       "pdpPrice": "5.99",
-      "auctionCode": "0019823842",
+      "auctionCode": "0019828954",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-16",
-      "time": "06:19:20",
+      "date": "2026-08-19",
+      "time": "10:09:19",
       "productUrl": "/products/body-soft-scrubber",
-      "lastUpdated": 1786858252459,
+      "lastUpdated": 1787130559613,
       "source": "gha",
       "missedAt": 1786858252459,
       "missedDelay": 12,
@@ -190349,8 +190349,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787130513834,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -193650,11 +193650,22 @@
         "followingSku": "8247827",
         "followingTitle": "La Marey Signature Wrap Coat (Size XL) - Camel",
         "followingAuctionCode": "0019828149"
+      },
+      {
+        "start": 1787130513834,
+        "end": 1787130559613,
+        "durationMin": 0.8,
+        "precedingSku": "6305379",
+        "precedingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
+        "precedingAuctionCode": "0019828960",
+        "followingSku": "8204124",
+        "followingTitle": "BODY SOFT SCRUBBER",
+        "followingAuctionCode": "0019828954"
       }
     ],
-    "lastOnAirSku": "6305379",
-    "lastOnAirTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
-    "lastOnAirAuctionCode": "0019828960",
+    "lastOnAirSku": "8204124",
+    "lastOnAirTitle": "BODY SOFT SCRUBBER",
+    "lastOnAirAuctionCode": "0019828954",
     "precedingSku": "6305379",
     "precedingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
     "precedingAuctionCode": "0019828960"
