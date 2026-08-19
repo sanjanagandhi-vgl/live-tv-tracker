@@ -187530,11 +187530,29 @@
       "productUrl": null,
       "lastUpdated": 1787110880143,
       "source": "gha"
+    },
+    "4413700": {
+      "sku": "4413700",
+      "firstAir": 1787110998564,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787110998564,
+      "title": "Royal Bali Collection - AAA Golden South Sea Pearl ( 8-9MM) & White Zircon Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019827815",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "04:43:18",
+      "productUrl": null,
+      "lastUpdated": 1787110998564,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787110944435,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -190537,11 +190555,22 @@
         "followingSku": "8484497",
         "followingTitle": "D'Joy 22K Vermeil Yellow Gold Plated Sterling Silver Byzantine Bracelet (Size - 8) with Clasp",
         "followingAuctionCode": "0019827818"
+      },
+      {
+        "start": 1787110944435,
+        "end": 1787110998564,
+        "durationMin": 0.9,
+        "precedingSku": "8513257",
+        "precedingTitle": "Royal Bali Collection - D'Joy Abalone Shell Sterling Silver Pendant 2.00 Ct.",
+        "precedingAuctionCode": "0019827793",
+        "followingSku": "4413700",
+        "followingTitle": "Royal Bali Collection - AAA Golden South Sea Pearl ( 8-9MM) & White Zircon Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019827815"
       }
     ],
-    "lastOnAirSku": "8513257",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Abalone Shell Sterling Silver Pendant 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019827793",
+    "lastOnAirSku": "4413700",
+    "lastOnAirTitle": "Royal Bali Collection - AAA Golden South Sea Pearl ( 8-9MM) & White Zircon Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019827815",
     "precedingSku": "8513257",
     "precedingTitle": "Royal Bali Collection - D'Joy Abalone Shell Sterling Silver Pendant 2.00 Ct.",
     "precedingAuctionCode": "0019827793"
