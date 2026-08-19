@@ -188963,11 +188963,29 @@
       "productUrl": null,
       "lastUpdated": 1787126462919,
       "source": "gha"
+    },
+    "8477125": {
+      "sku": "8477125",
+      "firstAir": 1787126542791,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787126542791,
+      "title": "La Marey Lightweight Crew Neck Jumper (Size S, 8-10) - Sky Blue",
+      "pdpPrice": "34.99",
+      "auctionCode": "0019829565",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "09:02:22",
+      "productUrl": null,
+      "lastUpdated": 1787126542791,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787126481851,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -192190,11 +192208,22 @@
         "followingSku": "8233469",
         "followingTitle": "La Marey Signature Cashmere Blend Thermal Top & Legging Set",
         "followingAuctionCode": "0019828104"
+      },
+      {
+        "start": 1787126481851,
+        "end": 1787126542791,
+        "durationMin": 1.0,
+        "precedingSku": "8233469",
+        "precedingTitle": "La Marey Signature Cashmere Blend Thermal Top & Legging Set",
+        "precedingAuctionCode": "0019828104",
+        "followingSku": "8477125",
+        "followingTitle": "La Marey Lightweight Crew Neck Jumper (Size S, 8-10) - Sky Blue",
+        "followingAuctionCode": "0019829565"
       }
     ],
-    "lastOnAirSku": "8233469",
-    "lastOnAirTitle": "La Marey Signature Cashmere Blend Thermal Top & Legging Set",
-    "lastOnAirAuctionCode": "0019828104",
+    "lastOnAirSku": "8477125",
+    "lastOnAirTitle": "La Marey Lightweight Crew Neck Jumper (Size S, 8-10) - Sky Blue",
+    "lastOnAirAuctionCode": "0019829565",
     "precedingSku": "8233469",
     "precedingTitle": "La Marey Signature Cashmere Blend Thermal Top & Legging Set",
     "precedingAuctionCode": "0019828104"
