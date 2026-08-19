@@ -188945,11 +188945,29 @@
       "productUrl": null,
       "lastUpdated": 1787126301855,
       "source": "gha"
+    },
+    "8233469": {
+      "sku": "8233469",
+      "firstAir": 1787126394196,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787126394196,
+      "title": "La Marey Signature Cashmere Blend Thermal Top & Legging Set",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019828104",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "08:59:54",
+      "productUrl": null,
+      "lastUpdated": 1787126394196,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787126358676,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -192161,11 +192179,22 @@
         "followingSku": "8231937",
         "followingTitle": "La Marey Patterned Shawl",
         "followingAuctionCode": "0019828099"
+      },
+      {
+        "start": 1787126358676,
+        "end": 1787126394196,
+        "durationMin": 0.6,
+        "precedingSku": "8231937",
+        "precedingTitle": "La Marey Patterned Shawl",
+        "precedingAuctionCode": "0019828099",
+        "followingSku": "8233469",
+        "followingTitle": "La Marey Signature Cashmere Blend Thermal Top & Legging Set",
+        "followingAuctionCode": "0019828104"
       }
     ],
-    "lastOnAirSku": "8231937",
-    "lastOnAirTitle": "La Marey Patterned Shawl",
-    "lastOnAirAuctionCode": "0019828099",
+    "lastOnAirSku": "8233469",
+    "lastOnAirTitle": "La Marey Signature Cashmere Blend Thermal Top & Legging Set",
+    "lastOnAirAuctionCode": "0019828104",
     "precedingSku": "8231937",
     "precedingTitle": "La Marey Patterned Shawl",
     "precedingAuctionCode": "0019828099"
