@@ -14250,21 +14250,22 @@
       "firstAir": 1785086186585,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785086235814,
+      "lastAir": 1787173399956,
       "title": "9K Gold Prince Of Wales Necklace - 18 inch",
-      "pdpPrice": 39.99,
-      "auctionCode": "0019795030",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "39.99",
+      "auctionCode": "0019830657",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "18:17:15",
-      "lastUpdated": 1785086302126,
+      "date": "2026-08-19",
+      "time": "22:03:19",
+      "lastUpdated": 1787173399956,
       "source": "gha",
       "missedAt": 1785086302126,
       "missedDelay": 1,
       "missedPrice": 39.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8550383": {
       "sku": "8550383",
@@ -192856,8 +192857,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787173359039,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196300,11 +196301,22 @@
         "followingSku": "8579249",
         "followingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
         "followingAuctionCode": "0019831975"
+      },
+      {
+        "start": 1787173359039,
+        "end": 1787173399956,
+        "durationMin": 0.7,
+        "precedingSku": "8579249",
+        "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
+        "precedingAuctionCode": "0019831975",
+        "followingSku": "7766866",
+        "followingTitle": "9K Gold Prince Of Wales Necklace - 18 inch",
+        "followingAuctionCode": "0019830657"
       }
     ],
-    "lastOnAirSku": "8579249",
-    "lastOnAirTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
-    "lastOnAirAuctionCode": "0019831975",
+    "lastOnAirSku": "7766866",
+    "lastOnAirTitle": "9K Gold Prince Of Wales Necklace - 18 inch",
+    "lastOnAirAuctionCode": "0019830657",
     "precedingSku": "8579249",
     "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
     "precedingAuctionCode": "0019831975"
