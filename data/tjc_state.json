@@ -90698,7 +90698,7 @@
       "firstAir": 1786080142476,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787138306126,
+      "lastAir": 1787141240368,
       "title": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
       "pdpPrice": 14.99,
       "auctionCode": "0019828996",
@@ -90706,9 +90706,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-19",
-      "time": "12:18:26",
+      "time": "13:07:20",
       "productUrl": "/products/douvalls-tinted-eyebrow-growth-serum?variant=53107704103178",
-      "lastUpdated": 1787138306126,
+      "lastUpdated": 1787141240368,
       "source": "gha",
       "missedAt": 1786081103370,
       "missedDelay": 10,
@@ -190817,8 +190817,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787141183147,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -194228,11 +194228,22 @@
         "followingSku": "8520643",
         "followingTitle": "Emma Diamante Trim Ladies Wedge Sandals (Size 8) - Blue",
         "followingAuctionCode": "0019829152"
+      },
+      {
+        "start": 1787141183147,
+        "end": 1787141240368,
+        "durationMin": 1.0,
+        "precedingSku": "8445217",
+        "precedingTitle": "Designer Inspired - Convertible Clutch & Baguette Shoulder Bag with Chain Strap - Pine Green",
+        "precedingAuctionCode": "0019829586",
+        "followingSku": "8305903",
+        "followingTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
+        "followingAuctionCode": "0019828996"
       }
     ],
-    "lastOnAirSku": "8445217",
-    "lastOnAirTitle": "Designer Inspired - Convertible Clutch & Baguette Shoulder Bag with Chain Strap - Pine Green",
-    "lastOnAirAuctionCode": "0019829586",
+    "lastOnAirSku": "8305903",
+    "lastOnAirTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
+    "lastOnAirAuctionCode": "0019828996",
     "precedingSku": "8445217",
     "precedingTitle": "Designer Inspired - Convertible Clutch & Baguette Shoulder Bag with Chain Strap - Pine Green",
     "precedingAuctionCode": "0019829586"
