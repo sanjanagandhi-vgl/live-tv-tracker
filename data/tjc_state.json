@@ -187919,11 +187919,29 @@
       "productUrl": null,
       "lastUpdated": 1787123478634,
       "source": "gha"
+    },
+    "7993500": {
+      "sku": "7993500",
+      "firstAir": 1787123598187,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787123598187,
+      "title": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019827945",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-19",
+      "time": "08:13:18",
+      "productUrl": null,
+      "lastUpdated": 1787123598187,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787123542200,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -191058,11 +191076,22 @@
         "followingSku": "2984483",
         "followingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
         "followingAuctionCode": "0019829030"
+      },
+      {
+        "start": 1787123542200,
+        "end": 1787123598187,
+        "durationMin": 0.9,
+        "precedingSku": "7993472",
+        "precedingTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
+        "precedingAuctionCode": "0019827937",
+        "followingSku": "7993500",
+        "followingTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
+        "followingAuctionCode": "0019827945"
       }
     ],
-    "lastOnAirSku": "7993472",
+    "lastOnAirSku": "7993500",
     "lastOnAirTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
-    "lastOnAirAuctionCode": "0019827937",
+    "lastOnAirAuctionCode": "0019827945",
     "precedingSku": "7993472",
     "precedingTitle": "Men's Waffle Tshirt with Check Flannel Lounge Pants",
     "precedingAuctionCode": "0019827937"
