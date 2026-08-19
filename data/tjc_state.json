@@ -92133,17 +92133,17 @@
       "firstAir": 1786089144000,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786089198253,
+      "lastAir": 1787125758355,
       "title": "La Marey Sequined Jumper",
-      "pdpPrice": "17.99",
-      "auctionCode": "0019809874",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019828083",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-07",
-      "time": "08:53:18",
+      "date": "2026-08-19",
+      "time": "08:49:18",
       "productUrl": "/products/la-marey-sequined-jumper",
-      "lastUpdated": 1786089799594,
+      "lastUpdated": 1787125758355,
       "source": "gha",
       "missedAt": 1786089799594,
       "missedDelay": 10,
@@ -188729,8 +188729,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787125640957,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -191909,11 +191909,22 @@
         "followingSku": "8123035",
         "followingTitle": "Pure & Natural Drop Shoulder Top With Cowl Neck (Size 16-18) - Beige",
         "followingAuctionCode": "0019828026"
+      },
+      {
+        "start": 1787125640957,
+        "end": 1787125758355,
+        "durationMin": 2.0,
+        "precedingSku": "8224280",
+        "precedingTitle": "La Marey Leopard Blouse",
+        "precedingAuctionCode": "0019828075",
+        "followingSku": "8225737",
+        "followingTitle": "La Marey Sequined Jumper",
+        "followingAuctionCode": "0019828083"
       }
     ],
-    "lastOnAirSku": "8224280",
-    "lastOnAirTitle": "La Marey Leopard Blouse",
-    "lastOnAirAuctionCode": "0019828075",
+    "lastOnAirSku": "8225737",
+    "lastOnAirTitle": "La Marey Sequined Jumper",
+    "lastOnAirAuctionCode": "0019828083",
     "precedingSku": "8224280",
     "precedingTitle": "La Marey Leopard Blouse",
     "precedingAuctionCode": "0019828075"
