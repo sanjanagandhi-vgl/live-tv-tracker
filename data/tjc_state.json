@@ -24451,21 +24451,26 @@
       "sku": "8171770",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-20",
+      "time": "02:06:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1787187982131,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 12 Zodiac Sign Scented Gemstone Candles - Each candle offers approx 10 hours of burn time",
-      "auctionCode": "0019801417",
+      "auctionCode": "0019830473",
       "source": "gha",
       "productUrl": "/products/set-of-12-zodiac-sign-scented-gemstone-candles-each-candle-offers-approx-10-hours-of-burn-time",
       "productUrlChecked": 1785474639356,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787187982131,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8518561": {
       "sku": "8518561",
@@ -193282,8 +193287,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787187861968,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196858,11 +196863,22 @@
         "followingSku": "8055301",
         "followingTitle": "La Bella - Fine Italian Jewellery - Handmade Sterling Silver Bracelet (Size 8) with Lobster Clasp, Silver Wt. 12.60 Gms.",
         "followingAuctionCode": "0019831790"
+      },
+      {
+        "start": 1787187861968,
+        "end": 1787187982131,
+        "durationMin": 2.0,
+        "precedingSku": "8552959",
+        "precedingTitle": "Italian Made Sterling Silver Flat Figaro Necklace (Size - 18) with Lobster Clasp",
+        "precedingAuctionCode": "0019831802",
+        "followingSku": "8171770",
+        "followingTitle": "Set of 12 Zodiac Sign Scented Gemstone Candles - Each candle offers approx 10 hours of burn time",
+        "followingAuctionCode": "0019830473"
       }
     ],
-    "lastOnAirSku": "8552959",
-    "lastOnAirTitle": "Italian Made Sterling Silver Flat Figaro Necklace (Size - 18) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019831802",
+    "lastOnAirSku": "8171770",
+    "lastOnAirTitle": "Set of 12 Zodiac Sign Scented Gemstone Candles - Each candle offers approx 10 hours of burn time",
+    "lastOnAirAuctionCode": "0019830473",
     "precedingSku": "8552959",
     "precedingTitle": "Italian Made Sterling Silver Flat Figaro Necklace (Size - 18) with Lobster Clasp",
     "precedingAuctionCode": "0019831802"
