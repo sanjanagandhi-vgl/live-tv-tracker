@@ -193532,11 +193532,29 @@
       "productUrl": null,
       "lastUpdated": 1787192959728,
       "source": "gha"
+    },
+    "4476887": {
+      "sku": "4476887",
+      "firstAir": 1787196928205,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787196928205,
+      "title": "D'Joy - Tanzanite & White Zircon Twisted Halo Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019830446",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-20",
+      "time": "04:35:28",
+      "productUrl": null,
+      "lastUpdated": 1787196928205,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787196800161,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -197331,11 +197349,22 @@
         "followingSku": "8579249",
         "followingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
         "followingAuctionCode": "0019831975"
+      },
+      {
+        "start": 1787196800161,
+        "end": 1787196928205,
+        "durationMin": 2.1,
+        "precedingSku": "8579249",
+        "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
+        "precedingAuctionCode": "0019831975",
+        "followingSku": "4476887",
+        "followingTitle": "D'Joy - Tanzanite & White Zircon Twisted Halo Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019830446"
       }
     ],
-    "lastOnAirSku": "8579249",
-    "lastOnAirTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
-    "lastOnAirAuctionCode": "0019831975",
+    "lastOnAirSku": "4476887",
+    "lastOnAirTitle": "D'Joy - Tanzanite & White Zircon Twisted Halo Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019830446",
     "precedingSku": "8579249",
     "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
     "precedingAuctionCode": "0019831975"
