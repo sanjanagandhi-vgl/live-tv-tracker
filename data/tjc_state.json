@@ -118209,23 +118209,23 @@
       "sku": "8552918",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "05:03:20",
+      "date": "2026-08-20",
+      "time": "01:31:20",
       "preExisting": true,
       "missedAt": 1786328241072,
       "missedDelay": null,
-      "lastUpdated": 1787025800205,
+      "lastUpdated": 1787185880242,
       "missedPrice": 39.99,
       "missedImg": true,
       "title": "Italian Made - Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
-      "auctionCode": "0019827114",
+      "auctionCode": "0019831791",
       "source": "gha",
       "productUrl": "/products/italian-made-sterling-silver-curb-chain-size-18-with-lobster-clasp",
       "productUrlChecked": 1786328254302,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787025800205,
-      "pdpPrice": "29.99",
+      "lastAir": 1787185880242,
+      "pdpPrice": "209.99",
       "buy": true,
       "login": false,
       "img": true
@@ -193277,8 +193277,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787185855776,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196820,11 +196820,22 @@
         "followingSku": "8415133",
         "followingTitle": "Italian Made- Sterling Silver Diamond Cut Rope Necklace (Size - 24) with Lobster Clasp, Silver Wt. 65.04 Gms",
         "followingAuctionCode": "0019831785"
+      },
+      {
+        "start": 1787185855776,
+        "end": 1787185880242,
+        "durationMin": 0.4,
+        "precedingSku": "7760481",
+        "precedingTitle": "La Bella Fine Italian Jewellery - Sterling Silver Popcorn Necklace (Size - 20) with Lobster Clasp, Silver Wt. 21.70 Gms",
+        "precedingAuctionCode": "0019831789",
+        "followingSku": "8552918",
+        "followingTitle": "Italian Made - Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
+        "followingAuctionCode": "0019831791"
       }
     ],
-    "lastOnAirSku": "7760481",
-    "lastOnAirTitle": "La Bella Fine Italian Jewellery - Sterling Silver Popcorn Necklace (Size - 20) with Lobster Clasp, Silver Wt. 21.70 Gms",
-    "lastOnAirAuctionCode": "0019831789",
+    "lastOnAirSku": "8552918",
+    "lastOnAirTitle": "Italian Made - Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019831791",
     "precedingSku": "7760481",
     "precedingTitle": "La Bella Fine Italian Jewellery - Sterling Silver Popcorn Necklace (Size - 20) with Lobster Clasp, Silver Wt. 21.70 Gms",
     "precedingAuctionCode": "0019831789"
