@@ -19605,7 +19605,7 @@
       "firstAir": 1785268864559,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787195468087,
+      "lastAir": 1787195901790,
       "title": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
       "pdpPrice": 37.99,
       "auctionCode": "0019831975",
@@ -19613,8 +19613,8 @@
       "login": false,
       "img": true,
       "date": "2026-08-20",
-      "time": "04:11:08",
-      "lastUpdated": 1787195468087,
+      "time": "04:18:21",
+      "lastUpdated": 1787195901790,
       "source": "gha",
       "missedAt": 1785321863299,
       "missedDelay": 403,
@@ -193535,8 +193535,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787195780972,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -197276,11 +197276,22 @@
         "followingSku": "8481549",
         "followingTitle": "Close Out Deal - AAA Lab Grown Emerald & SI-GH Lab Grown Diamond 5 Stone Ring in Rhodium Overlay Sterling Silver 1.30 Ct.",
         "followingAuctionCode": "0019832058"
+      },
+      {
+        "start": 1787195780972,
+        "end": 1787195901790,
+        "durationMin": 2.0,
+        "precedingSku": "8481549",
+        "precedingTitle": "Close Out Deal - AAA Lab Grown Emerald & SI-GH Lab Grown Diamond 5 Stone Ring in Rhodium Overlay Sterling Silver 1.30 Ct.",
+        "precedingAuctionCode": "0019832058",
+        "followingSku": "8579249",
+        "followingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
+        "followingAuctionCode": "0019831975"
       }
     ],
-    "lastOnAirSku": "8481549",
-    "lastOnAirTitle": "Close Out Deal - AAA Lab Grown Emerald & SI-GH Lab Grown Diamond 5 Stone Ring in Rhodium Overlay Sterling Silver 1.30 Ct.",
-    "lastOnAirAuctionCode": "0019832058",
+    "lastOnAirSku": "8579249",
+    "lastOnAirTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
+    "lastOnAirAuctionCode": "0019831975",
     "precedingSku": "8481549",
     "precedingTitle": "Close Out Deal - AAA Lab Grown Emerald & SI-GH Lab Grown Diamond 5 Stone Ring in Rhodium Overlay Sterling Silver 1.30 Ct.",
     "precedingAuctionCode": "0019832058"
