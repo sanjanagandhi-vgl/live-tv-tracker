@@ -19605,7 +19605,7 @@
       "firstAir": 1785268864559,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787195182105,
+      "lastAir": 1787195468087,
       "title": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
       "pdpPrice": 37.99,
       "auctionCode": "0019831975",
@@ -19613,8 +19613,8 @@
       "login": false,
       "img": true,
       "date": "2026-08-20",
-      "time": "04:06:22",
-      "lastUpdated": 1787195182105,
+      "time": "04:11:08",
+      "lastUpdated": 1787195468087,
       "source": "gha",
       "missedAt": 1785321863299,
       "missedDelay": 403,
@@ -193535,8 +193535,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787195238428,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -197248,6 +197248,17 @@
         "start": 1787195064478,
         "end": 1787195182105,
         "durationMin": 2.0,
+        "precedingSku": "8579249",
+        "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
+        "precedingAuctionCode": "0019831975",
+        "followingSku": "8579249",
+        "followingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
+        "followingAuctionCode": "0019831975"
+      },
+      {
+        "start": 1787195238428,
+        "end": 1787195468087,
+        "durationMin": 3.8,
         "precedingSku": "8579249",
         "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
         "precedingAuctionCode": "0019831975",
