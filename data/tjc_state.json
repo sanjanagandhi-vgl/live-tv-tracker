@@ -165508,21 +165508,26 @@
       "sku": "8055301",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "01:58:23",
+      "date": "2026-08-20",
+      "time": "01:48:21",
       "preExisting": true,
       "missedAt": 1786841903921,
       "missedDelay": null,
-      "lastUpdated": 1786841903921,
+      "lastUpdated": 1787186901485,
       "missedPrice": 39.99,
       "missedImg": true,
       "title": "La Bella - Fine Italian Jewellery - Handmade Sterling Silver Bracelet (Size 8) with Lobster Clasp, Silver Wt. 12.60 Gms.",
-      "auctionCode": "0019824814",
+      "auctionCode": "0019831790",
       "source": "gha",
       "productUrl": "/products/la-bella-fine-italian-jewellery-handmade-sterling-silver-bracelet-size-8-with-lobster-clasp-silver-wt-12-60-gms",
       "productUrlChecked": 1786841913173,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787186901485,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8165977": {
       "sku": "8165977",
@@ -193277,8 +193282,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787186841434,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196842,11 +196847,22 @@
         "followingSku": "8613563",
         "followingTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
         "followingAuctionCode": "0019831805"
+      },
+      {
+        "start": 1787186841434,
+        "end": 1787186901485,
+        "durationMin": 1.0,
+        "precedingSku": "8613563",
+        "precedingTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
+        "precedingAuctionCode": "0019831805",
+        "followingSku": "8055301",
+        "followingTitle": "La Bella - Fine Italian Jewellery - Handmade Sterling Silver Bracelet (Size 8) with Lobster Clasp, Silver Wt. 12.60 Gms.",
+        "followingAuctionCode": "0019831790"
       }
     ],
-    "lastOnAirSku": "8613563",
-    "lastOnAirTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
-    "lastOnAirAuctionCode": "0019831805",
+    "lastOnAirSku": "8055301",
+    "lastOnAirTitle": "La Bella - Fine Italian Jewellery - Handmade Sterling Silver Bracelet (Size 8) with Lobster Clasp, Silver Wt. 12.60 Gms.",
+    "lastOnAirAuctionCode": "0019831790",
     "precedingSku": "8613563",
     "precedingTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
     "precedingAuctionCode": "0019831805"
