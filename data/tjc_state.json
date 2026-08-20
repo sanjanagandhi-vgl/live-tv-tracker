@@ -8894,21 +8894,22 @@
       "firstAir": 1784978433856,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784978541140,
+      "lastAir": 1787197041111,
       "title": "D'Joy - AAA Tanzanite & White Zircon Oval Halo Drop Earring with Push Post in Yellow Gold Plated Sterling Silver 1.00 Ct.",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019794077",
-      "buy": false,
-      "login": true,
-      "img": true,
-      "date": "2026-07-25",
-      "time": "12:22:21",
-      "lastUpdated": 1784978596259,
+      "pdpPrice": null,
+      "auctionCode": "0019830420",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-20",
+      "time": "04:37:21",
+      "lastUpdated": 1787197041111,
       "source": "gha",
       "missedAt": 1784978596259,
       "missedDelay": 1,
       "missedPrice": 19.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "4478972": {
       "sku": "4478972",
@@ -193553,8 +193554,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787196984182,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -197360,11 +197361,22 @@
         "followingSku": "4476887",
         "followingTitle": "D'Joy - Tanzanite & White Zircon Twisted Halo Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019830446"
+      },
+      {
+        "start": 1787196984182,
+        "end": 1787197041111,
+        "durationMin": 0.9,
+        "precedingSku": "4476887",
+        "precedingTitle": "D'Joy - Tanzanite & White Zircon Twisted Halo Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019830446",
+        "followingSku": "8572710",
+        "followingTitle": null,
+        "followingAuctionCode": "0019830420"
       }
     ],
-    "lastOnAirSku": "4476887",
-    "lastOnAirTitle": "D'Joy - Tanzanite & White Zircon Twisted Halo Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019830446",
+    "lastOnAirSku": "8572710",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019830420",
     "precedingSku": "4476887",
     "precedingTitle": "D'Joy - Tanzanite & White Zircon Twisted Halo Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019830446"
