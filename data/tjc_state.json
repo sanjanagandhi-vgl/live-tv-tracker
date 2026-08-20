@@ -193264,14 +193264,21 @@
       "img": true,
       "date": "2026-08-20",
       "time": "01:19:17",
-      "productUrl": null,
-      "lastUpdated": 1787185157747,
-      "source": "gha"
+      "productUrl": "/products/la-bella-italian-made-sterling-silver-belcher-bracelet-size-7-5-with-lobster-clasp-silver-wt-26-80-gms",
+      "lastUpdated": 1787185855776,
+      "source": "gha",
+      "missedAt": 1787185855776,
+      "missedDelay": 12,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "productUrlChecked": 1787185867497,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787185855776,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196818,8 +196825,8 @@
     "lastOnAirSku": "7760481",
     "lastOnAirTitle": "La Bella Fine Italian Jewellery - Sterling Silver Popcorn Necklace (Size - 20) with Lobster Clasp, Silver Wt. 21.70 Gms",
     "lastOnAirAuctionCode": "0019831789",
-    "precedingSku": "7901127",
-    "precedingTitle": "La Bella Fine Italian Jewellery - Handmade Sterling Silver Rope Figaro Necklace With Lobster Clasp (Size - 22) Silver Wt. 71.35 Gms.",
-    "precedingAuctionCode": "0019831784"
+    "precedingSku": "7760481",
+    "precedingTitle": "La Bella Fine Italian Jewellery - Sterling Silver Popcorn Necklace (Size - 20) with Lobster Clasp, Silver Wt. 21.70 Gms",
+    "precedingAuctionCode": "0019831789"
   }
 }
