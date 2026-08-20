@@ -111127,21 +111127,26 @@
       "sku": "8448463",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-09",
-      "time": "09:28:21",
+      "date": "2026-08-20",
+      "time": "03:31:19",
       "preExisting": true,
       "missedAt": 1786264101966,
       "missedDelay": null,
-      "lastUpdated": 1786264101966,
+      "lastUpdated": 1787193079361,
       "missedPrice": 79.99,
       "missedImg": true,
-      "title": "William Hunt London Limited Edition Automatic Skeleton Watch With 5 ATM Water Resistancy, Exhibition Back and Butterfly Buckle Clasp - 42MM Dial - Gold",
-      "auctionCode": "0019812267",
+      "title": "William Hunt London Limited Edition Automatic Skeleton Watch With 5 ATM Water Resistancy Exhibition Back and Butterfly Buckle Clasp - 42MM Dial - Black",
+      "auctionCode": "0019830604",
       "source": "gha",
       "productUrl": "/products/william-hunt-london-limited-edition-automatic-skeleton-watch-with-5-atm-water-resistancy-exhibition-back-and-butterfly-buckle-clasp-42mm-dial-black-1028448460",
       "productUrlChecked": 1786264116037,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787193079361,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8448579": {
       "sku": "8448579",
@@ -193530,8 +193535,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787193056785,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -197172,11 +197177,22 @@
         "followingSku": "8319741",
         "followingTitle": "GET IT FOR XMAS WILLIAM HUNT Automatic Movement 5 ATM Water Resistant Watch With Skeleton Display, Exhibition Back & Grey Leather Strap Presented in a Gift Box",
         "followingAuctionCode": "0019830617"
+      },
+      {
+        "start": 1787193056785,
+        "end": 1787193079361,
+        "durationMin": 0.4,
+        "precedingSku": "8319741",
+        "precedingTitle": "GET IT FOR XMAS WILLIAM HUNT Automatic Movement 5 ATM Water Resistant Watch With Skeleton Display, Exhibition Back & Grey Leather Strap Presented in a Gift Box",
+        "precedingAuctionCode": "0019830617",
+        "followingSku": "8448463",
+        "followingTitle": "William Hunt London Limited Edition Automatic Skeleton Watch With 5 ATM Water Resistancy Exhibition Back and Butterfly Buckle Clasp - 42MM Dial - Black",
+        "followingAuctionCode": "0019830604"
       }
     ],
-    "lastOnAirSku": "8319741",
-    "lastOnAirTitle": "GET IT FOR XMAS WILLIAM HUNT Automatic Movement 5 ATM Water Resistant Watch With Skeleton Display, Exhibition Back & Grey Leather Strap Presented in a Gift Box",
-    "lastOnAirAuctionCode": "0019830617",
+    "lastOnAirSku": "8448463",
+    "lastOnAirTitle": "William Hunt London Limited Edition Automatic Skeleton Watch With 5 ATM Water Resistancy Exhibition Back and Butterfly Buckle Clasp - 42MM Dial - Black",
+    "lastOnAirAuctionCode": "0019830604",
     "precedingSku": "8319741",
     "precedingTitle": "GET IT FOR XMAS WILLIAM HUNT Automatic Movement 5 ATM Water Resistant Watch With Skeleton Display, Exhibition Back & Grey Leather Strap Presented in a Gift Box",
     "precedingAuctionCode": "0019830617"
