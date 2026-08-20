@@ -19605,7 +19605,7 @@
       "firstAir": 1785268864559,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787194237063,
+      "lastAir": 1787194398139,
       "title": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
       "pdpPrice": 37.99,
       "auctionCode": "0019831975",
@@ -19613,8 +19613,8 @@
       "login": false,
       "img": true,
       "date": "2026-08-20",
-      "time": "03:50:37",
-      "lastUpdated": 1787194237063,
+      "time": "03:53:18",
+      "lastUpdated": 1787194398139,
       "source": "gha",
       "missedAt": 1785321863299,
       "missedDelay": 403,
@@ -193535,8 +193535,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787194280278,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -197196,6 +197196,17 @@
         "precedingSku": "8448463",
         "precedingTitle": "William Hunt London Limited Edition Automatic Skeleton Watch With 5 ATM Water Resistancy Exhibition Back and Butterfly Buckle Clasp - 42MM Dial - Black",
         "precedingAuctionCode": "0019830604",
+        "followingSku": "8579249",
+        "followingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
+        "followingAuctionCode": "0019831975"
+      },
+      {
+        "start": 1787194280278,
+        "end": 1787194398139,
+        "durationMin": 2.0,
+        "precedingSku": "8579249",
+        "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
+        "precedingAuctionCode": "0019831975",
         "followingSku": "8579249",
         "followingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
         "followingAuctionCode": "0019831975"
