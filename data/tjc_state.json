@@ -158722,17 +158722,17 @@
       "firstAir": 1786730062463,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786730182263,
+      "lastAir": 1787190799125,
       "title": "Christmas Ornament (Size 1x1x1 cm) - Grey",
-      "pdpPrice": "4.99",
-      "auctionCode": "0019819862",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019830476",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-14",
-      "time": "18:56:22",
+      "date": "2026-08-20",
+      "time": "02:53:19",
       "productUrl": "/products/christmas-ornament-size-1x1x1-cm-grey",
-      "lastUpdated": 1786730727907,
+      "lastUpdated": 1787190799125,
       "source": "gha",
       "missedAt": 1786730727907,
       "missedDelay": 9,
@@ -193378,8 +193378,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787190743191,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196976,11 +196976,22 @@
         "followingSku": "8377601",
         "followingTitle": "Set of 3 Floral & Crystal Enamelled Faberge-Style Egg Trinket Box (Blue, Red & White) (12x7cm)",
         "followingAuctionCode": "0019830274"
+      },
+      {
+        "start": 1787190743191,
+        "end": 1787190799125,
+        "durationMin": 0.9,
+        "precedingSku": "8416466",
+        "precedingTitle": "Decorative Solar-Powered Landscape Ground Stake Lamp with - Artistic Whimsical Butterflyes - Purple",
+        "precedingAuctionCode": "0019830270",
+        "followingSku": "7552750",
+        "followingTitle": "Christmas Ornament (Size 1x1x1 cm) - Grey",
+        "followingAuctionCode": "0019830476"
       }
     ],
-    "lastOnAirSku": "8416466",
-    "lastOnAirTitle": "Decorative Solar-Powered Landscape Ground Stake Lamp with - Artistic Whimsical Butterflyes - Purple",
-    "lastOnAirAuctionCode": "0019830270",
+    "lastOnAirSku": "7552750",
+    "lastOnAirTitle": "Christmas Ornament (Size 1x1x1 cm) - Grey",
+    "lastOnAirAuctionCode": "0019830476",
     "precedingSku": "8416466",
     "precedingTitle": "Decorative Solar-Powered Landscape Ground Stake Lamp with - Artistic Whimsical Butterflyes - Purple",
     "precedingAuctionCode": "0019830270"
