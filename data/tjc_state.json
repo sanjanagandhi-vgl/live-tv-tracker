@@ -15384,16 +15384,16 @@
       "firstAir": 1785112356652,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787008758922,
+      "lastAir": 1787186545119,
       "title": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
       "pdpPrice": "39.99",
-      "auctionCode": "0019827194",
+      "auctionCode": "0019831805",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-18",
-      "time": "00:19:18",
-      "lastUpdated": 1787008758922,
+      "date": "2026-08-20",
+      "time": "01:42:25",
+      "lastUpdated": 1787186545119,
       "source": "gha",
       "missedAt": 1785112704720,
       "missedDelay": 1,
@@ -193277,8 +193277,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787186477406,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -196831,11 +196831,22 @@
         "followingSku": "8552918",
         "followingTitle": "Italian Made - Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
         "followingAuctionCode": "0019831791"
+      },
+      {
+        "start": 1787186477406,
+        "end": 1787186545119,
+        "durationMin": 1.1,
+        "precedingSku": "8552918",
+        "precedingTitle": "Italian Made - Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
+        "precedingAuctionCode": "0019831791",
+        "followingSku": "8613563",
+        "followingTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
+        "followingAuctionCode": "0019831805"
       }
     ],
-    "lastOnAirSku": "8552918",
-    "lastOnAirTitle": "Italian Made - Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019831791",
+    "lastOnAirSku": "8613563",
+    "lastOnAirTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
+    "lastOnAirAuctionCode": "0019831805",
     "precedingSku": "8552918",
     "precedingTitle": "Italian Made - Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
     "precedingAuctionCode": "0019831791"
