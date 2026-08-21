@@ -208185,11 +208185,29 @@
       "productUrl": null,
       "lastUpdated": 1787332399824,
       "source": "gha"
+    },
+    "7758296": {
+      "sku": "7758296",
+      "firstAir": 1787332538165,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787332538165,
+      "title": "Microwavable and Freezerable Himalayan Belly Wrap",
+      "pdpPrice": "2.99",
+      "auctionCode": "0019833879",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-21",
+      "time": "18:15:38",
+      "productUrl": null,
+      "lastUpdated": 1787332538165,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787332463690,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212061,11 +212079,22 @@
         "followingSku": "8433435",
         "followingTitle": "LIQUIDATION DEAL - Link2Home Outdoor Smart Security Camera - Image Sensor - 1080p HD Video, Weatherproof, 2 Way Audio, Smartphone-Tablet Compatible - Grey-White",
         "followingAuctionCode": "0019833852"
+      },
+      {
+        "start": 1787332463690,
+        "end": 1787332538165,
+        "durationMin": 1.2,
+        "precedingSku": "8433435",
+        "precedingTitle": "LIQUIDATION DEAL - Link2Home Outdoor Smart Security Camera - Image Sensor - 1080p HD Video, Weatherproof, 2 Way Audio, Smartphone-Tablet Compatible - Grey-White",
+        "precedingAuctionCode": "0019833852",
+        "followingSku": "7758296",
+        "followingTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
+        "followingAuctionCode": "0019833879"
       }
     ],
-    "lastOnAirSku": "8433435",
-    "lastOnAirTitle": "LIQUIDATION DEAL - Link2Home Outdoor Smart Security Camera - Image Sensor - 1080p HD Video, Weatherproof, 2 Way Audio, Smartphone-Tablet Compatible - Grey-White",
-    "lastOnAirAuctionCode": "0019833852",
+    "lastOnAirSku": "7758296",
+    "lastOnAirTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
+    "lastOnAirAuctionCode": "0019833879",
     "precedingSku": "8433435",
     "precedingTitle": "LIQUIDATION DEAL - Link2Home Outdoor Smart Security Camera - Image Sensor - 1080p HD Video, Weatherproof, 2 Way Audio, Smartphone-Tablet Compatible - Grey-White",
     "precedingAuctionCode": "0019833852"
