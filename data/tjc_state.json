@@ -208924,11 +208924,29 @@
       "productUrlChecked": 1787344263299,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8501466": {
+      "sku": "8501466",
+      "firstAir": 1787344998297,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787344998297,
+      "title": "Crochet Design Slouchy Tote Bag",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019826250",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-21",
+      "time": "21:43:18",
+      "productUrl": null,
+      "lastUpdated": 1787344998297,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787344880184,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212976,11 +212994,22 @@
         "followingSku": "8519259",
         "followingTitle": "Ecoegg Laundry Egg British Blooms - 70 washes Yellow",
         "followingAuctionCode": "0019833822"
+      },
+      {
+        "start": 1787344880184,
+        "end": 1787344998297,
+        "durationMin": 2.0,
+        "precedingSku": "8519259",
+        "precedingTitle": "Ecoegg Laundry Egg British Blooms - 70 washes Yellow",
+        "precedingAuctionCode": "0019833822",
+        "followingSku": "8501466",
+        "followingTitle": "Crochet Design Slouchy Tote Bag",
+        "followingAuctionCode": "0019826250"
       }
     ],
-    "lastOnAirSku": "8519259",
-    "lastOnAirTitle": "Ecoegg Laundry Egg British Blooms - 70 washes Yellow",
-    "lastOnAirAuctionCode": "0019833822",
+    "lastOnAirSku": "8501466",
+    "lastOnAirTitle": "Crochet Design Slouchy Tote Bag",
+    "lastOnAirAuctionCode": "0019826250",
     "precedingSku": "8519259",
     "precedingTitle": "Ecoegg Laundry Egg British Blooms - 70 washes Yellow",
     "precedingAuctionCode": "0019833822"
