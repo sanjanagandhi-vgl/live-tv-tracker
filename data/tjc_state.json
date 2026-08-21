@@ -29198,21 +29198,26 @@
       "sku": "8302162",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-21",
+      "time": "22:56:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1787349382545,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "GP Trionfo Collection - Natural Chrome Diopside & Blue Sapphire Leopard Design Full Bangle (Size 7.5) in 18K Vermeil Yellow Gold Plated Sterling Silver, Silver Wt. 22.59 Gms.",
-      "auctionCode": "0019800544",
+      "auctionCode": "0019834823",
       "source": "gha",
       "productUrl": "/products/gp-leopardtotem-collection-natural-chrome-diopside-blue-sapphire-full-bangle-size-7-5-in-18k-vermeil-yellow-gold-plated-sterling-silver-silver-wt-22-59-gms",
       "productUrlChecked": 1785475621836,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787349382545,
+      "pdpPrice": "1720.00",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4449776": {
       "sku": "4449776",
@@ -209492,8 +209497,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787349327810,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -213651,11 +213656,22 @@
         "followingSku": "8305537",
         "followingTitle": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
         "followingAuctionCode": "0019834820"
+      },
+      {
+        "start": 1787349327810,
+        "end": 1787349382545,
+        "durationMin": 0.9,
+        "precedingSku": "8305537",
+        "precedingTitle": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
+        "precedingAuctionCode": "0019834820",
+        "followingSku": "8302162",
+        "followingTitle": "GP Trionfo Collection - Natural Chrome Diopside & Blue Sapphire Leopard Design Full Bangle (Size 7.5) in 18K Vermeil Yellow Gold Plated Sterling Silver, Silver Wt. 22.59 Gms.",
+        "followingAuctionCode": "0019834823"
       }
     ],
-    "lastOnAirSku": "8305537",
-    "lastOnAirTitle": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
-    "lastOnAirAuctionCode": "0019834820",
+    "lastOnAirSku": "8302162",
+    "lastOnAirTitle": "GP Trionfo Collection - Natural Chrome Diopside & Blue Sapphire Leopard Design Full Bangle (Size 7.5) in 18K Vermeil Yellow Gold Plated Sterling Silver, Silver Wt. 22.59 Gms.",
+    "lastOnAirAuctionCode": "0019834823",
     "precedingSku": "8305537",
     "precedingTitle": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
     "precedingAuctionCode": "0019834820"
