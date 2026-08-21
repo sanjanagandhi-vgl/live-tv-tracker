@@ -122757,21 +122757,26 @@
       "sku": "8380600",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-10",
-      "time": "19:36:13",
+      "date": "2026-08-22",
+      "time": "00:41:20",
       "preExisting": true,
       "missedAt": 1786386973571,
       "missedDelay": null,
-      "lastUpdated": 1786386973571,
+      "lastUpdated": 1787355680026,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "Multi Color Edison Pearl l (12-13mm) & Green Pixiu Jade Bracelet (Size - 8) in Rhodium Overlay Sterling Silver 86.00 Ct, Silver Wt. 9.40 Gms",
-      "auctionCode": "0019813411",
+      "auctionCode": "0019834353",
       "source": "gha",
       "productUrl": "/products/djoy-multi-color-edison-pearl-green-jade-pixiu-bracelet",
       "productUrlChecked": 1786386987955,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787355680026,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8206877": {
       "sku": "8206877",
@@ -210150,8 +210155,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787355638388,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -214485,11 +214490,22 @@
         "followingSku": "8249960",
         "followingTitle": "D'joy Edison Pearl (10-11 MM), Natural Chrome Diopside & White Zircon Ring in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019834346"
+      },
+      {
+        "start": 1787355638388,
+        "end": 1787355680026,
+        "durationMin": 0.7,
+        "precedingSku": "8616248",
+        "precedingTitle": "D'Joy - Premium White Edison Pearl (12-13mm), Dyed Green Jade & Lab Grown Diamond Ring in Yellow Gold Plated Sterling Silver 43.63 Ct.",
+        "precedingAuctionCode": "0019834364",
+        "followingSku": "8380600",
+        "followingTitle": "Multi Color Edison Pearl l (12-13mm) & Green Pixiu Jade Bracelet (Size - 8) in Rhodium Overlay Sterling Silver 86.00 Ct, Silver Wt. 9.40 Gms",
+        "followingAuctionCode": "0019834353"
       }
     ],
-    "lastOnAirSku": "8616248",
-    "lastOnAirTitle": "D'Joy - Premium White Edison Pearl (12-13mm), Dyed Green Jade & Lab Grown Diamond Ring in Yellow Gold Plated Sterling Silver 43.63 Ct.",
-    "lastOnAirAuctionCode": "0019834364",
+    "lastOnAirSku": "8380600",
+    "lastOnAirTitle": "Multi Color Edison Pearl l (12-13mm) & Green Pixiu Jade Bracelet (Size - 8) in Rhodium Overlay Sterling Silver 86.00 Ct, Silver Wt. 9.40 Gms",
+    "lastOnAirAuctionCode": "0019834353",
     "precedingSku": "8616248",
     "precedingTitle": "D'Joy - Premium White Edison Pearl (12-13mm), Dyed Green Jade & Lab Grown Diamond Ring in Yellow Gold Plated Sterling Silver 43.63 Ct.",
     "precedingAuctionCode": "0019834364"
