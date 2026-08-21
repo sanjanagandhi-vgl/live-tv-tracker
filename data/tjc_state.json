@@ -144360,17 +144360,17 @@
       "firstAir": 1786594839551,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786605741646,
+      "lastAir": 1787349078231,
       "title": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
-      "pdpPrice": 199.99,
-      "auctionCode": "0019817865",
-      "buy": false,
+      "pdpPrice": "1459.99",
+      "auctionCode": "0019834820",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-13",
-      "time": "08:22:21",
+      "date": "2026-08-21",
+      "time": "22:51:18",
       "productUrl": "/products/gp-chilli-pepper-collection-blue-sapphire-necklace?variant=53106272469258",
-      "lastUpdated": 1786605741646,
+      "lastUpdated": 1787349078231,
       "source": "gha",
       "missedAt": 1786595728296,
       "missedDelay": 10,
@@ -209488,8 +209488,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787349039192,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -213636,11 +213636,22 @@
         "followingSku": "8030463",
         "followingTitle": "LUCY Q - Drop Link Collection Full Bangle in 18K Vermeil Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019834761"
+      },
+      {
+        "start": 1787349039192,
+        "end": 1787349078231,
+        "durationMin": 0.7,
+        "precedingSku": "8295523",
+        "precedingTitle": "GP Trionfo Collection - Serra Gaucha Citrine & Multi Gemstones Frog with Crown Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.49 Ct.",
+        "precedingAuctionCode": "0019834811",
+        "followingSku": "8305537",
+        "followingTitle": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
+        "followingAuctionCode": "0019834820"
       }
     ],
-    "lastOnAirSku": "8295523",
-    "lastOnAirTitle": "GP Trionfo Collection - Serra Gaucha Citrine & Multi Gemstones Frog with Crown Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.49 Ct.",
-    "lastOnAirAuctionCode": "0019834811",
+    "lastOnAirSku": "8305537",
+    "lastOnAirTitle": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
+    "lastOnAirAuctionCode": "0019834820",
     "precedingSku": "8295523",
     "precedingTitle": "GP Trionfo Collection - Serra Gaucha Citrine & Multi Gemstones Frog with Crown Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.49 Ct.",
     "precedingAuctionCode": "0019834811"
