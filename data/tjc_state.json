@@ -28953,21 +28953,26 @@
       "sku": "8701079",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-21",
+      "time": "23:20:38",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1787350838995,
       "missedPrice": 89.99,
       "missedImg": true,
       "title": "GP Capri Sealife Collection - Larimar, White Zircon & Blue Sapphire Ring in 18K Vermeil Yellow Gold Plated and Rhodium Overlay Sterling Silver 3.65 Ct.",
-      "auctionCode": "0019793399",
+      "auctionCode": "0019834854",
       "source": "gha",
       "productUrl": "/products/djoy-larimar-white-zircon-blue-sapphire-ring-in-18k-vermeil-yellow-gold-plated-and-rhodium-overlay-sterling-silver-3-65-ct-8701079",
       "productUrlChecked": 1785475592729,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787350838995,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8701083": {
       "sku": "8701083",
@@ -209519,14 +209524,21 @@
       "img": true,
       "date": "2026-08-21",
       "time": "23:11:17",
-      "productUrl": null,
-      "lastUpdated": 1787350277560,
-      "source": "gha"
+      "productUrl": "/products/gp-milano-collection-white-diamond-kanchanaburi-blue-sapphire-push-back-earring-in-18k-vermeil-yellow-gold-plated-sterling-silver",
+      "lastUpdated": 1787350838995,
+      "source": "gha",
+      "missedAt": 1787350838995,
+      "missedDelay": 9,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1787350844508,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787350759182,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -213739,11 +213751,22 @@
         "followingSku": "4509282",
         "followingTitle": "GP Capri Sealife Collection - Larimar & Blue Sapphire Sea Life Pendant in Rhodium Overlay Sterling Silver with Chain (Size 20) 12.60 Ct.",
         "followingAuctionCode": "0019834865"
+      },
+      {
+        "start": 1787350759182,
+        "end": 1787350838995,
+        "durationMin": 1.3,
+        "precedingSku": "4509282",
+        "precedingTitle": "GP Capri Sealife Collection - Larimar & Blue Sapphire Sea Life Pendant in Rhodium Overlay Sterlin...",
+        "precedingAuctionCode": "0019834865",
+        "followingSku": "8701079",
+        "followingTitle": "GP Capri Sealife Collection - Larimar, White Zircon & Blue Sapphire Ring in 18K Vermeil Yellow Gold Plated and Rhodium Overlay Sterling Silver 3.65 Ct.",
+        "followingAuctionCode": "0019834854"
       }
     ],
-    "lastOnAirSku": "4509282",
-    "lastOnAirTitle": "GP Capri Sealife Collection - Larimar & Blue Sapphire Sea Life Pendant in Rhodium Overlay Sterlin...",
-    "lastOnAirAuctionCode": "0019834865",
+    "lastOnAirSku": "8701079",
+    "lastOnAirTitle": "GP Capri Sealife Collection - Larimar, White Zircon & Blue Sapphire Ring in 18K Vermeil Yellow Gold Plated and Rhodium Overlay Sterling Silver 3.65 Ct.",
+    "lastOnAirAuctionCode": "0019834854",
     "precedingSku": "4509282",
     "precedingTitle": "GP Capri Sealife Collection - Larimar & Blue Sapphire Sea Life Pendant in Rhodium Overlay Sterlin...",
     "precedingAuctionCode": "0019834865"
