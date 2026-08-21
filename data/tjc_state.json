@@ -159910,17 +159910,17 @@
       "firstAir": 1786737837217,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786738279287,
+      "lastAir": 1787345240295,
       "title": "Ecoegg Bamboo Towels (20 Sheets) - Green",
       "pdpPrice": "3.99",
-      "auctionCode": "0019819617",
+      "auctionCode": "0019833829",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-14",
-      "time": "21:11:19",
+      "date": "2026-08-21",
+      "time": "21:47:20",
       "productUrl": "/products/ecoegg-bamboo-towels-20-sheets-green",
-      "lastUpdated": 1786738838857,
+      "lastUpdated": 1787345240295,
       "source": "gha",
       "missedAt": 1786738838857,
       "missedDelay": 9,
@@ -208945,8 +208945,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787345139138,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -213005,11 +213005,22 @@
         "followingSku": "8501466",
         "followingTitle": "Crochet Design Slouchy Tote Bag",
         "followingAuctionCode": "0019826250"
+      },
+      {
+        "start": 1787345139138,
+        "end": 1787345240295,
+        "durationMin": 1.7,
+        "precedingSku": "8501466",
+        "precedingTitle": "Crochet Design Slouchy Tote Bag",
+        "precedingAuctionCode": "0019826250",
+        "followingSku": "8519276",
+        "followingTitle": "Ecoegg Bamboo Towels (20 Sheets) - Green",
+        "followingAuctionCode": "0019833829"
       }
     ],
-    "lastOnAirSku": "8501466",
-    "lastOnAirTitle": "Crochet Design Slouchy Tote Bag",
-    "lastOnAirAuctionCode": "0019826250",
+    "lastOnAirSku": "8519276",
+    "lastOnAirTitle": "Ecoegg Bamboo Towels (20 Sheets) - Green",
+    "lastOnAirAuctionCode": "0019833829",
     "precedingSku": "8501466",
     "precedingTitle": "Crochet Design Slouchy Tote Bag",
     "precedingAuctionCode": "0019826250"
