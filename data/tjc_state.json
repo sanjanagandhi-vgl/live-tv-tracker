@@ -73377,21 +73377,26 @@
       "sku": "8249666",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-05",
-      "time": "03:33:27",
+      "date": "2026-08-22",
+      "time": "00:30:50",
       "preExisting": true,
       "missedAt": 1785897207086,
       "missedDelay": null,
-      "lastUpdated": 1785897207086,
+      "lastUpdated": 1787355050282,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "D'Joy White Edison Pearl Cuff Bangle (Size - 8) in 18K Yellow Gold Vermeil Sterling Silver 16.30 Ct.",
-      "auctionCode": "0019806779",
+      "title": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
+      "auctionCode": "0019834333",
       "source": "gha",
       "productUrl": "/products/designer-inspired-djoy-edison-pearl-cuff-bangle",
       "productUrlChecked": 1785897218819,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787355050282,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8147601": {
       "sku": "8147601",
@@ -210096,8 +210101,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787354906131,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -214409,11 +214414,22 @@
         "followingSku": "8666178",
         "followingTitle": "AAAA Rare Size Multi Color Edison Pearl (9-11mm) Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 300.00 Ct.",
         "followingAuctionCode": "0019834343"
+      },
+      {
+        "start": 1787354906131,
+        "end": 1787355050282,
+        "durationMin": 2.4,
+        "precedingSku": "8666178",
+        "precedingTitle": "AAAA Rare Size Multi Color Edison Pearl (9-11mm) Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 300.00 Ct.",
+        "precedingAuctionCode": "0019834343",
+        "followingSku": "8249666",
+        "followingTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
+        "followingAuctionCode": "0019834333"
       }
     ],
-    "lastOnAirSku": "8666178",
-    "lastOnAirTitle": "AAAA Rare Size Multi Color Edison Pearl (9-11mm) Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 300.00 Ct.",
-    "lastOnAirAuctionCode": "0019834343",
+    "lastOnAirSku": "8249666",
+    "lastOnAirTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
+    "lastOnAirAuctionCode": "0019834333",
     "precedingSku": "8666178",
     "precedingTitle": "AAAA Rare Size Multi Color Edison Pearl (9-11mm) Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 300.00 Ct.",
     "precedingAuctionCode": "0019834343"
