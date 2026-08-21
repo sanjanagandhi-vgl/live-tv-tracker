@@ -129785,7 +129785,7 @@
       "firstAir": 1786438400586,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787335640767,
+      "lastAir": 1787336732143,
       "title": "La Marey Embroidery Bohemian Tassel Dress (Size - L-XL, 16-22) - Black",
       "pdpPrice": 12.99,
       "auctionCode": "0019833136",
@@ -129793,9 +129793,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-21",
-      "time": "19:07:20",
+      "time": "19:25:32",
       "productUrl": "/products/la-marey-embroidery-bohemian-tassel-dress?variant=53100606947594",
-      "lastUpdated": 1787335640767,
+      "lastUpdated": 1787336732143,
       "source": "gha",
       "missedAt": 1786439000115,
       "missedDelay": 9,
@@ -208365,8 +208365,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787336665095,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212282,11 +212282,22 @@
         "followingSku": "8071900",
         "followingTitle": "Round Magnetic Lock (8mm) with Lobster Clasp (11mm) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019834796"
+      },
+      {
+        "start": 1787336665095,
+        "end": 1787336732143,
+        "durationMin": 1.1,
+        "precedingSku": "8071900",
+        "precedingTitle": "Round Magnetic Lock (8mm) with Lobster Clasp (11mm) in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019834796",
+        "followingSku": "8480138",
+        "followingTitle": "La Marey Embroidery Bohemian Tassel Dress (Size - L-XL, 16-22) - Black",
+        "followingAuctionCode": "0019833136"
       }
     ],
-    "lastOnAirSku": "8071900",
-    "lastOnAirTitle": "Round Magnetic Lock (8mm) with Lobster Clasp (11mm) in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019834796",
+    "lastOnAirSku": "8480138",
+    "lastOnAirTitle": "La Marey Embroidery Bohemian Tassel Dress (Size - L-XL, 16-22) - Black",
+    "lastOnAirAuctionCode": "0019833136",
     "precedingSku": "8071900",
     "precedingTitle": "Round Magnetic Lock (8mm) with Lobster Clasp (11mm) in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019834796"
