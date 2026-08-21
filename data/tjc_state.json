@@ -208834,11 +208834,29 @@
       "productUrlChecked": 1787341883682,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7210981": {
+      "sku": "7210981",
+      "firstAir": 1787342904588,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787342904588,
+      "title": "Laurelle Empire EDP & Body Wash - 100ml each",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019832196",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-21",
+      "time": "21:08:24",
+      "productUrl": null,
+      "lastUpdated": 1787342904588,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787342791775,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212842,11 +212860,22 @@
         "followingSku": "8635021",
         "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
         "followingAuctionCode": "0019834830"
+      },
+      {
+        "start": 1787342791775,
+        "end": 1787342904588,
+        "durationMin": 1.9,
+        "precedingSku": "8635021",
+        "precedingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+        "precedingAuctionCode": "0019834830",
+        "followingSku": "7210981",
+        "followingTitle": "Laurelle Empire EDP & Body Wash - 100ml each",
+        "followingAuctionCode": "0019832196"
       }
     ],
-    "lastOnAirSku": "8635021",
-    "lastOnAirTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
-    "lastOnAirAuctionCode": "0019834830",
+    "lastOnAirSku": "7210981",
+    "lastOnAirTitle": "Laurelle Empire EDP & Body Wash - 100ml each",
+    "lastOnAirAuctionCode": "0019832196",
     "precedingSku": "8635021",
     "precedingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
     "precedingAuctionCode": "0019834830"
