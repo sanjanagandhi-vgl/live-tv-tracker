@@ -159840,17 +159840,17 @@
       "firstAir": 1786736439617,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786736961069,
-      "title": "Ecoegg Laundry Egg Fresh Linen - 70 washes Blue",
+      "lastAir": 1787344705544,
+      "title": "Ecoegg Laundry Egg British Blooms - 70 washes Yellow",
       "pdpPrice": "4.99",
-      "auctionCode": "0019819614",
+      "auctionCode": "0019833822",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-14",
-      "time": "20:49:21",
+      "date": "2026-08-21",
+      "time": "21:38:25",
       "productUrl": "/products/ecoegg-laundry-egg-70-washes-fresh-linen",
-      "lastUpdated": 1786737561040,
+      "lastUpdated": 1787344705544,
       "source": "gha",
       "missedAt": 1786737561040,
       "missedDelay": 10,
@@ -208927,8 +208927,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787344639107,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212965,11 +212965,22 @@
         "followingSku": "8322853",
         "followingTitle": "Set of 4 Pairs of Snuggle Toes Cosy Socks (Size UK 4-8) - Christmas Pud, Ho Ho Ho, Christmas Tree & Elf",
         "followingAuctionCode": "0019833804"
+      },
+      {
+        "start": 1787344639107,
+        "end": 1787344705544,
+        "durationMin": 1.1,
+        "precedingSku": "8322853",
+        "precedingTitle": "Set of 4 Pairs of Snuggle Toes Cosy Socks (Size UK 4-8) - Christmas Pud, Ho Ho Ho, Christmas Tree & Elf",
+        "precedingAuctionCode": "0019833804",
+        "followingSku": "8519259",
+        "followingTitle": "Ecoegg Laundry Egg British Blooms - 70 washes Yellow",
+        "followingAuctionCode": "0019833822"
       }
     ],
-    "lastOnAirSku": "8322853",
-    "lastOnAirTitle": "Set of 4 Pairs of Snuggle Toes Cosy Socks (Size UK 4-8) - Christmas Pud, Ho Ho Ho, Christmas Tree & Elf",
-    "lastOnAirAuctionCode": "0019833804",
+    "lastOnAirSku": "8519259",
+    "lastOnAirTitle": "Ecoegg Laundry Egg British Blooms - 70 washes Yellow",
+    "lastOnAirAuctionCode": "0019833822",
     "precedingSku": "8322853",
     "precedingTitle": "Set of 4 Pairs of Snuggle Toes Cosy Socks (Size UK 4-8) - Christmas Pud, Ho Ho Ho, Christmas Tree & Elf",
     "precedingAuctionCode": "0019833804"
