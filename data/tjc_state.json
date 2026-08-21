@@ -210103,11 +210103,29 @@
       "productUrl": null,
       "lastUpdated": 1787354840828,
       "source": "gha"
+    },
+    "8249960": {
+      "sku": "8249960",
+      "firstAir": 1787355200397,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787355200397,
+      "title": "D'joy Edison Pearl (10-11 MM), Natural Chrome Diopside & White Zircon Ring in Rhodium Overlay Sterling Silver",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019834346",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-22",
+      "time": "00:33:20",
+      "productUrl": null,
+      "lastUpdated": 1787355200397,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787355142498,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -214430,11 +214448,22 @@
         "followingSku": "8249666",
         "followingTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
         "followingAuctionCode": "0019834333"
+      },
+      {
+        "start": 1787355142498,
+        "end": 1787355200397,
+        "durationMin": 1.0,
+        "precedingSku": "8245349",
+        "precedingTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
+        "precedingAuctionCode": "0019834340",
+        "followingSku": "8249960",
+        "followingTitle": "D'joy Edison Pearl (10-11 MM), Natural Chrome Diopside & White Zircon Ring in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019834346"
       }
     ],
-    "lastOnAirSku": "8245349",
-    "lastOnAirTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
-    "lastOnAirAuctionCode": "0019834340",
+    "lastOnAirSku": "8249960",
+    "lastOnAirTitle": "D'joy Edison Pearl (10-11 MM), Natural Chrome Diopside & White Zircon Ring in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019834346",
     "precedingSku": "8245349",
     "precedingTitle": "Designer Inspired - D'Joy Edison Pearl Cuff Bangle",
     "precedingAuctionCode": "0019834340"
