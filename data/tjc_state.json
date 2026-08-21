@@ -208612,11 +208612,29 @@
       "productUrlChecked": 1787338108642,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8324453": {
+      "sku": "8324453",
+      "firstAir": 1787338465044,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787338465044,
+      "title": "NOD Homage EDP - 30ml",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019830275",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-21",
+      "time": "19:54:25",
+      "productUrl": null,
+      "lastUpdated": 1787338465044,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787338103225,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212554,11 +212572,22 @@
         "followingSku": "8519573",
         "followingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm) - White & Brown",
         "followingAuctionCode": "0019834765"
+      },
+      {
+        "start": 1787338103225,
+        "end": 1787338465044,
+        "durationMin": 6.0,
+        "precedingSku": "8519573",
+        "precedingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm) - White & Brown",
+        "precedingAuctionCode": "0019834765",
+        "followingSku": "8324453",
+        "followingTitle": "NOD Homage EDP - 30ml",
+        "followingAuctionCode": "0019830275"
       }
     ],
-    "lastOnAirSku": "8519573",
-    "lastOnAirTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm) - White & Brown",
-    "lastOnAirAuctionCode": "0019834765",
+    "lastOnAirSku": "8324453",
+    "lastOnAirTitle": "NOD Homage EDP - 30ml",
+    "lastOnAirAuctionCode": "0019830275",
     "precedingSku": "8519573",
     "precedingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm) - White & Brown",
     "precedingAuctionCode": "0019834765"
