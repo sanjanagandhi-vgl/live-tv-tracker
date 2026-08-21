@@ -29773,21 +29773,26 @@
       "sku": "4483031",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-21",
+      "time": "23:47:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1787352442582,
       "missedPrice": 199.99,
       "missedImg": true,
       "title": "GP - Multi Diamond & Blue Sapphire Cluster Floral Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
-      "auctionCode": "0019801158",
+      "auctionCode": "0019834715",
       "source": "gha",
       "productUrl": "/products/gp-multi-diamond-blue-sapphire-pendant-with-chain-size-20-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-10-ct-4483031",
       "productUrlChecked": 1785475729600,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787352442582,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8703345": {
       "sku": "8703345",
@@ -209752,8 +209757,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787352380866,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -213999,11 +214004,22 @@
         "followingSku": "8552415",
         "followingTitle": "GP Trionfo Collection - Natural Champagne Diamond With White & Red Diamond & Blue Sapphire Elephant Earrings in 18K Gold Vermeil Sterling Silver 0.50 Ct.",
         "followingAuctionCode": "0019834737"
+      },
+      {
+        "start": 1787352380866,
+        "end": 1787352442582,
+        "durationMin": 1.0,
+        "precedingSku": "8519688",
+        "precedingTitle": "GP Trionfo Collection - Multi Diamond & Blue Sapphire Starfish Earring with Lever Back in 18K Vermeil Rose Gold Plated Sterling Silver 0.52 Ct.",
+        "precedingAuctionCode": "0019834729",
+        "followingSku": "4483031",
+        "followingTitle": "GP - Multi Diamond & Blue Sapphire Cluster Floral Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
+        "followingAuctionCode": "0019834715"
       }
     ],
-    "lastOnAirSku": "8519688",
-    "lastOnAirTitle": "GP Trionfo Collection - Multi Diamond & Blue Sapphire Starfish Earring with Lever Back in 18K Vermeil Rose Gold Plated Sterling Silver 0.52 Ct.",
-    "lastOnAirAuctionCode": "0019834729",
+    "lastOnAirSku": "4483031",
+    "lastOnAirTitle": "GP - Multi Diamond & Blue Sapphire Cluster Floral Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
+    "lastOnAirAuctionCode": "0019834715",
     "precedingSku": "8519688",
     "precedingTitle": "GP Trionfo Collection - Multi Diamond & Blue Sapphire Starfish Earring with Lever Back in 18K Vermeil Rose Gold Plated Sterling Silver 0.52 Ct.",
     "precedingAuctionCode": "0019834729"
