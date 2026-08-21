@@ -208657,11 +208657,29 @@
       "productUrlChecked": 1787338546307,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8528434": {
+      "sku": "8528434",
+      "firstAir": 1787339359239,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787339359239,
+      "title": "LIVMORE Wolf Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Grey & Multi",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019833234",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-21",
+      "time": "20:09:19",
+      "productUrl": null,
+      "lastUpdated": 1787339359239,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787339130736,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212610,11 +212628,22 @@
         "followingSku": "8324453",
         "followingTitle": "NOD Homage EDP - 30ml",
         "followingAuctionCode": "0019830275"
+      },
+      {
+        "start": 1787339130736,
+        "end": 1787339359239,
+        "durationMin": 3.8,
+        "precedingSku": "8324453",
+        "precedingTitle": "NOD Homage EDP - 30ml",
+        "precedingAuctionCode": "0019830275",
+        "followingSku": "8528434",
+        "followingTitle": "LIVMORE Wolf Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Grey & Multi",
+        "followingAuctionCode": "0019833234"
       }
     ],
-    "lastOnAirSku": "8324453",
-    "lastOnAirTitle": "NOD Homage EDP - 30ml",
-    "lastOnAirAuctionCode": "0019830275",
+    "lastOnAirSku": "8528434",
+    "lastOnAirTitle": "LIVMORE Wolf Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Grey & Multi",
+    "lastOnAirAuctionCode": "0019833234",
     "precedingSku": "8324453",
     "precedingTitle": "NOD Homage EDP - 30ml",
     "precedingAuctionCode": "0019830275"
