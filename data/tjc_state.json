@@ -208852,11 +208852,29 @@
       "productUrl": null,
       "lastUpdated": 1787343642663,
       "source": "gha"
+    },
+    "8560649": {
+      "sku": "8560649",
+      "firstAir": 1787343864973,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787343864973,
+      "title": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019828923",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-21",
+      "time": "21:24:24",
+      "productUrl": null,
+      "lastUpdated": 1787343864973,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787343683528,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212871,11 +212889,22 @@
         "followingSku": "7210981",
         "followingTitle": "Laurelle Empire EDP & Body Wash - 100ml each",
         "followingAuctionCode": "0019832196"
+      },
+      {
+        "start": 1787343683528,
+        "end": 1787343864973,
+        "durationMin": 3.0,
+        "precedingSku": "7210981",
+        "precedingTitle": "Laurelle Empire EDP & Body Wash - 100ml each",
+        "precedingAuctionCode": "0019832196",
+        "followingSku": "8560649",
+        "followingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
+        "followingAuctionCode": "0019828923"
       }
     ],
-    "lastOnAirSku": "7210981",
-    "lastOnAirTitle": "Laurelle Empire EDP & Body Wash - 100ml each",
-    "lastOnAirAuctionCode": "0019832196",
+    "lastOnAirSku": "8560649",
+    "lastOnAirTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
+    "lastOnAirAuctionCode": "0019828923",
     "precedingSku": "7210981",
     "precedingTitle": "Laurelle Empire EDP & Body Wash - 100ml each",
     "precedingAuctionCode": "0019832196"
