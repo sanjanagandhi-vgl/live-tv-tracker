@@ -203358,17 +203358,17 @@
       "firstAir": 1787309542912,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787315542841,
+      "lastAir": 1787341838572,
       "title": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019834781",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019834830",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-21",
-      "time": "13:32:22",
+      "time": "20:50:38",
       "productUrl": "/products/24k-yellow-gold-mg-standard-accessories-gold-wt-10-gms-2368635004",
-      "lastUpdated": 1787315542841,
+      "lastUpdated": 1787341838572,
       "source": "gha",
       "missedAt": 1787311158705,
       "missedDelay": 10,
@@ -208830,8 +208830,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787341760673,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212824,11 +212824,22 @@
         "followingSku": "7898327",
         "followingTitle": "Soul Smart Kneading Neck & Body Massager - 90 min Run Time",
         "followingAuctionCode": "0019833837"
+      },
+      {
+        "start": 1787341760673,
+        "end": 1787341838572,
+        "durationMin": 1.3,
+        "precedingSku": "7898327",
+        "precedingTitle": "Soul Smart Kneading Neck & Body Massager - 90 min Run Time",
+        "precedingAuctionCode": "0019833837",
+        "followingSku": "8635021",
+        "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+        "followingAuctionCode": "0019834830"
       }
     ],
-    "lastOnAirSku": "7898327",
-    "lastOnAirTitle": "Soul Smart Kneading Neck & Body Massager - 90 min Run Time",
-    "lastOnAirAuctionCode": "0019833837",
+    "lastOnAirSku": "8635021",
+    "lastOnAirTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+    "lastOnAirAuctionCode": "0019834830",
     "precedingSku": "7898327",
     "precedingTitle": "Soul Smart Kneading Neck & Body Massager - 90 min Run Time",
     "precedingAuctionCode": "0019833837"
