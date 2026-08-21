@@ -208874,9 +208874,16 @@
       "img": true,
       "date": "2026-08-21",
       "time": "21:28:23",
-      "productUrl": null,
-      "lastUpdated": 1787344103159,
-      "source": "gha"
+      "productUrl": "/products/pair-of-ladies-magnetic-massage-therapy-acupressure-insoles-2-5-6-5-8560649",
+      "lastUpdated": 1787344639107,
+      "source": "gha",
+      "missedAt": 1787344639107,
+      "missedDelay": 9,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "productUrlChecked": 1787344642862,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7210982": {
       "sku": "7210982",
@@ -208920,8 +208927,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787344639107,
     "gaps": [
       {
         "start": 1785823527869,
@@ -212963,8 +212970,8 @@
     "lastOnAirSku": "8322853",
     "lastOnAirTitle": "Set of 4 Pairs of Snuggle Toes Cosy Socks (Size UK 4-8) - Christmas Pud, Ho Ho Ho, Christmas Tree & Elf",
     "lastOnAirAuctionCode": "0019833804",
-    "precedingSku": "8560649",
-    "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
-    "precedingAuctionCode": "0019828923"
+    "precedingSku": "8322853",
+    "precedingTitle": "Set of 4 Pairs of Snuggle Toes Cosy Socks (Size UK 4-8) - Christmas Pud, Ho Ho Ho, Christmas Tree & Elf",
+    "precedingAuctionCode": "0019833804"
   }
 }
