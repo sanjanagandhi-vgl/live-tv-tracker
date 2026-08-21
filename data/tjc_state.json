@@ -209819,9 +209819,16 @@
       "img": true,
       "date": "2026-08-21",
       "time": "23:54:25",
-      "productUrl": null,
-      "lastUpdated": 1787352865933,
-      "source": "gha"
+      "productUrl": "/products/gp-celestial-dream-collection-multi-colour-diamond-kanchanaburi-blue-sapphire-pendant-with-chain-size-20-in-18k-vermeil-yellow-gold-plated-rhodium-overlay-sterling-silver",
+      "lastUpdated": 1787353462885,
+      "source": "gha",
+      "missedAt": 1787353462885,
+      "missedDelay": 10,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1787353475181,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4465639": {
       "sku": "4465639",
@@ -209983,8 +209990,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787353462885,
     "gaps": [
       {
         "start": 1785823527869,
@@ -214268,8 +214275,8 @@
     "lastOnAirSku": "8325035",
     "lastOnAirTitle": "GP - Italian Garden Collection Champagne Diamond (SI-CP), Yellow Diamond & Kanchanaburi Blue Sapphire Butterfly Drop Earring with Push Back in Tri Colour Plated Sterling Silver 0.31 Ct.",
     "lastOnAirAuctionCode": "0019834738",
-    "precedingSku": "4413632",
-    "precedingTitle": "GP Celestial Dream Collection - Multi Colour Diamond & Kanchanaburi Blue Sapphire Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Rhodium Overlay Sterling Silver",
-    "precedingAuctionCode": "0019834726"
+    "precedingSku": "8325035",
+    "precedingTitle": "GP - Italian Garden Collection Champagne Diamond (SI-CP), Yellow Diamond & Kanchanaburi Blue Sapphire Butterfly Drop Earring with Push Back in Tri Colour Plated Sterling Silver 0.31 Ct.",
+    "precedingAuctionCode": "0019834738"
   }
 }
