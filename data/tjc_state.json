@@ -86876,21 +86876,26 @@
       "sku": "8615959",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "00:03:33",
+      "date": "2026-08-22",
+      "time": "00:14:25",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1786057413979,
+      "lastUpdated": 1787354065976,
       "missedPrice": 39.99,
       "missedImg": true,
-      "title": "D'Joy - Premium White Edison Pearl (10-11mm) Stud Ball Earring with Push Back in Rhodium Overlay Sterling Silver 15.34 Ct.",
-      "auctionCode": "0019809061",
+      "title": "D'Joy - Purple Edison Pearl (10-11mm) Stud Ball Earring with Push Back in Rhodium Overlay Sterling Silver 11.40 Ct.",
+      "auctionCode": "0019834360",
       "source": "gha",
       "productUrl": "/products/stud-ball-earring-with-push-back-in-sterling-silver-6058615961",
       "productUrlChecked": 1786057715147,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787354065976,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8615961": {
       "sku": "8615961",
@@ -210052,8 +210057,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787354000169,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -214343,11 +214348,22 @@
         "followingSku": "8618383",
         "followingTitle": "D'Joy - Premium White Edison Pearl (10-11mm) & Lab Grown Diamond Dangling Earring with Push Back in Rhodium Overlay Sterling Silver 15.55 Ct.",
         "followingAuctionCode": "0019834374"
+      },
+      {
+        "start": 1787354000169,
+        "end": 1787354065976,
+        "durationMin": 1.1,
+        "precedingSku": "4488536",
+        "precedingTitle": "D'Joy - Premium White Edison Pearl (10-11mm), Ethiopian Opal & White Zircon Floral Drop Pendant with Chain (Size 18) in Yellow Gold Plated Sterling Silver 8.54 Ct.",
+        "precedingAuctionCode": "0019834358",
+        "followingSku": "8615959",
+        "followingTitle": "D'Joy - Purple Edison Pearl (10-11mm) Stud Ball Earring with Push Back in Rhodium Overlay Sterling Silver 11.40 Ct.",
+        "followingAuctionCode": "0019834360"
       }
     ],
-    "lastOnAirSku": "4488536",
-    "lastOnAirTitle": "D'Joy - Premium White Edison Pearl (10-11mm), Ethiopian Opal & White Zircon Floral Drop Pendant with Chain (Size 18) in Yellow Gold Plated Sterling Silver 8.54 Ct.",
-    "lastOnAirAuctionCode": "0019834358",
+    "lastOnAirSku": "8615959",
+    "lastOnAirTitle": "D'Joy - Purple Edison Pearl (10-11mm) Stud Ball Earring with Push Back in Rhodium Overlay Sterling Silver 11.40 Ct.",
+    "lastOnAirAuctionCode": "0019834360",
     "precedingSku": "4488536",
     "precedingTitle": "D'Joy - Premium White Edison Pearl (10-11mm), Ethiopian Opal & White Zircon Floral Drop Pendant with Chain (Size 18) in Yellow Gold Plated Sterling Silver 8.54 Ct.",
     "precedingAuctionCode": "0019834358"
