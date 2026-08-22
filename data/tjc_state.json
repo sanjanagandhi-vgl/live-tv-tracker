@@ -176323,17 +176323,17 @@
       "firstAir": 1786960105697,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786988785800,
+      "lastAir": 1787394743020,
       "title": "Sterling Silver Hoop Earring with Clasp",
-      "pdpPrice": 249.99,
-      "auctionCode": "0019826110",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019836252",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "time": "18:46:25",
+      "date": "2026-08-22",
+      "time": "11:32:23",
       "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8620470?variant=53191617544458",
-      "lastUpdated": 1786988785800,
+      "lastUpdated": 1787394743020,
       "source": "gha",
       "missedAt": 1786960863690,
       "missedDelay": 10,
@@ -211278,8 +211278,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787394679152,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -216130,11 +216130,22 @@
         "followingSku": "8673757",
         "followingTitle": "Romy Necklace (Size - 22) with Lobster Clasp in Sterling Silver, Silver Wt. 11.60 Gms",
         "followingAuctionCode": "0019836076"
+      },
+      {
+        "start": 1787394679152,
+        "end": 1787394743020,
+        "durationMin": 1.1,
+        "precedingSku": "8620514",
+        "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019836251",
+        "followingSku": "8620470",
+        "followingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "followingAuctionCode": "0019836252"
       }
     ],
-    "lastOnAirSku": "8620514",
+    "lastOnAirSku": "8620470",
     "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019836251",
+    "lastOnAirAuctionCode": "0019836252",
     "precedingSku": "8620514",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
     "precedingAuctionCode": "0019836251"
