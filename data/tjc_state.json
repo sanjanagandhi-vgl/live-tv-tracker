@@ -96576,17 +96576,17 @@
       "firstAir": 1786118009605,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786118467935,
+      "lastAir": 1787430929539,
       "title": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019810752",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019836395",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-07",
-      "time": "17:01:07",
+      "date": "2026-08-22",
+      "time": "21:35:29",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2918378381",
-      "lastUpdated": 1786119039770,
+      "lastUpdated": 1787430929539,
       "source": "gha",
       "missedAt": 1786119039770,
       "missedDelay": 10,
@@ -214082,8 +214082,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787430798452,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -219352,11 +219352,22 @@
         "followingSku": "8626601",
         "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
         "followingAuctionCode": "0019836415"
+      },
+      {
+        "start": 1787430798452,
+        "end": 1787430929539,
+        "durationMin": 2.2,
+        "precedingSku": "8626601",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
+        "precedingAuctionCode": "0019836415",
+        "followingSku": "8163348",
+        "followingTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
+        "followingAuctionCode": "0019836395"
       }
     ],
-    "lastOnAirSku": "8626601",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
-    "lastOnAirAuctionCode": "0019836415",
+    "lastOnAirSku": "8163348",
+    "lastOnAirTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
+    "lastOnAirAuctionCode": "0019836395",
     "precedingSku": "8626601",
     "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
     "precedingAuctionCode": "0019836415"
