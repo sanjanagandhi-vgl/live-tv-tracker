@@ -214768,11 +214768,29 @@
       "productUrlChecked": 1787436641857,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8514571": {
+      "sku": "8514571",
+      "firstAir": 1787438782376,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787438782376,
+      "title": "Royal Bali Collection - Sterling Silver Leaf Design Earring with Hook",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019836623",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-22",
+      "time": "23:46:22",
+      "productUrl": null,
+      "lastUpdated": 1787438782376,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787438735955,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -220239,11 +220257,22 @@
         "followingSku": "8412112",
         "followingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
         "followingAuctionCode": "0019836639"
+      },
+      {
+        "start": 1787438735955,
+        "end": 1787438782376,
+        "durationMin": 0.8,
+        "precedingSku": "8412112",
+        "precedingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+        "precedingAuctionCode": "0019836639",
+        "followingSku": "8514571",
+        "followingTitle": "Royal Bali Collection - Sterling Silver Leaf Design Earring with Hook",
+        "followingAuctionCode": "0019836623"
       }
     ],
-    "lastOnAirSku": "8412112",
-    "lastOnAirTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
-    "lastOnAirAuctionCode": "0019836639",
+    "lastOnAirSku": "8514571",
+    "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Leaf Design Earring with Hook",
+    "lastOnAirAuctionCode": "0019836623",
     "precedingSku": "8412112",
     "precedingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
     "precedingAuctionCode": "0019836639"
