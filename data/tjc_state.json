@@ -33638,23 +33638,23 @@
       "sku": "2984483",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "07:32:22",
+      "date": "2026-08-22",
+      "time": "06:54:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1787121142256,
+      "lastUpdated": 1787378062640,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Cetuem- Creme De Lite Moisturiser - 50ml",
-      "auctionCode": "0019829030",
+      "auctionCode": "0019834395",
       "source": "gha",
       "productUrl": "/products/cetuem-radiance-duo-with-exfoliating-mask-50ml-and-scr-gold-booster-serum-15ml",
       "productUrlChecked": 1785476908147,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787121142256,
-      "pdpPrice": "29.99",
+      "lastAir": 1787378062640,
+      "pdpPrice": "69.99",
       "buy": true,
       "login": false,
       "img": true
@@ -211151,8 +211151,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787377999758,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215871,11 +215871,22 @@
         "followingSku": "8595254",
         "followingTitle": "BEST BEAUTY GALA DEAL: Cetuem SCR Gold Duo Bundle - Includes Golden Glow Gel & Intensive Serum (50ml Each with NEW Packaging)",
         "followingAuctionCode": "0019834398"
+      },
+      {
+        "start": 1787377999758,
+        "end": 1787378062640,
+        "durationMin": 1.0,
+        "precedingSku": "8595254",
+        "precedingTitle": "BEST BEAUTY GALA DEAL: Cetuem SCR Gold Duo Bundle - Includes Golden Glow Gel & Intensive Serum (50ml Each with NEW Packaging)",
+        "precedingAuctionCode": "0019834398",
+        "followingSku": "2984483",
+        "followingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
+        "followingAuctionCode": "0019834395"
       }
     ],
-    "lastOnAirSku": "8595254",
-    "lastOnAirTitle": "BEST BEAUTY GALA DEAL: Cetuem SCR Gold Duo Bundle - Includes Golden Glow Gel & Intensive Serum (50ml Each with NEW Packaging)",
-    "lastOnAirAuctionCode": "0019834398",
+    "lastOnAirSku": "2984483",
+    "lastOnAirTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
+    "lastOnAirAuctionCode": "0019834395",
     "precedingSku": "8595254",
     "precedingTitle": "BEST BEAUTY GALA DEAL: Cetuem SCR Gold Duo Bundle - Includes Golden Glow Gel & Intensive Serum (50ml Each with NEW Packaging)",
     "precedingAuctionCode": "0019834398"
