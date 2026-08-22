@@ -212150,11 +212150,29 @@
       "productUrlChecked": 1787408188847,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8580253": {
+      "sku": "8580253",
+      "firstAir": 1787410758978,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787410758978,
+      "title": "Rhapsody - 18K Yellow Gold AAAA Turkizite Solitaire Pendant 20.00 Ct, Gold Wt. 4.00 Gms",
+      "pdpPrice": "7999.99",
+      "auctionCode": "0019836267",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-22",
+      "time": "15:59:18",
+      "productUrl": null,
+      "lastUpdated": 1787410758978,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787410640329,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -217203,11 +217221,22 @@
         "followingSku": "8641888",
         "followingTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.50 Ct.",
         "followingAuctionCode": "0019833670"
+      },
+      {
+        "start": 1787410640329,
+        "end": 1787410758978,
+        "durationMin": 2.0,
+        "precedingSku": "8641888",
+        "precedingTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.50 Ct.",
+        "precedingAuctionCode": "0019833670",
+        "followingSku": "8580253",
+        "followingTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite Solitaire Pendant 20.00 Ct, Gold Wt. 4.00 Gms",
+        "followingAuctionCode": "0019836267"
       }
     ],
-    "lastOnAirSku": "8641888",
-    "lastOnAirTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.50 Ct.",
-    "lastOnAirAuctionCode": "0019833670",
+    "lastOnAirSku": "8580253",
+    "lastOnAirTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite Solitaire Pendant 20.00 Ct, Gold Wt. 4.00 Gms",
+    "lastOnAirAuctionCode": "0019836267",
     "precedingSku": "8641888",
     "precedingTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.50 Ct.",
     "precedingAuctionCode": "0019833670"
