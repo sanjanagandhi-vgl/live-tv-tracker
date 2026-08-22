@@ -6656,19 +6656,19 @@
       "sku": "8055952",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "22:57:18",
+      "date": "2026-08-23",
+      "time": "00:05:27",
       "preExisting": true,
       "missedAt": 1784930728239,
       "missedDelay": null,
-      "lastUpdated": 1787176638753,
+      "lastUpdated": 1787439927848,
       "missedPrice": 199.99,
       "missedImg": true,
       "title": "9K Yellow Gold Spiga Necklace",
-      "auctionCode": "0019830664",
+      "auctionCode": "0019836618",
       "source": "gha",
-      "lastAir": 1787176638753,
-      "pdpPrice": "199.99",
+      "lastAir": 1787439927848,
+      "pdpPrice": "2599.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -214981,8 +214981,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787439799005,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -220482,11 +220482,22 @@
         "followingSku": "8514051",
         "followingTitle": "Royal Bali Collection - D'Joy Ox Bone & Sleeping Beauty Turquoise Sterling Silver Goddess Ring 1.48 Ct, Silver Wt. 12.24 Gms",
         "followingAuctionCode": "0019836589"
+      },
+      {
+        "start": 1787439799005,
+        "end": 1787439927848,
+        "durationMin": 2.1,
+        "precedingSku": "8513251",
+        "precedingTitle": "Royal Bali Collection - D'Joy Abalone Shell Sterling Silver Dragon Pendant 14.00 Ct.",
+        "precedingAuctionCode": "0019836628",
+        "followingSku": "8055952",
+        "followingTitle": "9K Yellow Gold Spiga Necklace",
+        "followingAuctionCode": "0019836618"
       }
     ],
-    "lastOnAirSku": "8513251",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Abalone Shell Sterling Silver Dragon Pendant 14.00 Ct.",
-    "lastOnAirAuctionCode": "0019836628",
+    "lastOnAirSku": "8055952",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace",
+    "lastOnAirAuctionCode": "0019836618",
     "precedingSku": "8513251",
     "precedingTitle": "Royal Bali Collection - D'Joy Abalone Shell Sterling Silver Dragon Pendant 14.00 Ct.",
     "precedingAuctionCode": "0019836628"
