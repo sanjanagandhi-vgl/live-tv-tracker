@@ -212999,11 +212999,29 @@
       "productUrl": null,
       "lastUpdated": 1787422759086,
       "source": "gha"
+    },
+    "7341877": {
+      "sku": "7341877",
+      "firstAir": 1787423127595,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787423127595,
+      "title": "African Ruby and Natural Zircon Ring in Platinum Overlay Sterling Silver 3.50 Ct",
+      "pdpPrice": "1049.99",
+      "auctionCode": "0019836335",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-22",
+      "time": "19:25:27",
+      "productUrl": null,
+      "lastUpdated": 1787423127595,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787423063686,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -218206,11 +218224,22 @@
         "followingSku": "8535388",
         "followingTitle": "African Ruby, White Zircon & Blue Sapphire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.44 Ct.",
         "followingAuctionCode": "0019836299"
+      },
+      {
+        "start": 1787423063686,
+        "end": 1787423127595,
+        "durationMin": 1.1,
+        "precedingSku": "8535388",
+        "precedingTitle": "African Ruby, White Zircon & Blue Sapphire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.44 Ct.",
+        "precedingAuctionCode": "0019836299",
+        "followingSku": "7341877",
+        "followingTitle": "African Ruby and Natural Zircon Ring in Platinum Overlay Sterling Silver 3.50 Ct",
+        "followingAuctionCode": "0019836335"
       }
     ],
-    "lastOnAirSku": "8535388",
-    "lastOnAirTitle": "African Ruby, White Zircon & Blue Sapphire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.44 Ct.",
-    "lastOnAirAuctionCode": "0019836299",
+    "lastOnAirSku": "7341877",
+    "lastOnAirTitle": "African Ruby and Natural Zircon Ring in Platinum Overlay Sterling Silver 3.50 Ct",
+    "lastOnAirAuctionCode": "0019836335",
     "precedingSku": "8535388",
     "precedingTitle": "African Ruby, White Zircon & Blue Sapphire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.44 Ct.",
     "precedingAuctionCode": "0019836299"
