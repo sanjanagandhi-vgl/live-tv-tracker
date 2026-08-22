@@ -212415,9 +212415,16 @@
       "img": true,
       "date": "2026-08-22",
       "time": "18:09:19",
-      "productUrl": null,
-      "lastUpdated": 1787418559521,
-      "source": "gha"
+      "productUrl": "/products/djoy-african-ruby-natural-chrome-diopside-pendant-with-chain-size-20-in-18k-vermeil-yellow-gold-plated-rhodium-overlay-sterling-silver-5-90-ct",
+      "lastUpdated": 1787419157304,
+      "source": "gha",
+      "missedAt": 1787419157304,
+      "missedDelay": 10,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1787419160386,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8265489": {
       "sku": "8265489",
@@ -212439,8 +212446,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787419157304,
     "gaps": [
       {
         "start": 1785823527869,
@@ -217615,8 +217622,8 @@
     "lastOnAirSku": "4459192",
     "lastOnAirTitle": "D'Joy African Ruby Scroll Link Drop Pendant with Chain (Size 20)",
     "lastOnAirAuctionCode": "0019836255",
-    "precedingSku": "8265489",
-    "precedingTitle": "D'Joy African Ruby & Natural Chrome Diopside Lever Back Earring in 18K Vermeil Yellow Gold Plated & Rhodium Overlay Sterling Silver 6.29 Ct.",
-    "precedingAuctionCode": "0019836343"
+    "precedingSku": "4459192",
+    "precedingTitle": "D'Joy African Ruby Scroll Link Drop Pendant with Chain (Size 20)",
+    "precedingAuctionCode": "0019836255"
   }
 }
