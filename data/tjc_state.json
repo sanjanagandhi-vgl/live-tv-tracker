@@ -148800,21 +148800,26 @@
       "sku": "8499076",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "17:47:22",
+      "date": "2026-08-22",
+      "time": "03:41:24",
       "preExisting": true,
       "missedAt": 1786639642917,
       "missedDelay": null,
-      "lastUpdated": 1786639642917,
+      "lastUpdated": 1787366484367,
       "missedPrice": 797.99,
       "missedImg": true,
-      "title": "Luxuriant - Tarakasi 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Pearl Cut Solitaire Pendant 2.00 Ct.",
-      "auctionCode": "0019819199",
+      "title": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Pearl Cut Solitaire Pendant 2.00 Ct.",
+      "auctionCode": "0019834221",
       "source": "gha",
       "productUrl": "/products/luxuriant-tarakasi-18k-yellow-gold-igi-certified-vs-e-f-lab-grown-diamond-oval-cut-solitaire-pendant-2-00-ct",
       "productUrlChecked": 1786639647092,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787366484367,
+      "pdpPrice": "1499.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8485262": {
       "sku": "8485262",
@@ -210863,9 +210868,16 @@
       "img": true,
       "date": "2026-08-22",
       "time": "03:32:24",
-      "productUrl": null,
-      "lastUpdated": 1787365944122,
-      "source": "gha"
+      "productUrl": "/products/gold-white-diamond-pendant-0-50-ct",
+      "lastUpdated": 1787366484367,
+      "source": "gha",
+      "missedAt": 1787366484367,
+      "missedDelay": 9,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "productUrlChecked": 1787366488373,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8364081": {
       "sku": "8364081",
@@ -210905,8 +210917,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787366437440,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215438,11 +215450,22 @@
         "followingSku": "8281369",
         "followingTitle": "Amethyst Geode Pendant in Yellow Gold Plated 15.00 Ct.",
         "followingAuctionCode": "0019834210"
+      },
+      {
+        "start": 1787366437440,
+        "end": 1787366484367,
+        "durationMin": 0.8,
+        "precedingSku": "8359496",
+        "precedingTitle": "Multi Colour Edison Pearl Pendant 8.00 Ct.",
+        "precedingAuctionCode": "0019834215",
+        "followingSku": "8499076",
+        "followingTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Pearl Cut Solitaire Pendant 2.00 Ct.",
+        "followingAuctionCode": "0019834221"
       }
     ],
-    "lastOnAirSku": "8359496",
-    "lastOnAirTitle": "Multi Colour Edison Pearl Pendant 8.00 Ct.",
-    "lastOnAirAuctionCode": "0019834215",
+    "lastOnAirSku": "8499076",
+    "lastOnAirTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Pearl Cut Solitaire Pendant 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019834221",
     "precedingSku": "8359496",
     "precedingTitle": "Multi Colour Edison Pearl Pendant 8.00 Ct.",
     "precedingAuctionCode": "0019834215"
