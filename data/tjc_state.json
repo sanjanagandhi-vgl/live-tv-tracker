@@ -13278,17 +13278,23 @@
       "sku": "8552989",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-26",
-      "time": "07:04:21",
+      "date": "2026-08-22",
+      "time": "11:45:39",
       "preExisting": true,
       "missedAt": 1785045861362,
       "missedDelay": null,
-      "lastUpdated": 1785045861362,
+      "lastUpdated": 1787395539394,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Yellow Gold Plated Sterling Silver Curb Chain (Size - 20) with Lobster Clasp",
-      "auctionCode": "0019795664",
-      "source": "gha"
+      "title": "Pick of the Show Yellow Gold Plated Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
+      "auctionCode": "0019836093",
+      "source": "gha",
+      "lastAir": 1787395539394,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8663044": {
       "sku": "8663044",
@@ -211337,8 +211343,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787395464945,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -216222,11 +216228,22 @@
         "followingSku": "8482903",
         "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Fancy Necklace (Size - 30) with Lobster Clasp, Silver Wt. 49.25 Gms",
         "followingAuctionCode": "0019836080"
+      },
+      {
+        "start": 1787395464945,
+        "end": 1787395539394,
+        "durationMin": 1.2,
+        "precedingSku": "8482903",
+        "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Fancy Necklace (Size - 30) with Lobster Clasp, Silver Wt. 49.25 Gms",
+        "precedingAuctionCode": "0019836080",
+        "followingSku": "8552989",
+        "followingTitle": "Pick of the Show Yellow Gold Plated Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
+        "followingAuctionCode": "0019836093"
       }
     ],
-    "lastOnAirSku": "8482903",
-    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Fancy Necklace (Size - 30) with Lobster Clasp, Silver Wt. 49.25 Gms",
-    "lastOnAirAuctionCode": "0019836080",
+    "lastOnAirSku": "8552989",
+    "lastOnAirTitle": "Pick of the Show Yellow Gold Plated Sterling Silver Curb Chain (Size - 18) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019836093",
     "precedingSku": "8482903",
     "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Fancy Necklace (Size - 30) with Lobster Clasp, Silver Wt. 49.25 Gms",
     "precedingAuctionCode": "0019836080"
