@@ -79266,21 +79266,26 @@
       "sku": "8641888",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-06",
-      "time": "00:01:01",
+      "date": "2026-08-22",
+      "time": "15:50:39",
       "preExisting": true,
       "missedAt": 1785970861875,
       "missedDelay": null,
-      "lastUpdated": 1785970861875,
+      "lastUpdated": 1787410239455,
       "missedPrice": 2499.99,
       "missedImg": true,
       "title": "Rhapsody - 18K Yellow Gold AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.50 Ct.",
-      "auctionCode": "0019809050",
+      "auctionCode": "0019833670",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-turkizite-white-diamond-vs-e-f-pendant-5-60-ct-platinum-wt-3-75-gms-8641887",
       "productUrlChecked": 1785970872040,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787410239455,
+      "pdpPrice": "24999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8607635": {
       "sku": "8607635",
@@ -212148,8 +212153,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787410101598,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -217187,11 +217192,22 @@
         "followingSku": "8588751",
         "followingTitle": "Rhapsody 18K Yellow Gold AAAA Natural Trillion Cut Turkizite (8.05 Ct) & Natural White Diamond (VS-E-F 0.75 Ct) Ring 8.80 Ct, Gold Wt. 6.68 Gms",
         "followingAuctionCode": "0019833639"
+      },
+      {
+        "start": 1787410101598,
+        "end": 1787410239455,
+        "durationMin": 2.3,
+        "precedingSku": "8588751",
+        "precedingTitle": "Rhapsody 18K Yellow Gold AAAA Natural Trillion Cut Turkizite (8.05 Ct) & Natural White Diamond (VS-E-F 0.75 Ct) Ring 8.80 Ct, Gold Wt. 6.68 Gms",
+        "precedingAuctionCode": "0019833639",
+        "followingSku": "8641888",
+        "followingTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.50 Ct.",
+        "followingAuctionCode": "0019833670"
       }
     ],
-    "lastOnAirSku": "8588751",
-    "lastOnAirTitle": "Rhapsody 18K Yellow Gold AAAA Natural Trillion Cut Turkizite (8.05 Ct) & Natural White Diamond (VS-E-F 0.75 Ct) Ring 8.80 Ct, Gold Wt. 6.68 Gms",
-    "lastOnAirAuctionCode": "0019833639",
+    "lastOnAirSku": "8641888",
+    "lastOnAirTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.50 Ct.",
+    "lastOnAirAuctionCode": "0019833670",
     "precedingSku": "8588751",
     "precedingTitle": "Rhapsody 18K Yellow Gold AAAA Natural Trillion Cut Turkizite (8.05 Ct) & Natural White Diamond (VS-E-F 0.75 Ct) Ring 8.80 Ct, Gold Wt. 6.68 Gms",
     "precedingAuctionCode": "0019833639"
