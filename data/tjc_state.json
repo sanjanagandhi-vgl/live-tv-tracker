@@ -211780,11 +211780,29 @@
       "productUrl": null,
       "lastUpdated": 1787401582128,
       "source": "gha-variant"
+    },
+    "8501345": {
+      "sku": "8501345",
+      "firstAir": 1787402662074,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787402662074,
+      "title": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
+      "pdpPrice": "2999.99",
+      "auctionCode": "0019836177",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-22",
+      "time": "13:44:22",
+      "productUrl": null,
+      "lastUpdated": 1787402662074,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787402599556,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -216734,11 +216752,22 @@
         "followingSku": "8517442",
         "followingTitle": "First Time Ever- Lab Grown Diamond VS-SI-GH Bangle (Size - 7.5) in Rhodium Overlay Sterling Silver 4.30 Ct",
         "followingAuctionCode": "0019836186"
+      },
+      {
+        "start": 1787402599556,
+        "end": 1787402662074,
+        "durationMin": 1.0,
+        "precedingSku": "8354698",
+        "precedingTitle": "Luxuriant 950 Platinum IGI Certified Lab Grown Diamond (VS-EF) Pendant 7.00 Ct, Platinum Wt. 3.40 Gms.",
+        "precedingAuctionCode": "0019835825",
+        "followingSku": "8501345",
+        "followingTitle": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
+        "followingAuctionCode": "0019836177"
       }
     ],
-    "lastOnAirSku": "8354698",
-    "lastOnAirTitle": "Luxuriant 950 Platinum IGI Certified Lab Grown Diamond (VS-EF) Pendant 7.00 Ct, Platinum Wt. 3.40 Gms.",
-    "lastOnAirAuctionCode": "0019835825",
+    "lastOnAirSku": "8501345",
+    "lastOnAirTitle": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
+    "lastOnAirAuctionCode": "0019836177",
     "precedingSku": "8354698",
     "precedingTitle": "Luxuriant 950 Platinum IGI Certified Lab Grown Diamond (VS-EF) Pendant 7.00 Ct, Platinum Wt. 3.40 Gms.",
     "precedingAuctionCode": "0019835825"
