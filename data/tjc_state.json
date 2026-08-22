@@ -19239,21 +19239,22 @@
       "firstAir": 1785183645362,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785183982767,
-      "title": "Royal Bali Collection- 9K Yellow Gold Heart Ring",
-      "pdpPrice": 199.99,
-      "auctionCode": "0019797072",
-      "buy": false,
+      "lastAir": 1787438301470,
+      "title": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019836639",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "21:26:22",
-      "lastUpdated": 1785184158540,
+      "date": "2026-08-22",
+      "time": "23:38:21",
+      "lastUpdated": 1787438301470,
       "source": "gha",
       "missedAt": 1785184158540,
       "missedDelay": 3,
       "missedPrice": 199.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8412118": {
       "sku": "8412118",
@@ -214770,8 +214771,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787438180977,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -220227,11 +220228,22 @@
         "followingSku": "8601459",
         "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Elephant Head Pendant",
         "followingAuctionCode": "0019836626"
+      },
+      {
+        "start": 1787438180977,
+        "end": 1787438301470,
+        "durationMin": 2.0,
+        "precedingSku": "8601459",
+        "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Elephant Head Pendant",
+        "precedingAuctionCode": "0019836626",
+        "followingSku": "8412112",
+        "followingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+        "followingAuctionCode": "0019836639"
       }
     ],
-    "lastOnAirSku": "8601459",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Elephant Head Pendant",
-    "lastOnAirAuctionCode": "0019836626",
+    "lastOnAirSku": "8412112",
+    "lastOnAirTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+    "lastOnAirAuctionCode": "0019836639",
     "precedingSku": "8601459",
     "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Elephant Head Pendant",
     "precedingAuctionCode": "0019836626"
