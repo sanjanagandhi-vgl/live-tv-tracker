@@ -210809,11 +210809,29 @@
       "productUrl": null,
       "lastUpdated": 1787365462513,
       "source": "gha"
+    },
+    "8281369": {
+      "sku": "8281369",
+      "firstAir": 1787365582880,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787365582880,
+      "title": "Amethyst Geode Pendant in Yellow Gold Plated 15.00 Ct.",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019834210",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-22",
+      "time": "03:26:22",
+      "productUrl": null,
+      "lastUpdated": 1787365582880,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787365530711,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215334,11 +215352,22 @@
         "followingSku": "8513198",
         "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Pear Solitaire Pendant 1.05 Ct,",
         "followingAuctionCode": "0019834228"
+      },
+      {
+        "start": 1787365530711,
+        "end": 1787365582880,
+        "durationMin": 0.9,
+        "precedingSku": "8304598",
+        "precedingTitle": "White Mother Of Pearl Oxisided Elephant Pendant in Sterling Silver",
+        "precedingAuctionCode": "0019834220",
+        "followingSku": "8281369",
+        "followingTitle": "Amethyst Geode Pendant in Yellow Gold Plated 15.00 Ct.",
+        "followingAuctionCode": "0019834210"
       }
     ],
-    "lastOnAirSku": "8304598",
-    "lastOnAirTitle": "White Mother Of Pearl Oxisided Elephant Pendant in Sterling Silver",
-    "lastOnAirAuctionCode": "0019834220",
+    "lastOnAirSku": "8281369",
+    "lastOnAirTitle": "Amethyst Geode Pendant in Yellow Gold Plated 15.00 Ct.",
+    "lastOnAirAuctionCode": "0019834210",
     "precedingSku": "8304598",
     "precedingTitle": "White Mother Of Pearl Oxisided Elephant Pendant in Sterling Silver",
     "precedingAuctionCode": "0019834220"
