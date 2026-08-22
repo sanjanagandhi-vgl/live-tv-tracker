@@ -123732,17 +123732,17 @@
       "firstAir": 1786397485320,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787175678105,
+      "lastAir": 1787371466785,
       "title": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
       "pdpPrice": "49.99",
-      "auctionCode": "0019830683",
+      "auctionCode": "0019834275",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "22:41:18",
+      "date": "2026-08-22",
+      "time": "05:04:26",
       "productUrl": "/products/close-out-deal-9k-yellow-gold-dolphin-creole-earring-with-clasp-8613734",
-      "lastUpdated": 1787175678105,
+      "lastUpdated": 1787371466785,
       "source": "gha",
       "missedAt": 1786398142395,
       "missedDelay": 9,
@@ -211076,8 +211076,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787371400041,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215686,11 +215686,22 @@
         "followingSku": "7672989",
         "followingTitle": "Rachel Galley - 9K Yellow Gold Love Knot Stud Earring with Push Back",
         "followingAuctionCode": "0019834267"
+      },
+      {
+        "start": 1787371400041,
+        "end": 1787371466785,
+        "durationMin": 1.1,
+        "precedingSku": "7672989",
+        "precedingTitle": "Rachel Galley - 9K Yellow Gold Love Knot Stud Earring with Push Back",
+        "precedingAuctionCode": "0019834267",
+        "followingSku": "8613734",
+        "followingTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
+        "followingAuctionCode": "0019834275"
       }
     ],
-    "lastOnAirSku": "7672989",
-    "lastOnAirTitle": "Rachel Galley - 9K Yellow Gold Love Knot Stud Earring with Push Back",
-    "lastOnAirAuctionCode": "0019834267",
+    "lastOnAirSku": "8613734",
+    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
+    "lastOnAirAuctionCode": "0019834275",
     "precedingSku": "7672989",
     "precedingTitle": "Rachel Galley - 9K Yellow Gold Love Knot Stud Earring with Push Back",
     "precedingAuctionCode": "0019834267"
