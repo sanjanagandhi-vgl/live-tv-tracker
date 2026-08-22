@@ -20336,17 +20336,23 @@
       "sku": "8591116",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "11:44:23",
+      "date": "2026-08-23",
+      "time": "00:15:37",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785321863299,
+      "lastUpdated": 1787440537102,
       "missedPrice": 249.99,
       "missedImg": true,
       "title": "9K Yellow Gold AAAA Golden South Sea Pearl (10-12mm) Stud Ball Earring with Push Post",
-      "auctionCode": "0019798881",
-      "source": "gha"
+      "auctionCode": "0019836647",
+      "source": "gha",
+      "lastAir": 1787440537102,
+      "pdpPrice": "329.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8294124": {
       "sku": "8294124",
@@ -214981,8 +214987,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787440462489,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -220493,11 +220499,22 @@
         "followingSku": "8055952",
         "followingTitle": "9K Yellow Gold Spiga Necklace",
         "followingAuctionCode": "0019836618"
+      },
+      {
+        "start": 1787440462489,
+        "end": 1787440537102,
+        "durationMin": 1.2,
+        "precedingSku": "8412239",
+        "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Designer Panther Ring",
+        "precedingAuctionCode": "0019836633",
+        "followingSku": "8591116",
+        "followingTitle": "9K Yellow Gold AAAA Golden South Sea Pearl (10-12mm) Stud Ball Earring with Push Post",
+        "followingAuctionCode": "0019836647"
       }
     ],
-    "lastOnAirSku": "8412239",
-    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Designer Panther Ring",
-    "lastOnAirAuctionCode": "0019836633",
+    "lastOnAirSku": "8591116",
+    "lastOnAirTitle": "9K Yellow Gold AAAA Golden South Sea Pearl (10-12mm) Stud Ball Earring with Push Post",
+    "lastOnAirAuctionCode": "0019836647",
     "precedingSku": "8412239",
     "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Designer Panther Ring",
     "precedingAuctionCode": "0019836633"
