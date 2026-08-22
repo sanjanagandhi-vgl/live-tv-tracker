@@ -211254,9 +211254,16 @@
       "img": false,
       "date": "2026-08-22",
       "time": "11:23:19",
-      "productUrl": null,
-      "lastUpdated": 1787394199671,
-      "source": "gha"
+      "productUrl": "/products/romy-necklace-size-22-with-lobster-clasp-in-sterling-silver-silver-wt-11-60-gms-8673757",
+      "lastUpdated": 1787394798559,
+      "source": "gha",
+      "missedAt": 1787394798559,
+      "missedDelay": 10,
+      "missedPrice": 69.99,
+      "missedImg": false,
+      "productUrlChecked": 1787394802319,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8675502": {
       "sku": "8675502",
@@ -211275,11 +211282,51 @@
       "productUrl": null,
       "lastUpdated": 1787394503131,
       "source": "gha"
+    },
+    "8673790": {
+      "sku": "8673790",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-22",
+      "time": "11:33:18",
+      "preExisting": true,
+      "missedAt": 1787394798559,
+      "missedDelay": null,
+      "lastUpdated": 1787394798559,
+      "missedPrice": 69.99,
+      "missedImg": false,
+      "title": "New Launch Italian Made Romy Necklace (Size - 24) with Lobster Clasp in Sterling Silver",
+      "auctionCode": "0019836220",
+      "source": "gha",
+      "productUrl": "/products/romy-necklace-size-22-with-lobster-clasp-in-sterling-silver-silver-wt-11-60-gms-8673757",
+      "productUrlChecked": 1787394803199,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8673781": {
+      "sku": "8673781",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-22",
+      "time": "11:33:18",
+      "preExisting": true,
+      "missedAt": 1787394798559,
+      "missedDelay": null,
+      "lastUpdated": 1787394798559,
+      "missedPrice": 69.99,
+      "missedImg": false,
+      "title": "New Launch Italian Made Romy Necklace (Size - 30) with Lobster Clasp in Sterling Silver",
+      "auctionCode": "0019836221",
+      "source": "gha",
+      "productUrl": "/products/romy-necklace-size-22-with-lobster-clasp-in-sterling-silver-silver-wt-11-60-gms-8673757",
+      "productUrlChecked": 1787394803393,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787394798559,
     "gaps": [
       {
         "start": 1785823527869,
@@ -216146,8 +216193,8 @@
     "lastOnAirSku": "8620470",
     "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
     "lastOnAirAuctionCode": "0019836252",
-    "precedingSku": "8620514",
+    "precedingSku": "8620470",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
-    "precedingAuctionCode": "0019836251"
+    "precedingAuctionCode": "0019836252"
   }
 }
