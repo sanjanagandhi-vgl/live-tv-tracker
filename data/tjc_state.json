@@ -104508,23 +104508,23 @@
       "sku": "8567946",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "20:47:20",
+      "date": "2026-08-22",
+      "time": "16:29:18",
       "preExisting": true,
       "missedAt": 1786194057639,
       "missedDelay": null,
-      "lastUpdated": 1786823240229,
+      "lastUpdated": 1787412558684,
       "missedPrice": 5999.99,
       "missedImg": true,
       "title": "RHAPSODY 950 Platinum AAAA Natural Turkizite Tennis Bracelet (Size - 7.5) 27.56 Ct, Platinum Wt.10.72 Gms",
-      "auctionCode": "0019821021",
+      "auctionCode": "0019833675",
       "source": "gha",
       "productUrl": "/products/rhapsody-aaaa-turkizite-cluster-bracelet",
       "productUrlChecked": 1786194061294,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1786823240229,
-      "pdpPrice": "4999.99",
+      "lastAir": 1787412558684,
+      "pdpPrice": "5999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -212178,8 +212178,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787412502010,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -217250,11 +217250,22 @@
         "followingSku": "8637949",
         "followingTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
         "followingAuctionCode": "0019833655"
+      },
+      {
+        "start": 1787412502010,
+        "end": 1787412558684,
+        "durationMin": 0.9,
+        "precedingSku": "8637949",
+        "precedingTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+        "precedingAuctionCode": "0019833655",
+        "followingSku": "8567946",
+        "followingTitle": "RHAPSODY 950 Platinum AAAA Natural Turkizite Tennis Bracelet (Size - 7.5) 27.56 Ct, Platinum Wt.10.72 Gms",
+        "followingAuctionCode": "0019833675"
       }
     ],
-    "lastOnAirSku": "8637949",
-    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
-    "lastOnAirAuctionCode": "0019833655",
+    "lastOnAirSku": "8567946",
+    "lastOnAirTitle": "RHAPSODY 950 Platinum AAAA Natural Turkizite Tennis Bracelet (Size - 7.5) 27.56 Ct, Platinum Wt.10.72 Gms",
+    "lastOnAirAuctionCode": "0019833675",
     "precedingSku": "8637949",
     "precedingTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
     "precedingAuctionCode": "0019833655"
