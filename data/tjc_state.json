@@ -3685,19 +3685,19 @@
       "sku": "8626601",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "16:29:19",
+      "date": "2026-08-22",
+      "time": "21:25:28",
       "preExisting": true,
       "missedAt": 1784879598171,
       "missedDelay": null,
-      "lastUpdated": 1786634959466,
+      "lastUpdated": 1787430328471,
       "missedPrice": 179.99,
       "missedImg": true,
-      "title": "Biggest Close Out -9K Yellow Gold Spiga Necklace (Size - 24)",
-      "auctionCode": "0019818733",
+      "title": "9K Yellow Gold Spiga Necklace (Size - 22)",
+      "auctionCode": "0019836415",
       "source": "gha",
-      "lastAir": 1786634959466,
-      "pdpPrice": "199.99",
+      "lastAir": 1787430328471,
+      "pdpPrice": "499.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -214082,8 +214082,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787430262764,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -219341,11 +219341,22 @@
         "followingSku": "8412009",
         "followingTitle": "Luxuriant - 950 Platinum SGL Certified VS-EF Lab Grown Diamond Oval Cut Halo Pendant 4.55 Ct, Platinum Wt. 4.77 Gms",
         "followingAuctionCode": "0019837005"
+      },
+      {
+        "start": 1787430262764,
+        "end": 1787430328471,
+        "durationMin": 1.1,
+        "precedingSku": "8412009",
+        "precedingTitle": "Luxuriant - 950 Platinum SGL Certified VS-EF Lab Grown Diamond Oval Cut Halo Pendant 4.55 Ct, Platinum Wt. 4.77 Gms",
+        "precedingAuctionCode": "0019837005",
+        "followingSku": "8626601",
+        "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
+        "followingAuctionCode": "0019836415"
       }
     ],
-    "lastOnAirSku": "8412009",
-    "lastOnAirTitle": "Luxuriant - 950 Platinum SGL Certified VS-EF Lab Grown Diamond Oval Cut Halo Pendant 4.55 Ct, Platinum Wt. 4.77 Gms",
-    "lastOnAirAuctionCode": "0019837005",
+    "lastOnAirSku": "8626601",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
+    "lastOnAirAuctionCode": "0019836415",
     "precedingSku": "8412009",
     "precedingTitle": "Luxuriant - 950 Platinum SGL Certified VS-EF Lab Grown Diamond Oval Cut Halo Pendant 4.55 Ct, Platinum Wt. 4.77 Gms",
     "precedingAuctionCode": "0019837005"
