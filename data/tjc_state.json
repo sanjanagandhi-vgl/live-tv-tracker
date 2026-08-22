@@ -7632,8 +7632,16 @@
       "img": true,
       "date": "2026-07-25",
       "time": "04:43:21",
-      "lastUpdated": 1784951001660,
-      "source": "gha"
+      "lastUpdated": 1787434998040,
+      "source": "gha",
+      "missedAt": 1787434998040,
+      "missedDelay": 41400,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "productUrl": "/products/djoy-sterling-silver-bracelet",
+      "productUrlChecked": 1787435001188,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8380884": {
       "sku": "8380884",
@@ -214287,9 +214295,16 @@
       "img": true,
       "date": "2026-08-22",
       "time": "22:33:21",
-      "productUrl": null,
-      "lastUpdated": 1787434401135,
-      "source": "gha"
+      "productUrl": "/products/djoy-sterling-silver-bracelet",
+      "lastUpdated": 1787434998040,
+      "source": "gha",
+      "missedAt": 1787434998040,
+      "missedDelay": 10,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "productUrlChecked": 1787435001896,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8261730": {
       "sku": "8261730",
@@ -214390,11 +214405,31 @@
       "productUrlChecked": 1787434534389,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8280045": {
+      "sku": "8280045",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-22",
+      "time": "22:43:18",
+      "preExisting": true,
+      "missedAt": 1787434998040,
+      "missedDelay": null,
+      "lastUpdated": 1787434998040,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "title": "D'Joy Bali Legacy Sterling Silver Bracelet (Size 8.5) with Dragon Head Clasp, Silver Wt. 65.00 Gms.",
+      "auctionCode": "0019836538",
+      "source": "gha",
+      "productUrl": "/products/djoy-sterling-silver-bracelet",
+      "productUrlChecked": 1787435003099,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787434998040,
     "gaps": [
       {
         "start": 1785823527869,
@@ -219756,8 +219791,8 @@
     "lastOnAirSku": "8536334",
     "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Memory of Elephants Bracelet (Size - 7.5) with T Bar Clasp",
     "lastOnAirAuctionCode": "0019836550",
-    "precedingSku": "8280043",
-    "precedingTitle": "D'Joy Sterling Silver Bracelet",
-    "precedingAuctionCode": "0019836527"
+    "precedingSku": "8536334",
+    "precedingTitle": "Royal Bali Collection - Sterling Silver Memory of Elephants Bracelet (Size - 7.5) with T Bar Clasp",
+    "precedingAuctionCode": "0019836550"
   }
 }
