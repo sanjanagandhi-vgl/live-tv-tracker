@@ -8509,21 +8509,22 @@
       "firstAir": 1784967198374,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784968877730,
-      "title": "First Time Ever- Lab Grown Diamond VS-SI/GH Bangle (Size - 7.5) in Rhodium Overlay Sterling Silver 4.30 Ct",
-      "pdpPrice": 799.99,
-      "auctionCode": "0019794427",
-      "buy": false,
-      "login": true,
+      "lastAir": 1787401704722,
+      "title": "First Time Ever- Lab Grown Diamond VS-SI-GH Bangle (Size - 7.5) in Rhodium Overlay Sterling Silver 4.30 Ct",
+      "pdpPrice": "1499.99",
+      "auctionCode": "0019836186",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "09:41:17",
-      "lastUpdated": 1784969904221,
+      "date": "2026-08-22",
+      "time": "13:28:24",
+      "lastUpdated": 1787401704722,
       "source": "gha",
       "missedAt": 1784969904221,
       "missedDelay": 17,
       "missedPrice": 599.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8500976": {
       "sku": "8500976",
@@ -211781,8 +211782,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787401641062,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -216721,11 +216722,22 @@
         "followingSku": "8043592",
         "followingTitle": "Luxuriant Diamond Lab Grown Diamond Double Halo Ring in 950 Platinum, IGI Certified",
         "followingAuctionCode": "0019836165"
+      },
+      {
+        "start": 1787401641062,
+        "end": 1787401704722,
+        "durationMin": 1.1,
+        "precedingSku": "8043592",
+        "precedingTitle": "Luxuriant Diamond Lab Grown Diamond Double Halo Ring in 950 Platinum, IGI Certified",
+        "precedingAuctionCode": "0019836165",
+        "followingSku": "8517442",
+        "followingTitle": "First Time Ever- Lab Grown Diamond VS-SI-GH Bangle (Size - 7.5) in Rhodium Overlay Sterling Silver 4.30 Ct",
+        "followingAuctionCode": "0019836186"
       }
     ],
-    "lastOnAirSku": "8043592",
-    "lastOnAirTitle": "Luxuriant Diamond Lab Grown Diamond Double Halo Ring in 950 Platinum, IGI Certified",
-    "lastOnAirAuctionCode": "0019836165",
+    "lastOnAirSku": "8517442",
+    "lastOnAirTitle": "First Time Ever- Lab Grown Diamond VS-SI-GH Bangle (Size - 7.5) in Rhodium Overlay Sterling Silver 4.30 Ct",
+    "lastOnAirAuctionCode": "0019836186",
     "precedingSku": "8043592",
     "precedingTitle": "Luxuriant Diamond Lab Grown Diamond Double Halo Ring in 950 Platinum, IGI Certified",
     "precedingAuctionCode": "0019836165"
