@@ -165605,17 +165605,17 @@
       "firstAir": 1786838184116,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787298039330,
+      "lastAir": 1787371761745,
       "title": "Maestro Collection - 9K Yellow Gold Italian Made Band Ring",
-      "pdpPrice": 59.99,
-      "auctionCode": "0019833633",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019834288",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-21",
-      "time": "08:40:39",
+      "date": "2026-08-22",
+      "time": "05:09:21",
       "productUrl": "/products/maestro-collection-9k-yellow-gold-italian-made-band-ring?variant=53105696637194",
-      "lastUpdated": 1787298039330,
+      "lastUpdated": 1787371761745,
       "source": "gha",
       "missedAt": 1786839200509,
       "missedDelay": 9,
@@ -211076,8 +211076,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787371702193,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215697,11 +215697,22 @@
         "followingSku": "8613734",
         "followingTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
         "followingAuctionCode": "0019834275"
+      },
+      {
+        "start": 1787371702193,
+        "end": 1787371761745,
+        "durationMin": 1.0,
+        "precedingSku": "8163344",
+        "precedingTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
+        "precedingAuctionCode": "0019834286",
+        "followingSku": "8416253",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Italian Made Band Ring",
+        "followingAuctionCode": "0019834288"
       }
     ],
-    "lastOnAirSku": "8163344",
-    "lastOnAirTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
-    "lastOnAirAuctionCode": "0019834286",
+    "lastOnAirSku": "8416253",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Italian Made Band Ring",
+    "lastOnAirAuctionCode": "0019834288",
     "precedingSku": "8163344",
     "precedingTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
     "precedingAuctionCode": "0019834286"
