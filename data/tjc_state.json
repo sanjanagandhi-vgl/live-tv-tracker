@@ -1726,22 +1726,22 @@
       "sku": "8637949",
       "tvPrice": "",
       "remarks": "",
-      "time": "14:04:21",
+      "time": "16:15:40",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 3999.99,
       "missedImg": false,
-      "title": "Rhapsody - 950 Platinum AAAA Natural Turkizite Solitaire Ring 9.84 Ct, Platinum Wt. 7.80 Gms",
-      "auctionCode": "0019810946",
+      "title": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+      "auctionCode": "0019833655",
       "source": "gha",
-      "lastAir": 1786194261824,
-      "pdpPrice": "3999.99",
+      "lastAir": 1787411740153,
+      "pdpPrice": "42799.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-08",
-      "lastUpdated": 1786194261824,
+      "date": "2026-08-22",
+      "lastUpdated": 1787411740153,
       "productUrl": null
     },
     "8657969": {
@@ -212171,8 +212171,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787411598908,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -217232,11 +217232,22 @@
         "followingSku": "8580253",
         "followingTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite Solitaire Pendant 20.00 Ct, Gold Wt. 4.00 Gms",
         "followingAuctionCode": "0019836267"
+      },
+      {
+        "start": 1787411598908,
+        "end": 1787411740153,
+        "durationMin": 2.4,
+        "precedingSku": "8580253",
+        "precedingTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite Solitaire Pendant 20.00 Ct, Gold Wt. 4.00 Gms",
+        "precedingAuctionCode": "0019836267",
+        "followingSku": "8637949",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+        "followingAuctionCode": "0019833655"
       }
     ],
-    "lastOnAirSku": "8580253",
-    "lastOnAirTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite Solitaire Pendant 20.00 Ct, Gold Wt. 4.00 Gms",
-    "lastOnAirAuctionCode": "0019836267",
+    "lastOnAirSku": "8637949",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+    "lastOnAirAuctionCode": "0019833655",
     "precedingSku": "8580253",
     "precedingTitle": "Rhapsody - 18K Yellow Gold AAAA Turkizite Solitaire Pendant 20.00 Ct, Gold Wt. 4.00 Gms",
     "precedingAuctionCode": "0019836267"
