@@ -215004,14 +215004,39 @@
       "img": true,
       "date": "2026-08-23",
       "time": "00:20:36",
+      "productUrl": "/products/royal-bali-collection-9k-yellow-gold-golden-south-sea-pearl-pendant-9-05-ct-8591115",
+      "lastUpdated": 1787441452599,
+      "source": "gha",
+      "missedAt": 1787441452599,
+      "missedDelay": 10,
+      "missedPrice": 149.99,
+      "missedImg": true,
+      "productUrlChecked": 1787441455707,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8527311": {
+      "sku": "8527311",
+      "firstAir": 1787441452599,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787441452599,
+      "title": "D'Joy African Ruby White Zircon Fancy Ring in Sterling Silver",
+      "pdpPrice": "909.99",
+      "auctionCode": "0019836673",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "00:30:52",
       "productUrl": null,
-      "lastUpdated": 1787440836479,
+      "lastUpdated": 1787441452599,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787441357885,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -220544,11 +220569,22 @@
         "followingSku": "8514093",
         "followingTitle": "Royal Bali Collection - D'Joy Labradorite Dragon Ring in Yellow Gold Plated Sterling Silver 13.36 Ct",
         "followingAuctionCode": "0019836650"
+      },
+      {
+        "start": 1787441357885,
+        "end": 1787441452599,
+        "durationMin": 1.6,
+        "precedingSku": "8514209",
+        "precedingTitle": "Royal Bali Collection - D'Joy Labradorite Dragon Pendant in Yellow Gold Plated Sterling Silver 18.16 Ct.",
+        "precedingAuctionCode": "0019836668",
+        "followingSku": "8527311",
+        "followingTitle": "D'Joy African Ruby White Zircon Fancy Ring in Sterling Silver",
+        "followingAuctionCode": "0019836673"
       }
     ],
-    "lastOnAirSku": "8514209",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Labradorite Dragon Pendant in Yellow Gold Plated Sterling Silver 18.16 Ct.",
-    "lastOnAirAuctionCode": "0019836668",
+    "lastOnAirSku": "8527311",
+    "lastOnAirTitle": "D'Joy African Ruby White Zircon Fancy Ring in Sterling Silver",
+    "lastOnAirAuctionCode": "0019836673",
     "precedingSku": "8514209",
     "precedingTitle": "Royal Bali Collection - D'Joy Labradorite Dragon Pendant in Yellow Gold Plated Sterling Silver 18.16 Ct.",
     "precedingAuctionCode": "0019836668"
