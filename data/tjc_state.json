@@ -13862,17 +13862,23 @@
       "sku": "8666627",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-26",
-      "time": "13:44:23",
+      "date": "2026-08-22",
+      "time": "07:09:18",
       "preExisting": true,
       "missedAt": 1785069863496,
       "missedDelay": null,
-      "lastUpdated": 1785069863496,
+      "lastUpdated": 1787378958639,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "One Truth 818- Atomiser - 50ml",
-      "auctionCode": "0019795782",
-      "source": "gha"
+      "auctionCode": "0019834393",
+      "source": "gha",
+      "lastAir": 1787378958639,
+      "pdpPrice": "239.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8071944": {
       "sku": "8071944",
@@ -211158,8 +211164,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787378783002,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215900,11 +215906,22 @@
         "followingSku": "7437186",
         "followingTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
         "followingAuctionCode": "0019834396"
+      },
+      {
+        "start": 1787378783002,
+        "end": 1787378958639,
+        "durationMin": 2.9,
+        "precedingSku": "7437186",
+        "precedingTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
+        "precedingAuctionCode": "0019834396",
+        "followingSku": "8666627",
+        "followingTitle": "One Truth 818- Atomiser - 50ml",
+        "followingAuctionCode": "0019834393"
       }
     ],
-    "lastOnAirSku": "7437186",
-    "lastOnAirTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
-    "lastOnAirAuctionCode": "0019834396",
+    "lastOnAirSku": "8666627",
+    "lastOnAirTitle": "One Truth 818- Atomiser - 50ml",
+    "lastOnAirAuctionCode": "0019834393",
     "precedingSku": "7437186",
     "precedingTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
     "precedingAuctionCode": "0019834396"
