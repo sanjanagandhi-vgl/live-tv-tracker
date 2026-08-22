@@ -150060,17 +150060,17 @@
       "firstAir": 1786654347054,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786654530387,
+      "lastAir": 1787394862236,
       "title": "Sterling Silver Hoop Earring with Clasp",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019820426",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019836250",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-13",
-      "time": "21:55:30",
+      "date": "2026-08-22",
+      "time": "11:34:22",
       "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8620512",
-      "lastUpdated": 1786655134974,
+      "lastUpdated": 1787394862236,
       "source": "gha",
       "missedAt": 1786655134974,
       "missedDelay": 10,
@@ -211325,8 +211325,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787394798559,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -216188,11 +216188,22 @@
         "followingSku": "8620470",
         "followingTitle": "Sterling Silver Hoop Earring with Clasp",
         "followingAuctionCode": "0019836252"
+      },
+      {
+        "start": 1787394798559,
+        "end": 1787394862236,
+        "durationMin": 1.1,
+        "precedingSku": "8620470",
+        "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019836252",
+        "followingSku": "8620512",
+        "followingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "followingAuctionCode": "0019836250"
       }
     ],
-    "lastOnAirSku": "8620470",
+    "lastOnAirSku": "8620512",
     "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019836252",
+    "lastOnAirAuctionCode": "0019836250",
     "precedingSku": "8620470",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
     "precedingAuctionCode": "0019836252"
