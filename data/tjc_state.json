@@ -23122,16 +23122,16 @@
       "firstAir": 1785393051695,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787120359016,
+      "lastAir": 1787377536640,
       "title": "Cetuem- Illuminating Skin Cleanser & Toner - 100ml Each",
       "pdpPrice": "29.99",
-      "auctionCode": "0019829033",
+      "auctionCode": "0019834399",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "07:19:19",
-      "lastUpdated": 1787120359016,
+      "date": "2026-08-22",
+      "time": "06:45:36",
+      "lastUpdated": 1787377536640,
       "source": "gha",
       "missedAt": 1785393860873,
       "missedDelay": 0,
@@ -211126,8 +211126,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787377400278,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215824,11 +215824,22 @@
         "followingSku": "8019222",
         "followingTitle": "BEAUTECH - Double Head Hair Remover - 6-Level Waterproof, High-Speed & Type-C Rechargeable",
         "followingAuctionCode": "0019834323"
+      },
+      {
+        "start": 1787377400278,
+        "end": 1787377536640,
+        "durationMin": 2.3,
+        "precedingSku": "8019222",
+        "precedingTitle": "BEAUTECH - Double Head Hair Remover - 6-Level Waterproof, High-Speed & Type-C Rechargeable",
+        "precedingAuctionCode": "0019834323",
+        "followingSku": "6017276",
+        "followingTitle": "Cetuem- Illuminating Skin Cleanser & Toner - 100ml Each",
+        "followingAuctionCode": "0019834399"
       }
     ],
-    "lastOnAirSku": "8019222",
-    "lastOnAirTitle": "BEAUTECH - Double Head Hair Remover - 6-Level Waterproof, High-Speed & Type-C Rechargeable",
-    "lastOnAirAuctionCode": "0019834323",
+    "lastOnAirSku": "6017276",
+    "lastOnAirTitle": "Cetuem- Illuminating Skin Cleanser & Toner - 100ml Each",
+    "lastOnAirAuctionCode": "0019834399",
     "precedingSku": "8019222",
     "precedingTitle": "BEAUTECH - Double Head Hair Remover - 6-Level Waterproof, High-Speed & Type-C Rechargeable",
     "precedingAuctionCode": "0019834323"
