@@ -214237,9 +214237,16 @@
       "img": true,
       "date": "2026-08-22",
       "time": "22:24:24",
-      "productUrl": null,
-      "lastUpdated": 1787433864214,
-      "source": "gha"
+      "productUrl": "/products/royal-bali-collection-handmade-sterling-silver-pebble-ring-silver-wt-6-30-gms",
+      "lastUpdated": 1787434462575,
+      "source": "gha",
+      "missedAt": 1787434462575,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1787434466561,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8157749": {
       "sku": "8157749",
@@ -214296,11 +214303,51 @@
       "productUrlChecked": 1787434254800,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7748582": {
+      "sku": "7748582",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-22",
+      "time": "22:34:22",
+      "preExisting": true,
+      "missedAt": 1787434462575,
+      "missedDelay": null,
+      "lastUpdated": 1787434462575,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Royal Bali Collection - Handmade Sterling Silver Pebble Ring, Silver Wt. 6.30 Gms.",
+      "auctionCode": "0019836515",
+      "source": "gha",
+      "productUrl": "/products/royal-bali-collection-handmade-sterling-silver-pebble-ring-silver-wt-6-30-gms",
+      "productUrlChecked": 1787434467739,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7748583": {
+      "sku": "7748583",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-22",
+      "time": "22:34:22",
+      "preExisting": true,
+      "missedAt": 1787434462575,
+      "missedDelay": null,
+      "lastUpdated": 1787434462575,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Royal Bali Collection - Handmade Sterling Silver Pebble Ring, Silver Wt. 6.30 Gms.",
+      "auctionCode": "0019836516",
+      "source": "gha",
+      "productUrl": "/products/royal-bali-collection-handmade-sterling-silver-pebble-ring-silver-wt-6-30-gms",
+      "productUrlChecked": 1787434467934,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787434462575,
     "gaps": [
       {
         "start": 1785823527869,
@@ -219651,8 +219698,8 @@
     "lastOnAirSku": "8280043",
     "lastOnAirTitle": "D'Joy Sterling Silver Bracelet",
     "lastOnAirAuctionCode": "0019836527",
-    "precedingSku": "8157749",
-    "precedingTitle": "Royal Bali Collection - Sterling Silver Dragon Ring, Silver Wt. 5.41 Gms.",
-    "precedingAuctionCode": "0019836517"
+    "precedingSku": "8280043",
+    "precedingTitle": "D'Joy Sterling Silver Bracelet",
+    "precedingAuctionCode": "0019836527"
   }
 }
