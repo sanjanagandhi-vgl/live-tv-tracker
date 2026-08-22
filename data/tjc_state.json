@@ -9196,17 +9196,23 @@
       "sku": "8513198",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-25",
-      "time": "14:05:28",
+      "date": "2026-08-22",
+      "time": "03:13:19",
       "preExisting": true,
       "missedAt": 1784984728682,
       "missedDelay": null,
-      "lastUpdated": 1784984728682,
+      "lastUpdated": 1787364799385,
       "missedPrice": 399.99,
       "missedImg": true,
-      "title": "950 Platinum AAAA Tanzanite Pear Solitaire Pendant 1.05 Ct,",
-      "auctionCode": "0019794875",
-      "source": "gha"
+      "title": "Rhapsody 950 Platinum AAAA Tanzanite Pear Solitaire Pendant 1.05 Ct,",
+      "auctionCode": "0019834228",
+      "source": "gha",
+      "lastAir": 1787364799385,
+      "pdpPrice": "599.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8502647": {
       "sku": "8502647",
@@ -210742,8 +210748,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787364742667,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215253,11 +215259,22 @@
         "followingSku": "8324798",
         "followingTitle": "D'Joy Paraiba Moonstone & White Zircon Earring with Push Back in 18K Yellow Gold Plated Sterling Silver 2.57 Ct, Silver Wt. 4.92 Gms.",
         "followingAuctionCode": "0019834271"
+      },
+      {
+        "start": 1787364742667,
+        "end": 1787364799385,
+        "durationMin": 0.9,
+        "precedingSku": "8310257",
+        "precedingTitle": "THE MARROPINO EMPRESS - 14K Rose Gold AAA Marropino Morganite & Natural  White Diamond Pendant 4.62 Ct.",
+        "precedingAuctionCode": "0019834227",
+        "followingSku": "8513198",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Pear Solitaire Pendant 1.05 Ct,",
+        "followingAuctionCode": "0019834228"
       }
     ],
-    "lastOnAirSku": "8310257",
-    "lastOnAirTitle": "THE MARROPINO EMPRESS - 14K Rose Gold AAA Marropino Morganite & Natural  White Diamond Pendant 4.62 Ct.",
-    "lastOnAirAuctionCode": "0019834227",
+    "lastOnAirSku": "8513198",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Pear Solitaire Pendant 1.05 Ct,",
+    "lastOnAirAuctionCode": "0019834228",
     "precedingSku": "8310257",
     "precedingTitle": "THE MARROPINO EMPRESS - 14K Rose Gold AAA Marropino Morganite & Natural  White Diamond Pendant 4.62 Ct.",
     "precedingAuctionCode": "0019834227"
