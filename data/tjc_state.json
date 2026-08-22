@@ -193346,17 +193346,17 @@
       "firstAir": 1787174790900,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787174959615,
+      "lastAir": 1787372839880,
       "title": "23K Yellow Gold (95.8% Purity) Spiga Necklace (Size 18) 3.80 gram",
-      "pdpPrice": "799.99",
-      "auctionCode": "0019830669",
+      "pdpPrice": "12899.99",
+      "auctionCode": "0019834293",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "22:29:19",
+      "date": "2026-08-22",
+      "time": "05:27:19",
       "productUrl": "/products/23k-yellow-gold-95-8-purity-spiga-necklace-size-18-3-80-gram",
-      "lastUpdated": 1787175501324,
+      "lastUpdated": 1787372839880,
       "source": "gha",
       "missedAt": 1787175501324,
       "missedDelay": 9,
@@ -211083,8 +211083,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787372785358,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215726,11 +215726,22 @@
         "followingSku": "8635021",
         "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
         "followingAuctionCode": "0019836121"
+      },
+      {
+        "start": 1787372785358,
+        "end": 1787372839880,
+        "durationMin": 0.9,
+        "precedingSku": "8635021",
+        "precedingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+        "precedingAuctionCode": "0019836121",
+        "followingSku": "8369219",
+        "followingTitle": "23K Yellow Gold (95.8% Purity) Spiga Necklace (Size 18) 3.80 gram",
+        "followingAuctionCode": "0019834293"
       }
     ],
-    "lastOnAirSku": "8635021",
-    "lastOnAirTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
-    "lastOnAirAuctionCode": "0019836121",
+    "lastOnAirSku": "8369219",
+    "lastOnAirTitle": "23K Yellow Gold (95.8% Purity) Spiga Necklace (Size 18) 3.80 gram",
+    "lastOnAirAuctionCode": "0019834293",
     "precedingSku": "8635021",
     "precedingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
     "precedingAuctionCode": "0019836121"
