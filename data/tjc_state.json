@@ -212996,9 +212996,16 @@
       "img": true,
       "date": "2026-08-22",
       "time": "19:19:19",
-      "productUrl": null,
-      "lastUpdated": 1787422759086,
-      "source": "gha"
+      "productUrl": "/products/djoy-fissure-filled-ruby-bracelet-size-7-in-rhodium-overlaysterling-silver-silver-wt-8-5-gms-36-000-ct-8685325",
+      "lastUpdated": 1787423359955,
+      "source": "gha",
+      "missedAt": 1787423359955,
+      "missedDelay": 10,
+      "missedPrice": 399.99,
+      "missedImg": true,
+      "productUrlChecked": 1787423363680,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7341877": {
       "sku": "7341877",
@@ -213017,11 +213024,51 @@
       "productUrl": null,
       "lastUpdated": 1787423304652,
       "source": "gha"
+    },
+    "8685537": {
+      "sku": "8685537",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-22",
+      "time": "19:29:19",
+      "preExisting": true,
+      "missedAt": 1787423359955,
+      "missedDelay": null,
+      "lastUpdated": 1787423359955,
+      "missedPrice": 399.99,
+      "missedImg": true,
+      "title": "D'Joy - AAA African Ruby Tennis Bracelet (Size - 8) in Rhodium Overlay Sterling Silver 39.00 Ct.",
+      "auctionCode": "0019836006",
+      "source": "gha",
+      "productUrl": "/products/djoy-fissure-filled-ruby-bracelet-size-7-in-rhodium-overlaysterling-silver-silver-wt-8-5-gms-36-000-ct-8685325",
+      "productUrlChecked": 1787423363883,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8685536": {
+      "sku": "8685536",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-22",
+      "time": "19:29:19",
+      "preExisting": true,
+      "missedAt": 1787423359955,
+      "missedDelay": null,
+      "lastUpdated": 1787423359955,
+      "missedPrice": 399.99,
+      "missedImg": true,
+      "title": "D'Joy - AAA African Ruby Tennis Bracelet (Size - 7.5) in Rhodium Overlay Sterling Silver 33.12 Ct.",
+      "auctionCode": "0019836007",
+      "source": "gha",
+      "productUrl": "/products/djoy-fissure-filled-ruby-bracelet-size-7-in-rhodium-overlaysterling-silver-silver-wt-8-5-gms-36-000-ct-8685325",
+      "productUrlChecked": 1787423364717,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787423359955,
     "gaps": [
       {
         "start": 1785823527869,
@@ -218240,8 +218287,8 @@
     "lastOnAirSku": "7341877",
     "lastOnAirTitle": "African Ruby and Natural Zircon Ring in Platinum Overlay Sterling Silver 3.50 Ct",
     "lastOnAirAuctionCode": "0019836335",
-    "precedingSku": "8535388",
-    "precedingTitle": "African Ruby, White Zircon & Blue Sapphire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.44 Ct.",
-    "precedingAuctionCode": "0019836299"
+    "precedingSku": "7341877",
+    "precedingTitle": "African Ruby and Natural Zircon Ring in Platinum Overlay Sterling Silver 3.50 Ct",
+    "precedingAuctionCode": "0019836335"
   }
 }
