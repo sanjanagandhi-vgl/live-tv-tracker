@@ -6062,16 +6062,16 @@
       "firstAir": 1784913141766,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787287538777,
-      "title": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Z...",
-      "pdpPrice": 59.99,
-      "auctionCode": "0019833592",
+      "lastAir": 1787381479102,
+      "title": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
+      "pdpPrice": "300.99",
+      "auctionCode": "0019834304",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-21",
-      "time": "05:45:38",
-      "lastUpdated": 1787287538777,
+      "date": "2026-08-22",
+      "time": "07:51:19",
+      "lastUpdated": 1787381479102,
       "source": "gha",
       "missedAt": 1784916085649,
       "missedDelay": 0,
@@ -211164,8 +211164,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787381062969,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -215917,11 +215917,22 @@
         "followingSku": "8666627",
         "followingTitle": "One Truth 818- Atomiser - 50ml",
         "followingAuctionCode": "0019834393"
+      },
+      {
+        "start": 1787381062969,
+        "end": 1787381479102,
+        "durationMin": 6.9,
+        "precedingSku": "8666627",
+        "precedingTitle": "One Truth 818- Atomiser - 50ml",
+        "precedingAuctionCode": "0019834393",
+        "followingSku": "8704567",
+        "followingTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
+        "followingAuctionCode": "0019834304"
       }
     ],
-    "lastOnAirSku": "8666627",
-    "lastOnAirTitle": "One Truth 818- Atomiser - 50ml",
-    "lastOnAirAuctionCode": "0019834393",
+    "lastOnAirSku": "8704567",
+    "lastOnAirTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
+    "lastOnAirAuctionCode": "0019834304",
     "precedingSku": "8666627",
     "precedingTitle": "One Truth 818- Atomiser - 50ml",
     "precedingAuctionCode": "0019834393"
