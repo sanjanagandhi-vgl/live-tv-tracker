@@ -104053,21 +104053,26 @@
       "sku": "8721476",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-08",
-      "time": "11:59:26",
+      "date": "2026-08-22",
+      "time": "14:23:20",
       "preExisting": true,
       "missedAt": 1786186766113,
       "missedDelay": null,
-      "lastUpdated": 1786186766113,
+      "lastUpdated": 1787405000503,
       "missedPrice": 279.99,
       "missedImg": true,
-      "title": "LIVE FROM BRAZIL SPECIAL - AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
-      "auctionCode": "0019810815",
+      "title": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
+      "auctionCode": "0019833749",
       "source": "gha",
       "productUrl": "/products/luxuriant-aaa-turkizite-lab-grown-diamond-si-g-h-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-2-16-ct-8721475",
       "productUrlChecked": 1786186771313,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787405000503,
+      "pdpPrice": "4519.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8721477": {
       "sku": "8721477",
@@ -211928,8 +211933,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787404840001,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -216890,11 +216895,22 @@
         "followingSku": "8501345",
         "followingTitle": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
         "followingAuctionCode": "0019836177"
+      },
+      {
+        "start": 1787404840001,
+        "end": 1787405000503,
+        "durationMin": 2.7,
+        "precedingSku": "8712219",
+        "precedingTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct.",
+        "precedingAuctionCode": "0019836184",
+        "followingSku": "8721476",
+        "followingTitle": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
+        "followingAuctionCode": "0019833749"
       }
     ],
-    "lastOnAirSku": "8712219",
-    "lastOnAirTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019836184",
+    "lastOnAirSku": "8721476",
+    "lastOnAirTitle": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
+    "lastOnAirAuctionCode": "0019833749",
     "precedingSku": "8712219",
     "precedingTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct.",
     "precedingAuctionCode": "0019836184"
