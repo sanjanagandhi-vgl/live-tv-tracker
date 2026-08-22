@@ -14818,16 +14818,16 @@
       "firstAir": 1785098541939,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785796883411,
+      "lastAir": 1787398639571,
       "title": "NYC CloseOut- Lab Grown Diamond (SI-G-H) Tennis Necklace (Size - 20) in Rhodium Overlay Sterling Silver 8.00 Ct, Silver Wt. 26.00 Gms",
-      "pdpPrice": "999.99",
-      "auctionCode": "0019805046",
+      "pdpPrice": "15999.99",
+      "auctionCode": "0019835467",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-03",
-      "time": "23:41:23",
-      "lastUpdated": 1785796883411,
+      "date": "2026-08-22",
+      "time": "12:37:19",
+      "lastUpdated": 1787398639571,
       "source": "gha",
       "missedAt": 1785099091023,
       "missedDelay": 2,
@@ -211501,8 +211501,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787398585333,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -216419,11 +216419,22 @@
         "followingSku": "8615671",
         "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
         "followingAuctionCode": "0019835599"
+      },
+      {
+        "start": 1787398585333,
+        "end": 1787398639571,
+        "durationMin": 0.9,
+        "precedingSku": "8615671",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
+        "precedingAuctionCode": "0019835599",
+        "followingSku": "8600535",
+        "followingTitle": "NYC CloseOut- Lab Grown Diamond (SI-G-H) Tennis Necklace (Size - 20) in Rhodium Overlay Sterling Silver 8.00 Ct, Silver Wt. 26.00 Gms",
+        "followingAuctionCode": "0019835467"
       }
     ],
-    "lastOnAirSku": "8615671",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019835599",
+    "lastOnAirSku": "8600535",
+    "lastOnAirTitle": "NYC CloseOut- Lab Grown Diamond (SI-G-H) Tennis Necklace (Size - 20) in Rhodium Overlay Sterling Silver 8.00 Ct, Silver Wt. 26.00 Gms",
+    "lastOnAirAuctionCode": "0019835467",
     "precedingSku": "8615671",
     "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
     "precedingAuctionCode": "0019835599"
