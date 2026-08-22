@@ -7543,21 +7543,22 @@
       "firstAir": 1784950040927,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784950100689,
+      "lastAir": 1787437998043,
       "title": "Royal Bali Collection - D'Joy Sterling Silver Elephant Head Pendant",
-      "pdpPrice": 79.99,
-      "auctionCode": "0019793088",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "519.00",
+      "auctionCode": "0019836626",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "04:28:20",
-      "lastUpdated": 1784950159462,
+      "date": "2026-08-22",
+      "time": "23:33:18",
+      "lastUpdated": 1787437998043,
       "source": "gha",
       "missedAt": 1784950159462,
       "missedDelay": 1,
       "missedPrice": 79.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8600703": {
       "sku": "8600703",
@@ -214769,8 +214770,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787437941910,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -220215,11 +220216,22 @@
         "followingSku": "8512120",
         "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Bracelet (Size - 8) with Lobster Clasp",
         "followingAuctionCode": "0019836614"
+      },
+      {
+        "start": 1787437941910,
+        "end": 1787437998043,
+        "durationMin": 0.9,
+        "precedingSku": "8512120",
+        "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Bracelet (Size - 8) with Lobster Clasp",
+        "precedingAuctionCode": "0019836614",
+        "followingSku": "8601459",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Elephant Head Pendant",
+        "followingAuctionCode": "0019836626"
       }
     ],
-    "lastOnAirSku": "8512120",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Bracelet (Size - 8) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019836614",
+    "lastOnAirSku": "8601459",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Elephant Head Pendant",
+    "lastOnAirAuctionCode": "0019836626",
     "precedingSku": "8512120",
     "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Bracelet (Size - 8) with Lobster Clasp",
     "precedingAuctionCode": "0019836614"
