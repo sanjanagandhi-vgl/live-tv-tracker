@@ -115863,17 +115863,17 @@
       "firstAir": 1786295359611,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786295479225,
+      "lastAir": 1787433079204,
       "title": "Royal Bali Collection - Sterling Silver Cuff Bangle (Size 8) in 18K Yellow Gold & Silver Plated",
-      "pdpPrice": "79.99",
-      "auctionCode": "0019812859",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019836523",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-09",
-      "time": "18:11:19",
+      "date": "2026-08-22",
+      "time": "22:11:19",
       "productUrl": "/products/royal-bali-collection-sterling-silver-cuff-bangle-size-8-in-18k-yellow-gold-silver-plated",
-      "lastUpdated": 1786296077630,
+      "lastUpdated": 1787433079204,
       "source": "gha",
       "missedAt": 1786296077630,
       "missedDelay": 10,
@@ -214105,8 +214105,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787433037657,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -219408,11 +219408,22 @@
         "followingSku": "8522229",
         "followingTitle": "Royal Bali Collection - Sterling Silver Floral Pendant",
         "followingAuctionCode": "0019836545"
+      },
+      {
+        "start": 1787433037657,
+        "end": 1787433079204,
+        "durationMin": 0.7,
+        "precedingSku": "8522232",
+        "precedingTitle": "Royal Bali Collection - Sterling Silver Butterfly Pendant",
+        "precedingAuctionCode": "0019836544",
+        "followingSku": "7750125",
+        "followingTitle": "Royal Bali Collection - Sterling Silver Cuff Bangle (Size 8) in 18K Yellow Gold & Silver Plated",
+        "followingAuctionCode": "0019836523"
       }
     ],
-    "lastOnAirSku": "8522232",
-    "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Butterfly Pendant",
-    "lastOnAirAuctionCode": "0019836544",
+    "lastOnAirSku": "7750125",
+    "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Cuff Bangle (Size 8) in 18K Yellow Gold & Silver Plated",
+    "lastOnAirAuctionCode": "0019836523",
     "precedingSku": "8522232",
     "precedingTitle": "Royal Bali Collection - Sterling Silver Butterfly Pendant",
     "precedingAuctionCode": "0019836544"
