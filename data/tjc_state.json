@@ -88798,17 +88798,17 @@
       "firstAir": 1786059679121,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787316560316,
+      "lastAir": 1787359583894,
       "title": "Yellow Gold Plated Sterling Silver Franco Chain (Size - 18) with Lobster Clasp",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019834788",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019836107",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-21",
-      "time": "13:49:20",
+      "date": "2026-08-22",
+      "time": "01:46:23",
       "productUrl": "/products/yellow-gold-plated-sterling-silver-franco-chain-size-18-with-lobster-clasp",
-      "lastUpdated": 1787316560316,
+      "lastUpdated": 1787359583894,
       "source": "gha",
       "missedAt": 1786060342148,
       "missedDelay": 9,
@@ -210408,8 +210408,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787359536353,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -214820,11 +214820,22 @@
         "followingSku": "8320979",
         "followingTitle": "Red Onyx & Dyed Peacock Colour Pearl Adjustable Bangle (Size - 7) with Gold Plated Ball",
         "followingAuctionCode": "0019834381"
+      },
+      {
+        "start": 1787359536353,
+        "end": 1787359583894,
+        "durationMin": 0.8,
+        "precedingSku": "8217250",
+        "precedingTitle": "Golden Pearl Necklace (Size - 18-2 Ext)",
+        "precedingAuctionCode": "0019834378",
+        "followingSku": "8553046",
+        "followingTitle": "Yellow Gold Plated Sterling Silver Franco Chain (Size - 18) with Lobster Clasp",
+        "followingAuctionCode": "0019836107"
       }
     ],
-    "lastOnAirSku": "8217250",
-    "lastOnAirTitle": "Golden Pearl Necklace (Size - 18-2 Ext)",
-    "lastOnAirAuctionCode": "0019834378",
+    "lastOnAirSku": "8553046",
+    "lastOnAirTitle": "Yellow Gold Plated Sterling Silver Franco Chain (Size - 18) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019836107",
     "precedingSku": "8217250",
     "precedingTitle": "Golden Pearl Necklace (Size - 18-2 Ext)",
     "precedingAuctionCode": "0019834378"
