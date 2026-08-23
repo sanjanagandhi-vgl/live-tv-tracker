@@ -222972,11 +222972,29 @@
       "productUrl": null,
       "lastUpdated": 1787510662643,
       "source": "gha"
+    },
+    "3674232": {
+      "sku": "3674232",
+      "firstAir": 1787510782953,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787510782953,
+      "title": "White and Black Diamond Twin Cat Ring in 18k Yellow Gold Overlay and Rodium.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019837457",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "19:46:22",
+      "productUrl": null,
+      "lastUpdated": 1787510782953,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787510737394,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -229653,11 +229671,22 @@
         "followingSku": "8345612",
         "followingTitle": "Luxuriant Lab Grown Blue Diamond (VS INTENSE BLUE) Pear Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019837396"
+      },
+      {
+        "start": 1787510737394,
+        "end": 1787510782953,
+        "durationMin": 0.8,
+        "precedingSku": "7556906",
+        "precedingTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
+        "precedingAuctionCode": "0019837177",
+        "followingSku": "3674232",
+        "followingTitle": "White and Black Diamond Twin Cat Ring in 18k Yellow Gold Overlay and Rodium.",
+        "followingAuctionCode": "0019837457"
       }
     ],
-    "lastOnAirSku": "7556906",
-    "lastOnAirTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
-    "lastOnAirAuctionCode": "0019837177",
+    "lastOnAirSku": "3674232",
+    "lastOnAirTitle": "White and Black Diamond Twin Cat Ring in 18k Yellow Gold Overlay and Rodium.",
+    "lastOnAirAuctionCode": "0019837457",
     "precedingSku": "7556906",
     "precedingTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
     "precedingAuctionCode": "0019837177"
