@@ -6094,17 +6094,23 @@
       "sku": "7958078",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-24",
-      "time": "19:01:25",
+      "date": "2026-08-23",
+      "time": "07:13:19",
       "preExisting": true,
       "missedAt": 1784916085649,
       "missedDelay": null,
-      "lastUpdated": 1784916085649,
+      "lastUpdated": 1787465599717,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
-      "auctionCode": "0019793793",
-      "source": "gha"
+      "auctionCode": "0019837992",
+      "source": "gha",
+      "lastAir": 1787465599717,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8658953": {
       "sku": "8658953",
@@ -216931,8 +216937,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787465437948,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222982,11 +222988,22 @@
         "followingSku": "8217801",
         "followingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
         "followingAuctionCode": "0019837991"
+      },
+      {
+        "start": 1787465437948,
+        "end": 1787465599717,
+        "durationMin": 2.7,
+        "precedingSku": "8217801",
+        "precedingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
+        "precedingAuctionCode": "0019837991",
+        "followingSku": "7958078",
+        "followingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+        "followingAuctionCode": "0019837992"
       }
     ],
-    "lastOnAirSku": "8217801",
-    "lastOnAirTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
-    "lastOnAirAuctionCode": "0019837991",
+    "lastOnAirSku": "7958078",
+    "lastOnAirTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+    "lastOnAirAuctionCode": "0019837992",
     "precedingSku": "8217801",
     "precedingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
     "precedingAuctionCode": "0019837991"
