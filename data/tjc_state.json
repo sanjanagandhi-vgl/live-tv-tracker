@@ -201312,17 +201312,17 @@
       "firstAir": 1787272944011,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787360663463,
+      "lastAir": 1787521702235,
       "title": "999 Pure Silver (99.9% Purity) Dragon Collectible",
       "pdpPrice": "12.99",
-      "auctionCode": "0019836113",
+      "auctionCode": "0019837212",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "time": "02:04:23",
+      "date": "2026-08-23",
+      "time": "22:48:22",
       "productUrl": "/products/white-silver-99-9-purity-tree-of-life-collectable",
-      "lastUpdated": 1787360663463,
+      "lastUpdated": 1787521702235,
       "source": "gha",
       "missedAt": 1787273728199,
       "missedDelay": 11,
@@ -227274,8 +227274,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787521638026,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -234128,11 +234128,22 @@
         "followingSku": "8478762",
         "followingTitle": "Handmade- Yellow Gold Plated Sterling Silver Spiga Necklace (Size - 20) with Lobster Clasp, Silver Wt. 12.12 Gms",
         "followingAuctionCode": "0019837299"
+      },
+      {
+        "start": 1787521638026,
+        "end": 1787521702235,
+        "durationMin": 1.1,
+        "precedingSku": "8512035",
+        "precedingTitle": "Sterling Silver (99.9% Purity) Easter Bunny Collectible",
+        "precedingAuctionCode": "0019837301",
+        "followingSku": "8360311",
+        "followingTitle": "999 Pure Silver (99.9% Purity) Dragon Collectible",
+        "followingAuctionCode": "0019837212"
       }
     ],
-    "lastOnAirSku": "8512035",
-    "lastOnAirTitle": "Sterling Silver (99.9% Purity) Easter Bunny Collectible",
-    "lastOnAirAuctionCode": "0019837301",
+    "lastOnAirSku": "8360311",
+    "lastOnAirTitle": "999 Pure Silver (99.9% Purity) Dragon Collectible",
+    "lastOnAirAuctionCode": "0019837212",
     "precedingSku": "8512035",
     "precedingTitle": "Sterling Silver (99.9% Purity) Easter Bunny Collectible",
     "precedingAuctionCode": "0019837301"
