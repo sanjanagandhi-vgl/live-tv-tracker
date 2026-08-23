@@ -215820,11 +215820,29 @@
       "productUrlChecked": 1787451342481,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8086598": {
+      "sku": "8086598",
+      "firstAir": 1787452582578,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787452582578,
+      "title": "Cotton Hand - Block Stripe Print Quilted Travel Duffel Bag",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019836934",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "03:36:22",
+      "productUrl": null,
+      "lastUpdated": 1787452582578,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787452528150,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221588,11 +221606,22 @@
         "followingSku": "8482835",
         "followingTitle": "Moissanite Pen - Golden Colour with Black Ink.",
         "followingAuctionCode": "0019836923"
+      },
+      {
+        "start": 1787452528150,
+        "end": 1787452582578,
+        "durationMin": 0.9,
+        "precedingSku": "8245116",
+        "precedingTitle": "La Marey Genuine Leather crossbody bag",
+        "precedingAuctionCode": "0019836924",
+        "followingSku": "8086598",
+        "followingTitle": "Cotton Hand - Block Stripe Print Quilted Travel Duffel Bag",
+        "followingAuctionCode": "0019836934"
       }
     ],
-    "lastOnAirSku": "8245116",
-    "lastOnAirTitle": "La Marey Genuine Leather crossbody bag",
-    "lastOnAirAuctionCode": "0019836924",
+    "lastOnAirSku": "8086598",
+    "lastOnAirTitle": "Cotton Hand - Block Stripe Print Quilted Travel Duffel Bag",
+    "lastOnAirAuctionCode": "0019836934",
     "precedingSku": "8245116",
     "precedingTitle": "La Marey Genuine Leather crossbody bag",
     "precedingAuctionCode": "0019836924"
