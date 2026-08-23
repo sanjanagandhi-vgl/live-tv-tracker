@@ -219199,11 +219199,29 @@
       "productUrlChecked": 1787500107932,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7801629": {
+      "sku": "7801629",
+      "firstAir": 1787501359984,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787501359984,
+      "title": "White Edison Pearl & Natural Zircon Ring in Rhodium Overlay Sterling Silver 10.68 Ct.",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019837099",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "17:09:19",
+      "productUrl": null,
+      "lastUpdated": 1787501359984,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787501130044,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -225726,11 +225744,22 @@
         "followingSku": "8626601",
         "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
         "followingAuctionCode": "0019838323"
+      },
+      {
+        "start": 1787501130044,
+        "end": 1787501359984,
+        "durationMin": 3.8,
+        "precedingSku": "8626601",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
+        "precedingAuctionCode": "0019838323",
+        "followingSku": "7801629",
+        "followingTitle": "White Edison Pearl & Natural Zircon Ring in Rhodium Overlay Sterling Silver 10.68 Ct.",
+        "followingAuctionCode": "0019837099"
       }
     ],
-    "lastOnAirSku": "8626601",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
-    "lastOnAirAuctionCode": "0019838323",
+    "lastOnAirSku": "7801629",
+    "lastOnAirTitle": "White Edison Pearl & Natural Zircon Ring in Rhodium Overlay Sterling Silver 10.68 Ct.",
+    "lastOnAirAuctionCode": "0019837099",
     "precedingSku": "8626601",
     "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
     "precedingAuctionCode": "0019838323"
