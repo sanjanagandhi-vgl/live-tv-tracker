@@ -219010,11 +219010,29 @@
       "productUrl": null,
       "lastUpdated": 1787498783234,
       "source": "gha"
+    },
+    "8422667": {
+      "sku": "8422667",
+      "firstAir": 1787498960667,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787498960667,
+      "title": "Pen and Pencil",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019835816",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "16:29:20",
+      "productUrl": null,
+      "lastUpdated": 1787498960667,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787498839890,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -225515,11 +225533,22 @@
         "followingSku": "8611204",
         "followingTitle": "D'Joy - Natural Jade & White Fresh Water Pearl Adjustable Double Dragon Necklace (Size - 18-2 Ext) in Rhodium Overlay Sterling Silver 190.00 Ct.",
         "followingAuctionCode": "0019835998"
+      },
+      {
+        "start": 1787498839890,
+        "end": 1787498960667,
+        "durationMin": 2.0,
+        "precedingSku": "8311168",
+        "precedingTitle": "Natural Type A Jadeite Beaded Dragon Necklace (Size 20) in Rhodium Overlay Sterling Silver 550.00 Ct.",
+        "precedingAuctionCode": "0019835656",
+        "followingSku": "8422667",
+        "followingTitle": "Pen and Pencil",
+        "followingAuctionCode": "0019835816"
       }
     ],
-    "lastOnAirSku": "8311168",
-    "lastOnAirTitle": "Natural Type A Jadeite Beaded Dragon Necklace (Size 20) in Rhodium Overlay Sterling Silver 550.00 Ct.",
-    "lastOnAirAuctionCode": "0019835656",
+    "lastOnAirSku": "8422667",
+    "lastOnAirTitle": "Pen and Pencil",
+    "lastOnAirAuctionCode": "0019835816",
     "precedingSku": "8311168",
     "precedingTitle": "Natural Type A Jadeite Beaded Dragon Necklace (Size 20) in Rhodium Overlay Sterling Silver 550.00 Ct.",
     "precedingAuctionCode": "0019835656"
