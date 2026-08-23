@@ -227296,11 +227296,29 @@
       "productUrl": null,
       "lastUpdated": 1787522479092,
       "source": "gha"
+    },
+    "8673782": {
+      "sku": "8673782",
+      "firstAir": 1787522598990,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787522598990,
+      "title": "Romy Necklace (Size - 30) with Lobster Clasp in Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "419.99",
+      "auctionCode": "0019837428",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-23",
+      "time": "23:03:18",
+      "productUrl": null,
+      "lastUpdated": 1787522598990,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787522540608,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -234175,11 +234193,22 @@
         "followingSku": "8552981",
         "followingTitle": "Italian Made - Sterling Silver Flat Figaro Pave Necklace (Size - 18) with Lobster Clasp in Two Tone Plating",
         "followingAuctionCode": "0019837349"
+      },
+      {
+        "start": 1787522540608,
+        "end": 1787522598990,
+        "durationMin": 1.0,
+        "precedingSku": "8552981",
+        "precedingTitle": "Italian Made - Sterling Silver Flat Figaro Pave Necklace (Size - 18) with Lobster Clasp in Two Tone Plating",
+        "precedingAuctionCode": "0019837349",
+        "followingSku": "8673782",
+        "followingTitle": "Romy Necklace (Size - 30) with Lobster Clasp in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019837428"
       }
     ],
-    "lastOnAirSku": "8552981",
-    "lastOnAirTitle": "Italian Made - Sterling Silver Flat Figaro Pave Necklace (Size - 18) with Lobster Clasp in Two Tone Plating",
-    "lastOnAirAuctionCode": "0019837349",
+    "lastOnAirSku": "8673782",
+    "lastOnAirTitle": "Romy Necklace (Size - 30) with Lobster Clasp in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019837428",
     "precedingSku": "8552981",
     "precedingTitle": "Italian Made - Sterling Silver Flat Figaro Pave Necklace (Size - 18) with Lobster Clasp in Two Tone Plating",
     "precedingAuctionCode": "0019837349"
