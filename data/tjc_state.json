@@ -14649,17 +14649,18 @@
       "firstAir": 1785090739661,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785090797303,
+      "lastAir": 1787458039620,
       "title": "Rachel Galley - 9K Yellow Gold Rose Earrings",
-      "pdpPrice": 79.99,
-      "auctionCode": "0019795079",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "29.99",
+      "auctionCode": "0019836982",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "19:33:17",
-      "lastUpdated": 1785090797303,
-      "source": "gha"
+      "date": "2026-08-23",
+      "time": "05:07:19",
+      "lastUpdated": 1787458039620,
+      "source": "gha",
+      "productUrl": null
     },
     "8416655": {
       "sku": "8416655",
@@ -216474,8 +216475,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787457984239,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222371,11 +222372,22 @@
         "followingSku": "7672989",
         "followingTitle": "Rachel Galley - 9K Yellow Gold Love Knot Stud Earring with Push Back",
         "followingAuctionCode": "0019836981"
+      },
+      {
+        "start": 1787457984239,
+        "end": 1787458039620,
+        "durationMin": 0.9,
+        "precedingSku": "7672989",
+        "precedingTitle": "Rachel Galley - 9K Yellow Gold Love Knot Stud Earring with Push Back",
+        "precedingAuctionCode": "0019836981",
+        "followingSku": "7676383",
+        "followingTitle": "Rachel Galley - 9K Yellow Gold Rose Earrings",
+        "followingAuctionCode": "0019836982"
       }
     ],
-    "lastOnAirSku": "7672989",
-    "lastOnAirTitle": "Rachel Galley - 9K Yellow Gold Love Knot Stud Earring with Push Back",
-    "lastOnAirAuctionCode": "0019836981",
+    "lastOnAirSku": "7676383",
+    "lastOnAirTitle": "Rachel Galley - 9K Yellow Gold Rose Earrings",
+    "lastOnAirAuctionCode": "0019836982",
     "precedingSku": "7672989",
     "precedingTitle": "Rachel Galley - 9K Yellow Gold Love Knot Stud Earring with Push Back",
     "precedingAuctionCode": "0019836981"
