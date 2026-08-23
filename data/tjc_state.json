@@ -217957,11 +217957,29 @@
       "productUrlChecked": 1787477246752,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8231887": {
+      "sku": "8231887",
+      "firstAir": 1787477541643,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787477541643,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019835509",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-23",
+      "time": "10:32:21",
+      "productUrl": null,
+      "lastUpdated": 1787477541643,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787477448494,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -224187,11 +224205,22 @@
         "followingSku": "8016398",
         "followingTitle": "Solar Lantern with Light Modes PLUS Multi Colour String Lights & USB Charging - Black & White - 10 METERS",
         "followingAuctionCode": "0019835492"
+      },
+      {
+        "start": 1787477448494,
+        "end": 1787477541643,
+        "durationMin": 1.6,
+        "precedingSku": "8016398",
+        "precedingTitle": "Solar Lantern with Light Modes PLUS Multi Colour String Lights & USB Charging - Black & White - 10 METERS",
+        "precedingAuctionCode": "0019835492",
+        "followingSku": "8231887",
+        "followingTitle": null,
+        "followingAuctionCode": "0019835509"
       }
     ],
-    "lastOnAirSku": "8016398",
-    "lastOnAirTitle": "Solar Lantern with Light Modes PLUS Multi Colour String Lights & USB Charging - Black & White - 10 METERS",
-    "lastOnAirAuctionCode": "0019835492",
+    "lastOnAirSku": "8231887",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019835509",
     "precedingSku": "8016398",
     "precedingTitle": "Solar Lantern with Light Modes PLUS Multi Colour String Lights & USB Charging - Black & White - 10 METERS",
     "precedingAuctionCode": "0019835492"
