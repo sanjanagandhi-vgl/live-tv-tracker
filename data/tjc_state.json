@@ -87658,21 +87658,26 @@
       "sku": "8635356",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "00:03:33",
+      "date": "2026-08-23",
+      "time": "20:13:22",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1786057413979,
+      "lastUpdated": 1787512402166,
       "missedPrice": 699.99,
       "missedImg": true,
       "title": "Tony Diniz Collection - 9K Yellow Gold AAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 2.36 Ct.",
-      "auctionCode": "0019808393",
+      "auctionCode": "0019837830",
       "source": "gha",
       "productUrl": "/products/tony-diniz-collection-9k-yellow-gold-aaa-natural-radiant-ember-garnet-natural-white-diamond-halo-ring-2-36-ct",
       "productUrlChecked": 1786057890494,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787512402166,
+      "pdpPrice": "699.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8635358": {
       "sku": "8635358",
@@ -223510,8 +223515,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787512038617,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -230221,11 +230226,22 @@
         "followingSku": "8435762",
         "followingTitle": "AAA Natural Kashmir Kyanite & SI-G-H Lab Grown Diamond Halo Ring in Rhodium Overlay Sterling Silver 2.13 Ct.",
         "followingAuctionCode": "0019837502"
+      },
+      {
+        "start": 1787512038617,
+        "end": 1787512402166,
+        "durationMin": 6.1,
+        "precedingSku": "8356096",
+        "precedingTitle": "Luxuriant Lab Grown Diamond (VS-EF) Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.01 Ct.",
+        "precedingAuctionCode": "0019837510",
+        "followingSku": "8635356",
+        "followingTitle": "Tony Diniz Collection - 9K Yellow Gold AAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 2.36 Ct.",
+        "followingAuctionCode": "0019837830"
       }
     ],
-    "lastOnAirSku": "8356096",
-    "lastOnAirTitle": "Luxuriant Lab Grown Diamond (VS-EF) Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.01 Ct.",
-    "lastOnAirAuctionCode": "0019837510",
+    "lastOnAirSku": "8635356",
+    "lastOnAirTitle": "Tony Diniz Collection - 9K Yellow Gold AAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 2.36 Ct.",
+    "lastOnAirAuctionCode": "0019837830",
     "precedingSku": "8356096",
     "precedingTitle": "Luxuriant Lab Grown Diamond (VS-EF) Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.01 Ct.",
     "precedingAuctionCode": "0019837510"
