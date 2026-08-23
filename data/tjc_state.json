@@ -227271,11 +227271,29 @@
       "productUrl": null,
       "lastUpdated": 1787521582349,
       "source": "gha"
+    },
+    "8552981": {
+      "sku": "8552981",
+      "firstAir": 1787521943127,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787521943127,
+      "title": "Italian Made - Sterling Silver Flat Figaro Pave Necklace (Size - 18) with Lobster Clasp in Two Tone Plating",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019837349",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "22:52:23",
+      "productUrl": null,
+      "lastUpdated": 1787521943127,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787521879501,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -234139,11 +234157,22 @@
         "followingSku": "8360311",
         "followingTitle": "999 Pure Silver (99.9% Purity) Dragon Collectible",
         "followingAuctionCode": "0019837212"
+      },
+      {
+        "start": 1787521879501,
+        "end": 1787521943127,
+        "durationMin": 1.1,
+        "precedingSku": "8360311",
+        "precedingTitle": "999 Pure Silver (99.9% Purity) Dragon Collectible",
+        "precedingAuctionCode": "0019837212",
+        "followingSku": "8552981",
+        "followingTitle": "Italian Made - Sterling Silver Flat Figaro Pave Necklace (Size - 18) with Lobster Clasp in Two Tone Plating",
+        "followingAuctionCode": "0019837349"
       }
     ],
-    "lastOnAirSku": "8360311",
-    "lastOnAirTitle": "999 Pure Silver (99.9% Purity) Dragon Collectible",
-    "lastOnAirAuctionCode": "0019837212",
+    "lastOnAirSku": "8552981",
+    "lastOnAirTitle": "Italian Made - Sterling Silver Flat Figaro Pave Necklace (Size - 18) with Lobster Clasp in Two Tone Plating",
+    "lastOnAirAuctionCode": "0019837349",
     "precedingSku": "8360311",
     "precedingTitle": "999 Pure Silver (99.9% Purity) Dragon Collectible",
     "precedingAuctionCode": "0019837212"
