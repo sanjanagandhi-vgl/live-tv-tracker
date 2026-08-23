@@ -136963,17 +136963,17 @@
       "firstAir": 1786517838654,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786776558611,
+      "lastAir": 1787463199543,
       "title": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
       "pdpPrice": "19.99",
-      "auctionCode": "0019823445",
+      "auctionCode": "0019835592",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-15",
-      "time": "07:49:18",
+      "date": "2026-08-23",
+      "time": "06:33:19",
       "productUrl": "/products/onshindo-osaka-face-scrub-for-all-skin-types-75ml?variant=53107318325514",
-      "lastUpdated": 1786776558611,
+      "lastUpdated": 1787463199543,
       "source": "gha",
       "missedAt": 1786519040227,
       "missedDelay": 10,
@@ -216913,8 +216913,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787463142154,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222942,11 +222942,22 @@
         "followingSku": "8196743",
         "followingTitle": "Onshindo Osaka Overnight Creamy-Hydration Mask for All Skin Types - 75ml",
         "followingAuctionCode": "0019835591"
+      },
+      {
+        "start": 1787463142154,
+        "end": 1787463199543,
+        "durationMin": 1.0,
+        "precedingSku": "8196743",
+        "precedingTitle": "Onshindo Osaka Overnight Creamy-Hydration Mask for All Skin Types - 75ml",
+        "precedingAuctionCode": "0019835591",
+        "followingSku": "8196744",
+        "followingTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
+        "followingAuctionCode": "0019835592"
       }
     ],
-    "lastOnAirSku": "8196743",
-    "lastOnAirTitle": "Onshindo Osaka Overnight Creamy-Hydration Mask for All Skin Types - 75ml",
-    "lastOnAirAuctionCode": "0019835591",
+    "lastOnAirSku": "8196744",
+    "lastOnAirTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
+    "lastOnAirAuctionCode": "0019835592",
     "precedingSku": "8196743",
     "precedingTitle": "Onshindo Osaka Overnight Creamy-Hydration Mask for All Skin Types - 75ml",
     "precedingAuctionCode": "0019835591"
