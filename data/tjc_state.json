@@ -14658,9 +14658,16 @@
       "img": true,
       "date": "2026-08-23",
       "time": "05:07:19",
-      "lastUpdated": 1787458039620,
+      "lastUpdated": 1787458701604,
       "source": "gha",
-      "productUrl": null
+      "productUrl": "/products/rachel-galley-9k-yellow-gold-rose-earrings",
+      "missedAt": 1787458701604,
+      "missedDelay": 11,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1787458710598,
+      "productUrlStatus": 404,
+      "productUrl404": true
     },
     "8416655": {
       "sku": "8416655",
@@ -216494,9 +216501,16 @@
       "img": true,
       "date": "2026-08-23",
       "time": "05:09:19",
-      "productUrl": null,
-      "lastUpdated": 1787458159983,
-      "source": "gha"
+      "productUrl": "/products/designer-inspired-14k-yellow-gold-industrial-necklace-size-20-gold-wt-4-70-gms",
+      "lastUpdated": 1787458701604,
+      "source": "gha",
+      "missedAt": 1787458701604,
+      "missedDelay": 9,
+      "missedPrice": 399.99,
+      "missedImg": true,
+      "productUrlChecked": 1787458712552,
+      "productUrlStatus": 404,
+      "productUrl404": true
     },
     "6343622": {
       "sku": "6343622",
@@ -216574,8 +216588,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787458701604,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222509,8 +222523,8 @@
     "lastOnAirSku": "3638454",
     "lastOnAirTitle": "Vicenza Italian Boutique CloseOut Deal- 9K Yellow Gold Simulated Diamond Galaxy Star Necklace With Spring Ring Clasp (Size 17.5)",
     "lastOnAirAuctionCode": "0019836988",
-    "precedingSku": "8415399",
-    "precedingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
-    "precedingAuctionCode": "0019836985"
+    "precedingSku": "3638454",
+    "precedingTitle": "Vicenza Italian Boutique CloseOut Deal- 9K Yellow Gold Simulated Diamond Galaxy Star Necklace With Spring Ring Clasp (Size 17.5)",
+    "precedingAuctionCode": "0019836988"
   }
 }
