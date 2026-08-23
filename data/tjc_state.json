@@ -206672,18 +206672,23 @@
       "sku": "8586794",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "16:30:54",
+      "date": "2026-08-23",
+      "time": "08:38:21",
       "preExisting": true,
       "missedAt": 1787326254596,
       "missedDelay": null,
-      "lastUpdated": 1787326254596,
+      "lastUpdated": 1787470701384,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size M, 12-14) - Black",
-      "auctionCode": "0019834405",
+      "auctionCode": "0019837994",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1787470701384,
+      "pdpPrice": "239.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8586795": {
       "sku": "8586795",
@@ -217157,9 +217162,16 @@
       "img": true,
       "date": "2026-08-23",
       "time": "08:29:18",
-      "productUrl": null,
-      "lastUpdated": 1787470158902,
-      "source": "gha"
+      "productUrl": "/products/la-marey-linen-blend-womens-embroidered-details-relaxed-fit-trousers",
+      "lastUpdated": 1787470701384,
+      "source": "gha",
+      "missedAt": 1787470701384,
+      "missedDelay": 9,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1787470704896,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8106594": {
       "sku": "8106594",
@@ -217178,11 +217190,31 @@
       "productUrl": null,
       "lastUpdated": 1787470582805,
       "source": "gha"
+    },
+    "8037636": {
+      "sku": "8037636",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-23",
+      "time": "08:38:21",
+      "preExisting": true,
+      "missedAt": 1787470701384,
+      "missedDelay": null,
+      "lastUpdated": 1787470701384,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers (Size XL) - Black",
+      "auctionCode": "0019836760",
+      "source": "gha",
+      "productUrl": "/products/la-marey-linen-blend-womens-embroidered-details-relaxed-fit-trousers",
+      "productUrlChecked": 1787470705925,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787470639810,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -223298,11 +223330,22 @@
         "followingSku": "8037635",
         "followingTitle": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
         "followingAuctionCode": "0019836758"
+      },
+      {
+        "start": 1787470639810,
+        "end": 1787470701384,
+        "durationMin": 1.0,
+        "precedingSku": "8106594",
+        "precedingTitle": "La Marey Pintuck Button Blouse (Size 18 to 20) - Navy",
+        "precedingAuctionCode": "0019836762",
+        "followingSku": "8586794",
+        "followingTitle": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size M, 12-14) - Black",
+        "followingAuctionCode": "0019837994"
       }
     ],
-    "lastOnAirSku": "8106594",
-    "lastOnAirTitle": "La Marey Pintuck Button Blouse (Size 18 to 20) - Navy",
-    "lastOnAirAuctionCode": "0019836762",
+    "lastOnAirSku": "8586794",
+    "lastOnAirTitle": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size M, 12-14) - Black",
+    "lastOnAirAuctionCode": "0019837994",
     "precedingSku": "8106594",
     "precedingTitle": "La Marey Pintuck Button Blouse (Size 18 to 20) - Navy",
     "precedingAuctionCode": "0019836762"
