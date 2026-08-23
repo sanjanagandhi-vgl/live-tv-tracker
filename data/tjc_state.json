@@ -216553,11 +216553,29 @@
       "productUrl": null,
       "lastUpdated": 1787458464392,
       "source": "gha"
+    },
+    "3638454": {
+      "sku": "3638454",
+      "firstAir": 1787458582106,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787458582106,
+      "title": "Vicenza Italian Boutique CloseOut Deal- 9K Yellow Gold Simulated Diamond Galaxy Star Necklace With Spring Ring Clasp (Size 17.5)",
+      "pdpPrice": "114.99",
+      "auctionCode": "0019836988",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "05:16:22",
+      "productUrl": null,
+      "lastUpdated": 1787458582106,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787458536965,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222475,11 +222493,22 @@
         "followingSku": "8415399",
         "followingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
         "followingAuctionCode": "0019836985"
+      },
+      {
+        "start": 1787458536965,
+        "end": 1787458582106,
+        "durationMin": 0.8,
+        "precedingSku": "8415399",
+        "precedingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
+        "precedingAuctionCode": "0019836985",
+        "followingSku": "3638454",
+        "followingTitle": "Vicenza Italian Boutique CloseOut Deal- 9K Yellow Gold Simulated Diamond Galaxy Star Necklace With Spring Ring Clasp (Size 17.5)",
+        "followingAuctionCode": "0019836988"
       }
     ],
-    "lastOnAirSku": "8415399",
-    "lastOnAirTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
-    "lastOnAirAuctionCode": "0019836985",
+    "lastOnAirSku": "3638454",
+    "lastOnAirTitle": "Vicenza Italian Boutique CloseOut Deal- 9K Yellow Gold Simulated Diamond Galaxy Star Necklace With Spring Ring Clasp (Size 17.5)",
+    "lastOnAirAuctionCode": "0019836988",
     "precedingSku": "8415399",
     "precedingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
     "precedingAuctionCode": "0019836985"
