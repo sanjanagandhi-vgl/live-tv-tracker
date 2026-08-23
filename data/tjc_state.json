@@ -3701,19 +3701,19 @@
       "sku": "8626601",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-22",
-      "time": "21:32:24",
+      "date": "2026-08-23",
+      "time": "16:45:37",
       "preExisting": true,
       "missedAt": 1784879598171,
       "missedDelay": null,
-      "lastUpdated": 1787430744308,
+      "lastUpdated": 1787499937062,
       "missedPrice": 179.99,
       "missedImg": true,
-      "title": "9K Yellow Gold Spiga Necklace (Size - 22)",
-      "auctionCode": "0019836415",
+      "title": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
+      "auctionCode": "0019838323",
       "source": "gha",
-      "lastAir": 1787430744308,
-      "pdpPrice": "179.99",
+      "lastAir": 1787499937062,
+      "pdpPrice": "5789.00",
       "buy": true,
       "login": false,
       "img": true,
@@ -219148,8 +219148,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787499865140,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -225661,11 +225661,22 @@
         "followingSku": "8422667",
         "followingTitle": "Pen and Pencil",
         "followingAuctionCode": "0019835816"
+      },
+      {
+        "start": 1787499865140,
+        "end": 1787499937062,
+        "durationMin": 1.2,
+        "precedingSku": "8432836",
+        "precedingTitle": "D'Joy Enhanced Red Jade Beads Necklace (Size - 20) with Magnetic Lock in Yellow Gold Plated Sterling Silver 330.00 Ct.",
+        "precedingAuctionCode": "0019837076",
+        "followingSku": "8626601",
+        "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
+        "followingAuctionCode": "0019838323"
       }
     ],
-    "lastOnAirSku": "8432836",
-    "lastOnAirTitle": "D'Joy Enhanced Red Jade Beads Necklace (Size - 20) with Magnetic Lock in Yellow Gold Plated Sterling Silver 330.00 Ct.",
-    "lastOnAirAuctionCode": "0019837076",
+    "lastOnAirSku": "8626601",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019838323",
     "precedingSku": "8432836",
     "precedingTitle": "D'Joy Enhanced Red Jade Beads Necklace (Size - 20) with Magnetic Lock in Yellow Gold Plated Sterling Silver 330.00 Ct.",
     "precedingAuctionCode": "0019837076"
