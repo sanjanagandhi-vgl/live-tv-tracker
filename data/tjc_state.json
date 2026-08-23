@@ -218019,9 +218019,16 @@
       "img": true,
       "date": "2026-08-23",
       "time": "11:43:18",
-      "productUrl": null,
-      "lastUpdated": 1787481798089,
-      "source": "gha"
+      "productUrl": "/products/cookware-set-size-one-size-blue-white-8598151",
+      "lastUpdated": 1787482343195,
+      "source": "gha",
+      "missedAt": 1787482343195,
+      "missedDelay": 9,
+      "missedPrice": 147.99,
+      "missedImg": true,
+      "productUrlChecked": 1787482346177,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8534177": {
       "sku": "8534177",
@@ -218040,11 +218047,31 @@
       "productUrl": null,
       "lastUpdated": 1787482276707,
       "source": "gha"
+    },
+    "8598152": {
+      "sku": "8598152",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-23",
+      "time": "11:52:23",
+      "preExisting": true,
+      "missedAt": 1787482343195,
+      "missedDelay": null,
+      "lastUpdated": 1787482343195,
+      "missedPrice": 147.99,
+      "missedImg": true,
+      "title": "8-Piece Enamelled Cast Iron Cookware Set - 2L, 3L & 4L Lidded Casserole, Bakeware, & Square Roaster - Teal",
+      "auctionCode": "0019838071",
+      "source": "gha",
+      "productUrl": "/products/cookware-set-size-one-size-blue-white-8598151",
+      "productUrlChecked": 1787482346966,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787482343195,
     "gaps": [
       {
         "start": 1785823527869,
@@ -224330,8 +224357,8 @@
     "lastOnAirSku": "8534177",
     "lastOnAirTitle": "LIVMORE Set of 4 Food-Grade Silicone Collapsible Bowls (350ml-1200ml) - Microwave, Freezer & Dishwasher Safe Stackable Meal Prep Containers - Pink",
     "lastOnAirAuctionCode": "0019838059",
-    "precedingSku": "8515366",
-    "precedingTitle": "LIVMORE Smart Nutritional Kitchen Scale with 2feat TFT Colour Screen - Bluetooth Macro & Calorie Tracker App Scale for Meal Prep, 5kg-11lb Capacity (230x160x17mm)",
-    "precedingAuctionCode": "0019835544"
+    "precedingSku": "8534177",
+    "precedingTitle": "LIVMORE Set of 4 Food-Grade Silicone Collapsible Bowls (350ml-1200ml) - Microwave, Freezer & Dishwasher Safe Stackable Meal Prep Containers - Pink",
+    "precedingAuctionCode": "0019838059"
   }
 }
