@@ -224300,11 +224300,29 @@
       "productUrl": null,
       "lastUpdated": 1787514439680,
       "source": "gha"
+    },
+    "8380722": {
+      "sku": "8380722",
+      "firstAir": 1787514502284,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787514502284,
+      "title": "D'Joy Natural Chrome Diopside 5 Stone Ring in Rhodium Overlay Sterling Silver 2.75 Ct.",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019837638",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "20:48:22",
+      "productUrl": null,
+      "lastUpdated": 1787514502284,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787514481501,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -231058,11 +231076,22 @@
         "followingSku": "8314613",
         "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
         "followingAuctionCode": "0019837622"
+      },
+      {
+        "start": 1787514481501,
+        "end": 1787514502284,
+        "durationMin": 0.3,
+        "precedingSku": "8523123",
+        "precedingTitle": "LUCY Q - Rhodium Overlay Sterling Silver Double Drop Adjustable Ring",
+        "precedingAuctionCode": "0019837610",
+        "followingSku": "8380722",
+        "followingTitle": "D'Joy Natural Chrome Diopside 5 Stone Ring in Rhodium Overlay Sterling Silver 2.75 Ct.",
+        "followingAuctionCode": "0019837638"
       }
     ],
-    "lastOnAirSku": "8523123",
-    "lastOnAirTitle": "LUCY Q - Rhodium Overlay Sterling Silver Double Drop Adjustable Ring",
-    "lastOnAirAuctionCode": "0019837610",
+    "lastOnAirSku": "8380722",
+    "lastOnAirTitle": "D'Joy Natural Chrome Diopside 5 Stone Ring in Rhodium Overlay Sterling Silver 2.75 Ct.",
+    "lastOnAirAuctionCode": "0019837638",
     "precedingSku": "8523123",
     "precedingTitle": "LUCY Q - Rhodium Overlay Sterling Silver Double Drop Adjustable Ring",
     "precedingAuctionCode": "0019837610"
