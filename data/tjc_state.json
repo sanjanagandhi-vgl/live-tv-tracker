@@ -216910,11 +216910,29 @@
       "productUrlChecked": 1787460876632,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8217801": {
+      "sku": "8217801",
+      "firstAir": 1787463438256,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787463438256,
+      "title": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
+      "pdpPrice": "599.99",
+      "auctionCode": "0019837991",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "06:37:18",
+      "productUrl": null,
+      "lastUpdated": 1787463438256,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787463382744,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222953,11 +222971,22 @@
         "followingSku": "8196744",
         "followingTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
         "followingAuctionCode": "0019835592"
+      },
+      {
+        "start": 1787463382744,
+        "end": 1787463438256,
+        "durationMin": 0.9,
+        "precedingSku": "8196744",
+        "precedingTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
+        "precedingAuctionCode": "0019835592",
+        "followingSku": "8217801",
+        "followingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
+        "followingAuctionCode": "0019837991"
       }
     ],
-    "lastOnAirSku": "8196744",
-    "lastOnAirTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
-    "lastOnAirAuctionCode": "0019835592",
+    "lastOnAirSku": "8217801",
+    "lastOnAirTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
+    "lastOnAirAuctionCode": "0019837991",
     "precedingSku": "8196744",
     "precedingTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
     "precedingAuctionCode": "0019835592"
