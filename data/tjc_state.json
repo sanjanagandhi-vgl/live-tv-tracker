@@ -218744,11 +218744,29 @@
       "productUrl": null,
       "lastUpdated": 1787496079728,
       "source": "gha-variant"
+    },
+    "8611302": {
+      "sku": "8611302",
+      "firstAir": 1787496198982,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787496198982,
+      "title": "24K - Yellow - Gold - Standard A Natural Jade Ring, Gold Wt.0.1 Gms  50.000  Ct.",
+      "pdpPrice": "449.99",
+      "auctionCode": "0019835973",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "15:43:18",
+      "productUrl": null,
+      "lastUpdated": 1787496198982,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787496144890,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -225205,11 +225223,22 @@
         "followingSku": "8360181",
         "followingTitle": "Natural Jadeite Jade Snake Carved Bangle",
         "followingAuctionCode": "0019835686"
+      },
+      {
+        "start": 1787496144890,
+        "end": 1787496198982,
+        "durationMin": 0.9,
+        "precedingSku": "8360181",
+        "precedingTitle": "Natural Jadeite Jade Snake Carved Bangle",
+        "precedingAuctionCode": "0019835686",
+        "followingSku": "8611302",
+        "followingTitle": "24K - Yellow - Gold - Standard A Natural Jade Ring, Gold Wt.0.1 Gms  50.000  Ct.",
+        "followingAuctionCode": "0019835973"
       }
     ],
-    "lastOnAirSku": "8360181",
-    "lastOnAirTitle": "Natural Jadeite Jade Snake Carved Bangle",
-    "lastOnAirAuctionCode": "0019835686",
+    "lastOnAirSku": "8611302",
+    "lastOnAirTitle": "24K - Yellow - Gold - Standard A Natural Jade Ring, Gold Wt.0.1 Gms  50.000  Ct.",
+    "lastOnAirAuctionCode": "0019835973",
     "precedingSku": "8360181",
     "precedingTitle": "Natural Jadeite Jade Snake Carved Bangle",
     "precedingAuctionCode": "0019835686"
