@@ -162392,21 +162392,26 @@
       "sku": "8196718",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "07:35:33",
+      "date": "2026-08-23",
+      "time": "06:26:22",
       "preExisting": true,
       "missedAt": 1786775733830,
       "missedDelay": null,
-      "lastUpdated": 1786775733830,
+      "lastUpdated": 1787462782443,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "Onshindo Osaka Anti-Ageing Day Cream (Normal-Combination Skin) - 50ml",
-      "auctionCode": "0019823442",
+      "title": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
+      "auctionCode": "0019837988",
       "source": "gha",
       "productUrl": "/products/onshindo-osaka-anti-ageing-lightweight-face-day-cream-50ml",
       "productUrlChecked": 1786775745455,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787462782443,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8196720": {
       "sku": "8196720",
@@ -216903,8 +216908,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787462727788,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222910,11 +222915,22 @@
         "followingSku": "8196662",
         "followingTitle": "Onshindo Osaka 24HR Balance Moisturizing Face Gel Cream - 50ml",
         "followingAuctionCode": "0019835584"
+      },
+      {
+        "start": 1787462727788,
+        "end": 1787462782443,
+        "durationMin": 0.9,
+        "precedingSku": "8196715",
+        "precedingTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
+        "precedingAuctionCode": "0019837984",
+        "followingSku": "8196718",
+        "followingTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
+        "followingAuctionCode": "0019837988"
       }
     ],
-    "lastOnAirSku": "8196715",
+    "lastOnAirSku": "8196718",
     "lastOnAirTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
-    "lastOnAirAuctionCode": "0019837984",
+    "lastOnAirAuctionCode": "0019837988",
     "precedingSku": "8196715",
     "precedingTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
     "precedingAuctionCode": "0019837984"
