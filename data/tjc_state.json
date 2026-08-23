@@ -218160,11 +218160,29 @@
       "productUrl": null,
       "lastUpdated": 1787490439250,
       "source": "gha"
+    },
+    "8311612": {
+      "sku": "8311612",
+      "firstAir": 1787490558810,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787490558810,
+      "title": "Natural Jade Stone Ring 45.000 Ct.",
+      "pdpPrice": "959.99",
+      "auctionCode": "0019835658",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "14:09:18",
+      "productUrl": null,
+      "lastUpdated": 1787490558810,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787490500898,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -224544,11 +224562,22 @@
         "followingSku": "8294276",
         "followingTitle": "Natural Type A Jadeite Beads Necklace (Size 20 - 2 Ext) with Lobster Clasp in Rhodium Overlay Sterling Silver 610.00 Ct.",
         "followingAuctionCode": "0019835655"
+      },
+      {
+        "start": 1787490500898,
+        "end": 1787490558810,
+        "durationMin": 1.0,
+        "precedingSku": "8294276",
+        "precedingTitle": "Natural Type A Jadeite Beads Necklace (Size 20 - 2 Ext) with Lobster Clasp in Rhodium Overlay Sterling Silver 610.00 Ct.",
+        "precedingAuctionCode": "0019835655",
+        "followingSku": "8311612",
+        "followingTitle": "Natural Jade Stone Ring 45.000 Ct.",
+        "followingAuctionCode": "0019835658"
       }
     ],
-    "lastOnAirSku": "8294276",
-    "lastOnAirTitle": "Natural Type A Jadeite Beads Necklace (Size 20 - 2 Ext) with Lobster Clasp in Rhodium Overlay Sterling Silver 610.00 Ct.",
-    "lastOnAirAuctionCode": "0019835655",
+    "lastOnAirSku": "8311612",
+    "lastOnAirTitle": "Natural Jade Stone Ring 45.000 Ct.",
+    "lastOnAirAuctionCode": "0019835658",
     "precedingSku": "8294276",
     "precedingTitle": "Natural Type A Jadeite Beads Necklace (Size 20 - 2 Ext) with Lobster Clasp in Rhodium Overlay Sterling Silver 610.00 Ct.",
     "precedingAuctionCode": "0019835655"
