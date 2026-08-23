@@ -216535,11 +216535,29 @@
       "productUrlChecked": 1787458346216,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8415399": {
+      "sku": "8415399",
+      "firstAir": 1787458464392,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787458464392,
+      "title": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019836985",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "05:14:24",
+      "productUrl": null,
+      "lastUpdated": 1787458464392,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787458397975,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222446,11 +222464,22 @@
         "followingSku": "7676383",
         "followingTitle": "Rachel Galley - 9K Yellow Gold Rose Earrings",
         "followingAuctionCode": "0019836982"
+      },
+      {
+        "start": 1787458397975,
+        "end": 1787458464392,
+        "durationMin": 1.1,
+        "precedingSku": "6343622",
+        "precedingTitle": "Italian Made 9K Yellow Gold Domed Stretchable Ring (Size O Stretchable)",
+        "precedingAuctionCode": "0019836986",
+        "followingSku": "8415399",
+        "followingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
+        "followingAuctionCode": "0019836985"
       }
     ],
-    "lastOnAirSku": "6343622",
-    "lastOnAirTitle": "Italian Made 9K Yellow Gold Domed Stretchable Ring (Size O Stretchable)",
-    "lastOnAirAuctionCode": "0019836986",
+    "lastOnAirSku": "8415399",
+    "lastOnAirTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
+    "lastOnAirAuctionCode": "0019836985",
     "precedingSku": "6343622",
     "precedingTitle": "Italian Made 9K Yellow Gold Domed Stretchable Ring (Size O Stretchable)",
     "precedingAuctionCode": "0019836986"
