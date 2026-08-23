@@ -156264,21 +156264,26 @@
       "sku": "7140984",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "16:15:37",
+      "date": "2026-08-23",
+      "time": "09:09:19",
       "preExisting": true,
       "missedAt": 1786720537868,
       "missedDelay": null,
-      "lastUpdated": 1786720537868,
+      "lastUpdated": 1787472559065,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Floral Pattern Long Sleeves Satin Dress  (One Size, 8-18) - Black and Purple",
-      "auctionCode": "0019819848",
+      "title": "Tamsy Floral Printed Satin Midi Dress",
+      "auctionCode": "0019836728",
       "source": "gha",
       "productUrl": "/products/tamsy-floral-printed-satin-midi-dress",
       "productUrlChecked": 1786720550505,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787472559065,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7140991": {
       "sku": "7140991",
@@ -217506,8 +217511,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787472437042,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -223656,11 +223661,22 @@
         "followingSku": "8546769",
         "followingTitle": "Marina Kaneva Puffed Sleeve Dress (Size 20) - Peach",
         "followingAuctionCode": "0019836803"
+      },
+      {
+        "start": 1787472437042,
+        "end": 1787472559065,
+        "durationMin": 2.0,
+        "precedingSku": "8546888",
+        "precedingTitle": "Marina Kaneva Puffed Sleeve Dress (Size 20) - Peach",
+        "precedingAuctionCode": "0019836798",
+        "followingSku": "7140984",
+        "followingTitle": "Tamsy Floral Printed Satin Midi Dress",
+        "followingAuctionCode": "0019836728"
       }
     ],
-    "lastOnAirSku": "8546888",
-    "lastOnAirTitle": "Marina Kaneva Puffed Sleeve Dress (Size 20) - Peach",
-    "lastOnAirAuctionCode": "0019836798",
+    "lastOnAirSku": "7140984",
+    "lastOnAirTitle": "Tamsy Floral Printed Satin Midi Dress",
+    "lastOnAirAuctionCode": "0019836728",
     "precedingSku": "8546888",
     "precedingTitle": "Marina Kaneva Puffed Sleeve Dress (Size 20) - Peach",
     "precedingAuctionCode": "0019836798"
