@@ -216959,11 +216959,29 @@
       "productUrl": null,
       "lastUpdated": 1787467037851,
       "source": "gha"
+    },
+    "8023314": {
+      "sku": "8023314",
+      "firstAir": 1787467159659,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787467159659,
+      "title": "Lowest Ever Price - BEAUTECH- 6-in-1 Facial Beauty Device - Sonic Vibration & EMS Skincare Massager - Lotus Pink",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019835596",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "07:39:19",
+      "productUrl": null,
+      "lastUpdated": 1787467159659,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787467103126,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -223035,11 +223053,22 @@
         "followingSku": "8019212",
         "followingTitle": "MEGA CLEARANCE DEAL - BEAUTECH RF-EMS Facial Beauty Device - Portable & Rechargeable with LED Light Therapy",
         "followingAuctionCode": "0019838021"
+      },
+      {
+        "start": 1787467103126,
+        "end": 1787467159659,
+        "durationMin": 0.9,
+        "precedingSku": "8019212",
+        "precedingTitle": "MEGA CLEARANCE DEAL - BEAUTECH RF-EMS Facial Beauty Device - Portable & Rechargeable with LED Light Therapy",
+        "precedingAuctionCode": "0019838021",
+        "followingSku": "8023314",
+        "followingTitle": "Lowest Ever Price - BEAUTECH- 6-in-1 Facial Beauty Device - Sonic Vibration & EMS Skincare Massager - Lotus Pink",
+        "followingAuctionCode": "0019835596"
       }
     ],
-    "lastOnAirSku": "8019212",
-    "lastOnAirTitle": "MEGA CLEARANCE DEAL - BEAUTECH RF-EMS Facial Beauty Device - Portable & Rechargeable with LED Light Therapy",
-    "lastOnAirAuctionCode": "0019838021",
+    "lastOnAirSku": "8023314",
+    "lastOnAirTitle": "Lowest Ever Price - BEAUTECH- 6-in-1 Facial Beauty Device - Sonic Vibration & EMS Skincare Massager - Lotus Pink",
+    "lastOnAirAuctionCode": "0019835596",
     "precedingSku": "8019212",
     "precedingTitle": "MEGA CLEARANCE DEAL - BEAUTECH RF-EMS Facial Beauty Device - Portable & Rechargeable with LED Light Therapy",
     "precedingAuctionCode": "0019838021"
