@@ -46005,21 +46005,26 @@
       "sku": "8272755",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-01",
-      "time": "11:46:56",
+      "date": "2026-08-23",
+      "time": "09:28:23",
       "preExisting": true,
       "missedAt": 1785581216499,
       "missedDelay": null,
-      "lastUpdated": 1785581216499,
+      "lastUpdated": 1787473703776,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
-      "auctionCode": "0019802899",
+      "auctionCode": "0019836716",
       "source": "gha",
       "productUrl": "/products/william-hunt-lab-grown-diamond-ladies-tungsten-carbide-case-watch",
       "productUrlChecked": 1785581220790,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787473703776,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8437542": {
       "sku": "8437542",
@@ -217763,8 +217768,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787473582047,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -223935,11 +223940,22 @@
         "followingSku": "8566737",
         "followingTitle": "Genuine Leather Structured Flapover Satchel Bag with Webbing Strap - Green",
         "followingAuctionCode": "0019836683"
+      },
+      {
+        "start": 1787473582047,
+        "end": 1787473703776,
+        "durationMin": 2.0,
+        "precedingSku": "8566737",
+        "precedingTitle": "Genuine Leather Structured Flapover Satchel Bag with Webbing Strap - Green",
+        "precedingAuctionCode": "0019836683",
+        "followingSku": "8272755",
+        "followingTitle": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
+        "followingAuctionCode": "0019836716"
       }
     ],
-    "lastOnAirSku": "8566737",
-    "lastOnAirTitle": "Genuine Leather Structured Flapover Satchel Bag with Webbing Strap - Green",
-    "lastOnAirAuctionCode": "0019836683",
+    "lastOnAirSku": "8272755",
+    "lastOnAirTitle": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
+    "lastOnAirAuctionCode": "0019836716",
     "precedingSku": "8566737",
     "precedingTitle": "Genuine Leather Structured Flapover Satchel Bag with Webbing Strap - Green",
     "precedingAuctionCode": "0019836683"
