@@ -223657,11 +223657,29 @@
       "productUrl": null,
       "lastUpdated": 1787513237837,
       "source": "gha"
+    },
+    "8447370": {
+      "sku": "8447370",
+      "firstAir": 1787513452626,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787513452626,
+      "title": "Natural Galileia Kunzite Solitaire Ring in Rose Gold Plated Sterling Silver 22.75 Ct.",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019837557",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "20:30:52",
+      "productUrl": null,
+      "lastUpdated": 1787513452626,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787513396935,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -230382,11 +230400,22 @@
         "followingSku": "8635356",
         "followingTitle": "Tony Diniz Collection - 9K Yellow Gold AAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 2.36 Ct.",
         "followingAuctionCode": "0019837830"
+      },
+      {
+        "start": 1787513396935,
+        "end": 1787513452626,
+        "durationMin": 0.9,
+        "precedingSku": "8415400",
+        "precedingTitle": "9K Yellow Gold Crown Ring",
+        "precedingAuctionCode": "0019837550",
+        "followingSku": "8447370",
+        "followingTitle": "Natural Galileia Kunzite Solitaire Ring in Rose Gold Plated Sterling Silver 22.75 Ct.",
+        "followingAuctionCode": "0019837557"
       }
     ],
-    "lastOnAirSku": "8415400",
-    "lastOnAirTitle": "9K Yellow Gold Crown Ring",
-    "lastOnAirAuctionCode": "0019837550",
+    "lastOnAirSku": "8447370",
+    "lastOnAirTitle": "Natural Galileia Kunzite Solitaire Ring in Rose Gold Plated Sterling Silver 22.75 Ct.",
+    "lastOnAirAuctionCode": "0019837557",
     "precedingSku": "8415400",
     "precedingTitle": "9K Yellow Gold Crown Ring",
     "precedingAuctionCode": "0019837550"
