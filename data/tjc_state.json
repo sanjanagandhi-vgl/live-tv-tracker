@@ -216149,11 +216149,29 @@
       "productUrl": null,
       "lastUpdated": 1787455278123,
       "source": "gha"
+    },
+    "3372558": {
+      "sku": "3372558",
+      "firstAir": 1787455527410,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787455527410,
+      "title": "Filigree Leaf Ring in Sterling Silver",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019836943",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "04:25:27",
+      "productUrl": null,
+      "lastUpdated": 1787455527410,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787455462443,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221983,11 +222001,22 @@
         "followingSku": "8183709",
         "followingTitle": "Vicenza Collection Sterling Silver Necklace  (Size - 30) with Lobster Clasp",
         "followingAuctionCode": "0019836960"
+      },
+      {
+        "start": 1787455462443,
+        "end": 1787455527410,
+        "durationMin": 1.1,
+        "precedingSku": "8415148",
+        "precedingTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8), Silver Wt. 13.70 Gms",
+        "precedingAuctionCode": "0019836972",
+        "followingSku": "3372558",
+        "followingTitle": "Filigree Leaf Ring in Sterling Silver",
+        "followingAuctionCode": "0019836943"
       }
     ],
-    "lastOnAirSku": "8415148",
-    "lastOnAirTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8), Silver Wt. 13.70 Gms",
-    "lastOnAirAuctionCode": "0019836972",
+    "lastOnAirSku": "3372558",
+    "lastOnAirTitle": "Filigree Leaf Ring in Sterling Silver",
+    "lastOnAirAuctionCode": "0019836943",
     "precedingSku": "8415148",
     "precedingTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8), Silver Wt. 13.70 Gms",
     "precedingAuctionCode": "0019836972"
