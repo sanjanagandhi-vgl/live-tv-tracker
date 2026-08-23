@@ -218762,11 +218762,29 @@
       "productUrl": null,
       "lastUpdated": 1787496383175,
       "source": "gha"
+    },
+    "8613010": {
+      "sku": "8613010",
+      "firstAir": 1787496503847,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787496503847,
+      "title": "D'Joy - Natural Jade Floral Earring with Hook in Rhodium Overlay Sterling Silver 24.00 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019835991",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "15:48:23",
+      "productUrl": null,
+      "lastUpdated": 1787496503847,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787496441018,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -225234,11 +225252,22 @@
         "followingSku": "8611302",
         "followingTitle": "24K - Yellow - Gold - Standard A Natural Jade Ring, Gold Wt.0.1 Gms  50.000  Ct.",
         "followingAuctionCode": "0019835973"
+      },
+      {
+        "start": 1787496441018,
+        "end": 1787496503847,
+        "durationMin": 1.0,
+        "precedingSku": "8611302",
+        "precedingTitle": "24K - Yellow - Gold - Standard A Natural Jade Ring, Gold Wt.0.1 Gms  50.000  Ct.",
+        "precedingAuctionCode": "0019835973",
+        "followingSku": "8613010",
+        "followingTitle": "D'Joy - Natural Jade Floral Earring with Hook in Rhodium Overlay Sterling Silver 24.00 Ct.",
+        "followingAuctionCode": "0019835991"
       }
     ],
-    "lastOnAirSku": "8611302",
-    "lastOnAirTitle": "24K - Yellow - Gold - Standard A Natural Jade Ring, Gold Wt.0.1 Gms  50.000  Ct.",
-    "lastOnAirAuctionCode": "0019835973",
+    "lastOnAirSku": "8613010",
+    "lastOnAirTitle": "D'Joy - Natural Jade Floral Earring with Hook in Rhodium Overlay Sterling Silver 24.00 Ct.",
+    "lastOnAirAuctionCode": "0019835991",
     "precedingSku": "8611302",
     "precedingTitle": "24K - Yellow - Gold - Standard A Natural Jade Ring, Gold Wt.0.1 Gms  50.000  Ct.",
     "precedingAuctionCode": "0019835973"
