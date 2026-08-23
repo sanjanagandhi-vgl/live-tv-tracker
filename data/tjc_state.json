@@ -219354,11 +219354,29 @@
       "productUrlChecked": 1787502087235,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8246231": {
+      "sku": "8246231",
+      "firstAir": 1787503638184,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787503638184,
+      "title": "Designer Inspired Edison Pearl Beads Bracelet (Size 7-2 Ext) with Lobster Clasp in Yellow Gold Overlay Sterling Silver",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019837098",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "17:47:18",
+      "productUrl": null,
+      "lastUpdated": 1787503638184,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787503581776,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -225925,11 +225943,22 @@
         "followingSku": "8708942",
         "followingTitle": "AAA Rare Size  Edison Pearl (13mm) Necklace (Size - 20) in Yellow Gold Plated Sterling Silver with Magnetic Lock",
         "followingAuctionCode": "0019836001"
+      },
+      {
+        "start": 1787503581776,
+        "end": 1787503638184,
+        "durationMin": 0.9,
+        "precedingSku": "8708942",
+        "precedingTitle": "AAA Rare Size  Edison Pearl (13mm) Necklace (Size - 20) in Yellow Gold Plated Sterling Silver with Magnetic Lock",
+        "precedingAuctionCode": "0019836001",
+        "followingSku": "8246231",
+        "followingTitle": "Designer Inspired Edison Pearl Beads Bracelet (Size 7-2 Ext) with Lobster Clasp in Yellow Gold Overlay Sterling Silver",
+        "followingAuctionCode": "0019837098"
       }
     ],
-    "lastOnAirSku": "8708942",
-    "lastOnAirTitle": "AAA Rare Size  Edison Pearl (13mm) Necklace (Size - 20) in Yellow Gold Plated Sterling Silver with Magnetic Lock",
-    "lastOnAirAuctionCode": "0019836001",
+    "lastOnAirSku": "8246231",
+    "lastOnAirTitle": "Designer Inspired Edison Pearl Beads Bracelet (Size 7-2 Ext) with Lobster Clasp in Yellow Gold Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019837098",
     "precedingSku": "8708942",
     "precedingTitle": "AAA Rare Size  Edison Pearl (13mm) Necklace (Size - 20) in Yellow Gold Plated Sterling Silver with Magnetic Lock",
     "precedingAuctionCode": "0019836001"
