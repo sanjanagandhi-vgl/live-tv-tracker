@@ -5891,19 +5891,19 @@
       "sku": "8233468",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "12:01:21",
+      "date": "2026-08-23",
+      "time": "09:41:19",
       "preExisting": true,
       "missedAt": 1784908398752,
       "missedDelay": null,
-      "lastUpdated": 1786878081386,
+      "lastUpdated": 1787474479522,
       "missedPrice": 299.99,
       "missedImg": true,
       "title": "Vicenza Find-9K Yellow Gold Concave Belcher Necklace (Size 18) with Lobster Clasp",
-      "auctionCode": "0019823952",
+      "auctionCode": "0019836722",
       "source": "gha",
-      "lastAir": 1786878081386,
-      "pdpPrice": 179.99,
+      "lastAir": 1787474479522,
+      "pdpPrice": "2799.00",
       "buy": true,
       "login": false,
       "img": true,
@@ -217875,8 +217875,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787474437290,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -224058,11 +224058,22 @@
         "followingSku": "8272755",
         "followingTitle": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
         "followingAuctionCode": "0019836716"
+      },
+      {
+        "start": 1787474437290,
+        "end": 1787474479522,
+        "durationMin": 0.7,
+        "precedingSku": "8272755",
+        "precedingTitle": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
+        "precedingAuctionCode": "0019836716",
+        "followingSku": "8233468",
+        "followingTitle": "Vicenza Find-9K Yellow Gold Concave Belcher Necklace (Size 18) with Lobster Clasp",
+        "followingAuctionCode": "0019836722"
       }
     ],
-    "lastOnAirSku": "8272755",
-    "lastOnAirTitle": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
-    "lastOnAirAuctionCode": "0019836716",
+    "lastOnAirSku": "8233468",
+    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Concave Belcher Necklace (Size 18) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019836722",
     "precedingSku": "8272755",
     "precedingTitle": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
     "precedingAuctionCode": "0019836716"
