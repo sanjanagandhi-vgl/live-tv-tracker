@@ -217042,9 +217042,16 @@
       "img": true,
       "date": "2026-08-23",
       "time": "08:16:21",
-      "productUrl": null,
-      "lastUpdated": 1787469381328,
-      "source": "gha"
+      "productUrl": "/products/vll-polyester-kaftan-one-size-black",
+      "lastUpdated": 1787469927531,
+      "source": "gha",
+      "missedAt": 1787469927531,
+      "missedDelay": 9,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "productUrlChecked": 1787469930583,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7854729": {
       "sku": "7854729",
@@ -217063,11 +217070,51 @@
       "productUrl": null,
       "lastUpdated": 1787469637529,
       "source": "gha"
+    },
+    "7378648": {
+      "sku": "7378648",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-23",
+      "time": "08:25:27",
+      "preExisting": true,
+      "missedAt": 1787469927531,
+      "missedDelay": null,
+      "lastUpdated": 1787469927531,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Tamsy Satin Kaftan (One Size) - Multi",
+      "auctionCode": "0019836749",
+      "source": "gha",
+      "productUrl": "/products/vll-polyester-kaftan-one-size-black",
+      "productUrlChecked": 1787469932666,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7140789": {
+      "sku": "7140789",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-23",
+      "time": "08:25:27",
+      "preExisting": true,
+      "missedAt": 1787469927531,
+      "missedDelay": null,
+      "lastUpdated": 1787469927531,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "TAMSY Floral and Leaf Pattern Kaftan (One Size Curve, 20-26) - Black and Multi",
+      "auctionCode": "0019836750",
+      "source": "gha",
+      "productUrl": "/products/vll-polyester-kaftan-one-size-black",
+      "productUrlChecked": 1787469933953,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787469927531,
     "gaps": [
       {
         "start": 1785823527869,
@@ -223166,8 +223213,8 @@
     "lastOnAirSku": "8220668",
     "lastOnAirTitle": "LA MAREY Signature Faux Fur Batwing Poncho (120x70 cm)",
     "lastOnAirAuctionCode": "0019836754",
-    "precedingSku": "8022505",
-    "precedingTitle": "BEAUTECH Dual-Head Rechargeable Ultrasonic Skin Spatula - Portable Ionic Deep Cleansing & Beauty Device",
-    "precedingAuctionCode": "0019835595"
+    "precedingSku": "8220668",
+    "precedingTitle": "LA MAREY Signature Faux Fur Batwing Poncho (120x70 cm)",
+    "precedingAuctionCode": "0019836754"
   }
 }
