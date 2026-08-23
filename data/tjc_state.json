@@ -217890,11 +217890,29 @@
       "productUrl": null,
       "lastUpdated": 1787476159494,
       "source": "gha"
+    },
+    "7698839": {
+      "sku": "7698839",
+      "firstAir": 1787476278802,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787476278802,
+      "title": "Set of 4 Solar Butterfly Lights",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019835491",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "10:11:18",
+      "productUrl": null,
+      "lastUpdated": 1787476278802,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787476237305,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -224098,11 +224116,22 @@
         "followingSku": "8023523",
         "followingTitle": "Arti Casa Glass Vase with Metal Stand",
         "followingAuctionCode": "0019835513"
+      },
+      {
+        "start": 1787476237305,
+        "end": 1787476278802,
+        "durationMin": 0.7,
+        "precedingSku": "8023523",
+        "precedingTitle": "Arti Casa Glass Vase with Metal Stand",
+        "precedingAuctionCode": "0019835513",
+        "followingSku": "7698839",
+        "followingTitle": "Set of 4 Solar Butterfly Lights",
+        "followingAuctionCode": "0019835491"
       }
     ],
-    "lastOnAirSku": "8023523",
-    "lastOnAirTitle": "Arti Casa Glass Vase with Metal Stand",
-    "lastOnAirAuctionCode": "0019835513",
+    "lastOnAirSku": "7698839",
+    "lastOnAirTitle": "Set of 4 Solar Butterfly Lights",
+    "lastOnAirAuctionCode": "0019835491",
     "precedingSku": "8023523",
     "precedingTitle": "Arti Casa Glass Vase with Metal Stand",
     "precedingAuctionCode": "0019835513"
