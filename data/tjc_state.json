@@ -94813,17 +94813,17 @@
       "firstAir": 1786101991158,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786102103821,
+      "lastAir": 1787477679724,
       "title": "Natural Dried Plant Wreath with LED Light (One Size) - Red & Multicolour",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019810488",
+      "pdpPrice": "150.99",
+      "auctionCode": "0019835511",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-07",
-      "time": "12:28:23",
+      "date": "2026-08-23",
+      "time": "10:34:39",
       "productUrl": "/products/natural-dried-plant-wreath-with-led-light-one-size-red-multicolour",
-      "lastUpdated": 1786102637734,
+      "lastUpdated": 1787477679724,
       "source": "gha",
       "missedAt": 1786102637734,
       "missedDelay": 9,
@@ -217978,8 +217978,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787477662910,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -224216,11 +224216,22 @@
         "followingSku": "8231887",
         "followingTitle": null,
         "followingAuctionCode": "0019835509"
+      },
+      {
+        "start": 1787477662910,
+        "end": 1787477679724,
+        "durationMin": 0.3,
+        "precedingSku": "8231887",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019835509",
+        "followingSku": "8195715",
+        "followingTitle": "Natural Dried Plant Wreath with LED Light (One Size) - Red & Multicolour",
+        "followingAuctionCode": "0019835511"
       }
     ],
-    "lastOnAirSku": "8231887",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019835509",
+    "lastOnAirSku": "8195715",
+    "lastOnAirTitle": "Natural Dried Plant Wreath with LED Light (One Size) - Red & Multicolour",
+    "lastOnAirAuctionCode": "0019835511",
     "precedingSku": "8231887",
     "precedingTitle": null,
     "precedingAuctionCode": "0019835509"
