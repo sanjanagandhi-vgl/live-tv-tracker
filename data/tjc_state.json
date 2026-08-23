@@ -81539,17 +81539,17 @@
       "firstAir": 1785982886643,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785982886643,
+      "lastAir": 1787448742557,
       "title": "Philips Pack of 4 - Power Alkaline AA Batteries",
-      "pdpPrice": "1.99",
-      "auctionCode": "0019807185",
+      "pdpPrice": "3.99",
+      "auctionCode": "0019836902",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-06",
-      "time": "03:21:26",
+      "date": "2026-08-23",
+      "time": "02:32:22",
       "productUrl": "/products/philips-pack-of-4-power-alkaline-aa-batteries",
-      "lastUpdated": 1786057413979,
+      "lastUpdated": 1787448742557,
       "source": "gha",
       "missedAt": 1786057413979,
       "missedDelay": 1242,
@@ -215746,8 +215746,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787448677387,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221445,11 +221445,22 @@
         "followingSku": "8052306",
         "followingTitle": "Set Of 4 Silicone Pot Holders",
         "followingAuctionCode": "0019836899"
+      },
+      {
+        "start": 1787448677387,
+        "end": 1787448742557,
+        "durationMin": 1.1,
+        "precedingSku": "7958181",
+        "precedingTitle": "Magnetic Wireless Car Charger.",
+        "precedingAuctionCode": "0019836901",
+        "followingSku": "7990675",
+        "followingTitle": "Philips Pack of 4 - Power Alkaline AA Batteries",
+        "followingAuctionCode": "0019836902"
       }
     ],
-    "lastOnAirSku": "7958181",
-    "lastOnAirTitle": "Magnetic Wireless Car Charger.",
-    "lastOnAirAuctionCode": "0019836901",
+    "lastOnAirSku": "7990675",
+    "lastOnAirTitle": "Philips Pack of 4 - Power Alkaline AA Batteries",
+    "lastOnAirAuctionCode": "0019836902",
     "precedingSku": "7958181",
     "precedingTitle": "Magnetic Wireless Car Charger.",
     "precedingAuctionCode": "0019836901"
