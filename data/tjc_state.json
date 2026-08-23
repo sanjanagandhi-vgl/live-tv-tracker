@@ -216708,11 +216708,29 @@
       "productUrl": null,
       "lastUpdated": 1787460262711,
       "source": "gha"
+    },
+    "7926204": {
+      "sku": "7926204",
+      "firstAir": 1787460382314,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787460382314,
+      "title": "9K Yellow Gold Pendant  White Diamond Ct 1.08",
+      "pdpPrice": "2999.00",
+      "auctionCode": "0019836999",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "05:46:22",
+      "productUrl": null,
+      "lastUpdated": 1787460382314,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787460339823,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222685,11 +222703,22 @@
         "followingSku": "8223964",
         "followingTitle": "Rachel Galley 9K Yellow Gold Necklace (Size - 18). Gold Wt 1.65 Gms",
         "followingAuctionCode": "0019836979"
+      },
+      {
+        "start": 1787460339823,
+        "end": 1787460382314,
+        "durationMin": 0.7,
+        "precedingSku": "7556940",
+        "precedingTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
+        "precedingAuctionCode": "0019836989",
+        "followingSku": "7926204",
+        "followingTitle": "9K Yellow Gold Pendant  White Diamond Ct 1.08",
+        "followingAuctionCode": "0019836999"
       }
     ],
-    "lastOnAirSku": "7556940",
-    "lastOnAirTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
-    "lastOnAirAuctionCode": "0019836989",
+    "lastOnAirSku": "7926204",
+    "lastOnAirTitle": "9K Yellow Gold Pendant  White Diamond Ct 1.08",
+    "lastOnAirAuctionCode": "0019836999",
     "precedingSku": "7556940",
     "precedingTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
     "precedingAuctionCode": "0019836989"
