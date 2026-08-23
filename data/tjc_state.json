@@ -217128,11 +217128,29 @@
       "productUrl": null,
       "lastUpdated": 1787469985421,
       "source": "gha"
+    },
+    "8037635": {
+      "sku": "8037635",
+      "firstAir": 1787470042650,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787470042650,
+      "title": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
+      "pdpPrice": "149.00",
+      "auctionCode": "0019836758",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "08:27:22",
+      "productUrl": null,
+      "lastUpdated": 1787470042650,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787470027598,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -223237,11 +223255,22 @@
         "followingSku": "8037776",
         "followingTitle": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
         "followingAuctionCode": "0019836757"
+      },
+      {
+        "start": 1787470027598,
+        "end": 1787470042650,
+        "durationMin": 0.3,
+        "precedingSku": "8037776",
+        "precedingTitle": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
+        "precedingAuctionCode": "0019836757",
+        "followingSku": "8037635",
+        "followingTitle": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
+        "followingAuctionCode": "0019836758"
       }
     ],
-    "lastOnAirSku": "8037776",
+    "lastOnAirSku": "8037635",
     "lastOnAirTitle": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
-    "lastOnAirAuctionCode": "0019836757",
+    "lastOnAirAuctionCode": "0019836758",
     "precedingSku": "8037776",
     "precedingTitle": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
     "precedingAuctionCode": "0019836757"
