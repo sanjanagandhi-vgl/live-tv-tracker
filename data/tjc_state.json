@@ -215838,11 +215838,29 @@
       "productUrl": null,
       "lastUpdated": 1787452758347,
       "source": "gha"
+    },
+    "7692588": {
+      "sku": "7692588",
+      "firstAir": 1787452882639,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787452882639,
+      "title": "Laurelle Devine Scents- Premium Scented Candles - Berries (210g)",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019836940",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "03:41:22",
+      "productUrl": null,
+      "lastUpdated": 1787452882639,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787452837131,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221617,11 +221635,22 @@
         "followingSku": "8086598",
         "followingTitle": "Cotton Hand - Block Stripe Print Quilted Travel Duffel Bag",
         "followingAuctionCode": "0019836934"
+      },
+      {
+        "start": 1787452837131,
+        "end": 1787452882639,
+        "durationMin": 0.8,
+        "precedingSku": "8086598",
+        "precedingTitle": "Cotton Hand - Block Stripe Print Quilted Travel Duffel Bag",
+        "precedingAuctionCode": "0019836934",
+        "followingSku": "7692588",
+        "followingTitle": "Laurelle Devine Scents- Premium Scented Candles - Berries (210g)",
+        "followingAuctionCode": "0019836940"
       }
     ],
-    "lastOnAirSku": "8086598",
-    "lastOnAirTitle": "Cotton Hand - Block Stripe Print Quilted Travel Duffel Bag",
-    "lastOnAirAuctionCode": "0019836934",
+    "lastOnAirSku": "7692588",
+    "lastOnAirTitle": "Laurelle Devine Scents- Premium Scented Candles - Berries (210g)",
+    "lastOnAirAuctionCode": "0019836940",
     "precedingSku": "8086598",
     "precedingTitle": "Cotton Hand - Block Stripe Print Quilted Travel Duffel Bag",
     "precedingAuctionCode": "0019836934"
