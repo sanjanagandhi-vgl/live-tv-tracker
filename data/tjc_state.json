@@ -162223,17 +162223,17 @@
       "firstAir": 1786763960598,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786764146142,
+      "lastAir": 1787520143935,
       "title": "Sterling Silver Ball in Yellow Gold Plating",
       "pdpPrice": "7.99",
-      "auctionCode": "0019821543",
+      "auctionCode": "0019837198",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-15",
-      "time": "04:22:26",
+      "date": "2026-08-23",
+      "time": "22:22:23",
       "productUrl": "/products/sterling-silver-ball-in-yellow-gold-plating",
-      "lastUpdated": 1786764762779,
+      "lastUpdated": 1787520143935,
       "source": "gha",
       "missedAt": 1786764762779,
       "missedDelay": 10,
@@ -227203,8 +227203,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787520077454,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -234013,11 +234013,22 @@
         "followingSku": "3478595",
         "followingTitle": "Plain Lever Back Star Earrings in Gold Plated Silver",
         "followingAuctionCode": "0019837187"
+      },
+      {
+        "start": 1787520077454,
+        "end": 1787520143935,
+        "durationMin": 1.1,
+        "precedingSku": "3874405",
+        "precedingTitle": "14K Gold Overlay Sterling Silver Scottish Terrier Dog Charm",
+        "precedingAuctionCode": "0019837188",
+        "followingSku": "8194690",
+        "followingTitle": "Sterling Silver Ball in Yellow Gold Plating",
+        "followingAuctionCode": "0019837198"
       }
     ],
-    "lastOnAirSku": "3874405",
-    "lastOnAirTitle": "14K Gold Overlay Sterling Silver Scottish Terrier Dog Charm",
-    "lastOnAirAuctionCode": "0019837188",
+    "lastOnAirSku": "8194690",
+    "lastOnAirTitle": "Sterling Silver Ball in Yellow Gold Plating",
+    "lastOnAirAuctionCode": "0019837198",
     "precedingSku": "3874405",
     "precedingTitle": "14K Gold Overlay Sterling Silver Scottish Terrier Dog Charm",
     "precedingAuctionCode": "0019837188"
