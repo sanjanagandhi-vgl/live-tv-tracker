@@ -121655,17 +121655,17 @@
       "firstAir": 1786370068545,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787015663345,
+      "lastAir": 1787450839447,
       "title": "Warmies Microwavable Boots",
-      "pdpPrice": "12.99",
-      "auctionCode": "0019826030",
+      "pdpPrice": "145.99",
+      "auctionCode": "0019836913",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-18",
-      "time": "02:14:23",
+      "date": "2026-08-23",
+      "time": "03:07:19",
       "productUrl": "/products/warmies-microwavable-boots",
-      "lastUpdated": 1787015663345,
+      "lastUpdated": 1787450839447,
       "source": "gha",
       "missedAt": 1786370840233,
       "missedDelay": 10,
@@ -215751,8 +215751,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787450729693,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221494,11 +221494,22 @@
         "followingSku": "7819288",
         "followingTitle": "Luxurious Double Layer Electric Heated Blanket",
         "followingAuctionCode": "0019836893"
+      },
+      {
+        "start": 1787450729693,
+        "end": 1787450839447,
+        "durationMin": 1.8,
+        "precedingSku": "7819288",
+        "precedingTitle": "Luxurious Double Layer Electric Heated Blanket",
+        "precedingAuctionCode": "0019836893",
+        "followingSku": "8330966",
+        "followingTitle": "Warmies Microwavable Boots",
+        "followingAuctionCode": "0019836913"
       }
     ],
-    "lastOnAirSku": "7819288",
-    "lastOnAirTitle": "Luxurious Double Layer Electric Heated Blanket",
-    "lastOnAirAuctionCode": "0019836893",
+    "lastOnAirSku": "8330966",
+    "lastOnAirTitle": "Warmies Microwavable Boots",
+    "lastOnAirAuctionCode": "0019836913",
     "precedingSku": "7819288",
     "precedingTitle": "Luxurious Double Layer Electric Heated Blanket",
     "precedingAuctionCode": "0019836893"
