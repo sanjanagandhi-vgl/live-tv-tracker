@@ -7587,21 +7587,22 @@
       "firstAir": 1784950400743,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784952198938,
+      "lastAir": 1787459450969,
       "title": "ULTIMATE HANDMADE BALI BRACELET - 9K Yellow Gold The Dragon Bracelet (Size - 8) with Clasp",
-      "pdpPrice": 1999.99,
-      "auctionCode": "0019794348",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "1999.99",
+      "auctionCode": "0019837003",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "05:03:18",
-      "lastUpdated": 1784952198938,
+      "date": "2026-08-23",
+      "time": "05:30:50",
+      "lastUpdated": 1787459450969,
       "source": "gha",
       "missedAt": 1784950941971,
       "missedDelay": 2,
       "missedPrice": 1999.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8600711": {
       "sku": "8600711",
@@ -216675,8 +216676,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787459358504,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222627,11 +222628,22 @@
         "followingSku": "7986959",
         "followingTitle": "9K Yellow Gold Premium Golden South Sea Pearl Pendant",
         "followingAuctionCode": "0019837000"
+      },
+      {
+        "start": 1787459358504,
+        "end": 1787459450969,
+        "durationMin": 1.5,
+        "precedingSku": "8193871",
+        "precedingTitle": "DEAL OF THE DAY - 9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size 7.5) with Lobster Clasp 2.25 Ct.",
+        "precedingAuctionCode": "0019837001",
+        "followingSku": "8549395",
+        "followingTitle": "ULTIMATE HANDMADE BALI BRACELET - 9K Yellow Gold The Dragon Bracelet (Size - 8) with Clasp",
+        "followingAuctionCode": "0019837003"
       }
     ],
-    "lastOnAirSku": "8193871",
-    "lastOnAirTitle": "DEAL OF THE DAY - 9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size 7.5) with Lobster Clasp 2.25 Ct.",
-    "lastOnAirAuctionCode": "0019837001",
+    "lastOnAirSku": "8549395",
+    "lastOnAirTitle": "ULTIMATE HANDMADE BALI BRACELET - 9K Yellow Gold The Dragon Bracelet (Size - 8) with Clasp",
+    "lastOnAirAuctionCode": "0019837003",
     "precedingSku": "8193871",
     "precedingTitle": "DEAL OF THE DAY - 9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size 7.5) with Lobster Clasp 2.25 Ct.",
     "precedingAuctionCode": "0019837001"
