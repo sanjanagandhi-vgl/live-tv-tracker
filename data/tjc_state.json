@@ -216626,9 +216626,16 @@
       "img": true,
       "date": "2026-08-23",
       "time": "05:19:18",
-      "productUrl": null,
-      "lastUpdated": 1787458758083,
-      "source": "gha"
+      "productUrl": "/products/9k-white-gold-solitaire-diamond-solitaire-stud-earrings-0-20-ct",
+      "lastUpdated": 1787459358504,
+      "source": "gha",
+      "missedAt": 1787459358504,
+      "missedDelay": 10,
+      "missedPrice": 149.99,
+      "missedImg": true,
+      "productUrlChecked": 1787459366653,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7986959": {
       "sku": "7986959",
@@ -216668,8 +216675,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787459358504,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222625,8 +222632,8 @@
     "lastOnAirSku": "8193871",
     "lastOnAirTitle": "DEAL OF THE DAY - 9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size 7.5) with Lobster Clasp 2.25 Ct.",
     "lastOnAirAuctionCode": "0019837001",
-    "precedingSku": "7646681",
-    "precedingTitle": "9K White Gold Solitaire Diamond Solitaire Stud Earrings 0.20 Ct.",
-    "precedingAuctionCode": "0019836987"
+    "precedingSku": "8193871",
+    "precedingTitle": "DEAL OF THE DAY - 9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size 7.5) with Lobster Clasp 2.25 Ct.",
+    "precedingAuctionCode": "0019837001"
   }
 }
