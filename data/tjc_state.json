@@ -111453,23 +111453,23 @@
       "sku": "7819288",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "11:49:19",
+      "date": "2026-08-23",
+      "time": "02:47:18",
       "preExisting": true,
       "missedAt": 1786261878160,
       "missedDelay": null,
-      "lastUpdated": 1787050159808,
+      "lastUpdated": 1787449638416,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Luxurious Double Layer Electric Heated Blanket",
-      "auctionCode": "0019827201",
+      "auctionCode": "0019836893",
       "source": "gha",
       "productUrl": "/products/luxurious-double-layer-electric-heated-blanket",
       "productUrlChecked": 1786261887653,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787050159808,
-      "pdpPrice": "29.99",
+      "lastAir": 1787449638416,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true
@@ -215751,8 +215751,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787449537144,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221483,11 +221483,22 @@
         "followingSku": "8286583",
         "followingTitle": null,
         "followingAuctionCode": "0019836887"
+      },
+      {
+        "start": 1787449537144,
+        "end": 1787449638416,
+        "durationMin": 1.7,
+        "precedingSku": "8194761",
+        "precedingTitle": "Baking Cookies for Santa Bleached Prints Coir Doormat (60 x 40 cm)",
+        "precedingAuctionCode": "0019836917",
+        "followingSku": "7819288",
+        "followingTitle": "Luxurious Double Layer Electric Heated Blanket",
+        "followingAuctionCode": "0019836893"
       }
     ],
-    "lastOnAirSku": "8194761",
-    "lastOnAirTitle": "Baking Cookies for Santa Bleached Prints Coir Doormat (60 x 40 cm)",
-    "lastOnAirAuctionCode": "0019836917",
+    "lastOnAirSku": "7819288",
+    "lastOnAirTitle": "Luxurious Double Layer Electric Heated Blanket",
+    "lastOnAirAuctionCode": "0019836893",
     "precedingSku": "8194761",
     "precedingTitle": "Baking Cookies for Santa Bleached Prints Coir Doormat (60 x 40 cm)",
     "precedingAuctionCode": "0019836917"
