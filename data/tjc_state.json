@@ -149561,21 +149561,26 @@
       "sku": "8314613",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "19:05:29",
+      "date": "2026-08-23",
+      "time": "20:37:22",
       "preExisting": true,
       "missedAt": 1786644329759,
       "missedDelay": null,
-      "lastUpdated": 1786644329759,
+      "lastUpdated": 1787513842188,
       "missedPrice": 949.99,
       "missedImg": true,
-      "title": "Tony Diniz Collection- Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring 2.07 Ct, Platinum Wt. 4.25 Gms.",
-      "auctionCode": "0019818531",
+      "title": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+      "auctionCode": "0019837622",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-tanzanite-solitaire-ring-platinum",
       "productUrlChecked": 1786644336350,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787513842188,
+      "pdpPrice": "1289.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8314614": {
       "sku": "8314614",
@@ -223821,8 +223826,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787513783987,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -230565,11 +230570,22 @@
         "followingSku": "8478729",
         "followingTitle": "D'Joy Natural Kunzite & Orissa Rose Garnet Trilogy Ring in Rose Gold Plated Sterling Silver 13.50 Ct.",
         "followingAuctionCode": "0019837573"
+      },
+      {
+        "start": 1787513783987,
+        "end": 1787513842188,
+        "durationMin": 1.0,
+        "precedingSku": "8478729",
+        "precedingTitle": "D'Joy Natural Kunzite & Orissa Rose Garnet Trilogy Ring in Rose Gold Plated Sterling Silver 13.50 Ct.",
+        "precedingAuctionCode": "0019837573",
+        "followingSku": "8314613",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "followingAuctionCode": "0019837622"
       }
     ],
-    "lastOnAirSku": "8478729",
-    "lastOnAirTitle": "D'Joy Natural Kunzite & Orissa Rose Garnet Trilogy Ring in Rose Gold Plated Sterling Silver 13.50 Ct.",
-    "lastOnAirAuctionCode": "0019837573",
+    "lastOnAirSku": "8314613",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+    "lastOnAirAuctionCode": "0019837622",
     "precedingSku": "8478729",
     "precedingTitle": "D'Joy Natural Kunzite & Orissa Rose Garnet Trilogy Ring in Rose Gold Plated Sterling Silver 13.50 Ct.",
     "precedingAuctionCode": "0019837573"
