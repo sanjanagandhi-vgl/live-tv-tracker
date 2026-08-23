@@ -97387,21 +97387,26 @@
       "sku": "8378675",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "18:02:26",
+      "date": "2026-08-23",
+      "time": "15:50:39",
       "preExisting": true,
       "missedAt": 1786122146219,
       "missedDelay": null,
-      "lastUpdated": 1786122146219,
+      "lastUpdated": 1787496639685,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Natural Type A Jadeite 10MM Handcrafted Band Ring 45.00 Ct.",
-      "auctionCode": "0019810869",
+      "auctionCode": "0019838433",
       "source": "gha",
       "productUrl": "/products/natural-type-a-jadeite-jade-10mm-handcraft-band-ring-45-00-ct",
       "productUrlChecked": 1786122161657,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787496639685,
+      "pdpPrice": "2987.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8378677": {
       "sku": "8378677",
@@ -218818,8 +218823,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787496615896,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -225298,11 +225303,22 @@
         "followingSku": "8613010",
         "followingTitle": "D'Joy - Natural Jade Floral Earring with Hook in Rhodium Overlay Sterling Silver 24.00 Ct.",
         "followingAuctionCode": "0019835991"
+      },
+      {
+        "start": 1787496615896,
+        "end": 1787496639685,
+        "durationMin": 0.4,
+        "precedingSku": "8613010",
+        "precedingTitle": "D'Joy - Natural Jade Floral Earring with Hook in Rhodium Overlay Sterling Silver 24.00 Ct.",
+        "precedingAuctionCode": "0019835991",
+        "followingSku": "8378675",
+        "followingTitle": "Natural Type A Jadeite 10MM Handcrafted Band Ring 45.00 Ct.",
+        "followingAuctionCode": "0019838433"
       }
     ],
-    "lastOnAirSku": "8613010",
-    "lastOnAirTitle": "D'Joy - Natural Jade Floral Earring with Hook in Rhodium Overlay Sterling Silver 24.00 Ct.",
-    "lastOnAirAuctionCode": "0019835991",
+    "lastOnAirSku": "8378675",
+    "lastOnAirTitle": "Natural Type A Jadeite 10MM Handcrafted Band Ring 45.00 Ct.",
+    "lastOnAirAuctionCode": "0019838433",
     "precedingSku": "8613010",
     "precedingTitle": "D'Joy - Natural Jade Floral Earring with Hook in Rhodium Overlay Sterling Silver 24.00 Ct.",
     "precedingAuctionCode": "0019835991"
