@@ -137032,21 +137032,26 @@
       "sku": "8196743",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-12",
-      "time": "08:17:20",
+      "date": "2026-08-23",
+      "time": "06:29:18",
       "preExisting": true,
       "missedAt": 1786519040227,
       "missedDelay": null,
-      "lastUpdated": 1786519040227,
+      "lastUpdated": 1787462958524,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Onshindo Osaka Overnight Creamy-Hydration Mask for All Skin Types - 75ml",
-      "auctionCode": "0019817288",
+      "auctionCode": "0019835591",
       "source": "gha",
       "productUrl": "/products/onshindo-osaka-face-scrub-for-all-skin-types-75ml",
       "productUrlChecked": 1786519050787,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787462958524,
+      "pdpPrice": "34.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7898138": {
       "sku": "7898138",
@@ -216908,8 +216913,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787462901824,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222926,11 +222931,22 @@
         "followingSku": "8196718",
         "followingTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
         "followingAuctionCode": "0019837988"
+      },
+      {
+        "start": 1787462901824,
+        "end": 1787462958524,
+        "durationMin": 0.9,
+        "precedingSku": "8196718",
+        "precedingTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
+        "precedingAuctionCode": "0019837988",
+        "followingSku": "8196743",
+        "followingTitle": "Onshindo Osaka Overnight Creamy-Hydration Mask for All Skin Types - 75ml",
+        "followingAuctionCode": "0019835591"
       }
     ],
-    "lastOnAirSku": "8196718",
-    "lastOnAirTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
-    "lastOnAirAuctionCode": "0019837988",
+    "lastOnAirSku": "8196743",
+    "lastOnAirTitle": "Onshindo Osaka Overnight Creamy-Hydration Mask for All Skin Types - 75ml",
+    "lastOnAirAuctionCode": "0019835591",
     "precedingSku": "8196718",
     "precedingTitle": "Onshindo Osaka Anti-Ageing Lightweight Face Day Cream - 50ml",
     "precedingAuctionCode": "0019837988"
