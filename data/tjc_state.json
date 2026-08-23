@@ -217110,11 +217110,29 @@
       "productUrlChecked": 1787469933953,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8037776": {
+      "sku": "8037776",
+      "firstAir": 1787469985421,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787469985421,
+      "title": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019836757",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "08:26:25",
+      "productUrl": null,
+      "lastUpdated": 1787469985421,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787469927531,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -223208,11 +223226,22 @@
         "followingSku": "8151339",
         "followingTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size XXL 24 TO 26) - Chocolate",
         "followingAuctionCode": "0019836815"
+      },
+      {
+        "start": 1787469927531,
+        "end": 1787469985421,
+        "durationMin": 1.0,
+        "precedingSku": "8220668",
+        "precedingTitle": "LA MAREY Signature Faux Fur Batwing Poncho (120x70 cm)",
+        "precedingAuctionCode": "0019836754",
+        "followingSku": "8037776",
+        "followingTitle": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
+        "followingAuctionCode": "0019836757"
       }
     ],
-    "lastOnAirSku": "8220668",
-    "lastOnAirTitle": "LA MAREY Signature Faux Fur Batwing Poncho (120x70 cm)",
-    "lastOnAirAuctionCode": "0019836754",
+    "lastOnAirSku": "8037776",
+    "lastOnAirTitle": "LA MAREY Linen Blend Womens Embroidered Details Relaxed Fit Trousers",
+    "lastOnAirAuctionCode": "0019836757",
     "precedingSku": "8220668",
     "precedingTitle": "LA MAREY Signature Faux Fur Batwing Poncho (120x70 cm)",
     "precedingAuctionCode": "0019836754"
