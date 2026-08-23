@@ -217872,11 +217872,29 @@
       "productUrlChecked": 1787474135718,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8023523": {
+      "sku": "8023523",
+      "firstAir": 1787476038719,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787476038719,
+      "title": "Arti Casa Glass Vase with Metal Stand",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019835513",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "10:07:18",
+      "productUrl": null,
+      "lastUpdated": 1787476038719,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787475797563,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -224069,11 +224087,22 @@
         "followingSku": "8233468",
         "followingTitle": "Vicenza Find-9K Yellow Gold Concave Belcher Necklace (Size 18) with Lobster Clasp",
         "followingAuctionCode": "0019836722"
+      },
+      {
+        "start": 1787475797563,
+        "end": 1787476038719,
+        "durationMin": 4.0,
+        "precedingSku": "8646991",
+        "precedingTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019836726",
+        "followingSku": "8023523",
+        "followingTitle": "Arti Casa Glass Vase with Metal Stand",
+        "followingAuctionCode": "0019835513"
       }
     ],
-    "lastOnAirSku": "8646991",
-    "lastOnAirTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019836726",
+    "lastOnAirSku": "8023523",
+    "lastOnAirTitle": "Arti Casa Glass Vase with Metal Stand",
+    "lastOnAirAuctionCode": "0019835513",
     "precedingSku": "8646991",
     "precedingTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019836726"
