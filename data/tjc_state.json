@@ -217425,11 +217425,29 @@
       "productUrl": null,
       "lastUpdated": 1787471729426,
       "source": "gha-variant"
+    },
+    "8546769": {
+      "sku": "8546769",
+      "firstAir": 1787472199183,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787472199183,
+      "title": "Marina Kaneva Puffed Sleeve Dress (Size 20) - Peach",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019836803",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "09:03:19",
+      "productUrl": null,
+      "lastUpdated": 1787472199183,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787472140981,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -223567,11 +223585,22 @@
         "followingSku": "7949542",
         "followingTitle": "Classic Womens Jean Style Stretch Trousers With 29Inch Leg (Size 16) - Soft Almond",
         "followingAuctionCode": "0019836822"
+      },
+      {
+        "start": 1787472140981,
+        "end": 1787472199183,
+        "durationMin": 1.0,
+        "precedingSku": "8584439",
+        "precedingTitle": "La Marey Striped Long Sleeve Polo T-Shirt (Size XXL. 24-26) - Dark Green & White",
+        "precedingAuctionCode": "0019836874",
+        "followingSku": "8546769",
+        "followingTitle": "Marina Kaneva Puffed Sleeve Dress (Size 20) - Peach",
+        "followingAuctionCode": "0019836803"
       }
     ],
-    "lastOnAirSku": "8584439",
-    "lastOnAirTitle": "La Marey Striped Long Sleeve Polo T-Shirt (Size XXL. 24-26) - Dark Green & White",
-    "lastOnAirAuctionCode": "0019836874",
+    "lastOnAirSku": "8546769",
+    "lastOnAirTitle": "Marina Kaneva Puffed Sleeve Dress (Size 20) - Peach",
+    "lastOnAirAuctionCode": "0019836803",
     "precedingSku": "8584439",
     "precedingTitle": "La Marey Striped Long Sleeve Polo T-Shirt (Size XXL. 24-26) - Dark Green & White",
     "precedingAuctionCode": "0019836874"
