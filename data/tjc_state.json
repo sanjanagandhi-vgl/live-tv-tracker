@@ -19239,16 +19239,16 @@
       "firstAir": 1785183645362,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787438662098,
+      "lastAir": 1787446527014,
       "title": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
-      "pdpPrice": "169.99",
-      "auctionCode": "0019836639",
+      "pdpPrice": "2345.99",
+      "auctionCode": "0019838003",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "time": "23:44:22",
-      "lastUpdated": 1787438662098,
+      "date": "2026-08-23",
+      "time": "01:55:27",
+      "lastUpdated": 1787446527014,
       "source": "gha",
       "missedAt": 1785184158540,
       "missedDelay": 3,
@@ -215534,8 +215534,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787446462297,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221178,11 +221178,22 @@
         "followingSku": "8293960",
         "followingTitle": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
         "followingAuctionCode": "0019836500"
+      },
+      {
+        "start": 1787446462297,
+        "end": 1787446527014,
+        "durationMin": 1.1,
+        "precedingSku": "8293960",
+        "precedingTitle": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
+        "precedingAuctionCode": "0019836500",
+        "followingSku": "8412112",
+        "followingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+        "followingAuctionCode": "0019838003"
       }
     ],
-    "lastOnAirSku": "8293960",
-    "lastOnAirTitle": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
-    "lastOnAirAuctionCode": "0019836500",
+    "lastOnAirSku": "8412112",
+    "lastOnAirTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+    "lastOnAirAuctionCode": "0019838003",
     "precedingSku": "8293960",
     "precedingTitle": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
     "precedingAuctionCode": "0019836500"
