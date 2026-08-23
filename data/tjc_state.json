@@ -215893,11 +215893,29 @@
       "productUrl": null,
       "lastUpdated": 1787454384616,
       "source": "gha"
+    },
+    "7951599": {
+      "sku": "7951599",
+      "firstAir": 1787454559824,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787454559824,
+      "title": "18K Vermeil Yellow Gold Plated Sterling Silver Band Ring",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019836951",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "04:09:19",
+      "productUrl": null,
+      "lastUpdated": 1787454559824,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787454438300,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221705,11 +221723,22 @@
         "followingSku": "7513873",
         "followingTitle": "18K Vermeil Yellow Gold Plated Sterling Silver Stud Heart Earrings with Push Back",
         "followingAuctionCode": "0019836963"
+      },
+      {
+        "start": 1787454438300,
+        "end": 1787454559824,
+        "durationMin": 2.0,
+        "precedingSku": "7513873",
+        "precedingTitle": "18K Vermeil Yellow Gold Plated Sterling Silver Stud Heart Earrings with Push Back",
+        "precedingAuctionCode": "0019836963",
+        "followingSku": "7951599",
+        "followingTitle": "18K Vermeil Yellow Gold Plated Sterling Silver Band Ring",
+        "followingAuctionCode": "0019836951"
       }
     ],
-    "lastOnAirSku": "7513873",
-    "lastOnAirTitle": "18K Vermeil Yellow Gold Plated Sterling Silver Stud Heart Earrings with Push Back",
-    "lastOnAirAuctionCode": "0019836963",
+    "lastOnAirSku": "7951599",
+    "lastOnAirTitle": "18K Vermeil Yellow Gold Plated Sterling Silver Band Ring",
+    "lastOnAirAuctionCode": "0019836951",
     "precedingSku": "7513873",
     "precedingTitle": "18K Vermeil Yellow Gold Plated Sterling Silver Stud Heart Earrings with Push Back",
     "precedingAuctionCode": "0019836963"
