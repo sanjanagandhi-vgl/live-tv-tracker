@@ -216603,11 +216603,29 @@
       "productUrl": null,
       "lastUpdated": 1787458758083,
       "source": "gha"
+    },
+    "7986959": {
+      "sku": "7986959",
+      "firstAir": 1787458877049,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787458877049,
+      "title": "9K Yellow Gold Premium Golden South Sea Pearl Pendant",
+      "pdpPrice": "1489.99",
+      "auctionCode": "0019837000",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "05:21:17",
+      "productUrl": null,
+      "lastUpdated": 1787458877049,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787458838458,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -222547,11 +222565,22 @@
         "followingSku": "7646681",
         "followingTitle": "9K White Gold Solitaire Diamond Solitaire Stud Earrings 0.20 Ct.",
         "followingAuctionCode": "0019836987"
+      },
+      {
+        "start": 1787458838458,
+        "end": 1787458877049,
+        "durationMin": 0.6,
+        "precedingSku": "7646681",
+        "precedingTitle": "9K White Gold Solitaire Diamond Solitaire Stud Earrings 0.20 Ct.",
+        "precedingAuctionCode": "0019836987",
+        "followingSku": "7986959",
+        "followingTitle": "9K Yellow Gold Premium Golden South Sea Pearl Pendant",
+        "followingAuctionCode": "0019837000"
       }
     ],
-    "lastOnAirSku": "7646681",
-    "lastOnAirTitle": "9K White Gold Solitaire Diamond Solitaire Stud Earrings 0.20 Ct.",
-    "lastOnAirAuctionCode": "0019836987",
+    "lastOnAirSku": "7986959",
+    "lastOnAirTitle": "9K Yellow Gold Premium Golden South Sea Pearl Pendant",
+    "lastOnAirAuctionCode": "0019837000",
     "precedingSku": "7646681",
     "precedingTitle": "9K White Gold Solitaire Diamond Solitaire Stud Earrings 0.20 Ct.",
     "precedingAuctionCode": "0019836987"
