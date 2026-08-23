@@ -219765,11 +219765,29 @@
       "productUrl": null,
       "lastUpdated": 1787505142448,
       "source": "gha"
+    },
+    "7491521": {
+      "sku": "7491521",
+      "firstAir": 1787505261172,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787505261172,
+      "title": "LucyQ Drip Collection - Rhodium Overlay Sterling Silver Ring",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019837222",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "18:14:21",
+      "productUrl": null,
+      "lastUpdated": 1787505261172,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787505198579,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -226358,11 +226376,22 @@
         "followingSku": "8186988",
         "followingTitle": "Queen Conch Shell & Moissanite Ring in Rhodium Overlay Sterling Silver 10.77 Ct.",
         "followingAuctionCode": "0019837306"
+      },
+      {
+        "start": 1787505198579,
+        "end": 1787505261172,
+        "durationMin": 1.0,
+        "precedingSku": "8247083",
+        "precedingTitle": "D'Joy Natural Shungite Solitaire Ring in Rhodium Overlay Sterling Silver 11.50 Ct.",
+        "precedingAuctionCode": "0019837316",
+        "followingSku": "7491521",
+        "followingTitle": "LucyQ Drip Collection - Rhodium Overlay Sterling Silver Ring",
+        "followingAuctionCode": "0019837222"
       }
     ],
-    "lastOnAirSku": "8247083",
-    "lastOnAirTitle": "D'Joy Natural Shungite Solitaire Ring in Rhodium Overlay Sterling Silver 11.50 Ct.",
-    "lastOnAirAuctionCode": "0019837316",
+    "lastOnAirSku": "7491521",
+    "lastOnAirTitle": "LucyQ Drip Collection - Rhodium Overlay Sterling Silver Ring",
+    "lastOnAirAuctionCode": "0019837222",
     "precedingSku": "8247083",
     "precedingTitle": "D'Joy Natural Shungite Solitaire Ring in Rhodium Overlay Sterling Silver 11.50 Ct.",
     "precedingAuctionCode": "0019837316"
