@@ -218626,11 +218626,29 @@
       "productUrl": null,
       "lastUpdated": 1787494759034,
       "source": "gha"
+    },
+    "8611105": {
+      "sku": "8611105",
+      "firstAir": 1787494942486,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787494942486,
+      "title": "Natural Jade Adjustable Angel Wing Necklace (Size - 28) 38.00 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019835922",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "15:22:22",
+      "productUrl": null,
+      "lastUpdated": 1787494942486,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787494838853,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -225065,11 +225083,22 @@
         "followingSku": "8570537",
         "followingTitle": "Natural White Jade Stretchable Beads Lotus Carved Bracelet (Size - 7) 150.00 Ct.",
         "followingAuctionCode": "0019835917"
+      },
+      {
+        "start": 1787494838853,
+        "end": 1787494942486,
+        "durationMin": 1.7,
+        "precedingSku": "8570537",
+        "precedingTitle": "Natural White Jade Stretchable Beads Lotus Carved Bracelet (Size - 7) 150.00 Ct.",
+        "precedingAuctionCode": "0019835917",
+        "followingSku": "8611105",
+        "followingTitle": "Natural Jade Adjustable Angel Wing Necklace (Size - 28) 38.00 Ct.",
+        "followingAuctionCode": "0019835922"
       }
     ],
-    "lastOnAirSku": "8570537",
-    "lastOnAirTitle": "Natural White Jade Stretchable Beads Lotus Carved Bracelet (Size - 7) 150.00 Ct.",
-    "lastOnAirAuctionCode": "0019835917",
+    "lastOnAirSku": "8611105",
+    "lastOnAirTitle": "Natural Jade Adjustable Angel Wing Necklace (Size - 28) 38.00 Ct.",
+    "lastOnAirAuctionCode": "0019835922",
     "precedingSku": "8570537",
     "precedingTitle": "Natural White Jade Stretchable Beads Lotus Carved Bracelet (Size - 7) 150.00 Ct.",
     "precedingAuctionCode": "0019835917"
