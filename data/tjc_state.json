@@ -215513,11 +215513,29 @@
       "productUrl": null,
       "lastUpdated": 1787446235659,
       "source": "gha"
+    },
+    "8293960": {
+      "sku": "8293960",
+      "firstAir": 1787446341876,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787446341876,
+      "title": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019836500",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "01:52:21",
+      "productUrl": null,
+      "lastUpdated": 1787446341876,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787446279517,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221149,11 +221167,22 @@
         "followingSku": "8293952",
         "followingTitle": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
         "followingAuctionCode": "0019836493"
+      },
+      {
+        "start": 1787446279517,
+        "end": 1787446341876,
+        "durationMin": 1.0,
+        "precedingSku": "8293952",
+        "precedingTitle": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
+        "precedingAuctionCode": "0019836493",
+        "followingSku": "8293960",
+        "followingTitle": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
+        "followingAuctionCode": "0019836500"
       }
     ],
-    "lastOnAirSku": "8293952",
+    "lastOnAirSku": "8293960",
     "lastOnAirTitle": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
-    "lastOnAirAuctionCode": "0019836493",
+    "lastOnAirAuctionCode": "0019836500",
     "precedingSku": "8293952",
     "precedingTitle": "D'Joy Ethiopian Opal African Ruby White Zircon Main Stone With Side Stone Ring",
     "precedingAuctionCode": "0019836493"
