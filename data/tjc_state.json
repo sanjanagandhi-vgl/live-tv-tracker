@@ -215390,9 +215390,16 @@
       "img": true,
       "date": "2026-08-23",
       "time": "01:06:22",
-      "productUrl": null,
-      "lastUpdated": 1787443582415,
-      "source": "gha"
+      "productUrl": "/products/djoy-rhodolite-garnet-white-zircon-ethiopian-opal-dangling-push-post-earring-in-yellow-gold-plated-sterling-silver-1-91-ct",
+      "lastUpdated": 1787444137387,
+      "source": "gha",
+      "missedAt": 1787444137387,
+      "missedDelay": 9,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1787444145287,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4434016": {
       "sku": "4434016",
@@ -215432,11 +215439,29 @@
       "productUrlChecked": 1787443763047,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8324846": {
+      "sku": "8324846",
+      "firstAir": 1787444137387,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787444137387,
+      "title": "D'Joy Ethiopian Opal Solitaire Ring in Rhodium Overlay Sterling Silver 1.65 Ct.",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019836494",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-23",
+      "time": "01:15:37",
+      "productUrl": null,
+      "lastUpdated": 1787444137387,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787444067162,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -221024,11 +221049,22 @@
         "followingSku": "8500926",
         "followingTitle": "D'Joy Rhodolite Garnet, White Zircon & Ethiopian Opal Dangling Push Post Earring in Yellow Gold Plated Sterling Silver 1.91 Ct.",
         "followingAuctionCode": "0019836469"
+      },
+      {
+        "start": 1787444067162,
+        "end": 1787444137387,
+        "durationMin": 1.2,
+        "precedingSku": "4470702",
+        "precedingTitle": "AAA Ethiopian Opal & SI-G-H Lab Grown Multi Diamond Cluster Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 5.08 Ct",
+        "precedingAuctionCode": "0019836465",
+        "followingSku": "8324846",
+        "followingTitle": "D'Joy Ethiopian Opal Solitaire Ring in Rhodium Overlay Sterling Silver 1.65 Ct.",
+        "followingAuctionCode": "0019836494"
       }
     ],
-    "lastOnAirSku": "4470702",
-    "lastOnAirTitle": "AAA Ethiopian Opal & SI-G-H Lab Grown Multi Diamond Cluster Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 5.08 Ct",
-    "lastOnAirAuctionCode": "0019836465",
+    "lastOnAirSku": "8324846",
+    "lastOnAirTitle": "D'Joy Ethiopian Opal Solitaire Ring in Rhodium Overlay Sterling Silver 1.65 Ct.",
+    "lastOnAirAuctionCode": "0019836494",
     "precedingSku": "4470702",
     "precedingTitle": "AAA Ethiopian Opal & SI-G-H Lab Grown Multi Diamond Cluster Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 5.08 Ct",
     "precedingAuctionCode": "0019836465"
