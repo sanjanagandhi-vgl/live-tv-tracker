@@ -229634,20 +229634,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-08-24",
-      "time": "05:30:53",
+      "time": "12:37:18",
       "preExisting": true,
       "missedAt": 1787545853046,
       "missedDelay": null,
-      "lastUpdated": 1787545853046,
+      "lastUpdated": 1787571438494,
       "missedPrice": 79.99,
       "missedImg": true,
       "title": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size - 18) with Spring Ring Clasp",
-      "auctionCode": "0019838396",
+      "auctionCode": "0019839262",
       "source": "gha",
       "productUrl": "/products/gold-deal-of-2026-9k-yellow-gold-necklace",
       "productUrlChecked": 1787545858638,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787571438494,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "3861801": {
       "sku": "3861801",
@@ -230636,8 +230641,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787571384533,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -238282,11 +238287,22 @@
         "followingSku": "8415399",
         "followingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
         "followingAuctionCode": "0019839260"
+      },
+      {
+        "start": 1787571384533,
+        "end": 1787571438494,
+        "durationMin": 0.9,
+        "precedingSku": "8415399",
+        "precedingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
+        "precedingAuctionCode": "0019839260",
+        "followingSku": "8477966",
+        "followingTitle": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size - 18) with Spring Ring Clasp",
+        "followingAuctionCode": "0019839262"
       }
     ],
-    "lastOnAirSku": "8415399",
-    "lastOnAirTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
-    "lastOnAirAuctionCode": "0019839260",
+    "lastOnAirSku": "8477966",
+    "lastOnAirTitle": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size - 18) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019839262",
     "precedingSku": "8415399",
     "precedingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
     "precedingAuctionCode": "0019839260"
