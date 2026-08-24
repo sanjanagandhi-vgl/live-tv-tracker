@@ -94702,21 +94702,26 @@
       "sku": "8158853",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "11:59:18",
+      "date": "2026-08-24",
+      "time": "03:24:23",
       "preExisting": true,
       "missedAt": 1786100358858,
       "missedDelay": null,
-      "lastUpdated": 1786100358858,
+      "lastUpdated": 1787538263622,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Wall Clock and Safe 25x25x7cm (1xAA Battery not inc.) - Silver",
-      "auctionCode": "0019810267",
+      "title": "Wall Clock & Safe 25x25x7cm (1xAA Battery not inc.) - Gold",
+      "auctionCode": "0019838045",
       "source": "gha",
       "productUrl": "/products/classic-round-ps-wall-clock",
       "productUrlChecked": 1786100372228,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787538263622,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8298744": {
       "sku": "8298744",
@@ -229060,8 +229065,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787538142603,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236189,11 +236194,22 @@
         "followingSku": "7948830",
         "followingTitle": "NUSUK Areej Al Musk Air Freshener - 300ml",
         "followingAuctionCode": "0019838039"
+      },
+      {
+        "start": 1787538142603,
+        "end": 1787538263622,
+        "durationMin": 2.0,
+        "precedingSku": "8502545",
+        "precedingTitle": "Toadstool Decorative Weighted Door Stop (23 cm) - Red",
+        "precedingAuctionCode": "0019838058",
+        "followingSku": "8158853",
+        "followingTitle": "Wall Clock & Safe 25x25x7cm (1xAA Battery not inc.) - Gold",
+        "followingAuctionCode": "0019838045"
       }
     ],
-    "lastOnAirSku": "8502545",
-    "lastOnAirTitle": "Toadstool Decorative Weighted Door Stop (23 cm) - Red",
-    "lastOnAirAuctionCode": "0019838058",
+    "lastOnAirSku": "8158853",
+    "lastOnAirTitle": "Wall Clock & Safe 25x25x7cm (1xAA Battery not inc.) - Gold",
+    "lastOnAirAuctionCode": "0019838045",
     "precedingSku": "8502545",
     "precedingTitle": "Toadstool Decorative Weighted Door Stop (23 cm) - Red",
     "precedingAuctionCode": "0019838058"
