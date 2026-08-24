@@ -204544,21 +204544,26 @@
       "sku": "8635007",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "12:19:18",
+      "date": "2026-08-24",
+      "time": "05:22:21",
       "preExisting": true,
       "missedAt": 1787311158705,
       "missedDelay": null,
-      "lastUpdated": 1787311158705,
+      "lastUpdated": 1787545341856,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "24K Yellow Gold Bear Collectible (31x45.5 mm)",
-      "auctionCode": "0019834332",
+      "title": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+      "auctionCode": "0019838120",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-mg-standard-accessories-gold-wt-10-gms-2368635004",
       "productUrlChecked": 1787311162380,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787545341856,
+      "pdpPrice": "179.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8433850": {
       "sku": "8433850",
@@ -229422,8 +229427,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787545281734,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236749,11 +236754,22 @@
         "followingSku": "8477952",
         "followingTitle": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size - 18) with Spring Ring Clasp",
         "followingAuctionCode": "0019838394"
+      },
+      {
+        "start": 1787545281734,
+        "end": 1787545341856,
+        "durationMin": 1.0,
+        "precedingSku": "8477952",
+        "precedingTitle": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size - 18) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019838394",
+        "followingSku": "8635007",
+        "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+        "followingAuctionCode": "0019838120"
       }
     ],
-    "lastOnAirSku": "8477952",
-    "lastOnAirTitle": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size - 18) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019838394",
+    "lastOnAirSku": "8635007",
+    "lastOnAirTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+    "lastOnAirAuctionCode": "0019838120",
     "precedingSku": "8477952",
     "precedingTitle": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size - 18) with Spring Ring Clasp",
     "precedingAuctionCode": "0019838394"
