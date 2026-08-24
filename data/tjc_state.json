@@ -229551,11 +229551,29 @@
       "productUrlChecked": 1787546677047,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8098859": {
+      "sku": "8098859",
+      "firstAir": 1787548343847,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787548343847,
+      "title": "Douvalls Cleanser Gift Set (Includes Argan Cream Cleanser, Milky Argan Moisturiser & Organic Cotton Muslin Cloth)",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019838126",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-24",
+      "time": "06:12:23",
+      "productUrl": null,
+      "lastUpdated": 1787548343847,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787548278068,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236925,11 +236943,22 @@
         "followingSku": "7949760",
         "followingTitle": "Douvalls Body Butter 240ml",
         "followingAuctionCode": "0019838129"
+      },
+      {
+        "start": 1787548278068,
+        "end": 1787548343847,
+        "durationMin": 1.1,
+        "precedingSku": "7949760",
+        "precedingTitle": "Douvalls Body Butter 240ml",
+        "precedingAuctionCode": "0019838129",
+        "followingSku": "8098859",
+        "followingTitle": "Douvalls Cleanser Gift Set (Includes Argan Cream Cleanser, Milky Argan Moisturiser & Organic Cotton Muslin Cloth)",
+        "followingAuctionCode": "0019838126"
       }
     ],
-    "lastOnAirSku": "7949760",
-    "lastOnAirTitle": "Douvalls Body Butter 240ml",
-    "lastOnAirAuctionCode": "0019838129",
+    "lastOnAirSku": "8098859",
+    "lastOnAirTitle": "Douvalls Cleanser Gift Set (Includes Argan Cream Cleanser, Milky Argan Moisturiser & Organic Cotton Muslin Cloth)",
+    "lastOnAirAuctionCode": "0019838126",
     "precedingSku": "7949760",
     "precedingTitle": "Douvalls Body Butter 240ml",
     "precedingAuctionCode": "0019838129"
