@@ -232614,11 +232614,29 @@
       "productUrl": null,
       "lastUpdated": 1787594183382,
       "source": "gha"
+    },
+    "7210977": {
+      "sku": "7210977",
+      "firstAir": 1787594481155,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787594481155,
+      "title": "Laurelle 2 Piece Set - Amour Eternal Eau de Parfum (100ml) & Body Mist (150ml)",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019838092",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-24",
+      "time": "19:01:21",
+      "productUrl": null,
+      "lastUpdated": 1787594481155,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787594240935,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240560,11 +240578,22 @@
         "followingSku": "8330952",
         "followingTitle": null,
         "followingAuctionCode": "0019838971"
+      },
+      {
+        "start": 1787594240935,
+        "end": 1787594481155,
+        "durationMin": 4.0,
+        "precedingSku": "8083750",
+        "precedingTitle": "Dry Buddy \u2013 Foldable Wall Mount Laundry Rack",
+        "precedingAuctionCode": "0019838988",
+        "followingSku": "7210977",
+        "followingTitle": "Laurelle 2 Piece Set - Amour Eternal Eau de Parfum (100ml) & Body Mist (150ml)",
+        "followingAuctionCode": "0019838092"
       }
     ],
-    "lastOnAirSku": "8083750",
-    "lastOnAirTitle": "Dry Buddy \u2013 Foldable Wall Mount Laundry Rack",
-    "lastOnAirAuctionCode": "0019838988",
+    "lastOnAirSku": "7210977",
+    "lastOnAirTitle": "Laurelle 2 Piece Set - Amour Eternal Eau de Parfum (100ml) & Body Mist (150ml)",
+    "lastOnAirAuctionCode": "0019838092",
     "precedingSku": "8083750",
     "precedingTitle": "Dry Buddy \u2013 Foldable Wall Mount Laundry Rack",
     "precedingAuctionCode": "0019838988"
