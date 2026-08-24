@@ -200750,21 +200750,26 @@
       "sku": "8501988",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-20",
-      "time": "20:45:37",
+      "date": "2026-08-24",
+      "time": "20:53:20",
       "preExisting": true,
       "missedAt": 1787255137071,
       "missedDelay": null,
-      "lastUpdated": 1787255137071,
+      "lastUpdated": 1787601200252,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Designer Closeout Mega Clearance Deal - Multi-colour Floral Embroidered Crossbody Top Handle Bag with Shoulder Strap - White",
-      "auctionCode": "0019833971",
+      "title": "Designer Closeout Mega Clearance Deal - Multi-colour Floral Embroidered Crossbody Top Handle Bag with Shoulder Strap - Plum",
+      "auctionCode": "0019838990",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-white-8501988",
       "productUrlChecked": 1787255139058,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787601200252,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8501999": {
       "sku": "8501999",
@@ -232853,8 +232858,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787601080440,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240862,11 +240867,22 @@
         "followingSku": "8553754",
         "followingTitle": "Fragrance Works Soft Sandalwood EDP - 100ml",
         "followingAuctionCode": "0019838980"
+      },
+      {
+        "start": 1787601080440,
+        "end": 1787601200252,
+        "durationMin": 2.0,
+        "precedingSku": "8553754",
+        "precedingTitle": "Fragrance Works Soft Sandalwood EDP - 100ml",
+        "precedingAuctionCode": "0019838980",
+        "followingSku": "8501988",
+        "followingTitle": "Designer Closeout Mega Clearance Deal - Multi-colour Floral Embroidered Crossbody Top Handle Bag with Shoulder Strap - Plum",
+        "followingAuctionCode": "0019838990"
       }
     ],
-    "lastOnAirSku": "8553754",
-    "lastOnAirTitle": "Fragrance Works Soft Sandalwood EDP - 100ml",
-    "lastOnAirAuctionCode": "0019838980",
+    "lastOnAirSku": "8501988",
+    "lastOnAirTitle": "Designer Closeout Mega Clearance Deal - Multi-colour Floral Embroidered Crossbody Top Handle Bag with Shoulder Strap - Plum",
+    "lastOnAirAuctionCode": "0019838990",
     "precedingSku": "8553754",
     "precedingTitle": "Fragrance Works Soft Sandalwood EDP - 100ml",
     "precedingAuctionCode": "0019838980"
