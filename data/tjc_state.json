@@ -2327,23 +2327,23 @@
       "sku": "8697692",
       "tvPrice": "",
       "remarks": "",
-      "time": "11:04:21",
+      "time": "21:30:51",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 3799.99,
       "missedImg": false,
-      "title": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Ring, Platinum Wt. 6.5 Gms  5.500 Ct.",
-      "auctionCode": "0019821708",
+      "title": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Halo Ring 5.50 Ct, Platinum Wt. 7.25 Gms",
+      "auctionCode": "0019839863",
       "source": "gha",
-      "lastAir": 1786788261697,
-      "pdpPrice": "3499.99",
+      "lastAir": 1787603451645,
+      "pdpPrice": "9999.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-15",
+      "date": "2026-08-24",
       "productUrl": null,
-      "lastUpdated": 1786788261697
+      "lastUpdated": 1787603451645
     },
     "8697704": {
       "sku": "8697704",
@@ -232858,8 +232858,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787603303459,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240889,11 +240889,22 @@
         "followingSku": "8358294",
         "followingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Intense Vivid Solitaire Earring with Screw Back 2.70 Ct",
         "followingAuctionCode": "0019839835"
+      },
+      {
+        "start": 1787603303459,
+        "end": 1787603451645,
+        "durationMin": 2.5,
+        "precedingSku": "8358294",
+        "precedingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Intense Vivid Solitaire Earring with Screw Back 2.70 Ct",
+        "precedingAuctionCode": "0019839835",
+        "followingSku": "8697692",
+        "followingTitle": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Halo Ring 5.50 Ct, Platinum Wt. 7.25 Gms",
+        "followingAuctionCode": "0019839863"
       }
     ],
-    "lastOnAirSku": "8358294",
-    "lastOnAirTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Intense Vivid Solitaire Earring with Screw Back 2.70 Ct",
-    "lastOnAirAuctionCode": "0019839835",
+    "lastOnAirSku": "8697692",
+    "lastOnAirTitle": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Halo Ring 5.50 Ct, Platinum Wt. 7.25 Gms",
+    "lastOnAirAuctionCode": "0019839863",
     "precedingSku": "8358294",
     "precedingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Intense Vivid Solitaire Earring with Screw Back 2.70 Ct",
     "precedingAuctionCode": "0019839835"
