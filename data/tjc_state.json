@@ -232484,11 +232484,29 @@
       "productUrlChecked": 1787591742155,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8201212": {
+      "sku": "8201212",
+      "firstAir": 1787592561077,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787592561077,
+      "title": "Stylish Knit Scarf and Headband Set",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019838976",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-24",
+      "time": "18:29:21",
+      "productUrl": null,
+      "lastUpdated": 1787592561077,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787592502589,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240386,11 +240404,22 @@
         "followingSku": "8158702",
         "followingTitle": "PAYOT - Lisse Smoothing Cares Ritual Set",
         "followingAuctionCode": "0019838974"
+      },
+      {
+        "start": 1787592502589,
+        "end": 1787592561077,
+        "durationMin": 1.0,
+        "precedingSku": "8158702",
+        "precedingTitle": "PAYOT - Lisse Smoothing Cares Ritual Set",
+        "precedingAuctionCode": "0019838974",
+        "followingSku": "8201212",
+        "followingTitle": "Stylish Knit Scarf and Headband Set",
+        "followingAuctionCode": "0019838976"
       }
     ],
-    "lastOnAirSku": "8158702",
-    "lastOnAirTitle": "PAYOT - Lisse Smoothing Cares Ritual Set",
-    "lastOnAirAuctionCode": "0019838974",
+    "lastOnAirSku": "8201212",
+    "lastOnAirTitle": "Stylish Knit Scarf and Headband Set",
+    "lastOnAirAuctionCode": "0019838976",
     "precedingSku": "8158702",
     "precedingTitle": "PAYOT - Lisse Smoothing Cares Ritual Set",
     "precedingAuctionCode": "0019838974"
