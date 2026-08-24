@@ -209057,17 +209057,17 @@
       "firstAir": 1787332639894,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787332878882,
+      "lastAir": 1787597600042,
       "title": "YALE Pack of 2 - Standard Security Brass Combination Padlock - Gold",
       "pdpPrice": null,
-      "auctionCode": "0019833861",
+      "auctionCode": "0019838975",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-08-21",
-      "time": "18:21:18",
+      "date": "2026-08-24",
+      "time": "19:53:20",
       "productUrl": null,
-      "lastUpdated": 1787333452352,
+      "lastUpdated": 1787597600042,
       "source": "gha",
       "missedAt": 1787333452352,
       "missedDelay": 10,
@@ -232696,8 +232696,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787597543715,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240672,11 +240672,22 @@
         "followingSku": "8658010",
         "followingTitle": "Tartan Plaid Mini Crossbody Phone Bag with Horsebit Detail - Dark Brown & Black",
         "followingAuctionCode": "0019838085"
+      },
+      {
+        "start": 1787597543715,
+        "end": 1787597600042,
+        "durationMin": 0.9,
+        "precedingSku": "8658010",
+        "precedingTitle": "Tartan Plaid Mini Crossbody Phone Bag with Horsebit Detail - Dark Brown & Black",
+        "precedingAuctionCode": "0019838085",
+        "followingSku": "8194045",
+        "followingTitle": null,
+        "followingAuctionCode": "0019838975"
       }
     ],
-    "lastOnAirSku": "8658010",
-    "lastOnAirTitle": "Tartan Plaid Mini Crossbody Phone Bag with Horsebit Detail - Dark Brown & Black",
-    "lastOnAirAuctionCode": "0019838085",
+    "lastOnAirSku": "8194045",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019838975",
     "precedingSku": "8658010",
     "precedingTitle": "Tartan Plaid Mini Crossbody Phone Bag with Horsebit Detail - Dark Brown & Black",
     "precedingAuctionCode": "0019838085"
