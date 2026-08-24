@@ -94042,23 +94042,23 @@
       "sku": "8412810",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-23",
-      "time": "10:22:22",
+      "date": "2026-08-24",
+      "time": "03:40:38",
       "preExisting": true,
       "missedAt": 1786094906081,
       "missedDelay": null,
-      "lastUpdated": 1787476942745,
+      "lastUpdated": 1787539238417,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
-      "auctionCode": "0019838063",
+      "auctionCode": "0019838130",
       "source": "gha",
       "productUrl": "/products/livmore-outdoor-lighting-1258412810",
       "productUrlChecked": 1786094914683,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787476942745,
-      "pdpPrice": "5.99",
+      "lastAir": 1787539238417,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true
@@ -229135,8 +229135,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787539101705,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236286,11 +236286,22 @@
         "followingSku": "8230497",
         "followingTitle": "LIVMORE Stag's Head Candle Holder - Silver",
         "followingAuctionCode": "0019838050"
+      },
+      {
+        "start": 1787539101705,
+        "end": 1787539238417,
+        "durationMin": 2.3,
+        "precedingSku": "8230497",
+        "precedingTitle": "LIVMORE Stag's Head Candle Holder - Silver",
+        "precedingAuctionCode": "0019838050",
+        "followingSku": "8412810",
+        "followingTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
+        "followingAuctionCode": "0019838130"
       }
     ],
-    "lastOnAirSku": "8230497",
-    "lastOnAirTitle": "LIVMORE Stag's Head Candle Holder - Silver",
-    "lastOnAirAuctionCode": "0019838050",
+    "lastOnAirSku": "8412810",
+    "lastOnAirTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
+    "lastOnAirAuctionCode": "0019838130",
     "precedingSku": "8230497",
     "precedingTitle": "LIVMORE Stag's Head Candle Holder - Silver",
     "precedingAuctionCode": "0019838050"
