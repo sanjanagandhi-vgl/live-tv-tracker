@@ -24147,21 +24147,26 @@
       "sku": "7840313",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-24",
+      "time": "06:03:18",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1787547798943,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Trilogy Eye Contour Cream - 10ml",
-      "auctionCode": "0019800873",
+      "auctionCode": "0019838137",
       "source": "gha",
       "productUrl": "/products/trilogy-eye-contour-cream-10ml",
       "productUrlChecked": 1785474503181,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787547798943,
+      "pdpPrice": "124.00",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7971318": {
       "sku": "7971318",
@@ -229549,8 +229554,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787547381114,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236898,11 +236903,22 @@
         "followingSku": "8598151",
         "followingTitle": "8-Piece Enamelled Cast Iron Cookware Set - 2L, 3L & 4L Lidded Casserole, Bakeware, & Square Roaster - Blue",
         "followingAuctionCode": "0019839035"
+      },
+      {
+        "start": 1787547381114,
+        "end": 1787547798943,
+        "durationMin": 7.0,
+        "precedingSku": "8598151",
+        "precedingTitle": "8-Piece Enamelled Cast Iron Cookware Set - 2L, 3L & 4L Lidded Casserole, Bakeware, & Square Roaster - Blue",
+        "precedingAuctionCode": "0019839035",
+        "followingSku": "7840313",
+        "followingTitle": "Trilogy Eye Contour Cream - 10ml",
+        "followingAuctionCode": "0019838137"
       }
     ],
-    "lastOnAirSku": "8598151",
-    "lastOnAirTitle": "8-Piece Enamelled Cast Iron Cookware Set - 2L, 3L & 4L Lidded Casserole, Bakeware, & Square Roaster - Blue",
-    "lastOnAirAuctionCode": "0019839035",
+    "lastOnAirSku": "7840313",
+    "lastOnAirTitle": "Trilogy Eye Contour Cream - 10ml",
+    "lastOnAirAuctionCode": "0019838137",
     "precedingSku": "8598151",
     "precedingTitle": "8-Piece Enamelled Cast Iron Cookware Set - 2L, 3L & 4L Lidded Casserole, Bakeware, & Square Roaster - Blue",
     "precedingAuctionCode": "0019839035"
