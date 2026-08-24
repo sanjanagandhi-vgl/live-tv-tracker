@@ -1734,22 +1734,22 @@
       "sku": "8637949",
       "tvPrice": "",
       "remarks": "",
-      "time": "16:27:18",
+      "time": "23:04:22",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 3999.99,
       "missedImg": false,
       "title": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
-      "auctionCode": "0019833655",
+      "auctionCode": "0019839924",
       "source": "gha",
-      "lastAir": 1787412438157,
-      "pdpPrice": "3999.99",
+      "lastAir": 1787609062363,
+      "pdpPrice": "42799.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "lastUpdated": 1787412438157,
+      "date": "2026-08-24",
+      "lastUpdated": 1787609062363,
       "productUrl": null
     },
     "8657969": {
@@ -233013,8 +233013,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787608794177,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -241143,11 +241143,22 @@
         "followingSku": "8504595",
         "followingTitle": "Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Earth Mined Natural White Diamond Pear Cut Halo Pendant 10.46 Ct",
         "followingAuctionCode": "0019839887"
+      },
+      {
+        "start": 1787608794177,
+        "end": 1787609062363,
+        "durationMin": 4.5,
+        "precedingSku": "8504595",
+        "precedingTitle": "Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Earth Mined Natural White Diamond Pear Cut Halo Pendant 10.46 Ct",
+        "precedingAuctionCode": "0019839887",
+        "followingSku": "8637949",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+        "followingAuctionCode": "0019839924"
       }
     ],
-    "lastOnAirSku": "8504595",
-    "lastOnAirTitle": "Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Earth Mined Natural White Diamond Pear Cut Halo Pendant 10.46 Ct",
-    "lastOnAirAuctionCode": "0019839887",
+    "lastOnAirSku": "8637949",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+    "lastOnAirAuctionCode": "0019839924",
     "precedingSku": "8504595",
     "precedingTitle": "Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Earth Mined Natural White Diamond Pear Cut Halo Pendant 10.46 Ct",
     "precedingAuctionCode": "0019839887"
