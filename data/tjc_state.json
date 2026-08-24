@@ -232503,9 +232503,16 @@
       "img": true,
       "date": "2026-08-24",
       "time": "18:35:31",
-      "productUrl": null,
-      "lastUpdated": 1787592931169,
-      "source": "gha"
+      "productUrl": "/products/stylish-knit-scarf-and-headband-set",
+      "lastUpdated": 1787593537237,
+      "source": "gha",
+      "missedAt": 1787593537237,
+      "missedDelay": 10,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "productUrlChecked": 1787593540769,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7689337": {
       "sku": "7689337",
@@ -232524,11 +232531,51 @@
       "productUrl": null,
       "lastUpdated": 1787593464013,
       "source": "gha"
+    },
+    "8201211": {
+      "sku": "8201211",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-24",
+      "time": "18:45:37",
+      "preExisting": true,
+      "missedAt": 1787593537237,
+      "missedDelay": null,
+      "lastUpdated": 1787593537237,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Stylish Knit Scarf & Headband Set - Black & Off-White",
+      "auctionCode": "0019838977",
+      "source": "gha",
+      "productUrl": "/products/stylish-knit-scarf-and-headband-set",
+      "productUrlChecked": 1787593541755,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8201213": {
+      "sku": "8201213",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-24",
+      "time": "18:45:37",
+      "preExisting": true,
+      "missedAt": 1787593537237,
+      "missedDelay": null,
+      "lastUpdated": 1787593537237,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Stylish Knit Scarf & Headband Set - Red & Navy",
+      "auctionCode": "0019838978",
+      "source": "gha",
+      "productUrl": "/products/stylish-knit-scarf-and-headband-set",
+      "productUrlChecked": 1787593543067,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787593537237,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240453,8 +240500,8 @@
     "lastOnAirSku": "7689337",
     "lastOnAirTitle": "Charcoal Fleece Hoodie Blanket - Charcoal",
     "lastOnAirAuctionCode": "0019838987",
-    "precedingSku": "8201212",
-    "precedingTitle": "Stylish Knit Scarf and Headband Set",
-    "precedingAuctionCode": "0019838976"
+    "precedingSku": "7689337",
+    "precedingTitle": "Charcoal Fleece Hoodie Blanket - Charcoal",
+    "precedingAuctionCode": "0019838987"
   }
 }
