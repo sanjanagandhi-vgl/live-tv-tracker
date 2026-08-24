@@ -38009,9 +38009,16 @@
       "img": true,
       "date": "2026-08-24",
       "time": "04:07:20",
-      "productUrl": null,
-      "lastUpdated": 1787540840453,
-      "source": "gha"
+      "productUrl": "/products/mother-of-pearl-elephant-oxisided-pendant-sterling-silver-silver",
+      "lastUpdated": 1787541437544,
+      "source": "gha",
+      "missedAt": 1787541437544,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1787541448691,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8666397": {
       "sku": "8666397",
@@ -124866,21 +124873,26 @@
       "sku": "8485477",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-11",
-      "time": "01:12:23",
+      "date": "2026-08-24",
+      "time": "04:17:17",
       "preExisting": true,
       "missedAt": 1786407143473,
       "missedDelay": null,
-      "lastUpdated": 1786407143473,
+      "lastUpdated": 1787541437544,
       "missedPrice": 39.99,
       "missedImg": true,
       "title": "D'Joy Blue Diamond & Multi Diamond Cluster Pendant in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019813969",
+      "auctionCode": "0019838082",
       "source": "gha",
       "productUrl": "/products/djoy-blue-diamond-multi-gemstones-pendant",
       "productUrlChecked": 1786407155180,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787541437544,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4325840": {
       "sku": "4325840",
@@ -229285,8 +229297,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787541384880,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236491,11 +236503,22 @@
         "followingSku": "8527324",
         "followingTitle": "JCK Vegas Finds- 14K Yellow Gold Natural Earth Mined Diamond ( SI G-H) Journey Pendant 0.50 Ct.",
         "followingAuctionCode": "0019838078"
+      },
+      {
+        "start": 1787541384880,
+        "end": 1787541437544,
+        "durationMin": 0.9,
+        "precedingSku": "8527324",
+        "precedingTitle": "JCK Vegas Finds- 14K Yellow Gold Natural Earth Mined Diamond ( SI G-H) Journey Pendant 0.50 Ct.",
+        "precedingAuctionCode": "0019838078",
+        "followingSku": "8485477",
+        "followingTitle": "D'Joy Blue Diamond & Multi Diamond Cluster Pendant in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019838082"
       }
     ],
-    "lastOnAirSku": "8527324",
-    "lastOnAirTitle": "JCK Vegas Finds- 14K Yellow Gold Natural Earth Mined Diamond ( SI G-H) Journey Pendant 0.50 Ct.",
-    "lastOnAirAuctionCode": "0019838078",
+    "lastOnAirSku": "8485477",
+    "lastOnAirTitle": "D'Joy Blue Diamond & Multi Diamond Cluster Pendant in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019838082",
     "precedingSku": "8527324",
     "precedingTitle": "JCK Vegas Finds- 14K Yellow Gold Natural Earth Mined Diamond ( SI G-H) Journey Pendant 0.50 Ct.",
     "precedingAuctionCode": "0019838078"
