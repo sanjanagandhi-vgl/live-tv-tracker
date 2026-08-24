@@ -228959,11 +228959,29 @@
       "productUrlChecked": 1787534144067,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8087145": {
+      "sku": "8087145",
+      "firstAir": 1787534183357,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787534183357,
+      "title": "Alphonse Maria Mucha Glass Suncatcher - Square Pendant with Chain & Silver Frame",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019838025",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-24",
+      "time": "02:16:23",
+      "productUrl": null,
+      "lastUpdated": 1787534183357,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787534136406,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236025,11 +236043,22 @@
         "followingSku": "8377866",
         "followingTitle": "Rechargeable Vacuum Sealing Machine (1500 mAh) with 10 Bags - Black",
         "followingAuctionCode": "0019838027"
+      },
+      {
+        "start": 1787534136406,
+        "end": 1787534183357,
+        "durationMin": 0.8,
+        "precedingSku": "8377866",
+        "precedingTitle": "Rechargeable Vacuum Sealing Machine (1500 mAh) with 10 Bags - Black",
+        "precedingAuctionCode": "0019838027",
+        "followingSku": "8087145",
+        "followingTitle": "Alphonse Maria Mucha Glass Suncatcher - Square Pendant with Chain & Silver Frame",
+        "followingAuctionCode": "0019838025"
       }
     ],
-    "lastOnAirSku": "8377866",
-    "lastOnAirTitle": "Rechargeable Vacuum Sealing Machine (1500 mAh) with 10 Bags - Black",
-    "lastOnAirAuctionCode": "0019838027",
+    "lastOnAirSku": "8087145",
+    "lastOnAirTitle": "Alphonse Maria Mucha Glass Suncatcher - Square Pendant with Chain & Silver Frame",
+    "lastOnAirAuctionCode": "0019838025",
     "precedingSku": "8377866",
     "precedingTitle": "Rechargeable Vacuum Sealing Machine (1500 mAh) with 10 Bags - Black",
     "precedingAuctionCode": "0019838027"
