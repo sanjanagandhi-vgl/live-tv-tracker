@@ -232506,11 +232506,29 @@
       "productUrl": null,
       "lastUpdated": 1787592931169,
       "source": "gha"
+    },
+    "7689337": {
+      "sku": "7689337",
+      "firstAir": 1787593102471,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787593102471,
+      "title": "Charcoal Fleece Hoodie Blanket - Charcoal",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019838987",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-24",
+      "time": "18:38:22",
+      "productUrl": null,
+      "lastUpdated": 1787593102471,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787592982837,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240419,11 +240437,22 @@
         "followingSku": "8201212",
         "followingTitle": "Stylish Knit Scarf and Headband Set",
         "followingAuctionCode": "0019838976"
+      },
+      {
+        "start": 1787592982837,
+        "end": 1787593102471,
+        "durationMin": 2.0,
+        "precedingSku": "8201212",
+        "precedingTitle": "Stylish Knit Scarf and Headband Set",
+        "precedingAuctionCode": "0019838976",
+        "followingSku": "7689337",
+        "followingTitle": "Charcoal Fleece Hoodie Blanket - Charcoal",
+        "followingAuctionCode": "0019838987"
       }
     ],
-    "lastOnAirSku": "8201212",
-    "lastOnAirTitle": "Stylish Knit Scarf and Headband Set",
-    "lastOnAirAuctionCode": "0019838976",
+    "lastOnAirSku": "7689337",
+    "lastOnAirTitle": "Charcoal Fleece Hoodie Blanket - Charcoal",
+    "lastOnAirAuctionCode": "0019838987",
     "precedingSku": "8201212",
     "precedingTitle": "Stylish Knit Scarf and Headband Set",
     "precedingAuctionCode": "0019838976"
