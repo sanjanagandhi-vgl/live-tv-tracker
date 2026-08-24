@@ -175442,21 +175442,26 @@
       "sku": "8230497",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "04:47:18",
+      "date": "2026-08-24",
+      "time": "03:35:28",
       "preExisting": true,
       "missedAt": 1786938438688,
       "missedDelay": null,
-      "lastUpdated": 1786938438688,
+      "lastUpdated": 1787538928013,
       "missedPrice": 12.99,
       "missedImg": true,
       "title": "LIVMORE Stag's Head Candle Holder - Silver",
-      "auctionCode": "0019824969",
+      "auctionCode": "0019838050",
       "source": "gha",
       "productUrl": "/products/livmore-stag-tea-light-holder-silver",
       "productUrlChecked": 1786938444243,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787538928013,
+      "pdpPrice": "12.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8426257": {
       "sku": "8426257",
@@ -229059,9 +229064,16 @@
       "img": true,
       "date": "2026-08-24",
       "time": "03:21:18",
-      "productUrl": null,
-      "lastUpdated": 1787538078120,
-      "source": "gha"
+      "productUrl": "/products/hedgehog-weighted-door-stop",
+      "lastUpdated": 1787538928013,
+      "source": "gha",
+      "missedAt": 1787538928013,
+      "missedDelay": 14,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "productUrlChecked": 1787538933312,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8369942": {
       "sku": "8369942",
@@ -229123,8 +229135,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787538797433,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236263,11 +236275,22 @@
         "followingSku": "8158853",
         "followingTitle": "Wall Clock & Safe 25x25x7cm (1xAA Battery not inc.) - Gold",
         "followingAuctionCode": "0019838045"
+      },
+      {
+        "start": 1787538797433,
+        "end": 1787538928013,
+        "durationMin": 2.2,
+        "precedingSku": "8369942",
+        "precedingTitle": "LIVMORE Green Aventurine Natural Gemstone Tree & Ceramic Backflow Incense Burner - Includes 20pc Sticks & Cones",
+        "precedingAuctionCode": "0019838052",
+        "followingSku": "8230497",
+        "followingTitle": "LIVMORE Stag's Head Candle Holder - Silver",
+        "followingAuctionCode": "0019838050"
       }
     ],
-    "lastOnAirSku": "8369942",
-    "lastOnAirTitle": "LIVMORE Green Aventurine Natural Gemstone Tree & Ceramic Backflow Incense Burner - Includes 20pc Sticks & Cones",
-    "lastOnAirAuctionCode": "0019838052",
+    "lastOnAirSku": "8230497",
+    "lastOnAirTitle": "LIVMORE Stag's Head Candle Holder - Silver",
+    "lastOnAirAuctionCode": "0019838050",
     "precedingSku": "8369942",
     "precedingTitle": "LIVMORE Green Aventurine Natural Gemstone Tree & Ceramic Backflow Incense Burner - Includes 20pc Sticks & Cones",
     "precedingAuctionCode": "0019838052"
