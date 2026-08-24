@@ -228989,11 +228989,29 @@
       "productUrlChecked": 1787534795015,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8380252": {
+      "sku": "8380252",
+      "firstAir": 1787536343050,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787536343050,
+      "title": "Cling Film Cutter (Size 36x5 ) - Black",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019838764",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-24",
+      "time": "02:52:23",
+      "productUrl": null,
+      "lastUpdated": 1787536343050,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787536279077,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236099,11 +236117,22 @@
         "followingSku": "8231887",
         "followingTitle": null,
         "followingAuctionCode": "0019838138"
+      },
+      {
+        "start": 1787536279077,
+        "end": 1787536343050,
+        "durationMin": 1.1,
+        "precedingSku": "8231887",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019838138",
+        "followingSku": "8380252",
+        "followingTitle": "Cling Film Cutter (Size 36x5 ) - Black",
+        "followingAuctionCode": "0019838764"
       }
     ],
-    "lastOnAirSku": "8231887",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019838138",
+    "lastOnAirSku": "8380252",
+    "lastOnAirTitle": "Cling Film Cutter (Size 36x5 ) - Black",
+    "lastOnAirAuctionCode": "0019838764",
     "precedingSku": "8231887",
     "precedingTitle": null,
     "precedingAuctionCode": "0019838138"
