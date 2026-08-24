@@ -1698,15 +1698,23 @@
       "sku": "8610940",
       "tvPrice": "",
       "remarks": "",
-      "time": "13:16:00",
+      "time": "16:08:24",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 999.99,
       "missedImg": false,
-      "title": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Earring with Lever Back 2.05 Ct.",
-      "auctionCode": "0019791298",
-      "source": "gha"
+      "title": "Luxuriant - 9K White Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Earring with Lever Back 2.06 Ct.",
+      "auctionCode": "0019839529",
+      "source": "gha",
+      "lastAir": 1787584104229,
+      "pdpPrice": "3897.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-24",
+      "productUrl": null,
+      "lastUpdated": 1787584104229
     },
     "8637969": {
       "sku": "8637969",
@@ -232002,8 +232010,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787583982877,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -239813,11 +239821,22 @@
         "followingSku": "8628926",
         "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019839390"
+      },
+      {
+        "start": 1787583982877,
+        "end": 1787584104229,
+        "durationMin": 2.0,
+        "precedingSku": "4491649",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.90 Ct.",
+        "precedingAuctionCode": "0019839405",
+        "followingSku": "8610940",
+        "followingTitle": "Luxuriant - 9K White Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Earring with Lever Back 2.06 Ct.",
+        "followingAuctionCode": "0019839529"
       }
     ],
-    "lastOnAirSku": "4491649",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.90 Ct.",
-    "lastOnAirAuctionCode": "0019839405",
+    "lastOnAirSku": "8610940",
+    "lastOnAirTitle": "Luxuriant - 9K White Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Earring with Lever Back 2.06 Ct.",
+    "lastOnAirAuctionCode": "0019839529",
     "precedingSku": "4491649",
     "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.90 Ct.",
     "precedingAuctionCode": "0019839405"
