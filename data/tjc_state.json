@@ -160834,21 +160834,26 @@
       "sku": "8553754",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "22:13:18",
+      "date": "2026-08-24",
+      "time": "20:30:52",
       "preExisting": true,
       "missedAt": 1786741998865,
       "missedDelay": null,
-      "lastUpdated": 1786741998865,
+      "lastUpdated": 1787599852049,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Fragrance Works Ombre Oud EDP - 100ml",
-      "auctionCode": "0019819661",
+      "title": "Fragrance Works Soft Sandalwood EDP - 100ml",
+      "auctionCode": "0019838980",
       "source": "gha",
       "productUrl": "/products/close-out-deal-fragrance-works-berry-blooms-edp-100ml",
       "productUrlChecked": 1786742011469,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787599852049,
+      "pdpPrice": "64.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8553755": {
       "sku": "8553755",
@@ -232781,8 +232786,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787599461756,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240779,11 +240784,22 @@
         "followingSku": "8708606",
         "followingTitle": "William Hunt Rotating Earth DanDong Automatic Mechanical Movement 3ATM WR Luminous Green Starry Sky Convex Earth Dial & IPG Gold Plating Case Mens Watch with Stainless Steel Strap",
         "followingAuctionCode": "0019839782"
+      },
+      {
+        "start": 1787599461756,
+        "end": 1787599852049,
+        "durationMin": 6.5,
+        "precedingSku": "8708606",
+        "precedingTitle": "William Hunt Rotating Earth DanDong Automatic Mechanical Movement 3ATM WR Luminous Green Starry Sky Convex Earth Dial & IPG Gold Plating Case Mens Watch with Stainless Steel Strap",
+        "precedingAuctionCode": "0019839782",
+        "followingSku": "8553754",
+        "followingTitle": "Fragrance Works Soft Sandalwood EDP - 100ml",
+        "followingAuctionCode": "0019838980"
       }
     ],
-    "lastOnAirSku": "8708606",
-    "lastOnAirTitle": "William Hunt Rotating Earth DanDong Automatic Mechanical Movement 3ATM WR Luminous Green Starry Sky Convex Earth Dial & IPG Gold Plating Case Mens Watch with Stainless Steel Strap",
-    "lastOnAirAuctionCode": "0019839782",
+    "lastOnAirSku": "8553754",
+    "lastOnAirTitle": "Fragrance Works Soft Sandalwood EDP - 100ml",
+    "lastOnAirAuctionCode": "0019838980",
     "precedingSku": "8708606",
     "precedingTitle": "William Hunt Rotating Earth DanDong Automatic Mechanical Movement 3ATM WR Luminous Green Starry Sky Convex Earth Dial & IPG Gold Plating Case Mens Watch with Stainless Steel Strap",
     "precedingAuctionCode": "0019839782"
