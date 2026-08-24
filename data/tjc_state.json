@@ -193451,21 +193451,26 @@
       "sku": "8335700",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "18:53:20",
+      "date": "2026-08-24",
+      "time": "07:29:17",
       "preExisting": true,
       "missedAt": 1787162000223,
       "missedDelay": null,
-      "lastUpdated": 1787162000223,
+      "lastUpdated": 1787552957771,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "My Hair Doctor - Brilliant Brunette Colour Shampoo - 200ml",
-      "auctionCode": "0019830285",
+      "auctionCode": "0019838173",
       "source": "gha",
       "productUrl": "/products/my-hair-doctor-glorious-gold-brilliant-brunette-colour-shampoo-duo-200ml-each",
       "productUrlChecked": 1787162010280,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787552957771,
+      "pdpPrice": "5.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8354330": {
       "sku": "8354330",
@@ -229682,8 +229687,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787552901354,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -237086,11 +237091,22 @@
         "followingSku": "221330835",
         "followingTitle": "Pack of 2- Laurelle Empire,  Illusion EDP & Body Wash - 100ml each",
         "followingAuctionCode": "0019838150"
+      },
+      {
+        "start": 1787552901354,
+        "end": 1787552957771,
+        "durationMin": 0.9,
+        "precedingSku": "221330835",
+        "precedingTitle": "Pack of 2- Laurelle Empire,  Illusion EDP & Body Wash - 100ml each",
+        "precedingAuctionCode": "0019838150",
+        "followingSku": "8335700",
+        "followingTitle": "My Hair Doctor - Brilliant Brunette Colour Shampoo - 200ml",
+        "followingAuctionCode": "0019838173"
       }
     ],
-    "lastOnAirSku": "221330835",
-    "lastOnAirTitle": "Pack of 2- Laurelle Empire,  Illusion EDP & Body Wash - 100ml each",
-    "lastOnAirAuctionCode": "0019838150",
+    "lastOnAirSku": "8335700",
+    "lastOnAirTitle": "My Hair Doctor - Brilliant Brunette Colour Shampoo - 200ml",
+    "lastOnAirAuctionCode": "0019838173",
     "precedingSku": "221330835",
     "precedingTitle": "Pack of 2- Laurelle Empire,  Illusion EDP & Body Wash - 100ml each",
     "precedingAuctionCode": "0019838150"
