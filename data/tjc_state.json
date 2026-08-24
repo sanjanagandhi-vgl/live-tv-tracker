@@ -8920,21 +8920,22 @@
       "firstAir": 1784977398519,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784977997976,
-      "title": "Luxuriant - Lab Grown Diamond (SI/G-H) Solitaire Stud Earring with Push Back in Rhodium Overlay Sterling Silver 0.25 Ct.",
-      "pdpPrice": 29.99,
-      "auctionCode": "0019793273",
-      "buy": false,
-      "login": true,
+      "lastAir": 1787582304814,
+      "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Stud Earring with Push Back in Yellow Gold Plated Sterling Silver 0.25 Ct.",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019839341",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "12:13:17",
-      "lastUpdated": 1784978060184,
+      "date": "2026-08-24",
+      "time": "15:38:24",
+      "lastUpdated": 1787582304814,
       "source": "gha",
       "missedAt": 1784978060184,
       "missedDelay": 1,
       "missedPrice": 29.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "4478971": {
       "sku": "4478971",
@@ -231815,8 +231816,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787582241470,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -239604,11 +239605,22 @@
         "followingSku": "8493966",
         "followingTitle": "Luxuriant SI-G-H Lab Grown Diamond Pressure Set Ring in Sterling Silver",
         "followingAuctionCode": "0019838916"
+      },
+      {
+        "start": 1787582241470,
+        "end": 1787582304814,
+        "durationMin": 1.1,
+        "precedingSku": "8493976",
+        "precedingTitle": "Luxuriant SI-G-H Lab Grown Diamond Pressure Set Ring in Sterling Silver",
+        "precedingAuctionCode": "0019838935",
+        "followingSku": "8571459",
+        "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Stud Earring with Push Back in Yellow Gold Plated Sterling Silver 0.25 Ct.",
+        "followingAuctionCode": "0019839341"
       }
     ],
-    "lastOnAirSku": "8493976",
-    "lastOnAirTitle": "Luxuriant SI-G-H Lab Grown Diamond Pressure Set Ring in Sterling Silver",
-    "lastOnAirAuctionCode": "0019838935",
+    "lastOnAirSku": "8571459",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Stud Earring with Push Back in Yellow Gold Plated Sterling Silver 0.25 Ct.",
+    "lastOnAirAuctionCode": "0019839341",
     "precedingSku": "8493976",
     "precedingTitle": "Luxuriant SI-G-H Lab Grown Diamond Pressure Set Ring in Sterling Silver",
     "precedingAuctionCode": "0019838935"
