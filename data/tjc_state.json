@@ -232643,11 +232643,29 @@
       "productUrl": null,
       "lastUpdated": 1787594839389,
       "source": "gha"
+    },
+    "8666670": {
+      "sku": "8666670",
+      "firstAir": 1787595144946,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787595144946,
+      "title": "Bronzella Collection - Spiga Tonda Necklace (Size - 20) in Yellow Gold Tone",
+      "pdpPrice": "1799.99",
+      "auctionCode": "0019839881",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-24",
+      "time": "19:12:24",
+      "productUrl": null,
+      "lastUpdated": 1787595144946,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787594903111,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240600,11 +240618,22 @@
         "followingSku": "7210977",
         "followingTitle": "Laurelle 2 Piece Set - Amour Eternal Eau de Parfum (100ml) & Body Mist (150ml)",
         "followingAuctionCode": "0019838092"
+      },
+      {
+        "start": 1787594903111,
+        "end": 1787595144946,
+        "durationMin": 4.0,
+        "precedingSku": "7210977",
+        "precedingTitle": "Laurelle 2 Piece Set - Amour Eternal Eau de Parfum (100ml) & Body Mist (150ml)",
+        "precedingAuctionCode": "0019838092",
+        "followingSku": "8666670",
+        "followingTitle": "Bronzella Collection - Spiga Tonda Necklace (Size - 20) in Yellow Gold Tone",
+        "followingAuctionCode": "0019839881"
       }
     ],
-    "lastOnAirSku": "7210977",
-    "lastOnAirTitle": "Laurelle 2 Piece Set - Amour Eternal Eau de Parfum (100ml) & Body Mist (150ml)",
-    "lastOnAirAuctionCode": "0019838092",
+    "lastOnAirSku": "8666670",
+    "lastOnAirTitle": "Bronzella Collection - Spiga Tonda Necklace (Size - 20) in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019839881",
     "precedingSku": "7210977",
     "precedingTitle": "Laurelle 2 Piece Set - Amour Eternal Eau de Parfum (100ml) & Body Mist (150ml)",
     "precedingAuctionCode": "0019838092"
