@@ -84801,21 +84801,26 @@
       "sku": "7948830",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-06",
-      "time": "11:15:37",
+      "date": "2026-08-24",
+      "time": "03:11:19",
       "preExisting": true,
       "missedAt": 1786011337384,
       "missedDelay": null,
-      "lastUpdated": 1786011337384,
+      "lastUpdated": 1787537479603,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "NUSUK Arabian Oud Home Fragrance Collection - Dubai Nagham - 300ML",
-      "auctionCode": "0019809369",
+      "title": "NUSUK Areej Al Musk Air Freshener - 300ml",
+      "auctionCode": "0019838039",
       "source": "gha",
       "productUrl": "/products/nusuk-fleurie-emerald-air-freshener-spray-300ml-8718097",
       "productUrlChecked": 1786011353726,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787537479603,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7948825": {
       "sku": "7948825",
@@ -229010,8 +229015,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787537441369,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236128,11 +236133,22 @@
         "followingSku": "8380252",
         "followingTitle": "Cling Film Cutter (Size 36x5 ) - Black",
         "followingAuctionCode": "0019838764"
+      },
+      {
+        "start": 1787537441369,
+        "end": 1787537479603,
+        "durationMin": 0.6,
+        "precedingSku": "8380252",
+        "precedingTitle": "Cling Film Cutter (Size 36x5 ) - Black",
+        "precedingAuctionCode": "0019838764",
+        "followingSku": "7948830",
+        "followingTitle": "NUSUK Areej Al Musk Air Freshener - 300ml",
+        "followingAuctionCode": "0019838039"
       }
     ],
-    "lastOnAirSku": "8380252",
-    "lastOnAirTitle": "Cling Film Cutter (Size 36x5 ) - Black",
-    "lastOnAirAuctionCode": "0019838764",
+    "lastOnAirSku": "7948830",
+    "lastOnAirTitle": "NUSUK Areej Al Musk Air Freshener - 300ml",
+    "lastOnAirAuctionCode": "0019838039",
     "precedingSku": "8380252",
     "precedingTitle": "Cling Film Cutter (Size 36x5 ) - Black",
     "precedingAuctionCode": "0019838764"
