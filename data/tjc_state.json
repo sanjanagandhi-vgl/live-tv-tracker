@@ -218048,17 +218048,17 @@
       "firstAir": 1787477541643,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787477597085,
+      "lastAir": 1787536039857,
       "title": "Table Lamp (Size - One Size) - Champagne",
       "pdpPrice": null,
-      "auctionCode": "0019835509",
+      "auctionCode": "0019838138",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-08-23",
-      "time": "10:33:17",
+      "date": "2026-08-24",
+      "time": "02:47:19",
       "productUrl": null,
-      "lastUpdated": 1787478196730,
+      "lastUpdated": 1787536039857,
       "source": "gha",
       "missedAt": 1787478196730,
       "missedDelay": 10,
@@ -228992,8 +228992,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787535982575,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236088,11 +236088,22 @@
         "followingSku": "8169025",
         "followingTitle": "22K Gold Foil Flakes in Bottle",
         "followingAuctionCode": "0019838032"
+      },
+      {
+        "start": 1787535982575,
+        "end": 1787536039857,
+        "durationMin": 1.0,
+        "precedingSku": "8169025",
+        "precedingTitle": "22K Gold Foil Flakes in Bottle",
+        "precedingAuctionCode": "0019838032",
+        "followingSku": "8231887",
+        "followingTitle": null,
+        "followingAuctionCode": "0019838138"
       }
     ],
-    "lastOnAirSku": "8169025",
-    "lastOnAirTitle": "22K Gold Foil Flakes in Bottle",
-    "lastOnAirAuctionCode": "0019838032",
+    "lastOnAirSku": "8231887",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019838138",
     "precedingSku": "8169025",
     "precedingTitle": "22K Gold Foil Flakes in Bottle",
     "precedingAuctionCode": "0019838032"
