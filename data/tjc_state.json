@@ -186693,17 +186693,17 @@
       "firstAir": 1787075066637,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787296038604,
+      "lastAir": 1787592142444,
       "title": "PAYOT - Lisse Smoothing Cares Ritual Set",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019831392",
+      "pdpPrice": "47.99",
+      "auctionCode": "0019838974",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-21",
-      "time": "08:07:18",
+      "date": "2026-08-24",
+      "time": "18:22:22",
       "productUrl": "/products/payot-lisse-smoothing-cares-ritual-set",
-      "lastUpdated": 1787296038604,
+      "lastUpdated": 1787592142444,
       "source": "gha",
       "missedAt": 1787075903904,
       "missedDelay": 10,
@@ -232487,8 +232487,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787592078404,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240375,11 +240375,22 @@
         "followingSku": "7758298",
         "followingTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
         "followingAuctionCode": "0019838970"
+      },
+      {
+        "start": 1787592078404,
+        "end": 1787592142444,
+        "durationMin": 1.1,
+        "precedingSku": "7758298",
+        "precedingTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
+        "precedingAuctionCode": "0019838970",
+        "followingSku": "8158702",
+        "followingTitle": "PAYOT - Lisse Smoothing Cares Ritual Set",
+        "followingAuctionCode": "0019838974"
       }
     ],
-    "lastOnAirSku": "7758298",
-    "lastOnAirTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
-    "lastOnAirAuctionCode": "0019838970",
+    "lastOnAirSku": "8158702",
+    "lastOnAirTitle": "PAYOT - Lisse Smoothing Cares Ritual Set",
+    "lastOnAirAuctionCode": "0019838974",
     "precedingSku": "7758298",
     "precedingTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
     "precedingAuctionCode": "0019838970"
