@@ -15411,21 +15411,22 @@
       "firstAir": 1785109756974,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785110660575,
+      "lastAir": 1787587943618,
       "title": "Rare Size AAA Top Lustre Baroque Pearl Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 500 cts",
-      "pdpPrice": 199.99,
-      "auctionCode": "0019796555",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "5999.99",
+      "auctionCode": "0019838864",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "01:04:20",
-      "lastUpdated": 1785110727887,
+      "date": "2026-08-24",
+      "time": "17:12:23",
+      "lastUpdated": 1787587943618,
       "source": "gha",
       "missedAt": 1785110727887,
       "missedDelay": 1,
       "missedPrice": 199.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8620513": {
       "sku": "8620513",
@@ -232300,8 +232301,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787587759797,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240133,11 +240134,22 @@
         "followingSku": "8543721",
         "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Band Ring in Rhodium Overlay Sterling Silver 2.10 Ct.",
         "followingAuctionCode": "0019839640"
+      },
+      {
+        "start": 1787587759797,
+        "end": 1787587943618,
+        "durationMin": 3.1,
+        "precedingSku": "8633125",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Full Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019839673",
+        "followingSku": "8666175",
+        "followingTitle": "Rare Size AAA Top Lustre Baroque Pearl Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 500 cts",
+        "followingAuctionCode": "0019838864"
       }
     ],
-    "lastOnAirSku": "8633125",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Full Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019839673",
+    "lastOnAirSku": "8666175",
+    "lastOnAirTitle": "Rare Size AAA Top Lustre Baroque Pearl Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 500 cts",
+    "lastOnAirAuctionCode": "0019838864",
     "precedingSku": "8633125",
     "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Full Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019839673"
