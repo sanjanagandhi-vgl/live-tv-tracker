@@ -98756,17 +98756,17 @@
       "firstAir": 1786135345613,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786673063185,
+      "lastAir": 1787540062279,
       "title": "Printed Cosy Fleece Throw Blanket (220gsm)",
-      "pdpPrice": "5.99",
-      "auctionCode": "0019820031",
+      "pdpPrice": "74.99",
+      "auctionCode": "0019838046",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-14",
-      "time": "03:04:23",
+      "date": "2026-08-24",
+      "time": "03:54:22",
       "productUrl": "/products/printed-cosy-fleece-throw-blanket-220gsm",
-      "lastUpdated": 1786673063185,
+      "lastUpdated": 1787540062279,
       "source": "gha",
       "missedAt": 1786136064911,
       "missedDelay": 10,
@@ -229207,8 +229207,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787540003309,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236369,11 +236369,22 @@
         "followingSku": "8412810",
         "followingTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
         "followingAuctionCode": "0019838130"
+      },
+      {
+        "start": 1787540003309,
+        "end": 1787540062279,
+        "durationMin": 1.0,
+        "precedingSku": "8436295",
+        "precedingTitle": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
+        "precedingAuctionCode": "0019838056",
+        "followingSku": "8181730",
+        "followingTitle": "Printed Cosy Fleece Throw Blanket (220gsm)",
+        "followingAuctionCode": "0019838046"
       }
     ],
-    "lastOnAirSku": "8436295",
-    "lastOnAirTitle": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
-    "lastOnAirAuctionCode": "0019838056",
+    "lastOnAirSku": "8181730",
+    "lastOnAirTitle": "Printed Cosy Fleece Throw Blanket (220gsm)",
+    "lastOnAirAuctionCode": "0019838046",
     "precedingSku": "8436295",
     "precedingTitle": "Livmore Printed Flannel Cozy Throw Blanket (150x224cm) - Black",
     "precedingAuctionCode": "0019838056"
