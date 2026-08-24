@@ -228147,9 +228147,16 @@
       "img": true,
       "date": "2026-08-24",
       "time": "01:14:22",
-      "productUrl": null,
-      "lastUpdated": 1787530462729,
-      "source": "gha"
+      "productUrl": "/products/djoy-moissanite-lily-pendant-with-chain-size-18-in-rhodium-overlay-sterling-silver-6-00-ct",
+      "lastUpdated": 1787530999428,
+      "source": "gha",
+      "missedAt": 1787530999428,
+      "missedDelay": 9,
+      "missedPrice": 69.99,
+      "missedImg": true,
+      "productUrlChecked": 1787531012101,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8280131": {
       "sku": "8280131",
@@ -228349,8 +228356,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787530999428,
     "gaps": [
       {
         "start": 1785823527869,
@@ -235351,8 +235358,8 @@
     "lastOnAirSku": "8289953",
     "lastOnAirTitle": "D'Joy Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.17 Ct.",
     "lastOnAirAuctionCode": "0019838518",
-    "precedingSku": "8280131",
-    "precedingTitle": "D'Joy Moissanite Ring in Rhodium Overlay Sterling Silver 4.26 Ct.",
-    "precedingAuctionCode": "0019838515"
+    "precedingSku": "8289953",
+    "precedingTitle": "D'Joy Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.17 Ct.",
+    "precedingAuctionCode": "0019838518"
   }
 }
