@@ -185426,21 +185426,26 @@
       "sku": "8166875",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "16:38:24",
+      "date": "2026-08-24",
+      "time": "08:24:22",
       "preExisting": true,
       "missedAt": 1787067504902,
       "missedDelay": null,
-      "lastUpdated": 1787067504902,
+      "lastUpdated": 1787556262221,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "La Marey Mulberry Silk Printed Scarf (175 x 65cm) - Blue Black",
-      "auctionCode": "0019827451",
+      "title": "La Marey Mulberry Silk Floral Print Scarf (175 x 65cm) - Blue & Green",
+      "auctionCode": "0019838299",
       "source": "gha",
       "productUrl": "/products/la-marey-mulberry-silk-printed-scarf-2038166744",
       "productUrlChecked": 1787067518443,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787556262221,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8166878": {
       "sku": "8166878",
@@ -229699,8 +229704,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787556143802,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -237136,11 +237141,22 @@
         "followingSku": "8243643",
         "followingTitle": "Grand Pelle Genuine Leather Saddle Crossbody Bag",
         "followingAuctionCode": "0019838281"
+      },
+      {
+        "start": 1787556143802,
+        "end": 1787556262221,
+        "durationMin": 2.0,
+        "precedingSku": "8243643",
+        "precedingTitle": "Grand Pelle Genuine Leather Saddle Crossbody Bag",
+        "precedingAuctionCode": "0019838281",
+        "followingSku": "8166875",
+        "followingTitle": "La Marey Mulberry Silk Floral Print Scarf (175 x 65cm) - Blue & Green",
+        "followingAuctionCode": "0019838299"
       }
     ],
-    "lastOnAirSku": "8243643",
-    "lastOnAirTitle": "Grand Pelle Genuine Leather Saddle Crossbody Bag",
-    "lastOnAirAuctionCode": "0019838281",
+    "lastOnAirSku": "8166875",
+    "lastOnAirTitle": "La Marey Mulberry Silk Floral Print Scarf (175 x 65cm) - Blue & Green",
+    "lastOnAirAuctionCode": "0019838299",
     "precedingSku": "8243643",
     "precedingTitle": "Grand Pelle Genuine Leather Saddle Crossbody Bag",
     "precedingAuctionCode": "0019838281"
