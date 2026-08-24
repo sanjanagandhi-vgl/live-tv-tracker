@@ -82003,20 +82003,20 @@
       "sku": "8465928",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-11",
-      "time": "19:18:25",
+      "date": "2026-08-24",
+      "time": "09:55:30",
       "preExisting": true,
       "missedAt": 1785985341129,
       "missedDelay": null,
-      "lastUpdated": 1786472305872,
+      "lastUpdated": 1787561730047,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Quilted Weekender Travel Style Duffle Bag with Shoulder Strap - Brown",
-      "auctionCode": "0019814478",
+      "title": "Quilted Weekender Travel Style Duffle Bag with Shoulder Strap - Black",
+      "auctionCode": "0019838387",
       "source": "gha",
       "productUrl": null,
-      "lastAir": 1786472305872,
-      "pdpPrice": "8.99",
+      "lastAir": 1787561730047,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -230026,8 +230026,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787561663839,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -237540,11 +237540,22 @@
         "followingSku": "8666672",
         "followingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rock Necklace (Size - 30) Weight 11.10 Grams",
         "followingAuctionCode": "0019838259"
+      },
+      {
+        "start": 1787561663839,
+        "end": 1787561730047,
+        "durationMin": 1.1,
+        "precedingSku": "8666730",
+        "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rock  Bracelet (Size - 7-1 Ext)",
+        "precedingAuctionCode": "0019838268",
+        "followingSku": "8465928",
+        "followingTitle": "Quilted Weekender Travel Style Duffle Bag with Shoulder Strap - Black",
+        "followingAuctionCode": "0019838387"
       }
     ],
-    "lastOnAirSku": "8666730",
-    "lastOnAirTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rock  Bracelet (Size - 7-1 Ext)",
-    "lastOnAirAuctionCode": "0019838268",
+    "lastOnAirSku": "8465928",
+    "lastOnAirTitle": "Quilted Weekender Travel Style Duffle Bag with Shoulder Strap - Black",
+    "lastOnAirAuctionCode": "0019838387",
     "precedingSku": "8666730",
     "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rock  Bracelet (Size - 7-1 Ext)",
     "precedingAuctionCode": "0019838268"
