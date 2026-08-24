@@ -187470,17 +187470,17 @@
       "firstAir": 1787099134680,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787099358414,
+      "lastAir": 1787548042849,
       "title": "Douvalls Body Butter 240ml",
-      "pdpPrice": "12.99",
-      "auctionCode": "0019829259",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019838129",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "01:29:18",
+      "date": "2026-08-24",
+      "time": "06:07:22",
       "productUrl": "/products/douvalls-body-butter-240ml",
-      "lastUpdated": 1787099901329,
+      "lastUpdated": 1787548042849,
       "source": "gha",
       "missedAt": 1787099901329,
       "missedDelay": 9,
@@ -229554,8 +229554,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787547981072,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -236914,11 +236914,22 @@
         "followingSku": "7840313",
         "followingTitle": "Trilogy Eye Contour Cream - 10ml",
         "followingAuctionCode": "0019838137"
+      },
+      {
+        "start": 1787547981072,
+        "end": 1787548042849,
+        "durationMin": 1.0,
+        "precedingSku": "7840313",
+        "precedingTitle": "Trilogy Eye Contour Cream - 10ml",
+        "precedingAuctionCode": "0019838137",
+        "followingSku": "7949760",
+        "followingTitle": "Douvalls Body Butter 240ml",
+        "followingAuctionCode": "0019838129"
       }
     ],
-    "lastOnAirSku": "7840313",
-    "lastOnAirTitle": "Trilogy Eye Contour Cream - 10ml",
-    "lastOnAirAuctionCode": "0019838137",
+    "lastOnAirSku": "7949760",
+    "lastOnAirTitle": "Douvalls Body Butter 240ml",
+    "lastOnAirAuctionCode": "0019838129",
     "precedingSku": "7840313",
     "precedingTitle": "Trilogy Eye Contour Cream - 10ml",
     "precedingAuctionCode": "0019838137"
