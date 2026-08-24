@@ -104414,23 +104414,23 @@
       "sku": "8721476",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-22",
-      "time": "14:27:18",
+      "date": "2026-08-24",
+      "time": "22:11:19",
       "preExisting": true,
       "missedAt": 1786186766113,
       "missedDelay": null,
-      "lastUpdated": 1787405238472,
+      "lastUpdated": 1787605879518,
       "missedPrice": 279.99,
       "missedImg": true,
       "title": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
-      "auctionCode": "0019833749",
+      "auctionCode": "0019840510",
       "source": "gha",
       "productUrl": "/products/luxuriant-aaa-turkizite-lab-grown-diamond-si-g-h-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-2-16-ct-8721475",
       "productUrlChecked": 1786186771313,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787405238472,
-      "pdpPrice": "279.99",
+      "lastAir": 1787605879518,
+      "pdpPrice": "999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -232916,8 +232916,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787605399501,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -240980,11 +240980,22 @@
         "followingSku": "8193971",
         "followingTitle": "AAAA Tanzanite Oval Shape Gemstone 8.52 Ct.",
         "followingAuctionCode": "0019839869"
+      },
+      {
+        "start": 1787605399501,
+        "end": 1787605879518,
+        "durationMin": 8.0,
+        "precedingSku": "8193971",
+        "precedingTitle": "AAAA Tanzanite Oval Shape Gemstone 8.52 Ct.",
+        "precedingAuctionCode": "0019839869",
+        "followingSku": "8721476",
+        "followingTitle": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
+        "followingAuctionCode": "0019840510"
       }
     ],
-    "lastOnAirSku": "8193971",
-    "lastOnAirTitle": "AAAA Tanzanite Oval Shape Gemstone 8.52 Ct.",
-    "lastOnAirAuctionCode": "0019839869",
+    "lastOnAirSku": "8721476",
+    "lastOnAirTitle": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
+    "lastOnAirAuctionCode": "0019840510",
     "precedingSku": "8193971",
     "precedingTitle": "AAAA Tanzanite Oval Shape Gemstone 8.52 Ct.",
     "precedingAuctionCode": "0019839869"
