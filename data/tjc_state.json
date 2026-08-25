@@ -234386,11 +234386,29 @@
       "productUrl": null,
       "lastUpdated": 1787646504271,
       "source": "gha"
+    },
+    "8509128": {
+      "sku": "8509128",
+      "firstAir": 1787646642831,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787646642831,
+      "title": "La Marey V-Neck Tiered Midi Dress (Size L, 16-18) - Orange",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019840328",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-25",
+      "time": "09:30:42",
+      "productUrl": null,
+      "lastUpdated": 1787646642831,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787646557488,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -242882,11 +242900,22 @@
         "followingSku": "8578850",
         "followingTitle": "La Marey Round Neck Blouse (Size XL, 20-22) - Black",
         "followingAuctionCode": "0019840338"
+      },
+      {
+        "start": 1787646557488,
+        "end": 1787646642831,
+        "durationMin": 1.4,
+        "precedingSku": "8578850",
+        "precedingTitle": "La Marey Round Neck Blouse (Size XL, 20-22) - Black",
+        "precedingAuctionCode": "0019840338",
+        "followingSku": "8509128",
+        "followingTitle": "La Marey V-Neck Tiered Midi Dress (Size L, 16-18) - Orange",
+        "followingAuctionCode": "0019840328"
       }
     ],
-    "lastOnAirSku": "8578850",
-    "lastOnAirTitle": "La Marey Round Neck Blouse (Size XL, 20-22) - Black",
-    "lastOnAirAuctionCode": "0019840338",
+    "lastOnAirSku": "8509128",
+    "lastOnAirTitle": "La Marey V-Neck Tiered Midi Dress (Size L, 16-18) - Orange",
+    "lastOnAirAuctionCode": "0019840328",
     "precedingSku": "8578850",
     "precedingTitle": "La Marey Round Neck Blouse (Size XL, 20-22) - Black",
     "precedingAuctionCode": "0019840338"
