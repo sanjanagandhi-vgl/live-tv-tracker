@@ -195831,17 +195831,17 @@
       "firstAir": 1787224641145,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787224883154,
+      "lastAir": 1787668402601,
       "title": "Magnetic Lock Clasp in 9K Yellow Gold",
-      "pdpPrice": "39.99",
-      "auctionCode": "0019830901",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019840872",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-20",
-      "time": "12:21:23",
+      "date": "2026-08-25",
+      "time": "15:33:22",
       "productUrl": "/products/magnetic-lock-clasp-in-9k-yellow-gold",
-      "lastUpdated": 1787225453751,
+      "lastUpdated": 1787668402601,
       "source": "gha",
       "missedAt": 1787225453751,
       "missedDelay": 10,
@@ -235620,8 +235620,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787668346052,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -244311,11 +244311,22 @@
         "followingSku": "8217801",
         "followingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
         "followingAuctionCode": "0019840652"
+      },
+      {
+        "start": 1787668346052,
+        "end": 1787668402601,
+        "durationMin": 0.9,
+        "precedingSku": "8560731",
+        "precedingTitle": "Close Out Deal- 9K Yellow Gold Hoop Earring with Clasp,",
+        "precedingAuctionCode": "0019840859",
+        "followingSku": "7141000",
+        "followingTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
+        "followingAuctionCode": "0019840872"
       }
     ],
-    "lastOnAirSku": "8560731",
-    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Hoop Earring with Clasp,",
-    "lastOnAirAuctionCode": "0019840859",
+    "lastOnAirSku": "7141000",
+    "lastOnAirTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
+    "lastOnAirAuctionCode": "0019840872",
     "precedingSku": "8560731",
     "precedingTitle": "Close Out Deal- 9K Yellow Gold Hoop Earring with Clasp,",
     "precedingAuctionCode": "0019840859"
