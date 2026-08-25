@@ -235048,9 +235048,16 @@
       "img": true,
       "date": "2026-08-25",
       "time": "10:48:22",
-      "productUrl": null,
-      "lastUpdated": 1787651302816,
-      "source": "gha"
+      "productUrl": "/products/muiltipurpose-can-6l-dark-green-8547041",
+      "lastUpdated": 1787651905574,
+      "source": "gha",
+      "missedAt": 1787651905574,
+      "missedDelay": 10,
+      "missedPrice": 6.99,
+      "missedImg": true,
+      "productUrlChecked": 1787651913613,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8416535": {
       "sku": "8416535",
@@ -235072,8 +235079,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787651905574,
     "gaps": [
       {
         "start": 1785823527869,
@@ -243636,8 +243643,8 @@
     "lastOnAirSku": "8416535",
     "lastOnAirTitle": "8-Piece Coordinated Outdoor Solar-Powered Plug-In Pathway Ground Stake Lamps (33x33mm) - Black",
     "lastOnAirAuctionCode": "0019839586",
-    "precedingSku": "8517754",
-    "precedingTitle": "Livmore Mould And Mildew Cleaner - 750ml",
-    "precedingAuctionCode": "0019839566"
+    "precedingSku": "8416535",
+    "precedingTitle": "8-Piece Coordinated Outdoor Solar-Powered Plug-In Pathway Ground Stake Lamps (33x33mm) - Black",
+    "precedingAuctionCode": "0019839586"
   }
 }
