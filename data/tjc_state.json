@@ -20133,19 +20133,19 @@
       "sku": "8270037",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "10:08:22",
+      "date": "2026-08-25",
+      "time": "11:26:21",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1786093702243,
+      "lastUpdated": 1787653581180,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Livemore Solar Fairy Garden Stake (75cm) - Copper",
-      "auctionCode": "0019810215",
+      "title": "LIVMORE Solar Lotus Flower Garden Stake (96cm) - Purple",
+      "auctionCode": "0019839595",
       "source": "gha",
-      "lastAir": 1786093702243,
-      "pdpPrice": "9.99",
+      "lastAir": 1787653581180,
+      "pdpPrice": "7.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -235091,8 +235091,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787653528519,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -243672,11 +243672,22 @@
         "followingSku": "8416510",
         "followingTitle": "Decorative Solar-Powered Landscape Ground Stake Lamp - Artistic Whimsical Yellow Animal with Botanical Leaves & Flowers - Yellow",
         "followingAuctionCode": "0019839587"
+      },
+      {
+        "start": 1787653528519,
+        "end": 1787653581180,
+        "durationMin": 0.9,
+        "precedingSku": "8412816",
+        "precedingTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
+        "precedingAuctionCode": "0019839590",
+        "followingSku": "8270037",
+        "followingTitle": "LIVMORE Solar Lotus Flower Garden Stake (96cm) - Purple",
+        "followingAuctionCode": "0019839595"
       }
     ],
-    "lastOnAirSku": "8412816",
-    "lastOnAirTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
-    "lastOnAirAuctionCode": "0019839590",
+    "lastOnAirSku": "8270037",
+    "lastOnAirTitle": "LIVMORE Solar Lotus Flower Garden Stake (96cm) - Purple",
+    "lastOnAirAuctionCode": "0019839595",
     "precedingSku": "8412816",
     "precedingTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
     "precedingAuctionCode": "0019839590"
