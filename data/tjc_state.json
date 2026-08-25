@@ -209503,21 +209503,26 @@
       "sku": "8519600",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "19:55:31",
+      "date": "2026-08-25",
+      "time": "13:48:22",
       "preExisting": true,
       "missedAt": 1787338531912,
       "missedDelay": null,
-      "lastUpdated": 1787338531912,
+      "lastUpdated": 1787662102854,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "24 LED Warm White Optical Flower Tree Tabletop Light (45cm) - Light Yellow & White",
-      "auctionCode": "0019834766",
+      "title": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
+      "auctionCode": "0019839487",
       "source": "gha",
       "productUrl": "/products/night-light-size-one-size-white-8519573",
       "productUrlChecked": 1787338546307,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787662102854,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8528434": {
       "sku": "8528434",
@@ -235406,8 +235411,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787662042982,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -244075,11 +244080,22 @@
         "followingSku": "8314228",
         "followingTitle": "LIVMORE 4-Piece Reversible Printed Bedding Set - inc. Duvet Cover, Fitted Sheet & 2 x Coordinated Pillowcases (King) - Blue & Multi",
         "followingAuctionCode": "0019841026"
+      },
+      {
+        "start": 1787662042982,
+        "end": 1787662102854,
+        "durationMin": 1.0,
+        "precedingSku": "8483079",
+        "precedingTitle": "Livmore Luxury Super Soft Pillow Enhancer Filled with Down Alternative (Size 50x75 cm) - White with Silver Piping",
+        "precedingAuctionCode": "0019839490",
+        "followingSku": "8519600",
+        "followingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
+        "followingAuctionCode": "0019839487"
       }
     ],
-    "lastOnAirSku": "8483079",
-    "lastOnAirTitle": "Livmore Luxury Super Soft Pillow Enhancer Filled with Down Alternative (Size 50x75 cm) - White with Silver Piping",
-    "lastOnAirAuctionCode": "0019839490",
+    "lastOnAirSku": "8519600",
+    "lastOnAirTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
+    "lastOnAirAuctionCode": "0019839487",
     "precedingSku": "8483079",
     "precedingTitle": "Livmore Luxury Super Soft Pillow Enhancer Filled with Down Alternative (Size 50x75 cm) - White with Silver Piping",
     "precedingAuctionCode": "0019839490"
