@@ -182679,23 +182679,23 @@
       "sku": "8482903",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-23",
-      "time": "23:21:18",
+      "date": "2026-08-25",
+      "time": "04:30:50",
       "preExisting": true,
       "missedAt": 1787008838376,
       "missedDelay": null,
-      "lastUpdated": 1787523678487,
+      "lastUpdated": 1787628650081,
       "missedPrice": 279.99,
       "missedImg": true,
       "title": "Italian Made - Yellow Gold Plated Sterling Silver Fancy Necklace (Size - 30) with Lobster Clasp, Silver Wt. 49.25 Gms",
-      "auctionCode": "0019837549",
+      "auctionCode": "0019839770",
       "source": "gha",
       "productUrl": "/products/yellow-gold-plated-sterling-silver-necklace-size-30-with-lobster-clasp",
       "productUrlChecked": 1787008847863,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787523678487,
-      "pdpPrice": "279.99",
+      "lastAir": 1787628650081,
+      "pdpPrice": "499.99",
       "buy": true,
       "login": false,
       "img": true
@@ -234224,8 +234224,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787628501993,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -242563,11 +242563,22 @@
         "followingSku": "8477844",
         "followingTitle": "Extra Large Cotton Padded Picnic Blanket Waterproof, (2 x 2m) - Flower",
         "followingAuctionCode": "0019839719"
+      },
+      {
+        "start": 1787628501993,
+        "end": 1787628650081,
+        "durationMin": 2.5,
+        "precedingSku": "8169025",
+        "precedingTitle": "22K Gold Foil Flakes in Bottle",
+        "precedingAuctionCode": "0019839684",
+        "followingSku": "8482903",
+        "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Fancy Necklace (Size - 30) with Lobster Clasp, Silver Wt. 49.25 Gms",
+        "followingAuctionCode": "0019839770"
       }
     ],
-    "lastOnAirSku": "8169025",
-    "lastOnAirTitle": "22K Gold Foil Flakes in Bottle",
-    "lastOnAirAuctionCode": "0019839684",
+    "lastOnAirSku": "8482903",
+    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Fancy Necklace (Size - 30) with Lobster Clasp, Silver Wt. 49.25 Gms",
+    "lastOnAirAuctionCode": "0019839770",
     "precedingSku": "8169025",
     "precedingTitle": "22K Gold Foil Flakes in Bottle",
     "precedingAuctionCode": "0019839684"
