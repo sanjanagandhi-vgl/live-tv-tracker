@@ -236448,11 +236448,29 @@
       "productUrl": null,
       "lastUpdated": 1787678542763,
       "source": "gha"
+    },
+    "8226172": {
+      "sku": "8226172",
+      "firstAir": 1787678663735,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787678663735,
+      "title": "Emreco Mandarin Collar Printed Blouse (Size 16) - White",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019840301",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-25",
+      "time": "18:24:23",
+      "productUrl": null,
+      "lastUpdated": 1787678663735,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787678601113,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -245252,11 +245270,22 @@
         "followingSku": "8037753",
         "followingTitle": "La Marey Embroidered Wide-Leg Trousers (Size 18 To 20) - Cream",
         "followingAuctionCode": "0019840268"
+      },
+      {
+        "start": 1787678601113,
+        "end": 1787678663735,
+        "durationMin": 1.0,
+        "precedingSku": "8225837",
+        "precedingTitle": "Emreco Pintuck Front Bengaline Trouser (Size 18) - Navy",
+        "precedingAuctionCode": "0019840292",
+        "followingSku": "8226172",
+        "followingTitle": "Emreco Mandarin Collar Printed Blouse (Size 16) - White",
+        "followingAuctionCode": "0019840301"
       }
     ],
-    "lastOnAirSku": "8225837",
-    "lastOnAirTitle": "Emreco Pintuck Front Bengaline Trouser (Size 18) - Navy",
-    "lastOnAirAuctionCode": "0019840292",
+    "lastOnAirSku": "8226172",
+    "lastOnAirTitle": "Emreco Mandarin Collar Printed Blouse (Size 16) - White",
+    "lastOnAirAuctionCode": "0019840301",
     "precedingSku": "8225837",
     "precedingTitle": "Emreco Pintuck Front Bengaline Trouser (Size 18) - Navy",
     "precedingAuctionCode": "0019840292"
