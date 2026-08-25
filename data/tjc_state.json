@@ -184860,17 +184860,17 @@
       "firstAir": 1787062759125,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787144600090,
+      "lastAir": 1787638103235,
       "title": "BACK IN STOCK - Doctors Formula - Collagen Booster Drink 15,000mg (Apple flavour)",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019830590",
+      "pdpPrice": "240.99",
+      "auctionCode": "0019840683",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "14:03:20",
+      "date": "2026-08-25",
+      "time": "07:08:23",
       "productUrl": "/products/doctors-formula-collagen-booster-drink-15-000mg-apple-flavour-8545312",
-      "lastUpdated": 1787144600090,
+      "lastUpdated": 1787638103235,
       "source": "gha",
       "missedAt": 1787072358433,
       "missedDelay": 10,
@@ -234294,8 +234294,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787637862531,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -242721,11 +242721,22 @@
         "followingSku": "8019208",
         "followingTitle": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
         "followingAuctionCode": "0019839880"
+      },
+      {
+        "start": 1787637862531,
+        "end": 1787638103235,
+        "durationMin": 4.0,
+        "precedingSku": "8019208",
+        "precedingTitle": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
+        "precedingAuctionCode": "0019839880",
+        "followingSku": "8545312",
+        "followingTitle": "BACK IN STOCK - Doctors Formula - Collagen Booster Drink 15,000mg (Apple flavour)",
+        "followingAuctionCode": "0019840683"
       }
     ],
-    "lastOnAirSku": "8019208",
-    "lastOnAirTitle": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
-    "lastOnAirAuctionCode": "0019839880",
+    "lastOnAirSku": "8545312",
+    "lastOnAirTitle": "BACK IN STOCK - Doctors Formula - Collagen Booster Drink 15,000mg (Apple flavour)",
+    "lastOnAirAuctionCode": "0019840683",
     "precedingSku": "8019208",
     "precedingTitle": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
     "precedingAuctionCode": "0019839880"
