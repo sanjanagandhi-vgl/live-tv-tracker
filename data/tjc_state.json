@@ -233165,14 +233165,21 @@
       "img": true,
       "date": "2026-08-25",
       "time": "01:12:24",
-      "productUrl": null,
-      "lastUpdated": 1787616744172,
-      "source": "gha"
+      "productUrl": "/products/14k-white-gold-natural-white-diamond-i3-g-h-yellow-diamond-ring-gold-wt-4-00-gms-8665265",
+      "lastUpdated": 1787617342512,
+      "source": "gha",
+      "missedAt": 1787617342512,
+      "missedDelay": 10,
+      "missedPrice": 799.99,
+      "missedImg": true,
+      "productUrlChecked": 1787617352882,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787617342512,
     "gaps": [
       {
         "start": 1785823527869,
@@ -241405,8 +241412,8 @@
     "lastOnAirSku": "8532063",
     "lastOnAirTitle": "GP - AAA Royal Asscher Cut Turkizite (1.2ct) & Blue Sapphire Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.24 Ct.",
     "lastOnAirAuctionCode": "0019839902",
-    "precedingSku": "8532065",
-    "precedingTitle": "NY Closeout Deal - 14K Yellow Gold Earth Mined Argyle NATURAL Yellow Diamond Ring 1.00 Ct, Gold Wt. 3.50 Gms- Oval",
-    "precedingAuctionCode": "0019840593"
+    "precedingSku": "8532063",
+    "precedingTitle": "GP - AAA Royal Asscher Cut Turkizite (1.2ct) & Blue Sapphire Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.24 Ct.",
+    "precedingAuctionCode": "0019839902"
   }
 }
