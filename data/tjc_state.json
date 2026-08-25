@@ -234336,11 +234336,29 @@
       "productUrl": null,
       "lastUpdated": 1787643741614,
       "source": "gha"
+    },
+    "221330883": {
+      "sku": "221330883",
+      "firstAir": 1787643935547,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787643935547,
+      "title": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+      "pdpPrice": "19.98",
+      "auctionCode": "0019839936",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-25",
+      "time": "08:45:35",
+      "productUrl": null,
+      "lastUpdated": 1787643935547,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787643798831,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -242799,11 +242817,22 @@
         "followingSku": "221330884",
         "followingTitle": "Laurelle Sexy Shoo EDP (100 ml) & Noir Desire EDP (85ml) - Set of 2",
         "followingAuctionCode": "0019839984"
+      },
+      {
+        "start": 1787643798831,
+        "end": 1787643935547,
+        "durationMin": 2.3,
+        "precedingSku": "221330884",
+        "precedingTitle": "Laurelle Sexy Shoo EDP (100 ml) & Noir Desire EDP (85ml) - Set of 2",
+        "precedingAuctionCode": "0019839984",
+        "followingSku": "221330883",
+        "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+        "followingAuctionCode": "0019839936"
       }
     ],
-    "lastOnAirSku": "221330884",
-    "lastOnAirTitle": "Laurelle Sexy Shoo EDP (100 ml) & Noir Desire EDP (85ml) - Set of 2",
-    "lastOnAirAuctionCode": "0019839984",
+    "lastOnAirSku": "221330883",
+    "lastOnAirTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+    "lastOnAirAuctionCode": "0019839936",
     "precedingSku": "221330884",
     "precedingTitle": "Laurelle Sexy Shoo EDP (100 ml) & Noir Desire EDP (85ml) - Set of 2",
     "precedingAuctionCode": "0019839984"
