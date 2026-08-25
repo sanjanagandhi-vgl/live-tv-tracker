@@ -565,23 +565,23 @@
       "sku": "7800646",
       "tvPrice": "",
       "remarks": "",
-      "time": "08:09:19",
+      "time": "18:06:23",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
-      "title": "La Marey Tweed Long Sleeve Buttoned Blazer (Size 20 To 22) - White",
-      "auctionCode": "0019827933",
+      "title": "La Marey Tweed Long Sleeve Buttoned Blazer (Size 18 To 20) - White",
+      "auctionCode": "0019840261",
       "source": "gha",
-      "lastAir": 1787123359884,
-      "pdpPrice": "19.99",
+      "lastAir": 1787677583292,
+      "pdpPrice": "1678.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
+      "date": "2026-08-25",
       "productUrl": null,
-      "lastUpdated": 1787123359884
+      "lastUpdated": 1787677583292
     },
     "7800650": {
       "sku": "7800650",
@@ -236345,8 +236345,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787677402101,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -245124,11 +245124,22 @@
         "followingSku": "8231407",
         "followingTitle": "La Marey Solid Jean and Pant/Trouser",
         "followingAuctionCode": "0019840693"
+      },
+      {
+        "start": 1787677402101,
+        "end": 1787677583292,
+        "durationMin": 3.0,
+        "precedingSku": "7823411",
+        "precedingTitle": "La Marey Houndstooth Pattern Long Coat",
+        "precedingAuctionCode": "0019840717",
+        "followingSku": "7800646",
+        "followingTitle": "La Marey Tweed Long Sleeve Buttoned Blazer (Size 18 To 20) - White",
+        "followingAuctionCode": "0019840261"
       }
     ],
-    "lastOnAirSku": "7823411",
-    "lastOnAirTitle": "La Marey Houndstooth Pattern Long Coat",
-    "lastOnAirAuctionCode": "0019840717",
+    "lastOnAirSku": "7800646",
+    "lastOnAirTitle": "La Marey Tweed Long Sleeve Buttoned Blazer (Size 18 To 20) - White",
+    "lastOnAirAuctionCode": "0019840261",
     "precedingSku": "7823411",
     "precedingTitle": "La Marey Houndstooth Pattern Long Coat",
     "precedingAuctionCode": "0019840717"
