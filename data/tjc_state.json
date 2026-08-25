@@ -235596,9 +235596,16 @@
       "img": true,
       "date": "2026-08-25",
       "time": "15:27:19",
-      "productUrl": null,
-      "lastUpdated": 1787668039927,
-      "source": "gha"
+      "productUrl": "/products/9k-yellow-gold-rope-chain-with-lobster-clasp-1748560430",
+      "lastUpdated": 1787668584585,
+      "source": "gha",
+      "missedAt": 1787668584585,
+      "missedDelay": 9,
+      "missedPrice": 239.99,
+      "missedImg": true,
+      "productUrlChecked": 1787668589076,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8560731": {
       "sku": "8560731",
@@ -235620,8 +235627,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787668584585,
     "gaps": [
       {
         "start": 1785823527869,
@@ -244327,8 +244334,8 @@
     "lastOnAirSku": "7141000",
     "lastOnAirTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
     "lastOnAirAuctionCode": "0019840872",
-    "precedingSku": "8560731",
-    "precedingTitle": "Close Out Deal- 9K Yellow Gold Hoop Earring with Clasp,",
-    "precedingAuctionCode": "0019840859"
+    "precedingSku": "7141000",
+    "precedingTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
+    "precedingAuctionCode": "0019840872"
   }
 }
