@@ -235051,11 +235051,29 @@
       "productUrl": null,
       "lastUpdated": 1787651302816,
       "source": "gha"
+    },
+    "8416535": {
+      "sku": "8416535",
+      "firstAir": 1787651729434,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787651729434,
+      "title": "8-Piece Coordinated Outdoor Solar-Powered Plug-In Pathway Ground Stake Lamps (33x33mm) - Black",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019839586",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-25",
+      "time": "10:55:29",
+      "productUrl": null,
+      "lastUpdated": 1787651729434,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787651662270,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -243602,11 +243620,22 @@
         "followingSku": "8517754",
         "followingTitle": "Livmore Mould And Mildew Cleaner - 750ml",
         "followingAuctionCode": "0019839566"
+      },
+      {
+        "start": 1787651662270,
+        "end": 1787651729434,
+        "durationMin": 1.1,
+        "precedingSku": "8517754",
+        "precedingTitle": "Livmore Mould And Mildew Cleaner - 750ml",
+        "precedingAuctionCode": "0019839566",
+        "followingSku": "8416535",
+        "followingTitle": "8-Piece Coordinated Outdoor Solar-Powered Plug-In Pathway Ground Stake Lamps (33x33mm) - Black",
+        "followingAuctionCode": "0019839586"
       }
     ],
-    "lastOnAirSku": "8517754",
-    "lastOnAirTitle": "Livmore Mould And Mildew Cleaner - 750ml",
-    "lastOnAirAuctionCode": "0019839566",
+    "lastOnAirSku": "8416535",
+    "lastOnAirTitle": "8-Piece Coordinated Outdoor Solar-Powered Plug-In Pathway Ground Stake Lamps (33x33mm) - Black",
+    "lastOnAirAuctionCode": "0019839586",
     "precedingSku": "8517754",
     "precedingTitle": "Livmore Mould And Mildew Cleaner - 750ml",
     "precedingAuctionCode": "0019839566"
