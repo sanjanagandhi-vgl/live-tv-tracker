@@ -521,22 +521,22 @@
       "sku": "3124434",
       "tvPrice": "",
       "remarks": "",
-      "time": "07:29:18",
+      "time": "09:04:21",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "MEGA WAREHOUSE CLEARANCE DEAL - Opatra- Dermineck - Advanced Skincare Technology - with Lifetime Warranty",
-      "auctionCode": "0019825337",
+      "auctionCode": "0019839744",
       "source": "gha",
-      "lastAir": 1786948158835,
-      "pdpPrice": "59.99",
+      "lastAir": 1787645061188,
+      "pdpPrice": "799.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "lastUpdated": 1786948158835,
+      "date": "2026-08-25",
+      "lastUpdated": 1787645061188,
       "productUrl": null
     },
     "6860824": {
@@ -234371,8 +234371,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787644999865,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -242842,11 +242842,22 @@
         "followingSku": "221330883",
         "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
         "followingAuctionCode": "0019839936"
+      },
+      {
+        "start": 1787644999865,
+        "end": 1787645061188,
+        "durationMin": 1.0,
+        "precedingSku": "7210981",
+        "precedingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
+        "precedingAuctionCode": "0019839933",
+        "followingSku": "3124434",
+        "followingTitle": "MEGA WAREHOUSE CLEARANCE DEAL - Opatra- Dermineck - Advanced Skincare Technology - with Lifetime Warranty",
+        "followingAuctionCode": "0019839744"
       }
     ],
-    "lastOnAirSku": "7210981",
-    "lastOnAirTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
-    "lastOnAirAuctionCode": "0019839933",
+    "lastOnAirSku": "3124434",
+    "lastOnAirTitle": "MEGA WAREHOUSE CLEARANCE DEAL - Opatra- Dermineck - Advanced Skincare Technology - with Lifetime Warranty",
+    "lastOnAirAuctionCode": "0019839744",
     "precedingSku": "7210981",
     "precedingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
     "precedingAuctionCode": "0019839933"
