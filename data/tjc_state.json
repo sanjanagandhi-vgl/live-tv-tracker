@@ -235186,11 +235186,29 @@
       "productUrl": null,
       "lastUpdated": 1787660182021,
       "source": "gha"
+    },
+    "8358224": {
+      "sku": "8358224",
+      "firstAir": 1787660276016,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787660276016,
+      "title": "GET IT FOR XMAS Ashland 3 Wick Tin Candle - (312g)",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019840991",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-25",
+      "time": "13:17:56",
+      "productUrl": null,
+      "lastUpdated": 1787660276016,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787660239940,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -243836,11 +243854,22 @@
         "followingSku": "8528429",
         "followingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm)",
         "followingAuctionCode": "0019839454"
+      },
+      {
+        "start": 1787660239940,
+        "end": 1787660276016,
+        "durationMin": 0.6,
+        "precedingSku": "8528429",
+        "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm)",
+        "precedingAuctionCode": "0019839454",
+        "followingSku": "8358224",
+        "followingTitle": "GET IT FOR XMAS Ashland 3 Wick Tin Candle - (312g)",
+        "followingAuctionCode": "0019840991"
       }
     ],
-    "lastOnAirSku": "8528429",
-    "lastOnAirTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm)",
-    "lastOnAirAuctionCode": "0019839454",
+    "lastOnAirSku": "8358224",
+    "lastOnAirTitle": "GET IT FOR XMAS Ashland 3 Wick Tin Candle - (312g)",
+    "lastOnAirAuctionCode": "0019840991",
     "precedingSku": "8528429",
     "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm)",
     "precedingAuctionCode": "0019839454"
