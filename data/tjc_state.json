@@ -193544,17 +193544,17 @@
       "firstAir": 1787152343938,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787373863939,
+      "lastAir": 1787668639464,
       "title": "Maestro Collection - 9K Yellow Gold Mesh Stretchable (Size 7 TO 9) - Bangle",
       "pdpPrice": "129.99",
-      "auctionCode": "0019834276",
+      "auctionCode": "0019840874",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "time": "05:44:23",
+      "date": "2026-08-25",
+      "time": "15:37:19",
       "productUrl": "/products/bangle-in-9k-yellow-gold",
-      "lastUpdated": 1787373863939,
+      "lastUpdated": 1787668639464,
       "source": "gha",
       "missedAt": 1787208931313,
       "missedDelay": 916,
@@ -235578,9 +235578,16 @@
       "img": true,
       "date": "2026-08-25",
       "time": "15:24:25",
-      "productUrl": null,
-      "lastUpdated": 1787667865772,
-      "source": "gha"
+      "productUrl": "/products/9k-yellow-gold-paperclip-bracelet-size-7-5-with-lobster-clasp-8562059",
+      "lastUpdated": 1787668639464,
+      "source": "gha",
+      "missedAt": 1787668639464,
+      "missedDelay": 13,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "productUrlChecked": 1787668647255,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8560670": {
       "sku": "8560670",
@@ -235627,8 +235634,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787668584585,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -244329,11 +244336,22 @@
         "followingSku": "7141000",
         "followingTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
         "followingAuctionCode": "0019840872"
+      },
+      {
+        "start": 1787668584585,
+        "end": 1787668639464,
+        "durationMin": 0.9,
+        "precedingSku": "7141000",
+        "precedingTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
+        "precedingAuctionCode": "0019840872",
+        "followingSku": "8427362",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Mesh Stretchable (Size 7 TO 9) - Bangle",
+        "followingAuctionCode": "0019840874"
       }
     ],
-    "lastOnAirSku": "7141000",
-    "lastOnAirTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
-    "lastOnAirAuctionCode": "0019840872",
+    "lastOnAirSku": "8427362",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Mesh Stretchable (Size 7 TO 9) - Bangle",
+    "lastOnAirAuctionCode": "0019840874",
     "precedingSku": "7141000",
     "precedingTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
     "precedingAuctionCode": "0019840872"
