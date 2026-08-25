@@ -234292,11 +234292,29 @@
       "productUrlChecked": 1787636139989,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "221248260": {
+      "sku": "221248260",
+      "firstAir": 1787641703119,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787641703119,
+      "title": "Leopard Royal Savannah EDP - 100ml",
+      "pdpPrice": "278.99",
+      "auctionCode": "0019839950",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-25",
+      "time": "08:08:23",
+      "productUrl": null,
+      "lastUpdated": 1787641703119,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787641463507,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -242733,11 +242751,22 @@
         "followingSku": "8545312",
         "followingTitle": "BACK IN STOCK - Doctors Formula - Collagen Booster Drink 15,000mg (Apple flavour)",
         "followingAuctionCode": "0019840683"
+      },
+      {
+        "start": 1787641463507,
+        "end": 1787641703119,
+        "durationMin": 4.0,
+        "precedingSku": "8689650",
+        "precedingTitle": "Doctors Formula- Dragons Blood Cleanser (100ml), Redness Reducer (30ml) & Sensitive Anti-Bac Daily Moisturiser (50ml)",
+        "precedingAuctionCode": "0019840684",
+        "followingSku": "221248260",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019839950"
       }
     ],
-    "lastOnAirSku": "8689650",
-    "lastOnAirTitle": "Doctors Formula- Dragons Blood Cleanser (100ml), Redness Reducer (30ml) & Sensitive Anti-Bac Daily Moisturiser (50ml)",
-    "lastOnAirAuctionCode": "0019840684",
+    "lastOnAirSku": "221248260",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019839950",
     "precedingSku": "8689650",
     "precedingTitle": "Doctors Formula- Dragons Blood Cleanser (100ml), Redness Reducer (30ml) & Sensitive Anti-Bac Daily Moisturiser (50ml)",
     "precedingAuctionCode": "0019840684"
