@@ -233175,11 +233175,29 @@
       "productUrlChecked": 1787617352882,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4324861": {
+      "sku": "4324861",
+      "firstAir": 1787617851818,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787617851818,
+      "title": "Set of 2 - White Diamond Ring in Sterling Silver",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019839962",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-25",
+      "time": "01:30:51",
+      "productUrl": null,
+      "lastUpdated": 1787617851818,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787617758596,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -241418,11 +241436,22 @@
         "followingSku": "7556906",
         "followingTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
         "followingAuctionCode": "0019839953"
+      },
+      {
+        "start": 1787617758596,
+        "end": 1787617851818,
+        "durationMin": 1.6,
+        "precedingSku": "7556906",
+        "precedingTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
+        "precedingAuctionCode": "0019839953",
+        "followingSku": "4324861",
+        "followingTitle": "Set of 2 - White Diamond Ring in Sterling Silver",
+        "followingAuctionCode": "0019839962"
       }
     ],
-    "lastOnAirSku": "7556906",
-    "lastOnAirTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
-    "lastOnAirAuctionCode": "0019839953",
+    "lastOnAirSku": "4324861",
+    "lastOnAirTitle": "Set of 2 - White Diamond Ring in Sterling Silver",
+    "lastOnAirAuctionCode": "0019839962",
     "precedingSku": "7556906",
     "precedingTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
     "precedingAuctionCode": "0019839953"
