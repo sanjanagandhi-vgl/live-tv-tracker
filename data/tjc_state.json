@@ -194521,21 +194521,26 @@
       "sku": "8416510",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-20",
-      "time": "03:01:02",
+      "date": "2026-08-25",
+      "time": "11:06:22",
       "preExisting": true,
       "missedAt": 1787191262711,
       "missedDelay": null,
-      "lastUpdated": 1787191262711,
+      "lastUpdated": 1787652382850,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Decorative Solar-Powered Landscape Ground Stake Lamp - Artistic Whimsical Yellow Animal with Botanical Leaves & Flowers - Yellow",
-      "auctionCode": "0019830272",
+      "auctionCode": "0019839587",
       "source": "gha",
       "productUrl": "/products/showpiece-2968416466",
       "productUrlChecked": 1787191275433,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787652382850,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8416511": {
       "sku": "8416511",
@@ -235073,14 +235078,21 @@
       "img": true,
       "date": "2026-08-25",
       "time": "10:57:22",
-      "productUrl": null,
-      "lastUpdated": 1787651842093,
-      "source": "gha"
+      "productUrl": "/products/8-piece-coordinated-outdoor-solar-powered-plug-in-pathway-ground-stake-lamps-33x33mm-black-8416535",
+      "lastUpdated": 1787652382850,
+      "source": "gha",
+      "missedAt": 1787652382850,
+      "missedDelay": 9,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1787652391268,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787652330778,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -243649,11 +243661,22 @@
         "followingSku": "8636896",
         "followingTitle": "SOLAR LED Reed Style Garden Light",
         "followingAuctionCode": "0019839603"
+      },
+      {
+        "start": 1787652330778,
+        "end": 1787652382850,
+        "durationMin": 0.9,
+        "precedingSku": "8412380",
+        "precedingTitle": "LIVMORE Hanging Wind Chime (74 cm) - Green",
+        "precedingAuctionCode": "0019839615",
+        "followingSku": "8416510",
+        "followingTitle": "Decorative Solar-Powered Landscape Ground Stake Lamp - Artistic Whimsical Yellow Animal with Botanical Leaves & Flowers - Yellow",
+        "followingAuctionCode": "0019839587"
       }
     ],
-    "lastOnAirSku": "8412380",
-    "lastOnAirTitle": "LIVMORE Hanging Wind Chime (74 cm) - Green",
-    "lastOnAirAuctionCode": "0019839615",
+    "lastOnAirSku": "8416510",
+    "lastOnAirTitle": "Decorative Solar-Powered Landscape Ground Stake Lamp - Artistic Whimsical Yellow Animal with Botanical Leaves & Flowers - Yellow",
+    "lastOnAirAuctionCode": "0019839587",
     "precedingSku": "8412380",
     "precedingTitle": "LIVMORE Hanging Wind Chime (74 cm) - Green",
     "precedingAuctionCode": "0019839615"
