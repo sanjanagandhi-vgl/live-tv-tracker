@@ -217476,21 +217476,26 @@
       "sku": "8019208",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-23",
-      "time": "07:47:18",
+      "date": "2026-08-25",
+      "time": "06:49:18",
       "preExisting": true,
       "missedAt": 1787467638043,
       "missedDelay": null,
-      "lastUpdated": 1787467638043,
+      "lastUpdated": 1787636958963,
       "missedPrice": 34.99,
       "missedImg": true,
       "title": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
-      "auctionCode": "0019838022",
+      "auctionCode": "0019839880",
       "source": "gha",
       "productUrl": "/products/beautech-rf-ems-facial-beauty-device-portable-rechargeable-with-led-light-therapy",
       "productUrlChecked": 1787467641552,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787636958963,
+      "pdpPrice": "1389.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7140787": {
       "sku": "7140787",
@@ -234289,8 +234294,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787636902289,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -242705,11 +242710,22 @@
         "followingSku": "8245389",
         "followingTitle": "LOWEST EVER PRICE-Hur.iron Slant Hair Straightener",
         "followingAuctionCode": "0019839741"
+      },
+      {
+        "start": 1787636902289,
+        "end": 1787636958963,
+        "durationMin": 0.9,
+        "precedingSku": "8019212",
+        "precedingTitle": "MEGA CLEARANCE DEAL - BEAUTECH RF-EMS Facial Beauty Device - Portable & Rechargeable with LED Light Therapy",
+        "precedingAuctionCode": "0019839885",
+        "followingSku": "8019208",
+        "followingTitle": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
+        "followingAuctionCode": "0019839880"
       }
     ],
-    "lastOnAirSku": "8019212",
-    "lastOnAirTitle": "MEGA CLEARANCE DEAL - BEAUTECH RF-EMS Facial Beauty Device - Portable & Rechargeable with LED Light Therapy",
-    "lastOnAirAuctionCode": "0019839885",
+    "lastOnAirSku": "8019208",
+    "lastOnAirTitle": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
+    "lastOnAirAuctionCode": "0019839880",
     "precedingSku": "8019212",
     "precedingTitle": "MEGA CLEARANCE DEAL - BEAUTECH RF-EMS Facial Beauty Device - Portable & Rechargeable with LED Light Therapy",
     "precedingAuctionCode": "0019839885"
