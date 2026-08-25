@@ -234659,11 +234659,29 @@
       "productUrl": null,
       "lastUpdated": 1787647942646,
       "source": "gha"
+    },
+    "8357551": {
+      "sku": "8357551",
+      "firstAir": 1787648064584,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787648064584,
+      "title": "Beaumonde Sequine Star Jumper",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019840431",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-25",
+      "time": "09:54:24",
+      "productUrl": null,
+      "lastUpdated": 1787648064584,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787647998476,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -243177,11 +243195,22 @@
         "followingSku": "8221141",
         "followingTitle": "Emreco Jean Style Stretch Trouser With 29 Inch Leg (Size 12) - Navy",
         "followingAuctionCode": "0019840433"
+      },
+      {
+        "start": 1787647998476,
+        "end": 1787648064584,
+        "durationMin": 1.1,
+        "precedingSku": "8341804",
+        "precedingTitle": "Marina Kaneva Pinstripe Straight Leg Trousers (Size 10) - Grey",
+        "precedingAuctionCode": "0019840457",
+        "followingSku": "8357551",
+        "followingTitle": "Beaumonde Sequine Star Jumper",
+        "followingAuctionCode": "0019840431"
       }
     ],
-    "lastOnAirSku": "8341804",
-    "lastOnAirTitle": "Marina Kaneva Pinstripe Straight Leg Trousers (Size 10) - Grey",
-    "lastOnAirAuctionCode": "0019840457",
+    "lastOnAirSku": "8357551",
+    "lastOnAirTitle": "Beaumonde Sequine Star Jumper",
+    "lastOnAirAuctionCode": "0019840431",
     "precedingSku": "8341804",
     "precedingTitle": "Marina Kaneva Pinstripe Straight Leg Trousers (Size 10) - Grey",
     "precedingAuctionCode": "0019840457"
