@@ -129480,21 +129480,26 @@
       "sku": "8037753",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-11",
-      "time": "09:14:23",
+      "date": "2026-08-25",
+      "time": "18:13:21",
       "preExisting": true,
       "missedAt": 1786436063612,
       "missedDelay": null,
-      "lastUpdated": 1786436063612,
+      "lastUpdated": 1787678001237,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "La Marey Embroidered Wide-Leg Trousers (Size 16 To 18) - Cream",
-      "auctionCode": "0019814765",
+      "title": "La Marey Embroidered Wide-Leg Trousers (Size 18 To 20) - Cream",
+      "auctionCode": "0019840268",
       "source": "gha",
       "productUrl": "/products/la-marey-4-embroidery-jean-and-pant-trouser",
       "productUrlChecked": 1786436072604,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787678001237,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8037756": {
       "sku": "8037756",
@@ -236392,8 +236397,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787677943865,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -245182,11 +245187,22 @@
         "followingSku": "7800646",
         "followingTitle": "La Marey Tweed Long Sleeve Buttoned Blazer (Size 18 To 20) - White",
         "followingAuctionCode": "0019840261"
+      },
+      {
+        "start": 1787677943865,
+        "end": 1787678001237,
+        "durationMin": 1.0,
+        "precedingSku": "8037638",
+        "precedingTitle": "La Marey Embroidered Wide-Leg Trousers (Size 18 To 20) - Cream",
+        "precedingAuctionCode": "0019840264",
+        "followingSku": "8037753",
+        "followingTitle": "La Marey Embroidered Wide-Leg Trousers (Size 18 To 20) - Cream",
+        "followingAuctionCode": "0019840268"
       }
     ],
-    "lastOnAirSku": "8037638",
+    "lastOnAirSku": "8037753",
     "lastOnAirTitle": "La Marey Embroidered Wide-Leg Trousers (Size 18 To 20) - Cream",
-    "lastOnAirAuctionCode": "0019840264",
+    "lastOnAirAuctionCode": "0019840268",
     "precedingSku": "8037638",
     "precedingTitle": "La Marey Embroidered Wide-Leg Trousers (Size 18 To 20) - Cream",
     "precedingAuctionCode": "0019840264"
