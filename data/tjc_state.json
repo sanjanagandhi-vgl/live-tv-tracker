@@ -2347,23 +2347,23 @@
       "sku": "8697692",
       "tvPrice": "",
       "remarks": "",
-      "time": "21:42:22",
+      "time": "23:52:25",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 3799.99,
       "missedImg": false,
       "title": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Halo Ring 5.50 Ct, Platinum Wt. 7.25 Gms",
-      "auctionCode": "0019839863",
+      "auctionCode": "0019845165",
       "source": "gha",
-      "lastAir": 1787604142585,
+      "lastAir": 1787784745168,
       "pdpPrice": "3499.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-24",
+      "date": "2026-08-26",
       "productUrl": null,
-      "lastUpdated": 1787604142585
+      "lastUpdated": 1787784745168
     },
     "8697704": {
       "sku": "8697704",
@@ -248322,8 +248322,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787784679628,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -257574,11 +257574,22 @@
         "followingSku": "8548461",
         "followingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Natural Diamond (VS-E-F) Halo Pendant 10.54 Ct, Platinum Wt. 4.73 Gms",
         "followingAuctionCode": "0019845040"
+      },
+      {
+        "start": 1787784679628,
+        "end": 1787784745168,
+        "durationMin": 1.1,
+        "precedingSku": "8548461",
+        "precedingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Natural Diamond (VS-E-F) Halo Pendant 10.54 Ct, Platinum W...",
+        "precedingAuctionCode": "0019845040",
+        "followingSku": "8697692",
+        "followingTitle": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Halo Ring 5.50 Ct, Platinum Wt. 7.25 Gms",
+        "followingAuctionCode": "0019845165"
       }
     ],
-    "lastOnAirSku": "8548461",
-    "lastOnAirTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Natural Diamond (VS-E-F) Halo Pendant 10.54 Ct, Platinum W...",
-    "lastOnAirAuctionCode": "0019845040",
+    "lastOnAirSku": "8697692",
+    "lastOnAirTitle": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Halo Ring 5.50 Ct, Platinum Wt. 7.25 Gms",
+    "lastOnAirAuctionCode": "0019845165",
     "precedingSku": "8548461",
     "precedingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Natural Diamond (VS-E-F) Halo Pendant 10.54 Ct, Platinum W...",
     "precedingAuctionCode": "0019845040"
