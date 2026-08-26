@@ -248509,11 +248509,29 @@
       "productUrl": null,
       "lastUpdated": 1787788342155,
       "source": "gha"
+    },
+    "7934189": {
+      "sku": "7934189",
+      "firstAir": 1787788464189,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787788464189,
+      "title": "RHAPSODY - 950 Platinum AAAA Tanzanite (Pear 5.22 Ct) & Natural Diamond (VS-E-F) Pendant 5.61 Ct.",
+      "pdpPrice": "2999.99",
+      "auctionCode": "0019845103",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "00:54:24",
+      "productUrl": null,
+      "lastUpdated": 1787788464189,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787788399694,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -257841,11 +257859,22 @@
         "followingSku": "3750463",
         "followingTitle": "RHAPSODY 950 Platinum AAAA Tanzanite & VS-EF White Diamond Halo Ring 3.65 Ct, Platinum Wt 7.04 Gms.",
         "followingAuctionCode": "0019845097"
+      },
+      {
+        "start": 1787788399694,
+        "end": 1787788464189,
+        "durationMin": 1.1,
+        "precedingSku": "3750463",
+        "precedingTitle": "RHAPSODY 950 Platinum AAAA Tanzanite & VS-EF White Diamond Halo Ring 3.65 Ct, Platinum Wt 7.04 Gms.",
+        "precedingAuctionCode": "0019845097",
+        "followingSku": "7934189",
+        "followingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite (Pear 5.22 Ct) & Natural Diamond (VS-E-F) Pendant 5.61 Ct.",
+        "followingAuctionCode": "0019845103"
       }
     ],
-    "lastOnAirSku": "3750463",
-    "lastOnAirTitle": "RHAPSODY 950 Platinum AAAA Tanzanite & VS-EF White Diamond Halo Ring 3.65 Ct, Platinum Wt 7.04 Gms.",
-    "lastOnAirAuctionCode": "0019845097",
+    "lastOnAirSku": "7934189",
+    "lastOnAirTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite (Pear 5.22 Ct) & Natural Diamond (VS-E-F) Pendant 5.61 Ct.",
+    "lastOnAirAuctionCode": "0019845103",
     "precedingSku": "3750463",
     "precedingTitle": "RHAPSODY 950 Platinum AAAA Tanzanite & VS-EF White Diamond Halo Ring 3.65 Ct, Platinum Wt 7.04 Gms.",
     "precedingAuctionCode": "0019845097"
