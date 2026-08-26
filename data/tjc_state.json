@@ -1765,15 +1765,23 @@
       "sku": "8657969",
       "tvPrice": "",
       "remarks": "",
-      "time": "18:05:47",
+      "time": "21:36:23",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 579.99,
       "missedImg": false,
-      "title": "9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
-      "auctionCode": "0019777499",
-      "source": "gha"
+      "title": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
+      "auctionCode": "0019843687",
+      "source": "gha",
+      "lastAir": 1787776583106,
+      "pdpPrice": "1499.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-26",
+      "productUrl": null,
+      "lastUpdated": 1787776583106
     },
     "8657971": {
       "sku": "8657971",
@@ -247659,8 +247667,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787776464252,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -256779,11 +256787,22 @@
         "followingSku": "8516561",
         "followingTitle": "D'Joy Moissanite (VS-E-F) Forever Ring in Rhodium Overlay Sterling Silver 3.77 Ct.",
         "followingAuctionCode": "0019843585"
+      },
+      {
+        "start": 1787776464252,
+        "end": 1787776583106,
+        "durationMin": 2.0,
+        "precedingSku": "8525531",
+        "precedingTitle": "Luxuriant 950 Platinum SGL Certified VS-E-F Lab Grown Diamond 5 Stone Ring 3.00 Ct, Platinum Wt. 4.77 Gms",
+        "precedingAuctionCode": "0019843633",
+        "followingSku": "8657969",
+        "followingTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
+        "followingAuctionCode": "0019843687"
       }
     ],
-    "lastOnAirSku": "8525531",
-    "lastOnAirTitle": "Luxuriant 950 Platinum SGL Certified VS-E-F Lab Grown Diamond 5 Stone Ring 3.00 Ct, Platinum Wt. 4.77 Gms",
-    "lastOnAirAuctionCode": "0019843633",
+    "lastOnAirSku": "8657969",
+    "lastOnAirTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
+    "lastOnAirAuctionCode": "0019843687",
     "precedingSku": "8525531",
     "precedingTitle": "Luxuriant 950 Platinum SGL Certified VS-E-F Lab Grown Diamond 5 Stone Ring 3.00 Ct, Platinum Wt. 4.77 Gms",
     "precedingAuctionCode": "0019843633"
