@@ -150092,23 +150092,23 @@
       "sku": "8314613",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-23",
-      "time": "20:41:19",
+      "date": "2026-08-26",
+      "time": "22:37:20",
       "preExisting": true,
       "missedAt": 1786644329759,
       "missedDelay": null,
-      "lastUpdated": 1787514079662,
+      "lastUpdated": 1787780240665,
       "missedPrice": 949.99,
       "missedImg": true,
       "title": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
-      "auctionCode": "0019837622",
+      "auctionCode": "0019845046",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-tanzanite-solitaire-ring-platinum",
       "productUrlChecked": 1786644336350,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787514079662,
-      "pdpPrice": "899.99",
+      "lastAir": 1787780240665,
+      "pdpPrice": "999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -248172,8 +248172,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787780132176,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -257369,11 +257369,22 @@
         "followingSku": "8572415",
         "followingTitle": "D'Joy - Tanzanite & White Diamond Ring in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019845078"
+      },
+      {
+        "start": 1787780132176,
+        "end": 1787780240665,
+        "durationMin": 1.8,
+        "precedingSku": "8572415",
+        "precedingTitle": "D'Joy - Tanzanite & White Diamond Ring in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019845078",
+        "followingSku": "8314613",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "followingAuctionCode": "0019845046"
       }
     ],
-    "lastOnAirSku": "8572415",
-    "lastOnAirTitle": "D'Joy - Tanzanite & White Diamond Ring in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019845078",
+    "lastOnAirSku": "8314613",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+    "lastOnAirAuctionCode": "0019845046",
     "precedingSku": "8572415",
     "precedingTitle": "D'Joy - Tanzanite & White Diamond Ring in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019845078"
