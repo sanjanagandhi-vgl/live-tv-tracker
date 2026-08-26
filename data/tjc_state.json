@@ -242374,9 +242374,16 @@
       "img": true,
       "date": "2026-08-26",
       "time": "17:05:30",
-      "productUrl": null,
-      "lastUpdated": 1787760330456,
-      "source": "gha"
+      "productUrl": "/products/emma-ribbed-bootcut-elastic-trousers",
+      "lastUpdated": 1787760947367,
+      "source": "gha",
+      "missedAt": 1787760947367,
+      "missedDelay": 10,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1787760949642,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8509613": {
       "sku": "8509613",
@@ -242431,6 +242438,44 @@
       "productUrl": null,
       "lastUpdated": 1787760897191,
       "source": "gha"
+    },
+    "8515685": {
+      "sku": "8515685",
+      "firstAir": 1787760947367,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787760947367,
+      "title": "Marina Kaneva Tailored Trousers (Size - 22) - Cream",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019841949",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-26",
+      "time": "17:15:47",
+      "productUrl": null,
+      "lastUpdated": 1787760947367,
+      "source": "gha"
+    },
+    "8505391": {
+      "sku": "8505391",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-26",
+      "time": "17:15:47",
+      "preExisting": true,
+      "missedAt": 1787760947367,
+      "missedDelay": null,
+      "lastUpdated": 1787760947367,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Emma Ribbed Bootcut Elastic Trousers (Size 18) - Black",
+      "auctionCode": "0019844072",
+      "source": "gha",
+      "productUrl": "/products/emma-ribbed-bootcut-elastic-trousers",
+      "productUrlChecked": 1787760949782,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -251402,9 +251447,9 @@
         "followingAuctionCode": "0019841447"
       }
     ],
-    "lastOnAirSku": "8509836",
-    "lastOnAirTitle": "Marina Kaneva Ruffled Front Tie Neckline Blouse (Size - 22) - Lemon",
-    "lastOnAirAuctionCode": "0019841948",
+    "lastOnAirSku": "8515685",
+    "lastOnAirTitle": "Marina Kaneva Tailored Trousers (Size - 22) - Cream",
+    "lastOnAirAuctionCode": "0019841949",
     "precedingSku": "8334807",
     "precedingTitle": null,
     "precedingAuctionCode": "0019841446"
