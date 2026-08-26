@@ -248169,11 +248169,29 @@
       "productUrlChecked": 1787779884992,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8499775": {
+      "sku": "8499775",
+      "firstAir": 1787780901649,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787780901649,
+      "title": "9K Yellow Gold Tanzanite Solitaire Ring 2.00 Ct.",
+      "pdpPrice": "899.99",
+      "auctionCode": "0019845073",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-26",
+      "time": "22:48:21",
+      "productUrl": null,
+      "lastUpdated": 1787780901649,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787780845633,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -257391,11 +257409,22 @@
         "followingSku": "8314651",
         "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
         "followingAuctionCode": "0019845064"
+      },
+      {
+        "start": 1787780845633,
+        "end": 1787780901649,
+        "durationMin": 0.9,
+        "precedingSku": "8314651",
+        "precedingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "precedingAuctionCode": "0019845064",
+        "followingSku": "8499775",
+        "followingTitle": "9K Yellow Gold Tanzanite Solitaire Ring 2.00 Ct.",
+        "followingAuctionCode": "0019845073"
       }
     ],
-    "lastOnAirSku": "8314651",
-    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
-    "lastOnAirAuctionCode": "0019845064",
+    "lastOnAirSku": "8499775",
+    "lastOnAirTitle": "9K Yellow Gold Tanzanite Solitaire Ring 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019845073",
     "precedingSku": "8314651",
     "precedingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
     "precedingAuctionCode": "0019845064"
