@@ -151332,21 +151332,26 @@
       "sku": "8501349",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "23:09:19",
+      "date": "2026-08-26",
+      "time": "19:28:25",
       "preExisting": true,
       "missedAt": 1786658959424,
       "missedDelay": null,
-      "lastUpdated": 1786658959424,
+      "lastUpdated": 1787768905533,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "D'Joy Natural Pink Diamond Full Eternity Ring in 18K Rose Gold Vermeil Sterling Silver 0.27 Ct.",
-      "auctionCode": "0019813950",
+      "title": "D'Joy Natural Pink Diamond Full Eternity Ring in 18K Rose Gold Vermeil Sterling Silver 0.27 Ct",
+      "auctionCode": "0019843276",
       "source": "gha",
       "productUrl": "/products/djoy-natural-pink-diamond-full-eternity-ring-in-18k-vermeil-rose-gold-plated-sterling-silver-0-27-ct-m8501337",
       "productUrlChecked": 1786658987632,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787768905533,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8501350": {
       "sku": "8501350",
@@ -245977,8 +245982,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787768841099,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -255020,11 +255025,22 @@
         "followingSku": "8366825",
         "followingTitle": "Luxuriant 950 Platinum IGI Certified Lab Grown Diamond (VS-EF) Heart Ring 3.51 Ct, Platinum Wt. 5.70 Gms.",
         "followingAuctionCode": "0019843037"
+      },
+      {
+        "start": 1787768841099,
+        "end": 1787768905533,
+        "durationMin": 1.1,
+        "precedingSku": "8523123",
+        "precedingTitle": "LUCY Q - Rhodium Overlay Sterling Silver Double Drop Adjustable Ring",
+        "precedingAuctionCode": "0019843273",
+        "followingSku": "8501349",
+        "followingTitle": "D'Joy Natural Pink Diamond Full Eternity Ring in 18K Rose Gold Vermeil Sterling Silver 0.27 Ct",
+        "followingAuctionCode": "0019843276"
       }
     ],
-    "lastOnAirSku": "8523123",
-    "lastOnAirTitle": "LUCY Q - Rhodium Overlay Sterling Silver Double Drop Adjustable Ring",
-    "lastOnAirAuctionCode": "0019843273",
+    "lastOnAirSku": "8501349",
+    "lastOnAirTitle": "D'Joy Natural Pink Diamond Full Eternity Ring in 18K Rose Gold Vermeil Sterling Silver 0.27 Ct",
+    "lastOnAirAuctionCode": "0019843276",
     "precedingSku": "8523123",
     "precedingTitle": "LUCY Q - Rhodium Overlay Sterling Silver Double Drop Adjustable Ring",
     "precedingAuctionCode": "0019843273"
