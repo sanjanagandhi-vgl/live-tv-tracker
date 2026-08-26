@@ -4117,16 +4117,16 @@
       "firstAir": 1784887342450,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787704344011,
+      "lastAir": 1787720784470,
       "title": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019840978",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019843783",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-26",
-      "time": "01:32:24",
-      "lastUpdated": 1787704344011,
+      "time": "06:06:24",
+      "lastUpdated": 1787720784470,
       "source": "gha",
       "missedAt": 1784887878647,
       "missedDelay": 2,
@@ -238323,8 +238323,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787720599803,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -247212,11 +247212,22 @@
         "followingSku": "8564413",
         "followingTitle": "THE BALI TREASURE - 9K Yellow Gold Handmade Tirta Naga Bracelet (Size - 7.5) with Clasp",
         "followingAuctionCode": "0019843777"
+      },
+      {
+        "start": 1787720599803,
+        "end": 1787720784470,
+        "durationMin": 3.1,
+        "precedingSku": "8023446",
+        "precedingTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
+        "precedingAuctionCode": "0019841156",
+        "followingSku": "3456340",
+        "followingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "followingAuctionCode": "0019843783"
       }
     ],
-    "lastOnAirSku": "8023446",
-    "lastOnAirTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
-    "lastOnAirAuctionCode": "0019841156",
+    "lastOnAirSku": "3456340",
+    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+    "lastOnAirAuctionCode": "0019843783",
     "precedingSku": "8023446",
     "precedingTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
     "precedingAuctionCode": "0019841156"
