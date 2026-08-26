@@ -243644,9 +243644,16 @@
       "img": true,
       "date": "2026-08-26",
       "time": "17:32:55",
-      "productUrl": null,
-      "lastUpdated": 1787761975332,
-      "source": "gha"
+      "productUrl": "/products/oso-elegant-matching-top-with-wide-leg-trousers-set-one-size-10-to-18-rose",
+      "lastUpdated": 1787762546029,
+      "source": "gha",
+      "missedAt": 1787762546029,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1787762556054,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8509921": {
       "sku": "8509921",
@@ -243816,6 +243823,24 @@
       "time": "17:41:47",
       "productUrl": null,
       "lastUpdated": 1787762507579,
+      "source": "gha"
+    },
+    "7937248": {
+      "sku": "7937248",
+      "firstAir": 1787762546029,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787762546029,
+      "title": "La Marey Linen Woven Dress",
+      "pdpPrice": "250.99",
+      "auctionCode": "0019843085",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-26",
+      "time": "17:42:26",
+      "productUrl": null,
+      "lastUpdated": 1787762546029,
       "source": "gha"
     }
   },
@@ -252788,9 +252813,9 @@
         "followingAuctionCode": "0019841447"
       }
     ],
-    "lastOnAirSku": "7937237",
+    "lastOnAirSku": "7937248",
     "lastOnAirTitle": "La Marey Linen Woven Dress",
-    "lastOnAirAuctionCode": "0019842043",
+    "lastOnAirAuctionCode": "0019843085",
     "precedingSku": "8334807",
     "precedingTitle": null,
     "precedingAuctionCode": "0019841446"
