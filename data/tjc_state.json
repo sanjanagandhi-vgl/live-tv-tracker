@@ -238386,23 +238386,26 @@
       "firstAir": 1787731582921,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787735062961,
+      "lastAir": 1787735225593,
       "title": "DEAL OF THE DAY- Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
-      "pdpPrice": "49.99",
+      "pdpPrice": 49.99,
       "auctionCode": "0019841414",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-26",
-      "time": "10:04:22",
-      "productUrl": null,
-      "lastUpdated": 1787735062961,
-      "source": "gha"
+      "time": "10:07:05",
+      "productUrl": "/products/beautech-sj37-facial-massager-color-host-rose-gold-plastic-on-the-front-white-product-size-t-shape-54-24-5-153-mm-i-sha-8661700?variant=53468525887754",
+      "lastUpdated": 1787735225593,
+      "source": "gha",
+      "productUrlChecked": 1787735227908,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787735128978,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -247344,6 +247347,17 @@
         "precedingAuctionCode": "0019841156",
         "followingSku": "8661700",
         "followingTitle": "Beautech SJ37 2-in-1 Facial Massager | 6-Color LED Light Therapy Device - Rose Gold & White",
+        "followingAuctionCode": "0019841414"
+      },
+      {
+        "start": 1787735128978,
+        "end": 1787735225593,
+        "durationMin": 1.6,
+        "precedingSku": "8661700",
+        "precedingTitle": "DEAL OF THE DAY- Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
+        "precedingAuctionCode": "0019841414",
+        "followingSku": "8661700",
+        "followingTitle": "DEAL OF THE DAY- Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
         "followingAuctionCode": "0019841414"
       }
     ],
