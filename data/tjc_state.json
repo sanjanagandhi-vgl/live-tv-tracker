@@ -238532,11 +238532,29 @@
       "productUrl": null,
       "lastUpdated": 1787736328565,
       "source": "gha"
+    },
+    "8334810": {
+      "sku": "8334810",
+      "firstAir": 1787736440654,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787736440654,
+      "title": "Crystal Stone Bracelet 0.010 Ct.",
+      "pdpPrice": "2.99",
+      "auctionCode": "0019841447",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-26",
+      "time": "10:27:20",
+      "productUrl": null,
+      "lastUpdated": 1787736440654,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787736383625,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -247490,11 +247508,22 @@
         "followingSku": "8661700",
         "followingTitle": "DEAL OF THE DAY- Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
         "followingAuctionCode": "0019841414"
+      },
+      {
+        "start": 1787736383625,
+        "end": 1787736440654,
+        "durationMin": 1.0,
+        "precedingSku": "8334807",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019841446",
+        "followingSku": "8334810",
+        "followingTitle": "Crystal Stone Bracelet 0.010 Ct.",
+        "followingAuctionCode": "0019841447"
       }
     ],
-    "lastOnAirSku": "8334807",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019841446",
+    "lastOnAirSku": "8334810",
+    "lastOnAirTitle": "Crystal Stone Bracelet 0.010 Ct.",
+    "lastOnAirAuctionCode": "0019841447",
     "precedingSku": "8334807",
     "precedingTitle": null,
     "precedingAuctionCode": "0019841446"
