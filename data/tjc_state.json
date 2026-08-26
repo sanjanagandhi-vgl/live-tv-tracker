@@ -238380,11 +238380,29 @@
       "productUrlChecked": 1787725048615,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8661700": {
+      "sku": "8661700",
+      "firstAir": 1787731582921,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787731582921,
+      "title": "Beautech SJ37 2-in-1 Facial Massager | 6-Color LED Light Therapy Device - Rose Gold & White",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019841414",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-26",
+      "time": "09:06:22",
+      "productUrl": null,
+      "lastUpdated": 1787731582921,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787731530134,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -247316,11 +247334,22 @@
         "followingSku": "8023446",
         "followingTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
         "followingAuctionCode": "0019841156"
+      },
+      {
+        "start": 1787731530134,
+        "end": 1787731582921,
+        "durationMin": 0.9,
+        "precedingSku": "8023446",
+        "precedingTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
+        "precedingAuctionCode": "0019841156",
+        "followingSku": "8661700",
+        "followingTitle": "Beautech SJ37 2-in-1 Facial Massager | 6-Color LED Light Therapy Device - Rose Gold & White",
+        "followingAuctionCode": "0019841414"
       }
     ],
-    "lastOnAirSku": "8023446",
-    "lastOnAirTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
-    "lastOnAirAuctionCode": "0019841156",
+    "lastOnAirSku": "8661700",
+    "lastOnAirTitle": "Beautech SJ37 2-in-1 Facial Massager | 6-Color LED Light Therapy Device - Rose Gold & White",
+    "lastOnAirAuctionCode": "0019841414",
     "precedingSku": "8023446",
     "precedingTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
     "precedingAuctionCode": "0019841156"
