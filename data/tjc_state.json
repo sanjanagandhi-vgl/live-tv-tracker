@@ -209850,7 +209850,7 @@
       "firstAir": 1787341159096,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787728159243,
+      "lastAir": 1787728279228,
       "title": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
       "pdpPrice": 29.99,
       "auctionCode": "0019841156",
@@ -209858,9 +209858,9 @@
       "login": false,
       "img": true,
       "date": "2026-08-26",
-      "time": "08:09:19",
+      "time": "08:11:19",
       "productUrl": "/products/soul-smart-cordless-head-massager-with-long-lasting-1500mah-battery?variant=53107533250826",
-      "lastUpdated": 1787728159243,
+      "lastUpdated": 1787728279228,
       "source": "gha",
       "missedAt": 1787341879652,
       "missedDelay": 10,
@@ -238383,8 +238383,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787728240121,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -247302,6 +247302,17 @@
         "precedingSku": "8196744",
         "precedingTitle": "Onshindo Osaka Face Scrub for All Skin Types - 75ml",
         "precedingAuctionCode": "0019841411",
+        "followingSku": "8023446",
+        "followingTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
+        "followingAuctionCode": "0019841156"
+      },
+      {
+        "start": 1787728240121,
+        "end": 1787728279228,
+        "durationMin": 0.7,
+        "precedingSku": "8023446",
+        "precedingTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
+        "precedingAuctionCode": "0019841156",
         "followingSku": "8023446",
         "followingTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
         "followingAuctionCode": "0019841156"
