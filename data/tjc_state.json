@@ -248527,11 +248527,29 @@
       "productUrl": null,
       "lastUpdated": 1787788582007,
       "source": "gha"
+    },
+    "8314667": {
+      "sku": "8314667",
+      "firstAir": 1787788703548,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787788703548,
+      "title": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+      "pdpPrice": "899.99",
+      "auctionCode": "0019845110",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "00:58:23",
+      "productUrl": null,
+      "lastUpdated": 1787788703548,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787788639163,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -257870,11 +257888,22 @@
         "followingSku": "7934189",
         "followingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite (Pear 5.22 Ct) & Natural Diamond (VS-E-F) Pendant 5.61 Ct.",
         "followingAuctionCode": "0019845103"
+      },
+      {
+        "start": 1787788639163,
+        "end": 1787788703548,
+        "durationMin": 1.1,
+        "precedingSku": "7934189",
+        "precedingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite (Pear 5.22 Ct) & Natural Diamond (VS-E-F) Pendant 5.61 Ct.",
+        "precedingAuctionCode": "0019845103",
+        "followingSku": "8314667",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "followingAuctionCode": "0019845110"
       }
     ],
-    "lastOnAirSku": "7934189",
-    "lastOnAirTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite (Pear 5.22 Ct) & Natural Diamond (VS-E-F) Pendant 5.61 Ct.",
-    "lastOnAirAuctionCode": "0019845103",
+    "lastOnAirSku": "8314667",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+    "lastOnAirAuctionCode": "0019845110",
     "precedingSku": "7934189",
     "precedingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite (Pear 5.22 Ct) & Natural Diamond (VS-E-F) Pendant 5.61 Ct.",
     "precedingAuctionCode": "0019845103"
