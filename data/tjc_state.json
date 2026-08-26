@@ -240571,9 +240571,16 @@
       "img": true,
       "date": "2026-08-26",
       "time": "14:51:22",
-      "productUrl": null,
-      "lastUpdated": 1787752282390,
-      "source": "gha"
+      "productUrl": "/products/la-marey-cotton-floral-heart-embroidered-full-sleeves-t-shirt",
+      "lastUpdated": 1787752869214,
+      "source": "gha",
+      "missedAt": 1787752869214,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787752872272,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8520760": {
       "sku": "8520760",
@@ -240648,6 +240655,44 @@
       "source": "gha",
       "productUrl": "/products/la-marey-summer-knit-short-sleeve-top",
       "productUrlChecked": 1787752649703,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8240852": {
+      "sku": "8240852",
+      "firstAir": 1787752869214,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787752869214,
+      "title": "Fiber Belt with Rhinestones",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019841970",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-26",
+      "time": "15:01:09",
+      "productUrl": null,
+      "lastUpdated": 1787752869214,
+      "source": "gha"
+    },
+    "8465864": {
+      "sku": "8465864",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-26",
+      "time": "15:01:09",
+      "preExisting": true,
+      "missedAt": 1787752869214,
+      "missedDelay": null,
+      "lastUpdated": 1787752869214,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Cotton Floral Heart Embroidered Full Sleeve T-Shirt (Size L, 16 to 18) - Red",
+      "auctionCode": "0019842737",
+      "source": "gha",
+      "productUrl": "/products/la-marey-cotton-floral-heart-embroidered-full-sleeves-t-shirt",
+      "productUrlChecked": 1787752872509,
       "productUrlStatus": 200,
       "productUrl404": false
     }
@@ -249621,9 +249666,9 @@
         "followingAuctionCode": "0019841447"
       }
     ],
-    "lastOnAirSku": "8661700",
-    "lastOnAirTitle": "DEAL OF THE DAY- Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
-    "lastOnAirAuctionCode": "0019841414",
+    "lastOnAirSku": "8240852",
+    "lastOnAirTitle": "Fiber Belt with Rhinestones",
+    "lastOnAirAuctionCode": "0019841970",
     "precedingSku": "8334807",
     "precedingTitle": null,
     "precedingAuctionCode": "0019841446"
