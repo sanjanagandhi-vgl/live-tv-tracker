@@ -245979,11 +245979,29 @@
       "productUrlChecked": 1787768747166,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8414797": {
+      "sku": "8414797",
+      "firstAir": 1787769145494,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787769145494,
+      "title": "GP - Blue Sapphire Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019843287",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-26",
+      "time": "19:32:25",
+      "productUrl": null,
+      "lastUpdated": 1787769145494,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787769081540,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -255047,11 +255065,22 @@
         "followingSku": "8422466",
         "followingTitle": "D'Joy Natural White Jade Trilogy Ring in Yellow Gold Plated Sterling Silver 5.00 Ct.",
         "followingAuctionCode": "0019843279"
+      },
+      {
+        "start": 1787769081540,
+        "end": 1787769145494,
+        "durationMin": 1.1,
+        "precedingSku": "8422466",
+        "precedingTitle": "D'Joy Natural White Jade Trilogy Ring in Yellow Gold Plated Sterling Silver 5.00 Ct.",
+        "precedingAuctionCode": "0019843279",
+        "followingSku": "8414797",
+        "followingTitle": "GP - Blue Sapphire Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019843287"
       }
     ],
-    "lastOnAirSku": "8422466",
-    "lastOnAirTitle": "D'Joy Natural White Jade Trilogy Ring in Yellow Gold Plated Sterling Silver 5.00 Ct.",
-    "lastOnAirAuctionCode": "0019843279",
+    "lastOnAirSku": "8414797",
+    "lastOnAirTitle": "GP - Blue Sapphire Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019843287",
     "precedingSku": "8422466",
     "precedingTitle": "D'Joy Natural White Jade Trilogy Ring in Yellow Gold Plated Sterling Silver 5.00 Ct.",
     "precedingAuctionCode": "0019843279"
