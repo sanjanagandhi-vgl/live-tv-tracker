@@ -9202,18 +9202,18 @@
       "sku": "8523801",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "11:57:17",
+      "date": "2026-08-27",
+      "time": "00:20:37",
       "preExisting": true,
       "missedAt": 1784983277411,
       "missedDelay": null,
-      "lastUpdated": 1786791437821,
+      "lastUpdated": 1787786437631,
       "missedPrice": 6799.99,
       "missedImg": false,
       "title": "Rhapsody 950 Platinum AAAA Tanzanite & Natural Diamond (VS-EF) Pear Cut Halo Pendant 11.58  Ct, Platinum Wt. 5.60 Gms.",
-      "auctionCode": "0019821686",
+      "auctionCode": "0019845134",
       "source": "gha",
-      "lastAir": 1786791437821,
+      "lastAir": 1787786437631,
       "pdpPrice": "6499.99",
       "buy": true,
       "login": false,
@@ -248467,8 +248467,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787786302336,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -257741,11 +257741,22 @@
         "followingSku": "7959035",
         "followingTitle": "RHAPSODY 950 Platinum GSI Certified AAAA Tanzanite & White Diamond (VS-EF) Halo Ring 10.00 Ct, Platinum Wt. 7.59 Gms.",
         "followingAuctionCode": "0019845104"
+      },
+      {
+        "start": 1787786302336,
+        "end": 1787786437631,
+        "durationMin": 2.3,
+        "precedingSku": "7959035",
+        "precedingTitle": "RHAPSODY 950 Platinum GSI Certified AAAA Tanzanite & White Diamond (VS-EF) Halo Ring 10.00 Ct, Platinum Wt. 7.59 Gms.",
+        "precedingAuctionCode": "0019845104",
+        "followingSku": "8523801",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite & Natural Diamond (VS-EF) Pear Cut Halo Pendant 11.58  Ct, Platinum Wt. 5.60 Gms.",
+        "followingAuctionCode": "0019845134"
       }
     ],
-    "lastOnAirSku": "7959035",
-    "lastOnAirTitle": "RHAPSODY 950 Platinum GSI Certified AAAA Tanzanite & White Diamond (VS-EF) Halo Ring 10.00 Ct, Platinum Wt. 7.59 Gms.",
-    "lastOnAirAuctionCode": "0019845104",
+    "lastOnAirSku": "8523801",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite & Natural Diamond (VS-EF) Pear Cut Halo Pendant 11.58  Ct, Platinum Wt. 5.60 Gms.",
+    "lastOnAirAuctionCode": "0019845134",
     "precedingSku": "7959035",
     "precedingTitle": "RHAPSODY 950 Platinum GSI Certified AAAA Tanzanite & White Diamond (VS-EF) Halo Ring 10.00 Ct, Platinum Wt. 7.59 Gms.",
     "precedingAuctionCode": "0019845104"
