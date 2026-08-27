@@ -137436,17 +137436,17 @@
       "firstAir": 1786515078759,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786515983223,
+      "lastAir": 1787802680506,
       "title": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019816901",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019844516",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-12",
-      "time": "07:26:23",
+      "date": "2026-08-27",
+      "time": "04:51:20",
       "productUrl": "/products/livmore-rechargeable-waist-massager-with-heat-and-vibration-therapy",
-      "lastUpdated": 1786516584454,
+      "lastUpdated": 1787802680506,
       "source": "gha",
       "missedAt": 1786516584454,
       "missedDelay": 10,
@@ -249505,8 +249505,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787802638903,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259109,11 +259109,22 @@
         "followingSku": "8429767",
         "followingTitle": "Massager",
         "followingAuctionCode": "0019844757"
+      },
+      {
+        "start": 1787802638903,
+        "end": 1787802680506,
+        "durationMin": 0.7,
+        "precedingSku": "8429767",
+        "precedingTitle": "Massager",
+        "precedingAuctionCode": "0019844757",
+        "followingSku": "8212261",
+        "followingTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
+        "followingAuctionCode": "0019844516"
       }
     ],
-    "lastOnAirSku": "8429767",
-    "lastOnAirTitle": "Massager",
-    "lastOnAirAuctionCode": "0019844757",
+    "lastOnAirSku": "8212261",
+    "lastOnAirTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
+    "lastOnAirAuctionCode": "0019844516",
     "precedingSku": "8429767",
     "precedingTitle": "Massager",
     "precedingAuctionCode": "0019844757"
