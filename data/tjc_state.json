@@ -96313,23 +96313,23 @@
       "sku": "8498138",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "05:26:22",
+      "date": "2026-08-27",
+      "time": "14:48:24",
       "preExisting": true,
       "missedAt": 1786110144447,
       "missedDelay": null,
-      "lastUpdated": 1787286382785,
+      "lastUpdated": 1787838504944,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
-      "auctionCode": "0019832151",
+      "title": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019845428",
       "source": "gha",
       "productUrl": "/products/moissanite-solitaire-pendant-in-yellow-gold-plated-sterling-silver-0-46-ct",
       "productUrlChecked": 1786110157321,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787286382785,
-      "pdpPrice": "9.99",
+      "lastAir": 1787838504944,
+      "pdpPrice": "7.99",
       "buy": true,
       "login": false,
       "img": true
@@ -252104,8 +252104,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787838339136,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -262225,11 +262225,22 @@
         "followingSku": "8540879",
         "followingTitle": "Pink & Black Crystal Glamorous Elephant Theme Necklace (Size - 24-2 Ext) in Rose Gold Tone",
         "followingAuctionCode": "0019845422"
+      },
+      {
+        "start": 1787838339136,
+        "end": 1787838504944,
+        "durationMin": 2.8,
+        "precedingSku": "8561229",
+        "precedingTitle": "Dragon Emblem Necklace (Size - 20-2 Ext)",
+        "precedingAuctionCode": "0019845424",
+        "followingSku": "8498138",
+        "followingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019845428"
       }
     ],
-    "lastOnAirSku": "8561229",
-    "lastOnAirTitle": "Dragon Emblem Necklace (Size - 20-2 Ext)",
-    "lastOnAirAuctionCode": "0019845424",
+    "lastOnAirSku": "8498138",
+    "lastOnAirTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019845428",
     "precedingSku": "8561229",
     "precedingTitle": "Dragon Emblem Necklace (Size - 20-2 Ext)",
     "precedingAuctionCode": "0019845424"
