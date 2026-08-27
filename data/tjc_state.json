@@ -139095,23 +139095,23 @@
       "sku": "8613745",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-26",
-      "time": "12:30:54",
+      "date": "2026-08-28",
+      "time": "00:43:18",
       "preExisting": true,
       "missedAt": 1786528238078,
       "missedDelay": null,
-      "lastUpdated": 1787743854805,
+      "lastUpdated": 1787874198907,
       "missedPrice": 69.99,
       "missedImg": true,
       "title": "9K Yellow Gold Diamond-Cut-Edge Oval Pendant",
-      "auctionCode": "0019843798",
+      "auctionCode": "0019846056",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-teardrop-pendant-8613747",
       "productUrlChecked": 1786528243033,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787743854805,
-      "pdpPrice": "49.99",
+      "lastAir": 1787874198907,
+      "pdpPrice": "2345.99",
       "buy": true,
       "login": false,
       "img": true
@@ -254547,8 +254547,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787874144209,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -264987,11 +264987,22 @@
         "followingSku": "8572443",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
         "followingAuctionCode": "0019846039"
+      },
+      {
+        "start": 1787874144209,
+        "end": 1787874198907,
+        "durationMin": 0.9,
+        "precedingSku": "8412266",
+        "precedingTitle": "9K Yellow Gold Greek Key Design Band Ring",
+        "precedingAuctionCode": "0019846052",
+        "followingSku": "8613745",
+        "followingTitle": "9K Yellow Gold Diamond-Cut-Edge Oval Pendant",
+        "followingAuctionCode": "0019846056"
       }
     ],
-    "lastOnAirSku": "8412266",
-    "lastOnAirTitle": "9K Yellow Gold Greek Key Design Band Ring",
-    "lastOnAirAuctionCode": "0019846052",
+    "lastOnAirSku": "8613745",
+    "lastOnAirTitle": "9K Yellow Gold Diamond-Cut-Edge Oval Pendant",
+    "lastOnAirAuctionCode": "0019846056",
     "precedingSku": "8412266",
     "precedingTitle": "9K Yellow Gold Greek Key Design Band Ring",
     "precedingAuctionCode": "0019846052"
