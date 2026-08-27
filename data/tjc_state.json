@@ -250657,11 +250657,29 @@
       "productUrl": null,
       "lastUpdated": 1787823439634,
       "source": "gha"
+    },
+    "8572279": {
+      "sku": "8572279",
+      "firstAir": 1787823559404,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787823559404,
+      "title": "Green Jade Adjustable Carved Pixiu Necklace with Cotton Thread (Size - 28) 145.00 Ct.",
+      "pdpPrice": "249.99",
+      "auctionCode": "0019844798",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "10:39:19",
+      "productUrl": null,
+      "lastUpdated": 1787823559404,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787823503565,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -260539,11 +260557,22 @@
         "followingSku": "8572327",
         "followingTitle": "Green Jade Dragon Carved Ring 55.00 Ct.",
         "followingAuctionCode": "0019844827"
+      },
+      {
+        "start": 1787823503565,
+        "end": 1787823559404,
+        "durationMin": 0.9,
+        "precedingSku": "8572327",
+        "precedingTitle": "Green Jade Dragon Carved Ring 55.00 Ct.",
+        "precedingAuctionCode": "0019844827",
+        "followingSku": "8572279",
+        "followingTitle": "Green Jade Adjustable Carved Pixiu Necklace with Cotton Thread (Size - 28) 145.00 Ct.",
+        "followingAuctionCode": "0019844798"
       }
     ],
-    "lastOnAirSku": "8572327",
-    "lastOnAirTitle": "Green Jade Dragon Carved Ring 55.00 Ct.",
-    "lastOnAirAuctionCode": "0019844827",
+    "lastOnAirSku": "8572279",
+    "lastOnAirTitle": "Green Jade Adjustable Carved Pixiu Necklace with Cotton Thread (Size - 28) 145.00 Ct.",
+    "lastOnAirAuctionCode": "0019844798",
     "precedingSku": "8572327",
     "precedingTitle": "Green Jade Dragon Carved Ring 55.00 Ct.",
     "precedingAuctionCode": "0019844827"
