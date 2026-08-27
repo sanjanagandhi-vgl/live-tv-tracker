@@ -251809,11 +251809,29 @@
       "productUrlChecked": 1787832272125,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8528079": {
+      "sku": "8528079",
+      "firstAir": 1787836539839,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787836539839,
+      "title": "First Time Ever - Solid 999 Fine Copper Dragon Bar - 10 Grams",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019845400",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "14:15:39",
+      "productUrl": null,
+      "lastUpdated": 1787836539839,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787836239881,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261878,11 +261896,22 @@
         "followingSku": "8692858",
         "followingTitle": "9K Yellow Gold Hand Made Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
         "followingAuctionCode": "0019844676"
+      },
+      {
+        "start": 1787836239881,
+        "end": 1787836539839,
+        "durationMin": 5.0,
+        "precedingSku": "8692858",
+        "precedingTitle": "THE ONE TO OWN - 9K Yellow Gold Hand Made Royal Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
+        "precedingAuctionCode": "0019844676",
+        "followingSku": "8528079",
+        "followingTitle": "First Time Ever - Solid 999 Fine Copper Dragon Bar - 10 Grams",
+        "followingAuctionCode": "0019845400"
       }
     ],
-    "lastOnAirSku": "8692858",
-    "lastOnAirTitle": "THE ONE TO OWN - 9K Yellow Gold Hand Made Royal Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
-    "lastOnAirAuctionCode": "0019844676",
+    "lastOnAirSku": "8528079",
+    "lastOnAirTitle": "First Time Ever - Solid 999 Fine Copper Dragon Bar - 10 Grams",
+    "lastOnAirAuctionCode": "0019845400",
     "precedingSku": "8692858",
     "precedingTitle": "THE ONE TO OWN - 9K Yellow Gold Hand Made Royal Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
     "precedingAuctionCode": "0019844676"
