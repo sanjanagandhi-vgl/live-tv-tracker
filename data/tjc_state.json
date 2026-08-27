@@ -115760,21 +115760,26 @@
       "sku": "8513196",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-09",
-      "time": "17:25:28",
+      "date": "2026-08-27",
+      "time": "01:10:38",
       "preExisting": true,
       "missedAt": 1786292728927,
       "missedDelay": null,
-      "lastUpdated": 1786292728927,
+      "lastUpdated": 1787789438816,
       "missedPrice": 349.99,
       "missedImg": true,
-      "title": "Rhapsody 950 Platinum AAAA Tanzanite Cushion Solitaire Pendant 1.05 Ct",
-      "auctionCode": "0019813913",
+      "title": "Rhapsody 950 Platinum AAAA Tanzanite Pear Solitaire Pendant 1.05 Ct,",
+      "auctionCode": "0019845132",
       "source": "gha",
       "productUrl": "/products/950-platinum-aaaa-tanzanite-solitaire-pendant-1-05-ct-platinum-wt-0-70-gms",
       "productUrlChecked": 1786292736712,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787789438816,
+      "pdpPrice": "349.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8516257": {
       "sku": "8516257",
@@ -248595,8 +248600,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787789360711,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -257957,11 +257962,22 @@
         "followingSku": "8358294",
         "followingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Intense Vivid Solitaire Earring with Screw Back 2.70 Ct",
         "followingAuctionCode": "0019845119"
+      },
+      {
+        "start": 1787789360711,
+        "end": 1787789438816,
+        "durationMin": 1.3,
+        "precedingSku": "8358294",
+        "precedingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Intense Vivid Solitaire Earring with Screw Back 2.70 Ct",
+        "precedingAuctionCode": "0019845119",
+        "followingSku": "8513196",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Pear Solitaire Pendant 1.05 Ct,",
+        "followingAuctionCode": "0019845132"
       }
     ],
-    "lastOnAirSku": "8358294",
-    "lastOnAirTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Intense Vivid Solitaire Earring with Screw Back 2.70 Ct",
-    "lastOnAirAuctionCode": "0019845119",
+    "lastOnAirSku": "8513196",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Pear Solitaire Pendant 1.05 Ct,",
+    "lastOnAirAuctionCode": "0019845132",
     "precedingSku": "8358294",
     "precedingTitle": "RHAPSODY - 950 Platinum AAAA Tanzanite Intense Vivid Solitaire Earring with Screw Back 2.70 Ct",
     "precedingAuctionCode": "0019845119"
