@@ -60270,21 +60270,26 @@
       "sku": "8596931",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-03",
-      "time": "08:02:22",
+      "date": "2026-08-27",
+      "time": "12:04:24",
       "preExisting": true,
       "missedAt": 1785740542225,
       "missedDelay": null,
-      "lastUpdated": 1785740542225,
+      "lastUpdated": 1787828664096,
       "missedPrice": 1799.99,
       "missedImg": true,
       "title": "Italian Close Out - 9K Yellow Gold Spiga Necklace (Size - 22)",
-      "auctionCode": "0019805788",
+      "auctionCode": "0019844695",
       "source": "gha",
       "productUrl": "/products/ottoman-treasure-close-out-9k-yellow-gold-diamond-cut-fancy-necklace-size-24-gold-wt-14-50-gms-8613733",
       "productUrlChecked": 1785740550880,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787828664096,
+      "pdpPrice": "1299.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "7840111": {
       "sku": "7840111",
@@ -251469,8 +251474,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787828601275,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261425,11 +261430,22 @@
         "followingSku": "8577654",
         "followingTitle": "Green Jade (16MM) Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 1000.00 Ct.",
         "followingAuctionCode": "0019845894"
+      },
+      {
+        "start": 1787828601275,
+        "end": 1787828664096,
+        "durationMin": 1.0,
+        "precedingSku": "8577654",
+        "precedingTitle": "Green Jade (16MM) Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 1000.00 Ct.",
+        "precedingAuctionCode": "0019845894",
+        "followingSku": "8596931",
+        "followingTitle": "Italian Close Out - 9K Yellow Gold Spiga Necklace (Size - 22)",
+        "followingAuctionCode": "0019844695"
       }
     ],
-    "lastOnAirSku": "8577654",
-    "lastOnAirTitle": "Green Jade (16MM) Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 1000.00 Ct.",
-    "lastOnAirAuctionCode": "0019845894",
+    "lastOnAirSku": "8596931",
+    "lastOnAirTitle": "Italian Close Out - 9K Yellow Gold Spiga Necklace (Size - 22)",
+    "lastOnAirAuctionCode": "0019844695",
     "precedingSku": "8577654",
     "precedingTitle": "Green Jade (16MM) Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 1000.00 Ct.",
     "precedingAuctionCode": "0019845894"
