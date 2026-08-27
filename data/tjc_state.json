@@ -251631,11 +251631,29 @@
       "productUrl": null,
       "lastUpdated": 1787830463454,
       "source": "gha"
+    },
+    "8570640": {
+      "sku": "8570640",
+      "firstAir": 1787830758733,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787830758733,
+      "title": "9K Yellow Gold Infinity Necklace (Size - 18) with Spring Ring Clasp",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019844735",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "12:39:18",
+      "productUrl": null,
+      "lastUpdated": 1787830758733,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787830646777,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261634,11 +261652,22 @@
         "followingSku": "8416908",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Rope Necklace with Spring Ring Clasp",
         "followingAuctionCode": "0019844733"
+      },
+      {
+        "start": 1787830646777,
+        "end": 1787830758733,
+        "durationMin": 1.9,
+        "precedingSku": "8416908",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Rope Necklace with Spring Ring Clasp",
+        "precedingAuctionCode": "0019844733",
+        "followingSku": "8570640",
+        "followingTitle": "9K Yellow Gold Infinity Necklace (Size - 18) with Spring Ring Clasp",
+        "followingAuctionCode": "0019844735"
       }
     ],
-    "lastOnAirSku": "8416908",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Rope Necklace with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019844733",
+    "lastOnAirSku": "8570640",
+    "lastOnAirTitle": "9K Yellow Gold Infinity Necklace (Size - 18) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019844735",
     "precedingSku": "8416908",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Rope Necklace with Spring Ring Clasp",
     "precedingAuctionCode": "0019844733"
