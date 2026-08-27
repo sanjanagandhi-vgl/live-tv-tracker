@@ -57978,21 +57978,26 @@
       "sku": "8367290",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-02",
-      "time": "20:14:29",
+      "date": "2026-08-27",
+      "time": "06:26:22",
       "preExisting": true,
       "missedAt": 1785698069646,
       "missedDelay": null,
-      "lastUpdated": 1785698069646,
+      "lastUpdated": 1787808382723,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "Mango Wood Multi-Colour Mosaic Round End Coffee Table (45 x 45cm)",
-      "auctionCode": "0019805199",
+      "title": "Mango Wood Multi-Colour Enamelled Flower Mosaic Round End Coffee Table (45 x 45cm) - White & Red",
+      "auctionCode": "0019844541",
       "source": "gha",
       "productUrl": "/products/table-size-one-size-blue-2368367276",
       "productUrlChecked": 1785698078035,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787808382723,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8367291": {
       "sku": "8367291",
@@ -249594,8 +249599,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787808330305,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259286,11 +259291,22 @@
         "followingSku": "8421083",
         "followingTitle": "Wooden Hand Carved Coffee Table (68 x 68 x 51 cm) - Brown",
         "followingAuctionCode": "0019844538"
+      },
+      {
+        "start": 1787808330305,
+        "end": 1787808382723,
+        "durationMin": 0.9,
+        "precedingSku": "8421083",
+        "precedingTitle": "Wooden Hand Carved Coffee Table (68 x 68 x 51 cm) - Brown",
+        "precedingAuctionCode": "0019844538",
+        "followingSku": "8367290",
+        "followingTitle": "Mango Wood Multi-Colour Enamelled Flower Mosaic Round End Coffee Table (45 x 45cm) - White & Red",
+        "followingAuctionCode": "0019844541"
       }
     ],
-    "lastOnAirSku": "8421083",
-    "lastOnAirTitle": "Wooden Hand Carved Coffee Table (68 x 68 x 51 cm) - Brown",
-    "lastOnAirAuctionCode": "0019844538",
+    "lastOnAirSku": "8367290",
+    "lastOnAirTitle": "Mango Wood Multi-Colour Enamelled Flower Mosaic Round End Coffee Table (45 x 45cm) - White & Red",
+    "lastOnAirAuctionCode": "0019844541",
     "precedingSku": "8421083",
     "precedingTitle": "Wooden Hand Carved Coffee Table (68 x 68 x 51 cm) - Brown",
     "precedingAuctionCode": "0019844538"
