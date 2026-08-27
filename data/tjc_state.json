@@ -163455,21 +163455,26 @@
       "sku": "8373885",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "10:40:38",
+      "date": "2026-08-27",
+      "time": "01:43:18",
       "preExisting": true,
       "missedAt": 1786786838434,
       "missedDelay": null,
-      "lastUpdated": 1786786838434,
+      "lastUpdated": 1787791398860,
       "missedPrice": 2789.99,
       "missedImg": true,
       "title": "Rhapsody 950 Platinum AGI Certified & Appraised AAAA Intense Vivid Tanzanite & (VS-E-F) Natural Diamond Halo Ring 3.20 Ct.",
-      "auctionCode": "0019821690",
+      "auctionCode": "0019845120",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-agi-certified-appraised-aaaa-intense-vivid-tanzanite-vs-e-f-natural-diamond-ring-3-20-ct",
       "productUrlChecked": 1786786843840,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787791398860,
+      "pdpPrice": "3799.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8373886": {
       "sku": "8373886",
@@ -248690,8 +248695,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787791341856,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -258096,11 +258101,22 @@
         "followingSku": "8306257",
         "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring 4.52 Ct, Platinum Wt. 3.88 Gms.",
         "followingAuctionCode": "0019845108"
+      },
+      {
+        "start": 1787791341856,
+        "end": 1787791398860,
+        "durationMin": 1.0,
+        "precedingSku": "8306257",
+        "precedingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring 4.52 Ct, Platinum Wt. 3.88 Gms.",
+        "precedingAuctionCode": "0019845108",
+        "followingSku": "8373885",
+        "followingTitle": "Rhapsody 950 Platinum AGI Certified & Appraised AAAA Intense Vivid Tanzanite & (VS-E-F) Natural Diamond Halo Ring 3.20 Ct.",
+        "followingAuctionCode": "0019845120"
       }
     ],
-    "lastOnAirSku": "8306257",
-    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring 4.52 Ct, Platinum Wt. 3.88 Gms.",
-    "lastOnAirAuctionCode": "0019845108",
+    "lastOnAirSku": "8373885",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AGI Certified & Appraised AAAA Intense Vivid Tanzanite & (VS-E-F) Natural Diamond Halo Ring 3.20 Ct.",
+    "lastOnAirAuctionCode": "0019845120",
     "precedingSku": "8306257",
     "precedingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring 4.52 Ct, Platinum Wt. 3.88 Gms.",
     "precedingAuctionCode": "0019845108"
