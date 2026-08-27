@@ -5,22 +5,22 @@
       "firstAir": 1784790236863,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787467942972,
+      "lastAir": 1787804667706,
       "title": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
       "pdpPrice": "19.99",
-      "auctionCode": "0019835598",
+      "auctionCode": "0019844854",
       "buy": true,
       "login": false,
       "img": true,
-      "time": "07:52:22",
+      "time": "05:24:27",
       "source": "gha",
       "missedAt": 1784790839132,
       "missedDelay": 10,
       "missedPrice": null,
       "missedImg": false,
-      "date": "2026-08-23",
+      "date": "2026-08-27",
       "productUrl": null,
-      "lastUpdated": 1787467942972
+      "lastUpdated": 1787804667706
     },
     "8436437": {
       "sku": "8436437",
@@ -249544,8 +249544,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787804599076,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259181,11 +259181,22 @@
         "followingSku": "7816642",
         "followingTitle": "Beautech Rechargeable Massage Brush with Red Therapy Light",
         "followingAuctionCode": "0019844852"
+      },
+      {
+        "start": 1787804599076,
+        "end": 1787804667706,
+        "durationMin": 1.1,
+        "precedingSku": "7816642",
+        "precedingTitle": "Beautech Rechargeable Massage Brush with Red Therapy Light",
+        "precedingAuctionCode": "0019844852",
+        "followingSku": "8207784",
+        "followingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
+        "followingAuctionCode": "0019844854"
       }
     ],
-    "lastOnAirSku": "7816642",
-    "lastOnAirTitle": "Beautech Rechargeable Massage Brush with Red Therapy Light",
-    "lastOnAirAuctionCode": "0019844852",
+    "lastOnAirSku": "8207784",
+    "lastOnAirTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
+    "lastOnAirAuctionCode": "0019844854",
     "precedingSku": "7816642",
     "precedingTitle": "Beautech Rechargeable Massage Brush with Red Therapy Light",
     "precedingAuctionCode": "0019844852"
