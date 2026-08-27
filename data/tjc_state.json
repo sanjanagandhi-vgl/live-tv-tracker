@@ -251213,9 +251213,16 @@
       "img": true,
       "date": "2026-08-27",
       "time": "11:39:18",
-      "productUrl": null,
-      "lastUpdated": 1787827158676,
-      "source": "gha"
+      "productUrl": "/products/extremely-rare-green-jadeite-jade-dragon-carved-bangle",
+      "lastUpdated": 1787827759811,
+      "source": "gha",
+      "missedAt": 1787827759811,
+      "missedDelay": 10,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1787827764137,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8572294": {
       "sku": "8572294",
@@ -251254,11 +251261,49 @@
       "productUrlChecked": 1787827540692,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8577654": {
+      "sku": "8577654",
+      "firstAir": 1787827759811,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787827759811,
+      "title": "Green Jade (16MM) Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 1000.00 Ct.",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019845894",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "11:49:19",
+      "productUrl": null,
+      "lastUpdated": 1787827759811,
+      "source": "gha"
+    },
+    "8064949": {
+      "sku": "8064949",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-27",
+      "time": "11:49:19",
+      "preExisting": true,
+      "missedAt": 1787827759811,
+      "missedDelay": null,
+      "lastUpdated": 1787827759811,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "Green Jade Stone Bangle (Size - 7) 290.00 Ct.",
+      "auctionCode": "0019844858",
+      "source": "gha",
+      "productUrl": "/products/extremely-rare-green-jadeite-jade-dragon-carved-bangle",
+      "productUrlChecked": 1787827764970,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787827582791,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261202,11 +261247,22 @@
         "followingSku": "8064950",
         "followingTitle": "Extremely Rare- Green Jadeite Jade Dragon Carved Bangle",
         "followingAuctionCode": "0019844857"
+      },
+      {
+        "start": 1787827582791,
+        "end": 1787827759811,
+        "durationMin": 3.0,
+        "precedingSku": "8572294",
+        "precedingTitle": "Green Jade Flower Carved Ring 50.00 Ct.",
+        "precedingAuctionCode": "0019844808",
+        "followingSku": "8577654",
+        "followingTitle": "Green Jade (16MM) Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 1000.00 Ct.",
+        "followingAuctionCode": "0019845894"
       }
     ],
-    "lastOnAirSku": "8572294",
-    "lastOnAirTitle": "Green Jade Flower Carved Ring 50.00 Ct.",
-    "lastOnAirAuctionCode": "0019844808",
+    "lastOnAirSku": "8577654",
+    "lastOnAirTitle": "Green Jade (16MM) Necklace (Size - 20) with Magnetic Clasp in Rhodium Overlay Sterling Silver 1000.00 Ct.",
+    "lastOnAirAuctionCode": "0019845894",
     "precedingSku": "8572294",
     "precedingTitle": "Green Jade Flower Carved Ring 50.00 Ct.",
     "precedingAuctionCode": "0019844808"
