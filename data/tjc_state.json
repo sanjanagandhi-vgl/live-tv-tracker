@@ -13924,16 +13924,16 @@
       "firstAir": 1785064443759,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785510061738,
+      "lastAir": 1787811931151,
       "title": "Livmore 6-in-1 Multi-Functional Knife Sharpener - Grey & Orange",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019802301",
-      "buy": false,
+      "pdpPrice": "67.99",
+      "auctionCode": "0019844513",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-31",
-      "time": "16:01:01",
-      "lastUpdated": 1785510061738,
+      "date": "2026-08-27",
+      "time": "07:25:31",
+      "lastUpdated": 1787811931151,
       "source": "gha",
       "missedAt": 1785064834075,
       "missedDelay": 1,
@@ -249682,8 +249682,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787811863239,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259440,11 +259440,22 @@
         "followingSku": "8420725",
         "followingTitle": "Curver Clear Bottle (700ml) - Green",
         "followingAuctionCode": "0019844515"
+      },
+      {
+        "start": 1787811863239,
+        "end": 1787811931151,
+        "durationMin": 1.1,
+        "precedingSku": "8377868",
+        "precedingTitle": "Rechargeable Vacuum Sealing Machine (1500 mAh) with 10 Bags - White",
+        "precedingAuctionCode": "0019844507",
+        "followingSku": "8363438",
+        "followingTitle": "Livmore 6-in-1 Multi-Functional Knife Sharpener - Grey & Orange",
+        "followingAuctionCode": "0019844513"
       }
     ],
-    "lastOnAirSku": "8377868",
-    "lastOnAirTitle": "Rechargeable Vacuum Sealing Machine (1500 mAh) with 10 Bags - White",
-    "lastOnAirAuctionCode": "0019844507",
+    "lastOnAirSku": "8363438",
+    "lastOnAirTitle": "Livmore 6-in-1 Multi-Functional Knife Sharpener - Grey & Orange",
+    "lastOnAirAuctionCode": "0019844513",
     "precedingSku": "8377868",
     "precedingTitle": "Rechargeable Vacuum Sealing Machine (1500 mAh) with 10 Bags - White",
     "precedingAuctionCode": "0019844507"
