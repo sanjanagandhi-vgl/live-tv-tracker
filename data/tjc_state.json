@@ -74499,17 +74499,17 @@
       "firstAir": 1785903643017,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787370039306,
+      "lastAir": 1787829040312,
       "title": "One Time Deal- 9K Yellow Gold Rope Necklace (Size - 24)",
-      "pdpPrice": "879.99",
-      "auctionCode": "0019834257",
+      "pdpPrice": "699.99",
+      "auctionCode": "0019844698",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "time": "04:40:39",
+      "date": "2026-08-27",
+      "time": "12:10:40",
       "productUrl": "/products/one-time-deal-9k-yellow-gold-rope-necklace-size-24-8613725",
-      "lastUpdated": 1787370039306,
+      "lastUpdated": 1787829040312,
       "source": "gha",
       "missedAt": 1785904399258,
       "missedDelay": 9,
@@ -251474,8 +251474,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787828960084,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261441,11 +261441,22 @@
         "followingSku": "8596931",
         "followingTitle": "Italian Close Out - 9K Yellow Gold Spiga Necklace (Size - 22)",
         "followingAuctionCode": "0019844695"
+      },
+      {
+        "start": 1787828960084,
+        "end": 1787829040312,
+        "durationMin": 1.3,
+        "precedingSku": "8613731",
+        "precedingTitle": "Close Out Deal- 9K Yellow Gold Paper Chain (Size - 30)  7.80 Grams",
+        "precedingAuctionCode": "0019844696",
+        "followingSku": "8613725",
+        "followingTitle": "One Time Deal- 9K Yellow Gold Rope Necklace (Size - 24)",
+        "followingAuctionCode": "0019844698"
       }
     ],
-    "lastOnAirSku": "8613731",
-    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Paper Chain (Size - 30)  7.80 Grams",
-    "lastOnAirAuctionCode": "0019844696",
+    "lastOnAirSku": "8613725",
+    "lastOnAirTitle": "One Time Deal- 9K Yellow Gold Rope Necklace (Size - 24)",
+    "lastOnAirAuctionCode": "0019844698",
     "precedingSku": "8613731",
     "precedingTitle": "Close Out Deal- 9K Yellow Gold Paper Chain (Size - 30)  7.80 Grams",
     "precedingAuctionCode": "0019844696"
