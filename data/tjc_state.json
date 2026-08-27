@@ -180808,21 +180808,26 @@
       "sku": "8547825",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "19:28:24",
+      "date": "2026-08-27",
+      "time": "03:06:23",
       "preExisting": true,
       "missedAt": 1786991304138,
       "missedDelay": null,
-      "lastUpdated": 1786991304138,
+      "lastUpdated": 1787796383034,
       "missedPrice": 399.99,
       "missedImg": true,
-      "title": "9K Yellow Gold AAA African Amethyst Solitaire Pendant 11.00 Ct.",
-      "auctionCode": "0019827433",
+      "title": "SHOWSTOPPER DEAL - 9K Yellow Gold AAA African Amethyst Solitaire Pendant 11.00 Ct. with FREE 20in CHAIN",
+      "auctionCode": "0019844972",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-aaa-african-amethyst-solitaire-pendant-11-60-ct-8547823",
       "productUrlChecked": 1786991309230,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787796383034,
+      "pdpPrice": "2345.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8586987": {
       "sku": "8586987",
@@ -249047,8 +249052,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787796263821,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -258530,11 +258535,22 @@
         "followingSku": "8466300",
         "followingTitle": null,
         "followingAuctionCode": "0019845027"
+      },
+      {
+        "start": 1787796263821,
+        "end": 1787796383034,
+        "durationMin": 2.0,
+        "precedingSku": "8466300",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019845027",
+        "followingSku": "8547825",
+        "followingTitle": "SHOWSTOPPER DEAL - 9K Yellow Gold AAA African Amethyst Solitaire Pendant 11.00 Ct. with FREE 20in CHAIN",
+        "followingAuctionCode": "0019844972"
       }
     ],
-    "lastOnAirSku": "8466300",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019845027",
+    "lastOnAirSku": "8547825",
+    "lastOnAirTitle": "SHOWSTOPPER DEAL - 9K Yellow Gold AAA African Amethyst Solitaire Pendant 11.00 Ct. with FREE 20in CHAIN",
+    "lastOnAirAuctionCode": "0019844972",
     "precedingSku": "8466300",
     "precedingTitle": null,
     "precedingAuctionCode": "0019845027"
