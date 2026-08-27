@@ -52886,17 +52886,17 @@
       "firstAir": 1785647335250,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785647335250,
+      "lastAir": 1787810782321,
       "title": "Curver Clear Bottle (700ml) - Green",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019804096",
+      "pdpPrice": "79.00",
+      "auctionCode": "0019844515",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-02",
-      "time": "06:08:55",
+      "date": "2026-08-27",
+      "time": "07:06:22",
       "productUrl": "/products/curver-clear-bottle-2658420725",
-      "lastUpdated": 1785649202325,
+      "lastUpdated": 1787810782321,
       "source": "gha",
       "missedAt": 1785649202325,
       "missedDelay": 31,
@@ -249657,8 +249657,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787810730291,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259404,11 +259404,22 @@
         "followingSku": "8419177",
         "followingTitle": "La Marey Signature 100% Mulberry Silk Quilt (135 x 200 cm, Single 400Gms) - Grey",
         "followingAuctionCode": "0019844534"
+      },
+      {
+        "start": 1787810730291,
+        "end": 1787810782321,
+        "durationMin": 0.9,
+        "precedingSku": "8322531",
+        "precedingTitle": "Livmore All Seasons Cooling Mulberry Silk Blend Quilt (Double, 135 x 200 cm) - Pink.",
+        "precedingAuctionCode": "0019844549",
+        "followingSku": "8420725",
+        "followingTitle": "Curver Clear Bottle (700ml) - Green",
+        "followingAuctionCode": "0019844515"
       }
     ],
-    "lastOnAirSku": "8322531",
-    "lastOnAirTitle": "Livmore All Seasons Cooling Mulberry Silk Blend Quilt (Double, 135 x 200 cm) - Pink.",
-    "lastOnAirAuctionCode": "0019844549",
+    "lastOnAirSku": "8420725",
+    "lastOnAirTitle": "Curver Clear Bottle (700ml) - Green",
+    "lastOnAirAuctionCode": "0019844515",
     "precedingSku": "8322531",
     "precedingTitle": "Livmore All Seasons Cooling Mulberry Silk Blend Quilt (Double, 135 x 200 cm) - Pink.",
     "precedingAuctionCode": "0019844549"
