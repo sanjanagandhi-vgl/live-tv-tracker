@@ -6267,18 +6267,18 @@
       "sku": "8626631",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "18:43:18",
+      "date": "2026-08-27",
+      "time": "15:39:22",
       "preExisting": true,
       "missedAt": 1784919501428,
       "missedDelay": null,
-      "lastUpdated": 1787334198188,
+      "lastUpdated": 1787841562359,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargable 500 times!",
-      "auctionCode": "0019830453",
+      "auctionCode": "0019845687",
       "source": "gha",
-      "lastAir": 1787334198188,
+      "lastAir": 1787841562359,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
@@ -252497,8 +252497,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787841510492,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -262629,11 +262629,22 @@
         "followingSku": "8498138",
         "followingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019845428"
+      },
+      {
+        "start": 1787841510492,
+        "end": 1787841562359,
+        "durationMin": 0.9,
+        "precedingSku": "8271472",
+        "precedingTitle": "Austrian Multi Color Crystal Dangling Earring with Push Back in Yellow Gold Tone",
+        "precedingAuctionCode": "0019845473",
+        "followingSku": "8626631",
+        "followingTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargable 500 times!",
+        "followingAuctionCode": "0019845687"
       }
     ],
-    "lastOnAirSku": "8271472",
-    "lastOnAirTitle": "Austrian Multi Color Crystal Dangling Earring with Push Back in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019845473",
+    "lastOnAirSku": "8626631",
+    "lastOnAirTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargable 500 times!",
+    "lastOnAirAuctionCode": "0019845687",
     "precedingSku": "8271472",
     "precedingTitle": "Austrian Multi Color Crystal Dangling Earring with Push Back in Yellow Gold Tone",
     "precedingAuctionCode": "0019845473"
