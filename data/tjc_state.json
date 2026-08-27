@@ -249502,11 +249502,29 @@
       "productUrlChecked": 1787802520723,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8538105": {
+      "sku": "8538105",
+      "firstAir": 1787802984208,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787802984208,
+      "title": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus (30ml)",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019844807",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "04:56:24",
+      "productUrl": null,
+      "lastUpdated": 1787802984208,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787802863414,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259120,11 +259138,22 @@
         "followingSku": "8212261",
         "followingTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
         "followingAuctionCode": "0019844516"
+      },
+      {
+        "start": 1787802863414,
+        "end": 1787802984208,
+        "durationMin": 2.0,
+        "precedingSku": "8212261",
+        "precedingTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
+        "precedingAuctionCode": "0019844516",
+        "followingSku": "8538105",
+        "followingTitle": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus (30ml)",
+        "followingAuctionCode": "0019844807"
       }
     ],
-    "lastOnAirSku": "8212261",
-    "lastOnAirTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
-    "lastOnAirAuctionCode": "0019844516",
+    "lastOnAirSku": "8538105",
+    "lastOnAirTitle": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus (30ml)",
+    "lastOnAirAuctionCode": "0019844807",
     "precedingSku": "8212261",
     "precedingTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
     "precedingAuctionCode": "0019844516"
