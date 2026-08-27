@@ -6521,16 +6521,16 @@
       "firstAir": 1784928079563,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787173462245,
+      "lastAir": 1787831000304,
       "title": "9K Yellow Gold Heart Slide Locket Pendant",
       "pdpPrice": "89.99",
-      "auctionCode": "0019830759",
+      "auctionCode": "0019844740",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "22:04:22",
-      "lastUpdated": 1787173462245,
+      "date": "2026-08-27",
+      "time": "12:43:20",
+      "lastUpdated": 1787831000304,
       "source": "gha",
       "missedAt": 1784928328194,
       "missedDelay": 2,
@@ -251670,8 +251670,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787830942798,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261681,11 +261681,22 @@
         "followingSku": "8570640",
         "followingTitle": "9K Yellow Gold Infinity Necklace (Size - 18) with Spring Ring Clasp",
         "followingAuctionCode": "0019844735"
+      },
+      {
+        "start": 1787830942798,
+        "end": 1787831000304,
+        "durationMin": 1.0,
+        "precedingSku": "7575585",
+        "precedingTitle": "9K Yellow Gold Prince of Wales Chain With Spring Ring Clasp (Adjustable Size - 18-20)",
+        "precedingAuctionCode": "0019844737",
+        "followingSku": "8613743",
+        "followingTitle": "9K Yellow Gold Heart Slide Locket Pendant",
+        "followingAuctionCode": "0019844740"
       }
     ],
-    "lastOnAirSku": "7575585",
-    "lastOnAirTitle": "9K Yellow Gold Prince of Wales Chain With Spring Ring Clasp (Adjustable Size - 18-20)",
-    "lastOnAirAuctionCode": "0019844737",
+    "lastOnAirSku": "8613743",
+    "lastOnAirTitle": "9K Yellow Gold Heart Slide Locket Pendant",
+    "lastOnAirAuctionCode": "0019844740",
     "precedingSku": "7575585",
     "precedingTitle": "9K Yellow Gold Prince of Wales Chain With Spring Ring Clasp (Adjustable Size - 18-20)",
     "precedingAuctionCode": "0019844737"
