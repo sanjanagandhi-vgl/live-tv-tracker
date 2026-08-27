@@ -249541,11 +249541,29 @@
       "productUrl": null,
       "lastUpdated": 1787804545211,
       "source": "gha"
+    },
+    "7315198": {
+      "sku": "7315198",
+      "firstAir": 1787804903071,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787804903071,
+      "title": "Skin Research Ceramide Oil - 30ml",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019844803",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "05:28:23",
+      "productUrl": null,
+      "lastUpdated": 1787804903071,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787804838796,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259192,11 +259210,22 @@
         "followingSku": "8207784",
         "followingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
         "followingAuctionCode": "0019844854"
+      },
+      {
+        "start": 1787804838796,
+        "end": 1787804903071,
+        "durationMin": 1.1,
+        "precedingSku": "8207784",
+        "precedingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
+        "precedingAuctionCode": "0019844854",
+        "followingSku": "7315198",
+        "followingTitle": "Skin Research Ceramide Oil - 30ml",
+        "followingAuctionCode": "0019844803"
       }
     ],
-    "lastOnAirSku": "8207784",
-    "lastOnAirTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
-    "lastOnAirAuctionCode": "0019844854",
+    "lastOnAirSku": "7315198",
+    "lastOnAirTitle": "Skin Research Ceramide Oil - 30ml",
+    "lastOnAirAuctionCode": "0019844803",
     "precedingSku": "8207784",
     "precedingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
     "precedingAuctionCode": "0019844854"
