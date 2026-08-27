@@ -252021,11 +252021,32 @@
       "productUrl": null,
       "lastUpdated": 1787838039747,
       "source": "gha"
+    },
+    "8540879": {
+      "sku": "8540879",
+      "firstAir": 1787838143697,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787838143697,
+      "title": "Pink & Black Crystal Glamorous Elephant Theme Necklace (Size - 24-2 Ext) in Rose Gold Tone",
+      "pdpPrice": 7.99,
+      "auctionCode": "0019845422",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "14:42:23",
+      "productUrl": "/products/crystal-glamorous-elephant-theme-necklace?variant=53100004049162",
+      "lastUpdated": 1787838143697,
+      "source": "gha",
+      "productUrlChecked": 1787838147390,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787838080945,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -262134,11 +262155,22 @@
         "followingSku": "8375349",
         "followingTitle": "Multi Color Crystal Peacock Necklace (Size - 28-2) in Yellow Gold Tone",
         "followingAuctionCode": "0019845419"
+      },
+      {
+        "start": 1787838080945,
+        "end": 1787838143697,
+        "durationMin": 1.0,
+        "precedingSku": "8540880",
+        "precedingTitle": "Pink & Black Crystal Glamorous Elephant Theme Necklace (Size - 24-2 Ext) in Rose Gold Tone",
+        "precedingAuctionCode": "0019845423",
+        "followingSku": "8540879",
+        "followingTitle": "Pink & Black Crystal Glamorous Elephant Theme Necklace (Size - 24-2 Ext) in Rose Gold Tone",
+        "followingAuctionCode": "0019845422"
       }
     ],
-    "lastOnAirSku": "8540880",
+    "lastOnAirSku": "8540879",
     "lastOnAirTitle": "Pink & Black Crystal Glamorous Elephant Theme Necklace (Size - 24-2 Ext) in Rose Gold Tone",
-    "lastOnAirAuctionCode": "0019845423",
+    "lastOnAirAuctionCode": "0019845422",
     "precedingSku": "8540880",
     "precedingTitle": "Pink & Black Crystal Glamorous Elephant Theme Necklace (Size - 24-2 Ext) in Rose Gold Tone",
     "precedingAuctionCode": "0019845423"
