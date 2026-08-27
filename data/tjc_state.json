@@ -90474,21 +90474,26 @@
       "sku": "8497951",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "02:59:21",
+      "date": "2026-08-27",
+      "time": "10:05:31",
       "preExisting": true,
       "missedAt": 1786067961441,
       "missedDelay": null,
-      "lastUpdated": 1786067961441,
+      "lastUpdated": 1787821531791,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "D'Joy Green Jadeite Beads Hoop Earring in Yellow Gold Plated Sterling Silver 28.35 Ct.",
-      "auctionCode": "0019809992",
+      "auctionCode": "0019844776",
       "source": "gha",
       "productUrl": "/products/djoy-enhanced-green-jade-beads-hoop-earring-in-sterling-silver-28-35-ct",
       "productUrlChecked": 1786067965997,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787821531791,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8484112": {
       "sku": "8484112",
@@ -250551,8 +250556,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787821398823,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -260386,11 +260391,22 @@
         "followingSku": "8617544",
         "followingTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
         "followingAuctionCode": "0019845569"
+      },
+      {
+        "start": 1787821398823,
+        "end": 1787821531791,
+        "durationMin": 2.2,
+        "precedingSku": "7851192",
+        "precedingTitle": "Cashmere Diamond Hat, Cap and Earmuff",
+        "precedingAuctionCode": "0019844681",
+        "followingSku": "8497951",
+        "followingTitle": "D'Joy Green Jadeite Beads Hoop Earring in Yellow Gold Plated Sterling Silver 28.35 Ct.",
+        "followingAuctionCode": "0019844776"
       }
     ],
-    "lastOnAirSku": "7851192",
-    "lastOnAirTitle": "Cashmere Diamond Hat, Cap and Earmuff",
-    "lastOnAirAuctionCode": "0019844681",
+    "lastOnAirSku": "8497951",
+    "lastOnAirTitle": "D'Joy Green Jadeite Beads Hoop Earring in Yellow Gold Plated Sterling Silver 28.35 Ct.",
+    "lastOnAirAuctionCode": "0019844776",
     "precedingSku": "7851192",
     "precedingTitle": "Cashmere Diamond Hat, Cap and Earmuff",
     "precedingAuctionCode": "0019844681"
