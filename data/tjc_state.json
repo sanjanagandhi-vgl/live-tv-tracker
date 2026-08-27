@@ -253796,9 +253796,16 @@
       "img": true,
       "date": "2026-08-27",
       "time": "22:23:20",
-      "productUrl": null,
-      "lastUpdated": 1787865800324,
-      "source": "gha"
+      "productUrl": "/products/djoy-moissanite-dangling-earring-with-push-back-in-rhodium-overlay-sterling-silver-1-13-ct",
+      "lastUpdated": 1787866402170,
+      "source": "gha",
+      "missedAt": 1787866402170,
+      "missedDelay": 10,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1787866406080,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4219079": {
       "sku": "4219079",
@@ -253838,8 +253845,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787866402170,
     "gaps": [
       {
         "start": 1785823527869,
@@ -264184,8 +264191,8 @@
     "lastOnAirSku": "8556051",
     "lastOnAirTitle": "D'Joy - Moissanite Dangling Earring with Push Back in Platinum Overlay Sterling Silver 2.14 Ct.",
     "lastOnAirAuctionCode": "0019847400",
-    "precedingSku": "8557097",
-    "precedingTitle": "D'Joy - Moissanite Dangling Earring with Push Back in Platinum Overlay Sterling Silver 1.92 Ct.",
-    "precedingAuctionCode": "0019847401"
+    "precedingSku": "8556051",
+    "precedingTitle": "D'Joy - Moissanite Dangling Earring with Push Back in Platinum Overlay Sterling Silver 2.14 Ct.",
+    "precedingAuctionCode": "0019847400"
   }
 }
