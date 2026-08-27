@@ -251845,11 +251845,29 @@
       "productUrl": null,
       "lastUpdated": 1787836768014,
       "source": "gha"
+    },
+    "4444239": {
+      "sku": "4444239",
+      "firstAir": 1787836879609,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787836879609,
+      "title": "Set of 2 - Twisted Strand Bracelet (Size - 7-2 Ext) & Necklace (18-2 Ext) in Yellow Gold Tone",
+      "pdpPrice": "2.99",
+      "auctionCode": "0019845406",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "14:21:19",
+      "productUrl": null,
+      "lastUpdated": 1787836879609,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787836841006,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261936,11 +261954,22 @@
         "followingSku": "4444237",
         "followingTitle": "Set of 2 - Blue Crystal Vintage Necklace (Size - 20-2 Ext) & Stud Earring with Push Back in Yellow Gold Tone",
         "followingAuctionCode": "0019845405"
+      },
+      {
+        "start": 1787836841006,
+        "end": 1787836879609,
+        "durationMin": 0.6,
+        "precedingSku": "4444237",
+        "precedingTitle": "Set of 2 - Blue Crystal Vintage Necklace (Size - 20-2 Ext) & Stud Earring with Push Back in Yellow Gold Tone",
+        "precedingAuctionCode": "0019845405",
+        "followingSku": "4444239",
+        "followingTitle": "Set of 2 - Twisted Strand Bracelet (Size - 7-2 Ext) & Necklace (18-2 Ext) in Yellow Gold Tone",
+        "followingAuctionCode": "0019845406"
       }
     ],
-    "lastOnAirSku": "4444237",
-    "lastOnAirTitle": "Set of 2 - Blue Crystal Vintage Necklace (Size - 20-2 Ext) & Stud Earring with Push Back in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019845405",
+    "lastOnAirSku": "4444239",
+    "lastOnAirTitle": "Set of 2 - Twisted Strand Bracelet (Size - 7-2 Ext) & Necklace (18-2 Ext) in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019845406",
     "precedingSku": "4444237",
     "precedingTitle": "Set of 2 - Blue Crystal Vintage Necklace (Size - 20-2 Ext) & Stud Earring with Push Back in Yellow Gold Tone",
     "precedingAuctionCode": "0019845405"
