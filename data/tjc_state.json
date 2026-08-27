@@ -16892,16 +16892,16 @@
       "firstAir": 1785133461605,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787745691694,
+      "lastAir": 1787832383944,
       "title": "JCK Vegas Deal  - 9K Yellow Gold Bracelet (Size - 7.5) with Lobster Clasp. Gold Wt 3.85 Gms",
-      "pdpPrice": "299.99",
-      "auctionCode": "0019843826",
+      "pdpPrice": "349.99",
+      "auctionCode": "0019845179",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-26",
-      "time": "13:01:31",
-      "lastUpdated": 1787745691694,
+      "date": "2026-08-27",
+      "time": "13:06:23",
+      "lastUpdated": 1787832383944,
       "source": "gha",
       "missedAt": 1785133769173,
       "missedDelay": 2,
@@ -251811,8 +251811,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787832330026,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261844,11 +261844,22 @@
         "followingSku": "8416108",
         "followingTitle": "LIMITED EDITION - 9K Yellow Gold Aurelia Necklace (Size - 20) with Lobster Clasp, Gold Wt. 14.00 Gms.",
         "followingAuctionCode": "0019845170"
+      },
+      {
+        "start": 1787832330026,
+        "end": 1787832383944,
+        "durationMin": 0.9,
+        "precedingSku": "8416243",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Twisted Necklace (Size - 18-2 Inch Ext)",
+        "precedingAuctionCode": "0019845176",
+        "followingSku": "8570641",
+        "followingTitle": "JCK Vegas Deal  - 9K Yellow Gold Bracelet (Size - 7.5) with Lobster Clasp. Gold Wt 3.85 Gms",
+        "followingAuctionCode": "0019845179"
       }
     ],
-    "lastOnAirSku": "8416243",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Twisted Necklace (Size - 18-2 Inch Ext)",
-    "lastOnAirAuctionCode": "0019845176",
+    "lastOnAirSku": "8570641",
+    "lastOnAirTitle": "JCK Vegas Deal  - 9K Yellow Gold Bracelet (Size - 7.5) with Lobster Clasp. Gold Wt 3.85 Gms",
+    "lastOnAirAuctionCode": "0019845179",
     "precedingSku": "8416243",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Twisted Necklace (Size - 18-2 Inch Ext)",
     "precedingAuctionCode": "0019845176"
