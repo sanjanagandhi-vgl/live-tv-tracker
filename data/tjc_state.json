@@ -251516,11 +251516,29 @@
       "productUrl": null,
       "lastUpdated": 1787829560830,
       "source": "gha"
+    },
+    "8560654": {
+      "sku": "8560654",
+      "firstAir": 1787829746427,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787829746427,
+      "title": "BRAND NEW LAUNCH - 9K Yellow Gold Paperclip Chain (Size - 18) with Lobster Clasp, Gold Wt. 3.23 Gms",
+      "pdpPrice": "5149.99",
+      "auctionCode": "0019844706",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "12:22:26",
+      "productUrl": null,
+      "lastUpdated": 1787829746427,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787829638922,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261497,11 +261515,22 @@
         "followingSku": "8613725",
         "followingTitle": "One Time Deal- 9K Yellow Gold Rope Necklace (Size - 24)",
         "followingAuctionCode": "0019844698"
+      },
+      {
+        "start": 1787829638922,
+        "end": 1787829746427,
+        "durationMin": 1.8,
+        "precedingSku": "8560667",
+        "precedingTitle": "BRAND NEW LAUNCH - 9K Yellow Gold Paperclip Chain (Size - 18) with Lobster Clasp, Gold Wt. 3.23 Gms",
+        "precedingAuctionCode": "0019844703",
+        "followingSku": "8560654",
+        "followingTitle": "BRAND NEW LAUNCH - 9K Yellow Gold Paperclip Chain (Size - 18) with Lobster Clasp, Gold Wt. 3.23 Gms",
+        "followingAuctionCode": "0019844706"
       }
     ],
-    "lastOnAirSku": "8560667",
+    "lastOnAirSku": "8560654",
     "lastOnAirTitle": "BRAND NEW LAUNCH - 9K Yellow Gold Paperclip Chain (Size - 18) with Lobster Clasp, Gold Wt. 3.23 Gms",
-    "lastOnAirAuctionCode": "0019844703",
+    "lastOnAirAuctionCode": "0019844706",
     "precedingSku": "8560667",
     "precedingTitle": "BRAND NEW LAUNCH - 9K Yellow Gold Paperclip Chain (Size - 18) with Lobster Clasp, Gold Wt. 3.23 Gms",
     "precedingAuctionCode": "0019844703"
