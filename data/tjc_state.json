@@ -251949,9 +251949,16 @@
       "img": true,
       "date": "2026-08-27",
       "time": "14:35:31",
-      "productUrl": null,
-      "lastUpdated": 1787837731956,
-      "source": "gha"
+      "productUrl": "/products/set-of-2-crystal-necklace-size-20-tennis-bracelet-size-7-5",
+      "lastUpdated": 1787838339136,
+      "source": "gha",
+      "missedAt": 1787838339136,
+      "missedDelay": 10,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "productUrlChecked": 1787838343139,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4444241": {
       "sku": "4444241",
@@ -252047,11 +252054,51 @@
       "productUrlChecked": 1787838147390,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4468564": {
+      "sku": "4468564",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-27",
+      "time": "14:45:39",
+      "preExisting": true,
+      "missedAt": 1787838339136,
+      "missedDelay": null,
+      "lastUpdated": 1787838339136,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "title": "Set of 2 - Light Blue Crystal Tennis Necklace (Size - 20) & Bracelet (Size - 7.5) in Silver Tone",
+      "auctionCode": "0019845931",
+      "source": "gha",
+      "productUrl": "/products/set-of-2-crystal-necklace-size-20-tennis-bracelet-size-7-5",
+      "productUrlChecked": 1787838343370,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "4468513": {
+      "sku": "4468513",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-27",
+      "time": "14:45:39",
+      "preExisting": true,
+      "missedAt": 1787838339136,
+      "missedDelay": null,
+      "lastUpdated": 1787838339136,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "title": "Set of 2 - Multi Color Crystal Tennis Necklace (Size - 20) & Bracelet (Size - 6.25) in Yellow Gold Tone",
+      "auctionCode": "0019845933",
+      "source": "gha",
+      "productUrl": "/products/set-of-2-crystal-necklace-size-20-tennis-bracelet-size-7-5",
+      "productUrlChecked": 1787838344075,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787838339136,
     "gaps": [
       {
         "start": 1785823527869,
@@ -262176,8 +262223,8 @@
     "lastOnAirSku": "8561229",
     "lastOnAirTitle": "Dragon Emblem Necklace (Size - 20-2 Ext)",
     "lastOnAirAuctionCode": "0019845424",
-    "precedingSku": "8540880",
-    "precedingTitle": "Pink & Black Crystal Glamorous Elephant Theme Necklace (Size - 24-2 Ext) in Rose Gold Tone",
-    "precedingAuctionCode": "0019845423"
+    "precedingSku": "8561229",
+    "precedingTitle": "Dragon Emblem Necklace (Size - 20-2 Ext)",
+    "precedingAuctionCode": "0019845424"
   }
 }
