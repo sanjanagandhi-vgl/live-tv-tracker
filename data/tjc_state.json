@@ -10166,16 +10166,16 @@
       "firstAir": 1784995582021,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786510278964,
+      "lastAir": 1787833398251,
       "title": "9K Yellow Gold Hand Made Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
-      "pdpPrice": "3499.99",
-      "auctionCode": "0019816024",
+      "pdpPrice": "4599.99",
+      "auctionCode": "0019844676",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-12",
-      "time": "05:51:18",
-      "lastUpdated": 1786510278964,
+      "date": "2026-08-27",
+      "time": "13:23:18",
+      "lastUpdated": 1787833398251,
       "source": "gha",
       "missedAt": 1784996727784,
       "missedDelay": 2,
@@ -251812,8 +251812,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787833106615,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261867,11 +261867,22 @@
         "followingSku": "8378381",
         "followingTitle": "24K Yellow Gold (99.9% Purity) Butterfly Collectable",
         "followingAuctionCode": "0019844677"
+      },
+      {
+        "start": 1787833106615,
+        "end": 1787833398251,
+        "durationMin": 4.9,
+        "precedingSku": "8378381",
+        "precedingTitle": "24K Yellow Gold (99.9% Purity) Butterfly Collectable",
+        "precedingAuctionCode": "0019844677",
+        "followingSku": "8692858",
+        "followingTitle": "9K Yellow Gold Hand Made Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
+        "followingAuctionCode": "0019844676"
       }
     ],
-    "lastOnAirSku": "8378381",
-    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Butterfly Collectable",
-    "lastOnAirAuctionCode": "0019844677",
+    "lastOnAirSku": "8692858",
+    "lastOnAirTitle": "9K Yellow Gold Hand Made Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
+    "lastOnAirAuctionCode": "0019844676",
     "precedingSku": "8378381",
     "precedingTitle": "24K Yellow Gold (99.9% Purity) Butterfly Collectable",
     "precedingAuctionCode": "0019844677"
