@@ -250639,11 +250639,29 @@
       "productUrl": null,
       "lastUpdated": 1787823199420,
       "source": "gha"
+    },
+    "8572327": {
+      "sku": "8572327",
+      "firstAir": 1787823329874,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787823329874,
+      "title": "Green Jade Dragon Carved Ring 55.00 Ct.",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019844827",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "10:35:29",
+      "productUrl": null,
+      "lastUpdated": 1787823329874,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787823264328,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -260510,11 +260528,22 @@
         "followingSku": "8595866",
         "followingTitle": "D'Joy - Green Jade Heart Earring with Push Back in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019844780"
+      },
+      {
+        "start": 1787823264328,
+        "end": 1787823329874,
+        "durationMin": 1.1,
+        "precedingSku": "8572303",
+        "precedingTitle": "Green Jadeite Jade Dragon Band Ring 45.00 Ct.",
+        "precedingAuctionCode": "0019844836",
+        "followingSku": "8572327",
+        "followingTitle": "Green Jade Dragon Carved Ring 55.00 Ct.",
+        "followingAuctionCode": "0019844827"
       }
     ],
-    "lastOnAirSku": "8572303",
-    "lastOnAirTitle": "Green Jadeite Jade Dragon Band Ring 45.00 Ct.",
-    "lastOnAirAuctionCode": "0019844836",
+    "lastOnAirSku": "8572327",
+    "lastOnAirTitle": "Green Jade Dragon Carved Ring 55.00 Ct.",
+    "lastOnAirAuctionCode": "0019844827",
     "precedingSku": "8572303",
     "precedingTitle": "Green Jadeite Jade Dragon Band Ring 45.00 Ct.",
     "precedingAuctionCode": "0019844836"
