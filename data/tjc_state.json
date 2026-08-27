@@ -252375,9 +252375,16 @@
       "img": true,
       "date": "2026-08-27",
       "time": "15:33:20",
-      "productUrl": null,
-      "lastUpdated": 1787841200563,
-      "source": "gha"
+      "productUrl": "/products/crystal-enamled-white-rasin-pearl-egg-pendant-with-chain",
+      "lastUpdated": 1787841745780,
+      "source": "gha",
+      "missedAt": 1787841745780,
+      "missedDelay": 9,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "productUrlChecked": 1787841749806,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4426064": {
       "sku": "4426064",
@@ -252494,11 +252501,71 @@
       "productUrl": null,
       "lastUpdated": 1787841440683,
       "source": "gha"
+    },
+    "4468175": {
+      "sku": "4468175",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-27",
+      "time": "15:42:25",
+      "preExisting": true,
+      "missedAt": 1787841745780,
+      "missedDelay": null,
+      "lastUpdated": 1787841745780,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "title": "The Luxury Egg Collection -  Enamelled Egg Pendant with Chain (Size 24-2 Ext) - Blue",
+      "auctionCode": "0019845951",
+      "source": "gha",
+      "productUrl": "/products/crystal-enamled-white-rasin-pearl-egg-pendant-with-chain",
+      "productUrlChecked": 1787841750471,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "4468176": {
+      "sku": "4468176",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-27",
+      "time": "15:42:25",
+      "preExisting": true,
+      "missedAt": 1787841745780,
+      "missedDelay": null,
+      "lastUpdated": 1787841745780,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "title": "The Luxury Egg Collection - Orange Crystal & Simulated Pearl Egg Pendant with Chain (Size 24-2 Ext) - Grey",
+      "auctionCode": "0019845952",
+      "source": "gha",
+      "productUrl": "/products/crystal-enamled-white-rasin-pearl-egg-pendant-with-chain",
+      "productUrlChecked": 1787841751355,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "4468180": {
+      "sku": "4468180",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-27",
+      "time": "15:42:25",
+      "preExisting": true,
+      "missedAt": 1787841745780,
+      "missedDelay": null,
+      "lastUpdated": 1787841745780,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "title": "The Luxury Egg Collection - White Crystal & Multi Colour Enamelled Egg Pendant with Chain (Size 24-2 Ext) - Green",
+      "auctionCode": "0019845953",
+      "source": "gha",
+      "productUrl": "/products/crystal-enamled-white-rasin-pearl-egg-pendant-with-chain",
+      "productUrlChecked": 1787841752036,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787841745780,
     "gaps": [
       {
         "start": 1785823527869,
@@ -262645,8 +262712,8 @@
     "lastOnAirSku": "8626631",
     "lastOnAirTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargable 500 times!",
     "lastOnAirAuctionCode": "0019845687",
-    "precedingSku": "8271472",
-    "precedingTitle": "Austrian Multi Color Crystal Dangling Earring with Push Back in Yellow Gold Tone",
-    "precedingAuctionCode": "0019845473"
+    "precedingSku": "8626631",
+    "precedingTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargable 500 times!",
+    "precedingAuctionCode": "0019845687"
   }
 }
