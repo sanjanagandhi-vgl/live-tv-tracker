@@ -19468,17 +19468,23 @@
       "sku": "8699184",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-27",
-      "time": "21:42:29",
+      "date": "2026-08-28",
+      "time": "00:16:22",
       "preExisting": true,
       "missedAt": 1785184949278,
       "missedDelay": null,
-      "lastUpdated": 1785184949278,
+      "lastUpdated": 1787872582293,
       "missedPrice": 199.99,
       "missedImg": true,
-      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 22)",
-      "auctionCode": "0019797059",
-      "source": "gha"
+      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+      "auctionCode": "0019846029",
+      "source": "gha",
+      "lastAir": 1787872582293,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8698755": {
       "sku": "8698755",
@@ -254541,8 +254547,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787872463083,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -264959,11 +264965,22 @@
         "followingSku": "8570640",
         "followingTitle": "9K Yellow Gold Infinity Necklace (Size - 18) with Spring Ring Clasp",
         "followingAuctionCode": "0019846045"
+      },
+      {
+        "start": 1787872463083,
+        "end": 1787872582293,
+        "durationMin": 2.0,
+        "precedingSku": "8560731",
+        "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019846047",
+        "followingSku": "8699184",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+        "followingAuctionCode": "0019846029"
       }
     ],
-    "lastOnAirSku": "8560731",
-    "lastOnAirTitle": "9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019846047",
+    "lastOnAirSku": "8699184",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+    "lastOnAirAuctionCode": "0019846029",
     "precedingSku": "8560731",
     "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019846047"
