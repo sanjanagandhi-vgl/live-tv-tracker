@@ -23711,17 +23711,17 @@
       "firstAir": 1785405981253,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787076144462,
+      "lastAir": 1787802439525,
       "title": "Massager",
       "pdpPrice": "14.99",
-      "auctionCode": "0019826361",
+      "auctionCode": "0019844757",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-18",
-      "time": "19:02:24",
+      "date": "2026-08-27",
+      "time": "04:47:19",
       "productUrl": "/products/massager-1518429767?variant=53410613723402",
-      "lastUpdated": 1787076144462,
+      "lastUpdated": 1787802439525,
       "source": "gha",
       "missedAt": 1785408684878,
       "missedDelay": 38,
@@ -249498,8 +249498,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787802387618,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259091,11 +259091,22 @@
         "followingSku": "8538133",
         "followingTitle": "Love Vits Creatine - 100 Tablets",
         "followingAuctionCode": "0019844675"
+      },
+      {
+        "start": 1787802387618,
+        "end": 1787802439525,
+        "durationMin": 0.9,
+        "precedingSku": "8538133",
+        "precedingTitle": "Love Vits Creatine - 100 Tablets",
+        "precedingAuctionCode": "0019844675",
+        "followingSku": "8429767",
+        "followingTitle": "Massager",
+        "followingAuctionCode": "0019844757"
       }
     ],
-    "lastOnAirSku": "8538133",
-    "lastOnAirTitle": "Love Vits Creatine - 100 Tablets",
-    "lastOnAirAuctionCode": "0019844675",
+    "lastOnAirSku": "8429767",
+    "lastOnAirTitle": "Massager",
+    "lastOnAirAuctionCode": "0019844757",
     "precedingSku": "8538133",
     "precedingTitle": "Love Vits Creatine - 100 Tablets",
     "precedingAuctionCode": "0019844675"
