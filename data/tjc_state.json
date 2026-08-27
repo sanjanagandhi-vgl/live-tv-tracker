@@ -150116,22 +150116,22 @@
       "sku": "8314613",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-26",
-      "time": "22:42:24",
+      "date": "2026-08-27",
+      "time": "05:44:22",
       "preExisting": true,
       "missedAt": 1786644329759,
       "missedDelay": null,
-      "lastUpdated": 1787780544953,
+      "lastUpdated": 1787805862388,
       "missedPrice": 949.99,
       "missedImg": true,
       "title": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
-      "auctionCode": "0019845046",
+      "auctionCode": "0019845604",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-tanzanite-solitaire-ring-platinum",
       "productUrlChecked": 1786644336350,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787780544953,
+      "lastAir": 1787805862388,
       "pdpPrice": "899.99",
       "buy": true,
       "login": false,
@@ -249576,8 +249576,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787805800036,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259246,11 +259246,22 @@
         "followingSku": "8329259",
         "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
         "followingAuctionCode": "0019845643"
+      },
+      {
+        "start": 1787805800036,
+        "end": 1787805862388,
+        "durationMin": 1.0,
+        "precedingSku": "8329259",
+        "precedingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "precedingAuctionCode": "0019845643",
+        "followingSku": "8314613",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "followingAuctionCode": "0019845604"
       }
     ],
-    "lastOnAirSku": "8329259",
+    "lastOnAirSku": "8314613",
     "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
-    "lastOnAirAuctionCode": "0019845643",
+    "lastOnAirAuctionCode": "0019845604",
     "precedingSku": "8329259",
     "precedingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
     "precedingAuctionCode": "0019845643"
