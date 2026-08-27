@@ -177927,18 +177927,23 @@
       "sku": "8419177",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "13:51:20",
+      "date": "2026-08-27",
+      "time": "06:52:21",
       "preExisting": true,
       "missedAt": 1786971080475,
       "missedDelay": null,
-      "lastUpdated": 1786971080475,
+      "lastUpdated": 1787809941643,
       "missedPrice": 279.99,
       "missedImg": true,
-      "title": "La Marey Signature 100% Mulberry Silk Quilt (200 x 200 cm, Double 550Gms) - Ivory",
-      "auctionCode": "0019826118",
+      "title": "La Marey Signature 100% Mulberry Silk Quilt (135 x 200 cm, Single 400Gms) - Grey",
+      "auctionCode": "0019844534",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1787809941643,
+      "pdpPrice": "449.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8419182": {
       "sku": "8419182",
@@ -249644,8 +249649,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787809878283,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259380,11 +259385,22 @@
         "followingSku": "8412037",
         "followingTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
         "followingAuctionCode": "0019844530"
+      },
+      {
+        "start": 1787809878283,
+        "end": 1787809941643,
+        "durationMin": 1.1,
+        "precedingSku": "8412037",
+        "precedingTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
+        "precedingAuctionCode": "0019844530",
+        "followingSku": "8419177",
+        "followingTitle": "La Marey Signature 100% Mulberry Silk Quilt (135 x 200 cm, Single 400Gms) - Grey",
+        "followingAuctionCode": "0019844534"
       }
     ],
-    "lastOnAirSku": "8412037",
-    "lastOnAirTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
-    "lastOnAirAuctionCode": "0019844530",
+    "lastOnAirSku": "8419177",
+    "lastOnAirTitle": "La Marey Signature 100% Mulberry Silk Quilt (135 x 200 cm, Single 400Gms) - Grey",
+    "lastOnAirAuctionCode": "0019844534",
     "precedingSku": "8412037",
     "precedingTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
     "precedingAuctionCode": "0019844530"
