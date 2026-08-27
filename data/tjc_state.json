@@ -135642,18 +135642,23 @@
       "sku": "8466300",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-12",
-      "time": "00:21:20",
+      "date": "2026-08-27",
+      "time": "02:45:36",
       "preExisting": true,
       "missedAt": 1786490480075,
       "missedDelay": null,
-      "lastUpdated": 1786490480075,
+      "lastUpdated": 1787795136007,
       "missedPrice": 12.99,
       "missedImg": false,
       "title": "D'joy - AAA African Amethyst Solitaire Ring in Platinum Overlay Sterling Silver 1.19 Ct.",
-      "auctionCode": "0019816392",
+      "auctionCode": "0019845027",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1787795136007,
+      "pdpPrice": null,
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8466301": {
       "sku": "8466301",
@@ -248871,8 +248876,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787795064805,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -258343,11 +258348,22 @@
         "followingSku": "8498239",
         "followingTitle": null,
         "followingAuctionCode": "0019844974"
+      },
+      {
+        "start": 1787795064805,
+        "end": 1787795136007,
+        "durationMin": 1.2,
+        "precedingSku": "8498239",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019844974",
+        "followingSku": "8466300",
+        "followingTitle": null,
+        "followingAuctionCode": "0019845027"
       }
     ],
-    "lastOnAirSku": "8498239",
+    "lastOnAirSku": "8466300",
     "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019844974",
+    "lastOnAirAuctionCode": "0019845027",
     "precedingSku": "8498239",
     "precedingTitle": null,
     "precedingAuctionCode": "0019844974"
