@@ -251985,11 +251985,29 @@
       "productUrl": null,
       "lastUpdated": 1787837840088,
       "source": "gha"
+    },
+    "8375349": {
+      "sku": "8375349",
+      "firstAir": 1787837960055,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787837960055,
+      "title": "Multi Color Crystal Peacock Necklace (Size - 28-2) in Yellow Gold Tone",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019845419",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "14:39:20",
+      "productUrl": null,
+      "lastUpdated": 1787837960055,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787837904265,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -262087,11 +262105,22 @@
         "followingSku": "4444239",
         "followingTitle": "Set of 2 - Twisted Strand Bracelet (Size - 7-2 Ext) & Necklace (18-2 Ext) in Yellow Gold Tone",
         "followingAuctionCode": "0019845406"
+      },
+      {
+        "start": 1787837904265,
+        "end": 1787837960055,
+        "durationMin": 0.9,
+        "precedingSku": "8266575",
+        "precedingTitle": "Flat Snake Herringbone Necklace (Size - 20-2 Ext) in Dual Tone",
+        "precedingAuctionCode": "0019845416",
+        "followingSku": "8375349",
+        "followingTitle": "Multi Color Crystal Peacock Necklace (Size - 28-2) in Yellow Gold Tone",
+        "followingAuctionCode": "0019845419"
       }
     ],
-    "lastOnAirSku": "8266575",
-    "lastOnAirTitle": "Flat Snake Herringbone Necklace (Size - 20-2 Ext) in Dual Tone",
-    "lastOnAirAuctionCode": "0019845416",
+    "lastOnAirSku": "8375349",
+    "lastOnAirTitle": "Multi Color Crystal Peacock Necklace (Size - 28-2) in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019845419",
     "precedingSku": "8266575",
     "precedingTitle": "Flat Snake Herringbone Necklace (Size - 20-2 Ext) in Dual Tone",
     "precedingAuctionCode": "0019845416"
