@@ -124561,17 +124561,17 @@
       "firstAir": 1786397305121,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786397449552,
-      "title": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
+      "lastAir": 1787832745385,
+      "title": "24K Yellow Gold (99.9% Purity) Butterfly Collectable",
       "pdpPrice": "29.99",
-      "auctionCode": "0019814047",
+      "auctionCode": "0019844677",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-10",
-      "time": "22:30:49",
+      "date": "2026-08-27",
+      "time": "13:12:25",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2918378381",
-      "lastUpdated": 1786397973219,
+      "lastUpdated": 1787832745385,
       "source": "gha",
       "missedAt": 1786397973219,
       "missedDelay": 9,
@@ -251812,8 +251812,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787832680109,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -261856,11 +261856,22 @@
         "followingSku": "8570641",
         "followingTitle": "JCK Vegas Deal  - 9K Yellow Gold Bracelet (Size - 7.5) with Lobster Clasp. Gold Wt 3.85 Gms",
         "followingAuctionCode": "0019845179"
+      },
+      {
+        "start": 1787832680109,
+        "end": 1787832745385,
+        "durationMin": 1.1,
+        "precedingSku": "8375213",
+        "precedingTitle": "9K Yellow Gold Belcher Necklace (Size 20)",
+        "precedingAuctionCode": "0019845187",
+        "followingSku": "8378381",
+        "followingTitle": "24K Yellow Gold (99.9% Purity) Butterfly Collectable",
+        "followingAuctionCode": "0019844677"
       }
     ],
-    "lastOnAirSku": "8375213",
-    "lastOnAirTitle": "9K Yellow Gold Belcher Necklace (Size 20)",
-    "lastOnAirAuctionCode": "0019845187",
+    "lastOnAirSku": "8378381",
+    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Butterfly Collectable",
+    "lastOnAirAuctionCode": "0019844677",
     "precedingSku": "8375213",
     "precedingTitle": "9K Yellow Gold Belcher Necklace (Size 20)",
     "precedingAuctionCode": "0019845187"
