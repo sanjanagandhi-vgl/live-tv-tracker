@@ -103939,21 +103939,26 @@
       "sku": "8422986",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-08",
-      "time": "06:01:03",
+      "date": "2026-08-27",
+      "time": "18:11:20",
       "preExisting": true,
       "missedAt": 1786165263142,
       "missedDelay": null,
-      "lastUpdated": 1786165263142,
+      "lastUpdated": 1787850680661,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "D'Joy Natural Royal Ember Garnet & Moissanite Sunburst Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.71 Ct.",
-      "auctionCode": "0019811321",
+      "auctionCode": "0019845194",
       "source": "gha",
       "productUrl": "/products/djoy-natural-royal-ember-garnet-moissanite-sunburst-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-71-ct",
       "productUrlChecked": 1786165280428,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787850680661,
+      "pdpPrice": "999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8413573": {
       "sku": "8413573",
@@ -252628,8 +252633,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787850640006,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -262815,11 +262820,22 @@
         "followingSku": "8426226",
         "followingTitle": "D'Joy Natural Radiant Ember Garnet Drop Earrings with Lever Back in Yellow Gold Plated Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019845219"
+      },
+      {
+        "start": 1787850640006,
+        "end": 1787850680661,
+        "durationMin": 0.7,
+        "precedingSku": "8426226",
+        "precedingTitle": "D'Joy Natural Radiant Ember Garnet Drop Earrings with Lever Back in Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019845219",
+        "followingSku": "8422986",
+        "followingTitle": "D'Joy Natural Royal Ember Garnet & Moissanite Sunburst Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.71 Ct.",
+        "followingAuctionCode": "0019845194"
       }
     ],
-    "lastOnAirSku": "8426226",
-    "lastOnAirTitle": "D'Joy Natural Radiant Ember Garnet Drop Earrings with Lever Back in Yellow Gold Plated Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019845219",
+    "lastOnAirSku": "8422986",
+    "lastOnAirTitle": "D'Joy Natural Royal Ember Garnet & Moissanite Sunburst Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.71 Ct.",
+    "lastOnAirAuctionCode": "0019845194",
     "precedingSku": "8426226",
     "precedingTitle": "D'Joy Natural Radiant Ember Garnet Drop Earrings with Lever Back in Yellow Gold Plated Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019845219"
