@@ -2325,22 +2325,22 @@
       "sku": "8607959",
       "tvPrice": "",
       "remarks": "",
-      "time": "21:51:17",
+      "time": "01:28:23",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 3499.99,
       "missedImg": false,
       "title": "Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.18 Ct) & Natural  Diamond (0.90 VS-E-F) Pendant 6.05 Ct",
-      "auctionCode": "0019839868",
+      "auctionCode": "0019845169",
       "source": "gha",
-      "lastAir": 1787604677888,
-      "pdpPrice": "2999.99",
+      "lastAir": 1787790503176,
+      "pdpPrice": "3499.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-24",
-      "lastUpdated": 1787604677888,
+      "date": "2026-08-27",
+      "lastUpdated": 1787790503176,
       "productUrl": null
     },
     "8697692": {
@@ -248672,8 +248672,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787790382552,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -258056,11 +258056,22 @@
         "followingSku": "8587271",
         "followingTitle": "9K Yellow Gold Premium AAA Tanzanite & Natural White Diamond Ring 1.50 Ct.",
         "followingAuctionCode": "0019843896"
+      },
+      {
+        "start": 1787790382552,
+        "end": 1787790503176,
+        "durationMin": 2.0,
+        "precedingSku": "8586815",
+        "precedingTitle": "Heirloom Collection - Rhapsody - 950 Platinum AAAA Tanzanite (4.4ct) & White Diamond (VS-E-F 0.40ct) Trillion Cut Ring 4.80 Ct, Platinum Wt. 7.37 Gms",
+        "precedingAuctionCode": "0019845151",
+        "followingSku": "8607959",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.18 Ct) & Natural  Diamond (0.90 VS-E-F) Pendant 6.05 Ct",
+        "followingAuctionCode": "0019845169"
       }
     ],
-    "lastOnAirSku": "8586815",
-    "lastOnAirTitle": "Heirloom Collection - Rhapsody - 950 Platinum AAAA Tanzanite (4.4ct) & White Diamond (VS-E-F 0.40ct) Trillion Cut Ring 4.80 Ct, Platinum Wt. 7.37 Gms",
-    "lastOnAirAuctionCode": "0019845151",
+    "lastOnAirSku": "8607959",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.18 Ct) & Natural  Diamond (0.90 VS-E-F) Pendant 6.05 Ct",
+    "lastOnAirAuctionCode": "0019845169",
     "precedingSku": "8586815",
     "precedingTitle": "Heirloom Collection - Rhapsody - 950 Platinum AAAA Tanzanite (4.4ct) & White Diamond (VS-E-F 0.40ct) Trillion Cut Ring 4.80 Ct, Platinum Wt. 7.37 Gms",
     "precedingAuctionCode": "0019845151"
