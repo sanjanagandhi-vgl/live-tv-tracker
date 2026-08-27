@@ -251824,9 +251824,16 @@
       "img": true,
       "date": "2026-08-27",
       "time": "14:15:39",
-      "productUrl": null,
-      "lastUpdated": 1787836539839,
-      "source": "gha"
+      "productUrl": "/products/dragon-bar",
+      "lastUpdated": 1787837131641,
+      "source": "gha",
+      "missedAt": 1787837131641,
+      "missedDelay": 10,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "productUrlChecked": 1787837135733,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4444237": {
       "sku": "4444237",
@@ -251901,6 +251908,24 @@
       "productUrlChecked": 1787837068910,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4468562": {
+      "sku": "4468562",
+      "firstAir": 1787837131641,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787837131641,
+      "title": "Set of 2 - Multi Color Crystal Tennis Necklace (Size - 20) & Bracelet (Size - 7) in Yellow Gold Tone",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019845412",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "14:25:31",
+      "productUrl": null,
+      "lastUpdated": 1787837131641,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -262005,9 +262030,9 @@
         "followingAuctionCode": "0019845406"
       }
     ],
-    "lastOnAirSku": "4468515",
-    "lastOnAirTitle": "Set of 2 - Fuchsia Crystal Tennis Necklace (Size - 20) & Bracelet (Size - 7.5) in Rose Gold Tone",
-    "lastOnAirAuctionCode": "0019845411",
+    "lastOnAirSku": "4468562",
+    "lastOnAirTitle": "Set of 2 - Multi Color Crystal Tennis Necklace (Size - 20) & Bracelet (Size - 7) in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019845412",
     "precedingSku": "4444237",
     "precedingTitle": "Set of 2 - Blue Crystal Vintage Necklace (Size - 20-2 Ext) & Stud Earring with Push Back in Yellow Gold Tone",
     "precedingAuctionCode": "0019845405"
