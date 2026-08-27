@@ -6896,16 +6896,16 @@
       "firstAir": 1784935941060,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784936838185,
+      "lastAir": 1787868329125,
       "title": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Cushion Old Mine Cut with vintage Faceting Solitaire Ring 3.07 Ct.",
-      "pdpPrice": 499.99,
-      "auctionCode": "0019794160",
-      "buy": false,
+      "pdpPrice": "5999.99",
+      "auctionCode": "0019847393",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "00:47:18",
-      "lastUpdated": 1785474501184,
+      "date": "2026-08-27",
+      "time": "23:05:29",
+      "lastUpdated": 1787868329125,
       "source": "gha",
       "missedAt": 1785474501184,
       "missedDelay": 8961,
@@ -254126,8 +254126,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787868199816,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -264489,11 +264489,22 @@
         "followingSku": "8498138",
         "followingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019847377"
+      },
+      {
+        "start": 1787868199816,
+        "end": 1787868329125,
+        "durationMin": 2.2,
+        "precedingSku": "8498138",
+        "precedingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019847377",
+        "followingSku": "8611116",
+        "followingTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Cushion Old Mine Cut with vintage Faceting Solitaire Ring 3.07 Ct.",
+        "followingAuctionCode": "0019847393"
       }
     ],
-    "lastOnAirSku": "8498138",
-    "lastOnAirTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019847377",
+    "lastOnAirSku": "8611116",
+    "lastOnAirTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Cushion Old Mine Cut with vintage Faceting Solitaire Ring 3.07 Ct.",
+    "lastOnAirAuctionCode": "0019847393",
     "precedingSku": "8498138",
     "precedingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019847377"
