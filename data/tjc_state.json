@@ -201720,17 +201720,17 @@
       "firstAir": 1787263462297,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787264839855,
+      "lastAir": 1787805145729,
       "title": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
-      "pdpPrice": "899.99",
-      "auctionCode": "0019831905",
+      "pdpPrice": "15678.99",
+      "auctionCode": "0019845643",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-20",
-      "time": "23:27:19",
+      "date": "2026-08-27",
+      "time": "05:32:25",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-tanzanite-solitaire-ring-platinum",
-      "lastUpdated": 1787265437620,
+      "lastUpdated": 1787805145729,
       "source": "gha",
       "missedAt": 1787265437620,
       "missedDelay": 10,
@@ -249538,9 +249538,16 @@
       "img": true,
       "date": "2026-08-27",
       "time": "05:22:25",
-      "productUrl": null,
-      "lastUpdated": 1787804545211,
-      "source": "gha"
+      "productUrl": "/products/beautech-rechargeable-massage-brush-with-red-therapy-light",
+      "lastUpdated": 1787805145729,
+      "source": "gha",
+      "missedAt": 1787805145729,
+      "missedDelay": 10,
+      "missedPrice": 35.99,
+      "missedImg": true,
+      "productUrlChecked": 1787805149046,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7315198": {
       "sku": "7315198",
@@ -249562,8 +249569,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787805052973,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259221,11 +259228,22 @@
         "followingSku": "7315198",
         "followingTitle": "Skin Research Ceramide Oil - 30ml",
         "followingAuctionCode": "0019844803"
+      },
+      {
+        "start": 1787805052973,
+        "end": 1787805145729,
+        "durationMin": 1.5,
+        "precedingSku": "7315198",
+        "precedingTitle": "Skin Research Ceramide Oil - 30ml",
+        "precedingAuctionCode": "0019844803",
+        "followingSku": "8329259",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "followingAuctionCode": "0019845643"
       }
     ],
-    "lastOnAirSku": "7315198",
-    "lastOnAirTitle": "Skin Research Ceramide Oil - 30ml",
-    "lastOnAirAuctionCode": "0019844803",
+    "lastOnAirSku": "8329259",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+    "lastOnAirAuctionCode": "0019845643",
     "precedingSku": "7315198",
     "precedingTitle": "Skin Research Ceramide Oil - 30ml",
     "precedingAuctionCode": "0019844803"
