@@ -163340,17 +163340,17 @@
       "firstAir": 1786778840335,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786956679183,
+      "lastAir": 1787874506563,
       "title": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019825755",
+      "pdpPrice": "2477.99",
+      "auctionCode": "0019846059",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "time": "09:51:19",
+      "date": "2026-08-28",
+      "time": "00:48:26",
       "productUrl": "/products/maestro-collection-9k-yellow-gold-hoop-earrings-with-clasp",
-      "lastUpdated": 1786956679183,
+      "lastUpdated": 1787874506563,
       "source": "gha",
       "missedAt": 1786779802498,
       "missedDelay": 10,
@@ -254547,8 +254547,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787874440181,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -264998,11 +264998,22 @@
         "followingSku": "8613745",
         "followingTitle": "9K Yellow Gold Diamond-Cut-Edge Oval Pendant",
         "followingAuctionCode": "0019846056"
+      },
+      {
+        "start": 1787874440181,
+        "end": 1787874506563,
+        "durationMin": 1.1,
+        "precedingSku": "8613745",
+        "precedingTitle": "9K Yellow Gold Diamond-Cut-Edge Oval Pendant",
+        "precedingAuctionCode": "0019846056",
+        "followingSku": "7723008",
+        "followingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
+        "followingAuctionCode": "0019846059"
       }
     ],
-    "lastOnAirSku": "8613745",
-    "lastOnAirTitle": "9K Yellow Gold Diamond-Cut-Edge Oval Pendant",
-    "lastOnAirAuctionCode": "0019846056",
+    "lastOnAirSku": "7723008",
+    "lastOnAirTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
+    "lastOnAirAuctionCode": "0019846059",
     "precedingSku": "8613745",
     "precedingTitle": "9K Yellow Gold Diamond-Cut-Edge Oval Pendant",
     "precedingAuctionCode": "0019846056"
