@@ -249523,11 +249523,29 @@
       "productUrlChecked": 1787803719673,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7816642": {
+      "sku": "7816642",
+      "firstAir": 1787804361552,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787804361552,
+      "title": "Beautech Rechargeable Massage Brush with Red Therapy Light",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019844852",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-27",
+      "time": "05:19:21",
+      "productUrl": null,
+      "lastUpdated": 1787804361552,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787804304463,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -259152,11 +259170,22 @@
         "followingSku": "8538105",
         "followingTitle": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus (30ml)",
         "followingAuctionCode": "0019844807"
+      },
+      {
+        "start": 1787804304463,
+        "end": 1787804361552,
+        "durationMin": 1.0,
+        "precedingSku": "8661700",
+        "precedingTitle": "DEAL OF THE DAY- Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
+        "precedingAuctionCode": "0019844845",
+        "followingSku": "7816642",
+        "followingTitle": "Beautech Rechargeable Massage Brush with Red Therapy Light",
+        "followingAuctionCode": "0019844852"
       }
     ],
-    "lastOnAirSku": "8661700",
-    "lastOnAirTitle": "DEAL OF THE DAY- Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
-    "lastOnAirAuctionCode": "0019844845",
+    "lastOnAirSku": "7816642",
+    "lastOnAirTitle": "Beautech Rechargeable Massage Brush with Red Therapy Light",
+    "lastOnAirAuctionCode": "0019844852",
     "precedingSku": "8661700",
     "precedingTitle": "DEAL OF THE DAY- Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
     "precedingAuctionCode": "0019844845"
