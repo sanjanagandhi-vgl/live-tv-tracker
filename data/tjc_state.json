@@ -239999,17 +239999,17 @@
       "firstAir": 1787742938180,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787873302177,
+      "lastAir": 1787878280197,
       "title": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
       "pdpPrice": "39.99",
-      "auctionCode": "0019846039",
+      "auctionCode": "0019847772",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-28",
-      "time": "00:28:22",
+      "time": "01:51:20",
       "productUrl": "/products/live-from-vegas-9k-yellow-gold-earring-with-push-back-8572443",
-      "lastUpdated": 1787873302177,
+      "lastUpdated": 1787878280197,
       "source": "gha",
       "missedAt": 1787743763472,
       "missedDelay": 10,
@@ -254589,8 +254589,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787878237547,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265117,11 +265117,22 @@
         "followingSku": "8572381",
         "followingTitle": "Designer Inspired 9K Yellow Gold Violin Pendant",
         "followingAuctionCode": "0019846074"
+      },
+      {
+        "start": 1787878237547,
+        "end": 1787878280197,
+        "durationMin": 0.7,
+        "precedingSku": "8572381",
+        "precedingTitle": "Designer Inspired 9K Yellow Gold Violin Pendant",
+        "precedingAuctionCode": "0019846074",
+        "followingSku": "8572443",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
+        "followingAuctionCode": "0019847772"
       }
     ],
-    "lastOnAirSku": "8572381",
-    "lastOnAirTitle": "Designer Inspired 9K Yellow Gold Violin Pendant",
-    "lastOnAirAuctionCode": "0019846074",
+    "lastOnAirSku": "8572443",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
+    "lastOnAirAuctionCode": "0019847772",
     "precedingSku": "8572381",
     "precedingTitle": "Designer Inspired 9K Yellow Gold Violin Pendant",
     "precedingAuctionCode": "0019846074"
