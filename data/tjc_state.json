@@ -254677,11 +254677,29 @@
       "productUrl": null,
       "lastUpdated": 1787880862060,
       "source": "gha"
+    },
+    "8519974": {
+      "sku": "8519974",
+      "firstAir": 1787881158388,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787881158388,
+      "title": "Joan Collins Timeless Beauty Nail Polish Lacquer (12ml) - Alexis (Burgundy)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019845722",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "02:39:18",
+      "productUrl": null,
+      "lastUpdated": 1787881158388,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787881101628,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265263,11 +265281,22 @@
         "followingSku": "8098800",
         "followingTitle": "Laurelle Velvet Rose & Patchouli Divine EDP",
         "followingAuctionCode": "0019845740"
+      },
+      {
+        "start": 1787881101628,
+        "end": 1787881158388,
+        "durationMin": 0.9,
+        "precedingSku": "8483468",
+        "precedingTitle": "Judith Williams Beauty Institute PH Balancing Toner - 400ml",
+        "precedingAuctionCode": "0019845751",
+        "followingSku": "8519974",
+        "followingTitle": "Joan Collins Timeless Beauty Nail Polish Lacquer (12ml) - Alexis (Burgundy)",
+        "followingAuctionCode": "0019845722"
       }
     ],
-    "lastOnAirSku": "8483468",
-    "lastOnAirTitle": "Judith Williams Beauty Institute PH Balancing Toner - 400ml",
-    "lastOnAirAuctionCode": "0019845751",
+    "lastOnAirSku": "8519974",
+    "lastOnAirTitle": "Joan Collins Timeless Beauty Nail Polish Lacquer (12ml) - Alexis (Burgundy)",
+    "lastOnAirAuctionCode": "0019845722",
     "precedingSku": "8483468",
     "precedingTitle": "Judith Williams Beauty Institute PH Balancing Toner - 400ml",
     "precedingAuctionCode": "0019845751"
