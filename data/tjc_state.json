@@ -74575,17 +74575,17 @@
       "firstAir": 1785905487352,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787745199979,
+      "lastAir": 1787875528429,
       "title": "9K Yellow Handmade Byzantine Gold Necklace (Size - 19.5) with Sanorita Clasp, Gold Wt. 18.50 Gms",
-      "pdpPrice": "1999.99",
-      "auctionCode": "0019843838",
+      "pdpPrice": "23456.99",
+      "auctionCode": "0019846073",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-26",
-      "time": "12:53:19",
+      "date": "2026-08-28",
+      "time": "01:05:28",
       "productUrl": "/products/9k-yellow-gold-chain-size-20-gold-wt-18-43-gms-8692857",
-      "lastUpdated": 1787745199979,
+      "lastUpdated": 1787875528429,
       "source": "gha",
       "missedAt": 1785906935719,
       "missedDelay": 10,
@@ -254547,8 +254547,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787875270560,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265009,11 +265009,22 @@
         "followingSku": "7723008",
         "followingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
         "followingAuctionCode": "0019846059"
+      },
+      {
+        "start": 1787875270560,
+        "end": 1787875528429,
+        "durationMin": 4.3,
+        "precedingSku": "7723008",
+        "precedingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
+        "precedingAuctionCode": "0019846059",
+        "followingSku": "8692857",
+        "followingTitle": "9K Yellow Handmade Byzantine Gold Necklace (Size - 19.5) with Sanorita Clasp, Gold Wt. 18.50 Gms",
+        "followingAuctionCode": "0019846073"
       }
     ],
-    "lastOnAirSku": "7723008",
-    "lastOnAirTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
-    "lastOnAirAuctionCode": "0019846059",
+    "lastOnAirSku": "8692857",
+    "lastOnAirTitle": "9K Yellow Handmade Byzantine Gold Necklace (Size - 19.5) with Sanorita Clasp, Gold Wt. 18.50 Gms",
+    "lastOnAirAuctionCode": "0019846073",
     "precedingSku": "7723008",
     "precedingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
     "precedingAuctionCode": "0019846059"
