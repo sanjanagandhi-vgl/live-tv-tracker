@@ -255948,9 +255948,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "07:46:21",
-      "productUrl": null,
-      "lastUpdated": 1787899581259,
-      "source": "gha"
+      "productUrl": "/products/natural-jade-adjustable-horse-necklace-with-cotton-thread-size-28-75-00-ct-8431567",
+      "lastUpdated": 1787900238134,
+      "source": "gha",
+      "missedAt": 1787900238134,
+      "missedDelay": 11,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1787900240956,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8482332": {
       "sku": "8482332",
@@ -255990,11 +255997,29 @@
       "productUrl": null,
       "lastUpdated": 1787900133098,
       "source": "gha"
+    },
+    "8482747": {
+      "sku": "8482747",
+      "firstAir": 1787900238134,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787900238134,
+      "title": "Natural Olmec Jade Adjustable Nine-Tailed Fox Carved Necklace with Cotton Thread (Size - 28) 80.00 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019847183",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "07:57:18",
+      "productUrl": null,
+      "lastUpdated": 1787900238134,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787900182833,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -266895,11 +266920,22 @@
         "followingSku": "8380258",
         "followingTitle": "Natural White Jade Pixiu Carving Bracelet (Size 6 - 9 Inch) with Adjustable Cotton Thread 120.00 Ct",
         "followingAuctionCode": "0019847119"
+      },
+      {
+        "start": 1787900182833,
+        "end": 1787900238134,
+        "durationMin": 0.9,
+        "precedingSku": "8482746",
+        "precedingTitle": "Natural Olmec Jade Adjustable Maneki Neko Necklace with Cotton Thread (Size - 28) 65.00 Ct.",
+        "precedingAuctionCode": "0019847182",
+        "followingSku": "8482747",
+        "followingTitle": "Natural Olmec Jade Adjustable Nine-Tailed Fox Carved Necklace with Cotton Thread (Size - 28) 80.00 Ct.",
+        "followingAuctionCode": "0019847183"
       }
     ],
-    "lastOnAirSku": "8482746",
-    "lastOnAirTitle": "Natural Olmec Jade Adjustable Maneki Neko Necklace with Cotton Thread (Size - 28) 65.00 Ct.",
-    "lastOnAirAuctionCode": "0019847182",
+    "lastOnAirSku": "8482747",
+    "lastOnAirTitle": "Natural Olmec Jade Adjustable Nine-Tailed Fox Carved Necklace with Cotton Thread (Size - 28) 80.00 Ct.",
+    "lastOnAirAuctionCode": "0019847183",
     "precedingSku": "8482746",
     "precedingTitle": "Natural Olmec Jade Adjustable Maneki Neko Necklace with Cotton Thread (Size - 28) 65.00 Ct.",
     "precedingAuctionCode": "0019847182"
