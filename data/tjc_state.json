@@ -258019,11 +258019,29 @@
       "productUrl": null,
       "lastUpdated": 1787924064278,
       "source": "gha"
+    },
+    "8238697": {
+      "sku": "8238697",
+      "firstAir": 1787924358322,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787924358322,
+      "title": "Emreco Short Sleeves Crew Neck T-Shirt (Size 16) - Red",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019846220",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "14:39:18",
+      "productUrl": null,
+      "lastUpdated": 1787924358322,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787924305622,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -269287,11 +269305,22 @@
         "followingSku": "7937129",
         "followingTitle": "La Marey Ladies Linen Full Length Pants (Size 20) - Dazzling Blue",
         "followingAuctionCode": "0019846196"
+      },
+      {
+        "start": 1787924305622,
+        "end": 1787924358322,
+        "durationMin": 0.9,
+        "precedingSku": "8306433",
+        "precedingTitle": "La Marey 2 In 1 Brushed Top Hybrid Dress With Pocket (Size L, Fit 16 To 18) - Chocolate",
+        "precedingAuctionCode": "0019846221",
+        "followingSku": "8238697",
+        "followingTitle": "Emreco Short Sleeves Crew Neck T-Shirt (Size 16) - Red",
+        "followingAuctionCode": "0019846220"
       }
     ],
-    "lastOnAirSku": "8306433",
-    "lastOnAirTitle": "La Marey 2 In 1 Brushed Top Hybrid Dress With Pocket (Size L, Fit 16 To 18) - Chocolate",
-    "lastOnAirAuctionCode": "0019846221",
+    "lastOnAirSku": "8238697",
+    "lastOnAirTitle": "Emreco Short Sleeves Crew Neck T-Shirt (Size 16) - Red",
+    "lastOnAirAuctionCode": "0019846220",
     "precedingSku": "8306433",
     "precedingTitle": "La Marey 2 In 1 Brushed Top Hybrid Dress With Pocket (Size L, Fit 16 To 18) - Chocolate",
     "precedingAuctionCode": "0019846221"
