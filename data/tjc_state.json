@@ -240782,17 +240782,17 @@
       "firstAir": 1787750441040,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787750479486,
+      "lastAir": 1787927182097,
       "title": "La Marey Classic Rayon T-shirt (Size 16 to 18) - Green",
       "pdpPrice": "9.99",
-      "auctionCode": "0019841705",
+      "auctionCode": "0019846296",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-26",
-      "time": "14:21:19",
+      "date": "2026-08-28",
+      "time": "15:26:22",
       "productUrl": "/products/la-marey-classic-rayon-t-shirt",
-      "lastUpdated": 1787751055713,
+      "lastUpdated": 1787927182097,
       "source": "gha",
       "missedAt": 1787751055713,
       "missedDelay": 10,
@@ -258311,8 +258311,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787927131621,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -269609,11 +269609,22 @@
         "followingSku": "8546923",
         "followingTitle": "Marina Kaneva Pocket Shirt (Size 12) - Green",
         "followingAuctionCode": "0019849036"
+      },
+      {
+        "start": 1787927131621,
+        "end": 1787927182097,
+        "durationMin": 0.8,
+        "precedingSku": "8523342",
+        "precedingTitle": "Charlotte West Womens Linen Blazer With 2 Front Pockets (Size 12) - Oatmeal",
+        "precedingAuctionCode": "0019849042",
+        "followingSku": "8292615",
+        "followingTitle": "La Marey Classic Rayon T-shirt (Size 16 to 18) - Green",
+        "followingAuctionCode": "0019846296"
       }
     ],
-    "lastOnAirSku": "8523342",
-    "lastOnAirTitle": "Charlotte West Womens Linen Blazer With 2 Front Pockets (Size 12) - Oatmeal",
-    "lastOnAirAuctionCode": "0019849042",
+    "lastOnAirSku": "8292615",
+    "lastOnAirTitle": "La Marey Classic Rayon T-shirt (Size 16 to 18) - Green",
+    "lastOnAirAuctionCode": "0019846296",
     "precedingSku": "8523342",
     "precedingTitle": "Charlotte West Womens Linen Blazer With 2 Front Pockets (Size 12) - Oatmeal",
     "precedingAuctionCode": "0019849042"
