@@ -254655,11 +254655,29 @@
       "productUrl": null,
       "lastUpdated": 1787880741383,
       "source": "gha"
+    },
+    "8098800": {
+      "sku": "8098800",
+      "firstAir": 1787880862060,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787880862060,
+      "title": "Laurelle Velvet Rose & Patchouli Divine EDP",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019845740",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "02:34:22",
+      "productUrl": null,
+      "lastUpdated": 1787880862060,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787880798177,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265230,11 +265248,22 @@
         "followingSku": "8062721",
         "followingTitle": "Naturally Tiwa Kari Hair Food",
         "followingAuctionCode": "0019845833"
+      },
+      {
+        "start": 1787880798177,
+        "end": 1787880862060,
+        "durationMin": 1.1,
+        "precedingSku": "8306394",
+        "precedingTitle": "Laurelle I'M The One EDT - 100ml",
+        "precedingAuctionCode": "0019845764",
+        "followingSku": "8098800",
+        "followingTitle": "Laurelle Velvet Rose & Patchouli Divine EDP",
+        "followingAuctionCode": "0019845740"
       }
     ],
-    "lastOnAirSku": "8306394",
-    "lastOnAirTitle": "Laurelle I'M The One EDT - 100ml",
-    "lastOnAirAuctionCode": "0019845764",
+    "lastOnAirSku": "8098800",
+    "lastOnAirTitle": "Laurelle Velvet Rose & Patchouli Divine EDP",
+    "lastOnAirAuctionCode": "0019845740",
     "precedingSku": "8306394",
     "precedingTitle": "Laurelle I'M The One EDT - 100ml",
     "precedingAuctionCode": "0019845764"
