@@ -255164,11 +255164,29 @@
       "productUrl": null,
       "lastUpdated": 1787888847057,
       "source": "gha"
+    },
+    "4425464": {
+      "sku": "4425464",
+      "firstAir": 1787888960412,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787888960412,
+      "title": "Bloomstone Collection - Set of 2 - Floral Necklace (Size - 18-2 Ext) and Push Back Earring",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019845990",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "04:49:20",
+      "productUrl": null,
+      "lastUpdated": 1787888960412,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787888904406,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265893,11 +265911,22 @@
         "followingSku": "4110231",
         "followingTitle": "Lapis Lazuli Dragon Pendant with Chain (Size 20 with 2 inch Extender) in Silver Tone 35.00 Ct.",
         "followingAuctionCode": "0019845983"
+      },
+      {
+        "start": 1787888904406,
+        "end": 1787888960412,
+        "durationMin": 0.9,
+        "precedingSku": "4110231",
+        "precedingTitle": "Lapis Lazuli Dragon Pendant with Chain (Size 20 with 2 inch Extender) in Silver Tone 35.00 Ct.",
+        "precedingAuctionCode": "0019845983",
+        "followingSku": "4425464",
+        "followingTitle": "Bloomstone Collection - Set of 2 - Floral Necklace (Size - 18-2 Ext) and Push Back Earring",
+        "followingAuctionCode": "0019845990"
       }
     ],
-    "lastOnAirSku": "4110231",
-    "lastOnAirTitle": "Lapis Lazuli Dragon Pendant with Chain (Size 20 with 2 inch Extender) in Silver Tone 35.00 Ct.",
-    "lastOnAirAuctionCode": "0019845983",
+    "lastOnAirSku": "4425464",
+    "lastOnAirTitle": "Bloomstone Collection - Set of 2 - Floral Necklace (Size - 18-2 Ext) and Push Back Earring",
+    "lastOnAirAuctionCode": "0019845990",
     "precedingSku": "4110231",
     "precedingTitle": "Lapis Lazuli Dragon Pendant with Chain (Size 20 with 2 inch Extender) in Silver Tone 35.00 Ct.",
     "precedingAuctionCode": "0019845983"
