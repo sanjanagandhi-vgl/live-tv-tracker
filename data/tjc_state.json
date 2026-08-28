@@ -60254,21 +60254,26 @@
       "sku": "8635006",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-03",
-      "time": "06:46:59",
+      "date": "2026-08-28",
+      "time": "09:47:22",
       "preExisting": true,
       "missedAt": 1785736019345,
       "missedDelay": null,
-      "lastUpdated": 1785736019345,
+      "lastUpdated": 1787906842743,
       "missedPrice": 17.99,
       "missedImg": true,
-      "title": "24K Yellow Gold Tropical Bird Collectible (31x45.5 mm)",
-      "auctionCode": "0019805443",
+      "title": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+      "auctionCode": "0019845954",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-mg-standard-accessories-gold-wt-10-gms-2368635004",
       "productUrlChecked": 1785736031669,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787906842743,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7576359": {
       "sku": "7576359",
@@ -256869,8 +256874,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787906784769,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -267903,11 +267908,22 @@
         "followingSku": "8243698",
         "followingTitle": "24K Yellow Gold (99.9% Purity)  Butterfly Collectible",
         "followingAuctionCode": "0019845957"
+      },
+      {
+        "start": 1787906784769,
+        "end": 1787906842743,
+        "durationMin": 1.0,
+        "precedingSku": "8243698",
+        "precedingTitle": "24K Yellow Gold (99.9% Purity)  Butterfly Collectible",
+        "precedingAuctionCode": "0019845957",
+        "followingSku": "8635006",
+        "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+        "followingAuctionCode": "0019845954"
       }
     ],
-    "lastOnAirSku": "8243698",
-    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity)  Butterfly Collectible",
-    "lastOnAirAuctionCode": "0019845957",
+    "lastOnAirSku": "8635006",
+    "lastOnAirTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+    "lastOnAirAuctionCode": "0019845954",
     "precedingSku": "8243698",
     "precedingTitle": "24K Yellow Gold (99.9% Purity)  Butterfly Collectible",
     "precedingAuctionCode": "0019845957"
