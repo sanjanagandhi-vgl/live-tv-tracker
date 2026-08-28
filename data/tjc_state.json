@@ -257858,9 +257858,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "14:01:18",
-      "productUrl": null,
-      "lastUpdated": 1787922078653,
-      "source": "gha"
+      "productUrl": "/products/livmore-51-pcs-hair-accessories-kit-set-for-all-types-pink-orange-purple-size-32-26-44cm-materi-8504739",
+      "lastUpdated": 1787922640793,
+      "source": "gha",
+      "missedAt": 1787922640793,
+      "missedDelay": 9,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1787922644056,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8552303": {
       "sku": "8552303",
@@ -257879,11 +257886,31 @@
       "productUrl": null,
       "lastUpdated": 1787922560009,
       "source": "gha"
+    },
+    "8504746": {
+      "sku": "8504746",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "14:10:40",
+      "preExisting": true,
+      "missedAt": 1787922640793,
+      "missedDelay": null,
+      "lastUpdated": 1787922640793,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Livmore 51-Piece Women's Hair Accessories Gift Set with Hairbrush & Claw Clips - Neutral Colours",
+      "auctionCode": "0019847477",
+      "source": "gha",
+      "productUrl": "/products/livmore-51-pcs-hair-accessories-kit-set-for-all-types-pink-orange-purple-size-32-26-44cm-materi-8504739",
+      "productUrlChecked": 1787922644788,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787922640793,
     "gaps": [
       {
         "start": 1785823527869,
@@ -269108,8 +269135,8 @@
     "lastOnAirSku": "8552303",
     "lastOnAirTitle": "Chilli & Charm Paisley Print Shirred Empire Bust Dress (Size L, 16 to 18) - Blue",
     "lastOnAirAuctionCode": "0019846185",
-    "precedingSku": "8504739",
-    "precedingTitle": "Livmore 51-Piece Women's Hair Accessories Gift Set with Hairbrush & Claw Clips - Pink, Orange & Purple",
-    "precedingAuctionCode": "0019847476"
+    "precedingSku": "8552303",
+    "precedingTitle": "Chilli & Charm Paisley Print Shirred Empire Bust Dress (Size L, 16 to 18) - Blue",
+    "precedingAuctionCode": "0019846185"
   }
 }
