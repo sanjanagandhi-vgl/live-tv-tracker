@@ -207209,21 +207209,26 @@
       "sku": "7937129",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "16:04:24",
+      "date": "2026-08-28",
+      "time": "14:26:24",
       "preExisting": true,
       "missedAt": 1787324664623,
       "missedDelay": null,
-      "lastUpdated": 1787324664623,
+      "lastUpdated": 1787923584961,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "La Marey Ladies Linen Full Length Pants (Size 14) - Dazzling Blue",
-      "auctionCode": "0019833371",
+      "title": "La Marey Ladies Linen Full Length Pants (Size 20) - Dazzling Blue",
+      "auctionCode": "0019846196",
       "source": "gha",
       "productUrl": "/products/la-marey-ladies-linen-full-length-pants-1557937122",
       "productUrlChecked": 1787324668421,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787923584961,
+      "pdpPrice": "15.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7937135": {
       "sku": "7937135",
@@ -257954,8 +257959,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787923541111,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -269208,11 +269213,22 @@
         "followingSku": "8552300",
         "followingTitle": "Chilli & Charm Paisley Print Shirred Empire Bust Dress (Size L, 16 to 18) - Blue",
         "followingAuctionCode": "0019846284"
+      },
+      {
+        "start": 1787923541111,
+        "end": 1787923584961,
+        "durationMin": 0.7,
+        "precedingSku": "8552633",
+        "precedingTitle": "Nova Of London Kimono Midi With Satin Bands (Size S-M, 8 to 14) - Black",
+        "precedingAuctionCode": "0019846191",
+        "followingSku": "7937129",
+        "followingTitle": "La Marey Ladies Linen Full Length Pants (Size 20) - Dazzling Blue",
+        "followingAuctionCode": "0019846196"
       }
     ],
-    "lastOnAirSku": "8552633",
-    "lastOnAirTitle": "Nova Of London Kimono Midi With Satin Bands (Size S-M, 8 to 14) - Black",
-    "lastOnAirAuctionCode": "0019846191",
+    "lastOnAirSku": "7937129",
+    "lastOnAirTitle": "La Marey Ladies Linen Full Length Pants (Size 20) - Dazzling Blue",
+    "lastOnAirAuctionCode": "0019846196",
     "precedingSku": "8552633",
     "precedingTitle": "Nova Of London Kimono Midi With Satin Bands (Size S-M, 8 to 14) - Black",
     "precedingAuctionCode": "0019846191"
