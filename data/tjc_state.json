@@ -218097,23 +218097,23 @@
       "sku": "8019208",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-25",
-      "time": "07:03:19",
+      "date": "2026-08-28",
+      "time": "02:41:19",
       "preExisting": true,
       "missedAt": 1787467638043,
       "missedDelay": null,
-      "lastUpdated": 1787637799715,
+      "lastUpdated": 1787881279345,
       "missedPrice": 34.99,
       "missedImg": true,
       "title": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
-      "auctionCode": "0019839880",
+      "auctionCode": "0019845838",
       "source": "gha",
       "productUrl": "/products/beautech-rf-ems-facial-beauty-device-portable-rechargeable-with-led-light-therapy",
       "productUrlChecked": 1787467641552,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787637799715,
-      "pdpPrice": "19.99",
+      "lastAir": 1787881279345,
+      "pdpPrice": "69.99",
       "buy": true,
       "login": false,
       "img": true
@@ -254698,8 +254698,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787881237398,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265292,11 +265292,22 @@
         "followingSku": "8519974",
         "followingTitle": "Joan Collins Timeless Beauty Nail Polish Lacquer (12ml) - Alexis (Burgundy)",
         "followingAuctionCode": "0019845722"
+      },
+      {
+        "start": 1787881237398,
+        "end": 1787881279345,
+        "durationMin": 0.7,
+        "precedingSku": "8519974",
+        "precedingTitle": "Joan Collins Timeless Beauty Nail Polish Lacquer (12ml) - Alexis (Burgundy)",
+        "precedingAuctionCode": "0019845722",
+        "followingSku": "8019208",
+        "followingTitle": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
+        "followingAuctionCode": "0019845838"
       }
     ],
-    "lastOnAirSku": "8519974",
-    "lastOnAirTitle": "Joan Collins Timeless Beauty Nail Polish Lacquer (12ml) - Alexis (Burgundy)",
-    "lastOnAirAuctionCode": "0019845722",
+    "lastOnAirSku": "8019208",
+    "lastOnAirTitle": "MEGA CLEARANCE DEAL - BEAUTECH- RF-EMS Facial Beauty Device - Black",
+    "lastOnAirAuctionCode": "0019845838",
     "precedingSku": "8519974",
     "precedingTitle": "Joan Collins Timeless Beauty Nail Polish Lacquer (12ml) - Alexis (Burgundy)",
     "precedingAuctionCode": "0019845722"
