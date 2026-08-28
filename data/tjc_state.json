@@ -257138,9 +257138,16 @@
       "img": false,
       "date": "2026-08-28",
       "time": "10:38:22",
-      "productUrl": null,
-      "lastUpdated": 1787909902849,
-      "source": "gha"
+      "productUrl": "/products/natural-chinese-rhodochrosite-black-onyx-heart-shape-pendant-in-silver-tone",
+      "lastUpdated": 1787910441113,
+      "source": "gha",
+      "missedAt": 1787910441113,
+      "missedDelay": 9,
+      "missedPrice": 4.99,
+      "missedImg": false,
+      "productUrlChecked": 1787910449147,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8313906": {
       "sku": "8313906",
@@ -257177,11 +257184,51 @@
       "productUrl": null,
       "lastUpdated": 1787910383640,
       "source": "gha"
+    },
+    "8326214": {
+      "sku": "8326214",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "10:47:21",
+      "preExisting": true,
+      "missedAt": 1787910441113,
+      "missedDelay": null,
+      "lastUpdated": 1787910441113,
+      "missedPrice": 4.99,
+      "missedImg": false,
+      "title": "Green Aventurine Cabuchan & Red Jasper Heart Shape Pendant in Silver Tone",
+      "auctionCode": "0019847863",
+      "source": "gha",
+      "productUrl": "/products/natural-chinese-rhodochrosite-black-onyx-heart-shape-pendant-in-silver-tone",
+      "productUrlChecked": 1787910449844,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8326230": {
+      "sku": "8326230",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "10:47:21",
+      "preExisting": true,
+      "missedAt": 1787910441113,
+      "missedDelay": null,
+      "lastUpdated": 1787910441113,
+      "missedPrice": 4.99,
+      "missedImg": false,
+      "title": "Blue Spot Jasper Heart Cabochon & White Agate Heart Shape Pendant in Silver Tone",
+      "auctionCode": "0019847864",
+      "source": "gha",
+      "productUrl": "/products/natural-chinese-rhodochrosite-black-onyx-heart-shape-pendant-in-silver-tone",
+      "productUrlChecked": 1787910450062,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787910441113,
     "gaps": [
       {
         "start": 1785823527869,
@@ -268263,8 +268310,8 @@
     "lastOnAirSku": "8313912",
     "lastOnAirTitle": "Tucson Close Out - Turquoise Blue Crazy Lace Agate Stretchable Bracelet (Size - 7)",
     "lastOnAirAuctionCode": "0019847497",
-    "precedingSku": "8326177",
-    "precedingTitle": "Natural Chinese Rhodochrosite & Black Onyx Heart Shape Pendant in Silver Tone",
-    "precedingAuctionCode": "0019847504"
+    "precedingSku": "8313912",
+    "precedingTitle": "Tucson Close Out - Turquoise Blue Crazy Lace Agate Stretchable Bracelet (Size - 7)",
+    "precedingAuctionCode": "0019847497"
   }
 }
