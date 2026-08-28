@@ -256988,11 +256988,29 @@
       "productUrlChecked": 1787907333917,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8307831": {
+      "sku": "8307831",
+      "firstAir": 1787907984086,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787907984086,
+      "title": "Genuine Gemstone Handmade Stretchable Bracelet",
+      "pdpPrice": "3.99",
+      "auctionCode": "0019847488",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-28",
+      "time": "10:06:24",
+      "productUrl": null,
+      "lastUpdated": 1787907984086,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787907861909,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -268036,11 +268054,22 @@
         "followingSku": "8635006",
         "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
         "followingAuctionCode": "0019845954"
+      },
+      {
+        "start": 1787907861909,
+        "end": 1787907984086,
+        "durationMin": 2.0,
+        "precedingSku": "8552942",
+        "precedingTitle": "Italian Made - Sterling Silver Vale Chain (Size - 18) with Lobster Clasp",
+        "precedingAuctionCode": "0019845943",
+        "followingSku": "8307831",
+        "followingTitle": "Genuine Gemstone Handmade Stretchable Bracelet",
+        "followingAuctionCode": "0019847488"
       }
     ],
-    "lastOnAirSku": "8552942",
-    "lastOnAirTitle": "Italian Made - Sterling Silver Vale Chain (Size - 18) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019845943",
+    "lastOnAirSku": "8307831",
+    "lastOnAirTitle": "Genuine Gemstone Handmade Stretchable Bracelet",
+    "lastOnAirAuctionCode": "0019847488",
     "precedingSku": "8552942",
     "precedingTitle": "Italian Made - Sterling Silver Vale Chain (Size - 18) with Lobster Clasp",
     "precedingAuctionCode": "0019845943"
