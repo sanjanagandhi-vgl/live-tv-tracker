@@ -258228,9 +258228,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "15:03:20",
-      "productUrl": null,
-      "lastUpdated": 1787925800851,
-      "source": "gha"
+      "productUrl": "/products/marina-kaneva-blouse",
+      "lastUpdated": 1787926400549,
+      "source": "gha",
+      "missedAt": 1787926400549,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787926404676,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8515623": {
       "sku": "8515623",
@@ -258270,8 +258277,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787926400549,
     "gaps": [
       {
         "start": 1785823527869,
@@ -269562,8 +269569,8 @@
     "lastOnAirSku": "8546909",
     "lastOnAirTitle": "Marina Kaneva Pocket Shirt (Size 12) - Green",
     "lastOnAirAuctionCode": "0019849031",
-    "precedingSku": "8430655",
-    "precedingTitle": "La Marey Light Knitted Polo Shirt (Size XL, Fit 20 To 22) - Purple",
-    "precedingAuctionCode": "0019846230"
+    "precedingSku": "8546909",
+    "precedingTitle": "Marina Kaneva Pocket Shirt (Size 12) - Green",
+    "precedingAuctionCode": "0019849031"
   }
 }
