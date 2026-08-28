@@ -260592,11 +260592,29 @@
       "productUrlChecked": 1787942132738,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8312164": {
+      "sku": "8312164",
+      "firstAir": 1787942664716,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787942664716,
+      "title": "Christmas gift card(pack of 5",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019845674",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "19:44:24",
+      "productUrl": null,
+      "lastUpdated": 1787942664716,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787942598914,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -272058,11 +272076,22 @@
         "followingSku": "8597276",
         "followingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
         "followingAuctionCode": "0019849374"
+      },
+      {
+        "start": 1787942598914,
+        "end": 1787942664716,
+        "durationMin": 1.1,
+        "precedingSku": "8597276",
+        "precedingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
+        "precedingAuctionCode": "0019849374",
+        "followingSku": "8312164",
+        "followingTitle": "Christmas gift card(pack of 5",
+        "followingAuctionCode": "0019845674"
       }
     ],
-    "lastOnAirSku": "8597276",
-    "lastOnAirTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
-    "lastOnAirAuctionCode": "0019849374",
+    "lastOnAirSku": "8312164",
+    "lastOnAirTitle": "Christmas gift card(pack of 5",
+    "lastOnAirAuctionCode": "0019845674",
     "precedingSku": "8597276",
     "precedingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
     "precedingAuctionCode": "0019849374"
