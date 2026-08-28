@@ -237959,21 +237959,26 @@
       "sku": "8360226",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-25",
-      "time": "19:04:24",
+      "date": "2026-08-28",
+      "time": "20:56:28",
       "preExisting": true,
       "missedAt": 1787681064711,
       "missedDelay": null,
-      "lastUpdated": 1787681064711,
+      "lastUpdated": 1787946988288,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "La Marey Striped Relaxed Fit Shirt (Size 16 to 18) - Blue",
-      "auctionCode": "0019841218",
+      "title": "La Marey Floral Relaxed Fit Shirt (Size 8 to 10) - Purple",
+      "auctionCode": "0019846526",
       "source": "gha",
-      "productUrl": "/products/la-marey-shirt-1928360224",
+      "productUrl": "/products/la-marey-shirt-1928360224?variant=53108998308106",
       "productUrlChecked": 1787681068187,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787946988288,
+      "pdpPrice": 12.99,
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8360228": {
       "sku": "8360228",
@@ -260714,8 +260719,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787946931481,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -272232,11 +272237,22 @@
         "followingSku": "8498138",
         "followingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019848148"
+      },
+      {
+        "start": 1787946931481,
+        "end": 1787946988288,
+        "durationMin": 0.9,
+        "precedingSku": "8360176",
+        "precedingTitle": "La Marey Longline Knitted Jersey Cardigan (Size 16 to 20) - Grey",
+        "precedingAuctionCode": "0019846522",
+        "followingSku": "8360226",
+        "followingTitle": "La Marey Floral Relaxed Fit Shirt (Size 8 to 10) - Purple",
+        "followingAuctionCode": "0019846526"
       }
     ],
-    "lastOnAirSku": "8360176",
-    "lastOnAirTitle": "La Marey Longline Knitted Jersey Cardigan (Size 16 to 20) - Grey",
-    "lastOnAirAuctionCode": "0019846522",
+    "lastOnAirSku": "8360226",
+    "lastOnAirTitle": "La Marey Floral Relaxed Fit Shirt (Size 8 to 10) - Purple",
+    "lastOnAirAuctionCode": "0019846526",
     "precedingSku": "8360176",
     "precedingTitle": "La Marey Longline Knitted Jersey Cardigan (Size 16 to 20) - Grey",
     "precedingAuctionCode": "0019846522"
