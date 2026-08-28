@@ -236250,21 +236250,26 @@
       "sku": "8358225",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-25",
-      "time": "13:29:17",
+      "date": "2026-08-28",
+      "time": "19:13:18",
       "preExisting": true,
       "missedAt": 1787660957767,
       "missedDelay": null,
-      "lastUpdated": 1787660957767,
+      "lastUpdated": 1787940798575,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "IW Special Candle (Size - One Size) - White",
-      "auctionCode": "0019840992",
+      "title": "GET IT FOR XMAS Ashland 3 Wick Tin Candle - (312g)",
+      "auctionCode": "0019848975",
       "source": "gha",
       "productUrl": "/products/get-it-for-xmas-ashland-3-wick-tin-candle-312g",
       "productUrlChecked": 1787660962127,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787940798575,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8593434": {
       "sku": "8593434",
@@ -260494,8 +260499,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787940746440,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -271924,11 +271929,22 @@
         "followingSku": "8377291",
         "followingTitle": "Table Lamp (Size - One Size) - Black",
         "followingAuctionCode": "0019845724"
+      },
+      {
+        "start": 1787940746440,
+        "end": 1787940798575,
+        "durationMin": 0.9,
+        "precedingSku": "8256314",
+        "precedingTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
+        "precedingAuctionCode": "0019845726",
+        "followingSku": "8358225",
+        "followingTitle": "GET IT FOR XMAS Ashland 3 Wick Tin Candle - (312g)",
+        "followingAuctionCode": "0019848975"
       }
     ],
-    "lastOnAirSku": "8256314",
-    "lastOnAirTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
-    "lastOnAirAuctionCode": "0019845726",
+    "lastOnAirSku": "8358225",
+    "lastOnAirTitle": "GET IT FOR XMAS Ashland 3 Wick Tin Candle - (312g)",
+    "lastOnAirAuctionCode": "0019848975",
     "precedingSku": "8256314",
     "precedingTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
     "precedingAuctionCode": "0019845726"
