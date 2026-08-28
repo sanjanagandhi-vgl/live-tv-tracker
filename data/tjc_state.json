@@ -257224,11 +257224,29 @@
       "productUrlChecked": 1787910450062,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8334548": {
+      "sku": "8334548",
+      "firstAir": 1787910502352,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787910502352,
+      "title": "Natural Chrysocolla Jasper Cabochon Pendant 65.00 Ct.",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019847507",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-28",
+      "time": "10:48:22",
+      "productUrl": null,
+      "lastUpdated": 1787910502352,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787910441113,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -268305,11 +268323,22 @@
         "followingSku": "8313906",
         "followingTitle": "Multi Colour Tiger Eye Stretchable Bangle",
         "followingAuctionCode": "0019847496"
+      },
+      {
+        "start": 1787910441113,
+        "end": 1787910502352,
+        "durationMin": 1.0,
+        "precedingSku": "8313912",
+        "precedingTitle": "Tucson Close Out - Turquoise Blue Crazy Lace Agate Stretchable Bracelet (Size - 7)",
+        "precedingAuctionCode": "0019847497",
+        "followingSku": "8334548",
+        "followingTitle": "Natural Chrysocolla Jasper Cabochon Pendant 65.00 Ct.",
+        "followingAuctionCode": "0019847507"
       }
     ],
-    "lastOnAirSku": "8313912",
-    "lastOnAirTitle": "Tucson Close Out - Turquoise Blue Crazy Lace Agate Stretchable Bracelet (Size - 7)",
-    "lastOnAirAuctionCode": "0019847497",
+    "lastOnAirSku": "8334548",
+    "lastOnAirTitle": "Natural Chrysocolla Jasper Cabochon Pendant 65.00 Ct.",
+    "lastOnAirAuctionCode": "0019847507",
     "precedingSku": "8313912",
     "precedingTitle": "Tucson Close Out - Turquoise Blue Crazy Lace Agate Stretchable Bracelet (Size - 7)",
     "precedingAuctionCode": "0019847497"
