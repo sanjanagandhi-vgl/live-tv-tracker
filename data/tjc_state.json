@@ -258711,11 +258711,29 @@
       "productUrlChecked": 1787931940020,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8525894": {
+      "sku": "8525894",
+      "firstAir": 1787932401814,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787932401814,
+      "title": "La Marey 100% Mulberry Silk Scarf (199 x 98cm) - Blue",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019846354",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "16:53:21",
+      "productUrl": null,
+      "lastUpdated": 1787932401814,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787932282668,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -270056,11 +270074,22 @@
         "followingSku": "8597276",
         "followingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
         "followingAuctionCode": "0019845814"
+      },
+      {
+        "start": 1787932282668,
+        "end": 1787932401814,
+        "durationMin": 2.0,
+        "precedingSku": "8102242",
+        "precedingTitle": "5-Shelf Hanging Closet Storage Organiser with Removable Drawer Box - Grey",
+        "precedingAuctionCode": "0019845759",
+        "followingSku": "8525894",
+        "followingTitle": "La Marey 100% Mulberry Silk Scarf (199 x 98cm) - Blue",
+        "followingAuctionCode": "0019846354"
       }
     ],
-    "lastOnAirSku": "8102242",
-    "lastOnAirTitle": "5-Shelf Hanging Closet Storage Organiser with Removable Drawer Box - Grey",
-    "lastOnAirAuctionCode": "0019845759",
+    "lastOnAirSku": "8525894",
+    "lastOnAirTitle": "La Marey 100% Mulberry Silk Scarf (199 x 98cm) - Blue",
+    "lastOnAirAuctionCode": "0019846354",
     "precedingSku": "8102242",
     "precedingTitle": "5-Shelf Hanging Closet Storage Organiser with Removable Drawer Box - Grey",
     "precedingAuctionCode": "0019845759"
