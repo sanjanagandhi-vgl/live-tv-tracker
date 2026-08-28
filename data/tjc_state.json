@@ -257141,11 +257141,29 @@
       "productUrl": null,
       "lastUpdated": 1787909902849,
       "source": "gha"
+    },
+    "8313906": {
+      "sku": "8313906",
+      "firstAir": 1787910040232,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787910040232,
+      "title": "Multi Colour Tiger Eye Stretchable Bangle",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019847496",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-08-28",
+      "time": "10:40:40",
+      "productUrl": null,
+      "lastUpdated": 1787910040232,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787909958855,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -268211,11 +268229,22 @@
         "followingSku": "8312120",
         "followingTitle": "Howlite Fancy Stretchable Bracelet",
         "followingAuctionCode": "0019847495"
+      },
+      {
+        "start": 1787909958855,
+        "end": 1787910040232,
+        "durationMin": 1.4,
+        "precedingSku": "8326177",
+        "precedingTitle": "Natural Chinese Rhodochrosite & Black Onyx Heart Shape Pendant in Silver Tone",
+        "precedingAuctionCode": "0019847504",
+        "followingSku": "8313906",
+        "followingTitle": "Multi Colour Tiger Eye Stretchable Bangle",
+        "followingAuctionCode": "0019847496"
       }
     ],
-    "lastOnAirSku": "8326177",
-    "lastOnAirTitle": "Natural Chinese Rhodochrosite & Black Onyx Heart Shape Pendant in Silver Tone",
-    "lastOnAirAuctionCode": "0019847504",
+    "lastOnAirSku": "8313906",
+    "lastOnAirTitle": "Multi Colour Tiger Eye Stretchable Bangle",
+    "lastOnAirAuctionCode": "0019847496",
     "precedingSku": "8326177",
     "precedingTitle": "Natural Chinese Rhodochrosite & Black Onyx Heart Shape Pendant in Silver Tone",
     "precedingAuctionCode": "0019847504"
