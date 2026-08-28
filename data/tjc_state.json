@@ -92214,17 +92214,17 @@
       "firstAir": 1786086510779,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787751384784,
+      "lastAir": 1787928040132,
       "title": "La Marey Soft Touch Asymmetric Top (Size 16 to 18) - Blue",
       "pdpPrice": "9.99",
-      "auctionCode": "0019841743",
+      "auctionCode": "0019846320",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-26",
-      "time": "14:36:24",
+      "date": "2026-08-28",
+      "time": "15:40:40",
       "productUrl": "/products/la-marey-soft-touch-asymmetric-top",
-      "lastUpdated": 1787751384784,
+      "lastUpdated": 1787928040132,
       "source": "gha",
       "missedAt": 1786087237820,
       "missedDelay": 11,
@@ -258336,8 +258336,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787927960060,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -269645,11 +269645,22 @@
         "followingSku": "8292615",
         "followingTitle": "La Marey Classic Rayon T-shirt (Size 16 to 18) - Green",
         "followingAuctionCode": "0019846296"
+      },
+      {
+        "start": 1787927960060,
+        "end": 1787928040132,
+        "durationMin": 1.3,
+        "precedingSku": "8414802",
+        "precedingTitle": "La Marey Waterfall Longline Cardigan (One Size) - Rose Pink",
+        "precedingAuctionCode": "0019846315",
+        "followingSku": "8414892",
+        "followingTitle": "La Marey Soft Touch Asymmetric Top (Size 16 to 18) - Blue",
+        "followingAuctionCode": "0019846320"
       }
     ],
-    "lastOnAirSku": "8414802",
-    "lastOnAirTitle": "La Marey Waterfall Longline Cardigan (One Size) - Rose Pink",
-    "lastOnAirAuctionCode": "0019846315",
+    "lastOnAirSku": "8414892",
+    "lastOnAirTitle": "La Marey Soft Touch Asymmetric Top (Size 16 to 18) - Blue",
+    "lastOnAirAuctionCode": "0019846320",
     "precedingSku": "8414802",
     "precedingTitle": "La Marey Waterfall Longline Cardigan (One Size) - Rose Pink",
     "precedingAuctionCode": "0019846315"
