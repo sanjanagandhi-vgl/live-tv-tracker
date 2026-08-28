@@ -208489,17 +208489,17 @@
       "firstAir": 1787327061519,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787751982335,
+      "lastAir": 1787924840688,
       "title": "La Marey Summer Knit Short Sleeve Top (Size XL, Fit 20 To 22) - Blue",
-      "pdpPrice": "12.99",
-      "auctionCode": "0019841775",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019846235",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-26",
-      "time": "14:46:22",
+      "date": "2026-08-28",
+      "time": "14:47:20",
       "productUrl": "/products/la-marey-summer-knit-short-sleeve-top",
-      "lastUpdated": 1787751982335,
+      "lastUpdated": 1787924840688,
       "source": "gha",
       "missedAt": 1787327662176,
       "missedDelay": 10,
@@ -257958,9 +257958,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "14:17:19",
-      "productUrl": null,
-      "lastUpdated": 1787923039933,
-      "source": "gha"
+      "productUrl": "/products/mizumi-shirt",
+      "lastUpdated": 1787924840688,
+      "source": "gha",
+      "missedAt": 1787924840688,
+      "missedDelay": 30,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787924844695,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8552302": {
       "sku": "8552302",
@@ -258067,8 +258074,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787924782936,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -269343,11 +269350,22 @@
         "followingSku": "8238697",
         "followingTitle": "Emreco Short Sleeves Crew Neck T-Shirt (Size 16) - Red",
         "followingAuctionCode": "0019846220"
+      },
+      {
+        "start": 1787924782936,
+        "end": 1787924840688,
+        "durationMin": 1.0,
+        "precedingSku": "8430655",
+        "precedingTitle": "La Marey Light Knitted Polo Shirt (Size XL, Fit 20 To 22) - Purple",
+        "precedingAuctionCode": "0019846230",
+        "followingSku": "8431170",
+        "followingTitle": "La Marey Summer Knit Short Sleeve Top (Size XL, Fit 20 To 22) - Blue",
+        "followingAuctionCode": "0019846235"
       }
     ],
-    "lastOnAirSku": "8430655",
-    "lastOnAirTitle": "La Marey Light Knitted Polo Shirt (Size XL, Fit 20 To 22) - Purple",
-    "lastOnAirAuctionCode": "0019846230",
+    "lastOnAirSku": "8431170",
+    "lastOnAirTitle": "La Marey Summer Knit Short Sleeve Top (Size XL, Fit 20 To 22) - Blue",
+    "lastOnAirAuctionCode": "0019846235",
     "precedingSku": "8430655",
     "precedingTitle": "La Marey Light Knitted Polo Shirt (Size XL, Fit 20 To 22) - Purple",
     "precedingAuctionCode": "0019846230"
