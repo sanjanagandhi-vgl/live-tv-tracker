@@ -142285,23 +142285,23 @@
       "sku": "8487266",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "18:01:38",
+      "date": "2026-08-28",
+      "time": "20:58:22",
       "preExisting": true,
       "missedAt": 1786547061982,
       "missedDelay": null,
-      "lastUpdated": 1787072498685,
+      "lastUpdated": 1787947102991,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "La Marey Textured Midi Cardigan with Belt (Size 12 to 14) - Green & Blue",
-      "auctionCode": "0019827302",
+      "auctionCode": "0019846549",
       "source": "gha",
-      "productUrl": "/products/la-marey-textured-midi-cardigan-with-belt-size-16-to-18-green-blue",
+      "productUrl": "/products/la-marey-textured-midi-cardigan-with-belt-size-12-to-14-green-blue?variant=53106400067850",
       "productUrlChecked": 1786547069579,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787072498685,
-      "pdpPrice": "14.99",
+      "lastAir": 1787947102991,
+      "pdpPrice": 14.99,
       "buy": true,
       "login": false,
       "img": true
@@ -260719,8 +260719,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787947038717,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -272248,11 +272248,22 @@
         "followingSku": "8360226",
         "followingTitle": "La Marey Floral Relaxed Fit Shirt (Size 8 to 10) - Purple",
         "followingAuctionCode": "0019846526"
+      },
+      {
+        "start": 1787947038717,
+        "end": 1787947102991,
+        "durationMin": 1.1,
+        "precedingSku": "8360226",
+        "precedingTitle": "La Marey Floral Relaxed Fit Shirt (Size 8 to 10) - Purple",
+        "precedingAuctionCode": "0019846526",
+        "followingSku": "8487266",
+        "followingTitle": "La Marey Textured Midi Cardigan with Belt (Size 12 to 14) - Green & Blue",
+        "followingAuctionCode": "0019846549"
       }
     ],
-    "lastOnAirSku": "8360226",
-    "lastOnAirTitle": "La Marey Floral Relaxed Fit Shirt (Size 8 to 10) - Purple",
-    "lastOnAirAuctionCode": "0019846526",
+    "lastOnAirSku": "8487266",
+    "lastOnAirTitle": "La Marey Textured Midi Cardigan with Belt (Size 12 to 14) - Green & Blue",
+    "lastOnAirAuctionCode": "0019846549",
     "precedingSku": "8360226",
     "precedingTitle": "La Marey Floral Relaxed Fit Shirt (Size 8 to 10) - Purple",
     "precedingAuctionCode": "0019846526"
