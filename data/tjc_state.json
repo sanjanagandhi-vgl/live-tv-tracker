@@ -258479,11 +258479,15 @@
       "date": "2026-08-28",
       "time": "15:59:19",
       "productUrl": "/products/pure-and-natural-cotton-trousers-with-21inch-inseam?variant=53101654769930",
-      "lastUpdated": 1787929159770,
+      "lastUpdated": 1787929703135,
       "source": "gha",
       "productUrlChecked": 1787929164289,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1787929703135,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8547970": {
       "sku": "8547970",
@@ -258560,6 +258564,26 @@
       "source": "gha",
       "productUrl": "/products/pure-and-natural-cotton-trousers-with-21inch-inseam",
       "productUrlChecked": 1787929644106,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8547870": {
+      "sku": "8547870",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "16:08:23",
+      "preExisting": true,
+      "missedAt": 1787929703135,
+      "missedDelay": null,
+      "lastUpdated": 1787929703135,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Pure And Natural Cotton Trousers With 21Inch Inseam (Size 16) - Sky",
+      "auctionCode": "0019848874",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-cotton-trousers-with-21inch-inseam",
+      "productUrlChecked": 1787929706689,
       "productUrlStatus": 200,
       "productUrl404": false
     }
