@@ -255116,14 +255116,41 @@
       "img": true,
       "date": "2026-08-28",
       "time": "04:33:20",
-      "productUrl": null,
-      "lastUpdated": 1787888000047,
-      "source": "gha"
+      "productUrl": "/products/djoy-moissanite-solitaire-stud-earring-with-screw-back-in-yellow-gold-plated-sterling-silver-3-60-ct-6058427249",
+      "lastUpdated": 1787888543693,
+      "source": "gha",
+      "missedAt": 1787888543693,
+      "missedDelay": 9,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1787888551835,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8427250": {
+      "sku": "8427250",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "04:42:23",
+      "preExisting": true,
+      "missedAt": 1787888543693,
+      "missedDelay": null,
+      "lastUpdated": 1787888543693,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "D'Joy - Moissanite Solitaire Stud Earring with Screw Back in Platinum Overlay Sterling Silver 3.60 Ct.",
+      "auctionCode": "0019846543",
+      "source": "gha",
+      "productUrl": "/products/djoy-moissanite-solitaire-stud-earring-with-screw-back-in-yellow-gold-plated-sterling-silver-3-60-ct-6058427249",
+      "productUrlChecked": 1787888553077,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787888543693,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265831,8 +265858,8 @@
     "lastOnAirSku": "8498138",
     "lastOnAirTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
     "lastOnAirAuctionCode": "0019847768",
-    "precedingSku": "8427249",
-    "precedingTitle": "D'Joy Moissanite Solitaire Stud Earring with Screw Back in Platinum Overlay Sterling Silver 3.60 Ct.",
-    "precedingAuctionCode": "0019846517"
+    "precedingSku": "8498138",
+    "precedingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
+    "precedingAuctionCode": "0019847768"
   }
 }
