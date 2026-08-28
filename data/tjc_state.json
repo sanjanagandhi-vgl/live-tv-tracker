@@ -255221,11 +255221,29 @@
       "productUrlChecked": 1787889993064,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8611088": {
+      "sku": "8611088",
+      "firstAir": 1787890161764,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787890161764,
+      "title": "Natural Black Jade Stretchable Bracelet (Size - 7 to 7.5) 150.00 Ct.",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019846179",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "05:09:21",
+      "productUrl": null,
+      "lastUpdated": 1787890161764,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787890038301,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265983,11 +266001,22 @@
         "followingSku": "8202023",
         "followingTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
         "followingAuctionCode": "0019845991"
+      },
+      {
+        "start": 1787890038301,
+        "end": 1787890161764,
+        "durationMin": 2.1,
+        "precedingSku": "8202023",
+        "precedingTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
+        "precedingAuctionCode": "0019845991",
+        "followingSku": "8611088",
+        "followingTitle": "Natural Black Jade Stretchable Bracelet (Size - 7 to 7.5) 150.00 Ct.",
+        "followingAuctionCode": "0019846179"
       }
     ],
-    "lastOnAirSku": "8202023",
-    "lastOnAirTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
-    "lastOnAirAuctionCode": "0019845991",
+    "lastOnAirSku": "8611088",
+    "lastOnAirTitle": "Natural Black Jade Stretchable Bracelet (Size - 7 to 7.5) 150.00 Ct.",
+    "lastOnAirAuctionCode": "0019846179",
     "precedingSku": "8202023",
     "precedingTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
     "precedingAuctionCode": "0019845991"
