@@ -254586,11 +254586,29 @@
       "productUrl": null,
       "lastUpdated": 1787876958067,
       "source": "gha"
+    },
+    "8520225": {
+      "sku": "8520225",
+      "firstAir": 1787879301948,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787879301948,
+      "title": "Set of 3- Max Factor Priyanka Lip Crayon - Includes Hibiscus, Mauve Love & Orange Grace.",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019845827",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "02:08:21",
+      "productUrl": null,
+      "lastUpdated": 1787879301948,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787879184370,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265128,11 +265146,22 @@
         "followingSku": "8572443",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
         "followingAuctionCode": "0019847772"
+      },
+      {
+        "start": 1787879184370,
+        "end": 1787879301948,
+        "durationMin": 2.0,
+        "precedingSku": "8572443",
+        "precedingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
+        "precedingAuctionCode": "0019847772",
+        "followingSku": "8520225",
+        "followingTitle": "Set of 3- Max Factor Priyanka Lip Crayon - Includes Hibiscus, Mauve Love & Orange Grace.",
+        "followingAuctionCode": "0019845827"
       }
     ],
-    "lastOnAirSku": "8572443",
-    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
-    "lastOnAirAuctionCode": "0019847772",
+    "lastOnAirSku": "8520225",
+    "lastOnAirTitle": "Set of 3- Max Factor Priyanka Lip Crayon - Includes Hibiscus, Mauve Love & Orange Grace.",
+    "lastOnAirAuctionCode": "0019845827",
     "precedingSku": "8572443",
     "precedingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
     "precedingAuctionCode": "0019847772"
