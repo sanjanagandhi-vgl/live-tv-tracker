@@ -256791,11 +256791,29 @@
       "productUrl": null,
       "lastUpdated": 1787905341400,
       "source": "gha"
+    },
+    "7601627": {
+      "sku": "7601627",
+      "firstAir": 1787905461533,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787905461533,
+      "title": "Animal Ring Box (Size 13x9x2 in) - Brown & Black",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019847764",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "09:24:21",
+      "productUrl": null,
+      "lastUpdated": 1787905461533,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787905400238,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -267784,11 +267802,22 @@
         "followingSku": "7632754",
         "followingTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
         "followingAuctionCode": "0019845834"
+      },
+      {
+        "start": 1787905400238,
+        "end": 1787905461533,
+        "durationMin": 1.0,
+        "precedingSku": "7632754",
+        "precedingTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
+        "precedingAuctionCode": "0019845834",
+        "followingSku": "7601627",
+        "followingTitle": "Animal Ring Box (Size 13x9x2 in) - Brown & Black",
+        "followingAuctionCode": "0019847764"
       }
     ],
-    "lastOnAirSku": "7632754",
-    "lastOnAirTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
-    "lastOnAirAuctionCode": "0019845834",
+    "lastOnAirSku": "7601627",
+    "lastOnAirTitle": "Animal Ring Box (Size 13x9x2 in) - Brown & Black",
+    "lastOnAirAuctionCode": "0019847764",
     "precedingSku": "7632754",
     "precedingTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
     "precedingAuctionCode": "0019845834"
