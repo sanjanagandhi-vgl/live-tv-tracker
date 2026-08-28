@@ -257446,9 +257446,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "11:36:22",
-      "productUrl": null,
-      "lastUpdated": 1787913382135,
-      "source": "gha"
+      "productUrl": "/products/bangle-pure-white-stainless-steel-8699316",
+      "lastUpdated": 1787913938499,
+      "source": "gha",
+      "missedAt": 1787913938499,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787913941998,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8282400": {
       "sku": "8282400",
@@ -257503,11 +257510,31 @@
       "productUrl": null,
       "lastUpdated": 1787913864361,
       "source": "gha"
+    },
+    "8699316": {
+      "sku": "8699316",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "11:45:38",
+      "preExisting": true,
+      "missedAt": 1787913938499,
+      "missedDelay": null,
+      "lastUpdated": 1787913938499,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Twisted Link Bangle (Size - 7.25) in Yellow Gold Tone",
+      "auctionCode": "0019847600",
+      "source": "gha",
+      "productUrl": "/products/bangle-pure-white-stainless-steel-8699316",
+      "productUrlChecked": 1787913942571,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787913938499,
     "gaps": [
       {
         "start": 1785823527869,
@@ -268644,8 +268671,8 @@
     "lastOnAirSku": "8335079",
     "lastOnAirTitle": "White Cubic Zirconia Bracelet (Size - 7.25) in Yellow Gold Tone 1.00 Ct.",
     "lastOnAirAuctionCode": "0019847579",
-    "precedingSku": "8282397",
-    "precedingTitle": "White Cubic Zirconia Spinner Adjustable Ring in Silver Tone 7.00 Ct.",
-    "precedingAuctionCode": "0019847575"
+    "precedingSku": "8335079",
+    "precedingTitle": "White Cubic Zirconia Bracelet (Size - 7.25) in Yellow Gold Tone 1.00 Ct.",
+    "precedingAuctionCode": "0019847579"
   }
 }
