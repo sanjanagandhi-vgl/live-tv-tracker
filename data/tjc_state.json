@@ -25442,21 +25442,26 @@
       "sku": "8356501",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-28",
+      "time": "04:56:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1787889382672,
       "missedPrice": 5.99,
       "missedImg": false,
       "title": "Labradorite & Black Agate Pear Shape Pendant",
-      "auctionCode": "0019800783",
+      "auctionCode": "0019845967",
       "source": "gha",
       "productUrl": "/products/labradorite-black-agate-pear-shape-pendant-in-silver-tone",
       "productUrlChecked": 1785474742356,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787889382672,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8413535": {
       "sku": "8413535",
@@ -255161,9 +255166,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "04:47:27",
-      "productUrl": null,
-      "lastUpdated": 1787888847057,
-      "source": "gha"
+      "productUrl": "/products/lapis-lazuli-dragon-pendant-with-chain-size-20-with-2-inch-extender-in-silver-tone-35-00-ct",
+      "lastUpdated": 1787889382672,
+      "source": "gha",
+      "missedAt": 1787889382672,
+      "missedDelay": 9,
+      "missedPrice": 2.99,
+      "missedImg": true,
+      "productUrlChecked": 1787889389714,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4425464": {
       "sku": "4425464",
@@ -255185,8 +255197,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787889330548,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265922,11 +265934,22 @@
         "followingSku": "4425464",
         "followingTitle": "Bloomstone Collection - Set of 2 - Floral Necklace (Size - 18-2 Ext) and Push Back Earring",
         "followingAuctionCode": "0019845990"
+      },
+      {
+        "start": 1787889330548,
+        "end": 1787889382672,
+        "durationMin": 0.9,
+        "precedingSku": "4442748",
+        "precedingTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated - Pink",
+        "precedingAuctionCode": "0019846037",
+        "followingSku": "8356501",
+        "followingTitle": "Labradorite & Black Agate Pear Shape Pendant",
+        "followingAuctionCode": "0019845967"
       }
     ],
-    "lastOnAirSku": "4442748",
-    "lastOnAirTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated - Pink",
-    "lastOnAirAuctionCode": "0019846037",
+    "lastOnAirSku": "8356501",
+    "lastOnAirTitle": "Labradorite & Black Agate Pear Shape Pendant",
+    "lastOnAirAuctionCode": "0019845967",
     "precedingSku": "4442748",
     "precedingTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated - Pink",
     "precedingAuctionCode": "0019846037"
