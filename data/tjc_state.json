@@ -96452,17 +96452,17 @@
       "firstAir": 1786110984092,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786136962468,
+      "lastAir": 1787909304012,
       "title": "Howlite Fancy Stretchable Bracelet",
-      "pdpPrice": 5.99,
-      "auctionCode": "0019811535",
-      "buy": false,
+      "pdpPrice": "4.99",
+      "auctionCode": "0019847495",
+      "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-08-07",
-      "time": "22:09:22",
+      "date": "2026-08-28",
+      "time": "10:28:24",
       "productUrl": "/products/howalite-fancy-stretchable-bracelet?variant=53107116343562",
-      "lastUpdated": 1786136962468,
+      "lastUpdated": 1787909304012,
       "source": "gha",
       "productUrlChecked": 1786111653054,
       "productUrlStatus": 500,
@@ -257056,9 +257056,16 @@
       "img": false,
       "date": "2026-08-28",
       "time": "10:18:23",
-      "productUrl": null,
-      "lastUpdated": 1787908703376,
-      "source": "gha"
+      "productUrl": "/products/multicolour-jasper-agate-stretchable-bracelet-size-7",
+      "lastUpdated": 1787909304012,
+      "source": "gha",
+      "missedAt": 1787909304012,
+      "missedDelay": 10,
+      "missedPrice": 5.99,
+      "missedImg": false,
+      "productUrlChecked": 1787909306771,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8308274": {
       "sku": "8308274",
@@ -257098,8 +257105,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787909238990,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -268154,11 +268161,22 @@
         "followingSku": "8307831",
         "followingTitle": "Genuine Gemstone Handmade Stretchable Bracelet",
         "followingAuctionCode": "0019847488"
+      },
+      {
+        "start": 1787909238990,
+        "end": 1787909304012,
+        "durationMin": 1.1,
+        "precedingSku": "8312111",
+        "precedingTitle": "Blue Crazy Agate Stretchable Bracelet (Size - 7)",
+        "precedingAuctionCode": "0019847494",
+        "followingSku": "8312120",
+        "followingTitle": "Howlite Fancy Stretchable Bracelet",
+        "followingAuctionCode": "0019847495"
       }
     ],
-    "lastOnAirSku": "8312111",
-    "lastOnAirTitle": "Blue Crazy Agate Stretchable Bracelet (Size - 7)",
-    "lastOnAirAuctionCode": "0019847494",
+    "lastOnAirSku": "8312120",
+    "lastOnAirTitle": "Howlite Fancy Stretchable Bracelet",
+    "lastOnAirAuctionCode": "0019847495",
     "precedingSku": "8312111",
     "precedingTitle": "Blue Crazy Agate Stretchable Bracelet (Size - 7)",
     "precedingAuctionCode": "0019847494"
