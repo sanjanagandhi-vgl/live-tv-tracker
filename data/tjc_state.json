@@ -258407,11 +258407,29 @@
       "productUrlChecked": 1787928869053,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8547861": {
+      "sku": "8547861",
+      "firstAir": 1787928984364,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787928984364,
+      "title": "Pure And Natural Cotton Trousers With 21Inch Inseam (Size 16) - Sky",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019846341",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "15:56:24",
+      "productUrl": null,
+      "lastUpdated": 1787928984364,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787928929890,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -269730,11 +269748,22 @@
         "followingSku": "8414892",
         "followingTitle": "La Marey Soft Touch Asymmetric Top (Size 16 to 18) - Blue",
         "followingAuctionCode": "0019846320"
+      },
+      {
+        "start": 1787928929890,
+        "end": 1787928984364,
+        "durationMin": 0.9,
+        "precedingSku": "8523564",
+        "precedingTitle": "Pure And Natural Crew Neck Knitted Cardigans (Size 12) - Pink",
+        "precedingAuctionCode": "0019846339",
+        "followingSku": "8547861",
+        "followingTitle": "Pure And Natural Cotton Trousers With 21Inch Inseam (Size 16) - Sky",
+        "followingAuctionCode": "0019846341"
       }
     ],
-    "lastOnAirSku": "8523564",
-    "lastOnAirTitle": "Pure And Natural Crew Neck Knitted Cardigans (Size 12) - Pink",
-    "lastOnAirAuctionCode": "0019846339",
+    "lastOnAirSku": "8547861",
+    "lastOnAirTitle": "Pure And Natural Cotton Trousers With 21Inch Inseam (Size 16) - Sky",
+    "lastOnAirAuctionCode": "0019846341",
     "precedingSku": "8523564",
     "precedingTitle": "Pure And Natural Crew Neck Knitted Cardigans (Size 12) - Pink",
     "precedingAuctionCode": "0019846339"
