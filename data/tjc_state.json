@@ -210069,21 +210069,26 @@
       "sku": "8625533",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "19:48:23",
+      "date": "2026-08-28",
+      "time": "09:32:22",
       "preExisting": true,
       "missedAt": 1787338103225,
       "missedDelay": null,
-      "lastUpdated": 1787338103225,
+      "lastUpdated": 1787905942759,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "White Crystal Quartz Gemstone Bonsai Tree with Maneki-Neko Lucky Cat 100.00 Ct.",
-      "auctionCode": "0019834779",
+      "title": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
+      "auctionCode": "0019845841",
       "source": "gha",
       "productUrl": "/products/african-amethyst-accessories-pure-rose-brass-100-000-ct-8625529",
       "productUrlChecked": 1787338108420,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787905942759,
+      "pdpPrice": "179.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8625544": {
       "sku": "8625544",
@@ -256788,9 +256793,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "09:22:21",
-      "productUrl": null,
-      "lastUpdated": 1787905341400,
-      "source": "gha"
+      "productUrl": "/products/patterned-jewellery-box-size-10x10x5-multi-color",
+      "lastUpdated": 1787905942759,
+      "source": "gha",
+      "missedAt": 1787905942759,
+      "missedDelay": 10,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "productUrlChecked": 1787905945907,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7601627": {
       "sku": "7601627",
@@ -256812,8 +256824,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787905879807,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -267824,11 +267836,22 @@
         "followingSku": "8484037",
         "followingTitle": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp in Yellow",
         "followingAuctionCode": "0019845937"
+      },
+      {
+        "start": 1787905879807,
+        "end": 1787905942759,
+        "durationMin": 1.0,
+        "precedingSku": "8484037",
+        "precedingTitle": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp in Yellow",
+        "precedingAuctionCode": "0019845937",
+        "followingSku": "8625533",
+        "followingTitle": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
+        "followingAuctionCode": "0019845841"
       }
     ],
-    "lastOnAirSku": "8484037",
-    "lastOnAirTitle": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp in Yellow",
-    "lastOnAirAuctionCode": "0019845937",
+    "lastOnAirSku": "8625533",
+    "lastOnAirTitle": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
+    "lastOnAirAuctionCode": "0019845841",
     "precedingSku": "8484037",
     "precedingTitle": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp in Yellow",
     "precedingAuctionCode": "0019845937"
