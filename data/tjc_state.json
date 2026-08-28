@@ -243471,21 +243471,26 @@
       "sku": "8509820",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-26",
-      "time": "17:21:34",
+      "date": "2026-08-28",
+      "time": "18:31:18",
       "preExisting": true,
       "missedAt": 1787761294699,
       "missedDelay": null,
-      "lastUpdated": 1787761294699,
+      "lastUpdated": 1787938278211,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Marina Kaneva Ruffled Front Tie Neckline Blouse (Size - 12) - Black",
-      "auctionCode": "0019841943",
+      "title": "Marina Kaneva Ruffled Front Tie Neckline Blouse (Size - 22) - Lemon",
+      "auctionCode": "0019846488",
       "source": "gha",
       "productUrl": "/products/marina-kaneva-ruffled-front-tie-neckline-blouse",
       "productUrlChecked": 1787761299790,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787938278211,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8509822": {
       "sku": "8509822",
@@ -260320,8 +260325,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787938253521,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -271706,11 +271711,22 @@
         "followingSku": "8312833",
         "followingTitle": "Livmore 10-Pack Hanging Dehumidifier Bags - 220g Moisture Absorbers for Wardrobes and Cupboards, Fragrance-Free Calcium Chloride Wardrobe Drier - Blue & White",
         "followingAuctionCode": "0019845760"
+      },
+      {
+        "start": 1787938253521,
+        "end": 1787938278211,
+        "durationMin": 0.4,
+        "precedingSku": "8228355",
+        "precedingTitle": "Charlotte West 100% Cotton Printed 3-4 Sleeve Blouse With Side Vent (Size 20) - Pink",
+        "precedingAuctionCode": "0019846484",
+        "followingSku": "8509820",
+        "followingTitle": "Marina Kaneva Ruffled Front Tie Neckline Blouse (Size - 22) - Lemon",
+        "followingAuctionCode": "0019846488"
       }
     ],
-    "lastOnAirSku": "8228355",
-    "lastOnAirTitle": "Charlotte West 100% Cotton Printed 3-4 Sleeve Blouse With Side Vent (Size 20) - Pink",
-    "lastOnAirAuctionCode": "0019846484",
+    "lastOnAirSku": "8509820",
+    "lastOnAirTitle": "Marina Kaneva Ruffled Front Tie Neckline Blouse (Size - 22) - Lemon",
+    "lastOnAirAuctionCode": "0019846488",
     "precedingSku": "8228355",
     "precedingTitle": "Charlotte West 100% Cotton Printed 3-4 Sleeve Blouse With Side Vent (Size 20) - Pink",
     "precedingAuctionCode": "0019846484"
