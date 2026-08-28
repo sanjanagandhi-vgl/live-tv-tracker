@@ -252581,21 +252581,26 @@
       "sku": "4426061",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-27",
-      "time": "15:28:24",
+      "date": "2026-08-28",
+      "time": "11:13:22",
       "preExisting": true,
       "missedAt": 1787840904953,
       "missedDelay": null,
-      "lastUpdated": 1787840904953,
+      "lastUpdated": 1787912002362,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "Tucson Close Out- Lapis Lazuli Solitaire Pendant with Chain (Size 20-2 Ext) (35x25)",
-      "auctionCode": "0019846044",
+      "title": "Tucson Close Out- Lapis Lazuli Solitaire Pendant with Chain (Size 20+2 Ext) (35x25)",
+      "auctionCode": "0019847548",
       "source": "gha",
       "productUrl": "/products/yellow-tigers-eye-pendant-with-chain-size-20-2-ext-in-yellow-gold-tone-20-00-ct-36x254426068",
       "productUrlChecked": 1787840909181,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787912002362,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4426066": {
       "sku": "4426066",
@@ -257392,8 +257397,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787911943363,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -268492,11 +268497,22 @@
         "followingSku": "8313915",
         "followingTitle": "Tigers Eye Stretchable Bracelet",
         "followingAuctionCode": "0019847498"
+      },
+      {
+        "start": 1787911943363,
+        "end": 1787912002362,
+        "durationMin": 1.0,
+        "precedingSku": "4424665",
+        "precedingTitle": "Champagne Color Crystal Pear Solitaire Pendant with Chain (Size 24) in Silver Tone.(48x33)",
+        "precedingAuctionCode": "0019847547",
+        "followingSku": "4426061",
+        "followingTitle": "Tucson Close Out- Lapis Lazuli Solitaire Pendant with Chain (Size 20+2 Ext) (35x25)",
+        "followingAuctionCode": "0019847548"
       }
     ],
-    "lastOnAirSku": "4424665",
-    "lastOnAirTitle": "Champagne Color Crystal Pear Solitaire Pendant with Chain (Size 24) in Silver Tone.(48x33)",
-    "lastOnAirAuctionCode": "0019847547",
+    "lastOnAirSku": "4426061",
+    "lastOnAirTitle": "Tucson Close Out- Lapis Lazuli Solitaire Pendant with Chain (Size 20+2 Ext) (35x25)",
+    "lastOnAirAuctionCode": "0019847548",
     "precedingSku": "4424665",
     "precedingTitle": "Champagne Color Crystal Pear Solitaire Pendant with Chain (Size 24) in Silver Tone.(48x33)",
     "precedingAuctionCode": "0019847547"
