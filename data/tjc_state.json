@@ -161888,17 +161888,17 @@
       "firstAir": 1786747584683,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786747584683,
+      "lastAir": 1787910798691,
       "title": "Tigers Eye Stretchable Bracelet",
-      "pdpPrice": "4.99",
-      "auctionCode": "0019820121",
+      "pdpPrice": 4.99,
+      "auctionCode": "0019847498",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-08-14",
-      "time": "23:46:24",
-      "productUrl": "/products/tigers-eye-fancy-stretchable-bracelet",
-      "lastUpdated": 1786748183422,
+      "date": "2026-08-28",
+      "time": "10:53:18",
+      "productUrl": "/products/tigers-eye-fancy-stretchable-bracelet?variant=53107434225930",
+      "lastUpdated": 1787910798691,
       "source": "gha",
       "missedAt": 1786748183422,
       "missedDelay": 10,
@@ -257245,8 +257245,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787910742633,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -268334,11 +268334,22 @@
         "followingSku": "8334548",
         "followingTitle": "Natural Chrysocolla Jasper Cabochon Pendant 65.00 Ct.",
         "followingAuctionCode": "0019847507"
+      },
+      {
+        "start": 1787910742633,
+        "end": 1787910798691,
+        "durationMin": 0.9,
+        "precedingSku": "8334548",
+        "precedingTitle": "Natural Chrysocolla Jasper Cabochon Pendant 65.00 Ct.",
+        "precedingAuctionCode": "0019847507",
+        "followingSku": "8313915",
+        "followingTitle": "Tigers Eye Stretchable Bracelet",
+        "followingAuctionCode": "0019847498"
       }
     ],
-    "lastOnAirSku": "8334548",
-    "lastOnAirTitle": "Natural Chrysocolla Jasper Cabochon Pendant 65.00 Ct.",
-    "lastOnAirAuctionCode": "0019847507",
+    "lastOnAirSku": "8313915",
+    "lastOnAirTitle": "Tigers Eye Stretchable Bracelet",
+    "lastOnAirAuctionCode": "0019847498",
     "precedingSku": "8334548",
     "precedingTitle": "Natural Chrysocolla Jasper Cabochon Pendant 65.00 Ct.",
     "precedingAuctionCode": "0019847507"
