@@ -233468,21 +233468,26 @@
       "sku": "8658011",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-24",
-      "time": "20:01:04",
+      "date": "2026-08-28",
+      "time": "12:53:20",
       "preExisting": true,
       "missedAt": 1787598064125,
       "missedDelay": null,
-      "lastUpdated": 1787598064125,
+      "lastUpdated": 1787918000182,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Blue",
-      "auctionCode": "0019840478",
+      "title": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Black",
+      "auctionCode": "0019847671",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-light-khaki-8658010",
       "productUrlChecked": 1787598078244,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787918000182,
+      "pdpPrice": "119.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8658012": {
       "sku": "8658012",
@@ -257794,8 +257799,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787917942005,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -268982,11 +268987,22 @@
         "followingSku": "8466111",
         "followingTitle": "LA MAREY 2-Piece Sling Crossbody Bag & Matching Wallet Combo - Sea Pink",
         "followingAuctionCode": "0019847650"
+      },
+      {
+        "start": 1787917942005,
+        "end": 1787918000182,
+        "durationMin": 1.0,
+        "precedingSku": "8466111",
+        "precedingTitle": "LA MAREY 2-Piece Sling Crossbody Bag & Matching Wallet Combo - Sea Pink",
+        "precedingAuctionCode": "0019847650",
+        "followingSku": "8658011",
+        "followingTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Black",
+        "followingAuctionCode": "0019847671"
       }
     ],
-    "lastOnAirSku": "8466111",
-    "lastOnAirTitle": "LA MAREY 2-Piece Sling Crossbody Bag & Matching Wallet Combo - Sea Pink",
-    "lastOnAirAuctionCode": "0019847650",
+    "lastOnAirSku": "8658011",
+    "lastOnAirTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Black",
+    "lastOnAirAuctionCode": "0019847671",
     "precedingSku": "8466111",
     "precedingTitle": "LA MAREY 2-Piece Sling Crossbody Bag & Matching Wallet Combo - Sea Pink",
     "precedingAuctionCode": "0019847650"
