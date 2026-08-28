@@ -187395,17 +187395,17 @@
       "firstAir": 1787077343859,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787297600940,
+      "lastAir": 1787945129768,
       "title": "LOWEST EVER PRICE - RWND25 Instant Wrinkle Reducer",
       "pdpPrice": "19.99",
-      "auctionCode": "0019831418",
+      "auctionCode": "0019845696",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-21",
-      "time": "08:33:20",
+      "date": "2026-08-28",
+      "time": "20:25:29",
       "productUrl": "/products/rwnd25-instant-wrinkle-reducer",
-      "lastUpdated": 1787297600940,
+      "lastUpdated": 1787945129768,
       "source": "gha",
       "missedAt": 1787078781304,
       "missedDelay": 10,
@@ -260679,8 +260679,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787945000479,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -272175,11 +272175,22 @@
         "followingSku": "8559295",
         "followingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
         "followingAuctionCode": "0019847471"
+      },
+      {
+        "start": 1787945000479,
+        "end": 1787945129768,
+        "durationMin": 2.2,
+        "precedingSku": "8559295",
+        "precedingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
+        "precedingAuctionCode": "0019847471",
+        "followingSku": "8305877",
+        "followingTitle": "LOWEST EVER PRICE - RWND25 Instant Wrinkle Reducer",
+        "followingAuctionCode": "0019845696"
       }
     ],
-    "lastOnAirSku": "8559295",
-    "lastOnAirTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
-    "lastOnAirAuctionCode": "0019847471",
+    "lastOnAirSku": "8305877",
+    "lastOnAirTitle": "LOWEST EVER PRICE - RWND25 Instant Wrinkle Reducer",
+    "lastOnAirAuctionCode": "0019845696",
     "precedingSku": "8559295",
     "precedingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
     "precedingAuctionCode": "0019847471"
