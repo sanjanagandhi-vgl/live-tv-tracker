@@ -256848,11 +256848,29 @@
       "productUrlChecked": 1787906134279,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8243698": {
+      "sku": "8243698",
+      "firstAir": 1787906436946,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787906436946,
+      "title": "24K Yellow Gold (99.9% Purity)  Butterfly Collectible",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019845957",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "09:40:36",
+      "productUrl": null,
+      "lastUpdated": 1787906436946,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787906357764,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -267874,11 +267892,22 @@
         "followingSku": "8625533",
         "followingTitle": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
         "followingAuctionCode": "0019845841"
+      },
+      {
+        "start": 1787906357764,
+        "end": 1787906436946,
+        "durationMin": 1.3,
+        "precedingSku": "8625533",
+        "precedingTitle": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
+        "precedingAuctionCode": "0019845841",
+        "followingSku": "8243698",
+        "followingTitle": "24K Yellow Gold (99.9% Purity)  Butterfly Collectible",
+        "followingAuctionCode": "0019845957"
       }
     ],
-    "lastOnAirSku": "8625533",
-    "lastOnAirTitle": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
-    "lastOnAirAuctionCode": "0019845841",
+    "lastOnAirSku": "8243698",
+    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity)  Butterfly Collectible",
+    "lastOnAirAuctionCode": "0019845957",
     "precedingSku": "8625533",
     "precedingTitle": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
     "precedingAuctionCode": "0019845841"
