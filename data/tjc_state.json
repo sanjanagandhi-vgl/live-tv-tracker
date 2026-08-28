@@ -7356,21 +7356,22 @@
       "firstAir": 1784942061111,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784942133444,
-      "title": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink.",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019793105",
-      "buy": false,
-      "login": true,
+      "lastAir": 1787944462442,
+      "title": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019847471",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "02:15:33",
-      "lastUpdated": 1784942233331,
+      "date": "2026-08-28",
+      "time": "20:14:22",
+      "lastUpdated": 1787944462442,
       "source": "gha",
       "missedAt": 1784942233331,
       "missedDelay": 2,
       "missedPrice": 9.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8511946": {
       "sku": "8511946",
@@ -260675,8 +260676,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787944278473,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -272160,11 +272161,22 @@
         "followingSku": "8498693",
         "followingTitle": "Premium Moisture Absorber White - 1.2L Capacity Dehumidifier with 2 x 700g Refills for Caravans, Cupboards and Bathrooms",
         "followingAuctionCode": "0019845725"
+      },
+      {
+        "start": 1787944278473,
+        "end": 1787944462442,
+        "durationMin": 3.1,
+        "precedingSku": "8528121",
+        "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
+        "precedingAuctionCode": "0019845728",
+        "followingSku": "8559295",
+        "followingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
+        "followingAuctionCode": "0019847471"
       }
     ],
-    "lastOnAirSku": "8528121",
-    "lastOnAirTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
-    "lastOnAirAuctionCode": "0019845728",
+    "lastOnAirSku": "8559295",
+    "lastOnAirTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
+    "lastOnAirAuctionCode": "0019847471",
     "precedingSku": "8528121",
     "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
     "precedingAuctionCode": "0019845728"
