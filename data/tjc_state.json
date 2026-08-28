@@ -217677,17 +217677,17 @@
       "firstAir": 1787458464392,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787571329966,
+      "lastAir": 1787876303196,
       "title": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
       "pdpPrice": "99.99",
-      "auctionCode": "0019839260",
+      "auctionCode": "0019846078",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-24",
-      "time": "12:35:29",
+      "date": "2026-08-28",
+      "time": "01:18:23",
       "productUrl": "/products/gp-9k-yellow-gold-horse-head-pendant",
-      "lastUpdated": 1787571329966,
+      "lastUpdated": 1787876303196,
       "source": "gha",
       "missedAt": 1787459016737,
       "missedDelay": 9,
@@ -254547,8 +254547,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787876239719,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265031,11 +265031,22 @@
         "followingSku": "8668666",
         "followingTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
         "followingAuctionCode": "0019846013"
+      },
+      {
+        "start": 1787876239719,
+        "end": 1787876303196,
+        "durationMin": 1.1,
+        "precedingSku": "8668666",
+        "precedingTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
+        "precedingAuctionCode": "0019846013",
+        "followingSku": "8415399",
+        "followingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
+        "followingAuctionCode": "0019846078"
       }
     ],
-    "lastOnAirSku": "8668666",
-    "lastOnAirTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019846013",
+    "lastOnAirSku": "8415399",
+    "lastOnAirTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
+    "lastOnAirAuctionCode": "0019846078",
     "precedingSku": "8668666",
     "precedingTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
     "precedingAuctionCode": "0019846013"
