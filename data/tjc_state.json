@@ -5825,17 +5825,23 @@
       "sku": "8477474",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-24",
-      "time": "16:24:21",
+      "date": "2026-08-28",
+      "time": "03:23:19",
       "preExisting": true,
       "missedAt": 1784906661475,
       "missedDelay": null,
-      "lastUpdated": 1784906661475,
+      "lastUpdated": 1787883799395,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "La Marey Kaftan-Style Longline Shirt (One Size) - Blue",
-      "auctionCode": "0019792189",
-      "source": "gha"
+      "title": "La Marey Kaftan-Style Longline Shirt (One Size) - Orange",
+      "auctionCode": "0019845910",
+      "source": "gha",
+      "lastAir": 1787883799395,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8477476": {
       "sku": "8477476",
@@ -254768,8 +254774,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787883746427,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265406,11 +265412,22 @@
         "followingSku": "8416781",
         "followingTitle": "La Marey Soft Striped Jumper (Size 8 to 10) - Pink",
         "followingAuctionCode": "0019845919"
+      },
+      {
+        "start": 1787883746427,
+        "end": 1787883799395,
+        "durationMin": 0.9,
+        "precedingSku": "8416781",
+        "precedingTitle": "La Marey Soft Striped Jumper (Size 8 to 10) - Pink",
+        "precedingAuctionCode": "0019845919",
+        "followingSku": "8477474",
+        "followingTitle": "La Marey Kaftan-Style Longline Shirt (One Size) - Orange",
+        "followingAuctionCode": "0019845910"
       }
     ],
-    "lastOnAirSku": "8416781",
-    "lastOnAirTitle": "La Marey Soft Striped Jumper (Size 8 to 10) - Pink",
-    "lastOnAirAuctionCode": "0019845919",
+    "lastOnAirSku": "8477474",
+    "lastOnAirTitle": "La Marey Kaftan-Style Longline Shirt (One Size) - Orange",
+    "lastOnAirAuctionCode": "0019845910",
     "precedingSku": "8416781",
     "precedingTitle": "La Marey Soft Striped Jumper (Size 8 to 10) - Pink",
     "precedingAuctionCode": "0019845919"
