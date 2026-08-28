@@ -260382,11 +260382,29 @@
       "productUrlChecked": 1787938706292,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7971321": {
+      "sku": "7971321",
+      "firstAir": 1787938839598,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787938839598,
+      "title": "Beautech Womens Portable Shaver with USB Charging - White",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019845718",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "18:40:39",
+      "productUrl": null,
+      "lastUpdated": 1787938839598,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787938761826,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -271782,11 +271800,22 @@
         "followingSku": "8509820",
         "followingTitle": "Marina Kaneva Ruffled Front Tie Neckline Blouse (Size - 22) - Lemon",
         "followingAuctionCode": "0019846488"
+      },
+      {
+        "start": 1787938761826,
+        "end": 1787938839598,
+        "durationMin": 1.3,
+        "precedingSku": "8166875",
+        "precedingTitle": "La Marey Mulberry Silk Floral Print Scarf (175 x 65cm) - Blue & Green",
+        "precedingAuctionCode": "0019846499",
+        "followingSku": "7971321",
+        "followingTitle": "Beautech Womens Portable Shaver with USB Charging - White",
+        "followingAuctionCode": "0019845718"
       }
     ],
-    "lastOnAirSku": "8166875",
-    "lastOnAirTitle": "La Marey Mulberry Silk Floral Print Scarf (175 x 65cm) - Blue & Green",
-    "lastOnAirAuctionCode": "0019846499",
+    "lastOnAirSku": "7971321",
+    "lastOnAirTitle": "Beautech Womens Portable Shaver with USB Charging - White",
+    "lastOnAirAuctionCode": "0019845718",
     "precedingSku": "8166875",
     "precedingTitle": "La Marey Mulberry Silk Floral Print Scarf (175 x 65cm) - Blue & Green",
     "precedingAuctionCode": "0019846499"
