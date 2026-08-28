@@ -260610,11 +260610,29 @@
       "productUrl": null,
       "lastUpdated": 1787942783240,
       "source": "gha"
+    },
+    "8498693": {
+      "sku": "8498693",
+      "firstAir": 1787942902710,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787942902710,
+      "title": "Premium Moisture Absorber White - 1.2L Capacity Dehumidifier with 2 x 700g Refills for Caravans, Cupboards and Bathrooms",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019845725",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "19:48:22",
+      "productUrl": null,
+      "lastUpdated": 1787942902710,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787942841565,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -272087,11 +272105,22 @@
         "followingSku": "8312164",
         "followingTitle": "Christmas gift card(pack of 5",
         "followingAuctionCode": "0019845674"
+      },
+      {
+        "start": 1787942841565,
+        "end": 1787942902710,
+        "durationMin": 1.0,
+        "precedingSku": "8312164",
+        "precedingTitle": "Christmas gift card(pack of 5",
+        "precedingAuctionCode": "0019845674",
+        "followingSku": "8498693",
+        "followingTitle": "Premium Moisture Absorber White - 1.2L Capacity Dehumidifier with 2 x 700g Refills for Caravans, Cupboards and Bathrooms",
+        "followingAuctionCode": "0019845725"
       }
     ],
-    "lastOnAirSku": "8312164",
-    "lastOnAirTitle": "Christmas gift card(pack of 5",
-    "lastOnAirAuctionCode": "0019845674",
+    "lastOnAirSku": "8498693",
+    "lastOnAirTitle": "Premium Moisture Absorber White - 1.2L Capacity Dehumidifier with 2 x 700g Refills for Caravans, Cupboards and Bathrooms",
+    "lastOnAirAuctionCode": "0019845725",
     "precedingSku": "8312164",
     "precedingTitle": "Christmas gift card(pack of 5",
     "precedingAuctionCode": "0019845674"
