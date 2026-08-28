@@ -254747,11 +254747,29 @@
       "productUrl": null,
       "lastUpdated": 1787883438882,
       "source": "gha"
+    },
+    "8416781": {
+      "sku": "8416781",
+      "firstAir": 1787883559347,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787883559347,
+      "title": "La Marey Soft Striped Jumper (Size 8 to 10) - Pink",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019845919",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "03:19:19",
+      "productUrl": null,
+      "lastUpdated": 1787883559347,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787883503362,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265377,11 +265395,22 @@
         "followingSku": "6900598",
         "followingTitle": "Kris Ana Diamonte Trim Poncho - Light Grey",
         "followingAuctionCode": "0019845915"
+      },
+      {
+        "start": 1787883503362,
+        "end": 1787883559347,
+        "durationMin": 0.9,
+        "precedingSku": "6900598",
+        "precedingTitle": "Kris Ana Diamonte Trim Poncho - Light Grey",
+        "precedingAuctionCode": "0019845915",
+        "followingSku": "8416781",
+        "followingTitle": "La Marey Soft Striped Jumper (Size 8 to 10) - Pink",
+        "followingAuctionCode": "0019845919"
       }
     ],
-    "lastOnAirSku": "6900598",
-    "lastOnAirTitle": "Kris Ana Diamonte Trim Poncho - Light Grey",
-    "lastOnAirAuctionCode": "0019845915",
+    "lastOnAirSku": "8416781",
+    "lastOnAirTitle": "La Marey Soft Striped Jumper (Size 8 to 10) - Pink",
+    "lastOnAirAuctionCode": "0019845919",
     "precedingSku": "6900598",
     "precedingTitle": "Kris Ana Diamonte Trim Poncho - Light Grey",
     "precedingAuctionCode": "0019845915"
