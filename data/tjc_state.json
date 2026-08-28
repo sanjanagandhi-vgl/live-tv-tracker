@@ -259739,11 +259739,15 @@
       "date": "2026-08-28",
       "time": "17:31:19",
       "productUrl": "/products/qed-london-pullover-sweatshirt-hoodie-with-shirt?variant=53103639920906",
-      "lastUpdated": 1787934679540,
+      "lastUpdated": 1787935238361,
       "source": "gha",
       "productUrlChecked": 1787934683423,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1787935238361,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8530064": {
       "sku": "8530064",
@@ -259899,11 +259903,29 @@
       "productUrlChecked": 1787935115138,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8535955": {
+      "sku": "8535955",
+      "firstAir": 1787935238361,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787935238361,
+      "title": "Inflatable Lounge Chair and Footstool Ottoman Set (120kg Capacity) - Wine Red & White",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019848969",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "17:40:38",
+      "productUrl": null,
+      "lastUpdated": 1787935238361,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787935104767,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -271266,11 +271288,22 @@
         "followingSku": "8546894",
         "followingTitle": "Marina Kaneva Puffed Sleeve Dress (Size 18) - Grey",
         "followingAuctionCode": "0019846384"
+      },
+      {
+        "start": 1787935104767,
+        "end": 1787935238361,
+        "durationMin": 2.2,
+        "precedingSku": "8094156",
+        "precedingTitle": "La Marey Printed Midi Dress (Size 24 to 26) - Orange",
+        "precedingAuctionCode": "0019846442",
+        "followingSku": "8535955",
+        "followingTitle": "Inflatable Lounge Chair and Footstool Ottoman Set (120kg Capacity) - Wine Red & White",
+        "followingAuctionCode": "0019848969"
       }
     ],
-    "lastOnAirSku": "8094156",
-    "lastOnAirTitle": "La Marey Printed Midi Dress (Size 24 to 26) - Orange",
-    "lastOnAirAuctionCode": "0019846442",
+    "lastOnAirSku": "8535955",
+    "lastOnAirTitle": "Inflatable Lounge Chair and Footstool Ottoman Set (120kg Capacity) - Wine Red & White",
+    "lastOnAirAuctionCode": "0019848969",
     "precedingSku": "8094156",
     "precedingTitle": "La Marey Printed Midi Dress (Size 24 to 26) - Orange",
     "precedingAuctionCode": "0019846442"
