@@ -254562,11 +254562,29 @@
       "productUrl": null,
       "lastUpdated": 1787876664165,
       "source": "gha"
+    },
+    "8062140": {
+      "sku": "8062140",
+      "firstAir": 1787876958067,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787876958067,
+      "title": "9K Yellow Gold Franco Necklace (Size - 18) with Lobster Clasp, Gold Wt. 5.00 Gms.",
+      "pdpPrice": "449.99",
+      "auctionCode": "0019846089",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "01:29:18",
+      "productUrl": null,
+      "lastUpdated": 1787876958067,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787876902330,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265060,11 +265078,22 @@
         "followingSku": "8415399",
         "followingTitle": "One Time Deal- 9K Yellow Gold Horse Head Pendant",
         "followingAuctionCode": "0019846078"
+      },
+      {
+        "start": 1787876902330,
+        "end": 1787876958067,
+        "durationMin": 0.9,
+        "precedingSku": "8570639",
+        "precedingTitle": "9K Yellow Gold Fancy Link Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 5.70 Gms",
+        "precedingAuctionCode": "0019846088",
+        "followingSku": "8062140",
+        "followingTitle": "9K Yellow Gold Franco Necklace (Size - 18) with Lobster Clasp, Gold Wt. 5.00 Gms.",
+        "followingAuctionCode": "0019846089"
       }
     ],
-    "lastOnAirSku": "8570639",
-    "lastOnAirTitle": "9K Yellow Gold Fancy Link Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 5.70 Gms",
-    "lastOnAirAuctionCode": "0019846088",
+    "lastOnAirSku": "8062140",
+    "lastOnAirTitle": "9K Yellow Gold Franco Necklace (Size - 18) with Lobster Clasp, Gold Wt. 5.00 Gms.",
+    "lastOnAirAuctionCode": "0019846089",
     "precedingSku": "8570639",
     "precedingTitle": "9K Yellow Gold Fancy Link Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 5.70 Gms",
     "precedingAuctionCode": "0019846088"
