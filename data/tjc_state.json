@@ -260452,11 +260452,29 @@
       "productUrlChecked": 1787939562319,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8377291": {
+      "sku": "8377291",
+      "firstAir": 1787940328125,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787940328125,
+      "title": "Table Lamp (Size - One Size) - Black",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019845724",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "19:05:28",
+      "productUrl": null,
+      "lastUpdated": 1787940328125,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787940198661,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -271874,11 +271892,22 @@
         "followingSku": "7210981",
         "followingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
         "followingAuctionCode": "0019845697"
+      },
+      {
+        "start": 1787940198661,
+        "end": 1787940328125,
+        "durationMin": 2.2,
+        "precedingSku": "7210981",
+        "precedingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
+        "precedingAuctionCode": "0019845697",
+        "followingSku": "8377291",
+        "followingTitle": "Table Lamp (Size - One Size) - Black",
+        "followingAuctionCode": "0019845724"
       }
     ],
-    "lastOnAirSku": "7210981",
-    "lastOnAirTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
-    "lastOnAirAuctionCode": "0019845697",
+    "lastOnAirSku": "8377291",
+    "lastOnAirTitle": "Table Lamp (Size - One Size) - Black",
+    "lastOnAirAuctionCode": "0019845724",
     "precedingSku": "7210981",
     "precedingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
     "precedingAuctionCode": "0019845697"
