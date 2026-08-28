@@ -259673,9 +259673,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "17:29:19",
-      "productUrl": null,
-      "lastUpdated": 1787934559772,
-      "source": "gha"
+      "productUrl": "/products/la-marey-printed-blouse-2738437523",
+      "lastUpdated": 1787935104767,
+      "source": "gha",
+      "missedAt": 1787935104767,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787935114076,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8432022": {
       "sku": "8432022",
@@ -259872,11 +259879,31 @@
       "productUrlChecked": 1787935042826,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8437536": {
+      "sku": "8437536",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "17:38:24",
+      "preExisting": true,
+      "missedAt": 1787935104767,
+      "missedDelay": null,
+      "lastUpdated": 1787935104767,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Designer Abstract Print Blouse (Size - L-XL, 16 to 22) - Blue",
+      "auctionCode": "0019848923",
+      "source": "gha",
+      "productUrl": "/products/la-marey-printed-blouse-2738437523",
+      "productUrlChecked": 1787935115138,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787935104767,
     "gaps": [
       {
         "start": 1785823527869,
@@ -271244,8 +271271,8 @@
     "lastOnAirSku": "8094156",
     "lastOnAirTitle": "La Marey Printed Midi Dress (Size 24 to 26) - Orange",
     "lastOnAirAuctionCode": "0019846442",
-    "precedingSku": "8546889",
-    "precedingTitle": "Marina Kaneva Puffed Sleeve Dress (Size 18) - Grey",
-    "precedingAuctionCode": "0019846381"
+    "precedingSku": "8094156",
+    "precedingTitle": "La Marey Printed Midi Dress (Size 24 to 26) - Orange",
+    "precedingAuctionCode": "0019846442"
   }
 }
