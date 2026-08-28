@@ -258756,9 +258756,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "16:55:28",
-      "productUrl": null,
-      "lastUpdated": 1787932528093,
-      "source": "gha"
+      "productUrl": "/products/la-marey-100-mulberry-silk-scarf",
+      "lastUpdated": 1787933129519,
+      "source": "gha",
+      "missedAt": 1787933129519,
+      "missedDelay": 10,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1787933133332,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8525913": {
       "sku": "8525913",
@@ -258852,6 +258859,44 @@
       "productUrl": null,
       "lastUpdated": 1787932948156,
       "source": "gha"
+    },
+    "8546881": {
+      "sku": "8546881",
+      "firstAir": 1787933129519,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787933129519,
+      "title": "Marina Kaneva Puffed Sleeve Dress (Size 18) - Grey",
+      "pdpPrice": "13.99",
+      "auctionCode": "0019846377",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "17:05:29",
+      "productUrl": null,
+      "lastUpdated": 1787933129519,
+      "source": "gha"
+    },
+    "8525903": {
+      "sku": "8525903",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "17:05:29",
+      "preExisting": true,
+      "missedAt": 1787933129519,
+      "missedDelay": null,
+      "lastUpdated": 1787933129519,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "La Marey 100% Mulberry Silk Scarf (198 x 98cm) - Yellow",
+      "auctionCode": "0019848877",
+      "source": "gha",
+      "productUrl": "/products/la-marey-100-mulberry-silk-scarf",
+      "productUrlChecked": 1787933134134,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -270210,9 +270255,9 @@
         "followingAuctionCode": "0019846354"
       }
     ],
-    "lastOnAirSku": "8546717",
+    "lastOnAirSku": "8546881",
     "lastOnAirTitle": "Marina Kaneva Puffed Sleeve Dress (Size 18) - Grey",
-    "lastOnAirAuctionCode": "0019846373",
+    "lastOnAirAuctionCode": "0019846377",
     "precedingSku": "8102242",
     "precedingTitle": "5-Shelf Hanging Closet Storage Organiser with Removable Drawer Box - Grey",
     "precedingAuctionCode": "0019845759"
