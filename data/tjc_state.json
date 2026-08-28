@@ -62270,25 +62270,26 @@
       "sku": "8067187",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-27",
-      "time": "08:25:30",
+      "date": "2026-08-28",
+      "time": "03:38:22",
       "preExisting": true,
       "missedAt": 1785748386923,
       "missedDelay": null,
-      "lastUpdated": 1787815530414,
+      "lastUpdated": 1787884702217,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Urban Jacks Ladies Limoncello Fly Knitted Slip-On Shoe (Size 4) - Beige",
-      "auctionCode": "0019844597",
-      "source": "gha-variant",
+      "title": "Urban Jacks Ladies Fly Knit Easy Slip-On Shoe (Size - 4) - Navy",
+      "auctionCode": "0019845861",
+      "source": "gha",
       "productUrl": "/products/urban-jacks-ladies-fly-knit-easy-slip-on-shoe-size-4-navy",
       "productUrlChecked": 1785748478499,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787815530414,
-      "pdpPrice": 9.99,
+      "lastAir": 1787884702217,
+      "pdpPrice": "95.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "8067188": {
       "sku": "8067188",
@@ -254971,8 +254972,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787884639900,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265631,11 +265632,22 @@
         "followingSku": "8134795",
         "followingTitle": "La Marey Lace Cardigan (Size XL, Fit 20 To 22) - Navy Blue",
         "followingAuctionCode": "0019845897"
+      },
+      {
+        "start": 1787884639900,
+        "end": 1787884702217,
+        "durationMin": 1.0,
+        "precedingSku": "8134795",
+        "precedingTitle": "La Marey Lace Cardigan (Size XL, Fit 20 To 22) - Navy Blue",
+        "precedingAuctionCode": "0019845897",
+        "followingSku": "8067187",
+        "followingTitle": "Urban Jacks Ladies Fly Knit Easy Slip-On Shoe (Size - 4) - Navy",
+        "followingAuctionCode": "0019845861"
       }
     ],
-    "lastOnAirSku": "8134795",
-    "lastOnAirTitle": "La Marey Lace Cardigan (Size XL, Fit 20 To 22) - Navy Blue",
-    "lastOnAirAuctionCode": "0019845897",
+    "lastOnAirSku": "8067187",
+    "lastOnAirTitle": "Urban Jacks Ladies Fly Knit Easy Slip-On Shoe (Size - 4) - Navy",
+    "lastOnAirAuctionCode": "0019845861",
     "precedingSku": "8134795",
     "precedingTitle": "La Marey Lace Cardigan (Size XL, Fit 20 To 22) - Navy Blue",
     "precedingAuctionCode": "0019845897"
