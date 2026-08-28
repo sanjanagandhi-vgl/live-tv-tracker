@@ -161782,17 +161782,17 @@
       "firstAir": 1786747040898,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786747102228,
+      "lastAir": 1787889561056,
       "title": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
-      "pdpPrice": "3.99",
-      "auctionCode": "0019820112",
+      "pdpPrice": "2.99",
+      "auctionCode": "0019845991",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-14",
-      "time": "23:38:22",
+      "date": "2026-08-28",
+      "time": "04:59:21",
       "productUrl": "/products/dyed-red-agate-earring-with-push-back-6-00-ct",
-      "lastUpdated": 1786747703332,
+      "lastUpdated": 1787889561056,
       "source": "gha",
       "missedAt": 1786747703332,
       "missedDelay": 10,
@@ -255197,8 +255197,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787889502603,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265945,11 +265945,22 @@
         "followingSku": "8356501",
         "followingTitle": "Labradorite & Black Agate Pear Shape Pendant",
         "followingAuctionCode": "0019845967"
+      },
+      {
+        "start": 1787889502603,
+        "end": 1787889561056,
+        "durationMin": 1.0,
+        "precedingSku": "8356501",
+        "precedingTitle": "Labradorite & Black Agate Pear Shape Pendant",
+        "precedingAuctionCode": "0019845967",
+        "followingSku": "8202023",
+        "followingTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
+        "followingAuctionCode": "0019845991"
       }
     ],
-    "lastOnAirSku": "8356501",
-    "lastOnAirTitle": "Labradorite & Black Agate Pear Shape Pendant",
-    "lastOnAirAuctionCode": "0019845967",
+    "lastOnAirSku": "8202023",
+    "lastOnAirTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
+    "lastOnAirAuctionCode": "0019845991",
     "precedingSku": "8356501",
     "precedingTitle": "Labradorite & Black Agate Pear Shape Pendant",
     "precedingAuctionCode": "0019845967"
