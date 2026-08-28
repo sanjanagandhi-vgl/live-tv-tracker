@@ -254609,11 +254609,29 @@
       "productUrl": null,
       "lastUpdated": 1787879664201,
       "source": "gha"
+    },
+    "8062721": {
+      "sku": "8062721",
+      "firstAir": 1787880200611,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787880200611,
+      "title": "Naturally Tiwa Kari Hair Food",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019845833",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "02:23:20",
+      "productUrl": null,
+      "lastUpdated": 1787880200611,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787880143892,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265173,11 +265191,22 @@
         "followingSku": "8253435",
         "followingTitle": "H2EAU London Grow Longer Miracle Scalp Drops - 50ml",
         "followingAuctionCode": "0019845706"
+      },
+      {
+        "start": 1787880143892,
+        "end": 1787880200611,
+        "durationMin": 0.9,
+        "precedingSku": "7539748",
+        "precedingTitle": "Creme Du Loch- Age Defying Daily Moisturiser - New - 50ml",
+        "precedingAuctionCode": "0019845721",
+        "followingSku": "8062721",
+        "followingTitle": "Naturally Tiwa Kari Hair Food",
+        "followingAuctionCode": "0019845833"
       }
     ],
-    "lastOnAirSku": "7539748",
-    "lastOnAirTitle": "Creme Du Loch- Age Defying Daily Moisturiser - New - 50ml",
-    "lastOnAirAuctionCode": "0019845721",
+    "lastOnAirSku": "8062721",
+    "lastOnAirTitle": "Naturally Tiwa Kari Hair Food",
+    "lastOnAirAuctionCode": "0019845833",
     "precedingSku": "7539748",
     "precedingTitle": "Creme Du Loch- Age Defying Daily Moisturiser - New - 50ml",
     "precedingAuctionCode": "0019845721"
