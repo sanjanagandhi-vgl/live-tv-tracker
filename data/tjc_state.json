@@ -259623,9 +259623,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "17:26:23",
-      "productUrl": null,
-      "lastUpdated": 1787934383689,
-      "source": "gha"
+      "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser",
+      "lastUpdated": 1787934985491,
+      "source": "gha",
+      "missedAt": 1787934985491,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787934989039,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8437523": {
       "sku": "8437523",
@@ -259801,6 +259808,44 @@
       "source": "gha",
       "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser",
       "productUrlChecked": 1787934933375,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8530187": {
+      "sku": "8530187",
+      "firstAir": 1787934985491,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787934985491,
+      "title": "QED London Combined Animal Prints Loose Fit Shirt (Size 16 to 22) - Brown",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019846438",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "17:36:25",
+      "productUrl": null,
+      "lastUpdated": 1787934985491,
+      "source": "gha"
+    },
+    "8437522": {
+      "sku": "8437522",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "17:36:25",
+      "preExisting": true,
+      "missedAt": 1787934985491,
+      "missedDelay": null,
+      "lastUpdated": 1787934985491,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Designer High-Waisted Relaxed Fit Wide-Leg Trousers (Size - L-XL, 16 to 22) - Blue",
+      "auctionCode": "0019848921",
+      "source": "gha",
+      "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser",
+      "productUrlChecked": 1787934989862,
       "productUrlStatus": 200,
       "productUrl404": false
     }
@@ -271172,9 +271217,9 @@
         "followingAuctionCode": "0019846384"
       }
     ],
-    "lastOnAirSku": "8530179",
-    "lastOnAirTitle": "Qed London Pearl Embellished Oversize Batwing Top (Size 16 to 22) - Grey",
-    "lastOnAirAuctionCode": "0019846437",
+    "lastOnAirSku": "8530187",
+    "lastOnAirTitle": "QED London Combined Animal Prints Loose Fit Shirt (Size 16 to 22) - Brown",
+    "lastOnAirAuctionCode": "0019846438",
     "precedingSku": "8546889",
     "precedingTitle": "Marina Kaneva Puffed Sleeve Dress (Size 18) - Grey",
     "precedingAuctionCode": "0019846381"
