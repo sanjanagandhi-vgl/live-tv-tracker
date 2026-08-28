@@ -258123,9 +258123,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "14:55:30",
-      "productUrl": null,
-      "lastUpdated": 1787925330997,
-      "source": "gha"
+      "productUrl": "/products/la-marey-embroidery-bohemian-tassel-dress",
+      "lastUpdated": 1787925865465,
+      "source": "gha",
+      "missedAt": 1787925865465,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787925875037,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8465850": {
       "sku": "8465850",
@@ -258201,6 +258208,24 @@
       "time": "15:03:20",
       "productUrl": null,
       "lastUpdated": 1787925800851,
+      "source": "gha"
+    },
+    "8515623": {
+      "sku": "8515623",
+      "firstAir": 1787925865465,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787925865465,
+      "title": "Marina Kaneva Tailored Trousers (Size - 22) - Pink",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019846258",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "15:04:25",
+      "productUrl": null,
+      "lastUpdated": 1787925865465,
       "source": "gha"
     }
   },
@@ -269494,9 +269519,9 @@
         "followingAuctionCode": "0019846235"
       }
     ],
-    "lastOnAirSku": "8509875",
-    "lastOnAirTitle": "Marina Kaneva Striped V-Neck Line Blouse (Size 8) - Beige",
-    "lastOnAirAuctionCode": "0019846257",
+    "lastOnAirSku": "8515623",
+    "lastOnAirTitle": "Marina Kaneva Tailored Trousers (Size - 22) - Pink",
+    "lastOnAirAuctionCode": "0019846258",
     "precedingSku": "8430655",
     "precedingTitle": "La Marey Light Knitted Polo Shirt (Size XL, Fit 20 To 22) - Purple",
     "precedingAuctionCode": "0019846230"
