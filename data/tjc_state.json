@@ -258812,11 +258812,15 @@
       "date": "2026-08-28",
       "time": "16:58:23",
       "productUrl": "/products/ansh-london-classic-dress?variant=53104880386314",
-      "lastUpdated": 1787932703137,
+      "lastUpdated": 1787933240321,
       "source": "gha",
       "productUrlChecked": 1787932706953,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1787933240321,
+      "missedDelay": 9,
+      "missedPrice": 12.99,
+      "missedImg": true
     },
     "8546617": {
       "sku": "8546617",
@@ -258909,11 +258913,51 @@
       "productUrlChecked": 1787933134134,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8546614": {
+      "sku": "8546614",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "17:07:20",
+      "preExisting": true,
+      "missedAt": 1787933240321,
+      "missedDelay": null,
+      "lastUpdated": 1787933240321,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Ansh London Classic Dress (Size 16) - Black",
+      "auctionCode": "0019848882",
+      "source": "gha",
+      "productUrl": "/products/ansh-london-classic-dress",
+      "productUrlChecked": 1787933243456,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8546615": {
+      "sku": "8546615",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "17:07:20",
+      "preExisting": true,
+      "missedAt": 1787933240321,
+      "missedDelay": null,
+      "lastUpdated": 1787933240321,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Ansh London Classic Dress (Size 18) - Black",
+      "auctionCode": "0019848883",
+      "source": "gha",
+      "productUrl": "/products/ansh-london-classic-dress",
+      "productUrlChecked": 1787933243597,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787933240321,
     "gaps": [
       {
         "start": 1785823527869,
@@ -270270,8 +270314,8 @@
     "lastOnAirSku": "8546889",
     "lastOnAirTitle": "Marina Kaneva Puffed Sleeve Dress (Size 18) - Grey",
     "lastOnAirAuctionCode": "0019846381",
-    "precedingSku": "8102242",
-    "precedingTitle": "5-Shelf Hanging Closet Storage Organiser with Removable Drawer Box - Grey",
-    "precedingAuctionCode": "0019845759"
+    "precedingSku": "8546889",
+    "precedingTitle": "Marina Kaneva Puffed Sleeve Dress (Size 18) - Grey",
+    "precedingAuctionCode": "0019846381"
   }
 }
