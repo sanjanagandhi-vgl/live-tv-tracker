@@ -96440,22 +96440,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-08-28",
-      "time": "04:41:19",
+      "time": "20:36:23",
       "preExisting": true,
       "missedAt": 1786110144447,
       "missedDelay": null,
-      "lastUpdated": 1787888479293,
+      "lastUpdated": 1787945783445,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
-      "auctionCode": "0019847768",
+      "auctionCode": "0019848148",
       "source": "gha",
       "productUrl": "/products/moissanite-solitaire-pendant-in-yellow-gold-plated-sterling-silver-0-46-ct",
       "productUrlChecked": 1786110157321,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787888479293,
-      "pdpPrice": "4.99",
+      "lastAir": 1787945783445,
+      "pdpPrice": "18.99",
       "buy": true,
       "login": false,
       "img": true
@@ -260699,8 +260699,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787945600585,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -272206,11 +272206,22 @@
         "followingSku": "8305877",
         "followingTitle": "LOWEST EVER PRICE - RWND25 Instant Wrinkle Reducer",
         "followingAuctionCode": "0019845696"
+      },
+      {
+        "start": 1787945600585,
+        "end": 1787945783445,
+        "durationMin": 3.0,
+        "precedingSku": "8305877",
+        "precedingTitle": "LOWEST EVER PRICE - RWND25 Instant Wrinkle Reducer",
+        "precedingAuctionCode": "0019845696",
+        "followingSku": "8498138",
+        "followingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019848148"
       }
     ],
-    "lastOnAirSku": "8305877",
-    "lastOnAirTitle": "LOWEST EVER PRICE - RWND25 Instant Wrinkle Reducer",
-    "lastOnAirAuctionCode": "0019845696",
+    "lastOnAirSku": "8498138",
+    "lastOnAirTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019848148",
     "precedingSku": "8305877",
     "precedingTitle": "LOWEST EVER PRICE - RWND25 Instant Wrinkle Reducer",
     "precedingAuctionCode": "0019845696"
