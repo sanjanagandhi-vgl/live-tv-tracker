@@ -259598,9 +259598,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "17:24:24",
-      "productUrl": null,
-      "lastUpdated": 1787934264590,
-      "source": "gha"
+      "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser",
+      "lastUpdated": 1787934928019,
+      "source": "gha",
+      "missedAt": 1787934928019,
+      "missedDelay": 11,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1787934931653,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8437521": {
       "sku": "8437521",
@@ -259755,6 +259762,47 @@
       "productUrl": null,
       "lastUpdated": 1787934862945,
       "source": "gha"
+    },
+    "8530179": {
+      "sku": "8530179",
+      "firstAir": 1787934928019,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787934928019,
+      "title": "Qed London Pearl Embellished Oversize Batwing Top (Size 16 to 22) - Grey",
+      "pdpPrice": 19.99,
+      "auctionCode": "0019846437",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "17:35:28",
+      "productUrl": "/products/qed-london-pearl-embellished-oversize-batwing-top?variant=53108022345994",
+      "lastUpdated": 1787934928019,
+      "source": "gha",
+      "productUrlChecked": 1787934932446,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8437520": {
+      "sku": "8437520",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-28",
+      "time": "17:35:28",
+      "preExisting": true,
+      "missedAt": 1787934928019,
+      "missedDelay": null,
+      "lastUpdated": 1787934928019,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey High-Waisted Relaxed Fit Wide-Leg Trousers (Size - L-XL, 16 to 22) - Black",
+      "auctionCode": "0019848920",
+      "source": "gha",
+      "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser",
+      "productUrlChecked": 1787934933375,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -271124,9 +271172,9 @@
         "followingAuctionCode": "0019846384"
       }
     ],
-    "lastOnAirSku": "8530067",
-    "lastOnAirTitle": "QED London Pullover Sweatshirt Hoodie With Shirt (Size S, 8 to 10) - Lilac",
-    "lastOnAirAuctionCode": "0019846436",
+    "lastOnAirSku": "8530179",
+    "lastOnAirTitle": "Qed London Pearl Embellished Oversize Batwing Top (Size 16 to 22) - Grey",
+    "lastOnAirAuctionCode": "0019846437",
     "precedingSku": "8546889",
     "precedingTitle": "Marina Kaneva Puffed Sleeve Dress (Size 18) - Grey",
     "precedingAuctionCode": "0019846381"
