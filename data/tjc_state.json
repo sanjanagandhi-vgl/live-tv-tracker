@@ -251352,21 +251352,26 @@
       "sku": "8572244",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-27",
-      "time": "11:35:30",
+      "date": "2026-08-28",
+      "time": "08:33:19",
       "preExisting": true,
       "missedAt": 1787826930821,
       "missedDelay": null,
-      "lastUpdated": 1787826930821,
+      "lastUpdated": 1787902399328,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Green Jade Stretchable Lion Charm Bracelet (Size - 7) 115.00 Ct.",
-      "auctionCode": "0019844773",
+      "auctionCode": "0019845945",
       "source": "gha",
       "productUrl": "/products/green-jade-stretchable-wolf-charm-bracelet-size-7-5-110-00-ct-8572202",
       "productUrlChecked": 1787826937020,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787902399328,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8064950": {
       "sku": "8064950",
@@ -256191,8 +256196,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787902342979,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -267126,11 +267131,22 @@
         "followingSku": "8482786",
         "followingTitle": "Natural Olmec Jade Adjustable Tiger Carved Necklace with Cotton Thread (Size - 28) 145.00 Ct.",
         "followingAuctionCode": "0019847187"
+      },
+      {
+        "start": 1787902342979,
+        "end": 1787902399328,
+        "durationMin": 0.9,
+        "precedingSku": "8611150",
+        "precedingTitle": "Natural White Jade Band Ring 30.00 Ct.",
+        "precedingAuctionCode": "0019847293",
+        "followingSku": "8572244",
+        "followingTitle": "Green Jade Stretchable Lion Charm Bracelet (Size - 7) 115.00 Ct.",
+        "followingAuctionCode": "0019845945"
       }
     ],
-    "lastOnAirSku": "8611150",
-    "lastOnAirTitle": "Natural White Jade Band Ring 30.00 Ct.",
-    "lastOnAirAuctionCode": "0019847293",
+    "lastOnAirSku": "8572244",
+    "lastOnAirTitle": "Green Jade Stretchable Lion Charm Bracelet (Size - 7) 115.00 Ct.",
+    "lastOnAirAuctionCode": "0019845945",
     "precedingSku": "8611150",
     "precedingTitle": "Natural White Jade Band Ring 30.00 Ct.",
     "precedingAuctionCode": "0019847293"
