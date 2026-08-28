@@ -255556,11 +255556,29 @@
       "productUrl": null,
       "lastUpdated": 1787894840244,
       "source": "gha"
+    },
+    "8577188": {
+      "sku": "8577188",
+      "firstAir": 1787895141772,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787895141772,
+      "title": "D'Joy - Apatite Beads Adjustable Necklace (Size - 18-2 Ext) in Rhodium Overlay Sterling Silver 28.00 Ct.",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019847107",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "06:32:21",
+      "productUrl": null,
+      "lastUpdated": 1787895141772,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787895051263,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -266395,11 +266413,22 @@
         "followingSku": "8273049",
         "followingTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
         "followingAuctionCode": "0019847072"
+      },
+      {
+        "start": 1787895051263,
+        "end": 1787895141772,
+        "durationMin": 1.5,
+        "precedingSku": "8273049",
+        "precedingTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
+        "precedingAuctionCode": "0019847072",
+        "followingSku": "8577188",
+        "followingTitle": "D'Joy - Apatite Beads Adjustable Necklace (Size - 18-2 Ext) in Rhodium Overlay Sterling Silver 28.00 Ct.",
+        "followingAuctionCode": "0019847107"
       }
     ],
-    "lastOnAirSku": "8273049",
-    "lastOnAirTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
-    "lastOnAirAuctionCode": "0019847072",
+    "lastOnAirSku": "8577188",
+    "lastOnAirTitle": "D'Joy - Apatite Beads Adjustable Necklace (Size - 18-2 Ext) in Rhodium Overlay Sterling Silver 28.00 Ct.",
+    "lastOnAirAuctionCode": "0019847107",
     "precedingSku": "8273049",
     "precedingTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
     "precedingAuctionCode": "0019847072"
