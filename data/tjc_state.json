@@ -258726,9 +258726,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "16:53:21",
-      "productUrl": null,
-      "lastUpdated": 1787932401814,
-      "source": "gha"
+      "productUrl": "/products/la-marey-100-mulberry-silk-scarf",
+      "lastUpdated": 1787932948156,
+      "source": "gha",
+      "missedAt": 1787932948156,
+      "missedDelay": 9,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1787932952955,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8525901": {
       "sku": "8525901",
@@ -258821,6 +258828,24 @@
       "time": "17:01:05",
       "productUrl": null,
       "lastUpdated": 1787932865427,
+      "source": "gha"
+    },
+    "8546627": {
+      "sku": "8546627",
+      "firstAir": 1787932948156,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1787932948156,
+      "title": "Ansh London Classic Dress (Size 12) - Red",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019846369",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-28",
+      "time": "17:02:28",
+      "productUrl": null,
+      "lastUpdated": 1787932948156,
       "source": "gha"
     }
   },
@@ -270180,9 +270205,9 @@
         "followingAuctionCode": "0019846354"
       }
     ],
-    "lastOnAirSku": "8546622",
+    "lastOnAirSku": "8546627",
     "lastOnAirTitle": "Ansh London Classic Dress (Size 12) - Red",
-    "lastOnAirAuctionCode": "0019846365",
+    "lastOnAirAuctionCode": "0019846369",
     "precedingSku": "8102242",
     "precedingTitle": "5-Shelf Hanging Closet Storage Organiser with Removable Drawer Box - Grey",
     "precedingAuctionCode": "0019845759"
