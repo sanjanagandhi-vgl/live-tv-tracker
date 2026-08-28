@@ -87324,23 +87324,23 @@
       "sku": "8251570",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "06:02:21",
+      "date": "2026-08-28",
+      "time": "04:43:19",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1786942941120,
+      "lastUpdated": 1787888599990,
       "missedPrice": 5.99,
       "missedImg": true,
       "title": "999 Fine Silver Fortuna Flakes Handmade Bottle",
-      "auctionCode": "0019825105",
+      "auctionCode": "0019845988",
       "source": "gha",
       "productUrl": "/products/999-fine-silver-fortuna-flakes-handmade-bottle",
       "productUrlChecked": 1786057590184,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1786942941120,
-      "pdpPrice": "5.99",
+      "lastAir": 1787888599990,
+      "pdpPrice": "2.99",
       "buy": true,
       "login": false,
       "img": true
@@ -255149,8 +255149,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787888543693,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -265853,11 +265853,22 @@
         "followingSku": "8498138",
         "followingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019847768"
+      },
+      {
+        "start": 1787888543693,
+        "end": 1787888599990,
+        "durationMin": 0.9,
+        "precedingSku": "8498138",
+        "precedingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019847768",
+        "followingSku": "8251570",
+        "followingTitle": "999 Fine Silver Fortuna Flakes Handmade Bottle",
+        "followingAuctionCode": "0019845988"
       }
     ],
-    "lastOnAirSku": "8498138",
-    "lastOnAirTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019847768",
+    "lastOnAirSku": "8251570",
+    "lastOnAirTitle": "999 Fine Silver Fortuna Flakes Handmade Bottle",
+    "lastOnAirAuctionCode": "0019845988",
     "precedingSku": "8498138",
     "precedingTitle": "Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019847768"
