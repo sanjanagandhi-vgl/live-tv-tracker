@@ -11814,21 +11814,22 @@
       "firstAir": 1785026900177,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785026900177,
+      "lastAir": 1787894959190,
       "title": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019794945",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "5.99",
+      "auctionCode": "0019847072",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "01:48:20",
-      "lastUpdated": 1785026957133,
+      "date": "2026-08-28",
+      "time": "06:29:19",
+      "lastUpdated": 1787894959190,
       "source": "gha",
       "missedAt": 1785026957133,
       "missedDelay": 1,
       "missedPrice": 9.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8433675": {
       "sku": "8433675",
@@ -255558,8 +255559,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787894902898,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -266383,11 +266384,22 @@
         "followingSku": "8507874",
         "followingTitle": "D'Joy Rhodolite Garnet & White Zircon Dangling Earring with Push Back in Yellow Gold Plated Sterling Silver 1.74 Ct.",
         "followingAuctionCode": "0019847069"
+      },
+      {
+        "start": 1787894902898,
+        "end": 1787894959190,
+        "durationMin": 0.9,
+        "precedingSku": "8272607",
+        "precedingTitle": "Designer Inspired Nugget Necklace (Size - 24) in Silver Tone",
+        "precedingAuctionCode": "0019847071",
+        "followingSku": "8273049",
+        "followingTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
+        "followingAuctionCode": "0019847072"
       }
     ],
-    "lastOnAirSku": "8272607",
-    "lastOnAirTitle": "Designer Inspired Nugget Necklace (Size - 24) in Silver Tone",
-    "lastOnAirAuctionCode": "0019847071",
+    "lastOnAirSku": "8273049",
+    "lastOnAirTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
+    "lastOnAirAuctionCode": "0019847072",
     "precedingSku": "8272607",
     "precedingTitle": "Designer Inspired Nugget Necklace (Size - 24) in Silver Tone",
     "precedingAuctionCode": "0019847071"
