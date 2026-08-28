@@ -260231,9 +260231,16 @@
       "img": true,
       "date": "2026-08-28",
       "time": "18:21:21",
-      "productUrl": null,
-      "lastUpdated": 1787937681524,
-      "source": "gha"
+      "productUrl": "/products/la-marey-striped-cardigan",
+      "lastUpdated": 1787938253521,
+      "source": "gha",
+      "missedAt": 1787938253521,
+      "missedDelay": 10,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "productUrlChecked": 1787938257120,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8226244": {
       "sku": "8226244",
@@ -260313,8 +260320,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1787938253521,
     "gaps": [
       {
         "start": 1785823527869,
@@ -271704,8 +271711,8 @@
     "lastOnAirSku": "8228355",
     "lastOnAirTitle": "Charlotte West 100% Cotton Printed 3-4 Sleeve Blouse With Side Vent (Size 20) - Pink",
     "lastOnAirAuctionCode": "0019846484",
-    "precedingSku": "8418231",
-    "precedingTitle": "Multi-Purpose 50W High-Volume AC Electric Air Pump - 400L-Min 0.7Psi Fast Air Pump for Mattresses Pools Toys - Black",
-    "precedingAuctionCode": "0019845820"
+    "precedingSku": "8228355",
+    "precedingTitle": "Charlotte West 100% Cotton Printed 3-4 Sleeve Blouse With Side Vent (Size 20) - Pink",
+    "precedingAuctionCode": "0019846484"
   }
 }
