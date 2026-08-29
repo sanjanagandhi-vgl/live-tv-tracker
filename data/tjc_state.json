@@ -2602,22 +2602,22 @@
       "sku": "8608998",
       "tvPrice": "",
       "remarks": "",
-      "time": "12:43:18",
+      "time": "19:15:39",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 999.99,
       "missedImg": false,
       "title": "Manhattan Close Out Deal - 14K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Ring 2.00 Ct.",
-      "auctionCode": "0019816626",
+      "auctionCode": "0019848264",
       "source": "gha",
-      "lastAir": 1786534998433,
-      "pdpPrice": "999.99",
+      "lastAir": 1788027339698,
+      "pdpPrice": "1749.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-12",
-      "lastUpdated": 1786534998433,
+      "date": "2026-08-29",
+      "lastUpdated": 1788027339698,
       "productUrl": null
     },
     "8501734": {
@@ -265084,8 +265084,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788026959025,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -277383,11 +277383,22 @@
         "followingSku": "8314965",
         "followingTitle": "LUXURIANT 2 Ct. Multi Colour Lab Grown Diamond Bubble Ring",
         "followingAuctionCode": "0019848380"
+      },
+      {
+        "start": 1788026959025,
+        "end": 1788027339698,
+        "durationMin": 6.3,
+        "precedingSku": "8314965",
+        "precedingTitle": "LUXURIANT 2 Ct. Multi Colour Lab Grown Diamond Bubble Ring",
+        "precedingAuctionCode": "0019848380",
+        "followingSku": "8608998",
+        "followingTitle": "Manhattan Close Out Deal - 14K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Ring 2.00 Ct.",
+        "followingAuctionCode": "0019848264"
       }
     ],
-    "lastOnAirSku": "8314965",
-    "lastOnAirTitle": "LUXURIANT 2 Ct. Multi Colour Lab Grown Diamond Bubble Ring",
-    "lastOnAirAuctionCode": "0019848380",
+    "lastOnAirSku": "8608998",
+    "lastOnAirTitle": "Manhattan Close Out Deal - 14K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Ring 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019848264",
     "precedingSku": "8314965",
     "precedingTitle": "LUXURIANT 2 Ct. Multi Colour Lab Grown Diamond Bubble Ring",
     "precedingAuctionCode": "0019848380"
