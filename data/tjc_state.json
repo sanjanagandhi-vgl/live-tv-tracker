@@ -6412,21 +6412,22 @@
       "firstAir": 1784922558223,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784922742606,
-      "title": "One Time Deal- Luxuriant - 9K Yellow Gold Lab Grown Diamond (SI/G-H) Solitaire Stud Push Post Earring 3.06 Ct.",
-      "pdpPrice": 799.99,
-      "auctionCode": "0019792977",
-      "buy": false,
-      "login": true,
+      "lastAir": 1788014183537,
+      "title": "One Time Deal- Luxuriant - 9K Yellow Gold Lab Grown Diamond (SI-G-H) Solitaire Stud Push Post Earring 3.06 Ct.",
+      "pdpPrice": "579.99",
+      "auctionCode": "0019848373",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-24",
-      "time": "20:52:22",
-      "lastUpdated": 1784922860722,
+      "date": "2026-08-29",
+      "time": "15:36:23",
+      "lastUpdated": 1788014183537,
       "source": "gha",
       "missedAt": 1784922860722,
       "missedDelay": 2,
       "missedPrice": 799.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8543722": {
       "sku": "8543722",
@@ -264225,8 +264226,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788014129819,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -276315,11 +276316,22 @@
         "followingSku": "8298054",
         "followingTitle": "Luxuriant 9K Yellow Gold IGI Certified Lab Grown Diamond (VS-EF) Solitaire Ring 2.04 Ct.",
         "followingAuctionCode": "0019848374"
+      },
+      {
+        "start": 1788014129819,
+        "end": 1788014183537,
+        "durationMin": 0.9,
+        "precedingSku": "8298054",
+        "precedingTitle": "Luxuriant 9K Yellow Gold IGI Certified Lab Grown Diamond (VS-EF) Solitaire Ring 2.04 Ct.",
+        "precedingAuctionCode": "0019848374",
+        "followingSku": "8613590",
+        "followingTitle": "One Time Deal- Luxuriant - 9K Yellow Gold Lab Grown Diamond (SI-G-H) Solitaire Stud Push Post Earring 3.06 Ct.",
+        "followingAuctionCode": "0019848373"
       }
     ],
-    "lastOnAirSku": "8298054",
-    "lastOnAirTitle": "Luxuriant 9K Yellow Gold IGI Certified Lab Grown Diamond (VS-EF) Solitaire Ring 2.04 Ct.",
-    "lastOnAirAuctionCode": "0019848374",
+    "lastOnAirSku": "8613590",
+    "lastOnAirTitle": "One Time Deal- Luxuriant - 9K Yellow Gold Lab Grown Diamond (SI-G-H) Solitaire Stud Push Post Earring 3.06 Ct.",
+    "lastOnAirAuctionCode": "0019848373",
     "precedingSku": "8298054",
     "precedingTitle": "Luxuriant 9K Yellow Gold IGI Certified Lab Grown Diamond (VS-EF) Solitaire Ring 2.04 Ct.",
     "precedingAuctionCode": "0019848374"
