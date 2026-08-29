@@ -172571,23 +172571,23 @@
       "sku": "7525212",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-20",
-      "time": "11:09:22",
+      "date": "2026-08-29",
+      "time": "23:36:22",
       "preExisting": true,
       "missedAt": 1786894582749,
       "missedDelay": null,
-      "lastUpdated": 1787220562325,
+      "lastUpdated": 1788042982617,
       "missedPrice": 299.99,
       "missedImg": true,
       "title": "9K Gold 1.98 Ct Moissanite Cluster Boat Ring",
-      "auctionCode": "0019832278",
+      "auctionCode": "0019849336",
       "source": "gha",
       "productUrl": "/products/9k-gold-1-98-ct-moissanite-cluster-boat-ring",
       "productUrlChecked": 1786894648917,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787220562325,
-      "pdpPrice": "299.99",
+      "lastAir": 1788042982617,
+      "pdpPrice": "799.99",
       "buy": true,
       "login": false,
       "img": true
@@ -266620,8 +266620,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788042929299,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -279062,11 +279062,22 @@
         "followingSku": "8613105",
         "followingTitle": "D'Joy - GRA Certified Moissanite Tennis Bracelet (Size - 7.5) in Rhodium Overlay Sterling Silver 6.06 Ct, Silver Wt. 12.50 Gms",
         "followingAuctionCode": "0019849364"
+      },
+      {
+        "start": 1788042929299,
+        "end": 1788042982617,
+        "durationMin": 0.9,
+        "precedingSku": "8613105",
+        "precedingTitle": "D'Joy - GRA Certified Moissanite Tennis Bracelet (Size - 7.5) in Rhodium Overlay Sterling Silver 6.06 Ct, Silver Wt. 12.50 Gms",
+        "precedingAuctionCode": "0019849364",
+        "followingSku": "7525212",
+        "followingTitle": "9K Gold 1.98 Ct Moissanite Cluster Boat Ring",
+        "followingAuctionCode": "0019849336"
       }
     ],
-    "lastOnAirSku": "8613105",
-    "lastOnAirTitle": "D'Joy - GRA Certified Moissanite Tennis Bracelet (Size - 7.5) in Rhodium Overlay Sterling Silver 6.06 Ct, Silver Wt. 12.50 Gms",
-    "lastOnAirAuctionCode": "0019849364",
+    "lastOnAirSku": "7525212",
+    "lastOnAirTitle": "9K Gold 1.98 Ct Moissanite Cluster Boat Ring",
+    "lastOnAirAuctionCode": "0019849336",
     "precedingSku": "8613105",
     "precedingTitle": "D'Joy - GRA Certified Moissanite Tennis Bracelet (Size - 7.5) in Rhodium Overlay Sterling Silver 6.06 Ct, Silver Wt. 12.50 Gms",
     "precedingAuctionCode": "0019849364"
