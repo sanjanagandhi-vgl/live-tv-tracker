@@ -28964,23 +28964,23 @@
       "sku": "8071942",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-11",
-      "time": "19:59:20",
+      "date": "2026-08-29",
+      "time": "06:37:19",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1786474760412,
+      "lastUpdated": 1787981839499,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "One Truth 818- Anti-Ageing Serum - 15ml",
-      "auctionCode": "0019815651",
+      "auctionCode": "0019847789",
       "source": "gha",
       "productUrl": "/products/one-truth-818-enzyme-face-masque-50g?variant=53102419706122",
       "productUrlChecked": 1785475533619,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1786474760412,
-      "pdpPrice": "29.99",
+      "lastAir": 1787981839499,
+      "pdpPrice": "149.99",
       "buy": true,
       "login": false,
       "img": true
@@ -262840,8 +262840,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787981661405,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -274666,11 +274666,22 @@
         "followingSku": "8052255",
         "followingTitle": "Green Caviar Face Cream",
         "followingAuctionCode": "0019847795"
+      },
+      {
+        "start": 1787981661405,
+        "end": 1787981839499,
+        "durationMin": 3.0,
+        "precedingSku": "8207784",
+        "precedingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
+        "precedingAuctionCode": "0019847796",
+        "followingSku": "8071942",
+        "followingTitle": "One Truth 818- Anti-Ageing Serum - 15ml",
+        "followingAuctionCode": "0019847789"
       }
     ],
-    "lastOnAirSku": "8207784",
-    "lastOnAirTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
-    "lastOnAirAuctionCode": "0019847796",
+    "lastOnAirSku": "8071942",
+    "lastOnAirTitle": "One Truth 818- Anti-Ageing Serum - 15ml",
+    "lastOnAirAuctionCode": "0019847789",
     "precedingSku": "8207784",
     "precedingTitle": "Beautech Facial Lifting Device - Microcurrent, Vibration, Thermal & Light Therapy",
     "precedingAuctionCode": "0019847796"
