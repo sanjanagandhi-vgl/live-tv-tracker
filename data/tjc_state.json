@@ -29279,21 +29279,26 @@
       "sku": "8363245",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-08-29",
+      "time": "10:06:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1787994382917,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - Red",
-      "auctionCode": "0019800524",
+      "auctionCode": "0019848666",
       "source": "gha",
       "productUrl": "/products/bug-zapper",
       "productUrlChecked": 1785475589546,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1787994382917,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8701079": {
       "sku": "8701079",
@@ -262858,8 +262863,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787994329440,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -274750,11 +274755,22 @@
         "followingSku": "8548683",
         "followingTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
         "followingAuctionCode": "0019849408"
+      },
+      {
+        "start": 1787994329440,
+        "end": 1787994382917,
+        "durationMin": 0.9,
+        "precedingSku": "8548683",
+        "precedingTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
+        "precedingAuctionCode": "0019849408",
+        "followingSku": "8363245",
+        "followingTitle": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - Red",
+        "followingAuctionCode": "0019848666"
       }
     ],
-    "lastOnAirSku": "8548683",
-    "lastOnAirTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
-    "lastOnAirAuctionCode": "0019849408",
+    "lastOnAirSku": "8363245",
+    "lastOnAirTitle": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - Red",
+    "lastOnAirAuctionCode": "0019848666",
     "precedingSku": "8548683",
     "precedingTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
     "precedingAuctionCode": "0019849408"
