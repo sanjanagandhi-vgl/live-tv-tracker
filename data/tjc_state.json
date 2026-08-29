@@ -13810,16 +13810,16 @@
       "firstAir": 1785051635024,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787831067940,
+      "lastAir": 1787973335705,
       "title": "9K Yellow Gold Paperclip Necklace (Size - 18) with Lobster Clasp.",
-      "pdpPrice": 99.99,
-      "auctionCode": "0019844743",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019847841",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-27",
-      "time": "12:44:27",
-      "lastUpdated": 1787831067940,
+      "date": "2026-08-29",
+      "time": "04:15:35",
+      "lastUpdated": 1787973335705,
       "source": "gha",
       "missedAt": 1785053239761,
       "missedDelay": 19,
@@ -262756,8 +262756,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787973261918,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -274527,11 +274527,22 @@
         "followingSku": "8246231",
         "followingTitle": "Designer Inspired Edison Pearl Beads Bracelet (Size 7-2 Ext) with Lobster Clasp in Yellow Gold Overlay Sterling Silver",
         "followingAuctionCode": "0019847921"
+      },
+      {
+        "start": 1787973261918,
+        "end": 1787973335705,
+        "durationMin": 1.2,
+        "precedingSku": "8570641",
+        "precedingTitle": "JCK Vegas Deal  - 9K Yellow Gold Bracelet (Size - 7.5) with Lobster Clasp. Gold Wt 3.85 Gms",
+        "precedingAuctionCode": "0019847834",
+        "followingSku": "8596945",
+        "followingTitle": "9K Yellow Gold Paperclip Necklace (Size - 18) with Lobster Clasp.",
+        "followingAuctionCode": "0019847841"
       }
     ],
-    "lastOnAirSku": "8570641",
-    "lastOnAirTitle": "JCK Vegas Deal  - 9K Yellow Gold Bracelet (Size - 7.5) with Lobster Clasp. Gold Wt 3.85 Gms",
-    "lastOnAirAuctionCode": "0019847834",
+    "lastOnAirSku": "8596945",
+    "lastOnAirTitle": "9K Yellow Gold Paperclip Necklace (Size - 18) with Lobster Clasp.",
+    "lastOnAirAuctionCode": "0019847841",
     "precedingSku": "8570641",
     "precedingTitle": "JCK Vegas Deal  - 9K Yellow Gold Bracelet (Size - 7.5) with Lobster Clasp. Gold Wt 3.85 Gms",
     "precedingAuctionCode": "0019847834"
