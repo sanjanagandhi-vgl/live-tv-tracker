@@ -215053,21 +215053,26 @@
       "sku": "8430481",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-22",
-      "time": "19:47:19",
+      "date": "2026-08-29",
+      "time": "19:51:24",
       "preExisting": true,
       "missedAt": 1787424439544,
       "missedDelay": null,
-      "lastUpdated": 1787424439544,
+      "lastUpdated": 1788029484597,
       "missedPrice": 399.99,
       "missedImg": true,
       "title": "Luxuriant 9K White Gold SGL Certified VS Lab Grown Blue Diamond Solitaire Push Post Earring 2.07 Ct.",
-      "auctionCode": "0019836346",
+      "auctionCode": "0019848281",
       "source": "gha",
       "productUrl": "/products/luxuriant-9k-yellow-gold-vs-lab-grown-blue-diamond-vs-earring-gold-wt-1-35-gms-2-070-ct",
       "productUrlChecked": 1787424447406,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788029484597,
+      "pdpPrice": "799.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8026833": {
       "sku": "8026833",
@@ -265229,8 +265234,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788029303512,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -277561,11 +277566,22 @@
         "followingSku": "8581174",
         "followingTitle": "JCK Vegas Find 2026- 9K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Stud Push Post Earring 2.00 Ct.",
         "followingAuctionCode": "0019848273"
+      },
+      {
+        "start": 1788029303512,
+        "end": 1788029484597,
+        "durationMin": 3.0,
+        "precedingSku": "8581174",
+        "precedingTitle": "JCK Vegas Find 2026- 9K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Stud Push Post Earring 2.00 Ct.",
+        "precedingAuctionCode": "0019848273",
+        "followingSku": "8430481",
+        "followingTitle": "Luxuriant 9K White Gold SGL Certified VS Lab Grown Blue Diamond Solitaire Push Post Earring 2.07 Ct.",
+        "followingAuctionCode": "0019848281"
       }
     ],
-    "lastOnAirSku": "8581174",
-    "lastOnAirTitle": "JCK Vegas Find 2026- 9K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Stud Push Post Earring 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019848273",
+    "lastOnAirSku": "8430481",
+    "lastOnAirTitle": "Luxuriant 9K White Gold SGL Certified VS Lab Grown Blue Diamond Solitaire Push Post Earring 2.07 Ct.",
+    "lastOnAirAuctionCode": "0019848281",
     "precedingSku": "8581174",
     "precedingTitle": "JCK Vegas Find 2026- 9K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Stud Push Post Earring 2.00 Ct.",
     "precedingAuctionCode": "0019848273"
