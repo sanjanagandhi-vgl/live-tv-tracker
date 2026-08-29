@@ -264768,9 +264768,16 @@
       "img": false,
       "date": "2026-08-29",
       "time": "17:08:22",
-      "productUrl": null,
-      "lastUpdated": 1788019702444,
-      "source": "gha"
+      "productUrl": "/products/950-platinum-igi-certified-lab-grown-diamond-vs-e-f-ring-2-00-ct-platinum-wt-4-50-gms",
+      "lastUpdated": 1788020239182,
+      "source": "gha",
+      "missedAt": 1788020239182,
+      "missedDelay": 9,
+      "missedPrice": 799.99,
+      "missedImg": false,
+      "productUrlChecked": 1788020247378,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8561936": {
       "sku": "8561936",
@@ -264831,8 +264838,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788020239182,
     "gaps": [
       {
         "start": 1785823527869,
@@ -277014,8 +277021,8 @@
     "lastOnAirSku": "7975883",
     "lastOnAirTitle": "Luxuriant Diamond - 950 Platinum SGLCertified Rare Radiant Cut(VS-GH) Lab Grown Diamond Ring 2.0 Ct.",
     "lastOnAirAuctionCode": "0019848507",
-    "precedingSku": "8411943",
-    "precedingTitle": "Luxuriant 950 Platinum SGL Certified (VS-EF) Lab Grown Diamond Oval Cut Halo Ring 4.75 Ct, Platinum Wt. 6.83 Gms",
-    "precedingAuctionCode": "0019848437"
+    "precedingSku": "7975883",
+    "precedingTitle": "Luxuriant Diamond - 950 Platinum SGLCertified Rare Radiant Cut(VS-GH) Lab Grown Diamond Ring 2.0 Ct.",
+    "precedingAuctionCode": "0019848507"
   }
 }
