@@ -50925,25 +50925,26 @@
       "sku": "8631610",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-25",
-      "time": "16:50:40",
+      "date": "2026-08-29",
+      "time": "21:08:21",
       "preExisting": true,
       "missedAt": 1785623227321,
       "missedDelay": null,
-      "lastUpdated": 1787673040895,
+      "lastUpdated": 1788034101778,
       "missedPrice": 999.99,
       "missedImg": true,
-      "title": "Luxuriant - 9K Yellow Gold IGI Certified Lab Grown Diamond (VS/E-F) Ring 2.00 Ct.",
-      "auctionCode": "0019841036",
-      "source": "gha-variant",
+      "title": "Luxuriant - 9K Yellow Gold IGI Certified Lab Grown Diamond (VS-E-F) Ring 2.00 Ct.",
+      "auctionCode": "0019849980",
+      "source": "gha",
       "productUrl": "/products/luxuriant-9k-yellow-gold-igi-certified-lab-grown-diamond-vs-e-f-ring-2-00-ct-m8631609",
       "productUrlChecked": 1785623236164,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787673040895,
-      "pdpPrice": 799.99,
+      "lastAir": 1788034101778,
+      "pdpPrice": "999.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "8631611": {
       "sku": "8631611",
@@ -265295,8 +265296,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788033864920,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -277649,11 +277650,22 @@
         "followingSku": "8608739",
         "followingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI-G-H) (Center 2Ct.) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 3.00 Ct.",
         "followingAuctionCode": "0019850228"
+      },
+      {
+        "start": 1788033864920,
+        "end": 1788034101778,
+        "durationMin": 3.9,
+        "precedingSku": "8741941",
+        "precedingTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct.",
+        "precedingAuctionCode": "0019848701",
+        "followingSku": "8631610",
+        "followingTitle": "Luxuriant - 9K Yellow Gold IGI Certified Lab Grown Diamond (VS-E-F) Ring 2.00 Ct.",
+        "followingAuctionCode": "0019849980"
       }
     ],
-    "lastOnAirSku": "8741941",
-    "lastOnAirTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019848701",
+    "lastOnAirSku": "8631610",
+    "lastOnAirTitle": "Luxuriant - 9K Yellow Gold IGI Certified Lab Grown Diamond (VS-E-F) Ring 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019849980",
     "precedingSku": "8741941",
     "precedingTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct.",
     "precedingAuctionCode": "0019848701"
