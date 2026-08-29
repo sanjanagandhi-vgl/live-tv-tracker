@@ -218,22 +218,22 @@
       "sku": "8415491",
       "tvPrice": "",
       "remarks": "",
-      "time": "18:36:51",
+      "time": "04:42:23",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "9K Yellow Gold Spinner Band Ring",
-      "auctionCode": "0019843257",
+      "auctionCode": "0019847846",
       "source": "gha",
-      "lastAir": 1787765811310,
+      "lastAir": 1787974943219,
       "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-26",
-      "lastUpdated": 1787765811310,
+      "date": "2026-08-29",
+      "lastUpdated": 1787974943219,
       "productUrl": null
     },
     "8415496": {
@@ -262764,8 +262764,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787974877583,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -274546,11 +274546,22 @@
         "followingSku": "8596945",
         "followingTitle": "9K Yellow Gold Paperclip Necklace (Size - 18) with Lobster Clasp.",
         "followingAuctionCode": "0019847841"
+      },
+      {
+        "start": 1787974877583,
+        "end": 1787974943219,
+        "durationMin": 1.1,
+        "precedingSku": "8135342",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace",
+        "precedingAuctionCode": "0019847853",
+        "followingSku": "8415491",
+        "followingTitle": "9K Yellow Gold Spinner Band Ring",
+        "followingAuctionCode": "0019847846"
       }
     ],
-    "lastOnAirSku": "8135342",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace",
-    "lastOnAirAuctionCode": "0019847853",
+    "lastOnAirSku": "8415491",
+    "lastOnAirTitle": "9K Yellow Gold Spinner Band Ring",
+    "lastOnAirAuctionCode": "0019847846",
     "precedingSku": "8135342",
     "precedingTitle": "9K Yellow Gold Spiga Necklace",
     "precedingAuctionCode": "0019847853"
