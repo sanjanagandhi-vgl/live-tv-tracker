@@ -263083,11 +263083,29 @@
       "productUrl": null,
       "lastUpdated": 1788003500961,
       "source": "gha"
+    },
+    "8563880": {
+      "sku": "8563880",
+      "firstAir": 1788003638190,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788003638190,
+      "title": "Livmore Handcrafted Resin Geode Wall Clock with Gemstone Accents (35.5 x 35.5 cm) - Red, White & Gold",
+      "pdpPrice": "314.99",
+      "auctionCode": "0019848302",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-29",
+      "time": "12:40:38",
+      "productUrl": null,
+      "lastUpdated": 1788003638190,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788003558732,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -275055,11 +275073,22 @@
         "followingSku": "7790217",
         "followingTitle": "Inflatable Sofa Geometric Pattern Single Seat with Handle with Zipper & Inside Overlocking",
         "followingAuctionCode": "0019848236"
+      },
+      {
+        "start": 1788003558732,
+        "end": 1788003638190,
+        "durationMin": 1.3,
+        "precedingSku": "8224886",
+        "precedingTitle": "Air Compressor - Black",
+        "precedingAuctionCode": "0019849027",
+        "followingSku": "8563880",
+        "followingTitle": "Livmore Handcrafted Resin Geode Wall Clock with Gemstone Accents (35.5 x 35.5 cm) - Red, White & Gold",
+        "followingAuctionCode": "0019848302"
       }
     ],
-    "lastOnAirSku": "8224886",
-    "lastOnAirTitle": "Air Compressor - Black",
-    "lastOnAirAuctionCode": "0019849027",
+    "lastOnAirSku": "8563880",
+    "lastOnAirTitle": "Livmore Handcrafted Resin Geode Wall Clock with Gemstone Accents (35.5 x 35.5 cm) - Red, White & Gold",
+    "lastOnAirAuctionCode": "0019848302",
     "precedingSku": "8224886",
     "precedingTitle": "Air Compressor - Black",
     "precedingAuctionCode": "0019849027"
