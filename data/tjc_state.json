@@ -172171,21 +172171,26 @@
       "sku": "8613250",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "15:42:20",
+      "date": "2026-08-29",
+      "time": "22:57:21",
       "preExisting": true,
       "missedAt": 1786891340909,
       "missedDelay": null,
-      "lastUpdated": 1786891340909,
+      "lastUpdated": 1788040641771,
       "missedPrice": 79.99,
       "missedImg": true,
-      "title": "D'Joy - GRA Certified Moissanite Graduated Necklace (Size - 18) in Yellow Gold Plated Sterling Silver 3.33 Ct.",
-      "auctionCode": "0019820808",
+      "title": "D'Joy - GRA Certified  (D-VVS1)  Moissanite Graduated Necklace (Size - 18) in Yellow Gold Plated Sterling Silver 3.33 Ct.",
+      "auctionCode": "0019849234",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-fancy-necklace-in-sterling-silver-2658613233",
       "productUrlChecked": 1786891353838,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788040641771,
+      "pdpPrice": "129.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8613890": {
       "sku": "8613890",
@@ -266042,7 +266047,10 @@
       "missedAt": 1788040584065,
       "missedDelay": 9,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788040645486,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8611794": {
       "sku": "8611794",
@@ -266063,7 +266071,10 @@
       "missedAt": 1788040584065,
       "missedDelay": 9,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788040645709,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8611818": {
       "sku": "8611818",
@@ -266084,7 +266095,10 @@
       "missedAt": 1788040584065,
       "missedDelay": 9,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788040646394,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8613039": {
       "sku": "8613039",
@@ -266147,8 +266161,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788040584065,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -278556,11 +278570,22 @@
         "followingSku": "8611761",
         "followingTitle": "D'Joy - GRA Certified Moissanite Solitaire Ring in Sterling Silver 1.90 Ct.",
         "followingAuctionCode": "0019849223"
+      },
+      {
+        "start": 1788040584065,
+        "end": 1788040641771,
+        "durationMin": 1.0,
+        "precedingSku": "8613004",
+        "precedingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Hoop Drop Earring with Clasp in Rhodium Overlay Sterling Silver 1.50 Ct.",
+        "precedingAuctionCode": "0019849233",
+        "followingSku": "8613250",
+        "followingTitle": "D'Joy - GRA Certified  (D-VVS1)  Moissanite Graduated Necklace (Size - 18) in Yellow Gold Plated Sterling Silver 3.33 Ct.",
+        "followingAuctionCode": "0019849234"
       }
     ],
-    "lastOnAirSku": "8613004",
-    "lastOnAirTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Hoop Drop Earring with Clasp in Rhodium Overlay Sterling Silver 1.50 Ct.",
-    "lastOnAirAuctionCode": "0019849233",
+    "lastOnAirSku": "8613250",
+    "lastOnAirTitle": "D'Joy - GRA Certified  (D-VVS1)  Moissanite Graduated Necklace (Size - 18) in Yellow Gold Plated Sterling Silver 3.33 Ct.",
+    "lastOnAirAuctionCode": "0019849234",
     "precedingSku": "8613004",
     "precedingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Hoop Drop Earring with Clasp in Rhodium Overlay Sterling Silver 1.50 Ct.",
     "precedingAuctionCode": "0019849233"
