@@ -194636,21 +194636,26 @@
       "sku": "8588371",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "19:42:22",
+      "date": "2026-08-29",
+      "time": "21:27:19",
       "preExisting": true,
       "missedAt": 1787164942597,
       "missedDelay": null,
-      "lastUpdated": 1787164942597,
+      "lastUpdated": 1788035239830,
       "missedPrice": 129.99,
       "missedImg": true,
       "title": "William Hunt 3D Horse Motif & Apricot MOP Dial Ronda Swiss Movement 5ATM with 50 Lab Grown Diamonds (VS-E-F) & Green Leather Strap",
-      "auctionCode": "0019830328",
+      "auctionCode": "0019849859",
       "source": "gha",
       "productUrl": "/products/william-hunt-watch-pure-white-stainless-steel-mix-metal-0-200-ct-1958588362",
       "productUrlChecked": 1787164947507,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788035239830,
+      "pdpPrice": "599.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8588362": {
       "sku": "8588362",
@@ -265438,8 +265443,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788035181878,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -277803,11 +277808,22 @@
         "followingSku": "8631610",
         "followingTitle": "Luxuriant - 9K Yellow Gold IGI Certified Lab Grown Diamond (VS-E-F) Ring 2.00 Ct.",
         "followingAuctionCode": "0019849980"
+      },
+      {
+        "start": 1788035181878,
+        "end": 1788035239830,
+        "durationMin": 1.0,
+        "precedingSku": "4482868",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.26 Ct.",
+        "precedingAuctionCode": "0019849870",
+        "followingSku": "8588371",
+        "followingTitle": "William Hunt 3D Horse Motif & Apricot MOP Dial Ronda Swiss Movement 5ATM with 50 Lab Grown Diamonds (VS-E-F) & Green Leather Strap",
+        "followingAuctionCode": "0019849859"
       }
     ],
-    "lastOnAirSku": "4482868",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.26 Ct.",
-    "lastOnAirAuctionCode": "0019849870",
+    "lastOnAirSku": "8588371",
+    "lastOnAirTitle": "William Hunt 3D Horse Motif & Apricot MOP Dial Ronda Swiss Movement 5ATM with 50 Lab Grown Diamonds (VS-E-F) & Green Leather Strap",
+    "lastOnAirAuctionCode": "0019849859",
     "precedingSku": "4482868",
     "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.26 Ct.",
     "precedingAuctionCode": "0019849870"
