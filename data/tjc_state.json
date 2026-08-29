@@ -6187,16 +6187,16 @@
       "firstAir": 1784913141766,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787383040333,
+      "lastAir": 1787985983445,
       "title": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
-      "pdpPrice": "59.99",
-      "auctionCode": "0019834304",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019849406",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "time": "08:17:20",
-      "lastUpdated": 1787383040333,
+      "date": "2026-08-29",
+      "time": "07:46:23",
+      "lastUpdated": 1787985983445,
       "source": "gha",
       "missedAt": 1784916085649,
       "missedDelay": 0,
@@ -262840,8 +262840,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787985052725,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -274688,11 +274688,22 @@
         "followingSku": "8566017",
         "followingTitle": "Bliss & Beyond Electric Seated Pedal Stepper with Remote Control, Features LCD display to track speed, distance and calories in real time, 5 speed levels & Forward & Backwards directions",
         "followingAuctionCode": "0019847784"
+      },
+      {
+        "start": 1787985052725,
+        "end": 1787985983445,
+        "durationMin": 15.5,
+        "precedingSku": "8566017",
+        "precedingTitle": "Bliss & Beyond Electric Seated Pedal Stepper with Remote Control, Features LCD display to track speed, distance and calories in real time, 5 speed levels & Forward & Backwards directions",
+        "precedingAuctionCode": "0019847784",
+        "followingSku": "8704567",
+        "followingTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
+        "followingAuctionCode": "0019849406"
       }
     ],
-    "lastOnAirSku": "8566017",
-    "lastOnAirTitle": "Bliss & Beyond Electric Seated Pedal Stepper with Remote Control, Features LCD display to track speed, distance and calories in real time, 5 speed levels & Forward & Backwards directions",
-    "lastOnAirAuctionCode": "0019847784",
+    "lastOnAirSku": "8704567",
+    "lastOnAirTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
+    "lastOnAirAuctionCode": "0019849406",
     "precedingSku": "8566017",
     "precedingTitle": "Bliss & Beyond Electric Seated Pedal Stepper with Remote Control, Features LCD display to track speed, distance and calories in real time, 5 speed levels & Forward & Backwards directions",
     "precedingAuctionCode": "0019847784"
