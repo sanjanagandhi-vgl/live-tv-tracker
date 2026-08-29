@@ -266159,9 +266159,16 @@
       "img": true,
       "date": "2026-08-29",
       "time": "22:55:28",
-      "productUrl": null,
-      "lastUpdated": 1788040528099,
-      "source": "gha"
+      "productUrl": "/products/djoy-gra-certified-moissanite-hoop-earring-with-clasp-in-sterling-silver-1-50-ct-2658613004",
+      "lastUpdated": 1788041128764,
+      "source": "gha",
+      "missedAt": 1788041128764,
+      "missedDelay": 10,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1788041132882,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8613911": {
       "sku": "8613911",
@@ -266200,11 +266207,31 @@
       "productUrlChecked": 1788040948454,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8613005": {
+      "sku": "8613005",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-29",
+      "time": "23:05:28",
+      "preExisting": true,
+      "missedAt": 1788041128764,
+      "missedDelay": null,
+      "lastUpdated": 1788041128764,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "title": "D'Joy - GRA Certified (D-VVS1) Moissanite Hoop Drop Earring with Clasp in Yellow Gold Plated Sterling Silver 1.50 Ct.",
+      "auctionCode": "0019849245",
+      "source": "gha",
+      "productUrl": "/products/djoy-gra-certified-moissanite-hoop-earring-with-clasp-in-sterling-silver-1-50-ct-2658613004",
+      "productUrlChecked": 1788041133797,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788041128764,
     "gaps": [
       {
         "start": 1785823527869,
@@ -278628,8 +278655,8 @@
     "lastOnAirSku": "8613911",
     "lastOnAirTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Graduated Earring with Push Back in Rhodium Overlay Sterling Silver 2.57 Ct.",
     "lastOnAirAuctionCode": "0019849238",
-    "precedingSku": "8613004",
-    "precedingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Hoop Drop Earring with Clasp in Rhodium Overlay Sterling Silver 1.50 Ct.",
-    "precedingAuctionCode": "0019849233"
+    "precedingSku": "8613911",
+    "precedingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Graduated Earring with Push Back in Rhodium Overlay Sterling Silver 2.57 Ct.",
+    "precedingAuctionCode": "0019849238"
   }
 }
