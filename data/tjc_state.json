@@ -67286,21 +67286,26 @@
       "sku": "8712270",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-04",
-      "time": "00:39:24",
+      "date": "2026-08-29",
+      "time": "16:40:37",
       "preExisting": true,
       "missedAt": 1785800364396,
       "missedDelay": null,
-      "lastUpdated": 1785800364396,
+      "lastUpdated": 1788018037701,
       "missedPrice": 599.99,
       "missedImg": true,
       "title": "Luxuriant - 9K White Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant  2.00 Ct.",
-      "auctionCode": "0019806430",
+      "auctionCode": "0019848182",
       "source": "gha",
       "productUrl": "/products/luxuriant-9k-yellow-gold-certified-vs-ef-lab-grown-diamond-pendant-2-00-ct-8712219",
       "productUrlChecked": 1785800377616,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788018037701,
+      "pdpPrice": "2499.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8048165": {
       "sku": "8048165",
@@ -264667,8 +264672,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788017959369,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -276801,11 +276806,22 @@
         "followingSku": "8525531",
         "followingTitle": "Luxuriant 950 Platinum SGL Certified VS-E-F Lab Grown Diamond 5 Stone Ring 3.00 Ct, Platinum Wt. 4.77 Gms",
         "followingAuctionCode": "0019848456"
+      },
+      {
+        "start": 1788017959369,
+        "end": 1788018037701,
+        "durationMin": 1.3,
+        "precedingSku": "8525531",
+        "precedingTitle": "Luxuriant 950 Platinum SGL Certified VS-E-F Lab Grown Diamond 5 Stone Ring 3.00 Ct, Platinum Wt. 4.77 Gms",
+        "precedingAuctionCode": "0019848456",
+        "followingSku": "8712270",
+        "followingTitle": "Luxuriant - 9K White Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant  2.00 Ct.",
+        "followingAuctionCode": "0019848182"
       }
     ],
-    "lastOnAirSku": "8525531",
-    "lastOnAirTitle": "Luxuriant 950 Platinum SGL Certified VS-E-F Lab Grown Diamond 5 Stone Ring 3.00 Ct, Platinum Wt. 4.77 Gms",
-    "lastOnAirAuctionCode": "0019848456",
+    "lastOnAirSku": "8712270",
+    "lastOnAirTitle": "Luxuriant - 9K White Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant  2.00 Ct.",
+    "lastOnAirAuctionCode": "0019848182",
     "precedingSku": "8525531",
     "precedingTitle": "Luxuriant 950 Platinum SGL Certified VS-E-F Lab Grown Diamond 5 Stone Ring 3.00 Ct, Platinum Wt. 4.77 Gms",
     "precedingAuctionCode": "0019848456"
