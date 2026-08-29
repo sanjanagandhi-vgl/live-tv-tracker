@@ -1695,22 +1695,22 @@
       "sku": "8499105",
       "tvPrice": "",
       "remarks": "",
-      "time": "10:18:21",
+      "time": "15:11:21",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 799.99,
       "missedImg": false,
       "title": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
-      "auctionCode": "0019823341",
+      "auctionCode": "0019847953",
       "source": "gha",
-      "lastAir": 1786785501968,
-      "pdpPrice": "797.99",
+      "lastAir": 1788012681382,
+      "pdpPrice": "2999.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-15",
-      "lastUpdated": 1786785501968,
+      "date": "2026-08-29",
+      "lastUpdated": 1788012681382,
       "productUrl": null
     },
     "8610940": {
@@ -264027,9 +264027,16 @@
       "img": true,
       "date": "2026-08-29",
       "time": "15:01:21",
-      "productUrl": null,
-      "lastUpdated": 1788012081559,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-si-g-h-lab-grown-diamond-solitaire-stud-push-post-earring-in-rhodium-overlay-sterling-silver-0-22-ct-6048507931",
+      "lastUpdated": 1788012681382,
+      "source": "gha",
+      "missedAt": 1788012681382,
+      "missedDelay": 10,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1788012684832,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8608847": {
       "sku": "8608847",
@@ -264190,11 +264197,31 @@
       "productUrlChecked": 1788011552638,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8507930": {
+      "sku": "8507930",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-29",
+      "time": "15:11:21",
+      "preExisting": true,
+      "missedAt": 1788012681382,
+      "missedDelay": null,
+      "lastUpdated": 1788012681382,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "title": "Luxuriant SI-G-H Lab Grown Diamond Solitaire Stud Screw Back Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.22 Ct.",
+      "auctionCode": "0019848010",
+      "source": "gha",
+      "productUrl": "/products/luxuriant-si-g-h-lab-grown-diamond-solitaire-stud-push-post-earring-in-rhodium-overlay-sterling-silver-0-22-ct-6048507931",
+      "productUrlChecked": 1788012685486,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788012439495,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -276261,11 +276288,22 @@
         "followingSku": "8669047",
         "followingTitle": "9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 8) with Lobster Clasp 2.25 Ct.",
         "followingAuctionCode": "0019848168"
+      },
+      {
+        "start": 1788012439495,
+        "end": 1788012681382,
+        "durationMin": 4.0,
+        "precedingSku": "8669047",
+        "precedingTitle": "9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 8) with Lobster Clasp 2.25 Ct.",
+        "precedingAuctionCode": "0019848168",
+        "followingSku": "8499105",
+        "followingTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+        "followingAuctionCode": "0019847953"
       }
     ],
-    "lastOnAirSku": "8669047",
-    "lastOnAirTitle": "9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 8) with Lobster Clasp 2.25 Ct.",
-    "lastOnAirAuctionCode": "0019848168",
+    "lastOnAirSku": "8499105",
+    "lastOnAirTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019847953",
     "precedingSku": "8669047",
     "precedingTitle": "9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 8) with Lobster Clasp 2.25 Ct.",
     "precedingAuctionCode": "0019848168"
