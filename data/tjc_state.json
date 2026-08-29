@@ -203861,17 +203861,17 @@
       "firstAir": 1787296159001,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787842346607,
+      "lastAir": 1787981128456,
       "title": "Green Caviar Face Cream",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019845694",
+      "pdpPrice": "269.00",
+      "auctionCode": "0019847795",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-27",
-      "time": "15:52:26",
+      "date": "2026-08-29",
+      "time": "06:25:28",
       "productUrl": "/products/green-caviar-face-cream",
-      "lastUpdated": 1787842346607,
+      "lastUpdated": 1787981128456,
       "source": "gha",
       "missedAt": 1787297303535,
       "missedDelay": 11,
@@ -262837,8 +262837,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1787981063021,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -274652,11 +274652,22 @@
         "followingSku": "7982436",
         "followingTitle": "Di Palomo - Fig & Grape - Luxury Bathing Collection (Includes Bath Honey 300ml, 100g Soap, Bathing Bubbles 300ml and 2 x Bath Bombs)",
         "followingAuctionCode": "0019847814"
+      },
+      {
+        "start": 1787981063021,
+        "end": 1787981128456,
+        "durationMin": 1.1,
+        "precedingSku": "7982436",
+        "precedingTitle": "Di Palomo - Fig & Grape - Luxury Bathing Collection (Includes Bath Honey 300ml, 100g Soap, Bathing Bubbles 300ml and 2 x Bath Bombs)",
+        "precedingAuctionCode": "0019847814",
+        "followingSku": "8052255",
+        "followingTitle": "Green Caviar Face Cream",
+        "followingAuctionCode": "0019847795"
       }
     ],
-    "lastOnAirSku": "7982436",
-    "lastOnAirTitle": "Di Palomo - Fig & Grape - Luxury Bathing Collection (Includes Bath Honey 300ml, 100g Soap, Bathing Bubbles 300ml and 2 x Bath Bombs)",
-    "lastOnAirAuctionCode": "0019847814",
+    "lastOnAirSku": "8052255",
+    "lastOnAirTitle": "Green Caviar Face Cream",
+    "lastOnAirAuctionCode": "0019847795",
     "precedingSku": "7982436",
     "precedingTitle": "Di Palomo - Fig & Grape - Luxury Bathing Collection (Includes Bath Honey 300ml, 100g Soap, Bathing Bubbles 300ml and 2 x Bath Bombs)",
     "precedingAuctionCode": "0019847814"
