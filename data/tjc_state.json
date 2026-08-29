@@ -182011,21 +182011,26 @@
       "sku": "8514439",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "22:12:23",
+      "date": "2026-08-29",
+      "time": "18:38:22",
       "preExisting": true,
       "missedAt": 1787001143427,
       "missedDelay": null,
-      "lastUpdated": 1787001143427,
+      "lastUpdated": 1788025102916,
       "missedPrice": 159.99,
       "missedImg": true,
-      "title": "Luxuriant-Lab Grown Multi Colour Diamond (SI-G-H ) Necklace (Size - 20) in Rhodium Overlay Sterling Silver 1.00 Ct.",
-      "auctionCode": "0019826083",
+      "title": "Luxuriant - Lab Grown Multi Colour Diamond (SI-G-H) Necklace (Size - 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+      "auctionCode": "0019848324",
       "source": "gha",
       "productUrl": "/products/luxuriant-si-g-h-lab-grown-multi-colour-diamond-necklace-size-20-in-sterling-silver-0-96-ct",
       "productUrlChecked": 1787001148216,
       "productUrlStatus": 503,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788025102916,
+      "pdpPrice": "329.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8588610": {
       "sku": "8588610",
@@ -265079,8 +265084,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788024800703,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -277345,11 +277350,22 @@
         "followingSku": "8524933",
         "followingTitle": "Luxuriant - Multi Colour Lab Grown Diamond (SI-G-H) Half-Eternity Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
         "followingAuctionCode": "0019848315"
+      },
+      {
+        "start": 1788024800703,
+        "end": 1788025102916,
+        "durationMin": 5.0,
+        "precedingSku": "8524933",
+        "precedingTitle": "Luxuriant - Multi Colour Lab Grown Diamond (SI-G-H) Half-Eternity Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
+        "precedingAuctionCode": "0019848315",
+        "followingSku": "8514439",
+        "followingTitle": "Luxuriant - Lab Grown Multi Colour Diamond (SI-G-H) Necklace (Size - 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019848324"
       }
     ],
-    "lastOnAirSku": "8524933",
-    "lastOnAirTitle": "Luxuriant - Multi Colour Lab Grown Diamond (SI-G-H) Half-Eternity Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
-    "lastOnAirAuctionCode": "0019848315",
+    "lastOnAirSku": "8514439",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Multi Colour Diamond (SI-G-H) Necklace (Size - 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019848324",
     "precedingSku": "8524933",
     "precedingTitle": "Luxuriant - Multi Colour Lab Grown Diamond (SI-G-H) Half-Eternity Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
     "precedingAuctionCode": "0019848315"
