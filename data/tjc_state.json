@@ -171210,17 +171210,17 @@
       "firstAir": 1786884926818,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787508862450,
+      "lastAir": 1788020839377,
       "title": "Luxuriant 950 Platinum SGL Certified Lab Grown Diamond (VS-EF) Trilogy Ring 2.00 Ct. 4.00 gram",
       "pdpPrice": "799.99",
-      "auctionCode": "0019837370",
+      "auctionCode": "0019848555",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-23",
-      "time": "19:14:22",
+      "date": "2026-08-29",
+      "time": "17:27:19",
       "productUrl": "/products/luxuriant-950-platinum-sgl-certified-lab-grown-diamond-vs-ef-trilogy-ring-2-00-ct",
-      "lastUpdated": 1787508862450,
+      "lastUpdated": 1788020839377,
       "source": "gha",
       "missedAt": 1786885529349,
       "missedDelay": 10,
@@ -264873,9 +264873,16 @@
       "img": true,
       "date": "2026-08-29",
       "time": "17:18:22",
-      "productUrl": null,
-      "lastUpdated": 1788020302183,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-igi-certified-vs-ef-pear-cut-lab-grown-diamond-solitaire-pendant-3-00-ct",
+      "lastUpdated": 1788020839377,
+      "source": "gha",
+      "missedAt": 1788020839377,
+      "missedDelay": 9,
+      "missedPrice": 1299.99,
+      "missedImg": true,
+      "productUrlChecked": 1788020843654,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4355653": {
       "sku": "4355653",
@@ -265037,8 +265044,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788020781753,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -277226,11 +277233,22 @@
         "followingSku": "8168237",
         "followingTitle": "Luxuriant IGI Certified (VS/EF) Pear Cut Lab Grown Diamond Solitaire Pendant 3.00 Ct.",
         "followingAuctionCode": "0019848513"
+      },
+      {
+        "start": 1788020781753,
+        "end": 1788020839377,
+        "durationMin": 1.0,
+        "precedingSku": "8366825",
+        "precedingTitle": "Luxuriant 950 Platinum IGI Certified Lab Grown Diamond (VS-EF) Heart Ring 3.51 Ct, Platinum Wt. 5.70 Gms.",
+        "precedingAuctionCode": "0019848538",
+        "followingSku": "8329691",
+        "followingTitle": "Luxuriant 950 Platinum SGL Certified Lab Grown Diamond (VS-EF) Trilogy Ring 2.00 Ct. 4.00 gram",
+        "followingAuctionCode": "0019848555"
       }
     ],
-    "lastOnAirSku": "8366825",
-    "lastOnAirTitle": "Luxuriant 950 Platinum IGI Certified Lab Grown Diamond (VS-EF) Heart Ring 3.51 Ct, Platinum Wt. 5.70 Gms.",
-    "lastOnAirAuctionCode": "0019848538",
+    "lastOnAirSku": "8329691",
+    "lastOnAirTitle": "Luxuriant 950 Platinum SGL Certified Lab Grown Diamond (VS-EF) Trilogy Ring 2.00 Ct. 4.00 gram",
+    "lastOnAirAuctionCode": "0019848555",
     "precedingSku": "8366825",
     "precedingTitle": "Luxuriant 950 Platinum IGI Certified Lab Grown Diamond (VS-EF) Heart Ring 3.51 Ct, Platinum Wt. 5.70 Gms.",
     "precedingAuctionCode": "0019848538"
