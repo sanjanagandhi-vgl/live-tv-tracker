@@ -1673,23 +1673,23 @@
       "sku": "7999686",
       "tvPrice": "",
       "remarks": "",
-      "time": "21:06:23",
+      "time": "17:49:22",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 1999.99,
       "missedImg": false,
-      "title": "IGI Certified Lab Grown Diamond (VS-G) Emerald Gemstone 10.00 Ct. Emerald Cut ( 14.73X 10.18X6.90 MM)",
-      "auctionCode": "0019803566",
+      "title": "IGI Certified Lab Grown Diamond (VS-G) Emerald Gemstone 10.00 Ct. Emerald Cut (14.73X 10.18X6.90 MM)",
+      "auctionCode": "0019847960",
       "source": "gha",
-      "lastAir": 1785614783741,
-      "pdpPrice": "2499.99",
+      "lastAir": 1788022162029,
+      "pdpPrice": "3499.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-01",
+      "date": "2026-08-29",
       "productUrl": null,
-      "lastUpdated": 1785614783741
+      "lastUpdated": 1788022162029
     },
     "8499105": {
       "sku": "8499105",
@@ -265051,8 +265051,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788022040162,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -277262,11 +277262,22 @@
         "followingSku": "8502395",
         "followingTitle": "Luxuriant 18K Yellow Gold SGL Certified VS-EF Lab Grown Diamond Pear Cut Halo Pendant 5.00 Ct",
         "followingAuctionCode": "0019848219"
+      },
+      {
+        "start": 1788022040162,
+        "end": 1788022162029,
+        "durationMin": 2.0,
+        "precedingSku": "8502395",
+        "precedingTitle": "Luxuriant 18K Yellow Gold SGL Certified VS-EF Lab Grown Diamond Pear Cut Halo Pendant 5.00 Ct",
+        "precedingAuctionCode": "0019848219",
+        "followingSku": "7999686",
+        "followingTitle": "IGI Certified Lab Grown Diamond (VS-G) Emerald Gemstone 10.00 Ct. Emerald Cut (14.73X 10.18X6.90 MM)",
+        "followingAuctionCode": "0019847960"
       }
     ],
-    "lastOnAirSku": "8502395",
-    "lastOnAirTitle": "Luxuriant 18K Yellow Gold SGL Certified VS-EF Lab Grown Diamond Pear Cut Halo Pendant 5.00 Ct",
-    "lastOnAirAuctionCode": "0019848219",
+    "lastOnAirSku": "7999686",
+    "lastOnAirTitle": "IGI Certified Lab Grown Diamond (VS-G) Emerald Gemstone 10.00 Ct. Emerald Cut (14.73X 10.18X6.90 MM)",
+    "lastOnAirAuctionCode": "0019847960",
     "precedingSku": "8502395",
     "precedingTitle": "Luxuriant 18K Yellow Gold SGL Certified VS-EF Lab Grown Diamond Pear Cut Halo Pendant 5.00 Ct",
     "precedingAuctionCode": "0019848219"
