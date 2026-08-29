@@ -263963,11 +263963,29 @@
       "productUrlChecked": 1788010531916,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8608843": {
+      "sku": "8608843",
+      "firstAir": 1788010639583,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788010639583,
+      "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 0.45 Ct.",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019848011",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-29",
+      "time": "14:37:19",
+      "productUrl": null,
+      "lastUpdated": 1788010639583,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788010582773,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -276001,11 +276019,22 @@
         "followingSku": "8740677",
         "followingTitle": "Luxuriant - 9K White Gold Lab Grown Diamond (SI-G-H) Stud Earring with Push Back 0.25 Ct.",
         "followingAuctionCode": "0019849526"
+      },
+      {
+        "start": 1788010582773,
+        "end": 1788010639583,
+        "durationMin": 0.9,
+        "precedingSku": "8740677",
+        "precedingTitle": "Luxuriant - 9K White Gold Lab Grown Diamond (SI-G-H) Stud Earring with Push Back 0.25 Ct.",
+        "precedingAuctionCode": "0019849526",
+        "followingSku": "8608843",
+        "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 0.45 Ct.",
+        "followingAuctionCode": "0019848011"
       }
     ],
-    "lastOnAirSku": "8740677",
-    "lastOnAirTitle": "Luxuriant - 9K White Gold Lab Grown Diamond (SI-G-H) Stud Earring with Push Back 0.25 Ct.",
-    "lastOnAirAuctionCode": "0019849526",
+    "lastOnAirSku": "8608843",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 0.45 Ct.",
+    "lastOnAirAuctionCode": "0019848011",
     "precedingSku": "8740677",
     "precedingTitle": "Luxuriant - 9K White Gold Lab Grown Diamond (SI-G-H) Stud Earring with Push Back 0.25 Ct.",
     "precedingAuctionCode": "0019849526"
