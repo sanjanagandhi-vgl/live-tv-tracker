@@ -235111,21 +235111,26 @@
       "sku": "7790217",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-25",
-      "time": "03:46:22",
+      "date": "2026-08-29",
+      "time": "12:31:17",
       "preExisting": true,
       "missedAt": 1787625982366,
       "missedDelay": null,
-      "lastUpdated": 1787625982366,
+      "lastUpdated": 1788003077813,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Portable Inflatable Sofa.  Outdoors and Indoors (Size 105x88x37 cm) - Brown",
-      "auctionCode": "0019839620",
+      "title": "Inflatable Sofa Geometric Pattern Single Seat with Handle with Zipper & Inside Overlocking",
+      "auctionCode": "0019848236",
       "source": "gha",
       "productUrl": "/products/inflatable-sofa-geometric-pattern-single-seat-with-handle-with-zipper-inside-overlocking",
       "productUrlChecked": 1787625987935,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788003077813,
+      "pdpPrice": "89.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8363247": {
       "sku": "8363247",
@@ -263063,8 +263068,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788003051428,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -275021,11 +275026,22 @@
         "followingSku": "8535955",
         "followingTitle": "Inflatable Lounge Chair and Footstool Ottoman Set (120kg Capacity) - Wine Red & White",
         "followingAuctionCode": "0019849452"
+      },
+      {
+        "start": 1788003051428,
+        "end": 1788003077813,
+        "durationMin": 0.4,
+        "precedingSku": "8535502",
+        "precedingTitle": "S-Curve Recliner Design Inflatable Ergonomic Lounger Armchair - 110Kg Weight Capacity - Light Brown & Black",
+        "precedingAuctionCode": "0019848378",
+        "followingSku": "7790217",
+        "followingTitle": "Inflatable Sofa Geometric Pattern Single Seat with Handle with Zipper & Inside Overlocking",
+        "followingAuctionCode": "0019848236"
       }
     ],
-    "lastOnAirSku": "8535502",
-    "lastOnAirTitle": "S-Curve Recliner Design Inflatable Ergonomic Lounger Armchair - 110Kg Weight Capacity - Light Brown & Black",
-    "lastOnAirAuctionCode": "0019848378",
+    "lastOnAirSku": "7790217",
+    "lastOnAirTitle": "Inflatable Sofa Geometric Pattern Single Seat with Handle with Zipper & Inside Overlocking",
+    "lastOnAirAuctionCode": "0019848236",
     "precedingSku": "8535502",
     "precedingTitle": "S-Curve Recliner Design Inflatable Ergonomic Lounger Armchair - 110Kg Weight Capacity - Light Brown & Black",
     "precedingAuctionCode": "0019848378"
