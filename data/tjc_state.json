@@ -16558,21 +16558,22 @@
       "firstAir": 1785126159229,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785126388999,
+      "lastAir": 1788053182070,
       "title": "Biggest Size - AAA Natural Tanzanian Green Apatite (OV9x7) & White Diamond Halo Ring in 9K Yellow Gold 2.00 Ct.",
-      "pdpPrice": 249.99,
-      "auctionCode": "0019796145",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "199.99",
+      "auctionCode": "0019849602",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "05:26:28",
-      "lastUpdated": 1785126436643,
+      "date": "2026-08-30",
+      "time": "02:26:22",
+      "lastUpdated": 1788053182070,
       "source": "gha",
       "missedAt": 1785126436643,
       "missedDelay": 1,
       "missedPrice": 249.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8276723": {
       "sku": "8276723",
@@ -266888,8 +266889,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788053127759,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -279407,11 +279408,22 @@
         "followingSku": "7541807",
         "followingTitle": "9K Yellow Gold Moissanite Halo Ring 3.30 Ct.",
         "followingAuctionCode": "0019849631"
+      },
+      {
+        "start": 1788053127759,
+        "end": 1788053182070,
+        "durationMin": 0.9,
+        "precedingSku": "7541807",
+        "precedingTitle": "9K Yellow Gold Moissanite Halo Ring 3.30 Ct.",
+        "precedingAuctionCode": "0019849631",
+        "followingSku": "8274621",
+        "followingTitle": "Biggest Size - AAA Natural Tanzanian Green Apatite (OV9x7) & White Diamond Halo Ring in 9K Yellow Gold 2.00 Ct.",
+        "followingAuctionCode": "0019849602"
       }
     ],
-    "lastOnAirSku": "7541807",
-    "lastOnAirTitle": "9K Yellow Gold Moissanite Halo Ring 3.30 Ct.",
-    "lastOnAirAuctionCode": "0019849631",
+    "lastOnAirSku": "8274621",
+    "lastOnAirTitle": "Biggest Size - AAA Natural Tanzanian Green Apatite (OV9x7) & White Diamond Halo Ring in 9K Yellow Gold 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019849602",
     "precedingSku": "7541807",
     "precedingTitle": "9K Yellow Gold Moissanite Halo Ring 3.30 Ct.",
     "precedingAuctionCode": "0019849631"
