@@ -189845,21 +189845,26 @@
       "sku": "8513252",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "05:25:29",
+      "date": "2026-08-30",
+      "time": "14:08:23",
       "preExisting": true,
       "missedAt": 1787113529013,
       "missedDelay": null,
-      "lastUpdated": 1787113529013,
+      "lastUpdated": 1788095303004,
       "missedPrice": 39.99,
       "missedImg": true,
       "title": "Royal Bali Collection - D'Joy Abalone Shell Sterling Silver Dragon Pendant 14.00 Ct.",
-      "auctionCode": "0019827813",
+      "auctionCode": "0019849123",
       "source": "gha",
       "productUrl": "/products/royal-bali-collection-djoy-mother-of-pearl-sterling-silver-pendant-14-00-ct",
       "productUrlChecked": 1787113538624,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788095303004,
+      "pdpPrice": "69.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8514099": {
       "sku": "8514099",
@@ -268740,8 +268745,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788095240275,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -281732,11 +281737,22 @@
         "followingSku": "4396324",
         "followingTitle": "Royal Bali Collection - Blue Sapphire & Black Spinel Sterling Silver Serpent Pendant with Chain (Size 20) & Lobster Clasp",
         "followingAuctionCode": "0019849178"
+      },
+      {
+        "start": 1788095240275,
+        "end": 1788095303004,
+        "durationMin": 1.0,
+        "precedingSku": "8522248",
+        "precedingTitle": "Royal Bali Collection - Sterling Silver Floral Stud Earring with Push Back",
+        "precedingAuctionCode": "0019849121",
+        "followingSku": "8513252",
+        "followingTitle": "Royal Bali Collection - D'Joy Abalone Shell Sterling Silver Dragon Pendant 14.00 Ct.",
+        "followingAuctionCode": "0019849123"
       }
     ],
-    "lastOnAirSku": "8522248",
-    "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Floral Stud Earring with Push Back",
-    "lastOnAirAuctionCode": "0019849121",
+    "lastOnAirSku": "8513252",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Abalone Shell Sterling Silver Dragon Pendant 14.00 Ct.",
+    "lastOnAirAuctionCode": "0019849123",
     "precedingSku": "8522248",
     "precedingTitle": "Royal Bali Collection - Sterling Silver Floral Stud Earring with Push Back",
     "precedingAuctionCode": "0019849121"
