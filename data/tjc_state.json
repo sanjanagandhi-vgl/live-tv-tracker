@@ -267620,11 +267620,29 @@
       "productUrl": null,
       "lastUpdated": 1788070241484,
       "source": "gha"
+    },
+    "8429146": {
+      "sku": "8429146",
+      "firstAir": 1788070344968,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788070344968,
+      "title": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019849433",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-30",
+      "time": "07:12:24",
+      "productUrl": null,
+      "lastUpdated": 1788070344968,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788070281235,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280340,11 +280358,22 @@
         "followingSku": "8429144",
         "followingTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
         "followingAuctionCode": "0019849429"
+      },
+      {
+        "start": 1788070281235,
+        "end": 1788070344968,
+        "durationMin": 1.1,
+        "precedingSku": "8429144",
+        "precedingTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
+        "precedingAuctionCode": "0019849429",
+        "followingSku": "8429146",
+        "followingTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
+        "followingAuctionCode": "0019849433"
       }
     ],
-    "lastOnAirSku": "8429144",
+    "lastOnAirSku": "8429146",
     "lastOnAirTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
-    "lastOnAirAuctionCode": "0019849429",
+    "lastOnAirAuctionCode": "0019849433",
     "precedingSku": "8429144",
     "precedingTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
     "precedingAuctionCode": "0019849429"
