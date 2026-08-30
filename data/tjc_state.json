@@ -164612,21 +164612,26 @@
       "sku": "8356194",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "14:25:29",
+      "date": "2026-08-30",
+      "time": "02:06:21",
       "preExisting": true,
       "missedAt": 1786800329805,
       "missedDelay": null,
-      "lastUpdated": 1786800329805,
+      "lastUpdated": 1788051981894,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "9K Yellow Gold Creole Earring with Clasp",
-      "auctionCode": "0019821347",
+      "auctionCode": "0019849660",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-creole-earring-with-clasp",
       "productUrlChecked": 1786800334905,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788051981894,
+      "pdpPrice": "27.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8416873": {
       "sku": "8416873",
@@ -266836,8 +266841,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788051864462,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -279322,11 +279327,22 @@
         "followingSku": "8556019",
         "followingTitle": "WILLIAM HUNT Automatic 3ATM WR Silver Hollow Dial & Silver Case Watch with Black Silicone Strap",
         "followingAuctionCode": "0019849774"
+      },
+      {
+        "start": 1788051864462,
+        "end": 1788051981894,
+        "durationMin": 2.0,
+        "precedingSku": "8524948",
+        "precedingTitle": "Luxuriant - Lab Grown Multi Diamond (SI) Adjustable Tennis Bracelet (Size 6.5-10) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019850341",
+        "followingSku": "8356194",
+        "followingTitle": "9K Yellow Gold Creole Earring with Clasp",
+        "followingAuctionCode": "0019849660"
       }
     ],
-    "lastOnAirSku": "8524948",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Multi Diamond (SI) Adjustable Tennis Bracelet (Size 6.5-10) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019850341",
+    "lastOnAirSku": "8356194",
+    "lastOnAirTitle": "9K Yellow Gold Creole Earring with Clasp",
+    "lastOnAirAuctionCode": "0019849660",
     "precedingSku": "8524948",
     "precedingTitle": "Luxuriant - Lab Grown Multi Diamond (SI) Adjustable Tennis Bracelet (Size 6.5-10) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019850341"
