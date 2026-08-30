@@ -23318,19 +23318,19 @@
       "sku": "8600644",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-09",
-      "time": "18:54:21",
+      "date": "2026-08-30",
+      "time": "14:45:35",
       "preExisting": true,
       "missedAt": 1785387436736,
       "missedDelay": null,
-      "lastUpdated": 1786298061361,
+      "lastUpdated": 1788097535995,
       "missedPrice": 549.99,
       "missedImg": true,
       "title": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Necklace (Size - 20), Silver Wt. 72.70 Gms",
-      "auctionCode": "0019812969",
+      "auctionCode": "0019849199",
       "source": "gha",
-      "lastAir": 1786298061361,
-      "pdpPrice": "549.99",
+      "lastAir": 1788097535995,
+      "pdpPrice": "4578.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -268784,8 +268784,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788097463289,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -281809,11 +281809,22 @@
         "followingSku": "8688251",
         "followingTitle": "D'Joy - Labradorite Solitaire Ring in Platinum Overlay Sterling Silver  17.80 Ct.",
         "followingAuctionCode": "0019849188"
+      },
+      {
+        "start": 1788097463289,
+        "end": 1788097535995,
+        "durationMin": 1.2,
+        "precedingSku": "8601314",
+        "precedingTitle": "Royal Bali Collection - D'Joy Labradorite Sterling Silver Pear Cut Solitaire Pendant 88.40 Ct, Silver Wt. 12.00 Gms",
+        "precedingAuctionCode": "0019849216",
+        "followingSku": "8600644",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Necklace (Size - 20), Silver Wt. 72.70 Gms",
+        "followingAuctionCode": "0019849199"
       }
     ],
-    "lastOnAirSku": "8601314",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Labradorite Sterling Silver Pear Cut Solitaire Pendant 88.40 Ct, Silver Wt. 12.00 Gms",
-    "lastOnAirAuctionCode": "0019849216",
+    "lastOnAirSku": "8600644",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Necklace (Size - 20), Silver Wt. 72.70 Gms",
+    "lastOnAirAuctionCode": "0019849199",
     "precedingSku": "8601314",
     "precedingTitle": "Royal Bali Collection - D'Joy Labradorite Sterling Silver Pear Cut Solitaire Pendant 88.40 Ct, Silver Wt. 12.00 Gms",
     "precedingAuctionCode": "0019849216"
