@@ -268402,11 +268402,29 @@
       "missedDelay": 9,
       "missedPrice": 399.99,
       "missedImg": true
+    },
+    "7933689": {
+      "sku": "7933689",
+      "firstAir": 1788091401067,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788091401067,
+      "title": "Luxuriant Diamond 950 Platinum IGI Certified Lab Grown Diamond Solitaire Ring, 5.00 Ct, 6.20 Gms",
+      "pdpPrice": "12345.99",
+      "auctionCode": "0019850181",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-30",
+      "time": "13:03:21",
+      "productUrl": null,
+      "lastUpdated": 1788091401067,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788091263377,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -281342,11 +281360,22 @@
         "followingSku": "8499105",
         "followingTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
         "followingAuctionCode": "0019850406"
+      },
+      {
+        "start": 1788091263377,
+        "end": 1788091401067,
+        "durationMin": 2.3,
+        "precedingSku": "8499105",
+        "precedingTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+        "precedingAuctionCode": "0019850406",
+        "followingSku": "7933689",
+        "followingTitle": "Luxuriant Diamond 950 Platinum IGI Certified Lab Grown Diamond Solitaire Ring, 5.00 Ct, 6.20 Gms",
+        "followingAuctionCode": "0019850181"
       }
     ],
-    "lastOnAirSku": "8499105",
-    "lastOnAirTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019850406",
+    "lastOnAirSku": "7933689",
+    "lastOnAirTitle": "Luxuriant Diamond 950 Platinum IGI Certified Lab Grown Diamond Solitaire Ring, 5.00 Ct, 6.20 Gms",
+    "lastOnAirAuctionCode": "0019850181",
     "precedingSku": "8499105",
     "precedingTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
     "precedingAuctionCode": "0019850406"
