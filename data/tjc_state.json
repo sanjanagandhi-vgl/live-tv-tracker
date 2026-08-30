@@ -1756,22 +1756,22 @@
       "sku": "8637949",
       "tvPrice": "",
       "remarks": "",
-      "time": "23:39:23",
+      "time": "19:47:18",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 3999.99,
       "missedImg": false,
       "title": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
-      "auctionCode": "0019839924",
+      "auctionCode": "0019851777",
       "source": "gha",
-      "lastAir": 1787611163291,
-      "pdpPrice": "3999.99",
+      "lastAir": 1788115638992,
+      "pdpPrice": "42799.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-24",
-      "lastUpdated": 1787611163291,
+      "date": "2026-08-30",
+      "lastUpdated": 1788115638992,
       "productUrl": null
     },
     "8657969": {
@@ -270266,8 +270266,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788115536636,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -283445,11 +283445,22 @@
         "followingSku": "8523048",
         "followingTitle": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
         "followingAuctionCode": "0019848095"
+      },
+      {
+        "start": 1788115536636,
+        "end": 1788115638992,
+        "durationMin": 1.7,
+        "precedingSku": "8523048",
+        "precedingTitle": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
+        "precedingAuctionCode": "0019848095",
+        "followingSku": "8637949",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+        "followingAuctionCode": "0019851777"
       }
     ],
-    "lastOnAirSku": "8523048",
-    "lastOnAirTitle": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
-    "lastOnAirAuctionCode": "0019848095",
+    "lastOnAirSku": "8637949",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+    "lastOnAirAuctionCode": "0019851777",
     "precedingSku": "8523048",
     "precedingTitle": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
     "precedingAuctionCode": "0019848095"
