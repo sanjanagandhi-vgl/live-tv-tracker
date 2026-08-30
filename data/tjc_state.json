@@ -180,23 +180,23 @@
       "sku": "8571440",
       "tvPrice": "",
       "remarks": "",
-      "time": "23:01:07",
+      "time": "10:46:21",
       "preExisting": true,
       "missedAt": 1784790236863,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
-      "auctionCode": "0019830898",
+      "auctionCode": "0019845777",
       "source": "gha",
-      "lastAir": 1787176867194,
+      "lastAir": 1788083181516,
       "pdpPrice": "299.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
+      "date": "2026-08-30",
       "productUrl": null,
-      "lastUpdated": 1787176867194
+      "lastUpdated": 1788083181516
     },
     "8422340": {
       "sku": "8422340",
@@ -267923,8 +267923,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788083136078,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280783,11 +280783,22 @@
         "followingSku": "8572410",
         "followingTitle": "9K Yellow Gold Hoop Earring",
         "followingAuctionCode": "0019845773"
+      },
+      {
+        "start": 1788083136078,
+        "end": 1788083181516,
+        "durationMin": 0.8,
+        "precedingSku": "8572365",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Circle Pendant with Push Back",
+        "precedingAuctionCode": "0019845774",
+        "followingSku": "8571440",
+        "followingTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
+        "followingAuctionCode": "0019845777"
       }
     ],
-    "lastOnAirSku": "8572365",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Circle Pendant with Push Back",
-    "lastOnAirAuctionCode": "0019845774",
+    "lastOnAirSku": "8571440",
+    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
+    "lastOnAirAuctionCode": "0019845777",
     "precedingSku": "8572365",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Circle Pendant with Push Back",
     "precedingAuctionCode": "0019845774"
