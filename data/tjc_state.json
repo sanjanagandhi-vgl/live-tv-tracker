@@ -266867,11 +266867,29 @@
       "productUrl": null,
       "lastUpdated": 1788052703952,
       "source": "gha"
+    },
+    "7541807": {
+      "sku": "7541807",
+      "firstAir": 1788052836667,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788052836667,
+      "title": "9K Yellow Gold Moissanite Halo Ring 3.30 Ct.",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019849631",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-30",
+      "time": "02:20:36",
+      "productUrl": null,
+      "lastUpdated": 1788052836667,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788052758176,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -279378,11 +279396,22 @@
         "followingSku": "8359496",
         "followingTitle": "Multi Colour Edison Pearl Pendant 8.00 Ct.",
         "followingAuctionCode": "0019849599"
+      },
+      {
+        "start": 1788052758176,
+        "end": 1788052836667,
+        "durationMin": 1.3,
+        "precedingSku": "7646672",
+        "precedingTitle": "9K White Gold Solitaire Diamond Solitaire Stud Earrings 0.20 Ct.",
+        "precedingAuctionCode": "0019849598",
+        "followingSku": "7541807",
+        "followingTitle": "9K Yellow Gold Moissanite Halo Ring 3.30 Ct.",
+        "followingAuctionCode": "0019849631"
       }
     ],
-    "lastOnAirSku": "7646672",
-    "lastOnAirTitle": "9K White Gold Solitaire Diamond Solitaire Stud Earrings 0.20 Ct.",
-    "lastOnAirAuctionCode": "0019849598",
+    "lastOnAirSku": "7541807",
+    "lastOnAirTitle": "9K Yellow Gold Moissanite Halo Ring 3.30 Ct.",
+    "lastOnAirAuctionCode": "0019849631",
     "precedingSku": "7646672",
     "precedingTitle": "9K White Gold Solitaire Diamond Solitaire Stud Earrings 0.20 Ct.",
     "precedingAuctionCode": "0019849598"
