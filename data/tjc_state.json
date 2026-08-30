@@ -19969,21 +19969,22 @@
       "firstAir": 1785299125295,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785328343428,
-      "title": "24K Yellow Gold 1.00 Gram (99.9% Purity ) Swiss Movement 5 ATM Water Resistent (39mm) with Black...",
-      "pdpPrice": 579.99,
-      "auctionCode": "0019799548",
-      "buy": false,
+      "lastAir": 1788084502058,
+      "title": "24K Yellow Gold 1.00 Gram (99.9% Purity ) Swiss Movement 5 ATM Water Resistent (39mm)  with Black Leather Strap EON 1962 Watch",
+      "pdpPrice": "4999.99",
+      "auctionCode": "0019849325",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-29",
-      "time": "13:32:23",
-      "lastUpdated": 1785328343428,
+      "date": "2026-08-30",
+      "time": "11:08:22",
+      "lastUpdated": 1788084502058,
       "source": "gha",
       "missedAt": 1785321863299,
       "missedDelay": 0,
       "missedPrice": 579.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8578778": {
       "sku": "8578778",
@@ -267944,8 +267945,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788084063140,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280826,11 +280827,22 @@
         "followingSku": "8692856",
         "followingTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
         "followingAuctionCode": "0019849246"
+      },
+      {
+        "start": 1788084063140,
+        "end": 1788084502058,
+        "durationMin": 7.3,
+        "precedingSku": "8572364",
+        "precedingTitle": "One Time Close Out 9K Yellow Gold Cross Pendant",
+        "precedingAuctionCode": "0019845796",
+        "followingSku": "8431614",
+        "followingTitle": "24K Yellow Gold 1.00 Gram (99.9% Purity ) Swiss Movement 5 ATM Water Resistent (39mm)  with Black Leather Strap EON 1962 Watch",
+        "followingAuctionCode": "0019849325"
       }
     ],
-    "lastOnAirSku": "8572364",
-    "lastOnAirTitle": "One Time Close Out 9K Yellow Gold Cross Pendant",
-    "lastOnAirAuctionCode": "0019845796",
+    "lastOnAirSku": "8431614",
+    "lastOnAirTitle": "24K Yellow Gold 1.00 Gram (99.9% Purity ) Swiss Movement 5 ATM Water Resistent (39mm)  with Black Leather Strap EON 1962 Watch",
+    "lastOnAirAuctionCode": "0019849325",
     "precedingSku": "8572364",
     "precedingTitle": "One Time Close Out 9K Yellow Gold Cross Pendant",
     "precedingAuctionCode": "0019845796"
