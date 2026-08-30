@@ -268420,11 +268420,29 @@
       "productUrl": null,
       "lastUpdated": 1788092479640,
       "source": "gha"
+    },
+    "8296679": {
+      "sku": "8296679",
+      "firstAir": 1788092600595,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788092600595,
+      "title": "LUXURIANT 5 Carat Lab Grown Diamond Solitaire Ring in 950 Platinum",
+      "pdpPrice": "3999.99",
+      "auctionCode": "0019850292",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-30",
+      "time": "13:23:20",
+      "productUrl": null,
+      "lastUpdated": 1788092600595,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788092544751,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -281371,11 +281389,22 @@
         "followingSku": "7933689",
         "followingTitle": "Luxuriant Diamond 950 Platinum IGI Certified Lab Grown Diamond Solitaire Ring, 5.00 Ct, 6.20 Gms",
         "followingAuctionCode": "0019850181"
+      },
+      {
+        "start": 1788092544751,
+        "end": 1788092600595,
+        "durationMin": 0.9,
+        "precedingSku": "7933689",
+        "precedingTitle": "Luxuriant Diamond 950 Platinum IGI Certified Lab Grown Diamond Solitaire Ring, 5.00 Ct, 6.20 Gms",
+        "precedingAuctionCode": "0019850181",
+        "followingSku": "8296679",
+        "followingTitle": "LUXURIANT 5 Carat Lab Grown Diamond Solitaire Ring in 950 Platinum",
+        "followingAuctionCode": "0019850292"
       }
     ],
-    "lastOnAirSku": "7933689",
-    "lastOnAirTitle": "Luxuriant Diamond 950 Platinum IGI Certified Lab Grown Diamond Solitaire Ring, 5.00 Ct, 6.20 Gms",
-    "lastOnAirAuctionCode": "0019850181",
+    "lastOnAirSku": "8296679",
+    "lastOnAirTitle": "LUXURIANT 5 Carat Lab Grown Diamond Solitaire Ring in 950 Platinum",
+    "lastOnAirAuctionCode": "0019850292",
     "precedingSku": "7933689",
     "precedingTitle": "Luxuriant Diamond 950 Platinum IGI Certified Lab Grown Diamond Solitaire Ring, 5.00 Ct, 6.20 Gms",
     "precedingAuctionCode": "0019850181"
