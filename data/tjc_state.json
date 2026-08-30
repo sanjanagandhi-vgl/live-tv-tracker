@@ -23799,21 +23799,26 @@
       "sku": "8436436",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-30",
-      "time": "11:01:20",
+      "date": "2026-08-30",
+      "time": "04:06:22",
       "preExisting": true,
       "missedAt": 1785405680667,
       "missedDelay": null,
-      "lastUpdated": 1785405680667,
+      "lastUpdated": 1788059182176,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "NEW ARRIVAL- Livmore EMS Electric V-Shaped Face & Neck Toning and Lifting Device with Three Intensity Levels",
-      "auctionCode": "0019800521",
+      "title": "LAST IN STOCK- - Livmore EMS Electric V-Shaped Face & Neck Toning and Lifting Device with Three Intensity Levels",
+      "auctionCode": "0019849050",
       "source": "gha",
       "productUrl": "/products/new-arrival-livmore-ems-electric-v-shaped-face-neck-toning-and-lifting-device-with-three-intensity-levels-8436436",
       "productUrlChecked": 1785405685392,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788059182176,
+      "pdpPrice": "209.00",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8429767": {
       "sku": "8429767",
@@ -267499,8 +267504,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788059130360,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280073,11 +280078,22 @@
         "followingSku": "8280360",
         "followingTitle": "Black Friday Doorbuster - 9K Yellow Gold AAA Radiant Cut Natural Turkizite Bracelet\u00a0",
         "followingAuctionCode": "0019849560"
+      },
+      {
+        "start": 1788059130360,
+        "end": 1788059182176,
+        "durationMin": 0.9,
+        "precedingSku": "8499759",
+        "precedingTitle": "The Legacy Collection - 9K Yellow Gold AAA Tanzanite Solitaire Handmade Mirage Oval Ring 2.00 Ct.",
+        "precedingAuctionCode": "0019849636",
+        "followingSku": "8436436",
+        "followingTitle": "LAST IN STOCK- - Livmore EMS Electric V-Shaped Face & Neck Toning and Lifting Device with Three Intensity Levels",
+        "followingAuctionCode": "0019849050"
       }
     ],
-    "lastOnAirSku": "8499759",
-    "lastOnAirTitle": "The Legacy Collection - 9K Yellow Gold AAA Tanzanite Solitaire Handmade Mirage Oval Ring 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019849636",
+    "lastOnAirSku": "8436436",
+    "lastOnAirTitle": "LAST IN STOCK- - Livmore EMS Electric V-Shaped Face & Neck Toning and Lifting Device with Three Intensity Levels",
+    "lastOnAirAuctionCode": "0019849050",
     "precedingSku": "8499759",
     "precedingTitle": "The Legacy Collection - 9K Yellow Gold AAA Tanzanite Solitaire Handmade Mirage Oval Ring 2.00 Ct.",
     "precedingAuctionCode": "0019849636"
