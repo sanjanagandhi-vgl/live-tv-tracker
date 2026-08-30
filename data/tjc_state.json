@@ -267602,11 +267602,29 @@
       "productUrlChecked": 1788069047409,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8429144": {
+      "sku": "8429144",
+      "firstAir": 1788070103008,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788070103008,
+      "title": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019849429",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-30",
+      "time": "07:08:23",
+      "productUrl": null,
+      "lastUpdated": 1788070103008,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788069929195,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280311,11 +280329,22 @@
         "followingSku": "8519271",
         "followingTitle": "Pack of 2 - Ecoegg Dryer Balls Spring Blossom - Pink",
         "followingAuctionCode": "0019849499"
+      },
+      {
+        "start": 1788069929195,
+        "end": 1788070103008,
+        "durationMin": 2.9,
+        "precedingSku": "8519261",
+        "precedingTitle": "Ecoegg Laundry Egg Spring Blossom - 70 washes Pink",
+        "precedingAuctionCode": "0019850350",
+        "followingSku": "8429144",
+        "followingTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
+        "followingAuctionCode": "0019849429"
       }
     ],
-    "lastOnAirSku": "8519261",
-    "lastOnAirTitle": "Ecoegg Laundry Egg Spring Blossom - 70 washes Pink",
-    "lastOnAirAuctionCode": "0019850350",
+    "lastOnAirSku": "8429144",
+    "lastOnAirTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
+    "lastOnAirAuctionCode": "0019849429",
     "precedingSku": "8519261",
     "precedingTitle": "Ecoegg Laundry Egg Spring Blossom - 70 washes Pink",
     "precedingAuctionCode": "0019850350"
