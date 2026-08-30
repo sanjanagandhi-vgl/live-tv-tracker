@@ -3825,16 +3825,16 @@
       "firstAir": 1784879725982,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786954998840,
+      "lastAir": 1788083541410,
       "title": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
       "pdpPrice": "999.99",
-      "auctionCode": "0019825765",
+      "auctionCode": "0019849246",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "time": "09:23:18",
-      "lastUpdated": 1786954998840,
+      "date": "2026-08-30",
+      "time": "10:52:21",
+      "lastUpdated": 1788083541410,
       "source": "gha",
       "missedAt": 1784880861563,
       "missedDelay": 1,
@@ -267906,9 +267906,16 @@
       "img": true,
       "date": "2026-08-30",
       "time": "10:42:22",
-      "productUrl": null,
-      "lastUpdated": 1788082942388,
-      "source": "gha"
+      "productUrl": "/products/9k-yellow-gold-hoop-earring-8572410",
+      "lastUpdated": 1788083541410,
+      "source": "gha",
+      "missedAt": 1788083541410,
+      "missedDelay": 10,
+      "missedPrice": 79.99,
+      "missedImg": true,
+      "productUrlChecked": 1788083543790,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8572365": {
       "sku": "8572365",
@@ -267930,8 +267937,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788083478480,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280801,11 +280808,22 @@
         "followingSku": "8571440",
         "followingTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
         "followingAuctionCode": "0019845777"
+      },
+      {
+        "start": 1788083478480,
+        "end": 1788083541410,
+        "durationMin": 1.0,
+        "precedingSku": "8571440",
+        "precedingTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
+        "precedingAuctionCode": "0019845777",
+        "followingSku": "8692856",
+        "followingTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
+        "followingAuctionCode": "0019849246"
       }
     ],
-    "lastOnAirSku": "8571440",
-    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
-    "lastOnAirAuctionCode": "0019845777",
+    "lastOnAirSku": "8692856",
+    "lastOnAirTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
+    "lastOnAirAuctionCode": "0019849246",
     "precedingSku": "8571440",
     "precedingTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
     "precedingAuctionCode": "0019845777"
