@@ -95200,17 +95200,17 @@
       "firstAir": 1786099278474,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787044837631,
+      "lastAir": 1788069141631,
       "title": "Pack of 2 - Ecoegg Dryer Balls Spring Blossom - Pink",
-      "pdpPrice": "3.99",
-      "auctionCode": "0019827151",
+      "pdpPrice": "79.00",
+      "auctionCode": "0019849499",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-18",
-      "time": "10:20:37",
+      "date": "2026-08-30",
+      "time": "06:52:21",
       "productUrl": "/products/pack-of-2-ecoegg-dryer-balls",
-      "lastUpdated": 1787044837631,
+      "lastUpdated": 1788069141631,
       "source": "gha",
       "missedAt": 1786100063122,
       "missedDelay": 9,
@@ -267605,8 +267605,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788069078792,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280300,11 +280300,22 @@
         "followingSku": "8516162",
         "followingTitle": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
         "followingAuctionCode": "0019849477"
+      },
+      {
+        "start": 1788069078792,
+        "end": 1788069141631,
+        "durationMin": 1.0,
+        "precedingSku": "8516162",
+        "precedingTitle": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
+        "precedingAuctionCode": "0019849477",
+        "followingSku": "8519271",
+        "followingTitle": "Pack of 2 - Ecoegg Dryer Balls Spring Blossom - Pink",
+        "followingAuctionCode": "0019849499"
       }
     ],
-    "lastOnAirSku": "8516162",
-    "lastOnAirTitle": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
-    "lastOnAirAuctionCode": "0019849477",
+    "lastOnAirSku": "8519271",
+    "lastOnAirTitle": "Pack of 2 - Ecoegg Dryer Balls Spring Blossom - Pink",
+    "lastOnAirAuctionCode": "0019849499",
     "precedingSku": "8516162",
     "precedingTitle": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
     "precedingAuctionCode": "0019849477"
