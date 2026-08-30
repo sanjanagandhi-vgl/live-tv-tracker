@@ -1698,22 +1698,22 @@
       "sku": "8499105",
       "tvPrice": "",
       "remarks": "",
-      "time": "15:28:24",
+      "time": "12:48:23",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 799.99,
       "missedImg": false,
       "title": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
-      "auctionCode": "0019847953",
+      "auctionCode": "0019850406",
       "source": "gha",
-      "lastAir": 1788013704621,
-      "pdpPrice": "679.99",
+      "lastAir": 1788090503071,
+      "pdpPrice": "1999.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-29",
-      "lastUpdated": 1788013704621,
+      "date": "2026-08-30",
+      "lastUpdated": 1788090503071,
       "productUrl": null
     },
     "8610940": {
@@ -268369,8 +268369,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788090439387,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -281295,11 +281295,22 @@
         "followingSku": "8586408",
         "followingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI/G-H) Ring in Sterling Silver 2.24 Ct.",
         "followingAuctionCode": "0019850732"
+      },
+      {
+        "start": 1788090439387,
+        "end": 1788090503071,
+        "durationMin": 1.1,
+        "precedingSku": "8586408",
+        "precedingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI/G-H) Ring in Sterling Silver 2.24 Ct.",
+        "precedingAuctionCode": "0019850732",
+        "followingSku": "8499105",
+        "followingTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+        "followingAuctionCode": "0019850406"
       }
     ],
-    "lastOnAirSku": "8586408",
-    "lastOnAirTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI/G-H) Ring in Sterling Silver 2.24 Ct.",
-    "lastOnAirAuctionCode": "0019850732",
+    "lastOnAirSku": "8499105",
+    "lastOnAirTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E-F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019850406",
     "precedingSku": "8586408",
     "precedingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI/G-H) Ring in Sterling Silver 2.24 Ct.",
     "precedingAuctionCode": "0019850732"
