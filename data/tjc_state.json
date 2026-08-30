@@ -51495,17 +51495,17 @@
       "firstAir": 1785630743359,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785971063156,
+      "lastAir": 1788057440488,
       "title": "Black Friday Doorbuster - 9K Yellow Gold AAA Radiant Cut Natural Turkizite Bracelet\u00a0",
-      "pdpPrice": "999.99",
-      "auctionCode": "0019808903",
+      "pdpPrice": "1197.99",
+      "auctionCode": "0019849560",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-06",
-      "time": "00:04:23",
+      "date": "2026-08-30",
+      "time": "03:37:20",
       "productUrl": "/products/black-friday-doorbuster-9k-yellow-gold-aaa-radiant-cut-natural-turkizite-bracelet?variant=53106379817226",
-      "lastUpdated": 1785971063156,
+      "lastUpdated": 1788057440488,
       "source": "gha",
       "productUrlChecked": 1785634282873,
       "productUrlStatus": 500,
@@ -267418,9 +267418,16 @@
       "img": true,
       "date": "2026-08-30",
       "time": "03:28:25",
-      "productUrl": null,
-      "lastUpdated": 1788056905155,
-      "source": "gha"
+      "productUrl": "/products/9k-gold-moissanite-solitaire-ring",
+      "lastUpdated": 1788057440488,
+      "source": "gha",
+      "missedAt": 1788057440488,
+      "missedDelay": 9,
+      "missedPrice": 149.99,
+      "missedImg": true,
+      "productUrlChecked": 1788057443698,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8575011": {
       "sku": "8575011",
@@ -267482,8 +267489,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788057091148,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280045,11 +280052,22 @@
         "followingSku": "7327990",
         "followingTitle": "9K White Gold Diamond Dragonfly Pendant 0.03 Ct",
         "followingAuctionCode": "0019849558"
+      },
+      {
+        "start": 1788057091148,
+        "end": 1788057440488,
+        "durationMin": 5.8,
+        "precedingSku": "7662066",
+        "precedingTitle": "9K White Gold Finest CZ Full Eternity Ring",
+        "precedingAuctionCode": "0019849557",
+        "followingSku": "8280360",
+        "followingTitle": "Black Friday Doorbuster - 9K Yellow Gold AAA Radiant Cut Natural Turkizite Bracelet\u00a0",
+        "followingAuctionCode": "0019849560"
       }
     ],
-    "lastOnAirSku": "7662066",
-    "lastOnAirTitle": "9K White Gold Finest CZ Full Eternity Ring",
-    "lastOnAirAuctionCode": "0019849557",
+    "lastOnAirSku": "8280360",
+    "lastOnAirTitle": "Black Friday Doorbuster - 9K Yellow Gold AAA Radiant Cut Natural Turkizite Bracelet\u00a0",
+    "lastOnAirAuctionCode": "0019849560",
     "precedingSku": "7662066",
     "precedingTitle": "9K White Gold Finest CZ Full Eternity Ring",
     "precedingAuctionCode": "0019849557"
