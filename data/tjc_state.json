@@ -185370,21 +185370,26 @@
       "sku": "8516162",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "13:04:25",
+      "date": "2026-08-30",
+      "time": "06:42:23",
       "preExisting": true,
       "missedAt": 1787054665996,
       "missedDelay": null,
-      "lastUpdated": 1787054665996,
+      "lastUpdated": 1788068543842,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Livmore Microfibre Cleaning Towel Roll - 30 Pulls (25 x 25cm) - Light Blue",
-      "auctionCode": "0019827404",
+      "title": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
+      "auctionCode": "0019849477",
       "source": "gha",
       "productUrl": "/products/livmore-microfibre-cleaning-towel-roll-30-pulls-25-x-25cm",
       "productUrlChecked": 1787054676228,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788068543842,
+      "pdpPrice": "99.00",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8516160": {
       "sku": "8516160",
@@ -267573,8 +267578,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788068481608,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280257,11 +280262,22 @@
         "followingSku": "8323860",
         "followingTitle": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (34 x 60 x 42 cm) - Grey",
         "followingAuctionCode": "0019850290"
+      },
+      {
+        "start": 1788068481608,
+        "end": 1788068543842,
+        "durationMin": 1.0,
+        "precedingSku": "8323860",
+        "precedingTitle": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (34 x 60 x 42 cm) - Grey",
+        "precedingAuctionCode": "0019850290",
+        "followingSku": "8516162",
+        "followingTitle": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
+        "followingAuctionCode": "0019849477"
       }
     ],
-    "lastOnAirSku": "8323860",
-    "lastOnAirTitle": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (34 x 60 x 42 cm) - Grey",
-    "lastOnAirAuctionCode": "0019850290",
+    "lastOnAirSku": "8516162",
+    "lastOnAirTitle": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
+    "lastOnAirAuctionCode": "0019849477",
     "precedingSku": "8323860",
     "precedingTitle": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (34 x 60 x 42 cm) - Grey",
     "precedingAuctionCode": "0019850290"
