@@ -267877,11 +267877,29 @@
       "productUrl": null,
       "lastUpdated": 1788082638391,
       "source": "gha"
+    },
+    "8572410": {
+      "sku": "8572410",
+      "firstAir": 1788082758628,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788082758628,
+      "title": "9K Yellow Gold Hoop Earring",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019845773",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-30",
+      "time": "10:39:18",
+      "productUrl": null,
+      "lastUpdated": 1788082758628,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788082701140,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280729,11 +280747,22 @@
         "followingSku": "8629406",
         "followingTitle": "Close Out Deal- 9K Yellow Gold Hoop Earring with Clasp",
         "followingAuctionCode": "0019849285"
+      },
+      {
+        "start": 1788082701140,
+        "end": 1788082758628,
+        "durationMin": 1.0,
+        "precedingSku": "8572380",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Dolphin Pendant",
+        "precedingAuctionCode": "0019845772",
+        "followingSku": "8572410",
+        "followingTitle": "9K Yellow Gold Hoop Earring",
+        "followingAuctionCode": "0019845773"
       }
     ],
-    "lastOnAirSku": "8572380",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Dolphin Pendant",
-    "lastOnAirAuctionCode": "0019845772",
+    "lastOnAirSku": "8572410",
+    "lastOnAirTitle": "9K Yellow Gold Hoop Earring",
+    "lastOnAirAuctionCode": "0019845773",
     "precedingSku": "8572380",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Dolphin Pendant",
     "precedingAuctionCode": "0019845772"
