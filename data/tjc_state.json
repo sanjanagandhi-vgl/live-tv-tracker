@@ -149850,21 +149850,26 @@
       "sku": "8629406",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "16:46:21",
+      "date": "2026-08-30",
+      "time": "10:07:19",
       "preExisting": true,
       "missedAt": 1786635981831,
       "missedDelay": null,
-      "lastUpdated": 1786635981831,
+      "lastUpdated": 1788080839328,
       "missedPrice": 299.99,
       "missedImg": true,
       "title": "Close Out Deal- 9K Yellow Gold Hoop Earring with Clasp",
-      "auctionCode": "0019818738",
+      "auctionCode": "0019849285",
       "source": "gha",
-      "productUrl": "/products/close-out-deal-9k-yellow-gold-hoop-earring-with-clasp-8629406",
+      "productUrl": "/products/close-out-deal-9k-yellow-gold-hoop-earring-with-clasp-8629406?variant=53191756251402",
       "productUrlChecked": 1786635985113,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788080839328,
+      "pdpPrice": 99.99,
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8525497": {
       "sku": "8525497",
@@ -267814,8 +267819,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788080662741,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280652,11 +280657,22 @@
         "followingSku": "8528121",
         "followingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
         "followingAuctionCode": "0019850462"
+      },
+      {
+        "start": 1788080662741,
+        "end": 1788080839328,
+        "durationMin": 2.9,
+        "precedingSku": "8528121",
+        "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
+        "precedingAuctionCode": "0019850462",
+        "followingSku": "8629406",
+        "followingTitle": "Close Out Deal- 9K Yellow Gold Hoop Earring with Clasp",
+        "followingAuctionCode": "0019849285"
       }
     ],
-    "lastOnAirSku": "8528121",
-    "lastOnAirTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
-    "lastOnAirAuctionCode": "0019850462",
+    "lastOnAirSku": "8629406",
+    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019849285",
     "precedingSku": "8528121",
     "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
     "precedingAuctionCode": "0019850462"
