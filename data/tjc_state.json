@@ -236416,24 +236416,25 @@
       "firstAir": 1787660479424,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787661080546,
-      "title": "LIVMORE 4-Piece Reversible Botanical Print Bedding Set - inc. Duvet Cover, Fitted Sheet & 2 x Coordinated Pillowcases (Double) - Multicolour",
-      "pdpPrice": 27.99,
-      "auctionCode": "0019841031",
+      "lastAir": 1788070535749,
+      "title": "LIVMORE 4-Piece Reversible Printed Bedding Set - inc. Duvet Cover, Fitted Sheet & 2 x Coordinated Pillowcases (King) - Pink",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019849426",
       "buy": true,
       "login": false,
-      "date": "2026-08-25",
-      "time": "13:31:20",
+      "date": "2026-08-30",
+      "time": "07:15:35",
       "productUrl": "/products/livmore-4-piece-reversible-botanical-print-bedding-set-inc-duvet-cover-fitted-sheet-2-x-coordinated-pillowcases-2868314227?variant=53191585956106",
-      "lastUpdated": 1787661641328,
-      "source": "gha-variant",
+      "lastUpdated": 1788070535749,
+      "source": "gha",
       "productUrlChecked": 1787661084859,
       "productUrlStatus": 200,
       "productUrl404": false,
       "missedAt": 1787661641328,
       "missedDelay": 9,
       "missedPrice": 27.99,
-      "missedImg": true
+      "missedImg": true,
+      "img": true
     },
     "8314242": {
       "sku": "8314242",
@@ -267641,8 +267642,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788070461985,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280369,11 +280370,22 @@
         "followingSku": "8429146",
         "followingTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
         "followingAuctionCode": "0019849433"
+      },
+      {
+        "start": 1788070461985,
+        "end": 1788070535749,
+        "durationMin": 1.2,
+        "precedingSku": "8429146",
+        "precedingTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
+        "precedingAuctionCode": "0019849433",
+        "followingSku": "8314227",
+        "followingTitle": "LIVMORE 4-Piece Reversible Printed Bedding Set - inc. Duvet Cover, Fitted Sheet & 2 x Coordinated Pillowcases (King) - Pink",
+        "followingAuctionCode": "0019849426"
       }
     ],
-    "lastOnAirSku": "8429146",
-    "lastOnAirTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
-    "lastOnAirAuctionCode": "0019849433",
+    "lastOnAirSku": "8314227",
+    "lastOnAirTitle": "LIVMORE 4-Piece Reversible Printed Bedding Set - inc. Duvet Cover, Fitted Sheet & 2 x Coordinated Pillowcases (King) - Pink",
+    "lastOnAirAuctionCode": "0019849426",
     "precedingSku": "8429146",
     "precedingTitle": "LIVMORE Set of 3 - Printed Comforter with 2 Pillowcases (King, 225x200 cm) - Yellow",
     "precedingAuctionCode": "0019849433"
