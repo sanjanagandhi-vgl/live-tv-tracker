@@ -270245,11 +270245,29 @@
       "productUrlChecked": 1788111867569,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8523048": {
+      "sku": "8523048",
+      "firstAir": 1788115039042,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788115039042,
+      "title": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
+      "pdpPrice": "45676.99",
+      "auctionCode": "0019848095",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-30",
+      "time": "19:37:19",
+      "productUrl": null,
+      "lastUpdated": 1788115039042,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788114929561,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -283416,11 +283434,22 @@
         "followingSku": "8536076",
         "followingTitle": "14K Yellow Gold AAA Natural Turkizite (Asscher Cut) Solitaire Ring 3.05 Ct.",
         "followingAuctionCode": "0019848073"
+      },
+      {
+        "start": 1788114929561,
+        "end": 1788115039042,
+        "durationMin": 1.8,
+        "precedingSku": "8536076",
+        "precedingTitle": "14K Yellow Gold AAA Natural Turkizite (Asscher Cut) Solitaire Ring 3.05 Ct.",
+        "precedingAuctionCode": "0019848073",
+        "followingSku": "8523048",
+        "followingTitle": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
+        "followingAuctionCode": "0019848095"
       }
     ],
-    "lastOnAirSku": "8536076",
-    "lastOnAirTitle": "14K Yellow Gold AAA Natural Turkizite (Asscher Cut) Solitaire Ring 3.05 Ct.",
-    "lastOnAirAuctionCode": "0019848073",
+    "lastOnAirSku": "8523048",
+    "lastOnAirTitle": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
+    "lastOnAirAuctionCode": "0019848095",
     "precedingSku": "8536076",
     "precedingTitle": "14K Yellow Gold AAA Natural Turkizite (Asscher Cut) Solitaire Ring 3.05 Ct.",
     "precedingAuctionCode": "0019848073"
