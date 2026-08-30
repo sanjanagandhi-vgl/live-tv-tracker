@@ -249223,21 +249223,26 @@
       "sku": "8550681",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-26",
-      "time": "23:39:20",
+      "date": "2026-08-30",
+      "time": "21:24:24",
       "preExisting": true,
       "missedAt": 1787783960825,
       "missedDelay": null,
-      "lastUpdated": 1787783960825,
+      "lastUpdated": 1788121464204,
       "missedPrice": 4999.99,
       "missedImg": true,
       "title": "The Heirloom Collection - Rhapsody 950 Platinum AAAA Tanzanite (7.62 Ct) with Natural Earth Mined VS-E-F White Diamonds (0.85 Ct) Halo Ring 8.47 Ct, Platinum Wt. 7.95 Gms",
-      "auctionCode": "0019845042",
+      "auctionCode": "0019851711",
       "source": "gha",
       "productUrl": "/products/the-heirloom-collection-rhapsody-950-platinum-aaaa-tanzanite-7-62-ct-with-natural-earth-mined-vs-e-f-white-diamonds-0-85-ct-halo-ring-8-47-ct-platinum-wt-7-95-gms-8550673",
       "productUrlChecked": 1787783965910,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788121464204,
+      "pdpPrice": "6799.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8550682": {
       "sku": "8550682",
@@ -270416,8 +270421,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788121344016,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -283628,11 +283633,22 @@
         "followingSku": "8500695",
         "followingTitle": "Tanzanite Tennis Bracelet (Size - 7-2 Ext) with GB Lock Box 3.20 Ct.",
         "followingAuctionCode": "0019851769"
+      },
+      {
+        "start": 1788121344016,
+        "end": 1788121464204,
+        "durationMin": 2.0,
+        "precedingSku": "8497590",
+        "precedingTitle": "MEGA WAREHOUSE CLEARANCE DEAL - 9K Yellow Gold Tanzanite (Round) Solitaire Stud Push Post Earring 2.90 Ct.",
+        "precedingAuctionCode": "0019851718",
+        "followingSku": "8550681",
+        "followingTitle": "The Heirloom Collection - Rhapsody 950 Platinum AAAA Tanzanite (7.62 Ct) with Natural Earth Mined VS-E-F White Diamonds (0.85 Ct) Halo Ring 8.47 Ct, Platinum Wt. 7.95 Gms",
+        "followingAuctionCode": "0019851711"
       }
     ],
-    "lastOnAirSku": "8497590",
-    "lastOnAirTitle": "MEGA WAREHOUSE CLEARANCE DEAL - 9K Yellow Gold Tanzanite (Round) Solitaire Stud Push Post Earring 2.90 Ct.",
-    "lastOnAirAuctionCode": "0019851718",
+    "lastOnAirSku": "8550681",
+    "lastOnAirTitle": "The Heirloom Collection - Rhapsody 950 Platinum AAAA Tanzanite (7.62 Ct) with Natural Earth Mined VS-E-F White Diamonds (0.85 Ct) Halo Ring 8.47 Ct, Platinum Wt. 7.95 Gms",
+    "lastOnAirAuctionCode": "0019851711",
     "precedingSku": "8497590",
     "precedingTitle": "MEGA WAREHOUSE CLEARANCE DEAL - 9K Yellow Gold Tanzanite (Round) Solitaire Stud Push Post Earring 2.90 Ct.",
     "precedingAuctionCode": "0019851718"
