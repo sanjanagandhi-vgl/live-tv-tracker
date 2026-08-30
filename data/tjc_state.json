@@ -104973,21 +104973,26 @@
       "sku": "8734776",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-08",
-      "time": "11:05:28",
+      "date": "2026-08-30",
+      "time": "18:20:39",
       "preExisting": true,
       "missedAt": 1786183528245,
       "missedDelay": null,
-      "lastUpdated": 1786183528245,
+      "lastUpdated": 1788110439545,
       "missedPrice": 279.99,
       "missedImg": true,
       "title": "LIVE FROM BRAZIL SPECIAL - AAA Turkizite Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
-      "auctionCode": "0019809297",
+      "auctionCode": "0019848031",
       "source": "gha",
       "productUrl": "/products/turkizite-solitaire-ring-in-18k-yg-vermeilsterling-silver-1-920-ct-8734775",
       "productUrlChecked": 1786183557827,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788110439545,
+      "pdpPrice": "279.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8721475": {
       "sku": "8721475",
@@ -270203,8 +270208,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788110359201,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -283338,11 +283343,22 @@
         "followingSku": "4518293",
         "followingTitle": "D'Joy - AAA Turkizite & White Zircon Sunburst Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
         "followingAuctionCode": "0019848028"
+      },
+      {
+        "start": 1788110359201,
+        "end": 1788110439545,
+        "durationMin": 1.3,
+        "precedingSku": "8734784",
+        "precedingTitle": "D'Joy - AAA Turkizite Solitaire Lever Back Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.64 Ct.",
+        "precedingAuctionCode": "0019848030",
+        "followingSku": "8734776",
+        "followingTitle": "LIVE FROM BRAZIL SPECIAL - AAA Turkizite Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+        "followingAuctionCode": "0019848031"
       }
     ],
-    "lastOnAirSku": "8734784",
-    "lastOnAirTitle": "D'Joy - AAA Turkizite Solitaire Lever Back Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.64 Ct.",
-    "lastOnAirAuctionCode": "0019848030",
+    "lastOnAirSku": "8734776",
+    "lastOnAirTitle": "LIVE FROM BRAZIL SPECIAL - AAA Turkizite Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019848031",
     "precedingSku": "8734784",
     "precedingTitle": "D'Joy - AAA Turkizite Solitaire Lever Back Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.64 Ct.",
     "precedingAuctionCode": "0019848030"
