@@ -3371,23 +3371,23 @@
       "sku": "8591192",
       "tvPrice": "",
       "remarks": "",
-      "time": "19:13:19",
+      "time": "00:23:19",
       "preExisting": true,
       "missedAt": 1784874647956,
       "missedDelay": null,
       "missedPrice": 499.99,
       "missedImg": false,
       "title": "THE ROYAL ORCHID - 9K Yellow Gold AAA Amethyst Pear Cut Solitaire Ring 6.80 Ct.",
-      "auctionCode": "0019821149",
+      "auctionCode": "0019850173",
       "source": "gha",
-      "lastAir": 1786903999671,
-      "pdpPrice": "399.99",
+      "lastAir": 1788132199939,
+      "pdpPrice": "549.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-16",
+      "date": "2026-08-31",
       "productUrl": null,
-      "lastUpdated": 1786903999671
+      "lastUpdated": 1788132199939
     },
     "8591205": {
       "sku": "8591205",
@@ -270624,8 +270624,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788132039932,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -283946,11 +283946,22 @@
         "followingSku": "8313352",
         "followingTitle": "GP - Celestial Dream Collection African Amethyst, Blue Sapphire & White Zircon Multi Row Necklace (Size 20) in Rhodium Overlay Sterling Silver 6.39 Ct, Silver Wt. 27.44 Gms.",
         "followingAuctionCode": "0019850490"
+      },
+      {
+        "start": 1788132039932,
+        "end": 1788132199939,
+        "durationMin": 2.7,
+        "precedingSku": "7807954",
+        "precedingTitle": "GP Italian Garden Collection - Butterfly Ring in Sterling Silver",
+        "precedingAuctionCode": "0019850500",
+        "followingSku": "8591192",
+        "followingTitle": "THE ROYAL ORCHID - 9K Yellow Gold AAA Amethyst Pear Cut Solitaire Ring 6.80 Ct.",
+        "followingAuctionCode": "0019850173"
       }
     ],
-    "lastOnAirSku": "7807954",
-    "lastOnAirTitle": "GP Italian Garden Collection - Butterfly Ring in Sterling Silver",
-    "lastOnAirAuctionCode": "0019850500",
+    "lastOnAirSku": "8591192",
+    "lastOnAirTitle": "THE ROYAL ORCHID - 9K Yellow Gold AAA Amethyst Pear Cut Solitaire Ring 6.80 Ct.",
+    "lastOnAirAuctionCode": "0019850173",
     "precedingSku": "7807954",
     "precedingTitle": "GP Italian Garden Collection - Butterfly Ring in Sterling Silver",
     "precedingAuctionCode": "0019850500"
