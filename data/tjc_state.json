@@ -2496,15 +2496,23 @@
       "sku": "8535913",
       "tvPrice": "",
       "remarks": "",
-      "time": "21:42:39",
+      "time": "07:36:22",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 14.99,
       "missedImg": false,
-      "title": "Soft PVC with Flocking Surface Provides Cozy Chair",
-      "auctionCode": "0019791062",
-      "source": "gha"
+      "title": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
+      "auctionCode": "0019849454",
+      "source": "gha",
+      "lastAir": 1788071782488,
+      "pdpPrice": "239.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-30",
+      "productUrl": null,
+      "lastUpdated": 1788071782488
     },
     "8535912": {
       "sku": "8535912",
@@ -267736,8 +267744,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788071727679,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280486,11 +280494,22 @@
         "followingSku": "8483079",
         "followingTitle": "Livmore Luxury Super Soft Pillow Enhancer Filled with Down Alternative (Size 50x75 cm) - White with Silver Piping",
         "followingAuctionCode": "0019849450"
+      },
+      {
+        "start": 1788071727679,
+        "end": 1788071782488,
+        "durationMin": 0.9,
+        "precedingSku": "8483079",
+        "precedingTitle": "Livmore Luxury Super Soft Pillow Enhancer Filled with Down Alternative (Size 50x75 cm) - White with Silver Piping",
+        "precedingAuctionCode": "0019849450",
+        "followingSku": "8535913",
+        "followingTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
+        "followingAuctionCode": "0019849454"
       }
     ],
-    "lastOnAirSku": "8483079",
-    "lastOnAirTitle": "Livmore Luxury Super Soft Pillow Enhancer Filled with Down Alternative (Size 50x75 cm) - White with Silver Piping",
-    "lastOnAirAuctionCode": "0019849450",
+    "lastOnAirSku": "8535913",
+    "lastOnAirTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
+    "lastOnAirAuctionCode": "0019849454",
     "precedingSku": "8483079",
     "precedingTitle": "Livmore Luxury Super Soft Pillow Enhancer Filled with Down Alternative (Size 50x75 cm) - White with Silver Piping",
     "precedingAuctionCode": "0019849450"
