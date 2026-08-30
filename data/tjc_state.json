@@ -267542,14 +267542,21 @@
       "img": true,
       "date": "2026-08-30",
       "time": "06:22:23",
-      "productUrl": null,
-      "lastUpdated": 1788067343214,
-      "source": "gha"
+      "productUrl": "/products/set-of-3-light-up-novelty-fun-christmas-characters-battery-operated-red-white",
+      "lastUpdated": 1788067942341,
+      "source": "gha",
+      "missedAt": 1788067942341,
+      "missedDelay": 10,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "productUrlChecked": 1788067945711,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788067942341,
     "gaps": [
       {
         "start": 1785823527869,
@@ -280226,8 +280233,8 @@
     "lastOnAirSku": "7835779",
     "lastOnAirTitle": "4 Piece Set- 2 LED Christmas Trees With Plant Pots (90CM), LED Wreath (60CM) and LED Garland (270CM)",
     "lastOnAirAuctionCode": "0019849474",
-    "precedingSku": "7552776",
-    "precedingTitle": "Set of 3 Light up Novelty Fun Christmas Characters (Battery Operated) - Red & White",
-    "precedingAuctionCode": "0019849469"
+    "precedingSku": "7835779",
+    "precedingTitle": "4 Piece Set- 2 LED Christmas Trees With Plant Pots (90CM), LED Wreath (60CM) and LED Garland (270CM)",
+    "precedingAuctionCode": "0019849474"
   }
 }
