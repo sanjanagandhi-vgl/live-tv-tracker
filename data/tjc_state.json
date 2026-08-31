@@ -100231,26 +100231,26 @@
       "sku": "8498239",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-27",
-      "time": "02:43:18",
+      "date": "2026-08-31",
+      "time": "01:49:19",
       "preExisting": true,
       "missedAt": 1786140063134,
       "missedDelay": null,
-      "lastUpdated": 1787794998980,
+      "lastUpdated": 1788137359018,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "African Amethyst Solitaire Earring with Push Back in Platinum Overlay Sterling Silver",
-      "auctionCode": "0019844974",
+      "auctionCode": "0019850223",
       "source": "gha",
       "productUrl": "/products/ny-close-out-deal-white-cubic-zirconia-christmas-tree-drop-necklace-size-18-in-rhodium-overlay-sterling-silver",
       "productUrlChecked": 1786140078743,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787794998980,
-      "pdpPrice": null,
+      "lastAir": 1788137359018,
+      "pdpPrice": "5.99",
       "buy": true,
       "login": false,
-      "img": false
+      "img": true
     },
     "8220141": {
       "sku": "8220141",
@@ -270801,8 +270801,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788137302873,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -284211,11 +284211,22 @@
         "followingSku": "8486267",
         "followingTitle": "LARGEST AMETHYST RING - Lab Grown Diamond SI-G-H & AAA African Amethyst Pear Cut Solitaire Ring in Rhodium Overlay Sterling Silver 27.33 Ct.",
         "followingAuctionCode": "0019850278"
+      },
+      {
+        "start": 1788137302873,
+        "end": 1788137359018,
+        "durationMin": 0.9,
+        "precedingSku": "4457901",
+        "precedingTitle": "LARGEST AMETHYST PENDANT - SI-G-H Lab Grown Diamond & AAA African Amethyst Solitaire Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 26.75 Ct.",
+        "precedingAuctionCode": "0019850226",
+        "followingSku": "8498239",
+        "followingTitle": "African Amethyst Solitaire Earring with Push Back in Platinum Overlay Sterling Silver",
+        "followingAuctionCode": "0019850223"
       }
     ],
-    "lastOnAirSku": "4457901",
-    "lastOnAirTitle": "LARGEST AMETHYST PENDANT - SI-G-H Lab Grown Diamond & AAA African Amethyst Solitaire Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 26.75 Ct.",
-    "lastOnAirAuctionCode": "0019850226",
+    "lastOnAirSku": "8498239",
+    "lastOnAirTitle": "African Amethyst Solitaire Earring with Push Back in Platinum Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019850223",
     "precedingSku": "4457901",
     "precedingTitle": "LARGEST AMETHYST PENDANT - SI-G-H Lab Grown Diamond & AAA African Amethyst Solitaire Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 26.75 Ct.",
     "precedingAuctionCode": "0019850226"
