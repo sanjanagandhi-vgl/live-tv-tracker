@@ -1786,23 +1786,23 @@
       "sku": "8657969",
       "tvPrice": "",
       "remarks": "",
-      "time": "21:43:20",
+      "time": "19:06:25",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 579.99,
       "missedImg": false,
       "title": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
-      "auctionCode": "0019843687",
+      "auctionCode": "0019852285",
       "source": "gha",
-      "lastAir": 1787777000850,
-      "pdpPrice": 579.99,
+      "lastAir": 1788199585583,
+      "pdpPrice": "5678.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-26",
+      "date": "2026-08-31",
       "productUrl": "/products/9k-yellow-gold-aaa-rubellite-natural-white-diamond-ring-2-45-ct-8657969?variant=53339878228234",
-      "lastUpdated": 1787777000850,
+      "lastUpdated": 1788199585583,
       "productUrlChecked": 1787777004034,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -275884,8 +275884,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788199040486,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -289987,11 +289987,22 @@
         "followingSku": "8161591",
         "followingTitle": "GP Chilli Pepper Collection - Blue Sapphire Enamelled Charm Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019851404"
+      },
+      {
+        "start": 1788199040486,
+        "end": 1788199585583,
+        "durationMin": 9.1,
+        "precedingSku": "8161591",
+        "precedingTitle": "GP Chilli Pepper Collection - Blue Sapphire Enamelled Charm Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019851404",
+        "followingSku": "8657969",
+        "followingTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
+        "followingAuctionCode": "0019852285"
       }
     ],
-    "lastOnAirSku": "8161591",
-    "lastOnAirTitle": "GP Chilli Pepper Collection - Blue Sapphire Enamelled Charm Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019851404",
+    "lastOnAirSku": "8657969",
+    "lastOnAirTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
+    "lastOnAirAuctionCode": "0019852285",
     "precedingSku": "8161591",
     "precedingTitle": "GP Chilli Pepper Collection - Blue Sapphire Enamelled Charm Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019851404"
