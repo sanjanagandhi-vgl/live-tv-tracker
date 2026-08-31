@@ -22568,22 +22568,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-08-31",
-      "time": "01:34:23",
+      "time": "01:35:28",
       "preExisting": true,
       "missedAt": 1785365143106,
       "missedDelay": null,
-      "lastUpdated": 1788136463275,
+      "lastUpdated": 1788136528668,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "African Amethyst Cluster Ring 9.44 Ct.",
       "auctionCode": "0019850243",
       "source": "gha",
-      "lastAir": 1788136463275,
-      "pdpPrice": "29.99",
+      "lastAir": 1788136528668,
+      "pdpPrice": 29.99,
       "buy": true,
       "login": false,
       "img": true,
-      "productUrl": null
+      "productUrl": "/products/african-amethyst-cluster-ring-9-44-ct?variant=53410622079242",
+      "productUrlChecked": 1788136532020,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4478867": {
       "sku": "4478867",
@@ -270756,11 +270759,15 @@
       "date": "2026-08-31",
       "time": "01:26:23",
       "productUrl": "/products/djoy-aaa-african-amethyst-peridot-white-zircon-solitaire-earring-with-push-back-in-yellow-gold-plated-sterling-silver-4-87-ct?variant=53106605719818",
-      "lastUpdated": 1788135983596,
+      "lastUpdated": 1788136528668,
       "source": "gha",
       "productUrlChecked": 1788135986795,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788136528668,
+      "missedDelay": 9,
+      "missedPrice": 29.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
