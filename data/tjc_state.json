@@ -15489,21 +15489,22 @@
       "firstAir": 1785106037748,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785106996372,
+      "lastAir": 1788218003453,
       "title": "THE IMPERIAL TREASURE - 9K Yellow Gold AAA Gemfields Zambian Emerald Tennis Bracelet (Size - 7.5) with GB Lock Box 12.00 Ct, Gold Wt. 3.11 Gms (LIMITED STOCK)",
-      "pdpPrice": 1999.99,
-      "auctionCode": "0019796529",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "8956.99",
+      "auctionCode": "0019852774",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "00:03:16",
-      "lastUpdated": 1785107064887,
+      "date": "2026-09-01",
+      "time": "00:13:23",
+      "lastUpdated": 1788218003453,
       "source": "gha",
       "missedAt": 1785107064887,
       "missedDelay": 1,
       "missedPrice": 1999.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8663228": {
       "sku": "8663228",
@@ -278842,8 +278843,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788217841121,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293242,11 +293243,22 @@
         "followingSku": "8597036",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
         "followingAuctionCode": "0019852135"
+      },
+      {
+        "start": 1788217841121,
+        "end": 1788218003453,
+        "durationMin": 2.7,
+        "precedingSku": "8597036",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019852135",
+        "followingSku": "8604631",
+        "followingTitle": "THE IMPERIAL TREASURE - 9K Yellow Gold AAA Gemfields Zambian Emerald Tennis Bracelet (Size - 7.5) with GB Lock Box 12.00 Ct, Gold Wt. 3.11 Gms (LIMITED STOCK)",
+        "followingAuctionCode": "0019852774"
       }
     ],
-    "lastOnAirSku": "8597036",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019852135",
+    "lastOnAirSku": "8604631",
+    "lastOnAirTitle": "THE IMPERIAL TREASURE - 9K Yellow Gold AAA Gemfields Zambian Emerald Tennis Bracelet (Size - 7.5) with GB Lock Box 12.00 Ct, Gold Wt. 3.11 Gms (LIMITED STOCK)",
+    "lastOnAirAuctionCode": "0019852774",
     "precedingSku": "8597036",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019852135"
