@@ -272569,11 +272569,29 @@
       "productUrl": null,
       "lastUpdated": 1788179838188,
       "source": "gha-variant"
+    },
+    "8599080": {
+      "sku": "8599080",
+      "firstAir": 1788180080953,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788180080953,
+      "title": "Luxuriant Diamond 9K Gold SGL Certified (SI-GH) Lab Grown Diamond Stud Push Back Earring",
+      "pdpPrice": "2499.99",
+      "auctionCode": "0019851063",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "13:41:20",
+      "productUrl": null,
+      "lastUpdated": 1788180080953,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788180038849,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -286455,11 +286473,22 @@
         "followingSku": "8284119",
         "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Ring in Sterling Silver Rhodium Overlay 1.00 Ct.",
         "followingAuctionCode": "0019849829"
+      },
+      {
+        "start": 1788180038849,
+        "end": 1788180080953,
+        "durationMin": 0.7,
+        "precedingSku": "4390860",
+        "precedingTitle": "Luxuriant SGL Certified Lab Grown Diamond (SI-GH) Pendant with Chain (Size 18-20) in Sterling Silver",
+        "precedingAuctionCode": "0019851015",
+        "followingSku": "8599080",
+        "followingTitle": "Luxuriant Diamond 9K Gold SGL Certified (SI-GH) Lab Grown Diamond Stud Push Back Earring",
+        "followingAuctionCode": "0019851063"
       }
     ],
-    "lastOnAirSku": "4390860",
-    "lastOnAirTitle": "Luxuriant SGL Certified Lab Grown Diamond (SI-GH) Pendant with Chain (Size 18-20) in Sterling Silver",
-    "lastOnAirAuctionCode": "0019851015",
+    "lastOnAirSku": "8599080",
+    "lastOnAirTitle": "Luxuriant Diamond 9K Gold SGL Certified (SI-GH) Lab Grown Diamond Stud Push Back Earring",
+    "lastOnAirAuctionCode": "0019851063",
     "precedingSku": "4390860",
     "precedingTitle": "Luxuriant SGL Certified Lab Grown Diamond (SI-GH) Pendant with Chain (Size 18-20) in Sterling Silver",
     "precedingAuctionCode": "0019851015"
