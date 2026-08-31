@@ -149471,17 +149471,17 @@
       "firstAir": 1786627239286,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786627239286,
-      "title": "9K Yellow Gold Venziana Box Chain (Size - 22) with Lobster Clasp, Gold Wt. 6.75 Gms",
-      "pdpPrice": "499.99",
-      "auctionCode": "0019818520",
+      "lastAir": 1788174865628,
+      "title": "9K Yellow Gold Venziana Box Chain (Size - 20) with Lobster Clasp",
+      "pdpPrice": "579.99",
+      "auctionCode": "0019850855",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-13",
-      "time": "14:20:39",
+      "date": "2026-08-31",
+      "time": "12:14:25",
       "productUrl": "/products/9k-yellow-gold-venziana-box-chain-with-lobster-clasp-5058560428",
-      "lastUpdated": 1786627853693,
+      "lastUpdated": 1788174865628,
       "source": "gha",
       "missedAt": 1786627853693,
       "missedDelay": 10,
@@ -252619,9 +252619,16 @@
       "img": true,
       "date": "2026-08-31",
       "time": "12:05:28",
-      "productUrl": null,
-      "lastUpdated": 1788174328655,
-      "source": "gha"
+      "productUrl": "/products/9k-yellow-gold-hollow-curb-chain-size-24-with-spring-ring-clasp",
+      "lastUpdated": 1788174865628,
+      "source": "gha",
+      "missedAt": 1788174865628,
+      "missedDelay": 9,
+      "missedPrice": 249.99,
+      "missedImg": true,
+      "productUrlChecked": 1788174869220,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8560730": {
       "sku": "8560730",
@@ -271667,8 +271674,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788174800837,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285495,11 +285502,22 @@
         "followingSku": "8593305",
         "followingTitle": "9K Yellow Gold Belcher Chain (Size - 30) with Lobster Clasp, Gold Wt. 3.40 Gms",
         "followingAuctionCode": "0019850859"
+      },
+      {
+        "start": 1788174800837,
+        "end": 1788174865628,
+        "durationMin": 1.1,
+        "precedingSku": "8593305",
+        "precedingTitle": "9K Yellow Gold Belcher Chain (Size - 30) with Lobster Clasp, Gold Wt. 3.40 Gms",
+        "precedingAuctionCode": "0019850859",
+        "followingSku": "8560428",
+        "followingTitle": "9K Yellow Gold Venziana Box Chain (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019850855"
       }
     ],
-    "lastOnAirSku": "8593305",
-    "lastOnAirTitle": "9K Yellow Gold Belcher Chain (Size - 30) with Lobster Clasp, Gold Wt. 3.40 Gms",
-    "lastOnAirAuctionCode": "0019850859",
+    "lastOnAirSku": "8560428",
+    "lastOnAirTitle": "9K Yellow Gold Venziana Box Chain (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019850855",
     "precedingSku": "8593305",
     "precedingTitle": "9K Yellow Gold Belcher Chain (Size - 30) with Lobster Clasp, Gold Wt. 3.40 Gms",
     "precedingAuctionCode": "0019850859"
