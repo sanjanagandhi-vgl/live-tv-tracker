@@ -271435,11 +271435,29 @@
       "productUrl": null,
       "lastUpdated": 1788166945258,
       "source": "gha"
+    },
+    "7263115": {
+      "sku": "7263115",
+      "firstAir": 1788167302636,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788167302636,
+      "title": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
+      "pdpPrice": "898.99",
+      "auctionCode": "0019828064",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "10:08:22",
+      "productUrl": null,
+      "lastUpdated": 1788167302636,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788167001241,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285156,11 +285174,22 @@
         "followingSku": "8502777",
         "followingTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XL, 38-40) - Black, Beige & White",
         "followingAuctionCode": "0019850559"
+      },
+      {
+        "start": 1788167001241,
+        "end": 1788167302636,
+        "durationMin": 5.0,
+        "precedingSku": "8592981",
+        "precedingTitle": "La Marey Womens Lightweight Abstract Swirl Printed Scarf (180 x 80 cm) - Yellow",
+        "precedingAuctionCode": "0019850167",
+        "followingSku": "7263115",
+        "followingTitle": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
+        "followingAuctionCode": "0019828064"
       }
     ],
-    "lastOnAirSku": "8592981",
-    "lastOnAirTitle": "La Marey Womens Lightweight Abstract Swirl Printed Scarf (180 x 80 cm) - Yellow",
-    "lastOnAirAuctionCode": "0019850167",
+    "lastOnAirSku": "7263115",
+    "lastOnAirTitle": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
+    "lastOnAirAuctionCode": "0019828064",
     "precedingSku": "8592981",
     "precedingTitle": "La Marey Womens Lightweight Abstract Swirl Printed Scarf (180 x 80 cm) - Yellow",
     "precedingAuctionCode": "0019850167"
