@@ -92396,23 +92396,23 @@
       "sku": "8502777",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-10",
-      "time": "08:51:17",
+      "date": "2026-08-31",
+      "time": "09:46:24",
       "preExisting": true,
       "missedAt": 1786085959666,
       "missedDelay": null,
-      "lastUpdated": 1786348277294,
+      "lastUpdated": 1788165984615,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Comfortisse Set of 3 Uplift Padded Bra (Size - XL, 38-40) - Black, Beige & White",
-      "auctionCode": "0019813352",
+      "auctionCode": "0019850559",
       "source": "gha",
       "productUrl": "/products/comfortisse-set-of-3-uplift-padded-bra",
       "productUrlChecked": 1786085967524,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1786348277294,
-      "pdpPrice": "19.99",
+      "lastAir": 1788165984615,
+      "pdpPrice": "59.99",
       "buy": true,
       "login": false,
       "img": true
@@ -271420,8 +271420,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788165939080,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285127,11 +285127,22 @@
         "followingSku": "8520308",
         "followingTitle": "Pack of 4- 100% Cotton Ladies Exquisite Elegance Printed Full Brief (Size 16-18) - Sage & White",
         "followingAuctionCode": "0019852013"
+      },
+      {
+        "start": 1788165939080,
+        "end": 1788165984615,
+        "durationMin": 0.8,
+        "precedingSku": "8520376",
+        "precedingTitle": "Pack of 4- Exquisite Elegance High Leg Brief (Size 10) - Pink & Black, 95% Cotton & 5% Elastane",
+        "precedingAuctionCode": "0019850146",
+        "followingSku": "8502777",
+        "followingTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XL, 38-40) - Black, Beige & White",
+        "followingAuctionCode": "0019850559"
       }
     ],
-    "lastOnAirSku": "8520376",
-    "lastOnAirTitle": "Pack of 4- Exquisite Elegance High Leg Brief (Size 10) - Pink & Black, 95% Cotton & 5% Elastane",
-    "lastOnAirAuctionCode": "0019850146",
+    "lastOnAirSku": "8502777",
+    "lastOnAirTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XL, 38-40) - Black, Beige & White",
+    "lastOnAirAuctionCode": "0019850559",
     "precedingSku": "8520376",
     "precedingTitle": "Pack of 4- Exquisite Elegance High Leg Brief (Size 10) - Pink & Black, 95% Cotton & 5% Elastane",
     "precedingAuctionCode": "0019850146"
