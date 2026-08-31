@@ -275973,9 +275973,16 @@
       "img": true,
       "date": "2026-08-31",
       "time": "19:15:37",
-      "productUrl": null,
-      "lastUpdated": 1788200137072,
-      "source": "gha"
+      "productUrl": "/products/millenium-cut-rose-de-france-amethyst-natural-zircon-ring-in-18k-vermeil-rose-gold-plated-sterling-silver-6-72-ct",
+      "lastUpdated": 1788200731137,
+      "source": "gha",
+      "missedAt": 1788200731137,
+      "missedDelay": 10,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1788200734849,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8191992": {
       "sku": "8191992",
@@ -276175,11 +276182,31 @@
       "productUrlChecked": 1788200674584,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7572977": {
+      "sku": "7572977",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-08-31",
+      "time": "19:25:31",
+      "preExisting": true,
+      "missedAt": 1788200731137,
+      "missedDelay": null,
+      "lastUpdated": 1788200731137,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "title": "Millenium Cut Rose De France Amethyst & Natural Zircon Ring in 18K Vermeil Rose Gold Plated Sterling Silver 6.72 Ct.",
+      "auctionCode": "0019851446",
+      "source": "gha",
+      "productUrl": "/products/millenium-cut-rose-de-france-amethyst-natural-zircon-ring-in-18k-vermeil-rose-gold-plated-sterling-silver-6-72-ct",
+      "productUrlChecked": 1788200736253,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788200731137,
     "gaps": [
       {
         "start": 1785823527869,
@@ -290308,8 +290335,8 @@
     "lastOnAirSku": "8249883",
     "lastOnAirTitle": "D'Joy Rainbow Sapphire & Lab Grown Diamond (SI-G-H) Floral Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 4.86 Ct.",
     "lastOnAirAuctionCode": "0019851479",
-    "precedingSku": "8657969",
-    "precedingTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
-    "precedingAuctionCode": "0019852285"
+    "precedingSku": "8249883",
+    "precedingTitle": "D'Joy Rainbow Sapphire & Lab Grown Diamond (SI-G-H) Floral Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 4.86 Ct.",
+    "precedingAuctionCode": "0019851479"
   }
 }
