@@ -4620,17 +4620,23 @@
       "sku": "8555093",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-24",
-      "time": "12:17:19",
+      "date": "2026-08-31",
+      "time": "08:58:22",
       "preExisting": true,
       "missedAt": 1784891839055,
       "missedDelay": null,
-      "lastUpdated": 1784891839055,
+      "lastUpdated": 1788163102380,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "La Marey Patterned Dress (Size - One Size Curve) - Brown",
-      "auctionCode": "0019792902",
-      "source": "gha"
+      "title": "La Marey Womens 2-Piece Multicolour Floral Umbrella Dress with Scarf (One Size Curve) - White",
+      "auctionCode": "0019850562",
+      "source": "gha",
+      "lastAir": 1788163102380,
+      "pdpPrice": "249.00",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8555118": {
       "sku": "8555118",
@@ -271283,8 +271289,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788163040825,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -284968,11 +284974,22 @@
         "followingSku": "8134791",
         "followingTitle": "La Marey Lace Cardigan (Size XL, Fit 20 To 22) - Navy Blue",
         "followingAuctionCode": "0019850102"
+      },
+      {
+        "start": 1788163040825,
+        "end": 1788163102380,
+        "durationMin": 1.0,
+        "precedingSku": "7972481",
+        "precedingTitle": "1677972460",
+        "precedingAuctionCode": "0019850089",
+        "followingSku": "8555093",
+        "followingTitle": "La Marey Womens 2-Piece Multicolour Floral Umbrella Dress with Scarf (One Size Curve) - White",
+        "followingAuctionCode": "0019850562"
       }
     ],
-    "lastOnAirSku": "7972481",
-    "lastOnAirTitle": "1677972460",
-    "lastOnAirAuctionCode": "0019850089",
+    "lastOnAirSku": "8555093",
+    "lastOnAirTitle": "La Marey Womens 2-Piece Multicolour Floral Umbrella Dress with Scarf (One Size Curve) - White",
+    "lastOnAirAuctionCode": "0019850562",
     "precedingSku": "7972481",
     "precedingTitle": "1677972460",
     "precedingAuctionCode": "0019850089"
