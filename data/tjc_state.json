@@ -1615,23 +1615,23 @@
       "sku": "8519081",
       "tvPrice": "",
       "remarks": "",
-      "time": "06:32:21",
+      "time": "07:09:21",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Leopard Royal Savannah EDP - 100ml",
-      "auctionCode": "0019841080",
+      "auctionCode": "0019850538",
       "source": "gha",
-      "lastAir": 1787722341539,
-      "pdpPrice": "19.99",
+      "lastAir": 1788156561575,
+      "pdpPrice": "139.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-26",
+      "date": "2026-08-31",
       "productUrl": null,
-      "lastUpdated": 1787722341539
+      "lastUpdated": 1788156561575
     },
     "8696197": {
       "sku": "8696197",
@@ -271252,8 +271252,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788156502271,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -284860,11 +284860,22 @@
         "followingSku": "221330884",
         "followingTitle": "Laurelle Sexy Shoo EDP (100 ml) & Noir Desire EDP (85ml) - Set of 2",
         "followingAuctionCode": "0019850529"
+      },
+      {
+        "start": 1788156502271,
+        "end": 1788156561575,
+        "durationMin": 1.0,
+        "precedingSku": "221330884",
+        "precedingTitle": "Laurelle Sexy Shoo EDP (100 ml) & Noir Desire EDP (85ml) - Set of 2",
+        "precedingAuctionCode": "0019850529",
+        "followingSku": "8519081",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019850538"
       }
     ],
-    "lastOnAirSku": "221330884",
-    "lastOnAirTitle": "Laurelle Sexy Shoo EDP (100 ml) & Noir Desire EDP (85ml) - Set of 2",
-    "lastOnAirAuctionCode": "0019850529",
+    "lastOnAirSku": "8519081",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019850538",
     "precedingSku": "221330884",
     "precedingTitle": "Laurelle Sexy Shoo EDP (100 ml) & Noir Desire EDP (85ml) - Set of 2",
     "precedingAuctionCode": "0019850529"
