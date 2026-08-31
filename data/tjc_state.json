@@ -267800,21 +267800,26 @@
       "sku": "8323863",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-30",
-      "time": "06:50:38",
+      "date": "2026-08-31",
+      "time": "03:41:18",
       "preExisting": true,
       "missedAt": 1788069038040,
       "missedDelay": null,
-      "lastUpdated": 1788069038040,
+      "lastUpdated": 1788144078359,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (34 x 60 x 42 cm) - Grey",
-      "auctionCode": "0019850291",
+      "auctionCode": "0019850554",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-storage-box-1928323860",
       "productUrlChecked": 1788069047409,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788144078359,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8429144": {
       "sku": "8429144",
@@ -270924,8 +270929,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788144039261,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -284367,11 +284372,22 @@
         "followingSku": "8203509",
         "followingTitle": "Rotating Snowflake Christmas Tree Topper with Lighting - USB Type-C Powered",
         "followingAuctionCode": "0019850439"
+      },
+      {
+        "start": 1788144039261,
+        "end": 1788144078359,
+        "durationMin": 0.7,
+        "precedingSku": "8596858",
+        "precedingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
+        "precedingAuctionCode": "0019851795",
+        "followingSku": "8323863",
+        "followingTitle": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (34 x 60 x 42 cm) - Grey",
+        "followingAuctionCode": "0019850554"
       }
     ],
-    "lastOnAirSku": "8596858",
-    "lastOnAirTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
-    "lastOnAirAuctionCode": "0019851795",
+    "lastOnAirSku": "8323863",
+    "lastOnAirTitle": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (34 x 60 x 42 cm) - Grey",
+    "lastOnAirAuctionCode": "0019850554",
     "precedingSku": "8596858",
     "precedingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
     "precedingAuctionCode": "0019851795"
