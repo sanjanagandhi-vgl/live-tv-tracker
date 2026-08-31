@@ -224878,21 +224878,26 @@
       "sku": "7556908",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-23",
-      "time": "19:53:21",
+      "date": "2026-08-31",
+      "time": "19:26:27",
       "preExisting": true,
       "missedAt": 1787511201173,
       "missedDelay": null,
-      "lastUpdated": 1787511201173,
+      "lastUpdated": 1788200787639,
       "missedPrice": 279.99,
       "missedImg": true,
-      "title": "9K Yellow Gold SGL Certified Diamond 5 Stone Band Ring 0.50 Ct.",
-      "auctionCode": "0019837179",
+      "title": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
+      "auctionCode": "0019851511",
       "source": "gha",
       "productUrl": "/products/9k-gold-sgl-certified-diamond-5-stone-wedding-band-ring",
       "productUrlChecked": 1787511215114,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788200787639,
+      "pdpPrice": "239.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7556909": {
       "sku": "7556909",
@@ -276205,8 +276210,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788200731137,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -290330,11 +290335,22 @@
         "followingSku": "8093873",
         "followingTitle": "GP Leaf Collection - Green Apatite, Blue Sapphire & White Zircon Cluster Ring in 18K Vermeil Yell...",
         "followingAuctionCode": "0019851418"
+      },
+      {
+        "start": 1788200731137,
+        "end": 1788200787639,
+        "durationMin": 0.9,
+        "precedingSku": "8249883",
+        "precedingTitle": "D'Joy Rainbow Sapphire & Lab Grown Diamond (SI-G-H) Floral Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 4.86 Ct.",
+        "precedingAuctionCode": "0019851479",
+        "followingSku": "7556908",
+        "followingTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
+        "followingAuctionCode": "0019851511"
       }
     ],
-    "lastOnAirSku": "8249883",
-    "lastOnAirTitle": "D'Joy Rainbow Sapphire & Lab Grown Diamond (SI-G-H) Floral Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 4.86 Ct.",
-    "lastOnAirAuctionCode": "0019851479",
+    "lastOnAirSku": "7556908",
+    "lastOnAirTitle": "9K Gold SGL Certified Diamond 5 Stone Wedding Band Ring",
+    "lastOnAirAuctionCode": "0019851511",
     "precedingSku": "8249883",
     "precedingTitle": "D'Joy Rainbow Sapphire & Lab Grown Diamond (SI-G-H) Floral Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 4.86 Ct.",
     "precedingAuctionCode": "0019851479"
