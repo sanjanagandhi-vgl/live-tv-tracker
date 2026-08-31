@@ -252697,17 +252697,17 @@
       "firstAir": 1787831239427,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787974159947,
+      "lastAir": 1788171080002,
       "title": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
       "pdpPrice": "59.99",
-      "auctionCode": "0019847835",
+      "auctionCode": "0019850801",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-29",
-      "time": "04:29:19",
+      "date": "2026-08-31",
+      "time": "11:11:20",
       "productUrl": "/products/9k-yellow-gold-bracelet-size-7-5-with-spring-clasp-8570642",
-      "lastUpdated": 1787974159947,
+      "lastUpdated": 1788171080002,
       "source": "gha",
       "missedAt": 1787831840620,
       "missedDelay": 10,
@@ -271535,8 +271535,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788170960588,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285275,11 +285275,22 @@
         "followingSku": "8412282",
         "followingTitle": "9K Yellow Gold Mariner Link Pendant",
         "followingAuctionCode": "0019850795"
+      },
+      {
+        "start": 1788170960588,
+        "end": 1788171080002,
+        "durationMin": 2.0,
+        "precedingSku": "8570640",
+        "precedingTitle": "9K Yellow Gold Infinity Necklace (Size - 18) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019850879",
+        "followingSku": "8570642",
+        "followingTitle": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
+        "followingAuctionCode": "0019850801"
       }
     ],
-    "lastOnAirSku": "8570640",
-    "lastOnAirTitle": "9K Yellow Gold Infinity Necklace (Size - 18) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019850879",
+    "lastOnAirSku": "8570642",
+    "lastOnAirTitle": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
+    "lastOnAirAuctionCode": "0019850801",
     "precedingSku": "8570640",
     "precedingTitle": "9K Yellow Gold Infinity Necklace (Size - 18) with Spring Ring Clasp",
     "precedingAuctionCode": "0019850879"
