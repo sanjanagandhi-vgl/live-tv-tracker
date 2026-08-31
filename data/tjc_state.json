@@ -40017,17 +40017,17 @@
       "firstAir": 1785534146944,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786633944737,
+      "lastAir": 1788217465719,
       "title": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
       "pdpPrice": "169.99",
-      "auctionCode": "0019818681",
+      "auctionCode": "0019852135",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-13",
-      "time": "16:12:24",
+      "date": "2026-09-01",
+      "time": "00:04:25",
       "productUrl": "/products/9k-yellow-gold-earring-with-clasp-8597036",
-      "lastUpdated": 1786633944737,
+      "lastUpdated": 1788217465719,
       "source": "gha",
       "missedAt": 1785534744672,
       "missedDelay": 9,
@@ -278842,8 +278842,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788217399954,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293231,11 +293231,22 @@
         "followingSku": "8746544",
         "followingTitle": "9K Yellow Gold Flat Curb Chain (Size - 24) With Lobster Clasp, Gold Wt. 8.20 Gms",
         "followingAuctionCode": "0019852919"
+      },
+      {
+        "start": 1788217399954,
+        "end": 1788217465719,
+        "durationMin": 1.1,
+        "precedingSku": "8746544",
+        "precedingTitle": "9K Yellow Gold Flat Curb Chain (Size - 24) With Lobster Clasp, Gold Wt. 8.20 Gms",
+        "precedingAuctionCode": "0019852919",
+        "followingSku": "8597036",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+        "followingAuctionCode": "0019852135"
       }
     ],
-    "lastOnAirSku": "8746544",
-    "lastOnAirTitle": "9K Yellow Gold Flat Curb Chain (Size - 24) With Lobster Clasp, Gold Wt. 8.20 Gms",
-    "lastOnAirAuctionCode": "0019852919",
+    "lastOnAirSku": "8597036",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019852135",
     "precedingSku": "8746544",
     "precedingTitle": "9K Yellow Gold Flat Curb Chain (Size - 24) With Lobster Clasp, Gold Wt. 8.20 Gms",
     "precedingAuctionCode": "0019852919"
