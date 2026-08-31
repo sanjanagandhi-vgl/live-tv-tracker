@@ -271539,11 +271539,29 @@
       "productUrlChecked": 1788167485007,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8521125": {
+      "sku": "8521125",
+      "firstAir": 1788172462390,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788172462390,
+      "title": "24K Yellow Gold Fish Ornament with Pedestal",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019850913",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "11:34:22",
+      "productUrl": null,
+      "lastUpdated": 1788172462390,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788172399151,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285304,11 +285322,22 @@
         "followingSku": "8572442",
         "followingTitle": "9K Yellow Gold Drop Earring with Push Back",
         "followingAuctionCode": "0019850819"
+      },
+      {
+        "start": 1788172399151,
+        "end": 1788172462390,
+        "durationMin": 1.1,
+        "precedingSku": "8572368",
+        "precedingTitle": "Live From Vegas - 9K Yellow Gold Teddy Pendant",
+        "precedingAuctionCode": "0019850829",
+        "followingSku": "8521125",
+        "followingTitle": "24K Yellow Gold Fish Ornament with Pedestal",
+        "followingAuctionCode": "0019850913"
       }
     ],
-    "lastOnAirSku": "8572368",
-    "lastOnAirTitle": "Live From Vegas - 9K Yellow Gold Teddy Pendant",
-    "lastOnAirAuctionCode": "0019850829",
+    "lastOnAirSku": "8521125",
+    "lastOnAirTitle": "24K Yellow Gold Fish Ornament with Pedestal",
+    "lastOnAirAuctionCode": "0019850913",
     "precedingSku": "8572368",
     "precedingTitle": "Live From Vegas - 9K Yellow Gold Teddy Pendant",
     "precedingAuctionCode": "0019850829"
