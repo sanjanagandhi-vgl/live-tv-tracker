@@ -3850,16 +3850,16 @@
       "firstAir": 1784879725982,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788083598968,
+      "lastAir": 1788216504544,
       "title": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
       "pdpPrice": "999.99",
-      "auctionCode": "0019849246",
+      "auctionCode": "0019852601",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-30",
-      "time": "10:53:18",
-      "lastUpdated": 1788083598968,
+      "date": "2026-08-31",
+      "time": "23:48:24",
+      "lastUpdated": 1788216504544,
       "source": "gha",
       "missedAt": 1784880861563,
       "missedDelay": 1,
@@ -278842,8 +278842,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788216440006,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293209,11 +293209,22 @@
         "followingSku": "8668706",
         "followingTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
         "followingAuctionCode": "0019852084"
+      },
+      {
+        "start": 1788216440006,
+        "end": 1788216504544,
+        "durationMin": 1.1,
+        "precedingSku": "8668706",
+        "precedingTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
+        "precedingAuctionCode": "0019852084",
+        "followingSku": "8692856",
+        "followingTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
+        "followingAuctionCode": "0019852601"
       }
     ],
-    "lastOnAirSku": "8668706",
-    "lastOnAirTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
-    "lastOnAirAuctionCode": "0019852084",
+    "lastOnAirSku": "8692856",
+    "lastOnAirTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
+    "lastOnAirAuctionCode": "0019852601",
     "precedingSku": "8668706",
     "precedingTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
     "precedingAuctionCode": "0019852084"
