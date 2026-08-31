@@ -271081,11 +271081,29 @@
       "productUrl": null,
       "lastUpdated": 1788147640163,
       "source": "gha"
+    },
+    "8613065": {
+      "sku": "8613065",
+      "firstAir": 1788149301875,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788149301875,
+      "title": "D'Joy - GRA Certified Moissanite Full Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 2.80 Ct.",
+      "pdpPrice": "1699.00",
+      "auctionCode": "0019850901",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "05:08:21",
+      "productUrl": null,
+      "lastUpdated": 1788149301875,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788149185216,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -284604,11 +284622,22 @@
         "followingSku": "8499555",
         "followingTitle": "D'Joy Moissanite Solitaire Ring in Sterling Silver 2.22 Ct.",
         "followingAuctionCode": "0019850799"
+      },
+      {
+        "start": 1788149185216,
+        "end": 1788149301875,
+        "durationMin": 1.9,
+        "precedingSku": "4482810",
+        "precedingTitle": "GRA Certified (D-VVS1) Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
+        "precedingAuctionCode": "0019850898",
+        "followingSku": "8613065",
+        "followingTitle": "D'Joy - GRA Certified Moissanite Full Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 2.80 Ct.",
+        "followingAuctionCode": "0019850901"
       }
     ],
-    "lastOnAirSku": "4482810",
-    "lastOnAirTitle": "GRA Certified (D-VVS1) Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019850898",
+    "lastOnAirSku": "8613065",
+    "lastOnAirTitle": "D'Joy - GRA Certified Moissanite Full Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 2.80 Ct.",
+    "lastOnAirAuctionCode": "0019850901",
     "precedingSku": "4482810",
     "precedingTitle": "GRA Certified (D-VVS1) Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
     "precedingAuctionCode": "0019850898"
