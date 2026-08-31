@@ -271646,11 +271646,29 @@
       "productUrl": null,
       "lastUpdated": 1788174560920,
       "source": "gha"
+    },
+    "8593305": {
+      "sku": "8593305",
+      "firstAir": 1788174744111,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788174744111,
+      "title": "9K Yellow Gold Belcher Chain (Size - 30) with Lobster Clasp, Gold Wt. 3.40 Gms",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019850859",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "12:12:24",
+      "productUrl": null,
+      "lastUpdated": 1788174744111,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788174679185,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285466,11 +285484,22 @@
         "followingSku": "8572441",
         "followingTitle": "Close Out Deal- 9K Yellow Gold Stud Earring with Push Back",
         "followingAuctionCode": "0019850886"
+      },
+      {
+        "start": 1788174679185,
+        "end": 1788174744111,
+        "durationMin": 1.1,
+        "precedingSku": "8412257",
+        "precedingTitle": "Designer Inspired- 9K Yellow Gold Grooved Band Ring",
+        "precedingAuctionCode": "0019850872",
+        "followingSku": "8593305",
+        "followingTitle": "9K Yellow Gold Belcher Chain (Size - 30) with Lobster Clasp, Gold Wt. 3.40 Gms",
+        "followingAuctionCode": "0019850859"
       }
     ],
-    "lastOnAirSku": "8412257",
-    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Grooved Band Ring",
-    "lastOnAirAuctionCode": "0019850872",
+    "lastOnAirSku": "8593305",
+    "lastOnAirTitle": "9K Yellow Gold Belcher Chain (Size - 30) with Lobster Clasp, Gold Wt. 3.40 Gms",
+    "lastOnAirAuctionCode": "0019850859",
     "precedingSku": "8412257",
     "precedingTitle": "Designer Inspired- 9K Yellow Gold Grooved Band Ring",
     "precedingAuctionCode": "0019850872"
