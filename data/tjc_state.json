@@ -6241,16 +6241,16 @@
       "firstAir": 1784913141766,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787987664684,
+      "lastAir": 1788194306370,
       "title": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
-      "pdpPrice": "59.99",
-      "auctionCode": "0019849406",
+      "pdpPrice": "300.99",
+      "auctionCode": "0019852743",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-29",
-      "time": "08:14:24",
-      "lastUpdated": 1787987664684,
+      "date": "2026-08-31",
+      "time": "17:38:26",
+      "lastUpdated": 1788194306370,
       "source": "gha",
       "missedAt": 1784916085649,
       "missedDelay": 0,
@@ -273373,8 +273373,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788194064520,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -287421,11 +287421,22 @@
         "followingSku": "8217801",
         "followingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
         "followingAuctionCode": "0019852434"
+      },
+      {
+        "start": 1788194064520,
+        "end": 1788194306370,
+        "durationMin": 4.0,
+        "precedingSku": "8217801",
+        "precedingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
+        "precedingAuctionCode": "0019852434",
+        "followingSku": "8704567",
+        "followingTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
+        "followingAuctionCode": "0019852743"
       }
     ],
-    "lastOnAirSku": "8217801",
-    "lastOnAirTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
-    "lastOnAirAuctionCode": "0019852434",
+    "lastOnAirSku": "8704567",
+    "lastOnAirTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
+    "lastOnAirAuctionCode": "0019852743",
     "precedingSku": "8217801",
     "precedingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
     "precedingAuctionCode": "0019852434"
