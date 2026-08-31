@@ -271621,11 +271621,29 @@
       "productUrl": null,
       "lastUpdated": 1788174144706,
       "source": "gha"
+    },
+    "8572441": {
+      "sku": "8572441",
+      "firstAir": 1788174503807,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788174503807,
+      "title": "Close Out Deal- 9K Yellow Gold Stud Earring with Push Back",
+      "pdpPrice": "37.99",
+      "auctionCode": "0019850886",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "12:08:23",
+      "productUrl": null,
+      "lastUpdated": 1788174503807,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788174438983,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285430,11 +285448,22 @@
         "followingSku": "7570397",
         "followingTitle": "9K Yellow Gold Spiga Chain With Spring Ring Clasp (Size - 18)",
         "followingAuctionCode": "0019850865"
+      },
+      {
+        "start": 1788174438983,
+        "end": 1788174503807,
+        "durationMin": 1.1,
+        "precedingSku": "8642593",
+        "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 22) with Lobster Clasp",
+        "precedingAuctionCode": "0019850871",
+        "followingSku": "8572441",
+        "followingTitle": "Close Out Deal- 9K Yellow Gold Stud Earring with Push Back",
+        "followingAuctionCode": "0019850886"
       }
     ],
-    "lastOnAirSku": "8642593",
-    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 22) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019850871",
+    "lastOnAirSku": "8572441",
+    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Stud Earring with Push Back",
+    "lastOnAirAuctionCode": "0019850886",
     "precedingSku": "8642593",
     "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 22) with Lobster Clasp",
     "precedingAuctionCode": "0019850871"
