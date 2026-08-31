@@ -273109,11 +273109,29 @@
       "productUrlChecked": 1788186202492,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8431433": {
+      "sku": "8431433",
+      "firstAir": 1788186330171,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788186330171,
+      "title": "Premium Genuine Leather Domed Satchel Bag with Detachable Crossbody Strap - Black",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019851712",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "15:25:30",
+      "productUrl": null,
+      "lastUpdated": 1788186330171,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788186266186,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -287116,11 +287134,22 @@
         "followingSku": "8431472",
         "followingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Chartreuse",
         "followingAuctionCode": "0019851704"
+      },
+      {
+        "start": 1788186266186,
+        "end": 1788186330171,
+        "durationMin": 1.1,
+        "precedingSku": "8431472",
+        "precedingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Chartreuse",
+        "precedingAuctionCode": "0019851704",
+        "followingSku": "8431433",
+        "followingTitle": "Premium Genuine Leather Domed Satchel Bag with Detachable Crossbody Strap - Black",
+        "followingAuctionCode": "0019851712"
       }
     ],
-    "lastOnAirSku": "8431472",
-    "lastOnAirTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Chartreuse",
-    "lastOnAirAuctionCode": "0019851704",
+    "lastOnAirSku": "8431433",
+    "lastOnAirTitle": "Premium Genuine Leather Domed Satchel Bag with Detachable Crossbody Strap - Black",
+    "lastOnAirAuctionCode": "0019851712",
     "precedingSku": "8431472",
     "precedingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Chartreuse",
     "precedingAuctionCode": "0019851704"
