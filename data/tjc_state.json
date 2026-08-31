@@ -210843,17 +210843,17 @@
       "firstAir": 1787338465044,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788183558736,
+      "lastAir": 1788183743470,
       "title": "NOD Homage EDP - 30ml",
-      "pdpPrice": "39.99",
-      "auctionCode": "0019851102",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019852521",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-31",
-      "time": "14:39:18",
+      "time": "14:42:23",
       "productUrl": "/products/nod-homage-edp-30ml",
-      "lastUpdated": 1788183558736,
+      "lastUpdated": 1788183743470,
       "source": "gha",
       "missedAt": 1787339661877,
       "missedDelay": 10,
@@ -273021,8 +273021,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788183639783,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -286992,11 +286992,22 @@
         "followingSku": "8324453",
         "followingTitle": "NOD Homage EDP - 30ml",
         "followingAuctionCode": "0019851102"
+      },
+      {
+        "start": 1788183639783,
+        "end": 1788183743470,
+        "durationMin": 1.7,
+        "precedingSku": "8324453",
+        "precedingTitle": "NOD Homage EDP - 30ml",
+        "precedingAuctionCode": "0019851102",
+        "followingSku": "8324453",
+        "followingTitle": "NOD Homage EDP - 30ml",
+        "followingAuctionCode": "0019852521"
       }
     ],
     "lastOnAirSku": "8324453",
     "lastOnAirTitle": "NOD Homage EDP - 30ml",
-    "lastOnAirAuctionCode": "0019851102",
+    "lastOnAirAuctionCode": "0019852521",
     "precedingSku": "8324453",
     "precedingTitle": "NOD Homage EDP - 30ml",
     "precedingAuctionCode": "0019851102"
