@@ -156291,21 +156291,26 @@
       "sku": "8201620",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "15:05:29",
+      "date": "2026-08-31",
+      "time": "14:24:24",
       "preExisting": true,
       "missedAt": 1786716329313,
       "missedDelay": null,
-      "lastUpdated": 1786716329313,
+      "lastUpdated": 1788182664614,
       "missedPrice": 4.99,
       "missedImg": true,
       "title": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit  - Nudes & Brown",
-      "auctionCode": "0019816545",
+      "auctionCode": "0019851325",
       "source": "gha",
       "productUrl": "/products/just-herbs-set-of-5-ayurvedic-liquid-matte-finish-lipstick-kit-brights-and-pinks",
       "productUrlChecked": 1786716340041,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788182664614,
+      "pdpPrice": "12.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8683954": {
       "sku": "8683954",
@@ -273016,8 +273021,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788182599781,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -286965,11 +286970,22 @@
         "followingSku": "8276121",
         "followingTitle": "Finishing Touch Flawless Lady Shaver - White",
         "followingAuctionCode": "0019851393"
+      },
+      {
+        "start": 1788182599781,
+        "end": 1788182664614,
+        "durationMin": 1.1,
+        "precedingSku": "8276121",
+        "precedingTitle": "Finishing Touch Flawless Lady Shaver - White",
+        "precedingAuctionCode": "0019851393",
+        "followingSku": "8201620",
+        "followingTitle": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit  - Nudes & Brown",
+        "followingAuctionCode": "0019851325"
       }
     ],
-    "lastOnAirSku": "8276121",
-    "lastOnAirTitle": "Finishing Touch Flawless Lady Shaver - White",
-    "lastOnAirAuctionCode": "0019851393",
+    "lastOnAirSku": "8201620",
+    "lastOnAirTitle": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit  - Nudes & Brown",
+    "lastOnAirAuctionCode": "0019851325",
     "precedingSku": "8276121",
     "precedingTitle": "Finishing Touch Flawless Lady Shaver - White",
     "precedingAuctionCode": "0019851393"
