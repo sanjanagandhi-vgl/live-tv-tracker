@@ -273088,11 +273088,29 @@
       "productUrl": null,
       "lastUpdated": 1788185906336,
       "source": "gha"
+    },
+    "8431472": {
+      "sku": "8431472",
+      "firstAir": 1788186041469,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788186041469,
+      "title": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Chartreuse",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019851704",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "15:20:41",
+      "productUrl": null,
+      "lastUpdated": 1788186041469,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788185962994,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -287084,11 +287102,22 @@
         "followingSku": "8565889",
         "followingTitle": "Genuine Leather Structured Duffle Satchel Bag with Crossbody Strap - Beige",
         "followingAuctionCode": "0019851093"
+      },
+      {
+        "start": 1788185962994,
+        "end": 1788186041469,
+        "durationMin": 1.3,
+        "precedingSku": "8565889",
+        "precedingTitle": "Genuine Leather Structured Duffle Satchel Bag with Crossbody Strap - Beige",
+        "precedingAuctionCode": "0019851093",
+        "followingSku": "8431472",
+        "followingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Chartreuse",
+        "followingAuctionCode": "0019851704"
       }
     ],
-    "lastOnAirSku": "8565889",
-    "lastOnAirTitle": "Genuine Leather Structured Duffle Satchel Bag with Crossbody Strap - Beige",
-    "lastOnAirAuctionCode": "0019851093",
+    "lastOnAirSku": "8431472",
+    "lastOnAirTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Chartreuse",
+    "lastOnAirAuctionCode": "0019851704",
     "precedingSku": "8565889",
     "precedingTitle": "Genuine Leather Structured Duffle Satchel Bag with Crossbody Strap - Beige",
     "precedingAuctionCode": "0019851093"
