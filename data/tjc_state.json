@@ -271860,11 +271860,15 @@
       "date": "2026-08-31",
       "time": "12:47:20",
       "productUrl": "/products/950-platinum-agi-certified-aaaa-pink-spinel-white-diamond-vs-ef-ring-2-70-ct-platinum-wt-7-98-gms?variant=53107715277066",
-      "lastUpdated": 1788176840385,
+      "lastUpdated": 1788216040371,
       "source": "gha",
       "productUrlChecked": 1788176844134,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788216040371,
+      "missedDelay": 653,
+      "missedPrice": 7999.99,
+      "missedImg": true
     },
     "7769403": {
       "sku": "7769403",
@@ -278838,8 +278842,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788216040371,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293199,8 +293203,8 @@
     "lastOnAirSku": "8668661",
     "lastOnAirTitle": "Biggest Close Out Deal- ITALIAN 9K Yellow Gold Paperclip Necklace (Size - 18)",
     "lastOnAirAuctionCode": "0019852562",
-    "precedingSku": "8571438",
-    "precedingTitle": "Vicenza Find - Italian Made 9K Yellow Gold Serafina Necklace (Size - 20), Gold Wt.8.82 Gms",
-    "precedingAuctionCode": "0019852760"
+    "precedingSku": "8668661",
+    "precedingTitle": "Biggest Close Out Deal- ITALIAN 9K Yellow Gold Paperclip Necklace (Size - 18)",
+    "precedingAuctionCode": "0019852562"
   }
 }
