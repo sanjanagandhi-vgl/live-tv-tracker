@@ -235764,17 +235764,17 @@
       "firstAir": 1787643935547,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787703504736,
+      "lastAir": 1788156982038,
       "title": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml and Red Serenity",
-      "pdpPrice": "12.98",
-      "auctionCode": "0019840968",
+      "pdpPrice": "95.98",
+      "auctionCode": "0019850532",
       "buy": true,
       "login": false,
-      "img": false,
-      "date": "2026-08-26",
-      "time": "01:18:24",
+      "img": true,
+      "date": "2026-08-31",
+      "time": "07:16:22",
       "productUrl": "/products/laurelle-royale-edition-gold-eau-de-toilette-100ml-221330883",
-      "lastUpdated": 1787703504736,
+      "lastUpdated": 1788156982038,
       "source": "gha",
       "missedAt": 1787644941481,
       "missedDelay": 9,
@@ -271256,8 +271256,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788156938085,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -284875,11 +284875,22 @@
         "followingSku": "8519081",
         "followingTitle": "Leopard Royal Savannah EDP - 100ml",
         "followingAuctionCode": "0019850538"
+      },
+      {
+        "start": 1788156938085,
+        "end": 1788156982038,
+        "durationMin": 0.7,
+        "precedingSku": "8519081",
+        "precedingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "precedingAuctionCode": "0019850538",
+        "followingSku": "221330883",
+        "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml and Red Serenity",
+        "followingAuctionCode": "0019850532"
       }
     ],
-    "lastOnAirSku": "8519081",
-    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
-    "lastOnAirAuctionCode": "0019850538",
+    "lastOnAirSku": "221330883",
+    "lastOnAirTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml and Red Serenity",
+    "lastOnAirAuctionCode": "0019850532",
     "precedingSku": "8519081",
     "precedingTitle": "Leopard Royal Savannah EDP - 100ml",
     "precedingAuctionCode": "0019850538"
