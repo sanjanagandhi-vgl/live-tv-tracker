@@ -215146,24 +215146,25 @@
       "firstAir": 1787423959663,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787424864440,
+      "lastAir": 1788197480165,
       "title": "Luxuriant - Lab Grown Blue Diamond (VS) 5 Stone Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
-      "pdpPrice": 299.99,
-      "auctionCode": "0019836359",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019851339",
       "buy": true,
       "login": false,
-      "date": "2026-08-22",
-      "time": "19:54:24",
+      "date": "2026-08-31",
+      "time": "18:31:20",
       "productUrl": "/products/luxuriant-sgl-certified-si-lab-grown-blue-diamond-solitaire-ring-in-rhodium-overlay-sterling-silver-2-00-ct?variant=53106082185482",
-      "lastUpdated": 1787425397650,
-      "source": "gha-variant",
+      "lastUpdated": 1788197480165,
+      "source": "gha",
       "productUrlChecked": 1787424871487,
       "productUrlStatus": 200,
       "productUrl404": false,
       "missedAt": 1787425397650,
       "missedDelay": 9,
       "missedPrice": 299.99,
-      "missedImg": true
+      "missedImg": true,
+      "img": true
     },
     "8363175": {
       "sku": "8363175",
@@ -274456,8 +274457,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788197453957,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -288526,11 +288527,22 @@
         "followingSku": "8278738",
         "followingTitle": "D'Joy Emerald & Moissanite Sunburst Ring in Rhodium Overlay Sterling Silver 1.62 Ct.",
         "followingAuctionCode": "0019851232"
+      },
+      {
+        "start": 1788197453957,
+        "end": 1788197480165,
+        "durationMin": 0.4,
+        "precedingSku": "8447571",
+        "precedingTitle": "D'Joy Sleeping Beauty Turquoise & Moissanite Ring in Rhodium Overlay Sterling Silver 1.55 Ct.",
+        "precedingAuctionCode": "0019851332",
+        "followingSku": "8363173",
+        "followingTitle": "Luxuriant - Lab Grown Blue Diamond (VS) 5 Stone Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
+        "followingAuctionCode": "0019851339"
       }
     ],
-    "lastOnAirSku": "8447571",
-    "lastOnAirTitle": "D'Joy Sleeping Beauty Turquoise & Moissanite Ring in Rhodium Overlay Sterling Silver 1.55 Ct.",
-    "lastOnAirAuctionCode": "0019851332",
+    "lastOnAirSku": "8363173",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Blue Diamond (VS) 5 Stone Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019851339",
     "precedingSku": "8447571",
     "precedingTitle": "D'Joy Sleeping Beauty Turquoise & Moissanite Ring in Rhodium Overlay Sterling Silver 1.55 Ct.",
     "precedingAuctionCode": "0019851332"
