@@ -275090,9 +275090,16 @@
       "img": true,
       "date": "2026-08-31",
       "time": "18:47:18",
-      "productUrl": null,
-      "lastUpdated": 1788198438970,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-lab-grown-diamond-ring-6118314146",
+      "lastUpdated": 1788199040486,
+      "source": "gha",
+      "missedAt": 1788199040486,
+      "missedDelay": 10,
+      "missedPrice": 147.99,
+      "missedImg": true,
+      "productUrlChecked": 1788199044287,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8256756": {
       "sku": "8256756",
@@ -275509,8 +275516,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788199040486,
     "gaps": [
       {
         "start": 1785823527869,
@@ -289617,8 +289624,8 @@
     "lastOnAirSku": "8161591",
     "lastOnAirTitle": "GP Chilli Pepper Collection - Blue Sapphire Enamelled Charm Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
     "lastOnAirAuctionCode": "0019851404",
-    "precedingSku": "8302974",
-    "precedingTitle": "Luxuriant Lab Grown Blue Diamond (VS INTENSE BLUE) Trilogy Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
-    "precedingAuctionCode": "0019851399"
+    "precedingSku": "8161591",
+    "precedingTitle": "GP Chilli Pepper Collection - Blue Sapphire Enamelled Charm Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "precedingAuctionCode": "0019851404"
   }
 }
