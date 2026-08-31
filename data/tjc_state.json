@@ -13866,21 +13866,22 @@
       "firstAir": 1785051142032,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785051501741,
+      "lastAir": 1788215360447,
       "title": "Royal Bali Handmade - 9K Yellow Gold Diamond Cut Bangle (Size - 7.5)",
-      "pdpPrice": 899.99,
-      "auctionCode": "0019795729",
-      "buy": false,
+      "pdpPrice": "879.99",
+      "auctionCode": "0019852762",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "08:38:21",
-      "lastUpdated": 1785051557659,
+      "date": "2026-08-31",
+      "time": "23:29:20",
+      "lastUpdated": 1788215360447,
       "source": "gha",
       "missedAt": 1785051557659,
       "missedDelay": 1,
       "missedPrice": 899.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8596945": {
       "sku": "8596945",
@@ -278830,8 +278831,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788215304996,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293175,11 +293176,22 @@
         "followingSku": "8746544",
         "followingTitle": "9K Yellow Gold Flat Curb Chain (Size - 24) With Lobster Clasp, Gold Wt. 8.20 Gms",
         "followingAuctionCode": "0019852757"
+      },
+      {
+        "start": 1788215304996,
+        "end": 1788215360447,
+        "durationMin": 0.9,
+        "precedingSku": "8571438",
+        "precedingTitle": "Vicenza Find - Italian Made 9K Yellow Gold Serafina Necklace (Size - 20), Gold Wt.8.82 Gms",
+        "precedingAuctionCode": "0019852760",
+        "followingSku": "8588271",
+        "followingTitle": "Royal Bali Handmade - 9K Yellow Gold Diamond Cut Bangle (Size - 7.5)",
+        "followingAuctionCode": "0019852762"
       }
     ],
-    "lastOnAirSku": "8571438",
-    "lastOnAirTitle": "Vicenza Find - Italian Made 9K Yellow Gold Serafina Necklace (Size - 20), Gold Wt.8.82 Gms",
-    "lastOnAirAuctionCode": "0019852760",
+    "lastOnAirSku": "8588271",
+    "lastOnAirTitle": "Royal Bali Handmade - 9K Yellow Gold Diamond Cut Bangle (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019852762",
     "precedingSku": "8571438",
     "precedingTitle": "Vicenza Find - Italian Made 9K Yellow Gold Serafina Necklace (Size - 20), Gold Wt.8.82 Gms",
     "precedingAuctionCode": "0019852760"
