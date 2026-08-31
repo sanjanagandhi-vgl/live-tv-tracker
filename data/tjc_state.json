@@ -275881,11 +275881,32 @@
       "productUrlChecked": 1788199543772,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8093873": {
+      "sku": "8093873",
+      "firstAir": 1788199944689,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788199944689,
+      "title": "GP Leaf Collection - Green Apatite, Blue Sapphire & White Zircon Cluster Ring in 18K Vermeil Yell...",
+      "pdpPrice": 29.99,
+      "auctionCode": "0019851418",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "19:12:24",
+      "productUrl": "/products/gp-leaf-collection-green-apatite-blue-sapphire-white-zircon-cluster-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-3-43-ct?variant=53103325380874",
+      "lastUpdated": 1788199944689,
+      "source": "gha",
+      "productUrlChecked": 1788199948993,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788199879986,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -289998,11 +290019,22 @@
         "followingSku": "8657969",
         "followingTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
         "followingAuctionCode": "0019852285"
+      },
+      {
+        "start": 1788199879986,
+        "end": 1788199944689,
+        "durationMin": 1.1,
+        "precedingSku": "8657969",
+        "precedingTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
+        "precedingAuctionCode": "0019852285",
+        "followingSku": "8093873",
+        "followingTitle": "GP Leaf Collection - Green Apatite, Blue Sapphire & White Zircon Cluster Ring in 18K Vermeil Yell...",
+        "followingAuctionCode": "0019851418"
       }
     ],
-    "lastOnAirSku": "8657969",
-    "lastOnAirTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
-    "lastOnAirAuctionCode": "0019852285",
+    "lastOnAirSku": "8093873",
+    "lastOnAirTitle": "GP Leaf Collection - Green Apatite, Blue Sapphire & White Zircon Cluster Ring in 18K Vermeil Yell...",
+    "lastOnAirAuctionCode": "0019851418",
     "precedingSku": "8657969",
     "precedingTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
     "precedingAuctionCode": "0019852285"
