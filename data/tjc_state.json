@@ -19545,16 +19545,16 @@
       "firstAir": 1785183645362,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787446999476,
-      "title": "Royal Bali Collection- 9K Yellow Gold Heart Ring",
-      "pdpPrice": 169.99,
-      "auctionCode": "0019838003",
+      "lastAir": 1788220529372,
+      "title": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+      "pdpPrice": "139.99",
+      "auctionCode": "0019852567",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-23",
-      "time": "02:03:19",
-      "lastUpdated": 1787446999476,
+      "date": "2026-09-01",
+      "time": "00:55:29",
+      "lastUpdated": 1788220529372,
       "source": "gha",
       "missedAt": 1785184158540,
       "missedDelay": 3,
@@ -279179,8 +279179,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788220463696,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293623,11 +293623,22 @@
         "followingSku": "4478861",
         "followingTitle": "Luxuriant - AAA Gemfields Zambian Emerald & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.75 Ct.",
         "followingAuctionCode": "0019852724"
+      },
+      {
+        "start": 1788220463696,
+        "end": 1788220529372,
+        "durationMin": 1.1,
+        "precedingSku": "8570642",
+        "precedingTitle": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
+        "precedingAuctionCode": "0019852565",
+        "followingSku": "8412112",
+        "followingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+        "followingAuctionCode": "0019852567"
       }
     ],
-    "lastOnAirSku": "8570642",
-    "lastOnAirTitle": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
-    "lastOnAirAuctionCode": "0019852565",
+    "lastOnAirSku": "8412112",
+    "lastOnAirTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+    "lastOnAirAuctionCode": "0019852567",
     "precedingSku": "8570642",
     "precedingTitle": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
     "precedingAuctionCode": "0019852565"
