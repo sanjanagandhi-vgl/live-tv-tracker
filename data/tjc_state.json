@@ -277024,11 +277024,29 @@
       "productUrl": null,
       "lastUpdated": 1788205403711,
       "source": "gha-variant"
+    },
+    "8516670": {
+      "sku": "8516670",
+      "firstAir": 1788205839755,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788205839755,
+      "title": "African Amethyst Cluster Ring 9.44 Ct.",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019852206",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "20:50:39",
+      "productUrl": null,
+      "lastUpdated": 1788205839755,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788205758440,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -291240,11 +291258,22 @@
         "followingSku": "8590373",
         "followingTitle": "VERY RARE SIZE - 9K Yellow Gold Natural Chrome Diopside Solitaire Ring 3.00 Ct.",
         "followingAuctionCode": "0019852242"
+      },
+      {
+        "start": 1788205758440,
+        "end": 1788205839755,
+        "durationMin": 1.4,
+        "precedingSku": "8590373",
+        "precedingTitle": "VERY RARE SIZE - 9K Yellow Gold Natural Chrome Diopside Solitaire Ring 3.00 Ct.",
+        "precedingAuctionCode": "0019852242",
+        "followingSku": "8516670",
+        "followingTitle": "African Amethyst Cluster Ring 9.44 Ct.",
+        "followingAuctionCode": "0019852206"
       }
     ],
-    "lastOnAirSku": "8590373",
-    "lastOnAirTitle": "VERY RARE SIZE - 9K Yellow Gold Natural Chrome Diopside Solitaire Ring 3.00 Ct.",
-    "lastOnAirAuctionCode": "0019852242",
+    "lastOnAirSku": "8516670",
+    "lastOnAirTitle": "African Amethyst Cluster Ring 9.44 Ct.",
+    "lastOnAirAuctionCode": "0019852206",
     "precedingSku": "8590373",
     "precedingTitle": "VERY RARE SIZE - 9K Yellow Gold Natural Chrome Diopside Solitaire Ring 3.00 Ct.",
     "precedingAuctionCode": "0019852242"
