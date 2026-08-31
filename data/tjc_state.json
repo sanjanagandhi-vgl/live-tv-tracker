@@ -1895,23 +1895,23 @@
       "sku": "8548666",
       "tvPrice": "",
       "remarks": "",
-      "time": "13:25:29",
+      "time": "22:43:20",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 24.99,
       "missedImg": false,
       "title": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-      "auctionCode": "0019809587",
+      "auctionCode": "0019852097",
       "source": "gha",
-      "lastAir": 1786019129494,
-      "pdpPrice": "24.99",
+      "lastAir": 1788212600007,
+      "pdpPrice": "120.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-06",
+      "date": "2026-08-31",
       "productUrl": null,
-      "lastUpdated": 1786019129494
+      "lastUpdated": 1788212600007
     },
     "8548674": {
       "sku": "8548674",
@@ -278807,8 +278807,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788212546647,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293108,11 +293108,22 @@
         "followingSku": "8698754",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
         "followingAuctionCode": "0019852096"
+      },
+      {
+        "start": 1788212546647,
+        "end": 1788212600007,
+        "durationMin": 0.9,
+        "precedingSku": "8571434",
+        "precedingTitle": "Maestro Collection- 9K Yellow Gold Heart Drop Necklace (Size - 18) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019852596",
+        "followingSku": "8548666",
+        "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "followingAuctionCode": "0019852097"
       }
     ],
-    "lastOnAirSku": "8571434",
-    "lastOnAirTitle": "Maestro Collection- 9K Yellow Gold Heart Drop Necklace (Size - 18) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019852596",
+    "lastOnAirSku": "8548666",
+    "lastOnAirTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+    "lastOnAirAuctionCode": "0019852097",
     "precedingSku": "8571434",
     "precedingTitle": "Maestro Collection- 9K Yellow Gold Heart Drop Necklace (Size - 18) with Spring Ring Clasp",
     "precedingAuctionCode": "0019852596"
