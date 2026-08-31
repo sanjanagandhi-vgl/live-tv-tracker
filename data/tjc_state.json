@@ -270798,11 +270798,29 @@
       "productUrlChecked": 1788137243355,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8422000": {
+      "sku": "8422000",
+      "firstAir": 1788138263417,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788138263417,
+      "title": "57-Hole Automatic Bubble Blaster - Pink Rechargeable Space Jet Machine with 3.7V Battery & 150ml Solution",
+      "pdpPrice": "249.99",
+      "auctionCode": "0019850437",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "02:04:23",
+      "productUrl": null,
+      "lastUpdated": 1788138263417,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788138201296,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -284222,11 +284240,22 @@
         "followingSku": "8498239",
         "followingTitle": "African Amethyst Solitaire Earring with Push Back in Platinum Overlay Sterling Silver",
         "followingAuctionCode": "0019850223"
+      },
+      {
+        "start": 1788138201296,
+        "end": 1788138263417,
+        "durationMin": 1.0,
+        "precedingSku": "7615929",
+        "precedingTitle": "Wedding Band Ring in 9K Yellow Gold",
+        "precedingAuctionCode": "0019851976",
+        "followingSku": "8422000",
+        "followingTitle": "57-Hole Automatic Bubble Blaster - Pink Rechargeable Space Jet Machine with 3.7V Battery & 150ml Solution",
+        "followingAuctionCode": "0019850437"
       }
     ],
-    "lastOnAirSku": "7615929",
-    "lastOnAirTitle": "Wedding Band Ring in 9K Yellow Gold",
-    "lastOnAirAuctionCode": "0019851976",
+    "lastOnAirSku": "8422000",
+    "lastOnAirTitle": "57-Hole Automatic Bubble Blaster - Pink Rechargeable Space Jet Machine with 3.7V Battery & 150ml Solution",
+    "lastOnAirAuctionCode": "0019850437",
     "precedingSku": "7615929",
     "precedingTitle": "Wedding Band Ring in 9K Yellow Gold",
     "precedingAuctionCode": "0019851976"
