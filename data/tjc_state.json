@@ -272543,7 +272543,10 @@
       "missedAt": 1788180199363,
       "missedDelay": 10,
       "missedPrice": 197.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788180340941,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8608817": {
       "sku": "8608817",
@@ -272564,7 +272567,10 @@
       "missedAt": 1788180199363,
       "missedDelay": 10,
       "missedPrice": 197.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788180341839,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8284126": {
       "sku": "8284126",
@@ -272585,7 +272591,10 @@
       "missedAt": 1788180199363,
       "missedDelay": 10,
       "missedPrice": 197.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788180342031,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8608807": {
       "sku": "8608807",
@@ -272606,7 +272615,10 @@
       "missedAt": 1788180199363,
       "missedDelay": 10,
       "missedPrice": 197.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788180342233,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8277223": {
       "sku": "8277223",
@@ -272627,7 +272639,10 @@
       "missedAt": 1788180199363,
       "missedDelay": 10,
       "missedPrice": 197.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788180342449,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8608818": {
       "sku": "8608818",
@@ -272648,7 +272663,10 @@
       "missedAt": 1788180199363,
       "missedDelay": 10,
       "missedPrice": 197.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788180343107,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8563523": {
       "sku": "8563523",
@@ -272821,11 +272839,29 @@
       "productUrl": null,
       "lastUpdated": 1788180143504,
       "source": "gha"
+    },
+    "8580824": {
+      "sku": "8580824",
+      "firstAir": 1788180337915,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788180337915,
+      "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 7.5) with GB Lock Box in Rhodium Overlay Sterling Silver 4.26 Ct.",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019852467",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "13:45:37",
+      "productUrl": null,
+      "lastUpdated": 1788180337915,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788180199363,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -286718,11 +286754,22 @@
         "followingSku": "8599080",
         "followingTitle": "Luxuriant Diamond 9K Gold SGL Certified (SI-GH) Lab Grown Diamond Stud Push Back Earring",
         "followingAuctionCode": "0019851063"
+      },
+      {
+        "start": 1788180199363,
+        "end": 1788180337915,
+        "durationMin": 2.3,
+        "precedingSku": "8599080",
+        "precedingTitle": "Luxuriant Diamond 9K Gold SGL Certified (SI-GH) Lab Grown Diamond Stud Push Back Earring",
+        "precedingAuctionCode": "0019851063",
+        "followingSku": "8580824",
+        "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 7.5) with GB Lock Box in Rhodium Overlay Sterling Silver 4.26 Ct.",
+        "followingAuctionCode": "0019852467"
       }
     ],
-    "lastOnAirSku": "8599080",
-    "lastOnAirTitle": "Luxuriant Diamond 9K Gold SGL Certified (SI-GH) Lab Grown Diamond Stud Push Back Earring",
-    "lastOnAirAuctionCode": "0019851063",
+    "lastOnAirSku": "8580824",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 7.5) with GB Lock Box in Rhodium Overlay Sterling Silver 4.26 Ct.",
+    "lastOnAirAuctionCode": "0019852467",
     "precedingSku": "8599080",
     "precedingTitle": "Luxuriant Diamond 9K Gold SGL Certified (SI-GH) Lab Grown Diamond Stud Push Back Earring",
     "precedingAuctionCode": "0019851063"
