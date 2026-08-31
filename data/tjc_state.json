@@ -271752,11 +271752,29 @@
       "productUrlChecked": 1788176844134,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7769403": {
+      "sku": "7769403",
+      "firstAir": 1788177041365,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788177041365,
+      "title": "Certified and Appraised RHAPSODY 950 Platinum AAAA Santa Maria Aquamarine, Diamond Ring 7.85 Ct",
+      "pdpPrice": "39999.99",
+      "auctionCode": "0019852032",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "12:50:41",
+      "productUrl": null,
+      "lastUpdated": 1788177041365,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788176901858,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285616,11 +285634,22 @@
         "followingSku": "7775520",
         "followingTitle": "Chairman Vault RHAPSODY- 950 Platinum AGI Certified AAAA Pink Spinel & White Diamond (VS-EF) Halo Ring 2.70 Ct, Platinum Wt. 7.98 Gms.",
         "followingAuctionCode": "0019852024"
+      },
+      {
+        "start": 1788176901858,
+        "end": 1788177041365,
+        "durationMin": 2.3,
+        "precedingSku": "7775520",
+        "precedingTitle": "Chairman Vault RHAPSODY- 950 Platinum AGI Certified AAAA Pink Spinel & White Diamond (VS-EF) Halo...",
+        "precedingAuctionCode": "0019852024",
+        "followingSku": "7769403",
+        "followingTitle": "Certified and Appraised RHAPSODY 950 Platinum AAAA Santa Maria Aquamarine, Diamond Ring 7.85 Ct",
+        "followingAuctionCode": "0019852032"
       }
     ],
-    "lastOnAirSku": "7775520",
-    "lastOnAirTitle": "Chairman Vault RHAPSODY- 950 Platinum AGI Certified AAAA Pink Spinel & White Diamond (VS-EF) Halo...",
-    "lastOnAirAuctionCode": "0019852024",
+    "lastOnAirSku": "7769403",
+    "lastOnAirTitle": "Certified and Appraised RHAPSODY 950 Platinum AAAA Santa Maria Aquamarine, Diamond Ring 7.85 Ct",
+    "lastOnAirAuctionCode": "0019852032",
     "precedingSku": "7775520",
     "precedingTitle": "Chairman Vault RHAPSODY- 950 Platinum AGI Certified AAAA Pink Spinel & White Diamond (VS-EF) Halo...",
     "precedingAuctionCode": "0019852024"
