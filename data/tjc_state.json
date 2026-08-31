@@ -37527,17 +37527,17 @@
       "firstAir": 1785505837567,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787268799758,
+      "lastAir": 1788182480241,
       "title": "Finishing Touch Flawless Lady Shaver - White",
-      "pdpPrice": 3.99,
-      "auctionCode": "0019832121",
+      "pdpPrice": "3.99",
+      "auctionCode": "0019851393",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-21",
-      "time": "00:33:19",
+      "date": "2026-08-31",
+      "time": "14:21:20",
       "productUrl": "/products/finishing-touch-flawless-lady-electric-shaver-white?variant=53104910991626",
-      "lastUpdated": 1787268799758,
+      "lastUpdated": 1788182480241,
       "source": "gha",
       "missedAt": 1785506903329,
       "missedDelay": 9,
@@ -273016,8 +273016,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788182441765,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -286954,11 +286954,22 @@
         "followingSku": "8217777",
         "followingTitle": "Finishing Touch Flawless Contour Vibrating Facial Roller & Massager",
         "followingAuctionCode": "0019851383"
+      },
+      {
+        "start": 1788182441765,
+        "end": 1788182480241,
+        "durationMin": 0.6,
+        "precedingSku": "8217777",
+        "precedingTitle": "Finishing Touch Flawless Contour Vibrating Facial Roller & Massager",
+        "precedingAuctionCode": "0019851383",
+        "followingSku": "8276121",
+        "followingTitle": "Finishing Touch Flawless Lady Shaver - White",
+        "followingAuctionCode": "0019851393"
       }
     ],
-    "lastOnAirSku": "8217777",
-    "lastOnAirTitle": "Finishing Touch Flawless Contour Vibrating Facial Roller & Massager",
-    "lastOnAirAuctionCode": "0019851383",
+    "lastOnAirSku": "8276121",
+    "lastOnAirTitle": "Finishing Touch Flawless Lady Shaver - White",
+    "lastOnAirAuctionCode": "0019851393",
     "precedingSku": "8217777",
     "precedingTitle": "Finishing Touch Flawless Contour Vibrating Facial Roller & Massager",
     "precedingAuctionCode": "0019851383"
