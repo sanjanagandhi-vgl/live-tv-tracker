@@ -271699,11 +271699,29 @@
       "productUrl": null,
       "lastUpdated": 1788175157266,
       "source": "gha"
+    },
+    "8522338": {
+      "sku": "8522338",
+      "firstAir": 1788175280913,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788175280913,
+      "title": "24K Yellow Gold Multiple Horse Design Frame",
+      "pdpPrice": "1799.99",
+      "auctionCode": "0019850912",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-08-31",
+      "time": "12:21:20",
+      "productUrl": null,
+      "lastUpdated": 1788175280913,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788175239191,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285541,11 +285559,22 @@
         "followingSku": "8560428",
         "followingTitle": "9K Yellow Gold Venziana Box Chain (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019850855"
+      },
+      {
+        "start": 1788175239191,
+        "end": 1788175280913,
+        "durationMin": 0.7,
+        "precedingSku": "8560384",
+        "precedingTitle": "9K Yellow Gold Venziana Box Chain (Size - 24) with Lobster Clasp, Gold Wt. 4.00 Gms",
+        "precedingAuctionCode": "0019850854",
+        "followingSku": "8522338",
+        "followingTitle": "24K Yellow Gold Multiple Horse Design Frame",
+        "followingAuctionCode": "0019850912"
       }
     ],
-    "lastOnAirSku": "8560384",
-    "lastOnAirTitle": "9K Yellow Gold Venziana Box Chain (Size - 24) with Lobster Clasp, Gold Wt. 4.00 Gms",
-    "lastOnAirAuctionCode": "0019850854",
+    "lastOnAirSku": "8522338",
+    "lastOnAirTitle": "24K Yellow Gold Multiple Horse Design Frame",
+    "lastOnAirAuctionCode": "0019850912",
     "precedingSku": "8560384",
     "precedingTitle": "9K Yellow Gold Venziana Box Chain (Size - 24) with Lobster Clasp, Gold Wt. 4.00 Gms",
     "precedingAuctionCode": "0019850854"
