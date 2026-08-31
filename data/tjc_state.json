@@ -4530,17 +4530,23 @@
       "sku": "8555092",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-24",
-      "time": "12:05:36",
+      "date": "2026-08-31",
+      "time": "09:03:19",
       "preExisting": true,
       "missedAt": 1784891136152,
       "missedDelay": null,
-      "lastUpdated": 1784891136152,
+      "lastUpdated": 1788163399112,
       "missedPrice": 24.99,
       "missedImg": true,
-      "title": "La Marey Patterned Dress (Size - One Size) - Brown",
-      "auctionCode": "0019792897",
-      "source": "gha"
+      "title": "La Marey Womens 2-Piece Multicolour Floral Umbrella Dress with Scarf (One Size Curve) - White",
+      "auctionCode": "0019850567",
+      "source": "gha",
+      "lastAir": 1788163399112,
+      "pdpPrice": "12.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8555117": {
       "sku": "8555117",
@@ -271281,11 +271287,15 @@
       "date": "2026-08-31",
       "time": "08:54:22",
       "productUrl": "/products/tjc-special-shirt-size-one-size-green-8752958?variant=53514591437066",
-      "lastUpdated": 1788162862925,
+      "lastUpdated": 1788163399112,
       "source": "gha",
       "productUrlChecked": 1788162865578,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788163399112,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": false
     }
   },
   "gapTracking": {
@@ -284987,9 +284997,9 @@
         "followingAuctionCode": "0019850562"
       }
     ],
-    "lastOnAirSku": "8555093",
+    "lastOnAirSku": "8555092",
     "lastOnAirTitle": "La Marey Womens 2-Piece Multicolour Floral Umbrella Dress with Scarf (One Size Curve) - White",
-    "lastOnAirAuctionCode": "0019850562",
+    "lastOnAirAuctionCode": "0019850567",
     "precedingSku": "7972481",
     "precedingTitle": "1677972460",
     "precedingAuctionCode": "0019850089"
