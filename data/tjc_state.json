@@ -1615,7 +1615,7 @@
       "sku": "8519081",
       "tvPrice": "",
       "remarks": "",
-      "time": "07:09:21",
+      "time": "07:10:41",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
@@ -1624,14 +1624,14 @@
       "title": "Leopard Royal Savannah EDP - 100ml",
       "auctionCode": "0019850538",
       "source": "gha",
-      "lastAir": 1788156561575,
-      "pdpPrice": "139.99",
+      "lastAir": 1788156641121,
+      "pdpPrice": "24.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-08-31",
       "productUrl": null,
-      "lastUpdated": 1788156561575
+      "lastUpdated": 1788156641121
     },
     "8696197": {
       "sku": "8696197",
@@ -271244,11 +271244,15 @@
       "date": "2026-08-31",
       "time": "07:02:23",
       "productUrl": "/products/bundal-deal-221328565?variant=53436669919498",
-      "lastUpdated": 1788156143720,
+      "lastUpdated": 1788156641121,
       "source": "gha",
       "productUrlChecked": 1788156151647,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788156641121,
+      "missedDelay": 8,
+      "missedPrice": 29.98,
+      "missedImg": true
     }
   },
   "gapTracking": {
