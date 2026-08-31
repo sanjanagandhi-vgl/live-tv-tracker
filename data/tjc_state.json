@@ -164056,18 +164056,18 @@
       "firstAir": 1786780037970,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788089062698,
+      "lastAir": 1788213747563,
       "title": "Designer Inspired- 9K Yellow Gold Screw Band Ring",
-      "pdpPrice": 249.99,
-      "auctionCode": "0019850457",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019852590",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-30",
-      "time": "12:24:22",
+      "date": "2026-08-31",
+      "time": "23:02:27",
       "productUrl": "/products/luxoro-9k-yellow-gold-floral-band-spinner-ring-m8510534?variant=53191760412938",
-      "lastUpdated": 1788089062698,
-      "source": "gha-variant",
+      "lastUpdated": 1788213747563,
+      "source": "gha",
       "missedAt": 1786781544058,
       "missedDelay": 10,
       "missedPrice": 199.99,
@@ -278812,8 +278812,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788213667386,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293124,11 +293124,22 @@
         "followingSku": "8548666",
         "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
         "followingAuctionCode": "0019852097"
+      },
+      {
+        "start": 1788213667386,
+        "end": 1788213747563,
+        "durationMin": 1.3,
+        "precedingSku": "8548680",
+        "precedingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "precedingAuctionCode": "0019852117",
+        "followingSku": "8412121",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Screw Band Ring",
+        "followingAuctionCode": "0019852590"
       }
     ],
-    "lastOnAirSku": "8548680",
-    "lastOnAirTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-    "lastOnAirAuctionCode": "0019852117",
+    "lastOnAirSku": "8412121",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Screw Band Ring",
+    "lastOnAirAuctionCode": "0019852590",
     "precedingSku": "8548680",
     "precedingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
     "precedingAuctionCode": "0019852117"
