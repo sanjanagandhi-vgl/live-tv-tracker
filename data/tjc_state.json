@@ -22661,17 +22661,23 @@
       "sku": "8412282",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-30",
-      "time": "01:18:21",
+      "date": "2026-08-31",
+      "time": "11:05:31",
       "preExisting": true,
       "missedAt": 1785370701928,
       "missedDelay": null,
-      "lastUpdated": 1785370701928,
+      "lastUpdated": 1788170731052,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "9K Yellow Gold Mariner Link Pendant",
-      "auctionCode": "0019800034",
-      "source": "gha"
+      "auctionCode": "0019850795",
+      "source": "gha",
+      "lastAir": 1788170731052,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8572379": {
       "sku": "8572379",
@@ -271526,8 +271532,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788170664594,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285255,11 +285261,22 @@
         "followingSku": "7263115",
         "followingTitle": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
         "followingAuctionCode": "0019828064"
+      },
+      {
+        "start": 1788170664594,
+        "end": 1788170731052,
+        "durationMin": 1.1,
+        "precedingSku": "7263115",
+        "precedingTitle": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
+        "precedingAuctionCode": "0019828064",
+        "followingSku": "8412282",
+        "followingTitle": "9K Yellow Gold Mariner Link Pendant",
+        "followingAuctionCode": "0019850795"
       }
     ],
-    "lastOnAirSku": "7263115",
-    "lastOnAirTitle": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
-    "lastOnAirAuctionCode": "0019828064",
+    "lastOnAirSku": "8412282",
+    "lastOnAirTitle": "9K Yellow Gold Mariner Link Pendant",
+    "lastOnAirAuctionCode": "0019850795",
     "precedingSku": "7263115",
     "precedingTitle": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
     "precedingAuctionCode": "0019828064"
