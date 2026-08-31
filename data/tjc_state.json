@@ -30321,24 +30321,24 @@
       "sku": "8551510",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-10",
-      "time": "07:10:37",
+      "date": "2026-08-31",
+      "time": "19:41:18",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1786342237169,
+      "lastUpdated": 1788201678721,
       "missedPrice": 129.99,
       "missedImg": true,
       "title": "GP - White Diamond & Blue Sapphire Honeycomb Band Ring in Rhodium Overlay Sterling Silver 0.30 Ct.",
-      "auctionCode": "0019812763",
+      "auctionCode": "0019851525",
       "source": "gha",
       "productUrl": "/products/gp-white-diamond-blue-sapphire-openwork-band-ring-in-rhodium-overlay-sterling-silver-0-30-ct?variant=53106623250698",
       "productUrlChecked": 1785475738395,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1786342237169,
-      "pdpPrice": 89.99,
-      "buy": false,
+      "lastAir": 1788201678721,
+      "pdpPrice": "59.99",
+      "buy": true,
       "login": false,
       "img": true
     },
@@ -276441,8 +276441,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788201558358,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -290599,11 +290599,22 @@
         "followingSku": "8581110",
         "followingTitle": "Luxuriant - AAA Lab Grown Colombian Emerald 5 Stone Ring in Rhodium Overlay Sterling Silver 2.40 Ct.",
         "followingAuctionCode": "0019851855"
+      },
+      {
+        "start": 1788201558358,
+        "end": 1788201678721,
+        "durationMin": 2.0,
+        "precedingSku": "8314613",
+        "precedingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "precedingAuctionCode": "0019851490",
+        "followingSku": "8551510",
+        "followingTitle": "GP - White Diamond & Blue Sapphire Honeycomb Band Ring in Rhodium Overlay Sterling Silver 0.30 Ct.",
+        "followingAuctionCode": "0019851525"
       }
     ],
-    "lastOnAirSku": "8314613",
-    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
-    "lastOnAirAuctionCode": "0019851490",
+    "lastOnAirSku": "8551510",
+    "lastOnAirTitle": "GP - White Diamond & Blue Sapphire Honeycomb Band Ring in Rhodium Overlay Sterling Silver 0.30 Ct.",
+    "lastOnAirAuctionCode": "0019851525",
     "precedingSku": "8314613",
     "precedingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
     "precedingAuctionCode": "0019851490"
