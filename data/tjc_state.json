@@ -210843,17 +210843,17 @@
       "firstAir": 1787338465044,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787339064046,
+      "lastAir": 1788183504102,
       "title": "NOD Homage EDP - 30ml",
-      "pdpPrice": "12.99",
-      "auctionCode": "0019830275",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019851102",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-21",
-      "time": "20:04:24",
+      "date": "2026-08-31",
+      "time": "14:38:24",
       "productUrl": "/products/nod-homage-edp-30ml",
-      "lastUpdated": 1787339661877,
+      "lastUpdated": 1788183504102,
       "source": "gha",
       "missedAt": 1787339661877,
       "missedDelay": 10,
@@ -273021,8 +273021,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788183271654,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -286981,11 +286981,22 @@
         "followingSku": "8201620",
         "followingTitle": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit  - Nudes & Brown",
         "followingAuctionCode": "0019851325"
+      },
+      {
+        "start": 1788183271654,
+        "end": 1788183504102,
+        "durationMin": 3.9,
+        "precedingSku": "8201620",
+        "precedingTitle": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit  - Nudes & Brown",
+        "precedingAuctionCode": "0019851325",
+        "followingSku": "8324453",
+        "followingTitle": "NOD Homage EDP - 30ml",
+        "followingAuctionCode": "0019851102"
       }
     ],
-    "lastOnAirSku": "8201620",
-    "lastOnAirTitle": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit  - Nudes & Brown",
-    "lastOnAirAuctionCode": "0019851325",
+    "lastOnAirSku": "8324453",
+    "lastOnAirTitle": "NOD Homage EDP - 30ml",
+    "lastOnAirAuctionCode": "0019851102",
     "precedingSku": "8201620",
     "precedingTitle": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit  - Nudes & Brown",
     "precedingAuctionCode": "0019851325"
