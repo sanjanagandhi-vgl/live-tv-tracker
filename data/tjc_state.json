@@ -136387,21 +136387,26 @@
       "sku": "8486267",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-12",
-      "time": "00:40:38",
+      "date": "2026-08-31",
+      "time": "01:43:18",
       "preExisting": true,
       "missedAt": 1786491638567,
       "missedDelay": null,
-      "lastUpdated": 1786491638567,
+      "lastUpdated": 1788136998441,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "LARGEST AMETHYST RING - Lab Grown Diamond SI-G-H & AAA African Amethyst Pear Cut Solitaire Ring in Rhodium Overlay Sterling Silver 27.33 Ct.",
-      "auctionCode": "0019816384",
+      "auctionCode": "0019850278",
       "source": "gha",
       "productUrl": "/products/luxuriant-si-g-h-lab-grown-diamond-aaa-african-amethyst-pear-cut-solitaire-ring-in-rhodium-overlay-sterling-silver-27-33-ct",
       "productUrlChecked": 1786491657202,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788136998441,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8486268": {
       "sku": "8486268",
@@ -270789,8 +270794,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788136942597,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -284188,11 +284193,22 @@
         "followingSku": "8528095",
         "followingTitle": "EverTrue - African Amethyst Earring with Lever Back 3.34 Ct.",
         "followingAuctionCode": "0019850258"
+      },
+      {
+        "start": 1788136942597,
+        "end": 1788136998441,
+        "durationMin": 0.9,
+        "precedingSku": "8528095",
+        "precedingTitle": "EverTrue - African Amethyst Earring with Lever Back 3.34 Ct.",
+        "precedingAuctionCode": "0019850258",
+        "followingSku": "8486267",
+        "followingTitle": "LARGEST AMETHYST RING - Lab Grown Diamond SI-G-H & AAA African Amethyst Pear Cut Solitaire Ring in Rhodium Overlay Sterling Silver 27.33 Ct.",
+        "followingAuctionCode": "0019850278"
       }
     ],
-    "lastOnAirSku": "8528095",
-    "lastOnAirTitle": "EverTrue - African Amethyst Earring with Lever Back 3.34 Ct.",
-    "lastOnAirAuctionCode": "0019850258",
+    "lastOnAirSku": "8486267",
+    "lastOnAirTitle": "LARGEST AMETHYST RING - Lab Grown Diamond SI-G-H & AAA African Amethyst Pear Cut Solitaire Ring in Rhodium Overlay Sterling Silver 27.33 Ct.",
+    "lastOnAirAuctionCode": "0019850278",
     "precedingSku": "8528095",
     "precedingTitle": "EverTrue - African Amethyst Earring with Lever Back 3.34 Ct.",
     "precedingAuctionCode": "0019850258"
