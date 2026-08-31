@@ -13900,16 +13900,16 @@
       "firstAir": 1785052233756,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787831542965,
+      "lastAir": 1788171382461,
       "title": "9K Yellow Gold Drop Earring with Push Back",
-      "pdpPrice": "69.99",
-      "auctionCode": "0019844754",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019850819",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-27",
-      "time": "12:52:22",
-      "lastUpdated": 1787831542965,
+      "date": "2026-08-31",
+      "time": "11:16:22",
+      "lastUpdated": 1788171382461,
       "source": "gha",
       "missedAt": 1785052527192,
       "missedDelay": 1,
@@ -271539,8 +271539,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788171263753,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -285290,11 +285290,22 @@
         "followingSku": "8570642",
         "followingTitle": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
         "followingAuctionCode": "0019850801"
+      },
+      {
+        "start": 1788171263753,
+        "end": 1788171382461,
+        "durationMin": 2.0,
+        "precedingSku": "8572440",
+        "precedingTitle": "9K Yellow Gold Teddy Drop Earring with Push Back",
+        "precedingAuctionCode": "0019850818",
+        "followingSku": "8572442",
+        "followingTitle": "9K Yellow Gold Drop Earring with Push Back",
+        "followingAuctionCode": "0019850819"
       }
     ],
-    "lastOnAirSku": "8572440",
-    "lastOnAirTitle": "9K Yellow Gold Teddy Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019850818",
+    "lastOnAirSku": "8572442",
+    "lastOnAirTitle": "9K Yellow Gold Drop Earring with Push Back",
+    "lastOnAirAuctionCode": "0019850819",
     "precedingSku": "8572440",
     "precedingTitle": "9K Yellow Gold Teddy Drop Earring with Push Back",
     "precedingAuctionCode": "0019850818"
