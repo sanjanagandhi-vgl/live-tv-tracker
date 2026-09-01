@@ -197204,17 +197204,17 @@
       "firstAir": 1787224641145,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788171862717,
+      "lastAir": 1788235837909,
       "title": "Magnetic Lock Clasp in 9K Yellow Gold",
-      "pdpPrice": 39.99,
-      "auctionCode": "0019850822",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019852486",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
-      "time": "11:24:22",
+      "date": "2026-09-01",
+      "time": "05:10:37",
       "productUrl": "/products/magnetic-lock-clasp-in-9k-yellow-gold?variant=53106888605962",
-      "lastUpdated": 1788171862717,
+      "lastUpdated": 1788235837909,
       "source": "gha",
       "missedAt": 1787225453751,
       "missedDelay": 10,
@@ -279895,9 +279895,16 @@
       "img": true,
       "date": "2026-09-01",
       "time": "04:59:20",
-      "productUrl": null,
-      "lastUpdated": 1788235160751,
-      "source": "gha"
+      "productUrl": "/products/djoy-natural-chrome-diopside-white-zircon-drop-pendant-with-chain-size-20-in-platinum-overlay-sterling-silver-4478681",
+      "lastUpdated": 1788235837909,
+      "source": "gha",
+      "missedAt": 1788235837909,
+      "missedDelay": 11,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1788235840647,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8670369": {
       "sku": "8670369",
@@ -279919,8 +279926,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788235758482,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294627,11 +294634,22 @@
         "followingSku": "8670369",
         "followingTitle": "Natural Chrome Diopside Sterling Silver Chip Beads Bracelet (Size - 7-1 Ext) with Lobster Clasp 20.00 Ct.",
         "followingAuctionCode": "0019852406"
+      },
+      {
+        "start": 1788235758482,
+        "end": 1788235837909,
+        "durationMin": 1.3,
+        "precedingSku": "8670369",
+        "precedingTitle": "Natural Chrome Diopside Sterling Silver Chip Beads Bracelet (Size - 7-1 Ext) with Lobster Clasp 20.00 Ct.",
+        "precedingAuctionCode": "0019852406",
+        "followingSku": "7141000",
+        "followingTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
+        "followingAuctionCode": "0019852486"
       }
     ],
-    "lastOnAirSku": "8670369",
-    "lastOnAirTitle": "Natural Chrome Diopside Sterling Silver Chip Beads Bracelet (Size - 7-1 Ext) with Lobster Clasp 20.00 Ct.",
-    "lastOnAirAuctionCode": "0019852406",
+    "lastOnAirSku": "7141000",
+    "lastOnAirTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
+    "lastOnAirAuctionCode": "0019852486",
     "precedingSku": "8670369",
     "precedingTitle": "Natural Chrome Diopside Sterling Silver Chip Beads Bracelet (Size - 7-1 Ext) with Lobster Clasp 20.00 Ct.",
     "precedingAuctionCode": "0019852406"
