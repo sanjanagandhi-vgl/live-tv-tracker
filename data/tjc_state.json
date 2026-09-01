@@ -196256,17 +196256,17 @@
       "firstAir": 1787205327975,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787205665633,
+      "lastAir": 1788241762353,
       "title": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
-      "pdpPrice": "8.99",
-      "auctionCode": "0019830589",
+      "pdpPrice": "45.99",
+      "auctionCode": "0019852428",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-20",
-      "time": "07:01:05",
+      "date": "2026-09-01",
+      "time": "06:49:22",
       "productUrl": "/products/laurelle-royale-edition-gold-eau-de-toilette-100ml",
-      "lastUpdated": 1787206343271,
+      "lastUpdated": 1788241762353,
       "source": "gha",
       "missedAt": 1787206343271,
       "missedDelay": 11,
@@ -280224,8 +280224,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788241702562,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295031,11 +295031,22 @@
         "followingSku": "8671495",
         "followingTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
         "followingAuctionCode": "0019852471"
+      },
+      {
+        "start": 1788241702562,
+        "end": 1788241762353,
+        "durationMin": 1.0,
+        "precedingSku": "8671495",
+        "precedingTitle": "Bodyography Lipstick - Red China Creamy - High Pigment with Aloe - Vit E - True Red",
+        "precedingAuctionCode": "0019852471",
+        "followingSku": "3492618",
+        "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+        "followingAuctionCode": "0019852428"
       }
     ],
-    "lastOnAirSku": "8671495",
-    "lastOnAirTitle": "Bodyography Lipstick - Red China Creamy - High Pigment with Aloe - Vit E - True Red",
-    "lastOnAirAuctionCode": "0019852471",
+    "lastOnAirSku": "3492618",
+    "lastOnAirTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+    "lastOnAirAuctionCode": "0019852428",
     "precedingSku": "8671495",
     "precedingTitle": "Bodyography Lipstick - Red China Creamy - High Pigment with Aloe - Vit E - True Red",
     "precedingAuctionCode": "0019852471"
