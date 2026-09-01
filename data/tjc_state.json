@@ -34729,17 +34729,17 @@
       "firstAir": 1785477749882,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785482732292,
+      "lastAir": 1788224783956,
       "title": "BODUM PRESSO Storage Jar - Clear",
-      "pdpPrice": "79.99",
-      "auctionCode": "0019802319",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019852042",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-31",
-      "time": "08:25:32",
+      "date": "2026-09-01",
+      "time": "02:06:23",
       "productUrl": "/products/bodum-presso-storage-jar-clear-8636914",
-      "lastUpdated": 1785482732292,
+      "lastUpdated": 1788224783956,
       "source": "gha",
       "missedAt": 1785478878432,
       "missedDelay": 10,
@@ -279253,8 +279253,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788224728982,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293752,11 +293752,22 @@
         "followingSku": "8514439",
         "followingTitle": "Luxuriant - Lab Grown Multi Colour Diamond (SI-G-H) Necklace (Size - 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019852862"
+      },
+      {
+        "start": 1788224728982,
+        "end": 1788224783956,
+        "durationMin": 0.9,
+        "precedingSku": "8514439",
+        "precedingTitle": "Luxuriant - Lab Grown Multi Colour Diamond (SI-G-H) Necklace (Size - 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019852862",
+        "followingSku": "8636914",
+        "followingTitle": "BODUM PRESSO Storage Jar - Clear",
+        "followingAuctionCode": "0019852042"
       }
     ],
-    "lastOnAirSku": "8514439",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Multi Colour Diamond (SI-G-H) Necklace (Size - 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019852862",
+    "lastOnAirSku": "8636914",
+    "lastOnAirTitle": "BODUM PRESSO Storage Jar - Clear",
+    "lastOnAirAuctionCode": "0019852042",
     "precedingSku": "8514439",
     "precedingTitle": "Luxuriant - Lab Grown Multi Colour Diamond (SI-G-H) Necklace (Size - 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019852862"
