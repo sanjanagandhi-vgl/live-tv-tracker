@@ -264130,21 +264130,26 @@
       "sku": "8563883",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-29",
-      "time": "12:54:22",
+      "date": "2026-09-01",
+      "time": "18:15:39",
       "preExisting": true,
       "missedAt": 1788004462077,
       "missedDelay": null,
-      "lastUpdated": 1788004462077,
+      "lastUpdated": 1788282939649,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "Livmore Handcrafted Resin Geode Wall Clock with Multi-colour Gemstone Accents (35.5 x 35.5 cm) - Black White & Gold",
-      "auctionCode": "0019848303",
+      "title": "Livmore Handcrafted Resin Geode Wall Clock with Gemstone Accents (35.5 x 35.5 cm) - Red, White & Gold",
+      "auctionCode": "0019853921",
       "source": "gha",
       "productUrl": "/products/livmore-clock-size-one-size-red-white-aqua-blue-8563880",
       "productUrlChecked": 1788004471812,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788282939649,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8314273": {
       "sku": "8314273",
@@ -281210,8 +281215,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788282439836,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -296523,11 +296528,22 @@
         "followingSku": "7981122",
         "followingTitle": "BIGGEST OPATRA DEAL- Opatra LumiEye - RF, EMS, Ion Vibration & LED Light Therapy Device For Eyes",
         "followingAuctionCode": "0019852157"
+      },
+      {
+        "start": 1788282439836,
+        "end": 1788282939649,
+        "durationMin": 8.3,
+        "precedingSku": "7981122",
+        "precedingTitle": "BIGGEST OPATRA DEAL- Opatra LumiEye - RF, EMS, Ion Vibration & LED Light Therapy Device For Eyes",
+        "precedingAuctionCode": "0019852157",
+        "followingSku": "8563883",
+        "followingTitle": "Livmore Handcrafted Resin Geode Wall Clock with Gemstone Accents (35.5 x 35.5 cm) - Red, White & Gold",
+        "followingAuctionCode": "0019853921"
       }
     ],
-    "lastOnAirSku": "7981122",
-    "lastOnAirTitle": "BIGGEST OPATRA DEAL- Opatra LumiEye - RF, EMS, Ion Vibration & LED Light Therapy Device For Eyes",
-    "lastOnAirAuctionCode": "0019852157",
+    "lastOnAirSku": "8563883",
+    "lastOnAirTitle": "Livmore Handcrafted Resin Geode Wall Clock with Gemstone Accents (35.5 x 35.5 cm) - Red, White & Gold",
+    "lastOnAirAuctionCode": "0019853921",
     "precedingSku": "7981122",
     "precedingTitle": "BIGGEST OPATRA DEAL- Opatra LumiEye - RF, EMS, Ion Vibration & LED Light Therapy Device For Eyes",
     "precedingAuctionCode": "0019852157"
