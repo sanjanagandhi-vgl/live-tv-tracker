@@ -265820,21 +265820,26 @@
       "sku": "8596934",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-29",
-      "time": "19:45:35",
+      "date": "2026-09-01",
+      "time": "01:06:22",
       "preExisting": true,
       "missedAt": 1788029135535,
       "missedDelay": null,
-      "lastUpdated": 1788029135535,
+      "lastUpdated": 1788221182887,
       "missedPrice": 399.99,
       "missedImg": true,
       "title": "JCK Vegas Find 2026- 9K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Ring 1.00 Ct.",
-      "auctionCode": "0019848275",
+      "auctionCode": "0019852839",
       "source": "gha",
       "productUrl": "/products/luxuriant-9k-yellow-gold-sgl-certified-lab-grown-green-diamond-si-solitaire-ring-1-00-ct-m8596798",
       "productUrlChecked": 1788029139641,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788221182887,
+      "pdpPrice": "6678.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8596935": {
       "sku": "8596935",
@@ -279183,8 +279188,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788221066554,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293638,11 +293643,22 @@
         "followingSku": "8412112",
         "followingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
         "followingAuctionCode": "0019852567"
+      },
+      {
+        "start": 1788221066554,
+        "end": 1788221182887,
+        "durationMin": 1.9,
+        "precedingSku": "8412112",
+        "precedingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+        "precedingAuctionCode": "0019852567",
+        "followingSku": "8596934",
+        "followingTitle": "JCK Vegas Find 2026- 9K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Ring 1.00 Ct.",
+        "followingAuctionCode": "0019852839"
       }
     ],
-    "lastOnAirSku": "8412112",
-    "lastOnAirTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
-    "lastOnAirAuctionCode": "0019852567",
+    "lastOnAirSku": "8596934",
+    "lastOnAirTitle": "JCK Vegas Find 2026- 9K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Ring 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019852839",
     "precedingSku": "8412112",
     "precedingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
     "precedingAuctionCode": "0019852567"
