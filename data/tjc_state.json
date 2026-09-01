@@ -51388,17 +51388,17 @@
       "firstAir": 1785626193240,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788206902510,
+      "lastAir": 1788231742987,
       "title": "9K Yellow Gold AAA Natural Turkizite Royal Asscher Cut Solitaire Ring 3.00 Ct.",
-      "pdpPrice": "899.99",
-      "auctionCode": "0019851962",
+      "pdpPrice": "15678.99",
+      "auctionCode": "0019852934",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
-      "time": "21:08:22",
+      "date": "2026-09-01",
+      "time": "04:02:22",
       "productUrl": "/products/9k-yellow-gold-aaa-turkizite-solitaire-ring-3-00-ct-8704977",
-      "lastUpdated": 1788206902510,
+      "lastUpdated": 1788231742987,
       "source": "gha",
       "missedAt": 1785627501761,
       "missedDelay": 9,
@@ -279579,8 +279579,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788231666515,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294243,11 +294243,22 @@
         "followingSku": "8163418",
         "followingTitle": "Crossbody Bag (Size - One Size)",
         "followingAuctionCode": "0019852139"
+      },
+      {
+        "start": 1788231666515,
+        "end": 1788231742987,
+        "durationMin": 1.3,
+        "precedingSku": "8163418",
+        "precedingTitle": "Crossbody Bag (Size - One Size)",
+        "precedingAuctionCode": "0019852139",
+        "followingSku": "8704977",
+        "followingTitle": "9K Yellow Gold AAA Natural Turkizite Royal Asscher Cut Solitaire Ring 3.00 Ct.",
+        "followingAuctionCode": "0019852934"
       }
     ],
-    "lastOnAirSku": "8163418",
-    "lastOnAirTitle": "Crossbody Bag (Size - One Size)",
-    "lastOnAirAuctionCode": "0019852139",
+    "lastOnAirSku": "8704977",
+    "lastOnAirTitle": "9K Yellow Gold AAA Natural Turkizite Royal Asscher Cut Solitaire Ring 3.00 Ct.",
+    "lastOnAirAuctionCode": "0019852934",
     "precedingSku": "8163418",
     "precedingTitle": "Crossbody Bag (Size - One Size)",
     "precedingAuctionCode": "0019852139"
