@@ -181006,21 +181006,26 @@
       "sku": "8671495",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "17:47:21",
+      "date": "2026-09-01",
+      "time": "06:36:02",
       "preExisting": true,
       "missedAt": 1786985241074,
       "missedDelay": null,
-      "lastUpdated": 1786985241074,
+      "lastUpdated": 1788240962985,
       "missedPrice": 24.99,
       "missedImg": true,
-      "title": "Bodyography Lipstick - Red China - True Red",
-      "auctionCode": "0019826377",
+      "title": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
+      "auctionCode": "0019852471",
       "source": "gha",
       "productUrl": "/products/bodyography-lipstick-elizabeth-red-satin-matte-8671494",
       "productUrlChecked": 1786985245875,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788240962985,
+      "pdpPrice": "449.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8671496": {
       "sku": "8671496",
@@ -280192,8 +280197,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788240828407,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294988,11 +294993,22 @@
         "followingSku": "8671438",
         "followingTitle": "Bodyograhy Bronzer & Highlighter Duo",
         "followingAuctionCode": "0019852465"
+      },
+      {
+        "start": 1788240828407,
+        "end": 1788240962985,
+        "durationMin": 2.2,
+        "precedingSku": "8671438",
+        "precedingTitle": "Bodyograhy Bronzer & Highlighter Duo",
+        "precedingAuctionCode": "0019852465",
+        "followingSku": "8671495",
+        "followingTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
+        "followingAuctionCode": "0019852471"
       }
     ],
-    "lastOnAirSku": "8671438",
-    "lastOnAirTitle": "Bodyograhy Bronzer & Highlighter Duo",
-    "lastOnAirAuctionCode": "0019852465",
+    "lastOnAirSku": "8671495",
+    "lastOnAirTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
+    "lastOnAirAuctionCode": "0019852471",
     "precedingSku": "8671438",
     "precedingTitle": "Bodyograhy Bronzer & Highlighter Duo",
     "precedingAuctionCode": "0019852465"
