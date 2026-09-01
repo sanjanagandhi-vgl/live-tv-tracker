@@ -35039,21 +35039,26 @@
       "sku": "8569963",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "07:49:19",
+      "date": "2026-09-01",
+      "time": "02:42:23",
       "preExisting": true,
       "missedAt": 1785480559623,
       "missedDelay": null,
-      "lastUpdated": 1785480559623,
+      "lastUpdated": 1788226943532,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Foldable Steel Frame Clothes Organizer with Clear Window & Dual Zippers (60x42x39cm) - Dark Grey",
-      "auctionCode": "0019801925",
+      "title": "Foldable Steel Frame Clothes Organizer with Clear Window & Dual Zippers (60x42x39cm) - Cream",
+      "auctionCode": "0019852053",
       "source": "gha",
       "productUrl": "/products/patterned-storage-box-size-60x42x39-cm-brown-8569961",
       "productUrlChecked": 1785480574041,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788226943532,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8569835": {
       "sku": "8569835",
@@ -279289,8 +279294,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788226837834,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293832,11 +293837,22 @@
         "followingSku": "8412814",
         "followingTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
         "followingAuctionCode": "0019852045"
+      },
+      {
+        "start": 1788226837834,
+        "end": 1788226943532,
+        "durationMin": 1.8,
+        "precedingSku": "8412814",
+        "precedingTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
+        "precedingAuctionCode": "0019852045",
+        "followingSku": "8569963",
+        "followingTitle": "Foldable Steel Frame Clothes Organizer with Clear Window & Dual Zippers (60x42x39cm) - Cream",
+        "followingAuctionCode": "0019852053"
       }
     ],
-    "lastOnAirSku": "8412814",
-    "lastOnAirTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
-    "lastOnAirAuctionCode": "0019852045",
+    "lastOnAirSku": "8569963",
+    "lastOnAirTitle": "Foldable Steel Frame Clothes Organizer with Clear Window & Dual Zippers (60x42x39cm) - Cream",
+    "lastOnAirAuctionCode": "0019852053",
     "precedingSku": "8412814",
     "precedingTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
     "precedingAuctionCode": "0019852045"
