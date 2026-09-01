@@ -39621,17 +39621,17 @@
       "firstAir": 1785522810899,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786347983420,
+      "lastAir": 1788269453328,
       "title": "Lipsy London Original Eau De Toilette - 30ml",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019813332",
+      "pdpPrice": "44.99",
+      "auctionCode": "0019852427",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-10",
-      "time": "08:46:23",
+      "date": "2026-09-01",
+      "time": "14:30:53",
       "productUrl": "/products/lipsy-original-heart-edt-30ml-8724155",
-      "lastUpdated": 1786347983420,
+      "lastUpdated": 1788269453328,
       "source": "gha",
       "missedAt": 1785523715676,
       "missedDelay": 9,
@@ -280577,8 +280577,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788269362372,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295681,11 +295681,22 @@
         "followingSku": "8556779",
         "followingTitle": "Trendy Oversized Square UV400 Polarised Sunglasse - Leopard Brown",
         "followingAuctionCode": "0019852771"
+      },
+      {
+        "start": 1788269362372,
+        "end": 1788269453328,
+        "durationMin": 1.5,
+        "precedingSku": "8560649",
+        "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
+        "precedingAuctionCode": "0019852755",
+        "followingSku": "8724155",
+        "followingTitle": "Lipsy London Original Eau De Toilette - 30ml",
+        "followingAuctionCode": "0019852427"
       }
     ],
-    "lastOnAirSku": "8560649",
-    "lastOnAirTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
-    "lastOnAirAuctionCode": "0019852755",
+    "lastOnAirSku": "8724155",
+    "lastOnAirTitle": "Lipsy London Original Eau De Toilette - 30ml",
+    "lastOnAirAuctionCode": "0019852427",
     "precedingSku": "8560649",
     "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
     "precedingAuctionCode": "0019852755"
