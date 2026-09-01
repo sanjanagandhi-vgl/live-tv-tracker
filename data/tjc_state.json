@@ -185151,21 +185151,26 @@
       "sku": "8163418",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "04:55:29",
+      "date": "2026-09-01",
+      "time": "03:52:21",
       "preExisting": true,
       "missedAt": 1787025329120,
       "missedDelay": null,
-      "lastUpdated": 1787025329120,
+      "lastUpdated": 1788231141474,
       "missedPrice": 34.99,
       "missedImg": true,
-      "title": "Genuine Leather Structured Top Handle Handbag with Gold Clasp & Shoulder Strap - Brown",
-      "auctionCode": "0019826417",
+      "title": "Crossbody Bag (Size - One Size)",
+      "auctionCode": "0019852139",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size",
       "productUrlChecked": 1787025343793,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788231141474,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8163419": {
       "sku": "8163419",
@@ -279567,8 +279572,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788231040438,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294220,11 +294225,22 @@
         "followingSku": "4472108",
         "followingTitle": "First Time Ever- Multi  Lab Grown Diamond SI Boat Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct",
         "followingAuctionCode": "0019852849"
+      },
+      {
+        "start": 1788231040438,
+        "end": 1788231141474,
+        "durationMin": 1.7,
+        "precedingSku": "4472108",
+        "precedingTitle": "First Time Ever- Multi  Lab Grown Diamond SI Boat Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct",
+        "precedingAuctionCode": "0019852849",
+        "followingSku": "8163418",
+        "followingTitle": "Crossbody Bag (Size - One Size)",
+        "followingAuctionCode": "0019852139"
       }
     ],
-    "lastOnAirSku": "4472108",
-    "lastOnAirTitle": "First Time Ever- Multi  Lab Grown Diamond SI Boat Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct",
-    "lastOnAirAuctionCode": "0019852849",
+    "lastOnAirSku": "8163418",
+    "lastOnAirTitle": "Crossbody Bag (Size - One Size)",
+    "lastOnAirAuctionCode": "0019852139",
     "precedingSku": "4472108",
     "precedingTitle": "First Time Ever- Multi  Lab Grown Diamond SI Boat Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct",
     "precedingAuctionCode": "0019852849"
