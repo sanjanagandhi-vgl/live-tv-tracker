@@ -281425,11 +281425,29 @@
       "productUrl": null,
       "lastUpdated": 1788287729362,
       "source": "gha"
+    },
+    "8594290": {
+      "sku": "8594290",
+      "firstAir": 1788288040062,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788288040062,
+      "title": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019853935",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "19:40:40",
+      "productUrl": null,
+      "lastUpdated": 1788288040062,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788287783742,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -296796,11 +296814,22 @@
         "followingSku": "8644034",
         "followingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
         "followingAuctionCode": "0019851101"
+      },
+      {
+        "start": 1788287783742,
+        "end": 1788288040062,
+        "durationMin": 4.3,
+        "precedingSku": "8644034",
+        "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
+        "precedingAuctionCode": "0019851101",
+        "followingSku": "8594290",
+        "followingTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
+        "followingAuctionCode": "0019853935"
       }
     ],
-    "lastOnAirSku": "8644034",
-    "lastOnAirTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
-    "lastOnAirAuctionCode": "0019851101",
+    "lastOnAirSku": "8594290",
+    "lastOnAirTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
+    "lastOnAirAuctionCode": "0019853935",
     "precedingSku": "8644034",
     "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
     "precedingAuctionCode": "0019851101"
