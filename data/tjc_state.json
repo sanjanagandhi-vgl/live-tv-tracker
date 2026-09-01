@@ -19710,21 +19710,22 @@
       "firstAir": 1785185307897,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785185668639,
+      "lastAir": 1788236138881,
       "title": "Vegas Finds-9K Yellow Gold Heart Earring with Push Back",
-      "pdpPrice": 69.99,
-      "auctionCode": "0019797055",
-      "buy": false,
-      "login": true,
-      "img": false,
-      "date": "2026-07-27",
-      "time": "21:54:28",
-      "lastUpdated": 1785185732276,
+      "pdpPrice": "49.99",
+      "auctionCode": "0019852484",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "05:15:38",
+      "lastUpdated": 1788236138881,
       "source": "gha",
       "missedAt": 1785185732276,
       "missedDelay": 1,
       "missedPrice": 69.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8613746": {
       "sku": "8613746",
@@ -279926,8 +279927,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788236062052,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294645,11 +294646,22 @@
         "followingSku": "7141000",
         "followingTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
         "followingAuctionCode": "0019852486"
+      },
+      {
+        "start": 1788236062052,
+        "end": 1788236138881,
+        "durationMin": 1.3,
+        "precedingSku": "7141000",
+        "precedingTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
+        "precedingAuctionCode": "0019852486",
+        "followingSku": "8572398",
+        "followingTitle": "Vegas Finds-9K Yellow Gold Heart Earring with Push Back",
+        "followingAuctionCode": "0019852484"
       }
     ],
-    "lastOnAirSku": "7141000",
-    "lastOnAirTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
-    "lastOnAirAuctionCode": "0019852486",
+    "lastOnAirSku": "8572398",
+    "lastOnAirTitle": "Vegas Finds-9K Yellow Gold Heart Earring with Push Back",
+    "lastOnAirAuctionCode": "0019852484",
     "precedingSku": "7141000",
     "precedingTitle": "Magnetic Lock Clasp in 9K Yellow Gold",
     "precedingAuctionCode": "0019852486"
