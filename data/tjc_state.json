@@ -75445,17 +75445,17 @@
       "firstAir": 1785917542997,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786027350427,
-      "title": "QED London Oversized Lightweight Pocket Shirt (Size M, 12-14) - Stone",
-      "pdpPrice": "14.99",
-      "auctionCode": "0019809624",
+      "lastAir": 1788278186295,
+      "title": "QED London Oversized Lightweight Pocket Shirt (Size S, 8-10) - Stone",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019852807",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-06",
-      "time": "15:42:30",
+      "date": "2026-09-01",
+      "time": "16:56:26",
       "productUrl": "/products/qed-london-oversized-lightweight-pocket-shirt-size-l-16-18-light-khaki-8673193",
-      "lastUpdated": 1786027350427,
+      "lastUpdated": 1788278186295,
       "source": "gha",
       "missedAt": 1785918206008,
       "missedDelay": 10,
@@ -281161,8 +281161,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788278129235,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -296419,11 +296419,22 @@
         "followingSku": "8584241",
         "followingTitle": "La Marey Soft Ribbed Sleeveless Top (Size XL, 20-22) - Lavender",
         "followingAuctionCode": "0019852623"
+      },
+      {
+        "start": 1788278129235,
+        "end": 1788278186295,
+        "durationMin": 1.0,
+        "precedingSku": "8584241",
+        "precedingTitle": "La Marey Soft Ribbed Sleeveless Top (Size XL, 20-22) - Lavender",
+        "precedingAuctionCode": "0019852623",
+        "followingSku": "8673371",
+        "followingTitle": "QED London Oversized Lightweight Pocket Shirt (Size S, 8-10) - Stone",
+        "followingAuctionCode": "0019852807"
       }
     ],
-    "lastOnAirSku": "8584241",
-    "lastOnAirTitle": "La Marey Soft Ribbed Sleeveless Top (Size XL, 20-22) - Lavender",
-    "lastOnAirAuctionCode": "0019852623",
+    "lastOnAirSku": "8673371",
+    "lastOnAirTitle": "QED London Oversized Lightweight Pocket Shirt (Size S, 8-10) - Stone",
+    "lastOnAirAuctionCode": "0019852807",
     "precedingSku": "8584241",
     "precedingTitle": "La Marey Soft Ribbed Sleeveless Top (Size XL, 20-22) - Lavender",
     "precedingAuctionCode": "0019852623"
