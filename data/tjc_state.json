@@ -279314,11 +279314,29 @@
       "productUrl": null,
       "lastUpdated": 1788228262419,
       "source": "gha"
+    },
+    "8413819": {
+      "sku": "8413819",
+      "firstAir": 1788228514252,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788228514252,
+      "title": "Designer Inspired Genuine Leather Heart Detail Mini Wallet - Brown",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019852165",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "03:08:34",
+      "productUrl": null,
+      "lastUpdated": 1788228514252,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788228441444,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293882,11 +293900,22 @@
         "followingSku": "8556783",
         "followingTitle": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
         "followingAuctionCode": "0019852320"
+      },
+      {
+        "start": 1788228441444,
+        "end": 1788228514252,
+        "durationMin": 1.2,
+        "precedingSku": "8448129",
+        "precedingTitle": "Genuine Leather Crossbody Bag - Red",
+        "precedingAuctionCode": "0019852186",
+        "followingSku": "8413819",
+        "followingTitle": "Designer Inspired Genuine Leather Heart Detail Mini Wallet - Brown",
+        "followingAuctionCode": "0019852165"
       }
     ],
-    "lastOnAirSku": "8448129",
-    "lastOnAirTitle": "Genuine Leather Crossbody Bag - Red",
-    "lastOnAirAuctionCode": "0019852186",
+    "lastOnAirSku": "8413819",
+    "lastOnAirTitle": "Designer Inspired Genuine Leather Heart Detail Mini Wallet - Brown",
+    "lastOnAirAuctionCode": "0019852165",
     "precedingSku": "8448129",
     "precedingTitle": "Genuine Leather Crossbody Bag - Red",
     "precedingAuctionCode": "0019852186"
