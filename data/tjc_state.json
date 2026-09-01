@@ -281182,11 +281182,29 @@
       "productUrlChecked": 1788276750703,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8566040": {
+      "sku": "8566040",
+      "firstAir": 1788278783433,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788278783433,
+      "title": "QED London Tye Dye Wide Leg Jumpsuit (One Size) - Navy & White",
+      "pdpPrice": "34.99",
+      "auctionCode": "0019852621",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "17:06:23",
+      "productUrl": null,
+      "lastUpdated": 1788278783433,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788278731139,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -296465,11 +296483,22 @@
         "followingSku": "8617544",
         "followingTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
         "followingAuctionCode": "0019852818"
+      },
+      {
+        "start": 1788278731139,
+        "end": 1788278783433,
+        "durationMin": 0.9,
+        "precedingSku": "8617544",
+        "precedingTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
+        "precedingAuctionCode": "0019852818",
+        "followingSku": "8566040",
+        "followingTitle": "QED London Tye Dye Wide Leg Jumpsuit (One Size) - Navy & White",
+        "followingAuctionCode": "0019852621"
       }
     ],
-    "lastOnAirSku": "8617544",
-    "lastOnAirTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
-    "lastOnAirAuctionCode": "0019852818",
+    "lastOnAirSku": "8566040",
+    "lastOnAirTitle": "QED London Tye Dye Wide Leg Jumpsuit (One Size) - Navy & White",
+    "lastOnAirAuctionCode": "0019852621",
     "precedingSku": "8617544",
     "precedingTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
     "precedingAuctionCode": "0019852818"
