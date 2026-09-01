@@ -11825,21 +11825,22 @@
       "firstAir": 1785026301242,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785124158234,
-      "title": "Closeout Deal - Rhodium Overlay Sterling Silver Rolo Chain (Size - 30) with Lobster Clasp",
-      "pdpPrice": 14.99,
-      "auctionCode": "0019797228",
-      "buy": false,
+      "lastAir": 1788233001082,
+      "title": "Italian Made -  Rhodium Overlay Sterling Silver Rolo Chain (Size - 18) with Lobster Clasp",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019852459",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "04:49:18",
-      "lastUpdated": 1785124158234,
+      "date": "2026-09-01",
+      "time": "04:23:21",
+      "lastUpdated": 1788233001082,
       "source": "gha",
       "missedAt": 1785026554200,
       "missedDelay": 1,
       "missedPrice": 19.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8503697": {
       "sku": "8503697",
@@ -279579,8 +279580,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788232942595,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294254,11 +294255,22 @@
         "followingSku": "8704977",
         "followingTitle": "9K Yellow Gold AAA Natural Turkizite Royal Asscher Cut Solitaire Ring 3.00 Ct.",
         "followingAuctionCode": "0019852934"
+      },
+      {
+        "start": 1788232942595,
+        "end": 1788233001082,
+        "durationMin": 1.0,
+        "precedingSku": "8704977",
+        "precedingTitle": "9K Yellow Gold AAA Natural Turkizite Royal Asscher Cut Solitaire Ring 3.00 Ct.",
+        "precedingAuctionCode": "0019852934",
+        "followingSku": "8553689",
+        "followingTitle": "Italian Made -  Rhodium Overlay Sterling Silver Rolo Chain (Size - 18) with Lobster Clasp",
+        "followingAuctionCode": "0019852459"
       }
     ],
-    "lastOnAirSku": "8704977",
-    "lastOnAirTitle": "9K Yellow Gold AAA Natural Turkizite Royal Asscher Cut Solitaire Ring 3.00 Ct.",
-    "lastOnAirAuctionCode": "0019852934",
+    "lastOnAirSku": "8553689",
+    "lastOnAirTitle": "Italian Made -  Rhodium Overlay Sterling Silver Rolo Chain (Size - 18) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019852459",
     "precedingSku": "8704977",
     "precedingTitle": "9K Yellow Gold AAA Natural Turkizite Royal Asscher Cut Solitaire Ring 3.00 Ct.",
     "precedingAuctionCode": "0019852934"
