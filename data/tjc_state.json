@@ -263819,17 +263819,17 @@
       "firstAir": 1787999542903,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788000198203,
+      "lastAir": 1788253582036,
       "title": "Arabian Oud Home Fragrance Collection - 300ML",
-      "pdpPrice": 4.99,
-      "auctionCode": "0019849018",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019852338",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-29",
-      "time": "11:43:18",
+      "date": "2026-09-01",
+      "time": "10:06:22",
       "productUrl": "/products/arabian-oud-home-fragrance-collection-300ml?variant=53107314426122",
-      "lastUpdated": 1788000745505,
+      "lastUpdated": 1788253582036,
       "source": "gha",
       "productUrlChecked": 1788000200580,
       "productUrlStatus": 200,
@@ -280318,8 +280318,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788253528683,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295224,11 +295224,22 @@
         "followingSku": "8661700",
         "followingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
         "followingAuctionCode": "0019853040"
+      },
+      {
+        "start": 1788253528683,
+        "end": 1788253582036,
+        "durationMin": 0.9,
+        "precedingSku": "8661700",
+        "precedingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
+        "precedingAuctionCode": "0019853040",
+        "followingSku": "8228256",
+        "followingTitle": "Arabian Oud Home Fragrance Collection - 300ML",
+        "followingAuctionCode": "0019852338"
       }
     ],
-    "lastOnAirSku": "8661700",
-    "lastOnAirTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
-    "lastOnAirAuctionCode": "0019853040",
+    "lastOnAirSku": "8228256",
+    "lastOnAirTitle": "Arabian Oud Home Fragrance Collection - 300ML",
+    "lastOnAirAuctionCode": "0019852338",
     "precedingSku": "8661700",
     "precedingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
     "precedingAuctionCode": "0019853040"
