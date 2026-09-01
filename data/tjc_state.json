@@ -282558,9 +282558,16 @@
       "img": true,
       "date": "2026-09-01",
       "time": "23:48:25",
-      "productUrl": null,
-      "lastUpdated": 1788302905308,
-      "source": "gha"
+      "productUrl": "/products/djoy-peridot-citrine-dangling-earring-with-push-post-in-yellow-gold-plated-sterling-silver-2-00-ct-8707406",
+      "lastUpdated": 1788303439180,
+      "source": "gha",
+      "missedAt": 1788303439180,
+      "missedDelay": 9,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1788303442367,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4509309": {
       "sku": "4509309",
@@ -282582,8 +282589,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788303439180,
     "gaps": [
       {
         "start": 1785823527869,
@@ -298098,8 +298105,8 @@
     "lastOnAirSku": "4514641",
     "lastOnAirTitle": "Luxuriant - Natural Hebei Peridot & Lab Grown Diamond (SI-G-H) Floral Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20) 2.30 Ct.",
     "lastOnAirAuctionCode": "0019853788",
-    "precedingSku": "4510660",
-    "precedingTitle": "Luxuriant - Natural Hebei Peridot & Lab Grown Diamond (SI-G-H) Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.37 Ct.",
-    "precedingAuctionCode": "0019853701"
+    "precedingSku": "4514641",
+    "precedingTitle": "Luxuriant - Natural Hebei Peridot & Lab Grown Diamond (SI-G-H) Floral Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20) 2.30 Ct.",
+    "precedingAuctionCode": "0019853788"
   }
 }
