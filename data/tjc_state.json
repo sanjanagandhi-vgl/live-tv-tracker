@@ -279416,9 +279416,16 @@
       "img": true,
       "date": "2026-09-01",
       "time": "03:26:22",
-      "productUrl": null,
-      "lastUpdated": 1788229582839,
-      "source": "gha"
+      "productUrl": "/products/leather-patterned-tote-bag-2658376921",
+      "lastUpdated": 1788230131057,
+      "source": "gha",
+      "missedAt": 1788230131057,
+      "missedDelay": 9,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1788230135357,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8037370": {
       "sku": "8037370",
@@ -279479,11 +279486,71 @@
       "productUrlChecked": 1788229856045,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8376921": {
+      "sku": "8376921",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-01",
+      "time": "03:35:31",
+      "preExisting": true,
+      "missedAt": 1788230131057,
+      "missedDelay": null,
+      "lastUpdated": 1788230131057,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "title": "Designer Inspired-Premium 100% Genuine Leather Oblong Bag - Black",
+      "auctionCode": "0019852159",
+      "source": "gha",
+      "productUrl": "/products/leather-patterned-tote-bag-2658376921",
+      "productUrlChecked": 1788230136395,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8376924": {
+      "sku": "8376924",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-01",
+      "time": "03:35:31",
+      "preExisting": true,
+      "missedAt": 1788230131057,
+      "missedDelay": null,
+      "lastUpdated": 1788230131057,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "title": "Designer Inspired-Premium 100% Genuine Leather Oblong Bag - Beige",
+      "auctionCode": "0019852160",
+      "source": "gha",
+      "productUrl": "/products/leather-patterned-tote-bag-2658376921",
+      "productUrlChecked": 1788230136567,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8376923": {
+      "sku": "8376923",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-01",
+      "time": "03:35:31",
+      "preExisting": true,
+      "missedAt": 1788230131057,
+      "missedDelay": null,
+      "lastUpdated": 1788230131057,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "title": "Designer Inspired-Premium 100% Genuine Leather Oblong Bag - Tan",
+      "auctionCode": "0019852161",
+      "source": "gha",
+      "productUrl": "/products/leather-patterned-tote-bag-2658376921",
+      "productUrlChecked": 1788230136751,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788230131057,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294107,8 +294174,8 @@
     "lastOnAirSku": "8658012",
     "lastOnAirTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Multi",
     "lastOnAirAuctionCode": "0019852324",
-    "precedingSku": "8376922",
-    "precedingTitle": "Designer Inspired-Premium 100% Genuine Leather Oblong Bag - Beige",
-    "precedingAuctionCode": "0019852158"
+    "precedingSku": "8658012",
+    "precedingTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Multi",
+    "precedingAuctionCode": "0019852324"
   }
 }
