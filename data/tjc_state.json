@@ -280640,11 +280640,29 @@
       "productUrlChecked": 1788272362581,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8309396": {
+      "sku": "8309396",
+      "firstAir": 1788272840466,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788272840466,
+      "title": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Black",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019852681",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "15:27:20",
+      "productUrl": null,
+      "lastUpdated": 1788272840466,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788272788233,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295813,11 +295831,22 @@
         "followingSku": "8755318",
         "followingTitle": "Womens FLR1 Jelly Thong T-Strap Slingback Sandals (Size 8) - Beige",
         "followingAuctionCode": "0019852669"
+      },
+      {
+        "start": 1788272788233,
+        "end": 1788272840466,
+        "durationMin": 0.9,
+        "precedingSku": "8755318",
+        "precedingTitle": "Womens FLR1 Jelly Thong T-Strap Slingback Sandals (Size 8) - Beige",
+        "precedingAuctionCode": "0019852669",
+        "followingSku": "8309396",
+        "followingTitle": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Black",
+        "followingAuctionCode": "0019852681"
       }
     ],
-    "lastOnAirSku": "8755318",
-    "lastOnAirTitle": "Womens FLR1 Jelly Thong T-Strap Slingback Sandals (Size 8) - Beige",
-    "lastOnAirAuctionCode": "0019852669",
+    "lastOnAirSku": "8309396",
+    "lastOnAirTitle": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Black",
+    "lastOnAirAuctionCode": "0019852681",
     "precedingSku": "8755318",
     "precedingTitle": "Womens FLR1 Jelly Thong T-Strap Slingback Sandals (Size 8) - Beige",
     "precedingAuctionCode": "0019852669"
