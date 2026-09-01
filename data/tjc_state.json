@@ -22726,19 +22726,19 @@
       "sku": "8572379",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "11:39:18",
+      "date": "2026-09-01",
+      "time": "05:19:20",
       "preExisting": true,
       "missedAt": 1785371128635,
       "missedDelay": null,
-      "lastUpdated": 1788172758931,
+      "lastUpdated": 1788236360563,
       "missedPrice": 69.99,
       "missedImg": true,
       "title": "Designer Inspired - 9K Yellow Gold Heart Pendant",
-      "auctionCode": "0019850830",
+      "auctionCode": "0019852485",
       "source": "gha",
-      "lastAir": 1788172758931,
-      "pdpPrice": 49.99,
+      "lastAir": 1788236360563,
+      "pdpPrice": "149.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -280014,8 +280014,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788236305028,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294744,11 +294744,22 @@
         "followingSku": "8572398",
         "followingTitle": "Vegas Finds-9K Yellow Gold Heart Earring with Push Back",
         "followingAuctionCode": "0019852484"
+      },
+      {
+        "start": 1788236305028,
+        "end": 1788236360563,
+        "durationMin": 0.9,
+        "precedingSku": "8572398",
+        "precedingTitle": "Vegas Finds-9K Yellow Gold Heart Earring with Push Back",
+        "precedingAuctionCode": "0019852484",
+        "followingSku": "8572379",
+        "followingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
+        "followingAuctionCode": "0019852485"
       }
     ],
-    "lastOnAirSku": "8572398",
-    "lastOnAirTitle": "Vegas Finds-9K Yellow Gold Heart Earring with Push Back",
-    "lastOnAirAuctionCode": "0019852484",
+    "lastOnAirSku": "8572379",
+    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
+    "lastOnAirAuctionCode": "0019852485",
     "precedingSku": "8572398",
     "precedingTitle": "Vegas Finds-9K Yellow Gold Heart Earring with Push Back",
     "precedingAuctionCode": "0019852484"
