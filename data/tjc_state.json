@@ -21340,18 +21340,18 @@
       "sku": "8506032",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-08",
-      "time": "06:17:20",
+      "date": "2026-09-01",
+      "time": "02:12:23",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1786166240475,
+      "lastUpdated": 1788225143545,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
-      "auctionCode": "0019810923",
+      "auctionCode": "0019852059",
       "source": "gha",
-      "lastAir": 1786166240475,
+      "lastAir": 1788225143545,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
@@ -279271,8 +279271,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788225079542,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293781,11 +293781,22 @@
         "followingSku": "8636914",
         "followingTitle": "BODUM PRESSO Storage Jar - Clear",
         "followingAuctionCode": "0019852042"
+      },
+      {
+        "start": 1788225079542,
+        "end": 1788225143545,
+        "durationMin": 1.1,
+        "precedingSku": "8642854",
+        "precedingTitle": "Digital Display Handheld Fan - White",
+        "precedingAuctionCode": "0019852043",
+        "followingSku": "8506032",
+        "followingTitle": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
+        "followingAuctionCode": "0019852059"
       }
     ],
-    "lastOnAirSku": "8642854",
-    "lastOnAirTitle": "Digital Display Handheld Fan - White",
-    "lastOnAirAuctionCode": "0019852043",
+    "lastOnAirSku": "8506032",
+    "lastOnAirTitle": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
+    "lastOnAirAuctionCode": "0019852059",
     "precedingSku": "8642854",
     "precedingTitle": "Digital Display Handheld Fan - White",
     "precedingAuctionCode": "0019852043"
