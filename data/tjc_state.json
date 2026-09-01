@@ -57985,17 +57985,17 @@
       "firstAir": 1785693036532,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787489357189,
+      "lastAir": 1788254663735,
       "title": "12-Piece Pink Magic Sponge Eraser Set - High-Density 30D Cleaning Pads for Kitchen, Bathroom & Walls (10x6x2cm) - Pink",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019835545",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019852359",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-23",
-      "time": "13:49:17",
+      "date": "2026-09-01",
+      "time": "10:24:23",
       "productUrl": "/products/12-piece-pink-magic-sponge-eraser-set-high-density-30d-cleaning-pads-for-kitchen-bathroom-walls-10x6x2cm-pink-8519532",
-      "lastUpdated": 1787489357189,
+      "lastUpdated": 1788254663735,
       "source": "gha",
       "missedAt": 1785693933421,
       "missedDelay": 9,
@@ -280343,8 +280343,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788254600643,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295282,11 +295282,22 @@
         "followingSku": "8567115",
         "followingTitle": "Pack of 2 Tile Grout Restorer - White",
         "followingAuctionCode": "0019852306"
+      },
+      {
+        "start": 1788254600643,
+        "end": 1788254663735,
+        "durationMin": 1.1,
+        "precedingSku": "8567115",
+        "precedingTitle": "Pack of 2 Tile Grout Restorer - White",
+        "precedingAuctionCode": "0019852306",
+        "followingSku": "8519532",
+        "followingTitle": "12-Piece Pink Magic Sponge Eraser Set - High-Density 30D Cleaning Pads for Kitchen, Bathroom & Walls (10x6x2cm) - Pink",
+        "followingAuctionCode": "0019852359"
       }
     ],
-    "lastOnAirSku": "8567115",
-    "lastOnAirTitle": "Pack of 2 Tile Grout Restorer - White",
-    "lastOnAirAuctionCode": "0019852306",
+    "lastOnAirSku": "8519532",
+    "lastOnAirTitle": "12-Piece Pink Magic Sponge Eraser Set - High-Density 30D Cleaning Pads for Kitchen, Bathroom & Walls (10x6x2cm) - Pink",
+    "lastOnAirAuctionCode": "0019852359",
     "precedingSku": "8567115",
     "precedingTitle": "Pack of 2 Tile Grout Restorer - White",
     "precedingAuctionCode": "0019852306"
