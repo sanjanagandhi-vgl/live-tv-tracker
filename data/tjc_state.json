@@ -280283,11 +280283,29 @@
       "productUrl": null,
       "lastUpdated": 1788251359031,
       "source": "gha"
+    },
+    "8416537": {
+      "sku": "8416537",
+      "firstAir": 1788251602924,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788251602924,
+      "title": "Bitvae Toothbrush Cleaner with UV-C Cleaning, Air Drying, LED Smart Screen & 30-Day Battery Life",
+      "pdpPrice": "349.99",
+      "auctionCode": "0019852457",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "09:33:22",
+      "productUrl": null,
+      "lastUpdated": 1788251602924,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788251454283,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295170,11 +295188,22 @@
         "followingSku": "8557841",
         "followingTitle": "DEAL OF THE DAY- New 2-in-1 Sonic Electric Toothbrush with Water Flosser (IPX7 Waterproof, 42000-47000 Strokes-Min)",
         "followingAuctionCode": "0019852382"
+      },
+      {
+        "start": 1788251454283,
+        "end": 1788251602924,
+        "durationMin": 2.5,
+        "precedingSku": "8557841",
+        "precedingTitle": "DEAL OF THE DAY- New 2-in-1 Sonic Electric Toothbrush with Water Flosser (IPX7 Waterproof, 42000-47000 Strokes-Min)",
+        "precedingAuctionCode": "0019852382",
+        "followingSku": "8416537",
+        "followingTitle": "Bitvae Toothbrush Cleaner with UV-C Cleaning, Air Drying, LED Smart Screen & 30-Day Battery Life",
+        "followingAuctionCode": "0019852457"
       }
     ],
-    "lastOnAirSku": "8557841",
-    "lastOnAirTitle": "DEAL OF THE DAY- New 2-in-1 Sonic Electric Toothbrush with Water Flosser (IPX7 Waterproof, 42000-47000 Strokes-Min)",
-    "lastOnAirAuctionCode": "0019852382",
+    "lastOnAirSku": "8416537",
+    "lastOnAirTitle": "Bitvae Toothbrush Cleaner with UV-C Cleaning, Air Drying, LED Smart Screen & 30-Day Battery Life",
+    "lastOnAirAuctionCode": "0019852457",
     "precedingSku": "8557841",
     "precedingTitle": "DEAL OF THE DAY- New 2-in-1 Sonic Electric Toothbrush with Water Flosser (IPX7 Waterproof, 42000-47000 Strokes-Min)",
     "precedingAuctionCode": "0019852382"
