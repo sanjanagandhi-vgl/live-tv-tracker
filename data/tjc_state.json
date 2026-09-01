@@ -14046,21 +14046,22 @@
       "firstAir": 1785060990072,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785064036998,
+      "lastAir": 1788225559992,
       "title": "Shadazzle Multi-Purpose Cleaner & Polish - Lavender",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019794707",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "9.99",
+      "auctionCode": "0019852058",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "12:07:16",
-      "lastUpdated": 1785064099915,
+      "date": "2026-09-01",
+      "time": "02:19:19",
+      "lastUpdated": 1788225559992,
       "source": "gha",
       "missedAt": 1785064099915,
       "missedDelay": 1,
       "missedPrice": 9.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8363438": {
       "sku": "8363438",
@@ -279265,9 +279266,16 @@
       "img": true,
       "date": "2026-09-01",
       "time": "02:10:46",
-      "productUrl": null,
-      "lastUpdated": 1788225046144,
-      "source": "gha"
+      "productUrl": "/products/tjc-special-fan-6048642853",
+      "lastUpdated": 1788225559992,
+      "source": "gha",
+      "missedAt": 1788225559992,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1788225563939,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -293805,9 +293813,9 @@
         "followingAuctionCode": "0019852067"
       }
     ],
-    "lastOnAirSku": "7562934",
-    "lastOnAirTitle": "VALUE BUY - 24 Fuji Energy AA High Energy Alkaline Batteries (Use by October 2030)",
-    "lastOnAirAuctionCode": "0019852067",
+    "lastOnAirSku": "8688699",
+    "lastOnAirTitle": "Shadazzle Multi-Purpose Cleaner & Polish - Lavender",
+    "lastOnAirAuctionCode": "0019852058",
     "precedingSku": "8506032",
     "precedingTitle": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
     "precedingAuctionCode": "0019852059"
