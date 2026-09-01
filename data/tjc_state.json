@@ -180855,17 +180855,17 @@
       "firstAir": 1786983440638,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786983982251,
+      "lastAir": 1788239871825,
       "title": "Bodyography Foundation Primer - Neutral",
       "pdpPrice": "29.99",
-      "auctionCode": "0019826459",
+      "auctionCode": "0019852496",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "time": "17:26:22",
+      "date": "2026-09-01",
+      "time": "06:17:51",
       "productUrl": "/products/bodyography-foundation-primer-green-8671380",
-      "lastUpdated": 1786984584142,
+      "lastUpdated": 1788239871825,
       "source": "gha",
       "missedAt": 1786984584142,
       "missedDelay": 10,
@@ -280147,8 +280147,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788239730868,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294921,11 +294921,22 @@
         "followingSku": "8671408",
         "followingTitle": "Bodyography Skin Slip Full Coverage Concealer - L3 - Neutral Light-Meduim",
         "followingAuctionCode": "0019852464"
+      },
+      {
+        "start": 1788239730868,
+        "end": 1788239871825,
+        "durationMin": 2.3,
+        "precedingSku": "8671384",
+        "precedingTitle": "Bodyography Tinted Moisturiser - Light",
+        "precedingAuctionCode": "0019852469",
+        "followingSku": "8671380",
+        "followingTitle": "Bodyography Foundation Primer - Neutral",
+        "followingAuctionCode": "0019852496"
       }
     ],
-    "lastOnAirSku": "8671384",
-    "lastOnAirTitle": "Bodyography Tinted Moisturiser - Light",
-    "lastOnAirAuctionCode": "0019852469",
+    "lastOnAirSku": "8671380",
+    "lastOnAirTitle": "Bodyography Foundation Primer - Neutral",
+    "lastOnAirAuctionCode": "0019852496",
     "precedingSku": "8671384",
     "precedingTitle": "Bodyography Tinted Moisturiser - Light",
     "precedingAuctionCode": "0019852469"
