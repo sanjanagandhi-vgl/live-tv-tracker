@@ -280171,11 +280171,29 @@
       "productUrlChecked": 1788240025824,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8671438": {
+      "sku": "8671438",
+      "firstAir": 1788240163242,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788240163242,
+      "title": "Bodyograhy Bronzer & Highlighter Duo",
+      "pdpPrice": "359.99",
+      "auctionCode": "0019852465",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "06:22:43",
+      "productUrl": null,
+      "lastUpdated": 1788240163242,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788240010582,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294959,11 +294977,22 @@
         "followingSku": "8671380",
         "followingTitle": "Bodyography Foundation Primer - Neutral",
         "followingAuctionCode": "0019852496"
+      },
+      {
+        "start": 1788240010582,
+        "end": 1788240163242,
+        "durationMin": 2.5,
+        "precedingSku": "8671380",
+        "precedingTitle": "Bodyography Foundation Primer - Neutral",
+        "precedingAuctionCode": "0019852496",
+        "followingSku": "8671438",
+        "followingTitle": "Bodyograhy Bronzer & Highlighter Duo",
+        "followingAuctionCode": "0019852465"
       }
     ],
-    "lastOnAirSku": "8671380",
-    "lastOnAirTitle": "Bodyography Foundation Primer - Neutral",
-    "lastOnAirAuctionCode": "0019852496",
+    "lastOnAirSku": "8671438",
+    "lastOnAirTitle": "Bodyograhy Bronzer & Highlighter Duo",
+    "lastOnAirAuctionCode": "0019852465",
     "precedingSku": "8671380",
     "precedingTitle": "Bodyography Foundation Primer - Neutral",
     "precedingAuctionCode": "0019852496"
