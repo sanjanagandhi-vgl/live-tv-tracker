@@ -281407,11 +281407,29 @@
       "productUrlChecked": 1788285573743,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8644034": {
+      "sku": "8644034",
+      "firstAir": 1788286166625,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788286166625,
+      "title": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
+      "pdpPrice": "48.99",
+      "auctionCode": "0019851101",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "19:09:26",
+      "productUrl": null,
+      "lastUpdated": 1788286166625,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788285662495,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -296767,11 +296785,22 @@
         "followingSku": "8519573",
         "followingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
         "followingAuctionCode": "0019853923"
+      },
+      {
+        "start": 1788285662495,
+        "end": 1788286166625,
+        "durationMin": 8.4,
+        "precedingSku": "8519573",
+        "precedingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
+        "precedingAuctionCode": "0019853923",
+        "followingSku": "8644034",
+        "followingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
+        "followingAuctionCode": "0019851101"
       }
     ],
-    "lastOnAirSku": "8519573",
-    "lastOnAirTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
-    "lastOnAirAuctionCode": "0019853923",
+    "lastOnAirSku": "8644034",
+    "lastOnAirTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
+    "lastOnAirAuctionCode": "0019851101",
     "precedingSku": "8519573",
     "precedingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
     "precedingAuctionCode": "0019853923"
