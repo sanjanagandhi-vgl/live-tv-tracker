@@ -20744,19 +20744,19 @@
       "sku": "8706691",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "21:42:25",
+      "date": "2026-09-01",
+      "time": "05:41:21",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1788208945248,
+      "lastUpdated": 1788237681267,
       "missedPrice": 799.99,
       "missedImg": false,
       "title": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
-      "auctionCode": "0019851954",
+      "auctionCode": "0019852940",
       "source": "gha",
-      "lastAir": 1788208945248,
-      "pdpPrice": "599.99",
+      "lastAir": 1788237681267,
+      "pdpPrice": "799.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -280037,8 +280037,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788237561272,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294778,11 +294778,22 @@
         "followingSku": "8572379",
         "followingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
         "followingAuctionCode": "0019852485"
+      },
+      {
+        "start": 1788237561272,
+        "end": 1788237681267,
+        "durationMin": 2.0,
+        "precedingSku": "8321371",
+        "precedingTitle": "24K Yellow Gold Squirrel Collectible",
+        "precedingAuctionCode": "0019852426",
+        "followingSku": "8706691",
+        "followingTitle": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
+        "followingAuctionCode": "0019852940"
       }
     ],
-    "lastOnAirSku": "8321371",
-    "lastOnAirTitle": "24K Yellow Gold Squirrel Collectible",
-    "lastOnAirAuctionCode": "0019852426",
+    "lastOnAirSku": "8706691",
+    "lastOnAirTitle": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
+    "lastOnAirAuctionCode": "0019852940",
     "precedingSku": "8321371",
     "precedingTitle": "24K Yellow Gold Squirrel Collectible",
     "precedingAuctionCode": "0019852426"
