@@ -280480,11 +280480,29 @@
       "productUrlChecked": 1788264802585,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "221331381": {
+      "sku": "221331381",
+      "firstAir": 1788267199962,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788267199962,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019852175",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-01",
+      "time": "13:53:19",
+      "productUrl": null,
+      "lastUpdated": 1788267199962,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788267144639,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295565,11 +295583,22 @@
         "followingSku": "8611866",
         "followingTitle": "LIVMORE Rechargeable Cordless High Pressure Washer for Car & outdoor  (435 psi) - Black",
         "followingAuctionCode": "0019852170"
+      },
+      {
+        "start": 1788267144639,
+        "end": 1788267199962,
+        "durationMin": 0.9,
+        "precedingSku": "8611866",
+        "precedingTitle": "LIVMORE 6 in 1 Rechargeable Cordless Pressure Washer (435 psi)  For Car & Outdoor Use With 6000 mAh Battery (Approx 30mins Runtime) 5 Meter Water Pipe - Black",
+        "precedingAuctionCode": "0019852170",
+        "followingSku": "221331381",
+        "followingTitle": null,
+        "followingAuctionCode": "0019852175"
       }
     ],
-    "lastOnAirSku": "8611866",
-    "lastOnAirTitle": "LIVMORE 6 in 1 Rechargeable Cordless Pressure Washer (435 psi)  For Car & Outdoor Use With 6000 mAh Battery (Approx 30mins Runtime) 5 Meter Water Pipe - Black",
-    "lastOnAirAuctionCode": "0019852170",
+    "lastOnAirSku": "221331381",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019852175",
     "precedingSku": "8611866",
     "precedingTitle": "LIVMORE 6 in 1 Rechargeable Cordless Pressure Washer (435 psi)  For Car & Outdoor Use With 6000 mAh Battery (Approx 30mins Runtime) 5 Meter Water Pipe - Black",
     "precedingAuctionCode": "0019852170"
