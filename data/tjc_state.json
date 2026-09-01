@@ -182703,21 +182703,26 @@
       "sku": "8588611",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "22:26:22",
+      "date": "2026-09-01",
+      "time": "05:49:19",
       "preExisting": true,
       "missedAt": 1787001982760,
       "missedDelay": null,
-      "lastUpdated": 1787001982760,
+      "lastUpdated": 1788238159523,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "Luxuriant - AAA Gemfields Zambian Emerald & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.30 Ct.",
-      "auctionCode": "0019823723",
+      "auctionCode": "0019852711",
       "source": "gha",
       "productUrl": "/products/luxuriant-aaa-gemfields-zambian-emerald-lab-grown-diamond-si-g-h-halo-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-30-ct-m8588610",
       "productUrlChecked": 1787002000297,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788238159523,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8588612": {
       "sku": "8588612",
@@ -280124,8 +280129,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788238104330,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294876,11 +294881,22 @@
         "followingSku": "8706691",
         "followingTitle": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
         "followingAuctionCode": "0019852940"
+      },
+      {
+        "start": 1788238104330,
+        "end": 1788238159523,
+        "durationMin": 0.9,
+        "precedingSku": "8706691",
+        "precedingTitle": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
+        "precedingAuctionCode": "0019852940",
+        "followingSku": "8588611",
+        "followingTitle": "Luxuriant - AAA Gemfields Zambian Emerald & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.30 Ct.",
+        "followingAuctionCode": "0019852711"
       }
     ],
-    "lastOnAirSku": "8706691",
-    "lastOnAirTitle": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
-    "lastOnAirAuctionCode": "0019852940",
+    "lastOnAirSku": "8588611",
+    "lastOnAirTitle": "Luxuriant - AAA Gemfields Zambian Emerald & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.30 Ct.",
+    "lastOnAirAuctionCode": "0019852711",
     "precedingSku": "8706691",
     "precedingTitle": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
     "precedingAuctionCode": "0019852940"
