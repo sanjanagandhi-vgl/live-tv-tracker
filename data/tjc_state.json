@@ -211254,17 +211254,17 @@
       "firstAir": 1787342904588,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788242601536,
+      "lastAir": 1788269841667,
       "title": "Laurelle Avenge EDP & Body Wash - 100ml Each",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019852420",
+      "pdpPrice": "89.99",
+      "auctionCode": "0019853567",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-01",
-      "time": "07:03:21",
+      "time": "14:37:21",
       "productUrl": "/products/empire-edp-100ml-body-wash-100ml",
-      "lastUpdated": 1788242601536,
+      "lastUpdated": 1788269841667,
       "source": "gha",
       "missedAt": 1787344251588,
       "missedDelay": 10,
@@ -280577,8 +280577,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788269786636,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295692,11 +295692,22 @@
         "followingSku": "8724155",
         "followingTitle": "Lipsy London Original Eau De Toilette - 30ml",
         "followingAuctionCode": "0019852427"
+      },
+      {
+        "start": 1788269786636,
+        "end": 1788269841667,
+        "durationMin": 0.9,
+        "precedingSku": "8724155",
+        "precedingTitle": "Lipsy London Original Eau De Toilette - 30ml",
+        "precedingAuctionCode": "0019852427",
+        "followingSku": "7210981",
+        "followingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
+        "followingAuctionCode": "0019853567"
       }
     ],
-    "lastOnAirSku": "8724155",
-    "lastOnAirTitle": "Lipsy London Original Eau De Toilette - 30ml",
-    "lastOnAirAuctionCode": "0019852427",
+    "lastOnAirSku": "7210981",
+    "lastOnAirTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
+    "lastOnAirAuctionCode": "0019853567",
     "precedingSku": "8724155",
     "precedingTitle": "Lipsy London Original Eau De Toilette - 30ml",
     "precedingAuctionCode": "0019852427"
