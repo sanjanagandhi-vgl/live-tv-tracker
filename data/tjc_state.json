@@ -58009,23 +58009,23 @@
       "sku": "8666788",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-06",
-      "time": "14:33:20",
+      "date": "2026-09-01",
+      "time": "11:44:24",
       "preExisting": true,
       "missedAt": 1785693503671,
       "missedDelay": null,
-      "lastUpdated": 1786023200702,
+      "lastUpdated": 1788259464304,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
-      "auctionCode": "0019808761",
+      "auctionCode": "0019852311",
       "source": "gha",
       "productUrl": "/products/multipurpose-cleaning-caddy-storage-organizer-with-adjustable-strap-black-8666787",
       "productUrlChecked": 1785693511837,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1786023200702,
-      "pdpPrice": "9.99",
+      "lastAir": 1788259464304,
+      "pdpPrice": "29.99",
       "buy": true,
       "login": false,
       "img": true
@@ -280388,8 +280388,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788259398775,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295382,11 +295382,22 @@
         "followingSku": "8485410",
         "followingTitle": "LIVMORE 1640W Handheld Garment Steamer with 370ml Detachable Water Tank - Black",
         "followingAuctionCode": "0019852300"
+      },
+      {
+        "start": 1788259398775,
+        "end": 1788259464304,
+        "durationMin": 1.1,
+        "precedingSku": "8485410",
+        "precedingTitle": "LIVMORE 1640W Handheld Garment Steamer with 370ml Detachable Water Tank - Black",
+        "precedingAuctionCode": "0019852300",
+        "followingSku": "8666788",
+        "followingTitle": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
+        "followingAuctionCode": "0019852311"
       }
     ],
-    "lastOnAirSku": "8485410",
-    "lastOnAirTitle": "LIVMORE 1640W Handheld Garment Steamer with 370ml Detachable Water Tank - Black",
-    "lastOnAirAuctionCode": "0019852300",
+    "lastOnAirSku": "8666788",
+    "lastOnAirTitle": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
+    "lastOnAirAuctionCode": "0019852311",
     "precedingSku": "8485410",
     "precedingTitle": "LIVMORE 1640W Handheld Garment Steamer with 370ml Detachable Water Tank - Black",
     "precedingAuctionCode": "0019852300"
