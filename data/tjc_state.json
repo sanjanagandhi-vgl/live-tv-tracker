@@ -211219,17 +211219,17 @@
       "firstAir": 1787342904588,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787940145048,
+      "lastAir": 1788242185037,
       "title": "Laurelle Avenge EDP & Body Wash - 100ml Each",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019845697",
+      "pdpPrice": "89.99",
+      "auctionCode": "0019852420",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-28",
-      "time": "19:02:25",
+      "date": "2026-09-01",
+      "time": "06:56:25",
       "productUrl": "/products/empire-edp-100ml-body-wash-100ml",
-      "lastUpdated": 1787940145048,
+      "lastUpdated": 1788242185037,
       "source": "gha",
       "missedAt": 1787344251588,
       "missedDelay": 10,
@@ -280224,8 +280224,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788242129143,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295042,11 +295042,22 @@
         "followingSku": "3492618",
         "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
         "followingAuctionCode": "0019852428"
+      },
+      {
+        "start": 1788242129143,
+        "end": 1788242185037,
+        "durationMin": 0.9,
+        "precedingSku": "3492618",
+        "precedingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+        "precedingAuctionCode": "0019852428",
+        "followingSku": "7210981",
+        "followingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
+        "followingAuctionCode": "0019852420"
       }
     ],
-    "lastOnAirSku": "3492618",
-    "lastOnAirTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
-    "lastOnAirAuctionCode": "0019852428",
+    "lastOnAirSku": "7210981",
+    "lastOnAirTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
+    "lastOnAirAuctionCode": "0019852420",
     "precedingSku": "3492618",
     "precedingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
     "precedingAuctionCode": "0019852428"
