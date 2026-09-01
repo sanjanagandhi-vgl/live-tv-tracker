@@ -16323,16 +16323,16 @@
       "firstAir": 1785119513840,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787016797963,
+      "lastAir": 1788225382286,
       "title": "VALUE BUY - 24 Fuji Energy AA High Energy Alkaline Batteries (Use by October 2030)",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019826047",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019852067",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-18",
-      "time": "02:33:17",
-      "lastUpdated": 1787016797963,
+      "date": "2026-09-01",
+      "time": "02:16:22",
+      "lastUpdated": 1788225382286,
       "source": "gha",
       "missedAt": 1785119957193,
       "missedDelay": 3,
@@ -279271,8 +279271,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788225336767,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293792,11 +293792,22 @@
         "followingSku": "8506032",
         "followingTitle": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
         "followingAuctionCode": "0019852059"
+      },
+      {
+        "start": 1788225336767,
+        "end": 1788225382286,
+        "durationMin": 0.8,
+        "precedingSku": "8506032",
+        "precedingTitle": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
+        "precedingAuctionCode": "0019852059",
+        "followingSku": "7562934",
+        "followingTitle": "VALUE BUY - 24 Fuji Energy AA High Energy Alkaline Batteries (Use by October 2030)",
+        "followingAuctionCode": "0019852067"
       }
     ],
-    "lastOnAirSku": "8506032",
-    "lastOnAirTitle": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
-    "lastOnAirAuctionCode": "0019852059",
+    "lastOnAirSku": "7562934",
+    "lastOnAirTitle": "VALUE BUY - 24 Fuji Energy AA High Energy Alkaline Batteries (Use by October 2030)",
+    "lastOnAirAuctionCode": "0019852067",
     "precedingSku": "8506032",
     "precedingTitle": "Set of 4 Multi Purpose Bags Including 1 Cooler Bag",
     "precedingAuctionCode": "0019852059"
