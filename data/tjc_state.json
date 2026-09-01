@@ -5279,21 +5279,22 @@
       "firstAir": 1784900596713,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785149661748,
-      "title": "Sienna Embellished Low Wedge Bohemian Style T-strap Slingback Sandal (Size 3) - Nude",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019796581",
-      "buy": false,
+      "lastAir": 1788271880482,
+      "title": "Sienna Embellished Low Wedge Bohemian Style T-strap Slingback Sandal (Size 8) - Nude",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019852765",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "11:54:21",
-      "lastUpdated": 1785149661748,
+      "date": "2026-09-01",
+      "time": "15:11:20",
+      "lastUpdated": 1788271880482,
       "source": "gha",
       "missedAt": 1784901037552,
       "missedDelay": 2,
       "missedPrice": 19.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8670097": {
       "sku": "8670097",
@@ -280615,8 +280616,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788271839587,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295763,11 +295764,22 @@
         "followingSku": "8615746",
         "followingTitle": "Womens Genuine Leather Slouchy Hobo Convertible Shoulder & Crossbody Bag - Green",
         "followingAuctionCode": "0019852661"
+      },
+      {
+        "start": 1788271839587,
+        "end": 1788271880482,
+        "durationMin": 0.7,
+        "precedingSku": "8615746",
+        "precedingTitle": "Womens Genuine Leather Slouchy Hobo Convertible Shoulder & Crossbody Bag - RED",
+        "precedingAuctionCode": "0019852661",
+        "followingSku": "8670120",
+        "followingTitle": "Sienna Embellished Low Wedge Bohemian Style T-strap Slingback Sandal (Size 8) - Nude",
+        "followingAuctionCode": "0019852765"
       }
     ],
-    "lastOnAirSku": "8615746",
-    "lastOnAirTitle": "Womens Genuine Leather Slouchy Hobo Convertible Shoulder & Crossbody Bag - RED",
-    "lastOnAirAuctionCode": "0019852661",
+    "lastOnAirSku": "8670120",
+    "lastOnAirTitle": "Sienna Embellished Low Wedge Bohemian Style T-strap Slingback Sandal (Size 8) - Nude",
+    "lastOnAirAuctionCode": "0019852765",
     "precedingSku": "8615746",
     "precedingTitle": "Womens Genuine Leather Slouchy Hobo Convertible Shoulder & Crossbody Bag - RED",
     "precedingAuctionCode": "0019852661"
