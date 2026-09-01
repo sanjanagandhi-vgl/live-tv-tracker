@@ -177485,21 +177485,26 @@
       "sku": "8636432",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "07:59:19",
+      "date": "2026-09-01",
+      "time": "15:51:20",
       "preExisting": true,
       "missedAt": 1786949959254,
       "missedDelay": null,
-      "lastUpdated": 1786949959254,
+      "lastUpdated": 1788274280206,
       "missedPrice": 15.99,
       "missedImg": true,
-      "title": "La Marey Acrylic Patterned Cardigan (Size - One Size) - Red",
-      "auctionCode": "0019825944",
+      "title": "La Marey Womens Casual Batwing Sleeve Open Front Knit Cardigan (One Size, 8-18) - Chocolate",
+      "auctionCode": "0019853555",
       "source": "gha",
       "productUrl": "/products/la-marey-acrylic-patterned-cardigan-size-one-size-black-8636431",
       "productUrlChecked": 1786949962734,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788274280206,
+      "pdpPrice": "159.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8636479": {
       "sku": "8636479",
@@ -280736,8 +280741,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788274238341,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295917,11 +295922,22 @@
         "followingSku": "8309396",
         "followingTitle": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Black",
         "followingAuctionCode": "0019852681"
+      },
+      {
+        "start": 1788274238341,
+        "end": 1788274280206,
+        "durationMin": 0.7,
+        "precedingSku": "8589603",
+        "precedingTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
+        "precedingAuctionCode": "0019852549",
+        "followingSku": "8636432",
+        "followingTitle": "La Marey Womens Casual Batwing Sleeve Open Front Knit Cardigan (One Size, 8-18) - Chocolate",
+        "followingAuctionCode": "0019853555"
       }
     ],
-    "lastOnAirSku": "8589603",
-    "lastOnAirTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
-    "lastOnAirAuctionCode": "0019852549",
+    "lastOnAirSku": "8636432",
+    "lastOnAirTitle": "La Marey Womens Casual Batwing Sleeve Open Front Knit Cardigan (One Size, 8-18) - Chocolate",
+    "lastOnAirAuctionCode": "0019853555",
     "precedingSku": "8589603",
     "precedingTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
     "precedingAuctionCode": "0019852549"
