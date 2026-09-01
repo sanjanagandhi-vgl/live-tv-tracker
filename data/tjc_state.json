@@ -280774,11 +280774,29 @@
       "productUrlChecked": 1788273805239,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8547997": {
+      "sku": "8547997",
+      "firstAir": 1788275241353,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788275241353,
+      "title": "Pure And Natural Round Neck Batwing Jumper (One Size, 8-18) - Fuchsia",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019852576",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "16:07:21",
+      "productUrl": null,
+      "lastUpdated": 1788275241353,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788275063589,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295980,11 +295998,22 @@
         "followingSku": "8586624",
         "followingTitle": "La Marey Elasticated Waist Stretch Wide Leg Trousers (Size 20) - Chocolate",
         "followingAuctionCode": "0019852694"
+      },
+      {
+        "start": 1788275063589,
+        "end": 1788275241353,
+        "durationMin": 3.0,
+        "precedingSku": "8586624",
+        "precedingTitle": "La Marey Elasticated Waist Stretch Wide Leg Trousers (Size 20) - Chocolate",
+        "precedingAuctionCode": "0019852694",
+        "followingSku": "8547997",
+        "followingTitle": "Pure And Natural Round Neck Batwing Jumper (One Size, 8-18) - Fuchsia",
+        "followingAuctionCode": "0019852576"
       }
     ],
-    "lastOnAirSku": "8586624",
-    "lastOnAirTitle": "La Marey Elasticated Waist Stretch Wide Leg Trousers (Size 20) - Chocolate",
-    "lastOnAirAuctionCode": "0019852694",
+    "lastOnAirSku": "8547997",
+    "lastOnAirTitle": "Pure And Natural Round Neck Batwing Jumper (One Size, 8-18) - Fuchsia",
+    "lastOnAirAuctionCode": "0019852576",
     "precedingSku": "8586624",
     "precedingTitle": "La Marey Elasticated Waist Stretch Wide Leg Trousers (Size 20) - Chocolate",
     "precedingAuctionCode": "0019852694"
