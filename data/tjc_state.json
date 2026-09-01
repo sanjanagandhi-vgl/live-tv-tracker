@@ -280265,11 +280265,29 @@
       "productUrl": null,
       "lastUpdated": 1788249264429,
       "source": "gha"
+    },
+    "8557841": {
+      "sku": "8557841",
+      "firstAir": 1788250041339,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788250041339,
+      "title": "DEAL OF THE DAY- New 2-in-1 Sonic Electric Toothbrush with Water Flosser (IPX7 Waterproof, 42000-47000 Strokes-Min)",
+      "pdpPrice": "449.99",
+      "auctionCode": "0019852382",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "09:07:21",
+      "productUrl": null,
+      "lastUpdated": 1788250041339,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788249864092,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295141,11 +295159,22 @@
         "followingSku": "8538098",
         "followingTitle": "CBD Queen Rescue Balm 6% (3000mg) - 50ml",
         "followingAuctionCode": "0019852448"
+      },
+      {
+        "start": 1788249864092,
+        "end": 1788250041339,
+        "durationMin": 3.0,
+        "precedingSku": "8053094",
+        "precedingTitle": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus",
+        "precedingAuctionCode": "0019852453",
+        "followingSku": "8557841",
+        "followingTitle": "DEAL OF THE DAY- New 2-in-1 Sonic Electric Toothbrush with Water Flosser (IPX7 Waterproof, 42000-47000 Strokes-Min)",
+        "followingAuctionCode": "0019852382"
       }
     ],
-    "lastOnAirSku": "8053094",
-    "lastOnAirTitle": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus",
-    "lastOnAirAuctionCode": "0019852453",
+    "lastOnAirSku": "8557841",
+    "lastOnAirTitle": "DEAL OF THE DAY- New 2-in-1 Sonic Electric Toothbrush with Water Flosser (IPX7 Waterproof, 42000-47000 Strokes-Min)",
+    "lastOnAirAuctionCode": "0019852382",
     "precedingSku": "8053094",
     "precedingTitle": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus",
     "precedingAuctionCode": "0019852453"
