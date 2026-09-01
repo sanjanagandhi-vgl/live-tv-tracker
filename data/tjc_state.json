@@ -234372,21 +234372,26 @@
       "sku": "8658012",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-24",
-      "time": "20:01:04",
+      "date": "2026-09-01",
+      "time": "03:29:19",
       "preExisting": true,
       "missedAt": 1787598064125,
       "missedDelay": null,
-      "lastUpdated": 1787598064125,
+      "lastUpdated": 1788229759997,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Multi",
-      "auctionCode": "0019840479",
+      "auctionCode": "0019852324",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-light-khaki-8658010",
       "productUrlChecked": 1787598078461,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788229759997,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8658013": {
       "sku": "8658013",
@@ -279413,8 +279418,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788229641573,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294022,11 +294027,22 @@
         "followingSku": "8037361",
         "followingTitle": "Versatile Genuine Leather Shoulder Bag with Adjustable Strap - Beige",
         "followingAuctionCode": "0019852123"
+      },
+      {
+        "start": 1788229641573,
+        "end": 1788229759997,
+        "durationMin": 2.0,
+        "precedingSku": "8376922",
+        "precedingTitle": "Designer Inspired-Premium 100% Genuine Leather Oblong Bag - Beige",
+        "precedingAuctionCode": "0019852158",
+        "followingSku": "8658012",
+        "followingTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Multi",
+        "followingAuctionCode": "0019852324"
       }
     ],
-    "lastOnAirSku": "8376922",
-    "lastOnAirTitle": "Designer Inspired-Premium 100% Genuine Leather Oblong Bag - Beige",
-    "lastOnAirAuctionCode": "0019852158",
+    "lastOnAirSku": "8658012",
+    "lastOnAirTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Multi",
+    "lastOnAirAuctionCode": "0019852324",
     "precedingSku": "8376922",
     "precedingTitle": "Designer Inspired-Premium 100% Genuine Leather Oblong Bag - Beige",
     "precedingAuctionCode": "0019852158"
