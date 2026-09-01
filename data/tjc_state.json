@@ -280524,14 +280524,61 @@
       "img": true,
       "date": "2026-09-01",
       "time": "14:19:24",
-      "productUrl": null,
-      "lastUpdated": 1788268764288,
-      "source": "gha"
+      "productUrl": "/products/patterned-sunglass-brown-leopard-8556779",
+      "lastUpdated": 1788269362372,
+      "source": "gha",
+      "missedAt": 1788269362372,
+      "missedDelay": 10,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "productUrlChecked": 1788269366038,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8556780": {
+      "sku": "8556780",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-01",
+      "time": "14:29:22",
+      "preExisting": true,
+      "missedAt": 1788269362372,
+      "missedDelay": null,
+      "lastUpdated": 1788269362372,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Trendy Oversized Square UV400 Polarised Sunglasse - Black",
+      "auctionCode": "0019852772",
+      "source": "gha",
+      "productUrl": "/products/patterned-sunglass-brown-leopard-8556779",
+      "productUrlChecked": 1788269366786,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8556782": {
+      "sku": "8556782",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-01",
+      "time": "14:29:22",
+      "preExisting": true,
+      "missedAt": 1788269362372,
+      "missedDelay": null,
+      "lastUpdated": 1788269362372,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Trendy Oversized Square UV400 Polarised Sunglasse - Light Gold",
+      "auctionCode": "0019852773",
+      "source": "gha",
+      "productUrl": "/products/patterned-sunglass-brown-leopard-8556779",
+      "productUrlChecked": 1788269367722,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788269362372,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295639,8 +295686,8 @@
     "lastOnAirSku": "8560649",
     "lastOnAirTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
     "lastOnAirAuctionCode": "0019852755",
-    "precedingSku": "8216279",
-    "precedingTitle": "Technaxx Car Air Purifier for 12-24V Cigarette Lighter with 2x USB - Silver",
-    "precedingAuctionCode": "0019852187"
+    "precedingSku": "8560649",
+    "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
+    "precedingAuctionCode": "0019852755"
   }
 }
