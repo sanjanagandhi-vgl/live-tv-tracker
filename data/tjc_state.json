@@ -280509,11 +280509,29 @@
       "missedDelay": 9,
       "missedPrice": 4.98,
       "missedImg": false
+    },
+    "8556779": {
+      "sku": "8556779",
+      "firstAir": 1788268104024,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788268104024,
+      "title": "Trendy Oversized Square UV400 Polarised Sunglasse - Leopard Brown",
+      "pdpPrice": "89.99",
+      "auctionCode": "0019852771",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "14:08:24",
+      "productUrl": null,
+      "lastUpdated": 1788268104024,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788267865636,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295605,11 +295623,22 @@
         "followingSku": "221331381",
         "followingTitle": null,
         "followingAuctionCode": "0019852175"
+      },
+      {
+        "start": 1788267865636,
+        "end": 1788268104024,
+        "durationMin": 4.0,
+        "precedingSku": "8216279",
+        "precedingTitle": "Technaxx Car Air Purifier for 12-24V Cigarette Lighter with 2x USB - Silver",
+        "precedingAuctionCode": "0019852187",
+        "followingSku": "8556779",
+        "followingTitle": "Trendy Oversized Square UV400 Polarised Sunglasse - Leopard Brown",
+        "followingAuctionCode": "0019852771"
       }
     ],
-    "lastOnAirSku": "8216279",
-    "lastOnAirTitle": "Technaxx Car Air Purifier for 12-24V Cigarette Lighter with 2x USB - Silver",
-    "lastOnAirAuctionCode": "0019852187",
+    "lastOnAirSku": "8556779",
+    "lastOnAirTitle": "Trendy Oversized Square UV400 Polarised Sunglasse - Leopard Brown",
+    "lastOnAirAuctionCode": "0019852771",
     "precedingSku": "8216279",
     "precedingTitle": "Technaxx Car Air Purifier for 12-24V Cigarette Lighter with 2x USB - Silver",
     "precedingAuctionCode": "0019852187"
