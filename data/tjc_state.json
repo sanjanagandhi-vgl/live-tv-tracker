@@ -119631,23 +119631,23 @@
       "sku": "8547437",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-11",
-      "time": "06:13:19",
+      "date": "2026-09-01",
+      "time": "03:11:23",
       "preExisting": true,
       "missedAt": 1786319901221,
       "missedDelay": null,
-      "lastUpdated": 1786425199578,
+      "lastUpdated": 1788228683054,
       "missedPrice": 39.99,
       "missedImg": true,
-      "title": "ONE TIME CLOSE OUT DEAL - Ashwood Meath Leather Handbag with Adjustable Shoulder Strap - Yellow",
-      "auctionCode": "0019815264",
+      "title": "ONE TIME CLOSE OUT DEAL - Ashwood Meath Leather Handbag with Adjustable Shoulder Strap - Cognac Brown",
+      "auctionCode": "0019852188",
       "source": "gha",
       "productUrl": "/products/ashwood-leather-balmoral-handbag-1258547419",
       "productUrlChecked": 1786319913627,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1786425199578,
-      "pdpPrice": "29.99",
+      "lastAir": 1788228683054,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -279335,8 +279335,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788228643774,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293911,11 +293911,22 @@
         "followingSku": "8413819",
         "followingTitle": "Designer Inspired Genuine Leather Heart Detail Mini Wallet - Brown",
         "followingAuctionCode": "0019852165"
+      },
+      {
+        "start": 1788228643774,
+        "end": 1788228683054,
+        "durationMin": 0.7,
+        "precedingSku": "8413819",
+        "precedingTitle": "Designer Inspired Genuine Leather Heart Detail Mini Wallet - Brown",
+        "precedingAuctionCode": "0019852165",
+        "followingSku": "8547437",
+        "followingTitle": "ONE TIME CLOSE OUT DEAL - Ashwood Meath Leather Handbag with Adjustable Shoulder Strap - Cognac Brown",
+        "followingAuctionCode": "0019852188"
       }
     ],
-    "lastOnAirSku": "8413819",
-    "lastOnAirTitle": "Designer Inspired Genuine Leather Heart Detail Mini Wallet - Brown",
-    "lastOnAirAuctionCode": "0019852165",
+    "lastOnAirSku": "8547437",
+    "lastOnAirTitle": "ONE TIME CLOSE OUT DEAL - Ashwood Meath Leather Handbag with Adjustable Shoulder Strap - Cognac Brown",
+    "lastOnAirAuctionCode": "0019852188",
     "precedingSku": "8413819",
     "precedingTitle": "Designer Inspired Genuine Leather Heart Detail Mini Wallet - Brown",
     "precedingAuctionCode": "0019852165"
