@@ -280340,11 +280340,29 @@
       "productUrlChecked": 1788254441607,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8599417": {
+      "sku": "8599417",
+      "firstAir": 1788257068004,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788257068004,
+      "title": "Zyliss Zick-Zick Classic Food Chopper - Manual Handheld White Vegetable Slicer, Premium 1 Cup Capacity Stainless Steel Rotating Blade Onion Dicer with Lockable Handle",
+      "pdpPrice": "269.99",
+      "auctionCode": "0019852363",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "11:04:28",
+      "productUrl": null,
+      "lastUpdated": 1788257068004,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788257001417,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295315,11 +295333,22 @@
         "followingSku": "8519572",
         "followingTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
         "followingAuctionCode": "0019852336"
+      },
+      {
+        "start": 1788257001417,
+        "end": 1788257068004,
+        "durationMin": 1.1,
+        "precedingSku": "8519572",
+        "precedingTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
+        "precedingAuctionCode": "0019852336",
+        "followingSku": "8599417",
+        "followingTitle": "Zyliss Zick-Zick Classic Food Chopper - Manual Handheld White Vegetable Slicer, Premium 1 Cup Capacity Stainless Steel Rotating Blade Onion Dicer with Lockable Handle",
+        "followingAuctionCode": "0019852363"
       }
     ],
-    "lastOnAirSku": "8519572",
-    "lastOnAirTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
-    "lastOnAirAuctionCode": "0019852336",
+    "lastOnAirSku": "8599417",
+    "lastOnAirTitle": "Zyliss Zick-Zick Classic Food Chopper - Manual Handheld White Vegetable Slicer, Premium 1 Cup Capacity Stainless Steel Rotating Blade Onion Dicer with Lockable Handle",
+    "lastOnAirAuctionCode": "0019852363",
     "precedingSku": "8519572",
     "precedingTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
     "precedingAuctionCode": "0019852336"
