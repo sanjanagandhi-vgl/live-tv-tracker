@@ -280141,14 +280141,41 @@
       "img": true,
       "date": "2026-09-01",
       "time": "06:08:46",
-      "productUrl": null,
-      "lastUpdated": 1788239326218,
-      "source": "gha"
+      "productUrl": "/products/bodyography-skin-slip-full-coverage-concealer-l1-cool-light-8671408",
+      "lastUpdated": 1788240010582,
+      "source": "gha",
+      "missedAt": 1788240010582,
+      "missedDelay": 11,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1788240024866,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8671419": {
+      "sku": "8671419",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-01",
+      "time": "06:20:10",
+      "preExisting": true,
+      "missedAt": 1788240010582,
+      "missedDelay": null,
+      "lastUpdated": 1788240010582,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Bodyography Skin Slip Full Coverage Concealer - L3 - Neutral Light-Meduim",
+      "auctionCode": "0019852466",
+      "source": "gha",
+      "productUrl": "/products/bodyography-skin-slip-full-coverage-concealer-l1-cool-light-8671408",
+      "productUrlChecked": 1788240025824,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788240010582,
     "gaps": [
       {
         "start": 1785823527869,
@@ -294937,8 +294964,8 @@
     "lastOnAirSku": "8671380",
     "lastOnAirTitle": "Bodyography Foundation Primer - Neutral",
     "lastOnAirAuctionCode": "0019852496",
-    "precedingSku": "8671384",
-    "precedingTitle": "Bodyography Tinted Moisturiser - Light",
-    "precedingAuctionCode": "0019852469"
+    "precedingSku": "8671380",
+    "precedingTitle": "Bodyography Foundation Primer - Neutral",
+    "precedingAuctionCode": "0019852496"
   }
 }
