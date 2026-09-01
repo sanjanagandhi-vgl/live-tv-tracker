@@ -20338,18 +20338,18 @@
       "sku": "8556783",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-02",
-      "time": "18:24:21",
+      "date": "2026-09-01",
+      "time": "02:50:39",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785691461016,
+      "lastUpdated": 1788227439097,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
-      "auctionCode": "0019802464",
+      "auctionCode": "0019852320",
       "source": "gha",
-      "lastAir": 1785691461016,
+      "lastAir": 1788227439097,
       "pdpPrice": "14.99",
       "buy": true,
       "login": false,
@@ -279299,8 +279299,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788227303623,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293853,11 +293853,22 @@
         "followingSku": "8569963",
         "followingTitle": "Foldable Steel Frame Clothes Organizer with Clear Window & Dual Zippers (60x42x39cm) - Cream",
         "followingAuctionCode": "0019852053"
+      },
+      {
+        "start": 1788227303623,
+        "end": 1788227439097,
+        "durationMin": 2.3,
+        "precedingSku": "8572173",
+        "precedingTitle": "LIVMORE Printed Memory Foam Non-Slip Bath Mat (50 x 80 cm) - Green & Beige",
+        "precedingAuctionCode": "0019852063",
+        "followingSku": "8556783",
+        "followingTitle": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
+        "followingAuctionCode": "0019852320"
       }
     ],
-    "lastOnAirSku": "8572173",
-    "lastOnAirTitle": "LIVMORE Printed Memory Foam Non-Slip Bath Mat (50 x 80 cm) - Green & Beige",
-    "lastOnAirAuctionCode": "0019852063",
+    "lastOnAirSku": "8556783",
+    "lastOnAirTitle": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
+    "lastOnAirAuctionCode": "0019852320",
     "precedingSku": "8572173",
     "precedingTitle": "LIVMORE Printed Memory Foam Non-Slip Bath Mat (50 x 80 cm) - Green & Beige",
     "precedingAuctionCode": "0019852063"
