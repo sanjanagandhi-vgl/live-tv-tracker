@@ -35437,17 +35437,17 @@
       "firstAir": 1785485135564,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786008744104,
+      "lastAir": 1788254136821,
       "title": "Pack of 2 Tile Grout Restorer - White",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019808188",
+      "pdpPrice": "99.00",
+      "auctionCode": "0019852306",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-06",
-      "time": "10:32:24",
+      "date": "2026-09-01",
+      "time": "10:15:36",
       "productUrl": "/products/pen-and-pencil-size-one-size-black-8567115",
-      "lastUpdated": 1786008744104,
+      "lastUpdated": 1788254136821,
       "source": "gha",
       "missedAt": 1785486806140,
       "missedDelay": 10,
@@ -280336,8 +280336,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788254062835,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295264,11 +295264,22 @@
         "followingSku": "8712388",
         "followingTitle": "Itty Bittys Harry Potter Hagrid Soft Toy Plush (5 Inch) - Light Brown",
         "followingAuctionCode": "0019852361"
+      },
+      {
+        "start": 1788254062835,
+        "end": 1788254136821,
+        "durationMin": 1.2,
+        "precedingSku": "8712388",
+        "precedingTitle": "Itty Bittys Harry Potter Hagrid Soft Toy Plush (5 Inch) - Light Brown",
+        "precedingAuctionCode": "0019852361",
+        "followingSku": "8567115",
+        "followingTitle": "Pack of 2 Tile Grout Restorer - White",
+        "followingAuctionCode": "0019852306"
       }
     ],
-    "lastOnAirSku": "8712388",
-    "lastOnAirTitle": "Itty Bittys Harry Potter Hagrid Soft Toy Plush (5 Inch) - Light Brown",
-    "lastOnAirAuctionCode": "0019852361",
+    "lastOnAirSku": "8567115",
+    "lastOnAirTitle": "Pack of 2 Tile Grout Restorer - White",
+    "lastOnAirAuctionCode": "0019852306",
     "precedingSku": "8712388",
     "precedingTitle": "Itty Bittys Harry Potter Hagrid Soft Toy Plush (5 Inch) - Light Brown",
     "precedingAuctionCode": "0019852361"
