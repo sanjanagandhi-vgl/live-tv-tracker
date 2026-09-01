@@ -95013,21 +95013,26 @@
       "sku": "8412814",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "10:28:26",
+      "date": "2026-09-01",
+      "time": "02:36:25",
       "preExisting": true,
       "missedAt": 1786094906081,
       "missedDelay": null,
-      "lastUpdated": 1786094906081,
+      "lastUpdated": 1788226585127,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Blue & Green",
-      "auctionCode": "0019810308",
+      "title": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
+      "auctionCode": "0019852045",
       "source": "gha",
       "productUrl": "/products/livmore-outdoor-lighting-1258412810",
       "productUrlChecked": 1786094917889,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788226585127,
+      "pdpPrice": "5.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8412815": {
       "sku": "8412815",
@@ -279284,8 +279289,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788226531453,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -293816,11 +293821,22 @@
         "followingSku": "7562934",
         "followingTitle": "VALUE BUY - 24 Fuji Energy AA High Energy Alkaline Batteries (Use by October 2030)",
         "followingAuctionCode": "0019852067"
+      },
+      {
+        "start": 1788226531453,
+        "end": 1788226585127,
+        "durationMin": 0.9,
+        "precedingSku": "8429752",
+        "precedingTitle": "145-Piece Deluxe Art Set with Blue Aluminium Storage Case - Portable Drawing & Painting Kit with Watercolour Pens for Artists - Pink",
+        "precedingAuctionCode": "0019852122",
+        "followingSku": "8412814",
+        "followingTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
+        "followingAuctionCode": "0019852045"
       }
     ],
-    "lastOnAirSku": "8429752",
-    "lastOnAirTitle": "145-Piece Deluxe Art Set with Blue Aluminium Storage Case - Portable Drawing & Painting Kit with Watercolour Pens for Artists - Pink",
-    "lastOnAirAuctionCode": "0019852122",
+    "lastOnAirSku": "8412814",
+    "lastOnAirTitle": "LIVMORE Solar Glass Flower Garden Stake (37cm) - Orange & Green",
+    "lastOnAirAuctionCode": "0019852045",
     "precedingSku": "8429752",
     "precedingTitle": "145-Piece Deluxe Art Set with Blue Aluminium Storage Case - Portable Drawing & Painting Kit with Watercolour Pens for Artists - Pink",
     "precedingAuctionCode": "0019852122"
