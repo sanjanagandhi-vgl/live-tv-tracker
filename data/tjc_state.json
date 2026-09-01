@@ -281927,11 +281927,29 @@
       "productUrl": null,
       "lastUpdated": 1788298942773,
       "source": "gha-variant"
+    },
+    "8671298": {
+      "sku": "8671298",
+      "firstAir": 1788299144035,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788299144035,
+      "title": "EverTrue - Peridot Linking Bracelet (Size - 8) with GB Lock Box in Yellow Gold Tone 10.76 Ct.",
+      "pdpPrice": "129.99",
+      "auctionCode": "0019853739",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "22:45:44",
+      "productUrl": null,
+      "lastUpdated": 1788299144035,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788299005808,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -297386,11 +297404,22 @@
         "followingSku": "4511405",
         "followingTitle": "D'Joy - Natural Hebei Peridot & Pink Amethyst Toi et Moi Circle Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver 1.80 Ct.",
         "followingAuctionCode": "0019853699"
+      },
+      {
+        "start": 1788299005808,
+        "end": 1788299144035,
+        "durationMin": 2.3,
+        "precedingSku": "8724540",
+        "precedingTitle": "D'Joy - Peridot & White Zircon Bypass Ring in Yellow Gold Plated Sterling Silver 1.27 Ct.",
+        "precedingAuctionCode": "0019853712",
+        "followingSku": "8671298",
+        "followingTitle": "EverTrue - Peridot Linking Bracelet (Size - 8) with GB Lock Box in Yellow Gold Tone 10.76 Ct.",
+        "followingAuctionCode": "0019853739"
       }
     ],
-    "lastOnAirSku": "8724540",
-    "lastOnAirTitle": "D'Joy - Peridot & White Zircon Bypass Ring in Yellow Gold Plated Sterling Silver 1.27 Ct.",
-    "lastOnAirAuctionCode": "0019853712",
+    "lastOnAirSku": "8671298",
+    "lastOnAirTitle": "EverTrue - Peridot Linking Bracelet (Size - 8) with GB Lock Box in Yellow Gold Tone 10.76 Ct.",
+    "lastOnAirAuctionCode": "0019853739",
     "precedingSku": "8724540",
     "precedingTitle": "D'Joy - Peridot & White Zircon Bypass Ring in Yellow Gold Plated Sterling Silver 1.27 Ct.",
     "precedingAuctionCode": "0019853712"
