@@ -280226,11 +280226,29 @@
       "productUrlChecked": 1788241249170,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8538094": {
+      "sku": "8538094",
+      "firstAir": 1788246503542,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788246503542,
+      "title": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Orange (10ml)",
+      "pdpPrice": "300.99",
+      "auctionCode": "0019852439",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-01",
+      "time": "08:08:23",
+      "productUrl": null,
+      "lastUpdated": 1788246503542,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788246202393,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -295080,11 +295098,22 @@
         "followingSku": "8661700",
         "followingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
         "followingAuctionCode": "0019852383"
+      },
+      {
+        "start": 1788246202393,
+        "end": 1788246503542,
+        "durationMin": 5.0,
+        "precedingSku": "8661700",
+        "precedingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
+        "precedingAuctionCode": "0019852383",
+        "followingSku": "8538094",
+        "followingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Orange (10ml)",
+        "followingAuctionCode": "0019852439"
       }
     ],
-    "lastOnAirSku": "8661700",
-    "lastOnAirTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
-    "lastOnAirAuctionCode": "0019852383",
+    "lastOnAirSku": "8538094",
+    "lastOnAirTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Orange (10ml)",
+    "lastOnAirAuctionCode": "0019852439",
     "precedingSku": "8661700",
     "precedingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
     "precedingAuctionCode": "0019852383"
