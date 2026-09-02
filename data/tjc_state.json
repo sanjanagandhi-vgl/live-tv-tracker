@@ -286888,9 +286888,16 @@
       "img": false,
       "date": "2026-09-02",
       "time": "19:48:25",
-      "productUrl": null,
-      "lastUpdated": 1788374905148,
-      "source": "gha"
+      "productUrl": "/products/aviator-f-series-worldmap-quartz-movement-water-resistant-green-gold-world-map-dial-gold-plated-case-ladies-watch-with-green-genuine-leather-strap-8676922",
+      "lastUpdated": 1788375439026,
+      "source": "gha",
+      "missedAt": 1788375439026,
+      "missedDelay": 9,
+      "missedPrice": 69.99,
+      "missedImg": false,
+      "productUrlChecked": 1788375441580,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8666633": {
       "sku": "8666633",
@@ -286911,11 +286918,29 @@
       "productUrlChecked": 1788374133545,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8576285": {
+      "sku": "8576285",
+      "firstAir": 1788375439026,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788375439026,
+      "title": "STRADA Limited Edition Elephant Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019853980",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "19:57:19",
+      "productUrl": null,
+      "lastUpdated": 1788375439026,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788375389046,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -303316,11 +303341,22 @@
         "followingSku": "8573617",
         "followingTitle": "Collectors Limited Edition William Hunt Automatic Movt. 3ATM Water Resistant Type A Natural Jadeite Watch with Blue Sapphire Crystal (36 mm - case)",
         "followingAuctionCode": "0019853984"
+      },
+      {
+        "start": 1788375389046,
+        "end": 1788375439026,
+        "durationMin": 0.8,
+        "precedingSku": "8573617",
+        "precedingTitle": "Collectors Limited Edition William Hunt Automatic Movt. 3ATM Water Resistant Type A Natural Jadeite Watch with Blue Sapphire Crystal (36 mm - case)",
+        "precedingAuctionCode": "0019853984",
+        "followingSku": "8576285",
+        "followingTitle": "STRADA Limited Edition Elephant Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
+        "followingAuctionCode": "0019853980"
       }
     ],
-    "lastOnAirSku": "8573617",
-    "lastOnAirTitle": "Collectors Limited Edition William Hunt Automatic Movt. 3ATM Water Resistant Type A Natural Jadeite Watch with Blue Sapphire Crystal (36 mm - case)",
-    "lastOnAirAuctionCode": "0019853984",
+    "lastOnAirSku": "8576285",
+    "lastOnAirTitle": "STRADA Limited Edition Elephant Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
+    "lastOnAirAuctionCode": "0019853980",
     "precedingSku": "8573617",
     "precedingTitle": "Collectors Limited Edition William Hunt Automatic Movt. 3ATM Water Resistant Type A Natural Jadeite Watch with Blue Sapphire Crystal (36 mm - case)",
     "precedingAuctionCode": "0019853984"
