@@ -280917,21 +280917,26 @@
       "sku": "2912905",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-01",
-      "time": "14:55:30",
+      "date": "2026-09-02",
+      "time": "15:02:23",
       "preExisting": true,
       "missedAt": 1788270930007,
       "missedDelay": null,
-      "lastUpdated": 1788270930007,
+      "lastUpdated": 1788357743236,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
-      "auctionCode": "0019853271",
+      "auctionCode": "0019854833",
       "source": "gha",
       "productUrl": "/products/cetuem-scr-gold-anti-ageing-anti-oxidant-gold-regenerator-serum-50ml",
       "productUrlChecked": 1788270944400,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788357743236,
+      "pdpPrice": "194.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8615744": {
       "sku": "8615744",
@@ -285130,8 +285135,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788357669470,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -301301,11 +301306,22 @@
         "followingSku": "8685462",
         "followingTitle": "ARKIVE Head In The Clouds Kit (Includes 60ml Shampoo, 60ml Conditioner, 60ml Treatment Mask, 50ml Hair Oil & Bag)",
         "followingAuctionCode": "0019854973"
+      },
+      {
+        "start": 1788357669470,
+        "end": 1788357743236,
+        "durationMin": 1.2,
+        "precedingSku": "8504746",
+        "precedingTitle": "Livmore 51-Piece Women's Hair Accessories Gift Set with Hairbrush & Claw Clips - Neutral Colours",
+        "precedingAuctionCode": "0019853906",
+        "followingSku": "2912905",
+        "followingTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
+        "followingAuctionCode": "0019854833"
       }
     ],
-    "lastOnAirSku": "8504746",
-    "lastOnAirTitle": "Livmore 51-Piece Women's Hair Accessories Gift Set with Hairbrush & Claw Clips - Neutral Colours",
-    "lastOnAirAuctionCode": "0019853906",
+    "lastOnAirSku": "2912905",
+    "lastOnAirTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
+    "lastOnAirAuctionCode": "0019854833",
     "precedingSku": "8504746",
     "precedingTitle": "Livmore 51-Piece Women's Hair Accessories Gift Set with Hairbrush & Claw Clips - Neutral Colours",
     "precedingAuctionCode": "0019853906"
