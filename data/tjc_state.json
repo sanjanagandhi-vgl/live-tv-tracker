@@ -285157,11 +285157,29 @@
       "productUrl": null,
       "lastUpdated": 1788360078998,
       "source": "gha"
+    },
+    "8548008": {
+      "sku": "8548008",
+      "firstAir": 1788360201792,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788360201792,
+      "title": "Pure And Natural  Made in Italy Jumper (Size - One Size) - Dark Grey",
+      "pdpPrice": "160.99",
+      "auctionCode": "0019854590",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "15:43:21",
+      "productUrl": null,
+      "lastUpdated": 1788360201792,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788360144059,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -301353,11 +301371,22 @@
         "followingSku": "8753059",
         "followingTitle": "Cetuem Pack of 2 - Lip Allure & Collagen Eye Complex - 15ml each",
         "followingAuctionCode": "0019853249"
+      },
+      {
+        "start": 1788360144059,
+        "end": 1788360201792,
+        "durationMin": 1.0,
+        "precedingSku": "8574338",
+        "precedingTitle": "Designer Inspired Colour Block Flap Crossbody Sling Bag with Chunky Chain Handle - Pink",
+        "precedingAuctionCode": "0019853530",
+        "followingSku": "8548008",
+        "followingTitle": "Pure And Natural  Made in Italy Jumper (Size - One Size) - Dark Grey",
+        "followingAuctionCode": "0019854590"
       }
     ],
-    "lastOnAirSku": "8574338",
-    "lastOnAirTitle": "Designer Inspired Colour Block Flap Crossbody Sling Bag with Chunky Chain Handle - Pink",
-    "lastOnAirAuctionCode": "0019853530",
+    "lastOnAirSku": "8548008",
+    "lastOnAirTitle": "Pure And Natural  Made in Italy Jumper (Size - One Size) - Dark Grey",
+    "lastOnAirAuctionCode": "0019854590",
     "precedingSku": "8574338",
     "precedingTitle": "Designer Inspired Colour Block Flap Crossbody Sling Bag with Chunky Chain Handle - Pink",
     "precedingAuctionCode": "0019853530"
