@@ -282784,11 +282784,29 @@
       "productUrl": null,
       "lastUpdated": 1788312648079,
       "source": "gha"
+    },
+    "8502045": {
+      "sku": "8502045",
+      "firstAir": 1788312742640,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788312742640,
+      "title": "Botanical Embroidered Zip-Around Wristlet Wallet - White",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019853250",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "02:32:22",
+      "productUrl": null,
+      "lastUpdated": 1788312742640,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788312679505,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -298463,11 +298481,22 @@
         "followingSku": "8559295",
         "followingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
         "followingAuctionCode": "0019853549"
+      },
+      {
+        "start": 1788312679505,
+        "end": 1788312742640,
+        "durationMin": 1.1,
+        "precedingSku": "8646454",
+        "precedingTitle": "Miniso Wireless Earbud - White",
+        "precedingAuctionCode": "0019853552",
+        "followingSku": "8502045",
+        "followingTitle": "Botanical Embroidered Zip-Around Wristlet Wallet - White",
+        "followingAuctionCode": "0019853250"
       }
     ],
-    "lastOnAirSku": "8646454",
-    "lastOnAirTitle": "Miniso Wireless Earbud - White",
-    "lastOnAirAuctionCode": "0019853552",
+    "lastOnAirSku": "8502045",
+    "lastOnAirTitle": "Botanical Embroidered Zip-Around Wristlet Wallet - White",
+    "lastOnAirAuctionCode": "0019853250",
     "precedingSku": "8646454",
     "precedingTitle": "Miniso Wireless Earbud - White",
     "precedingAuctionCode": "0019853552"
