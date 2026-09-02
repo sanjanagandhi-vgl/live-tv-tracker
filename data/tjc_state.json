@@ -284097,11 +284097,29 @@
       "productUrlChecked": 1788346241158,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "221331557": {
+      "sku": "221331557",
+      "firstAir": 1788347663797,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788347663797,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019854554",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-02",
+      "time": "12:14:23",
+      "productUrl": null,
+      "lastUpdated": 1788347663797,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788347240750,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -300205,11 +300223,22 @@
         "followingSku": "8477125",
         "followingTitle": "La Marey Lightweight Crew Neck Jumper (Size M, 12-14) - Sky Blue",
         "followingAuctionCode": "0019853218"
+      },
+      {
+        "start": 1788347240750,
+        "end": 1788347663797,
+        "durationMin": 7.1,
+        "precedingSku": "8548259",
+        "precedingTitle": "Beaumonde Stretch Cotton Crew Neck Top (Size 10-12) - Sky Blue",
+        "precedingAuctionCode": "0019853270",
+        "followingSku": "221331557",
+        "followingTitle": null,
+        "followingAuctionCode": "0019854554"
       }
     ],
-    "lastOnAirSku": "8548259",
-    "lastOnAirTitle": "Beaumonde Stretch Cotton Crew Neck Top (Size 10-12) - Sky Blue",
-    "lastOnAirAuctionCode": "0019853270",
+    "lastOnAirSku": "221331557",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019854554",
     "precedingSku": "8548259",
     "precedingTitle": "Beaumonde Stretch Cotton Crew Neck Top (Size 10-12) - Sky Blue",
     "precedingAuctionCode": "0019853270"
