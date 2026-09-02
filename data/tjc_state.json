@@ -240096,17 +240096,17 @@
       "firstAir": 1787731582921,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788253462230,
+      "lastAir": 1788344185497,
       "title": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
-      "pdpPrice": "49.99",
-      "auctionCode": "0019853040",
+      "pdpPrice": "279.99",
+      "auctionCode": "0019853905",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-01",
-      "time": "10:04:22",
+      "date": "2026-09-02",
+      "time": "11:16:25",
       "productUrl": "/products/beautech-sj37-facial-massager-color-host-rose-gold-plastic-on-the-front-white-product-size-t-shape-54-24-5-153-mm-i-sha-8661700?variant=53468525887754",
-      "lastUpdated": 1788253462230,
+      "lastUpdated": 1788344185497,
       "source": "gha",
       "productUrlChecked": 1787735227908,
       "productUrlStatus": 200,
@@ -283808,8 +283808,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788343944289,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -299869,11 +299869,22 @@
         "followingSku": "8240463",
         "followingTitle": "SOLEIL Infrared Plus+ Flat Iron",
         "followingAuctionCode": "0019853942"
+      },
+      {
+        "start": 1788343944289,
+        "end": 1788344185497,
+        "durationMin": 4.0,
+        "precedingSku": "8240463",
+        "precedingTitle": "SOLEIL Infrared Plus+ Flat Iron",
+        "precedingAuctionCode": "0019853942",
+        "followingSku": "8661700",
+        "followingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
+        "followingAuctionCode": "0019853905"
       }
     ],
-    "lastOnAirSku": "8240463",
-    "lastOnAirTitle": "SOLEIL Infrared Plus+ Flat Iron",
-    "lastOnAirAuctionCode": "0019853942",
+    "lastOnAirSku": "8661700",
+    "lastOnAirTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
+    "lastOnAirAuctionCode": "0019853905",
     "precedingSku": "8240463",
     "precedingTitle": "SOLEIL Infrared Plus+ Flat Iron",
     "precedingAuctionCode": "0019853942"
