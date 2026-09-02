@@ -283725,11 +283725,29 @@
       "productUrl": null,
       "lastUpdated": 1788340164470,
       "source": "gha"
+    },
+    "221331447": {
+      "sku": "221331447",
+      "firstAir": 1788340464192,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788340464192,
+      "title": "V.V. Love ROBOT EDT - 100ml",
+      "pdpPrice": "39.96",
+      "auctionCode": "0019853943",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-02",
+      "time": "10:14:24",
+      "productUrl": null,
+      "lastUpdated": 1788340464192,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788340237510,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -299734,11 +299752,22 @@
         "followingSku": "8679504",
         "followingTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
         "followingAuctionCode": "0019853938"
+      },
+      {
+        "start": 1788340237510,
+        "end": 1788340464192,
+        "durationMin": 3.8,
+        "precedingSku": "8679504",
+        "precedingTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
+        "precedingAuctionCode": "0019853938",
+        "followingSku": "221331447",
+        "followingTitle": "V.V. Love ROBOT EDT - 100ml",
+        "followingAuctionCode": "0019853943"
       }
     ],
-    "lastOnAirSku": "8679504",
-    "lastOnAirTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
-    "lastOnAirAuctionCode": "0019853938",
+    "lastOnAirSku": "221331447",
+    "lastOnAirTitle": "V.V. Love ROBOT EDT - 100ml",
+    "lastOnAirAuctionCode": "0019853943",
     "precedingSku": "8679504",
     "precedingTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
     "precedingAuctionCode": "0019853938"
