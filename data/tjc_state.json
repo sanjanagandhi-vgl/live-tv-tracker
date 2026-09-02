@@ -287259,11 +287259,29 @@
       "productUrlChecked": 1788387343155,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8762777": {
+      "sku": "8762777",
+      "firstAir": 1788387679283,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788387679283,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019855408",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-02",
+      "time": "23:21:19",
+      "productUrl": null,
+      "lastUpdated": 1788387679283,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788387560933,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -303829,11 +303847,22 @@
         "followingSku": "7579903",
         "followingTitle": "D'Joy Moissanite Ring in Platinum Overlay Sterling Silver 2.38 Ct.",
         "followingAuctionCode": "0019854672"
+      },
+      {
+        "start": 1788387560933,
+        "end": 1788387679283,
+        "durationMin": 2.0,
+        "precedingSku": "7579903",
+        "precedingTitle": "D'Joy Moissanite Ring in Platinum Overlay Sterling Silver 2.38 Ct.",
+        "precedingAuctionCode": "0019854672",
+        "followingSku": "8762777",
+        "followingTitle": null,
+        "followingAuctionCode": "0019855408"
       }
     ],
-    "lastOnAirSku": "7579903",
-    "lastOnAirTitle": "D'Joy Moissanite Ring in Platinum Overlay Sterling Silver 2.38 Ct.",
-    "lastOnAirAuctionCode": "0019854672",
+    "lastOnAirSku": "8762777",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019855408",
     "precedingSku": "7579903",
     "precedingTitle": "D'Joy Moissanite Ring in Platinum Overlay Sterling Silver 2.38 Ct.",
     "precedingAuctionCode": "0019854672"
