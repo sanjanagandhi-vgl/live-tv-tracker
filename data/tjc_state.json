@@ -282714,11 +282714,29 @@
       "productUrl": null,
       "lastUpdated": 1788308726925,
       "source": "gha"
+    },
+    "8746573": {
+      "sku": "8746573",
+      "firstAir": 1788308840740,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788308840740,
+      "title": "9K Yellow Gold Diamond Cut Prince of Wales Chain (Size - 22) With Lobster Clasp",
+      "pdpPrice": "1379.99",
+      "auctionCode": "0019853817",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "01:27:20",
+      "productUrl": null,
+      "lastUpdated": 1788308840740,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788308783078,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -298338,11 +298356,22 @@
         "followingSku": "8597037",
         "followingTitle": "Maestro Collection-9K Yellow Gold Double Hoop Earring with Clasp",
         "followingAuctionCode": "0019853800"
+      },
+      {
+        "start": 1788308783078,
+        "end": 1788308840740,
+        "durationMin": 1.0,
+        "precedingSku": "8746546",
+        "precedingTitle": "9K Yellow Gold Diamond Cut Belcher Chain (Size - 24) With Spring Ring Clasp",
+        "precedingAuctionCode": "0019853816",
+        "followingSku": "8746573",
+        "followingTitle": "9K Yellow Gold Diamond Cut Prince of Wales Chain (Size - 22) With Lobster Clasp",
+        "followingAuctionCode": "0019853817"
       }
     ],
-    "lastOnAirSku": "8746546",
-    "lastOnAirTitle": "9K Yellow Gold Diamond Cut Belcher Chain (Size - 24) With Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019853816",
+    "lastOnAirSku": "8746573",
+    "lastOnAirTitle": "9K Yellow Gold Diamond Cut Prince of Wales Chain (Size - 22) With Lobster Clasp",
+    "lastOnAirAuctionCode": "0019853817",
     "precedingSku": "8746546",
     "precedingTitle": "9K Yellow Gold Diamond Cut Belcher Chain (Size - 24) With Spring Ring Clasp",
     "precedingAuctionCode": "0019853816"
