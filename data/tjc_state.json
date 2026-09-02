@@ -121305,17 +121305,17 @@
       "firstAir": 1786349661451,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786350558597,
+      "lastAir": 1788352343056,
       "title": "Ashwood Leather Cardiff Multi Pocket Crossbody Handbag - Blue",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019813337",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019853825",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-10",
-      "time": "09:29:18",
+      "date": "2026-09-02",
+      "time": "13:32:23",
       "productUrl": "/products/ashwood-leather-cardiff-multi-pocket-crossbody-handbag-tango-8660857",
-      "lastUpdated": 1786351161422,
+      "lastUpdated": 1788352343056,
       "source": "gha",
       "missedAt": 1786351161422,
       "missedDelay": 10,
@@ -284143,8 +284143,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788352252376,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -300270,11 +300270,22 @@
         "followingSku": "8660910",
         "followingTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
         "followingAuctionCode": "0019853819"
+      },
+      {
+        "start": 1788352252376,
+        "end": 1788352343056,
+        "durationMin": 1.5,
+        "precedingSku": "8660910",
+        "precedingTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
+        "precedingAuctionCode": "0019853819",
+        "followingSku": "8660857",
+        "followingTitle": "Ashwood Leather Cardiff Multi Pocket Crossbody Handbag - Blue",
+        "followingAuctionCode": "0019853825"
       }
     ],
-    "lastOnAirSku": "8660910",
-    "lastOnAirTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
-    "lastOnAirAuctionCode": "0019853819",
+    "lastOnAirSku": "8660857",
+    "lastOnAirTitle": "Ashwood Leather Cardiff Multi Pocket Crossbody Handbag - Blue",
+    "lastOnAirAuctionCode": "0019853825",
     "precedingSku": "8660910",
     "precedingTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
     "precedingAuctionCode": "0019853819"
