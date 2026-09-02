@@ -283000,11 +283000,29 @@
       "productUrl": null,
       "lastUpdated": 1788316042150,
       "source": "gha"
+    },
+    "7310266": {
+      "sku": "7310266",
+      "firstAir": 1788316162262,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788316162262,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019853154",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-02",
+      "time": "03:29:22",
+      "productUrl": null,
+      "lastUpdated": 1788316162262,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788316103331,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -298756,11 +298774,22 @@
         "followingSku": "8196275",
         "followingTitle": "GAMAGES OF LONDON Imperium Mechanical Japan VK63 Movement 3ATM WR Gold-Brown Oil-Pressed Dial Mens Watch with Black Leather Strap",
         "followingAuctionCode": "0019853151"
+      },
+      {
+        "start": 1788316103331,
+        "end": 1788316162262,
+        "durationMin": 1.0,
+        "precedingSku": "8196275",
+        "precedingTitle": "GAMAGES OF LONDON Imperium Mechanical Japan VK63 Movement 3ATM WR Gold-Brown Oil-Pressed Dial Mens Watch with Black Leather Strap",
+        "precedingAuctionCode": "0019853151",
+        "followingSku": "7310266",
+        "followingTitle": null,
+        "followingAuctionCode": "0019853154"
       }
     ],
-    "lastOnAirSku": "8196275",
-    "lastOnAirTitle": "GAMAGES OF LONDON Imperium Mechanical Japan VK63 Movement 3ATM WR Gold-Brown Oil-Pressed Dial Mens Watch with Black Leather Strap",
-    "lastOnAirAuctionCode": "0019853151",
+    "lastOnAirSku": "7310266",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019853154",
     "precedingSku": "8196275",
     "precedingTitle": "GAMAGES OF LONDON Imperium Mechanical Japan VK63 Movement 3ATM WR Gold-Brown Oil-Pressed Dial Mens Watch with Black Leather Strap",
     "precedingAuctionCode": "0019853151"
