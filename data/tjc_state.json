@@ -283805,11 +283805,29 @@
       "productUrlChecked": 1788340765244,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8613755": {
+      "sku": "8613755",
+      "firstAir": 1788344842733,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788344842733,
+      "title": "Exquisite Elegance Seamless Padded Bra (Size - XL, 44-46) - White",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019853377",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "11:27:22",
+      "productUrl": null,
+      "lastUpdated": 1788344842733,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788344783584,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -299880,11 +299898,22 @@
         "followingSku": "8661700",
         "followingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
         "followingAuctionCode": "0019853905"
+      },
+      {
+        "start": 1788344783584,
+        "end": 1788344842733,
+        "durationMin": 1.0,
+        "precedingSku": "8661700",
+        "precedingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
+        "precedingAuctionCode": "0019853905",
+        "followingSku": "8613755",
+        "followingTitle": "Exquisite Elegance Seamless Padded Bra (Size - XL, 44-46) - White",
+        "followingAuctionCode": "0019853377"
       }
     ],
-    "lastOnAirSku": "8661700",
-    "lastOnAirTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
-    "lastOnAirAuctionCode": "0019853905",
+    "lastOnAirSku": "8613755",
+    "lastOnAirTitle": "Exquisite Elegance Seamless Padded Bra (Size - XL, 44-46) - White",
+    "lastOnAirAuctionCode": "0019853377",
     "precedingSku": "8661700",
     "precedingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS",
     "precedingAuctionCode": "0019853905"
