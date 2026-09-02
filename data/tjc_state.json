@@ -286313,11 +286313,32 @@
       "productUrl": null,
       "lastUpdated": 1788366503897,
       "source": "gha"
+    },
+    "8437424": {
+      "sku": "8437424",
+      "firstAir": 1788366651431,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788366651431,
+      "title": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Red",
+      "pdpPrice": 14.99,
+      "auctionCode": "0019855017",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "17:30:51",
+      "productUrl": "/products/la-marey-embroidered-soft-touch-top-9068437424?variant=53191594901770",
+      "lastUpdated": 1788366651431,
+      "source": "gha",
+      "productUrlChecked": 1788366654558,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788366559093,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -302586,11 +302607,22 @@
         "followingSku": "8507864",
         "followingTitle": "La Marey Embroidered Soft Touch Top (Size L, 16-18) - Beige",
         "followingAuctionCode": "0019855009"
+      },
+      {
+        "start": 1788366559093,
+        "end": 1788366651431,
+        "durationMin": 1.5,
+        "precedingSku": "8437428",
+        "precedingTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Red",
+        "precedingAuctionCode": "0019855013",
+        "followingSku": "8437424",
+        "followingTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Red",
+        "followingAuctionCode": "0019855017"
       }
     ],
-    "lastOnAirSku": "8437428",
+    "lastOnAirSku": "8437424",
     "lastOnAirTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Red",
-    "lastOnAirAuctionCode": "0019855013",
+    "lastOnAirAuctionCode": "0019855017",
     "precedingSku": "8437428",
     "precedingTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Red",
     "precedingAuctionCode": "0019855013"
