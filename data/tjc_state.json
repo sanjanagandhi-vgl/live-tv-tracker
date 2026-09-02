@@ -283420,11 +283420,29 @@
       "productUrl": null,
       "lastUpdated": 1788334400514,
       "source": "gha"
+    },
+    "8702191": {
+      "sku": "8702191",
+      "firstAir": 1788334639107,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788334639107,
+      "title": "Premium Blue Spinel & White Zircon Halo Ring in Rhodium Overlay Sterling Silver 2.26 Ct.",
+      "pdpPrice": "1039.99",
+      "auctionCode": "0019853592",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "08:37:19",
+      "productUrl": null,
+      "lastUpdated": 1788334639107,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788334463797,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -299374,11 +299392,22 @@
         "followingSku": "4496868",
         "followingTitle": "Premium Blue Spinel & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.30 Ct.",
         "followingAuctionCode": "0019853579"
+      },
+      {
+        "start": 1788334463797,
+        "end": 1788334639107,
+        "durationMin": 2.9,
+        "precedingSku": "4496868",
+        "precedingTitle": "Premium Blue Spinel & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.30 Ct.",
+        "precedingAuctionCode": "0019853579",
+        "followingSku": "8702191",
+        "followingTitle": "Premium Blue Spinel & White Zircon Halo Ring in Rhodium Overlay Sterling Silver 2.26 Ct.",
+        "followingAuctionCode": "0019853592"
       }
     ],
-    "lastOnAirSku": "4496868",
-    "lastOnAirTitle": "Premium Blue Spinel & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.30 Ct.",
-    "lastOnAirAuctionCode": "0019853579",
+    "lastOnAirSku": "8702191",
+    "lastOnAirTitle": "Premium Blue Spinel & White Zircon Halo Ring in Rhodium Overlay Sterling Silver 2.26 Ct.",
+    "lastOnAirAuctionCode": "0019853592",
     "precedingSku": "4496868",
     "precedingTitle": "Premium Blue Spinel & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.30 Ct.",
     "precedingAuctionCode": "0019853579"
