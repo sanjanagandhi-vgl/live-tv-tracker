@@ -285304,11 +285304,29 @@
       "productUrlChecked": 1788360644962,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8547919": {
+      "sku": "8547919",
+      "firstAir": 1788362140609,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788362140609,
+      "title": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 10) - Dark Denim",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019853272",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "16:15:40",
+      "productUrl": null,
+      "lastUpdated": 1788362140609,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788362063375,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -301522,11 +301540,22 @@
         "followingSku": "8548007",
         "followingTitle": "Pure And Natural  Made in Italy Jumper (Size - One Size) - Dark Grey",
         "followingAuctionCode": "0019855338"
+      },
+      {
+        "start": 1788362063375,
+        "end": 1788362140609,
+        "durationMin": 1.3,
+        "precedingSku": "8548007",
+        "precedingTitle": "Pure And Natural  Made in Italy Jumper ((Size 8 - 18) - Dark Grey",
+        "precedingAuctionCode": "0019855338",
+        "followingSku": "8547919",
+        "followingTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 10) - Dark Denim",
+        "followingAuctionCode": "0019853272"
       }
     ],
-    "lastOnAirSku": "8548007",
-    "lastOnAirTitle": "Pure And Natural  Made in Italy Jumper ((Size 8 - 18) - Dark Grey",
-    "lastOnAirAuctionCode": "0019855338",
+    "lastOnAirSku": "8547919",
+    "lastOnAirTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 10) - Dark Denim",
+    "lastOnAirAuctionCode": "0019853272",
     "precedingSku": "8548007",
     "precedingTitle": "Pure And Natural  Made in Italy Jumper ((Size 8 - 18) - Dark Grey",
     "precedingAuctionCode": "0019855338"
