@@ -21370,17 +21370,23 @@
       "sku": "8635293",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "11:44:23",
+      "date": "2026-09-02",
+      "time": "13:40:37",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785321863299,
+      "lastUpdated": 1788352837272,
       "missedPrice": 99.99,
       "missedImg": false,
-      "title": "Caprice Pearl Leather Slip-On Loafer Sneakers with Cushioned Comfort Sole (Size 3) - Pearl",
-      "auctionCode": "0019798178",
-      "source": "gha"
+      "title": "Caprice Pearl Leather Slip-On Loafer Sneakers with Cushioned Comfort Sole (Size 8) - Pearl",
+      "auctionCode": "0019853894",
+      "source": "gha",
+      "lastAir": 1788352837272,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8635175": {
       "sku": "8635175",
@@ -284210,8 +284216,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788352704069,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -300348,11 +300354,22 @@
         "followingSku": "8660857",
         "followingTitle": "Ashwood Leather Cardiff Multi Pocket Crossbody Handbag - Blue",
         "followingAuctionCode": "0019853825"
+      },
+      {
+        "start": 1788352704069,
+        "end": 1788352837272,
+        "durationMin": 2.2,
+        "precedingSku": "8660857",
+        "precedingTitle": "Ashwood Leather Cardiff Multi Pocket Crossbody Handbag - Blue",
+        "precedingAuctionCode": "0019853825",
+        "followingSku": "8635293",
+        "followingTitle": "Caprice Pearl Leather Slip-On Loafer Sneakers with Cushioned Comfort Sole (Size 8) - Pearl",
+        "followingAuctionCode": "0019853894"
       }
     ],
-    "lastOnAirSku": "8660857",
-    "lastOnAirTitle": "Ashwood Leather Cardiff Multi Pocket Crossbody Handbag - Blue",
-    "lastOnAirAuctionCode": "0019853825",
+    "lastOnAirSku": "8635293",
+    "lastOnAirTitle": "Caprice Pearl Leather Slip-On Loafer Sneakers with Cushioned Comfort Sole (Size 8) - Pearl",
+    "lastOnAirAuctionCode": "0019853894",
     "precedingSku": "8660857",
     "precedingTitle": "Ashwood Leather Cardiff Multi Pocket Crossbody Handbag - Blue",
     "precedingAuctionCode": "0019853825"
