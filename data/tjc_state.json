@@ -211230,21 +211230,26 @@
       "sku": "8625531",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "19:48:23",
+      "date": "2026-09-02",
+      "time": "18:56:22",
       "preExisting": true,
       "missedAt": 1787338103225,
       "missedDelay": null,
-      "lastUpdated": 1787338103225,
+      "lastUpdated": 1788371782724,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "Citrine Gemstone Bonsai Tree with Maneki-Neko Lucky Cat 100.00 Ct.",
-      "auctionCode": "0019834777",
+      "title": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
+      "auctionCode": "0019853953",
       "source": "gha",
       "productUrl": "/products/african-amethyst-accessories-pure-rose-brass-100-000-ct-8625529",
       "productUrlChecked": 1787338107359,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788371782724,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8625532": {
       "sku": "8625532",
@@ -286846,8 +286851,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788371543044,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -303204,11 +303209,22 @@
         "followingSku": "8559295",
         "followingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
         "followingAuctionCode": "0019853951"
+      },
+      {
+        "start": 1788371543044,
+        "end": 1788371782724,
+        "durationMin": 4.0,
+        "precedingSku": "8559295",
+        "precedingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
+        "precedingAuctionCode": "0019853951",
+        "followingSku": "8625531",
+        "followingTitle": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
+        "followingAuctionCode": "0019853953"
       }
     ],
-    "lastOnAirSku": "8559295",
-    "lastOnAirTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
-    "lastOnAirAuctionCode": "0019853951",
+    "lastOnAirSku": "8625531",
+    "lastOnAirTitle": "African Amethyst Accessories Pure Rose Brass  100.000  Ct.",
+    "lastOnAirAuctionCode": "0019853953",
     "precedingSku": "8559295",
     "precedingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Pink",
     "precedingAuctionCode": "0019853951"
