@@ -6883,19 +6883,19 @@
       "sku": "8055952",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-23",
-      "time": "00:09:17",
+      "date": "2026-09-02",
+      "time": "01:32:22",
       "preExisting": true,
       "missedAt": 1784930728239,
       "missedDelay": null,
-      "lastUpdated": 1787440157502,
+      "lastUpdated": 1788309142216,
       "missedPrice": 199.99,
       "missedImg": true,
       "title": "9K Yellow Gold Spiga Necklace",
-      "auctionCode": "0019836618",
+      "auctionCode": "0019853806",
       "source": "gha",
-      "lastAir": 1787440157502,
-      "pdpPrice": "199.99",
+      "lastAir": 1788309142216,
+      "pdpPrice": "2599.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -282735,8 +282735,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788309050379,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -298367,11 +298367,22 @@
         "followingSku": "8746573",
         "followingTitle": "9K Yellow Gold Diamond Cut Prince of Wales Chain (Size - 22) With Lobster Clasp",
         "followingAuctionCode": "0019853817"
+      },
+      {
+        "start": 1788309050379,
+        "end": 1788309142216,
+        "durationMin": 1.5,
+        "precedingSku": "8746573",
+        "precedingTitle": "9K Yellow Gold Diamond Cut Prince of Wales Chain (Size - 22) With Lobster Clasp",
+        "precedingAuctionCode": "0019853817",
+        "followingSku": "8055952",
+        "followingTitle": "9K Yellow Gold Spiga Necklace",
+        "followingAuctionCode": "0019853806"
       }
     ],
-    "lastOnAirSku": "8746573",
-    "lastOnAirTitle": "9K Yellow Gold Diamond Cut Prince of Wales Chain (Size - 22) With Lobster Clasp",
-    "lastOnAirAuctionCode": "0019853817",
+    "lastOnAirSku": "8055952",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace",
+    "lastOnAirAuctionCode": "0019853806",
     "precedingSku": "8746573",
     "precedingTitle": "9K Yellow Gold Diamond Cut Prince of Wales Chain (Size - 22) With Lobster Clasp",
     "precedingAuctionCode": "0019853817"
