@@ -286022,11 +286022,29 @@
       "productUrlChecked": 1788364349589,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8592790": {
+      "sku": "8592790",
+      "firstAir": 1788364402988,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788364402988,
+      "title": "La Marey Womens 100% Viscose Lightweight Striped Scarf (180 x 80 cm) - Blue",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019854714",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "16:53:22",
+      "productUrl": null,
+      "lastUpdated": 1788364402988,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788364282501,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -302262,11 +302280,22 @@
         "followingSku": "8547931",
         "followingTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 10) - Dark Denim",
         "followingAuctionCode": "0019853274"
+      },
+      {
+        "start": 1788364282501,
+        "end": 1788364402988,
+        "durationMin": 2.0,
+        "precedingSku": "8578851",
+        "precedingTitle": "La Marey Round Neck Blouse (Size XL, 20-22) - Black",
+        "precedingAuctionCode": "0019853322",
+        "followingSku": "8592790",
+        "followingTitle": "La Marey Womens 100% Viscose Lightweight Striped Scarf (180 x 80 cm) - Blue",
+        "followingAuctionCode": "0019854714"
       }
     ],
-    "lastOnAirSku": "8578851",
-    "lastOnAirTitle": "La Marey Round Neck Blouse (Size XL, 20-22) - Black",
-    "lastOnAirAuctionCode": "0019853322",
+    "lastOnAirSku": "8592790",
+    "lastOnAirTitle": "La Marey Womens 100% Viscose Lightweight Striped Scarf (180 x 80 cm) - Blue",
+    "lastOnAirAuctionCode": "0019854714",
     "precedingSku": "8578851",
     "precedingTitle": "La Marey Round Neck Blouse (Size XL, 20-22) - Black",
     "precedingAuctionCode": "0019853322"
