@@ -284975,11 +284975,29 @@
       "productUrlChecked": 1788356668592,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8685462": {
+      "sku": "8685462",
+      "firstAir": 1788356960051,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788356960051,
+      "title": "ARKIVE Head In The Clouds Kit (Includes 60ml Shampoo, 60ml Conditioner, 60ml Treatment Mask, 50ml Hair Oil & Bag)",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019854973",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "14:49:20",
+      "productUrl": null,
+      "lastUpdated": 1788356960051,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788356903934,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -301138,11 +301156,22 @@
         "followingSku": "8740706",
         "followingTitle": "OPI Nail Laquer Spring 2026 Collection - You Dont Know Suzi - 15ml",
         "followingAuctionCode": "0019854855"
+      },
+      {
+        "start": 1788356903934,
+        "end": 1788356960051,
+        "durationMin": 0.9,
+        "precedingSku": "8740710",
+        "precedingTitle": "OPI Nail Laquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
+        "precedingAuctionCode": "0019855001",
+        "followingSku": "8685462",
+        "followingTitle": "ARKIVE Head In The Clouds Kit (Includes 60ml Shampoo, 60ml Conditioner, 60ml Treatment Mask, 50ml Hair Oil & Bag)",
+        "followingAuctionCode": "0019854973"
       }
     ],
-    "lastOnAirSku": "8740710",
-    "lastOnAirTitle": "OPI Nail Laquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
-    "lastOnAirAuctionCode": "0019855001",
+    "lastOnAirSku": "8685462",
+    "lastOnAirTitle": "ARKIVE Head In The Clouds Kit (Includes 60ml Shampoo, 60ml Conditioner, 60ml Treatment Mask, 50ml Hair Oil & Bag)",
+    "lastOnAirAuctionCode": "0019854973",
     "precedingSku": "8740710",
     "precedingTitle": "OPI Nail Laquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
     "precedingAuctionCode": "0019855001"
