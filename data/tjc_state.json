@@ -1506,15 +1506,23 @@
       "sku": "8240463",
       "tvPrice": "",
       "remarks": "",
-      "time": "13:16:00",
+      "time": "11:03:21",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 49.99,
       "missedImg": false,
-      "title": "SOLEIL Plus Professional Ceramic Flat Iron Straightener - Black",
-      "auctionCode": "0019791714",
-      "source": "gha"
+      "title": "SOLEIL Infrared Plus+ Flat Iron",
+      "auctionCode": "0019853942",
+      "source": "gha",
+      "lastAir": 1788343401671,
+      "pdpPrice": "338.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "productUrl": null,
+      "lastUpdated": 1788343401671
     },
     "8240464": {
       "sku": "8240464",
@@ -283800,8 +283808,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788343343716,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -299850,11 +299858,22 @@
         "followingSku": "8594290",
         "followingTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
         "followingAuctionCode": "0019854248"
+      },
+      {
+        "start": 1788343343716,
+        "end": 1788343401671,
+        "durationMin": 1.0,
+        "precedingSku": "8594290",
+        "precedingTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
+        "precedingAuctionCode": "0019854248",
+        "followingSku": "8240463",
+        "followingTitle": "SOLEIL Infrared Plus+ Flat Iron",
+        "followingAuctionCode": "0019853942"
       }
     ],
-    "lastOnAirSku": "8594290",
-    "lastOnAirTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
-    "lastOnAirAuctionCode": "0019854248",
+    "lastOnAirSku": "8240463",
+    "lastOnAirTitle": "SOLEIL Infrared Plus+ Flat Iron",
+    "lastOnAirAuctionCode": "0019853942",
     "precedingSku": "8594290",
     "precedingTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
     "precedingAuctionCode": "0019854248"
