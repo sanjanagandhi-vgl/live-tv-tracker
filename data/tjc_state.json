@@ -286253,11 +286253,29 @@
       "productUrlChecked": 1788365444015,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8507864": {
+      "sku": "8507864",
+      "firstAir": 1788366330169,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788366330169,
+      "title": "La Marey Embroidered Soft Touch Top (Size L, 16-18) - Beige",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019855009",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "17:25:30",
+      "productUrl": null,
+      "lastUpdated": 1788366330169,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788366202108,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -302515,11 +302533,22 @@
         "followingSku": "8586794",
         "followingTitle": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size M, 12-14) - Black",
         "followingAuctionCode": "0019855376"
+      },
+      {
+        "start": 1788366202108,
+        "end": 1788366330169,
+        "durationMin": 2.1,
+        "precedingSku": "8588422",
+        "precedingTitle": "La Marey Contrast Trim Fleece Gilet (Size XL, 20-22) - Chocolate",
+        "precedingAuctionCode": "0019855386",
+        "followingSku": "8507864",
+        "followingTitle": "La Marey Embroidered Soft Touch Top (Size L, 16-18) - Beige",
+        "followingAuctionCode": "0019855009"
       }
     ],
-    "lastOnAirSku": "8588422",
-    "lastOnAirTitle": "La Marey Contrast Trim Fleece Gilet (Size XL, 20-22) - Chocolate",
-    "lastOnAirAuctionCode": "0019855386",
+    "lastOnAirSku": "8507864",
+    "lastOnAirTitle": "La Marey Embroidered Soft Touch Top (Size L, 16-18) - Beige",
+    "lastOnAirAuctionCode": "0019855009",
     "precedingSku": "8588422",
     "precedingTitle": "La Marey Contrast Trim Fleece Gilet (Size XL, 20-22) - Chocolate",
     "precedingAuctionCode": "0019855386"
