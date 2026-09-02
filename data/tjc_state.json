@@ -286608,11 +286608,29 @@
       "productUrlChecked": 1788367164613,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8498100": {
+      "sku": "8498100",
+      "firstAir": 1788367238649,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788367238649,
+      "title": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019853468",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "17:40:38",
+      "productUrl": null,
+      "lastUpdated": 1788367238649,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788367160833,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -302903,11 +302921,22 @@
         "followingSku": "8584170",
         "followingTitle": "La Marey Multicolour Embroidered V-Neck Long Sleeve Top (Size S, 8-10) - Navy Blue",
         "followingAuctionCode": "0019853405"
+      },
+      {
+        "start": 1788367160833,
+        "end": 1788367238649,
+        "durationMin": 1.3,
+        "precedingSku": "8584179",
+        "precedingTitle": "La Marey Multicolour Embroidered V-Neck Long Sleeve Top (Size XL, 20-22) - Navy Blue",
+        "precedingAuctionCode": "0019855400",
+        "followingSku": "8498100",
+        "followingTitle": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
+        "followingAuctionCode": "0019853468"
       }
     ],
-    "lastOnAirSku": "8584179",
-    "lastOnAirTitle": "La Marey Multicolour Embroidered V-Neck Long Sleeve Top (Size XL, 20-22) - Navy Blue",
-    "lastOnAirAuctionCode": "0019855400",
+    "lastOnAirSku": "8498100",
+    "lastOnAirTitle": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
+    "lastOnAirAuctionCode": "0019853468",
     "precedingSku": "8584179",
     "precedingTitle": "La Marey Multicolour Embroidered V-Neck Long Sleeve Top (Size XL, 20-22) - Navy Blue",
     "precedingAuctionCode": "0019855400"
