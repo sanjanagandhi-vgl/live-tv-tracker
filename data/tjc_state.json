@@ -284115,11 +284115,29 @@
       "productUrl": null,
       "lastUpdated": 1788351199868,
       "source": "gha"
+    },
+    "8660910": {
+      "sku": "8660910",
+      "firstAir": 1788351382667,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788351382667,
+      "title": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
+      "pdpPrice": "139.99",
+      "auctionCode": "0019853819",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "13:16:22",
+      "productUrl": null,
+      "lastUpdated": 1788351382667,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788351264075,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -300234,11 +300252,22 @@
         "followingSku": "221331557",
         "followingTitle": null,
         "followingAuctionCode": "0019854554"
+      },
+      {
+        "start": 1788351264075,
+        "end": 1788351382667,
+        "durationMin": 2.0,
+        "precedingSku": "221331557",
+        "precedingTitle": "TV ONLY BUNDLE DEAL SET OF 2  - Doctors Formula - Collagen Booster Drink 15,000mg (Apple flavour)",
+        "precedingAuctionCode": "0019854554",
+        "followingSku": "8660910",
+        "followingTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
+        "followingAuctionCode": "0019853819"
       }
     ],
-    "lastOnAirSku": "221331557",
-    "lastOnAirTitle": "TV ONLY BUNDLE DEAL SET OF 2  - Doctors Formula - Collagen Booster Drink 15,000mg (Apple flavour)",
-    "lastOnAirAuctionCode": "0019854554",
+    "lastOnAirSku": "8660910",
+    "lastOnAirTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
+    "lastOnAirAuctionCode": "0019853819",
     "precedingSku": "221331557",
     "precedingTitle": "TV ONLY BUNDLE DEAL SET OF 2  - Doctors Formula - Collagen Booster Drink 15,000mg (Apple flavour)",
     "precedingAuctionCode": "0019854554"
