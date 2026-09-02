@@ -287146,11 +287146,29 @@
       "productUrl": null,
       "lastUpdated": 1788385703755,
       "source": "gha"
+    },
+    "8547687": {
+      "sku": "8547687",
+      "firstAir": 1788385836602,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788385836602,
+      "title": "D'Joy - Moissanite Cluster Halo Necklace (Size - 20) with Lobster Clasp in Rhodium Overlay Sterling Silver 4.76 Ct.",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019854941",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "22:50:36",
+      "productUrl": null,
+      "lastUpdated": 1788385836602,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788385764115,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -303672,11 +303690,22 @@
         "followingSku": "8690733",
         "followingTitle": "D'Joy - Moissanite Full Eternity Band Ring in Rhodium Overlay Sterling Silver 4.10 Ct.",
         "followingAuctionCode": "0019854846"
+      },
+      {
+        "start": 1788385764115,
+        "end": 1788385836602,
+        "durationMin": 1.2,
+        "precedingSku": "8690729",
+        "precedingTitle": "D'Joy - Moissanite Full Eternity Band Ring in Rhodium Overlay Sterling Silver 4.10 Ct.",
+        "precedingAuctionCode": "0019854961",
+        "followingSku": "8547687",
+        "followingTitle": "D'Joy - Moissanite Cluster Halo Necklace (Size - 20) with Lobster Clasp in Rhodium Overlay Sterling Silver 4.76 Ct.",
+        "followingAuctionCode": "0019854941"
       }
     ],
-    "lastOnAirSku": "8690729",
-    "lastOnAirTitle": "D'Joy - Moissanite Full Eternity Band Ring in Rhodium Overlay Sterling Silver 4.10 Ct.",
-    "lastOnAirAuctionCode": "0019854961",
+    "lastOnAirSku": "8547687",
+    "lastOnAirTitle": "D'Joy - Moissanite Cluster Halo Necklace (Size - 20) with Lobster Clasp in Rhodium Overlay Sterling Silver 4.76 Ct.",
+    "lastOnAirAuctionCode": "0019854941",
     "precedingSku": "8690729",
     "precedingTitle": "D'Joy - Moissanite Full Eternity Band Ring in Rhodium Overlay Sterling Silver 4.10 Ct.",
     "precedingAuctionCode": "0019854961"
