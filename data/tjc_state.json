@@ -287026,11 +287026,29 @@
       "productUrl": null,
       "lastUpdated": 1788383437529,
       "source": "gha"
+    },
+    "4486979": {
+      "sku": "4486979",
+      "firstAir": 1788383546428,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788383546428,
+      "title": "GRA Certified Moissanite Floral Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 1.32 Ct.",
+      "pdpPrice": "520.99",
+      "auctionCode": "0019854728",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "22:12:26",
+      "productUrl": null,
+      "lastUpdated": 1788383546428,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788383479608,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -303530,11 +303548,22 @@
         "followingSku": "8613829",
         "followingTitle": "D'Joy - GRA Certified Moissanite Dangling Earring with Push Back in Rhodium Overlay Sterling Silver 1.06 Ct.",
         "followingAuctionCode": "0019854729"
+      },
+      {
+        "start": 1788383479608,
+        "end": 1788383546428,
+        "durationMin": 1.1,
+        "precedingSku": "8613829",
+        "precedingTitle": "D'Joy - GRA Certified Moissanite Dangling Earring with Push Back in Rhodium Overlay Sterling Silver 1.06 Ct.",
+        "precedingAuctionCode": "0019854729",
+        "followingSku": "4486979",
+        "followingTitle": "GRA Certified Moissanite Floral Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 1.32 Ct.",
+        "followingAuctionCode": "0019854728"
       }
     ],
-    "lastOnAirSku": "8613829",
-    "lastOnAirTitle": "D'Joy - GRA Certified Moissanite Dangling Earring with Push Back in Rhodium Overlay Sterling Silver 1.06 Ct.",
-    "lastOnAirAuctionCode": "0019854729",
+    "lastOnAirSku": "4486979",
+    "lastOnAirTitle": "GRA Certified Moissanite Floral Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 1.32 Ct.",
+    "lastOnAirAuctionCode": "0019854728",
     "precedingSku": "8613829",
     "precedingTitle": "D'Joy - GRA Certified Moissanite Dangling Earring with Push Back in Rhodium Overlay Sterling Silver 1.06 Ct.",
     "precedingAuctionCode": "0019854729"
