@@ -286359,11 +286359,15 @@
       "date": "2026-09-02",
       "time": "17:30:51",
       "productUrl": "/products/la-marey-embroidered-soft-touch-top-9068437424?variant=53191594901770",
-      "lastUpdated": 1788366651431,
+      "lastUpdated": 1788367160833,
       "source": "gha",
       "productUrlChecked": 1788366654558,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788367160833,
+      "missedDelay": 8,
+      "missedPrice": 14.99,
+      "missedImg": true
     },
     "8507867": {
       "sku": "8507867",
@@ -286544,11 +286548,71 @@
       "productUrlChecked": 1788367109793,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8437427": {
+      "sku": "8437427",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-02",
+      "time": "17:39:20",
+      "preExisting": true,
+      "missedAt": 1788367160833,
+      "missedDelay": null,
+      "lastUpdated": 1788367160833,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Black",
+      "auctionCode": "0019855020",
+      "source": "gha",
+      "productUrl": "/products/la-marey-embroidered-soft-touch-top-9068437424",
+      "productUrlChecked": 1788367163821,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8437425": {
+      "sku": "8437425",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-02",
+      "time": "17:39:20",
+      "preExisting": true,
+      "missedAt": 1788367160833,
+      "missedDelay": null,
+      "lastUpdated": 1788367160833,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Embroidered Soft Touch Top (Size M, 12-14) - Black",
+      "auctionCode": "0019855018",
+      "source": "gha",
+      "productUrl": "/products/la-marey-embroidered-soft-touch-top-9068437424",
+      "productUrlChecked": 1788367164455,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8437426": {
+      "sku": "8437426",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-02",
+      "time": "17:39:20",
+      "preExisting": true,
+      "missedAt": 1788367160833,
+      "missedDelay": null,
+      "lastUpdated": 1788367160833,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Embroidered Soft Touch Top (Size L, 16-18) - Black",
+      "auctionCode": "0019855019",
+      "source": "gha",
+      "productUrl": "/products/la-marey-embroidered-soft-touch-top-9068437424",
+      "productUrlChecked": 1788367164613,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788367160833,
     "gaps": [
       {
         "start": 1785823527869,
@@ -302844,8 +302908,8 @@
     "lastOnAirSku": "8584179",
     "lastOnAirTitle": "La Marey Multicolour Embroidered V-Neck Long Sleeve Top (Size XL, 20-22) - Navy Blue",
     "lastOnAirAuctionCode": "0019855400",
-    "precedingSku": "8583956",
-    "precedingTitle": "La Marey Multicolour Embroidered V-Neck Long Sleeve Top (Size S, 8-10) - Navy Blue",
-    "precedingAuctionCode": "0019855394"
+    "precedingSku": "8584179",
+    "precedingTitle": "La Marey Multicolour Embroidered V-Neck Long Sleeve Top (Size XL, 20-22) - Navy Blue",
+    "precedingAuctionCode": "0019855400"
   }
 }
