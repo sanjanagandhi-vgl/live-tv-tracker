@@ -282665,9 +282665,16 @@
       "img": true,
       "date": "2026-09-02",
       "time": "01:07:19",
-      "productUrl": null,
-      "lastUpdated": 1788307639470,
-      "source": "gha"
+      "productUrl": "/products/9k-yellow-gold-aa-pendant-gold-wt-0-39-gms-1-272-ct",
+      "lastUpdated": 1788308239533,
+      "source": "gha",
+      "missedAt": 1788308239533,
+      "missedDelay": 10,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1788308243234,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8746576": {
       "sku": "8746576",
@@ -282689,8 +282696,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788308239533,
     "gaps": [
       {
         "start": 1785823527869,
@@ -298304,8 +298311,8 @@
     "lastOnAirSku": "8668668",
     "lastOnAirTitle": "Biggest Designer Inspired Close Out Deal-  9K Yellow Gold Necklace (Size - 18)",
     "lastOnAirAuctionCode": "0019853805",
-    "precedingSku": "8276496",
-    "precedingTitle": "9K Yellow Gold AA Pendant Gold Wt.0.39 Gms 1.272 Ct.",
-    "precedingAuctionCode": "0019853802"
+    "precedingSku": "8668668",
+    "precedingTitle": "Biggest Designer Inspired Close Out Deal-  9K Yellow Gold Necklace (Size - 18)",
+    "precedingAuctionCode": "0019853805"
   }
 }
