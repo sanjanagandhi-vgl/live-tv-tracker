@@ -286798,11 +286798,49 @@
       "productUrlChecked": 1788369274022,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8710268": {
+      "sku": "8710268",
+      "firstAir": 1788370585347,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788370585347,
+      "title": "Natural Galilea Rose Quartz Necklace (Size - 18-2 Ext) 80.00 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019853960",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "18:36:25",
+      "productUrl": null,
+      "lastUpdated": 1788370585347,
+      "source": "gha"
+    },
+    "8420490": {
+      "sku": "8420490",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-02",
+      "time": "18:36:25",
+      "preExisting": true,
+      "missedAt": 1788370585347,
+      "missedDelay": null,
+      "lastUpdated": 1788370585347,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (56 x 30 x 41 cm) - Brown",
+      "auctionCode": "0019853513",
+      "source": "gha",
+      "productUrl": "/products/set-of-5-large-non-woven-clothes-bedding-storage-bags-60-x-41-x-34-cm-beige-8596858",
+      "productUrlChecked": 1788370588149,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788370403503,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -303126,11 +303164,22 @@
         "followingSku": "8626631",
         "followingTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargable 500 times!",
         "followingAuctionCode": "0019853426"
+      },
+      {
+        "start": 1788370403503,
+        "end": 1788370585347,
+        "durationMin": 3.0,
+        "precedingSku": "8626631",
+        "precedingTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargable 500 times!",
+        "precedingAuctionCode": "0019853426",
+        "followingSku": "8710268",
+        "followingTitle": "Natural Galilea Rose Quartz Necklace (Size - 18-2 Ext) 80.00 Ct.",
+        "followingAuctionCode": "0019853960"
       }
     ],
-    "lastOnAirSku": "8626631",
-    "lastOnAirTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargable 500 times!",
-    "lastOnAirAuctionCode": "0019853426",
+    "lastOnAirSku": "8710268",
+    "lastOnAirTitle": "Natural Galilea Rose Quartz Necklace (Size - 18-2 Ext) 80.00 Ct.",
+    "lastOnAirAuctionCode": "0019853960",
     "precedingSku": "8626631",
     "precedingTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargable 500 times!",
     "precedingAuctionCode": "0019853426"
