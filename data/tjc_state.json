@@ -282806,9 +282806,16 @@
       "img": true,
       "date": "2026-09-02",
       "time": "02:33:22",
-      "productUrl": null,
-      "lastUpdated": 1788312802331,
-      "source": "gha"
+      "productUrl": "/products/pu-embroidery-wallet-size-19x10x3-white-8502045",
+      "lastUpdated": 1788313345915,
+      "source": "gha",
+      "missedAt": 1788313345915,
+      "missedDelay": 9,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1788313353539,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8122416": {
       "sku": "8122416",
@@ -282905,11 +282912,29 @@
       "productUrlChecked": 1788313243990,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8642607": {
+      "sku": "8642607",
+      "firstAir": 1788313345915,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788313345915,
+      "title": "ONE TIME CLOSEOUT DEAL - Ashwood Genuine Leather Croc-Embossed RFID Protected Wallet & Card Holder - Brown",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019853254",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-02",
+      "time": "02:42:25",
+      "productUrl": null,
+      "lastUpdated": 1788313345915,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788313277289,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -298595,11 +298620,22 @@
         "followingSku": "8502045",
         "followingTitle": "Botanical Embroidered Zip-Around Wristlet Wallet - White",
         "followingAuctionCode": "0019853250"
+      },
+      {
+        "start": 1788313277289,
+        "end": 1788313345915,
+        "durationMin": 1.1,
+        "precedingSku": "8520484",
+        "precedingTitle": "Kenneth Cole Reaction-Shiny Gunmetal Sunglasses - Gradient Smoke Lenses",
+        "precedingAuctionCode": "0019853409",
+        "followingSku": "8642607",
+        "followingTitle": "ONE TIME CLOSEOUT DEAL - Ashwood Genuine Leather Croc-Embossed RFID Protected Wallet & Card Holder - Brown",
+        "followingAuctionCode": "0019853254"
       }
     ],
-    "lastOnAirSku": "8520484",
-    "lastOnAirTitle": "Kenneth Cole Reaction-Shiny Gunmetal Sunglasses - Gradient Smoke Lenses",
-    "lastOnAirAuctionCode": "0019853409",
+    "lastOnAirSku": "8642607",
+    "lastOnAirTitle": "ONE TIME CLOSEOUT DEAL - Ashwood Genuine Leather Croc-Embossed RFID Protected Wallet & Card Holder - Brown",
+    "lastOnAirAuctionCode": "0019853254",
     "precedingSku": "8520484",
     "precedingTitle": "Kenneth Cole Reaction-Shiny Gunmetal Sunglasses - Gradient Smoke Lenses",
     "precedingAuctionCode": "0019853409"
