@@ -208924,20 +208924,20 @@
       "sku": "8586794",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "08:12:23",
+      "date": "2026-09-02",
+      "time": "17:03:21",
       "preExisting": true,
       "missedAt": 1787326254596,
       "missedDelay": null,
-      "lastUpdated": 1788160343574,
+      "lastUpdated": 1788365001420,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size M, 12-14) - Black",
-      "auctionCode": "0019850759",
-      "source": "gha-variant",
+      "auctionCode": "0019855376",
+      "source": "gha",
       "productUrl": null,
-      "lastAir": 1788160343574,
-      "pdpPrice": 19.99,
+      "lastAir": 1788365001420,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -286177,8 +286177,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788364943725,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -302425,11 +302425,22 @@
         "followingSku": "8592790",
         "followingTitle": "La Marey Womens 100% Viscose Lightweight Striped Scarf (180 x 80 cm) - Blue",
         "followingAuctionCode": "0019854714"
+      },
+      {
+        "start": 1788364943725,
+        "end": 1788365001420,
+        "durationMin": 1.0,
+        "precedingSku": "8592790",
+        "precedingTitle": "La Marey Womens 100% Viscose Lightweight Striped Scarf (180 x 80 cm) - Blue",
+        "precedingAuctionCode": "0019854714",
+        "followingSku": "8586794",
+        "followingTitle": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size M, 12-14) - Black",
+        "followingAuctionCode": "0019855376"
       }
     ],
-    "lastOnAirSku": "8592790",
-    "lastOnAirTitle": "La Marey Womens 100% Viscose Lightweight Striped Scarf (180 x 80 cm) - Blue",
-    "lastOnAirAuctionCode": "0019854714",
+    "lastOnAirSku": "8586794",
+    "lastOnAirTitle": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size M, 12-14) - Black",
+    "lastOnAirAuctionCode": "0019855376",
     "precedingSku": "8592790",
     "precedingTitle": "La Marey Womens 100% Viscose Lightweight Striped Scarf (180 x 80 cm) - Blue",
     "precedingAuctionCode": "0019854714"
