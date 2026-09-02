@@ -105722,17 +105722,17 @@
       "firstAir": 1786189636172,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787718743986,
+      "lastAir": 1788382045489,
       "title": "AAA Turkizite Square Cushion Cut Gemstone 1.00 Ct.",
-      "pdpPrice": "97.99",
-      "auctionCode": "0019841241",
+      "pdpPrice": null,
+      "auctionCode": "0019854970",
       "buy": true,
       "login": false,
-      "img": true,
-      "date": "2026-08-26",
-      "time": "05:32:23",
+      "img": false,
+      "date": "2026-09-02",
+      "time": "21:47:25",
       "productUrl": "/products/aaa-turkizite-square-cushion-cut-gemstone-1-00-ct",
-      "lastUpdated": 1787718743986,
+      "lastUpdated": 1788382045489,
       "source": "gha",
       "missedAt": 1786191200424,
       "missedDelay": 10,
@@ -287011,8 +287011,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788381936367,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -303490,11 +303490,22 @@
         "followingSku": "8721475",
         "followingTitle": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
         "followingAuctionCode": "0019854955"
+      },
+      {
+        "start": 1788381936367,
+        "end": 1788382045489,
+        "durationMin": 1.8,
+        "precedingSku": "8607635",
+        "precedingTitle": "Premium Turkizite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.26 Ct.",
+        "precedingAuctionCode": "0019854977",
+        "followingSku": "8661476",
+        "followingTitle": null,
+        "followingAuctionCode": "0019854970"
       }
     ],
-    "lastOnAirSku": "8607635",
-    "lastOnAirTitle": "Premium Turkizite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.26 Ct.",
-    "lastOnAirAuctionCode": "0019854977",
+    "lastOnAirSku": "8661476",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019854970",
     "precedingSku": "8607635",
     "precedingTitle": "Premium Turkizite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.26 Ct.",
     "precedingAuctionCode": "0019854977"
