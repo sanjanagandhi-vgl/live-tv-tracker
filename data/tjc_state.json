@@ -1615,23 +1615,23 @@
       "sku": "8519081",
       "tvPrice": "",
       "remarks": "",
-      "time": "07:14:25",
+      "time": "06:20:40",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Leopard Royal Savannah EDP - 100ml",
-      "auctionCode": "0019850538",
+      "auctionCode": "0019853509",
       "source": "gha",
-      "lastAir": 1788156865749,
-      "pdpPrice": "19.99",
+      "lastAir": 1788326440488,
+      "pdpPrice": "139.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
+      "date": "2026-09-02",
       "productUrl": null,
-      "lastUpdated": 1788156865749
+      "lastUpdated": 1788326440488
     },
     "8696197": {
       "sku": "8696197",
@@ -283405,8 +283405,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788326360760,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -299301,11 +299301,22 @@
         "followingSku": "8611266",
         "followingTitle": "Natural Jade Maneki-Neko Ring 30.00 Ct.",
         "followingAuctionCode": "0019853049"
+      },
+      {
+        "start": 1788326360760,
+        "end": 1788326440488,
+        "durationMin": 1.3,
+        "precedingSku": "8429767",
+        "precedingTitle": "Massager",
+        "precedingAuctionCode": "0019853493",
+        "followingSku": "8519081",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019853509"
       }
     ],
-    "lastOnAirSku": "8429767",
-    "lastOnAirTitle": "Massager",
-    "lastOnAirAuctionCode": "0019853493",
+    "lastOnAirSku": "8519081",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019853509",
     "precedingSku": "8429767",
     "precedingTitle": "Massager",
     "precedingAuctionCode": "0019853493"
