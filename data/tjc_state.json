@@ -19165,17 +19165,23 @@
       "sku": "8686775",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-27",
-      "time": "17:39:18",
+      "date": "2026-09-03",
+      "time": "00:08:29",
       "preExisting": true,
       "missedAt": 1785170358233,
       "missedDelay": null,
-      "lastUpdated": 1785170358233,
+      "lastUpdated": 1788390509601,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
-      "auctionCode": "0019797907",
-      "source": "gha"
+      "auctionCode": "0019854790",
+      "source": "gha",
+      "lastAir": 1788390509601,
+      "pdpPrice": "8995.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8690759": {
       "sku": "8690759",
@@ -288140,8 +288146,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788390332425,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -304718,11 +304724,22 @@
         "followingSku": "8762777",
         "followingTitle": null,
         "followingAuctionCode": "0019855408"
+      },
+      {
+        "start": 1788390332425,
+        "end": 1788390509601,
+        "durationMin": 3.0,
+        "precedingSku": "8598048",
+        "precedingTitle": "Royal Bali Collection - D'Joy Moissanite Hoop Earring with Clasp in Platinum Overlay Sterling Silver 1.40 Ct.",
+        "precedingAuctionCode": "0019854712",
+        "followingSku": "8686775",
+        "followingTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+        "followingAuctionCode": "0019854790"
       }
     ],
-    "lastOnAirSku": "8598048",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Moissanite Hoop Earring with Clasp in Platinum Overlay Sterling Silver 1.40 Ct.",
-    "lastOnAirAuctionCode": "0019854712",
+    "lastOnAirSku": "8686775",
+    "lastOnAirTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+    "lastOnAirAuctionCode": "0019854790",
     "precedingSku": "8598048",
     "precedingTitle": "Royal Bali Collection - D'Joy Moissanite Hoop Earring with Clasp in Platinum Overlay Sterling Silver 1.40 Ct.",
     "precedingAuctionCode": "0019854712"
