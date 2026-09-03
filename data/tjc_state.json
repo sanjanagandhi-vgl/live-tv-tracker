@@ -179469,17 +179469,17 @@
       "firstAir": 1786975839497,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788366143795,
+      "lastAir": 1788419599877,
       "title": "La Marey Contrast Trim Fleece Gilet (Size XL, 20-22) - Chocolate",
       "pdpPrice": "17.99",
-      "auctionCode": "0019855386",
+      "auctionCode": "0019855516",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-02",
-      "time": "17:22:23",
+      "date": "2026-09-03",
+      "time": "08:13:19",
       "productUrl": "/products/la-marey-patterned-gilet-navy-blue-8588422",
-      "lastUpdated": 1788366143795,
+      "lastUpdated": 1788419599877,
       "source": "gha",
       "missedAt": 1786976841363,
       "missedDelay": 10,
@@ -290362,8 +290362,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788419480116,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -307314,11 +307314,22 @@
         "followingSku": "8589603",
         "followingTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
         "followingAuctionCode": "0019855133"
+      },
+      {
+        "start": 1788419480116,
+        "end": 1788419599877,
+        "durationMin": 2.0,
+        "precedingSku": "8589603",
+        "precedingTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
+        "precedingAuctionCode": "0019855133",
+        "followingSku": "8588422",
+        "followingTitle": "La Marey Contrast Trim Fleece Gilet (Size XL, 20-22) - Chocolate",
+        "followingAuctionCode": "0019855516"
       }
     ],
-    "lastOnAirSku": "8589603",
-    "lastOnAirTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
-    "lastOnAirAuctionCode": "0019855133",
+    "lastOnAirSku": "8588422",
+    "lastOnAirTitle": "La Marey Contrast Trim Fleece Gilet (Size XL, 20-22) - Chocolate",
+    "lastOnAirAuctionCode": "0019855516",
     "precedingSku": "8589603",
     "precedingTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
     "precedingAuctionCode": "0019855133"
