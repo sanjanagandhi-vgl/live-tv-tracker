@@ -289554,11 +289554,29 @@
       "productUrlChecked": 1788400111556,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8243724": {
+      "sku": "8243724",
+      "firstAir": 1788400341090,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788400341090,
+      "title": "Bristle: Dupont Brushing Modes: 5 modes",
+      "pdpPrice": "174.99",
+      "auctionCode": "0019853726",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "02:52:21",
+      "productUrl": null,
+      "lastUpdated": 1788400341090,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788400235086,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306278,11 +306296,22 @@
         "followingSku": "8325427",
         "followingTitle": "Red Carpet Manicure Fortify & Protect Gel Polish Pro Kit",
         "followingAuctionCode": "0019854137"
+      },
+      {
+        "start": 1788400235086,
+        "end": 1788400341090,
+        "durationMin": 1.8,
+        "precedingSku": "8325427",
+        "precedingTitle": "Red Carpet Manicure Fortify & Protect Gel Polish Pro Kit",
+        "precedingAuctionCode": "0019854137",
+        "followingSku": "8243724",
+        "followingTitle": "Bristle: Dupont Brushing Modes: 5 modes",
+        "followingAuctionCode": "0019853726"
       }
     ],
-    "lastOnAirSku": "8325427",
-    "lastOnAirTitle": "Red Carpet Manicure Fortify & Protect Gel Polish Pro Kit",
-    "lastOnAirAuctionCode": "0019854137",
+    "lastOnAirSku": "8243724",
+    "lastOnAirTitle": "Bristle: Dupont Brushing Modes: 5 modes",
+    "lastOnAirAuctionCode": "0019853726",
     "precedingSku": "8325427",
     "precedingTitle": "Red Carpet Manicure Fortify & Protect Gel Polish Pro Kit",
     "precedingAuctionCode": "0019854137"
