@@ -19290,18 +19290,18 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-03",
-      "time": "05:46:24",
+      "time": "19:30:59",
       "preExisting": true,
       "missedAt": 1785170358233,
       "missedDelay": null,
-      "lastUpdated": 1788410784801,
+      "lastUpdated": 1788460259510,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
-      "auctionCode": "0019855505",
+      "auctionCode": "0019856569",
       "source": "gha",
-      "lastAir": 1788410784801,
-      "pdpPrice": "129.99",
+      "lastAir": 1788460259510,
+      "pdpPrice": "8995.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -295857,8 +295857,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788460159873,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -313326,11 +313326,22 @@
         "followingSku": "8762788",
         "followingTitle": null,
         "followingAuctionCode": "0019855667"
+      },
+      {
+        "start": 1788460159873,
+        "end": 1788460259510,
+        "durationMin": 1.7,
+        "precedingSku": "8762788",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019855667",
+        "followingSku": "8686775",
+        "followingTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+        "followingAuctionCode": "0019856569"
       }
     ],
-    "lastOnAirSku": "8762788",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019855667",
+    "lastOnAirSku": "8686775",
+    "lastOnAirTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+    "lastOnAirAuctionCode": "0019856569",
     "precedingSku": "8762788",
     "precedingTitle": null,
     "precedingAuctionCode": "0019855667"
