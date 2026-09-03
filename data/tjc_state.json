@@ -22133,17 +22133,23 @@
       "sku": "8342400",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "18:22:23",
+      "date": "2026-09-03",
+      "time": "04:18:23",
       "preExisting": true,
       "missedAt": 1785345743177,
       "missedDelay": null,
-      "lastUpdated": 1785345743177,
+      "lastUpdated": 1788405503667,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Lucy Q Jigsaw Collection - Puzzle Piece Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver",
-      "auctionCode": "0019798692",
-      "source": "gha"
+      "auctionCode": "0019854022",
+      "source": "gha",
+      "lastAir": 1788405503667,
+      "pdpPrice": "27.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "4374846": {
       "sku": "4374846",
@@ -289918,8 +289924,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788405439962,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306694,11 +306700,22 @@
         "followingSku": "8283764",
         "followingTitle": "Lucy Q - Snowflake Bauble Collection Pendant with Red Ribbon",
         "followingAuctionCode": "0019854049"
+      },
+      {
+        "start": 1788405439962,
+        "end": 1788405503667,
+        "durationMin": 1.1,
+        "precedingSku": "8283764",
+        "precedingTitle": "Lucy Q - Snowflake Bauble Collection Pendant with Red Ribbon",
+        "precedingAuctionCode": "0019854049",
+        "followingSku": "8342400",
+        "followingTitle": "Lucy Q Jigsaw Collection - Puzzle Piece Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019854022"
       }
     ],
-    "lastOnAirSku": "8283764",
-    "lastOnAirTitle": "Lucy Q - Snowflake Bauble Collection Pendant with Red Ribbon",
-    "lastOnAirAuctionCode": "0019854049",
+    "lastOnAirSku": "8342400",
+    "lastOnAirTitle": "Lucy Q Jigsaw Collection - Puzzle Piece Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019854022",
     "precedingSku": "8283764",
     "precedingTitle": "Lucy Q - Snowflake Bauble Collection Pendant with Red Ribbon",
     "precedingAuctionCode": "0019854049"
