@@ -296082,20 +296082,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-03",
-      "time": "21:15:48",
+      "time": "21:49:22",
       "preExisting": true,
       "missedAt": 1788466548244,
       "missedDelay": null,
-      "lastUpdated": 1788466548244,
+      "lastUpdated": 1788468562611,
       "missedPrice": 1499.99,
       "missedImg": true,
       "title": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Natural Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
-      "auctionCode": "0019854695",
+      "auctionCode": "0019856799",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-patroke-kunzite-solitaire-ring-platinum-wt-5-73-gms-10-240-ct-8736045",
       "productUrlChecked": 1788466552908,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788468562611,
+      "pdpPrice": "12345.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8736098": {
       "sku": "8736098",
@@ -296586,11 +296591,31 @@
       "productUrlChecked": 1788467789420,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8502113": {
+      "sku": "8502113",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-03",
+      "time": "21:49:22",
+      "preExisting": true,
+      "missedAt": 1788468562611,
+      "missedDelay": null,
+      "lastUpdated": 1788468562611,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "title": "D'Joy - Ratanakiri Blue Zircon & White Zircon Trilogy Halo Ring in Rhodium Overlay Sterling Silver 2.74 Ct.",
+      "auctionCode": "0019856021",
+      "source": "gha",
+      "productUrl": "/products/djoy-blue-zircon-white-zircon-trilogy-ring-in-rhodium-overlay-sterling-silver-2-74-ct",
+      "productUrlChecked": 1788468566040,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788468393024,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314113,11 +314138,22 @@
         "followingSku": "8706728",
         "followingTitle": "Luxuriant Blue Zircon, Lab Grown Diamond Ring in Rhodium OverlaySterling Silver  1.540  Ct.",
         "followingAuctionCode": "0019856043"
+      },
+      {
+        "start": 1788468393024,
+        "end": 1788468562611,
+        "durationMin": 2.8,
+        "precedingSku": "8664788",
+        "precedingTitle": "Luxoro - 9K Yellow Gold AAA Ratanakiri Blue Zircon Tennis Bracelet (Size - 7.5) 23.80 Ct",
+        "precedingAuctionCode": "0019855998",
+        "followingSku": "8736097",
+        "followingTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Natural Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
+        "followingAuctionCode": "0019856799"
       }
     ],
-    "lastOnAirSku": "8664788",
-    "lastOnAirTitle": "Luxoro - 9K Yellow Gold AAA Ratanakiri Blue Zircon Tennis Bracelet (Size - 7.5) 23.80 Ct",
-    "lastOnAirAuctionCode": "0019855998",
+    "lastOnAirSku": "8736097",
+    "lastOnAirTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Natural Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
+    "lastOnAirAuctionCode": "0019856799",
     "precedingSku": "8664788",
     "precedingTitle": "Luxoro - 9K Yellow Gold AAA Ratanakiri Blue Zircon Tennis Bracelet (Size - 7.5) 23.80 Ct",
     "precedingAuctionCode": "0019855998"
