@@ -243025,21 +243025,26 @@
       "sku": "8097783",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-26",
-      "time": "15:37:20",
+      "date": "2026-09-03",
+      "time": "09:56:04",
       "preExisting": true,
       "missedAt": 1787755040867,
       "missedDelay": null,
-      "lastUpdated": 1787755040867,
+      "lastUpdated": 1788425764250,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "Emreco Pintuck Bengaline Stretch Trousers With Pockets (Size 14) - Navy",
-      "auctionCode": "0019844343",
+      "title": "Emreco Tapered Leg Stretch Trousers (Size 20) - Black",
+      "auctionCode": "0019854796",
       "source": "gha",
       "productUrl": "/products/emreco-tapered-leg-stretch-trousers",
       "productUrlChecked": 1787755044663,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788425764250,
+      "pdpPrice": "12.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8238762": {
       "sku": "8238762",
@@ -291399,8 +291404,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788425662192,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -308450,11 +308455,22 @@
         "followingSku": "8519943",
         "followingTitle": "Emreco Classic Abstract Print Collared 3-4 Sleeve Blouse (Size 20) - Black & Turquoise",
         "followingAuctionCode": "0019855021"
+      },
+      {
+        "start": 1788425662192,
+        "end": 1788425764250,
+        "durationMin": 1.7,
+        "precedingSku": "8097466",
+        "precedingTitle": "Emreco Mandarin Collar Blouse",
+        "precedingAuctionCode": "0019854834",
+        "followingSku": "8097783",
+        "followingTitle": "Emreco Tapered Leg Stretch Trousers (Size 20) - Black",
+        "followingAuctionCode": "0019854796"
       }
     ],
-    "lastOnAirSku": "8097466",
-    "lastOnAirTitle": "Emreco Mandarin Collar Blouse",
-    "lastOnAirAuctionCode": "0019854834",
+    "lastOnAirSku": "8097783",
+    "lastOnAirTitle": "Emreco Tapered Leg Stretch Trousers (Size 20) - Black",
+    "lastOnAirAuctionCode": "0019854796",
     "precedingSku": "8097466",
     "precedingTitle": "Emreco Mandarin Collar Blouse",
     "precedingAuctionCode": "0019854834"
