@@ -291218,17 +291218,17 @@
       "firstAir": 1788424880813,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788425001400,
+      "lastAir": 1788453863822,
       "title": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019855542",
+      "pdpPrice": "90.99",
+      "auctionCode": "0019855772",
       "buy": true,
       "login": false,
-      "img": false,
+      "img": true,
       "date": "2026-09-03",
-      "time": "09:43:21",
+      "time": "17:44:23",
       "productUrl": null,
-      "lastUpdated": 1788425598420,
+      "lastUpdated": 1788453863822,
       "source": "gha",
       "missedAt": 1788425598420,
       "missedDelay": 10,
@@ -295073,8 +295073,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788453805100,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -312476,11 +312476,22 @@
         "followingSku": "8520801",
         "followingTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
         "followingAuctionCode": "0019855720"
+      },
+      {
+        "start": 1788453805100,
+        "end": 1788453863822,
+        "durationMin": 1.0,
+        "precedingSku": "8520801",
+        "precedingTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
+        "precedingAuctionCode": "0019855720",
+        "followingSku": "8523241",
+        "followingTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
+        "followingAuctionCode": "0019855772"
       }
     ],
-    "lastOnAirSku": "8520801",
-    "lastOnAirTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
-    "lastOnAirAuctionCode": "0019855720",
+    "lastOnAirSku": "8523241",
+    "lastOnAirTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
+    "lastOnAirAuctionCode": "0019855772",
     "precedingSku": "8520801",
     "precedingTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
     "precedingAuctionCode": "0019855720"
