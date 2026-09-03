@@ -272386,17 +272386,17 @@
       "firstAir": 1788172462390,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788172642895,
+      "lastAir": 1788470903339,
       "title": "24K Yellow Gold Fish Ornament with Pedestal",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019850913",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019856180",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
-      "time": "11:37:22",
+      "date": "2026-09-03",
+      "time": "22:28:23",
       "productUrl": "/products/24k-yellow-gold-mg-standard-accessories-gold-wt-50-gms-8521125",
-      "lastUpdated": 1788173240088,
+      "lastUpdated": 1788470903339,
       "source": "gha",
       "missedAt": 1788173240088,
       "missedDelay": 10,
@@ -296632,8 +296632,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788470841093,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314200,11 +314200,22 @@
         "followingSku": "8744078",
         "followingTitle": "9K Yellow Gold Diamond Cut Band Ring",
         "followingAuctionCode": "0019856089"
+      },
+      {
+        "start": 1788470841093,
+        "end": 1788470903339,
+        "durationMin": 1.0,
+        "precedingSku": "8597036",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019856112",
+        "followingSku": "8521125",
+        "followingTitle": "24K Yellow Gold Fish Ornament with Pedestal",
+        "followingAuctionCode": "0019856180"
       }
     ],
-    "lastOnAirSku": "8597036",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019856112",
+    "lastOnAirSku": "8521125",
+    "lastOnAirTitle": "24K Yellow Gold Fish Ornament with Pedestal",
+    "lastOnAirAuctionCode": "0019856180",
     "precedingSku": "8597036",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019856112"
