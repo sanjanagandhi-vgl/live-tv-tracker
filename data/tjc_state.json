@@ -293773,9 +293773,16 @@
       "img": true,
       "date": "2026-09-03",
       "time": "15:13:19",
-      "productUrl": null,
-      "lastUpdated": 1788444799970,
-      "source": "gha"
+      "productUrl": "/products/colombian-colour-emeraldine-quartz-white-zircon-pendant-with-torn-chain-19dc-size-20-in-rhodium-overlay-sterling-silver-1-40-ct-silver-wt-5-35-gms-14-372-ct-4517037",
+      "lastUpdated": 1788445401367,
+      "source": "gha",
+      "missedAt": 1788445401367,
+      "missedDelay": 10,
+      "missedPrice": 89.99,
+      "missedImg": true,
+      "productUrlChecked": 1788445405099,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8709360": {
       "sku": "8709360",
@@ -293995,8 +294002,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788445401367,
     "gaps": [
       {
         "start": 1785823527869,
@@ -311326,8 +311333,8 @@
     "lastOnAirSku": "8719416",
     "lastOnAirTitle": "Colombian Colour Emeraldine Quartz Solitaire Earring with Lever Back in Yellow Gold Plated Sterling Silver 3.12 Ct.",
     "lastOnAirAuctionCode": "0019856235",
-    "precedingSku": "4524110",
-    "precedingTitle": "Colombian Colour Emeraldine Quartz Stackable Ring  3.90 Ct.",
-    "precedingAuctionCode": "0019854422"
+    "precedingSku": "8719416",
+    "precedingTitle": "Colombian Colour Emeraldine Quartz Solitaire Earring with Lever Back in Yellow Gold Plated Sterling Silver 3.12 Ct.",
+    "precedingAuctionCode": "0019856235"
   }
 }
