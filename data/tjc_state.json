@@ -272529,17 +272529,17 @@
       "firstAir": 1788175280913,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788176063226,
+      "lastAir": 1788471199827,
       "title": "MEGA OFFER- 24K Yellow Gold Multiple Horse Design Frame",
-      "pdpPrice": "149.99",
-      "auctionCode": "0019850912",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019856107",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
-      "time": "12:34:23",
+      "date": "2026-09-03",
+      "time": "22:33:19",
       "productUrl": "/products/24k-yellow-gold-standard-accessories-gold-wt-50-gms-8522338",
-      "lastUpdated": 1788176663088,
+      "lastUpdated": 1788471199827,
       "source": "gha",
       "missedAt": 1788176663088,
       "missedDelay": 10,
@@ -296632,8 +296632,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788471153559,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314211,11 +314211,22 @@
         "followingSku": "8521125",
         "followingTitle": "24K Yellow Gold Fish Ornament with Pedestal",
         "followingAuctionCode": "0019856180"
+      },
+      {
+        "start": 1788471153559,
+        "end": 1788471199827,
+        "durationMin": 0.8,
+        "precedingSku": "8521125",
+        "precedingTitle": "24K Yellow Gold Fish Ornament with Pedestal",
+        "precedingAuctionCode": "0019856180",
+        "followingSku": "8522338",
+        "followingTitle": "MEGA OFFER- 24K Yellow Gold Multiple Horse Design Frame",
+        "followingAuctionCode": "0019856107"
       }
     ],
-    "lastOnAirSku": "8521125",
-    "lastOnAirTitle": "24K Yellow Gold Fish Ornament with Pedestal",
-    "lastOnAirAuctionCode": "0019856180",
+    "lastOnAirSku": "8522338",
+    "lastOnAirTitle": "MEGA OFFER- 24K Yellow Gold Multiple Horse Design Frame",
+    "lastOnAirAuctionCode": "0019856107",
     "precedingSku": "8521125",
     "precedingTitle": "24K Yellow Gold Fish Ornament with Pedestal",
     "precedingAuctionCode": "0019856180"
