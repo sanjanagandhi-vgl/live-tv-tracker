@@ -21121,19 +21121,19 @@
       "sku": "8697726",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-05",
-      "time": "09:17:19",
+      "date": "2026-09-03",
+      "time": "03:37:18",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785917839813,
+      "lastUpdated": 1788403038904,
       "missedPrice": 17.99,
       "missedImg": false,
       "title": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
-      "auctionCode": "0019807447",
+      "auctionCode": "0019854093",
       "source": "gha",
-      "lastAir": 1785917839813,
-      "pdpPrice": "17.99",
+      "lastAir": 1788403038904,
+      "pdpPrice": "59.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -289822,8 +289822,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788402862859,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306554,11 +306554,22 @@
         "followingSku": "8243724",
         "followingTitle": "Bristle: Dupont Brushing Modes: 5 modes",
         "followingAuctionCode": "0019853726"
+      },
+      {
+        "start": 1788402862859,
+        "end": 1788403038904,
+        "durationMin": 2.9,
+        "precedingSku": "8617544",
+        "precedingTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
+        "precedingAuctionCode": "0019854082",
+        "followingSku": "8697726",
+        "followingTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
+        "followingAuctionCode": "0019854093"
       }
     ],
-    "lastOnAirSku": "8617544",
-    "lastOnAirTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
-    "lastOnAirAuctionCode": "0019854082",
+    "lastOnAirSku": "8697726",
+    "lastOnAirTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
+    "lastOnAirAuctionCode": "0019854093",
     "precedingSku": "8617544",
     "precedingTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
     "precedingAuctionCode": "0019854082"
