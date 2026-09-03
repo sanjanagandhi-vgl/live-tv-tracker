@@ -296611,11 +296611,29 @@
       "productUrlChecked": 1788468566040,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8744078": {
+      "sku": "8744078",
+      "firstAir": 1788470437499,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788470437499,
+      "title": "9K Yellow Gold Diamond Cut Band Ring",
+      "pdpPrice": "89.16",
+      "auctionCode": "0019856089",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-03",
+      "time": "22:20:37",
+      "productUrl": null,
+      "lastUpdated": 1788470437499,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788470360489,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314171,11 +314189,22 @@
         "followingSku": "8668668",
         "followingTitle": "Biggest Designer Inspired Close Out Deal-  9K Yellow Gold Necklace (Size - 18)",
         "followingAuctionCode": "0019856114"
+      },
+      {
+        "start": 1788470360489,
+        "end": 1788470437499,
+        "durationMin": 1.3,
+        "precedingSku": "8597035",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019856103",
+        "followingSku": "8744078",
+        "followingTitle": "9K Yellow Gold Diamond Cut Band Ring",
+        "followingAuctionCode": "0019856089"
       }
     ],
-    "lastOnAirSku": "8597035",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019856103",
+    "lastOnAirSku": "8744078",
+    "lastOnAirTitle": "9K Yellow Gold Diamond Cut Band Ring",
+    "lastOnAirAuctionCode": "0019856089",
     "precedingSku": "8597035",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019856103"
