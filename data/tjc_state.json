@@ -279101,21 +279101,26 @@
       "sku": "8706692",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "21:52:22",
+      "date": "2026-09-03",
+      "time": "21:10:40",
       "preExisting": true,
       "missedAt": 1788209542711,
       "missedDelay": null,
-      "lastUpdated": 1788209542711,
+      "lastUpdated": 1788466240713,
       "missedPrice": 599.99,
       "missedImg": true,
       "title": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
-      "auctionCode": "0019851955",
+      "auctionCode": "0019856035",
       "source": "gha",
       "productUrl": "/products/luxuriant-9k-yellow-gold-aaa-blue-zircon-lab-grown-diamond-gh-si-ring-gold-wt-2-25-gms-3-930-ct-8706690",
       "productUrlChecked": 1788209546349,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788466240713,
+      "pdpPrice": "2999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8706693": {
       "sku": "8706693",
@@ -296018,8 +296023,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788465930611,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -313520,11 +313525,22 @@
         "followingSku": "8736045",
         "followingTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
         "followingAuctionCode": "0019854693"
+      },
+      {
+        "start": 1788465930611,
+        "end": 1788466240713,
+        "durationMin": 5.2,
+        "precedingSku": "8736045",
+        "precedingTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Natural Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
+        "precedingAuctionCode": "0019854693",
+        "followingSku": "8706692",
+        "followingTitle": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
+        "followingAuctionCode": "0019856035"
       }
     ],
-    "lastOnAirSku": "8736045",
-    "lastOnAirTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Natural Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
-    "lastOnAirAuctionCode": "0019854693",
+    "lastOnAirSku": "8706692",
+    "lastOnAirTitle": "THE BLUE KINGDOM - Luxuriant 9K Yellow Gold AAA RatanakirI Blue Zircon & Lab Grown Diamond (SI-G-H) Trilogy Ring 3.93 Ct.",
+    "lastOnAirAuctionCode": "0019856035",
     "precedingSku": "8736045",
     "precedingTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Natural Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
     "precedingAuctionCode": "0019854693"
