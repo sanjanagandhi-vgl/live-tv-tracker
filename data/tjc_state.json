@@ -17650,16 +17650,16 @@
       "firstAir": 1785145533950,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785637704742,
+      "lastAir": 1788418236612,
       "title": "SKINEANCE Wrinkle Filler - Fills and Smoothes Fine Lines & Wrinkles Immediately - 15ml",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019803822",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019854459",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-02",
-      "time": "03:28:24",
-      "lastUpdated": 1785637704742,
+      "date": "2026-09-03",
+      "time": "07:50:36",
+      "lastUpdated": 1788418236612,
       "source": "gha",
       "missedAt": 1785146357086,
       "missedDelay": 1,
@@ -290335,8 +290335,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788418101842,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -307265,11 +307265,22 @@
         "followingSku": "8149057",
         "followingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
         "followingAuctionCode": "0019854463"
+      },
+      {
+        "start": 1788418101842,
+        "end": 1788418236612,
+        "durationMin": 2.2,
+        "precedingSku": "8149057",
+        "precedingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
+        "precedingAuctionCode": "0019854463",
+        "followingSku": "8149180",
+        "followingTitle": "SKINEANCE Wrinkle Filler - Fills and Smoothes Fine Lines & Wrinkles Immediately - 15ml",
+        "followingAuctionCode": "0019854459"
       }
     ],
-    "lastOnAirSku": "8149057",
-    "lastOnAirTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
-    "lastOnAirAuctionCode": "0019854463",
+    "lastOnAirSku": "8149180",
+    "lastOnAirTitle": "SKINEANCE Wrinkle Filler - Fills and Smoothes Fine Lines & Wrinkles Immediately - 15ml",
+    "lastOnAirAuctionCode": "0019854459",
     "precedingSku": "8149057",
     "precedingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
     "precedingAuctionCode": "0019854463"
