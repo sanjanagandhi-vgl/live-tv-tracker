@@ -291593,11 +291593,29 @@
       "productUrl": null,
       "lastUpdated": 1788426865840,
       "source": "gha"
+    },
+    "8676261": {
+      "sku": "8676261",
+      "firstAir": 1788426985337,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788426985337,
+      "title": "EverTrue - Lapis Lazuli Solitaire Drop Earring in Yellow Gold Tone 3.10 Ct.",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019855139",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "10:16:25",
+      "productUrl": null,
+      "lastUpdated": 1788426985337,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788426937237,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -308669,11 +308687,22 @@
         "followingSku": "4502645",
         "followingTitle": "EverTrue - Lapis Lazuli & White Topaz Cricle Pendant with Chain (Size 20) in Yellow Gold Tone 7.90 Ct.",
         "followingAuctionCode": "0019855136"
+      },
+      {
+        "start": 1788426937237,
+        "end": 1788426985337,
+        "durationMin": 0.8,
+        "precedingSku": "4502645",
+        "precedingTitle": "EverTrue - Lapis Lazuli & White Topaz Cricle Pendant with Chain (Size 20) in Yellow Gold Tone 7.90 Ct.",
+        "precedingAuctionCode": "0019855136",
+        "followingSku": "8676261",
+        "followingTitle": "EverTrue - Lapis Lazuli Solitaire Drop Earring in Yellow Gold Tone 3.10 Ct.",
+        "followingAuctionCode": "0019855139"
       }
     ],
-    "lastOnAirSku": "4502645",
-    "lastOnAirTitle": "EverTrue - Lapis Lazuli & White Topaz Cricle Pendant with Chain (Size 20) in Yellow Gold Tone 7.90 Ct.",
-    "lastOnAirAuctionCode": "0019855136",
+    "lastOnAirSku": "8676261",
+    "lastOnAirTitle": "EverTrue - Lapis Lazuli Solitaire Drop Earring in Yellow Gold Tone 3.10 Ct.",
+    "lastOnAirAuctionCode": "0019855139",
     "precedingSku": "4502645",
     "precedingTitle": "EverTrue - Lapis Lazuli & White Topaz Cricle Pendant with Chain (Size 20) in Yellow Gold Tone 7.90 Ct.",
     "precedingAuctionCode": "0019855136"
