@@ -290066,9 +290066,16 @@
       "img": true,
       "date": "2026-09-03",
       "time": "04:34:23",
-      "productUrl": null,
-      "lastUpdated": 1788406463052,
-      "source": "gha"
+      "productUrl": "/products/lucy-q-drip-collection-rhodium-overlay-sterling-silver-t-bar-clasp-bracelet-size-8-silver-wt-8-00-gms",
+      "lastUpdated": 1788407065055,
+      "source": "gha",
+      "missedAt": 1788407065055,
+      "missedDelay": 10,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1788407068829,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4438668": {
       "sku": "4438668",
@@ -290151,8 +290158,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788407065055,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306954,8 +306961,8 @@
     "lastOnAirSku": "8523121",
     "lastOnAirTitle": "LUCY Q - Rhodium Overlay Sterling Silver Splash Bracelet (Size - 7.5)",
     "lastOnAirAuctionCode": "0019854066",
-    "precedingSku": "8108273",
-    "precedingTitle": "Lucy Q Drip Collection - Rhodium Overlay Sterling Silver Link Bracelet with T-Bar Clasp (Size - 8)",
-    "precedingAuctionCode": "0019854065"
+    "precedingSku": "8523121",
+    "precedingTitle": "LUCY Q - Rhodium Overlay Sterling Silver Splash Bracelet (Size - 7.5)",
+    "precedingAuctionCode": "0019854066"
   }
 }
