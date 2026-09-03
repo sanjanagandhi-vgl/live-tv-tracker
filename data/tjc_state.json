@@ -1667,7 +1667,7 @@
       "sku": "8421313",
       "tvPrice": "",
       "remarks": "",
-      "time": "02:18:23",
+      "time": "02:19:17",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
@@ -1676,14 +1676,14 @@
       "title": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
       "auctionCode": "0019853661",
       "source": "gha",
-      "lastAir": 1788398303532,
-      "pdpPrice": "240.99",
+      "lastAir": 1788398357923,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-03",
       "productUrl": null,
-      "lastUpdated": 1788398303532
+      "lastUpdated": 1788398357923
     },
     "7999686": {
       "sku": "7999686",
@@ -289463,9 +289463,16 @@
       "img": true,
       "date": "2026-09-03",
       "time": "02:09:22",
-      "productUrl": null,
-      "lastUpdated": 1788397762470,
-      "source": "gha"
+      "productUrl": "/products/cyclax-cocoa-butter-rich-body-cream-8739949",
+      "lastUpdated": 1788398357923,
+      "source": "gha",
+      "missedAt": 1788398357923,
+      "missedDelay": 10,
+      "missedPrice": 2.99,
+      "missedImg": true,
+      "productUrlChecked": 1788398365645,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8244715": {
       "sku": "8244715",
@@ -289505,6 +289512,26 @@
       "source": "gha",
       "productUrl": "/products/djoy-gra-certified-moissanite-vvs1-d-tennis-bracelet-size-8-in-rhodium-overlay-sterling-silver-23-50-ct-silver-wt-13-00-gms",
       "productUrlChecked": 1788398242512,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8739950": {
+      "sku": "8739950",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-03",
+      "time": "02:19:17",
+      "preExisting": true,
+      "missedAt": 1788398357923,
+      "missedDelay": null,
+      "lastUpdated": 1788398357923,
+      "missedPrice": 2.99,
+      "missedImg": true,
+      "title": "Cyclax Vitamin E Face & Body Cream",
+      "auctionCode": "0019853664",
+      "source": "gha",
+      "productUrl": "/products/cyclax-cocoa-butter-rich-body-cream-8739949",
+      "productUrlChecked": 1788398366325,
       "productUrlStatus": 200,
       "productUrl404": false
     }
