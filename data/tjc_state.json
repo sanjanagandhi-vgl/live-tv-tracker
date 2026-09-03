@@ -52744,17 +52744,17 @@
       "firstAir": 1785637793333,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786597758326,
+      "lastAir": 1788415703949,
       "title": "Skineance Magic Serum 5 x 2ml",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019819524",
+      "pdpPrice": "145.99",
+      "auctionCode": "0019854458",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-13",
-      "time": "06:09:18",
+      "date": "2026-09-03",
+      "time": "07:08:23",
       "productUrl": "/products/skineance-magic-serum-5-x-2ml",
-      "lastUpdated": 1786597758326,
+      "lastUpdated": 1788415703949,
       "source": "gha",
       "missedAt": 1785638436715,
       "missedDelay": 11,
@@ -290317,8 +290317,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788415399205,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -307225,11 +307225,22 @@
         "followingSku": "8740706",
         "followingTitle": "OPI Infinite Shine Spring 2026 Collection - Shock Em Orange - 15ml",
         "followingAuctionCode": "0019855538"
+      },
+      {
+        "start": 1788415399205,
+        "end": 1788415703949,
+        "durationMin": 5.1,
+        "precedingSku": "8740707",
+        "precedingTitle": "OPI Infinite Shine Spring 2026 Collection - Shock Em Orange - 15ml",
+        "precedingAuctionCode": "0019855550",
+        "followingSku": "8219738",
+        "followingTitle": "Skineance Magic Serum 5 x 2ml",
+        "followingAuctionCode": "0019854458"
       }
     ],
-    "lastOnAirSku": "8740707",
-    "lastOnAirTitle": "OPI Infinite Shine Spring 2026 Collection - Shock Em Orange - 15ml",
-    "lastOnAirAuctionCode": "0019855550",
+    "lastOnAirSku": "8219738",
+    "lastOnAirTitle": "Skineance Magic Serum 5 x 2ml",
+    "lastOnAirAuctionCode": "0019854458",
     "precedingSku": "8740707",
     "precedingTitle": "OPI Infinite Shine Spring 2026 Collection - Shock Em Orange - 15ml",
     "precedingAuctionCode": "0019855550"
