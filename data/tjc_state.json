@@ -294218,9 +294218,16 @@
       "img": true,
       "date": "2026-09-03",
       "time": "15:31:19",
-      "productUrl": null,
-      "lastUpdated": 1788445879409,
-      "source": "gha"
+      "productUrl": "/products/djoy-colombina-colour-emeraldine-quartz-white-zircon-dangling-earring-in-platinum-overlaysterling-silver-3-788-ct-8709318",
+      "lastUpdated": 1788446479862,
+      "source": "gha",
+      "missedAt": 1788446479862,
+      "missedDelay": 10,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1788446482411,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8719417": {
       "sku": "8719417",
@@ -294496,8 +294503,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788446479862,
     "gaps": [
       {
         "start": 1785823527869,
@@ -311838,8 +311845,8 @@
     "lastOnAirSku": "8710145",
     "lastOnAirTitle": "D'Joy - Colombian Colour Emeraldine Quartz & White Zircon Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 2.20 Ct.",
     "lastOnAirAuctionCode": "0019854358",
-    "precedingSku": "8719416",
-    "precedingTitle": "Colombian Colour Emeraldine Quartz Solitaire Earring with Lever Back in Yellow Gold Plated Sterling Silver 3.12 Ct.",
-    "precedingAuctionCode": "0019856235"
+    "precedingSku": "8710145",
+    "precedingTitle": "D'Joy - Colombian Colour Emeraldine Quartz & White Zircon Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 2.20 Ct.",
+    "precedingAuctionCode": "0019854358"
   }
 }
