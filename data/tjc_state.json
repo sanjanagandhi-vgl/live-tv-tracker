@@ -19174,18 +19174,18 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-03",
-      "time": "00:29:21",
+      "time": "05:32:59",
       "preExisting": true,
       "missedAt": 1785170358233,
       "missedDelay": null,
-      "lastUpdated": 1788391761215,
+      "lastUpdated": 1788409979625,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
-      "auctionCode": "0019854790",
+      "auctionCode": "0019855505",
       "source": "gha",
-      "lastAir": 1788391761215,
-      "pdpPrice": "129.99",
+      "lastAir": 1788409979625,
+      "pdpPrice": "8995.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -290256,8 +290256,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788409878460,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -307098,11 +307098,22 @@
         "followingSku": "8523123",
         "followingTitle": "LUCY Q - Rhodium Overlay Sterling Silver Double Drop Adjustable Ring",
         "followingAuctionCode": "0019854059"
+      },
+      {
+        "start": 1788409878460,
+        "end": 1788409979625,
+        "durationMin": 1.7,
+        "precedingSku": "4455129",
+        "precedingTitle": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
+        "precedingAuctionCode": "0019854079",
+        "followingSku": "8686775",
+        "followingTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+        "followingAuctionCode": "0019855505"
       }
     ],
-    "lastOnAirSku": "4455129",
-    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
-    "lastOnAirAuctionCode": "0019854079",
+    "lastOnAirSku": "8686775",
+    "lastOnAirTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+    "lastOnAirAuctionCode": "0019855505",
     "precedingSku": "4455129",
     "precedingTitle": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
     "precedingAuctionCode": "0019854079"
