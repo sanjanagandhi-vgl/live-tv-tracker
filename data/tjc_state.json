@@ -17391,16 +17391,16 @@
       "firstAir": 1785135503056,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785966867872,
-      "title": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
-      "pdpPrice": "89.99",
-      "auctionCode": "0019808794",
+      "lastAir": 1788472529399,
+      "title": "9K Yellow Gold Hoop Earring with Clasp",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019856174",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-05",
-      "time": "22:54:27",
-      "lastUpdated": 1785966867872,
+      "date": "2026-09-03",
+      "time": "22:55:29",
+      "lastUpdated": 1788472529399,
       "source": "gha",
       "missedAt": 1785135860916,
       "missedDelay": 1,
@@ -296639,8 +296639,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788472463807,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314240,11 +314240,22 @@
         "followingSku": "8597033",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
         "followingAuctionCode": "0019856102"
+      },
+      {
+        "start": 1788472463807,
+        "end": 1788472529399,
+        "durationMin": 1.1,
+        "precedingSku": "8321371",
+        "precedingTitle": "24K Yellow Gold Squirrel Collectible",
+        "precedingAuctionCode": "0019856120",
+        "followingSku": "8647001",
+        "followingTitle": "9K Yellow Gold Hoop Earring with Clasp",
+        "followingAuctionCode": "0019856174"
       }
     ],
-    "lastOnAirSku": "8321371",
-    "lastOnAirTitle": "24K Yellow Gold Squirrel Collectible",
-    "lastOnAirAuctionCode": "0019856120",
+    "lastOnAirSku": "8647001",
+    "lastOnAirTitle": "9K Yellow Gold Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019856174",
     "precedingSku": "8321371",
     "precedingTitle": "24K Yellow Gold Squirrel Collectible",
     "precedingAuctionCode": "0019856120"
