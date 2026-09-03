@@ -6940,16 +6940,16 @@
       "firstAir": 1784929535364,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787978065540,
+      "lastAir": 1788471743418,
       "title": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
       "pdpPrice": "199.99",
-      "auctionCode": "0019847859",
+      "auctionCode": "0019856102",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-29",
-      "time": "05:34:25",
-      "lastUpdated": 1787978065540,
+      "date": "2026-09-03",
+      "time": "22:42:23",
+      "lastUpdated": 1788471743418,
       "source": "gha",
       "missedAt": 1784929876646,
       "missedDelay": 1,
@@ -296639,8 +296639,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788471714825,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314229,11 +314229,22 @@
         "followingSku": "8522338",
         "followingTitle": "MEGA OFFER- 24K Yellow Gold Multiple Horse Design Frame",
         "followingAuctionCode": "0019856107"
+      },
+      {
+        "start": 1788471714825,
+        "end": 1788471743418,
+        "durationMin": 0.5,
+        "precedingSku": "8522338",
+        "precedingTitle": "MEGA OFFER- 24K Yellow Gold Multiple Horse Design Frame",
+        "precedingAuctionCode": "0019856107",
+        "followingSku": "8597033",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+        "followingAuctionCode": "0019856102"
       }
     ],
-    "lastOnAirSku": "8522338",
-    "lastOnAirTitle": "MEGA OFFER- 24K Yellow Gold Multiple Horse Design Frame",
-    "lastOnAirAuctionCode": "0019856107",
+    "lastOnAirSku": "8597033",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019856102",
     "precedingSku": "8522338",
     "precedingTitle": "MEGA OFFER- 24K Yellow Gold Multiple Horse Design Frame",
     "precedingAuctionCode": "0019856107"
