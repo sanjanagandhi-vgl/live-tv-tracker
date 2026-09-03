@@ -21029,18 +21029,18 @@
       "sku": "8697738",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-05",
-      "time": "09:23:26",
+      "date": "2026-09-03",
+      "time": "03:46:25",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785918206008,
+      "lastUpdated": 1788403585151,
       "missedPrice": 17.99,
       "missedImg": false,
       "title": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
-      "auctionCode": "0019807448",
+      "auctionCode": "0019854105",
       "source": "gha",
-      "lastAir": 1785918206008,
+      "lastAir": 1788403585151,
       "pdpPrice": "17.99",
       "buy": true,
       "login": false,
@@ -289822,8 +289822,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788403461790,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306565,11 +306565,22 @@
         "followingSku": "8697726",
         "followingTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
         "followingAuctionCode": "0019854093"
+      },
+      {
+        "start": 1788403461790,
+        "end": 1788403585151,
+        "durationMin": 2.1,
+        "precedingSku": "8697726",
+        "precedingTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
+        "precedingAuctionCode": "0019854093",
+        "followingSku": "8697738",
+        "followingTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
+        "followingAuctionCode": "0019854105"
       }
     ],
-    "lastOnAirSku": "8697726",
+    "lastOnAirSku": "8697738",
     "lastOnAirTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
-    "lastOnAirAuctionCode": "0019854093",
+    "lastOnAirAuctionCode": "0019854105",
     "precedingSku": "8697726",
     "precedingTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
     "precedingAuctionCode": "0019854093"
