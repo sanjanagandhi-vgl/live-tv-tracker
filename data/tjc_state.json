@@ -291081,8 +291081,12 @@
       "date": "2026-09-03",
       "time": "09:40:36",
       "productUrl": null,
-      "lastUpdated": 1788424836596,
-      "source": "gha"
+      "lastUpdated": 1788425359679,
+      "source": "gha",
+      "missedAt": 1788425359679,
+      "missedDelay": 9,
+      "missedPrice": 29.99,
+      "missedImg": false
     },
     "8520802": {
       "sku": "8520802",
@@ -291250,11 +291254,80 @@
       "auctionCode": "0019855554",
       "source": "gha",
       "productUrl": null
+    },
+    "8519943": {
+      "sku": "8519943",
+      "firstAir": 1788425359679,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788425359679,
+      "title": "Emreco Classic Abstract Print Collared 3-4 Sleeve Blouse (Size 20) - Black & Turquoise",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019855021",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-03",
+      "time": "09:49:19",
+      "productUrl": null,
+      "lastUpdated": 1788425359679,
+      "source": "gha"
+    },
+    "8523244": {
+      "sku": "8523244",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-03",
+      "time": "09:49:19",
+      "preExisting": true,
+      "missedAt": 1788425359679,
+      "missedDelay": null,
+      "lastUpdated": 1788425359679,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "title": "Emreco Classic Round Neck Button Through Cardigan (Size M, 12-14) - Stone",
+      "auctionCode": "0019855548",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8523246": {
+      "sku": "8523246",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-03",
+      "time": "09:49:19",
+      "preExisting": true,
+      "missedAt": 1788425359679,
+      "missedDelay": null,
+      "lastUpdated": 1788425359679,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "title": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Stone",
+      "auctionCode": "0019855549",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8523243": {
+      "sku": "8523243",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-03",
+      "time": "09:49:19",
+      "preExisting": true,
+      "missedAt": 1788425359679,
+      "missedDelay": null,
+      "lastUpdated": 1788425359679,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "title": "Emreco Classic Round Neck Button Through Cardigan (Size L, 16-18) - Stone",
+      "auctionCode": "0019855547",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788425303428,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -308293,11 +308366,22 @@
         "followingSku": "8523253",
         "followingTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
         "followingAuctionCode": "0019855535"
+      },
+      {
+        "start": 1788425303428,
+        "end": 1788425359679,
+        "durationMin": 0.9,
+        "precedingSku": "8523253",
+        "precedingTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
+        "precedingAuctionCode": "0019855535",
+        "followingSku": "8519943",
+        "followingTitle": "Emreco Classic Abstract Print Collared 3-4 Sleeve Blouse (Size 20) - Black & Turquoise",
+        "followingAuctionCode": "0019855021"
       }
     ],
-    "lastOnAirSku": "8523253",
-    "lastOnAirTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
-    "lastOnAirAuctionCode": "0019855535",
+    "lastOnAirSku": "8519943",
+    "lastOnAirTitle": "Emreco Classic Abstract Print Collared 3-4 Sleeve Blouse (Size 20) - Black & Turquoise",
+    "lastOnAirAuctionCode": "0019855021",
     "precedingSku": "8523253",
     "precedingTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
     "precedingAuctionCode": "0019855535"
