@@ -292273,11 +292273,29 @@
       "productUrl": null,
       "lastUpdated": 1788430280956,
       "source": "gha"
+    },
+    "8682303": {
+      "sku": "8682303",
+      "firstAir": 1788430407898,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788430407898,
+      "title": "Lapis Lazuli & White Zircon Living Creature Ring in Yellow Gold Tone 3.66 Ct.",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019855251",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "11:13:27",
+      "productUrl": null,
+      "lastUpdated": 1788430407898,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788430350273,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -309437,11 +309455,22 @@
         "followingSku": "8174004",
         "followingTitle": "Lapis Lazuli & Rhodolite Garnet Full Bangle (Size 7.5) 4.55 Ct.",
         "followingAuctionCode": "0019855311"
+      },
+      {
+        "start": 1788430350273,
+        "end": 1788430407898,
+        "durationMin": 1.0,
+        "precedingSku": "8174004",
+        "precedingTitle": "Lapis Lazuli & Rhodolite Garnet Full Bangle (Size 7.5) 4.55 Ct.",
+        "precedingAuctionCode": "0019855311",
+        "followingSku": "8682303",
+        "followingTitle": "Lapis Lazuli & White Zircon Living Creature Ring in Yellow Gold Tone 3.66 Ct.",
+        "followingAuctionCode": "0019855251"
       }
     ],
-    "lastOnAirSku": "8174004",
-    "lastOnAirTitle": "Lapis Lazuli & Rhodolite Garnet Full Bangle (Size 7.5) 4.55 Ct.",
-    "lastOnAirAuctionCode": "0019855311",
+    "lastOnAirSku": "8682303",
+    "lastOnAirTitle": "Lapis Lazuli & White Zircon Living Creature Ring in Yellow Gold Tone 3.66 Ct.",
+    "lastOnAirAuctionCode": "0019855251",
     "precedingSku": "8174004",
     "precedingTitle": "Lapis Lazuli & Rhodolite Garnet Full Bangle (Size 7.5) 4.55 Ct.",
     "precedingAuctionCode": "0019855311"
