@@ -291177,11 +291177,29 @@
       "productUrl": null,
       "lastUpdated": 1788425001400,
       "source": "gha"
+    },
+    "8523253": {
+      "sku": "8523253",
+      "firstAir": 1788425140232,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788425140232,
+      "title": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019855535",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-03",
+      "time": "09:45:40",
+      "productUrl": null,
+      "lastUpdated": 1788425140232,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788425063472,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -308209,11 +308227,22 @@
         "followingSku": "8523249",
         "followingTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
         "followingAuctionCode": "0019855551"
+      },
+      {
+        "start": 1788425063472,
+        "end": 1788425140232,
+        "durationMin": 1.3,
+        "precedingSku": "8523241",
+        "precedingTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
+        "precedingAuctionCode": "0019855542",
+        "followingSku": "8523253",
+        "followingTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
+        "followingAuctionCode": "0019855535"
       }
     ],
-    "lastOnAirSku": "8523241",
+    "lastOnAirSku": "8523253",
     "lastOnAirTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
-    "lastOnAirAuctionCode": "0019855542",
+    "lastOnAirAuctionCode": "0019855535",
     "precedingSku": "8523241",
     "precedingTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
     "precedingAuctionCode": "0019855542"
