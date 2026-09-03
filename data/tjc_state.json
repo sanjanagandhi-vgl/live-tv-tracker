@@ -291615,9 +291615,16 @@
       "img": true,
       "date": "2026-09-03",
       "time": "10:19:21",
-      "productUrl": null,
-      "lastUpdated": 1788427161155,
-      "source": "gha"
+      "productUrl": "/products/evertrue-lapis-lazuli-earring-in-yellow-gold-tone-3-10-ct-8676261",
+      "lastUpdated": 1788427761309,
+      "source": "gha",
+      "missedAt": 1788427761309,
+      "missedDelay": 10,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1788427764820,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8620776": {
       "sku": "8620776",
@@ -291636,11 +291643,29 @@
       "productUrl": null,
       "lastUpdated": 1788427639586,
       "source": "gha"
+    },
+    "8620859": {
+      "sku": "8620859",
+      "firstAir": 1788427761309,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788427761309,
+      "title": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019855198",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "10:29:21",
+      "productUrl": null,
+      "lastUpdated": 1788427761309,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788427705414,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -308734,11 +308759,22 @@
         "followingSku": "8620776",
         "followingTitle": "Lapis Lazuli Solitaire Ring in Sterling Silver 5.55 Ct.",
         "followingAuctionCode": "0019855226"
+      },
+      {
+        "start": 1788427705414,
+        "end": 1788427761309,
+        "durationMin": 0.9,
+        "precedingSku": "8620776",
+        "precedingTitle": "Lapis Lazuli Solitaire Ring in Sterling Silver 5.55 Ct.",
+        "precedingAuctionCode": "0019855226",
+        "followingSku": "8620859",
+        "followingTitle": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
+        "followingAuctionCode": "0019855198"
       }
     ],
-    "lastOnAirSku": "8620776",
-    "lastOnAirTitle": "Lapis Lazuli Solitaire Ring in Sterling Silver 5.55 Ct.",
-    "lastOnAirAuctionCode": "0019855226",
+    "lastOnAirSku": "8620859",
+    "lastOnAirTitle": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
+    "lastOnAirAuctionCode": "0019855198",
     "precedingSku": "8620776",
     "precedingTitle": "Lapis Lazuli Solitaire Ring in Sterling Silver 5.55 Ct.",
     "precedingAuctionCode": "0019855226"
