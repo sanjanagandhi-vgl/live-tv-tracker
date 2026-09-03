@@ -168709,17 +168709,17 @@
       "firstAir": 1786866744631,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788274164658,
+      "lastAir": 1788419302555,
       "title": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019852549",
+      "pdpPrice": "279.99",
+      "auctionCode": "0019855133",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-01",
-      "time": "15:49:24",
+      "date": "2026-09-03",
+      "time": "08:08:22",
       "productUrl": "/products/la-marey-patterned-cardigan-size-medium-black-8589603",
-      "lastUpdated": 1788274164658,
+      "lastUpdated": 1788419302555,
       "source": "gha",
       "missedAt": 1786868839050,
       "missedDelay": 10,
@@ -290362,8 +290362,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788419183806,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -307303,11 +307303,22 @@
         "followingSku": "8149180",
         "followingTitle": "SKINEANCE Wrinkle Filler - Fills and Smoothes Fine Lines & Wrinkles Immediately - 15ml",
         "followingAuctionCode": "0019854459"
+      },
+      {
+        "start": 1788419183806,
+        "end": 1788419302555,
+        "durationMin": 2.0,
+        "precedingSku": "8149180",
+        "precedingTitle": "SKINEANCE Wrinkle Filler - Fills and Smoothes Fine Lines & Wrinkles Immediately - 15ml",
+        "precedingAuctionCode": "0019854459",
+        "followingSku": "8589603",
+        "followingTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
+        "followingAuctionCode": "0019855133"
       }
     ],
-    "lastOnAirSku": "8149180",
-    "lastOnAirTitle": "SKINEANCE Wrinkle Filler - Fills and Smoothes Fine Lines & Wrinkles Immediately - 15ml",
-    "lastOnAirAuctionCode": "0019854459",
+    "lastOnAirSku": "8589603",
+    "lastOnAirTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
+    "lastOnAirAuctionCode": "0019855133",
     "precedingSku": "8149180",
     "precedingTitle": "SKINEANCE Wrinkle Filler - Fills and Smoothes Fine Lines & Wrinkles Immediately - 15ml",
     "precedingAuctionCode": "0019854459"
