@@ -292248,11 +292248,29 @@
       "productUrl": null,
       "lastUpdated": 1788430106669,
       "source": "gha"
+    },
+    "8174004": {
+      "sku": "8174004",
+      "firstAir": 1788430246488,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788430246488,
+      "title": "Lapis Lazuli & Rhodolite Garnet Full Bangle (Size 7.5) 4.55 Ct.",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019855311",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "11:10:46",
+      "productUrl": null,
+      "lastUpdated": 1788430246488,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788430160340,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -309401,11 +309419,22 @@
         "followingSku": "8712389",
         "followingTitle": "Lapis Lazuli & Moissanite Dangling Earring with Lever Back in Yellow Gold Tone 6.10 Ct.",
         "followingAuctionCode": "0019855205"
+      },
+      {
+        "start": 1788430160340,
+        "end": 1788430246488,
+        "durationMin": 1.4,
+        "precedingSku": "8712389",
+        "precedingTitle": "Lapis Lazuli & Moissanite Dangling Earring with Lever Back in Yellow Gold Tone 6.10 Ct.",
+        "precedingAuctionCode": "0019855205",
+        "followingSku": "8174004",
+        "followingTitle": "Lapis Lazuli & Rhodolite Garnet Full Bangle (Size 7.5) 4.55 Ct.",
+        "followingAuctionCode": "0019855311"
       }
     ],
-    "lastOnAirSku": "8712389",
-    "lastOnAirTitle": "Lapis Lazuli & Moissanite Dangling Earring with Lever Back in Yellow Gold Tone 6.10 Ct.",
-    "lastOnAirAuctionCode": "0019855205",
+    "lastOnAirSku": "8174004",
+    "lastOnAirTitle": "Lapis Lazuli & Rhodolite Garnet Full Bangle (Size 7.5) 4.55 Ct.",
+    "lastOnAirAuctionCode": "0019855311",
     "precedingSku": "8712389",
     "precedingTitle": "Lapis Lazuli & Moissanite Dangling Earring with Lever Back in Yellow Gold Tone 6.10 Ct.",
     "precedingAuctionCode": "0019855205"
