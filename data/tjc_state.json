@@ -289950,9 +289950,16 @@
       "img": true,
       "date": "2026-09-03",
       "time": "04:26:23",
-      "productUrl": null,
-      "lastUpdated": 1788405983353,
-      "source": "gha"
+      "productUrl": "/products/lucy-q-jigsaw-collection-puzzle-pieces-pendant-with-chain-size-18-in-18k-vermeil-yellow-gold-plated-sterling-silver",
+      "lastUpdated": 1788406529120,
+      "source": "gha",
+      "missedAt": 1788406529120,
+      "missedDelay": 9,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1788406537605,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8283762": {
       "sku": "8283762",
@@ -290049,11 +290056,31 @@
       "productUrl": null,
       "lastUpdated": 1788406463052,
       "source": "gha"
+    },
+    "4438668": {
+      "sku": "4438668",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-03",
+      "time": "04:35:29",
+      "preExisting": true,
+      "missedAt": 1788406529120,
+      "missedDelay": null,
+      "lastUpdated": 1788406529120,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "title": "Lucy Q Jigsaw Collection - Puzzle Pieces Pendant with Chain (Size 18) in 18K Vermeil Rose Gold Plated Sterling Silver",
+      "auctionCode": "0019854032",
+      "source": "gha",
+      "productUrl": "/products/lucy-q-jigsaw-collection-puzzle-pieces-pendant-with-chain-size-18-in-18k-vermeil-yellow-gold-plated-sterling-silver",
+      "productUrlChecked": 1788406537843,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788406529120,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306844,8 +306871,8 @@
     "lastOnAirSku": "8108273",
     "lastOnAirTitle": "Lucy Q Drip Collection - Rhodium Overlay Sterling Silver Link Bracelet with T-Bar Clasp (Size - 8)",
     "lastOnAirAuctionCode": "0019854065",
-    "precedingSku": "8283764",
-    "precedingTitle": "Lucy Q - Snowflake Bauble Collection Pendant with Red Ribbon",
-    "precedingAuctionCode": "0019854049"
+    "precedingSku": "8108273",
+    "precedingTitle": "Lucy Q Drip Collection - Rhodium Overlay Sterling Silver Link Bracelet with T-Bar Clasp (Size - 8)",
+    "precedingAuctionCode": "0019854065"
   }
 }
