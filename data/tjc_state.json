@@ -55398,21 +55398,26 @@
       "sku": "8356592",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-02",
-      "time": "09:44:20",
+      "date": "2026-09-03",
+      "time": "01:02:24",
       "preExisting": true,
       "missedAt": 1785660260586,
       "missedDelay": null,
-      "lastUpdated": 1785660260586,
+      "lastUpdated": 1788393744165,
       "missedPrice": 75.99,
       "missedImg": true,
-      "title": "DEAL OF THE DAY - Moissanite Cuff Bangle (Size - 7) in Yellow Plating 10.00 Ct.",
-      "auctionCode": "0019804591",
+      "title": "Moissanite Cuff Bangle (Size - 7) in Black Plating 10.00 Ct.",
+      "auctionCode": "0019855046",
       "source": "gha",
       "productUrl": "/products/moissanite-cuff-bangle-pure-white-stainless-steel-10-000-ct-8356593",
       "productUrlChecked": 1785660274387,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788393744165,
+      "pdpPrice": "1987.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8695021": {
       "sku": "8695021",
@@ -288216,8 +288221,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788393669554,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -304838,11 +304843,22 @@
         "followingSku": "8689178",
         "followingTitle": "THE EMPIRE - Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 4.90 Ct.",
         "followingAuctionCode": "0019855027"
+      },
+      {
+        "start": 1788393669554,
+        "end": 1788393744165,
+        "durationMin": 1.2,
+        "precedingSku": "8597973",
+        "precedingTitle": "Royal Bali Collection - D'Joy Moissanite Ring in Rhodium Overlay Sterling Silver 2.10 Ct.",
+        "precedingAuctionCode": "0019854703",
+        "followingSku": "8356592",
+        "followingTitle": "Moissanite Cuff Bangle (Size - 7) in Black Plating 10.00 Ct.",
+        "followingAuctionCode": "0019855046"
       }
     ],
-    "lastOnAirSku": "8597973",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Moissanite Ring in Rhodium Overlay Sterling Silver 2.10 Ct.",
-    "lastOnAirAuctionCode": "0019854703",
+    "lastOnAirSku": "8356592",
+    "lastOnAirTitle": "Moissanite Cuff Bangle (Size - 7) in Black Plating 10.00 Ct.",
+    "lastOnAirAuctionCode": "0019855046",
     "precedingSku": "8597973",
     "precedingTitle": "Royal Bali Collection - D'Joy Moissanite Ring in Rhodium Overlay Sterling Silver 2.10 Ct.",
     "precedingAuctionCode": "0019854703"
