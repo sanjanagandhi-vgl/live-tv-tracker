@@ -189421,17 +189421,17 @@
       "firstAir": 1787099839920,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787100079594,
+      "lastAir": 1788398666640,
       "title": "Beautical Instant Lifting Serum",
-      "pdpPrice": "17.99",
-      "auctionCode": "0019829260",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019853711",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "01:41:19",
+      "date": "2026-09-03",
+      "time": "02:24:26",
       "productUrl": "/products/beautical-instant-lifting-serum",
-      "lastUpdated": 1787100638031,
+      "lastUpdated": 1788398666640,
       "source": "gha",
       "missedAt": 1787100638031,
       "missedDelay": 9,
@@ -289537,8 +289537,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788398598075,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306225,11 +306225,22 @@
         "followingSku": "8244715",
         "followingTitle": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
         "followingAuctionCode": "0019853670"
+      },
+      {
+        "start": 1788398598075,
+        "end": 1788398666640,
+        "durationMin": 1.1,
+        "precedingSku": "8421313",
+        "precedingTitle": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+        "precedingAuctionCode": "0019853661",
+        "followingSku": "8127036",
+        "followingTitle": "Beautical Instant Lifting Serum",
+        "followingAuctionCode": "0019853711"
       }
     ],
-    "lastOnAirSku": "8421313",
-    "lastOnAirTitle": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
-    "lastOnAirAuctionCode": "0019853661",
+    "lastOnAirSku": "8127036",
+    "lastOnAirTitle": "Beautical Instant Lifting Serum",
+    "lastOnAirAuctionCode": "0019853711",
     "precedingSku": "8421313",
     "precedingTitle": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
     "precedingAuctionCode": "0019853661"
