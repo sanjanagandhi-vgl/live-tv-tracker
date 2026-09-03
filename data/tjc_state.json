@@ -290913,11 +290913,29 @@
       "missedDelay": 8,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8520796": {
+      "sku": "8520796",
+      "firstAir": 1788422907275,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788422907275,
+      "title": "DEAL OF THE DAY - Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
+      "pdpPrice": "300.99",
+      "auctionCode": "0019855610",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-03",
+      "time": "09:08:27",
+      "productUrl": null,
+      "lastUpdated": 1788422907275,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788422727673,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -307923,11 +307941,22 @@
         "followingSku": "8477125",
         "followingTitle": "La Marey Lightweight Crew Neck Jumper (Size M, 12-14) - Sky Blue",
         "followingAuctionCode": "0019855572"
+      },
+      {
+        "start": 1788422727673,
+        "end": 1788422907275,
+        "durationMin": 3.0,
+        "precedingSku": "8477125",
+        "precedingTitle": "La Marey Lightweight Crew Neck Jumper (Size M, 12-14) - Sky Blue",
+        "precedingAuctionCode": "0019855572",
+        "followingSku": "8520796",
+        "followingTitle": "DEAL OF THE DAY - Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
+        "followingAuctionCode": "0019855610"
       }
     ],
-    "lastOnAirSku": "8477125",
-    "lastOnAirTitle": "La Marey Lightweight Crew Neck Jumper (Size M, 12-14) - Sky Blue",
-    "lastOnAirAuctionCode": "0019855572",
+    "lastOnAirSku": "8520796",
+    "lastOnAirTitle": "DEAL OF THE DAY - Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
+    "lastOnAirAuctionCode": "0019855610",
     "precedingSku": "8477125",
     "precedingTitle": "La Marey Lightweight Crew Neck Jumper (Size M, 12-14) - Sky Blue",
     "precedingAuctionCode": "0019855572"
