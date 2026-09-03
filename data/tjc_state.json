@@ -293518,9 +293518,16 @@
       "img": true,
       "date": "2026-09-03",
       "time": "14:53:31",
-      "productUrl": null,
-      "lastUpdated": 1788443611338,
-      "source": "gha"
+      "productUrl": "/products/djoy-colombian-colour-emeraldine-quartz-swiss-blue-topaz-moissanite-fancy-earring-in-platinum-overlaysterling-silver-4-104-ct-8710092",
+      "lastUpdated": 1788444201934,
+      "source": "gha",
+      "missedAt": 1788444201934,
+      "missedDelay": 10,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1788444205484,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8714895": {
       "sku": "8714895",
@@ -293722,8 +293729,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788444201934,
     "gaps": [
       {
         "start": 1785823527869,
@@ -311020,8 +311027,8 @@
     "lastOnAirSku": "8709359",
     "lastOnAirTitle": "D'Joy - Colombian Colour Emeraldine Quartz Solitaire Stud Earring with Push Back in Yellow Gold Plated Sterling Silver 3.53 Ct.",
     "lastOnAirAuctionCode": "0019856231",
-    "precedingSku": "8710092",
-    "precedingTitle": "D'Joy - Colombian Colour Emeraldine Quartz, Swiss Blue Topaz & Moissanite Earring with Push Back in Platinum Overlay Sterling Silver 4.10 Ct.",
-    "precedingAuctionCode": "0019854365"
+    "precedingSku": "8709359",
+    "precedingTitle": "D'Joy - Colombian Colour Emeraldine Quartz Solitaire Stud Earring with Push Back in Yellow Gold Plated Sterling Silver 3.53 Ct.",
+    "precedingAuctionCode": "0019856231"
   }
 }
