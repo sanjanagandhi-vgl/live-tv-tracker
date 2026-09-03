@@ -289451,11 +289451,29 @@
       "productUrl": null,
       "lastUpdated": 1788397762470,
       "source": "gha"
+    },
+    "8244715": {
+      "sku": "8244715",
+      "firstAir": 1788397878538,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788397878538,
+      "title": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019853670",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "02:11:18",
+      "productUrl": null,
+      "lastUpdated": 1788397878538,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788397837023,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306131,11 +306149,22 @@
         "followingSku": "8739949",
         "followingTitle": "Cyclax Cocoa Butter Rich Body Cream",
         "followingAuctionCode": "0019853663"
+      },
+      {
+        "start": 1788397837023,
+        "end": 1788397878538,
+        "durationMin": 0.7,
+        "precedingSku": "8739949",
+        "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream",
+        "precedingAuctionCode": "0019853663",
+        "followingSku": "8244715",
+        "followingTitle": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
+        "followingAuctionCode": "0019853670"
       }
     ],
-    "lastOnAirSku": "8739949",
-    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream",
-    "lastOnAirAuctionCode": "0019853663",
+    "lastOnAirSku": "8244715",
+    "lastOnAirTitle": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
+    "lastOnAirAuctionCode": "0019853670",
     "precedingSku": "8739949",
     "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream",
     "precedingAuctionCode": "0019853663"
