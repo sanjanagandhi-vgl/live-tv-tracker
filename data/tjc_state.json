@@ -291575,11 +291575,29 @@
       "productUrlChecked": 1788426393859,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4502645": {
+      "sku": "4502645",
+      "firstAir": 1788426560197,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788426560197,
+      "title": "EverTrue - Lapis Lazuli & White Topaz Cricle Pendant with Chain (Size 20) in Yellow Gold Tone 7.90 Ct.",
+      "pdpPrice": "349.99",
+      "auctionCode": "0019855136",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "10:09:20",
+      "productUrl": null,
+      "lastUpdated": 1788426560197,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788426440796,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -308640,11 +308658,22 @@
         "followingSku": "8097783",
         "followingTitle": "Emreco Tapered Leg Stretch Trousers (Size 20) - Black",
         "followingAuctionCode": "0019854796"
+      },
+      {
+        "start": 1788426440796,
+        "end": 1788426560197,
+        "durationMin": 2.0,
+        "precedingSku": "8221148",
+        "precedingTitle": "Emreco Jean Style Stretch Trouser With 29 Inch Leg (Size 20) - Navy",
+        "precedingAuctionCode": "0019854800",
+        "followingSku": "4502645",
+        "followingTitle": "EverTrue - Lapis Lazuli & White Topaz Cricle Pendant with Chain (Size 20) in Yellow Gold Tone 7.90 Ct.",
+        "followingAuctionCode": "0019855136"
       }
     ],
-    "lastOnAirSku": "8221148",
-    "lastOnAirTitle": "Emreco Jean Style Stretch Trouser With 29 Inch Leg (Size 20) - Navy",
-    "lastOnAirAuctionCode": "0019854800",
+    "lastOnAirSku": "4502645",
+    "lastOnAirTitle": "EverTrue - Lapis Lazuli & White Topaz Cricle Pendant with Chain (Size 20) in Yellow Gold Tone 7.90 Ct.",
+    "lastOnAirAuctionCode": "0019855136",
     "precedingSku": "8221148",
     "precedingTitle": "Emreco Jean Style Stretch Trouser With 29 Inch Leg (Size 20) - Navy",
     "precedingAuctionCode": "0019854800"
