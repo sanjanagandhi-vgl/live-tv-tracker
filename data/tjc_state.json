@@ -289819,11 +289819,29 @@
       "productUrlChecked": 1788402651953,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8192302": {
+      "sku": "8192302",
+      "firstAir": 1788403879480,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788403879480,
+      "title": "Lucy Q Iconic Catwalk Collection - Drip Necklace (Size 16-4 EXT) with Lobster Clasp in Rhodium Overlay Sterling Silver, Silver Wt. 50.00 Gms.",
+      "pdpPrice": "2799.99",
+      "auctionCode": "0019854036",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "03:51:19",
+      "productUrl": null,
+      "lastUpdated": 1788403879480,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788403795301,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306576,11 +306594,22 @@
         "followingSku": "8697738",
         "followingTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
         "followingAuctionCode": "0019854105"
+      },
+      {
+        "start": 1788403795301,
+        "end": 1788403879480,
+        "durationMin": 1.4,
+        "precedingSku": "8697738",
+        "precedingTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
+        "precedingAuctionCode": "0019854105",
+        "followingSku": "8192302",
+        "followingTitle": "Lucy Q Iconic Catwalk Collection - Drip Necklace (Size 16-4 EXT) with Lobster Clasp in Rhodium Overlay Sterling Silver, Silver Wt. 50.00 Gms.",
+        "followingAuctionCode": "0019854036"
       }
     ],
-    "lastOnAirSku": "8697738",
-    "lastOnAirTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
-    "lastOnAirAuctionCode": "0019854105",
+    "lastOnAirSku": "8192302",
+    "lastOnAirTitle": "Lucy Q Iconic Catwalk Collection - Drip Necklace (Size 16-4 EXT) with Lobster Clasp in Rhodium Overlay Sterling Silver, Silver Wt. 50.00 Gms.",
+    "lastOnAirAuctionCode": "0019854036",
     "precedingSku": "8697738",
     "precedingTitle": "Charlotte West Linen A-line Midi Dress (Size 12) - Coral",
     "precedingAuctionCode": "0019854105"
