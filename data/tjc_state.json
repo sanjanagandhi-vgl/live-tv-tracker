@@ -295371,11 +295371,29 @@
       "productUrl": null,
       "lastUpdated": 1788455543368,
       "source": "gha"
+    },
+    "8638697": {
+      "sku": "8638697",
+      "firstAir": 1788455663973,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788455663973,
+      "title": "D'Joy - Moissanite Trilogy Earring with Push Post in Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "37.99",
+      "auctionCode": "0019855697",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "18:14:23",
+      "productUrl": null,
+      "lastUpdated": 1788455663973,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788455605923,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -312799,11 +312817,22 @@
         "followingSku": "7561346",
         "followingTitle": "D'Joy - Moissanite Sterling Silver Cluster Earring with Push Back",
         "followingAuctionCode": "0019855694"
+      },
+      {
+        "start": 1788455605923,
+        "end": 1788455663973,
+        "durationMin": 1.0,
+        "precedingSku": "4439799",
+        "precedingTitle": "D'Joy - Moissanite Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.20 Ct.",
+        "precedingAuctionCode": "0019855718",
+        "followingSku": "8638697",
+        "followingTitle": "D'Joy - Moissanite Trilogy Earring with Push Post in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019855697"
       }
     ],
-    "lastOnAirSku": "4439799",
-    "lastOnAirTitle": "D'Joy - Moissanite Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.20 Ct.",
-    "lastOnAirAuctionCode": "0019855718",
+    "lastOnAirSku": "8638697",
+    "lastOnAirTitle": "D'Joy - Moissanite Trilogy Earring with Push Post in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019855697",
     "precedingSku": "4439799",
     "precedingTitle": "D'Joy - Moissanite Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.20 Ct.",
     "precedingAuctionCode": "0019855718"
