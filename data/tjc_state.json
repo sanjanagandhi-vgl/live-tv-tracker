@@ -295997,11 +295997,29 @@
       "auctionCode": "0019855675",
       "source": "gha",
       "productUrl": null
+    },
+    "8736045": {
+      "sku": "8736045",
+      "firstAir": 1788462639452,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788462639452,
+      "title": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
+      "pdpPrice": "12345.99",
+      "auctionCode": "0019854693",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "20:10:39",
+      "productUrl": null,
+      "lastUpdated": 1788462639452,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788462065689,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -313491,11 +313509,22 @@
         "followingSku": "8611132",
         "followingTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Pear Cut Solitaire Pendant 10.00 Ct.",
         "followingAuctionCode": "0019855936"
+      },
+      {
+        "start": 1788462065689,
+        "end": 1788462639452,
+        "durationMin": 9.6,
+        "precedingSku": "8690733",
+        "precedingTitle": "D'Joy - Moissanite Full Eternity Band Ring in Rhodium Overlay Sterling Silver 4.10 Ct.",
+        "precedingAuctionCode": "0019855837",
+        "followingSku": "8736045",
+        "followingTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
+        "followingAuctionCode": "0019854693"
       }
     ],
-    "lastOnAirSku": "8690733",
-    "lastOnAirTitle": "D'Joy - Moissanite Full Eternity Band Ring in Rhodium Overlay Sterling Silver 4.10 Ct.",
-    "lastOnAirAuctionCode": "0019855837",
+    "lastOnAirSku": "8736045",
+    "lastOnAirTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
+    "lastOnAirAuctionCode": "0019854693",
     "precedingSku": "8690733",
     "precedingTitle": "D'Joy - Moissanite Full Eternity Band Ring in Rhodium Overlay Sterling Silver 4.10 Ct.",
     "precedingAuctionCode": "0019855837"
