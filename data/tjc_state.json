@@ -291611,11 +291611,29 @@
       "productUrl": null,
       "lastUpdated": 1788427161155,
       "source": "gha"
+    },
+    "8620776": {
+      "sku": "8620776",
+      "firstAir": 1788427278958,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788427278958,
+      "title": "Lapis Lazuli Solitaire Ring in Sterling Silver 5.55 Ct.",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019855226",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "10:21:18",
+      "productUrl": null,
+      "lastUpdated": 1788427278958,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788427239473,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -308698,11 +308716,22 @@
         "followingSku": "8676261",
         "followingTitle": "EverTrue - Lapis Lazuli Solitaire Drop Earring in Yellow Gold Tone 3.10 Ct.",
         "followingAuctionCode": "0019855139"
+      },
+      {
+        "start": 1788427239473,
+        "end": 1788427278958,
+        "durationMin": 0.7,
+        "precedingSku": "8676261",
+        "precedingTitle": "EverTrue - Lapis Lazuli Solitaire Drop Earring in Yellow Gold Tone 3.10 Ct.",
+        "precedingAuctionCode": "0019855139",
+        "followingSku": "8620776",
+        "followingTitle": "Lapis Lazuli Solitaire Ring in Sterling Silver 5.55 Ct.",
+        "followingAuctionCode": "0019855226"
       }
     ],
-    "lastOnAirSku": "8676261",
-    "lastOnAirTitle": "EverTrue - Lapis Lazuli Solitaire Drop Earring in Yellow Gold Tone 3.10 Ct.",
-    "lastOnAirAuctionCode": "0019855139",
+    "lastOnAirSku": "8620776",
+    "lastOnAirTitle": "Lapis Lazuli Solitaire Ring in Sterling Silver 5.55 Ct.",
+    "lastOnAirAuctionCode": "0019855226",
     "precedingSku": "8676261",
     "precedingTitle": "EverTrue - Lapis Lazuli Solitaire Drop Earring in Yellow Gold Tone 3.10 Ct.",
     "precedingAuctionCode": "0019855139"
