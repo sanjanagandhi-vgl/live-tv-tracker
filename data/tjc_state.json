@@ -294568,9 +294568,16 @@
       "img": true,
       "date": "2026-09-03",
       "time": "15:54:23",
-      "productUrl": null,
-      "lastUpdated": 1788447263480,
-      "source": "gha"
+      "productUrl": "/products/evertrue-colombian-colour-emeraldine-quartz-moissanite-tennis-bracelet-1-row-size-7-pure-yellow-brass-19-788-ct-8710166",
+      "lastUpdated": 1788447865100,
+      "source": "gha",
+      "missedAt": 1788447865100,
+      "missedDelay": 10,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1788447871611,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8709309": {
       "sku": "8709309",
@@ -294607,11 +294614,51 @@
       "productUrl": null,
       "lastUpdated": 1788447800206,
       "source": "gha"
+    },
+    "8710168": {
+      "sku": "8710168",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-03",
+      "time": "16:04:25",
+      "preExisting": true,
+      "missedAt": 1788447865100,
+      "missedDelay": null,
+      "lastUpdated": 1788447865100,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "EverTrue - Colombian Colour Emeraldine Quartz & Moissanite Tennis Bracelet (Size - 7.5) in Yellow Gold Tone 22.50 Ct.",
+      "auctionCode": "0019855622",
+      "source": "gha",
+      "productUrl": "/products/evertrue-colombian-colour-emeraldine-quartz-moissanite-tennis-bracelet-1-row-size-7-pure-yellow-brass-19-788-ct-8710166",
+      "productUrlChecked": 1788447872548,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8710167": {
+      "sku": "8710167",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-03",
+      "time": "16:04:25",
+      "preExisting": true,
+      "missedAt": 1788447865100,
+      "missedDelay": null,
+      "lastUpdated": 1788447865100,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "EverTrue - Colombian Colour Emeraldine Quartz & Moissanite Tennis Bracelet (Size - 8) in Yellow Gold Tone 22.50 Ct.",
+      "auctionCode": "0019855623",
+      "source": "gha",
+      "productUrl": "/products/evertrue-colombian-colour-emeraldine-quartz-moissanite-tennis-bracelet-1-row-size-7-pure-yellow-brass-19-788-ct-8710166",
+      "productUrlChecked": 1788447872796,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788447865100,
     "gaps": [
       {
         "start": 1785823527869,
@@ -311985,8 +312032,8 @@
     "lastOnAirSku": "8710146",
     "lastOnAirTitle": "D'Joy - Colombian Colour Emeraldine Quartz Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 7.83 Ct.",
     "lastOnAirAuctionCode": "0019854366",
-    "precedingSku": "8709309",
-    "precedingTitle": "D'Joy - Colombian Colour Emeraldine Quartz Trilogy Ring in Yellow Gold Plated Sterling Silver 3.57 Ct.",
-    "precedingAuctionCode": "0019854437"
+    "precedingSku": "8710146",
+    "precedingTitle": "D'Joy - Colombian Colour Emeraldine Quartz Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 7.83 Ct.",
+    "precedingAuctionCode": "0019854366"
   }
 }
