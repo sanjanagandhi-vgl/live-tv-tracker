@@ -60557,17 +60557,17 @@
       "firstAir": 1785731060340,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786948639439,
+      "lastAir": 1788411982165,
       "title": "Laurelle Wings Eau De Parfum - 100ml",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019825336",
+      "pdpPrice": "50.99",
+      "auctionCode": "0019854478",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "time": "07:37:19",
+      "date": "2026-09-03",
+      "time": "06:06:22",
       "productUrl": "/products/laurelle-wings-eau-de-parfum-100ml",
-      "lastUpdated": 1786948639439,
+      "lastUpdated": 1788411982165,
       "source": "gha",
       "missedAt": 1785731727991,
       "missedDelay": 9,
@@ -290282,8 +290282,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788411382439,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -307146,11 +307146,22 @@
         "followingSku": "8591057",
         "followingTitle": "D'Joy - Moissanite Heart Stud Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019855519"
+      },
+      {
+        "start": 1788411382439,
+        "end": 1788411982165,
+        "durationMin": 10.0,
+        "precedingSku": "4374846",
+        "precedingTitle": "Lucy Q Jigsaw Collection - Puzzle Piece Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019854027",
+        "followingSku": "3087614",
+        "followingTitle": "Laurelle Wings Eau De Parfum - 100ml",
+        "followingAuctionCode": "0019854478"
       }
     ],
-    "lastOnAirSku": "4374846",
-    "lastOnAirTitle": "Lucy Q Jigsaw Collection - Puzzle Piece Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019854027",
+    "lastOnAirSku": "3087614",
+    "lastOnAirTitle": "Laurelle Wings Eau De Parfum - 100ml",
+    "lastOnAirAuctionCode": "0019854478",
     "precedingSku": "4374846",
     "precedingTitle": "Lucy Q Jigsaw Collection - Puzzle Piece Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019854027"
