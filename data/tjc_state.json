@@ -289897,11 +289897,29 @@
       "productUrlChecked": 1788404003742,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8283764": {
+      "sku": "8283764",
+      "firstAir": 1788405036161,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788405036161,
+      "title": "Lucy Q - Snowflake Bauble Collection Pendant with Red Ribbon",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019854049",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-03",
+      "time": "04:10:36",
+      "productUrl": null,
+      "lastUpdated": 1788405036161,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788404466670,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -306665,11 +306683,22 @@
         "followingSku": "8192302",
         "followingTitle": "Lucy Q Iconic Catwalk Collection - Drip Necklace (Size 16-4 EXT) with Lobster Clasp in Rhodium Overlay Sterling Silver, Silver Wt. 50.00 Gms.",
         "followingAuctionCode": "0019854036"
+      },
+      {
+        "start": 1788404466670,
+        "end": 1788405036161,
+        "durationMin": 9.5,
+        "precedingSku": "8192302",
+        "precedingTitle": "Lucy Q Iconic Catwalk Collection - Drip Necklace (Size 16-4 EXT) with Lobster Clasp in Rhodium Overlay Sterling Silver, Silver Wt. 50.00 Gms.",
+        "precedingAuctionCode": "0019854036",
+        "followingSku": "8283764",
+        "followingTitle": "Lucy Q - Snowflake Bauble Collection Pendant with Red Ribbon",
+        "followingAuctionCode": "0019854049"
       }
     ],
-    "lastOnAirSku": "8192302",
-    "lastOnAirTitle": "Lucy Q Iconic Catwalk Collection - Drip Necklace (Size 16-4 EXT) with Lobster Clasp in Rhodium Overlay Sterling Silver, Silver Wt. 50.00 Gms.",
-    "lastOnAirAuctionCode": "0019854036",
+    "lastOnAirSku": "8283764",
+    "lastOnAirTitle": "Lucy Q - Snowflake Bauble Collection Pendant with Red Ribbon",
+    "lastOnAirAuctionCode": "0019854049",
     "precedingSku": "8192302",
     "precedingTitle": "Lucy Q Iconic Catwalk Collection - Drip Necklace (Size 16-4 EXT) with Lobster Clasp in Rhodium Overlay Sterling Silver, Silver Wt. 50.00 Gms.",
     "precedingAuctionCode": "0019854036"
