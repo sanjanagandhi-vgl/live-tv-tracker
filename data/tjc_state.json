@@ -296678,11 +296678,29 @@
       "productUrlChecked": 1788477346906,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8753834": {
+      "sku": "8753834",
+      "firstAir": 1788478710715,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788478710715,
+      "title": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019856182",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "00:38:30",
+      "productUrl": null,
+      "lastUpdated": 1788478710715,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788478639230,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314326,11 +314344,22 @@
         "followingSku": "8724206",
         "followingTitle": "The Royal Asscher Cut Collection - 9K Yellow Gold AAA Turkizite Solitaire Pendant 2.00 Ct.",
         "followingAuctionCode": "0019856237"
+      },
+      {
+        "start": 1788478639230,
+        "end": 1788478710715,
+        "durationMin": 1.2,
+        "precedingSku": "8321371",
+        "precedingTitle": "24K Yellow Gold Squirrel Collectible",
+        "precedingAuctionCode": "0019856923",
+        "followingSku": "8753834",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
+        "followingAuctionCode": "0019856182"
       }
     ],
-    "lastOnAirSku": "8321371",
-    "lastOnAirTitle": "24K Yellow Gold Squirrel Collectible",
-    "lastOnAirAuctionCode": "0019856923",
+    "lastOnAirSku": "8753834",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
+    "lastOnAirAuctionCode": "0019856182",
     "precedingSku": "8321371",
     "precedingTitle": "24K Yellow Gold Squirrel Collectible",
     "precedingAuctionCode": "0019856923"
