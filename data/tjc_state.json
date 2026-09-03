@@ -291039,11 +291039,29 @@
       "productUrlChecked": 1788424282625,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8523249": {
+      "sku": "8523249",
+      "firstAir": 1788424400237,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788424400237,
+      "title": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
+      "pdpPrice": "150.99",
+      "auctionCode": "0019855551",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-03",
+      "time": "09:33:20",
+      "productUrl": null,
+      "lastUpdated": 1788424400237,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788424378242,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -308060,11 +308078,22 @@
         "followingSku": "8520796",
         "followingTitle": "DEAL OF THE DAY - Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
         "followingAuctionCode": "0019855610"
+      },
+      {
+        "start": 1788424378242,
+        "end": 1788424400237,
+        "durationMin": 0.4,
+        "precedingSku": "8520801",
+        "precedingTitle": "DEAL OF THE DAY - Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Brown",
+        "precedingAuctionCode": "0019855611",
+        "followingSku": "8523249",
+        "followingTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
+        "followingAuctionCode": "0019855551"
       }
     ],
-    "lastOnAirSku": "8520801",
-    "lastOnAirTitle": "DEAL OF THE DAY - Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Brown",
-    "lastOnAirAuctionCode": "0019855611",
+    "lastOnAirSku": "8523249",
+    "lastOnAirTitle": "Emreco Classic Round Neck Button Through Cardigan (Size XL, 20-22) - Pink",
+    "lastOnAirAuctionCode": "0019855551",
     "precedingSku": "8520801",
     "precedingTitle": "DEAL OF THE DAY - Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Brown",
     "precedingAuctionCode": "0019855611"
