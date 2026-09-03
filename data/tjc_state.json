@@ -295832,11 +295832,29 @@
       "productUrlChecked": 1788458733188,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8762788": {
+      "sku": "8762788",
+      "firstAir": 1788459079896,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788459079896,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019855667",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-03",
+      "time": "19:11:19",
+      "productUrl": null,
+      "lastUpdated": 1788459079896,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788458785467,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -313293,11 +313311,22 @@
         "followingSku": "8622092",
         "followingTitle": "D'Joy - Pink Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 2.50 Ct.",
         "followingAuctionCode": "0019855754"
+      },
+      {
+        "start": 1788458785467,
+        "end": 1788459079896,
+        "durationMin": 4.9,
+        "precedingSku": "4495640",
+        "precedingTitle": "D'Joy - Moissanite Cascade Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.53 Ct.",
+        "precedingAuctionCode": "0019855932",
+        "followingSku": "8762788",
+        "followingTitle": null,
+        "followingAuctionCode": "0019855667"
       }
     ],
-    "lastOnAirSku": "4495640",
-    "lastOnAirTitle": "D'Joy - Moissanite Cascade Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.53 Ct.",
-    "lastOnAirAuctionCode": "0019855932",
+    "lastOnAirSku": "8762788",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019855667",
     "precedingSku": "4495640",
     "precedingTitle": "D'Joy - Moissanite Cascade Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.53 Ct.",
     "precedingAuctionCode": "0019855932"
