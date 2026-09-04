@@ -92782,17 +92782,17 @@
       "firstAir": 1786081589304,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786344741913,
+      "lastAir": 1788501199694,
       "title": "Marigold & Lotus 100% Natural Rosemary Spray for Hair & Skin Health",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019813308",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019856581",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-10",
-      "time": "07:52:21",
+      "date": "2026-09-04",
+      "time": "06:53:19",
       "productUrl": "/products/marigold-lotus-100-natural-rosemary-spray-for-hair-skin-health",
-      "lastUpdated": 1786344741913,
+      "lastUpdated": 1788501199694,
       "source": "gha",
       "missedAt": 1786082446562,
       "missedDelay": 9,
@@ -297994,8 +297994,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788501080241,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316112,11 +316112,22 @@
         "followingSku": "7758296",
         "followingTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
         "followingAuctionCode": "0019856566"
+      },
+      {
+        "start": 1788501080241,
+        "end": 1788501199694,
+        "durationMin": 2.0,
+        "precedingSku": "7758296",
+        "precedingTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
+        "precedingAuctionCode": "0019856566",
+        "followingSku": "8071880",
+        "followingTitle": "Marigold & Lotus 100% Natural Rosemary Spray for Hair & Skin Health",
+        "followingAuctionCode": "0019856581"
       }
     ],
-    "lastOnAirSku": "7758296",
-    "lastOnAirTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
-    "lastOnAirAuctionCode": "0019856566",
+    "lastOnAirSku": "8071880",
+    "lastOnAirTitle": "Marigold & Lotus 100% Natural Rosemary Spray for Hair & Skin Health",
+    "lastOnAirAuctionCode": "0019856581",
     "precedingSku": "7758296",
     "precedingTitle": "Microwavable and Freezerable Himalayan Belly Wrap",
     "precedingAuctionCode": "0019856566"
