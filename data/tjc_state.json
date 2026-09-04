@@ -300262,11 +300262,29 @@
       "productUrlChecked": 1788534147278,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8578872": {
+      "sku": "8578872",
+      "firstAir": 1788534441156,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788534441156,
+      "title": "Rechargeable Mini Electric Food Chopper & Garlic Cutter (350ml) - USB Powered - Green",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019858010",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "16:07:21",
+      "productUrl": null,
+      "lastUpdated": 1788534441156,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788534203205,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -318878,11 +318896,22 @@
         "followingSku": "8669807",
         "followingTitle": "La Marey Womens Gold Printed Lightweight Scarf (180 x 90 cm) - Navy Blue",
         "followingAuctionCode": "0019857929"
+      },
+      {
+        "start": 1788534203205,
+        "end": 1788534441156,
+        "durationMin": 4.0,
+        "precedingSku": "8669807",
+        "precedingTitle": "La Marey Womens Gold Printed Lightweight Scarf (180 x 90 cm) - Cream & Brown",
+        "precedingAuctionCode": "0019857929",
+        "followingSku": "8578872",
+        "followingTitle": "Rechargeable Mini Electric Food Chopper & Garlic Cutter (350ml) - USB Powered - Green",
+        "followingAuctionCode": "0019858010"
       }
     ],
-    "lastOnAirSku": "8669807",
-    "lastOnAirTitle": "La Marey Womens Gold Printed Lightweight Scarf (180 x 90 cm) - Cream & Brown",
-    "lastOnAirAuctionCode": "0019857929",
+    "lastOnAirSku": "8578872",
+    "lastOnAirTitle": "Rechargeable Mini Electric Food Chopper & Garlic Cutter (350ml) - USB Powered - Green",
+    "lastOnAirAuctionCode": "0019858010",
     "precedingSku": "8669807",
     "precedingTitle": "La Marey Womens Gold Printed Lightweight Scarf (180 x 90 cm) - Cream & Brown",
     "precedingAuctionCode": "0019857929"
