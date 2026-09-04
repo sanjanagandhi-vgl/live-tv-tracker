@@ -298084,11 +298084,29 @@
       "productUrl": null,
       "lastUpdated": 1788505040857,
       "source": "gha"
+    },
+    "8666743": {
+      "sku": "8666743",
+      "firstAir": 1788505159515,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788505159515,
+      "title": "Lip Smacker Manicure Set Unicorn Nail Blockbuster",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019856564",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "07:59:19",
+      "productUrl": null,
+      "lastUpdated": 1788505159515,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788505101775,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316304,11 +316322,22 @@
         "followingSku": "8531843",
         "followingTitle": "Livmore Handcrafted Wooden Horse Rolling Toy with Wheels (12 x 11 x 8 cm) - Light Beige & Brown",
         "followingAuctionCode": "0019856337"
+      },
+      {
+        "start": 1788505101775,
+        "end": 1788505159515,
+        "durationMin": 1.0,
+        "precedingSku": "8531843",
+        "precedingTitle": "Livmore Handcrafted Wooden Horse Rolling Toy with Wheels (12 x 11 x 8 cm) - Light Beige & Brown",
+        "precedingAuctionCode": "0019856337",
+        "followingSku": "8666743",
+        "followingTitle": "Lip Smacker Manicure Set Unicorn Nail Blockbuster",
+        "followingAuctionCode": "0019856564"
       }
     ],
-    "lastOnAirSku": "8531843",
-    "lastOnAirTitle": "Livmore Handcrafted Wooden Horse Rolling Toy with Wheels (12 x 11 x 8 cm) - Light Beige & Brown",
-    "lastOnAirAuctionCode": "0019856337",
+    "lastOnAirSku": "8666743",
+    "lastOnAirTitle": "Lip Smacker Manicure Set Unicorn Nail Blockbuster",
+    "lastOnAirAuctionCode": "0019856564",
     "precedingSku": "8531843",
     "precedingTitle": "Livmore Handcrafted Wooden Horse Rolling Toy with Wheels (12 x 11 x 8 cm) - Light Beige & Brown",
     "precedingAuctionCode": "0019856337"
