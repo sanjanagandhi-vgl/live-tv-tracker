@@ -284493,21 +284493,26 @@
       "sku": "8613756",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-02",
-      "time": "11:45:36",
+      "date": "2026-09-04",
+      "time": "08:34:22",
       "preExisting": true,
       "missedAt": 1788345936608,
       "missedDelay": null,
-      "lastUpdated": 1788345936608,
+      "lastUpdated": 1788507262394,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Exquisite Elegance Seamless Padded Bra (Size - Small, 32-34) - White",
-      "auctionCode": "0019853379",
+      "title": "Exquisite Elegance Seamless Padded Bra (Size - XXL 48-50) - Black",
+      "auctionCode": "0019856461",
       "source": "gha",
       "productUrl": "/products/exquisite-elegance-seamless-padded-bra-1558613756",
       "productUrlChecked": 1788345940865,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788507262394,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8613757": {
       "sku": "8613757",
@@ -298229,8 +298234,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788507217314,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316468,11 +316473,22 @@
         "followingSku": "8567189",
         "followingTitle": "Novelty Lobster Cartoon Mini Backpack Rucksack - Yellow",
         "followingAuctionCode": "0019856377"
+      },
+      {
+        "start": 1788507217314,
+        "end": 1788507262394,
+        "durationMin": 0.8,
+        "precedingSku": "8512580",
+        "precedingTitle": "Cocomelon Dome Umbrella",
+        "precedingAuctionCode": "0019856370",
+        "followingSku": "8613756",
+        "followingTitle": "Exquisite Elegance Seamless Padded Bra (Size - XXL 48-50) - Black",
+        "followingAuctionCode": "0019856461"
       }
     ],
-    "lastOnAirSku": "8512580",
-    "lastOnAirTitle": "Cocomelon Dome Umbrella",
-    "lastOnAirAuctionCode": "0019856370",
+    "lastOnAirSku": "8613756",
+    "lastOnAirTitle": "Exquisite Elegance Seamless Padded Bra (Size - XXL 48-50) - Black",
+    "lastOnAirAuctionCode": "0019856461",
     "precedingSku": "8512580",
     "precedingTitle": "Cocomelon Dome Umbrella",
     "precedingAuctionCode": "0019856370"
