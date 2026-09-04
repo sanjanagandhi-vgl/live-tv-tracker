@@ -298965,9 +298965,16 @@
       "img": true,
       "date": "2026-09-04",
       "time": "11:11:19",
-      "productUrl": null,
-      "lastUpdated": 1788516679073,
-      "source": "gha"
+      "productUrl": "/products/set-of-2-multi-gemstones-7-chakras-motif-necklace-size-18-2-ext-stretchable-bracelet-size-7-5-in-silver-tone-1654166526",
+      "lastUpdated": 1788517236300,
+      "source": "gha",
+      "missedAt": 1788517236300,
+      "missedDelay": 9,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "productUrlChecked": 1788517238917,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8545024": {
       "sku": "8545024",
@@ -299027,11 +299034,29 @@
       "productUrlChecked": 1788517106733,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8020483": {
+      "sku": "8020483",
+      "firstAir": 1788517236300,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788517236300,
+      "title": "Lapis Lazuli and Interchangeable Multi Gemstones Bracelet with Lobster Clasp (Size - 7.5+2 Ext) in Yellow Tone 59.50 Ct",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019856329",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "11:20:36",
+      "productUrl": null,
+      "lastUpdated": 1788517236300,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788517158064,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -317412,11 +317437,22 @@
         "followingSku": "4166528",
         "followingTitle": "Set of 2 - Multi Gemstones 7 Chakras Elephant Motif Necklace (Size - 18-2 Ext) & Stretchable Bracelet (Size - 7.5) in Silver Tone 297.50 Ct.",
         "followingAuctionCode": "0019856409"
+      },
+      {
+        "start": 1788517158064,
+        "end": 1788517236300,
+        "durationMin": 1.3,
+        "precedingSku": "8678170",
+        "precedingTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
+        "precedingAuctionCode": "0019856331",
+        "followingSku": "8020483",
+        "followingTitle": "Lapis Lazuli and Interchangeable Multi Gemstones Bracelet with Lobster Clasp (Size - 7.5+2 Ext) in Yellow Tone 59.50 Ct",
+        "followingAuctionCode": "0019856329"
       }
     ],
-    "lastOnAirSku": "8678170",
-    "lastOnAirTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
-    "lastOnAirAuctionCode": "0019856331",
+    "lastOnAirSku": "8020483",
+    "lastOnAirTitle": "Lapis Lazuli and Interchangeable Multi Gemstones Bracelet with Lobster Clasp (Size - 7.5+2 Ext) in Yellow Tone 59.50 Ct",
+    "lastOnAirAuctionCode": "0019856329",
     "precedingSku": "8678170",
     "precedingTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
     "precedingAuctionCode": "0019856331"
