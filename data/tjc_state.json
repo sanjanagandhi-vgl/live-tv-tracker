@@ -290035,21 +290035,26 @@
       "sku": "7971320",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-03",
-      "time": "02:48:24",
+      "date": "2026-09-04",
+      "time": "07:38:23",
       "preExisting": true,
       "missedAt": 1788400104447,
       "missedDelay": null,
-      "lastUpdated": 1788400104447,
+      "lastUpdated": 1788503903165,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Beautech Womens Portable Shaver with USB Charging - Pink",
-      "auctionCode": "0019853669",
+      "auctionCode": "0019856551",
       "source": "gha",
       "productUrl": "/products/beautech-womens-portable-shaver-with-usb-charging",
       "productUrlChecked": 1788400111556,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788503903165,
+      "pdpPrice": "151.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8243724": {
       "sku": "8243724",
@@ -298037,8 +298042,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788503842309,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316232,11 +316237,22 @@
         "followingSku": "8679388",
         "followingTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
         "followingAuctionCode": "0019856554"
+      },
+      {
+        "start": 1788503842309,
+        "end": 1788503903165,
+        "durationMin": 1.0,
+        "precedingSku": "8679388",
+        "precedingTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
+        "precedingAuctionCode": "0019856554",
+        "followingSku": "7971320",
+        "followingTitle": "Beautech Womens Portable Shaver with USB Charging - Pink",
+        "followingAuctionCode": "0019856551"
       }
     ],
-    "lastOnAirSku": "8679388",
-    "lastOnAirTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
-    "lastOnAirAuctionCode": "0019856554",
+    "lastOnAirSku": "7971320",
+    "lastOnAirTitle": "Beautech Womens Portable Shaver with USB Charging - Pink",
+    "lastOnAirAuctionCode": "0019856551",
     "precedingSku": "8679388",
     "precedingTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
     "precedingAuctionCode": "0019856554"
