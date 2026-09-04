@@ -281382,21 +281382,26 @@
       "sku": "8556780",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-01",
-      "time": "14:29:22",
+      "date": "2026-09-04",
+      "time": "09:26:23",
       "preExisting": true,
       "missedAt": 1788269362372,
       "missedDelay": null,
-      "lastUpdated": 1788269362372,
+      "lastUpdated": 1788510383116,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "Trendy Oversized Square UV400 Polarised Sunglasse - Black",
-      "auctionCode": "0019852772",
+      "auctionCode": "0019856519",
       "source": "gha",
       "productUrl": "/products/patterned-sunglass-brown-leopard-8556779",
       "productUrlChecked": 1788269366786,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788510383116,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8556782": {
       "sku": "8556782",
@@ -298325,8 +298330,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788510329058,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316597,11 +316602,22 @@
         "followingSku": "8669040",
         "followingTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs",
         "followingAuctionCode": "0019856524"
+      },
+      {
+        "start": 1788510329058,
+        "end": 1788510383116,
+        "durationMin": 0.9,
+        "precedingSku": "8669040",
+        "precedingTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs",
+        "precedingAuctionCode": "0019856524",
+        "followingSku": "8556780",
+        "followingTitle": "Trendy Oversized Square UV400 Polarised Sunglasse - Black",
+        "followingAuctionCode": "0019856519"
       }
     ],
-    "lastOnAirSku": "8669040",
-    "lastOnAirTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs",
-    "lastOnAirAuctionCode": "0019856524",
+    "lastOnAirSku": "8556780",
+    "lastOnAirTitle": "Trendy Oversized Square UV400 Polarised Sunglasse - Black",
+    "lastOnAirAuctionCode": "0019856519",
     "precedingSku": "8669040",
     "precedingTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs",
     "precedingAuctionCode": "0019856524"
