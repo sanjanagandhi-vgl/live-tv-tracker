@@ -236609,17 +236609,17 @@
       "firstAir": 1787627480009,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787627604739,
+      "lastAir": 1788489203560,
       "title": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - White",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019839689",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019856023",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-25",
-      "time": "04:13:24",
+      "date": "2026-09-04",
+      "time": "03:33:23",
       "productUrl": "/products/bug-zapper",
-      "lastUpdated": 1787628380251,
+      "lastUpdated": 1788489203560,
       "source": "gha",
       "missedAt": 1787628380251,
       "missedDelay": 13,
@@ -297407,8 +297407,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788489143426,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315327,11 +315327,22 @@
         "followingSku": "8256327",
         "followingTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
         "followingAuctionCode": "0019856026"
+      },
+      {
+        "start": 1788489143426,
+        "end": 1788489203560,
+        "durationMin": 1.0,
+        "precedingSku": "8256327",
+        "precedingTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
+        "precedingAuctionCode": "0019856026",
+        "followingSku": "8363247",
+        "followingTitle": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - White",
+        "followingAuctionCode": "0019856023"
       }
     ],
-    "lastOnAirSku": "8256327",
-    "lastOnAirTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
-    "lastOnAirAuctionCode": "0019856026",
+    "lastOnAirSku": "8363247",
+    "lastOnAirTitle": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - White",
+    "lastOnAirAuctionCode": "0019856023",
     "precedingSku": "8256327",
     "precedingTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
     "precedingAuctionCode": "0019856026"
