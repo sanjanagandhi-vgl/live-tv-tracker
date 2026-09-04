@@ -300727,11 +300727,29 @@
       "productUrlChecked": 1788543804084,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8508482": {
+      "sku": "8508482",
+      "firstAir": 1788544278946,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788544278946,
+      "title": "Designer Inspired Boat Portrait Phone Crossbody Bag with RFID Blocking - Blue",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019856919",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "18:51:18",
+      "productUrl": null,
+      "lastUpdated": 1788544278946,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788544236684,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319486,11 +319504,22 @@
         "followingSku": "8699176",
         "followingTitle": "Recently Amber Dunes EDP - 10ml",
         "followingAuctionCode": "0019858113"
+      },
+      {
+        "start": 1788544236684,
+        "end": 1788544278946,
+        "durationMin": 0.7,
+        "precedingSku": "8699176",
+        "precedingTitle": "Recently Amber Dunes EDP - 10ml",
+        "precedingAuctionCode": "0019858113",
+        "followingSku": "8508482",
+        "followingTitle": "Designer Inspired Boat Portrait Phone Crossbody Bag with RFID Blocking - Blue",
+        "followingAuctionCode": "0019856919"
       }
     ],
-    "lastOnAirSku": "8699176",
-    "lastOnAirTitle": "Recently Amber Dunes EDP - 10ml",
-    "lastOnAirAuctionCode": "0019858113",
+    "lastOnAirSku": "8508482",
+    "lastOnAirTitle": "Designer Inspired Boat Portrait Phone Crossbody Bag with RFID Blocking - Blue",
+    "lastOnAirAuctionCode": "0019856919",
     "precedingSku": "8699176",
     "precedingTitle": "Recently Amber Dunes EDP - 10ml",
     "precedingAuctionCode": "0019858113"
