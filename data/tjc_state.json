@@ -272583,21 +272583,26 @@
       "sku": "8593255",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "10:11:19",
+      "date": "2026-09-04",
+      "time": "09:40:36",
       "preExisting": true,
       "missedAt": 1788167479762,
       "missedDelay": null,
-      "lastUpdated": 1788167479762,
+      "lastUpdated": 1788511236849,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Green",
-      "auctionCode": "0019850169",
+      "auctionCode": "0019856499",
       "source": "gha",
       "productUrl": "/products/la-marey-printed-scarf-size-one-size-green-8592979",
       "productUrlChecked": 1788167484131,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788511236849,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8593258": {
       "sku": "8593258",
@@ -298332,11 +298337,31 @@
       "missedDelay": 9,
       "missedPrice": 9.99,
       "missedImg": false
+    },
+    "8556781": {
+      "sku": "8556781",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-04",
+      "time": "09:40:36",
+      "preExisting": true,
+      "missedAt": 1788511236849,
+      "missedDelay": null,
+      "lastUpdated": 1788511236849,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Trendy Oversized Square UV400 Polarised Sunglasse - Maroon",
+      "auctionCode": "0019856520",
+      "source": "gha",
+      "productUrl": "/products/patterned-sunglass-brown-leopard-8556779",
+      "productUrlChecked": 1788511240159,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788511103558,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316629,11 +316654,22 @@
         "followingSku": "8335716",
         "followingTitle": "Color Shell Pearl Beads Necklace",
         "followingAuctionCode": "0019856862"
+      },
+      {
+        "start": 1788511103558,
+        "end": 1788511236849,
+        "durationMin": 2.2,
+        "precedingSku": "8335716",
+        "precedingTitle": "Color Shell Pearl Beads Necklace",
+        "precedingAuctionCode": "0019856862",
+        "followingSku": "8593255",
+        "followingTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Green",
+        "followingAuctionCode": "0019856499"
       }
     ],
-    "lastOnAirSku": "8335716",
-    "lastOnAirTitle": "Color Shell Pearl Beads Necklace",
-    "lastOnAirAuctionCode": "0019856862",
+    "lastOnAirSku": "8593255",
+    "lastOnAirTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Green",
+    "lastOnAirAuctionCode": "0019856499",
     "precedingSku": "8335716",
     "precedingTitle": "Color Shell Pearl Beads Necklace",
     "precedingAuctionCode": "0019856862"
