@@ -26905,21 +26905,26 @@
       "sku": "8578880",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-09-04",
+      "time": "02:54:29",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1788486869325,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Abalone Shell Adjustable Beads Bracelet (Size - 8-1 Ext) with T-Bar Clasp 60.00 Ct.",
-      "auctionCode": "0019801538",
+      "auctionCode": "0019854218",
       "source": "gha",
       "productUrl": "/products/abalone-shell-adjustable-beads-bracelet-size-7-5-1-ext-with-t-bar-clasp-75-00-ct-8578866",
       "productUrlChecked": 1785474862396,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788486869325,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8578868": {
       "sku": "8578868",
@@ -297314,8 +297319,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788486798616,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315168,11 +315173,22 @@
         "followingSku": "8308622",
         "followingTitle": "Designer Inspired-Half Hoop Earring with Clasp",
         "followingAuctionCode": "0019854216"
+      },
+      {
+        "start": 1788486798616,
+        "end": 1788486869325,
+        "durationMin": 1.2,
+        "precedingSku": "8308622",
+        "precedingTitle": "Designer Inspired-Half Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019854216",
+        "followingSku": "8578880",
+        "followingTitle": "Abalone Shell Adjustable Beads Bracelet (Size - 8-1 Ext) with T-Bar Clasp 60.00 Ct.",
+        "followingAuctionCode": "0019854218"
       }
     ],
-    "lastOnAirSku": "8308622",
-    "lastOnAirTitle": "Designer Inspired-Half Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019854216",
+    "lastOnAirSku": "8578880",
+    "lastOnAirTitle": "Abalone Shell Adjustable Beads Bracelet (Size - 8-1 Ext) with T-Bar Clasp 60.00 Ct.",
+    "lastOnAirAuctionCode": "0019854218",
     "precedingSku": "8308622",
     "precedingTitle": "Designer Inspired-Half Hoop Earring with Clasp",
     "precedingAuctionCode": "0019854216"
