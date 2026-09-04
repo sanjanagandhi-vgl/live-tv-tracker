@@ -298301,11 +298301,29 @@
       "missedDelay": 10,
       "missedPrice": 7.99,
       "missedImg": true
+    },
+    "8669040": {
+      "sku": "8669040",
+      "firstAir": 1788509664183,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788509664183,
+      "title": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019856524",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-04",
+      "time": "09:14:24",
+      "productUrl": null,
+      "lastUpdated": 1788509664183,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788509303432,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316565,11 +316583,22 @@
         "followingSku": "8505324",
         "followingTitle": "Exquisite Elegance Seamless High Waist Tummy Control Brief (Size XXL, 18 To 20) - White",
         "followingAuctionCode": "0019856427"
+      },
+      {
+        "start": 1788509303432,
+        "end": 1788509664183,
+        "durationMin": 6.0,
+        "precedingSku": "8520377",
+        "precedingTitle": "Pack of 4- Exquisite Elegance High Leg Brief (Size 10) - Pink & Black, 95% Cotton & 5% Elastane",
+        "precedingAuctionCode": "0019856440",
+        "followingSku": "8669040",
+        "followingTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs",
+        "followingAuctionCode": "0019856524"
       }
     ],
-    "lastOnAirSku": "8520377",
-    "lastOnAirTitle": "Pack of 4- Exquisite Elegance High Leg Brief (Size 10) - Pink & Black, 95% Cotton & 5% Elastane",
-    "lastOnAirAuctionCode": "0019856440",
+    "lastOnAirSku": "8669040",
+    "lastOnAirTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs",
+    "lastOnAirAuctionCode": "0019856524",
     "precedingSku": "8520377",
     "precedingTitle": "Pack of 4- Exquisite Elegance High Leg Brief (Size 10) - Pink & Black, 95% Cotton & 5% Elastane",
     "precedingAuctionCode": "0019856440"
