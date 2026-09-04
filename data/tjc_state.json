@@ -298011,11 +298011,29 @@
       "productUrlChecked": 1788501671492,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7949738": {
+      "sku": "7949738",
+      "firstAir": 1788503301498,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788503301498,
+      "title": "Douvallis Colour Drip Lip and Cheek Oil",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019856577",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "07:28:21",
+      "productUrl": null,
+      "lastUpdated": 1788503301498,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788503239605,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316187,11 +316205,22 @@
         "followingSku": "8740710",
         "followingTitle": "OPI Nail Laquer Spring 2026 Collection - You Dont Know Suzi - 15ml",
         "followingAuctionCode": "0019856317"
+      },
+      {
+        "start": 1788503239605,
+        "end": 1788503301498,
+        "durationMin": 1.0,
+        "precedingSku": "8740710",
+        "precedingTitle": "OPI Nail Laquer Spring 2026 Collection - You Dont Know Suzi - 15ml",
+        "precedingAuctionCode": "0019856317",
+        "followingSku": "7949738",
+        "followingTitle": "Douvallis Colour Drip Lip and Cheek Oil",
+        "followingAuctionCode": "0019856577"
       }
     ],
-    "lastOnAirSku": "8740710",
-    "lastOnAirTitle": "OPI Nail Laquer Spring 2026 Collection - You Dont Know Suzi - 15ml",
-    "lastOnAirAuctionCode": "0019856317",
+    "lastOnAirSku": "7949738",
+    "lastOnAirTitle": "Douvallis Colour Drip Lip and Cheek Oil",
+    "lastOnAirAuctionCode": "0019856577",
     "precedingSku": "8740710",
     "precedingTitle": "OPI Nail Laquer Spring 2026 Collection - You Dont Know Suzi - 15ml",
     "precedingAuctionCode": "0019856317"
