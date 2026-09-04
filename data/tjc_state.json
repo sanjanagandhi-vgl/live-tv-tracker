@@ -299470,11 +299470,29 @@
       "productUrl": null,
       "lastUpdated": 1788521599135,
       "source": "gha"
+    },
+    "8682080": {
+      "sku": "8682080",
+      "firstAir": 1788521662983,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788521662983,
+      "title": "Yellow Tigers Eye Cross Pendant in Silver Tone 30.00 Ct.",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019856989",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-04",
+      "time": "12:34:22",
+      "productUrl": null,
+      "lastUpdated": 1788521662983,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788521625538,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -317932,11 +317950,22 @@
         "followingSku": "8682128",
         "followingTitle": "Fire Ruby Skull Pendant in Silver Tone 2.25 Ct.",
         "followingAuctionCode": "0019856993"
+      },
+      {
+        "start": 1788521625538,
+        "end": 1788521662983,
+        "durationMin": 0.6,
+        "precedingSku": "8682089",
+        "precedingTitle": "Natural Green Aventurine Skull Pendant in Silver Tone 2.25 Ct.",
+        "precedingAuctionCode": "0019856990",
+        "followingSku": "8682080",
+        "followingTitle": "Yellow Tigers Eye Cross Pendant in Silver Tone 30.00 Ct.",
+        "followingAuctionCode": "0019856989"
       }
     ],
-    "lastOnAirSku": "8682089",
-    "lastOnAirTitle": "Natural Green Aventurine Skull Pendant in Silver Tone 2.25 Ct.",
-    "lastOnAirAuctionCode": "0019856990",
+    "lastOnAirSku": "8682080",
+    "lastOnAirTitle": "Yellow Tigers Eye Cross Pendant in Silver Tone 30.00 Ct.",
+    "lastOnAirAuctionCode": "0019856989",
     "precedingSku": "8682089",
     "precedingTitle": "Natural Green Aventurine Skull Pendant in Silver Tone 2.25 Ct.",
     "precedingAuctionCode": "0019856990"
