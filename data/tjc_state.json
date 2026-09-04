@@ -301052,11 +301052,29 @@
       "auctionCode": "0019856735",
       "source": "gha",
       "productUrl": null
+    },
+    "8724923": {
+      "sku": "8724923",
+      "firstAir": 1788553942878,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788553942878,
+      "title": "Luxoro - 9K Yellow Gold AAAA Turkizite Hexagon Shape Solitaire Pendant 3.40 Ct.",
+      "pdpPrice": "3199.99",
+      "auctionCode": "0019857242",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "21:32:22",
+      "productUrl": null,
+      "lastUpdated": 1788553942878,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788553880414,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319943,11 +319961,22 @@
         "followingSku": "8734775",
         "followingTitle": "AAA Turkizite Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
         "followingAuctionCode": "0019858116"
+      },
+      {
+        "start": 1788553880414,
+        "end": 1788553942878,
+        "durationMin": 1.0,
+        "precedingSku": "8734775",
+        "precedingTitle": "AAA Turkizite Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+        "precedingAuctionCode": "0019858116",
+        "followingSku": "8724923",
+        "followingTitle": "Luxoro - 9K Yellow Gold AAAA Turkizite Hexagon Shape Solitaire Pendant 3.40 Ct.",
+        "followingAuctionCode": "0019857242"
       }
     ],
-    "lastOnAirSku": "8734775",
-    "lastOnAirTitle": "AAA Turkizite Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019858116",
+    "lastOnAirSku": "8724923",
+    "lastOnAirTitle": "Luxoro - 9K Yellow Gold AAAA Turkizite Hexagon Shape Solitaire Pendant 3.40 Ct.",
+    "lastOnAirAuctionCode": "0019857242",
     "precedingSku": "8734775",
     "precedingTitle": "AAA Turkizite Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
     "precedingAuctionCode": "0019858116"
