@@ -301364,11 +301364,31 @@
       "productUrlChecked": 1788561266114,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8527328": {
+      "sku": "8527328",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-04",
+      "time": "23:50:35",
+      "preExisting": true,
+      "missedAt": 1788562235204,
+      "missedDelay": null,
+      "lastUpdated": 1788562235204,
+      "missedPrice": 299.99,
+      "missedImg": true,
+      "title": "JCK Vegas Finds- 14K White Gold Natural Earth Mined Diamond  ( SI G-H) Journey Pendant 0.50 Ct.",
+      "auctionCode": "0019857381",
+      "source": "gha",
+      "productUrl": "/products/gold-white-diamond-pendant-0-50-ct",
+      "productUrlChecked": 1788562238454,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788562235204,
     "gaps": [
       {
         "start": 1785823527869,
@@ -320348,8 +320368,8 @@
     "lastOnAirSku": "8564246",
     "lastOnAirTitle": "EverTrue - Natural White Diamond Necklace (Size - 20)",
     "lastOnAirAuctionCode": "0019857346",
-    "precedingSku": "8527324",
-    "precedingTitle": "JCK Vegas Finds- 14K Yellow Gold Natural Earth Mined Diamond ( SI G-H) Journey Pendant 0.50 Ct.",
-    "precedingAuctionCode": "0019857380"
+    "precedingSku": "8564246",
+    "precedingTitle": "EverTrue - Natural White Diamond Necklace (Size - 20)",
+    "precedingAuctionCode": "0019857346"
   }
 }
