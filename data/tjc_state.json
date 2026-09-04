@@ -299402,11 +299402,29 @@
       "productUrlChecked": 1788520884733,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8248055": {
+      "sku": "8248055",
+      "firstAir": 1788520942593,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788520942593,
+      "title": "Multi Colour Amber Beads Necklace (Size 22 - 2 Ext) in Yellow Gold Plated Sterling Silver 17.50 Ct.",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019856987",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "12:22:22",
+      "productUrl": null,
+      "lastUpdated": 1788520942593,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788520880470,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -317842,11 +317860,22 @@
         "followingSku": "4505143",
         "followingTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
         "followingAuctionCode": "0019856474"
+      },
+      {
+        "start": 1788520880470,
+        "end": 1788520942593,
+        "durationMin": 1.0,
+        "precedingSku": "4505143",
+        "precedingTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
+        "precedingAuctionCode": "0019856474",
+        "followingSku": "8248055",
+        "followingTitle": "Multi Colour Amber Beads Necklace (Size 22 - 2 Ext) in Yellow Gold Plated Sterling Silver 17.50 Ct.",
+        "followingAuctionCode": "0019856987"
       }
     ],
-    "lastOnAirSku": "4505143",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019856474",
+    "lastOnAirSku": "8248055",
+    "lastOnAirTitle": "Multi Colour Amber Beads Necklace (Size 22 - 2 Ext) in Yellow Gold Plated Sterling Silver 17.50 Ct.",
+    "lastOnAirAuctionCode": "0019856987",
     "precedingSku": "4505143",
     "precedingTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019856474"
