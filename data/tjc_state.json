@@ -16645,21 +16645,22 @@
       "firstAir": 1785122596080,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785122780587,
-      "title": "Sleeping Beauty Turquoise Colour Faceted Shell Pearl Necklace (Size 18 + 2 Ext) 200.00 Ct.",
-      "pdpPrice": 7.99,
-      "auctionCode": "0019796082",
-      "buy": false,
-      "login": true,
+      "lastAir": 1788510862656,
+      "title": "Color Shell Pearl Beads Necklace",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019856862",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "04:26:20",
-      "lastUpdated": 1785122839038,
+      "date": "2026-09-04",
+      "time": "09:34:22",
+      "lastUpdated": 1788510862656,
       "source": "gha",
       "missedAt": 1785122839038,
       "missedDelay": 1,
       "missedPrice": 7.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8360034": {
       "sku": "8360034",
@@ -298334,8 +298335,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788510742326,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316617,11 +316618,22 @@
         "followingSku": "8556780",
         "followingTitle": "Trendy Oversized Square UV400 Polarised Sunglasse - Black",
         "followingAuctionCode": "0019856519"
+      },
+      {
+        "start": 1788510742326,
+        "end": 1788510862656,
+        "durationMin": 2.0,
+        "precedingSku": "8556780",
+        "precedingTitle": "Trendy Oversized Square UV400 Polarised Sunglasse - Black",
+        "precedingAuctionCode": "0019856519",
+        "followingSku": "8335716",
+        "followingTitle": "Color Shell Pearl Beads Necklace",
+        "followingAuctionCode": "0019856862"
       }
     ],
-    "lastOnAirSku": "8556780",
-    "lastOnAirTitle": "Trendy Oversized Square UV400 Polarised Sunglasse - Black",
-    "lastOnAirAuctionCode": "0019856519",
+    "lastOnAirSku": "8335716",
+    "lastOnAirTitle": "Color Shell Pearl Beads Necklace",
+    "lastOnAirAuctionCode": "0019856862",
     "precedingSku": "8556780",
     "precedingTitle": "Trendy Oversized Square UV400 Polarised Sunglasse - Black",
     "precedingAuctionCode": "0019856519"
