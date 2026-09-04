@@ -96352,17 +96352,17 @@
       "firstAir": 1786102159904,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788142881858,
+      "lastAir": 1788488240784,
       "title": "Set of 2 Colour Changing Santa and Snowman Christmas Decorations - Red & White",
-      "pdpPrice": 4.99,
-      "auctionCode": "0019850485",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019854198",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
-      "time": "03:21:21",
+      "date": "2026-09-04",
+      "time": "03:17:20",
       "productUrl": "/products/set-of-2-colour-changing-santa-and-snowman-christmas-decorations-red-white?variant=53108212269322",
-      "lastUpdated": 1788142881858,
+      "lastUpdated": 1788488240784,
       "source": "gha",
       "missedAt": 1786102839240,
       "missedDelay": 9,
@@ -297319,8 +297319,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788488172928,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315206,11 +315206,22 @@
         "followingSku": "7948830",
         "followingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
         "followingAuctionCode": "0019854201"
+      },
+      {
+        "start": 1788488172928,
+        "end": 1788488240784,
+        "durationMin": 1.1,
+        "precedingSku": "7948830",
+        "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
+        "precedingAuctionCode": "0019854201",
+        "followingSku": "7552044",
+        "followingTitle": "Set of 2 Colour Changing Santa and Snowman Christmas Decorations - Red & White",
+        "followingAuctionCode": "0019854198"
       }
     ],
-    "lastOnAirSku": "7948830",
-    "lastOnAirTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
-    "lastOnAirAuctionCode": "0019854201",
+    "lastOnAirSku": "7552044",
+    "lastOnAirTitle": "Set of 2 Colour Changing Santa and Snowman Christmas Decorations - Red & White",
+    "lastOnAirAuctionCode": "0019854198",
     "precedingSku": "7948830",
     "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
     "precedingAuctionCode": "0019854201"
