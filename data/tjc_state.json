@@ -284388,21 +284388,26 @@
       "sku": "8679388",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-02",
-      "time": "10:19:20",
+      "date": "2026-09-04",
+      "time": "07:34:26",
       "preExisting": true,
       "missedAt": 1788340760361,
       "missedDelay": null,
-      "lastUpdated": 1788340760361,
+      "lastUpdated": 1788503666480,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
-      "auctionCode": "0019853940",
+      "auctionCode": "0019856554",
       "source": "gha",
       "productUrl": "/products/spongelle-body-wash-infused-pedi-buffer-30-washes-bulgarian-rose-8679388",
       "productUrlChecked": 1788340765244,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788503666480,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8613755": {
       "sku": "8613755",
@@ -298032,8 +298037,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788503479109,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316216,11 +316221,22 @@
         "followingSku": "7949738",
         "followingTitle": "Douvallis Colour Drip Lip and Cheek Oil",
         "followingAuctionCode": "0019856577"
+      },
+      {
+        "start": 1788503479109,
+        "end": 1788503666480,
+        "durationMin": 3.1,
+        "precedingSku": "7949738",
+        "precedingTitle": "Douvallis Colour Drip Lip and Cheek Oil",
+        "precedingAuctionCode": "0019856577",
+        "followingSku": "8679388",
+        "followingTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
+        "followingAuctionCode": "0019856554"
       }
     ],
-    "lastOnAirSku": "7949738",
-    "lastOnAirTitle": "Douvallis Colour Drip Lip and Cheek Oil",
-    "lastOnAirAuctionCode": "0019856577",
+    "lastOnAirSku": "8679388",
+    "lastOnAirTitle": "Spongelle Body Wash Infused Pedi Buffer 30- Washes - Bulgarian Rose",
+    "lastOnAirAuctionCode": "0019856554",
     "precedingSku": "7949738",
     "precedingTitle": "Douvallis Colour Drip Lip and Cheek Oil",
     "precedingAuctionCode": "0019856577"
