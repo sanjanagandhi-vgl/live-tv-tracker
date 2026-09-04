@@ -60744,17 +60744,17 @@
       "firstAir": 1785731060340,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788412158015,
+      "lastAir": 1788498385067,
       "title": "Laurelle Wings Eau De Parfum - 100ml",
       "pdpPrice": "9.99",
-      "auctionCode": "0019854478",
+      "auctionCode": "0019856550",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-03",
-      "time": "06:09:18",
+      "date": "2026-09-04",
+      "time": "06:06:25",
       "productUrl": "/products/laurelle-wings-eau-de-parfum-100ml",
-      "lastUpdated": 1788412158015,
+      "lastUpdated": 1788498385067,
       "source": "gha",
       "missedAt": 1785731727991,
       "missedDelay": 9,
@@ -297985,8 +297985,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788497840543,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316048,11 +316048,22 @@
         "followingSku": "8667358",
         "followingTitle": "Greek Design Dome Umbrella - Silver",
         "followingAuctionCode": "0019856192"
+      },
+      {
+        "start": 1788497840543,
+        "end": 1788498385067,
+        "durationMin": 9.1,
+        "precedingSku": "8415394",
+        "precedingTitle": "Designer-Inspired Leopard Print Crossbody Bag",
+        "precedingAuctionCode": "0019856211",
+        "followingSku": "3087614",
+        "followingTitle": "Laurelle Wings Eau De Parfum - 100ml",
+        "followingAuctionCode": "0019856550"
       }
     ],
-    "lastOnAirSku": "8415394",
-    "lastOnAirTitle": "Designer-Inspired Leopard Print Crossbody Bag",
-    "lastOnAirAuctionCode": "0019856211",
+    "lastOnAirSku": "3087614",
+    "lastOnAirTitle": "Laurelle Wings Eau De Parfum - 100ml",
+    "lastOnAirAuctionCode": "0019856550",
     "precedingSku": "8415394",
     "precedingTitle": "Designer-Inspired Leopard Print Crossbody Bag",
     "precedingAuctionCode": "0019856211"
