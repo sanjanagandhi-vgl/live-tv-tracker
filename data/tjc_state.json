@@ -206051,21 +206051,26 @@
       "sku": "8752952",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "10:03:19",
+      "date": "2026-09-04",
+      "time": "09:46:29",
       "preExisting": true,
       "missedAt": 1787302999291,
       "missedDelay": null,
-      "lastUpdated": 1787302999291,
+      "lastUpdated": 1788511589986,
       "missedPrice": 19.99,
       "missedImg": false,
       "title": "Abstract Print Oversized Shirt (One Size, 8-18) - Green & Brown",
-      "auctionCode": "0019834252",
+      "auctionCode": "0019856806",
       "source": "gha",
       "productUrl": "/products/tjc-special-shirt-size-one-size-black-pink-8752954",
       "productUrlChecked": 1787303001887,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788511589986,
+      "pdpPrice": null,
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8752953": {
       "sku": "8752953",
@@ -298360,8 +298365,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788511536027,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316665,11 +316670,22 @@
         "followingSku": "8593255",
         "followingTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Green",
         "followingAuctionCode": "0019856499"
+      },
+      {
+        "start": 1788511536027,
+        "end": 1788511589986,
+        "durationMin": 0.9,
+        "precedingSku": "8593255",
+        "precedingTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Green",
+        "precedingAuctionCode": "0019856499",
+        "followingSku": "8752952",
+        "followingTitle": null,
+        "followingAuctionCode": "0019856806"
       }
     ],
-    "lastOnAirSku": "8593255",
-    "lastOnAirTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Green",
-    "lastOnAirAuctionCode": "0019856499",
+    "lastOnAirSku": "8752952",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019856806",
     "precedingSku": "8593255",
     "precedingTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Green",
     "precedingAuctionCode": "0019856499"
