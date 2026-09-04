@@ -40143,17 +40143,17 @@
       "firstAir": 1785523878574,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785524127260,
+      "lastAir": 1788528264778,
       "title": "Set of 3 Scented Candles in Tins - Jasmine & Ylang Ylang, Hidden Springs, Teakwood & Oak",
-      "pdpPrice": "3.99",
-      "auctionCode": "0019803313",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019856774",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-07-31",
-      "time": "19:55:27",
+      "date": "2026-09-04",
+      "time": "14:24:24",
       "productUrl": "/products/set-of-3-scented-candles-in-tins-jasmine-ylang-ylang-hidden-springs-teakwood-oak-8480631",
-      "lastUpdated": 1785524733287,
+      "lastUpdated": 1788528264778,
       "source": "gha",
       "missedAt": 1785524733287,
       "missedDelay": 10,
@@ -299994,8 +299994,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788528198777,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -318541,11 +318541,22 @@
         "followingSku": "8528688",
         "followingTitle": "Microfibre 25pc Easyclean Microfibre Cloth - Orange",
         "followingAuctionCode": "0019856868"
+      },
+      {
+        "start": 1788528198777,
+        "end": 1788528264778,
+        "durationMin": 1.1,
+        "precedingSku": "8457952",
+        "precedingTitle": "Livmore Set of 10 Rose Fragrance Sachets (Size 8 x 9Cm)",
+        "precedingAuctionCode": "0019856871",
+        "followingSku": "8480631",
+        "followingTitle": "Set of 3 Scented Candles in Tins - Jasmine & Ylang Ylang, Hidden Springs, Teakwood & Oak",
+        "followingAuctionCode": "0019856774"
       }
     ],
-    "lastOnAirSku": "8457952",
-    "lastOnAirTitle": "Livmore Set of 10 Rose Fragrance Sachets (Size 8 x 9Cm)",
-    "lastOnAirAuctionCode": "0019856871",
+    "lastOnAirSku": "8480631",
+    "lastOnAirTitle": "Set of 3 Scented Candles in Tins - Jasmine & Ylang Ylang, Hidden Springs, Teakwood & Oak",
+    "lastOnAirAuctionCode": "0019856774",
     "precedingSku": "8457952",
     "precedingTitle": "Livmore Set of 10 Rose Fragrance Sachets (Size 8 x 9Cm)",
     "precedingAuctionCode": "0019856871"
