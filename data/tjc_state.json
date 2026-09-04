@@ -296939,9 +296939,16 @@
       "img": true,
       "date": "2026-09-04",
       "time": "02:13:28",
-      "productUrl": null,
-      "lastUpdated": 1788484408212,
-      "source": "gha"
+      "productUrl": "/products/peacock-colour-shell-pearl-earrings-in-silver-tone",
+      "lastUpdated": 1788485010764,
+      "source": "gha",
+      "missedAt": 1788485010764,
+      "missedDelay": 10,
+      "missedPrice": 2.99,
+      "missedImg": true,
+      "productUrlChecked": 1788485014415,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7792007": {
       "sku": "7792007",
@@ -296981,8 +296988,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788485010764,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314774,8 +314781,8 @@
     "lastOnAirSku": "8319656",
     "lastOnAirTitle": "Close Out Deal- Hematite Necklace (Size - 25)",
     "lastOnAirAuctionCode": "0019854209",
-    "precedingSku": "8202023",
-    "precedingTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
-    "precedingAuctionCode": "0019854189"
+    "precedingSku": "8319656",
+    "precedingTitle": "Close Out Deal- Hematite Necklace (Size - 25)",
+    "precedingAuctionCode": "0019854209"
   }
 }
