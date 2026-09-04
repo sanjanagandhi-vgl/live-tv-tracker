@@ -153738,21 +153738,26 @@
       "sku": "8553693",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "04:08:29",
+      "date": "2026-09-04",
+      "time": "01:46:22",
       "preExisting": true,
       "missedAt": 1786676909046,
       "missedDelay": null,
-      "lastUpdated": 1786676909046,
+      "lastUpdated": 1788482782342,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
-      "auctionCode": "0019820068",
+      "auctionCode": "0019856295",
       "source": "gha",
       "productUrl": "/products/rhodium-overlay-sterling-silver-rolo-chain-size-18-with-lobster-clasp-8553627",
       "productUrlChecked": 1786676919551,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788482782342,
+      "pdpPrice": "499.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8586888": {
       "sku": "8586888",
@@ -296908,8 +296913,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788482747367,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314630,11 +314635,22 @@
         "followingSku": "8217250",
         "followingTitle": "Golden Pearl Necklace (Size - 18-2 Ext)",
         "followingAuctionCode": "0019856275"
+      },
+      {
+        "start": 1788482747367,
+        "end": 1788482782342,
+        "durationMin": 0.6,
+        "precedingSku": "8217250",
+        "precedingTitle": "Golden Pearl Necklace (Size - 18-2 Ext)",
+        "precedingAuctionCode": "0019856275",
+        "followingSku": "8553693",
+        "followingTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
+        "followingAuctionCode": "0019856295"
       }
     ],
-    "lastOnAirSku": "8217250",
-    "lastOnAirTitle": "Golden Pearl Necklace (Size - 18-2 Ext)",
-    "lastOnAirAuctionCode": "0019856275",
+    "lastOnAirSku": "8553693",
+    "lastOnAirTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019856295",
     "precedingSku": "8217250",
     "precedingTitle": "Golden Pearl Necklace (Size - 18-2 Ext)",
     "precedingAuctionCode": "0019856275"
