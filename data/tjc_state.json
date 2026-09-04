@@ -190915,21 +190915,26 @@
       "sku": "8511823",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "04:24:22",
+      "date": "2026-09-04",
+      "time": "22:42:25",
       "preExisting": true,
       "missedAt": 1787109862118,
       "missedDelay": null,
-      "lastUpdated": 1787109862118,
+      "lastUpdated": 1788558145144,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "Royal Bali Collection - Ox Bone Carving Cut Goddess Pendant in Sterling Silver 37.85 Ct.",
-      "auctionCode": "0019827841",
+      "auctionCode": "0019857905",
       "source": "gha",
       "productUrl": "/products/royal-bali-collection-ox-bone-sterling-silver-carving-cut-pendant-25-17-ct",
       "productUrlChecked": 1787109871587,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788558145144,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8321605": {
       "sku": "8321605",
@@ -301176,8 +301181,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788558078805,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -320097,11 +320102,22 @@
         "followingSku": "7633990",
         "followingTitle": "Vicenza Closeout - D'Joy Handmade Sterling Silver Snaffle Bangle (Size 7.5)",
         "followingAuctionCode": "0019857887"
+      },
+      {
+        "start": 1788558078805,
+        "end": 1788558145144,
+        "durationMin": 1.1,
+        "precedingSku": "6033664",
+        "precedingTitle": "White Austrian Crystal Heart Charm Stainless Steel Necklace (Size 18.5 with T-Bar Lock) in Yellow Gold Tone",
+        "precedingAuctionCode": "0019857904",
+        "followingSku": "8511823",
+        "followingTitle": "Royal Bali Collection - Ox Bone Carving Cut Goddess Pendant in Sterling Silver 37.85 Ct.",
+        "followingAuctionCode": "0019857905"
       }
     ],
-    "lastOnAirSku": "6033664",
-    "lastOnAirTitle": "White Austrian Crystal Heart Charm Stainless Steel Necklace (Size 18.5 with T-Bar Lock) in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019857904",
+    "lastOnAirSku": "8511823",
+    "lastOnAirTitle": "Royal Bali Collection - Ox Bone Carving Cut Goddess Pendant in Sterling Silver 37.85 Ct.",
+    "lastOnAirAuctionCode": "0019857905",
     "precedingSku": "6033664",
     "precedingTitle": "White Austrian Crystal Heart Charm Stainless Steel Necklace (Size 18.5 with T-Bar Lock) in Yellow Gold Tone",
     "precedingAuctionCode": "0019857904"
