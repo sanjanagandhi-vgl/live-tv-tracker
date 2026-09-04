@@ -152873,21 +152873,26 @@
       "sku": "8501356",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "23:09:19",
+      "date": "2026-09-04",
+      "time": "23:51:19",
       "preExisting": true,
       "missedAt": 1786658959424,
       "missedDelay": null,
-      "lastUpdated": 1786658959424,
+      "lastUpdated": 1788562279168,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "D'Joy Natural Pink Diamond Full Eternity Ring in 18K Rose Gold Vermeil Sterling Silver 0.27 Ct",
-      "auctionCode": "0019813953",
+      "auctionCode": "0019857429",
       "source": "gha",
       "productUrl": "/products/djoy-natural-pink-diamond-full-eternity-ring-in-18k-vermeil-rose-gold-plated-sterling-silver-0-27-ct-m8501337",
       "productUrlChecked": 1786658971579,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788562279168,
+      "pdpPrice": "800.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8501357": {
       "sku": "8501357",
@@ -301387,8 +301392,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788562235204,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -320363,11 +320368,22 @@
         "followingSku": "8564246",
         "followingTitle": "EverTrue - Natural White Diamond Necklace (Size - 20)",
         "followingAuctionCode": "0019857346"
+      },
+      {
+        "start": 1788562235204,
+        "end": 1788562279168,
+        "durationMin": 0.7,
+        "precedingSku": "8564246",
+        "precedingTitle": "EverTrue - Natural White Diamond Necklace (Size - 20)",
+        "precedingAuctionCode": "0019857346",
+        "followingSku": "8501356",
+        "followingTitle": "D'Joy Natural Pink Diamond Full Eternity Ring in 18K Rose Gold Vermeil Sterling Silver 0.27 Ct",
+        "followingAuctionCode": "0019857429"
       }
     ],
-    "lastOnAirSku": "8564246",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019857346",
+    "lastOnAirSku": "8501356",
+    "lastOnAirTitle": "D'Joy Natural Pink Diamond Full Eternity Ring in 18K Rose Gold Vermeil Sterling Silver 0.27 Ct",
+    "lastOnAirAuctionCode": "0019857429",
     "precedingSku": "8564246",
     "precedingTitle": "EverTrue - Natural White Diamond Necklace (Size - 20)",
     "precedingAuctionCode": "0019857346"
