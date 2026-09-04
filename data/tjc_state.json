@@ -186728,17 +186728,17 @@
       "firstAir": 1787062279563,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787062463544,
+      "lastAir": 1788492928687,
       "title": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019826577",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019854170",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-18",
-      "time": "15:14:23",
+      "date": "2026-09-04",
+      "time": "04:35:28",
       "productUrl": "/products/livmore-set-of-10-unisex-perfumes-10-x-8ml",
-      "lastUpdated": 1787063000656,
+      "lastUpdated": 1788492928687,
       "source": "gha",
       "missedAt": 1787063000656,
       "missedDelay": 9,
@@ -297541,9 +297541,16 @@
       "img": true,
       "date": "2026-09-04",
       "time": "04:26:24",
-      "productUrl": null,
-      "lastUpdated": 1788492384276,
-      "source": "gha"
+      "productUrl": "/products/douvalls-body-butter-60ml",
+      "lastUpdated": 1788492928687,
+      "source": "gha",
+      "missedAt": 1788492928687,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1788492936189,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8646012": {
       "sku": "8646012",
@@ -297565,8 +297572,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788492863135,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315529,11 +315536,22 @@
         "followingSku": "7829283",
         "followingTitle": "Set of 4 Bath and Body Set - Storage Bag, Bath Glove, Rub Pad & Massage Brush - Ultimate Care Set",
         "followingAuctionCode": "0019854162"
+      },
+      {
+        "start": 1788492863135,
+        "end": 1788492928687,
+        "durationMin": 1.1,
+        "precedingSku": "7829283",
+        "precedingTitle": "Set of 4 Bath and Body Set - Storage Bag, Bath Glove, Rub Pad & Massage Brush - Ultimate Care Set",
+        "precedingAuctionCode": "0019854162",
+        "followingSku": "8270885",
+        "followingTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
+        "followingAuctionCode": "0019854170"
       }
     ],
-    "lastOnAirSku": "7829283",
-    "lastOnAirTitle": "Set of 4 Bath and Body Set - Storage Bag, Bath Glove, Rub Pad & Massage Brush - Ultimate Care Set",
-    "lastOnAirAuctionCode": "0019854162",
+    "lastOnAirSku": "8270885",
+    "lastOnAirTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
+    "lastOnAirAuctionCode": "0019854170",
     "precedingSku": "7829283",
     "precedingTitle": "Set of 4 Bath and Body Set - Storage Bag, Bath Glove, Rub Pad & Massage Brush - Ultimate Care Set",
     "precedingAuctionCode": "0019854162"
