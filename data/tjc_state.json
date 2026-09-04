@@ -300875,17 +300875,17 @@
       "firstAir": 1788546264553,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788547764083,
+      "lastAir": 1788551137689,
       "title": "Pecksniff's Manuka Honey & Orange Blossom Moisturising Hand Wash - 500ml",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019858084",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019858170",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-04",
-      "time": "19:49:24",
+      "time": "20:45:37",
       "productUrl": "/products/pecksniffs-manuka-honey-orange-blossom-moisturising-hand-wash-500ml-8739964",
-      "lastUpdated": 1788548359695,
+      "lastUpdated": 1788551137689,
       "source": "gha",
       "missedAt": 1788548359695,
       "missedDelay": 10,
@@ -301000,8 +301000,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788551062902,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319866,11 +319866,22 @@
         "followingSku": "8677091",
         "followingTitle": null,
         "followingAuctionCode": "0019856732"
+      },
+      {
+        "start": 1788551062902,
+        "end": 1788551137689,
+        "durationMin": 1.2,
+        "precedingSku": "8677091",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019856732",
+        "followingSku": "8739964",
+        "followingTitle": "Pecksniff's Manuka Honey & Orange Blossom Moisturising Hand Wash - 500ml",
+        "followingAuctionCode": "0019858170"
       }
     ],
-    "lastOnAirSku": "8677091",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019856732",
+    "lastOnAirSku": "8739964",
+    "lastOnAirTitle": "Pecksniff's Manuka Honey & Orange Blossom Moisturising Hand Wash - 500ml",
+    "lastOnAirAuctionCode": "0019858170",
     "precedingSku": "8677091",
     "precedingTitle": null,
     "precedingAuctionCode": "0019856732"
