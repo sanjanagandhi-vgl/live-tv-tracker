@@ -138631,17 +138631,17 @@
       "firstAir": 1786512041973,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786973362528,
+      "lastAir": 1788499526133,
       "title": "Doctors Formula: Power Active Caffeine Serum - 30ml",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019825677",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019856558",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "time": "14:29:22",
+      "date": "2026-09-04",
+      "time": "06:25:26",
       "productUrl": "/products/doctors-formula-power-active-caffeine-serum-30ml",
-      "lastUpdated": 1786973362528,
+      "lastUpdated": 1788499526133,
       "source": "gha",
       "missedAt": 1786513102476,
       "missedDelay": 11,
@@ -297991,8 +297991,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788499463023,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316076,11 +316076,22 @@
         "followingSku": "8689648",
         "followingTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
         "followingAuctionCode": "0019856540"
+      },
+      {
+        "start": 1788499463023,
+        "end": 1788499526133,
+        "durationMin": 1.1,
+        "precedingSku": "8689648",
+        "precedingTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
+        "precedingAuctionCode": "0019856540",
+        "followingSku": "6305360",
+        "followingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
+        "followingAuctionCode": "0019856558"
       }
     ],
-    "lastOnAirSku": "8689648",
-    "lastOnAirTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
-    "lastOnAirAuctionCode": "0019856540",
+    "lastOnAirSku": "6305360",
+    "lastOnAirTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
+    "lastOnAirAuctionCode": "0019856558",
     "precedingSku": "8689648",
     "precedingTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
     "precedingAuctionCode": "0019856540"
