@@ -297640,11 +297640,29 @@
       "productUrlChecked": 1788495645332,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8508492": {
+      "sku": "8508492",
+      "firstAir": 1788495742846,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788495742846,
+      "title": "Designer Inspired Flower Portrait Phone Crossbody Bag with RFID Blocking - White",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019856091",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "05:22:22",
+      "productUrl": null,
+      "lastUpdated": 1788495742846,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788495678841,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315662,11 +315680,22 @@
         "followingSku": "8557103",
         "followingTitle": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
         "followingAuctionCode": "0019856176"
+      },
+      {
+        "start": 1788495678841,
+        "end": 1788495742846,
+        "durationMin": 1.1,
+        "precedingSku": "8557103",
+        "precedingTitle": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
+        "precedingAuctionCode": "0019856176",
+        "followingSku": "8508492",
+        "followingTitle": "Designer Inspired Flower Portrait Phone Crossbody Bag with RFID Blocking - White",
+        "followingAuctionCode": "0019856091"
       }
     ],
-    "lastOnAirSku": "8557103",
-    "lastOnAirTitle": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
-    "lastOnAirAuctionCode": "0019856176",
+    "lastOnAirSku": "8508492",
+    "lastOnAirTitle": "Designer Inspired Flower Portrait Phone Crossbody Bag with RFID Blocking - White",
+    "lastOnAirAuctionCode": "0019856091",
     "precedingSku": "8557103",
     "precedingTitle": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
     "precedingAuctionCode": "0019856176"
