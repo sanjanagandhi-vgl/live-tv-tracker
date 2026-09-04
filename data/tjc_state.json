@@ -297337,11 +297337,15 @@
       "date": "2026-09-04",
       "time": "03:23:19",
       "productUrl": "/products/showpiece-3138412887?variant=53109387395338",
-      "lastUpdated": 1788488599931,
+      "lastUpdated": 1788489143426,
       "source": "gha",
       "productUrlChecked": 1788488608741,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788489143426,
+      "missedDelay": 9,
+      "missedPrice": 3.99,
+      "missedImg": true
     },
     "8642850": {
       "sku": "8642850",
@@ -297360,11 +297364,51 @@
       "productUrl": null,
       "lastUpdated": 1788488903675,
       "source": "gha"
+    },
+    "8412906": {
+      "sku": "8412906",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-04",
+      "time": "03:32:23",
+      "preExisting": true,
+      "missedAt": 1788489143426,
+      "missedDelay": null,
+      "lastUpdated": 1788489143426,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "title": "Livmore Chinese Dragon Glass Decor - Pink",
+      "auctionCode": "0019855664",
+      "source": "gha",
+      "productUrl": "/products/showpiece-3138412887",
+      "productUrlChecked": 1788489152692,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8412914": {
+      "sku": "8412914",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-04",
+      "time": "03:32:23",
+      "preExisting": true,
+      "missedAt": 1788489143426,
+      "missedDelay": null,
+      "lastUpdated": 1788489143426,
+      "missedPrice": 3.99,
+      "missedImg": true,
+      "title": "Livmore Chinese Dragon Glass Decor - Green",
+      "auctionCode": "0019855665",
+      "source": "gha",
+      "productUrl": "/products/showpiece-3138412887",
+      "productUrlChecked": 1788489153286,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788489143426,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315288,8 +315332,8 @@
     "lastOnAirSku": "8256327",
     "lastOnAirTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
     "lastOnAirAuctionCode": "0019856026",
-    "precedingSku": "8642850",
-    "precedingTitle": "Love Music Drink Bottle - White",
-    "precedingAuctionCode": "0019854280"
+    "precedingSku": "8256327",
+    "precedingTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
+    "precedingAuctionCode": "0019856026"
   }
 }
