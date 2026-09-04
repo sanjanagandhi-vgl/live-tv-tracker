@@ -4327,17 +4327,23 @@
       "sku": "8689648",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-24",
-      "time": "11:01:18",
+      "date": "2026-09-04",
+      "time": "06:18:30",
       "preExisting": true,
       "missedAt": 1784887278885,
       "missedDelay": null,
-      "lastUpdated": 1784887278885,
+      "lastUpdated": 1788499110256,
       "missedPrice": 8.99,
       "missedImg": true,
-      "title": "Laurelle Amarai Red Desire EDP - 100ml",
-      "auctionCode": "0019791379",
-      "source": "gha"
+      "title": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
+      "auctionCode": "0019856540",
+      "source": "gha",
+      "lastAir": 1788499110256,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "3456340": {
       "sku": "3456340",
@@ -297985,8 +297991,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788498982473,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316059,11 +316065,22 @@
         "followingSku": "3087614",
         "followingTitle": "Laurelle Wings Eau De Parfum - 100ml",
         "followingAuctionCode": "0019856550"
+      },
+      {
+        "start": 1788498982473,
+        "end": 1788499110256,
+        "durationMin": 2.1,
+        "precedingSku": "7210981",
+        "precedingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
+        "precedingAuctionCode": "0019856574",
+        "followingSku": "8689648",
+        "followingTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
+        "followingAuctionCode": "0019856540"
       }
     ],
-    "lastOnAirSku": "7210981",
-    "lastOnAirTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
-    "lastOnAirAuctionCode": "0019856574",
+    "lastOnAirSku": "8689648",
+    "lastOnAirTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
+    "lastOnAirAuctionCode": "0019856540",
     "precedingSku": "7210981",
     "precedingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
     "precedingAuctionCode": "0019856574"
