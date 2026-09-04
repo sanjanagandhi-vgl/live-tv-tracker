@@ -300878,11 +300878,29 @@
       "productUrl": null,
       "lastUpdated": 1788547764083,
       "source": "gha"
+    },
+    "8593264": {
+      "sku": "8593264",
+      "firstAir": 1788548183378,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788548183378,
+      "title": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Brown",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019856909",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "19:56:23",
+      "productUrl": null,
+      "lastUpdated": 1788548183378,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788548127971,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319670,11 +319688,22 @@
         "followingSku": "8669040",
         "followingTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs, 28 Whitening Strips",
         "followingAuctionCode": "0019858157"
+      },
+      {
+        "start": 1788548127971,
+        "end": 1788548183378,
+        "durationMin": 0.9,
+        "precedingSku": "8669040",
+        "precedingTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs, 28 Whitening Strips",
+        "precedingAuctionCode": "0019858157",
+        "followingSku": "8593264",
+        "followingTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Brown",
+        "followingAuctionCode": "0019856909"
       }
     ],
-    "lastOnAirSku": "8669040",
-    "lastOnAirTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs, 28 Whitening Strips",
-    "lastOnAirAuctionCode": "0019858157",
+    "lastOnAirSku": "8593264",
+    "lastOnAirTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Brown",
+    "lastOnAirAuctionCode": "0019856909",
     "precedingSku": "8669040",
     "precedingTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs, 28 Whitening Strips",
     "precedingAuctionCode": "0019858157"
