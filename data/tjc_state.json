@@ -86129,23 +86129,23 @@
       "sku": "7948830",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-24",
-      "time": "03:19:19",
+      "date": "2026-09-04",
+      "time": "03:09:20",
       "preExisting": true,
       "missedAt": 1786011337384,
       "missedDelay": null,
-      "lastUpdated": 1787537959271,
+      "lastUpdated": 1788487760634,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "NUSUK Areej Al Musk Air Freshener - 300ml",
-      "auctionCode": "0019838039",
+      "title": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
+      "auctionCode": "0019854201",
       "source": "gha",
       "productUrl": "/products/nusuk-fleurie-emerald-air-freshener-spray-300ml-8718097",
       "productUrlChecked": 1786011353726,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787537959271,
-      "pdpPrice": "4.99",
+      "lastAir": 1788487760634,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -297319,8 +297319,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788487702934,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315195,11 +315195,22 @@
         "followingSku": "8228256",
         "followingTitle": "Arabian Oud Home Fragrance Collection - 300ML",
         "followingAuctionCode": "0019856063"
+      },
+      {
+        "start": 1788487702934,
+        "end": 1788487760634,
+        "durationMin": 1.0,
+        "precedingSku": "8228256",
+        "precedingTitle": "Arabian Oud Home Fragrance Collection - 300ML",
+        "precedingAuctionCode": "0019856063",
+        "followingSku": "7948830",
+        "followingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
+        "followingAuctionCode": "0019854201"
       }
     ],
-    "lastOnAirSku": "8228256",
-    "lastOnAirTitle": "Arabian Oud Home Fragrance Collection - 300ML",
-    "lastOnAirAuctionCode": "0019856063",
+    "lastOnAirSku": "7948830",
+    "lastOnAirTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
+    "lastOnAirAuctionCode": "0019854201",
     "precedingSku": "8228256",
     "precedingTitle": "Arabian Oud Home Fragrance Collection - 300ML",
     "precedingAuctionCode": "0019856063"
