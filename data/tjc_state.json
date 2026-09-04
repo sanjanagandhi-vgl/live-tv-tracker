@@ -553,22 +553,22 @@
       "sku": "6860824",
       "tvPrice": "",
       "remarks": "",
-      "time": "10:53:17",
+      "time": "18:02:23",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
-      "auctionCode": "0019857139",
+      "auctionCode": "0019858079",
       "source": "gha",
-      "lastAir": 1788515597892,
+      "lastAir": 1788541343877,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-04",
-      "lastUpdated": 1788515597892,
+      "lastUpdated": 1788541343877,
       "productUrl": null
     },
     "7800646": {
@@ -300622,8 +300622,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788541281524,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319334,11 +319334,22 @@
         "followingSku": "8567139",
         "followingTitle": "Novelty Puppy Cartoon Crossbody Ita Bag - Khaki",
         "followingAuctionCode": "0019856685"
+      },
+      {
+        "start": 1788541281524,
+        "end": 1788541343877,
+        "durationMin": 1.0,
+        "precedingSku": "8567139",
+        "precedingTitle": "Novelty Puppy Cartoon Crossbody Ita Bag - Khaki",
+        "precedingAuctionCode": "0019856685",
+        "followingSku": "6860824",
+        "followingTitle": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
+        "followingAuctionCode": "0019858079"
       }
     ],
-    "lastOnAirSku": "8567139",
-    "lastOnAirTitle": "Novelty Puppy Cartoon Crossbody Ita Bag - Khaki",
-    "lastOnAirAuctionCode": "0019856685",
+    "lastOnAirSku": "6860824",
+    "lastOnAirTitle": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
+    "lastOnAirAuctionCode": "0019858079",
     "precedingSku": "8567139",
     "precedingTitle": "Novelty Puppy Cartoon Crossbody Ita Bag - Khaki",
     "precedingAuctionCode": "0019856685"
