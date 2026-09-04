@@ -299434,11 +299434,29 @@
       "productUrl": null,
       "lastUpdated": 1788521238991,
       "source": "gha"
+    },
+    "8682128": {
+      "sku": "8682128",
+      "firstAir": 1788521361335,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788521361335,
+      "title": "Fire Ruby Skull Pendant in Silver Tone 2.25 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019856993",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-04",
+      "time": "12:29:21",
+      "productUrl": null,
+      "lastUpdated": 1788521361335,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788521304086,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -317885,11 +317903,22 @@
         "followingSku": "8248055",
         "followingTitle": "Multi Colour Amber Beads Necklace (Size 22 - 2 Ext) in Yellow Gold Plated Sterling Silver 17.50 Ct.",
         "followingAuctionCode": "0019856987"
+      },
+      {
+        "start": 1788521304086,
+        "end": 1788521361335,
+        "durationMin": 1.0,
+        "precedingSku": "8248055",
+        "precedingTitle": "Multi Colour Amber Beads Necklace (Size 22 - 2 Ext) in Yellow Gold Plated Sterling Silver 17.50 Ct.",
+        "precedingAuctionCode": "0019856987",
+        "followingSku": "8682128",
+        "followingTitle": "Fire Ruby Skull Pendant in Silver Tone 2.25 Ct.",
+        "followingAuctionCode": "0019856993"
       }
     ],
-    "lastOnAirSku": "8248055",
-    "lastOnAirTitle": "Multi Colour Amber Beads Necklace (Size 22 - 2 Ext) in Yellow Gold Plated Sterling Silver 17.50 Ct.",
-    "lastOnAirAuctionCode": "0019856987",
+    "lastOnAirSku": "8682128",
+    "lastOnAirTitle": "Fire Ruby Skull Pendant in Silver Tone 2.25 Ct.",
+    "lastOnAirAuctionCode": "0019856993",
     "precedingSku": "8248055",
     "precedingTitle": "Multi Colour Amber Beads Necklace (Size 22 - 2 Ext) in Yellow Gold Plated Sterling Silver 17.50 Ct.",
     "precedingAuctionCode": "0019856987"
