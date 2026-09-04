@@ -300979,11 +300979,29 @@
       "productUrlChecked": 1788548843213,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8677091": {
+      "sku": "8677091",
+      "firstAir": 1788550759803,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788550759803,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019856732",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-04",
+      "time": "20:39:19",
+      "productUrl": null,
+      "lastUpdated": 1788550759803,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788550703112,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319837,11 +319855,22 @@
         "followingSku": "8498138",
         "followingTitle": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
         "followingAuctionCode": "0019858104"
+      },
+      {
+        "start": 1788550703112,
+        "end": 1788550759803,
+        "durationMin": 0.9,
+        "precedingSku": "8498138",
+        "precedingTitle": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
+        "precedingAuctionCode": "0019858104",
+        "followingSku": "8677091",
+        "followingTitle": null,
+        "followingAuctionCode": "0019856732"
       }
     ],
-    "lastOnAirSku": "8498138",
-    "lastOnAirTitle": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019858104",
+    "lastOnAirSku": "8677091",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019856732",
     "precedingSku": "8498138",
     "precedingTitle": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
     "precedingAuctionCode": "0019858104"
