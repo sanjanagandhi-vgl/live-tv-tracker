@@ -159964,17 +159964,17 @@
       "firstAir": 1786722929852,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786722989414,
+      "lastAir": 1788496463240,
       "title": "Ladies MXP Cutout Lattice Slip-On Jelly Ballet Flats (Size 8) - Silver",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019821665",
+      "pdpPrice": null,
+      "auctionCode": "0019856153",
       "buy": true,
       "login": false,
-      "img": true,
-      "date": "2026-08-14",
-      "time": "16:56:29",
+      "img": false,
+      "date": "2026-09-04",
+      "time": "05:34:23",
       "productUrl": "/products/tjc-special-ladies-shoe-size-3-nude-8751842",
-      "lastUpdated": 1786723529960,
+      "lastUpdated": 1788496463240,
       "source": "gha",
       "missedAt": 1786723529960,
       "missedDelay": 9,
@@ -297728,8 +297728,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788496400034,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315769,11 +315769,22 @@
         "followingSku": "8751821",
         "followingTitle": null,
         "followingAuctionCode": "0019856128"
+      },
+      {
+        "start": 1788496400034,
+        "end": 1788496463240,
+        "durationMin": 1.1,
+        "precedingSku": "8751821",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019856128",
+        "followingSku": "8751848",
+        "followingTitle": null,
+        "followingAuctionCode": "0019856153"
       }
     ],
-    "lastOnAirSku": "8751821",
+    "lastOnAirSku": "8751848",
     "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019856128",
+    "lastOnAirAuctionCode": "0019856153",
     "precedingSku": "8751821",
     "precedingTitle": null,
     "precedingAuctionCode": "0019856128"
