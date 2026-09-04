@@ -155480,18 +155480,23 @@
       "sku": "8668023",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "09:30:53",
+      "date": "2026-09-04",
+      "time": "02:43:22",
       "preExisting": true,
       "missedAt": 1786696253724,
       "missedDelay": null,
-      "lastUpdated": 1786696253724,
+      "lastUpdated": 1788486202499,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "3-Layer Cylindrical Travel Jewellery Roll Organiser Box - Beige",
-      "auctionCode": "0019821454",
+      "auctionCode": "0019856064",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1788486202499,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8668029": {
       "sku": "8668029",
@@ -297246,8 +297251,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788486143654,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315067,11 +315072,22 @@
         "followingSku": "8480282",
         "followingTitle": "White Cubic Zirconia Ring in Yellow Gold Tone",
         "followingAuctionCode": "0019854234"
+      },
+      {
+        "start": 1788486143654,
+        "end": 1788486202499,
+        "durationMin": 1.0,
+        "precedingSku": "8480282",
+        "precedingTitle": "White Cubic Zirconia Ring in Yellow Gold Tone",
+        "precedingAuctionCode": "0019854234",
+        "followingSku": "8668023",
+        "followingTitle": "3-Layer Cylindrical Travel Jewellery Roll Organiser Box - Beige",
+        "followingAuctionCode": "0019856064"
       }
     ],
-    "lastOnAirSku": "8480282",
-    "lastOnAirTitle": "White Cubic Zirconia Ring in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019854234",
+    "lastOnAirSku": "8668023",
+    "lastOnAirTitle": "3-Layer Cylindrical Travel Jewellery Roll Organiser Box - Beige",
+    "lastOnAirAuctionCode": "0019856064",
     "precedingSku": "8480282",
     "precedingTitle": "White Cubic Zirconia Ring in Yellow Gold Tone",
     "precedingAuctionCode": "0019854234"
