@@ -11612,18 +11612,18 @@
       "sku": "8259790",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-27",
-      "time": "15:35:30",
+      "date": "2026-09-04",
+      "time": "01:18:22",
       "preExisting": true,
       "missedAt": 1785020903671,
       "missedDelay": null,
-      "lastUpdated": 1787841330579,
+      "lastUpdated": 1788481102397,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Designer Inspired Rhythm Bracelet (Size - 7.25-1 Ext)",
-      "auctionCode": "0019845470",
+      "auctionCode": "0019856267",
       "source": "gha",
-      "lastAir": 1787841330579,
+      "lastAir": 1788481102397,
       "pdpPrice": "5.99",
       "buy": true,
       "login": false,
@@ -296798,8 +296798,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788481039286,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314465,11 +314465,22 @@
         "followingSku": "4518293",
         "followingTitle": "D'Joy - AAA Turkizite & White Zircon Sunburst Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
         "followingAuctionCode": "0019856260"
+      },
+      {
+        "start": 1788481039286,
+        "end": 1788481102397,
+        "durationMin": 1.1,
+        "precedingSku": "7791954",
+        "precedingTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
+        "precedingAuctionCode": "0019856266",
+        "followingSku": "8259790",
+        "followingTitle": "Designer Inspired Rhythm Bracelet (Size - 7.25-1 Ext)",
+        "followingAuctionCode": "0019856267"
       }
     ],
-    "lastOnAirSku": "7791954",
-    "lastOnAirTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
-    "lastOnAirAuctionCode": "0019856266",
+    "lastOnAirSku": "8259790",
+    "lastOnAirTitle": "Designer Inspired Rhythm Bracelet (Size - 7.25-1 Ext)",
+    "lastOnAirAuctionCode": "0019856267",
     "precedingSku": "7791954",
     "precedingTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
     "precedingAuctionCode": "0019856266"
