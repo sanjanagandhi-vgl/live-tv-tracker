@@ -299016,11 +299016,15 @@
       "date": "2026-09-04",
       "time": "11:14:28",
       "productUrl": "/products/white-crystal-braided-brown-bracelet-size-7-5-with-magnetic-lock-2-00-ct-8678323?variant=53547990778122",
-      "lastUpdated": 1788516868779,
+      "lastUpdated": 1788517461382,
       "source": "gha",
       "productUrlChecked": 1788516871859,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788517461382,
+      "missedDelay": 10,
+      "missedPrice": 3.99,
+      "missedImg": true
     },
     "8422424": {
       "sku": "8422424",
@@ -299076,6 +299080,24 @@
       "time": "11:23:18",
       "productUrl": null,
       "lastUpdated": 1788517398480,
+      "source": "gha"
+    },
+    "8617719": {
+      "sku": "8617719",
+      "firstAir": 1788517461382,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788517461382,
+      "title": "White Shell Pearl & Crystal Adjustable Branch Ring 5.00 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019856384",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "11:24:21",
+      "productUrl": null,
+      "lastUpdated": 1788517461382,
       "source": "gha"
     }
   },
@@ -317475,9 +317497,9 @@
         "followingAuctionCode": "0019856329"
       }
     ],
-    "lastOnAirSku": "8617640",
+    "lastOnAirSku": "8617719",
     "lastOnAirTitle": "White Shell Pearl & Crystal Adjustable Branch Ring 5.00 Ct.",
-    "lastOnAirAuctionCode": "0019856378",
+    "lastOnAirAuctionCode": "0019856384",
     "precedingSku": "8678170",
     "precedingTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
     "precedingAuctionCode": "0019856331"
