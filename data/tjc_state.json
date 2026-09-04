@@ -299692,11 +299692,15 @@
       "date": "2026-09-04",
       "time": "12:54:24",
       "productUrl": "/products/shungite-beads-bracelet-4057991802?variant=53108997423370",
-      "lastUpdated": 1788522864187,
+      "lastUpdated": 1788523403077,
       "source": "gha",
       "productUrlChecked": 1788522868543,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788523403077,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "4452481": {
       "sku": "4452481",
@@ -299724,7 +299728,7 @@
       "firstAir": 1788523040283,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788523345051,
+      "lastAir": 1788523403077,
       "title": "Geometric Cracked Pendant with Chain (Size 24) & Lobster Clasp in Black Plating",
       "pdpPrice": "4.99",
       "auctionCode": "0019856651",
@@ -299732,9 +299736,9 @@
       "login": false,
       "img": true,
       "date": "2026-09-04",
-      "time": "13:02:25",
+      "time": "13:03:23",
       "productUrl": null,
-      "lastUpdated": 1788523345051,
+      "lastUpdated": 1788523403077,
       "source": "gha"
     },
     "7083407": {
@@ -299754,6 +299758,26 @@
       "source": "gha",
       "productUrl": "/products/red-crystal-bracelet-size-7-5-pure-white-stainless-steel-0-600-ct-2967083360",
       "productUrlChecked": 1788523043792,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7991802": {
+      "sku": "7991802",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-04",
+      "time": "13:03:23",
+      "preExisting": true,
+      "missedAt": 1788523403077,
+      "missedDelay": null,
+      "lastUpdated": 1788523403077,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Natural Shungite Beads Bracelet (Size - 8)  90.00 Ct.",
+      "auctionCode": "0019856616",
+      "source": "gha",
+      "productUrl": "/products/shungite-beads-bracelet-4057991802",
+      "productUrlChecked": 1788523405868,
       "productUrlStatus": 200,
       "productUrl404": false
     }
