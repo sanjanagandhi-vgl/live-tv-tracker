@@ -97474,22 +97474,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-04",
-      "time": "13:36:25",
+      "time": "20:33:53",
       "preExisting": true,
       "missedAt": 1786110144447,
       "missedDelay": null,
-      "lastUpdated": 1788525385880,
+      "lastUpdated": 1788550433476,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
-      "auctionCode": "0019856477",
+      "auctionCode": "0019858104",
       "source": "gha",
       "productUrl": "/products/moissanite-solitaire-pendant-in-yellow-gold-plated-sterling-silver-0-46-ct?variant=53106031296778",
       "productUrlChecked": 1786110157321,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1788525385880,
-      "pdpPrice": "4.99",
+      "lastAir": 1788550433476,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -300982,8 +300982,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788550398968,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319826,11 +319826,22 @@
         "followingSku": "8516482",
         "followingTitle": "MEGA ONE TO OWN DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019858102"
+      },
+      {
+        "start": 1788550398968,
+        "end": 1788550433476,
+        "durationMin": 0.6,
+        "precedingSku": "8516482",
+        "precedingTitle": "MEGA ONE TO OWN DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019858102",
+        "followingSku": "8498138",
+        "followingTitle": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
+        "followingAuctionCode": "0019858104"
       }
     ],
-    "lastOnAirSku": "8516482",
-    "lastOnAirTitle": "MEGA ONE TO OWN DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019858102",
+    "lastOnAirSku": "8498138",
+    "lastOnAirTitle": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019858104",
     "precedingSku": "8516482",
     "precedingTitle": "MEGA ONE TO OWN DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019858102"
