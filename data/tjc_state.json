@@ -82560,17 +82560,17 @@
       "firstAir": 1785979163891,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785979525839,
+      "lastAir": 1788492651449,
       "title": "Set of 4 Bath and Body Set - Storage Bag, Bath Glove, Rub Pad & Massage Brush - Ultimate Care Set",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019806992",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019854162",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-06",
-      "time": "02:25:25",
+      "date": "2026-09-04",
+      "time": "04:30:51",
       "productUrl": "/products/beautech-set-of-4-bath-and-body-set-storage-bag-bath-glove-rub-pad-massage-brush-ultimate-care-set",
-      "lastUpdated": 1785980129764,
+      "lastUpdated": 1788492651449,
       "source": "gha",
       "missedAt": 1785980129764,
       "missedDelay": 10,
@@ -297496,9 +297496,16 @@
       "img": true,
       "date": "2026-09-04",
       "time": "04:21:21",
-      "productUrl": null,
-      "lastUpdated": 1788492081512,
-      "source": "gha"
+      "productUrl": "/products/3-piece-set-mark-hill-hey-curls-shampoo-250ml-conditioner-250ml-curl-jelly-200ml-8566304",
+      "lastUpdated": 1788492651449,
+      "source": "gha",
+      "missedAt": 1788492651449,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1788492655576,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8679507": {
       "sku": "8679507",
@@ -297558,8 +297565,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788492558424,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315511,11 +315518,22 @@
         "followingSku": "8679508",
         "followingTitle": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
         "followingAuctionCode": "0019854163"
+      },
+      {
+        "start": 1788492558424,
+        "end": 1788492651449,
+        "durationMin": 1.6,
+        "precedingSku": "8646012",
+        "precedingTitle": "Botanical Matrix WAKE UP - Vitamin C Energising Oil - 30ml (Tube)",
+        "precedingAuctionCode": "0019854155",
+        "followingSku": "7829283",
+        "followingTitle": "Set of 4 Bath and Body Set - Storage Bag, Bath Glove, Rub Pad & Massage Brush - Ultimate Care Set",
+        "followingAuctionCode": "0019854162"
       }
     ],
-    "lastOnAirSku": "8646012",
-    "lastOnAirTitle": "Botanical Matrix WAKE UP - Vitamin C Energising Oil - 30ml (Tube)",
-    "lastOnAirAuctionCode": "0019854155",
+    "lastOnAirSku": "7829283",
+    "lastOnAirTitle": "Set of 4 Bath and Body Set - Storage Bag, Bath Glove, Rub Pad & Massage Brush - Ultimate Care Set",
+    "lastOnAirAuctionCode": "0019854162",
     "precedingSku": "8646012",
     "precedingTitle": "Botanical Matrix WAKE UP - Vitamin C Energising Oil - 30ml (Tube)",
     "precedingAuctionCode": "0019854155"
