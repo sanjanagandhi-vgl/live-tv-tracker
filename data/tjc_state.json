@@ -6453,16 +6453,16 @@
       "firstAir": 1784916501578,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785636440005,
+      "lastAir": 1788500061663,
       "title": "Glow & Beauty Day Face Cream With Olive Oil & Hyaluronic Acid - 50ml",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019803796",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019856543",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-02",
-      "time": "03:07:20",
-      "lastUpdated": 1785636440005,
+      "date": "2026-09-04",
+      "time": "06:34:21",
+      "lastUpdated": 1788500061663,
       "source": "gha",
       "missedAt": 1784917524982,
       "missedDelay": 1,
@@ -297991,8 +297991,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788499999814,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -316087,11 +316087,22 @@
         "followingSku": "6305360",
         "followingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
         "followingAuctionCode": "0019856558"
+      },
+      {
+        "start": 1788499999814,
+        "end": 1788500061663,
+        "durationMin": 1.0,
+        "precedingSku": "6305360",
+        "precedingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
+        "precedingAuctionCode": "0019856558",
+        "followingSku": "8658953",
+        "followingTitle": "Glow & Beauty Day Face Cream With Olive Oil & Hyaluronic Acid - 50ml",
+        "followingAuctionCode": "0019856543"
       }
     ],
-    "lastOnAirSku": "6305360",
-    "lastOnAirTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
-    "lastOnAirAuctionCode": "0019856558",
+    "lastOnAirSku": "8658953",
+    "lastOnAirTitle": "Glow & Beauty Day Face Cream With Olive Oil & Hyaluronic Acid - 50ml",
+    "lastOnAirAuctionCode": "0019856543",
     "precedingSku": "6305360",
     "precedingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
     "precedingAuctionCode": "0019856558"
