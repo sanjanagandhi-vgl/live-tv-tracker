@@ -156764,17 +156764,17 @@
       "firstAir": 1786711703067,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786711998701,
-      "title": "Set of 2 - 3D Character Design Compact Mirrors - Blue & Purple",
+      "lastAir": 1788494662645,
+      "title": "Set of 2 - 3D Character Design Compact Mirrors - Yellow & Pink",
       "pdpPrice": "6.99",
-      "auctionCode": "0019820758",
+      "auctionCode": "0019856197",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-14",
-      "time": "13:53:18",
+      "date": "2026-09-04",
+      "time": "05:04:22",
       "productUrl": "/products/mirror-1058426970",
-      "lastUpdated": 1786712543015,
+      "lastUpdated": 1788494662645,
       "source": "gha",
       "missedAt": 1786712543015,
       "missedDelay": 9,
@@ -297579,8 +297579,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788494600241,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315565,11 +315565,22 @@
         "followingSku": "8538133",
         "followingTitle": "Love Vits Creatine - 100 Tablets",
         "followingAuctionCode": "0019854169"
+      },
+      {
+        "start": 1788494600241,
+        "end": 1788494662645,
+        "durationMin": 1.0,
+        "precedingSku": "8538133",
+        "precedingTitle": "Love Vits Creatine - 100 Tablets",
+        "precedingAuctionCode": "0019854169",
+        "followingSku": "8426971",
+        "followingTitle": "Set of 2 - 3D Character Design Compact Mirrors - Yellow & Pink",
+        "followingAuctionCode": "0019856197"
       }
     ],
-    "lastOnAirSku": "8538133",
-    "lastOnAirTitle": "Love Vits Creatine - 100 Tablets",
-    "lastOnAirAuctionCode": "0019854169",
+    "lastOnAirSku": "8426971",
+    "lastOnAirTitle": "Set of 2 - 3D Character Design Compact Mirrors - Yellow & Pink",
+    "lastOnAirAuctionCode": "0019856197",
     "precedingSku": "8538133",
     "precedingTitle": "Love Vits Creatine - 100 Tablets",
     "precedingAuctionCode": "0019854169"
