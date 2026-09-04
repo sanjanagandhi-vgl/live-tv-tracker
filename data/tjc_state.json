@@ -300234,11 +300234,29 @@
       "productUrl": null,
       "lastUpdated": 1788533241010,
       "source": "gha"
+    },
+    "8669807": {
+      "sku": "8669807",
+      "firstAir": 1788533479269,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788533479269,
+      "title": "La Marey Womens Gold Printed Lightweight Scarf (180 x 90 cm) - Navy Blue",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019857929",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "15:51:19",
+      "productUrl": null,
+      "lastUpdated": 1788533479269,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788533307256,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -318839,11 +318857,22 @@
         "followingSku": "8626754",
         "followingTitle": "Livmore Set of 2 Handcrafted Nested Wooden Boxes with Oxidized Lotus Work - Brown",
         "followingAuctionCode": "0019856759"
+      },
+      {
+        "start": 1788533307256,
+        "end": 1788533479269,
+        "durationMin": 2.9,
+        "precedingSku": "8665394",
+        "precedingTitle": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
+        "precedingAuctionCode": "0019856669",
+        "followingSku": "8669807",
+        "followingTitle": "La Marey Womens Gold Printed Lightweight Scarf (180 x 90 cm) - Navy Blue",
+        "followingAuctionCode": "0019857929"
       }
     ],
-    "lastOnAirSku": "8665394",
-    "lastOnAirTitle": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
-    "lastOnAirAuctionCode": "0019856669",
+    "lastOnAirSku": "8669807",
+    "lastOnAirTitle": "La Marey Womens Gold Printed Lightweight Scarf (180 x 90 cm) - Navy Blue",
+    "lastOnAirAuctionCode": "0019857929",
     "precedingSku": "8665394",
     "precedingTitle": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
     "precedingAuctionCode": "0019856669"
