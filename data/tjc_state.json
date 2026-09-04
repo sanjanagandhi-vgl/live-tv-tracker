@@ -296960,11 +296960,29 @@
       "productUrl": null,
       "lastUpdated": 1788484534362,
       "source": "gha"
+    },
+    "8319656": {
+      "sku": "8319656",
+      "firstAir": 1788484701393,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788484701393,
+      "title": "Close Out Deal- Hematite Necklace (Size - 25)",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019854209",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "02:18:21",
+      "productUrl": null,
+      "lastUpdated": 1788484701393,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788484639673,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314740,11 +314758,22 @@
         "followingSku": "7792007",
         "followingTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
         "followingAuctionCode": "0019854184"
+      },
+      {
+        "start": 1788484639673,
+        "end": 1788484701393,
+        "durationMin": 1.0,
+        "precedingSku": "8202023",
+        "precedingTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
+        "precedingAuctionCode": "0019854189",
+        "followingSku": "8319656",
+        "followingTitle": "Close Out Deal- Hematite Necklace (Size - 25)",
+        "followingAuctionCode": "0019854209"
       }
     ],
-    "lastOnAirSku": "8202023",
-    "lastOnAirTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
-    "lastOnAirAuctionCode": "0019854189",
+    "lastOnAirSku": "8319656",
+    "lastOnAirTitle": "Close Out Deal- Hematite Necklace (Size - 25)",
+    "lastOnAirAuctionCode": "0019854209",
     "precedingSku": "8202023",
     "precedingTitle": "Dyed Red Agate Earring with Push Back 6.00 Ct.",
     "precedingAuctionCode": "0019854189"
