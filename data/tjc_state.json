@@ -300875,9 +300875,16 @@
       "img": true,
       "date": "2026-09-04",
       "time": "19:49:24",
-      "productUrl": null,
-      "lastUpdated": 1788547764083,
-      "source": "gha"
+      "productUrl": "/products/pecksniffs-manuka-honey-orange-blossom-moisturising-hand-wash-500ml-8739964",
+      "lastUpdated": 1788548359695,
+      "source": "gha",
+      "missedAt": 1788548359695,
+      "missedDelay": 10,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "productUrlChecked": 1788548362466,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8593264": {
       "sku": "8593264",
@@ -300896,11 +300903,51 @@
       "productUrl": null,
       "lastUpdated": 1788548301965,
       "source": "gha"
+    },
+    "8739965": {
+      "sku": "8739965",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-04",
+      "time": "19:59:19",
+      "preExisting": true,
+      "missedAt": 1788548359695,
+      "missedDelay": null,
+      "lastUpdated": 1788548359695,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Pecksniff's Ginger Flower & Patchouli Liquid Hand Wash - 480ml",
+      "auctionCode": "0019858085",
+      "source": "gha",
+      "productUrl": "/products/pecksniffs-manuka-honey-orange-blossom-moisturising-hand-wash-500ml-8739964",
+      "productUrlChecked": 1788548362678,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8739967": {
+      "sku": "8739967",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-04",
+      "time": "19:59:19",
+      "preExisting": true,
+      "missedAt": 1788548359695,
+      "missedDelay": null,
+      "lastUpdated": 1788548359695,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
+      "auctionCode": "0019858086",
+      "source": "gha",
+      "productUrl": "/products/pecksniffs-manuka-honey-orange-blossom-moisturising-hand-wash-500ml-8739964",
+      "productUrlChecked": 1788548363413,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788548359695,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319704,8 +319751,8 @@
     "lastOnAirSku": "8593264",
     "lastOnAirTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Brown",
     "lastOnAirAuctionCode": "0019856909",
-    "precedingSku": "8669040",
-    "precedingTitle": "Livmore PAP- Teeth Whitening Strips with Purple Colour Correcting Technology - 14 Pairs, 28 Whitening Strips",
-    "precedingAuctionCode": "0019858157"
+    "precedingSku": "8593264",
+    "precedingTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Brown",
+    "precedingAuctionCode": "0019856909"
   }
 }
