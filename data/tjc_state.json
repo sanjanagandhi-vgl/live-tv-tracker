@@ -38624,21 +38624,26 @@
       "sku": "8712394",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "17:10:36",
+      "date": "2026-09-04",
+      "time": "14:34:24",
       "preExisting": true,
       "missedAt": 1785514236679,
       "missedDelay": null,
-      "lastUpdated": 1785514236679,
+      "lastUpdated": 1788528864532,
       "missedPrice": 5.99,
       "missedImg": true,
       "title": "Itty Bittys Noah's Ark Zebra Soft Toy Plush (5 Inch) - Black",
-      "auctionCode": "0019802971",
+      "auctionCode": "0019856884",
       "source": "gha",
       "productUrl": "/products/tjc-special-toy-size-one-size-red-8712387",
       "productUrlChecked": 1785514244648,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788528864532,
+      "pdpPrice": "50.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8712395": {
       "sku": "8712395",
@@ -300012,8 +300017,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788528801810,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -318570,11 +318575,22 @@
         "followingSku": "8480631",
         "followingTitle": "Set of 3 Scented Candles in Tins - Jasmine & Ylang Ylang, Hidden Springs, Teakwood & Oak",
         "followingAuctionCode": "0019856774"
+      },
+      {
+        "start": 1788528801810,
+        "end": 1788528864532,
+        "durationMin": 1.0,
+        "precedingSku": "7805172",
+        "precedingTitle": "Set of 2 Religious 12-Hour Analog Wall Clocks \u2013 Vintage Brown Frames with Sacred Art Backgrounds",
+        "precedingAuctionCode": "0019856763",
+        "followingSku": "8712394",
+        "followingTitle": "Itty Bittys Noah's Ark Zebra Soft Toy Plush (5 Inch) - Black",
+        "followingAuctionCode": "0019856884"
       }
     ],
-    "lastOnAirSku": "7805172",
-    "lastOnAirTitle": "Set of 2 Religious 12-Hour Analog Wall Clocks \u2013 Vintage Brown Frames with Sacred Art Backgrounds",
-    "lastOnAirAuctionCode": "0019856763",
+    "lastOnAirSku": "8712394",
+    "lastOnAirTitle": "Itty Bittys Noah's Ark Zebra Soft Toy Plush (5 Inch) - Black",
+    "lastOnAirAuctionCode": "0019856884",
     "precedingSku": "7805172",
     "precedingTitle": "Set of 2 Religious 12-Hour Analog Wall Clocks \u2013 Vintage Brown Frames with Sacred Art Backgrounds",
     "precedingAuctionCode": "0019856763"
