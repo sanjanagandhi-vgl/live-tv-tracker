@@ -297456,11 +297456,29 @@
       "productUrlChecked": 1788489564073,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8679508": {
+      "sku": "8679508",
+      "firstAir": 1788491063813,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788491063813,
+      "title": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019854163",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "04:04:23",
+      "productUrl": null,
+      "lastUpdated": 1788491063813,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788491000991,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315401,11 +315419,22 @@
         "followingSku": "8518992",
         "followingTitle": "Livmore 100%  Cotton Woven Throw Blanket - (Size 130x160 cm) - Light Grey",
         "followingAuctionCode": "0019856068"
+      },
+      {
+        "start": 1788491000991,
+        "end": 1788491063813,
+        "durationMin": 1.0,
+        "precedingSku": "8518992",
+        "precedingTitle": "Livmore 100%  Cotton Woven Throw Blanket - (Size 130x160 cm) - Light Grey",
+        "precedingAuctionCode": "0019856068",
+        "followingSku": "8679508",
+        "followingTitle": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
+        "followingAuctionCode": "0019854163"
       }
     ],
-    "lastOnAirSku": "8518992",
-    "lastOnAirTitle": "Livmore 100%  Cotton Woven Throw Blanket - (Size 130x160 cm) - Light Grey",
-    "lastOnAirAuctionCode": "0019856068",
+    "lastOnAirSku": "8679508",
+    "lastOnAirTitle": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
+    "lastOnAirAuctionCode": "0019854163",
     "precedingSku": "8518992",
     "precedingTitle": "Livmore 100%  Cotton Woven Throw Blanket - (Size 130x160 cm) - Light Grey",
     "precedingAuctionCode": "0019856068"
