@@ -2098,7 +2098,7 @@
       "sku": "8426918",
       "tvPrice": "",
       "remarks": "",
-      "time": "20:06:24",
+      "time": "20:07:19",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
@@ -2107,14 +2107,14 @@
       "title": "BEST SELLER Natural White Diamond Hoop Earring",
       "auctionCode": "0019855620",
       "source": "gha",
-      "lastAir": 1788548784156,
-      "pdpPrice": "29.99",
+      "lastAir": 1788548839805,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-04",
       "productUrl": null,
-      "lastUpdated": 1788548784156
+      "lastUpdated": 1788548839805
     },
     "8620471": {
       "sku": "8620471",
@@ -300904,9 +300904,16 @@
       "img": true,
       "date": "2026-09-04",
       "time": "19:58:21",
-      "productUrl": null,
-      "lastUpdated": 1788548301965,
-      "source": "gha"
+      "productUrl": "/products/la-marey-printed-scarf-size-one-size-green-8593255",
+      "lastUpdated": 1788548839805,
+      "source": "gha",
+      "missedAt": 1788548839805,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1788548843059,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8739965": {
       "sku": "8739965",
@@ -300945,6 +300952,26 @@
       "source": "gha",
       "productUrl": "/products/pecksniffs-manuka-honey-orange-blossom-moisturising-hand-wash-500ml-8739964",
       "productUrlChecked": 1788548363413,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8593265": {
+      "sku": "8593265",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-04",
+      "time": "20:07:19",
+      "preExisting": true,
+      "missedAt": 1788548839805,
+      "missedDelay": null,
+      "lastUpdated": 1788548839805,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Blue Leopard",
+      "auctionCode": "0019856910",
+      "source": "gha",
+      "productUrl": "/products/la-marey-printed-scarf-size-one-size-green-8593255",
+      "productUrlChecked": 1788548843213,
       "productUrlStatus": 200,
       "productUrl404": false
     }
