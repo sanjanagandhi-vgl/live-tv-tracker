@@ -35409,21 +35409,26 @@
       "sku": "8516161",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "07:36:27",
+      "date": "2026-09-04",
+      "time": "14:40:38",
       "preExisting": true,
       "missedAt": 1785479787721,
       "missedDelay": null,
-      "lastUpdated": 1785479787721,
+      "lastUpdated": 1788529238402,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Livmore Microfibre Cleaning Towel Roll - 30 Pulls (25 x 25cm) - Beige",
-      "auctionCode": "0019801937",
+      "title": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
+      "auctionCode": "0019856737",
       "source": "gha",
       "productUrl": "/products/livmore-microfibre-cleaning-towel-roll-30-pulls-25-x-25cm",
       "productUrlChecked": 1785479795065,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788529238402,
+      "pdpPrice": "4.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8508209": {
       "sku": "8508209",
@@ -300017,8 +300022,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788529106143,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -318586,11 +318591,22 @@
         "followingSku": "8712394",
         "followingTitle": "Itty Bittys Noah's Ark Zebra Soft Toy Plush (5 Inch) - Black",
         "followingAuctionCode": "0019856884"
+      },
+      {
+        "start": 1788529106143,
+        "end": 1788529238402,
+        "durationMin": 2.2,
+        "precedingSku": "8712394",
+        "precedingTitle": "Itty Bittys Noah's Ark Zebra Soft Toy Plush (5 Inch) - Black",
+        "precedingAuctionCode": "0019856884",
+        "followingSku": "8516161",
+        "followingTitle": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
+        "followingAuctionCode": "0019856737"
       }
     ],
-    "lastOnAirSku": "8712394",
-    "lastOnAirTitle": "Itty Bittys Noah's Ark Zebra Soft Toy Plush (5 Inch) - Black",
-    "lastOnAirAuctionCode": "0019856884",
+    "lastOnAirSku": "8516161",
+    "lastOnAirTitle": "Livmore Microfibre Cloth Roll - 30 Pulls (25 x 25cm) - Light Blue",
+    "lastOnAirAuctionCode": "0019856737",
     "precedingSku": "8712394",
     "precedingTitle": "Itty Bittys Noah's Ark Zebra Soft Toy Plush (5 Inch) - Black",
     "precedingAuctionCode": "0019856884"
