@@ -297342,11 +297342,29 @@
       "productUrlChecked": 1788488608741,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8642850": {
+      "sku": "8642850",
+      "firstAir": 1788488903675,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788488903675,
+      "title": "Love Music Drink Bottle - White",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019854280",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "03:28:23",
+      "productUrl": null,
+      "lastUpdated": 1788488903675,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788488839550,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315243,11 +315261,22 @@
         "followingSku": "7552044",
         "followingTitle": "Set of 2 Colour Changing Santa and Snowman Christmas Decorations - Red & White",
         "followingAuctionCode": "0019854198"
+      },
+      {
+        "start": 1788488839550,
+        "end": 1788488903675,
+        "durationMin": 1.1,
+        "precedingSku": "8570303",
+        "precedingTitle": "Barbie Kids Beach Towel - Multi Colour",
+        "precedingAuctionCode": "0019854275",
+        "followingSku": "8642850",
+        "followingTitle": "Love Music Drink Bottle - White",
+        "followingAuctionCode": "0019854280"
       }
     ],
-    "lastOnAirSku": "8570303",
-    "lastOnAirTitle": "Barbie Kids Beach Towel - Multi Colour",
-    "lastOnAirAuctionCode": "0019854275",
+    "lastOnAirSku": "8642850",
+    "lastOnAirTitle": "Love Music Drink Bottle - White",
+    "lastOnAirAuctionCode": "0019854280",
     "precedingSku": "8570303",
     "precedingTitle": "Barbie Kids Beach Towel - Multi Colour",
     "precedingAuctionCode": "0019854275"
