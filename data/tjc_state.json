@@ -155804,17 +155804,17 @@
       "firstAir": 1786700134369,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787802341629,
+      "lastAir": 1788493159997,
       "title": "Love Vits Creatine - 100 Tablets",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019844675",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019854169",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-27",
-      "time": "04:45:41",
+      "date": "2026-09-04",
+      "time": "04:39:19",
       "productUrl": "/products/new-launch-love-vits-100-tablets",
-      "lastUpdated": 1787802341629,
+      "lastUpdated": 1788493159997,
       "source": "gha",
       "missedAt": 1786701330481,
       "missedDelay": 9,
@@ -297579,8 +297579,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788493102655,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315554,11 +315554,22 @@
         "followingSku": "8270885",
         "followingTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
         "followingAuctionCode": "0019854170"
+      },
+      {
+        "start": 1788493102655,
+        "end": 1788493159997,
+        "durationMin": 1.0,
+        "precedingSku": "8270885",
+        "precedingTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
+        "precedingAuctionCode": "0019854170",
+        "followingSku": "8538133",
+        "followingTitle": "Love Vits Creatine - 100 Tablets",
+        "followingAuctionCode": "0019854169"
       }
     ],
-    "lastOnAirSku": "8270885",
-    "lastOnAirTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
-    "lastOnAirAuctionCode": "0019854170",
+    "lastOnAirSku": "8538133",
+    "lastOnAirTitle": "Love Vits Creatine - 100 Tablets",
+    "lastOnAirAuctionCode": "0019854169",
     "precedingSku": "8270885",
     "precedingTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
     "precedingAuctionCode": "0019854170"
