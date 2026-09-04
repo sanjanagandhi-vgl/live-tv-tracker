@@ -2098,23 +2098,23 @@
       "sku": "8426918",
       "tvPrice": "",
       "remarks": "",
-      "time": "08:03:19",
+      "time": "20:06:24",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "EverTrue - Natural White Diamond Hoop Earring in White Tone",
-      "auctionCode": "0019820249",
+      "title": "BEST SELLER Natural White Diamond Hoop Earring",
+      "auctionCode": "0019855620",
       "source": "gha",
-      "lastAir": 1786690999600,
-      "pdpPrice": "9.99",
+      "lastAir": 1788548784156,
+      "pdpPrice": "29.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-14",
+      "date": "2026-09-04",
       "productUrl": null,
-      "lastUpdated": 1786690999600
+      "lastUpdated": 1788548784156
     },
     "8620471": {
       "sku": "8620471",
@@ -300950,8 +300950,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788548359695,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319750,11 +319750,22 @@
         "followingSku": "8593264",
         "followingTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Brown",
         "followingAuctionCode": "0019856909"
+      },
+      {
+        "start": 1788548359695,
+        "end": 1788548784156,
+        "durationMin": 7.1,
+        "precedingSku": "8593264",
+        "precedingTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Brown",
+        "precedingAuctionCode": "0019856909",
+        "followingSku": "8426918",
+        "followingTitle": "BEST SELLER Natural White Diamond Hoop Earring",
+        "followingAuctionCode": "0019855620"
       }
     ],
-    "lastOnAirSku": "8593264",
-    "lastOnAirTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Brown",
-    "lastOnAirAuctionCode": "0019856909",
+    "lastOnAirSku": "8426918",
+    "lastOnAirTitle": "BEST SELLER Natural White Diamond Hoop Earring",
+    "lastOnAirAuctionCode": "0019855620",
     "precedingSku": "8593264",
     "precedingTitle": "La Marey Womens Lightweight Printed Scarf (180 x 80 cm) - Brown",
     "precedingAuctionCode": "0019856909"
