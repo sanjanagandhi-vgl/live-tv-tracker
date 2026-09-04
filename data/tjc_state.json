@@ -186750,17 +186750,17 @@
       "firstAir": 1787062279563,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788493039248,
+      "lastAir": 1788513743905,
       "title": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019854170",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019857157",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-04",
-      "time": "04:37:19",
+      "time": "10:22:23",
       "productUrl": "/products/livmore-set-of-10-unisex-perfumes-10-x-8ml",
-      "lastUpdated": 1788493039248,
+      "lastUpdated": 1788513743905,
       "source": "gha",
       "missedAt": 1787063000656,
       "missedDelay": 9,
@@ -298887,8 +298887,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788513672626,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -317214,11 +317214,22 @@
         "followingSku": "8651289",
         "followingTitle": "Pure And Natural Abstract Floral Print Top",
         "followingAuctionCode": "0019856826"
+      },
+      {
+        "start": 1788513672626,
+        "end": 1788513743905,
+        "durationMin": 1.2,
+        "precedingSku": "8667358",
+        "precedingTitle": "Greek Design Dome Umbrella - Silver",
+        "precedingAuctionCode": "0019857153",
+        "followingSku": "8270885",
+        "followingTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
+        "followingAuctionCode": "0019857157"
       }
     ],
-    "lastOnAirSku": "8667358",
-    "lastOnAirTitle": "Greek Design Dome Umbrella - Silver",
-    "lastOnAirAuctionCode": "0019857153",
+    "lastOnAirSku": "8270885",
+    "lastOnAirTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
+    "lastOnAirAuctionCode": "0019857157",
     "precedingSku": "8667358",
     "precedingTitle": "Greek Design Dome Umbrella - Silver",
     "precedingAuctionCode": "0019857153"
