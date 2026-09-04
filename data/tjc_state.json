@@ -297566,14 +297566,21 @@
       "img": true,
       "date": "2026-09-04",
       "time": "04:28:22",
-      "productUrl": null,
-      "lastUpdated": 1788492502632,
-      "source": "gha"
+      "productUrl": "/products/botanical-matrix-wake-up-vitamin-c-energising-oil-30ml-tube-8646012",
+      "lastUpdated": 1788493102655,
+      "source": "gha",
+      "missedAt": 1788493102655,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1788493109806,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788493102655,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315552,8 +315559,8 @@
     "lastOnAirSku": "8270885",
     "lastOnAirTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
     "lastOnAirAuctionCode": "0019854170",
-    "precedingSku": "7829283",
-    "precedingTitle": "Set of 4 Bath and Body Set - Storage Bag, Bath Glove, Rub Pad & Massage Brush - Ultimate Care Set",
-    "precedingAuctionCode": "0019854162"
+    "precedingSku": "8270885",
+    "precedingTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
+    "precedingAuctionCode": "0019854170"
   }
 }
