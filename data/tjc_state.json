@@ -296982,14 +296982,21 @@
       "img": true,
       "date": "2026-09-04",
       "time": "02:21:19",
-      "productUrl": null,
-      "lastUpdated": 1788484879209,
-      "source": "gha"
+      "productUrl": "/products/close-out-deal-hematite-necklace-size-25",
+      "lastUpdated": 1788485448785,
+      "source": "gha",
+      "missedAt": 1788485448785,
+      "missedDelay": 9,
+      "missedPrice": 6.99,
+      "missedImg": true,
+      "productUrlChecked": 1788485451505,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788485448785,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314792,8 +314799,8 @@
     "lastOnAirSku": "4392975",
     "lastOnAirTitle": "2 Piece Set - Bracelet and Bracelet Buddy 70.000 Ct.",
     "lastOnAirAuctionCode": "0019854187",
-    "precedingSku": "8319656",
-    "precedingTitle": "Close Out Deal- Hematite Necklace (Size - 25)",
-    "precedingAuctionCode": "0019854209"
+    "precedingSku": "4392975",
+    "precedingTitle": "2 Piece Set - Bracelet and Bracelet Buddy 70.000 Ct.",
+    "precedingAuctionCode": "0019854187"
   }
 }
