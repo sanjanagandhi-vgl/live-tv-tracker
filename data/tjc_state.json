@@ -300044,11 +300044,29 @@
       "productUrl": null,
       "lastUpdated": 1788531507018,
       "source": "gha"
+    },
+    "8626754": {
+      "sku": "8626754",
+      "firstAir": 1788531744135,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788531744135,
+      "title": "Livmore Set of 2 Handcrafted Nested Wooden Boxes with Oxidized Lotus Work - Brown",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019856759",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "15:22:24",
+      "productUrl": null,
+      "lastUpdated": 1788531744135,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788531561548,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -318638,11 +318656,22 @@
         "followingSku": "8642017",
         "followingTitle": "Designer Printed Crossbody Pouch Bag with Tassels & Rope Shoulder Strap - Blue & Off White",
         "followingAuctionCode": "0019856693"
+      },
+      {
+        "start": 1788531561548,
+        "end": 1788531744135,
+        "durationMin": 3.0,
+        "precedingSku": "8642017",
+        "precedingTitle": "Designer Printed Crossbody Pouch Bag with Tassels & Rope Shoulder Strap - Blue & Off White",
+        "precedingAuctionCode": "0019856693",
+        "followingSku": "8626754",
+        "followingTitle": "Livmore Set of 2 Handcrafted Nested Wooden Boxes with Oxidized Lotus Work - Brown",
+        "followingAuctionCode": "0019856759"
       }
     ],
-    "lastOnAirSku": "8642017",
-    "lastOnAirTitle": "Designer Printed Crossbody Pouch Bag with Tassels & Rope Shoulder Strap - Blue & Off White",
-    "lastOnAirAuctionCode": "0019856693",
+    "lastOnAirSku": "8626754",
+    "lastOnAirTitle": "Livmore Set of 2 Handcrafted Nested Wooden Boxes with Oxidized Lotus Work - Brown",
+    "lastOnAirAuctionCode": "0019856759",
     "precedingSku": "8642017",
     "precedingTitle": "Designer Printed Crossbody Pouch Bag with Tassels & Rope Shoulder Strap - Blue & Off White",
     "precedingAuctionCode": "0019856693"
