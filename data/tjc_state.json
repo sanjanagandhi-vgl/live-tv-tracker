@@ -296942,11 +296942,29 @@
       "productUrl": null,
       "lastUpdated": 1788484408212,
       "source": "gha"
+    },
+    "7792007": {
+      "sku": "7792007",
+      "firstAir": 1788484534362,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788484534362,
+      "title": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019854184",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "02:15:34",
+      "productUrl": null,
+      "lastUpdated": 1788484534362,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788484462344,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -314711,11 +314729,22 @@
         "followingSku": "7811793",
         "followingTitle": "Peacock Colour Shell Pearl Earrings in Silver Tone",
         "followingAuctionCode": "0019854183"
+      },
+      {
+        "start": 1788484462344,
+        "end": 1788484534362,
+        "durationMin": 1.2,
+        "precedingSku": "7811793",
+        "precedingTitle": "Peacock Colour Shell Pearl Earrings in Silver Tone",
+        "precedingAuctionCode": "0019854183",
+        "followingSku": "7792007",
+        "followingTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
+        "followingAuctionCode": "0019854184"
       }
     ],
-    "lastOnAirSku": "7811793",
-    "lastOnAirTitle": "Peacock Colour Shell Pearl Earrings in Silver Tone",
-    "lastOnAirAuctionCode": "0019854183",
+    "lastOnAirSku": "7792007",
+    "lastOnAirTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
+    "lastOnAirAuctionCode": "0019854184",
     "precedingSku": "7811793",
     "precedingTitle": "Peacock Colour Shell Pearl Earrings in Silver Tone",
     "precedingAuctionCode": "0019854183"
