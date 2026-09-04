@@ -27138,23 +27138,23 @@
       "sku": "4470332",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "00:53:19",
+      "date": "2026-09-04",
+      "time": "20:16:24",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1786665199767,
+      "lastUpdated": 1788549384369,
       "missedPrice": 7.99,
       "missedImg": false,
       "title": "Set of 3 - EverTrue Multi Diamond Pendant",
-      "auctionCode": "0019819277",
+      "auctionCode": "0019856960",
       "source": "gha",
       "productUrl": "/products/set-of-3-evertrue-multi-diamond-pendant-4470332",
       "productUrlChecked": 1785474937883,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1786665199767,
-      "pdpPrice": "7.99",
+      "lastAir": 1788549384369,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": false
@@ -300977,8 +300977,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788549335465,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319788,11 +319788,22 @@
         "followingSku": "8426918",
         "followingTitle": "BEST SELLER Natural White Diamond Hoop Earring",
         "followingAuctionCode": "0019855620"
+      },
+      {
+        "start": 1788549335465,
+        "end": 1788549384369,
+        "durationMin": 0.8,
+        "precedingSku": "8426918",
+        "precedingTitle": "BEST SELLER Natural White Diamond Hoop Earring",
+        "precedingAuctionCode": "0019855620",
+        "followingSku": "4470332",
+        "followingTitle": "Set of 3 - EverTrue Multi Diamond Pendant",
+        "followingAuctionCode": "0019856960"
       }
     ],
-    "lastOnAirSku": "8426918",
-    "lastOnAirTitle": "BEST SELLER Natural White Diamond Hoop Earring",
-    "lastOnAirAuctionCode": "0019855620",
+    "lastOnAirSku": "4470332",
+    "lastOnAirTitle": "Set of 3 - EverTrue Multi Diamond Pendant",
+    "lastOnAirAuctionCode": "0019856960",
     "precedingSku": "8426918",
     "precedingTitle": "BEST SELLER Natural White Diamond Hoop Earring",
     "precedingAuctionCode": "0019855620"
