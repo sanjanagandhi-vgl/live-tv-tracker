@@ -300439,11 +300439,29 @@
       "productUrl": null,
       "lastUpdated": 1788538235381,
       "source": "gha"
+    },
+    "8521094": {
+      "sku": "8521094",
+      "firstAir": 1788538479009,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788538479009,
+      "title": "20W Electric Hot Melt Glue Gun Kit with 50 Glue Sticks & UK Plug (220V)",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019856762",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "17:14:39",
+      "productUrl": null,
+      "lastUpdated": 1788538479009,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788538279177,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319110,11 +319128,22 @@
         "followingSku": "8574616",
         "followingTitle": "Beaded Evil Eye Zip-Around Continental Purse- Red & Multicolour",
         "followingAuctionCode": "0019856687"
+      },
+      {
+        "start": 1788538279177,
+        "end": 1788538479009,
+        "durationMin": 3.3,
+        "precedingSku": "8574616",
+        "precedingTitle": "Beaded Evil Eye Zip-Around Continental Purse- Red & Multicolour",
+        "precedingAuctionCode": "0019856687",
+        "followingSku": "8521094",
+        "followingTitle": "20W Electric Hot Melt Glue Gun Kit with 50 Glue Sticks & UK Plug (220V)",
+        "followingAuctionCode": "0019856762"
       }
     ],
-    "lastOnAirSku": "8574616",
-    "lastOnAirTitle": "Beaded Evil Eye Zip-Around Continental Purse- Red & Multicolour",
-    "lastOnAirAuctionCode": "0019856687",
+    "lastOnAirSku": "8521094",
+    "lastOnAirTitle": "20W Electric Hot Melt Glue Gun Kit with 50 Glue Sticks & UK Plug (220V)",
+    "lastOnAirAuctionCode": "0019856762",
     "precedingSku": "8574616",
     "precedingTitle": "Beaded Evil Eye Zip-Around Continental Purse- Red & Multicolour",
     "precedingAuctionCode": "0019856687"
