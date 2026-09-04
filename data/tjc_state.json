@@ -300554,11 +300554,29 @@
       "productUrl": null,
       "lastUpdated": 1788540504556,
       "source": "gha"
+    },
+    "8567139": {
+      "sku": "8567139",
+      "firstAir": 1788540864958,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788540864958,
+      "title": "Novelty Puppy Cartoon Crossbody Ita Bag - Khaki",
+      "pdpPrice": "8.99",
+      "auctionCode": "0019856685",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "17:54:24",
+      "productUrl": null,
+      "lastUpdated": 1788540864958,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788540800064,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -319258,11 +319276,22 @@
         "followingSku": "8477105",
         "followingTitle": "Set of 2 Faux Flower Branches with LED Lights (50cm) - Blue & Green",
         "followingAuctionCode": "0019856767"
+      },
+      {
+        "start": 1788540800064,
+        "end": 1788540864958,
+        "durationMin": 1.1,
+        "precedingSku": "8626631",
+        "precedingTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargeable 500 times!",
+        "precedingAuctionCode": "0019856770",
+        "followingSku": "8567139",
+        "followingTitle": "Novelty Puppy Cartoon Crossbody Ita Bag - Khaki",
+        "followingAuctionCode": "0019856685"
       }
     ],
-    "lastOnAirSku": "8626631",
-    "lastOnAirTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargeable 500 times!",
-    "lastOnAirAuctionCode": "0019856770",
+    "lastOnAirSku": "8567139",
+    "lastOnAirTitle": "Novelty Puppy Cartoon Crossbody Ita Bag - Khaki",
+    "lastOnAirAuctionCode": "0019856685",
     "precedingSku": "8626631",
     "precedingTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargeable 500 times!",
     "precedingAuctionCode": "0019856770"
