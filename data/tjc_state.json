@@ -297772,11 +297772,29 @@
       "productUrlChecked": 1788496534990,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8667358": {
+      "sku": "8667358",
+      "firstAir": 1788496877478,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788496877478,
+      "title": "Greek Design Dome Umbrella - Silver",
+      "pdpPrice": "40.99",
+      "auctionCode": "0019856192",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-04",
+      "time": "05:41:17",
+      "productUrl": null,
+      "lastUpdated": 1788496877478,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788496836893,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315827,11 +315845,22 @@
         "followingSku": "8751848",
         "followingTitle": null,
         "followingAuctionCode": "0019856153"
+      },
+      {
+        "start": 1788496836893,
+        "end": 1788496877478,
+        "durationMin": 0.7,
+        "precedingSku": "8751848",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019856153",
+        "followingSku": "8667358",
+        "followingTitle": "Greek Design Dome Umbrella - Silver",
+        "followingAuctionCode": "0019856192"
       }
     ],
-    "lastOnAirSku": "8751848",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019856153",
+    "lastOnAirSku": "8667358",
+    "lastOnAirTitle": "Greek Design Dome Umbrella - Silver",
+    "lastOnAirAuctionCode": "0019856192",
     "precedingSku": "8751848",
     "precedingTitle": null,
     "precedingAuctionCode": "0019856153"
