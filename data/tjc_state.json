@@ -36805,17 +36805,17 @@
       "firstAir": 1785493758118,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786443339932,
+      "lastAir": 1788486503458,
       "title": "Blue Crystal Byzantine Link Bracelet (Size - 7.5)",
       "pdpPrice": "9.99",
-      "auctionCode": "0019816325",
+      "auctionCode": "0019854281",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-11",
-      "time": "11:15:39",
+      "date": "2026-09-04",
+      "time": "02:48:23",
       "productUrl": "/products/red-crystal-bracelet-size-7-5-pure-white-stainless-steel-0-600-ct-2967083360",
-      "lastUpdated": 1786443339932,
+      "lastUpdated": 1788486503458,
       "source": "gha",
       "missedAt": 1785494484308,
       "missedDelay": 10,
@@ -297258,8 +297258,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788486436915,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -315090,11 +315090,22 @@
         "followingSku": "8668023",
         "followingTitle": "3-Layer Cylindrical Travel Jewellery Roll Organiser Box - Beige",
         "followingAuctionCode": "0019856064"
+      },
+      {
+        "start": 1788486436915,
+        "end": 1788486503458,
+        "durationMin": 1.1,
+        "precedingSku": "8668023",
+        "precedingTitle": "3-Layer Cylindrical Travel Jewellery Roll Organiser Box - Beige",
+        "precedingAuctionCode": "0019856064",
+        "followingSku": "7083360",
+        "followingTitle": "Blue Crystal Byzantine Link Bracelet (Size - 7.5)",
+        "followingAuctionCode": "0019854281"
       }
     ],
-    "lastOnAirSku": "8668023",
-    "lastOnAirTitle": "3-Layer Cylindrical Travel Jewellery Roll Organiser Box - Beige",
-    "lastOnAirAuctionCode": "0019856064",
+    "lastOnAirSku": "7083360",
+    "lastOnAirTitle": "Blue Crystal Byzantine Link Bracelet (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019854281",
     "precedingSku": "8668023",
     "precedingTitle": "3-Layer Cylindrical Travel Jewellery Roll Organiser Box - Beige",
     "precedingAuctionCode": "0019856064"
