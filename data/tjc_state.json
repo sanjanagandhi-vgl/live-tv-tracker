@@ -553,22 +553,22 @@
       "sku": "6860824",
       "tvPrice": "",
       "remarks": "",
-      "time": "13:43:18",
+      "time": "10:32:28",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
-      "auctionCode": "0019834786",
+      "auctionCode": "0019857139",
       "source": "gha",
-      "lastAir": 1787316198638,
-      "pdpPrice": "9.99",
+      "lastAir": 1788514348658,
+      "pdpPrice": "14.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-21",
-      "lastUpdated": 1787316198638,
+      "date": "2026-09-04",
+      "lastUpdated": 1788514348658,
       "productUrl": null
     },
     "7800646": {
@@ -298887,8 +298887,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788514160378,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -317225,11 +317225,22 @@
         "followingSku": "8270885",
         "followingTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
         "followingAuctionCode": "0019857157"
+      },
+      {
+        "start": 1788514160378,
+        "end": 1788514348658,
+        "durationMin": 3.1,
+        "precedingSku": "8270885",
+        "precedingTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
+        "precedingAuctionCode": "0019857157",
+        "followingSku": "6860824",
+        "followingTitle": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
+        "followingAuctionCode": "0019857139"
       }
     ],
-    "lastOnAirSku": "8270885",
-    "lastOnAirTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
-    "lastOnAirAuctionCode": "0019857157",
+    "lastOnAirSku": "6860824",
+    "lastOnAirTitle": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
+    "lastOnAirAuctionCode": "0019857139",
     "precedingSku": "8270885",
     "precedingTitle": "LIVMORE Set of 10 Unisex Perfumes - 10 x 8ML",
     "precedingAuctionCode": "0019857157"
