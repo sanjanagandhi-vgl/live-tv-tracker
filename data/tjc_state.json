@@ -3382,23 +3382,23 @@
       "sku": "4505143",
       "tvPrice": "",
       "remarks": "",
-      "time": "10:48:26",
+      "time": "12:20:35",
       "preExisting": true,
       "missedAt": 1784874647956,
       "missedDelay": null,
       "missedPrice": 7.99,
       "missedImg": false,
       "title": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
-      "auctionCode": "0019804471",
+      "auctionCode": "0019856474",
       "source": "gha",
-      "lastAir": 1785664106722,
+      "lastAir": 1788520835254,
       "pdpPrice": "7.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-02",
+      "date": "2026-09-04",
       "productUrl": null,
-      "lastUpdated": 1785664106722
+      "lastUpdated": 1788520835254
     },
     "4505144": {
       "sku": "4505144",
@@ -299361,8 +299361,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788520758674,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -317787,11 +317787,22 @@
         "followingSku": "4455137",
         "followingTitle": "AAA African Amethyst Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20) 1.17 Ct.",
         "followingAuctionCode": "0019856634"
+      },
+      {
+        "start": 1788520758674,
+        "end": 1788520835254,
+        "durationMin": 1.3,
+        "precedingSku": "8526789",
+        "precedingTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
+        "precedingAuctionCode": "0019856333",
+        "followingSku": "4505143",
+        "followingTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
+        "followingAuctionCode": "0019856474"
       }
     ],
-    "lastOnAirSku": "8526789",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
-    "lastOnAirAuctionCode": "0019856333",
+    "lastOnAirSku": "4505143",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019856474",
     "precedingSku": "8526789",
     "precedingTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
     "precedingAuctionCode": "0019856333"
