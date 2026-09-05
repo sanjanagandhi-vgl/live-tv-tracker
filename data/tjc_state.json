@@ -77436,21 +77436,26 @@
       "sku": "8668708",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-05",
-      "time": "11:48:32",
+      "date": "2026-09-05",
+      "time": "13:41:18",
       "preExisting": true,
       "missedAt": 1785926912661,
       "missedDelay": null,
-      "lastUpdated": 1785926912661,
+      "lastUpdated": 1788612078978,
       "missedPrice": 197.99,
       "missedImg": false,
-      "title": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
-      "auctionCode": "0019807495",
+      "title": "Live From Vicenza - Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
+      "auctionCode": "0019857171",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-ring-8668706",
       "productUrlChecked": 1785926923711,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788612078978,
+      "pdpPrice": "2345.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8668709": {
       "sku": "8668709",
@@ -302348,8 +302353,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788612036533,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321819,11 +321824,22 @@
         "followingSku": "8668674",
         "followingTitle": "Live From Vicenza - New Launch Maestro Collection - 9K Yellow Gold Fresh Water Pearl Necklace (Size - 18) with Spring Ring Clasp",
         "followingAuctionCode": "0019854745"
+      },
+      {
+        "start": 1788612036533,
+        "end": 1788612078978,
+        "durationMin": 0.7,
+        "precedingSku": "8668674",
+        "precedingTitle": "Live From Vicenza - New Launch Maestro Collection - 9K Yellow Gold Fresh Water Pearl Necklace (Size - 18) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019854745",
+        "followingSku": "8668708",
+        "followingTitle": "Live From Vicenza - Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
+        "followingAuctionCode": "0019857171"
       }
     ],
-    "lastOnAirSku": "8668674",
-    "lastOnAirTitle": "Live From Vicenza - New Launch Maestro Collection - 9K Yellow Gold Fresh Water Pearl Necklace (Size - 18) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019854745",
+    "lastOnAirSku": "8668708",
+    "lastOnAirTitle": "Live From Vicenza - Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
+    "lastOnAirAuctionCode": "0019857171",
     "precedingSku": "8668674",
     "precedingTitle": "Live From Vicenza - New Launch Maestro Collection - 9K Yellow Gold Fresh Water Pearl Necklace (Size - 18) with Spring Ring Clasp",
     "precedingAuctionCode": "0019854745"
