@@ -10865,21 +10865,22 @@
       "firstAir": 1785002664194,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785003636612,
+      "lastAir": 1788619536999,
       "title": "D'Joy - Multi Sapphire Tennis Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 9.00 Ct.",
-      "pdpPrice": 399.99,
-      "auctionCode": "0019794103",
-      "buy": false,
+      "pdpPrice": "8199.99",
+      "auctionCode": "0019858833",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "19:20:36",
-      "lastUpdated": 1785003678941,
+      "date": "2026-09-05",
+      "time": "15:45:36",
+      "lastUpdated": 1788619536999,
       "source": "gha",
       "missedAt": 1785003678941,
       "missedDelay": 1,
       "missedPrice": 399.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8553005": {
       "sku": "8553005",
@@ -303493,8 +303494,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788619398024,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -323107,11 +323108,22 @@
         "followingSku": "8735889",
         "followingTitle": "14K Yellow Gold AAAA Loupe Clean Chanthaburi Yellow Sapphire & Natural Diamond Ring 2.27 Ct.",
         "followingAuctionCode": "0019858316"
+      },
+      {
+        "start": 1788619398024,
+        "end": 1788619536999,
+        "durationMin": 2.3,
+        "precedingSku": "8735889",
+        "precedingTitle": "14K Yellow Gold AAAA Loupe Clean Chanthaburi Yellow Sapphire & Natural Diamond Ring 2.27 Ct.",
+        "precedingAuctionCode": "0019858316",
+        "followingSku": "8703799",
+        "followingTitle": "D'Joy - Multi Sapphire Tennis Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 9.00 Ct.",
+        "followingAuctionCode": "0019858833"
       }
     ],
-    "lastOnAirSku": "8735889",
-    "lastOnAirTitle": "14K Yellow Gold AAAA Loupe Clean Chanthaburi Yellow Sapphire & Natural Diamond Ring 2.27 Ct.",
-    "lastOnAirAuctionCode": "0019858316",
+    "lastOnAirSku": "8703799",
+    "lastOnAirTitle": "D'Joy - Multi Sapphire Tennis Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 9.00 Ct.",
+    "lastOnAirAuctionCode": "0019858833",
     "precedingSku": "8735889",
     "precedingTitle": "14K Yellow Gold AAAA Loupe Clean Chanthaburi Yellow Sapphire & Natural Diamond Ring 2.27 Ct.",
     "precedingAuctionCode": "0019858316"
