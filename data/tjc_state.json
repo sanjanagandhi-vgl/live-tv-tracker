@@ -302190,11 +302190,29 @@
       "productUrl": null,
       "lastUpdated": 1788602902496,
       "source": "gha"
+    },
+    "8753815": {
+      "sku": "8753815",
+      "firstAir": 1788603334429,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788603334429,
+      "title": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
+      "pdpPrice": "13319.99",
+      "auctionCode": "0019857162",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-05",
+      "time": "11:15:34",
+      "productUrl": null,
+      "lastUpdated": 1788603334429,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788602959890,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321587,11 +321605,22 @@
         "followingSku": "8734702",
         "followingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
         "followingAuctionCode": "0019854734"
+      },
+      {
+        "start": 1788602959890,
+        "end": 1788603334429,
+        "durationMin": 6.2,
+        "precedingSku": "8734702",
+        "precedingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+        "precedingAuctionCode": "0019854734",
+        "followingSku": "8753815",
+        "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
+        "followingAuctionCode": "0019857162"
       }
     ],
-    "lastOnAirSku": "8734702",
-    "lastOnAirTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
-    "lastOnAirAuctionCode": "0019854734",
+    "lastOnAirSku": "8753815",
+    "lastOnAirTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
+    "lastOnAirAuctionCode": "0019857162",
     "precedingSku": "8734702",
     "precedingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
     "precedingAuctionCode": "0019854734"
