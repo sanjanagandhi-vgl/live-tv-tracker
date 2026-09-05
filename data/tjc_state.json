@@ -153972,23 +153972,23 @@
       "sku": "8553693",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "02:04:26",
+      "date": "2026-09-05",
+      "time": "01:48:22",
       "preExisting": true,
       "missedAt": 1786676909046,
       "missedDelay": null,
-      "lastUpdated": 1788483866097,
+      "lastUpdated": 1788569302688,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
-      "auctionCode": "0019856295",
+      "auctionCode": "0019858183",
       "source": "gha",
       "productUrl": "/products/rhodium-overlay-sterling-silver-rolo-chain-size-24-with-lobster-clasp-8553693?variant=53239119020298",
       "productUrlChecked": 1786676919551,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1788483866097,
-      "pdpPrice": 9.99,
+      "lastAir": 1788569302688,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -301572,8 +301572,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788569241554,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -320636,11 +320636,22 @@
         "followingSku": "8573392",
         "followingTitle": "Luxuriant - AAA Tanzanite (1.6ct) & Lab Grown Diamond (SI-G-H) Halo Ring in Rhodium Overlay Sterling Silver 2.05 Ct.",
         "followingAuctionCode": "0019857809"
+      },
+      {
+        "start": 1788569241554,
+        "end": 1788569302688,
+        "durationMin": 1.0,
+        "precedingSku": "8550992",
+        "precedingTitle": "D'Joy - Tanzanite Necklace (Size - 18-2 Ext) in Rhodium Overlay Sterling Silver 70.00 Ct.",
+        "precedingAuctionCode": "0019857816",
+        "followingSku": "8553693",
+        "followingTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
+        "followingAuctionCode": "0019858183"
       }
     ],
-    "lastOnAirSku": "8550992",
-    "lastOnAirTitle": "D'Joy - Tanzanite Necklace (Size - 18-2 Ext) in Rhodium Overlay Sterling Silver 70.00 Ct.",
-    "lastOnAirAuctionCode": "0019857816",
+    "lastOnAirSku": "8553693",
+    "lastOnAirTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019858183",
     "precedingSku": "8550992",
     "precedingTitle": "D'Joy - Tanzanite Necklace (Size - 18-2 Ext) in Rhodium Overlay Sterling Silver 70.00 Ct.",
     "precedingAuctionCode": "0019857816"
