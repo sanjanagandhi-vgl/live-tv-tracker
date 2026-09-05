@@ -302172,11 +302172,29 @@
       "productUrlChecked": 1788602067347,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8734702": {
+      "sku": "8734702",
+      "firstAir": 1788602302704,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788602302704,
+      "title": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019854734",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-05",
+      "time": "10:58:22",
+      "productUrl": null,
+      "lastUpdated": 1788602302704,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788602181788,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321558,11 +321576,22 @@
         "followingSku": "8572368",
         "followingTitle": "Live From Vicenza - 9K Yellow Gold Teddy Pendant",
         "followingAuctionCode": "0019854756"
+      },
+      {
+        "start": 1788602181788,
+        "end": 1788602302704,
+        "durationMin": 2.0,
+        "precedingSku": "8572368",
+        "precedingTitle": "Live From Vicenza - 9K Yellow Gold Teddy Pendant",
+        "precedingAuctionCode": "0019854756",
+        "followingSku": "8734702",
+        "followingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+        "followingAuctionCode": "0019854734"
       }
     ],
-    "lastOnAirSku": "8572368",
-    "lastOnAirTitle": "Live From Vicenza - 9K Yellow Gold Teddy Pendant",
-    "lastOnAirAuctionCode": "0019854756",
+    "lastOnAirSku": "8734702",
+    "lastOnAirTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+    "lastOnAirAuctionCode": "0019854734",
     "precedingSku": "8572368",
     "precedingTitle": "Live From Vicenza - 9K Yellow Gold Teddy Pendant",
     "precedingAuctionCode": "0019854756"
