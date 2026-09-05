@@ -2851,23 +2851,23 @@
       "sku": "8664514",
       "tvPrice": "",
       "remarks": "",
-      "time": "12:59:19",
+      "time": "17:22:23",
       "preExisting": true,
       "missedAt": 1784851852401,
       "missedDelay": null,
       "missedPrice": 849.99,
       "missedImg": false,
       "title": "ONE TIME ONLY DEAL - 9K Yellow Gold AAA Colombian Emerald (1.00ct) & White Diamond (0.30ct) Halo Ring, Gold Wt.3.00 Gms",
-      "auctionCode": "0019825992",
+      "auctionCode": "0019859182",
       "source": "gha",
-      "lastAir": 1786967959069,
-      "pdpPrice": "849.99",
+      "lastAir": 1788625343486,
+      "pdpPrice": "1799.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
+      "date": "2026-09-05",
       "productUrl": null,
-      "lastUpdated": 1786967959069
+      "lastUpdated": 1788625343486
     },
     "8664521": {
       "sku": "8664521",
@@ -303706,8 +303706,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788625273479,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -323375,11 +323375,22 @@
         "followingSku": "8734702",
         "followingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
         "followingAuctionCode": "0019859321"
+      },
+      {
+        "start": 1788625273479,
+        "end": 1788625343486,
+        "durationMin": 1.2,
+        "precedingSku": "8734702",
+        "precedingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+        "precedingAuctionCode": "0019859321",
+        "followingSku": "8664514",
+        "followingTitle": "ONE TIME ONLY DEAL - 9K Yellow Gold AAA Colombian Emerald (1.00ct) & White Diamond (0.30ct) Halo Ring, Gold Wt.3.00 Gms",
+        "followingAuctionCode": "0019859182"
       }
     ],
-    "lastOnAirSku": "8734702",
-    "lastOnAirTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
-    "lastOnAirAuctionCode": "0019859321",
+    "lastOnAirSku": "8664514",
+    "lastOnAirTitle": "ONE TIME ONLY DEAL - 9K Yellow Gold AAA Colombian Emerald (1.00ct) & White Diamond (0.30ct) Halo Ring, Gold Wt.3.00 Gms",
+    "lastOnAirAuctionCode": "0019859182",
     "precedingSku": "8734702",
     "precedingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
     "precedingAuctionCode": "0019859321"
