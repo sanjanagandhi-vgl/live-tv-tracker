@@ -304486,9 +304486,16 @@
       "img": false,
       "date": "2026-09-05",
       "time": "22:45:34",
-      "productUrl": null,
-      "lastUpdated": 1788644734574,
-      "source": "gha"
+      "productUrl": "/products/sterling-silver-romy-necklace-size-20-silver-wt-11-00-gms-8616434",
+      "lastUpdated": 1788645327946,
+      "source": "gha",
+      "missedAt": 1788645327946,
+      "missedDelay": 10,
+      "missedPrice": 69.99,
+      "missedImg": false,
+      "productUrlChecked": 1788645331947,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8616409": {
       "sku": "8616409",
@@ -304527,11 +304534,31 @@
       "productUrl": null,
       "lastUpdated": 1788644961751,
       "source": "gha"
+    },
+    "8616435": {
+      "sku": "8616435",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-05",
+      "time": "22:55:27",
+      "preExisting": true,
+      "missedAt": 1788645327946,
+      "missedDelay": null,
+      "lastUpdated": 1788645327946,
+      "missedPrice": 69.99,
+      "missedImg": false,
+      "title": "Yellow Gold Plated Sterling Silver Romy Necklace (Size - 20), Silver Wt. 10.50 Gms",
+      "auctionCode": "0019858816",
+      "source": "gha",
+      "productUrl": "/products/sterling-silver-romy-necklace-size-20-silver-wt-11-00-gms-8616434",
+      "productUrlChecked": 1788645333456,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788645327946,
     "gaps": [
       {
         "start": 1785823527869,
@@ -324413,8 +324440,8 @@
     "lastOnAirSku": "8753815",
     "lastOnAirTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
     "lastOnAirAuctionCode": "0019859581",
-    "precedingSku": "8616374",
-    "precedingTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
-    "precedingAuctionCode": "0019858811"
+    "precedingSku": "8753815",
+    "precedingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
+    "precedingAuctionCode": "0019859581"
   }
 }
