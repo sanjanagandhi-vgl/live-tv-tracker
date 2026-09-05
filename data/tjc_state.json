@@ -304672,11 +304672,29 @@
       "productUrlChecked": 1788649895554,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8722823": {
+      "sku": "8722823",
+      "firstAir": 1788651260287,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788651260287,
+      "title": "Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019858824",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "00:34:20",
+      "productUrl": null,
+      "lastUpdated": 1788651260287,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788651198979,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -324652,11 +324670,22 @@
         "followingSku": "8723842",
         "followingTitle": "La Bella Italian Made- Sterling Silver Necklace (Size - 20) with Lobster Clasp, Silver Wt.12.10 Gms",
         "followingAuctionCode": "0019858842"
+      },
+      {
+        "start": 1788651198979,
+        "end": 1788651260287,
+        "durationMin": 1.0,
+        "precedingSku": "8723842",
+        "precedingTitle": "La Bella Italian Made- Sterling Silver Necklace (Size - 20) with Lobster Clasp, Silver Wt.12.10 Gms",
+        "precedingAuctionCode": "0019858842",
+        "followingSku": "8722823",
+        "followingTitle": "Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
+        "followingAuctionCode": "0019858824"
       }
     ],
-    "lastOnAirSku": "8723842",
-    "lastOnAirTitle": "La Bella Italian Made- Sterling Silver Necklace (Size - 20) with Lobster Clasp, Silver Wt.12.10 Gms",
-    "lastOnAirAuctionCode": "0019858842",
+    "lastOnAirSku": "8722823",
+    "lastOnAirTitle": "Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019858824",
     "precedingSku": "8723842",
     "precedingTitle": "La Bella Italian Made- Sterling Silver Necklace (Size - 20) with Lobster Clasp, Silver Wt.12.10 Gms",
     "precedingAuctionCode": "0019858842"
