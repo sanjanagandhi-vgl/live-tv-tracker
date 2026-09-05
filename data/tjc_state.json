@@ -302238,17 +302238,17 @@
       "firstAir": 1788603334429,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788624198918,
+      "lastAir": 1788645077849,
       "title": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
-      "pdpPrice": "1999.99",
-      "auctionCode": "0019859291",
+      "pdpPrice": "13319.99",
+      "auctionCode": "0019859581",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-05",
-      "time": "17:03:18",
+      "time": "22:51:17",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-19-35-gms-8753815",
-      "lastUpdated": 1788624198918,
+      "lastUpdated": 1788645077849,
       "source": "gha",
       "missedAt": 1788606058829,
       "missedDelay": 10,
@@ -304530,8 +304530,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788645036438,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -324397,11 +324397,22 @@
         "followingSku": "8616434",
         "followingTitle": "Sterling Silver Romy Necklace (Size - 20), Silver Wt. 11.00 Gms",
         "followingAuctionCode": "0019858815"
+      },
+      {
+        "start": 1788645036438,
+        "end": 1788645077849,
+        "durationMin": 0.7,
+        "precedingSku": "8616374",
+        "precedingTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
+        "precedingAuctionCode": "0019858811",
+        "followingSku": "8753815",
+        "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
+        "followingAuctionCode": "0019859581"
       }
     ],
-    "lastOnAirSku": "8616374",
-    "lastOnAirTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019858811",
+    "lastOnAirSku": "8753815",
+    "lastOnAirTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
+    "lastOnAirAuctionCode": "0019859581",
     "precedingSku": "8616374",
     "precedingTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
     "precedingAuctionCode": "0019858811"
