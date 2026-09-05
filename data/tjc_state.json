@@ -302499,11 +302499,29 @@
       "productUrl": null,
       "lastUpdated": 1788614960433,
       "source": "gha"
+    },
+    "8734859": {
+      "sku": "8734859",
+      "firstAir": 1788615141132,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788615141132,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019858205",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-05",
+      "time": "14:32:21",
+      "productUrl": null,
+      "lastUpdated": 1788615141132,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788615048332,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -322039,11 +322057,22 @@
         "followingSku": "8738294",
         "followingTitle": null,
         "followingAuctionCode": "0019858240"
+      },
+      {
+        "start": 1788615048332,
+        "end": 1788615141132,
+        "durationMin": 1.5,
+        "precedingSku": "4519789",
+        "precedingTitle": "D'Joy - Multi Sapphire & Lab Grown Diamond Floral Pendant with Chain (Size 20) with Lobster Clasp in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
+        "precedingAuctionCode": "0019859040",
+        "followingSku": "8734859",
+        "followingTitle": null,
+        "followingAuctionCode": "0019858205"
       }
     ],
-    "lastOnAirSku": "4519789",
-    "lastOnAirTitle": "D'Joy - Multi Sapphire & Lab Grown Diamond Floral Pendant with Chain (Size 20) with Lobster Clasp in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
-    "lastOnAirAuctionCode": "0019859040",
+    "lastOnAirSku": "8734859",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019858205",
     "precedingSku": "4519789",
     "precedingTitle": "D'Joy - Multi Sapphire & Lab Grown Diamond Floral Pendant with Chain (Size 20) with Lobster Clasp in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
     "precedingAuctionCode": "0019859040"
