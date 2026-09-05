@@ -287906,21 +287906,26 @@
       "sku": "8622549",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-02",
-      "time": "22:39:20",
+      "date": "2026-09-05",
+      "time": "02:07:19",
       "preExisting": true,
       "missedAt": 1788385160961,
       "missedDelay": null,
-      "lastUpdated": 1788385160961,
+      "lastUpdated": 1788570439692,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Royal Bali Collection - D'Joy Moissanite Solitaire Hoop Earring in Yellow Gold Plated Sterling Silver 1.00 Ct.",
-      "auctionCode": "0019855444",
+      "auctionCode": "0019857142",
       "source": "gha",
       "productUrl": "/products/royal-bali-collection-djoy-moissanite-hoop-earring-in-platinum-overlay-sterling-silver-1-00-ct-8622538",
       "productUrlChecked": 1788385164694,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788570439692,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8690729": {
       "sku": "8690729",
@@ -301572,8 +301577,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788570199345,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -320647,11 +320652,22 @@
         "followingSku": "8553693",
         "followingTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
         "followingAuctionCode": "0019858183"
+      },
+      {
+        "start": 1788570199345,
+        "end": 1788570439692,
+        "durationMin": 4.0,
+        "precedingSku": "8553693",
+        "precedingTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
+        "precedingAuctionCode": "0019858183",
+        "followingSku": "8622549",
+        "followingTitle": "Royal Bali Collection - D'Joy Moissanite Solitaire Hoop Earring in Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019857142"
       }
     ],
-    "lastOnAirSku": "8553693",
-    "lastOnAirTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019858183",
+    "lastOnAirSku": "8622549",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Moissanite Solitaire Hoop Earring in Yellow Gold Plated Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019857142",
     "precedingSku": "8553693",
     "precedingTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
     "precedingAuctionCode": "0019858183"
