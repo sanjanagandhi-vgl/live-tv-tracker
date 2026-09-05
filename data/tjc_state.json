@@ -2829,23 +2829,23 @@
       "sku": "8664523",
       "tvPrice": "",
       "remarks": "",
-      "time": "13:03:19",
+      "time": "17:36:23",
       "preExisting": true,
       "missedAt": 1784851852401,
       "missedDelay": null,
       "missedPrice": 699.99,
       "missedImg": false,
       "title": "ONE TIME ONLY - 9K Yellow Gold AAA Colombian Emerald & Natural White Diamond Halo Pendant 1.00 Ct.",
-      "auctionCode": "0019826001",
+      "auctionCode": "0019859181",
       "source": "gha",
-      "lastAir": 1786968199858,
-      "pdpPrice": "699.99",
+      "lastAir": 1788626183042,
+      "pdpPrice": "849.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
+      "date": "2026-09-05",
       "productUrl": null,
-      "lastUpdated": 1786968199858
+      "lastUpdated": 1788626183042
     },
     "8664514": {
       "sku": "8664514",
@@ -303706,8 +303706,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788626128845,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -323386,11 +323386,22 @@
         "followingSku": "8664514",
         "followingTitle": "ONE TIME ONLY DEAL - 9K Yellow Gold AAA Colombian Emerald (1.00ct) & White Diamond (0.30ct) Halo Ring, Gold Wt.3.00 Gms",
         "followingAuctionCode": "0019859182"
+      },
+      {
+        "start": 1788626128845,
+        "end": 1788626183042,
+        "durationMin": 0.9,
+        "precedingSku": "8664514",
+        "precedingTitle": "ONE TIME ONLY DEAL - 9K Yellow Gold AAA Colombian Emerald (1.00ct) & White Diamond (0.30ct) Halo Ring, Gold Wt.3.00 Gms",
+        "precedingAuctionCode": "0019859182",
+        "followingSku": "8664523",
+        "followingTitle": "ONE TIME ONLY - 9K Yellow Gold AAA Colombian Emerald & Natural White Diamond Halo Pendant 1.00 Ct.",
+        "followingAuctionCode": "0019859181"
       }
     ],
-    "lastOnAirSku": "8664514",
-    "lastOnAirTitle": "ONE TIME ONLY DEAL - 9K Yellow Gold AAA Colombian Emerald (1.00ct) & White Diamond (0.30ct) Halo Ring, Gold Wt.3.00 Gms",
-    "lastOnAirAuctionCode": "0019859182",
+    "lastOnAirSku": "8664523",
+    "lastOnAirTitle": "ONE TIME ONLY - 9K Yellow Gold AAA Colombian Emerald & Natural White Diamond Halo Pendant 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019859181",
     "precedingSku": "8664514",
     "precedingTitle": "ONE TIME ONLY DEAL - 9K Yellow Gold AAA Colombian Emerald (1.00ct) & White Diamond (0.30ct) Halo Ring, Gold Wt.3.00 Gms",
     "precedingAuctionCode": "0019859182"
