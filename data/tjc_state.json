@@ -301980,11 +301980,31 @@
       "productUrl": null,
       "lastUpdated": 1788600201000,
       "source": "gha"
+    },
+    "7525329": {
+      "sku": "7525329",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-05",
+      "time": "10:32:22",
+      "preExisting": true,
+      "missedAt": 1788600742272,
+      "missedDelay": null,
+      "lastUpdated": 1788600742272,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Infinity Knot Link Bracelet (Size - 7) in 18K Vermeil Yellow Gold Plated Sterling Silver, Silver Wt. 6.25 Gms.",
+      "auctionCode": "0019856626",
+      "source": "gha",
+      "productUrl": "/products/infinity-knot-bracelet-in-sterling-silver",
+      "productUrlChecked": 1788600747952,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788600742272,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321349,8 +321369,8 @@
     "lastOnAirSku": "8572177",
     "lastOnAirTitle": "Live From Vicenza - Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
     "lastOnAirAuctionCode": "0019854755",
-    "precedingSku": "8734692",
-    "precedingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
-    "precedingAuctionCode": "0019854733"
+    "precedingSku": "8572177",
+    "precedingTitle": "Live From Vicenza - Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
+    "precedingAuctionCode": "0019854755"
   }
 }
