@@ -302403,9 +302403,16 @@
       "img": true,
       "date": "2026-09-05",
       "time": "14:14:22",
-      "productUrl": null,
-      "lastUpdated": 1788614062601,
-      "source": "gha"
+      "productUrl": "/products/djoy-multi-sapphire-white-zircon-fancy-earring-in-18k-yg-platingsterling-silver-3-620-ct-8740562",
+      "lastUpdated": 1788614598234,
+      "source": "gha",
+      "missedAt": 1788614598234,
+      "missedDelay": 9,
+      "missedPrice": 119.99,
+      "missedImg": true,
+      "productUrlChecked": 1788614601429,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4518482": {
       "sku": "4518482",
@@ -302442,11 +302449,29 @@
       "productUrl": null,
       "lastUpdated": 1788614358444,
       "source": "gha"
+    },
+    "8738294": {
+      "sku": "8738294",
+      "firstAir": 1788614598234,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788614598234,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019858240",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-05",
+      "time": "14:23:18",
+      "productUrl": null,
+      "lastUpdated": 1788614598234,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788614436630,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321971,11 +321996,22 @@
         "followingSku": "4518477",
         "followingTitle": "D'Joy - Multi Sapphire & White Zircon Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver 1.60 Ct.",
         "followingAuctionCode": "0019858227"
+      },
+      {
+        "start": 1788614436630,
+        "end": 1788614598234,
+        "durationMin": 2.7,
+        "precedingSku": "8736105",
+        "precedingTitle": "D'Joy - Multi Sapphire Dangling Earring with Push Post in Rhodium Overlay Sterling Silver 1.70 Ct.",
+        "precedingAuctionCode": "0019858239",
+        "followingSku": "8738294",
+        "followingTitle": null,
+        "followingAuctionCode": "0019858240"
       }
     ],
-    "lastOnAirSku": "8736105",
-    "lastOnAirTitle": "D'Joy - Multi Sapphire Dangling Earring with Push Post in Rhodium Overlay Sterling Silver 1.70 Ct.",
-    "lastOnAirAuctionCode": "0019858239",
+    "lastOnAirSku": "8738294",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019858240",
     "precedingSku": "8736105",
     "precedingTitle": "D'Joy - Multi Sapphire Dangling Earring with Push Post in Rhodium Overlay Sterling Silver 1.70 Ct.",
     "precedingAuctionCode": "0019858239"
