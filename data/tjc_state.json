@@ -165691,17 +165691,17 @@
       "firstAir": 1786796304237,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786861532529,
+      "lastAir": 1788593301616,
       "title": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply with Free Spoon",
       "pdpPrice": "99.99",
-      "auctionCode": "0019824798",
+      "auctionCode": "0019858125",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-16",
-      "time": "07:25:32",
+      "date": "2026-09-05",
+      "time": "08:28:21",
       "productUrl": "/products/fountain-of-youth-lifestyle-pure-tripeptide-collagen-double-size-200gm-upto-200-day-supply-with-free-spoon",
-      "lastUpdated": 1786862128080,
+      "lastUpdated": 1788593301616,
       "source": "gha",
       "missedAt": 1786862128080,
       "missedDelay": 10,
@@ -301961,8 +301961,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788593126431,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321278,11 +321278,22 @@
         "followingSku": "8341738",
         "followingTitle": "HYPO21 Oral Rinse - 100ml",
         "followingAuctionCode": "0019857866"
+      },
+      {
+        "start": 1788593126431,
+        "end": 1788593301616,
+        "durationMin": 2.9,
+        "precedingSku": "8341738",
+        "precedingTitle": "HYPO21 Oral Rinse - 100ml",
+        "precedingAuctionCode": "0019857866",
+        "followingSku": "221303375",
+        "followingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply with Free Spoon",
+        "followingAuctionCode": "0019858125"
       }
     ],
-    "lastOnAirSku": "8341738",
-    "lastOnAirTitle": "HYPO21 Oral Rinse - 100ml",
-    "lastOnAirAuctionCode": "0019857866",
+    "lastOnAirSku": "221303375",
+    "lastOnAirTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply with Free Spoon",
+    "lastOnAirAuctionCode": "0019858125",
     "precedingSku": "8341738",
     "precedingTitle": "HYPO21 Oral Rinse - 100ml",
     "precedingAuctionCode": "0019857866"
