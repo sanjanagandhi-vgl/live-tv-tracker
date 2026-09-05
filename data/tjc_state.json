@@ -301414,11 +301414,29 @@
       "productUrlChecked": 1788565465639,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7605952": {
+      "sku": "7605952",
+      "firstAir": 1788566600355,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788566600355,
+      "title": "New York Close Out - White Shell Pearl Heart Charm Bracelet (Size - 7.5) in Rhodium Overlay Sterling Silver",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019857899",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-05",
+      "time": "01:03:20",
+      "productUrl": null,
+      "lastUpdated": 1788566600355,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788566467245,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -320448,11 +320466,22 @@
         "followingSku": "8500695",
         "followingTitle": "Tanzanite Tennis Bracelet (Size - 7-2 Ext) with GB Lock Box 3.20 Ct.",
         "followingAuctionCode": "0019857617"
+      },
+      {
+        "start": 1788566467245,
+        "end": 1788566600355,
+        "durationMin": 2.2,
+        "precedingSku": "8500695",
+        "precedingTitle": "Tanzanite Tennis Bracelet (Size - 7-2 Ext) with GB Lock Box 3.20 Ct.",
+        "precedingAuctionCode": "0019857617",
+        "followingSku": "7605952",
+        "followingTitle": "New York Close Out - White Shell Pearl Heart Charm Bracelet (Size - 7.5) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019857899"
       }
     ],
-    "lastOnAirSku": "8500695",
-    "lastOnAirTitle": "Tanzanite Tennis Bracelet (Size - 7-2 Ext) with GB Lock Box 3.20 Ct.",
-    "lastOnAirAuctionCode": "0019857617",
+    "lastOnAirSku": "7605952",
+    "lastOnAirTitle": "New York Close Out - White Shell Pearl Heart Charm Bracelet (Size - 7.5) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019857899",
     "precedingSku": "8500695",
     "precedingTitle": "Tanzanite Tennis Bracelet (Size - 7-2 Ext) with GB Lock Box 3.20 Ct.",
     "precedingAuctionCode": "0019857617"
