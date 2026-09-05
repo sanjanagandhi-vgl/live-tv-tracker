@@ -87906,21 +87906,26 @@
       "sku": "8738422",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "00:03:33",
+      "date": "2026-09-05",
+      "time": "12:30:48",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1786057413979,
+      "lastUpdated": 1788607848529,
       "missedPrice": 299.99,
       "missedImg": true,
-      "title": "9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
-      "auctionCode": "0019810666",
+      "title": "Live From Vicenza - Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
+      "auctionCode": "0019857159",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-cubic-zirconia-bracelet-size-7-5-39-00-ct-8738422",
       "productUrlChecked": 1786057424657,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788607848529,
+      "pdpPrice": "12600.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8668670": {
       "sku": "8668670",
@@ -302293,8 +302298,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788607582722,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321720,11 +321725,22 @@
         "followingSku": "8691041",
         "followingTitle": "Vicenza Close Out 9K Yellow Gold Rope Necklace (Size - 30) with Lobster Clasp, Gold Wt. 4.12 Gms",
         "followingAuctionCode": "0019850357"
+      },
+      {
+        "start": 1788607582722,
+        "end": 1788607848529,
+        "durationMin": 4.4,
+        "precedingSku": "8691113",
+        "precedingTitle": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
+        "precedingAuctionCode": "0019850371",
+        "followingSku": "8738422",
+        "followingTitle": "Live From Vicenza - Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
+        "followingAuctionCode": "0019857159"
       }
     ],
-    "lastOnAirSku": "8691113",
-    "lastOnAirTitle": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019850371",
+    "lastOnAirSku": "8738422",
+    "lastOnAirTitle": "Live From Vicenza - Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019857159",
     "precedingSku": "8691113",
     "precedingTitle": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
     "precedingAuctionCode": "0019850371"
