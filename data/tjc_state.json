@@ -301840,11 +301840,29 @@
       "productUrl": null,
       "lastUpdated": 1788576503537,
       "source": "gha"
+    },
+    "8622552": {
+      "sku": "8622552",
+      "firstAir": 1788576981594,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788576981594,
+      "title": "One Time Deal- Moissanite Hoop Earring in Sterling Silver 1.60 Ct.",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019857112",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-05",
+      "time": "03:56:21",
+      "productUrl": null,
+      "lastUpdated": 1788576981594,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788576927359,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321017,11 +321035,22 @@
         "followingSku": "8762790",
         "followingTitle": null,
         "followingAuctionCode": "0019857843"
+      },
+      {
+        "start": 1788576927359,
+        "end": 1788576981594,
+        "durationMin": 0.9,
+        "precedingSku": "8516609",
+        "precedingTitle": "D'Joy GRA Certified Moissanite D-VVS1 Multi-Layer Wave Ring in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019857143",
+        "followingSku": "8622552",
+        "followingTitle": "One Time Deal- Moissanite Hoop Earring in Sterling Silver 1.60 Ct.",
+        "followingAuctionCode": "0019857112"
       }
     ],
-    "lastOnAirSku": "8516609",
-    "lastOnAirTitle": "D'Joy GRA Certified Moissanite D-VVS1 Multi-Layer Wave Ring in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019857143",
+    "lastOnAirSku": "8622552",
+    "lastOnAirTitle": "One Time Deal- Moissanite Hoop Earring in Sterling Silver 1.60 Ct.",
+    "lastOnAirAuctionCode": "0019857112",
     "precedingSku": "8516609",
     "precedingTitle": "D'Joy GRA Certified Moissanite D-VVS1 Multi-Layer Wave Ring in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019857143"
