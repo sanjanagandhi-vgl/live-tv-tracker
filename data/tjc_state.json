@@ -302914,9 +302914,16 @@
       "img": true,
       "date": "2026-09-05",
       "time": "14:56:22",
-      "productUrl": null,
-      "lastUpdated": 1788616582517,
-      "source": "gha"
+      "productUrl": "/products/djoy-multi-sapphire-full-hoop-earring-in-18k-yg-vermeilsterling-silver-2-170-ct-8669650",
+      "lastUpdated": 1788617127982,
+      "source": "gha",
+      "missedAt": 1788617127982,
+      "missedDelay": 9,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "productUrlChecked": 1788617134030,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8736007": {
       "sku": "8736007",
@@ -302955,11 +302962,29 @@
       "productUrlChecked": 1788616945927,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8735924": {
+      "sku": "8735924",
+      "firstAir": 1788617127982,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788617127982,
+      "title": "D'Joy - Multi-Sapphire & White Zircon Multi-Row Band Ring in Rhodium Overlay Sterling Silver 1.33 Ct.",
+      "pdpPrice": "139.99",
+      "auctionCode": "0019858271",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-05",
+      "time": "15:05:27",
+      "productUrl": null,
+      "lastUpdated": 1788617127982,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788617061864,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -322528,11 +322553,22 @@
         "followingSku": "8669431",
         "followingTitle": "AAA Rainbow Sapphire Heart Bracelet (Size - 7.5) in 18K Yellow Vermeil Sterling Silver 6.70 Ct.",
         "followingAuctionCode": "0019858830"
+      },
+      {
+        "start": 1788617061864,
+        "end": 1788617127982,
+        "durationMin": 1.1,
+        "precedingSku": "8736007",
+        "precedingTitle": "Luxuriant - Multi Sapphire & Lab Grown Diamond Rainbow Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019858259",
+        "followingSku": "8735924",
+        "followingTitle": "D'Joy - Multi-Sapphire & White Zircon Multi-Row Band Ring in Rhodium Overlay Sterling Silver 1.33 Ct.",
+        "followingAuctionCode": "0019858271"
       }
     ],
-    "lastOnAirSku": "8736007",
-    "lastOnAirTitle": "Luxuriant - Multi Sapphire & Lab Grown Diamond Rainbow Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019858259",
+    "lastOnAirSku": "8735924",
+    "lastOnAirTitle": "D'Joy - Multi-Sapphire & White Zircon Multi-Row Band Ring in Rhodium Overlay Sterling Silver 1.33 Ct.",
+    "lastOnAirAuctionCode": "0019858271",
     "precedingSku": "8736007",
     "precedingTitle": "Luxuriant - Multi Sapphire & Lab Grown Diamond Rainbow Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019858259"
