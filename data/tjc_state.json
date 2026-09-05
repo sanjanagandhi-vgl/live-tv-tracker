@@ -2937,22 +2937,23 @@
       "sku": "8616394",
       "tvPrice": "",
       "remarks": "",
-      "time": "01:29:31",
+      "time": "00:19:18",
       "preExisting": true,
       "missedAt": 1784851852401,
       "missedDelay": null,
       "missedPrice": 99.99,
       "missedImg": false,
-      "title": "Italian Made- Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
-      "auctionCode": "0019796352",
+      "title": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
+      "auctionCode": "0019859583",
       "source": "gha",
-      "lastAir": 1785112171541,
-      "pdpPrice": 99.99,
-      "buy": false,
+      "lastAir": 1788650358927,
+      "pdpPrice": "49.99",
+      "buy": true,
       "login": false,
-      "img": false,
-      "date": "2026-07-27",
-      "lastUpdated": 1785112171541
+      "img": true,
+      "date": "2026-09-06",
+      "lastUpdated": 1788650358927,
+      "productUrl": null
     },
     "8620423": {
       "sku": "8620423",
@@ -304674,8 +304675,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788650303038,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -324629,11 +324630,22 @@
         "followingSku": "8528435",
         "followingTitle": "LIVMORE Set of 2 Travel Jewellery Box Organisers with Snap Button Closure (15.5x10.5x5cm) - Black & White",
         "followingAuctionCode": "0019858856"
+      },
+      {
+        "start": 1788650303038,
+        "end": 1788650358927,
+        "durationMin": 0.9,
+        "precedingSku": "8528435",
+        "precedingTitle": "LIVMORE Set of 2 Travel Jewellery Box Organisers with Snap Button Closure (15.5x10.5x5cm) - Black & White",
+        "precedingAuctionCode": "0019858856",
+        "followingSku": "8616394",
+        "followingTitle": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019859583"
       }
     ],
-    "lastOnAirSku": "8528435",
-    "lastOnAirTitle": "LIVMORE Set of 2 Travel Jewellery Box Organisers with Snap Button Closure (15.5x10.5x5cm) - Black & White",
-    "lastOnAirAuctionCode": "0019858856",
+    "lastOnAirSku": "8616394",
+    "lastOnAirTitle": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019859583",
     "precedingSku": "8528435",
     "precedingTitle": "LIVMORE Set of 2 Travel Jewellery Box Organisers with Snap Button Closure (15.5x10.5x5cm) - Black & White",
     "precedingAuctionCode": "0019858856"
