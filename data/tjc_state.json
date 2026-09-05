@@ -52242,23 +52242,23 @@
       "sku": "8524286",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-02",
-      "time": "22:02:22",
+      "date": "2026-09-05",
+      "time": "04:35:26",
       "preExisting": true,
       "missedAt": 1785630743359,
       "missedDelay": null,
-      "lastUpdated": 1788382942575,
+      "lastUpdated": 1788579326236,
       "missedPrice": 2499.99,
       "missedImg": true,
       "title": "Rhapsody - 950 Platinum AAAA Turkizite & VS-E-F White EARTH MINED Diamond Halo Pendant 4.74 Ct, Platinum Wt. 4.04 Gms",
-      "auctionCode": "0019854954",
+      "auctionCode": "0019857772",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-turkizite-white-diamond-vs-e-f-octillion-cut-halo-pendant-5-00-ct-platinum-wt-4-60-gms-8626932",
       "productUrlChecked": 1785630754197,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1788382942575,
-      "pdpPrice": "1999.99",
+      "lastAir": 1788579326236,
+      "pdpPrice": "2499.99",
       "buy": true,
       "login": false,
       "img": true
@@ -301909,8 +301909,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788579261946,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321127,11 +321127,22 @@
         "followingSku": "8532063",
         "followingTitle": "GP - AAA Royal Asscher Cut Turkizite (1.2ct) & Blue Sapphire Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.24 Ct.",
         "followingAuctionCode": "0019857282"
+      },
+      {
+        "start": 1788579261946,
+        "end": 1788579326236,
+        "durationMin": 1.1,
+        "precedingSku": "8721475",
+        "precedingTitle": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
+        "precedingAuctionCode": "0019857382",
+        "followingSku": "8524286",
+        "followingTitle": "Rhapsody - 950 Platinum AAAA Turkizite & VS-E-F White EARTH MINED Diamond Halo Pendant 4.74 Ct, Platinum Wt. 4.04 Gms",
+        "followingAuctionCode": "0019857772"
       }
     ],
-    "lastOnAirSku": "8721475",
-    "lastOnAirTitle": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
-    "lastOnAirAuctionCode": "0019857382",
+    "lastOnAirSku": "8524286",
+    "lastOnAirTitle": "Rhapsody - 950 Platinum AAAA Turkizite & VS-E-F White EARTH MINED Diamond Halo Pendant 4.74 Ct, Platinum Wt. 4.04 Gms",
+    "lastOnAirAuctionCode": "0019857772",
     "precedingSku": "8721475",
     "precedingTitle": "AAA Turkizite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.16 Ct.",
     "precedingAuctionCode": "0019857382"
