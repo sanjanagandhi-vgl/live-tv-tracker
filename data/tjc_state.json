@@ -303472,11 +303472,29 @@
       "auctionCode": "0019858232",
       "source": "gha",
       "productUrl": null
+    },
+    "8735889": {
+      "sku": "8735889",
+      "firstAir": 1788618326323,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788618326323,
+      "title": "14K Yellow Gold AAAA Loupe Clean Chanthaburi Yellow Sapphire & Natural Diamond Ring 2.27 Ct.",
+      "pdpPrice": "5999.99",
+      "auctionCode": "0019858316",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-05",
+      "time": "15:25:26",
+      "productUrl": null,
+      "lastUpdated": 1788618326323,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788618079332,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -323078,11 +323096,22 @@
         "followingSku": "8630762",
         "followingTitle": "RARE FIND - Multi Sapphire Station Necklace (Size - 24) in 18K Vermeil Yellow Gold Plated Sterling Silver 55.00 Ct.",
         "followingAuctionCode": "0019858587"
+      },
+      {
+        "start": 1788618079332,
+        "end": 1788618326323,
+        "durationMin": 4.1,
+        "precedingSku": "8630762",
+        "precedingTitle": "RARE FIND - Multi Sapphire Station Necklace (Size - 24) in 18K Vermeil Yellow Gold Plated Sterling Silver 55.00 Ct.",
+        "precedingAuctionCode": "0019858587",
+        "followingSku": "8735889",
+        "followingTitle": "14K Yellow Gold AAAA Loupe Clean Chanthaburi Yellow Sapphire & Natural Diamond Ring 2.27 Ct.",
+        "followingAuctionCode": "0019858316"
       }
     ],
-    "lastOnAirSku": "8630762",
-    "lastOnAirTitle": "RARE FIND - Multi Sapphire Station Necklace (Size - 24) in 18K Vermeil Yellow Gold Plated Sterling Silver 55.00 Ct.",
-    "lastOnAirAuctionCode": "0019858587",
+    "lastOnAirSku": "8735889",
+    "lastOnAirTitle": "14K Yellow Gold AAAA Loupe Clean Chanthaburi Yellow Sapphire & Natural Diamond Ring 2.27 Ct.",
+    "lastOnAirAuctionCode": "0019858316",
     "precedingSku": "8630762",
     "precedingTitle": "RARE FIND - Multi Sapphire Station Necklace (Size - 24) in 18K Vermeil Yellow Gold Plated Sterling Silver 55.00 Ct.",
     "precedingAuctionCode": "0019858587"
