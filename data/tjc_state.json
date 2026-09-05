@@ -304581,11 +304581,29 @@
       "productUrlChecked": 1788645505735,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8675555": {
+      "sku": "8675555",
+      "firstAir": 1788646235828,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788646235828,
+      "title": "Rhodium Overlay Sterling Silver Bracelet (Size - 7-1 Ext)",
+      "pdpPrice": "449.99",
+      "auctionCode": "0019858848",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-05",
+      "time": "23:10:35",
+      "productUrl": null,
+      "lastUpdated": 1788646235828,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788646101770,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -324484,11 +324502,22 @@
         "followingSku": "8753815",
         "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
         "followingAuctionCode": "0019859585"
+      },
+      {
+        "start": 1788646101770,
+        "end": 1788646235828,
+        "durationMin": 2.2,
+        "precedingSku": "8753815",
+        "precedingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt...",
+        "precedingAuctionCode": "0019859585",
+        "followingSku": "8675555",
+        "followingTitle": "Rhodium Overlay Sterling Silver Bracelet (Size - 7-1 Ext)",
+        "followingAuctionCode": "0019858848"
       }
     ],
-    "lastOnAirSku": "8753815",
-    "lastOnAirTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt...",
-    "lastOnAirAuctionCode": "0019859585",
+    "lastOnAirSku": "8675555",
+    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Bracelet (Size - 7-1 Ext)",
+    "lastOnAirAuctionCode": "0019858848",
     "precedingSku": "8753815",
     "precedingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt...",
     "precedingAuctionCode": "0019859585"
