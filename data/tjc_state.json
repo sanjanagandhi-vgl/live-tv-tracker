@@ -302983,11 +302983,29 @@
       "productUrlChecked": 1788617311936,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8734789": {
+      "sku": "8734789",
+      "firstAir": 1788617435408,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788617435408,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019858230",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-05",
+      "time": "15:10:35",
+      "productUrl": null,
+      "lastUpdated": 1788617435408,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788617361019,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -322567,11 +322585,22 @@
         "followingSku": "8735924",
         "followingTitle": "D'Joy - Multi-Sapphire & White Zircon Multi-Row Band Ring in Rhodium Overlay Sterling Silver 1.33 Ct.",
         "followingAuctionCode": "0019858271"
+      },
+      {
+        "start": 1788617361019,
+        "end": 1788617435408,
+        "durationMin": 1.2,
+        "precedingSku": "8735924",
+        "precedingTitle": "D'Joy - Multi-Sapphire & White Zircon Multi-Row Band Ring in Rhodium Overlay Sterling Silver 1.33...",
+        "precedingAuctionCode": "0019858271",
+        "followingSku": "8734789",
+        "followingTitle": null,
+        "followingAuctionCode": "0019858230"
       }
     ],
-    "lastOnAirSku": "8735924",
-    "lastOnAirTitle": "D'Joy - Multi-Sapphire & White Zircon Multi-Row Band Ring in Rhodium Overlay Sterling Silver 1.33...",
-    "lastOnAirAuctionCode": "0019858271",
+    "lastOnAirSku": "8734789",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019858230",
     "precedingSku": "8735924",
     "precedingTitle": "D'Joy - Multi-Sapphire & White Zircon Multi-Row Band Ring in Rhodium Overlay Sterling Silver 1.33...",
     "precedingAuctionCode": "0019858271"
