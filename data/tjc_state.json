@@ -302215,11 +302215,29 @@
       "productUrl": null,
       "lastUpdated": 1788605436512,
       "source": "gha"
+    },
+    "8691112": {
+      "sku": "8691112",
+      "firstAir": 1788605542911,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788605542911,
+      "title": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Bracelet (Size - 7.5) with Senorita Clasp, Gold Wt.7.80 Gms",
+      "pdpPrice": "1499.99",
+      "auctionCode": "0019857161",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-05",
+      "time": "11:52:22",
+      "productUrl": null,
+      "lastUpdated": 1788605542911,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788605480919,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321623,11 +321641,22 @@
         "followingSku": "8753815",
         "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
         "followingAuctionCode": "0019857162"
+      },
+      {
+        "start": 1788605480919,
+        "end": 1788605542911,
+        "durationMin": 1.0,
+        "precedingSku": "8753815",
+        "precedingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
+        "precedingAuctionCode": "0019857162",
+        "followingSku": "8691112",
+        "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Bracelet (Size - 7.5) with Senorita Clasp, Gold Wt.7.80 Gms",
+        "followingAuctionCode": "0019857161"
       }
     ],
-    "lastOnAirSku": "8753815",
-    "lastOnAirTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
-    "lastOnAirAuctionCode": "0019857162",
+    "lastOnAirSku": "8691112",
+    "lastOnAirTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Bracelet (Size - 7.5) with Senorita Clasp, Gold Wt.7.80 Gms",
+    "lastOnAirAuctionCode": "0019857161",
     "precedingSku": "8753815",
     "precedingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
     "precedingAuctionCode": "0019857162"
