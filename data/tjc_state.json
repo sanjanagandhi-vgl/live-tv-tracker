@@ -301962,11 +301962,29 @@
       "missedDelay": 9,
       "missedPrice": 49.99,
       "missedImg": true
+    },
+    "8734692": {
+      "sku": "8734692",
+      "firstAir": 1788599434593,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788599434593,
+      "title": "Vicenza Launch 9K Yellow Gold Earring with Clasp",
+      "pdpPrice": "249.99",
+      "auctionCode": "0019854733",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-05",
+      "time": "10:10:34",
+      "productUrl": null,
+      "lastUpdated": 1788599434593,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788599185228,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321304,11 +321322,22 @@
         "followingSku": "8380679",
         "followingTitle": "BEST EVER DEAL - 3D 4 Mode LED Face Glow Light Therapy Mask (Red & Infrared Anti Aging, Amber & Infrared Brightening, Green Anti Redness, Blue Anti Blemish) with Smart Controller",
         "followingAuctionCode": "0019853979"
+      },
+      {
+        "start": 1788599185228,
+        "end": 1788599434593,
+        "durationMin": 4.2,
+        "precedingSku": "8380679",
+        "precedingTitle": "BEST EVER DEAL - 3D 4 Mode LED Face Glow Light Therapy Mask (Red & Infrared Anti Aging, Amber & Infrared Brightening, Green Anti Redness, Blue Anti Blemish) with Smart Controller",
+        "precedingAuctionCode": "0019853979",
+        "followingSku": "8734692",
+        "followingTitle": "Vicenza Launch 9K Yellow Gold Earring with Clasp",
+        "followingAuctionCode": "0019854733"
       }
     ],
-    "lastOnAirSku": "8380679",
-    "lastOnAirTitle": "BEST EVER DEAL - 3D 4 Mode LED Face Glow Light Therapy Mask (Red & Infrared Anti Aging, Amber & Infrared Brightening, Green Anti Redness, Blue Anti Blemish) with Smart Controller",
-    "lastOnAirAuctionCode": "0019853979",
+    "lastOnAirSku": "8734692",
+    "lastOnAirTitle": "Vicenza Launch 9K Yellow Gold Earring with Clasp",
+    "lastOnAirAuctionCode": "0019854733",
     "precedingSku": "8380679",
     "precedingTitle": "BEST EVER DEAL - 3D 4 Mode LED Face Glow Light Therapy Mask (Red & Infrared Anti Aging, Amber & Infrared Brightening, Green Anti Redness, Blue Anti Blemish) with Smart Controller",
     "precedingAuctionCode": "0019853979"
