@@ -302358,17 +302358,17 @@
       "firstAir": 1788610279323,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788623598930,
+      "lastAir": 1788631462391,
       "title": "22K Yellow Gold (91.6 Purity) Rope Necklace (Size - 20) with Lobster Clasp. Gold Wt 3.50 Gm",
-      "pdpPrice": "899.99",
-      "auctionCode": "0019858996",
+      "pdpPrice": "2499.99",
+      "auctionCode": "0019859536",
       "buy": true,
       "login": false,
       "img": false,
       "date": "2026-09-05",
-      "time": "16:53:18",
+      "time": "19:04:22",
       "productUrl": "/products/22k-yellow-gold-necklace-size-20-gold-wt-3-45-gms-8691110",
-      "lastUpdated": 1788623598930,
+      "lastUpdated": 1788631462391,
       "source": "gha",
       "missedAt": 1788612261414,
       "missedDelay": 10,
@@ -303739,8 +303739,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788631039965,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -323485,11 +323485,22 @@
         "followingSku": "8596985",
         "followingTitle": "9K Yellow Gold Ring (Size - Medium)",
         "followingAuctionCode": "0019854751"
+      },
+      {
+        "start": 1788631039965,
+        "end": 1788631462391,
+        "durationMin": 7.0,
+        "precedingSku": "8570642",
+        "precedingTitle": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
+        "precedingAuctionCode": "0019858040",
+        "followingSku": "8691110",
+        "followingTitle": "22K Yellow Gold (91.6 Purity) Rope Necklace (Size - 20) with Lobster Clasp. Gold Wt 3.50 Gm",
+        "followingAuctionCode": "0019859536"
       }
     ],
-    "lastOnAirSku": "8570642",
-    "lastOnAirTitle": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
-    "lastOnAirAuctionCode": "0019858040",
+    "lastOnAirSku": "8691110",
+    "lastOnAirTitle": "22K Yellow Gold (91.6 Purity) Rope Necklace (Size - 20) with Lobster Clasp. Gold Wt 3.50 Gm",
+    "lastOnAirAuctionCode": "0019859536",
     "precedingSku": "8570642",
     "precedingTitle": "9K Yellow Gold Bracelet (Size - 7.5) with Spring Clasp",
     "precedingAuctionCode": "0019858040"
