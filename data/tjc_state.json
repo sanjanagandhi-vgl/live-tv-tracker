@@ -302195,17 +302195,17 @@
       "firstAir": 1788602302704,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788602902496,
+      "lastAir": 1788624865578,
       "title": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019854734",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019859321",
       "buy": true,
       "login": false,
       "img": false,
       "date": "2026-09-05",
-      "time": "11:08:22",
+      "time": "17:14:25",
       "productUrl": "/products/9k-yellow-gold-earring-with-clasp-8734702",
-      "lastUpdated": 1788603439946,
+      "lastUpdated": 1788624865578,
       "source": "gha",
       "missedAt": 1788603439946,
       "missedDelay": 9,
@@ -303706,8 +303706,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788624800701,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -323364,11 +323364,22 @@
         "followingSku": "8691112",
         "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Bracelet (Size - 7.5) with Senorita Clasp, Gold Wt.7.80 Gms",
         "followingAuctionCode": "0019859292"
+      },
+      {
+        "start": 1788624800701,
+        "end": 1788624865578,
+        "durationMin": 1.1,
+        "precedingSku": "8412095",
+        "precedingTitle": "Maestro Collection 9K Yellow Gold Clover Band Ring. Gold Wt 2.55 Gms",
+        "precedingAuctionCode": "0019858026",
+        "followingSku": "8734702",
+        "followingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+        "followingAuctionCode": "0019859321"
       }
     ],
-    "lastOnAirSku": "8412095",
-    "lastOnAirTitle": "Maestro Collection 9K Yellow Gold Clover Band Ring. Gold Wt 2.55 Gms",
-    "lastOnAirAuctionCode": "0019858026",
+    "lastOnAirSku": "8734702",
+    "lastOnAirTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+    "lastOnAirAuctionCode": "0019859321",
     "precedingSku": "8412095",
     "precedingTitle": "Maestro Collection 9K Yellow Gold Clover Band Ring. Gold Wt 2.55 Gms",
     "precedingAuctionCode": "0019858026"
