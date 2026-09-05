@@ -304357,11 +304357,29 @@
       "productUrlChecked": 1788642200715,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8675203": {
+      "sku": "8675203",
+      "firstAir": 1788642502873,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788642502873,
+      "title": "Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019858817",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-05",
+      "time": "22:08:22",
+      "productUrl": null,
+      "lastUpdated": 1788642502873,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788642264206,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -324194,11 +324212,22 @@
         "followingSku": "8314614",
         "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
         "followingAuctionCode": "0019857833"
+      },
+      {
+        "start": 1788642264206,
+        "end": 1788642502873,
+        "durationMin": 4.0,
+        "precedingSku": "8192185",
+        "precedingTitle": "Luxuriant Lab Grown Diamond Fancy Bracelet in Sterling Silver",
+        "precedingAuctionCode": "0019859124",
+        "followingSku": "8675203",
+        "followingTitle": "Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
+        "followingAuctionCode": "0019858817"
       }
     ],
-    "lastOnAirSku": "8192185",
-    "lastOnAirTitle": "Luxuriant Lab Grown Diamond Fancy Bracelet in Sterling Silver",
-    "lastOnAirAuctionCode": "0019859124",
+    "lastOnAirSku": "8675203",
+    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019858817",
     "precedingSku": "8192185",
     "precedingTitle": "Luxuriant Lab Grown Diamond Fancy Bracelet in Sterling Silver",
     "precedingAuctionCode": "0019859124"
