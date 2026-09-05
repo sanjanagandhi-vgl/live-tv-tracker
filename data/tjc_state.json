@@ -10810,22 +10810,22 @@
       "sku": "8675534",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-03",
-      "time": "21:48:26",
+      "date": "2026-09-05",
+      "time": "22:19:20",
       "preExisting": true,
       "missedAt": 1785001585296,
       "missedDelay": null,
-      "lastUpdated": 1785790106590,
+      "lastUpdated": 1788643160426,
       "missedPrice": 29.99,
       "missedImg": false,
       "title": "Italian Made - Stretchable Barrell Bracelet (Size - 6.75) in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019806187",
+      "auctionCode": "0019858837",
       "source": "gha",
-      "lastAir": 1785790106590,
-      "pdpPrice": "29.99",
+      "lastAir": 1788643160426,
+      "pdpPrice": "129.99",
       "buy": true,
       "login": false,
-      "img": false,
+      "img": true,
       "productUrl": null
     },
     "8553006": {
@@ -304402,8 +304402,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788642984834,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -324247,11 +324247,22 @@
         "followingSku": "8675203",
         "followingTitle": "Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
         "followingAuctionCode": "0019858817"
+      },
+      {
+        "start": 1788642984834,
+        "end": 1788643160426,
+        "durationMin": 2.9,
+        "precedingSku": "8675203",
+        "precedingTitle": "Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
+        "precedingAuctionCode": "0019858817",
+        "followingSku": "8675534",
+        "followingTitle": "Italian Made - Stretchable Barrell Bracelet (Size - 6.75) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019858837"
       }
     ],
-    "lastOnAirSku": "8675203",
-    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019858817",
+    "lastOnAirSku": "8675534",
+    "lastOnAirTitle": "Italian Made - Stretchable Barrell Bracelet (Size - 6.75) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019858837",
     "precedingSku": "8675203",
     "precedingTitle": "Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
     "precedingAuctionCode": "0019858817"
