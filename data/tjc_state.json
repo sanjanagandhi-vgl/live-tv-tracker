@@ -301937,11 +301937,29 @@
       "productUrlChecked": 1788581602459,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8341738": {
+      "sku": "8341738",
+      "firstAir": 1788592102878,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788592102878,
+      "title": "HYPO21 Oral Rinse - 100ml",
+      "pdpPrice": "319.99",
+      "auctionCode": "0019857866",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-05",
+      "time": "08:08:22",
+      "productUrl": null,
+      "lastUpdated": 1788592102878,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788592038135,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321246,11 +321264,22 @@
         "followingSku": "8341709",
         "followingTitle": "HYPO21 Purifying Skin Spray - 100ml",
         "followingAuctionCode": "0019857867"
+      },
+      {
+        "start": 1788592038135,
+        "end": 1788592102878,
+        "durationMin": 1.1,
+        "precedingSku": "8341709",
+        "precedingTitle": "HYPO21 Purifying Skin Spray - 100ml",
+        "precedingAuctionCode": "0019857867",
+        "followingSku": "8341738",
+        "followingTitle": "HYPO21 Oral Rinse - 100ml",
+        "followingAuctionCode": "0019857866"
       }
     ],
-    "lastOnAirSku": "8341709",
-    "lastOnAirTitle": "HYPO21 Purifying Skin Spray - 100ml",
-    "lastOnAirAuctionCode": "0019857867",
+    "lastOnAirSku": "8341738",
+    "lastOnAirTitle": "HYPO21 Oral Rinse - 100ml",
+    "lastOnAirAuctionCode": "0019857866",
     "precedingSku": "8341709",
     "precedingTitle": "HYPO21 Purifying Skin Spray - 100ml",
     "precedingAuctionCode": "0019857867"
