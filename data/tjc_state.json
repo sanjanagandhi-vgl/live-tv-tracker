@@ -302007,11 +302007,29 @@
       "productUrlChecked": 1788600747952,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7570673": {
+      "sku": "7570673",
+      "firstAir": 1788600983730,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788600983730,
+      "title": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Basket Weave Band Ring",
+      "pdpPrice": "599.99",
+      "auctionCode": "0019857163",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-05",
+      "time": "10:36:23",
+      "productUrl": null,
+      "lastUpdated": 1788600983730,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788600742272,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321371,11 +321389,22 @@
         "followingSku": "8572177",
         "followingTitle": "Live From Vicenza - Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
         "followingAuctionCode": "0019854755"
+      },
+      {
+        "start": 1788600742272,
+        "end": 1788600983730,
+        "durationMin": 4.0,
+        "precedingSku": "8572177",
+        "precedingTitle": "Live From Vicenza - Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
+        "precedingAuctionCode": "0019854755",
+        "followingSku": "7570673",
+        "followingTitle": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Basket Weave Band Ring",
+        "followingAuctionCode": "0019857163"
       }
     ],
-    "lastOnAirSku": "8572177",
-    "lastOnAirTitle": "Live From Vicenza - Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
-    "lastOnAirAuctionCode": "0019854755",
+    "lastOnAirSku": "7570673",
+    "lastOnAirTitle": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Basket Weave Band Ring",
+    "lastOnAirAuctionCode": "0019857163",
     "precedingSku": "8572177",
     "precedingTitle": "Live From Vicenza - Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
     "precedingAuctionCode": "0019854755"
