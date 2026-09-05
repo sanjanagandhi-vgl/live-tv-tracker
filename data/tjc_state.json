@@ -289616,17 +289616,17 @@
       "firstAir": 1788395302071,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788395728051,
+      "lastAir": 1788574342592,
       "title": "D'Joy - Moissanite Cluster Ring in Platinum Overlay Sterling Silver",
-      "pdpPrice": 49.99,
-      "auctionCode": "0019854864",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019857129",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-03",
-      "time": "01:35:28",
+      "date": "2026-09-05",
+      "time": "03:12:22",
       "productUrl": "/products/djoy-moissanite-cluster-ring-in-platinum-overlaysterling-silver-0-659-ct-8634776?variant=53276139356426",
-      "lastUpdated": 1788396274154,
+      "lastUpdated": 1788574342592,
       "source": "gha",
       "productUrlChecked": 1788395731482,
       "productUrlStatus": 200,
@@ -301688,8 +301688,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788574277926,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -320818,11 +320818,22 @@
         "followingSku": "4493501",
         "followingTitle": "D'Joy - Moissanite Cluster Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
         "followingAuctionCode": "0019857113"
+      },
+      {
+        "start": 1788574277926,
+        "end": 1788574342592,
+        "durationMin": 1.1,
+        "precedingSku": "4493501",
+        "precedingTitle": "D'Joy - Moissanite Cluster Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
+        "precedingAuctionCode": "0019857113",
+        "followingSku": "8634776",
+        "followingTitle": "D'Joy - Moissanite Cluster Ring in Platinum Overlay Sterling Silver",
+        "followingAuctionCode": "0019857129"
       }
     ],
-    "lastOnAirSku": "4493501",
-    "lastOnAirTitle": "D'Joy - Moissanite Cluster Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019857113",
+    "lastOnAirSku": "8634776",
+    "lastOnAirTitle": "D'Joy - Moissanite Cluster Ring in Platinum Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019857129",
     "precedingSku": "4493501",
     "precedingTitle": "D'Joy - Moissanite Cluster Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
     "precedingAuctionCode": "0019857113"
