@@ -151743,21 +151743,26 @@
       "sku": "8314614",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "19:05:29",
+      "date": "2026-09-05",
+      "time": "21:30:49",
       "preExisting": true,
       "missedAt": 1786644329759,
       "missedDelay": null,
-      "lastUpdated": 1786644329759,
+      "lastUpdated": 1788640249291,
       "missedPrice": 949.99,
       "missedImg": true,
-      "title": "Tony Diniz Collection- Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring 2.07 Ct, Platinum Wt. 4.25 Gms.",
-      "auctionCode": "0019818533",
+      "title": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+      "auctionCode": "0019857833",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-tanzanite-solitaire-ring-platinum",
       "productUrlChecked": 1786644339613,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788640249291,
+      "pdpPrice": "19999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8314615": {
       "sku": "8314615",
@@ -304334,8 +304339,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788640101088,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -324157,11 +324162,22 @@
         "followingSku": "8669047",
         "followingTitle": "9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 8) with Lobster Clasp 2.25 Ct.",
         "followingAuctionCode": "0019857974"
+      },
+      {
+        "start": 1788640101088,
+        "end": 1788640249291,
+        "durationMin": 2.5,
+        "precedingSku": "8669047",
+        "precedingTitle": "9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 8) with Lobster Clasp 2.25 Ct.",
+        "precedingAuctionCode": "0019857974",
+        "followingSku": "8314614",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "followingAuctionCode": "0019857833"
       }
     ],
-    "lastOnAirSku": "8669047",
-    "lastOnAirTitle": "9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 8) with Lobster Clasp 2.25 Ct.",
-    "lastOnAirAuctionCode": "0019857974",
+    "lastOnAirSku": "8314614",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+    "lastOnAirAuctionCode": "0019857833",
     "precedingSku": "8669047",
     "precedingTitle": "9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 8) with Lobster Clasp 2.25 Ct.",
     "precedingAuctionCode": "0019857974"
