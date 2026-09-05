@@ -23850,17 +23850,23 @@
       "sku": "8341709",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-30",
-      "time": "06:42:28",
+      "date": "2026-09-05",
+      "time": "07:14:22",
       "preExisting": true,
       "missedAt": 1785390148419,
       "missedDelay": null,
-      "lastUpdated": 1785390148419,
+      "lastUpdated": 1788588862065,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "HYPO21 Purifying Skin Spray - 100ml",
-      "auctionCode": "0019800367",
-      "source": "gha"
+      "auctionCode": "0019857867",
+      "source": "gha",
+      "lastAir": 1788588862065,
+      "pdpPrice": "319.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "2780233": {
       "sku": "2780233",
@@ -301934,8 +301940,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788588637636,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -321229,11 +321235,22 @@
         "followingSku": "8644034",
         "followingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
         "followingAuctionCode": "0019857871"
+      },
+      {
+        "start": 1788588637636,
+        "end": 1788588862065,
+        "durationMin": 3.7,
+        "precedingSku": "8644034",
+        "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
+        "precedingAuctionCode": "0019857871",
+        "followingSku": "8341709",
+        "followingTitle": "HYPO21 Purifying Skin Spray - 100ml",
+        "followingAuctionCode": "0019857867"
       }
     ],
-    "lastOnAirSku": "8644034",
-    "lastOnAirTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
-    "lastOnAirAuctionCode": "0019857871",
+    "lastOnAirSku": "8341709",
+    "lastOnAirTitle": "HYPO21 Purifying Skin Spray - 100ml",
+    "lastOnAirAuctionCode": "0019857867",
     "precedingSku": "8644034",
     "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
     "precedingAuctionCode": "0019857871"
