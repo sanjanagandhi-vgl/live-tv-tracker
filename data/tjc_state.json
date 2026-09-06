@@ -305323,11 +305323,29 @@
       "productUrl": null,
       "lastUpdated": 1788665662261,
       "source": "gha"
+    },
+    "8599135": {
+      "sku": "8599135",
+      "firstAir": 1788665785066,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788665785066,
+      "title": "Royal Bali Collection - D'Joy Sterling Silver Dragonfly Pendant",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019858338",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "04:36:25",
+      "productUrl": null,
+      "lastUpdated": 1788665785066,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788665728492,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325622,11 +325640,22 @@
         "followingSku": "8599122",
         "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragonfly Pendant",
         "followingAuctionCode": "0019858337"
+      },
+      {
+        "start": 1788665728492,
+        "end": 1788665785066,
+        "durationMin": 0.9,
+        "precedingSku": "8599122",
+        "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragonfly Pendant",
+        "precedingAuctionCode": "0019858337",
+        "followingSku": "8599135",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragonfly Pendant",
+        "followingAuctionCode": "0019858338"
       }
     ],
-    "lastOnAirSku": "8599122",
+    "lastOnAirSku": "8599135",
     "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragonfly Pendant",
-    "lastOnAirAuctionCode": "0019858337",
+    "lastOnAirAuctionCode": "0019858338",
     "precedingSku": "8599122",
     "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragonfly Pendant",
     "precedingAuctionCode": "0019858337"
