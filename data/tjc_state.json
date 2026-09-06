@@ -310035,11 +310035,29 @@
       "productUrlChecked": 1788729745643,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8634985": {
+      "sku": "8634985",
+      "firstAir": 1788730279615,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788730279615,
+      "title": "24K - Yellow - Gold(mg) - Standard Accessories, Gold Wt.10 Gms",
+      "pdpPrice": "999.99",
+      "auctionCode": "0019859050",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-06",
+      "time": "22:31:19",
+      "productUrl": null,
+      "lastUpdated": 1788730279615,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788730250457,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331236,11 +331254,22 @@
         "followingSku": "8588632",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Greek Key Stretchable Bracelet (Size - 7-10 inch)",
         "followingAuctionCode": "0019860579"
+      },
+      {
+        "start": 1788730250457,
+        "end": 1788730279615,
+        "durationMin": 0.5,
+        "precedingSku": "8588632",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Greek Key Stretchable Bracelet (Size - 7-10 inch)",
+        "precedingAuctionCode": "0019860579",
+        "followingSku": "8634985",
+        "followingTitle": "24K - Yellow - Gold(mg) - Standard Accessories, Gold Wt.10 Gms",
+        "followingAuctionCode": "0019859050"
       }
     ],
-    "lastOnAirSku": "8588632",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Greek Key Stretchable Bracelet (Size - 7-10 inch)",
-    "lastOnAirAuctionCode": "0019860579",
+    "lastOnAirSku": "8634985",
+    "lastOnAirTitle": "24K - Yellow - Gold(mg) - Standard Accessories, Gold Wt.10 Gms",
+    "lastOnAirAuctionCode": "0019859050",
     "precedingSku": "8588632",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Greek Key Stretchable Bracelet (Size - 7-10 inch)",
     "precedingAuctionCode": "0019860579"
