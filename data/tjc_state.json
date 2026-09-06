@@ -14460,21 +14460,22 @@
       "firstAir": 1785070396767,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785071000942,
+      "lastAir": 1788728000502,
       "title": "One Truth 818 Anti-Ageing Cleanser (50ml)",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019795426",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "99.99",
+      "auctionCode": "0019858680",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "14:03:20",
-      "lastUpdated": 1785071127585,
+      "date": "2026-09-06",
+      "time": "21:53:20",
+      "lastUpdated": 1788728000502,
       "source": "gha",
       "missedAt": 1785071127585,
       "missedDelay": 2,
       "missedPrice": 19.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8433701": {
       "sku": "8433701",
@@ -310005,8 +310006,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788727941600,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331159,11 +331160,22 @@
         "followingSku": "221332439",
         "followingTitle": "TV ONLY OFFER - One Truth 818- Anti-Ageing Serum 50ml and  Atomiser 50ml",
         "followingAuctionCode": "0019860471"
+      },
+      {
+        "start": 1788727941600,
+        "end": 1788728000502,
+        "durationMin": 1.0,
+        "precedingSku": "221332439",
+        "precedingTitle": "TV ONLY OFFER - One Truth 818- Anti-Ageing Serum 50ml and  Atomiser 50ml",
+        "precedingAuctionCode": "0019860471",
+        "followingSku": "8354345",
+        "followingTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
+        "followingAuctionCode": "0019858680"
       }
     ],
-    "lastOnAirSku": "221332439",
-    "lastOnAirTitle": "TV ONLY OFFER - One Truth 818- Anti-Ageing Serum 50ml and  Atomiser 50ml",
-    "lastOnAirAuctionCode": "0019860471",
+    "lastOnAirSku": "8354345",
+    "lastOnAirTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
+    "lastOnAirAuctionCode": "0019858680",
     "precedingSku": "221332439",
     "precedingTitle": "TV ONLY OFFER - One Truth 818- Anti-Ageing Serum 50ml and  Atomiser 50ml",
     "precedingAuctionCode": "0019860471"
