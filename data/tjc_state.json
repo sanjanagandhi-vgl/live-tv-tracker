@@ -307769,11 +307769,29 @@
       "productUrl": null,
       "lastUpdated": 1788698359022,
       "source": "gha"
+    },
+    "8666669": {
+      "sku": "8666669",
+      "firstAir": 1788698544583,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788698544583,
+      "title": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
+      "pdpPrice": "788.99",
+      "auctionCode": "0019859740",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-06",
+      "time": "13:42:24",
+      "productUrl": null,
+      "lastUpdated": 1788698544583,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788698435537,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -328607,11 +328625,22 @@
         "followingSku": "8666731",
         "followingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rope Bracelet (Size - 7-1 Ext)  Weight 8.42 Grams",
         "followingAuctionCode": "0019859739"
+      },
+      {
+        "start": 1788698435537,
+        "end": 1788698544583,
+        "durationMin": 1.8,
+        "precedingSku": "8666731",
+        "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rope Bracelet (Size - 7-1 Ext)  Weight 8.42 Grams",
+        "precedingAuctionCode": "0019859739",
+        "followingSku": "8666669",
+        "followingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
+        "followingAuctionCode": "0019859740"
       }
     ],
-    "lastOnAirSku": "8666731",
-    "lastOnAirTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rope Bracelet (Size - 7-1 Ext)  Weight 8.42 Grams",
-    "lastOnAirAuctionCode": "0019859739",
+    "lastOnAirSku": "8666669",
+    "lastOnAirTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
+    "lastOnAirAuctionCode": "0019859740",
     "precedingSku": "8666731",
     "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rope Bracelet (Size - 7-1 Ext)  Weight 8.42 Grams",
     "precedingAuctionCode": "0019859739"
