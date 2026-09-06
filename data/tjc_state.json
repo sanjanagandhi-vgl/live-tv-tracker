@@ -305234,9 +305234,16 @@
       "img": true,
       "date": "2026-09-06",
       "time": "04:21:20",
-      "productUrl": null,
-      "lastUpdated": 1788664880067,
-      "source": "gha"
+      "productUrl": "/products/royal-bali-collection-kechak-dance-inspired-hessonite-garnet-sterling-silver-pendant-with-chain-size-20-1-50-ct",
+      "lastUpdated": 1788665662261,
+      "source": "gha",
+      "missedAt": 1788665662261,
+      "missedDelay": 13,
+      "missedPrice": 79.99,
+      "missedImg": true,
+      "productUrlChecked": 1788665665801,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7750124": {
       "sku": "7750124",
@@ -305291,11 +305298,29 @@
       "productUrl": null,
       "lastUpdated": 1788665541845,
       "source": "gha"
+    },
+    "8599122": {
+      "sku": "8599122",
+      "firstAir": 1788665662261,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788665662261,
+      "title": "Royal Bali Collection - D'Joy Sterling Silver Dragonfly Pendant",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019858337",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "04:34:22",
+      "productUrl": null,
+      "lastUpdated": 1788665662261,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788665599131,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325579,11 +325604,22 @@
         "followingSku": "8599075",
         "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Turtle Earring with Hook",
         "followingAuctionCode": "0019858335"
+      },
+      {
+        "start": 1788665599131,
+        "end": 1788665662261,
+        "durationMin": 1.1,
+        "precedingSku": "8599076",
+        "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Turtle Earring with Hook",
+        "precedingAuctionCode": "0019858336",
+        "followingSku": "8599122",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragonfly Pendant",
+        "followingAuctionCode": "0019858337"
       }
     ],
-    "lastOnAirSku": "8599076",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Turtle Earring with Hook",
-    "lastOnAirAuctionCode": "0019858336",
+    "lastOnAirSku": "8599122",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragonfly Pendant",
+    "lastOnAirAuctionCode": "0019858337",
     "precedingSku": "8599076",
     "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Turtle Earring with Hook",
     "precedingAuctionCode": "0019858336"
