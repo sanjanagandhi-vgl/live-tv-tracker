@@ -307287,11 +307287,15 @@
       "date": "2026-09-06",
       "time": "12:41:19",
       "productUrl": "/products/gp-natural-turquoise-fresh-water-pearl-black-spinel-kanchanaburi-blue-sapphire-fancy-necklace-size-20-in-18k-yg-vermeilsterling-silver-22-080-ct-8749313?variant=53613398753546",
-      "lastUpdated": 1788694879755,
+      "lastUpdated": 1788695435596,
       "source": "gha",
       "productUrlChecked": 1788694883191,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788695435596,
+      "missedDelay": 9,
+      "missedPrice": 129.99,
+      "missedImg": true
     },
     "8751681": {
       "sku": "8751681",
@@ -307470,11 +307474,29 @@
       "productUrl": null,
       "lastUpdated": 1788695062235,
       "source": "gha"
+    },
+    "8562580": {
+      "sku": "8562580",
+      "firstAir": 1788695435596,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788695435596,
+      "title": "Live From Vicenza GP Family Legacy Italy - Genuine Murano With 24K Gold & Blue Sapphire Heart Ring in 18K Gold Vermeil Sterling Silver",
+      "pdpPrice": "1987.99",
+      "auctionCode": "0019858495",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "12:50:35",
+      "productUrl": null,
+      "lastUpdated": 1788695435596,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788695357320,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -328242,11 +328264,22 @@
         "followingSku": "4428886",
         "followingTitle": "Live From Vicenza GP Trionfo Collection - Serra Gaucha Citrine & Multi Gemstones Frog with Crown Pendant with Chain in 18K Vermeil Yellow Gold Plated Sterling Silver 2.49 Ct.",
         "followingAuctionCode": "0019858506"
+      },
+      {
+        "start": 1788695357320,
+        "end": 1788695435596,
+        "durationMin": 1.3,
+        "precedingSku": "4428886",
+        "precedingTitle": "Live From Vicenza GP Trionfo Collection - Serra Gaucha Citrine & Multi Gemstones Frog with Crown ...",
+        "precedingAuctionCode": "0019858506",
+        "followingSku": "8562580",
+        "followingTitle": "Live From Vicenza GP Family Legacy Italy - Genuine Murano With 24K Gold & Blue Sapphire Heart Ring in 18K Gold Vermeil Sterling Silver",
+        "followingAuctionCode": "0019858495"
       }
     ],
-    "lastOnAirSku": "4428886",
-    "lastOnAirTitle": "Live From Vicenza GP Trionfo Collection - Serra Gaucha Citrine & Multi Gemstones Frog with Crown ...",
-    "lastOnAirAuctionCode": "0019858506",
+    "lastOnAirSku": "8562580",
+    "lastOnAirTitle": "Live From Vicenza GP Family Legacy Italy - Genuine Murano With 24K Gold & Blue Sapphire Heart Ring in 18K Gold Vermeil Sterling Silver",
+    "lastOnAirAuctionCode": "0019858495",
     "precedingSku": "4428886",
     "precedingTitle": "Live From Vicenza GP Trionfo Collection - Serra Gaucha Citrine & Multi Gemstones Frog with Crown ...",
     "precedingAuctionCode": "0019858506"
