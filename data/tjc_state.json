@@ -309894,11 +309894,29 @@
       "productUrlChecked": 1788714087447,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8680118": {
+      "sku": "8680118",
+      "firstAir": 1788716600101,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788716600101,
+      "title": "Opatra Lesley Anne PEACE Candle",
+      "pdpPrice": "359.99",
+      "auctionCode": "0019860476",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "18:43:20",
+      "productUrl": null,
+      "lastUpdated": 1788716600101,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788716303211,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -330974,11 +330992,22 @@
         "followingSku": "8685462",
         "followingTitle": "ARKIVE Head In The Clouds Kit (Includes 60ml Shampoo, 60ml Conditioner, 60ml Treatment Mask, 50ml Hair Oil & Bag)",
         "followingAuctionCode": "0019858809"
+      },
+      {
+        "start": 1788716303211,
+        "end": 1788716600101,
+        "durationMin": 4.9,
+        "precedingSku": "8685462",
+        "precedingTitle": "ARKIVE Head In The Clouds Kit (Includes 60ml Shampoo, 60ml Conditioner, 60ml Treatment Mask, 50ml Hair Oil & Bag)",
+        "precedingAuctionCode": "0019858809",
+        "followingSku": "8680118",
+        "followingTitle": "Opatra Lesley Anne PEACE Candle",
+        "followingAuctionCode": "0019860476"
       }
     ],
-    "lastOnAirSku": "8685462",
-    "lastOnAirTitle": "ARKIVE Head In The Clouds Kit (Includes 60ml Shampoo, 60ml Conditioner, 60ml Treatment Mask, 50ml Hair Oil & Bag)",
-    "lastOnAirAuctionCode": "0019858809",
+    "lastOnAirSku": "8680118",
+    "lastOnAirTitle": "Opatra Lesley Anne PEACE Candle",
+    "lastOnAirAuctionCode": "0019860476",
     "precedingSku": "8685462",
     "precedingTitle": "ARKIVE Head In The Clouds Kit (Includes 60ml Shampoo, 60ml Conditioner, 60ml Treatment Mask, 50ml Hair Oil & Bag)",
     "precedingAuctionCode": "0019858809"
