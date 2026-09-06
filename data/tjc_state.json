@@ -238396,17 +238396,17 @@
       "firstAir": 1787670143308,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787744600656,
+      "lastAir": 1788733702859,
       "title": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
-      "pdpPrice": "147.99",
-      "auctionCode": "0019844666",
+      "pdpPrice": "249.99",
+      "auctionCode": "0019859056",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-26",
-      "time": "12:43:20",
+      "date": "2026-09-06",
+      "time": "23:28:22",
       "productUrl": "/products/maestro-collection-9k-yellow-gold-diamond-cut-band-ring-width-6-90m-thickness-0-20mm",
-      "lastUpdated": 1787744600656,
+      "lastUpdated": 1788733702859,
       "source": "gha",
       "missedAt": 1787672001711,
       "missedDelay": 10,
@@ -310090,8 +310090,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788733641631,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331332,11 +331332,22 @@
         "followingSku": "8750389",
         "followingTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
         "followingAuctionCode": "0019859029"
+      },
+      {
+        "start": 1788733641631,
+        "end": 1788733702859,
+        "durationMin": 1.0,
+        "precedingSku": "8750389",
+        "precedingTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
+        "precedingAuctionCode": "0019859029",
+        "followingSku": "3584021",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
+        "followingAuctionCode": "0019859056"
       }
     ],
-    "lastOnAirSku": "8750389",
-    "lastOnAirTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019859029",
+    "lastOnAirSku": "3584021",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
+    "lastOnAirAuctionCode": "0019859056",
     "precedingSku": "8750389",
     "precedingTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
     "precedingAuctionCode": "0019859029"
