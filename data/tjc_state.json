@@ -309588,11 +309588,29 @@
       "productUrl": null,
       "lastUpdated": 1788712997751,
       "source": "gha"
+    },
+    "8710293": {
+      "sku": "8710293",
+      "firstAir": 1788713134394,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788713134394,
+      "title": "D'Joy - Natural Blue Turquoise Bracelet (Size - 7.5-2 Ext) in Rhodium Overlay Sterling Silver 100.00 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019859723",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "17:45:34",
+      "productUrl": null,
+      "lastUpdated": 1788713134394,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788713062766,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -330602,11 +330620,22 @@
         "followingSku": "8709945",
         "followingTitle": "D'Joy - Natural Blue Turquoise Necklace (Size - 20) in Rhodium Overlay Sterling Silver 260.00 Ct.",
         "followingAuctionCode": "0019858650"
+      },
+      {
+        "start": 1788713062766,
+        "end": 1788713134394,
+        "durationMin": 1.2,
+        "precedingSku": "8709945",
+        "precedingTitle": "D'Joy - Natural Blue Turquoise Necklace (Size - 20) in Rhodium Overlay Sterling Silver 260.00 Ct.",
+        "precedingAuctionCode": "0019858650",
+        "followingSku": "8710293",
+        "followingTitle": "D'Joy - Natural Blue Turquoise Bracelet (Size - 7.5-2 Ext) in Rhodium Overlay Sterling Silver 100.00 Ct.",
+        "followingAuctionCode": "0019859723"
       }
     ],
-    "lastOnAirSku": "8709945",
-    "lastOnAirTitle": "D'Joy - Natural Blue Turquoise Necklace (Size - 20) in Rhodium Overlay Sterling Silver 260.00 Ct.",
-    "lastOnAirAuctionCode": "0019858650",
+    "lastOnAirSku": "8710293",
+    "lastOnAirTitle": "D'Joy - Natural Blue Turquoise Bracelet (Size - 7.5-2 Ext) in Rhodium Overlay Sterling Silver 100.00 Ct.",
+    "lastOnAirAuctionCode": "0019859723",
     "precedingSku": "8709945",
     "precedingTitle": "D'Joy - Natural Blue Turquoise Necklace (Size - 20) in Rhodium Overlay Sterling Silver 260.00 Ct.",
     "precedingAuctionCode": "0019858650"
