@@ -220040,17 +220040,17 @@
       "firstAir": 1787463438256,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788332543078,
+      "lastAir": 1788718638882,
       "title": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019853489",
+      "pdpPrice": "599.99",
+      "auctionCode": "0019860474",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-02",
-      "time": "08:02:23",
+      "date": "2026-09-06",
+      "time": "19:17:18",
       "productUrl": "/products/fountain-of-youth-lifestyle-pure-tripeptide-collagen-double-size-200gm-upto-200-day-supply",
-      "lastUpdated": 1788332543078,
+      "lastUpdated": 1788718638882,
       "source": "gha",
       "missedAt": 1787465902810,
       "missedDelay": 9,
@@ -309915,8 +309915,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788718582616,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331003,11 +331003,22 @@
         "followingSku": "8680118",
         "followingTitle": "Opatra Lesley Anne PEACE Candle",
         "followingAuctionCode": "0019860476"
+      },
+      {
+        "start": 1788718582616,
+        "end": 1788718638882,
+        "durationMin": 0.9,
+        "precedingSku": "8680118",
+        "precedingTitle": "Opatra Lesley Anne PEACE Candle",
+        "precedingAuctionCode": "0019860476",
+        "followingSku": "8217801",
+        "followingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
+        "followingAuctionCode": "0019860474"
       }
     ],
-    "lastOnAirSku": "8680118",
-    "lastOnAirTitle": "Opatra Lesley Anne PEACE Candle",
-    "lastOnAirAuctionCode": "0019860476",
+    "lastOnAirSku": "8217801",
+    "lastOnAirTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
+    "lastOnAirAuctionCode": "0019860474",
     "precedingSku": "8680118",
     "precedingTitle": "Opatra Lesley Anne PEACE Candle",
     "precedingAuctionCode": "0019860476"
