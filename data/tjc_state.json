@@ -31615,21 +31615,26 @@
       "sku": "4508223",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-09-06",
+      "time": "12:00:58",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1788692458947,
       "missedPrice": 129.99,
       "missedImg": true,
-      "title": "GP Trionfo Collection - Blue Diamond & Blue Sapphire Elephant Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
-      "auctionCode": "0019787846",
+      "title": "Live From Vicenza GP Trionfo Collection - Blue Diamond & Blue Sapphire Elephant Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
+      "auctionCode": "0019858409",
       "source": "gha",
       "productUrl": "/products/gp-blue-diamond-blue-sapphire-elephant-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-0-50-ct-4508223",
       "productUrlChecked": 1785475976102,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788692458947,
+      "pdpPrice": "129.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8698283": {
       "sku": "8698283",
@@ -307029,8 +307034,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788692360273,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -327732,11 +327737,22 @@
         "followingSku": "4413632",
         "followingTitle": "Live From Vicenza GP Celestial Dream Collection - Multi Colour Diamond & Blue Sapphire Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019858408"
+      },
+      {
+        "start": 1788692360273,
+        "end": 1788692458947,
+        "durationMin": 1.6,
+        "precedingSku": "4413632",
+        "precedingTitle": "Live From Vicenza GP Celestial Dream Collection - Multi Colour Diamond & Blue Sapphire Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019858408",
+        "followingSku": "4508223",
+        "followingTitle": "Live From Vicenza GP Trionfo Collection - Blue Diamond & Blue Sapphire Elephant Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
+        "followingAuctionCode": "0019858409"
       }
     ],
-    "lastOnAirSku": "4413632",
-    "lastOnAirTitle": "Live From Vicenza GP Celestial Dream Collection - Multi Colour Diamond & Blue Sapphire Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019858408",
+    "lastOnAirSku": "4508223",
+    "lastOnAirTitle": "Live From Vicenza GP Trionfo Collection - Blue Diamond & Blue Sapphire Elephant Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
+    "lastOnAirAuctionCode": "0019858409",
     "precedingSku": "4413632",
     "precedingTitle": "Live From Vicenza GP Celestial Dream Collection - Multi Colour Diamond & Blue Sapphire Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019858408"
