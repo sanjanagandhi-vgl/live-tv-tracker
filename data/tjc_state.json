@@ -305052,11 +305052,29 @@
       "productUrl": null,
       "lastUpdated": 1788657262188,
       "source": "gha"
+    },
+    "7775513": {
+      "sku": "7775513",
+      "firstAir": 1788657383282,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788657383282,
+      "title": "Summer Printed Cooler Bag",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019857599",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-06",
+      "time": "02:16:23",
+      "productUrl": null,
+      "lastUpdated": 1788657383282,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788657335644,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325131,11 +325149,22 @@
         "followingSku": "8622550",
         "followingTitle": "Calvin Klein 23536s 035 - Ladies Cat Eye Black Sunglasses",
         "followingAuctionCode": "0019857439"
+      },
+      {
+        "start": 1788657335644,
+        "end": 1788657383282,
+        "durationMin": 0.8,
+        "precedingSku": "8622550",
+        "precedingTitle": "Calvin Klein 23536s 035 - Ladies Cat Eye Black Sunglasses",
+        "precedingAuctionCode": "0019857439",
+        "followingSku": "7775513",
+        "followingTitle": "Summer Printed Cooler Bag",
+        "followingAuctionCode": "0019857599"
       }
     ],
-    "lastOnAirSku": "8622550",
-    "lastOnAirTitle": "Calvin Klein 23536s 035 - Ladies Cat Eye Black Sunglasses",
-    "lastOnAirAuctionCode": "0019857439",
+    "lastOnAirSku": "7775513",
+    "lastOnAirTitle": "Summer Printed Cooler Bag",
+    "lastOnAirAuctionCode": "0019857599",
     "precedingSku": "8622550",
     "precedingTitle": "Calvin Klein 23536s 035 - Ladies Cat Eye Black Sunglasses",
     "precedingAuctionCode": "0019857439"
