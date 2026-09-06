@@ -31780,21 +31780,26 @@
       "sku": "8702307",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-09-06",
+      "time": "13:00:59",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1788696059179,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "GP Capri Sealife Collection - Larimar & Blue Sapphire Bypass Ring in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019793411",
+      "title": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Bypass Ring in Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019858449",
       "source": "gha",
       "productUrl": "/products/gp-larimar-blue-sapphire-bypass-ring-in-rhodium-overlay-sterling-silver-4-00-ct-8702307",
       "productUrlChecked": 1785476070119,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788696059179,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8702308": {
       "sku": "8702308",
@@ -307542,8 +307547,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788695957709,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -328333,11 +328338,22 @@
         "followingSku": "8696211",
         "followingTitle": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Living Creature Turtle Earring with Push Post in Rhodium Overlay Sterling Silver 2.84 Ct.",
         "followingAuctionCode": "0019858448"
+      },
+      {
+        "start": 1788695957709,
+        "end": 1788696059179,
+        "durationMin": 1.7,
+        "precedingSku": "8696211",
+        "precedingTitle": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Living Creature Turtle Earring with Push Post in Rhodium Overlay Sterling Silver 2.84 Ct.",
+        "precedingAuctionCode": "0019858448",
+        "followingSku": "8702307",
+        "followingTitle": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Bypass Ring in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019858449"
       }
     ],
-    "lastOnAirSku": "8696211",
-    "lastOnAirTitle": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Living Creature Turtle Earring with Push Post in Rhodium Overlay Sterling Silver 2.84 Ct.",
-    "lastOnAirAuctionCode": "0019858448",
+    "lastOnAirSku": "8702307",
+    "lastOnAirTitle": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Bypass Ring in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019858449",
     "precedingSku": "8696211",
     "precedingTitle": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Living Creature Turtle Earring with Push Post in Rhodium Overlay Sterling Silver 2.84 Ct.",
     "precedingAuctionCode": "0019858448"
