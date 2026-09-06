@@ -305016,11 +305016,29 @@
       "productUrl": null,
       "lastUpdated": 1788656958930,
       "source": "gha"
+    },
+    "8622536": {
+      "sku": "8622536",
+      "firstAir": 1788657077813,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788657077813,
+      "title": "Calvin Klein 23536s 605 - Ladies Cat Eye Sunglasses - Burgundy",
+      "pdpPrice": "519.99",
+      "auctionCode": "0019857438",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-06",
+      "time": "02:11:17",
+      "productUrl": null,
+      "lastUpdated": 1788657077813,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788657035293,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325073,11 +325091,22 @@
         "followingSku": "8622513",
         "followingTitle": "GUESS - Ladies Square Grey & Gold Sunglasses",
         "followingAuctionCode": "0019857437"
+      },
+      {
+        "start": 1788657035293,
+        "end": 1788657077813,
+        "durationMin": 0.7,
+        "precedingSku": "8622513",
+        "precedingTitle": "GUESS - Ladies Square Grey & Gold Sunglasses",
+        "precedingAuctionCode": "0019857437",
+        "followingSku": "8622536",
+        "followingTitle": "Calvin Klein 23536s 605 - Ladies Cat Eye Sunglasses - Burgundy",
+        "followingAuctionCode": "0019857438"
       }
     ],
-    "lastOnAirSku": "8622513",
-    "lastOnAirTitle": "GUESS - Ladies Square Grey & Gold Sunglasses",
-    "lastOnAirAuctionCode": "0019857437",
+    "lastOnAirSku": "8622536",
+    "lastOnAirTitle": "Calvin Klein 23536s 605 - Ladies Cat Eye Sunglasses - Burgundy",
+    "lastOnAirAuctionCode": "0019857438",
     "precedingSku": "8622513",
     "precedingTitle": "GUESS - Ladies Square Grey & Gold Sunglasses",
     "precedingAuctionCode": "0019857437"
