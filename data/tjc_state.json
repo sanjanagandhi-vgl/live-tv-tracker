@@ -135639,23 +135639,23 @@
       "sku": "8309885",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-20",
-      "time": "03:08:22",
+      "date": "2026-09-06",
+      "time": "03:39:18",
       "preExisting": true,
       "missedAt": 1786477240962,
       "missedDelay": null,
-      "lastUpdated": 1787191702672,
+      "lastUpdated": 1788662358735,
       "missedPrice": 249.99,
       "missedImg": true,
       "title": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap",
-      "auctionCode": "0019830599",
+      "auctionCode": "0019858133",
       "source": "gha",
       "productUrl": "/products/limited-edition-william-hunt-london-dragon-watch-with-automatic-movt-5-atm-water-resistancy-blue-sapphire-crystal-dial-and-adjustable-milanese-strap",
       "productUrlChecked": 1786477250342,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787191702672,
-      "pdpPrice": "249.99",
+      "lastAir": 1788662358735,
+      "pdpPrice": "499.99",
       "buy": true,
       "login": false,
       "img": true
@@ -305206,8 +305206,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788662302295,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325414,11 +325414,22 @@
         "followingSku": "8235475",
         "followingTitle": "WILLIAM HUNT Limited Edition 5ATM Water Resistant Watch With Presentation Box - Silver",
         "followingAuctionCode": "0019858136"
+      },
+      {
+        "start": 1788662302295,
+        "end": 1788662358735,
+        "durationMin": 0.9,
+        "precedingSku": "8235475",
+        "precedingTitle": "WILLIAM HUNT Limited Edition 5ATM Water Resistant Watch With Presentation Box - Silver",
+        "precedingAuctionCode": "0019858136",
+        "followingSku": "8309885",
+        "followingTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap",
+        "followingAuctionCode": "0019858133"
       }
     ],
-    "lastOnAirSku": "8235475",
-    "lastOnAirTitle": "WILLIAM HUNT Limited Edition 5ATM Water Resistant Watch With Presentation Box - Silver",
-    "lastOnAirAuctionCode": "0019858136",
+    "lastOnAirSku": "8309885",
+    "lastOnAirTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap",
+    "lastOnAirAuctionCode": "0019858133",
     "precedingSku": "8235475",
     "precedingTitle": "WILLIAM HUNT Limited Edition 5ATM Water Resistant Watch With Presentation Box - Silver",
     "precedingAuctionCode": "0019858136"
