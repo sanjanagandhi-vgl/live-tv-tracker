@@ -305660,9 +305660,16 @@
       "img": true,
       "date": "2026-09-06",
       "time": "10:18:23",
-      "productUrl": null,
-      "lastUpdated": 1788686303652,
-      "source": "gha"
+      "productUrl": "/products/gp-blue-sapphire-pendant-with-chain-size-20-in-platinum-overlay-sterling-silver-4521997",
+      "lastUpdated": 1788686902824,
+      "source": "gha",
+      "missedAt": 1788686902824,
+      "missedDelay": 10,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1788686906096,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4520358": {
       "sku": "4520358",
@@ -305681,11 +305688,29 @@
       "productUrl": null,
       "lastUpdated": 1788686781757,
       "source": "gha"
+    },
+    "8748466": {
+      "sku": "8748466",
+      "firstAir": 1788686902824,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788686902824,
+      "title": "Live From Vicenza GP - White Zircon & Blue Sapphire Butterfly Ring in 18K Vermeil Yellow & Rose Gold Plated & Rhodium Overlay Sterling Silver",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019858437",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "10:28:22",
+      "productUrl": null,
+      "lastUpdated": 1788686902824,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788686838247,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -326288,11 +326313,22 @@
         "followingSku": "4520358",
         "followingTitle": "Live From Vicenza GP - African Ruby, White Zircon & Blue Sapphire Crescent Moon Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 4.88 Ct.",
         "followingAuctionCode": "0019859688"
+      },
+      {
+        "start": 1788686838247,
+        "end": 1788686902824,
+        "durationMin": 1.1,
+        "precedingSku": "4520358",
+        "precedingTitle": "Live From Vicenza GP - African Ruby, White Zircon & Blue Sapphire Crescent Moon Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 4.88 Ct.",
+        "precedingAuctionCode": "0019859688",
+        "followingSku": "8748466",
+        "followingTitle": "Live From Vicenza GP - White Zircon & Blue Sapphire Butterfly Ring in 18K Vermeil Yellow & Rose Gold Plated & Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019858437"
       }
     ],
-    "lastOnAirSku": "4520358",
-    "lastOnAirTitle": "Live From Vicenza GP - African Ruby, White Zircon & Blue Sapphire Crescent Moon Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 4.88 Ct.",
-    "lastOnAirAuctionCode": "0019859688",
+    "lastOnAirSku": "8748466",
+    "lastOnAirTitle": "Live From Vicenza GP - White Zircon & Blue Sapphire Butterfly Ring in 18K Vermeil Yellow & Rose Gold Plated & Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019858437",
     "precedingSku": "4520358",
     "precedingTitle": "Live From Vicenza GP - African Ruby, White Zircon & Blue Sapphire Crescent Moon Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 4.88 Ct.",
     "precedingAuctionCode": "0019859688"
