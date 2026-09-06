@@ -281640,21 +281640,26 @@
       "sku": "8662932",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-01",
-      "time": "13:13:18",
+      "date": "2026-09-06",
+      "time": "07:29:17",
       "preExisting": true,
       "missedAt": 1788264798974,
       "missedDelay": null,
-      "lastUpdated": 1788264798974,
+      "lastUpdated": 1788676157153,
       "missedPrice": 79.99,
       "missedImg": true,
       "title": "Livmore Hand Painted Cone Work Elephant Figurine Mango Wood Stool (Size - 36.83 x 26.67 x 31.75 cm) - Multi",
-      "auctionCode": "0019852297",
+      "auctionCode": "0019858643",
       "source": "gha",
       "productUrl": "/products/livmore-stool-size-one-size-black-8662931",
       "productUrlChecked": 1788264802585,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788676157153,
+      "pdpPrice": "629.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "221331381": {
       "sku": "221331381",
@@ -305580,8 +305585,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788676103060,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -326085,11 +326090,22 @@
         "followingSku": "8510026",
         "followingTitle": "Multifunctional 5W Rechargeable LED Flashlight & Power Bank - 2000mAh Battery Emergency Lantern & Table Lamp - Green",
         "followingAuctionCode": "0019857296"
+      },
+      {
+        "start": 1788676103060,
+        "end": 1788676157153,
+        "durationMin": 0.9,
+        "precedingSku": "8510026",
+        "precedingTitle": "Multifunctional 5W Rechargeable LED Flashlight & Power Bank - 2000mAh Battery Emergency Lantern & Table Lamp - Green",
+        "precedingAuctionCode": "0019857296",
+        "followingSku": "8662932",
+        "followingTitle": "Livmore Hand Painted Cone Work Elephant Figurine Mango Wood Stool (Size - 36.83 x 26.67 x 31.75 cm) - Multi",
+        "followingAuctionCode": "0019858643"
       }
     ],
-    "lastOnAirSku": "8510026",
-    "lastOnAirTitle": "Multifunctional 5W Rechargeable LED Flashlight & Power Bank - 2000mAh Battery Emergency Lantern & Table Lamp - Green",
-    "lastOnAirAuctionCode": "0019857296",
+    "lastOnAirSku": "8662932",
+    "lastOnAirTitle": "Livmore Hand Painted Cone Work Elephant Figurine Mango Wood Stool (Size - 36.83 x 26.67 x 31.75 cm) - Multi",
+    "lastOnAirAuctionCode": "0019858643",
     "precedingSku": "8510026",
     "precedingTitle": "Multifunctional 5W Rechargeable LED Flashlight & Power Bank - 2000mAh Battery Emergency Lantern & Table Lamp - Green",
     "precedingAuctionCode": "0019857296"
