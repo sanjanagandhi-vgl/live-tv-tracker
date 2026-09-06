@@ -3993,19 +3993,19 @@
       "sku": "8626627",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "04:54:22",
+      "date": "2026-09-06",
+      "time": "23:52:22",
       "preExisting": true,
       "missedAt": 1784879598171,
       "missedDelay": null,
-      "lastUpdated": 1786852462505,
+      "lastUpdated": 1788735142680,
       "missedPrice": 179.99,
       "missedImg": true,
-      "title": "Black Friday Deal - 9K Yellow Gold Spiga Necklace (Size - 22)",
-      "auctionCode": "0019824168",
+      "title": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
+      "auctionCode": "0019859066",
       "source": "gha",
-      "lastAir": 1786852462505,
-      "pdpPrice": "179.99",
+      "lastAir": 1788735142680,
+      "pdpPrice": "249.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -310097,8 +310097,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788735080378,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331350,11 +331350,22 @@
         "followingSku": "3584021",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
         "followingAuctionCode": "0019859056"
+      },
+      {
+        "start": 1788735080378,
+        "end": 1788735142680,
+        "durationMin": 1.0,
+        "precedingSku": "8647001",
+        "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019859064",
+        "followingSku": "8626627",
+        "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
+        "followingAuctionCode": "0019859066"
       }
     ],
-    "lastOnAirSku": "8647001",
-    "lastOnAirTitle": "9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019859064",
+    "lastOnAirSku": "8626627",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019859066",
     "precedingSku": "8647001",
     "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019859064"
