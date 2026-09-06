@@ -14143,16 +14143,16 @@
       "firstAir": 1785051142032,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788215543696,
+      "lastAir": 1788669197700,
       "title": "Royal Bali Handmade - 9K Yellow Gold Diamond Cut Bangle (Size - 7.5)",
-      "pdpPrice": "879.99",
-      "auctionCode": "0019852762",
+      "pdpPrice": "15466.99",
+      "auctionCode": "0019858360",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
-      "time": "23:32:23",
-      "lastUpdated": 1788215543696,
+      "date": "2026-09-06",
+      "time": "05:33:17",
+      "lastUpdated": 1788669197700,
       "source": "gha",
       "missedAt": 1785051557659,
       "missedDelay": 1,
@@ -305500,8 +305500,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788669142303,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325895,11 +325895,22 @@
         "followingSku": "8510534",
         "followingTitle": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
         "followingAuctionCode": "0019858353"
+      },
+      {
+        "start": 1788669142303,
+        "end": 1788669197700,
+        "durationMin": 0.9,
+        "precedingSku": "8510534",
+        "precedingTitle": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
+        "precedingAuctionCode": "0019858353",
+        "followingSku": "8588271",
+        "followingTitle": "Royal Bali Handmade - 9K Yellow Gold Diamond Cut Bangle (Size - 7.5)",
+        "followingAuctionCode": "0019858360"
       }
     ],
-    "lastOnAirSku": "8510534",
-    "lastOnAirTitle": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
-    "lastOnAirAuctionCode": "0019858353",
+    "lastOnAirSku": "8588271",
+    "lastOnAirTitle": "Royal Bali Handmade - 9K Yellow Gold Diamond Cut Bangle (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019858360",
     "precedingSku": "8510534",
     "precedingTitle": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
     "precedingAuctionCode": "0019858353"
