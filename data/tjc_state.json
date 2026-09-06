@@ -287847,21 +287847,26 @@
       "sku": "8499958",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-02",
-      "time": "20:04:25",
+      "date": "2026-09-06",
+      "time": "03:45:35",
       "preExisting": true,
       "missedAt": 1788375865367,
       "missedDelay": null,
-      "lastUpdated": 1788375865367,
+      "lastUpdated": 1788662735316,
       "missedPrice": 347.99,
       "missedImg": true,
       "title": "William Hunt Limited Edition Hand Assembled Type A Natural Jadeite Automatic 5ATM WR 3D Horse Pattern Dial Unisex Watch 90.10 Ct (43MM Case)",
-      "auctionCode": "0019855407",
+      "auctionCode": "0019858134",
       "source": "gha",
       "productUrl": "/products/final-ever-commission-collectors-limited-edition-william-hunt-automatic-movt-3atm-water-resistant-type-a-natural-jadeite-watch-with-blue-sapphire-crystal-36-mm-case-8573617",
       "productUrlChecked": 1788375873316,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788662735316,
+      "pdpPrice": "347.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8576301": {
       "sku": "8576301",
@@ -305206,8 +305211,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788662663685,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325425,11 +325430,22 @@
         "followingSku": "8309885",
         "followingTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap",
         "followingAuctionCode": "0019858133"
+      },
+      {
+        "start": 1788662663685,
+        "end": 1788662735316,
+        "durationMin": 1.2,
+        "precedingSku": "8309885",
+        "precedingTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap",
+        "precedingAuctionCode": "0019858133",
+        "followingSku": "8499958",
+        "followingTitle": "William Hunt Limited Edition Hand Assembled Type A Natural Jadeite Automatic 5ATM WR 3D Horse Pattern Dial Unisex Watch 90.10 Ct (43MM Case)",
+        "followingAuctionCode": "0019858134"
       }
     ],
-    "lastOnAirSku": "8309885",
-    "lastOnAirTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap",
-    "lastOnAirAuctionCode": "0019858133",
+    "lastOnAirSku": "8499958",
+    "lastOnAirTitle": "William Hunt Limited Edition Hand Assembled Type A Natural Jadeite Automatic 5ATM WR 3D Horse Pattern Dial Unisex Watch 90.10 Ct (43MM Case)",
+    "lastOnAirAuctionCode": "0019858134",
     "precedingSku": "8309885",
     "precedingTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap",
     "precedingAuctionCode": "0019858133"
