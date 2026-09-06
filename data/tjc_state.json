@@ -309984,11 +309984,29 @@
       "productUrlChecked": 1788723144767,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "221332439": {
+      "sku": "221332439",
+      "firstAir": 1788725437416,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788725437416,
+      "title": "TV ONLY OFFER - One Truth 818- Anti-Ageing Serum 50ml and  Atomiser 50ml",
+      "pdpPrice": "1419.98",
+      "auctionCode": "0019860471",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-06",
+      "time": "21:10:37",
+      "productUrl": null,
+      "lastUpdated": 1788725437416,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788725241754,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331130,11 +331148,22 @@
         "followingSku": "8661700",
         "followingTitle": "Beautech Face and Eye Wand with 6 Colour LED Light Therapy & EMS.",
         "followingAuctionCode": "0019860555"
+      },
+      {
+        "start": 1788725241754,
+        "end": 1788725437416,
+        "durationMin": 3.3,
+        "precedingSku": "8725754",
+        "precedingTitle": "Opatra - Conductive Gel - 300ml",
+        "precedingAuctionCode": "0019858655",
+        "followingSku": "221332439",
+        "followingTitle": "TV ONLY OFFER - One Truth 818- Anti-Ageing Serum 50ml and  Atomiser 50ml",
+        "followingAuctionCode": "0019860471"
       }
     ],
-    "lastOnAirSku": "8725754",
-    "lastOnAirTitle": "Opatra - Conductive Gel - 300ml",
-    "lastOnAirAuctionCode": "0019858655",
+    "lastOnAirSku": "221332439",
+    "lastOnAirTitle": "TV ONLY OFFER - One Truth 818- Anti-Ageing Serum 50ml and  Atomiser 50ml",
+    "lastOnAirAuctionCode": "0019860471",
     "precedingSku": "8725754",
     "precedingTitle": "Opatra - Conductive Gel - 300ml",
     "precedingAuctionCode": "0019858655"
