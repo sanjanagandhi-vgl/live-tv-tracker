@@ -309630,11 +309630,29 @@
       "productUrlChecked": 1788713246429,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8680933": {
+      "sku": "8680933",
+      "firstAir": 1788713359053,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788713359053,
+      "title": "D'Joy - Natural Sleeping Beauty Turquoise Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.47 Ct.",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019858622",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "17:49:19",
+      "productUrl": null,
+      "lastUpdated": 1788713359053,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788713304208,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -330655,11 +330673,22 @@
         "followingSku": "8710293",
         "followingTitle": "D'Joy - Natural Blue Turquoise Bracelet (Size - 7.5-2 Ext) in Rhodium Overlay Sterling Silver 100.00 Ct.",
         "followingAuctionCode": "0019859723"
+      },
+      {
+        "start": 1788713304208,
+        "end": 1788713359053,
+        "durationMin": 0.9,
+        "precedingSku": "8710293",
+        "precedingTitle": "D'Joy - Natural Blue Turquoise Bracelet (Size - 7.5-2 Ext) in Rhodium Overlay Sterling Silver 100.00 Ct.",
+        "precedingAuctionCode": "0019859723",
+        "followingSku": "8680933",
+        "followingTitle": "D'Joy - Natural Sleeping Beauty Turquoise Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.47 Ct.",
+        "followingAuctionCode": "0019858622"
       }
     ],
-    "lastOnAirSku": "8710293",
-    "lastOnAirTitle": "D'Joy - Natural Blue Turquoise Bracelet (Size - 7.5-2 Ext) in Rhodium Overlay Sterling Silver 100.00 Ct.",
-    "lastOnAirAuctionCode": "0019859723",
+    "lastOnAirSku": "8680933",
+    "lastOnAirTitle": "D'Joy - Natural Sleeping Beauty Turquoise Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.47 Ct.",
+    "lastOnAirAuctionCode": "0019858622",
     "precedingSku": "8710293",
     "precedingTitle": "D'Joy - Natural Blue Turquoise Bracelet (Size - 7.5-2 Ext) in Rhodium Overlay Sterling Silver 100.00 Ct.",
     "precedingAuctionCode": "0019859723"
