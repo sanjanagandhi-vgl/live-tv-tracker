@@ -40602,17 +40602,17 @@
       "firstAir": 1785534146944,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788470790546,
+      "lastAir": 1788729199422,
       "title": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
       "pdpPrice": "169.99",
-      "auctionCode": "0019856112",
+      "auctionCode": "0019859032",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-03",
-      "time": "22:26:30",
+      "date": "2026-09-06",
+      "time": "22:13:19",
       "productUrl": "/products/9k-yellow-gold-earring-with-clasp-8597036",
-      "lastUpdated": 1788470790546,
+      "lastUpdated": 1788729199422,
       "source": "gha",
       "missedAt": 1785534744672,
       "missedDelay": 9,
@@ -310031,8 +310031,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788729145205,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331207,11 +331207,22 @@
         "followingSku": "8597035",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
         "followingAuctionCode": "0019859031"
+      },
+      {
+        "start": 1788729145205,
+        "end": 1788729199422,
+        "durationMin": 0.9,
+        "precedingSku": "8056725",
+        "precedingTitle": "Ottoman Treasures - 9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
+        "precedingAuctionCode": "0019859030",
+        "followingSku": "8597036",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+        "followingAuctionCode": "0019859032"
       }
     ],
-    "lastOnAirSku": "8056725",
-    "lastOnAirTitle": "Ottoman Treasures - 9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019859030",
+    "lastOnAirSku": "8597036",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019859032",
     "precedingSku": "8056725",
     "precedingTitle": "Ottoman Treasures - 9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
     "precedingAuctionCode": "0019859030"
