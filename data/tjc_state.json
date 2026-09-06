@@ -305479,11 +305479,29 @@
       "productUrlChecked": 1788666511384,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8764489": {
+      "sku": "8764489",
+      "firstAir": 1788668358810,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788668358810,
+      "title": "Luxoro 9K Yellow Gold Bracelet (Size - 7.5), Gold Wt.11.28 Gms",
+      "pdpPrice": "5437.56",
+      "auctionCode": "0019858331",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "05:19:18",
+      "productUrl": null,
+      "lastUpdated": 1788668358810,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788668238854,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325855,11 +325873,22 @@
         "followingSku": "8055952",
         "followingTitle": "9K Yellow Gold Spiga Necklace",
         "followingAuctionCode": "0019858332"
+      },
+      {
+        "start": 1788668238854,
+        "end": 1788668358810,
+        "durationMin": 2.0,
+        "precedingSku": "8055952",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace",
+        "precedingAuctionCode": "0019858332",
+        "followingSku": "8764489",
+        "followingTitle": "Luxoro 9K Yellow Gold Bracelet (Size - 7.5), Gold Wt.11.28 Gms",
+        "followingAuctionCode": "0019858331"
       }
     ],
-    "lastOnAirSku": "8055952",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace",
-    "lastOnAirAuctionCode": "0019858332",
+    "lastOnAirSku": "8764489",
+    "lastOnAirTitle": "Luxoro 9K Yellow Gold Bracelet (Size - 7.5), Gold Wt.11.28 Gms",
+    "lastOnAirAuctionCode": "0019858331",
     "precedingSku": "8055952",
     "precedingTitle": "9K Yellow Gold Spiga Necklace",
     "precedingAuctionCode": "0019858332"
