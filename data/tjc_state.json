@@ -304998,11 +304998,29 @@
       "productUrlChecked": 1788653965133,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8622513": {
+      "sku": "8622513",
+      "firstAir": 1788656837858,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788656837858,
+      "title": "GUESS - Ladies Square Grey & Gold Sunglasses",
+      "pdpPrice": "209.99",
+      "auctionCode": "0019857437",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "02:07:17",
+      "productUrl": null,
+      "lastUpdated": 1788656837858,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788656726458,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325044,11 +325062,22 @@
         "followingSku": "8753815",
         "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
         "followingAuctionCode": "0019859594"
+      },
+      {
+        "start": 1788656726458,
+        "end": 1788656837858,
+        "durationMin": 1.9,
+        "precedingSku": "8753815",
+        "precedingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt...",
+        "precedingAuctionCode": "0019859594",
+        "followingSku": "8622513",
+        "followingTitle": "GUESS - Ladies Square Grey & Gold Sunglasses",
+        "followingAuctionCode": "0019857437"
       }
     ],
-    "lastOnAirSku": "8753815",
-    "lastOnAirTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt...",
-    "lastOnAirAuctionCode": "0019859594",
+    "lastOnAirSku": "8622513",
+    "lastOnAirTitle": "GUESS - Ladies Square Grey & Gold Sunglasses",
+    "lastOnAirAuctionCode": "0019857437",
     "precedingSku": "8753815",
     "precedingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt...",
     "precedingAuctionCode": "0019859594"
