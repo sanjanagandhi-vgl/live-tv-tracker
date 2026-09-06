@@ -19999,17 +19999,23 @@
       "sku": "8698756",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-27",
-      "time": "21:42:29",
+      "date": "2026-09-06",
+      "time": "22:51:20",
       "preExisting": true,
       "missedAt": 1785184949278,
       "missedDelay": null,
-      "lastUpdated": 1785184949278,
+      "lastUpdated": 1788731480497,
       "missedPrice": 199.99,
       "missedImg": true,
-      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 20)",
-      "auctionCode": "0019797058",
-      "source": "gha"
+      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+      "auctionCode": "0019859070",
+      "source": "gha",
+      "lastAir": 1788731480497,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8572398": {
       "sku": "8572398",
@@ -310063,8 +310069,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788731436220,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331283,11 +331289,22 @@
         "followingSku": "7615929",
         "followingTitle": "Wedding Band Ring in 9K Yellow Gold",
         "followingAuctionCode": "0019860572"
+      },
+      {
+        "start": 1788731436220,
+        "end": 1788731480497,
+        "durationMin": 0.7,
+        "precedingSku": "7615929",
+        "precedingTitle": "Wedding Band Ring in 9K Yellow Gold",
+        "precedingAuctionCode": "0019860572",
+        "followingSku": "8698756",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+        "followingAuctionCode": "0019859070"
       }
     ],
-    "lastOnAirSku": "7615929",
-    "lastOnAirTitle": "Wedding Band Ring in 9K Yellow Gold",
-    "lastOnAirAuctionCode": "0019860572",
+    "lastOnAirSku": "8698756",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+    "lastOnAirAuctionCode": "0019859070",
     "precedingSku": "7615929",
     "precedingTitle": "Wedding Band Ring in 9K Yellow Gold",
     "precedingAuctionCode": "0019860572"
