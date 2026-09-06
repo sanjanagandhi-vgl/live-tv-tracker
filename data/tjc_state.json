@@ -5730,18 +5730,18 @@
       "sku": "8580175",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "08:14:22",
+      "date": "2026-09-06",
+      "time": "04:15:36",
       "preExisting": true,
       "missedAt": 1784902702945,
       "missedDelay": null,
-      "lastUpdated": 1786691662522,
+      "lastUpdated": 1788664536120,
       "missedPrice": 39.99,
       "missedImg": true,
       "title": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
-      "auctionCode": "0019820263",
+      "auctionCode": "0019858325",
       "source": "gha",
-      "lastAir": 1786691662522,
+      "lastAir": 1788664536120,
       "pdpPrice": "19.99",
       "buy": true,
       "login": false,
@@ -305222,8 +305222,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788664463209,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325463,11 +325463,22 @@
         "followingSku": "8611230",
         "followingTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
         "followingAuctionCode": "0019858137"
+      },
+      {
+        "start": 1788664463209,
+        "end": 1788664536120,
+        "durationMin": 1.2,
+        "precedingSku": "8611230",
+        "precedingTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
+        "precedingAuctionCode": "0019858137",
+        "followingSku": "8580175",
+        "followingTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
+        "followingAuctionCode": "0019858325"
       }
     ],
-    "lastOnAirSku": "8611230",
-    "lastOnAirTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
-    "lastOnAirAuctionCode": "0019858137",
+    "lastOnAirSku": "8580175",
+    "lastOnAirTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
+    "lastOnAirAuctionCode": "0019858325",
     "precedingSku": "8611230",
     "precedingTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
     "precedingAuctionCode": "0019858137"
