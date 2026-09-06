@@ -264771,21 +264771,26 @@
       "sku": "8611230",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-29",
-      "time": "10:14:22",
+      "date": "2026-09-06",
+      "time": "04:04:23",
       "preExisting": true,
       "missedAt": 1787994862708,
       "missedDelay": null,
-      "lastUpdated": 1787994862708,
+      "lastUpdated": 1788663863238,
       "missedPrice": 399.99,
       "missedImg": true,
       "title": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
-      "auctionCode": "0019849410",
+      "auctionCode": "0019858137",
       "source": "gha",
       "productUrl": "/products/william-hunt-dragon-skeleton-miyota-6t15-automatic-mechanical-japan-movement-5atm-wr-mop-dragon-emboss-dial-ips-plating-316-stainless-steel-case-mens-watch-with-leather-strap-2968548683",
       "productUrlChecked": 1787994865823,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788663863238,
+      "pdpPrice": "6321.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8636908": {
       "sku": "8636908",
@@ -305217,8 +305222,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788663798522,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325447,11 +325452,22 @@
         "followingSku": "8499958",
         "followingTitle": "William Hunt Limited Edition Hand Assembled Type A Natural Jadeite Automatic 5ATM WR 3D Horse Pattern Dial Unisex Watch 90.10 Ct (43MM Case)",
         "followingAuctionCode": "0019858134"
+      },
+      {
+        "start": 1788663798522,
+        "end": 1788663863238,
+        "durationMin": 1.1,
+        "precedingSku": "8482788",
+        "precedingTitle": "WILLIAM HUNT Limited Edition Japanese Miyota Movement 3ATM Water Resistant Watch With Genuine Leather Strap & Presentation Box - Green",
+        "precedingAuctionCode": "0019858141",
+        "followingSku": "8611230",
+        "followingTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
+        "followingAuctionCode": "0019858137"
       }
     ],
-    "lastOnAirSku": "8482788",
-    "lastOnAirTitle": "WILLIAM HUNT Limited Edition Japanese Miyota Movement 3ATM Water Resistant Watch With Genuine Leather Strap & Presentation Box - Green",
-    "lastOnAirAuctionCode": "0019858141",
+    "lastOnAirSku": "8611230",
+    "lastOnAirTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Blue Leather Strap",
+    "lastOnAirAuctionCode": "0019858137",
     "precedingSku": "8482788",
     "precedingTitle": "WILLIAM HUNT Limited Edition Japanese Miyota Movement 3ATM Water Resistant Watch With Genuine Leather Strap & Presentation Box - Green",
     "precedingAuctionCode": "0019858141"
