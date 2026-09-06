@@ -305141,11 +305141,29 @@
       "productUrl": null,
       "lastUpdated": 1788657679353,
       "source": "gha"
+    },
+    "8363241": {
+      "sku": "8363241",
+      "firstAir": 1788658159590,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788658159590,
+      "title": "Crystal Shell Turtle Table Ornament with Internal LED Light (12cm) - Smoky",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019857606",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "02:29:19",
+      "productUrl": null,
+      "lastUpdated": 1788658159590,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788658038593,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325242,11 +325260,22 @@
         "followingSku": "8201331",
         "followingTitle": "LIVMORE Handcrafted 150 Lapis Lazuli Gemstone Bonsai Feng Shui Tree (30.48 cm) - Blue",
         "followingAuctionCode": "0019857603"
+      },
+      {
+        "start": 1788658038593,
+        "end": 1788658159590,
+        "durationMin": 2.0,
+        "precedingSku": "8258222",
+        "precedingTitle": "Luxuriant Lab Grown (SI G-H) Diamond Pen, 925 Silver,  9g, Roller Ballpoint Pen with 1 Extra Refill.",
+        "precedingAuctionCode": "0019857604",
+        "followingSku": "8363241",
+        "followingTitle": "Crystal Shell Turtle Table Ornament with Internal LED Light (12cm) - Smoky",
+        "followingAuctionCode": "0019857606"
       }
     ],
-    "lastOnAirSku": "8258222",
-    "lastOnAirTitle": "Luxuriant Lab Grown (SI G-H) Diamond Pen, 925 Silver,  9g, Roller Ballpoint Pen with 1 Extra Refill.",
-    "lastOnAirAuctionCode": "0019857604",
+    "lastOnAirSku": "8363241",
+    "lastOnAirTitle": "Crystal Shell Turtle Table Ornament with Internal LED Light (12cm) - Smoky",
+    "lastOnAirAuctionCode": "0019857606",
     "precedingSku": "8258222",
     "precedingTitle": "Luxuriant Lab Grown (SI G-H) Diamond Pen, 925 Silver,  9g, Roller Ballpoint Pen with 1 Extra Refill.",
     "precedingAuctionCode": "0019857604"
