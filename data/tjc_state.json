@@ -23820,19 +23820,19 @@
       "sku": "8600605",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-30",
-      "time": "14:56:21",
+      "date": "2026-09-06",
+      "time": "04:46:23",
       "preExisting": true,
       "missedAt": 1785388102705,
       "missedDelay": null,
-      "lastUpdated": 1788098181778,
+      "lastUpdated": 1788666383226,
       "missedPrice": 249.99,
       "missedImg": true,
       "title": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Bracelet (Size - 7.5), Silver Wt. 27.70 Gms",
-      "auctionCode": "0019849217",
+      "auctionCode": "0019858347",
       "source": "gha",
-      "lastAir": 1788098181778,
-      "pdpPrice": 199.99,
+      "lastAir": 1788666383226,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -305395,8 +305395,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788666338090,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325724,11 +325724,22 @@
         "followingSku": "8599246",
         "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Pendant",
         "followingAuctionCode": "0019858345"
+      },
+      {
+        "start": 1788666338090,
+        "end": 1788666383226,
+        "durationMin": 0.8,
+        "precedingSku": "8599246",
+        "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Pendant",
+        "precedingAuctionCode": "0019858345",
+        "followingSku": "8600605",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Bracelet (Size - 7.5), Silver Wt. 27.70 Gms",
+        "followingAuctionCode": "0019858347"
       }
     ],
-    "lastOnAirSku": "8599246",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Pendant",
-    "lastOnAirAuctionCode": "0019858345",
+    "lastOnAirSku": "8600605",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Bracelet (Size - 7.5), Silver Wt. 27.70 Gms",
+    "lastOnAirAuctionCode": "0019858347",
     "precedingSku": "8599246",
     "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Pendant",
     "precedingAuctionCode": "0019858345"
