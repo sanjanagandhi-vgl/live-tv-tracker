@@ -7911,16 +7911,16 @@
       "firstAir": 1784949275605,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787437701088,
+      "lastAir": 1788667158132,
       "title": "Royal Bali Collection - D'Joy Sterling Silver Tulangnaga Necklace (Size - 30) with Lobster Clasp",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019836585",
+      "pdpPrice": "159.99",
+      "auctionCode": "0019858151",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "time": "23:28:21",
-      "lastUpdated": 1787437701088,
+      "date": "2026-09-06",
+      "time": "04:59:18",
+      "lastUpdated": 1788667158132,
       "source": "gha",
       "missedAt": 1784949635602,
       "missedDelay": 1,
@@ -305482,8 +305482,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788667102048,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325833,11 +325833,22 @@
         "followingSku": "8601532",
         "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Necklace (Size - 20)",
         "followingAuctionCode": "0019858352"
+      },
+      {
+        "start": 1788667102048,
+        "end": 1788667158132,
+        "durationMin": 0.9,
+        "precedingSku": "8601532",
+        "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Necklace (Size - 20)",
+        "precedingAuctionCode": "0019858352",
+        "followingSku": "8599329",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tulangnaga Necklace (Size - 30) with Lobster Clasp",
+        "followingAuctionCode": "0019858151"
       }
     ],
-    "lastOnAirSku": "8601532",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019858352",
+    "lastOnAirSku": "8599329",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Tulangnaga Necklace (Size - 30) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019858151",
     "precedingSku": "8601532",
     "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Necklace (Size - 20)",
     "precedingAuctionCode": "0019858352"
