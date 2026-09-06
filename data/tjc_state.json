@@ -81224,17 +81224,17 @@
       "firstAir": 1785974661826,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788089062698,
+      "lastAir": 1788668598235,
       "title": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
-      "pdpPrice": 249.99,
-      "auctionCode": "0019845781",
-      "buy": false,
+      "pdpPrice": "399.99",
+      "auctionCode": "0019858353",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-30",
-      "time": "12:24:22",
+      "date": "2026-09-06",
+      "time": "05:23:18",
       "productUrl": "/products/luxoro-9k-yellow-gold-floral-band-spinner-ring-m8510534?variant=53191760412938",
-      "lastUpdated": 1788089062698,
+      "lastUpdated": 1788668598235,
       "source": "gha",
       "missedAt": 1785975637574,
       "missedDelay": 9,
@@ -305500,8 +305500,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788668544122,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325884,11 +325884,22 @@
         "followingSku": "8764489",
         "followingTitle": "Luxoro 9K Yellow Gold Bracelet (Size - 7.5), Gold Wt.11.28 Gms",
         "followingAuctionCode": "0019858331"
+      },
+      {
+        "start": 1788668544122,
+        "end": 1788668598235,
+        "durationMin": 0.9,
+        "precedingSku": "8764489",
+        "precedingTitle": "Luxoro 9K Yellow Gold Bracelet (Size - 7.5), Gold Wt.11.28 Gms",
+        "precedingAuctionCode": "0019858331",
+        "followingSku": "8510534",
+        "followingTitle": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
+        "followingAuctionCode": "0019858353"
       }
     ],
-    "lastOnAirSku": "8764489",
-    "lastOnAirTitle": "Luxoro 9K Yellow Gold Bracelet (Size - 7.5), Gold Wt.11.28 Gms",
-    "lastOnAirAuctionCode": "0019858331",
+    "lastOnAirSku": "8510534",
+    "lastOnAirTitle": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
+    "lastOnAirAuctionCode": "0019858353",
     "precedingSku": "8764489",
     "precedingTitle": "Luxoro 9K Yellow Gold Bracelet (Size - 7.5), Gold Wt.11.28 Gms",
     "precedingAuctionCode": "0019858331"
