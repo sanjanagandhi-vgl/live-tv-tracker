@@ -307794,11 +307794,29 @@
       "productUrl": null,
       "lastUpdated": 1788698966064,
       "source": "gha"
+    },
+    "8666733": {
+      "sku": "8666733",
+      "firstAir": 1788699079187,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788699079187,
+      "title": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Bracelet (Size - 7-1 Ext) Weight 6.10 Grams",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019859741",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-06",
+      "time": "13:51:19",
+      "productUrl": null,
+      "lastUpdated": 1788699079187,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788699036369,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -328643,11 +328661,22 @@
         "followingSku": "8666669",
         "followingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
         "followingAuctionCode": "0019859740"
+      },
+      {
+        "start": 1788699036369,
+        "end": 1788699079187,
+        "durationMin": 0.7,
+        "precedingSku": "8666669",
+        "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
+        "precedingAuctionCode": "0019859740",
+        "followingSku": "8666733",
+        "followingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Bracelet (Size - 7-1 Ext) Weight 6.10 Grams",
+        "followingAuctionCode": "0019859741"
       }
     ],
-    "lastOnAirSku": "8666669",
-    "lastOnAirTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
-    "lastOnAirAuctionCode": "0019859740",
+    "lastOnAirSku": "8666733",
+    "lastOnAirTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Bracelet (Size - 7-1 Ext) Weight 6.10 Grams",
+    "lastOnAirAuctionCode": "0019859741",
     "precedingSku": "8666669",
     "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
     "precedingAuctionCode": "0019859740"
