@@ -14798,16 +14798,16 @@
       "firstAir": 1785084439537,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787178799193,
+      "lastAir": 1788730039836,
       "title": "Maestro Collection - 9K Yellow Gold Greek Key Stretchable Bracelet (Size - 7-10 inch)",
-      "pdpPrice": "349.99",
-      "auctionCode": "0019830878",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019860579",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "23:33:19",
-      "lastUpdated": 1787178799193,
+      "date": "2026-09-06",
+      "time": "22:27:19",
+      "lastUpdated": 1788730039836,
       "source": "gha",
       "missedAt": 1785085398558,
       "missedDelay": 1,
@@ -310038,8 +310038,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788729982614,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331225,11 +331225,22 @@
         "followingSku": "8597036",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
         "followingAuctionCode": "0019859032"
+      },
+      {
+        "start": 1788729982614,
+        "end": 1788730039836,
+        "durationMin": 1.0,
+        "precedingSku": "8588272",
+        "precedingTitle": "9K Yellow Gold Hoop Earring",
+        "precedingAuctionCode": "0019860567",
+        "followingSku": "8588632",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Greek Key Stretchable Bracelet (Size - 7-10 inch)",
+        "followingAuctionCode": "0019860579"
       }
     ],
-    "lastOnAirSku": "8588272",
-    "lastOnAirTitle": "9K Yellow Gold Hoop Earring",
-    "lastOnAirAuctionCode": "0019860567",
+    "lastOnAirSku": "8588632",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Greek Key Stretchable Bracelet (Size - 7-10 inch)",
+    "lastOnAirAuctionCode": "0019860579",
     "precedingSku": "8588272",
     "precedingTitle": "9K Yellow Gold Hoop Earring",
     "precedingAuctionCode": "0019860567"
