@@ -305255,11 +305255,29 @@
       "productUrl": null,
       "lastUpdated": 1788665131865,
       "source": "gha"
+    },
+    "8599075": {
+      "sku": "8599075",
+      "firstAir": 1788665239308,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788665239308,
+      "title": "Royal Bali Collection - D'Joy Sterling Silver Turtle Earring with Hook",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019858335",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-06",
+      "time": "04:27:19",
+      "productUrl": null,
+      "lastUpdated": 1788665239308,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788665182632,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325532,11 +325550,22 @@
         "followingSku": "4461813",
         "followingTitle": "Royal Bali Collection - Kechak Dance Inspired - Hessonite Garnet Sterling Silver Pendant with Chain (Size 20) 1.50 Ct.",
         "followingAuctionCode": "0019858148"
+      },
+      {
+        "start": 1788665182632,
+        "end": 1788665239308,
+        "durationMin": 0.9,
+        "precedingSku": "7750124",
+        "precedingTitle": "Royal Bali Collection - Sterling Silver Cuff Bangle (Size 7.5) in 18K Yellow Gold & Silver Plated 30 Gms",
+        "precedingAuctionCode": "0019858161",
+        "followingSku": "8599075",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Turtle Earring with Hook",
+        "followingAuctionCode": "0019858335"
       }
     ],
-    "lastOnAirSku": "7750124",
-    "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Cuff Bangle (Size 7.5) in 18K Yellow Gold & Silver Plated 30 Gms",
-    "lastOnAirAuctionCode": "0019858161",
+    "lastOnAirSku": "8599075",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Turtle Earring with Hook",
+    "lastOnAirAuctionCode": "0019858335",
     "precedingSku": "7750124",
     "precedingTitle": "Royal Bali Collection - Sterling Silver Cuff Bangle (Size 7.5) in 18K Yellow Gold & Silver Plated 30 Gms",
     "precedingAuctionCode": "0019858161"
