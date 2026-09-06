@@ -309379,9 +309379,16 @@
       "img": true,
       "date": "2026-09-06",
       "time": "17:29:19",
-      "productUrl": null,
-      "lastUpdated": 1788712159502,
-      "source": "gha"
+      "productUrl": "/products/djoy-blue-turquoise-white-zircon-main-stones-with-stone-neckalce-size-20-in-rhodium-overlaysterling-silver-2-285-ct-8683938",
+      "lastUpdated": 1788712757653,
+      "source": "gha",
+      "missedAt": 1788712757653,
+      "missedDelay": 10,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "productUrlChecked": 1788712760171,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8683395": {
       "sku": "8683395",
@@ -309566,8 +309573,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788712757653,
     "gaps": [
       {
         "start": 1785823527869,
@@ -330571,8 +330578,8 @@
     "lastOnAirSku": "8683395",
     "lastOnAirTitle": "D'Joy - Natural Sleeping Beauty Turquoise Solitaire Stud Earring with Push Back in Yellow Gold Pl...",
     "lastOnAirAuctionCode": "0019858557",
-    "precedingSku": "8683938",
-    "precedingTitle": "D'Joy - Natural Sleeping Beauty Turquoise & White Zircon Angel Wings Neckalce (Size - 20) in Rhodium Overlay Sterling Silver 2.28 Ct.",
-    "precedingAuctionCode": "0019858558"
+    "precedingSku": "8683395",
+    "precedingTitle": "D'Joy - Natural Sleeping Beauty Turquoise Solitaire Stud Earring with Push Back in Yellow Gold Pl...",
+    "precedingAuctionCode": "0019858557"
   }
 }
