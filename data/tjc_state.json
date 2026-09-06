@@ -305582,11 +305582,29 @@
       "productUrlChecked": 1788672504273,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8499806": {
+      "sku": "8499806",
+      "firstAir": 1788681865715,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788681865715,
+      "title": "LIVMORE 7 Zone Memory Foam Lavander Infused Mattress (Size King Size 150x4 cm)",
+      "pdpPrice": "500.99",
+      "auctionCode": "0019859591",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-06",
+      "time": "09:04:25",
+      "productUrl": null,
+      "lastUpdated": 1788681865715,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788681558538,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -326156,11 +326174,22 @@
         "followingSku": "8528122",
         "followingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
         "followingAuctionCode": "0019857302"
+      },
+      {
+        "start": 1788681558538,
+        "end": 1788681865715,
+        "durationMin": 5.1,
+        "precedingSku": "8528122",
+        "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
+        "precedingAuctionCode": "0019857302",
+        "followingSku": "8499806",
+        "followingTitle": "LIVMORE 7 Zone Memory Foam Lavander Infused Mattress (Size King Size 150x4 cm)",
+        "followingAuctionCode": "0019859591"
       }
     ],
-    "lastOnAirSku": "8528122",
-    "lastOnAirTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
-    "lastOnAirAuctionCode": "0019857302",
+    "lastOnAirSku": "8499806",
+    "lastOnAirTitle": "LIVMORE 7 Zone Memory Foam Lavander Infused Mattress (Size King Size 150x4 cm)",
+    "lastOnAirAuctionCode": "0019859591",
     "precedingSku": "8528122",
     "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
     "precedingAuctionCode": "0019857302"
