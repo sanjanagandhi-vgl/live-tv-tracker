@@ -305034,11 +305034,29 @@
       "productUrl": null,
       "lastUpdated": 1788657143908,
       "source": "gha"
+    },
+    "8622550": {
+      "sku": "8622550",
+      "firstAir": 1788657262188,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788657262188,
+      "title": "Calvin Klein 23536s 035 - Ladies Cat Eye Black Sunglasses",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019857439",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-06",
+      "time": "02:14:22",
+      "productUrl": null,
+      "lastUpdated": 1788657262188,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788657200436,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325102,11 +325120,22 @@
         "followingSku": "8622536",
         "followingTitle": "Calvin Klein 23536s 605 - Ladies Cat Eye Sunglasses - Burgundy",
         "followingAuctionCode": "0019857438"
+      },
+      {
+        "start": 1788657200436,
+        "end": 1788657262188,
+        "durationMin": 1.0,
+        "precedingSku": "8622536",
+        "precedingTitle": "Calvin Klein 23536s 605 - Ladies Cat Eye Sunglasses - Burgundy",
+        "precedingAuctionCode": "0019857438",
+        "followingSku": "8622550",
+        "followingTitle": "Calvin Klein 23536s 035 - Ladies Cat Eye Black Sunglasses",
+        "followingAuctionCode": "0019857439"
       }
     ],
-    "lastOnAirSku": "8622536",
-    "lastOnAirTitle": "Calvin Klein 23536s 605 - Ladies Cat Eye Sunglasses - Burgundy",
-    "lastOnAirAuctionCode": "0019857438",
+    "lastOnAirSku": "8622550",
+    "lastOnAirTitle": "Calvin Klein 23536s 035 - Ladies Cat Eye Black Sunglasses",
+    "lastOnAirAuctionCode": "0019857439",
     "precedingSku": "8622536",
     "precedingTitle": "Calvin Klein 23536s 605 - Ladies Cat Eye Sunglasses - Burgundy",
     "precedingAuctionCode": "0019857438"
