@@ -305364,9 +305364,16 @@
       "img": true,
       "date": "2026-09-06",
       "time": "04:36:25",
-      "productUrl": null,
-      "lastUpdated": 1788665785066,
-      "source": "gha"
+      "productUrl": "/products/royal-bali-collection-djoy-sterling-silver-turtle-pendant-1568599122",
+      "lastUpdated": 1788666338090,
+      "source": "gha",
+      "missedAt": 1788666338090,
+      "missedDelay": 9,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1788666344225,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8599231": {
       "sku": "8599231",
@@ -305388,8 +305395,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788666338090,
     "gaps": [
       {
         "start": 1785823527869,
@@ -325722,8 +325729,8 @@
     "lastOnAirSku": "8599246",
     "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Pendant",
     "lastOnAirAuctionCode": "0019858345",
-    "precedingSku": "8599231",
-    "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Ring",
-    "precedingAuctionCode": "0019858339"
+    "precedingSku": "8599246",
+    "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Dragon Pendant",
+    "precedingAuctionCode": "0019858345"
   }
 }
