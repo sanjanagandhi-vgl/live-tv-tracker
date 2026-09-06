@@ -308414,11 +308414,29 @@
       "productUrl": null,
       "lastUpdated": 1788703528808,
       "source": "gha"
+    },
+    "8680862": {
+      "sku": "8680862",
+      "firstAir": 1788703704461,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788703704461,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019858631",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-06",
+      "time": "15:08:24",
+      "productUrl": null,
+      "lastUpdated": 1788703704461,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788703640636,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -329329,11 +329347,22 @@
         "followingSku": "8681871",
         "followingTitle": "D'Joy - Natural Blue Turquoise, White Zircon & Neon Apatite Halo Ring in Rhodium Overlay Sterling Silver 1.90 Ct.",
         "followingAuctionCode": "0019858600"
+      },
+      {
+        "start": 1788703640636,
+        "end": 1788703704461,
+        "durationMin": 1.1,
+        "precedingSku": "8683398",
+        "precedingTitle": "D'Joy - Natural Sleeping Beauty Turquoise Solitaire Ring in Platinum Overlay Sterling Silver 1.10 Ct.",
+        "precedingAuctionCode": "0019858578",
+        "followingSku": "8680862",
+        "followingTitle": null,
+        "followingAuctionCode": "0019858631"
       }
     ],
-    "lastOnAirSku": "8683398",
-    "lastOnAirTitle": "D'Joy - Natural Sleeping Beauty Turquoise Solitaire Ring in Platinum Overlay Sterling Silver 1.10 Ct.",
-    "lastOnAirAuctionCode": "0019858578",
+    "lastOnAirSku": "8680862",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019858631",
     "precedingSku": "8683398",
     "precedingTitle": "D'Joy - Natural Sleeping Beauty Turquoise Solitaire Ring in Platinum Overlay Sterling Silver 1.10 Ct.",
     "precedingAuctionCode": "0019858578"
