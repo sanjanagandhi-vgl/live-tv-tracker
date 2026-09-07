@@ -314290,11 +314290,29 @@
       "productUrl": null,
       "lastUpdated": 1788815664698,
       "source": "gha"
+    },
+    "4412564": {
+      "sku": "4412564",
+      "firstAir": 1788815786793,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788815786793,
+      "title": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Pendant with Chain (Size 20) in Yellow Gold Tone",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019861178",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "22:16:26",
+      "productUrl": null,
+      "lastUpdated": 1788815786793,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788815745060,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -336459,11 +336477,22 @@
         "followingSku": "8677829",
         "followingTitle": "Natural Jasper Cross Pendant in Gold Tone 10.00 Ct.",
         "followingAuctionCode": "0019861165"
+      },
+      {
+        "start": 1788815745060,
+        "end": 1788815786793,
+        "durationMin": 0.7,
+        "precedingSku": "8677829",
+        "precedingTitle": "Natural Jasper Cross Pendant in Gold Tone 10.00 Ct.",
+        "precedingAuctionCode": "0019861165",
+        "followingSku": "4412564",
+        "followingTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Pendant with Chain (Size 20) in Yellow Gold Tone",
+        "followingAuctionCode": "0019861178"
       }
     ],
-    "lastOnAirSku": "8677829",
-    "lastOnAirTitle": "Natural Jasper Cross Pendant in Gold Tone 10.00 Ct.",
-    "lastOnAirAuctionCode": "0019861165",
+    "lastOnAirSku": "4412564",
+    "lastOnAirTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Pendant with Chain (Size 20) in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019861178",
     "precedingSku": "8677829",
     "precedingTitle": "Natural Jasper Cross Pendant in Gold Tone 10.00 Ct.",
     "precedingAuctionCode": "0019861165"
