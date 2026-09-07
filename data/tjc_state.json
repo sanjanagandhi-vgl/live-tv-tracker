@@ -23270,19 +23270,19 @@
       "sku": "7840314",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-26",
-      "time": "03:51:19",
+      "date": "2026-09-07",
+      "time": "14:17:21",
       "preExisting": true,
       "missedAt": 1785376759573,
       "missedDelay": null,
-      "lastUpdated": 1787712679792,
+      "lastUpdated": 1788787041648,
       "missedPrice": 39.99,
       "missedImg": true,
       "title": "Opatra Peeling Gel - 60ml",
-      "auctionCode": "0019841113",
+      "auctionCode": "0019860698",
       "source": "gha",
-      "lastAir": 1787712679792,
-      "pdpPrice": "29.99",
+      "lastAir": 1788787041648,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -313233,8 +313233,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788786940675,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -335080,11 +335080,22 @@
         "followingSku": "8739964",
         "followingTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
         "followingAuctionCode": "0019860694"
+      },
+      {
+        "start": 1788786940675,
+        "end": 1788787041648,
+        "durationMin": 1.7,
+        "precedingSku": "8739964",
+        "precedingTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
+        "precedingAuctionCode": "0019860694",
+        "followingSku": "7840314",
+        "followingTitle": "Opatra Peeling Gel - 60ml",
+        "followingAuctionCode": "0019860698"
       }
     ],
-    "lastOnAirSku": "8739964",
-    "lastOnAirTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
-    "lastOnAirAuctionCode": "0019860694",
+    "lastOnAirSku": "7840314",
+    "lastOnAirTitle": "Opatra Peeling Gel - 60ml",
+    "lastOnAirAuctionCode": "0019860698",
     "precedingSku": "8739964",
     "precedingTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
     "precedingAuctionCode": "0019860694"
