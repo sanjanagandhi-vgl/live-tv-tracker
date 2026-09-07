@@ -8648,16 +8648,16 @@
       "firstAir": 1784961348169,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787270840473,
+      "lastAir": 1788744036612,
       "title": "La Bella Handmade Yellow Gold Plated Sterling Silver Curb Bracelet (Size - 7.5)",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019833544",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019859953",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-21",
-      "time": "01:07:20",
-      "lastUpdated": 1787270840473,
+      "date": "2026-09-07",
+      "time": "02:20:36",
+      "lastUpdated": 1788744036612,
       "source": "gha",
       "missedAt": 1784961678605,
       "missedDelay": 1,
@@ -310559,8 +310559,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788743963120,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331966,11 +331966,22 @@
         "followingSku": "8553015",
         "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
         "followingAuctionCode": "0019859941"
+      },
+      {
+        "start": 1788743963120,
+        "end": 1788744036612,
+        "durationMin": 1.2,
+        "precedingSku": "8620511",
+        "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019859946",
+        "followingSku": "8478741",
+        "followingTitle": "La Bella Handmade Yellow Gold Plated Sterling Silver Curb Bracelet (Size - 7.5)",
+        "followingAuctionCode": "0019859953"
       }
     ],
-    "lastOnAirSku": "8620511",
-    "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019859946",
+    "lastOnAirSku": "8478741",
+    "lastOnAirTitle": "La Bella Handmade Yellow Gold Plated Sterling Silver Curb Bracelet (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019859953",
     "precedingSku": "8620511",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
     "precedingAuctionCode": "0019859946"
