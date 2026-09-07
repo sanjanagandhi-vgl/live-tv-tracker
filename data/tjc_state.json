@@ -311514,11 +311514,29 @@
       "productUrlChecked": 1788776664523,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8199621": {
+      "sku": "8199621",
+      "firstAir": 1788776727842,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788776727842,
+      "title": "Abalone Shell Adjustable Link Bracelet (Size - 8.5-2 Ext) 150.00 Ct.",
+      "pdpPrice": "819.99",
+      "auctionCode": "0019860415",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "11:25:27",
+      "productUrl": null,
+      "lastUpdated": 1788776727842,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788776662241,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -333221,11 +333239,22 @@
         "followingSku": "8678129",
         "followingTitle": "Multi Color Keshi Pearl & White Fresh Water Pearl Beads Necklace (Size - 20-1 Ext) 25.00 Ct.",
         "followingAuctionCode": "0019860370"
+      },
+      {
+        "start": 1788776662241,
+        "end": 1788776727842,
+        "durationMin": 1.1,
+        "precedingSku": "8678129",
+        "precedingTitle": "Multi Color Keshi Pearl & White Fresh Water Pearl Beads Necklace (Size - 20-1 Ext) 25.00 Ct.",
+        "precedingAuctionCode": "0019860370",
+        "followingSku": "8199621",
+        "followingTitle": "Abalone Shell Adjustable Link Bracelet (Size - 8.5-2 Ext) 150.00 Ct.",
+        "followingAuctionCode": "0019860415"
       }
     ],
-    "lastOnAirSku": "8678129",
-    "lastOnAirTitle": "Multi Color Keshi Pearl & White Fresh Water Pearl Beads Necklace (Size - 20-1 Ext) 25.00 Ct.",
-    "lastOnAirAuctionCode": "0019860370",
+    "lastOnAirSku": "8199621",
+    "lastOnAirTitle": "Abalone Shell Adjustable Link Bracelet (Size - 8.5-2 Ext) 150.00 Ct.",
+    "lastOnAirAuctionCode": "0019860415",
     "precedingSku": "8678129",
     "precedingTitle": "Multi Color Keshi Pearl & White Fresh Water Pearl Beads Necklace (Size - 20-1 Ext) 25.00 Ct.",
     "precedingAuctionCode": "0019860370"
