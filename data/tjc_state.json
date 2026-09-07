@@ -313432,11 +313432,29 @@
       "productUrlChecked": 1788797749943,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8588508": {
+      "sku": "8588508",
+      "firstAir": 1788797841778,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788797841778,
+      "title": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019860974",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "17:17:21",
+      "productUrl": null,
+      "lastUpdated": 1788797841778,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788797782787,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -335392,11 +335410,22 @@
         "followingSku": "8500893",
         "followingTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
         "followingAuctionCode": "0019860968"
+      },
+      {
+        "start": 1788797782787,
+        "end": 1788797841778,
+        "durationMin": 1.0,
+        "precedingSku": "8588510",
+        "precedingTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
+        "precedingAuctionCode": "0019860972",
+        "followingSku": "8588508",
+        "followingTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
+        "followingAuctionCode": "0019860974"
       }
     ],
-    "lastOnAirSku": "8588510",
+    "lastOnAirSku": "8588508",
     "lastOnAirTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
-    "lastOnAirAuctionCode": "0019860972",
+    "lastOnAirAuctionCode": "0019860974",
     "precedingSku": "8588510",
     "precedingTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
     "precedingAuctionCode": "0019860972"
