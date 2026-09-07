@@ -311607,11 +311607,29 @@
       "productUrl": null,
       "lastUpdated": 1788777742594,
       "source": "gha"
+    },
+    "8570575": {
+      "sku": "8570575",
+      "firstAir": 1788777861558,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788777861558,
+      "title": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019860753",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "11:44:21",
+      "productUrl": null,
+      "lastUpdated": 1788777861558,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788777798230,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -333336,11 +333354,22 @@
         "followingSku": "8542591",
         "followingTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
         "followingAuctionCode": "0019860737"
+      },
+      {
+        "start": 1788777798230,
+        "end": 1788777861558,
+        "durationMin": 1.1,
+        "precedingSku": "8542591",
+        "precedingTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
+        "precedingAuctionCode": "0019860737",
+        "followingSku": "8570575",
+        "followingTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
+        "followingAuctionCode": "0019860753"
       }
     ],
-    "lastOnAirSku": "8542591",
+    "lastOnAirSku": "8570575",
     "lastOnAirTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
-    "lastOnAirAuctionCode": "0019860737",
+    "lastOnAirAuctionCode": "0019860753",
     "precedingSku": "8542591",
     "precedingTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
     "precedingAuctionCode": "0019860737"
