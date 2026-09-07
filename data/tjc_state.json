@@ -1891,22 +1891,22 @@
       "sku": "8637949",
       "tvPrice": "",
       "remarks": "",
-      "time": "20:20:38",
+      "time": "21:19:20",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 3999.99,
       "missedImg": false,
       "title": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
-      "auctionCode": "0019851777",
+      "auctionCode": "0019860517",
       "source": "gha",
-      "lastAir": 1788117638926,
-      "pdpPrice": "3999.99",
+      "lastAir": 1788812360412,
+      "pdpPrice": "42799.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-30",
-      "lastUpdated": 1788117638926,
+      "date": "2026-09-07",
+      "lastUpdated": 1788812360412,
       "productUrl": null
     },
     "8657969": {
@@ -314254,8 +314254,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788812303704,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -336365,11 +336365,22 @@
         "followingSku": "8757585",
         "followingTitle": "The Royal Asscher Cut Collection - 9K Yellow Gold AAA Turkizite Solitaire Earrings with Push Backs 2.50 Ct.",
         "followingAuctionCode": "0019860485"
+      },
+      {
+        "start": 1788812303704,
+        "end": 1788812360412,
+        "durationMin": 0.9,
+        "precedingSku": "8757585",
+        "precedingTitle": "The Royal Asscher Cut Collection - 9K Yellow Gold AAA Turkizite Solitaire Earrings with Push Backs 2.50 Ct.",
+        "precedingAuctionCode": "0019860485",
+        "followingSku": "8637949",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+        "followingAuctionCode": "0019860517"
       }
     ],
-    "lastOnAirSku": "8757585",
-    "lastOnAirTitle": "The Royal Asscher Cut Collection - 9K Yellow Gold AAA Turkizite Solitaire Earrings with Push Backs 2.50 Ct.",
-    "lastOnAirAuctionCode": "0019860485",
+    "lastOnAirSku": "8637949",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Natural Turkizite Royal Asscher Cut Solitaire Ring 10.00 Ct, Platinum Wt. 7.80 Gms",
+    "lastOnAirAuctionCode": "0019860517",
     "precedingSku": "8757585",
     "precedingTitle": "The Royal Asscher Cut Collection - 9K Yellow Gold AAA Turkizite Solitaire Earrings with Push Backs 2.50 Ct.",
     "precedingAuctionCode": "0019860485"
