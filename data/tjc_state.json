@@ -85730,17 +85730,17 @@
       "firstAir": 1786004901716,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786004958945,
+      "lastAir": 1788764239180,
       "title": "Pure And Natural Classic Cape With Belt",
-      "pdpPrice": "24.99",
-      "auctionCode": "0019806788",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019859405",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-06",
-      "time": "09:29:18",
+      "date": "2026-09-07",
+      "time": "07:57:19",
       "productUrl": "/products/pure-and-natural-classic-cape-with-belt-2908287288",
-      "lastUpdated": 1786005558821,
+      "lastUpdated": 1788764239180,
       "source": "gha",
       "missedAt": 1786005558821,
       "missedDelay": 10,
@@ -311275,8 +311275,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788764183409,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332869,11 +332869,22 @@
         "followingSku": "8636433",
         "followingTitle": "La Marey Womens Casual Batwing Sleeve Open Front Knit Cardigan (One Size, 10-22) - Chocolate",
         "followingAuctionCode": "0019859365"
+      },
+      {
+        "start": 1788764183409,
+        "end": 1788764239180,
+        "durationMin": 0.9,
+        "precedingSku": "8589603",
+        "precedingTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
+        "precedingAuctionCode": "0019859396",
+        "followingSku": "8287288",
+        "followingTitle": "Pure And Natural Classic Cape With Belt",
+        "followingAuctionCode": "0019859405"
       }
     ],
-    "lastOnAirSku": "8589603",
-    "lastOnAirTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
-    "lastOnAirAuctionCode": "0019859396",
+    "lastOnAirSku": "8287288",
+    "lastOnAirTitle": "Pure And Natural Classic Cape With Belt",
+    "lastOnAirAuctionCode": "0019859405",
     "precedingSku": "8589603",
     "precedingTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
     "precedingAuctionCode": "0019859396"
