@@ -315172,9 +315172,16 @@
       "img": true,
       "date": "2026-09-08",
       "time": "00:40:38",
-      "productUrl": null,
-      "lastUpdated": 1788824438126,
-      "source": "gha"
+      "productUrl": "/products/natural-white-jade-beads-pixiu-charms-bracelet",
+      "lastUpdated": 1788824960904,
+      "source": "gha",
+      "missedAt": 1788824960904,
+      "missedDelay": 9,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1788824967624,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8594502": {
       "sku": "8594502",
@@ -315291,6 +315298,44 @@
       "productUrl": null,
       "lastUpdated": 1788824902598,
       "source": "gha"
+    },
+    "8343309": {
+      "sku": "8343309",
+      "firstAir": 1788824960904,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788824960904,
+      "title": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019861346",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "00:49:20",
+      "productUrl": null,
+      "lastUpdated": 1788824960904,
+      "source": "gha"
+    },
+    "8329744": {
+      "sku": "8329744",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-08",
+      "time": "00:49:20",
+      "preExisting": true,
+      "missedAt": 1788824960904,
+      "missedDelay": null,
+      "lastUpdated": 1788824960904,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Natural White Jade Beads & Pixiu Charms Genuine Leather Bracelet (Size 8) in Yellow Gold Plated 50.00 Ct.",
+      "auctionCode": "0019861375",
+      "source": "gha",
+      "productUrl": "/products/natural-white-jade-beads-pixiu-charms-bracelet",
+      "productUrlChecked": 1788824967864,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -337605,9 +337650,9 @@
         "followingAuctionCode": "0019861344"
       }
     ],
-    "lastOnAirSku": "8343307",
+    "lastOnAirSku": "8343309",
     "lastOnAirTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
-    "lastOnAirAuctionCode": "0019861345",
+    "lastOnAirAuctionCode": "0019861346",
     "precedingSku": "8329743",
     "precedingTitle": "Natural White Jade Beads & Pixiu Charms Bracelet",
     "precedingAuctionCode": "0019861339"
