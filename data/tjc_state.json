@@ -310143,17 +310143,17 @@
       "firstAir": 1788732557749,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788733582289,
+      "lastAir": 1788746360364,
       "title": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
       "pdpPrice": "999.99",
-      "auctionCode": "0019859029",
+      "auctionCode": "0019860633",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-06",
-      "time": "23:26:22",
+      "date": "2026-09-07",
+      "time": "02:59:20",
       "productUrl": "/products/18k-yellow-gold-necklace-size-20-gold-wt-4-50-gms-8750389",
-      "lastUpdated": 1788734184685,
+      "lastUpdated": 1788746360364,
       "source": "gha",
       "missedAt": 1788734184685,
       "missedDelay": 10,
@@ -310757,8 +310757,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788746301778,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332208,11 +332208,22 @@
         "followingSku": "8620515",
         "followingTitle": "Sterling Silver Lattice Earring with Clasp",
         "followingAuctionCode": "0019859947"
+      },
+      {
+        "start": 1788746301778,
+        "end": 1788746360364,
+        "durationMin": 1.0,
+        "precedingSku": "8620515",
+        "precedingTitle": "Sterling Silver Lattice Earring with Clasp",
+        "precedingAuctionCode": "0019859947",
+        "followingSku": "8750389",
+        "followingTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
+        "followingAuctionCode": "0019860633"
       }
     ],
-    "lastOnAirSku": "8620515",
-    "lastOnAirTitle": "Sterling Silver Lattice Earring with Clasp",
-    "lastOnAirAuctionCode": "0019859947",
+    "lastOnAirSku": "8750389",
+    "lastOnAirTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019860633",
     "precedingSku": "8620515",
     "precedingTitle": "Sterling Silver Lattice Earring with Clasp",
     "precedingAuctionCode": "0019859947"
