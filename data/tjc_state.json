@@ -310736,11 +310736,29 @@
       "productUrlChecked": 1788746071178,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8620515": {
+      "sku": "8620515",
+      "firstAir": 1788746182265,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788746182265,
+      "title": "Sterling Silver Lattice Earring with Clasp",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019859947",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "02:56:22",
+      "productUrl": null,
+      "lastUpdated": 1788746182265,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788746062654,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332179,11 +332197,22 @@
         "followingSku": "8646064",
         "followingTitle": "OTO- Sterling Silver Diamond Cut Band Ring",
         "followingAuctionCode": "0019859956"
+      },
+      {
+        "start": 1788746062654,
+        "end": 1788746182265,
+        "durationMin": 2.0,
+        "precedingSku": "8673727",
+        "precedingTitle": "Italian Made Sterling Silver  Necklace (Size - 16)",
+        "precedingAuctionCode": "0019859982",
+        "followingSku": "8620515",
+        "followingTitle": "Sterling Silver Lattice Earring with Clasp",
+        "followingAuctionCode": "0019859947"
       }
     ],
-    "lastOnAirSku": "8673727",
-    "lastOnAirTitle": "Italian Made Sterling Silver  Necklace (Size - 16)",
-    "lastOnAirAuctionCode": "0019859982",
+    "lastOnAirSku": "8620515",
+    "lastOnAirTitle": "Sterling Silver Lattice Earring with Clasp",
+    "lastOnAirAuctionCode": "0019859947",
     "precedingSku": "8673727",
     "precedingTitle": "Italian Made Sterling Silver  Necklace (Size - 16)",
     "precedingAuctionCode": "0019859982"
