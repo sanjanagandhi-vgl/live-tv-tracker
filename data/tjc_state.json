@@ -311561,9 +311561,16 @@
       "img": false,
       "date": "2026-09-07",
       "time": "11:33:25",
-      "productUrl": null,
-      "lastUpdated": 1788777205357,
-      "source": "gha"
+      "productUrl": "/products/amber-sterling-silver-push-back-earring-2-00-ct",
+      "lastUpdated": 1788777798230,
+      "source": "gha",
+      "missedAt": 1788777798230,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": false,
+      "productUrlChecked": 1788777801002,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8542522": {
       "sku": "8542522",
@@ -311603,8 +311610,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788777798230,
     "gaps": [
       {
         "start": 1785823527869,
@@ -333334,8 +333341,8 @@
     "lastOnAirSku": "8542591",
     "lastOnAirTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
     "lastOnAirAuctionCode": "0019860737",
-    "precedingSku": "8542522",
+    "precedingSku": "8542591",
     "precedingTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
-    "precedingAuctionCode": "0019860711"
+    "precedingAuctionCode": "0019860737"
   }
 }
