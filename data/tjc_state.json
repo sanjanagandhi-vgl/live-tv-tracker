@@ -314272,11 +314272,29 @@
       "productUrl": null,
       "lastUpdated": 1788815364657,
       "source": "gha"
+    },
+    "8677829": {
+      "sku": "8677829",
+      "firstAir": 1788815664698,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788815664698,
+      "title": "Natural Jasper Cross Pendant in Gold Tone 10.00 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019861165",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "22:14:24",
+      "productUrl": null,
+      "lastUpdated": 1788815664698,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788815601337,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -336430,11 +336448,22 @@
         "followingSku": "8705721",
         "followingTitle": "White Keshi Pearl, White Cubic Zirconia & White Fresh Water Pearl Drop Earring with Push Back",
         "followingAuctionCode": "0019861181"
+      },
+      {
+        "start": 1788815601337,
+        "end": 1788815664698,
+        "durationMin": 1.1,
+        "precedingSku": "8705721",
+        "precedingTitle": "White Keshi Pearl, White Cubic Zirconia & White Fresh Water Pearl Drop Earring with Push Back",
+        "precedingAuctionCode": "0019861181",
+        "followingSku": "8677829",
+        "followingTitle": "Natural Jasper Cross Pendant in Gold Tone 10.00 Ct.",
+        "followingAuctionCode": "0019861165"
       }
     ],
-    "lastOnAirSku": "8705721",
-    "lastOnAirTitle": "White Keshi Pearl, White Cubic Zirconia & White Fresh Water Pearl Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019861181",
+    "lastOnAirSku": "8677829",
+    "lastOnAirTitle": "Natural Jasper Cross Pendant in Gold Tone 10.00 Ct.",
+    "lastOnAirAuctionCode": "0019861165",
     "precedingSku": "8705721",
     "precedingTitle": "White Keshi Pearl, White Cubic Zirconia & White Fresh Water Pearl Drop Earring with Push Back",
     "precedingAuctionCode": "0019861181"
