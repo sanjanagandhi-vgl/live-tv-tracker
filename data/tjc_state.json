@@ -310702,9 +310702,16 @@
       "login": false,
       "date": "2026-09-07",
       "time": "02:45:35",
-      "productUrl": null,
-      "lastUpdated": 1788745535169,
-      "source": "gha-variant"
+      "productUrl": "/products/sterling-silver-band-ring-8646064",
+      "lastUpdated": 1788746062654,
+      "source": "gha-variant",
+      "missedAt": 1788746062654,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1788746070215,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8646073": {
       "sku": "8646073",
@@ -310719,14 +310726,21 @@
       "login": false,
       "date": "2026-09-07",
       "time": "02:45:35",
-      "productUrl": null,
-      "lastUpdated": 1788745535169,
-      "source": "gha-variant"
+      "productUrl": "/products/sterling-silver-band-ring-8646064",
+      "lastUpdated": 1788746062654,
+      "source": "gha-variant",
+      "missedAt": 1788746062654,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1788746071178,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788746062654,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332170,8 +332184,8 @@
     "lastOnAirSku": "8673727",
     "lastOnAirTitle": "Italian Made Sterling Silver  Necklace (Size - 16)",
     "lastOnAirAuctionCode": "0019859982",
-    "precedingSku": "7486423",
-    "precedingTitle": "Filigree Leaf Ring in Sterling Silver",
-    "precedingAuctionCode": "0019859987"
+    "precedingSku": "8673727",
+    "precedingTitle": "Italian Made Sterling Silver  Necklace (Size - 16)",
+    "precedingAuctionCode": "0019859982"
   }
 }
