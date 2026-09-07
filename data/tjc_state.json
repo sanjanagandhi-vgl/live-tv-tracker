@@ -22608,19 +22608,19 @@
       "sku": "8708127",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "12:41:20",
+      "date": "2026-09-07",
+      "time": "19:45:39",
       "preExisting": true,
       "missedAt": 1785353781475,
       "missedDelay": null,
-      "lastUpdated": 1786880480620,
+      "lastUpdated": 1788806739472,
       "missedPrice": 999.99,
       "missedImg": true,
       "title": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
-      "auctionCode": "0019824723",
+      "auctionCode": "0019861262",
       "source": "gha",
-      "lastAir": 1786880480620,
-      "pdpPrice": "999.99",
+      "lastAir": 1788806739472,
+      "pdpPrice": "9599.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -314089,8 +314089,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788806480452,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -336167,11 +336167,22 @@
         "followingSku": "4455129",
         "followingTitle": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
         "followingAuctionCode": "0019861259"
+      },
+      {
+        "start": 1788806480452,
+        "end": 1788806739472,
+        "durationMin": 4.3,
+        "precedingSku": "4455129",
+        "precedingTitle": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
+        "precedingAuctionCode": "0019861259",
+        "followingSku": "8708127",
+        "followingTitle": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
+        "followingAuctionCode": "0019861262"
       }
     ],
-    "lastOnAirSku": "4455129",
-    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
-    "lastOnAirAuctionCode": "0019861259",
+    "lastOnAirSku": "8708127",
+    "lastOnAirTitle": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
+    "lastOnAirAuctionCode": "0019861262",
     "precedingSku": "4455129",
     "precedingTitle": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
     "precedingAuctionCode": "0019861259"
