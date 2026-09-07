@@ -22586,19 +22586,19 @@
       "sku": "4455129",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-03",
-      "time": "05:30:49",
+      "date": "2026-09-07",
+      "time": "19:37:21",
       "preExisting": true,
       "missedAt": 1785351742519,
       "missedDelay": null,
-      "lastUpdated": 1788409849877,
+      "lastUpdated": 1788806241061,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
-      "auctionCode": "0019854079",
+      "auctionCode": "0019861259",
       "source": "gha",
-      "lastAir": 1788409849877,
-      "pdpPrice": "99.99",
+      "lastAir": 1788806241061,
+      "pdpPrice": "1199.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -314089,8 +314089,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788806184415,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -336156,11 +336156,22 @@
         "followingSku": "8480269",
         "followingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
         "followingAuctionCode": "0019861264"
+      },
+      {
+        "start": 1788806184415,
+        "end": 1788806241061,
+        "durationMin": 0.9,
+        "precedingSku": "8480269",
+        "precedingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
+        "precedingAuctionCode": "0019861264",
+        "followingSku": "4455129",
+        "followingTitle": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
+        "followingAuctionCode": "0019861259"
       }
     ],
-    "lastOnAirSku": "8480269",
-    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
-    "lastOnAirAuctionCode": "0019861264",
+    "lastOnAirSku": "4455129",
+    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver 0.36 Ct.",
+    "lastOnAirAuctionCode": "0019861259",
     "precedingSku": "8480269",
     "precedingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
     "precedingAuctionCode": "0019861264"
