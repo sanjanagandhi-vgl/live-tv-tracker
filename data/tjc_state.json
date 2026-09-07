@@ -314086,11 +314086,29 @@
       "productUrlChecked": 1788805247402,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8670046": {
+      "sku": "8670046",
+      "firstAir": 1788808237968,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788808237968,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019857009",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-07",
+      "time": "20:10:37",
+      "productUrl": null,
+      "lastUpdated": 1788808237968,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788807928831,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -336178,11 +336196,22 @@
         "followingSku": "8708127",
         "followingTitle": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
         "followingAuctionCode": "0019861262"
+      },
+      {
+        "start": 1788807928831,
+        "end": 1788808237968,
+        "durationMin": 5.2,
+        "precedingSku": "8708127",
+        "precedingTitle": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
+        "precedingAuctionCode": "0019861262",
+        "followingSku": "8670046",
+        "followingTitle": null,
+        "followingAuctionCode": "0019857009"
       }
     ],
-    "lastOnAirSku": "8708127",
-    "lastOnAirTitle": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
-    "lastOnAirAuctionCode": "0019861262",
+    "lastOnAirSku": "8670046",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019857009",
     "precedingSku": "8708127",
     "precedingTitle": "LIMITED EDITION - Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Station Necklace (Size - 20) in Rhodium Overlay Sterling Silver 5.00 Ct, Silver Wt. 22.00 Gms",
     "precedingAuctionCode": "0019861262"
