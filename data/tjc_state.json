@@ -313230,11 +313230,29 @@
       "auctionCode": "0019859155",
       "source": "gha",
       "productUrl": null
+    },
+    "221332009": {
+      "sku": "221332009",
+      "firstAir": 1788788339861,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788788339861,
+      "title": "SET OF 3 - Barrel Hair Curling Brush",
+      "pdpPrice": "29.97",
+      "auctionCode": "0019859779",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-07",
+      "time": "14:38:59",
+      "productUrl": null,
+      "lastUpdated": 1788788339861,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788788135924,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -335113,11 +335131,22 @@
         "followingSku": "8644034",
         "followingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
         "followingAuctionCode": "0019860697"
+      },
+      {
+        "start": 1788788135924,
+        "end": 1788788339861,
+        "durationMin": 3.4,
+        "precedingSku": "8644034",
+        "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
+        "precedingAuctionCode": "0019860697",
+        "followingSku": "221332009",
+        "followingTitle": "SET OF 3 - Barrel Hair Curling Brush",
+        "followingAuctionCode": "0019859779"
       }
     ],
-    "lastOnAirSku": "8644034",
-    "lastOnAirTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
-    "lastOnAirAuctionCode": "0019860697",
+    "lastOnAirSku": "221332009",
+    "lastOnAirTitle": "SET OF 3 - Barrel Hair Curling Brush",
+    "lastOnAirAuctionCode": "0019859779",
     "precedingSku": "8644034",
     "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
     "precedingAuctionCode": "0019860697"
