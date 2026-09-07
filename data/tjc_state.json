@@ -310508,11 +310508,29 @@
       "productUrlChecked": 1788742288687,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8620472": {
+      "sku": "8620472",
+      "firstAir": 1788743301912,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788743301912,
+      "title": "Sterling Silver Hoop Earring with Clasp",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019859945",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "02:08:21",
+      "productUrl": null,
+      "lastUpdated": 1788743301912,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788743237590,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331896,11 +331914,22 @@
         "followingSku": "8617742",
         "followingTitle": "Rare Find - AAAA Akoya Pearl Bracelet (Size - 7-1 Ext) in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019859535"
+      },
+      {
+        "start": 1788743237590,
+        "end": 1788743301912,
+        "durationMin": 1.1,
+        "precedingSku": "8335690",
+        "precedingTitle": "Close Out Deal - Sterling Silver Romy Chain with Spring Ring Clasp",
+        "precedingAuctionCode": "0019859952",
+        "followingSku": "8620472",
+        "followingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "followingAuctionCode": "0019859945"
       }
     ],
-    "lastOnAirSku": "8335690",
-    "lastOnAirTitle": "Close Out Deal - Sterling Silver Romy Chain with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019859952",
+    "lastOnAirSku": "8620472",
+    "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019859945",
     "precedingSku": "8335690",
     "precedingTitle": "Close Out Deal - Sterling Silver Romy Chain with Spring Ring Clasp",
     "precedingAuctionCode": "0019859952"
