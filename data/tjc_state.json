@@ -313454,9 +313454,16 @@
       "img": true,
       "date": "2026-09-07",
       "time": "17:21:21",
-      "productUrl": null,
-      "lastUpdated": 1788798081785,
-      "source": "gha"
+      "productUrl": "/products/la-marey-patterned-blouse-size-s-m-chocolate-8588508",
+      "lastUpdated": 1788798659557,
+      "source": "gha",
+      "missedAt": 1788798659557,
+      "missedDelay": 10,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "productUrlChecked": 1788798662479,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8588512": {
       "sku": "8588512",
@@ -313495,11 +313502,31 @@
       "productUrlChecked": 1788798273272,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8588509": {
+      "sku": "8588509",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-07",
+      "time": "17:30:59",
+      "preExisting": true,
+      "missedAt": 1788798659557,
+      "missedDelay": null,
+      "lastUpdated": 1788798659557,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "title": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Chocolate",
+      "auctionCode": "0019860975",
+      "source": "gha",
+      "productUrl": "/products/la-marey-patterned-blouse-size-s-m-chocolate-8588508",
+      "productUrlChecked": 1788798662697,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788798659557,
     "gaps": [
       {
         "start": 1785823527869,
@@ -335482,8 +335509,8 @@
     "lastOnAirSku": "8588512",
     "lastOnAirTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
     "lastOnAirAuctionCode": "0019860976",
-    "precedingSku": "8588508",
+    "precedingSku": "8588512",
     "precedingTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
-    "precedingAuctionCode": "0019860974"
+    "precedingAuctionCode": "0019860976"
   }
 }
