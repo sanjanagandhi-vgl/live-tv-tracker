@@ -24400,23 +24400,23 @@
       "sku": "7992480",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-03",
-      "time": "03:12:22",
+      "date": "2026-09-07",
+      "time": "14:21:21",
       "preExisting": true,
       "missedAt": 1785406243979,
       "missedDelay": null,
-      "lastUpdated": 1788401542664,
+      "lastUpdated": 1788787281211,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
-      "auctionCode": "0019854152",
+      "auctionCode": "0019860696",
       "source": "gha",
       "productUrl": "/products/douvalls-argan-infused-growth-serum-mascara-6ml-achieve-longer-fuller-and-voluminous-eyelashes?variant=53108072677642",
       "productUrlChecked": 1785406253003,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1788401542664,
-      "pdpPrice": 19.99,
+      "lastAir": 1788787281211,
+      "pdpPrice": "125.99",
       "buy": true,
       "login": false,
       "img": true
@@ -313233,8 +313233,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788787238054,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -335091,11 +335091,22 @@
         "followingSku": "7840314",
         "followingTitle": "Opatra Peeling Gel - 60ml",
         "followingAuctionCode": "0019860698"
+      },
+      {
+        "start": 1788787238054,
+        "end": 1788787281211,
+        "durationMin": 0.7,
+        "precedingSku": "7840314",
+        "precedingTitle": "Opatra Peeling Gel - 60ml",
+        "precedingAuctionCode": "0019860698",
+        "followingSku": "7992480",
+        "followingTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
+        "followingAuctionCode": "0019860696"
       }
     ],
-    "lastOnAirSku": "7840314",
-    "lastOnAirTitle": "Opatra Peeling Gel - 60ml",
-    "lastOnAirAuctionCode": "0019860698",
+    "lastOnAirSku": "7992480",
+    "lastOnAirTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
+    "lastOnAirAuctionCode": "0019860696",
     "precedingSku": "7840314",
     "precedingTitle": "Opatra Peeling Gel - 60ml",
     "precedingAuctionCode": "0019860698"
