@@ -152491,21 +152491,26 @@
       "sku": "8553015",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "21:31:20",
+      "date": "2026-09-07",
+      "time": "02:11:18",
       "preExisting": true,
       "missedAt": 1786653080723,
       "missedDelay": null,
-      "lastUpdated": 1786653080723,
+      "lastUpdated": 1788743478138,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
-      "auctionCode": "0019820458",
+      "auctionCode": "0019859941",
       "source": "gha",
       "productUrl": "/products/sterling-silver-grumetta-rada-chain-with-lobster-clasp-2768552905",
       "productUrlChecked": 1786653098643,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788743478138,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8553016": {
       "sku": "8553016",
@@ -310529,8 +310534,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788743435928,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331925,11 +331930,22 @@
         "followingSku": "8620472",
         "followingTitle": "Sterling Silver Hoop Earring with Clasp",
         "followingAuctionCode": "0019859945"
+      },
+      {
+        "start": 1788743435928,
+        "end": 1788743478138,
+        "durationMin": 0.7,
+        "precedingSku": "8620472",
+        "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019859945",
+        "followingSku": "8553015",
+        "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
+        "followingAuctionCode": "0019859941"
       }
     ],
-    "lastOnAirSku": "8620472",
-    "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019859945",
+    "lastOnAirSku": "8553015",
+    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019859941",
     "precedingSku": "8620472",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
     "precedingAuctionCode": "0019859945"
