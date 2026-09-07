@@ -286485,25 +286485,26 @@
       "sku": "8547918",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-03",
-      "time": "08:24:22",
+      "date": "2026-09-07",
+      "time": "07:16:23",
       "preExisting": true,
       "missedAt": 1788363051452,
       "missedDelay": null,
-      "lastUpdated": 1788420262011,
+      "lastUpdated": 1788761783624,
       "missedPrice": 27.99,
       "missedImg": true,
       "title": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 12) - Black",
-      "auctionCode": "0019855526",
-      "source": "gha-variant",
+      "auctionCode": "0019859380",
+      "source": "gha",
       "productUrl": "/products/pure-and-nature-cotton-jean-and-pant-trouser-size-12-beige-8547906",
       "productUrlChecked": 1788363054130,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1788420262011,
-      "pdpPrice": 27.99,
+      "lastAir": 1788761783624,
+      "pdpPrice": null,
       "buy": true,
-      "login": false
+      "login": false,
+      "img": false
     },
     "8547920": {
       "sku": "8547920",
@@ -311273,8 +311274,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788761736222,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332823,11 +332824,22 @@
         "followingSku": "8575475",
         "followingTitle": "MEGA BAG CLEARANCE OFFER-100% Genuine Leather Holdall Travel Duffel Bag - Burgundy",
         "followingAuctionCode": "0019859429"
+      },
+      {
+        "start": 1788761736222,
+        "end": 1788761783624,
+        "durationMin": 0.8,
+        "precedingSku": "8575475",
+        "precedingTitle": "MEGA BAG CLEARANCE OFFER-100% Genuine Leather Holdall Travel Duffel Bag - Burgundy",
+        "precedingAuctionCode": "0019859429",
+        "followingSku": "8547918",
+        "followingTitle": null,
+        "followingAuctionCode": "0019859380"
       }
     ],
-    "lastOnAirSku": "8575475",
-    "lastOnAirTitle": "MEGA BAG CLEARANCE OFFER-100% Genuine Leather Holdall Travel Duffel Bag - Burgundy",
-    "lastOnAirAuctionCode": "0019859429",
+    "lastOnAirSku": "8547918",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019859380",
     "precedingSku": "8575475",
     "precedingTitle": "MEGA BAG CLEARANCE OFFER-100% Genuine Leather Holdall Travel Duffel Bag - Burgundy",
     "precedingAuctionCode": "0019859429"
