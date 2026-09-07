@@ -305742,21 +305742,26 @@
       "sku": "8499805",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-06",
-      "time": "09:51:43",
+      "date": "2026-09-07",
+      "time": "08:10:35",
       "preExisting": true,
       "missedAt": 1788684703660,
       "missedDelay": null,
-      "lastUpdated": 1788684703660,
+      "lastUpdated": 1788765035412,
       "missedPrice": 69.99,
       "missedImg": false,
-      "title": "LIVMORE 7 Zone 4cm Deep Memory Foam Lavander Infused Mattress (Double Size 150x4 cm)",
-      "auctionCode": "0019859592",
+      "title": "LIVMORE 7 Zone 4cm Deep Memory Foam Lavander Infused Mattress Topper (Double Size 150x4 cm)",
+      "auctionCode": "0019859749",
       "source": "gha",
       "productUrl": "/products/livmore-memory-foam-patterned-mattress-size-150x4-cm-white-white-8499806",
       "productUrlChecked": 1788684707412,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788765035412,
+      "pdpPrice": "500.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8745910": {
       "sku": "8745910",
@@ -311275,8 +311280,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788764783194,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332880,11 +332885,22 @@
         "followingSku": "8287288",
         "followingTitle": "Pure And Natural Classic Cape With Belt",
         "followingAuctionCode": "0019859405"
+      },
+      {
+        "start": 1788764783194,
+        "end": 1788765035412,
+        "durationMin": 4.2,
+        "precedingSku": "8287288",
+        "precedingTitle": "Pure And Natural Classic Cape With Belt",
+        "precedingAuctionCode": "0019859405",
+        "followingSku": "8499805",
+        "followingTitle": "LIVMORE 7 Zone 4cm Deep Memory Foam Lavander Infused Mattress Topper (Double Size 150x4 cm)",
+        "followingAuctionCode": "0019859749"
       }
     ],
-    "lastOnAirSku": "8287288",
-    "lastOnAirTitle": "Pure And Natural Classic Cape With Belt",
-    "lastOnAirAuctionCode": "0019859405",
+    "lastOnAirSku": "8499805",
+    "lastOnAirTitle": "LIVMORE 7 Zone 4cm Deep Memory Foam Lavander Infused Mattress Topper (Double Size 150x4 cm)",
+    "lastOnAirAuctionCode": "0019859749",
     "precedingSku": "8287288",
     "precedingTitle": "Pure And Natural Classic Cape With Belt",
     "precedingAuctionCode": "0019859405"
