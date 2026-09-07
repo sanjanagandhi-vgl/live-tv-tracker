@@ -312676,9 +312676,16 @@
       "img": true,
       "date": "2026-09-07",
       "time": "12:26:23",
-      "productUrl": null,
-      "lastUpdated": 1788780383048,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-lab-grown-diamond-si-g-h-hoop-earring-with-clasp-in-18k-vermeil-yellow-gold-plated-sterling-silver-2-0-ct-1768590253",
+      "lastUpdated": 1788780927249,
+      "source": "gha",
+      "missedAt": 1788780927249,
+      "missedDelay": 9,
+      "missedPrice": 399.99,
+      "missedImg": true,
+      "productUrlChecked": 1788780929828,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8590137": {
       "sku": "8590137",
@@ -312697,11 +312704,49 @@
       "productUrl": null,
       "lastUpdated": 1788780744017,
       "source": "gha"
+    },
+    "4487568": {
+      "sku": "4487568",
+      "firstAir": 1788780927249,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788780927249,
+      "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Cross Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.00 Ct.",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019860226",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "12:35:27",
+      "productUrl": null,
+      "lastUpdated": 1788780927249,
+      "source": "gha"
+    },
+    "8590253": {
+      "sku": "8590253",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-07",
+      "time": "12:35:27",
+      "preExisting": true,
+      "missedAt": 1788780927249,
+      "missedDelay": null,
+      "lastUpdated": 1788780927249,
+      "missedPrice": 399.99,
+      "missedImg": true,
+      "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Hoop Earring with Clasp in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+      "auctionCode": "0019860203",
+      "source": "gha",
+      "productUrl": "/products/luxuriant-lab-grown-diamond-si-g-h-hoop-earring-with-clasp-in-18k-vermeil-yellow-gold-plated-sterling-silver-2-0-ct-1768590253",
+      "productUrlChecked": 1788780930481,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788780800212,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -334492,11 +334537,22 @@
         "followingSku": "8590137",
         "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Pressure Set Earring with Lever Back in Rhodium Overlay Sterling Silver 2.18 Ct.",
         "followingAuctionCode": "0019860795"
+      },
+      {
+        "start": 1788780800212,
+        "end": 1788780927249,
+        "durationMin": 2.1,
+        "precedingSku": "8590137",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Pressure Set Earring with Lever Back in Rhodium Overlay Sterling Silver 2.18 Ct.",
+        "precedingAuctionCode": "0019860795",
+        "followingSku": "4487568",
+        "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Cross Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.00 Ct.",
+        "followingAuctionCode": "0019860226"
       }
     ],
-    "lastOnAirSku": "8590137",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Pressure Set Earring with Lever Back in Rhodium Overlay Sterling Silver 2.18 Ct.",
-    "lastOnAirAuctionCode": "0019860795",
+    "lastOnAirSku": "4487568",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Cross Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019860226",
     "precedingSku": "8590137",
     "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Pressure Set Earring with Lever Back in Rhodium Overlay Sterling Silver 2.18 Ct.",
     "precedingAuctionCode": "0019860795"
