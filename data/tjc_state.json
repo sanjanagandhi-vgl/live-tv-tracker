@@ -311426,11 +311426,32 @@
       "productUrl": null,
       "lastUpdated": 1788775528251,
       "source": "gha"
+    },
+    "8236051": {
+      "sku": "8236051",
+      "firstAir": 1788775639427,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788775639427,
+      "title": "Designer Inspired - EverTrue - Natural Chrome Diopside & White Zircon Panther Earring with Push B...",
+      "pdpPrice": 19.99,
+      "auctionCode": "0019860325",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "11:07:19",
+      "productUrl": "/products/designer-inspired-panther-earring-with-white-zircon-in-yellow-gold-plated-1-31-ct?variant=53104388276490",
+      "lastUpdated": 1788775639427,
+      "source": "gha",
+      "productUrlChecked": 1788775642330,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788775583125,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -333100,11 +333121,22 @@
         "followingSku": "8217801",
         "followingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply",
         "followingAuctionCode": "0019860709"
+      },
+      {
+        "start": 1788775583125,
+        "end": 1788775639427,
+        "durationMin": 0.9,
+        "precedingSku": "8678166",
+        "precedingTitle": "LA Close Out- White Fresh Water Pearl & White Cubic Zirconia Beads Drop Earring with Push Back",
+        "precedingAuctionCode": "0019860326",
+        "followingSku": "8236051",
+        "followingTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside & White Zircon Panther Earring with Push B...",
+        "followingAuctionCode": "0019860325"
       }
     ],
-    "lastOnAirSku": "8678166",
-    "lastOnAirTitle": "LA Close Out- White Fresh Water Pearl & White Cubic Zirconia Beads Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019860326",
+    "lastOnAirSku": "8236051",
+    "lastOnAirTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside & White Zircon Panther Earring with Push B...",
+    "lastOnAirAuctionCode": "0019860325",
     "precedingSku": "8678166",
     "precedingTitle": "LA Close Out- White Fresh Water Pearl & White Cubic Zirconia Beads Drop Earring with Push Back",
     "precedingAuctionCode": "0019860326"
