@@ -312542,11 +312542,29 @@
       "productUrl": null,
       "lastUpdated": 1788780079886,
       "source": "gha-variant"
+    },
+    "8590254": {
+      "sku": "8590254",
+      "firstAir": 1788780199356,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788780199356,
+      "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Hoop Earring with Clasp in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019860202",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "12:23:19",
+      "productUrl": null,
+      "lastUpdated": 1788780199356,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788780142827,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -334315,11 +334333,22 @@
         "followingSku": "8021464",
         "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Cluster Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019860248"
+      },
+      {
+        "start": 1788780142827,
+        "end": 1788780199356,
+        "durationMin": 0.9,
+        "precedingSku": "8021464",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Cluster Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019860248",
+        "followingSku": "8590254",
+        "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Hoop Earring with Clasp in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+        "followingAuctionCode": "0019860202"
       }
     ],
-    "lastOnAirSku": "8021464",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Cluster Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019860248",
+    "lastOnAirSku": "8590254",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Hoop Earring with Clasp in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019860202",
     "precedingSku": "8021464",
     "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Cluster Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019860248"
