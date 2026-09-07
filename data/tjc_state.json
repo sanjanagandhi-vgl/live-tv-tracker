@@ -313052,11 +313052,29 @@
       "productUrl": null,
       "lastUpdated": 1788782360587,
       "source": "gha"
+    },
+    "8764242": {
+      "sku": "8764242",
+      "firstAir": 1788782839645,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788782839645,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019859149",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-07",
+      "time": "13:07:19",
+      "productUrl": null,
+      "lastUpdated": 1788782839645,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788782471544,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -334869,11 +334887,22 @@
         "followingSku": "8502072",
         "followingTitle": "Luxuriant SI-G/H Lab Grown Diamond Band Ring in Sterling Silver 0.32 Ct.",
         "followingAuctionCode": "0019860228"
+      },
+      {
+        "start": 1788782471544,
+        "end": 1788782839645,
+        "durationMin": 6.1,
+        "precedingSku": "8590262",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Lever Back Earring in Rhodium Overlay Sterling Silver 2.00 Ct.",
+        "precedingAuctionCode": "0019860798",
+        "followingSku": "8764242",
+        "followingTitle": null,
+        "followingAuctionCode": "0019859149"
       }
     ],
-    "lastOnAirSku": "8590262",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Lever Back Earring in Rhodium Overlay Sterling Silver 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019860798",
+    "lastOnAirSku": "8764242",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019859149",
     "precedingSku": "8590262",
     "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Solitaire Lever Back Earring in Rhodium Overlay Sterling Silver 2.00 Ct.",
     "precedingAuctionCode": "0019860798"
