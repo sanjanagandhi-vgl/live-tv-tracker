@@ -310574,11 +310574,29 @@
       "productUrl": null,
       "lastUpdated": 1788744438664,
       "source": "gha"
+    },
+    "7312988": {
+      "sku": "7312988",
+      "firstAir": 1788744680517,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788744680517,
+      "title": "Sterling Silver Bangle,  Silver Wt. 11.9 Gms",
+      "pdpPrice": "229.99",
+      "auctionCode": "0019859986",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "02:31:20",
+      "productUrl": null,
+      "lastUpdated": 1788744680517,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788744648140,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331995,11 +332013,22 @@
         "followingSku": "8478741",
         "followingTitle": "La Bella Handmade Yellow Gold Plated Sterling Silver Curb Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019859953"
+      },
+      {
+        "start": 1788744648140,
+        "end": 1788744680517,
+        "durationMin": 0.5,
+        "precedingSku": "8620423",
+        "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019859948",
+        "followingSku": "7312988",
+        "followingTitle": "Sterling Silver Bangle,  Silver Wt. 11.9 Gms",
+        "followingAuctionCode": "0019859986"
       }
     ],
-    "lastOnAirSku": "8620423",
-    "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019859948",
+    "lastOnAirSku": "7312988",
+    "lastOnAirTitle": "Sterling Silver Bangle,  Silver Wt. 11.9 Gms",
+    "lastOnAirAuctionCode": "0019859986",
     "precedingSku": "8620423",
     "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
     "precedingAuctionCode": "0019859948"
