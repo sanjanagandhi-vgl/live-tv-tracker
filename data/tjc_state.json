@@ -310811,11 +310811,29 @@
       "productUrlChecked": 1788748353431,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8592979": {
+      "sku": "8592979",
+      "firstAir": 1788759049295,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788759049295,
+      "title": "La Marey Womens Lightweight Abstract Swirl Printed Scarf (180 x 80 cm) - Green",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019859422",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "06:30:49",
+      "productUrl": null,
+      "lastUpdated": 1788759049295,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788758957753,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332342,11 +332360,22 @@
         "followingSku": "8306337",
         "followingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
         "followingAuctionCode": "0019859468"
+      },
+      {
+        "start": 1788758957753,
+        "end": 1788759049295,
+        "durationMin": 1.5,
+        "precedingSku": "8046218",
+        "precedingTitle": "Laurelle Wings 2 EDP",
+        "precedingAuctionCode": "0019859437",
+        "followingSku": "8592979",
+        "followingTitle": "La Marey Womens Lightweight Abstract Swirl Printed Scarf (180 x 80 cm) - Green",
+        "followingAuctionCode": "0019859422"
       }
     ],
-    "lastOnAirSku": "8046218",
-    "lastOnAirTitle": "Laurelle Wings 2 EDP",
-    "lastOnAirAuctionCode": "0019859437",
+    "lastOnAirSku": "8592979",
+    "lastOnAirTitle": "La Marey Womens Lightweight Abstract Swirl Printed Scarf (180 x 80 cm) - Green",
+    "lastOnAirAuctionCode": "0019859422",
     "precedingSku": "8046218",
     "precedingTitle": "Laurelle Wings 2 EDP",
     "precedingAuctionCode": "0019859437"
