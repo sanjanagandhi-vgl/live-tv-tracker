@@ -314254,11 +314254,29 @@
       "auctionCode": "0019857017",
       "source": "gha",
       "productUrl": null
+    },
+    "4421588": {
+      "sku": "4421588",
+      "firstAir": 1788815242301,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788815242301,
+      "title": "D'Joy Pendant with Chain (Size 20) in Yellow Gold Plated & Rhodium Overlay Sterling Silver Wt. 6.17 Gms.",
+      "pdpPrice": "319.99",
+      "auctionCode": "0019861180",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "22:07:22",
+      "productUrl": null,
+      "lastUpdated": 1788815242301,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788815130768,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -336390,11 +336408,22 @@
         "followingSku": "8670046",
         "followingTitle": null,
         "followingAuctionCode": "0019861546"
+      },
+      {
+        "start": 1788815130768,
+        "end": 1788815242301,
+        "durationMin": 1.9,
+        "precedingSku": "8536076",
+        "precedingTitle": "14K Yellow Gold AAA Natural Turkizite (Asscher Cut) Solitaire Ring 3.05 Ct.",
+        "precedingAuctionCode": "0019860508",
+        "followingSku": "4421588",
+        "followingTitle": "D'Joy Pendant with Chain (Size 20) in Yellow Gold Plated & Rhodium Overlay Sterling Silver Wt. 6.17 Gms.",
+        "followingAuctionCode": "0019861180"
       }
     ],
-    "lastOnAirSku": "8536076",
-    "lastOnAirTitle": "14K Yellow Gold AAA Natural Turkizite (Asscher Cut) Solitaire Ring 3.05 Ct.",
-    "lastOnAirAuctionCode": "0019860508",
+    "lastOnAirSku": "4421588",
+    "lastOnAirTitle": "D'Joy Pendant with Chain (Size 20) in Yellow Gold Plated & Rhodium Overlay Sterling Silver Wt. 6.17 Gms.",
+    "lastOnAirAuctionCode": "0019861180",
     "precedingSku": "8536076",
     "precedingTitle": "14K Yellow Gold AAA Natural Turkizite (Asscher Cut) Solitaire Ring 3.05 Ct.",
     "precedingAuctionCode": "0019860508"
