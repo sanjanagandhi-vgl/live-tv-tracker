@@ -303613,18 +303613,23 @@
       "sku": "8734850",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-05",
-      "time": "15:22:22",
+      "date": "2026-09-07",
+      "time": "01:04:23",
       "preExisting": true,
       "missedAt": 1788618142993,
       "missedDelay": null,
-      "lastUpdated": 1788618142993,
+      "lastUpdated": 1788739463488,
       "missedPrice": 29.99,
       "missedImg": false,
       "title": "D'Joy - Multi Sapphire & White Diamond 5 Stone Ring in Yellow Gold Plated Sterling Silver 1.16 Ct.",
-      "auctionCode": "0019858231",
+      "auctionCode": "0019859491",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1788739463488,
+      "pdpPrice": null,
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8734851": {
       "sku": "8734851",
@@ -310360,8 +310365,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788739401588,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331679,11 +331684,22 @@
         "followingSku": "8630762",
         "followingTitle": "RARE FIND - Multi Sapphire Station Necklace (Size - 24) in 18K Vermeil Yellow Gold Plated Sterling Silver 55.00 Ct.",
         "followingAuctionCode": "0019859540"
+      },
+      {
+        "start": 1788739401588,
+        "end": 1788739463488,
+        "durationMin": 1.0,
+        "precedingSku": "8630762",
+        "precedingTitle": "RARE FIND - Multi Sapphire Station Necklace (Size - 24) in 18K Vermeil Yellow Gold Plated Sterling Silver 55.00 Ct.",
+        "precedingAuctionCode": "0019859540",
+        "followingSku": "8734850",
+        "followingTitle": null,
+        "followingAuctionCode": "0019859491"
       }
     ],
-    "lastOnAirSku": "8630762",
-    "lastOnAirTitle": "RARE FIND - Multi Sapphire Station Necklace (Size - 24) in 18K Vermeil Yellow Gold Plated Sterling Silver 55.00 Ct.",
-    "lastOnAirAuctionCode": "0019859540",
+    "lastOnAirSku": "8734850",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019859491",
     "precedingSku": "8630762",
     "precedingTitle": "RARE FIND - Multi Sapphire Station Necklace (Size - 24) in 18K Vermeil Yellow Gold Plated Sterling Silver 55.00 Ct.",
     "precedingAuctionCode": "0019859540"
