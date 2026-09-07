@@ -179197,17 +179197,17 @@
       "firstAir": 1786960105697,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787394743020,
+      "lastAir": 1788747141661,
       "title": "Sterling Silver Hoop Earring with Clasp",
       "pdpPrice": "29.99",
-      "auctionCode": "0019836252",
+      "auctionCode": "0019860000",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "time": "11:32:23",
+      "date": "2026-09-07",
+      "time": "03:12:21",
       "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8620470?variant=53191617544458",
-      "lastUpdated": 1787394743020,
+      "lastUpdated": 1788747141661,
       "source": "gha",
       "missedAt": 1786960863690,
       "missedDelay": 10,
@@ -310764,8 +310764,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788747079298,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332226,11 +332226,22 @@
         "followingSku": "8750389",
         "followingTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
         "followingAuctionCode": "0019860633"
+      },
+      {
+        "start": 1788747079298,
+        "end": 1788747141661,
+        "durationMin": 1.0,
+        "precedingSku": "8750389",
+        "precedingTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
+        "precedingAuctionCode": "0019860633",
+        "followingSku": "8620470",
+        "followingTitle": "Sterling Silver Hoop Earring with Clasp",
+        "followingAuctionCode": "0019860000"
       }
     ],
-    "lastOnAirSku": "8750389",
-    "lastOnAirTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019860633",
+    "lastOnAirSku": "8620470",
+    "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019860000",
     "precedingSku": "8750389",
     "precedingTitle": "Vicenza  Close Out- 18K Yellow Gold Necklace (Size - 20)",
     "precedingAuctionCode": "0019860633"
