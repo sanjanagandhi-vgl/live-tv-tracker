@@ -313450,11 +313450,29 @@
       "productUrl": null,
       "lastUpdated": 1788798081785,
       "source": "gha"
+    },
+    "8588512": {
+      "sku": "8588512",
+      "firstAir": 1788798200245,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788798200245,
+      "title": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019860976",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "17:23:20",
+      "productUrl": null,
+      "lastUpdated": 1788798200245,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788798143387,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -335421,11 +335439,22 @@
         "followingSku": "8588508",
         "followingTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
         "followingAuctionCode": "0019860974"
+      },
+      {
+        "start": 1788798143387,
+        "end": 1788798200245,
+        "durationMin": 0.9,
+        "precedingSku": "8588508",
+        "precedingTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
+        "precedingAuctionCode": "0019860974",
+        "followingSku": "8588512",
+        "followingTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
+        "followingAuctionCode": "0019860976"
       }
     ],
-    "lastOnAirSku": "8588508",
+    "lastOnAirSku": "8588512",
     "lastOnAirTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
-    "lastOnAirAuctionCode": "0019860974",
+    "lastOnAirAuctionCode": "0019860976",
     "precedingSku": "8588508",
     "precedingTitle": "La Marey Long-Sleeved Blouse (Size L-XL, 16-20) - Blue with Leaf Pattern",
     "precedingAuctionCode": "0019860974"
