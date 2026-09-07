@@ -5254,16 +5254,16 @@
       "firstAir": 1784896701025,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788439404649,
+      "lastAir": 1788741899515,
       "title": "Rare Find - AAAA Akoya Pearl Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver",
-      "pdpPrice": "89.99",
-      "auctionCode": "0019855435",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019859534",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-03",
-      "time": "13:43:24",
-      "lastUpdated": 1788439404649,
+      "date": "2026-09-07",
+      "time": "01:44:59",
+      "lastUpdated": 1788741899515,
       "source": "gha",
       "missedAt": 1784897725339,
       "missedDelay": 1,
@@ -310383,8 +310383,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788741742340,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331746,11 +331746,22 @@
         "followingSku": "8577250",
         "followingTitle": "D'Joy - Ceylon Sapphire Adjustable Beads Necklace (Size - 18-2 Ext) in Rhodium Overlay Sterling Silver 12.00 Ct.",
         "followingAuctionCode": "0019859539"
+      },
+      {
+        "start": 1788741742340,
+        "end": 1788741899515,
+        "durationMin": 2.6,
+        "precedingSku": "8295895",
+        "precedingTitle": "D'Joy - White Zircon Cluster Ring in  Sterling Silver",
+        "precedingAuctionCode": "0019859525",
+        "followingSku": "8617741",
+        "followingTitle": "Rare Find - AAAA Akoya Pearl Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019859534"
       }
     ],
-    "lastOnAirSku": "8295895",
-    "lastOnAirTitle": "D'Joy - White Zircon Cluster Ring in  Sterling Silver",
-    "lastOnAirAuctionCode": "0019859525",
+    "lastOnAirSku": "8617741",
+    "lastOnAirTitle": "Rare Find - AAAA Akoya Pearl Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019859534",
     "precedingSku": "8295895",
     "precedingTitle": "D'Joy - White Zircon Cluster Ring in  Sterling Silver",
     "precedingAuctionCode": "0019859525"
