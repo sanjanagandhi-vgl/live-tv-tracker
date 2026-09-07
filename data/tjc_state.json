@@ -311311,11 +311311,29 @@
       "productUrl": null,
       "lastUpdated": 1788769639819,
       "source": "gha"
+    },
+    "8622422": {
+      "sku": "8622422",
+      "firstAir": 1788769850765,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788769850765,
+      "title": "Portable Handheld Mini Electric Sewing Machine Kit with Thread & Scissors Set",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019859755",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "09:30:50",
+      "productUrl": null,
+      "lastUpdated": 1788769850765,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788769703966,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332963,11 +332981,22 @@
         "followingSku": "8636721",
         "followingTitle": "LIVMORE Genuine Leather Butterfly Chair with Metal Frame (91.44 x 71.12 cm) - Dark Brown",
         "followingAuctionCode": "0019859281"
+      },
+      {
+        "start": 1788769703966,
+        "end": 1788769850765,
+        "durationMin": 2.4,
+        "precedingSku": "8636721",
+        "precedingTitle": "LIVMORE Genuine Leather Butterfly Chair with Metal Frame (91.44 x 71.12 cm) - Dark Brown",
+        "precedingAuctionCode": "0019859281",
+        "followingSku": "8622422",
+        "followingTitle": "Portable Handheld Mini Electric Sewing Machine Kit with Thread & Scissors Set",
+        "followingAuctionCode": "0019859755"
       }
     ],
-    "lastOnAirSku": "8636721",
-    "lastOnAirTitle": "LIVMORE Genuine Leather Butterfly Chair with Metal Frame (91.44 x 71.12 cm) - Dark Brown",
-    "lastOnAirAuctionCode": "0019859281",
+    "lastOnAirSku": "8622422",
+    "lastOnAirTitle": "Portable Handheld Mini Electric Sewing Machine Kit with Thread & Scissors Set",
+    "lastOnAirAuctionCode": "0019859755",
     "precedingSku": "8636721",
     "precedingTitle": "LIVMORE Genuine Leather Butterfly Chair with Metal Frame (91.44 x 71.12 cm) - Dark Brown",
     "precedingAuctionCode": "0019859281"
