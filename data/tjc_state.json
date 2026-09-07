@@ -5276,21 +5276,22 @@
       "firstAir": 1784897780366,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784940198992,
-      "title": "Rare Find - AAAA Akoya Pearl Bracelet (Size - 7+1 Ext) in Yellow Gold Plated Sterling Silver",
-      "pdpPrice": 39.99,
-      "auctionCode": "0019794338",
-      "buy": false,
-      "login": true,
+      "lastAir": 1788742463171,
+      "title": "Rare Find - AAAA Akoya Pearl Bracelet (Size - 7-1 Ext) in Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019859535",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "01:43:18",
-      "lastUpdated": 1784940198992,
+      "date": "2026-09-07",
+      "time": "01:54:23",
+      "lastUpdated": 1788742463171,
       "source": "gha",
       "missedAt": 1784898499172,
       "missedDelay": 1,
       "missedPrice": 39.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8611698": {
       "sku": "8611698",
@@ -310510,8 +310511,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788742399691,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -331884,11 +331885,22 @@
         "followingSku": "8617741",
         "followingTitle": "Rare Find - AAAA Akoya Pearl Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019859534"
+      },
+      {
+        "start": 1788742399691,
+        "end": 1788742463171,
+        "durationMin": 1.1,
+        "precedingSku": "8617741",
+        "precedingTitle": "Rare Find - AAAA Akoya Pearl Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019859534",
+        "followingSku": "8617742",
+        "followingTitle": "Rare Find - AAAA Akoya Pearl Bracelet (Size - 7-1 Ext) in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019859535"
       }
     ],
-    "lastOnAirSku": "8617741",
-    "lastOnAirTitle": "Rare Find - AAAA Akoya Pearl Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019859534",
+    "lastOnAirSku": "8617742",
+    "lastOnAirTitle": "Rare Find - AAAA Akoya Pearl Bracelet (Size - 7-1 Ext) in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019859535",
     "precedingSku": "8617741",
     "precedingTitle": "Rare Find - AAAA Akoya Pearl Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019859534"
