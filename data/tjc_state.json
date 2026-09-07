@@ -286221,17 +286221,17 @@
       "firstAir": 1788360639476,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788362002076,
-      "title": "Pure And Natural  Made in Italy Jumper ((Size 8 - 18) - Dark Grey",
+      "lastAir": 1788762327029,
+      "title": "Pure And Natural Made in Italy V-neck Super Soft Jumper (One Size, 8-18) - Dark Grey",
       "pdpPrice": "27.99",
-      "auctionCode": "0019855338",
+      "auctionCode": "0019859362",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-02",
-      "time": "16:13:22",
+      "date": "2026-09-07",
+      "time": "07:25:27",
       "productUrl": "/products/pure-and-natural-jumper-size-one-size-dark-mink-8548007",
-      "lastUpdated": 1788362543715,
+      "lastUpdated": 1788762327029,
       "source": "gha",
       "missedAt": 1788362543715,
       "missedDelay": 9,
@@ -311274,8 +311274,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788762261076,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -332835,11 +332835,22 @@
         "followingSku": "8547918",
         "followingTitle": null,
         "followingAuctionCode": "0019859380"
+      },
+      {
+        "start": 1788762261076,
+        "end": 1788762327029,
+        "durationMin": 1.1,
+        "precedingSku": "8547918",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019859380",
+        "followingSku": "8548007",
+        "followingTitle": "Pure And Natural Made in Italy V-neck Super Soft Jumper (One Size, 8-18) - Dark Grey",
+        "followingAuctionCode": "0019859362"
       }
     ],
-    "lastOnAirSku": "8547918",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019859380",
+    "lastOnAirSku": "8548007",
+    "lastOnAirTitle": "Pure And Natural Made in Italy V-neck Super Soft Jumper (One Size, 8-18) - Dark Grey",
+    "lastOnAirAuctionCode": "0019859362",
     "precedingSku": "8547918",
     "precedingTitle": null,
     "precedingAuctionCode": "0019859380"
