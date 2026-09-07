@@ -311582,11 +311582,29 @@
       "productUrl": null,
       "lastUpdated": 1788777501915,
       "source": "gha"
+    },
+    "8542591": {
+      "sku": "8542591",
+      "firstAir": 1788777635842,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788777635842,
+      "title": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019860737",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-07",
+      "time": "11:40:35",
+      "productUrl": null,
+      "lastUpdated": 1788777635842,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788777560076,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -333300,11 +333318,22 @@
         "followingSku": "8199621",
         "followingTitle": "Abalone Shell Adjustable Link Bracelet (Size - 8.5-2 Ext) 150.00 Ct.",
         "followingAuctionCode": "0019860415"
+      },
+      {
+        "start": 1788777560076,
+        "end": 1788777635842,
+        "durationMin": 1.3,
+        "precedingSku": "8542522",
+        "precedingTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
+        "precedingAuctionCode": "0019860711",
+        "followingSku": "8542591",
+        "followingTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
+        "followingAuctionCode": "0019860737"
       }
     ],
-    "lastOnAirSku": "8542522",
+    "lastOnAirSku": "8542591",
     "lastOnAirTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
-    "lastOnAirAuctionCode": "0019860711",
+    "lastOnAirAuctionCode": "0019860737",
     "precedingSku": "8542522",
     "precedingTitle": "EverTrue - Green Onyx Band Ring in Yellow Gold Tone 3.68 Ct.",
     "precedingAuctionCode": "0019860711"
