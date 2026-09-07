@@ -313917,11 +313917,15 @@
       "date": "2026-09-07",
       "time": "19:24:25",
       "productUrl": "/products/lucy-q-sgl-certified-lab-grown-diamond-si-g-h-earring-with-push-post-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-10-ct-8646223?variant=53229065601290",
-      "lastUpdated": 1788805465223,
+      "lastUpdated": 1788805946249,
       "source": "gha",
       "productUrlChecked": 1788805468268,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788805946249,
+      "missedDelay": 8,
+      "missedPrice": 249.99,
+      "missedImg": true
     },
     "8646087": {
       "sku": "8646087",
@@ -314085,8 +314089,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788805946249,
     "gaps": [
       {
         "start": 1785823527869,
@@ -336146,8 +336150,8 @@
     "lastOnAirSku": "8697691",
     "lastOnAirTitle": "Lucy Q - African Ruby & White Zircon Necklace (Size - 20) in Rhodium Overlay Sterling Silver 4.60 Ct, Silver Wt. 12.44 Gms",
     "lastOnAirAuctionCode": "0019861273",
-    "precedingSku": "8646086",
-    "precedingTitle": "Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.30 Ct.",
-    "precedingAuctionCode": "0019861247"
+    "precedingSku": "8697691",
+    "precedingTitle": "Lucy Q - African Ruby & White Zircon Necklace (Size - 20) in Rhodium Overlay Sterling Silver 4.60 Ct, Silver Wt. 12.44 Gms",
+    "precedingAuctionCode": "0019861273"
   }
 }
