@@ -316442,17 +316442,17 @@
       "firstAir": 1788854958679,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788856342637,
+      "lastAir": 1788872902851,
       "title": "BEAUTECH - Mini EMS Facial Massager - Red & Blue Light Therapy & Type-C Rechargeable",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019857863",
+      "pdpPrice": "98.99",
+      "auctionCode": "0019861976",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-08",
-      "time": "09:32:22",
+      "time": "14:08:22",
       "productUrl": "/products/beautech-mini-ems-facial-massager-red-blue-light-therapy-type-c-rechargeable",
-      "lastUpdated": 1788856945087,
+      "lastUpdated": 1788872902851,
       "source": "gha",
       "missedAt": 1788856945087,
       "missedDelay": 10,
@@ -316805,8 +316805,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788872728013,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -339587,11 +339587,22 @@
         "followingSku": "4507528",
         "followingTitle": "D'Joy - Moissanite Solitaire Pendant with Chain (Size 18) with Lobster Clasp in Rhodium Overlay Sterling Silver 12.00 Ct.",
         "followingAuctionCode": "0019861488"
+      },
+      {
+        "start": 1788872728013,
+        "end": 1788872902851,
+        "durationMin": 2.9,
+        "precedingSku": "4507528",
+        "precedingTitle": "OTO - Moissanite Solitaire Pendant with Chain (Size 18) with Lobster Clasp in Rhodium Overlay Ste...",
+        "precedingAuctionCode": "0019861488",
+        "followingSku": "8020573",
+        "followingTitle": "BEAUTECH - Mini EMS Facial Massager - Red & Blue Light Therapy & Type-C Rechargeable",
+        "followingAuctionCode": "0019861976"
       }
     ],
-    "lastOnAirSku": "4507528",
-    "lastOnAirTitle": "OTO - Moissanite Solitaire Pendant with Chain (Size 18) with Lobster Clasp in Rhodium Overlay Ste...",
-    "lastOnAirAuctionCode": "0019861488",
+    "lastOnAirSku": "8020573",
+    "lastOnAirTitle": "BEAUTECH - Mini EMS Facial Massager - Red & Blue Light Therapy & Type-C Rechargeable",
+    "lastOnAirAuctionCode": "0019861976",
     "precedingSku": "4507528",
     "precedingTitle": "OTO - Moissanite Solitaire Pendant with Chain (Size 18) with Lobster Clasp in Rhodium Overlay Ste...",
     "precedingAuctionCode": "0019861488"
