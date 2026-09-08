@@ -318627,11 +318627,29 @@
       "productUrlChecked": 1788886009687,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8538101": {
+      "sku": "8538101",
+      "firstAir": 1788891143609,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788891143609,
+      "title": "CBD Queen- Body Oil Super Strength 30ml (900mg) - Lemongrass",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019860900",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "19:12:23",
+      "productUrl": null,
+      "lastUpdated": 1788891143609,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788891038499,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -341621,11 +341639,22 @@
         "followingSku": "8538098",
         "followingTitle": "CBD Queen Rescue Balm 6% (3000mg) - 50ml",
         "followingAuctionCode": "0019860902"
+      },
+      {
+        "start": 1788891038499,
+        "end": 1788891143609,
+        "durationMin": 1.8,
+        "precedingSku": "8538098",
+        "precedingTitle": "CBD Queen Rescue Balm 6% (3000mg) - 50ml",
+        "precedingAuctionCode": "0019860902",
+        "followingSku": "8538101",
+        "followingTitle": "CBD Queen- Body Oil Super Strength 30ml (900mg) - Lemongrass",
+        "followingAuctionCode": "0019860900"
       }
     ],
-    "lastOnAirSku": "8538098",
-    "lastOnAirTitle": "CBD Queen Rescue Balm 6% (3000mg) - 50ml",
-    "lastOnAirAuctionCode": "0019860902",
+    "lastOnAirSku": "8538101",
+    "lastOnAirTitle": "CBD Queen- Body Oil Super Strength 30ml (900mg) - Lemongrass",
+    "lastOnAirAuctionCode": "0019860900",
     "precedingSku": "8538098",
     "precedingTitle": "CBD Queen Rescue Balm 6% (3000mg) - 50ml",
     "precedingAuctionCode": "0019860902"
