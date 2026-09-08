@@ -268558,21 +268558,26 @@
       "sku": "8613202",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-29",
-      "time": "23:33:20",
+      "date": "2026-09-09",
+      "time": "00:25:28",
       "preExisting": true,
       "missedAt": 1788042800023,
       "missedDelay": null,
-      "lastUpdated": 1788042800023,
+      "lastUpdated": 1788909928947,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "D'Joy - GRA Certified (D-VVS1) Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 3.90 Ct.",
-      "auctionCode": "0019849308",
+      "auctionCode": "0019862213",
       "source": "gha",
       "productUrl": "/products/djoy-gra-certified-d-vvs1-moissanite-solitaire-ring-in-rhodium-overlay-sterling-silver-2-60-ct-m8613188",
       "productUrlChecked": 1788042871107,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788909928947,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8613224": {
       "sku": "8613224",
@@ -318889,8 +318894,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788909863968,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -342089,11 +342094,22 @@
         "followingSku": "8691042",
         "followingTitle": "SIGNATURE VICENZA CLOSEOUT - 9K Yellow Gold Handmade Graduated Rope Necklace (Size - 20) with Lobster Clasp, Gold Wt. 14.50 Gms",
         "followingAuctionCode": "0019861799"
+      },
+      {
+        "start": 1788909863968,
+        "end": 1788909928947,
+        "durationMin": 1.1,
+        "precedingSku": "8690349",
+        "precedingTitle": "MIDNIGHT SPECIAL - Rare Size - Moissanite Asscher Cut Solitaire Ring in Rhodium Overlay Sterlin...",
+        "precedingAuctionCode": "0019862818",
+        "followingSku": "8613202",
+        "followingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 3.90 Ct.",
+        "followingAuctionCode": "0019862213"
       }
     ],
-    "lastOnAirSku": "8690349",
-    "lastOnAirTitle": "MIDNIGHT SPECIAL - Rare Size - Moissanite Asscher Cut Solitaire Ring in Rhodium Overlay Sterlin...",
-    "lastOnAirAuctionCode": "0019862818",
+    "lastOnAirSku": "8613202",
+    "lastOnAirTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 3.90 Ct.",
+    "lastOnAirAuctionCode": "0019862213",
     "precedingSku": "8690349",
     "precedingTitle": "MIDNIGHT SPECIAL - Rare Size - Moissanite Asscher Cut Solitaire Ring in Rhodium Overlay Sterlin...",
     "precedingAuctionCode": "0019862818"
