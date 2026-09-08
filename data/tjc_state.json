@@ -10521,16 +10521,16 @@
       "firstAir": 1784995582021,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788833782715,
+      "lastAir": 1788842001604,
       "title": "LAST BYZANTINE AT TJC - 9K Yellow Gold Hand Made Royal Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
-      "pdpPrice": "2499.99",
-      "auctionCode": "0019861567",
+      "pdpPrice": "3499.99",
+      "auctionCode": "0019861571",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-08",
-      "time": "03:16:22",
-      "lastUpdated": 1788833782715,
+      "time": "05:33:21",
+      "lastUpdated": 1788842001604,
       "source": "gha",
       "missedAt": 1784996727784,
       "missedDelay": 2,
@@ -316173,8 +316173,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788841583216,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -338658,11 +338658,22 @@
         "followingSku": "8572303",
         "followingTitle": "Green Jadeite Jade Dragon Band Ring 45.00 Ct.",
         "followingAuctionCode": "0019861312"
+      },
+      {
+        "start": 1788841583216,
+        "end": 1788842001604,
+        "durationMin": 7.0,
+        "precedingSku": "8572303",
+        "precedingTitle": "Green Jadeite Jade Dragon Band Ring 45.00 Ct.",
+        "precedingAuctionCode": "0019861312",
+        "followingSku": "8692858",
+        "followingTitle": "LAST BYZANTINE AT TJC - 9K Yellow Gold Hand Made Royal Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
+        "followingAuctionCode": "0019861571"
       }
     ],
-    "lastOnAirSku": "8572303",
-    "lastOnAirTitle": "Green Jadeite Jade Dragon Band Ring 45.00 Ct.",
-    "lastOnAirAuctionCode": "0019861312",
+    "lastOnAirSku": "8692858",
+    "lastOnAirTitle": "LAST BYZANTINE AT TJC - 9K Yellow Gold Hand Made Royal Byzantine Necklace (Size - 20) with Lobster Clasp, Gold Wt. 22.83 Gms",
+    "lastOnAirAuctionCode": "0019861571",
     "precedingSku": "8572303",
     "precedingTitle": "Green Jadeite Jade Dragon Band Ring 45.00 Ct.",
     "precedingAuctionCode": "0019861312"
