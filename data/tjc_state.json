@@ -318648,11 +318648,29 @@
       "productUrlChecked": 1788891684949,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7632643": {
+      "sku": "7632643",
+      "firstAir": 1788892529867,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788892529867,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019860959",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-08",
+      "time": "19:35:29",
+      "productUrl": null,
+      "lastUpdated": 1788892529867,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788892462526,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -341653,11 +341671,22 @@
         "followingSku": "8538101",
         "followingTitle": "CBD Queen- Body Oil Super Strength 30ml (900mg) - Lemongrass",
         "followingAuctionCode": "0019860900"
+      },
+      {
+        "start": 1788892462526,
+        "end": 1788892529867,
+        "durationMin": 1.1,
+        "precedingSku": "8053094",
+        "precedingTitle": "CBD Queen- Rescue Balm 6% Super Strength - Lavender & Eucalyptus",
+        "precedingAuctionCode": "0019860905",
+        "followingSku": "7632643",
+        "followingTitle": null,
+        "followingAuctionCode": "0019860959"
       }
     ],
-    "lastOnAirSku": "8053094",
-    "lastOnAirTitle": "CBD Queen- Rescue Balm 6% Super Strength - Lavender & Eucalyptus",
-    "lastOnAirAuctionCode": "0019860905",
+    "lastOnAirSku": "7632643",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019860959",
     "precedingSku": "8053094",
     "precedingTitle": "CBD Queen- Rescue Balm 6% Super Strength - Lavender & Eucalyptus",
     "precedingAuctionCode": "0019860905"
