@@ -291339,17 +291339,17 @@
       "firstAir": 1788413901194,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788414197873,
-      "title": "Marigold & Lotus Goat Milk Soap Bar (3.5oz) & Whipped Body Butter (7.05oz) Skincare Set",
-      "pdpPrice": "14.99",
-      "auctionCode": "0019854477",
+      "lastAir": 1788844639732,
+      "title": "Marigold & Lotus Goat Milk Soap Bar (3.5oz) Whipped Body Butter (7.05oz) and Body Scrub Skincare Set",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019860800",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-03",
-      "time": "06:43:17",
+      "date": "2026-09-08",
+      "time": "06:17:19",
       "productUrl": "/products/marigold-lotus-goat-milk-soap-bar-3-5oz-whipped-body-butter-7-05oz-skincare-set-8594289",
-      "lastUpdated": 1788414744653,
+      "lastUpdated": 1788844639732,
       "source": "gha",
       "missedAt": 1788414744653,
       "missedDelay": 9,
@@ -316273,8 +316273,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788844584763,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -338791,11 +338791,22 @@
         "followingSku": "8236481",
         "followingTitle": "Maracuja Oil - 100 ml",
         "followingAuctionCode": "0019859722"
+      },
+      {
+        "start": 1788844584763,
+        "end": 1788844639732,
+        "durationMin": 0.9,
+        "precedingSku": "8646012",
+        "precedingTitle": "Botanical Matrix WAKE UP - Vitamin C Energising Oil - 30ml (Tube)",
+        "precedingAuctionCode": "0019859731",
+        "followingSku": "8594289",
+        "followingTitle": "Marigold & Lotus Goat Milk Soap Bar (3.5oz) Whipped Body Butter (7.05oz) and Body Scrub Skincare Set",
+        "followingAuctionCode": "0019860800"
       }
     ],
-    "lastOnAirSku": "8646012",
-    "lastOnAirTitle": "Botanical Matrix WAKE UP - Vitamin C Energising Oil - 30ml (Tube)",
-    "lastOnAirAuctionCode": "0019859731",
+    "lastOnAirSku": "8594289",
+    "lastOnAirTitle": "Marigold & Lotus Goat Milk Soap Bar (3.5oz) Whipped Body Butter (7.05oz) and Body Scrub Skincare Set",
+    "lastOnAirAuctionCode": "0019860800",
     "precedingSku": "8646012",
     "precedingTitle": "Botanical Matrix WAKE UP - Vitamin C Energising Oil - 30ml (Tube)",
     "precedingAuctionCode": "0019859731"
