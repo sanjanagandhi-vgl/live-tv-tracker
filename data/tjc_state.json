@@ -316939,11 +316939,29 @@
       "productUrlChecked": 1788876644312,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8756456": {
+      "sku": "8756456",
+      "firstAir": 1788876681896,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788876681896,
+      "title": "Lotus Taylor Womens Leather Backless Snaffle Bit Slip-On Mule Loafers (Size 8) - Leopard Print",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019861048",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "15:11:21",
+      "productUrl": null,
+      "lastUpdated": 1788876681896,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788876383120,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -339768,11 +339786,22 @@
         "followingSku": "8673260",
         "followingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
         "followingAuctionCode": "0019861959"
+      },
+      {
+        "start": 1788876383120,
+        "end": 1788876681896,
+        "durationMin": 5.0,
+        "precedingSku": "8673238",
+        "precedingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
+        "precedingAuctionCode": "0019861936",
+        "followingSku": "8756456",
+        "followingTitle": "Lotus Taylor Womens Leather Backless Snaffle Bit Slip-On Mule Loafers (Size 8) - Leopard Print",
+        "followingAuctionCode": "0019861048"
       }
     ],
-    "lastOnAirSku": "8673238",
-    "lastOnAirTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
-    "lastOnAirAuctionCode": "0019861936",
+    "lastOnAirSku": "8756456",
+    "lastOnAirTitle": "Lotus Taylor Womens Leather Backless Snaffle Bit Slip-On Mule Loafers (Size 8) - Leopard Print",
+    "lastOnAirAuctionCode": "0019861048",
     "precedingSku": "8673238",
     "precedingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
     "precedingAuctionCode": "0019861936"
