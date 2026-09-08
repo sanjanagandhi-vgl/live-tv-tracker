@@ -317909,11 +317909,29 @@
       "missedDelay": 9,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8583338": {
+      "sku": "8583338",
+      "firstAir": 1788880281216,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788880281216,
+      "title": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
+      "pdpPrice": "559.99",
+      "auctionCode": "0019860123",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "16:11:21",
+      "productUrl": null,
+      "lastUpdated": 1788880281216,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788880160375,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -340793,11 +340811,22 @@
         "followingSku": "7970138",
         "followingTitle": "Tamsy Sleeveless Relax Fit Blouse (Size S, 8-10) - Bright Orange",
         "followingAuctionCode": "0019861827"
+      },
+      {
+        "start": 1788880160375,
+        "end": 1788880281216,
+        "durationMin": 2.0,
+        "precedingSku": "8520796",
+        "precedingTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 12) - Khaki",
+        "precedingAuctionCode": "0019861796",
+        "followingSku": "8583338",
+        "followingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
+        "followingAuctionCode": "0019860123"
       }
     ],
-    "lastOnAirSku": "8520796",
-    "lastOnAirTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 12) - Khaki",
-    "lastOnAirAuctionCode": "0019861796",
+    "lastOnAirSku": "8583338",
+    "lastOnAirTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
+    "lastOnAirAuctionCode": "0019860123",
     "precedingSku": "8520796",
     "precedingTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 12) - Khaki",
     "precedingAuctionCode": "0019861796"
