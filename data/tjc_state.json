@@ -1717,15 +1717,23 @@
       "sku": "7975030",
       "tvPrice": "",
       "remarks": "",
-      "time": "13:16:00",
+      "time": "08:13:18",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": false,
-      "title": "Laurelle Gold Leopard Perfume 100ml \u2013 Luxury Eau de Parfum",
-      "auctionCode": "0019790102",
-      "source": "gha"
+      "title": "Leopard Royal Savannah EDP - 100ml",
+      "auctionCode": "0019859617",
+      "source": "gha",
+      "lastAir": 1788851598431,
+      "pdpPrice": "139.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "productUrl": null,
+      "lastUpdated": 1788851598431
     },
     "8519081": {
       "sku": "8519081",
@@ -316363,8 +316371,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788851543518,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -338958,11 +338966,22 @@
         "followingSku": "7682838",
         "followingTitle": "Laurelle Baie Des Anges EDP By Perry - 50ml",
         "followingAuctionCode": "0019859641"
+      },
+      {
+        "start": 1788851543518,
+        "end": 1788851598431,
+        "durationMin": 0.9,
+        "precedingSku": "7682838",
+        "precedingTitle": "Laurelle Baie Des Anges EDP By Perry - 50ml",
+        "precedingAuctionCode": "0019859641",
+        "followingSku": "7975030",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019859617"
       }
     ],
-    "lastOnAirSku": "7682838",
-    "lastOnAirTitle": "Laurelle Baie Des Anges EDP By Perry - 50ml",
-    "lastOnAirAuctionCode": "0019859641",
+    "lastOnAirSku": "7975030",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019859617",
     "precedingSku": "7682838",
     "precedingTitle": "Laurelle Baie Des Anges EDP By Perry - 50ml",
     "precedingAuctionCode": "0019859641"
