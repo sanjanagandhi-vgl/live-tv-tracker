@@ -139030,17 +139030,17 @@
       "firstAir": 1786512558641,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786791500691,
+      "lastAir": 1788843865631,
       "title": "Maracuja Oil - 100 ml",
-      "pdpPrice": 7.99,
-      "auctionCode": "0019821640",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019859722",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-15",
-      "time": "11:58:20",
+      "date": "2026-09-08",
+      "time": "06:04:25",
       "productUrl": "/products/new-launch-maracuja-oil-100-ml?variant=53105447436554",
-      "lastUpdated": 1786791500691,
+      "lastUpdated": 1788843865631,
       "source": "gha",
       "missedAt": 1786513342022,
       "missedDelay": 9,
@@ -316273,8 +316273,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788843746742,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -338780,11 +338780,22 @@
         "followingSku": "8747714",
         "followingTitle": "Biggest Close Out Deal- 9K Yellow Gold Graduated Omega Memory Necklace (Size - 20)",
         "followingAuctionCode": "0019861376"
+      },
+      {
+        "start": 1788843746742,
+        "end": 1788843865631,
+        "durationMin": 2.0,
+        "precedingSku": "8747714",
+        "precedingTitle": "Biggest Close Out Deal- 9K Yellow Gold Graduated Omega Memory Necklace (Size - 20)",
+        "precedingAuctionCode": "0019861376",
+        "followingSku": "8236481",
+        "followingTitle": "Maracuja Oil - 100 ml",
+        "followingAuctionCode": "0019859722"
       }
     ],
-    "lastOnAirSku": "8747714",
-    "lastOnAirTitle": "Biggest Close Out Deal- 9K Yellow Gold Graduated Omega Memory Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019861376",
+    "lastOnAirSku": "8236481",
+    "lastOnAirTitle": "Maracuja Oil - 100 ml",
+    "lastOnAirAuctionCode": "0019859722",
     "precedingSku": "8747714",
     "precedingTitle": "Biggest Close Out Deal- 9K Yellow Gold Graduated Omega Memory Necklace (Size - 20)",
     "precedingAuctionCode": "0019861376"
