@@ -318666,11 +318666,29 @@
       "productUrl": null,
       "lastUpdated": 1788893184257,
       "source": "gha"
+    },
+    "7632644": {
+      "sku": "7632644",
+      "firstAir": 1788893304795,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788893304795,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019862744",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-08",
+      "time": "19:48:24",
+      "productUrl": null,
+      "lastUpdated": 1788893304795,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788893239523,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -341682,11 +341700,22 @@
         "followingSku": "7632643",
         "followingTitle": null,
         "followingAuctionCode": "0019860959"
+      },
+      {
+        "start": 1788893239523,
+        "end": 1788893304795,
+        "durationMin": 1.1,
+        "precedingSku": "7632643",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019860959",
+        "followingSku": "7632644",
+        "followingTitle": null,
+        "followingAuctionCode": "0019862744"
       }
     ],
-    "lastOnAirSku": "7632643",
+    "lastOnAirSku": "7632644",
     "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019860959",
+    "lastOnAirAuctionCode": "0019862744",
     "precedingSku": "7632643",
     "precedingTitle": null,
     "precedingAuctionCode": "0019860959"
