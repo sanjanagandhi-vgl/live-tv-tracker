@@ -106903,17 +106903,17 @@
       "firstAir": 1786201526934,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786201758584,
+      "lastAir": 1788870141794,
       "title": "Close Out - 9K Yellow Gold Heaviest SOLID Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 33.01 Gms (Troy Ounce)",
-      "pdpPrice": "3999.99",
-      "auctionCode": "0019812054",
+      "pdpPrice": "5999.99",
+      "auctionCode": "0019861601",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-08",
-      "time": "16:09:18",
+      "date": "2026-09-08",
+      "time": "13:22:21",
       "productUrl": null,
-      "lastUpdated": 1786201758584,
+      "lastUpdated": 1788870141794,
       "source": "gha"
     },
     "6025269": {
@@ -316585,8 +316585,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788870036800,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -339334,11 +339334,22 @@
         "followingSku": "8734691",
         "followingTitle": "Maestro Collection -9K Yellow Gold Hoop Earring with Clasp",
         "followingAuctionCode": "0019861589"
+      },
+      {
+        "start": 1788870036800,
+        "end": 1788870141794,
+        "durationMin": 1.7,
+        "precedingSku": "8734691",
+        "precedingTitle": "Maestro Collection -9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019861589",
+        "followingSku": "8103348",
+        "followingTitle": "Close Out - 9K Yellow Gold Heaviest SOLID Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 33.01 Gms (Troy Ounce)",
+        "followingAuctionCode": "0019861601"
       }
     ],
-    "lastOnAirSku": "8734691",
-    "lastOnAirTitle": "Maestro Collection -9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019861589",
+    "lastOnAirSku": "8103348",
+    "lastOnAirTitle": "Close Out - 9K Yellow Gold Heaviest SOLID Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 33.01 Gms (Troy Ounce)",
+    "lastOnAirAuctionCode": "0019861601",
     "precedingSku": "8734691",
     "precedingTitle": "Maestro Collection -9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019861589"
