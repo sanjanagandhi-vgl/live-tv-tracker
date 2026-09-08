@@ -207629,21 +207629,26 @@
       "sku": "8329745",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "12:59:20",
+      "date": "2026-09-08",
+      "time": "04:49:21",
       "preExisting": true,
       "missedAt": 1787313560072,
       "missedDelay": null,
-      "lastUpdated": 1787313560072,
+      "lastUpdated": 1788839361077,
       "missedPrice": 15.99,
       "missedImg": true,
-      "title": "Natural Jadeite Jade Beads & Pixiu Charms  Genuine Leather Bracelet (Size 7.5) in Yellow Gold Plated 50.00 Ct.",
-      "auctionCode": "0019833927",
+      "title": "Natural White Jade Beads & Pixiu Charms Bracelet",
+      "auctionCode": "0019861341",
       "source": "gha",
       "productUrl": "/products/natural-jade-adjustable-dual-sided-bracelet-size-6-5-to-9-5-100-00-ct-8611194",
       "productUrlChecked": 1787313562508,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788839361077,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8666423": {
       "sku": "8666423",
@@ -316168,8 +316173,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788836463600,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -338620,11 +338625,22 @@
         "followingSku": "8485410",
         "followingTitle": "LIVMORE 1640W Handheld Garment Steamer with 370ml Detachable Water Tank - Black.",
         "followingAuctionCode": "0019860820"
+      },
+      {
+        "start": 1788836463600,
+        "end": 1788839361077,
+        "durationMin": 48.3,
+        "precedingSku": "8528431",
+        "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
+        "precedingAuctionCode": "0019860836",
+        "followingSku": "8329745",
+        "followingTitle": "Natural White Jade Beads & Pixiu Charms Bracelet",
+        "followingAuctionCode": "0019861341"
       }
     ],
-    "lastOnAirSku": "8528431",
-    "lastOnAirTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
-    "lastOnAirAuctionCode": "0019860836",
+    "lastOnAirSku": "8329745",
+    "lastOnAirTitle": "Natural White Jade Beads & Pixiu Charms Bracelet",
+    "lastOnAirAuctionCode": "0019861341",
     "precedingSku": "8528431",
     "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
     "precedingAuctionCode": "0019860836"
