@@ -269735,21 +269735,26 @@
       "sku": "8420489",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-30",
-      "time": "09:09:20",
+      "date": "2026-09-08",
+      "time": "20:30:53",
       "preExisting": true,
       "missedAt": 1788077360420,
       "missedDelay": null,
-      "lastUpdated": 1788077360420,
+      "lastUpdated": 1788895853135,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (34 x 60 x 42 cm) - Black",
-      "auctionCode": "0019850417",
+      "title": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (56 x 30 x 41 cm) - Brown",
+      "auctionCode": "0019860804",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-storage-box-1928323860",
       "productUrlChecked": 1788077363622,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788895853135,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8216279": {
       "sku": "8216279",
@@ -318812,8 +318817,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788895583128,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -341858,11 +341863,22 @@
         "followingSku": "8666632",
         "followingTitle": "Set of 2 LED Illuminated Pocket Jewellery Loupe Magnifiers (30X & 40X) With LED Lights & UV Lights - Silver & Brown",
         "followingAuctionCode": "0019861030"
+      },
+      {
+        "start": 1788895583128,
+        "end": 1788895853135,
+        "durationMin": 4.5,
+        "precedingSku": "8646850",
+        "precedingTitle": "LIVMORE Luxury Waffle Texture 900G Blanket (Size 200x150 cm) - Brown",
+        "precedingAuctionCode": "0019860980",
+        "followingSku": "8420489",
+        "followingTitle": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (56 x 30 x 41 cm) - Brown",
+        "followingAuctionCode": "0019860804"
       }
     ],
-    "lastOnAirSku": "8646850",
-    "lastOnAirTitle": "LIVMORE Luxury Waffle Texture 900G Blanket (Size 200x150 cm) - Brown",
-    "lastOnAirAuctionCode": "0019860980",
+    "lastOnAirSku": "8420489",
+    "lastOnAirTitle": "Livmore Set of 5 Non-Woven Fabric Storage Bags with Clear Window (56 x 30 x 41 cm) - Brown",
+    "lastOnAirAuctionCode": "0019860804",
     "precedingSku": "8646850",
     "precedingTitle": "LIVMORE Luxury Waffle Texture 900G Blanket (Size 200x150 cm) - Brown",
     "precedingAuctionCode": "0019860980"
