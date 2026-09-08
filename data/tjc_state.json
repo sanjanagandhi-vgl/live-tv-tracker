@@ -316846,9 +316846,16 @@
       "img": true,
       "date": "2026-09-08",
       "time": "14:53:22",
-      "productUrl": null,
-      "lastUpdated": 1788875602227,
-      "source": "gha"
+      "productUrl": "/products/qed-london-top-size-s-m-black-8673238",
+      "lastUpdated": 1788876383120,
+      "source": "gha",
+      "missedAt": 1788876383120,
+      "missedDelay": 13,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1788876386605,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8673257": {
       "sku": "8673257",
@@ -316888,11 +316895,31 @@
       "productUrl": null,
       "lastUpdated": 1788876333168,
       "source": "gha"
+    },
+    "8673261": {
+      "sku": "8673261",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-08",
+      "time": "15:06:23",
+      "preExisting": true,
+      "missedAt": 1788876383120,
+      "missedDelay": null,
+      "lastUpdated": 1788876383120,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
+      "auctionCode": "0019861960",
+      "source": "gha",
+      "productUrl": "/products/qed-london-top-size-s-m-black-8673238",
+      "productUrlChecked": 1788876387511,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788876383120,
     "gaps": [
       {
         "start": 1785823527869,
@@ -339722,8 +339749,8 @@
     "lastOnAirSku": "8673238",
     "lastOnAirTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
     "lastOnAirAuctionCode": "0019861936",
-    "precedingSku": "8548007",
-    "precedingTitle": "Pure And Natural Made in Italy V-neck Super Soft Jumper (One Size, 8-18) - Dark Grey",
-    "precedingAuctionCode": "0019861052"
+    "precedingSku": "8673238",
+    "precedingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
+    "precedingAuctionCode": "0019861936"
   }
 }
