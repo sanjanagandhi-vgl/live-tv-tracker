@@ -315327,9 +315327,16 @@
       "img": true,
       "date": "2026-09-08",
       "time": "00:51:19",
-      "productUrl": null,
-      "lastUpdated": 1788825079646,
-      "source": "gha"
+      "productUrl": "/products/natural-type-a-jadeite-jade-stone-zodiac-necklace-with-cotton-thread-size-26-adjustable-60-00-ct",
+      "lastUpdated": 1788825675687,
+      "source": "gha",
+      "missedAt": 1788825675687,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1788825679775,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8329744": {
       "sku": "8329744",
@@ -315407,11 +315414,29 @@
       "productUrl": null,
       "lastUpdated": 1788825503049,
       "source": "gha"
+    },
+    "8343315": {
+      "sku": "8343315",
+      "firstAir": 1788825675687,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788825675687,
+      "title": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019861350",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "01:01:15",
+      "productUrl": null,
+      "lastUpdated": 1788825675687,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788825560571,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -337719,11 +337744,22 @@
         "followingSku": "8343305",
         "followingTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
         "followingAuctionCode": "0019861344"
+      },
+      {
+        "start": 1788825560571,
+        "end": 1788825675687,
+        "durationMin": 1.9,
+        "precedingSku": "8343314",
+        "precedingTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
+        "precedingAuctionCode": "0019861349",
+        "followingSku": "8343315",
+        "followingTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
+        "followingAuctionCode": "0019861350"
       }
     ],
-    "lastOnAirSku": "8343314",
+    "lastOnAirSku": "8343315",
     "lastOnAirTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
-    "lastOnAirAuctionCode": "0019861349",
+    "lastOnAirAuctionCode": "0019861350",
     "precedingSku": "8343314",
     "precedingTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
     "precedingAuctionCode": "0019861349"
