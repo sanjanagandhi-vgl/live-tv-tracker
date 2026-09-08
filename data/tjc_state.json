@@ -315530,11 +315530,29 @@
       "productUrl": null,
       "lastUpdated": 1788827360631,
       "source": "gha"
+    },
+    "8354686": {
+      "sku": "8354686",
+      "firstAir": 1788827603363,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788827603363,
+      "title": "Natural Boots Black Jade Dragon Necklace (Size - 28 Adjustable) 110.00 Ct.",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019861351",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "01:33:23",
+      "productUrl": null,
+      "lastUpdated": 1788827603363,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788827543258,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -337864,11 +337882,22 @@
         "followingSku": "8556718",
         "followingTitle": "Natural White Jade Band Ring 38.00 Ct.",
         "followingAuctionCode": "0019861290"
+      },
+      {
+        "start": 1788827543258,
+        "end": 1788827603363,
+        "durationMin": 1.0,
+        "precedingSku": "8611266",
+        "precedingTitle": "Natural Jade Maneki-Neko Ring 30.00 Ct.",
+        "precedingAuctionCode": "0019861292",
+        "followingSku": "8354686",
+        "followingTitle": "Natural Boots Black Jade Dragon Necklace (Size - 28 Adjustable) 110.00 Ct.",
+        "followingAuctionCode": "0019861351"
       }
     ],
-    "lastOnAirSku": "8611266",
-    "lastOnAirTitle": "Natural Jade Maneki-Neko Ring 30.00 Ct.",
-    "lastOnAirAuctionCode": "0019861292",
+    "lastOnAirSku": "8354686",
+    "lastOnAirTitle": "Natural Boots Black Jade Dragon Necklace (Size - 28 Adjustable) 110.00 Ct.",
+    "lastOnAirAuctionCode": "0019861351",
     "precedingSku": "8611266",
     "precedingTitle": "Natural Jade Maneki-Neko Ring 30.00 Ct.",
     "precedingAuctionCode": "0019861292"
