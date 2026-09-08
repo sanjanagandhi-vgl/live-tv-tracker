@@ -69241,17 +69241,17 @@
       "firstAir": 1785823587955,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788314599329,
+      "lastAir": 1788851129307,
       "title": "Laurelle Baie Des Anges EDP By Perry - 50ml",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019853488",
+      "pdpPrice": "60.99",
+      "auctionCode": "0019859641",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-02",
-      "time": "03:03:19",
+      "date": "2026-09-08",
+      "time": "08:05:29",
       "productUrl": "/products/laurelle-baie-des-anges-edp-by-perry-50ml",
-      "lastUpdated": 1788314599329,
+      "lastUpdated": 1788851129307,
       "source": "gha",
       "missedAt": 1785824850482,
       "missedDelay": 10,
@@ -316363,8 +316363,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788851061619,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -338947,11 +338947,22 @@
         "followingSku": "8149057",
         "followingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
         "followingAuctionCode": "0019860727"
+      },
+      {
+        "start": 1788851061619,
+        "end": 1788851129307,
+        "durationMin": 1.1,
+        "precedingSku": "8149057",
+        "precedingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
+        "precedingAuctionCode": "0019860727",
+        "followingSku": "7682838",
+        "followingTitle": "Laurelle Baie Des Anges EDP By Perry - 50ml",
+        "followingAuctionCode": "0019859641"
       }
     ],
-    "lastOnAirSku": "8149057",
-    "lastOnAirTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
-    "lastOnAirAuctionCode": "0019860727",
+    "lastOnAirSku": "7682838",
+    "lastOnAirTitle": "Laurelle Baie Des Anges EDP By Perry - 50ml",
+    "lastOnAirAuctionCode": "0019859641",
     "precedingSku": "8149057",
     "precedingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
     "precedingAuctionCode": "0019860727"
