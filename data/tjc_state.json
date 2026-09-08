@@ -317927,11 +317927,29 @@
       "productUrl": null,
       "lastUpdated": 1788880881860,
       "source": "gha"
+    },
+    "8583348": {
+      "sku": "8583348",
+      "firstAir": 1788881001380,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788881001380,
+      "title": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019860125",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "16:23:21",
+      "productUrl": null,
+      "lastUpdated": 1788881001380,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788880944905,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -340822,11 +340840,22 @@
         "followingSku": "8583338",
         "followingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
         "followingAuctionCode": "0019860123"
+      },
+      {
+        "start": 1788880944905,
+        "end": 1788881001380,
+        "durationMin": 0.9,
+        "precedingSku": "8583338",
+        "precedingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
+        "precedingAuctionCode": "0019860123",
+        "followingSku": "8583348",
+        "followingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
+        "followingAuctionCode": "0019860125"
       }
     ],
-    "lastOnAirSku": "8583338",
+    "lastOnAirSku": "8583348",
     "lastOnAirTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
-    "lastOnAirAuctionCode": "0019860123",
+    "lastOnAirAuctionCode": "0019860125",
     "precedingSku": "8583338",
     "precedingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
     "precedingAuctionCode": "0019860123"
