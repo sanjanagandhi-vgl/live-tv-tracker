@@ -318687,8 +318687,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788893600764,
     "gaps": [
       {
         "start": 1785823527869,
@@ -341716,8 +341716,8 @@
     "lastOnAirSku": "7632644",
     "lastOnAirTitle": null,
     "lastOnAirAuctionCode": "0019862744",
-    "precedingSku": "7632643",
+    "precedingSku": "7632644",
     "precedingTitle": null,
-    "precedingAuctionCode": "0019860959"
+    "precedingAuctionCode": "0019862744"
   }
 }
