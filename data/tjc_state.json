@@ -315671,11 +315671,29 @@
       "productUrl": null,
       "lastUpdated": 1788828680211,
       "source": "gha"
+    },
+    "8212753": {
+      "sku": "8212753",
+      "firstAir": 1788828799970,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788828799970,
+      "title": "24K Yellow Gold (99.99% Purity) Elephant Embossment Foil",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019861218",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "01:53:19",
+      "productUrl": null,
+      "lastUpdated": 1788828799970,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788828744776,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -338038,11 +338056,22 @@
         "followingSku": "8415898",
         "followingTitle": "Natural Olmec Jade Flower Ring 90.00 Ct.",
         "followingAuctionCode": "0019861299"
+      },
+      {
+        "start": 1788828744776,
+        "end": 1788828799970,
+        "durationMin": 0.9,
+        "precedingSku": "8480353",
+        "precedingTitle": "Enhanced Red Jade Curved Ring 40.00 Ct.",
+        "precedingAuctionCode": "0019861359",
+        "followingSku": "8212753",
+        "followingTitle": "24K Yellow Gold (99.99% Purity) Elephant Embossment Foil",
+        "followingAuctionCode": "0019861218"
       }
     ],
-    "lastOnAirSku": "8480353",
-    "lastOnAirTitle": "Enhanced Red Jade Curved Ring 40.00 Ct.",
-    "lastOnAirAuctionCode": "0019861359",
+    "lastOnAirSku": "8212753",
+    "lastOnAirTitle": "24K Yellow Gold (99.99% Purity) Elephant Embossment Foil",
+    "lastOnAirAuctionCode": "0019861218",
     "precedingSku": "8480353",
     "precedingTitle": "Enhanced Red Jade Curved Ring 40.00 Ct.",
     "precedingAuctionCode": "0019861359"
