@@ -14374,16 +14374,16 @@
       "firstAir": 1785066389130,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787534781819,
+      "lastAir": 1788829461848,
       "title": "Anti-Skid Carpet Stopper",
-      "pdpPrice": "2.99",
-      "auctionCode": "0019838030",
+      "pdpPrice": "50.99",
+      "auctionCode": "0019860852",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-24",
-      "time": "02:26:21",
-      "lastUpdated": 1787534781819,
+      "date": "2026-09-08",
+      "time": "02:04:21",
+      "lastUpdated": 1788829461848,
       "source": "gha",
       "missedAt": 1785066686430,
       "missedDelay": 2,
@@ -316037,8 +316037,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788829344825,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -338412,11 +338412,22 @@
         "followingSku": "8212753",
         "followingTitle": "24K Yellow Gold (99.99% Purity) Elephant Embossment Foil",
         "followingAuctionCode": "0019861218"
+      },
+      {
+        "start": 1788829344825,
+        "end": 1788829461848,
+        "durationMin": 2.0,
+        "precedingSku": "8212753",
+        "precedingTitle": "24K Yellow Gold (99.99% Purity) Elephant Embossment Foil",
+        "precedingAuctionCode": "0019861218",
+        "followingSku": "8526654",
+        "followingTitle": "Anti-Skid Carpet Stopper",
+        "followingAuctionCode": "0019860852"
       }
     ],
-    "lastOnAirSku": "8212753",
-    "lastOnAirTitle": "24K Yellow Gold (99.99% Purity) Elephant Embossment Foil",
-    "lastOnAirAuctionCode": "0019861218",
+    "lastOnAirSku": "8526654",
+    "lastOnAirTitle": "Anti-Skid Carpet Stopper",
+    "lastOnAirAuctionCode": "0019860852",
     "precedingSku": "8212753",
     "precedingTitle": "24K Yellow Gold (99.99% Purity) Elephant Embossment Foil",
     "precedingAuctionCode": "0019861218"
