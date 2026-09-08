@@ -316831,11 +316831,29 @@
       "productUrlChecked": 1788875068276,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8673260": {
+      "sku": "8673260",
+      "firstAir": 1788875187289,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788875187289,
+      "title": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019861959",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "14:46:27",
+      "productUrl": null,
+      "lastUpdated": 1788875187289,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788875136520,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -339649,11 +339667,22 @@
         "followingSku": "8548007",
         "followingTitle": "Pure And Natural Made in Italy V-neck Super Soft Jumper (One Size, 8-18) - Dark Grey",
         "followingAuctionCode": "0019861052"
+      },
+      {
+        "start": 1788875136520,
+        "end": 1788875187289,
+        "durationMin": 0.8,
+        "precedingSku": "8548007",
+        "precedingTitle": "Pure And Natural Made in Italy V-neck Super Soft Jumper (One Size, 8-18) - Dark Grey",
+        "precedingAuctionCode": "0019861052",
+        "followingSku": "8673260",
+        "followingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
+        "followingAuctionCode": "0019861959"
       }
     ],
-    "lastOnAirSku": "8548007",
-    "lastOnAirTitle": "Pure And Natural Made in Italy V-neck Super Soft Jumper (One Size, 8-18) - Dark Grey",
-    "lastOnAirAuctionCode": "0019861052",
+    "lastOnAirSku": "8673260",
+    "lastOnAirTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
+    "lastOnAirAuctionCode": "0019861959",
     "precedingSku": "8548007",
     "precedingTitle": "Pure And Natural Made in Italy V-neck Super Soft Jumper (One Size, 8-18) - Dark Grey",
     "precedingAuctionCode": "0019861052"
