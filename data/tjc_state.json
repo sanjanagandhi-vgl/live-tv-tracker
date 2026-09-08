@@ -74631,21 +74631,26 @@
       "sku": "8556718",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-05",
-      "time": "01:27:20",
+      "date": "2026-09-08",
+      "time": "01:10:37",
       "preExisting": true,
       "missedAt": 1785889640337,
       "missedDelay": null,
-      "lastUpdated": 1785889640337,
+      "lastUpdated": 1788826237114,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Natural White Jade Band Ring 38.00 Ct.",
-      "auctionCode": "0019807243",
+      "auctionCode": "0019861290",
       "source": "gha",
       "productUrl": "/products/natural-white-jade-band-ring-38-00-ct-m8556716",
       "productUrlChecked": 1785889650104,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788826237114,
+      "pdpPrice": "15.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8556744": {
       "sku": "8556744",
@@ -315467,8 +315472,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788826102201,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -337787,11 +337792,22 @@
         "followingSku": "8343315",
         "followingTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
         "followingAuctionCode": "0019861350"
+      },
+      {
+        "start": 1788826102201,
+        "end": 1788826237114,
+        "durationMin": 2.2,
+        "precedingSku": "8343315",
+        "precedingTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
+        "precedingAuctionCode": "0019861350",
+        "followingSku": "8556718",
+        "followingTitle": "Natural White Jade Band Ring 38.00 Ct.",
+        "followingAuctionCode": "0019861290"
       }
     ],
-    "lastOnAirSku": "8343315",
-    "lastOnAirTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
-    "lastOnAirAuctionCode": "0019861350",
+    "lastOnAirSku": "8556718",
+    "lastOnAirTitle": "Natural White Jade Band Ring 38.00 Ct.",
+    "lastOnAirAuctionCode": "0019861290",
     "precedingSku": "8343315",
     "precedingTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
     "precedingAuctionCode": "0019861350"
