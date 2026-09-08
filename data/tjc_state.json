@@ -318655,7 +318655,7 @@
       "tvPrice": "",
       "remarks": "",
       "lastAir": 1788893184257,
-      "title": null,
+      "title": "Round Crystal Studded Trinket Box - Silver",
       "pdpPrice": null,
       "auctionCode": "0019860959",
       "buy": true,
@@ -318664,8 +318664,12 @@
       "date": "2026-09-08",
       "time": "19:46:24",
       "productUrl": null,
-      "lastUpdated": 1788893184257,
-      "source": "gha"
+      "lastUpdated": 1788893730177,
+      "source": "gha",
+      "missedAt": 1788893730177,
+      "missedDelay": 9,
+      "missedPrice": 7.99,
+      "missedImg": false
     },
     "7632644": {
       "sku": "7632644",
@@ -318684,11 +318688,46 @@
       "productUrl": null,
       "lastUpdated": 1788893543680,
       "source": "gha"
+    },
+    "8662133": {
+      "sku": "8662133",
+      "firstAir": 1788893730177,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788893730177,
+      "title": "Portable Travel Jewelry Organizer Case with Earring Holder (Size 16x11x6 cm) - Navy Blue",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019860966",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-08",
+      "time": "19:55:30",
+      "productUrl": null,
+      "lastUpdated": 1788893730177,
+      "source": "gha"
+    },
+    "7632679": {
+      "sku": "7632679",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-08",
+      "time": "19:55:30",
+      "preExisting": true,
+      "missedAt": 1788893730177,
+      "missedDelay": null,
+      "lastUpdated": 1788893730177,
+      "missedPrice": 7.99,
+      "missedImg": false,
+      "title": "Square Crystal Studded Trinket Box - Silver",
+      "auctionCode": "0019862738",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788893600764,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -341711,11 +341750,22 @@
         "followingSku": "7632644",
         "followingTitle": null,
         "followingAuctionCode": "0019862744"
+      },
+      {
+        "start": 1788893600764,
+        "end": 1788893730177,
+        "durationMin": 2.2,
+        "precedingSku": "7632644",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019862744",
+        "followingSku": "8662133",
+        "followingTitle": "Portable Travel Jewelry Organizer Case with Earring Holder (Size 16x11x6 cm) - Navy Blue",
+        "followingAuctionCode": "0019860966"
       }
     ],
-    "lastOnAirSku": "7632644",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019862744",
+    "lastOnAirSku": "8662133",
+    "lastOnAirTitle": "Portable Travel Jewelry Organizer Case with Earring Holder (Size 16x11x6 cm) - Navy Blue",
+    "lastOnAirAuctionCode": "0019860966",
     "precedingSku": "7632644",
     "precedingTitle": null,
     "precedingAuctionCode": "0019862744"
