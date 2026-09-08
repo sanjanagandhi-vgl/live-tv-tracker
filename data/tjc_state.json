@@ -317716,11 +317716,29 @@
       "productUrlChecked": 1788879045057,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7970138": {
+      "sku": "7970138",
+      "firstAir": 1788879080104,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788879080104,
+      "title": "Tamsy Sleeveless Relax Fit Blouse (Size S, 8-10) - Bright Orange",
+      "pdpPrice": "16.99",
+      "auctionCode": "0019861827",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-08",
+      "time": "15:51:20",
+      "productUrl": null,
+      "lastUpdated": 1788879080104,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788879039689,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -340589,11 +340607,22 @@
         "followingSku": "8560649",
         "followingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
         "followingAuctionCode": "0019861137"
+      },
+      {
+        "start": 1788879039689,
+        "end": 1788879080104,
+        "durationMin": 0.7,
+        "precedingSku": "8560649",
+        "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
+        "precedingAuctionCode": "0019861137",
+        "followingSku": "7970138",
+        "followingTitle": "Tamsy Sleeveless Relax Fit Blouse (Size S, 8-10) - Bright Orange",
+        "followingAuctionCode": "0019861827"
       }
     ],
-    "lastOnAirSku": "8560649",
-    "lastOnAirTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
-    "lastOnAirAuctionCode": "0019861137",
+    "lastOnAirSku": "7970138",
+    "lastOnAirTitle": "Tamsy Sleeveless Relax Fit Blouse (Size S, 8-10) - Bright Orange",
+    "lastOnAirAuctionCode": "0019861827",
     "precedingSku": "8560649",
     "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
     "precedingAuctionCode": "0019861137"
