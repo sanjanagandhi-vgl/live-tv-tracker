@@ -291364,17 +291364,17 @@
       "firstAir": 1788417328356,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788418039727,
+      "lastAir": 1788850341693,
       "title": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
       "pdpPrice": "24.99",
-      "auctionCode": "0019854463",
+      "auctionCode": "0019860727",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-03",
-      "time": "07:47:19",
+      "date": "2026-09-08",
+      "time": "07:52:21",
       "productUrl": "/products/skineance-snake-venom-anti-ageing-cream-50ml",
-      "lastUpdated": 1788418638713,
+      "lastUpdated": 1788850341693,
       "source": "gha",
       "missedAt": 1788418638713,
       "missedDelay": 10,
@@ -316336,8 +316336,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788850278498,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -338909,11 +338909,22 @@
         "followingSku": "8149162",
         "followingTitle": "SKINEANCE Snake Venom Serum for Sensitive Areas - 15ml",
         "followingAuctionCode": "0019860734"
+      },
+      {
+        "start": 1788850278498,
+        "end": 1788850341693,
+        "durationMin": 1.1,
+        "precedingSku": "8149162",
+        "precedingTitle": "SKINEANCE Snake Venom Serum for Sensitive Areas - 15ml",
+        "precedingAuctionCode": "0019860734",
+        "followingSku": "8149057",
+        "followingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
+        "followingAuctionCode": "0019860727"
       }
     ],
-    "lastOnAirSku": "8149162",
-    "lastOnAirTitle": "SKINEANCE Snake Venom Serum for Sensitive Areas - 15ml",
-    "lastOnAirAuctionCode": "0019860734",
+    "lastOnAirSku": "8149057",
+    "lastOnAirTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
+    "lastOnAirAuctionCode": "0019860727",
     "precedingSku": "8149162",
     "precedingTitle": "SKINEANCE Snake Venom Serum for Sensitive Areas - 15ml",
     "precedingAuctionCode": "0019860734"
