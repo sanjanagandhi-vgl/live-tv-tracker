@@ -17663,16 +17663,16 @@
       "firstAir": 1785137184116,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788749907685,
+      "lastAir": 1788971547479,
       "title": "Italian Made- 9K Yellow Gold Paperclip Necklace (Size - 24). Gold Wt 12.75 Gms",
       "pdpPrice": "1599.99",
-      "auctionCode": "0019860133",
+      "auctionCode": "0019862736",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-07",
-      "time": "03:58:27",
-      "lastUpdated": 1788749907685,
+      "date": "2026-09-09",
+      "time": "17:32:27",
+      "lastUpdated": 1788971547479,
       "source": "gha",
       "missedAt": 1785137301992,
       "missedDelay": 1,
@@ -323335,8 +323335,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788971480555,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -347294,11 +347294,22 @@
         "followingSku": "3584021",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
         "followingAuctionCode": "0019862712"
+      },
+      {
+        "start": 1788971480555,
+        "end": 1788971547479,
+        "durationMin": 1.1,
+        "precedingSku": "3584021",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
+        "precedingAuctionCode": "0019862712",
+        "followingSku": "8596966",
+        "followingTitle": "Italian Made- 9K Yellow Gold Paperclip Necklace (Size - 24). Gold Wt 12.75 Gms",
+        "followingAuctionCode": "0019862736"
       }
     ],
-    "lastOnAirSku": "3584021",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
-    "lastOnAirAuctionCode": "0019862712",
+    "lastOnAirSku": "8596966",
+    "lastOnAirTitle": "Italian Made- 9K Yellow Gold Paperclip Necklace (Size - 24). Gold Wt 12.75 Gms",
+    "lastOnAirAuctionCode": "0019862736",
     "precedingSku": "3584021",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Band Ring",
     "precedingAuctionCode": "0019862712"
