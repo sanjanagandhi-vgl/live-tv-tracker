@@ -319025,9 +319025,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "00:54:26",
-      "productUrl": null,
-      "lastUpdated": 1788911666119,
-      "source": "gha"
+      "productUrl": "/products/pink-moissanite-moissanite-drop-pendant-with-chain-size-18-in-rhodium-overlay-sterling-silver-2-25-ct",
+      "lastUpdated": 1788912262689,
+      "source": "gha",
+      "missedAt": 1788912262689,
+      "missedDelay": 10,
+      "missedPrice": 79.99,
+      "missedImg": true,
+      "productUrlChecked": 1788912268766,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8556364": {
       "sku": "8556364",
@@ -319049,8 +319056,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788912262689,
     "gaps": [
       {
         "start": 1785823527869,
@@ -342287,8 +342294,8 @@
     "lastOnAirSku": "8556364",
     "lastOnAirTitle": "D'Joy - Pink Moissanite Solitaire Pendant with Chain (Size - 18) in Rhodium Overlay Sterling Silver 9.40 Ct.",
     "lastOnAirAuctionCode": "0019862317",
-    "precedingSku": "8622297",
-    "precedingTitle": "D'Joy - Pink Moissanite & Moissanite Drop Necklace (Size - 18) in Rhodium Overlay Sterling Silver 52.38 Ct, Silver Wt. 28.00 Gms",
-    "precedingAuctionCode": "0019862327"
+    "precedingSku": "8556364",
+    "precedingTitle": "D'Joy - Pink Moissanite Solitaire Pendant with Chain (Size - 18) in Rhodium Overlay Sterling Silver 9.40 Ct.",
+    "precedingAuctionCode": "0019862317"
   }
 }
