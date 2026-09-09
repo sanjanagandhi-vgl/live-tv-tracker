@@ -320202,11 +320202,29 @@
       "missedDelay": 8,
       "missedPrice": 19.99,
       "missedImg": true
+    },
+    "8055732": {
+      "sku": "8055732",
+      "firstAir": 1788921143064,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788921143064,
+      "title": "La Bella Fine Italian Jewellery - Handmade Sterling Silver Bracelet (Size 7.5) with Lobster Clasp, SIlver Wt. 14.42 Gms.",
+      "pdpPrice": "449.99",
+      "auctionCode": "0019861688",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "03:32:23",
+      "productUrl": null,
+      "lastUpdated": 1788921143064,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788921049318,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343548,11 +343566,22 @@
         "followingSku": "8579249",
         "followingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
         "followingAuctionCode": "0019862696"
+      },
+      {
+        "start": 1788921049318,
+        "end": 1788921143064,
+        "durationMin": 1.6,
+        "precedingSku": "8579249",
+        "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
+        "precedingAuctionCode": "0019862696",
+        "followingSku": "8055732",
+        "followingTitle": "La Bella Fine Italian Jewellery - Handmade Sterling Silver Bracelet (Size 7.5) with Lobster Clasp, SIlver Wt. 14.42 Gms.",
+        "followingAuctionCode": "0019861688"
       }
     ],
-    "lastOnAirSku": "8579249",
-    "lastOnAirTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
-    "lastOnAirAuctionCode": "0019862696",
+    "lastOnAirSku": "8055732",
+    "lastOnAirTitle": "La Bella Fine Italian Jewellery - Handmade Sterling Silver Bracelet (Size 7.5) with Lobster Clasp, SIlver Wt. 14.42 Gms.",
+    "lastOnAirAuctionCode": "0019861688",
     "precedingSku": "8579249",
     "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
     "precedingAuctionCode": "0019862696"
