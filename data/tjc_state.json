@@ -322633,11 +322633,15 @@
       "date": "2026-09-09",
       "time": "12:57:22",
       "productUrl": "/products/set-of-3-blue-turquoise-green-turquoise-necklace-size-28-560-00-ct-4514252?variant=53484859195658",
-      "lastUpdated": 1788955042071,
+      "lastUpdated": 1788955583535,
       "source": "gha",
       "productUrlChecked": 1788955045390,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788955583535,
+      "missedDelay": 9,
+      "missedPrice": 24.99,
+      "missedImg": true
     },
     "8677166": {
       "sku": "8677166",
@@ -322824,7 +322828,7 @@
       "firstAir": 1788955401099,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788955528028,
+      "lastAir": 1788955583535,
       "title": "Luxuriant - 18K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Pendant with Free Chain 2.00 Ct.",
       "pdpPrice": "2999.99",
       "auctionCode": "0019863027",
@@ -322832,9 +322836,9 @@
       "login": false,
       "img": false,
       "date": "2026-09-09",
-      "time": "13:05:28",
+      "time": "13:06:23",
       "productUrl": null,
-      "lastUpdated": 1788955528028,
+      "lastUpdated": 1788955583535,
       "source": "gha"
     }
   },
