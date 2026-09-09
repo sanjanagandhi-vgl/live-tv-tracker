@@ -18616,19 +18616,19 @@
       "sku": "8503652",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-04",
-      "time": "02:57:19",
+      "date": "2026-09-09",
+      "time": "02:33:19",
       "preExisting": true,
       "missedAt": 1785158783844,
       "missedDelay": null,
-      "lastUpdated": 1785808639023,
+      "lastUpdated": 1788917599638,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
-      "auctionCode": "0019806113",
+      "title": "LIVMORE Set of 3 Bamboo Towels - 500GSM -INC-  Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Pink",
+      "auctionCode": "0019861651",
       "source": "gha",
-      "lastAir": 1785808639023,
-      "pdpPrice": "29.99",
+      "lastAir": 1788917599638,
+      "pdpPrice": "249.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -320202,8 +320202,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788917451973,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343490,11 +343490,22 @@
         "followingSku": "8626755",
         "followingTitle": "Livmore Set of 2 Handcrafted Nested Mango Wooden Boxes with Oxidized Lotus Work - Brown",
         "followingAuctionCode": "0019861637"
+      },
+      {
+        "start": 1788917451973,
+        "end": 1788917599638,
+        "durationMin": 2.5,
+        "precedingSku": "8485410",
+        "precedingTitle": "LIVMORE 1640W Handheld Garment Steamer with 370ml Detachable Water Tank - Black.",
+        "precedingAuctionCode": "0019861647",
+        "followingSku": "8503652",
+        "followingTitle": "LIVMORE Set of 3 Bamboo Towels - 500GSM -INC-  Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Pink",
+        "followingAuctionCode": "0019861651"
       }
     ],
-    "lastOnAirSku": "8485410",
-    "lastOnAirTitle": "LIVMORE 1640W Handheld Garment Steamer with 370ml Detachable Water Tank - Black.",
-    "lastOnAirAuctionCode": "0019861647",
+    "lastOnAirSku": "8503652",
+    "lastOnAirTitle": "LIVMORE Set of 3 Bamboo Towels - 500GSM -INC-  Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Pink",
+    "lastOnAirAuctionCode": "0019861651",
     "precedingSku": "8485410",
     "precedingTitle": "LIVMORE 1640W Handheld Garment Steamer with 370ml Detachable Water Tank - Black.",
     "precedingAuctionCode": "0019861647"
