@@ -321003,9 +321003,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "11:14:23",
-      "productUrl": null,
-      "lastUpdated": 1788948863956,
-      "source": "gha"
+      "productUrl": "/products/blue-turquoise-white-topaz-pendant-with-chain-size-20-stainless-steel-0-18ct-8-180-ct-4504769",
+      "lastUpdated": 1788949463544,
+      "source": "gha",
+      "missedAt": 1788949463544,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1788949467121,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8690497": {
       "sku": "8690497",
@@ -321045,8 +321052,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788949463544,
     "gaps": [
       {
         "start": 1785823527869,
@@ -344745,8 +344752,8 @@
     "lastOnAirSku": "4507382",
     "lastOnAirTitle": "EverTrue - Blue Turquoise Cross Pendant with Chain (Size 20) in Yellow Gold Tone 3.90 Ct.",
     "lastOnAirAuctionCode": "0019862171",
-    "precedingSku": "8690497",
-    "precedingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Floral Dangle Earring with Lever Back in Yellow Gold Tone 3.50 Ct.",
-    "precedingAuctionCode": "0019862195"
+    "precedingSku": "4507382",
+    "precedingTitle": "EverTrue - Blue Turquoise Cross Pendant with Chain (Size 20) in Yellow Gold Tone 3.90 Ct.",
+    "precedingAuctionCode": "0019862171"
   }
 }
