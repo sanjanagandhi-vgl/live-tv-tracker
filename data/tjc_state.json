@@ -322038,11 +322038,15 @@
       "date": "2026-09-09",
       "time": "12:08:23",
       "productUrl": "/products/evertrue-blue-turquoise-white-zircon-dangling-earring-pure-yellow-brass-4-302-ct-8677312?variant=53486658158858",
-      "lastUpdated": 1788952103417,
+      "lastUpdated": 1788952703149,
       "source": "gha",
       "productUrlChecked": 1788952106785,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788952703149,
+      "missedDelay": 10,
+      "missedPrice": 24.99,
+      "missedImg": true
     },
     "8686823": {
       "sku": "8686823",
@@ -322106,7 +322110,7 @@
       "firstAir": 1788952643529,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788952643529,
+      "lastAir": 1788952703149,
       "title": "EverTrue - Mohave Blue Turquoise & White Zircon Ring in Yellow Gold 1.70 Ct.",
       "pdpPrice": "19.99",
       "auctionCode": "0019862598",
@@ -322114,9 +322118,9 @@
       "login": false,
       "img": true,
       "date": "2026-09-09",
-      "time": "12:17:23",
+      "time": "12:18:23",
       "productUrl": null,
-      "lastUpdated": 1788952643529,
+      "lastUpdated": 1788952703149,
       "source": "gha"
     }
   },
