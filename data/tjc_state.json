@@ -324428,11 +324428,29 @@
       "productUrlChecked": 1788987388777,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8198683": {
+      "sku": "8198683",
+      "firstAir": 1788988165175,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788988165175,
+      "title": "999 White Platinum Embossed Bar",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019863531",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "22:09:25",
+      "productUrl": null,
+      "lastUpdated": 1788988165175,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788987931380,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -348588,11 +348606,22 @@
         "followingSku": "8708156",
         "followingTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Emerald Cut Solitaire Ring 5.00 Ct.",
         "followingAuctionCode": "0019862968"
+      },
+      {
+        "start": 1788987931380,
+        "end": 1788988165175,
+        "durationMin": 3.9,
+        "precedingSku": "8708156",
+        "precedingTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Emerald Cut Solitaire Ring 5.00 Ct.",
+        "precedingAuctionCode": "0019862968",
+        "followingSku": "8198683",
+        "followingTitle": "999 White Platinum Embossed Bar",
+        "followingAuctionCode": "0019863531"
       }
     ],
-    "lastOnAirSku": "8708156",
-    "lastOnAirTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Emerald Cut Solitaire Ring 5.00 Ct.",
-    "lastOnAirAuctionCode": "0019862968",
+    "lastOnAirSku": "8198683",
+    "lastOnAirTitle": "999 White Platinum Embossed Bar",
+    "lastOnAirAuctionCode": "0019863531",
     "precedingSku": "8708156",
     "precedingTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Emerald Cut Solitaire Ring 5.00 Ct.",
     "precedingAuctionCode": "0019862968"
