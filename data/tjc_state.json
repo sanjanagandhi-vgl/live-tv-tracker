@@ -324280,11 +324280,29 @@
       "productUrl": null,
       "lastUpdated": 1788986839857,
       "source": "gha"
+    },
+    "8708156": {
+      "sku": "8708156",
+      "firstAir": 1788987079895,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788987079895,
+      "title": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Emerald Cut Solitaire Ring 5.00 Ct.",
+      "pdpPrice": "1999.99",
+      "auctionCode": "0019862968",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-09",
+      "time": "21:51:19",
+      "productUrl": null,
+      "lastUpdated": 1788987079895,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788986904281,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -348429,11 +348447,22 @@
         "followingSku": "8707965",
         "followingTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Pear Cut Solitaire Ring 5.00 Ct.",
         "followingAuctionCode": "0019863002"
+      },
+      {
+        "start": 1788986904281,
+        "end": 1788987079895,
+        "durationMin": 2.9,
+        "precedingSku": "8707965",
+        "precedingTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Pear Cut Solitaire Ring 5.00 Ct.",
+        "precedingAuctionCode": "0019863002",
+        "followingSku": "8708156",
+        "followingTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Emerald Cut Solitaire Ring 5.00 Ct.",
+        "followingAuctionCode": "0019862968"
       }
     ],
-    "lastOnAirSku": "8707965",
-    "lastOnAirTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Pear Cut Solitaire Ring 5.00 Ct.",
-    "lastOnAirAuctionCode": "0019863002",
+    "lastOnAirSku": "8708156",
+    "lastOnAirTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Emerald Cut Solitaire Ring 5.00 Ct.",
+    "lastOnAirAuctionCode": "0019862968",
     "precedingSku": "8707965",
     "precedingTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Pear Cut Solitaire Ring 5.00 Ct.",
     "precedingAuctionCode": "0019863002"
