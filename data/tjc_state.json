@@ -320826,11 +320826,29 @@
       "productUrl": null,
       "lastUpdated": 1788940641060,
       "source": "gha"
+    },
+    "8237231": {
+      "sku": "8237231",
+      "firstAir": 1788940759040,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788940759040,
+      "title": "Tamsy Leopard Embossed Faux Fur Leggings",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019862051",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "08:59:19",
+      "productUrl": null,
+      "lastUpdated": 1788940759040,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788940704654,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -344447,11 +344465,22 @@
         "followingSku": "8584884",
         "followingTitle": "Pure And Natural Long Sleeve Round Neck Printed Top (Size XL, 20 to 22) - Chocolate",
         "followingAuctionCode": "0019862029"
+      },
+      {
+        "start": 1788940704654,
+        "end": 1788940759040,
+        "durationMin": 0.9,
+        "precedingSku": "7616098",
+        "precedingTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
+        "precedingAuctionCode": "0019862043",
+        "followingSku": "8237231",
+        "followingTitle": "Tamsy Leopard Embossed Faux Fur Leggings",
+        "followingAuctionCode": "0019862051"
       }
     ],
-    "lastOnAirSku": "7616098",
-    "lastOnAirTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
-    "lastOnAirAuctionCode": "0019862043",
+    "lastOnAirSku": "8237231",
+    "lastOnAirTitle": "Tamsy Leopard Embossed Faux Fur Leggings",
+    "lastOnAirAuctionCode": "0019862051",
     "precedingSku": "7616098",
     "precedingTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
     "precedingAuctionCode": "0019862043"
