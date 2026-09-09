@@ -322087,9 +322087,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "12:14:23",
-      "productUrl": null,
-      "lastUpdated": 1788952463539,
-      "source": "gha"
+      "productUrl": "/products/blue-turquoise-white-zircon-pendant-with-chain-size-20-stainless-steel-0-04ct-12-040-ct-4504771",
+      "lastUpdated": 1788953063987,
+      "source": "gha",
+      "missedAt": 1788953063987,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1788953067411,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8685932": {
       "sku": "8685932",
@@ -322147,11 +322154,29 @@
       "productUrl": null,
       "lastUpdated": 1788952878973,
       "source": "gha"
+    },
+    "8677069": {
+      "sku": "8677069",
+      "firstAir": 1788953063987,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788953063987,
+      "title": "D'Joy - Mohave Blue Turquoise Solitaire Ring in Yellow Gold Plated Sterling Silver 10.66 Ct.",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019862161",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "12:24:23",
+      "productUrl": null,
+      "lastUpdated": 1788953063987,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788952944293,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -345900,11 +345925,22 @@
         "followingSku": "8684115",
         "followingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold Tone 6.13 Ct.",
         "followingAuctionCode": "0019862212"
+      },
+      {
+        "start": 1788952944293,
+        "end": 1788953063987,
+        "durationMin": 2.0,
+        "precedingSku": "8684115",
+        "precedingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold Tone 6.13 Ct.",
+        "precedingAuctionCode": "0019862212",
+        "followingSku": "8677069",
+        "followingTitle": "D'Joy - Mohave Blue Turquoise Solitaire Ring in Yellow Gold Plated Sterling Silver 10.66 Ct.",
+        "followingAuctionCode": "0019862161"
       }
     ],
-    "lastOnAirSku": "8684115",
-    "lastOnAirTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold Tone 6.13 Ct.",
-    "lastOnAirAuctionCode": "0019862212",
+    "lastOnAirSku": "8677069",
+    "lastOnAirTitle": "D'Joy - Mohave Blue Turquoise Solitaire Ring in Yellow Gold Plated Sterling Silver 10.66 Ct.",
+    "lastOnAirAuctionCode": "0019862161",
     "precedingSku": "8684115",
     "precedingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold Tone 6.13 Ct.",
     "precedingAuctionCode": "0019862212"
