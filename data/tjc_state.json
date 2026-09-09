@@ -316770,21 +316770,26 @@
       "sku": "8690350",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-08",
-      "time": "14:02:22",
+      "date": "2026-09-09",
+      "time": "05:06:22",
       "preExisting": true,
       "missedAt": 1788872542932,
       "missedDelay": null,
-      "lastUpdated": 1788872542932,
+      "lastUpdated": 1788926782347,
       "missedPrice": 179.99,
       "missedImg": true,
-      "title": "OTO-  Rare Size Find-  Moissanite Asscher Cut Solitaire Ring in Rhodium Overlay Sterling Silver  12.00 Ct.",
-      "auctionCode": "0019861490",
+      "title": "ROYAL ASSCHER COMMISSION - Rare Size -  Moissanite Asscher Cut Solitaire Ring in Rhodium Overlay Sterling Silver 12.00 Ct.",
+      "auctionCode": "0019862851",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-solitaire-ring-in-rhodium-overlaysterling-silver-12-300-ct-8690349",
       "productUrlChecked": 1788872545582,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788926782347,
+      "pdpPrice": "299.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8690351": {
       "sku": "8690351",
@@ -320284,8 +320289,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788926543255,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343737,11 +343742,22 @@
         "followingSku": "8356034",
         "followingTitle": "999 Pure Silver (99.9% Purity) Daisy the Cat Collectible",
         "followingAuctionCode": "0019861698"
+      },
+      {
+        "start": 1788926543255,
+        "end": 1788926782347,
+        "durationMin": 4.0,
+        "precedingSku": "8356034",
+        "precedingTitle": "999 Pure Silver (99.9% Purity) Daisy the Cat Collectible",
+        "precedingAuctionCode": "0019861698",
+        "followingSku": "8690350",
+        "followingTitle": "ROYAL ASSCHER COMMISSION - Rare Size -  Moissanite Asscher Cut Solitaire Ring in Rhodium Overlay Sterling Silver 12.00 Ct.",
+        "followingAuctionCode": "0019862851"
       }
     ],
-    "lastOnAirSku": "8356034",
-    "lastOnAirTitle": "999 Pure Silver (99.9% Purity) Daisy the Cat Collectible",
-    "lastOnAirAuctionCode": "0019861698",
+    "lastOnAirSku": "8690350",
+    "lastOnAirTitle": "ROYAL ASSCHER COMMISSION - Rare Size -  Moissanite Asscher Cut Solitaire Ring in Rhodium Overlay Sterling Silver 12.00 Ct.",
+    "lastOnAirAuctionCode": "0019862851",
     "precedingSku": "8356034",
     "precedingTitle": "999 Pure Silver (99.9% Purity) Daisy the Cat Collectible",
     "precedingAuctionCode": "0019861698"
