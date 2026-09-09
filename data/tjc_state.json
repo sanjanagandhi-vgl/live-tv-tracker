@@ -320851,11 +320851,29 @@
       "productUrl": null,
       "lastUpdated": 1788941183959,
       "source": "gha"
+    },
+    "8625170": {
+      "sku": "8625170",
+      "firstAir": 1788941437000,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788941437000,
+      "title": "La Marey Womens Knitted Longline Cardigan with Pockets (One Size, 8-18) - Green & White",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019862025",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-09",
+      "time": "09:10:37",
+      "productUrl": null,
+      "lastUpdated": 1788941437000,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788941240616,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -344483,11 +344501,22 @@
         "followingSku": "8237231",
         "followingTitle": "Tamsy Leopard Embossed Faux Fur Leggings",
         "followingAuctionCode": "0019862051"
+      },
+      {
+        "start": 1788941240616,
+        "end": 1788941437000,
+        "durationMin": 3.3,
+        "precedingSku": "8237231",
+        "precedingTitle": "Tamsy Leopard Embossed Faux Fur Leggings",
+        "precedingAuctionCode": "0019862051",
+        "followingSku": "8625170",
+        "followingTitle": "La Marey Womens Knitted Longline Cardigan with Pockets (One Size, 8-18) - Green & White",
+        "followingAuctionCode": "0019862025"
       }
     ],
-    "lastOnAirSku": "8237231",
-    "lastOnAirTitle": "Tamsy Leopard Embossed Faux Fur Leggings",
-    "lastOnAirAuctionCode": "0019862051",
+    "lastOnAirSku": "8625170",
+    "lastOnAirTitle": "La Marey Womens Knitted Longline Cardigan with Pockets (One Size, 8-18) - Green & White",
+    "lastOnAirAuctionCode": "0019862025",
     "precedingSku": "8237231",
     "precedingTitle": "Tamsy Leopard Embossed Faux Fur Leggings",
     "precedingAuctionCode": "0019862051"
