@@ -320988,11 +320988,29 @@
       "missedDelay": 10,
       "missedPrice": 17.99,
       "missedImg": true
+    },
+    "4504769": {
+      "sku": "4504769",
+      "firstAir": 1788948559507,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788948559507,
+      "title": "EverTrue - Mohave Blue Turquoise & White Topaz Floral Pendant with Chain (Size 20) in Yellow Gold Tone 6.80 Ct.",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019862181",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "11:09:19",
+      "productUrl": null,
+      "lastUpdated": 1788948559507,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788948328249,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -344653,11 +344671,22 @@
         "followingSku": "8662100",
         "followingTitle": "OPATRA Longevity Pad with 1,566 high-density LEDs with Red Light (660nm), Near-Infrared (850nm) and Yellow Light (590nm), and Lifetime Warranty",
         "followingAuctionCode": "0019861503"
+      },
+      {
+        "start": 1788948328249,
+        "end": 1788948559507,
+        "durationMin": 3.9,
+        "precedingSku": "8662100",
+        "precedingTitle": "OPATRA Longevity Pad with 1,566 high-density LEDs with Red Light (660nm), Near-Infrared (850nm) and Yellow Light (590nm), and Lifetime Warranty",
+        "precedingAuctionCode": "0019861503",
+        "followingSku": "4504769",
+        "followingTitle": "EverTrue - Mohave Blue Turquoise & White Topaz Floral Pendant with Chain (Size 20) in Yellow Gold Tone 6.80 Ct.",
+        "followingAuctionCode": "0019862181"
       }
     ],
-    "lastOnAirSku": "8662100",
-    "lastOnAirTitle": "OPATRA Longevity Pad with 1,566 high-density LEDs with Red Light (660nm), Near-Infrared (850nm) and Yellow Light (590nm), and Lifetime Warranty",
-    "lastOnAirAuctionCode": "0019861503",
+    "lastOnAirSku": "4504769",
+    "lastOnAirTitle": "EverTrue - Mohave Blue Turquoise & White Topaz Floral Pendant with Chain (Size 20) in Yellow Gold Tone 6.80 Ct.",
+    "lastOnAirAuctionCode": "0019862181",
     "precedingSku": "8662100",
     "precedingTitle": "OPATRA Longevity Pad with 1,566 high-density LEDs with Red Light (660nm), Near-Infrared (850nm) and Yellow Light (590nm), and Lifetime Warranty",
     "precedingAuctionCode": "0019861503"
