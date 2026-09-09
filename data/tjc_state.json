@@ -302488,17 +302488,17 @@
       "firstAir": 1788599434593,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788600201000,
+      "lastAir": 1788970283031,
       "title": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
-      "pdpPrice": "149.99",
-      "auctionCode": "0019854733",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019862720",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-09-05",
-      "time": "10:23:21",
+      "date": "2026-09-09",
+      "time": "17:11:23",
       "productUrl": "/products/9k-yellow-gold-earring-with-clasp-8734692",
-      "lastUpdated": 1788600798174,
+      "lastUpdated": 1788970283031,
       "source": "gha",
       "missedAt": 1788600798174,
       "missedDelay": 10,
@@ -323325,8 +323325,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788970238950,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -347251,11 +347251,22 @@
         "followingSku": "8753823",
         "followingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
         "followingAuctionCode": "0019863845"
+      },
+      {
+        "start": 1788970238950,
+        "end": 1788970283031,
+        "durationMin": 0.7,
+        "precedingSku": "8753823",
+        "precedingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
+        "precedingAuctionCode": "0019863845",
+        "followingSku": "8734692",
+        "followingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+        "followingAuctionCode": "0019862720"
       }
     ],
-    "lastOnAirSku": "8753823",
-    "lastOnAirTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
-    "lastOnAirAuctionCode": "0019863845",
+    "lastOnAirSku": "8734692",
+    "lastOnAirTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+    "lastOnAirAuctionCode": "0019862720",
     "precedingSku": "8753823",
     "precedingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
     "precedingAuctionCode": "0019863845"
