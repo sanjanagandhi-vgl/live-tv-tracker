@@ -135697,17 +135697,17 @@
       "firstAir": 1786472547211,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786473143259,
+      "lastAir": 1788916343787,
       "title": "Livmore Elite Shungite Infused Glass Water Bottle (20 g) - Black",
-      "pdpPrice": "27.99",
-      "auctionCode": "0019813622",
+      "pdpPrice": "123.99",
+      "auctionCode": "0019861626",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-11",
-      "time": "19:32:23",
+      "date": "2026-09-09",
+      "time": "02:12:23",
       "productUrl": "/products/livmore-water-bottle-size-one-size-black-8570352",
-      "lastUpdated": 1786473751326,
+      "lastUpdated": 1788916343787,
       "source": "gha",
       "missedAt": 1786473751326,
       "missedDelay": 10,
@@ -320185,8 +320185,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788916236655,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343451,11 +343451,22 @@
         "followingSku": "8420257",
         "followingTitle": "Set of 3 Non-Woven Fabric Storage Organisers with Clear Window & Handle - Pink & White",
         "followingAuctionCode": "0019861657"
+      },
+      {
+        "start": 1788916236655,
+        "end": 1788916343787,
+        "durationMin": 1.8,
+        "precedingSku": "8519573",
+        "precedingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
+        "precedingAuctionCode": "0019861619",
+        "followingSku": "8570352",
+        "followingTitle": "Livmore Elite Shungite Infused Glass Water Bottle (20 g) - Black",
+        "followingAuctionCode": "0019861626"
       }
     ],
-    "lastOnAirSku": "8519573",
-    "lastOnAirTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
-    "lastOnAirAuctionCode": "0019861619",
+    "lastOnAirSku": "8570352",
+    "lastOnAirTitle": "Livmore Elite Shungite Infused Glass Water Bottle (20 g) - Black",
+    "lastOnAirAuctionCode": "0019861626",
     "precedingSku": "8519573",
     "precedingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
     "precedingAuctionCode": "0019861619"
