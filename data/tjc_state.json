@@ -98792,21 +98792,26 @@
       "sku": "8433852",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "17:10:39",
+      "date": "2026-09-09",
+      "time": "22:45:37",
       "preExisting": true,
       "missedAt": 1786119039770,
       "missedDelay": null,
-      "lastUpdated": 1786119039770,
+      "lastUpdated": 1788990337139,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "24K Gold (99.9% Purity) Two Tone Luxury Rose Bouquet With Presentation Book",
-      "auctionCode": "0019810756",
+      "title": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
+      "auctionCode": "0019863520",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2918378381",
       "productUrlChecked": 1786119050379,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788990337139,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8421194": {
       "sku": "8421194",
@@ -324596,8 +324601,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788990202091,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -348775,11 +348780,22 @@
         "followingSku": "8750411",
         "followingTitle": "Vicenza Close Out- 14K Yellow Gold Necklace (Size - 20)",
         "followingAuctionCode": "0019863589"
+      },
+      {
+        "start": 1788990202091,
+        "end": 1788990337139,
+        "durationMin": 2.3,
+        "precedingSku": "8646993",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Twisted Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019863575",
+        "followingSku": "8433852",
+        "followingTitle": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
+        "followingAuctionCode": "0019863520"
       }
     ],
-    "lastOnAirSku": "8646993",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Twisted Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019863575",
+    "lastOnAirSku": "8433852",
+    "lastOnAirTitle": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
+    "lastOnAirAuctionCode": "0019863520",
     "precedingSku": "8646993",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Twisted Hoop Earring with Clasp",
     "precedingAuctionCode": "0019863575"
