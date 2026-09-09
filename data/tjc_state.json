@@ -214843,21 +214843,26 @@
       "sku": "8673781",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-22",
-      "time": "11:33:18",
+      "date": "2026-09-09",
+      "time": "04:07:23",
       "preExisting": true,
       "missedAt": 1787394798559,
       "missedDelay": null,
-      "lastUpdated": 1787394798559,
+      "lastUpdated": 1788923243941,
       "missedPrice": 69.99,
       "missedImg": false,
-      "title": "New Launch Italian Made Romy Necklace (Size - 30) with Lobster Clasp in Sterling Silver",
-      "auctionCode": "0019836221",
+      "title": "Romy Necklace (Size - 30) with Lobster Clasp in Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019861793",
       "source": "gha",
       "productUrl": "/products/romy-necklace-size-22-with-lobster-clasp-in-sterling-silver-silver-wt-11-60-gms-8673757",
       "productUrlChecked": 1787394803393,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788923243941,
+      "pdpPrice": "1098.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "7760480": {
       "sku": "7760480",
@@ -320273,8 +320278,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788923130472,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343660,11 +343665,22 @@
         "followingSku": "8722823",
         "followingTitle": "Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
         "followingAuctionCode": "0019861800"
+      },
+      {
+        "start": 1788923130472,
+        "end": 1788923243941,
+        "durationMin": 1.9,
+        "precedingSku": "8722823",
+        "precedingTitle": "Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
+        "precedingAuctionCode": "0019861800",
+        "followingSku": "8673781",
+        "followingTitle": "Romy Necklace (Size - 30) with Lobster Clasp in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019861793"
       }
     ],
-    "lastOnAirSku": "8722823",
-    "lastOnAirTitle": "Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019861800",
+    "lastOnAirSku": "8673781",
+    "lastOnAirTitle": "Romy Necklace (Size - 30) with Lobster Clasp in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019861793",
     "precedingSku": "8722823",
     "precedingTitle": "Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
     "precedingAuctionCode": "0019861800"
