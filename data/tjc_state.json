@@ -321727,9 +321727,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "11:36:25",
-      "productUrl": null,
-      "lastUpdated": 1788950185761,
-      "source": "gha"
+      "productUrl": "/products/blue-turquoise-white-zircon-pendant-with-chain-size-20-stainless-steel-0-20ct-6-200-ct-4509555",
+      "lastUpdated": 1788950738415,
+      "source": "gha",
+      "missedAt": 1788950738415,
+      "missedDelay": 9,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1788950742209,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8686634": {
       "sku": "8686634",
@@ -321769,11 +321776,29 @@
       "productUrl": null,
       "lastUpdated": 1788950599445,
       "source": "gha"
+    },
+    "8719192": {
+      "sku": "8719192",
+      "firstAir": 1788950738415,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788950738415,
+      "title": "Blue Turquoise & Lapis Lazuli Bracelet (Size - 7.5) in Yellow Gold Tone 32.70 Ct.",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019862229",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "11:45:38",
+      "productUrl": null,
+      "lastUpdated": 1788950738415,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788950666269,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -345478,11 +345503,22 @@
         "followingSku": "8680805",
         "followingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Ring in Yellow Gold 5.00 Ct.",
         "followingAuctionCode": "0019862318"
+      },
+      {
+        "start": 1788950666269,
+        "end": 1788950738415,
+        "durationMin": 1.2,
+        "precedingSku": "4505810",
+        "precedingTitle": "EverTrue - Mohave Blue Turquoise Solitaire Pendant with Chain (Size 20) in Yellow Gold 4.00 Ct.",
+        "precedingAuctionCode": "0019862607",
+        "followingSku": "8719192",
+        "followingTitle": "Blue Turquoise & Lapis Lazuli Bracelet (Size - 7.5) in Yellow Gold Tone 32.70 Ct.",
+        "followingAuctionCode": "0019862229"
       }
     ],
-    "lastOnAirSku": "4505810",
-    "lastOnAirTitle": "EverTrue - Mohave Blue Turquoise Solitaire Pendant with Chain (Size 20) in Yellow Gold 4.00 Ct.",
-    "lastOnAirAuctionCode": "0019862607",
+    "lastOnAirSku": "8719192",
+    "lastOnAirTitle": "Blue Turquoise & Lapis Lazuli Bracelet (Size - 7.5) in Yellow Gold Tone 32.70 Ct.",
+    "lastOnAirAuctionCode": "0019862229",
     "precedingSku": "4505810",
     "precedingTitle": "EverTrue - Mohave Blue Turquoise Solitaire Pendant with Chain (Size 20) in Yellow Gold 4.00 Ct.",
     "precedingAuctionCode": "0019862607"
