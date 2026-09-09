@@ -243652,25 +243652,26 @@
       "sku": "8586654",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-01",
-      "time": "16:03:22",
+      "date": "2026-09-09",
+      "time": "19:29:26",
       "preExisting": true,
       "missedAt": 1787754657147,
       "missedDelay": null,
-      "lastUpdated": 1788275002797,
+      "lastUpdated": 1788978566264,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "La Marey Elasticated Waist Stretch Wide Leg Trousers (Size 12) - Chocolate",
-      "auctionCode": "0019852701",
-      "source": "gha-variant",
+      "title": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 20) - Chocolate",
+      "auctionCode": "0019862810",
+      "source": "gha",
       "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser-size-12-black-8586624",
       "productUrlChecked": 1787754666903,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1788275002797,
-      "pdpPrice": 29.99,
+      "lastAir": 1788978566264,
+      "pdpPrice": "319.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "8586656": {
       "sku": "8586656",
@@ -323385,8 +323386,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788978506881,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -347454,11 +347455,22 @@
         "followingSku": "8625170",
         "followingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) -  Black",
         "followingAuctionCode": "0019863847"
+      },
+      {
+        "start": 1788978506881,
+        "end": 1788978566264,
+        "durationMin": 1.0,
+        "precedingSku": "8625170",
+        "precedingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Black",
+        "precedingAuctionCode": "0019863847",
+        "followingSku": "8586654",
+        "followingTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 20) - Chocolate",
+        "followingAuctionCode": "0019862810"
       }
     ],
-    "lastOnAirSku": "8625170",
-    "lastOnAirTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Black",
-    "lastOnAirAuctionCode": "0019863847",
+    "lastOnAirSku": "8586654",
+    "lastOnAirTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 20) - Chocolate",
+    "lastOnAirAuctionCode": "0019862810",
     "precedingSku": "8625170",
     "precedingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Black",
     "precedingAuctionCode": "0019863847"
