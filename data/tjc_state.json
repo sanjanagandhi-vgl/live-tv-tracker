@@ -300752,21 +300752,26 @@
       "sku": "8626755",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "15:40:39",
+      "date": "2026-09-09",
+      "time": "02:16:21",
       "preExisting": true,
       "missedAt": 1788532839424,
       "missedDelay": null,
-      "lastUpdated": 1788532839424,
+      "lastUpdated": 1788916581765,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Livmore Set of 2 Handcrafted Nested Wooden Boxes with Oxidized Horse Work - Brown",
-      "auctionCode": "0019856760",
+      "title": "Livmore Set of 2 Handcrafted Nested Mango Wooden Boxes with Oxidized Lotus Work - Brown",
+      "auctionCode": "0019861637",
       "source": "gha",
       "productUrl": "/products/livmore-set-of-2-handcrafted-nested-wooden-boxes-with-oxidized-lotus-work-brown-8626754",
       "productUrlChecked": 1788532848038,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1788916581765,
+      "pdpPrice": "74.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8626756": {
       "sku": "8626756",
@@ -320189,8 +320194,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788916536524,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343466,11 +343471,22 @@
         "followingSku": "8570352",
         "followingTitle": "Livmore Elite Shungite Infused Glass Water Bottle (20 g) - Black",
         "followingAuctionCode": "0019861626"
+      },
+      {
+        "start": 1788916536524,
+        "end": 1788916581765,
+        "durationMin": 0.8,
+        "precedingSku": "8570352",
+        "precedingTitle": "Livmore Elite Shungite Infused Glass Water Bottle (20 g) - Black",
+        "precedingAuctionCode": "0019861626",
+        "followingSku": "8626755",
+        "followingTitle": "Livmore Set of 2 Handcrafted Nested Mango Wooden Boxes with Oxidized Lotus Work - Brown",
+        "followingAuctionCode": "0019861637"
       }
     ],
-    "lastOnAirSku": "8570352",
-    "lastOnAirTitle": "Livmore Elite Shungite Infused Glass Water Bottle (20 g) - Black",
-    "lastOnAirAuctionCode": "0019861626",
+    "lastOnAirSku": "8626755",
+    "lastOnAirTitle": "Livmore Set of 2 Handcrafted Nested Mango Wooden Boxes with Oxidized Lotus Work - Brown",
+    "lastOnAirAuctionCode": "0019861637",
     "precedingSku": "8570352",
     "precedingTitle": "Livmore Elite Shungite Infused Glass Water Bottle (20 g) - Black",
     "precedingAuctionCode": "0019861626"
