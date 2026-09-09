@@ -323491,11 +323491,29 @@
       "productUrlChecked": 1788980308096,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8545244": {
+      "sku": "8545244",
+      "firstAir": 1788980669361,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788980669361,
+      "title": "Designer Closeout - Tapestry Large Handbag With Detachable Shoulder Strap - Green",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019862739",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-09",
+      "time": "20:04:29",
+      "productUrl": null,
+      "lastUpdated": 1788980669361,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788980304911,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -347596,11 +347614,22 @@
         "followingSku": "8578938",
         "followingTitle": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Brown",
         "followingAuctionCode": "0019862749"
+      },
+      {
+        "start": 1788980304911,
+        "end": 1788980669361,
+        "durationMin": 6.1,
+        "precedingSku": "8578938",
+        "precedingTitle": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Brown",
+        "precedingAuctionCode": "0019862749",
+        "followingSku": "8545244",
+        "followingTitle": "Designer Closeout - Tapestry Large Handbag With Detachable Shoulder Strap - Green",
+        "followingAuctionCode": "0019862739"
       }
     ],
-    "lastOnAirSku": "8578938",
-    "lastOnAirTitle": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Brown",
-    "lastOnAirAuctionCode": "0019862749",
+    "lastOnAirSku": "8545244",
+    "lastOnAirTitle": "Designer Closeout - Tapestry Large Handbag With Detachable Shoulder Strap - Green",
+    "lastOnAirAuctionCode": "0019862739",
     "precedingSku": "8578938",
     "precedingTitle": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Brown",
     "precedingAuctionCode": "0019862749"
