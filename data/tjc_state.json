@@ -322397,9 +322397,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "12:33:19",
-      "productUrl": null,
-      "lastUpdated": 1788953599451,
-      "source": "gha"
+      "productUrl": "/products/blue-turquoise-white-topaz-pendant-with-chain-size-20-stainless-steel-0-80ct-10-057-ct-4502933",
+      "lastUpdated": 1788954199235,
+      "source": "gha",
+      "missedAt": 1788954199235,
+      "missedDelay": 10,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1788954201890,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8677162": {
       "sku": "8677162",
@@ -322599,8 +322606,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788954199235,
     "gaps": [
       {
         "start": 1785823527869,
@@ -346387,8 +346394,8 @@
     "lastOnAirSku": "8677124",
     "lastOnAirTitle": "Mohave Blue Turquoise Stud Earring with Push Back in Yellow Gold Plated Sterling Silver 2.90 Ct.",
     "lastOnAirAuctionCode": "0019862172",
-    "precedingSku": "4502933",
-    "precedingTitle": "EverTrue - Mohave Blue Turquoise & White Topaz Halo Pendant with Chain (Size 20) in Yellow Gold 10.05 Ct.",
-    "precedingAuctionCode": "0019862141"
+    "precedingSku": "8677124",
+    "precedingTitle": "Mohave Blue Turquoise Stud Earring with Push Back in Yellow Gold Plated Sterling Silver 2.90 Ct.",
+    "precedingAuctionCode": "0019862172"
   }
 }
