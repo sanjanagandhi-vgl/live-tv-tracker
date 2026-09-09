@@ -320177,16 +320177,20 @@
       "date": "2026-09-09",
       "time": "02:07:18",
       "productUrl": "/products/livmore-3-piece-reed-diffuser-collection-winter-woods-snowlace-powder-blossoms-and-northern-lights-with-reeds-amd-3-fragrance-sachets?variant=53107653148938",
-      "lastUpdated": 1788916038783,
+      "lastUpdated": 1788916536524,
       "source": "gha",
       "productUrlChecked": 1788916043650,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788916536524,
+      "missedDelay": 8,
+      "missedPrice": 19.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788916536524,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343467,8 +343471,8 @@
     "lastOnAirSku": "8570352",
     "lastOnAirTitle": "Livmore Elite Shungite Infused Glass Water Bottle (20 g) - Black",
     "lastOnAirAuctionCode": "0019861626",
-    "precedingSku": "8519573",
-    "precedingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm)",
-    "precedingAuctionCode": "0019861619"
+    "precedingSku": "8570352",
+    "precedingTitle": "Livmore Elite Shungite Infused Glass Water Bottle (20 g) - Black",
+    "precedingAuctionCode": "0019861626"
   }
 }
