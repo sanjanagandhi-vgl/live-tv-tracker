@@ -324450,9 +324450,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "22:09:25",
-      "productUrl": null,
-      "lastUpdated": 1788988165175,
-      "source": "gha"
+      "productUrl": "/products/999-white-platinum-embossed-bar",
+      "lastUpdated": 1788988762178,
+      "source": "gha",
+      "missedAt": 1788988762178,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1788988764897,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8708160": {
       "sku": "8708160",
@@ -324533,11 +324540,29 @@
       "productUrlChecked": 1788988403810,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8750411": {
+      "sku": "8750411",
+      "firstAir": 1788988762178,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788988762178,
+      "title": "Vicenza Close Out- 14K Yellow Gold Necklace (Size - 20)",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019863589",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "22:19:22",
+      "productUrl": null,
+      "lastUpdated": 1788988762178,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788988703221,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -348704,11 +348729,22 @@
         "followingSku": "8198683",
         "followingTitle": "999 White Platinum Embossed Bar",
         "followingAuctionCode": "0019863531"
+      },
+      {
+        "start": 1788988703221,
+        "end": 1788988762178,
+        "durationMin": 1.0,
+        "precedingSku": "8646999",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019863547",
+        "followingSku": "8750411",
+        "followingTitle": "Vicenza Close Out- 14K Yellow Gold Necklace (Size - 20)",
+        "followingAuctionCode": "0019863589"
       }
     ],
-    "lastOnAirSku": "8646999",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019863547",
+    "lastOnAirSku": "8750411",
+    "lastOnAirTitle": "Vicenza Close Out- 14K Yellow Gold Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019863589",
     "precedingSku": "8646999",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019863547"
