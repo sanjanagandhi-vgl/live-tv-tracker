@@ -319811,9 +319811,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "01:52:22",
-      "productUrl": null,
-      "lastUpdated": 1788915142111,
-      "source": "gha"
+      "productUrl": "/products/djoy-paraiba-moissanite-solitaire-stud-push-post-earring-in-sterling-silver-1-88-ct-6058634798",
+      "lastUpdated": 1788915744066,
+      "source": "gha",
+      "missedAt": 1788915744066,
+      "missedDelay": 10,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1788915748523,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8634952": {
       "sku": "8634952",
@@ -320157,8 +320164,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788915744066,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343417,8 +343424,8 @@
     "lastOnAirSku": "8634801",
     "lastOnAirTitle": "D'Joy - Paraiba Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 5.10 Ct.",
     "lastOnAirAuctionCode": "0019862437",
-    "precedingSku": "4493555",
-    "precedingTitle": "Paraiba Moissanite Solitaire Pendant in Rhodium Overlay Sterling Silver with Chain (Size - 20)",
-    "precedingAuctionCode": "0019862358"
+    "precedingSku": "8634801",
+    "precedingTitle": "D'Joy - Paraiba Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 5.10 Ct.",
+    "precedingAuctionCode": "0019862437"
   }
 }
