@@ -322062,9 +322062,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "12:10:38",
-      "productUrl": null,
-      "lastUpdated": 1788952238136,
-      "source": "gha"
+      "productUrl": "/products/evertrue-blue-turquoise-iolite-fancy-earring-pure-yellow-brass-5-328-ct-8686823",
+      "lastUpdated": 1788952840805,
+      "source": "gha",
+      "missedAt": 1788952840805,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1788952843968,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4504771": {
       "sku": "4504771",
@@ -322122,11 +322129,29 @@
       "productUrl": null,
       "lastUpdated": 1788952703149,
       "source": "gha"
+    },
+    "8684115": {
+      "sku": "8684115",
+      "firstAir": 1788952840805,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788952840805,
+      "title": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold Tone 6.13 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019862212",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "12:20:40",
+      "productUrl": null,
+      "lastUpdated": 1788952840805,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788952759862,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -345864,11 +345889,22 @@
         "followingSku": "8677312",
         "followingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold 4.30 Ct.",
         "followingAuctionCode": "0019862199"
+      },
+      {
+        "start": 1788952759862,
+        "end": 1788952840805,
+        "durationMin": 1.3,
+        "precedingSku": "8682214",
+        "precedingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Ring in Yellow Gold 1.70 Ct.",
+        "precedingAuctionCode": "0019862598",
+        "followingSku": "8684115",
+        "followingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold Tone 6.13 Ct.",
+        "followingAuctionCode": "0019862212"
       }
     ],
-    "lastOnAirSku": "8682214",
-    "lastOnAirTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Ring in Yellow Gold 1.70 Ct.",
-    "lastOnAirAuctionCode": "0019862598",
+    "lastOnAirSku": "8684115",
+    "lastOnAirTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold Tone 6.13 Ct.",
+    "lastOnAirAuctionCode": "0019862212",
     "precedingSku": "8682214",
     "precedingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Ring in Yellow Gold 1.70 Ct.",
     "precedingAuctionCode": "0019862598"
