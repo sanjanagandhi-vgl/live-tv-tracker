@@ -323424,11 +323424,15 @@
       "date": "2026-09-09",
       "time": "19:49:19",
       "productUrl": "/products/la-marey-patterned-top-size-s-m-navy-blue-pink-8620930?variant=53628076163338",
-      "lastUpdated": 1788979759955,
+      "lastUpdated": 1788980304911,
       "source": "gha",
       "productUrlChecked": 1788979762959,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1788980304911,
+      "missedDelay": 9,
+      "missedPrice": 19.99,
+      "missedImg": true
     },
     "8578938": {
       "sku": "8578938",
@@ -323467,11 +323471,31 @@
       "productUrlChecked": 1788979951551,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8620933": {
+      "sku": "8620933",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-09",
+      "time": "19:58:24",
+      "preExisting": true,
+      "missedAt": 1788980304911,
+      "missedDelay": null,
+      "lastUpdated": 1788980304911,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Multicolour Strip",
+      "auctionCode": "0019863989",
+      "source": "gha",
+      "productUrl": "/products/la-marey-patterned-top-size-s-m-navy-blue-pink-8620930",
+      "productUrlChecked": 1788980308096,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1788980304911,
     "gaps": [
       {
         "start": 1785823527869,
@@ -347577,8 +347601,8 @@
     "lastOnAirSku": "8578938",
     "lastOnAirTitle": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Brown",
     "lastOnAirAuctionCode": "0019862749",
-    "precedingSku": "8620932",
-    "precedingTitle": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Multicolour Strip",
-    "precedingAuctionCode": "0019863988"
+    "precedingSku": "8578938",
+    "precedingTitle": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Brown",
+    "precedingAuctionCode": "0019862749"
   }
 }
