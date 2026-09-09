@@ -324262,11 +324262,29 @@
       "missedDelay": 9,
       "missedPrice": 679.99,
       "missedImg": true
+    },
+    "8707965": {
+      "sku": "8707965",
+      "firstAir": 1788985640261,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788985640261,
+      "title": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Pear Cut Solitaire Ring 5.00 Ct.",
+      "pdpPrice": "27896.99",
+      "auctionCode": "0019863002",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "21:27:20",
+      "productUrl": null,
+      "lastUpdated": 1788985640261,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788985104613,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -348400,11 +348418,22 @@
         "followingSku": "8780835",
         "followingTitle": "Luxuriant - 18K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Pendant with Free Chain 2.00 Ct.",
         "followingAuctionCode": "0019863908"
+      },
+      {
+        "start": 1788985104613,
+        "end": 1788985640261,
+        "durationMin": 8.9,
+        "precedingSku": "8780835",
+        "precedingTitle": "Luxuriant - 18K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Pendant with Free Chain 2.00 Ct.",
+        "precedingAuctionCode": "0019863908",
+        "followingSku": "8707965",
+        "followingTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Pear Cut Solitaire Ring 5.00 Ct.",
+        "followingAuctionCode": "0019863002"
       }
     ],
-    "lastOnAirSku": "8780835",
-    "lastOnAirTitle": "Luxuriant - 18K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Pendant with Free Chain 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019863908",
+    "lastOnAirSku": "8707965",
+    "lastOnAirTitle": "Luxuriant - 14K White Gold IGI Certified VS-G Lab Grown Diamond Pear Cut Solitaire Ring 5.00 Ct.",
+    "lastOnAirAuctionCode": "0019863002",
     "precedingSku": "8780835",
     "precedingTitle": "Luxuriant - 18K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Pendant with Free Chain 2.00 Ct.",
     "precedingAuctionCode": "0019863908"
