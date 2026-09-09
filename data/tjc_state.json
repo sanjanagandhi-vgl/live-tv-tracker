@@ -323398,9 +323398,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "19:43:19",
-      "productUrl": null,
-      "lastUpdated": 1788979399999,
-      "source": "gha"
+      "productUrl": "/products/la-marey-patterned-top-size-s-m-navy-blue-pink-8620930",
+      "lastUpdated": 1788979947402,
+      "source": "gha",
+      "missedAt": 1788979947402,
+      "missedDelay": 9,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1788979950145,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8620932": {
       "sku": "8620932",
@@ -323422,11 +323429,49 @@
       "productUrlChecked": 1788979762959,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8578938": {
+      "sku": "8578938",
+      "firstAir": 1788979947402,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788979947402,
+      "title": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Brown",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019862749",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-09",
+      "time": "19:52:27",
+      "productUrl": null,
+      "lastUpdated": 1788979947402,
+      "source": "gha"
+    },
+    "8620931": {
+      "sku": "8620931",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-09",
+      "time": "19:52:27",
+      "preExisting": true,
+      "missedAt": 1788979947402,
+      "missedDelay": null,
+      "lastUpdated": 1788979947402,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Navy Blue & Pink",
+      "auctionCode": "0019863993",
+      "source": "gha",
+      "productUrl": "/products/la-marey-patterned-top-size-s-m-navy-blue-pink-8620930",
+      "productUrlChecked": 1788979951551,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788979839029,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -347516,11 +347561,22 @@
         "followingSku": "8620930",
         "followingTitle": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Multicolour Strip",
         "followingAuctionCode": "0019863992"
+      },
+      {
+        "start": 1788979839029,
+        "end": 1788979947402,
+        "durationMin": 1.8,
+        "precedingSku": "8620932",
+        "precedingTitle": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Multicolour Strip",
+        "precedingAuctionCode": "0019863988",
+        "followingSku": "8578938",
+        "followingTitle": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Brown",
+        "followingAuctionCode": "0019862749"
       }
     ],
-    "lastOnAirSku": "8620932",
-    "lastOnAirTitle": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Multicolour Strip",
-    "lastOnAirAuctionCode": "0019863988",
+    "lastOnAirSku": "8578938",
+    "lastOnAirTitle": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Brown",
+    "lastOnAirAuctionCode": "0019862749",
     "precedingSku": "8620932",
     "precedingTitle": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Multicolour Strip",
     "precedingAuctionCode": "0019863988"
