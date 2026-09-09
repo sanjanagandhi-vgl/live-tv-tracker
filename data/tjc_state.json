@@ -316421,17 +316421,17 @@
       "firstAir": 1788847760267,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788848479117,
+      "lastAir": 1788933200217,
       "title": "SKINEANCE Snake Venom Micellar Water - 200ml",
       "pdpPrice": "14.99",
-      "auctionCode": "0019860731",
+      "auctionCode": "0019861806",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-08",
-      "time": "07:21:19",
+      "date": "2026-09-09",
+      "time": "06:53:20",
       "productUrl": "/products/skineance-snake-venom-micellar-water-200ml",
-      "lastUpdated": 1788849051760,
+      "lastUpdated": 1788933200217,
       "source": "gha",
       "missedAt": 1788849051760,
       "missedDelay": 10,
@@ -320307,8 +320307,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788933103075,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343826,11 +343826,22 @@
         "followingSku": "8149057",
         "followingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
         "followingAuctionCode": "0019861804"
+      },
+      {
+        "start": 1788933103075,
+        "end": 1788933200217,
+        "durationMin": 1.6,
+        "precedingSku": "8149057",
+        "precedingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
+        "precedingAuctionCode": "0019861804",
+        "followingSku": "8149157",
+        "followingTitle": "SKINEANCE Snake Venom Micellar Water - 200ml",
+        "followingAuctionCode": "0019861806"
       }
     ],
-    "lastOnAirSku": "8149057",
-    "lastOnAirTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
-    "lastOnAirAuctionCode": "0019861804",
+    "lastOnAirSku": "8149157",
+    "lastOnAirTitle": "SKINEANCE Snake Venom Micellar Water - 200ml",
+    "lastOnAirAuctionCode": "0019861806",
     "precedingSku": "8149057",
     "precedingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
     "precedingAuctionCode": "0019861804"
