@@ -302948,17 +302948,17 @@
       "firstAir": 1788614303949,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788614358444,
+      "lastAir": 1788959240765,
       "title": "D'Joy - Multi Sapphire Dangling Earring with Push Post in Rhodium Overlay Sterling Silver 1.70 Ct.",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019858239",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019862623",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-05",
-      "time": "14:19:18",
+      "date": "2026-09-09",
+      "time": "14:07:20",
       "productUrl": "/products/djoy-multi-sapphire-dangling-earring-in-rhodium-overlaysterling-silver-1-724-ct-8736105",
-      "lastUpdated": 1788614960433,
+      "lastUpdated": 1788959240765,
       "source": "gha",
       "missedAt": 1788614960433,
       "missedDelay": 10,
@@ -323228,7 +323228,10 @@
       "missedAt": 1788959184677,
       "missedDelay": 9,
       "missedPrice": 199.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788959243959,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8211425": {
       "sku": "8211425",
@@ -323249,7 +323252,10 @@
       "missedAt": 1788959184677,
       "missedDelay": 9,
       "missedPrice": 199.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788959244871,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8211435": {
       "sku": "8211435",
@@ -323270,7 +323276,10 @@
       "missedAt": 1788959184677,
       "missedDelay": 9,
       "missedPrice": 199.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1788959245822,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8780834": {
       "sku": "8780834",
@@ -323294,8 +323303,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788959184677,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -347121,11 +347130,22 @@
         "followingSku": "8211417",
         "followingTitle": "Luxuriant Lab Grown Diamond Ring in Sterling Silver",
         "followingAuctionCode": "0019862828"
+      },
+      {
+        "start": 1788959184677,
+        "end": 1788959240765,
+        "durationMin": 0.9,
+        "precedingSku": "8354703",
+        "precedingTitle": "Designer Inspired Close Out Deal  - 24K Yellow (99.9% Purity) Gold Bangle (Size 7.5), Gold Wt. 5.40 Gms.",
+        "precedingAuctionCode": "0019863466",
+        "followingSku": "8736105",
+        "followingTitle": "D'Joy - Multi Sapphire Dangling Earring with Push Post in Rhodium Overlay Sterling Silver 1.70 Ct.",
+        "followingAuctionCode": "0019862623"
       }
     ],
-    "lastOnAirSku": "8354703",
-    "lastOnAirTitle": "Designer Inspired Close Out Deal  - 24K Yellow (99.9% Purity) Gold Bangle (Size 7.5), Gold Wt. 5.40 Gms.",
-    "lastOnAirAuctionCode": "0019863466",
+    "lastOnAirSku": "8736105",
+    "lastOnAirTitle": "D'Joy - Multi Sapphire Dangling Earring with Push Post in Rhodium Overlay Sterling Silver 1.70 Ct.",
+    "lastOnAirAuctionCode": "0019862623",
     "precedingSku": "8354703",
     "precedingTitle": "Designer Inspired Close Out Deal  - 24K Yellow (99.9% Purity) Gold Bangle (Size 7.5), Gold Wt. 5.40 Gms.",
     "precedingAuctionCode": "0019863466"
