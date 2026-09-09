@@ -8469,17 +8469,23 @@
       "sku": "8356034",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-25",
-      "time": "06:49:18",
+      "date": "2026-09-09",
+      "time": "04:49:21",
       "preExisting": true,
       "missedAt": 1784958558584,
       "missedDelay": null,
-      "lastUpdated": 1784958558584,
+      "lastUpdated": 1788925761135,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "999 Sterling Silver Unicorn Bar",
-      "auctionCode": "0019793309",
-      "source": "gha"
+      "title": "999 Pure Silver (99.9% Purity) Daisy the Cat Collectible",
+      "auctionCode": "0019861698",
+      "source": "gha",
+      "lastAir": 1788925761135,
+      "pdpPrice": "719.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8356033": {
       "sku": "8356033",
@@ -320278,8 +320284,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788925724369,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -343720,11 +343726,22 @@
         "followingSku": "8478760",
         "followingTitle": "La Bella Handmade- Sterling Silver Curb Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019862865"
+      },
+      {
+        "start": 1788925724369,
+        "end": 1788925761135,
+        "durationMin": 0.6,
+        "precedingSku": "8478760",
+        "precedingTitle": "La Bella Handmade- Sterling Silver Curb Necklace (Size - 20) with Lobster Clasp",
+        "precedingAuctionCode": "0019862865",
+        "followingSku": "8356034",
+        "followingTitle": "999 Pure Silver (99.9% Purity) Daisy the Cat Collectible",
+        "followingAuctionCode": "0019861698"
       }
     ],
-    "lastOnAirSku": "8478760",
-    "lastOnAirTitle": "La Bella Handmade- Sterling Silver Curb Necklace (Size - 20) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019862865",
+    "lastOnAirSku": "8356034",
+    "lastOnAirTitle": "999 Pure Silver (99.9% Purity) Daisy the Cat Collectible",
+    "lastOnAirAuctionCode": "0019861698",
     "precedingSku": "8478760",
     "precedingTitle": "La Bella Handmade- Sterling Silver Curb Necklace (Size - 20) with Lobster Clasp",
     "precedingAuctionCode": "0019862865"
