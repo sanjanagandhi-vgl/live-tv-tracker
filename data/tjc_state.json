@@ -321987,9 +321987,16 @@
       "img": true,
       "date": "2026-09-09",
       "time": "11:56:24",
-      "productUrl": null,
-      "lastUpdated": 1788951384954,
-      "source": "gha"
+      "productUrl": "/products/evertrue-blue-turquoise-cluster-earring-pure-yellow-brass-11-916-ct-8677126",
+      "lastUpdated": 1788951928857,
+      "source": "gha",
+      "missedAt": 1788951928857,
+      "missedDelay": 9,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1788951931576,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4505807": {
       "sku": "4505807",
@@ -322008,11 +322015,29 @@
       "productUrl": null,
       "lastUpdated": 1788951835884,
       "source": "gha"
+    },
+    "8677312": {
+      "sku": "8677312",
+      "firstAir": 1788951928857,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788951928857,
+      "title": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold 4.30 Ct.",
+      "pdpPrice": "239.99",
+      "auctionCode": "0019862199",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "12:05:28",
+      "productUrl": null,
+      "lastUpdated": 1788951928857,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788951863962,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -345739,11 +345764,22 @@
         "followingSku": "4505807",
         "followingTitle": "EverTrue - Mohave Blue Turquoise, Skyblue Topaz & White Zircon Crescent Moon Pendant with Chain (Size 20) in Yellow Gold 7.30 Ct.",
         "followingAuctionCode": "0019862182"
+      },
+      {
+        "start": 1788951863962,
+        "end": 1788951928857,
+        "durationMin": 1.1,
+        "precedingSku": "4505807",
+        "precedingTitle": "EverTrue - Mohave Blue Turquoise, Skyblue Topaz & White Zircon Crescent Moon Pendant with Chain (Size 20) in Yellow Gold 7.30 Ct.",
+        "precedingAuctionCode": "0019862182",
+        "followingSku": "8677312",
+        "followingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold 4.30 Ct.",
+        "followingAuctionCode": "0019862199"
       }
     ],
-    "lastOnAirSku": "4505807",
-    "lastOnAirTitle": "EverTrue - Mohave Blue Turquoise, Skyblue Topaz & White Zircon Crescent Moon Pendant with Chain (Size 20) in Yellow Gold 7.30 Ct.",
-    "lastOnAirAuctionCode": "0019862182",
+    "lastOnAirSku": "8677312",
+    "lastOnAirTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold 4.30 Ct.",
+    "lastOnAirAuctionCode": "0019862199",
     "precedingSku": "4505807",
     "precedingTitle": "EverTrue - Mohave Blue Turquoise, Skyblue Topaz & White Zircon Crescent Moon Pendant with Chain (Size 20) in Yellow Gold 7.30 Ct.",
     "precedingAuctionCode": "0019862182"
