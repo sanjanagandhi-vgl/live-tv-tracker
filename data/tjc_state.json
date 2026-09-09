@@ -321024,11 +321024,29 @@
       "productUrl": null,
       "lastUpdated": 1788949102564,
       "source": "gha"
+    },
+    "4507382": {
+      "sku": "4507382",
+      "firstAir": 1788949240956,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1788949240956,
+      "title": "EverTrue - Blue Turquoise Cross Pendant with Chain (Size 20) in Yellow Gold Tone 3.90 Ct.",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019862171",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-09",
+      "time": "11:20:40",
+      "productUrl": null,
+      "lastUpdated": 1788949240956,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1788949159556,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -344711,11 +344729,22 @@
         "followingSku": "8690497",
         "followingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Floral Dangle Earring with Lever Back in Yellow Gold Tone 3.50 Ct.",
         "followingAuctionCode": "0019862195"
+      },
+      {
+        "start": 1788949159556,
+        "end": 1788949240956,
+        "durationMin": 1.4,
+        "precedingSku": "8690497",
+        "precedingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Floral Dangle Earring with Lever Back in Yellow Gold Tone 3.50 Ct.",
+        "precedingAuctionCode": "0019862195",
+        "followingSku": "4507382",
+        "followingTitle": "EverTrue - Blue Turquoise Cross Pendant with Chain (Size 20) in Yellow Gold Tone 3.90 Ct.",
+        "followingAuctionCode": "0019862171"
       }
     ],
-    "lastOnAirSku": "8690497",
-    "lastOnAirTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Floral Dangle Earring with Lever Back in Yellow Gold Tone 3.50 Ct.",
-    "lastOnAirAuctionCode": "0019862195",
+    "lastOnAirSku": "4507382",
+    "lastOnAirTitle": "EverTrue - Blue Turquoise Cross Pendant with Chain (Size 20) in Yellow Gold Tone 3.90 Ct.",
+    "lastOnAirAuctionCode": "0019862171",
     "precedingSku": "8690497",
     "precedingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Floral Dangle Earring with Lever Back in Yellow Gold Tone 3.50 Ct.",
     "precedingAuctionCode": "0019862195"
