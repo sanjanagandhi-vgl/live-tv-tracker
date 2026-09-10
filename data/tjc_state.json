@@ -327003,9 +327003,16 @@
       "img": true,
       "date": "2026-09-10",
       "time": "10:54:24",
-      "productUrl": null,
-      "lastUpdated": 1789034064768,
-      "source": "gha"
+      "productUrl": "/products/evertrue-bronzella-collection-station-bracelet-size-7-5-in-yellow-gold-tone-8607543",
+      "lastUpdated": 1789034601889,
+      "source": "gha",
+      "missedAt": 1789034601889,
+      "missedDelay": 9,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1789034609927,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8607541": {
       "sku": "8607541",
@@ -327030,8 +327037,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789034601889,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351775,8 +351782,8 @@
     "lastOnAirSku": "8607541",
     "lastOnAirTitle": "Bronzella Collection - Floral Earring with Push Post in 18K Gold Plating 2.60 Gms",
     "lastOnAirAuctionCode": "0019863053",
-    "precedingSku": "8502647",
-    "precedingTitle": "Bronzella Collection - Byzantine Link Cross Earring with Lever Back in 18K Gold Plating 3.26 Gm",
-    "precedingAuctionCode": "0019863091"
+    "precedingSku": "8607541",
+    "precedingTitle": "Bronzella Collection - Floral Earring with Push Post in 18K Gold Plating 2.60 Gms",
+    "precedingAuctionCode": "0019863053"
   }
 }
