@@ -325852,11 +325852,29 @@
       "productUrl": null,
       "lastUpdated": 1789006758862,
       "source": "gha"
+    },
+    "7707020": {
+      "sku": "7707020",
+      "firstAir": 1789006880617,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789006880617,
+      "title": "Lightning Deal Special- Padded Deep Filled Fleeced Unisex Jacket With Zip Pockets - Navy",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019863029",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-10",
+      "time": "03:21:20",
+      "productUrl": null,
+      "lastUpdated": 1789006880617,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789006839714,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -350232,11 +350250,22 @@
         "followingSku": "8289337",
         "followingTitle": "JJ Willis Mens Long Sleeve Shirt (Size XXL) - Pink",
         "followingAuctionCode": "0019862997"
+      },
+      {
+        "start": 1789006839714,
+        "end": 1789006880617,
+        "durationMin": 0.7,
+        "precedingSku": "7924748",
+        "precedingTitle": "URBAN GANG Cotton Mens Cuffed Jogger",
+        "precedingAuctionCode": "0019863016",
+        "followingSku": "7707020",
+        "followingTitle": "Lightning Deal Special- Padded Deep Filled Fleeced Unisex Jacket With Zip Pockets - Navy",
+        "followingAuctionCode": "0019863029"
       }
     ],
-    "lastOnAirSku": "7924748",
-    "lastOnAirTitle": "URBAN GANG Cotton Mens Cuffed Jogger",
-    "lastOnAirAuctionCode": "0019863016",
+    "lastOnAirSku": "7707020",
+    "lastOnAirTitle": "Lightning Deal Special- Padded Deep Filled Fleeced Unisex Jacket With Zip Pockets - Navy",
+    "lastOnAirAuctionCode": "0019863029",
     "precedingSku": "7924748",
     "precedingTitle": "URBAN GANG Cotton Mens Cuffed Jogger",
     "precedingAuctionCode": "0019863016"
