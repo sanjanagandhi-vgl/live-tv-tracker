@@ -1739,23 +1739,23 @@
       "sku": "8519081",
       "tvPrice": "",
       "remarks": "",
-      "time": "06:22:22",
+      "time": "06:40:40",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Leopard Royal Savannah EDP - 100ml",
-      "auctionCode": "0019854473",
+      "auctionCode": "0019864032",
       "source": "gha",
-      "lastAir": 1788412942484,
-      "pdpPrice": "19.99",
+      "lastAir": 1789018840680,
+      "pdpPrice": "139.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-03",
+      "date": "2026-09-10",
       "productUrl": null,
-      "lastUpdated": 1788412942484
+      "lastUpdated": 1789018840680
     },
     "8696197": {
       "sku": "8696197",
@@ -326424,8 +326424,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789018703674,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -350977,11 +350977,22 @@
         "followingSku": "8478742",
         "followingTitle": "La Bella Handmade- Yellow Gold Plated Sterling Silver Bracelet (Size - 7.5) with Lobster Clasp",
         "followingAuctionCode": "0019863978"
+      },
+      {
+        "start": 1789018703674,
+        "end": 1789018840680,
+        "durationMin": 2.3,
+        "precedingSku": "8722744",
+        "precedingTitle": "La Bella Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
+        "precedingAuctionCode": "0019863918",
+        "followingSku": "8519081",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019864032"
       }
     ],
-    "lastOnAirSku": "8722744",
-    "lastOnAirTitle": "La Bella Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019863918",
+    "lastOnAirSku": "8519081",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019864032",
     "precedingSku": "8722744",
     "precedingTitle": "La Bella Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
     "precedingAuctionCode": "0019863918"
