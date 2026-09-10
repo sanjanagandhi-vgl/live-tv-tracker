@@ -90034,21 +90034,26 @@
       "sku": "8671642",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "00:03:33",
+      "date": "2026-09-10",
+      "time": "19:36:28",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1786057413979,
+      "lastUpdated": 1789065388009,
       "missedPrice": 69.99,
       "missedImg": true,
       "title": "AAA Brazilian Natural Ember Garnet Necklace (Size - 20) in Rhodium Overlay Sterling Silver 85.00 Ct.",
-      "auctionCode": "0019808476",
+      "auctionCode": "0019863131",
       "source": "gha",
       "productUrl": "/products/djoy-amber-garnet-beads-necklace-size-20-in-rhodium-overlaysterling-silver-85-000-ct-8671642",
       "productUrlChecked": 1786058138821,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789065388009,
+      "pdpPrice": "2342.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8627911": {
       "sku": "8627911",
@@ -328379,8 +328384,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789065331619,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -353328,11 +353333,22 @@
         "followingSku": "8645253",
         "followingTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
         "followingAuctionCode": "0019856995"
+      },
+      {
+        "start": 1789065331619,
+        "end": 1789065388009,
+        "durationMin": 0.9,
+        "precedingSku": "8645253",
+        "precedingTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
+        "precedingAuctionCode": "0019856995",
+        "followingSku": "8671642",
+        "followingTitle": "AAA Brazilian Natural Ember Garnet Necklace (Size - 20) in Rhodium Overlay Sterling Silver 85.00 Ct.",
+        "followingAuctionCode": "0019863131"
       }
     ],
-    "lastOnAirSku": "8645253",
-    "lastOnAirTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
-    "lastOnAirAuctionCode": "0019856995",
+    "lastOnAirSku": "8671642",
+    "lastOnAirTitle": "AAA Brazilian Natural Ember Garnet Necklace (Size - 20) in Rhodium Overlay Sterling Silver 85.00 Ct.",
+    "lastOnAirAuctionCode": "0019863131",
     "precedingSku": "8645253",
     "precedingTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
     "precedingAuctionCode": "0019856995"
