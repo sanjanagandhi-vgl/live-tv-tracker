@@ -20727,18 +20727,18 @@
       "sku": "8556783",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-06",
-      "time": "07:05:27",
+      "date": "2026-09-10",
+      "time": "02:25:29",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1788674727353,
+      "lastUpdated": 1789003529200,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
-      "auctionCode": "0019857345",
+      "auctionCode": "0019862930",
       "source": "gha",
-      "lastAir": 1788674727353,
+      "lastAir": 1789003529200,
       "pdpPrice": "14.99",
       "buy": true,
       "login": false,
@@ -325673,8 +325673,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789003466584,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -350017,11 +350017,22 @@
         "followingSku": "8675165",
         "followingTitle": "G- Shape Lamp with Wireless Phone Charging and Bluetooth Speaker - White",
         "followingAuctionCode": "0019862919"
+      },
+      {
+        "start": 1789003466584,
+        "end": 1789003529200,
+        "durationMin": 1.0,
+        "precedingSku": "8532171",
+        "precedingTitle": "Round Non-Woven Underbed Shoe Storage Organiser Bag (Size 75x15cm) - Brown",
+        "precedingAuctionCode": "0019862917",
+        "followingSku": "8556783",
+        "followingTitle": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
+        "followingAuctionCode": "0019862930"
       }
     ],
-    "lastOnAirSku": "8532171",
-    "lastOnAirTitle": "Round Non-Woven Underbed Shoe Storage Organiser Bag (Size 75x15cm) - Brown",
-    "lastOnAirAuctionCode": "0019862917",
+    "lastOnAirSku": "8556783",
+    "lastOnAirTitle": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
+    "lastOnAirAuctionCode": "0019862930",
     "precedingSku": "8532171",
     "precedingTitle": "Round Non-Woven Underbed Shoe Storage Organiser Bag (Size 75x15cm) - Brown",
     "precedingAuctionCode": "0019862917"
