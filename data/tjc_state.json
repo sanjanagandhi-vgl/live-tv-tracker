@@ -553,22 +553,22 @@
       "sku": "6860824",
       "tvPrice": "",
       "remarks": "",
-      "time": "18:06:23",
+      "time": "07:35:30",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
-      "auctionCode": "0019858079",
+      "auctionCode": "0019863829",
       "source": "gha",
-      "lastAir": 1788541583133,
-      "pdpPrice": "9.99",
+      "lastAir": 1789022130684,
+      "pdpPrice": "14.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-04",
-      "lastUpdated": 1788541583133,
+      "date": "2026-09-10",
+      "lastUpdated": 1789022130684,
       "productUrl": null
     },
     "7800646": {
@@ -326429,8 +326429,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789021854232,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351026,11 +351026,22 @@
         "followingSku": "8324444",
         "followingTitle": "NOD Homage EDP - 30ml",
         "followingAuctionCode": "0019863840"
+      },
+      {
+        "start": 1789021854232,
+        "end": 1789022130684,
+        "durationMin": 4.6,
+        "precedingSku": "8324444",
+        "precedingTitle": "NOD Homage EDP - 30ml",
+        "precedingAuctionCode": "0019863840",
+        "followingSku": "6860824",
+        "followingTitle": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
+        "followingAuctionCode": "0019863829"
       }
     ],
-    "lastOnAirSku": "8324444",
-    "lastOnAirTitle": "NOD Homage EDP - 30ml",
-    "lastOnAirAuctionCode": "0019863840",
+    "lastOnAirSku": "6860824",
+    "lastOnAirTitle": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
+    "lastOnAirAuctionCode": "0019863829",
     "precedingSku": "8324444",
     "precedingTitle": "NOD Homage EDP - 30ml",
     "precedingAuctionCode": "0019863840"
