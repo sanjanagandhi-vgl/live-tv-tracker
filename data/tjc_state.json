@@ -326480,11 +326480,29 @@
       "productUrl": null,
       "lastUpdated": 1789027704142,
       "source": "gha"
+    },
+    "8625990": {
+      "sku": "8625990",
+      "firstAir": 1789027880371,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789027880371,
+      "title": "La Marey Womens Contour Luxe Knitted Poncho Cape (One Size, 8-20) - Chocolate",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019863643",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-10",
+      "time": "09:11:20",
+      "productUrl": null,
+      "lastUpdated": 1789027880371,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789027759022,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351135,11 +351153,22 @@
         "followingSku": "8757773",
         "followingTitle": "Cintra Ladies Black Slip On Loafers (Size 8) - Black",
         "followingAuctionCode": "0019863468"
+      },
+      {
+        "start": 1789027759022,
+        "end": 1789027880371,
+        "durationMin": 2.0,
+        "precedingSku": "8757773",
+        "precedingTitle": "Cintra Ladies Black Slip On Loafers (Size 8) - Black",
+        "precedingAuctionCode": "0019863468",
+        "followingSku": "8625990",
+        "followingTitle": "La Marey Womens Contour Luxe Knitted Poncho Cape (One Size, 8-20) - Chocolate",
+        "followingAuctionCode": "0019863643"
       }
     ],
-    "lastOnAirSku": "8757773",
-    "lastOnAirTitle": "Cintra Ladies Black Slip On Loafers (Size 8) - Black",
-    "lastOnAirAuctionCode": "0019863468",
+    "lastOnAirSku": "8625990",
+    "lastOnAirTitle": "La Marey Womens Contour Luxe Knitted Poncho Cape (One Size, 8-20) - Chocolate",
+    "lastOnAirAuctionCode": "0019863643",
     "precedingSku": "8757773",
     "precedingTitle": "Cintra Ladies Black Slip On Loafers (Size 8) - Black",
     "precedingAuctionCode": "0019863468"
