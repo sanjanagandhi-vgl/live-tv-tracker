@@ -9837,21 +9837,22 @@
       "firstAir": 1784986528033,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784986883247,
-      "title": "EverTrue Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Plating",
-      "pdpPrice": 34.99,
-      "auctionCode": "0019794248",
-      "buy": false,
-      "login": true,
+      "lastAir": 1789031839921,
+      "title": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Plating 17.95 Gms",
+      "pdpPrice": "34.99",
+      "auctionCode": "0019863094",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "14:41:23",
-      "lastUpdated": 1784987000463,
+      "date": "2026-09-10",
+      "time": "10:17:19",
+      "lastUpdated": 1789031839921,
       "source": "gha",
       "missedAt": 1784987000463,
       "missedDelay": 2,
       "missedPrice": 34.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8607780": {
       "sku": "8607780",
@@ -326731,8 +326732,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789031786019,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351427,11 +351428,22 @@
         "followingSku": "8607587",
         "followingTitle": "Bronzella Collection - Full Hoop Earring with Clasp in 18K Gold Plating 6.55 Gms",
         "followingAuctionCode": "0019863089"
+      },
+      {
+        "start": 1789031786019,
+        "end": 1789031839921,
+        "durationMin": 0.9,
+        "precedingSku": "8607587",
+        "precedingTitle": "Bronzella Collection - Full Hoop Earring with Clasp in 18K Gold Plating 6.55 Gms",
+        "precedingAuctionCode": "0019863089",
+        "followingSku": "8607793",
+        "followingTitle": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Plating 17.95 Gms",
+        "followingAuctionCode": "0019863094"
       }
     ],
-    "lastOnAirSku": "8607587",
-    "lastOnAirTitle": "Bronzella Collection - Full Hoop Earring with Clasp in 18K Gold Plating 6.55 Gms",
-    "lastOnAirAuctionCode": "0019863089",
+    "lastOnAirSku": "8607793",
+    "lastOnAirTitle": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Plating 17.95 Gms",
+    "lastOnAirAuctionCode": "0019863094",
     "precedingSku": "8607587",
     "precedingTitle": "Bronzella Collection - Full Hoop Earring with Clasp in 18K Gold Plating 6.55 Gms",
     "precedingAuctionCode": "0019863089"
