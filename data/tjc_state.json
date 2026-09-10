@@ -326411,14 +326411,21 @@
       "img": true,
       "date": "2026-09-10",
       "time": "06:28:22",
-      "productUrl": null,
-      "lastUpdated": 1789018102605,
-      "source": "gha"
+      "productUrl": "/products/paper-chain-with-lobster-clasp-1258613692",
+      "lastUpdated": 1789018703674,
+      "source": "gha",
+      "missedAt": 1789018703674,
+      "missedDelay": 10,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "productUrlChecked": 1789018707360,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789018703674,
     "gaps": [
       {
         "start": 1785823527869,
@@ -350975,8 +350982,8 @@
     "lastOnAirSku": "8722744",
     "lastOnAirTitle": "La Bella Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
     "lastOnAirAuctionCode": "0019863918",
-    "precedingSku": "8613706",
-    "precedingTitle": "Midnight Mega Deal- 22K Gold Vermeil Paper Clip Necklace with Lobster Clasp Sterling Silver, 15.65g (Size - 20),",
-    "precedingAuctionCode": "0019863974"
+    "precedingSku": "8722744",
+    "precedingTitle": "La Bella Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
+    "precedingAuctionCode": "0019863918"
   }
 }
