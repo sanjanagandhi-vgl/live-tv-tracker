@@ -326376,14 +326376,21 @@
       "img": true,
       "date": "2026-09-10",
       "time": "05:12:22",
-      "productUrl": null,
-      "lastUpdated": 1789013542999,
-      "source": "gha"
+      "productUrl": "/products/9k-white-gold-premium-vietnamese-cobalt-blue-spinel-earring-with-push-back-2-00-ct",
+      "lastUpdated": 1789014039146,
+      "source": "gha",
+      "missedAt": 1789014039146,
+      "missedDelay": 8,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "productUrlChecked": 1789014046274,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789014039146,
     "gaps": [
       {
         "start": 1785823527869,
@@ -350874,8 +350881,8 @@
     "lastOnAirSku": "8499782",
     "lastOnAirTitle": "9K Yellow Gold Tanzanite Solitaire Ring 2.00 Ct.",
     "lastOnAirAuctionCode": "0019863267",
-    "precedingSku": "8164740",
-    "precedingTitle": "GP Adjustable Chain Bracelet (Size - 8) with Lobster Clasp in Sterling Silver",
-    "precedingAuctionCode": "0019863378"
+    "precedingSku": "8499782",
+    "precedingTitle": "9K Yellow Gold Tanzanite Solitaire Ring 2.00 Ct.",
+    "precedingAuctionCode": "0019863267"
   }
 }
