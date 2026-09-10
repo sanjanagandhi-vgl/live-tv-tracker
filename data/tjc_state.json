@@ -321108,21 +321108,26 @@
       "sku": "8625173",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-09",
-      "time": "09:42:26",
+      "date": "2026-09-10",
+      "time": "09:40:37",
       "preExisting": true,
       "missedAt": 1788943346008,
       "missedDelay": null,
-      "lastUpdated": 1788943346008,
+      "lastUpdated": 1789029637594,
       "missedPrice": 24.99,
       "missedImg": false,
       "title": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
-      "auctionCode": "0019862028",
+      "auctionCode": "0019864152",
       "source": "gha",
       "productUrl": "/products/la-marey-womens-knitted-longline-cardigan-with-pockets-one-size-8-18-white-light-brown-black-8625170",
       "productUrlChecked": 1788943349239,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789029637594,
+      "pdpPrice": "149.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8309398": {
       "sku": "8309398",
@@ -326653,8 +326658,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789029502025,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351316,11 +351321,22 @@
         "followingSku": "8625990",
         "followingTitle": "La Marey Womens Contour Luxe Knitted Poncho Cape (One Size, 8-20) - Chocolate",
         "followingAuctionCode": "0019863643"
+      },
+      {
+        "start": 1789029502025,
+        "end": 1789029637594,
+        "durationMin": 2.3,
+        "precedingSku": "8566685",
+        "precedingTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green - Black",
+        "precedingAuctionCode": "0019863462",
+        "followingSku": "8625173",
+        "followingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
+        "followingAuctionCode": "0019864152"
       }
     ],
-    "lastOnAirSku": "8566685",
-    "lastOnAirTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green - Black",
-    "lastOnAirAuctionCode": "0019863462",
+    "lastOnAirSku": "8625173",
+    "lastOnAirTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
+    "lastOnAirAuctionCode": "0019864152",
     "precedingSku": "8566685",
     "precedingTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green - Black",
     "precedingAuctionCode": "0019863462"
