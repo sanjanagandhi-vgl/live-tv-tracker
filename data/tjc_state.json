@@ -40492,21 +40492,26 @@
       "sku": "8702910",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "21:49:07",
+      "date": "2026-09-10",
+      "time": "03:44:23",
       "preExisting": true,
       "missedAt": 1785530947401,
       "missedDelay": null,
-      "lastUpdated": 1785530947401,
+      "lastUpdated": 1789008263817,
       "missedPrice": 129.99,
       "missedImg": true,
-      "title": "William Hunt Relief Dragon Miyota 2035 Japan Movement 5ATM WR Earth Pattern Gold Sunray Dial & IPG Plating 304 Stainless Steel Case Mens Watch with Stainless Steel Strap",
-      "auctionCode": "0019803248",
+      "title": "FINAL WATCH OF CLEARANCE - William Hunt Limited Edition Japanese Movement 5ATM WR Dragon & Earth Watch With Scratch Resistant Mineral Glass Dial & 45MM Case - Two Tone",
+      "auctionCode": "0019862974",
       "source": "gha",
       "productUrl": "/products/william-hunt-watch-pure-white-stainless-steel-8702880",
       "productUrlChecked": 1785530960141,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789008263817,
+      "pdpPrice": "129.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8702912": {
       "sku": "8702912",
@@ -326109,8 +326114,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789008199270,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -350497,11 +350502,22 @@
         "followingSku": "7707020",
         "followingTitle": "Lightning Deal Special- Padded Deep Filled Fleeced Unisex Jacket With Zip Pockets - Navy",
         "followingAuctionCode": "0019863029"
+      },
+      {
+        "start": 1789008199270,
+        "end": 1789008263817,
+        "durationMin": 1.1,
+        "precedingSku": "8380601",
+        "precedingTitle": "Livmore MS-806 5-in-1 Grooming Kit - Professional Silver Cordless Hair Trimmer with LED Display, Rechargeable 90-Minute Lithium Battery Shaver",
+        "precedingAuctionCode": "0019863015",
+        "followingSku": "8702910",
+        "followingTitle": "FINAL WATCH OF CLEARANCE - William Hunt Limited Edition Japanese Movement 5ATM WR Dragon & Earth Watch With Scratch Resistant Mineral Glass Dial & 45MM Case - Two Tone",
+        "followingAuctionCode": "0019862974"
       }
     ],
-    "lastOnAirSku": "8380601",
-    "lastOnAirTitle": "Livmore MS-806 5-in-1 Grooming Kit - Professional Silver Cordless Hair Trimmer with LED Display, Rechargeable 90-Minute Lithium Battery Shaver",
-    "lastOnAirAuctionCode": "0019863015",
+    "lastOnAirSku": "8702910",
+    "lastOnAirTitle": "FINAL WATCH OF CLEARANCE - William Hunt Limited Edition Japanese Movement 5ATM WR Dragon & Earth Watch With Scratch Resistant Mineral Glass Dial & 45MM Case - Two Tone",
+    "lastOnAirAuctionCode": "0019862974",
     "precedingSku": "8380601",
     "precedingTitle": "Livmore MS-806 5-in-1 Grooming Kit - Professional Silver Cordless Hair Trimmer with LED Display, Rechargeable 90-Minute Lithium Battery Shaver",
     "precedingAuctionCode": "0019863015"
