@@ -326462,11 +326462,29 @@
       "productUrlChecked": 1789018707360,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8757773": {
+      "sku": "8757773",
+      "firstAir": 1789027110687,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789027110687,
+      "title": "Cintra Ladies Black Slip On Loafers (Size 8) - Black",
+      "pdpPrice": "44.99",
+      "auctionCode": "0019863468",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-10",
+      "time": "08:58:30",
+      "productUrl": null,
+      "lastUpdated": 1789027110687,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789026982726,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351106,11 +351124,22 @@
         "followingSku": "8622494",
         "followingTitle": "La Marey Womens Double Layer Classic Boat Neck Top (Size XL, 20-22) - Bright Red",
         "followingAuctionCode": "0019863436"
+      },
+      {
+        "start": 1789026982726,
+        "end": 1789027110687,
+        "durationMin": 2.1,
+        "precedingSku": "8622494",
+        "precedingTitle": "La Marey Womens Double Layer Classic Boat Neck Top (Size XL, 20-22) - Bright Red",
+        "precedingAuctionCode": "0019863436",
+        "followingSku": "8757773",
+        "followingTitle": "Cintra Ladies Black Slip On Loafers (Size 8) - Black",
+        "followingAuctionCode": "0019863468"
       }
     ],
-    "lastOnAirSku": "8622494",
-    "lastOnAirTitle": "La Marey Womens Double Layer Classic Boat Neck Top (Size XL, 20-22) - Bright Red",
-    "lastOnAirAuctionCode": "0019863436",
+    "lastOnAirSku": "8757773",
+    "lastOnAirTitle": "Cintra Ladies Black Slip On Loafers (Size 8) - Black",
+    "lastOnAirAuctionCode": "0019863468",
     "precedingSku": "8622494",
     "precedingTitle": "La Marey Womens Double Layer Classic Boat Neck Top (Size XL, 20-22) - Bright Red",
     "precedingAuctionCode": "0019863436"
