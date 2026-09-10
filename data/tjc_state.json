@@ -326187,9 +326187,16 @@
       "img": true,
       "date": "2026-09-10",
       "time": "04:22:24",
-      "productUrl": null,
-      "lastUpdated": 1789010544688,
-      "source": "gha"
+      "productUrl": "/products/african-ruby-white-zircon-pendant-with-chain-size-20-in-platinum-overlay-sterling-silver-0-11-ct-2-630-ct-4489587",
+      "lastUpdated": 1789011053174,
+      "source": "gha",
+      "missedAt": 1789011053174,
+      "missedDelay": 8,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "productUrlChecked": 1789011060876,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8236084": {
       "sku": "8236084",
@@ -326229,11 +326236,29 @@
       "productUrl": null,
       "lastUpdated": 1789010839286,
       "source": "gha"
+    },
+    "4417983": {
+      "sku": "4417983",
+      "firstAir": 1789011053174,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789011053174,
+      "title": "Rainbow Sapphire Pendant with Chain (Size 20)",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019863386",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-10",
+      "time": "04:30:53",
+      "productUrl": null,
+      "lastUpdated": 1789011053174,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789010959831,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -350675,11 +350700,22 @@
         "followingSku": "4489588",
         "followingTitle": "D'Joy - African Ruby & White Zircon Floral Pendant with Chain (Size 20) in Platinum Overlay Sterling Silver 3.40 Ct.",
         "followingAuctionCode": "0019863370"
+      },
+      {
+        "start": 1789010959831,
+        "end": 1789011053174,
+        "durationMin": 1.6,
+        "precedingSku": "4339075",
+        "precedingTitle": "Nebula Quartz Cosmic Spark Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 50.80 Ct, Silver Wt. 6.85 Gms.",
+        "precedingAuctionCode": "0019863377",
+        "followingSku": "4417983",
+        "followingTitle": "Rainbow Sapphire Pendant with Chain (Size 20)",
+        "followingAuctionCode": "0019863386"
       }
     ],
-    "lastOnAirSku": "4339075",
-    "lastOnAirTitle": "Nebula Quartz Cosmic Spark Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 50.80 Ct, Silver Wt. 6.85 Gms.",
-    "lastOnAirAuctionCode": "0019863377",
+    "lastOnAirSku": "4417983",
+    "lastOnAirTitle": "Rainbow Sapphire Pendant with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019863386",
     "precedingSku": "4339075",
     "precedingTitle": "Nebula Quartz Cosmic Spark Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 50.80 Ct, Silver Wt. 6.85 Gms.",
     "precedingAuctionCode": "0019863377"
