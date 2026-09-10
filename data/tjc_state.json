@@ -327038,11 +327038,29 @@
       "missedDelay": 9,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8620916": {
+      "sku": "8620916",
+      "firstAir": 1789035681041,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789035681041,
+      "title": "Bronzella Collection - Full Hoop Earring with Clasp Back in 18K Gold Plating 4.57 Gms",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019863200",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-10",
+      "time": "11:21:21",
+      "productUrl": null,
+      "lastUpdated": 1789035681041,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789035637912,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351792,11 +351810,22 @@
         "followingSku": "8666672",
         "followingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rock Necklace (Size - 30) Weight 11.10 Grams",
         "followingAuctionCode": "0019864141"
+      },
+      {
+        "start": 1789035637912,
+        "end": 1789035681041,
+        "durationMin": 0.7,
+        "precedingSku": "8666730",
+        "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rock  Bracelet (Size - 7-1 Ext)",
+        "precedingAuctionCode": "0019864142",
+        "followingSku": "8620916",
+        "followingTitle": "Bronzella Collection - Full Hoop Earring with Clasp Back in 18K Gold Plating 4.57 Gms",
+        "followingAuctionCode": "0019863200"
       }
     ],
-    "lastOnAirSku": "8666730",
-    "lastOnAirTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rock  Bracelet (Size - 7-1 Ext)",
-    "lastOnAirAuctionCode": "0019864142",
+    "lastOnAirSku": "8620916",
+    "lastOnAirTitle": "Bronzella Collection - Full Hoop Earring with Clasp Back in 18K Gold Plating 4.57 Gms",
+    "lastOnAirAuctionCode": "0019863200",
     "precedingSku": "8666730",
     "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Rock  Bracelet (Size - 7-1 Ext)",
     "precedingAuctionCode": "0019864142"
