@@ -10091,21 +10091,22 @@
       "firstAir": 1784990129252,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784990182047,
-      "title": "EverTrue Bronzella Collection - Heart Drop Necklace (Size - 20) in Yellow Gold Tone",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019794261",
-      "buy": false,
-      "login": true,
+      "lastAir": 1789032094670,
+      "title": "Bronzella Collection - Heart Drop Necklace (Size - 20) in 18K Gold Plating 4.50 Gms",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019863095",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "15:36:22",
-      "lastUpdated": 1784990252917,
+      "date": "2026-09-10",
+      "time": "10:21:34",
+      "lastUpdated": 1789032094670,
       "source": "gha",
       "missedAt": 1784990252917,
       "missedDelay": 1,
       "missedPrice": 99.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8608110": {
       "sku": "8608110",
@@ -326732,8 +326733,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789031960187,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351439,11 +351440,22 @@
         "followingSku": "8607793",
         "followingTitle": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Plating 17.95 Gms",
         "followingAuctionCode": "0019863094"
+      },
+      {
+        "start": 1789031960187,
+        "end": 1789032094670,
+        "durationMin": 2.2,
+        "precedingSku": "8607793",
+        "precedingTitle": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Plating 17.95 Gms",
+        "precedingAuctionCode": "0019863094",
+        "followingSku": "8662614",
+        "followingTitle": "Bronzella Collection - Heart Drop Necklace (Size - 20) in 18K Gold Plating 4.50 Gms",
+        "followingAuctionCode": "0019863095"
       }
     ],
-    "lastOnAirSku": "8607793",
-    "lastOnAirTitle": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Plating 17.95 Gms",
-    "lastOnAirAuctionCode": "0019863094",
+    "lastOnAirSku": "8662614",
+    "lastOnAirTitle": "Bronzella Collection - Heart Drop Necklace (Size - 20) in 18K Gold Plating 4.50 Gms",
+    "lastOnAirAuctionCode": "0019863095",
     "precedingSku": "8607793",
     "precedingTitle": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Plating 17.95 Gms",
     "precedingAuctionCode": "0019863094"
