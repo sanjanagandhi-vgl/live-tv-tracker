@@ -328991,11 +328991,29 @@
       "productUrlChecked": 1789070788569,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8296218": {
+      "sku": "8296218",
+      "firstAir": 1789074265143,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789074265143,
+      "title": "Sterling Silver Snake Oxidized Pendant",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019864374",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-10",
+      "time": "22:04:25",
+      "productUrl": null,
+      "lastUpdated": 1789074265143,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789074200519,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -353998,11 +354016,22 @@
         "followingSku": "8608765",
         "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.05 Ct.",
         "followingAuctionCode": "0019864869"
+      },
+      {
+        "start": 1789074200519,
+        "end": 1789074265143,
+        "durationMin": 1.1,
+        "precedingSku": "8608765",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.05 Ct.",
+        "precedingAuctionCode": "0019864869",
+        "followingSku": "8296218",
+        "followingTitle": "Sterling Silver Snake Oxidized Pendant",
+        "followingAuctionCode": "0019864374"
       }
     ],
-    "lastOnAirSku": "8608765",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.05 Ct.",
-    "lastOnAirAuctionCode": "0019864869",
+    "lastOnAirSku": "8296218",
+    "lastOnAirTitle": "Sterling Silver Snake Oxidized Pendant",
+    "lastOnAirAuctionCode": "0019864374",
     "precedingSku": "8608765",
     "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.05 Ct.",
     "precedingAuctionCode": "0019864869"
