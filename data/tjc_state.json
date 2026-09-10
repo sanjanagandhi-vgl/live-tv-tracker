@@ -326752,11 +326752,29 @@
       "productUrl": null,
       "lastUpdated": 1789032383136,
       "source": "gha"
+    },
+    "8742639": {
+      "sku": "8742639",
+      "firstAir": 1789032503633,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789032503633,
+      "title": "Bronzella Collection - Serpentine Ring in Yellow Gold Tone 3.90 Gms",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019863055",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-10",
+      "time": "10:28:23",
+      "productUrl": null,
+      "lastUpdated": 1789032503633,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789032441288,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351473,11 +351491,22 @@
         "followingSku": "8662614",
         "followingTitle": "Bronzella Collection - Heart Drop Necklace (Size - 20) in 18K Gold Plating 4.50 Gms",
         "followingAuctionCode": "0019863095"
+      },
+      {
+        "start": 1789032441288,
+        "end": 1789032503633,
+        "durationMin": 1.0,
+        "precedingSku": "8607601",
+        "precedingTitle": "Bronzella Collection - Heart Drop Earring with Push Post in 18K Gold Plating",
+        "precedingAuctionCode": "0019863088",
+        "followingSku": "8742639",
+        "followingTitle": "Bronzella Collection - Serpentine Ring in Yellow Gold Tone 3.90 Gms",
+        "followingAuctionCode": "0019863055"
       }
     ],
-    "lastOnAirSku": "8607601",
-    "lastOnAirTitle": "Bronzella Collection - Heart Drop Earring with Push Post in 18K Gold Plating",
-    "lastOnAirAuctionCode": "0019863088",
+    "lastOnAirSku": "8742639",
+    "lastOnAirTitle": "Bronzella Collection - Serpentine Ring in Yellow Gold Tone 3.90 Gms",
+    "lastOnAirAuctionCode": "0019863055",
     "precedingSku": "8607601",
     "precedingTitle": "Bronzella Collection - Heart Drop Earring with Push Post in 18K Gold Plating",
     "precedingAuctionCode": "0019863088"
