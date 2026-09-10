@@ -212433,21 +212433,26 @@
       "sku": "8324444",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "20:14:21",
+      "date": "2026-09-10",
+      "time": "07:15:36",
       "preExisting": true,
       "missedAt": 1787339661877,
       "missedDelay": null,
-      "lastUpdated": 1787339661877,
+      "lastUpdated": 1789020936593,
       "missedPrice": 12.99,
       "missedImg": true,
       "title": "NOD Homage EDP - 30ml",
-      "auctionCode": "0019830277",
+      "auctionCode": "0019863840",
       "source": "gha",
       "productUrl": "/products/nod-homage-edp-30ml",
       "productUrlChecked": 1787339673353,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789020936593,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8324445": {
       "sku": "8324445",
@@ -326424,8 +326429,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789020865277,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -351010,11 +351015,22 @@
         "followingSku": "221332588",
         "followingTitle": "Set of 4- Laurelle Perfume Bundale Deal- ( V.V. Love Dama DE ORO, INSUPERABILE,ROBOT , I'M The One EDP)",
         "followingAuctionCode": "0019863821"
+      },
+      {
+        "start": 1789020865277,
+        "end": 1789020936593,
+        "durationMin": 1.2,
+        "precedingSku": "221332588",
+        "precedingTitle": "Set of 4- Laurelle Perfume Bundale Deal- ( V.V. Love Dama DE ORO, INSUPERABILE,ROBOT , I'M The One EDP)",
+        "precedingAuctionCode": "0019863821",
+        "followingSku": "8324444",
+        "followingTitle": "NOD Homage EDP - 30ml",
+        "followingAuctionCode": "0019863840"
       }
     ],
-    "lastOnAirSku": "221332588",
-    "lastOnAirTitle": "Set of 4- Laurelle Perfume Bundale Deal- ( V.V. Love Dama DE ORO, INSUPERABILE,ROBOT , I'M The One EDP)",
-    "lastOnAirAuctionCode": "0019863821",
+    "lastOnAirSku": "8324444",
+    "lastOnAirTitle": "NOD Homage EDP - 30ml",
+    "lastOnAirAuctionCode": "0019863840",
     "precedingSku": "221332588",
     "precedingTitle": "Set of 4- Laurelle Perfume Bundale Deal- ( V.V. Love Dama DE ORO, INSUPERABILE,ROBOT , I'M The One EDP)",
     "precedingAuctionCode": "0019863821"
