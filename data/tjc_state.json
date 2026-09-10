@@ -329107,16 +329107,40 @@
       "date": "2026-09-10",
       "time": "23:36:23",
       "productUrl": "/products/sterling-silver-bracelet-size-8-with-lobster-clasp-8722903?variant=53427696075018",
-      "lastUpdated": 1789079783763,
+      "lastUpdated": 1789080337226,
       "source": "gha",
       "productUrlChecked": 1789079790487,
+      "productUrlStatus": 200,
+      "productUrl404": false,
+      "missedAt": 1789080337226,
+      "missedDelay": 9,
+      "missedPrice": 59.99,
+      "missedImg": false
+    },
+    "8722902": {
+      "sku": "8722902",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-10",
+      "time": "23:45:37",
+      "preExisting": true,
+      "missedAt": 1789080337226,
+      "missedDelay": null,
+      "lastUpdated": 1789080337226,
+      "missedPrice": 59.99,
+      "missedImg": false,
+      "title": "La Bella Sterling Silver Link Chain Bracelet (Size - 7.5) with Lobster Clasp",
+      "auctionCode": "0019864459",
+      "source": "gha",
+      "productUrl": "/products/sterling-silver-bracelet-size-8-with-lobster-clasp-8722903",
+      "productUrlChecked": 1789080339894,
       "productUrlStatus": 200,
       "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789080337226,
     "gaps": [
       {
         "start": 1785823527869,
@@ -354168,8 +354192,8 @@
     "lastOnAirSku": "8723842",
     "lastOnAirTitle": "La Bella Italian Made- Sterling Silver Necklace (Size - 20) with Lobster Clasp",
     "lastOnAirAuctionCode": "0019864484",
-    "precedingSku": "8646053",
-    "precedingTitle": "Biggest CLose Out Deal- Yellow Gold Plated Sterling Silver Band Ring",
-    "precedingAuctionCode": "0019864399"
+    "precedingSku": "8723842",
+    "precedingTitle": "La Bella Italian Made- Sterling Silver Necklace (Size - 20) with Lobster Clasp",
+    "precedingAuctionCode": "0019864484"
   }
 }
