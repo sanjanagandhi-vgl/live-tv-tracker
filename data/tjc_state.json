@@ -326116,11 +326116,29 @@
       "productUrlChecked": 1789008040036,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "3557387": {
+      "sku": "3557387",
+      "firstAir": 1789009528508,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789009528508,
+      "title": "GP - Natural Cambodian Zircon & Blue Sapphire Enamelled Tree Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019863394",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-10",
+      "time": "04:05:28",
+      "productUrl": null,
+      "lastUpdated": 1789009528508,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789009402229,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -350529,11 +350547,22 @@
         "followingSku": "8553728",
         "followingTitle": "Fragrance Works Fresh Florals EDP - 100ml",
         "followingAuctionCode": "0019863009"
+      },
+      {
+        "start": 1789009402229,
+        "end": 1789009528508,
+        "durationMin": 2.1,
+        "precedingSku": "8553728",
+        "precedingTitle": "Fragrance Works Fresh Florals EDP - 100ml",
+        "precedingAuctionCode": "0019863009",
+        "followingSku": "3557387",
+        "followingTitle": "GP - Natural Cambodian Zircon & Blue Sapphire Enamelled Tree Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019863394"
       }
     ],
-    "lastOnAirSku": "8553728",
-    "lastOnAirTitle": "Fragrance Works Fresh Florals EDP - 100ml",
-    "lastOnAirAuctionCode": "0019863009",
+    "lastOnAirSku": "3557387",
+    "lastOnAirTitle": "GP - Natural Cambodian Zircon & Blue Sapphire Enamelled Tree Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019863394",
     "precedingSku": "8553728",
     "precedingTitle": "Fragrance Works Fresh Florals EDP - 100ml",
     "precedingAuctionCode": "0019863009"
