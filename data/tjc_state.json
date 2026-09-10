@@ -327819,11 +327819,29 @@
       "productUrlChecked": 1789056506690,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8624944": {
+      "sku": "8624944",
+      "firstAir": 1789056802460,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789056802460,
+      "title": "La Marey Luxe Women's Oversized Knit Jumper (One Size, 8-18) - Blue",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019864244",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-10",
+      "time": "17:13:22",
+      "productUrl": null,
+      "lastUpdated": 1789056802460,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789056561581,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -352694,11 +352712,22 @@
         "followingSku": "8690659",
         "followingTitle": "Extremely Rare Natural Boots Black Jadeite & Princess Cut Lab Grown Diamond (VS- E-F 1.00 Ct) Trilogy Ring in Yellow Gold Plated Sterling Silver 11.00  Ct.",
         "followingAuctionCode": "0019864617"
+      },
+      {
+        "start": 1789056561581,
+        "end": 1789056802460,
+        "durationMin": 4.0,
+        "precedingSku": "8690659",
+        "precedingTitle": "Extremely Rare Natural Boots Black Jadeite & Princess Cut Lab Grown Diamond (VS- E-F 1.00 Ct) Tri...",
+        "precedingAuctionCode": "0019864617",
+        "followingSku": "8624944",
+        "followingTitle": "La Marey Luxe Women's Oversized Knit Jumper (One Size, 8-18) - Blue",
+        "followingAuctionCode": "0019864244"
       }
     ],
-    "lastOnAirSku": "8690659",
-    "lastOnAirTitle": "Extremely Rare Natural Boots Black Jadeite & Princess Cut Lab Grown Diamond (VS- E-F 1.00 Ct) Tri...",
-    "lastOnAirAuctionCode": "0019864617",
+    "lastOnAirSku": "8624944",
+    "lastOnAirTitle": "La Marey Luxe Women's Oversized Knit Jumper (One Size, 8-18) - Blue",
+    "lastOnAirAuctionCode": "0019864244",
     "precedingSku": "8690659",
     "precedingTitle": "Extremely Rare Natural Boots Black Jadeite & Princess Cut Lab Grown Diamond (VS- E-F 1.00 Ct) Tri...",
     "precedingAuctionCode": "0019864617"
