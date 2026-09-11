@@ -2091,22 +2091,22 @@
       "sku": "8426917",
       "tvPrice": "",
       "remarks": "",
-      "time": "10:40:38",
+      "time": "22:46:26",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 9.99,
       "missedImg": false,
-      "title": "Natural White Diamond Hoop Earring",
-      "auctionCode": "0019862889",
+      "title": "Natural White Diamond Hoop Earrings in Yellow Gold Tone",
+      "auctionCode": "0019866724",
       "source": "gha",
-      "lastAir": 1789119638137,
-      "pdpPrice": "9.99",
+      "lastAir": 1789163186763,
+      "pdpPrice": "299.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-11",
-      "lastUpdated": 1789119638137,
+      "lastUpdated": 1789163186763,
       "productUrl": null
     },
     "8426918": {
@@ -333445,8 +333445,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789163139071,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -359373,11 +359373,22 @@
         "followingSku": "8498239",
         "followingTitle": "African Amethyst Solitaire Earring with Push Back in Platinum Overlay Sterling Silver",
         "followingAuctionCode": "0019865061"
+      },
+      {
+        "start": 1789163139071,
+        "end": 1789163186763,
+        "durationMin": 0.8,
+        "precedingSku": "8579258",
+        "precedingTitle": "High Luster White Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
+        "precedingAuctionCode": "0019865087",
+        "followingSku": "8426917",
+        "followingTitle": "Natural White Diamond Hoop Earrings in Yellow Gold Tone",
+        "followingAuctionCode": "0019866724"
       }
     ],
-    "lastOnAirSku": "8579258",
-    "lastOnAirTitle": "High Luster White Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
-    "lastOnAirAuctionCode": "0019865087",
+    "lastOnAirSku": "8426917",
+    "lastOnAirTitle": "Natural White Diamond Hoop Earrings in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019866724",
     "precedingSku": "8579258",
     "precedingTitle": "High Luster White Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
     "precedingAuctionCode": "0019865087"
