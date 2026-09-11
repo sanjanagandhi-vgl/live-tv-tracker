@@ -331461,11 +331461,29 @@
       "productUrl": null,
       "lastUpdated": 1789126759384,
       "source": "gha"
+    },
+    "8747242": {
+      "sku": "8747242",
+      "firstAir": 1789126878181,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789126878181,
+      "title": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019865749",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "12:41:18",
+      "productUrl": null,
+      "lastUpdated": 1789126878181,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789126841568,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -357062,11 +357080,22 @@
         "followingSku": "8735918",
         "followingTitle": "Close Out Deal- Designer Inspired Hoop Earring",
         "followingAuctionCode": "0019865725"
+      },
+      {
+        "start": 1789126841568,
+        "end": 1789126878181,
+        "durationMin": 0.6,
+        "precedingSku": "8746956",
+        "precedingTitle": "Close Out Deal- Designer Inspired Twisted Hoop Earring",
+        "precedingAuctionCode": "0019865741",
+        "followingSku": "8747242",
+        "followingTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+        "followingAuctionCode": "0019865749"
       }
     ],
-    "lastOnAirSku": "8746956",
-    "lastOnAirTitle": "Close Out Deal- Designer Inspired Twisted Hoop Earring",
-    "lastOnAirAuctionCode": "0019865741",
+    "lastOnAirSku": "8747242",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019865749",
     "precedingSku": "8746956",
     "precedingTitle": "Close Out Deal- Designer Inspired Twisted Hoop Earring",
     "precedingAuctionCode": "0019865741"
