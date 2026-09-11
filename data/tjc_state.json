@@ -260173,17 +260173,17 @@
       "firstAir": 1787915062453,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787915242522,
-      "title": "Oval Picture Frame Pendant with Chain (Size 18) in Silver Tone",
-      "pdpPrice": "4.99",
-      "auctionCode": "0019847601",
+      "lastAir": 1789123102451,
+      "title": "Oval Picture Frame Pendant with Chain (Size 18)",
+      "pdpPrice": "99.00",
+      "auctionCode": "0019865933",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-08-28",
-      "time": "12:07:22",
+      "date": "2026-09-11",
+      "time": "11:38:22",
       "productUrl": "/products/oval-picture-frame-pendant-with-chain-size-18-in-silver-tone-4510749",
-      "lastUpdated": 1787915782121,
+      "lastUpdated": 1789123102451,
       "source": "gha",
       "missedAt": 1787915782121,
       "missedDelay": 9,
@@ -331171,11 +331171,15 @@
       "date": "2026-09-11",
       "time": "11:29:20",
       "productUrl": "/products/multi-colour-resin-teardrop-pendant-in-yellow-gold-tone-9-00-ct-8697724?variant=53427363053834",
-      "lastUpdated": 1789122560069,
+      "lastUpdated": 1789123102451,
       "source": "gha",
       "productUrlChecked": 1789122563053,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789123102451,
+      "missedDelay": 9,
+      "missedPrice": 8.99,
+      "missedImg": false
     },
     "8687356": {
       "sku": "8687356",
@@ -331197,8 +331201,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789122929979,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356740,11 +356744,22 @@
         "followingSku": "8294401",
         "followingTitle": "BIGGEST DESIGNER CLOSEOUT  - Green Cubic Zirconia & White Cubic Zirconia Serpent Bangle",
         "followingAuctionCode": "0019865795"
+      },
+      {
+        "start": 1789122929979,
+        "end": 1789123102451,
+        "durationMin": 2.9,
+        "precedingSku": "8687356",
+        "precedingTitle": "Green Jade Stretchable Bracelet (Size - 7) 110.00 Ct.",
+        "precedingAuctionCode": "0019865807",
+        "followingSku": "4510749",
+        "followingTitle": "Oval Picture Frame Pendant with Chain (Size 18)",
+        "followingAuctionCode": "0019865933"
       }
     ],
-    "lastOnAirSku": "8687356",
-    "lastOnAirTitle": "Green Jade Stretchable Bracelet (Size - 7) 110.00 Ct.",
-    "lastOnAirAuctionCode": "0019865807",
+    "lastOnAirSku": "4510749",
+    "lastOnAirTitle": "Oval Picture Frame Pendant with Chain (Size 18)",
+    "lastOnAirAuctionCode": "0019865933",
     "precedingSku": "8687356",
     "precedingTitle": "Green Jade Stretchable Bracelet (Size - 7) 110.00 Ct.",
     "precedingAuctionCode": "0019865807"
