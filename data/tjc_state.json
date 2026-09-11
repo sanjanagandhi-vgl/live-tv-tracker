@@ -331205,11 +331205,29 @@
       "productUrlChecked": 1789123468404,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8273371": {
+      "sku": "8273371",
+      "firstAir": 1789124129554,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789124129554,
+      "title": "Triple Curb Link Necklace (Size 17.5)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019865791",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "11:55:29",
+      "productUrl": null,
+      "lastUpdated": 1789124129554,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789124064708,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356762,11 +356780,22 @@
         "followingSku": "4510749",
         "followingTitle": "Oval Picture Frame Pendant with Chain (Size 18)",
         "followingAuctionCode": "0019865933"
+      },
+      {
+        "start": 1789124064708,
+        "end": 1789124129554,
+        "durationMin": 1.1,
+        "precedingSku": "4510749",
+        "precedingTitle": "Oval Picture Frame Pendant with Chain (Size 18)",
+        "precedingAuctionCode": "0019865933",
+        "followingSku": "8273371",
+        "followingTitle": "Triple Curb Link Necklace (Size 17.5)",
+        "followingAuctionCode": "0019865791"
       }
     ],
-    "lastOnAirSku": "4510749",
-    "lastOnAirTitle": "Oval Picture Frame Pendant with Chain (Size 18)",
-    "lastOnAirAuctionCode": "0019865933",
+    "lastOnAirSku": "8273371",
+    "lastOnAirTitle": "Triple Curb Link Necklace (Size 17.5)",
+    "lastOnAirAuctionCode": "0019865791",
     "precedingSku": "4510749",
     "precedingTitle": "Oval Picture Frame Pendant with Chain (Size 18)",
     "precedingAuctionCode": "0019865933"
