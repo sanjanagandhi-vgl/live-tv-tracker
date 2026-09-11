@@ -29936,21 +29936,26 @@
       "sku": "8526612",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-09-11",
+      "time": "16:42:23",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1789141343277,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 2 Beaded Parrot and Dolphin Charms Keychains (7.6cm & 15cm) - Black & Red",
-      "auctionCode": "0019802026",
+      "auctionCode": "0019865572",
       "source": "gha",
       "productUrl": "/products/set-of-2-beaded-parrot-and-dolphin-charms-keychains-7-6cm-15cm-black-red-8526612",
       "productUrlChecked": 1785475554997,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789141343277,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8567190": {
       "sku": "8567190",
@@ -332364,8 +332369,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789141245838,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -358094,11 +358099,22 @@
         "followingSku": "8695101",
         "followingTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
         "followingAuctionCode": "0019865694"
+      },
+      {
+        "start": 1789141245838,
+        "end": 1789141343277,
+        "durationMin": 1.6,
+        "precedingSku": "8381603",
+        "precedingTitle": "Set of 10 Hand Printed Personal Cards",
+        "precedingAuctionCode": "0019865593",
+        "followingSku": "8526612",
+        "followingTitle": "Set of 2 Beaded Parrot and Dolphin Charms Keychains (7.6cm & 15cm) - Black & Red",
+        "followingAuctionCode": "0019865572"
       }
     ],
-    "lastOnAirSku": "8381603",
-    "lastOnAirTitle": "Set of 10 Hand Printed Personal Cards",
-    "lastOnAirAuctionCode": "0019865593",
+    "lastOnAirSku": "8526612",
+    "lastOnAirTitle": "Set of 2 Beaded Parrot and Dolphin Charms Keychains (7.6cm & 15cm) - Black & Red",
+    "lastOnAirAuctionCode": "0019865572",
     "precedingSku": "8381603",
     "precedingTitle": "Set of 10 Hand Printed Personal Cards",
     "precedingAuctionCode": "0019865593"
