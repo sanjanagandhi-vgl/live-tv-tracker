@@ -298404,17 +298404,17 @@
       "firstAir": 1788488903675,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788488903675,
+      "lastAir": 1789094480405,
       "title": "Love Music Drink Bottle - White",
       "pdpPrice": "6.99",
-      "auctionCode": "0019854280",
+      "auctionCode": "0019863810",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-04",
-      "time": "03:28:23",
+      "date": "2026-09-11",
+      "time": "03:41:20",
       "productUrl": "/products/love-music-drink-bottle-white-8642850",
-      "lastUpdated": 1788489559406,
+      "lastUpdated": 1789094480405,
       "source": "gha",
       "missedAt": 1788489559406,
       "missedDelay": 11,
@@ -329665,8 +329665,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789094439728,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -354867,11 +354867,22 @@
         "followingSku": "7948830",
         "followingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
         "followingAuctionCode": "0019863542"
+      },
+      {
+        "start": 1789094439728,
+        "end": 1789094480405,
+        "durationMin": 0.7,
+        "precedingSku": "8051979",
+        "precedingTitle": "Intempo 4 Port USB Data Hub and Phone Holder - Black",
+        "precedingAuctionCode": "0019863818",
+        "followingSku": "8642850",
+        "followingTitle": "Love Music Drink Bottle - White",
+        "followingAuctionCode": "0019863810"
       }
     ],
-    "lastOnAirSku": "8051979",
-    "lastOnAirTitle": "Intempo 4 Port USB Data Hub and Phone Holder - Black",
-    "lastOnAirAuctionCode": "0019863818",
+    "lastOnAirSku": "8642850",
+    "lastOnAirTitle": "Love Music Drink Bottle - White",
+    "lastOnAirAuctionCode": "0019863810",
     "precedingSku": "8051979",
     "precedingTitle": "Intempo 4 Port USB Data Hub and Phone Holder - Black",
     "precedingAuctionCode": "0019863818"
