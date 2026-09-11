@@ -332750,11 +332750,29 @@
       "productUrl": null,
       "lastUpdated": 1789144159370,
       "source": "gha"
+    },
+    "4510767": {
+      "sku": "4510767",
+      "firstAir": 1789144280394,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789144280394,
+      "title": "Tiger Face Pendant with Chain (Size 18) & Lobster Clasp in Silver and Gold Tone",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019865662",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-11",
+      "time": "17:31:20",
+      "productUrl": null,
+      "lastUpdated": 1789144280394,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789144254293,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -358516,11 +358534,22 @@
         "followingSku": "4506651",
         "followingTitle": "Resin & Crystal Elephant Pendant with Chain (Size 30) in Gold Tone 12.00 Ct.",
         "followingAuctionCode": "0019866203"
+      },
+      {
+        "start": 1789144254293,
+        "end": 1789144280394,
+        "durationMin": 0.4,
+        "precedingSku": "4510761",
+        "precedingTitle": "Cross Pendant with Chain (Size 18) & Lobster Clasp in Silver and Gold Tone",
+        "precedingAuctionCode": "0019865661",
+        "followingSku": "4510767",
+        "followingTitle": "Tiger Face Pendant with Chain (Size 18) & Lobster Clasp in Silver and Gold Tone",
+        "followingAuctionCode": "0019865662"
       }
     ],
-    "lastOnAirSku": "4510761",
-    "lastOnAirTitle": "Cross Pendant with Chain (Size 18) & Lobster Clasp in Silver and Gold Tone",
-    "lastOnAirAuctionCode": "0019865661",
+    "lastOnAirSku": "4510767",
+    "lastOnAirTitle": "Tiger Face Pendant with Chain (Size 18) & Lobster Clasp in Silver and Gold Tone",
+    "lastOnAirAuctionCode": "0019865662",
     "precedingSku": "4510761",
     "precedingTitle": "Cross Pendant with Chain (Size 18) & Lobster Clasp in Silver and Gold Tone",
     "precedingAuctionCode": "0019865661"
