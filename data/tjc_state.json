@@ -221365,17 +221365,17 @@
       "firstAir": 1787477541643,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788144863166,
+      "lastAir": 1789094782355,
       "title": "Table Lamp (Size - One Size) - Champagne",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019850535",
+      "pdpPrice": "75.99",
+      "auctionCode": "0019863819",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
-      "time": "03:54:23",
+      "date": "2026-09-11",
+      "time": "03:46:22",
       "productUrl": null,
-      "lastUpdated": 1788144863166,
+      "lastUpdated": 1789094782355,
       "source": "gha",
       "missedAt": 1787478196730,
       "missedDelay": 10,
@@ -329665,8 +329665,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789094740365,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -354878,11 +354878,22 @@
         "followingSku": "8642850",
         "followingTitle": "Love Music Drink Bottle - White",
         "followingAuctionCode": "0019863810"
+      },
+      {
+        "start": 1789094740365,
+        "end": 1789094782355,
+        "durationMin": 0.7,
+        "precedingSku": "8256327",
+        "precedingTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
+        "precedingAuctionCode": "0019863817",
+        "followingSku": "8231887",
+        "followingTitle": "Table Lamp (Size - One Size) - Champagne",
+        "followingAuctionCode": "0019863819"
       }
     ],
-    "lastOnAirSku": "8256327",
-    "lastOnAirTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
-    "lastOnAirAuctionCode": "0019863817",
+    "lastOnAirSku": "8231887",
+    "lastOnAirTitle": "Table Lamp (Size - One Size) - Champagne",
+    "lastOnAirAuctionCode": "0019863819",
     "precedingSku": "8256327",
     "precedingTitle": "Scented Jar Candle (50g) & Reed Diffuser (50ml)",
     "precedingAuctionCode": "0019863817"
