@@ -263122,17 +263122,17 @@
       "firstAir": 1787951361101,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787951483072,
+      "lastAir": 1789085063560,
       "title": "MP Diamond Star Ring in Sterling Silver",
       "pdpPrice": "9.99",
-      "auctionCode": "0019846555",
+      "auctionCode": "0019864585",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-28",
-      "time": "22:11:23",
+      "date": "2026-09-11",
+      "time": "01:04:23",
       "productUrl": "/products/mp-diamond-star-ring-in-sterling-silver",
-      "lastUpdated": 1787952081347,
+      "lastUpdated": 1789085063560,
       "source": "gha",
       "missedAt": 1787952081347,
       "missedDelay": 10,
@@ -329234,8 +329234,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789085000768,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -354337,11 +354337,22 @@
         "followingSku": "8071900",
         "followingTitle": "Round Magnetic Lock (8mm) with Lobster Clasp (11mm) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019864498"
+      },
+      {
+        "start": 1789085000768,
+        "end": 1789085063560,
+        "durationMin": 1.0,
+        "precedingSku": "4442694",
+        "precedingTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated ...",
+        "precedingAuctionCode": "0019864551",
+        "followingSku": "3573342",
+        "followingTitle": "MP Diamond Star Ring in Sterling Silver",
+        "followingAuctionCode": "0019864585"
       }
     ],
-    "lastOnAirSku": "4442694",
-    "lastOnAirTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated ...",
-    "lastOnAirAuctionCode": "0019864551",
+    "lastOnAirSku": "3573342",
+    "lastOnAirTitle": "MP Diamond Star Ring in Sterling Silver",
+    "lastOnAirAuctionCode": "0019864585",
     "precedingSku": "4442694",
     "precedingTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated ...",
     "precedingAuctionCode": "0019864551"
