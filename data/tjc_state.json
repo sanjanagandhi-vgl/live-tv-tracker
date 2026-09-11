@@ -332860,9 +332860,16 @@
       "img": false,
       "date": "2026-09-11",
       "time": "17:37:19",
-      "productUrl": null,
-      "lastUpdated": 1789144639382,
-      "source": "gha"
+      "productUrl": "/products/scroll-panel-pendant-with-chain-size-18-lobster-clasp-in-silver-tone-4510771",
+      "lastUpdated": 1789145241241,
+      "source": "gha",
+      "missedAt": 1789145241241,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": false,
+      "productUrlChecked": 1789145245992,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4510775": {
       "sku": "4510775",
@@ -332902,11 +332909,29 @@
       "productUrlChecked": 1789145072762,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8750330": {
+      "sku": "8750330",
+      "firstAir": 1789145241241,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789145241241,
+      "title": "Close Out Deals Paperclip Necklace (Size - 17)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019866194",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "17:47:21",
+      "productUrl": null,
+      "lastUpdated": 1789145241241,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789145136202,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -358679,11 +358704,22 @@
         "followingSku": "4510767",
         "followingTitle": "Tiger Face Pendant with Chain (Size 18) & Lobster Clasp in Silver and Gold Tone",
         "followingAuctionCode": "0019865662"
+      },
+      {
+        "start": 1789145136202,
+        "end": 1789145241241,
+        "durationMin": 1.8,
+        "precedingSku": "4510785",
+        "precedingTitle": "Cross Pendant with Chain (Size 28) & T-Bar Clasp in Silver Tone",
+        "precedingAuctionCode": "0019865667",
+        "followingSku": "8750330",
+        "followingTitle": "Close Out Deals Paperclip Necklace (Size - 17)",
+        "followingAuctionCode": "0019866194"
       }
     ],
-    "lastOnAirSku": "4510785",
-    "lastOnAirTitle": "Cross Pendant with Chain (Size 28) & T-Bar Clasp in Silver Tone",
-    "lastOnAirAuctionCode": "0019865667",
+    "lastOnAirSku": "8750330",
+    "lastOnAirTitle": "Close Out Deals Paperclip Necklace (Size - 17)",
+    "lastOnAirAuctionCode": "0019866194",
     "precedingSku": "4510785",
     "precedingTitle": "Cross Pendant with Chain (Size 28) & T-Bar Clasp in Silver Tone",
     "precedingAuctionCode": "0019865667"
