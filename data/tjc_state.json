@@ -132842,23 +132842,23 @@
       "sku": "7778002",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-28",
-      "time": "22:59:23",
+      "date": "2026-09-11",
+      "time": "10:22:24",
       "preExisting": true,
       "missedAt": 1786443503188,
       "missedDelay": null,
-      "lastUpdated": 1787954363343,
+      "lastUpdated": 1789118544955,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Lapis Lazuli, Multi Gemstones Interchangeable Necklace (Size - 18) in Stainless Steel",
-      "auctionCode": "0019849096",
+      "auctionCode": "0019863656",
       "source": "gha",
       "productUrl": "/products/one-time-closeout-deal-set-of-7-stones-interchangeable-multi-gemstone-cuff-bangle-size-7-59-50-ct",
       "productUrlChecked": 1786443511376,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787954363343,
-      "pdpPrice": "9.99",
+      "lastAir": 1789118544955,
+      "pdpPrice": "6.99",
       "buy": true,
       "login": false,
       "img": true
@@ -331016,8 +331016,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789118480207,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356504,11 +356504,22 @@
         "followingSku": "8020483",
         "followingTitle": "Lapis Lazuli and Interchangeable Multi Gemstones Bracelet with Lobster Clasp (Size - 7.5+2 Ext) in Yellow Tone 59.50 Ct",
         "followingAuctionCode": "0019863645"
+      },
+      {
+        "start": 1789118480207,
+        "end": 1789118544955,
+        "durationMin": 1.1,
+        "precedingSku": "8020483",
+        "precedingTitle": "Lapis Lazuli and Interchangeable Multi Gemstones Bracelet with Lobster Clasp (Size - 7.5+2 Ext) in Yellow Tone 59.50 Ct",
+        "precedingAuctionCode": "0019863645",
+        "followingSku": "7778002",
+        "followingTitle": "Lapis Lazuli, Multi Gemstones Interchangeable Necklace (Size - 18) in Stainless Steel",
+        "followingAuctionCode": "0019863656"
       }
     ],
-    "lastOnAirSku": "8020483",
-    "lastOnAirTitle": "Lapis Lazuli and Interchangeable Multi Gemstones Bracelet with Lobster Clasp (Size - 7.5+2 Ext) in Yellow Tone 59.50 Ct",
-    "lastOnAirAuctionCode": "0019863645",
+    "lastOnAirSku": "7778002",
+    "lastOnAirTitle": "Lapis Lazuli, Multi Gemstones Interchangeable Necklace (Size - 18) in Stainless Steel",
+    "lastOnAirAuctionCode": "0019863656",
     "precedingSku": "8020483",
     "precedingTitle": "Lapis Lazuli and Interchangeable Multi Gemstones Bracelet with Lobster Clasp (Size - 7.5+2 Ext) in Yellow Tone 59.50 Ct",
     "precedingAuctionCode": "0019863645"
