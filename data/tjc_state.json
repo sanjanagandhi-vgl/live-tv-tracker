@@ -162100,17 +162100,17 @@
       "firstAir": 1786730062463,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788067639356,
+      "lastAir": 1789151181885,
       "title": "Christmas Ornament (Size 1x1x1 cm) - Grey",
-      "pdpPrice": "5.99",
-      "auctionCode": "0019849465",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019864258",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-30",
-      "time": "06:27:19",
+      "date": "2026-09-11",
+      "time": "19:26:21",
       "productUrl": "/products/christmas-ornament-size-1x1x1-cm-grey",
-      "lastUpdated": 1788067639356,
+      "lastUpdated": 1789151181885,
       "source": "gha",
       "missedAt": 1786730727907,
       "missedDelay": 9,
@@ -333013,8 +333013,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789151130061,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -358831,11 +358831,22 @@
         "followingSku": "8217777",
         "followingTitle": "Finishing Touch Flawless Contour Natural Rose Quartz Vibrating Facial Roller & Massager",
         "followingAuctionCode": "0019866864"
+      },
+      {
+        "start": 1789151130061,
+        "end": 1789151181885,
+        "durationMin": 0.9,
+        "precedingSku": "8217777",
+        "precedingTitle": "Finishing Touch Flawless Contour Natural Rose Quartz Vibrating Facial Roller & Massager",
+        "precedingAuctionCode": "0019866864",
+        "followingSku": "7552750",
+        "followingTitle": "Christmas Ornament (Size 1x1x1 cm) - Grey",
+        "followingAuctionCode": "0019864258"
       }
     ],
-    "lastOnAirSku": "8217777",
-    "lastOnAirTitle": "Finishing Touch Flawless Contour Natural Rose Quartz Vibrating Facial Roller & Massager",
-    "lastOnAirAuctionCode": "0019866864",
+    "lastOnAirSku": "7552750",
+    "lastOnAirTitle": "Christmas Ornament (Size 1x1x1 cm) - Grey",
+    "lastOnAirAuctionCode": "0019864258",
     "precedingSku": "8217777",
     "precedingTitle": "Finishing Touch Flawless Contour Natural Rose Quartz Vibrating Facial Roller & Massager",
     "precedingAuctionCode": "0019866864"
