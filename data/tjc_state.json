@@ -330985,9 +330985,16 @@
       "img": true,
       "date": "2026-09-11",
       "time": "10:10:37",
-      "productUrl": null,
-      "lastUpdated": 1789117837662,
-      "source": "gha"
+      "productUrl": "/products/royal-bali-collection-sterling-silver-heart-shaped-stud-earring-with-push-back",
+      "lastUpdated": 1789118358593,
+      "source": "gha",
+      "missedAt": 1789118358593,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1789118362137,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8735911": {
       "sku": "8735911",
@@ -331009,8 +331016,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789118358593,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356491,8 +356498,8 @@
     "lastOnAirSku": "8735911",
     "lastOnAirTitle": "Close Out Deal- Designer Inspired Earring",
     "lastOnAirAuctionCode": "0019865724",
-    "precedingSku": "8364619",
-    "precedingTitle": "Cubic Zirconia White Cubic Zirconia Cuff Bangle Pure Yellow Brass 1.900 Ct.",
-    "precedingAuctionCode": "0019863640"
+    "precedingSku": "8735911",
+    "precedingTitle": "Close Out Deal- Designer Inspired Earring",
+    "precedingAuctionCode": "0019865724"
   }
 }
