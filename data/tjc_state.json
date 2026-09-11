@@ -11709,21 +11709,22 @@
       "firstAir": 1785020181287,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785020837926,
-      "title": "Designer Inspired-Rhythm Necklace (Size - 18+2 Ext)",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019795431",
-      "buy": false,
+      "lastAir": 1789100909624,
+      "title": "Designer Inspired-Rhythm  Necklace (Size - 18-2 Ext)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019864504",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "00:07:17",
-      "lastUpdated": 1785020903671,
+      "date": "2026-09-11",
+      "time": "05:28:29",
+      "lastUpdated": 1789100909624,
       "source": "gha",
       "missedAt": 1785020903671,
       "missedDelay": 1,
       "missedPrice": 19.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8553048": {
       "sku": "8553048",
@@ -330496,8 +330497,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789100839224,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -355764,11 +355765,22 @@
         "followingSku": "8484158",
         "followingTitle": "Larimar Chips Necklace (Size - 18-2 Ext) 353.00 Ct.",
         "followingAuctionCode": "0019864260"
+      },
+      {
+        "start": 1789100839224,
+        "end": 1789100909624,
+        "durationMin": 1.2,
+        "precedingSku": "8484158",
+        "precedingTitle": "Larimar Chips Necklace (Size - 18-2 Ext) 353.00 Ct.",
+        "precedingAuctionCode": "0019864260",
+        "followingSku": "8260653",
+        "followingTitle": "Designer Inspired-Rhythm  Necklace (Size - 18-2 Ext)",
+        "followingAuctionCode": "0019864504"
       }
     ],
-    "lastOnAirSku": "8484158",
-    "lastOnAirTitle": "Larimar Chips Necklace (Size - 18-2 Ext) 353.00 Ct.",
-    "lastOnAirAuctionCode": "0019864260",
+    "lastOnAirSku": "8260653",
+    "lastOnAirTitle": "Designer Inspired-Rhythm  Necklace (Size - 18-2 Ext)",
+    "lastOnAirAuctionCode": "0019864504",
     "precedingSku": "8484158",
     "precedingTitle": "Larimar Chips Necklace (Size - 18-2 Ext) 353.00 Ct.",
     "precedingAuctionCode": "0019864260"
