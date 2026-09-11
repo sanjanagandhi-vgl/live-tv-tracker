@@ -207264,25 +207264,26 @@
       "sku": "8480298",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "02:41:19",
+      "date": "2026-09-11",
+      "time": "01:53:25",
       "preExisting": true,
       "missedAt": 1787310065998,
       "missedDelay": null,
-      "lastUpdated": 1788486079315,
+      "lastUpdated": 1789088005623,
       "missedPrice": 5.99,
       "missedImg": true,
-      "title": "Cushion Cut Ruby Colour Cubic Zirconia & White Cubic Zirconia Ring",
-      "auctionCode": "0019855631",
-      "source": "gha-variant",
+      "title": "White Cubic Zirconia Ring in Yellow Gold Tone",
+      "auctionCode": "0019864687",
+      "source": "gha",
       "productUrl": "/products/white-cubic-zirconia-ring-in-yellow-gold-tone-1258480282",
       "productUrlChecked": 1787310073448,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1788486079315,
-      "pdpPrice": 5.99,
+      "lastAir": 1789088005623,
+      "pdpPrice": "5.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "8480300": {
       "sku": "8480300",
@@ -329464,8 +329465,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789087943517,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -354600,11 +354601,22 @@
         "followingSku": "8666287",
         "followingTitle": "Peach Fresh Water Pearl Adjustable Beads Bracelet (Size - 6.5-9)",
         "followingAuctionCode": "0019864632"
+      },
+      {
+        "start": 1789087943517,
+        "end": 1789088005623,
+        "durationMin": 1.0,
+        "precedingSku": "8480290",
+        "precedingTitle": "White Cubic Zirconia Ring in Yellow Gold Tone",
+        "precedingAuctionCode": "0019864680",
+        "followingSku": "8480298",
+        "followingTitle": "White Cubic Zirconia Ring in Yellow Gold Tone",
+        "followingAuctionCode": "0019864687"
       }
     ],
-    "lastOnAirSku": "8480290",
+    "lastOnAirSku": "8480298",
     "lastOnAirTitle": "White Cubic Zirconia Ring in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019864680",
+    "lastOnAirAuctionCode": "0019864687",
     "precedingSku": "8480290",
     "precedingTitle": "White Cubic Zirconia Ring in Yellow Gold Tone",
     "precedingAuctionCode": "0019864680"
