@@ -6598,19 +6598,19 @@
       "sku": "8626631",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-06",
-      "time": "02:45:36",
+      "date": "2026-09-11",
+      "time": "18:27:19",
       "preExisting": true,
       "missedAt": 1784919501428,
       "missedDelay": null,
-      "lastUpdated": 1788659136118,
+      "lastUpdated": 1789147639155,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargeable 500 times!",
-      "auctionCode": "0019857618",
+      "auctionCode": "0019864196",
       "source": "gha",
-      "lastAir": 1788659136118,
-      "pdpPrice": "7.99",
+      "lastAir": 1789147639155,
+      "pdpPrice": "59.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -332968,8 +332968,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789147586125,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -358764,11 +358764,22 @@
         "followingSku": "7632643",
         "followingTitle": null,
         "followingAuctionCode": "0019863271"
+      },
+      {
+        "start": 1789147586125,
+        "end": 1789147639155,
+        "durationMin": 0.9,
+        "precedingSku": "7632643",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019863271",
+        "followingSku": "8626631",
+        "followingTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargeable 500 times!",
+        "followingAuctionCode": "0019864196"
       }
     ],
-    "lastOnAirSku": "7632643",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019863271",
+    "lastOnAirSku": "8626631",
+    "lastOnAirTitle": "ITSON Pack of 4 - Recharge Pro AA Rechargeable Batteries - 2000mAh Rechargeable 500 times!",
+    "lastOnAirAuctionCode": "0019864196",
     "precedingSku": "7632643",
     "precedingTitle": null,
     "precedingAuctionCode": "0019863271"
