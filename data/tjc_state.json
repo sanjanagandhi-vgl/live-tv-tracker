@@ -332470,9 +332470,16 @@
       "img": true,
       "date": "2026-09-11",
       "time": "17:12:25",
-      "productUrl": null,
-      "lastUpdated": 1789143145226,
-      "source": "gha"
+      "productUrl": "/products/crossbody-bag-size-one-size-red-black-8566888",
+      "lastUpdated": 1789143743006,
+      "source": "gha",
+      "missedAt": 1789143743006,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1789143747615,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8567266": {
       "sku": "8567266",
@@ -332648,11 +332655,31 @@
       "productUrl": null,
       "lastUpdated": 1789143681650,
       "source": "gha"
+    },
+    "8566900": {
+      "sku": "8566900",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-11",
+      "time": "17:22:23",
+      "preExisting": true,
+      "missedAt": 1789143743006,
+      "missedDelay": null,
+      "lastUpdated": 1789143743006,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Novelty Plush Apple Character Crossbody Bag - Pink",
+      "auctionCode": "0019866715",
+      "source": "gha",
+      "productUrl": "/products/crossbody-bag-size-one-size-red-black-8566888",
+      "productUrlChecked": 1789143748501,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789143743006,
     "gaps": [
       {
         "start": 1785823527869,
@@ -358408,8 +358435,8 @@
     "lastOnAirSku": "4506650",
     "lastOnAirTitle": "Crystal Pear Drop Pendant with Chain (Size 20-2 Ext) in Silver Tone 4.00 Ct.",
     "lastOnAirAuctionCode": "0019865657",
-    "precedingSku": "8526612",
-    "precedingTitle": "Set of 2 Beaded Parrot and Dolphin Charms Keychains (7.6cm & 15cm) - Black & Red",
-    "precedingAuctionCode": "0019865572"
+    "precedingSku": "4506650",
+    "precedingTitle": "Crystal Pear Drop Pendant with Chain (Size 20-2 Ext) in Silver Tone 4.00 Ct.",
+    "precedingAuctionCode": "0019865657"
   }
 }
