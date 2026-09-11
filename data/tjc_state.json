@@ -333081,11 +333081,15 @@
       "date": "2026-09-11",
       "time": "20:46:24",
       "productUrl": "/products/livmore-stationary-set-size-one-size-blue-8569628?variant=53670801244426",
-      "lastUpdated": 1789155984736,
+      "lastUpdated": 1789156639828,
       "source": "gha",
       "productUrlChecked": 1789155990468,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789156639828,
+      "missedDelay": 11,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8631056": {
       "sku": "8631056",
@@ -333104,6 +333108,26 @@
       "source": "gha",
       "productUrl": "/products/christmas-ornament-size-one-size-red-green-8631056",
       "productUrlChecked": 1789155269217,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8569834": {
+      "sku": "8569834",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-11",
+      "time": "20:57:19",
+      "preExisting": true,
+      "missedAt": 1789156639828,
+      "missedDelay": null,
+      "lastUpdated": 1789156639828,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "LIVMORE Kids Special 208pc Drawing and Painting Set Double Sided Trifold Easel - Pink",
+      "auctionCode": "0019866168",
+      "source": "gha",
+      "productUrl": "/products/livmore-stationary-set-size-one-size-blue-8569628",
+      "productUrlChecked": 1789156644387,
       "productUrlStatus": 200,
       "productUrl404": false
     }
