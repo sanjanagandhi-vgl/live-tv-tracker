@@ -331284,11 +331284,15 @@
       "date": "2026-09-11",
       "time": "12:15:41",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8735992?variant=53676980502794",
-      "lastUpdated": 1789125341700,
+      "lastUpdated": 1789125865380,
       "source": "gha",
       "productUrlChecked": 1789125344677,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789125865380,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8735993": {
       "sku": "8735993",
@@ -331325,11 +331329,29 @@
       "productUrl": null,
       "lastUpdated": 1789125746657,
       "source": "gha"
+    },
+    "8747240": {
+      "sku": "8747240",
+      "firstAir": 1789125865380,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789125865380,
+      "title": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019865747",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "12:24:25",
+      "productUrl": null,
+      "lastUpdated": 1789125865380,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789125798763,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356904,11 +356926,22 @@
         "followingSku": "8735988",
         "followingTitle": "Close Out Deal- Designer Inspired Hoop Earring",
         "followingAuctionCode": "0019865727"
+      },
+      {
+        "start": 1789125798763,
+        "end": 1789125865380,
+        "durationMin": 1.1,
+        "precedingSku": "8746964",
+        "precedingTitle": "Close Out Deal- Designer Inspired Twist Hoop Earring",
+        "precedingAuctionCode": "0019865743",
+        "followingSku": "8747240",
+        "followingTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+        "followingAuctionCode": "0019865747"
       }
     ],
-    "lastOnAirSku": "8746964",
-    "lastOnAirTitle": "Close Out Deal- Designer Inspired Twist Hoop Earring",
-    "lastOnAirAuctionCode": "0019865743",
+    "lastOnAirSku": "8747240",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019865747",
     "precedingSku": "8746964",
     "precedingTitle": "Close Out Deal- Designer Inspired Twist Hoop Earring",
     "precedingAuctionCode": "0019865743"
