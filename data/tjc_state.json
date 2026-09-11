@@ -86564,23 +86564,23 @@
       "sku": "7948830",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "03:14:23",
+      "date": "2026-09-11",
+      "time": "03:08:26",
       "preExisting": true,
       "missedAt": 1786011337384,
       "missedDelay": null,
-      "lastUpdated": 1788488063671,
+      "lastUpdated": 1789092506975,
       "missedPrice": 4.99,
       "missedImg": true,
       "title": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
-      "auctionCode": "0019854201",
+      "auctionCode": "0019863542",
       "source": "gha",
-      "productUrl": "/products/nusuk-fleurie-emerald-air-freshener-spray-300ml-8718097",
+      "productUrl": "/products/diffuser-brown?variant=53103225340170",
       "productUrlChecked": 1786011353726,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1788488063671,
-      "pdpPrice": "4.99",
+      "lastAir": 1789092506975,
+      "pdpPrice": 4.99,
       "buy": true,
       "login": false,
       "img": true
@@ -329630,8 +329630,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789092441922,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -354821,11 +354821,22 @@
         "followingSku": "3210120",
         "followingTitle": "Set of 3 Shoo Eau De Parfum \u2013 Addict Chic, Sexy Shoo Red & Addict Allure (Rose Gold) 100ml Each.",
         "followingAuctionCode": "0019863510"
+      },
+      {
+        "start": 1789092441922,
+        "end": 1789092506975,
+        "durationMin": 1.1,
+        "precedingSku": "8278778",
+        "precedingTitle": "LIVMORE Elephant Ceramic Oil Burner with 10 Tea Lights & 7 Aroma Oils (10ml) - Musk , Lavendar, Jasmine, Rose, Citronella, Lemongress & Patchouli",
+        "precedingAuctionCode": "0019863540",
+        "followingSku": "7948830",
+        "followingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
+        "followingAuctionCode": "0019863542"
       }
     ],
-    "lastOnAirSku": "8278778",
-    "lastOnAirTitle": "LIVMORE Elephant Ceramic Oil Burner with 10 Tea Lights & 7 Aroma Oils (10ml) - Musk , Lavendar, Jasmine, Rose, Citronella, Lemongress & Patchouli",
-    "lastOnAirAuctionCode": "0019863540",
+    "lastOnAirSku": "7948830",
+    "lastOnAirTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
+    "lastOnAirAuctionCode": "0019863542",
     "precedingSku": "8278778",
     "precedingTitle": "LIVMORE Elephant Ceramic Oil Burner with 10 Tea Lights & 7 Aroma Oils (10ml) - Musk , Lavendar, Jasmine, Rose, Citronella, Lemongress & Patchouli",
     "precedingAuctionCode": "0019863540"
