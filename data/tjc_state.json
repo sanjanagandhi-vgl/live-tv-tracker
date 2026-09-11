@@ -330522,11 +330522,29 @@
       "productUrl": null,
       "lastUpdated": 1789105280153,
       "source": "gha"
+    },
+    "7773029": {
+      "sku": "7773029",
+      "firstAir": 1789105638904,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789105638904,
+      "title": "Maison Frill Sleeve Vest - Black",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019864855",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "06:47:18",
+      "productUrl": null,
+      "lastUpdated": 1789105638904,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789105583146,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -355837,11 +355855,22 @@
         "followingSku": "8739949",
         "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
         "followingAuctionCode": "0019864781"
+      },
+      {
+        "start": 1789105583146,
+        "end": 1789105638904,
+        "durationMin": 0.9,
+        "precedingSku": "8661079",
+        "precedingTitle": "Classic Detangling Hair Brush in Pink Colour",
+        "precedingAuctionCode": "0019864809",
+        "followingSku": "7773029",
+        "followingTitle": "Maison Frill Sleeve Vest - Black",
+        "followingAuctionCode": "0019864855"
       }
     ],
-    "lastOnAirSku": "8661079",
-    "lastOnAirTitle": "Classic Detangling Hair Brush in Pink Colour",
-    "lastOnAirAuctionCode": "0019864809",
+    "lastOnAirSku": "7773029",
+    "lastOnAirTitle": "Maison Frill Sleeve Vest - Black",
+    "lastOnAirAuctionCode": "0019864855",
     "precedingSku": "8661079",
     "precedingTitle": "Classic Detangling Hair Brush in Pink Colour",
     "precedingAuctionCode": "0019864809"
