@@ -331551,11 +331551,15 @@
       "date": "2026-09-11",
       "time": "12:53:22",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8735986?variant=53676979847434",
-      "lastUpdated": 1789127602846,
+      "lastUpdated": 1789128116715,
       "source": "gha",
       "productUrlChecked": 1789127605492,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789128116715,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8747248": {
       "sku": "8747248",
@@ -331619,7 +331623,7 @@
       "firstAir": 1789128066735,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789128066735,
+      "lastAir": 1789128116715,
       "title": "Close Out Deal- Designer Inspired Set of 2 -  Necklace (Size - 18-3 Ext) & Push Back Earring with Enameling",
       "pdpPrice": "9.99",
       "auctionCode": "0019865753",
@@ -331627,9 +331631,9 @@
       "login": false,
       "img": true,
       "date": "2026-09-11",
-      "time": "13:01:06",
+      "time": "13:01:56",
       "productUrl": null,
-      "lastUpdated": 1789128066735,
+      "lastUpdated": 1789128116715,
       "source": "gha"
     }
   },
