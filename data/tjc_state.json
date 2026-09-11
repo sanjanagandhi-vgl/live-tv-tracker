@@ -333130,11 +333130,29 @@
       "productUrlChecked": 1789156644387,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8597967": {
+      "sku": "8597967",
+      "firstAir": 1789157183488,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789157183488,
+      "title": "Cordless and Portable Lint Remover with Digital Display - White",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019866860",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "21:06:23",
+      "productUrl": null,
+      "lastUpdated": 1789157183488,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789157128717,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -358984,11 +359002,22 @@
         "followingSku": "8521094",
         "followingTitle": "20W Electric Hot Melt Glue Gun Kit with 50 Glue Sticks & UK Plug (220V)",
         "followingAuctionCode": "0019864995"
+      },
+      {
+        "start": 1789157128717,
+        "end": 1789157183488,
+        "durationMin": 0.9,
+        "precedingSku": "8521094",
+        "precedingTitle": "20W Electric Hot Melt Glue Gun Kit with 50 Glue Sticks & UK Plug (220V)",
+        "precedingAuctionCode": "0019864995",
+        "followingSku": "8597967",
+        "followingTitle": "Cordless and Portable Lint Remover with Digital Display - White",
+        "followingAuctionCode": "0019866860"
       }
     ],
-    "lastOnAirSku": "8521094",
-    "lastOnAirTitle": "20W Electric Hot Melt Glue Gun Kit with 50 Glue Sticks & UK Plug (220V)",
-    "lastOnAirAuctionCode": "0019864995",
+    "lastOnAirSku": "8597967",
+    "lastOnAirTitle": "Cordless and Portable Lint Remover with Digital Display - White",
+    "lastOnAirAuctionCode": "0019866860",
     "precedingSku": "8521094",
     "precedingTitle": "20W Electric Hot Melt Glue Gun Kit with 50 Glue Sticks & UK Plug (220V)",
     "precedingAuctionCode": "0019864995"
