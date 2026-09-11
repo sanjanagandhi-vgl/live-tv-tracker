@@ -72610,21 +72610,26 @@
       "sku": "8574663",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-04",
-      "time": "19:47:26",
+      "date": "2026-09-11",
+      "time": "15:44:25",
       "preExisting": true,
       "missedAt": 1785869246964,
       "missedDelay": null,
-      "lastUpdated": 1785869246964,
+      "lastUpdated": 1789137865844,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Flower Pattern Beaded Phone Crossbody Bag with Adjustable Strap - Black",
-      "auctionCode": "0019807549",
+      "title": "Evil Eye Beaded Phone Crossbody Bag with Adjustable Strap - Blue",
+      "auctionCode": "0019865583",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-black-8574685",
       "productUrlChecked": 1785869258403,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789137865844,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8574704": {
       "sku": "8574704",
@@ -332220,14 +332225,21 @@
       "login": false,
       "date": "2026-09-11",
       "time": "15:34:22",
-      "productUrl": null,
-      "lastUpdated": 1789137262709,
-      "source": "gha-variant"
+      "productUrl": "/products/layla-ladies-adjustable-twin-buckle-casual-slip-on-sliders",
+      "lastUpdated": 1789137865844,
+      "source": "gha-variant",
+      "missedAt": 1789137865844,
+      "missedDelay": 10,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "productUrlChecked": 1789137877851,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789137744081,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -357934,11 +357946,22 @@
         "followingSku": "8560649",
         "followingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
         "followingAuctionCode": "0019865563"
+      },
+      {
+        "start": 1789137744081,
+        "end": 1789137865844,
+        "durationMin": 2.0,
+        "precedingSku": "8560649",
+        "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
+        "precedingAuctionCode": "0019865563",
+        "followingSku": "8574663",
+        "followingTitle": "Evil Eye Beaded Phone Crossbody Bag with Adjustable Strap - Blue",
+        "followingAuctionCode": "0019865583"
       }
     ],
-    "lastOnAirSku": "8560649",
-    "lastOnAirTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
-    "lastOnAirAuctionCode": "0019865563",
+    "lastOnAirSku": "8574663",
+    "lastOnAirTitle": "Evil Eye Beaded Phone Crossbody Bag with Adjustable Strap - Blue",
+    "lastOnAirAuctionCode": "0019865583",
     "precedingSku": "8560649",
     "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
     "precedingAuctionCode": "0019865563"
