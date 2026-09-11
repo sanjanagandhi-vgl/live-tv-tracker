@@ -331507,11 +331507,29 @@
       "productUrl": null,
       "lastUpdated": 1789127135773,
       "source": "gha"
+    },
+    "8747243": {
+      "sku": "8747243",
+      "firstAir": 1789127240226,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789127240226,
+      "title": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019865750",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "12:47:20",
+      "productUrl": null,
+      "lastUpdated": 1789127240226,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789127183690,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -357119,11 +357137,22 @@
         "followingSku": "8747242",
         "followingTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
         "followingAuctionCode": "0019865749"
+      },
+      {
+        "start": 1789127183690,
+        "end": 1789127240226,
+        "durationMin": 0.9,
+        "precedingSku": "8746942",
+        "precedingTitle": "Close Out Deal- Designer Inspired Interlocking Link Hoop Earring with Push Back",
+        "precedingAuctionCode": "0019865736",
+        "followingSku": "8747243",
+        "followingTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+        "followingAuctionCode": "0019865750"
       }
     ],
-    "lastOnAirSku": "8746942",
-    "lastOnAirTitle": "Close Out Deal- Designer Inspired Interlocking Link Hoop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019865736",
+    "lastOnAirSku": "8747243",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019865750",
     "precedingSku": "8746942",
     "precedingTitle": "Close Out Deal- Designer Inspired Interlocking Link Hoop Earring with Push Back",
     "precedingAuctionCode": "0019865736"
