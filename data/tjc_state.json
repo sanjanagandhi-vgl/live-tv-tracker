@@ -330540,11 +330540,29 @@
       "productUrl": null,
       "lastUpdated": 1789105759761,
       "source": "gha"
+    },
+    "7773024": {
+      "sku": "7773024",
+      "firstAir": 1789105878711,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789105878711,
+      "title": "Maison Frill Sleeve Vest - Black",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019864850",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "06:51:18",
+      "productUrl": null,
+      "lastUpdated": 1789105878711,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789105838693,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -355866,11 +355884,22 @@
         "followingSku": "7773029",
         "followingTitle": "Maison Frill Sleeve Vest - Black",
         "followingAuctionCode": "0019864855"
+      },
+      {
+        "start": 1789105838693,
+        "end": 1789105878711,
+        "durationMin": 0.7,
+        "precedingSku": "7773029",
+        "precedingTitle": "Maison Frill Sleeve Vest - Black",
+        "precedingAuctionCode": "0019864855",
+        "followingSku": "7773024",
+        "followingTitle": "Maison Frill Sleeve Vest - Black",
+        "followingAuctionCode": "0019864850"
       }
     ],
-    "lastOnAirSku": "7773029",
+    "lastOnAirSku": "7773024",
     "lastOnAirTitle": "Maison Frill Sleeve Vest - Black",
-    "lastOnAirAuctionCode": "0019864855",
+    "lastOnAirAuctionCode": "0019864850",
     "precedingSku": "7773029",
     "precedingTitle": "Maison Frill Sleeve Vest - Black",
     "precedingAuctionCode": "0019864855"
