@@ -330662,11 +330662,29 @@
       "productUrlChecked": 1789106545943,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8312163": {
+      "sku": "8312163",
+      "firstAir": 1789107439884,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789107439884,
+      "title": "Christmas gift card(pack of 5",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019864756",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "07:17:19",
+      "productUrl": null,
+      "lastUpdated": 1789107439884,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789107382955,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356032,11 +356050,22 @@
         "followingSku": "7553281",
         "followingTitle": "Set of 2 Christmas Novelty Bottle Cover",
         "followingAuctionCode": "0019864758"
+      },
+      {
+        "start": 1789107382955,
+        "end": 1789107439884,
+        "durationMin": 0.9,
+        "precedingSku": "7553281",
+        "precedingTitle": "Set of 2 Christmas Novelty Bottle Cover",
+        "precedingAuctionCode": "0019864758",
+        "followingSku": "8312163",
+        "followingTitle": "Christmas gift card(pack of 5",
+        "followingAuctionCode": "0019864756"
       }
     ],
-    "lastOnAirSku": "7553281",
-    "lastOnAirTitle": "Set of 2 Christmas Novelty Bottle Cover",
-    "lastOnAirAuctionCode": "0019864758",
+    "lastOnAirSku": "8312163",
+    "lastOnAirTitle": "Christmas gift card(pack of 5",
+    "lastOnAirAuctionCode": "0019864756",
     "precedingSku": "7553281",
     "precedingTitle": "Set of 2 Christmas Novelty Bottle Cover",
     "precedingAuctionCode": "0019864758"
