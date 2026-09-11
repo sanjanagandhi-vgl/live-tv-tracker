@@ -330702,9 +330702,16 @@
       "img": true,
       "date": "2026-09-11",
       "time": "07:41:25",
-      "productUrl": null,
-      "lastUpdated": 1789108885488,
-      "source": "gha"
+      "productUrl": "/products/christmas-ornament-size-one-size-red-yellow-8641924",
+      "lastUpdated": 1789109439221,
+      "source": "gha",
+      "missedAt": 1789109439221,
+      "missedDelay": 9,
+      "missedPrice": 6.99,
+      "missedImg": true,
+      "productUrlChecked": 1789109442483,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8566899": {
       "sku": "8566899",
@@ -330723,6 +330730,44 @@
       "productUrl": null,
       "lastUpdated": 1789109360746,
       "source": "gha"
+    },
+    "8619906": {
+      "sku": "8619906",
+      "firstAir": 1789109439221,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789109439221,
+      "title": "Cocomelon Dome Umbrella",
+      "pdpPrice": "89.99",
+      "auctionCode": "0019864768",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "07:50:39",
+      "productUrl": null,
+      "lastUpdated": 1789109439221,
+      "source": "gha"
+    },
+    "8641926": {
+      "sku": "8641926",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-11",
+      "time": "07:50:39",
+      "preExisting": true,
+      "missedAt": 1789109439221,
+      "missedDelay": null,
+      "lastUpdated": 1789109439221,
+      "missedPrice": 6.99,
+      "missedImg": true,
+      "title": "Christmas Wrapping Paper 40 sheets (20 each colour) (Size - One Size) - Red Green",
+      "auctionCode": "0019865772",
+      "source": "gha",
+      "productUrl": "/products/christmas-ornament-size-one-size-red-yellow-8641924",
+      "productUrlChecked": 1789109442637,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
@@ -356117,9 +356162,9 @@
         "followingAuctionCode": "0019864754"
       }
     ],
-    "lastOnAirSku": "8566899",
-    "lastOnAirTitle": "Novelty Plush Apple Character Crossbody Bag - Cream",
-    "lastOnAirAuctionCode": "0019864764",
+    "lastOnAirSku": "8619906",
+    "lastOnAirTitle": "Cocomelon Dome Umbrella",
+    "lastOnAirAuctionCode": "0019864768",
     "precedingSku": "8312163",
     "precedingTitle": "Christmas gift card(pack of 5",
     "precedingAuctionCode": "0019864756"
