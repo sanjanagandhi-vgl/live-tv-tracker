@@ -330834,11 +330834,29 @@
       "productUrlChecked": 1789109963303,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8683473": {
+      "sku": "8683473",
+      "firstAir": 1789114242386,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789114242386,
+      "title": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 8-14) - Black, White, Grey & Beige",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019864704",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "09:10:42",
+      "productUrl": null,
+      "lastUpdated": 1789114242386,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789114102943,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356270,11 +356288,22 @@
         "followingSku": "8306337",
         "followingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
         "followingAuctionCode": "0019864777"
+      },
+      {
+        "start": 1789114102943,
+        "end": 1789114242386,
+        "durationMin": 2.3,
+        "precedingSku": "7210982",
+        "precedingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
+        "precedingAuctionCode": "0019865778",
+        "followingSku": "8683473",
+        "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 8-14) - Black, White, Grey & Beige",
+        "followingAuctionCode": "0019864704"
       }
     ],
-    "lastOnAirSku": "7210982",
-    "lastOnAirTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
-    "lastOnAirAuctionCode": "0019865778",
+    "lastOnAirSku": "8683473",
+    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 8-14) - Black, White, Grey & Beige",
+    "lastOnAirAuctionCode": "0019864704",
     "precedingSku": "7210982",
     "precedingTitle": "Laurelle Avenge EDP & Body Wash - 100ml Each",
     "precedingAuctionCode": "0019865778"
