@@ -330680,11 +330680,29 @@
       "productUrl": null,
       "lastUpdated": 1789107799358,
       "source": "gha"
+    },
+    "8641924": {
+      "sku": "8641924",
+      "firstAir": 1789108039145,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789108039145,
+      "title": "Christmas Wrapping Paper (Size - One Size) - Red Green",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019864754",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-11",
+      "time": "07:27:19",
+      "productUrl": null,
+      "lastUpdated": 1789108039145,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789107863225,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356061,11 +356079,22 @@
         "followingSku": "8312163",
         "followingTitle": "Christmas gift card(pack of 5",
         "followingAuctionCode": "0019864756"
+      },
+      {
+        "start": 1789107863225,
+        "end": 1789108039145,
+        "durationMin": 2.9,
+        "precedingSku": "8312163",
+        "precedingTitle": "Christmas gift card(pack of 5",
+        "precedingAuctionCode": "0019864756",
+        "followingSku": "8641924",
+        "followingTitle": "Christmas Wrapping Paper (Size - One Size) - Red Green",
+        "followingAuctionCode": "0019864754"
       }
     ],
-    "lastOnAirSku": "8312163",
-    "lastOnAirTitle": "Christmas gift card(pack of 5",
-    "lastOnAirAuctionCode": "0019864756",
+    "lastOnAirSku": "8641924",
+    "lastOnAirTitle": "Christmas Wrapping Paper (Size - One Size) - Red Green",
+    "lastOnAirAuctionCode": "0019864754",
     "precedingSku": "8312163",
     "precedingTitle": "Christmas gift card(pack of 5",
     "precedingAuctionCode": "0019864756"
