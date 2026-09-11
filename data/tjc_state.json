@@ -257287,17 +257287,17 @@
       "firstAir": 1787880562054,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788515960427,
+      "lastAir": 1789112360198,
       "title": "Laurelle I'M The One EDT - 100ml",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019856074",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019864780",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-04",
-      "time": "10:59:20",
+      "date": "2026-09-11",
+      "time": "08:39:20",
       "productUrl": "/products/laurelle-im-the-one-edt-100ml",
-      "lastUpdated": 1788515960427,
+      "lastUpdated": 1789112360198,
       "source": "gha",
       "missedAt": 1787881342510,
       "missedDelay": 10,
@@ -330830,8 +330830,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789112240017,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356241,11 +356241,22 @@
         "followingSku": "8689647",
         "followingTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
         "followingAuctionCode": "0019864794"
+      },
+      {
+        "start": 1789112240017,
+        "end": 1789112360198,
+        "durationMin": 2.0,
+        "precedingSku": "8689647",
+        "precedingTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
+        "precedingAuctionCode": "0019864794",
+        "followingSku": "8306394",
+        "followingTitle": "Laurelle I'M The One EDT - 100ml",
+        "followingAuctionCode": "0019864780"
       }
     ],
-    "lastOnAirSku": "8689647",
-    "lastOnAirTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
-    "lastOnAirAuctionCode": "0019864794",
+    "lastOnAirSku": "8306394",
+    "lastOnAirTitle": "Laurelle I'M The One EDT - 100ml",
+    "lastOnAirAuctionCode": "0019864780",
     "precedingSku": "8689647",
     "precedingTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
     "precedingAuctionCode": "0019864794"
