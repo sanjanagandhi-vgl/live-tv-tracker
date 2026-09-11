@@ -100154,22 +100154,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-11",
-      "time": "01:02:26",
+      "time": "10:57:20",
       "preExisting": true,
       "missedAt": 1786125745587,
       "missedDelay": null,
-      "lastUpdated": 1789084946703,
+      "lastUpdated": 1789120640410,
       "missedPrice": 5.99,
       "missedImg": true,
-      "title": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated ...",
-      "auctionCode": "0019864551",
+      "title": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated - Pink",
+      "auctionCode": "0019864206",
       "source": "gha",
       "productUrl": "/products/designer-inspired-cubic-zirconia-teddy-bear-pendant-with-chain-size-20-in-yellow-gold-plated?variant=53173716386058",
       "productUrlChecked": 1786125756267,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789084946703,
-      "pdpPrice": 4.99,
+      "lastAir": 1789120640410,
+      "pdpPrice": "4.99",
       "buy": true,
       "login": false,
       "img": true
@@ -331048,8 +331048,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789120584544,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356558,11 +356558,22 @@
         "followingSku": "8426917",
         "followingTitle": "BEST SELLER Natural White Diamond Hoop Earring",
         "followingAuctionCode": "0019862889"
+      },
+      {
+        "start": 1789120584544,
+        "end": 1789120640410,
+        "durationMin": 0.9,
+        "precedingSku": "8374821",
+        "precedingTitle": "Fancy Bracelet",
+        "precedingAuctionCode": "0019864204",
+        "followingSku": "4442694",
+        "followingTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated - Pink",
+        "followingAuctionCode": "0019864206"
       }
     ],
-    "lastOnAirSku": "8374821",
-    "lastOnAirTitle": "Fancy Bracelet",
-    "lastOnAirAuctionCode": "0019864204",
+    "lastOnAirSku": "4442694",
+    "lastOnAirTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated - Pink",
+    "lastOnAirAuctionCode": "0019864206",
     "precedingSku": "8374821",
     "precedingTitle": "Fancy Bracelet",
     "precedingAuctionCode": "0019864204"
