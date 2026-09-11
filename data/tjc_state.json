@@ -4315,16 +4315,16 @@
       "firstAir": 1784886927808,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785826999164,
+      "lastAir": 1789111758930,
       "title": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
-      "pdpPrice": "8.99",
-      "auctionCode": "0019806513",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019864794",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-04",
-      "time": "08:03:19",
-      "lastUpdated": 1785826999164,
+      "date": "2026-09-11",
+      "time": "08:29:18",
+      "lastUpdated": 1789111758930,
       "source": "gha",
       "missedAt": 1784887278885,
       "missedDelay": 2,
@@ -330830,8 +330830,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789111640574,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356230,11 +356230,22 @@
         "followingSku": "8507640",
         "followingTitle": "Chand.Rouge Eau de Parfum - 100ml",
         "followingAuctionCode": "0019865518"
+      },
+      {
+        "start": 1789111640574,
+        "end": 1789111758930,
+        "durationMin": 2.0,
+        "precedingSku": "8689641",
+        "precedingTitle": "Laurelle Divine Fleur Wild Petals EDP - 100ml",
+        "precedingAuctionCode": "0019864791",
+        "followingSku": "8689647",
+        "followingTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
+        "followingAuctionCode": "0019864794"
       }
     ],
-    "lastOnAirSku": "8689641",
-    "lastOnAirTitle": "Laurelle Divine Fleur Wild Petals EDP - 100ml",
-    "lastOnAirAuctionCode": "0019864791",
+    "lastOnAirSku": "8689647",
+    "lastOnAirTitle": "Laurelle Amarai Sunlit Bloom EDP - 100ml",
+    "lastOnAirAuctionCode": "0019864794",
     "precedingSku": "8689641",
     "precedingTitle": "Laurelle Divine Fleur Wild Petals EDP - 100ml",
     "precedingAuctionCode": "0019864791"
