@@ -21825,17 +21825,23 @@
       "sku": "8535920",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "11:44:23",
+      "date": "2026-09-11",
+      "time": "21:49:24",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785321863299,
+      "lastUpdated": 1789159764206,
       "missedPrice": 7.99,
       "missedImg": false,
       "title": "15m Retractable Clothesline Wall-Mounted Washing Line Kit with 12 Wooden Pegs & Fixings - Grey",
-      "auctionCode": "0019798208",
-      "source": "gha"
+      "auctionCode": "0019866188",
+      "source": "gha",
+      "lastAir": 1789159764206,
+      "pdpPrice": "159.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "4452888": {
       "sku": "4452888",
@@ -333183,8 +333189,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789159706596,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -359056,11 +359062,22 @@
         "followingSku": "8683473",
         "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
         "followingAuctionCode": "0019866862"
+      },
+      {
+        "start": 1789159706596,
+        "end": 1789159764206,
+        "durationMin": 1.0,
+        "precedingSku": "8531843",
+        "precedingTitle": "Livmore Handcrafted Wooden Horse Rolling Toy with Wheels (12 x 11 x 8 cm) - Light Beige & Brown",
+        "precedingAuctionCode": "0019866183",
+        "followingSku": "8535920",
+        "followingTitle": "15m Retractable Clothesline Wall-Mounted Washing Line Kit with 12 Wooden Pegs & Fixings - Grey",
+        "followingAuctionCode": "0019866188"
       }
     ],
-    "lastOnAirSku": "8531843",
-    "lastOnAirTitle": "Livmore Handcrafted Wooden Horse Rolling Toy with Wheels (12 x 11 x 8 cm) - Light Beige & Brown",
-    "lastOnAirAuctionCode": "0019866183",
+    "lastOnAirSku": "8535920",
+    "lastOnAirTitle": "15m Retractable Clothesline Wall-Mounted Washing Line Kit with 12 Wooden Pegs & Fixings - Grey",
+    "lastOnAirAuctionCode": "0019866188",
     "precedingSku": "8531843",
     "precedingTitle": "Livmore Handcrafted Wooden Horse Rolling Toy with Wheels (12 x 11 x 8 cm) - Light Beige & Brown",
     "precedingAuctionCode": "0019866183"
