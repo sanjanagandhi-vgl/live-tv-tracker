@@ -37610,17 +37610,17 @@
       "firstAir": 1785497362725,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789084464937,
+      "lastAir": 1789101802511,
       "title": "Holy Bible Jewellery Set",
       "pdpPrice": "6.99",
-      "auctionCode": "0019864539",
+      "auctionCode": "0019865784",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-11",
-      "time": "00:54:24",
+      "time": "05:43:22",
       "productUrl": "/products/holy-bible-jewellery-set?variant=53173759279370",
-      "lastUpdated": 1789084464937,
+      "lastUpdated": 1789101802511,
       "source": "gha",
       "missedAt": 1785498341160,
       "missedDelay": 9,
@@ -330507,8 +330507,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789101743481,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -355786,11 +355786,22 @@
         "followingSku": "8260653",
         "followingTitle": "Designer Inspired-Rhythm  Necklace (Size - 18-2 Ext)",
         "followingAuctionCode": "0019864504"
+      },
+      {
+        "start": 1789101743481,
+        "end": 1789101802511,
+        "durationMin": 1.0,
+        "precedingSku": "8030861",
+        "precedingTitle": "Velvet Glass Lid Multi Row Ring Display Organiser Box - Purple & Cream",
+        "precedingAuctionCode": "0019864495",
+        "followingSku": "7792016",
+        "followingTitle": "Holy Bible Jewellery Set",
+        "followingAuctionCode": "0019865784"
       }
     ],
-    "lastOnAirSku": "8030861",
-    "lastOnAirTitle": "Velvet Glass Lid Multi Row Ring Display Organiser Box - Purple & Cream",
-    "lastOnAirAuctionCode": "0019864495",
+    "lastOnAirSku": "7792016",
+    "lastOnAirTitle": "Holy Bible Jewellery Set",
+    "lastOnAirAuctionCode": "0019865784",
     "precedingSku": "8030861",
     "precedingTitle": "Velvet Glass Lid Multi Row Ring Display Organiser Box - Purple & Cream",
     "precedingAuctionCode": "0019864495"
