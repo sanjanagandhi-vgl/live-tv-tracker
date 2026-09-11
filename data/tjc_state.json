@@ -4206,16 +4206,16 @@
       "firstAir": 1784884159328,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788758478287,
+      "lastAir": 1789113080713,
       "title": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019859468",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019864777",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-07",
-      "time": "06:21:18",
-      "lastUpdated": 1788758478287,
+      "date": "2026-09-11",
+      "time": "08:51:20",
+      "lastUpdated": 1789113080713,
       "source": "gha",
       "missedAt": 1784884534629,
       "missedDelay": 2,
@@ -330830,8 +330830,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789113038932,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -356252,11 +356252,22 @@
         "followingSku": "8306394",
         "followingTitle": "Laurelle I'M The One EDT - 100ml",
         "followingAuctionCode": "0019864780"
+      },
+      {
+        "start": 1789113038932,
+        "end": 1789113080713,
+        "durationMin": 0.7,
+        "precedingSku": "8306394",
+        "precedingTitle": "Laurelle I'M The One EDT - 100ml",
+        "precedingAuctionCode": "0019864780",
+        "followingSku": "8306337",
+        "followingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
+        "followingAuctionCode": "0019864777"
       }
     ],
-    "lastOnAirSku": "8306394",
-    "lastOnAirTitle": "Laurelle I'M The One EDT - 100ml",
-    "lastOnAirAuctionCode": "0019864780",
+    "lastOnAirSku": "8306337",
+    "lastOnAirTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
+    "lastOnAirAuctionCode": "0019864777",
     "precedingSku": "8306394",
     "precedingTitle": "Laurelle I'M The One EDT - 100ml",
     "precedingAuctionCode": "0019864780"
