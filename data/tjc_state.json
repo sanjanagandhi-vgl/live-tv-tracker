@@ -331356,20 +331356,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-11",
-      "time": "12:02:23",
+      "time": "22:18:25",
       "preExisting": true,
       "missedAt": 1789124543877,
       "missedDelay": null,
-      "lastUpdated": 1789124543877,
+      "lastUpdated": 1789161505358,
       "missedPrice": 7.99,
       "missedImg": false,
       "title": "Multi Colour Glass Stretchable Bracelet",
-      "auctionCode": "0019865934",
+      "auctionCode": "0019866720",
       "source": "gha",
       "productUrl": "/products/oval-picture-frame-pendant-with-chain-size-18-in-silver-tone-4510749",
       "productUrlChecked": 1789124546671,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789161505358,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8735988": {
       "sku": "8735988",
@@ -333198,8 +333203,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789161383871,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -359104,11 +359109,22 @@
         "followingSku": "8484339",
         "followingTitle": "Larimar Chips Necklace (Size - 18-2 Ext) 353.00 Ct.",
         "followingAuctionCode": "0019865050"
+      },
+      {
+        "start": 1789161383871,
+        "end": 1789161505358,
+        "durationMin": 2.0,
+        "precedingSku": "8484339",
+        "precedingTitle": "Larimar Chips Necklace (Size - 18-2 Ext) 353.00 Ct.",
+        "precedingAuctionCode": "0019865050",
+        "followingSku": "8697598",
+        "followingTitle": "Multi Colour Glass Stretchable Bracelet",
+        "followingAuctionCode": "0019866720"
       }
     ],
-    "lastOnAirSku": "8484339",
-    "lastOnAirTitle": "Larimar Chips Necklace (Size - 18-2 Ext) 353.00 Ct.",
-    "lastOnAirAuctionCode": "0019865050",
+    "lastOnAirSku": "8697598",
+    "lastOnAirTitle": "Multi Colour Glass Stretchable Bracelet",
+    "lastOnAirAuctionCode": "0019866720",
     "precedingSku": "8484339",
     "precedingTitle": "Larimar Chips Necklace (Size - 18-2 Ext) 353.00 Ct.",
     "precedingAuctionCode": "0019865050"
