@@ -290883,17 +290883,17 @@
       "firstAir": 1788397762470,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789047801894,
+      "lastAir": 1789103478903,
       "title": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
-      "pdpPrice": "5.99",
-      "auctionCode": "0019863443",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019864781",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-10",
-      "time": "14:43:21",
+      "date": "2026-09-11",
+      "time": "06:11:18",
       "productUrl": "/products/cyclax-cocoa-butter-rich-body-cream-8739949",
-      "lastUpdated": 1789047801894,
+      "lastUpdated": 1789103478903,
       "source": "gha",
       "missedAt": 1788398357923,
       "missedDelay": 10,
@@ -330507,8 +330507,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789103437669,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -355808,11 +355808,22 @@
         "followingSku": "8253435",
         "followingTitle": "H2EAU London Grow Longer Miracle Scalp Drops - 50ml",
         "followingAuctionCode": "0019864804"
+      },
+      {
+        "start": 1789103437669,
+        "end": 1789103478903,
+        "durationMin": 0.7,
+        "precedingSku": "8253435",
+        "precedingTitle": "H2EAU London Grow Longer Miracle Scalp Drops - 50ml",
+        "precedingAuctionCode": "0019864804",
+        "followingSku": "8739949",
+        "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+        "followingAuctionCode": "0019864781"
       }
     ],
-    "lastOnAirSku": "8253435",
-    "lastOnAirTitle": "H2EAU London Grow Longer Miracle Scalp Drops - 50ml",
-    "lastOnAirAuctionCode": "0019864804",
+    "lastOnAirSku": "8739949",
+    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+    "lastOnAirAuctionCode": "0019864781",
     "precedingSku": "8253435",
     "precedingTitle": "H2EAU London Grow Longer Miracle Scalp Drops - 50ml",
     "precedingAuctionCode": "0019864804"
