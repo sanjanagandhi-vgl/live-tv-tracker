@@ -333669,14 +333669,21 @@
       "img": false,
       "date": "2026-09-11",
       "time": "23:44:23",
-      "productUrl": null,
-      "lastUpdated": 1789166663513,
-      "source": "gha"
+      "productUrl": "/products/squash-figaro-necklace-size-20-with-lobster-clasp-in-sterling-silver-8673670",
+      "lastUpdated": 1789167262929,
+      "source": "gha",
+      "missedAt": 1789167262929,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": false,
+      "productUrlChecked": 1789167267368,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789167262929,
     "gaps": [
       {
         "start": 1785823527869,
@@ -359674,8 +359681,8 @@
     "lastOnAirSku": "8498174",
     "lastOnAirTitle": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
     "lastOnAirAuctionCode": "0019865168",
-    "precedingSku": "8673670",
-    "precedingTitle": "Squash Figaro Necklace (Size - 20) with Lobster Clasp in Sterling Silver",
-    "precedingAuctionCode": "0019865506"
+    "precedingSku": "8498174",
+    "precedingTitle": "Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver",
+    "precedingAuctionCode": "0019865168"
   }
 }
