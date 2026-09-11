@@ -286559,21 +286559,26 @@
       "sku": "8740679",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-02",
-      "time": "15:00:30",
+      "date": "2026-09-11",
+      "time": "14:41:19",
       "preExisting": true,
       "missedAt": 1788357630129,
       "missedDelay": null,
-      "lastUpdated": 1788357630129,
+      "lastUpdated": 1789134079859,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "OPI Nail Laquer Spring 2026 Collection - Big Apple Energy - 15ml",
-      "auctionCode": "0019855002",
+      "title": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
+      "auctionCode": "0019865535",
       "source": "gha",
       "productUrl": "/products/opi-nail-laquer-spring-2026-collection-big-apple-energy-8740679",
       "productUrlChecked": 1788357641721,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789134079859,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8740721": {
       "sku": "8740721",
@@ -332129,8 +332134,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789134041846,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -357793,11 +357798,22 @@
         "followingSku": "8740724",
         "followingTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
         "followingAuctionCode": "0019865532"
+      },
+      {
+        "start": 1789134041846,
+        "end": 1789134079859,
+        "durationMin": 0.6,
+        "precedingSku": "8740736",
+        "precedingTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
+        "precedingAuctionCode": "0019865534",
+        "followingSku": "8740679",
+        "followingTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
+        "followingAuctionCode": "0019865535"
       }
     ],
-    "lastOnAirSku": "8740736",
+    "lastOnAirSku": "8740679",
     "lastOnAirTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
-    "lastOnAirAuctionCode": "0019865534",
+    "lastOnAirAuctionCode": "0019865535",
     "precedingSku": "8740736",
     "precedingTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
     "precedingAuctionCode": "0019865534"
