@@ -332620,9 +332620,16 @@
       "img": false,
       "date": "2026-09-11",
       "time": "17:17:19",
-      "productUrl": null,
-      "lastUpdated": 1789143439727,
-      "source": "gha"
+      "productUrl": "/products/cross-pendant-with-chain-size-28-t-bar-clasp-in-gold-tone-4506648",
+      "lastUpdated": 1789144585846,
+      "source": "gha",
+      "missedAt": 1789144585846,
+      "missedDelay": 19,
+      "missedPrice": 7.99,
+      "missedImg": false,
+      "productUrlChecked": 1789144590067,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4506649": {
       "sku": "4506649",
@@ -332734,11 +332741,15 @@
       "date": "2026-09-11",
       "time": "17:27:21",
       "productUrl": "/products/resin-dolphin-pendant-with-chain-size-18-1-00-ct-4510753?variant=53427353157898",
-      "lastUpdated": 1789144041185,
+      "lastUpdated": 1789144585846,
       "source": "gha",
       "productUrlChecked": 1789144045049,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789144585846,
+      "missedDelay": 9,
+      "missedPrice": 7.99,
+      "missedImg": false
     },
     "4510761": {
       "sku": "4510761",
@@ -332816,6 +332827,24 @@
       "productUrlChecked": 1789144469292,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4510771": {
+      "sku": "4510771",
+      "firstAir": 1789144585846,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789144585846,
+      "title": "Scroll Panel Pendant with Chain (Size 18) & Lobster Clasp in Silver Tone",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019865664",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-11",
+      "time": "17:36:25",
+      "productUrl": null,
+      "lastUpdated": 1789144585846,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -358595,9 +358624,9 @@
         "followingAuctionCode": "0019865662"
       }
     ],
-    "lastOnAirSku": "4510769",
-    "lastOnAirTitle": "Sea Shell Design Pendant with Chain (Size 18) & Lobster Clasp in Gold and Silver Tone",
-    "lastOnAirAuctionCode": "0019865663",
+    "lastOnAirSku": "4510771",
+    "lastOnAirTitle": "Scroll Panel Pendant with Chain (Size 18) & Lobster Clasp in Silver Tone",
+    "lastOnAirAuctionCode": "0019865664",
     "precedingSku": "4510761",
     "precedingTitle": "Cross Pendant with Chain (Size 18) & Lobster Clasp in Silver and Gold Tone",
     "precedingAuctionCode": "0019865661"
