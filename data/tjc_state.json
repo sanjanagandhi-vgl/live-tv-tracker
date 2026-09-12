@@ -2033,23 +2033,23 @@
       "sku": "8548666",
       "tvPrice": "",
       "remarks": "",
-      "time": "22:52:25",
+      "time": "04:21:19",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 24.99,
       "missedImg": false,
       "title": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-      "auctionCode": "0019852097",
+      "auctionCode": "0019865996",
       "source": "gha",
-      "lastAir": 1788213145117,
-      "pdpPrice": "24.99",
+      "lastAir": 1789183279969,
+      "pdpPrice": "120.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
+      "date": "2026-09-12",
       "productUrl": null,
-      "lastUpdated": 1788213145117
+      "lastUpdated": 1789183279969
     },
     "8548674": {
       "sku": "8548674",
@@ -334041,8 +334041,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789183237433,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -360123,11 +360123,22 @@
         "followingSku": "3226773",
         "followingTitle": "9K Yellow Gold Forzatina Chain Bracelet (Size 7.25) with Spring Ring Clasp",
         "followingAuctionCode": "0019865937"
+      },
+      {
+        "start": 1789183237433,
+        "end": 1789183279969,
+        "durationMin": 0.7,
+        "precedingSku": "8510534",
+        "precedingTitle": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
+        "precedingAuctionCode": "0019865973",
+        "followingSku": "8548666",
+        "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "followingAuctionCode": "0019865996"
       }
     ],
-    "lastOnAirSku": "8510534",
-    "lastOnAirTitle": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
-    "lastOnAirAuctionCode": "0019865973",
+    "lastOnAirSku": "8548666",
+    "lastOnAirTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+    "lastOnAirAuctionCode": "0019865996",
     "precedingSku": "8510534",
     "precedingTitle": "Luxoro - 9K Yellow Gold Floral Band Spinner Ring",
     "precedingAuctionCode": "0019865973"
