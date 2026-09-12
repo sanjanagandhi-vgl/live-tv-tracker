@@ -333862,11 +333862,29 @@
       "productUrl": null,
       "lastUpdated": 1789173440748,
       "source": "gha"
+    },
+    "8273055": {
+      "sku": "8273055",
+      "firstAir": 1789173637740,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789173637740,
+      "title": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019865318",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-12",
+      "time": "01:40:37",
+      "productUrl": null,
+      "lastUpdated": 1789173637740,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789173558851,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -359903,11 +359921,22 @@
         "followingSku": "8736007",
         "followingTitle": "Luxuriant - Multi Sapphire & Lab Grown Diamond Rainbow Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019865021"
+      },
+      {
+        "start": 1789173558851,
+        "end": 1789173637740,
+        "durationMin": 1.3,
+        "precedingSku": "8411909",
+        "precedingTitle": "Red Crystal and White Crystal Halo Earring with Hoop",
+        "precedingAuctionCode": "0019865240",
+        "followingSku": "8273055",
+        "followingTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
+        "followingAuctionCode": "0019865318"
       }
     ],
-    "lastOnAirSku": "8411909",
-    "lastOnAirTitle": "Red Crystal and White Crystal Halo Earring with Hoop",
-    "lastOnAirAuctionCode": "0019865240",
+    "lastOnAirSku": "8273055",
+    "lastOnAirTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
+    "lastOnAirAuctionCode": "0019865318",
     "precedingSku": "8411909",
     "precedingTitle": "Red Crystal and White Crystal Halo Earring with Hoop",
     "precedingAuctionCode": "0019865240"
