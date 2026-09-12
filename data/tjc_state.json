@@ -19968,16 +19968,16 @@
       "firstAir": 1785183645362,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788220999535,
+      "lastAir": 1789204999666,
       "title": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
-      "pdpPrice": "139.99",
-      "auctionCode": "0019852567",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019865951",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-01",
-      "time": "01:03:19",
-      "lastUpdated": 1788220999535,
+      "date": "2026-09-12",
+      "time": "10:23:19",
+      "lastUpdated": 1789204999666,
       "source": "gha",
       "missedAt": 1785184158540,
       "missedDelay": 3,
@@ -334331,8 +334331,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789204944263,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -360567,11 +360567,22 @@
         "followingSku": "8570643",
         "followingTitle": "9K Yellow Gold Heart Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019865948"
+      },
+      {
+        "start": 1789204944263,
+        "end": 1789204999666,
+        "durationMin": 0.9,
+        "precedingSku": "8646993",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Twisted Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019865950",
+        "followingSku": "8412112",
+        "followingTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+        "followingAuctionCode": "0019865951"
       }
     ],
-    "lastOnAirSku": "8646993",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Twisted Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019865950",
+    "lastOnAirSku": "8412112",
+    "lastOnAirTitle": "Royal Bali Collection-  9K Yellow Gold Heart Ring",
+    "lastOnAirAuctionCode": "0019865951",
     "precedingSku": "8646993",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Twisted Hoop Earring with Clasp",
     "precedingAuctionCode": "0019865950"
