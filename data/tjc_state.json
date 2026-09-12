@@ -334108,9 +334108,16 @@
       "img": true,
       "date": "2026-09-12",
       "time": "05:55:27",
-      "productUrl": null,
-      "lastUpdated": 1789188927712,
-      "source": "gha"
+      "productUrl": "/products/fissure-filled-ruby-lab-grown-diamond-halo-heart-pendant-with-chain-size-18-in-rhodium-overlay-sterling-silver-2-18-ct-4506868",
+      "lastUpdated": 1789200938593,
+      "source": "gha",
+      "missedAt": 1789200938593,
+      "missedDelay": 200,
+      "missedPrice": 89.99,
+      "missedImg": true,
+      "productUrlChecked": 1789200947526,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8688647": {
       "sku": "8688647",
@@ -334296,11 +334303,29 @@
       "productUrlChecked": 1789190906158,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8638678": {
+      "sku": "8638678",
+      "firstAir": 1789200938593,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789200938593,
+      "title": "Beautech Full Body LED Red and Near-infrared Light Therapy Bag With Lifetime Warranty (660nm & 850nm)",
+      "pdpPrice": "1875.99",
+      "auctionCode": "0019845679",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-12",
+      "time": "09:15:38",
+      "productUrl": null,
+      "lastUpdated": 1789200938593,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789200742690,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -360513,11 +360538,22 @@
         "followingSku": "8478644",
         "followingTitle": "Opatra 3Tone Tummy & Waist Sculpting Belt with EMS, Ultrasonic Vibration & Red LED Light Therapy (LIFETIME WARRANTY)",
         "followingAuctionCode": "0019865851"
+      },
+      {
+        "start": 1789200742690,
+        "end": 1789200938593,
+        "durationMin": 3.3,
+        "precedingSku": "8478644",
+        "precedingTitle": "Opatra 3Tone Tummy & Waist Sculpting Belt with EMS, Ultrasonic Vibration & Red LED Light Therapy ...",
+        "precedingAuctionCode": "0019865851",
+        "followingSku": "8638678",
+        "followingTitle": "Beautech Full Body LED Red and Near-infrared Light Therapy Bag With Lifetime Warranty (660nm & 850nm)",
+        "followingAuctionCode": "0019845679"
       }
     ],
-    "lastOnAirSku": "8478644",
-    "lastOnAirTitle": "Opatra 3Tone Tummy & Waist Sculpting Belt with EMS, Ultrasonic Vibration & Red LED Light Therapy ...",
-    "lastOnAirAuctionCode": "0019865851",
+    "lastOnAirSku": "8638678",
+    "lastOnAirTitle": "Beautech Full Body LED Red and Near-infrared Light Therapy Bag With Lifetime Warranty (660nm & 850nm)",
+    "lastOnAirAuctionCode": "0019845679",
     "precedingSku": "8478644",
     "precedingTitle": "Opatra 3Tone Tummy & Waist Sculpting Belt with EMS, Ultrasonic Vibration & Red LED Light Therapy ...",
     "precedingAuctionCode": "0019865851"
