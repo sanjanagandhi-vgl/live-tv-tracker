@@ -336413,9 +336413,16 @@
       "img": true,
       "date": "2026-09-13",
       "time": "00:16:22",
-      "productUrl": null,
-      "lastUpdated": 1789254982842,
-      "source": "gha"
+      "productUrl": "/products/evertrue-blue-turquoise-bracelet-size-8-in-yellow-gold-tone-14-34-ct-8685378",
+      "lastUpdated": 1789255527802,
+      "source": "gha",
+      "missedAt": 1789255527802,
+      "missedDelay": 9,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1789255532593,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8697283": {
       "sku": "8697283",
@@ -336723,11 +336730,51 @@
       "productUrl": null,
       "lastUpdated": 1789255462204,
       "source": "gha-variant"
+    },
+    "8684068": {
+      "sku": "8684068",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-13",
+      "time": "00:25:27",
+      "preExisting": true,
+      "missedAt": 1789255527802,
+      "missedDelay": null,
+      "lastUpdated": 1789255527802,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "EverTrue - Blue Turquoise Bracelet (Size - 7.5) in Yellow Gold Tone 12.90 Ct.",
+      "auctionCode": "0019867564",
+      "source": "gha",
+      "productUrl": "/products/evertrue-blue-turquoise-bracelet-size-8-in-yellow-gold-tone-14-34-ct-8685378",
+      "productUrlChecked": 1789255532769,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8685378": {
+      "sku": "8685378",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-13",
+      "time": "00:25:27",
+      "preExisting": true,
+      "missedAt": 1789255527802,
+      "missedDelay": null,
+      "lastUpdated": 1789255527802,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "EverTrue - Blue Turquoise Bracelet (Size - 8) in Yellow Gold Tone 14.34 Ct.",
+      "auctionCode": "0019867565",
+      "source": "gha",
+      "productUrl": "/products/evertrue-blue-turquoise-bracelet-size-8-in-yellow-gold-tone-14-34-ct-8685378",
+      "productUrlChecked": 1789255532923,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789255527802,
     "gaps": [
       {
         "start": 1785823527869,
@@ -363418,8 +363465,8 @@
     "lastOnAirSku": "8697283",
     "lastOnAirTitle": "EverTrue - Mohave Blue Turquoise & White Topaz Sunburst Ring in Yellow Gold Tone 3.90 Ct.",
     "lastOnAirAuctionCode": "0019867566",
-    "precedingSku": "8685376",
-    "precedingTitle": "EverTrue - Blue Turquoise Bracelet (Size - 8) in Yellow Gold Tone 14.34 Ct.",
-    "precedingAuctionCode": "0019867563"
+    "precedingSku": "8697283",
+    "precedingTitle": "EverTrue - Mohave Blue Turquoise & White Topaz Sunburst Ring in Yellow Gold Tone 3.90 Ct.",
+    "precedingAuctionCode": "0019867566"
   }
 }
