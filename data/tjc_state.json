@@ -99063,23 +99063,23 @@
       "sku": "8433852",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-09",
-      "time": "22:47:19",
+      "date": "2026-09-12",
+      "time": "22:43:19",
       "preExisting": true,
       "missedAt": 1786119039770,
       "missedDelay": null,
-      "lastUpdated": 1788990439032,
+      "lastUpdated": 1789249399849,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
-      "auctionCode": "0019863520",
+      "auctionCode": "0019868285",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2918378381",
       "productUrlChecked": 1786119050379,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1788990439032,
-      "pdpPrice": "19.99",
+      "lastAir": 1789249399849,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -336146,8 +336146,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789249346309,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -362778,11 +362778,22 @@
         "followingSku": "8635020",
         "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
         "followingAuctionCode": "0019868293"
+      },
+      {
+        "start": 1789249346309,
+        "end": 1789249399849,
+        "durationMin": 0.9,
+        "precedingSku": "8734692",
+        "precedingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+        "precedingAuctionCode": "0019868284",
+        "followingSku": "8433852",
+        "followingTitle": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
+        "followingAuctionCode": "0019868285"
       }
     ],
-    "lastOnAirSku": "8734692",
-    "lastOnAirTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
-    "lastOnAirAuctionCode": "0019868284",
+    "lastOnAirSku": "8433852",
+    "lastOnAirTitle": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
+    "lastOnAirAuctionCode": "0019868285",
     "precedingSku": "8734692",
     "precedingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
     "precedingAuctionCode": "0019868284"
