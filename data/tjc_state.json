@@ -22530,17 +22530,23 @@
       "sku": "8627419",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "18:05:28",
+      "date": "2026-09-13",
+      "time": "00:44:27",
       "preExisting": true,
       "missedAt": 1785344728625,
       "missedDelay": null,
-      "lastUpdated": 1785344728625,
+      "lastUpdated": 1789256667653,
       "missedPrice": 37.99,
       "missedImg": false,
-      "title": "White Keshi Pearl  Necklace (Size - 20-2 Ext) in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019800290",
-      "source": "gha"
+      "title": "White Keshi Pearl Necklace (Size - 20-2 Ext) in Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019867551",
+      "source": "gha",
+      "lastAir": 1789256667653,
+      "pdpPrice": "299.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "4438624": {
       "sku": "4438624",
@@ -336904,8 +336910,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789256543541,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -363602,11 +363608,22 @@
         "followingSku": "4505292",
         "followingTitle": "Set of 2 - Leaf Vine Enameled Earring with Push Post & Pendant with Chain (Size 16-2 Ext)",
         "followingAuctionCode": "0019867539"
+      },
+      {
+        "start": 1789256543541,
+        "end": 1789256667653,
+        "durationMin": 2.1,
+        "precedingSku": "8718932",
+        "precedingTitle": "D'Joy - Keshi Pearl Solitaire Ring in Rhodium Overlay Sterling Silver  10.00 Ct.",
+        "precedingAuctionCode": "0019867552",
+        "followingSku": "8627419",
+        "followingTitle": "White Keshi Pearl Necklace (Size - 20-2 Ext) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019867551"
       }
     ],
-    "lastOnAirSku": "8718932",
-    "lastOnAirTitle": "D'Joy - Keshi Pearl Solitaire Ring in Rhodium Overlay Sterling Silver  10.00 Ct.",
-    "lastOnAirAuctionCode": "0019867552",
+    "lastOnAirSku": "8627419",
+    "lastOnAirTitle": "White Keshi Pearl Necklace (Size - 20-2 Ext) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019867551",
     "precedingSku": "8718932",
     "precedingTitle": "D'Joy - Keshi Pearl Solitaire Ring in Rhodium Overlay Sterling Silver  10.00 Ct.",
     "precedingAuctionCode": "0019867552"
