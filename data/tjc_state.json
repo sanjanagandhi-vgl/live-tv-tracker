@@ -334328,11 +334328,29 @@
       "productUrlChecked": 1789204466930,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8780983": {
+      "sku": "8780983",
+      "firstAir": 1789206505544,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789206505544,
+      "title": "Paperclip Necklace in 9K Yellow Gold",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019867271",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-12",
+      "time": "10:48:25",
+      "productUrl": null,
+      "lastUpdated": 1789206505544,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789206438995,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -360589,11 +360607,22 @@
         "followingSku": "8647001",
         "followingTitle": "9K Yellow Gold Hoop Earring with Clasp",
         "followingAuctionCode": "0019865961"
+      },
+      {
+        "start": 1789206438995,
+        "end": 1789206505544,
+        "durationMin": 1.1,
+        "precedingSku": "8647001",
+        "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019865961",
+        "followingSku": "8780983",
+        "followingTitle": "Paperclip Necklace in 9K Yellow Gold",
+        "followingAuctionCode": "0019867271"
       }
     ],
-    "lastOnAirSku": "8647001",
-    "lastOnAirTitle": "9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019865961",
+    "lastOnAirSku": "8780983",
+    "lastOnAirTitle": "Paperclip Necklace in 9K Yellow Gold",
+    "lastOnAirAuctionCode": "0019867271",
     "precedingSku": "8647001",
     "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019865961"
