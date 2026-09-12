@@ -87070,22 +87070,22 @@
       "sku": "8548680",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "22:59:20",
+      "date": "2026-09-12",
+      "time": "04:32:23",
       "preExisting": true,
       "missedAt": 1786019903671,
       "missedDelay": null,
-      "lastUpdated": 1788213560702,
+      "lastUpdated": 1789183943236,
       "missedPrice": 24.99,
       "missedImg": true,
       "title": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-      "auctionCode": "0019852117",
+      "auctionCode": "0019866004",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-mg-standard-accessories-gold-wt-10-gms-2568548681",
       "productUrlChecked": 1786019920896,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1788213560702,
+      "lastAir": 1789183943236,
       "pdpPrice": "24.99",
       "buy": true,
       "login": false,
@@ -334041,8 +334041,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789183884909,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -360134,11 +360134,22 @@
         "followingSku": "8548666",
         "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
         "followingAuctionCode": "0019865996"
+      },
+      {
+        "start": 1789183884909,
+        "end": 1789183943236,
+        "durationMin": 1.0,
+        "precedingSku": "8548666",
+        "precedingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "precedingAuctionCode": "0019865996",
+        "followingSku": "8548680",
+        "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "followingAuctionCode": "0019866004"
       }
     ],
-    "lastOnAirSku": "8548666",
+    "lastOnAirSku": "8548680",
     "lastOnAirTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-    "lastOnAirAuctionCode": "0019865996",
+    "lastOnAirAuctionCode": "0019866004",
     "precedingSku": "8548666",
     "precedingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
     "precedingAuctionCode": "0019865996"
