@@ -24241,21 +24241,26 @@
       "sku": "7169130",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-30",
-      "time": "09:02:34",
+      "date": "2026-09-12",
+      "time": "06:48:24",
       "preExisting": true,
       "missedAt": 1785398554539,
       "missedDelay": null,
-      "lastUpdated": 1785398554539,
+      "lastUpdated": 1789192104872,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Cetuem- Golden Glow - 50ml",
-      "auctionCode": "0019800102",
+      "auctionCode": "0019865862",
       "source": "gha",
       "productUrl": "/products/cetuem-golden-glow-50ml",
       "productUrlChecked": 1785398556975,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789192104872,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8546494": {
       "sku": "8546494",
@@ -334294,8 +334299,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789192039701,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -360464,11 +360469,22 @@
         "followingSku": "3312314",
         "followingTitle": "Cetuem Radiance Duo with Exfoliating Mask 50ml and SCR Gold Booster Serum 15ml",
         "followingAuctionCode": "0019865859"
+      },
+      {
+        "start": 1789192039701,
+        "end": 1789192104872,
+        "durationMin": 1.1,
+        "precedingSku": "2984483",
+        "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
+        "precedingAuctionCode": "0019865857",
+        "followingSku": "7169130",
+        "followingTitle": "Cetuem- Golden Glow - 50ml",
+        "followingAuctionCode": "0019865862"
       }
     ],
-    "lastOnAirSku": "2984483",
-    "lastOnAirTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
-    "lastOnAirAuctionCode": "0019865857",
+    "lastOnAirSku": "7169130",
+    "lastOnAirTitle": "Cetuem- Golden Glow - 50ml",
+    "lastOnAirAuctionCode": "0019865862",
     "precedingSku": "2984483",
     "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
     "precedingAuctionCode": "0019865857"
