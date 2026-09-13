@@ -337813,11 +337813,29 @@
       "productUrlChecked": 1789270712333,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8021923": {
+      "sku": "8021923",
+      "firstAir": 1789270839476,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789270839476,
+      "title": "GP Amore Collection - Lab Grown Diamond (SI-G-H) & Blue Sapphire Trilogy Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019866488",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-13",
+      "time": "04:40:39",
+      "productUrl": null,
+      "lastUpdated": 1789270839476,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789270778473,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -364558,11 +364576,22 @@
         "followingSku": "4463576",
         "followingTitle": "GP Trionfo Collection - Natural Champagne Diamond With White & Red Diamond & Blue Sapphire Elephant Necklace (Size 20) in 18K Gold Vermeil Sterling Silver 0.50 Ct.",
         "followingAuctionCode": "0019866247"
+      },
+      {
+        "start": 1789270778473,
+        "end": 1789270839476,
+        "durationMin": 1.0,
+        "precedingSku": "8305537",
+        "precedingTitle": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
+        "precedingAuctionCode": "0019866372",
+        "followingSku": "8021923",
+        "followingTitle": "GP Amore Collection - Lab Grown Diamond (SI-G-H) & Blue Sapphire Trilogy Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019866488"
       }
     ],
-    "lastOnAirSku": "8305537",
-    "lastOnAirTitle": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
-    "lastOnAirAuctionCode": "0019866372",
+    "lastOnAirSku": "8021923",
+    "lastOnAirTitle": "GP Amore Collection - Lab Grown Diamond (SI-G-H) & Blue Sapphire Trilogy Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019866488",
     "precedingSku": "8305537",
     "precedingTitle": "GP - Chilli Pepper Collection Blue Sapphire Necklace",
     "precedingAuctionCode": "0019866372"
