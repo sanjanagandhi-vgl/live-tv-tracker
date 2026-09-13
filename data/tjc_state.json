@@ -207903,23 +207903,23 @@
       "sku": "8635007",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-24",
-      "time": "05:28:22",
+      "date": "2026-09-13",
+      "time": "01:05:31",
       "preExisting": true,
       "missedAt": 1787311158705,
       "missedDelay": null,
-      "lastUpdated": 1787545702260,
+      "lastUpdated": 1789257931508,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
-      "auctionCode": "0019838120",
+      "auctionCode": "0019867684",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-mg-standard-accessories-gold-wt-10-gms-2368635004",
       "productUrlChecked": 1787311162380,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787545702260,
-      "pdpPrice": "19.99",
+      "lastAir": 1789257931508,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -336935,8 +336935,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789257863418,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -363644,11 +363644,22 @@
         "followingSku": "8627419",
         "followingTitle": "White Keshi Pearl Necklace (Size - 20-2 Ext) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019867551"
+      },
+      {
+        "start": 1789257863418,
+        "end": 1789257931508,
+        "durationMin": 1.1,
+        "precedingSku": "4513454",
+        "precedingTitle": "D'Joy - Natural Chrome Diopside & White Zircon Pendant in Yellow Gold Plated with Chain (Size 20)",
+        "precedingAuctionCode": "0019867683",
+        "followingSku": "8635007",
+        "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+        "followingAuctionCode": "0019867684"
       }
     ],
-    "lastOnAirSku": "4513454",
-    "lastOnAirTitle": "D'Joy - Natural Chrome Diopside & White Zircon Pendant in Yellow Gold Plated with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019867683",
+    "lastOnAirSku": "8635007",
+    "lastOnAirTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+    "lastOnAirAuctionCode": "0019867684",
     "precedingSku": "4513454",
     "precedingTitle": "D'Joy - Natural Chrome Diopside & White Zircon Pendant in Yellow Gold Plated with Chain (Size 20)",
     "precedingAuctionCode": "0019867683"
