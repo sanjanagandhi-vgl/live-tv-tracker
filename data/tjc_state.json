@@ -344599,11 +344599,29 @@
       "productUrlChecked": 1789395343842,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8627880": {
+      "sku": "8627880",
+      "firstAir": 1789398264157,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789398264157,
+      "title": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Pink",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019869717",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-14",
+      "time": "16:04:24",
+      "productUrl": null,
+      "lastUpdated": 1789398264157,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789398068983,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371740,11 +371758,22 @@
         "followingSku": "8354345",
         "followingTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
         "followingAuctionCode": "0019869733"
+      },
+      {
+        "start": 1789398068983,
+        "end": 1789398264157,
+        "durationMin": 3.3,
+        "precedingSku": "8354345",
+        "precedingTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
+        "precedingAuctionCode": "0019869733",
+        "followingSku": "8627880",
+        "followingTitle": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Pink",
+        "followingAuctionCode": "0019869717"
       }
     ],
-    "lastOnAirSku": "8354345",
-    "lastOnAirTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
-    "lastOnAirAuctionCode": "0019869733",
+    "lastOnAirSku": "8627880",
+    "lastOnAirTitle": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Pink",
+    "lastOnAirAuctionCode": "0019869717",
     "precedingSku": "8354345",
     "precedingTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
     "precedingAuctionCode": "0019869733"
