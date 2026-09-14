@@ -344041,11 +344041,29 @@
       "missedDelay": 9,
       "missedPrice": 89.99,
       "missedImg": true
+    },
+    "8675236": {
+      "sku": "8675236",
+      "firstAir": 1789366760673,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789366760673,
+      "title": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 20) with Lobster Clasp",
+      "pdpPrice": "239.99",
+      "auctionCode": "0019869600",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-14",
+      "time": "07:19:20",
+      "productUrl": null,
+      "lastUpdated": 1789366760673,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789366706399,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -370874,11 +370892,22 @@
         "followingSku": "8616394",
         "followingTitle": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019869596"
+      },
+      {
+        "start": 1789366706399,
+        "end": 1789366760673,
+        "durationMin": 0.9,
+        "precedingSku": "8616394",
+        "precedingTitle": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
+        "precedingAuctionCode": "0019869596",
+        "followingSku": "8675236",
+        "followingTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019869600"
       }
     ],
-    "lastOnAirSku": "8616394",
-    "lastOnAirTitle": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019869596",
+    "lastOnAirSku": "8675236",
+    "lastOnAirTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019869600",
     "precedingSku": "8616394",
     "precedingTitle": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
     "precedingAuctionCode": "0019869596"
