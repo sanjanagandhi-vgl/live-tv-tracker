@@ -321494,17 +321494,17 @@
       "firstAir": 1788940402295,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788940641060,
+      "lastAir": 1789390344020,
       "title": "Nova of London - Full Range Fleece Lined Warm Leggings",
       "pdpPrice": "14.99",
-      "auctionCode": "0019862043",
+      "auctionCode": "0019869646",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-09",
-      "time": "08:57:21",
+      "date": "2026-09-14",
+      "time": "13:52:24",
       "productUrl": "/products/nova-of-london-full-range-fleece-lined-warm-leggings",
-      "lastUpdated": 1788941183959,
+      "lastUpdated": 1789390344020,
       "source": "gha",
       "missedAt": 1788941183959,
       "missedDelay": 9,
@@ -344464,8 +344464,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789390239870,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371525,11 +371525,22 @@
         "followingSku": "8683473",
         "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
         "followingAuctionCode": "0019869278"
+      },
+      {
+        "start": 1789390239870,
+        "end": 1789390344020,
+        "durationMin": 1.7,
+        "precedingSku": "8683473",
+        "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "precedingAuctionCode": "0019869278",
+        "followingSku": "7616098",
+        "followingTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
+        "followingAuctionCode": "0019869646"
       }
     ],
-    "lastOnAirSku": "8683473",
-    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
-    "lastOnAirAuctionCode": "0019869278",
+    "lastOnAirSku": "7616098",
+    "lastOnAirTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
+    "lastOnAirAuctionCode": "0019869646",
     "precedingSku": "8683473",
     "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
     "precedingAuctionCode": "0019869278"
