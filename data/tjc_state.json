@@ -288824,21 +288824,26 @@
       "sku": "8576301",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-02",
-      "time": "20:15:38",
+      "date": "2026-09-14",
+      "time": "17:30:54",
       "preExisting": true,
       "missedAt": 1788376538232,
       "missedDelay": null,
-      "lastUpdated": 1788376538232,
+      "lastUpdated": 1789403454854,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "STRADA Limited Edition Moon & Star Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
-      "auctionCode": "0019853981",
+      "title": "STRADA Limited Edition Elephant Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
+      "auctionCode": "0019869746",
       "source": "gha",
       "productUrl": "/products/strada-watch-pure-white-stainless-steel-8576285",
       "productUrlChecked": 1788376542793,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789403454854,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8757585": {
       "sku": "8757585",
@@ -344702,8 +344707,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789403303792,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371873,11 +371878,22 @@
         "followingSku": "8708650",
         "followingTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
         "followingAuctionCode": "0019869308"
+      },
+      {
+        "start": 1789403303792,
+        "end": 1789403454854,
+        "durationMin": 2.5,
+        "precedingSku": "8708650",
+        "precedingTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
+        "precedingAuctionCode": "0019869308",
+        "followingSku": "8576301",
+        "followingTitle": "STRADA Limited Edition Elephant Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
+        "followingAuctionCode": "0019869746"
       }
     ],
-    "lastOnAirSku": "8708650",
-    "lastOnAirTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
-    "lastOnAirAuctionCode": "0019869308",
+    "lastOnAirSku": "8576301",
+    "lastOnAirTitle": "STRADA Limited Edition Elephant Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
+    "lastOnAirAuctionCode": "0019869746",
     "precedingSku": "8708650",
     "precedingTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
     "precedingAuctionCode": "0019869308"
