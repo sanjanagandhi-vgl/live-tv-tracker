@@ -338422,20 +338422,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-14",
-      "time": "05:07:20",
+      "time": "08:07:20",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1789369640850,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Cordless Power Blower - Leaves, Mess, Dust, Snow - 30 Min Run Time, 6000mah Battery, 1 year warranty - Blue",
-      "auctionCode": "0019869778",
+      "auctionCode": "0019869859",
       "source": "gha",
       "productUrl": "/products/dryer-size-one-size-black-black-8362618",
       "productUrlChecked": 1789358914017,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789369640850,
+      "pdpPrice": "314.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8642844": {
       "sku": "8642844",
@@ -344074,8 +344079,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789369529837,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -370959,11 +370964,22 @@
         "followingSku": "8426918",
         "followingTitle": "Natural White Diamond Hoop Earring",
         "followingAuctionCode": "0019869027"
+      },
+      {
+        "start": 1789369529837,
+        "end": 1789369640850,
+        "durationMin": 1.9,
+        "precedingSku": "8426918",
+        "precedingTitle": "Natural White Diamond Hoop Earring",
+        "precedingAuctionCode": "0019869027",
+        "followingSku": "8362617",
+        "followingTitle": "Cordless Power Blower - Leaves, Mess, Dust, Snow - 30 Min Run Time, 6000mah Battery, 1 year warranty - Blue",
+        "followingAuctionCode": "0019869859"
       }
     ],
-    "lastOnAirSku": "8426918",
-    "lastOnAirTitle": "Natural White Diamond Hoop Earring",
-    "lastOnAirAuctionCode": "0019869027",
+    "lastOnAirSku": "8362617",
+    "lastOnAirTitle": "Cordless Power Blower - Leaves, Mess, Dust, Snow - 30 Min Run Time, 6000mah Battery, 1 year warranty - Blue",
+    "lastOnAirAuctionCode": "0019869859",
     "precedingSku": "8426918",
     "precedingTitle": "Natural White Diamond Hoop Earring",
     "precedingAuctionCode": "0019869027"
