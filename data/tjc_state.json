@@ -17604,16 +17604,16 @@
       "firstAir": 1785135329793,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788990079746,
-      "title": "Live From Vicenza - Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
-      "pdpPrice": 199.99,
-      "auctionCode": "0019863574",
+      "lastAir": 1789429639824,
+      "title": "Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019870100",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-09",
-      "time": "22:41:19",
-      "lastUpdated": 1788990079746,
+      "date": "2026-09-15",
+      "time": "00:47:19",
+      "lastUpdated": 1789429639824,
       "source": "gha",
       "missedAt": 1785135439336,
       "missedDelay": 1,
@@ -345974,8 +345974,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789429582609,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -373409,11 +373409,22 @@
         "followingSku": "7615929",
         "followingTitle": "Wedding Band Ring in 9K Yellow Gold",
         "followingAuctionCode": "0019870110"
+      },
+      {
+        "start": 1789429582609,
+        "end": 1789429639824,
+        "durationMin": 1.0,
+        "precedingSku": "7615929",
+        "precedingTitle": "Wedding Band Ring in 9K Yellow Gold",
+        "precedingAuctionCode": "0019870110",
+        "followingSku": "8572177",
+        "followingTitle": "Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
+        "followingAuctionCode": "0019870100"
       }
     ],
-    "lastOnAirSku": "7615929",
-    "lastOnAirTitle": "Wedding Band Ring in 9K Yellow Gold",
-    "lastOnAirAuctionCode": "0019870110",
+    "lastOnAirSku": "8572177",
+    "lastOnAirTitle": "Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
+    "lastOnAirAuctionCode": "0019870100",
     "precedingSku": "7615929",
     "precedingTitle": "Wedding Band Ring in 9K Yellow Gold",
     "precedingAuctionCode": "0019870110"
