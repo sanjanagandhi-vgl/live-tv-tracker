@@ -165540,17 +165540,17 @@
       "firstAir": 1786778840335,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789374863495,
-      "title": "Live From Vicenza - MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
+      "lastAir": 1789429944089,
+      "title": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
       "pdpPrice": "99.99",
-      "auctionCode": "0019869054",
+      "auctionCode": "0019870088",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-14",
-      "time": "09:34:23",
+      "date": "2026-09-15",
+      "time": "00:52:24",
       "productUrl": "/products/maestro-collection-9k-yellow-gold-hoop-earrings-with-clasp?variant=53107409420554",
-      "lastUpdated": 1789374863495,
+      "lastUpdated": 1789429944089,
       "source": "gha",
       "missedAt": 1786779802498,
       "missedDelay": 10,
@@ -345974,8 +345974,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789429878537,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -373420,11 +373420,22 @@
         "followingSku": "8572177",
         "followingTitle": "Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
         "followingAuctionCode": "0019870100"
+      },
+      {
+        "start": 1789429878537,
+        "end": 1789429944089,
+        "durationMin": 1.1,
+        "precedingSku": "8572177",
+        "precedingTitle": "Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
+        "precedingAuctionCode": "0019870100",
+        "followingSku": "7723008",
+        "followingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
+        "followingAuctionCode": "0019870088"
       }
     ],
-    "lastOnAirSku": "8572177",
-    "lastOnAirTitle": "Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
-    "lastOnAirAuctionCode": "0019870100",
+    "lastOnAirSku": "7723008",
+    "lastOnAirTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
+    "lastOnAirAuctionCode": "0019870088",
     "precedingSku": "8572177",
     "precedingTitle": "Florence CloseOut-9K Yellow Gold Diamond Cut Cross Pendant",
     "precedingAuctionCode": "0019870100"
