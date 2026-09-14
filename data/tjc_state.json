@@ -331869,17 +331869,17 @@
       "firstAir": 1789127439635,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789127602846,
+      "lastAir": 1789368263468,
       "title": "Close Out Deal- Designer Inspired Hoop Earring",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019865726",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019868993",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "12:53:22",
+      "date": "2026-09-14",
+      "time": "07:44:23",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8735986?variant=53676979847434",
-      "lastUpdated": 1789128116715,
+      "lastUpdated": 1789368263468,
       "source": "gha",
       "productUrlChecked": 1789127605492,
       "productUrlStatus": 200,
@@ -344074,8 +344074,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789368199641,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -370937,11 +370937,22 @@
         "followingSku": "8750331",
         "followingTitle": "Close Out Deals Paperclip Necklace (Size - 17)",
         "followingAuctionCode": "0019869024"
+      },
+      {
+        "start": 1789368199641,
+        "end": 1789368263468,
+        "durationMin": 1.1,
+        "precedingSku": "8750331",
+        "precedingTitle": "Close Out Deals Paperclip Necklace (Size - 17)",
+        "precedingAuctionCode": "0019869024",
+        "followingSku": "8735986",
+        "followingTitle": "Close Out Deal- Designer Inspired Hoop Earring",
+        "followingAuctionCode": "0019868993"
       }
     ],
-    "lastOnAirSku": "8750331",
-    "lastOnAirTitle": "Close Out Deals Paperclip Necklace (Size - 17)",
-    "lastOnAirAuctionCode": "0019869024",
+    "lastOnAirSku": "8735986",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Hoop Earring",
+    "lastOnAirAuctionCode": "0019868993",
     "precedingSku": "8750331",
     "precedingTitle": "Close Out Deals Paperclip Necklace (Size - 17)",
     "precedingAuctionCode": "0019869024"
