@@ -344197,11 +344197,29 @@
       "productUrlChecked": 1789385329213,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8535726": {
+      "sku": "8535726",
+      "firstAir": 1789385783576,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789385783576,
+      "title": "Women's Ruched-Gathered Texture Shoulder Bag with Chain Detail - Metallic Bronze",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019869152",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-14",
+      "time": "12:36:23",
+      "productUrl": null,
+      "lastUpdated": 1789385783576,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789385728404,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371184,11 +371202,22 @@
         "followingSku": "8631057",
         "followingTitle": "Set of 2 - Christmas Gift Wrapping Paper Sheets (56x56cm) - Red & Dark Green - 40 Sheets Total",
         "followingAuctionCode": "0019869963"
+      },
+      {
+        "start": 1789385728404,
+        "end": 1789385783576,
+        "durationMin": 0.9,
+        "precedingSku": "8689814",
+        "precedingTitle": "Womens Daphne Knitted Mesh Slip-On Casual Loafers (Size 7) - Beige",
+        "precedingAuctionCode": "0019869295",
+        "followingSku": "8535726",
+        "followingTitle": "Women's Ruched-Gathered Texture Shoulder Bag with Chain Detail - Metallic Bronze",
+        "followingAuctionCode": "0019869152"
       }
     ],
-    "lastOnAirSku": "8689814",
-    "lastOnAirTitle": "Womens Daphne Knitted Mesh Slip-On Casual Loafers (Size 7) - Beige",
-    "lastOnAirAuctionCode": "0019869295",
+    "lastOnAirSku": "8535726",
+    "lastOnAirTitle": "Women's Ruched-Gathered Texture Shoulder Bag with Chain Detail - Metallic Bronze",
+    "lastOnAirAuctionCode": "0019869152",
     "precedingSku": "8689814",
     "precedingTitle": "Womens Daphne Knitted Mesh Slip-On Casual Loafers (Size 7) - Beige",
     "precedingAuctionCode": "0019869295"
