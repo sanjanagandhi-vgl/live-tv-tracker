@@ -47020,23 +47020,23 @@
       "sku": "8482205",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-12",
-      "time": "12:14:24",
+      "date": "2026-09-14",
+      "time": "22:05:30",
       "preExisting": true,
       "missedAt": 1785577102494,
       "missedDelay": null,
-      "lastUpdated": 1789211664732,
+      "lastUpdated": 1789419930260,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "Luxuriant SI-G-H Lab Grown Diamond Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019866855",
+      "title": "Luxuriant SI-G-H Lab Grown Diamond Solitaire Stud Push Post Earring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019869490",
       "source": "gha",
       "productUrl": "/products/luxuriant-si-g-h-lab-grown-diamond-solitaire-stud-push-post-earring",
       "productUrlChecked": 1785577110909,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789211664732,
-      "pdpPrice": "29.99",
+      "lastAir": 1789419930260,
+      "pdpPrice": "1249.99",
       "buy": true,
       "login": false,
       "img": true
@@ -345718,8 +345718,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789419668019,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -373054,11 +373054,22 @@
         "followingSku": "8646991",
         "followingTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
         "followingAuctionCode": "0019870717"
+      },
+      {
+        "start": 1789419668019,
+        "end": 1789419930260,
+        "durationMin": 4.4,
+        "precedingSku": "8646991",
+        "precedingTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
+        "precedingAuctionCode": "0019870717",
+        "followingSku": "8482205",
+        "followingTitle": "Luxuriant SI-G-H Lab Grown Diamond Solitaire Stud Push Post Earring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019869490"
       }
     ],
-    "lastOnAirSku": "8646991",
-    "lastOnAirTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
-    "lastOnAirAuctionCode": "0019870717",
+    "lastOnAirSku": "8482205",
+    "lastOnAirTitle": "Luxuriant SI-G-H Lab Grown Diamond Solitaire Stud Push Post Earring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019869490",
     "precedingSku": "8646991",
     "precedingTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
     "precedingAuctionCode": "0019870717"
