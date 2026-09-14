@@ -344099,11 +344099,29 @@
       "productUrlChecked": 1789370732780,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "221333743": {
+      "sku": "221333743",
+      "firstAir": 1789380638645,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789380638645,
+      "title": "Laurelle Royale Edition- set of 3",
+      "pdpPrice": "119.97",
+      "auctionCode": "0019869678",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-14",
+      "time": "11:10:38",
+      "productUrl": null,
+      "lastUpdated": 1789380638645,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789380558493,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371064,11 +371082,22 @@
         "followingSku": "8588273",
         "followingTitle": "Live From Vicenza - CLOSE OUT DEAL - 9K Yellow Gold Hoop Earring with French Clip",
         "followingAuctionCode": "0019869051"
+      },
+      {
+        "start": 1789380558493,
+        "end": 1789380638645,
+        "durationMin": 1.3,
+        "precedingSku": "7263115",
+        "precedingTitle": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
+        "precedingAuctionCode": "0019869935",
+        "followingSku": "221333743",
+        "followingTitle": "Laurelle Royale Edition- set of 3",
+        "followingAuctionCode": "0019869678"
       }
     ],
-    "lastOnAirSku": "7263115",
-    "lastOnAirTitle": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
-    "lastOnAirAuctionCode": "0019869935",
+    "lastOnAirSku": "221333743",
+    "lastOnAirTitle": "Laurelle Royale Edition- set of 3",
+    "lastOnAirAuctionCode": "0019869678",
     "precedingSku": "7263115",
     "precedingTitle": "Opatra Lumicap Pro - Light Therapy for Hair Growth - 88 Lights - with Lifetime Warranty",
     "precedingAuctionCode": "0019869935"
