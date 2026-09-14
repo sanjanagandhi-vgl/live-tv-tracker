@@ -236256,21 +236256,26 @@
       "sku": "8708650",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-24",
-      "time": "20:32:22",
+      "date": "2026-09-14",
+      "time": "17:06:25",
       "preExisting": true,
       "missedAt": 1787599942721,
       "missedDelay": null,
-      "lastUpdated": 1787599942721,
+      "lastUpdated": 1789401985249,
       "missedPrice": 99.99,
       "missedImg": true,
-      "title": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Blue",
-      "auctionCode": "0019839783",
+      "title": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
+      "auctionCode": "0019869308",
       "source": "gha",
       "productUrl": "/products/william-hunt-watch-pure-white-stainless-steel-8708652",
       "productUrlChecked": 1787599954708,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789401985249,
+      "pdpPrice": "1299.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8708651": {
       "sku": "8708651",
@@ -344697,8 +344702,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789401930710,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371857,11 +371862,22 @@
         "followingSku": "8516360",
         "followingTitle": "2 Piece Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Ivory",
         "followingAuctionCode": "0019869724"
+      },
+      {
+        "start": 1789401930710,
+        "end": 1789401985249,
+        "durationMin": 0.9,
+        "precedingSku": "8631042",
+        "precedingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
+        "precedingAuctionCode": "0019869991",
+        "followingSku": "8708650",
+        "followingTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
+        "followingAuctionCode": "0019869308"
       }
     ],
-    "lastOnAirSku": "8631042",
-    "lastOnAirTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
-    "lastOnAirAuctionCode": "0019869991",
+    "lastOnAirSku": "8708650",
+    "lastOnAirTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
+    "lastOnAirAuctionCode": "0019869308",
     "precedingSku": "8631042",
     "precedingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
     "precedingAuctionCode": "0019869991"
