@@ -333159,21 +333159,26 @@
       "sku": "8750331",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-11",
-      "time": "18:13:20",
+      "date": "2026-09-14",
+      "time": "07:39:20",
       "preExisting": true,
       "missedAt": 1789146800724,
       "missedDelay": null,
-      "lastUpdated": 1789146800724,
+      "lastUpdated": 1789367960176,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Close Out Deal- Paperclip Necklace (Size - 17)",
-      "auctionCode": "0019866195",
+      "title": "Close Out Deals Paperclip Necklace (Size - 17)",
+      "auctionCode": "0019869024",
       "source": "gha",
       "productUrl": "/products/paperclip-necklace-size-17-8750330",
       "productUrlChecked": 1789146806523,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789367960176,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8633006": {
       "sku": "8633006",
@@ -344069,8 +344074,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789367840489,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -370921,11 +370926,22 @@
         "followingSku": "7546459",
         "followingTitle": "One Time Closeout -  4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
         "followingAuctionCode": "0019869032"
+      },
+      {
+        "start": 1789367840489,
+        "end": 1789367960176,
+        "durationMin": 2.0,
+        "precedingSku": "7546459",
+        "precedingTitle": "One Time Closeout -  4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
+        "precedingAuctionCode": "0019869032",
+        "followingSku": "8750331",
+        "followingTitle": "Close Out Deals Paperclip Necklace (Size - 17)",
+        "followingAuctionCode": "0019869024"
       }
     ],
-    "lastOnAirSku": "7546459",
-    "lastOnAirTitle": "One Time Closeout -  4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
-    "lastOnAirAuctionCode": "0019869032",
+    "lastOnAirSku": "8750331",
+    "lastOnAirTitle": "Close Out Deals Paperclip Necklace (Size - 17)",
+    "lastOnAirAuctionCode": "0019869024",
     "precedingSku": "7546459",
     "precedingTitle": "One Time Closeout -  4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
     "precedingAuctionCode": "0019869032"
