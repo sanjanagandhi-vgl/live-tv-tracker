@@ -14503,19 +14503,19 @@
       "sku": "8666627",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-22",
-      "time": "07:43:21",
+      "date": "2026-09-14",
+      "time": "15:08:27",
       "preExisting": true,
       "missedAt": 1785069863496,
       "missedDelay": null,
-      "lastUpdated": 1787381001826,
+      "lastUpdated": 1789394907430,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "One Truth 818- Atomiser - 50ml",
-      "auctionCode": "0019834393",
+      "auctionCode": "0019869730",
       "source": "gha",
-      "lastAir": 1787381001826,
-      "pdpPrice": "29.99",
+      "lastAir": 1789394907430,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -344518,8 +344518,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789394842482,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371623,11 +371623,22 @@
         "followingSku": "8669514",
         "followingTitle": "LIVMORE Battery-Operated Lavender Illustration Rotating Glass Decorative Table Lamp Powered by 3 x AAA Batteries (not inc.) - Purple",
         "followingAuctionCode": "0019869735"
+      },
+      {
+        "start": 1789394842482,
+        "end": 1789394907430,
+        "durationMin": 1.1,
+        "precedingSku": "8669514",
+        "precedingTitle": "LIVMORE Battery-Operated Lavender Illustration Rotating Glass Decorative Table Lamp Powered by 3 ...",
+        "precedingAuctionCode": "0019869735",
+        "followingSku": "8666627",
+        "followingTitle": "One Truth 818- Atomiser - 50ml",
+        "followingAuctionCode": "0019869730"
       }
     ],
-    "lastOnAirSku": "8669514",
-    "lastOnAirTitle": "LIVMORE Battery-Operated Lavender Illustration Rotating Glass Decorative Table Lamp Powered by 3 ...",
-    "lastOnAirAuctionCode": "0019869735",
+    "lastOnAirSku": "8666627",
+    "lastOnAirTitle": "One Truth 818- Atomiser - 50ml",
+    "lastOnAirAuctionCode": "0019869730",
     "precedingSku": "8669514",
     "precedingTitle": "LIVMORE Battery-Operated Lavender Illustration Rotating Glass Decorative Table Lamp Powered by 3 ...",
     "precedingAuctionCode": "0019869735"
