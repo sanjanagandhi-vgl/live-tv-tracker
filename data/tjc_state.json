@@ -16138,16 +16138,16 @@
       "firstAir": 1785112356652,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787390183371,
+      "lastAir": 1789366104838,
       "title": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
-      "pdpPrice": "39.99",
-      "auctionCode": "0019835157",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019869595",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "time": "10:16:23",
-      "lastUpdated": 1787390183371,
+      "date": "2026-09-14",
+      "time": "07:08:24",
+      "lastUpdated": 1789366104838,
       "source": "gha",
       "missedAt": 1785112704720,
       "missedDelay": 1,
@@ -344041,8 +344041,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789366039700,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -370849,11 +370849,22 @@
         "followingSku": "8763170",
         "followingTitle": "Sterling Silver Heart Pendant",
         "followingAuctionCode": "0019869578"
+      },
+      {
+        "start": 1789366039700,
+        "end": 1789366104838,
+        "durationMin": 1.1,
+        "precedingSku": "8478763",
+        "precedingTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Curb Necklace (Size - 20)",
+        "precedingAuctionCode": "0019869599",
+        "followingSku": "8613563",
+        "followingTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
+        "followingAuctionCode": "0019869595"
       }
     ],
-    "lastOnAirSku": "8478763",
-    "lastOnAirTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Curb Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019869599",
+    "lastOnAirSku": "8613563",
+    "lastOnAirTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
+    "lastOnAirAuctionCode": "0019869595",
     "precedingSku": "8478763",
     "precedingTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Curb Necklace (Size - 20)",
     "precedingAuctionCode": "0019869599"
