@@ -343963,11 +343963,29 @@
       "productUrlChecked": 1789361910123,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8763170": {
+      "sku": "8763170",
+      "firstAir": 1789363528366,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789363528366,
+      "title": "Sterling Silver Heart Pendant",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019869578",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-14",
+      "time": "06:25:28",
+      "productUrl": null,
+      "lastUpdated": 1789363528366,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789363464413,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -370763,11 +370781,22 @@
         "followingSku": "7760480",
         "followingTitle": "La Bella Fine Italian Jewellery - Sterling Silver Popcorn Bracelet (Size 7.50)",
         "followingAuctionCode": "0019869582"
+      },
+      {
+        "start": 1789363464413,
+        "end": 1789363528366,
+        "durationMin": 1.1,
+        "precedingSku": "7860178",
+        "precedingTitle": "La Bella Fine Italian Jewellery - Gold Overlay Sterling Silver Bracelet",
+        "precedingAuctionCode": "0019869580",
+        "followingSku": "8763170",
+        "followingTitle": "Sterling Silver Heart Pendant",
+        "followingAuctionCode": "0019869578"
       }
     ],
-    "lastOnAirSku": "7860178",
-    "lastOnAirTitle": "La Bella Fine Italian Jewellery - Gold Overlay Sterling Silver Bracelet",
-    "lastOnAirAuctionCode": "0019869580",
+    "lastOnAirSku": "8763170",
+    "lastOnAirTitle": "Sterling Silver Heart Pendant",
+    "lastOnAirAuctionCode": "0019869578",
     "precedingSku": "7860178",
     "precedingTitle": "La Bella Fine Italian Jewellery - Gold Overlay Sterling Silver Bracelet",
     "precedingAuctionCode": "0019869580"
