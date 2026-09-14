@@ -72574,21 +72574,26 @@
       "sku": "8516360",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-04",
-      "time": "17:54:25",
+      "date": "2026-09-14",
+      "time": "16:42:23",
       "preExisting": true,
       "missedAt": 1785862465248,
       "missedDelay": null,
-      "lastUpdated": 1785862465248,
+      "lastUpdated": 1789400543725,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "Designer Inspired-  Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Green",
-      "auctionCode": "0019805944",
+      "title": "2 Piece Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Ivory",
+      "auctionCode": "0019869724",
       "source": "gha",
       "productUrl": "/products/2-piece-genuine-leather-check-stripe-tote-bag-with-matching-zip-pouch-burgundy-multi-8516359",
       "productUrlChecked": 1785862476316,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789400543725,
+      "pdpPrice": "1349.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8516361": {
       "sku": "8516361",
@@ -344687,8 +344692,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789400303734,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371836,11 +371841,22 @@
         "followingSku": "8627880",
         "followingTitle": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Pink",
         "followingAuctionCode": "0019869717"
+      },
+      {
+        "start": 1789400303734,
+        "end": 1789400543725,
+        "durationMin": 4.0,
+        "precedingSku": "8675128",
+        "precedingTitle": "Hotel Quality Premium Pillow Pair - Set of 2 - White",
+        "precedingAuctionCode": "0019869727",
+        "followingSku": "8516360",
+        "followingTitle": "2 Piece Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Ivory",
+        "followingAuctionCode": "0019869724"
       }
     ],
-    "lastOnAirSku": "8675128",
-    "lastOnAirTitle": "Hotel Quality Premium Pillow Pair - Set of 2 - White",
-    "lastOnAirAuctionCode": "0019869727",
+    "lastOnAirSku": "8516360",
+    "lastOnAirTitle": "2 Piece Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Ivory",
+    "lastOnAirAuctionCode": "0019869724",
     "precedingSku": "8675128",
     "precedingTitle": "Hotel Quality Premium Pillow Pair - Set of 2 - White",
     "precedingAuctionCode": "0019869727"
