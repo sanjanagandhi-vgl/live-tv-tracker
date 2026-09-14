@@ -40935,17 +40935,17 @@
       "firstAir": 1785534146944,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788729263563,
+      "lastAir": 1789428079389,
       "title": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
-      "pdpPrice": "169.99",
-      "auctionCode": "0019859032",
+      "pdpPrice": "1119.99",
+      "auctionCode": "0019870123",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-06",
-      "time": "22:14:23",
+      "date": "2026-09-15",
+      "time": "00:21:19",
       "productUrl": "/products/9k-yellow-gold-earring-with-clasp-8597036",
-      "lastUpdated": 1788729263563,
+      "lastUpdated": 1789428079389,
       "source": "gha",
       "missedAt": 1785534744672,
       "missedDelay": 9,
@@ -345974,8 +345974,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789428041012,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -373376,11 +373376,22 @@
         "followingSku": "8753815",
         "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
         "followingAuctionCode": "0019870086"
+      },
+      {
+        "start": 1789428041012,
+        "end": 1789428079389,
+        "durationMin": 0.6,
+        "precedingSku": "8753815",
+        "precedingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
+        "precedingAuctionCode": "0019870086",
+        "followingSku": "8597036",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+        "followingAuctionCode": "0019870123"
       }
     ],
-    "lastOnAirSku": "8753815",
-    "lastOnAirTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
-    "lastOnAirAuctionCode": "0019870086",
+    "lastOnAirSku": "8597036",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019870123",
     "precedingSku": "8753815",
     "precedingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
     "precedingAuctionCode": "0019870086"
