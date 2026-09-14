@@ -345477,14 +345477,39 @@
       "img": true,
       "date": "2026-09-14",
       "time": "20:27:19",
+      "productUrl": "/products/14k-yellow-gold-aaa-golden-south-sea-pearl-pendant-8-00-ct-8671706",
+      "lastUpdated": 1789414642118,
+      "source": "gha",
+      "missedAt": 1789414642118,
+      "missedDelay": 10,
+      "missedPrice": 149.99,
+      "missedImg": true,
+      "productUrlChecked": 1789414646623,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8577591": {
+      "sku": "8577591",
+      "firstAir": 1789414642118,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789414642118,
+      "title": "D'Joy - Premium Golden South Sea Pearl (9-11mm) & White Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.60 Ct.",
+      "pdpPrice": "2249.99",
+      "auctionCode": "0019868785",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-14",
+      "time": "20:37:22",
       "productUrl": null,
-      "lastUpdated": 1789414039601,
+      "lastUpdated": 1789414642118,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789414593735,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -372764,11 +372789,22 @@
         "followingSku": "8591116",
         "followingTitle": "9K Yellow Gold AAA Golden South Sea Pearl (9-11mm) Stud Ball Earring with Push Post",
         "followingAuctionCode": "0019868784"
+      },
+      {
+        "start": 1789414593735,
+        "end": 1789414642118,
+        "durationMin": 0.8,
+        "precedingSku": "8591116",
+        "precedingTitle": "9K Yellow Gold AAA Golden South Sea Pearl (9-11mm) Stud Ball Earring with Push Post",
+        "precedingAuctionCode": "0019868784",
+        "followingSku": "8577591",
+        "followingTitle": "D'Joy - Premium Golden South Sea Pearl (9-11mm) & White Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.60 Ct.",
+        "followingAuctionCode": "0019868785"
       }
     ],
-    "lastOnAirSku": "8591116",
-    "lastOnAirTitle": "9K Yellow Gold AAA Golden South Sea Pearl (9-11mm) Stud Ball Earring with Push Post",
-    "lastOnAirAuctionCode": "0019868784",
+    "lastOnAirSku": "8577591",
+    "lastOnAirTitle": "D'Joy - Premium Golden South Sea Pearl (9-11mm) & White Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.60 Ct.",
+    "lastOnAirAuctionCode": "0019868785",
     "precedingSku": "8591116",
     "precedingTitle": "9K Yellow Gold AAA Golden South Sea Pearl (9-11mm) Stud Ball Earring with Push Post",
     "precedingAuctionCode": "0019868784"
