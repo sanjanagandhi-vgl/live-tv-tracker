@@ -272353,17 +272353,17 @@
       "firstAir": 1788104303140,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788731357868,
+      "lastAir": 1789429342878,
       "title": "Wedding Band Ring in 9K Yellow Gold",
       "pdpPrice": "129.99",
-      "auctionCode": "0019860572",
+      "auctionCode": "0019870110",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-06",
-      "time": "22:49:17",
+      "date": "2026-09-15",
+      "time": "00:42:22",
       "productUrl": "/products/wedding-band-ring-in-9k-yellow-gold",
-      "lastUpdated": 1788731357868,
+      "lastUpdated": 1789429342878,
       "source": "gha",
       "missedAt": 1788106279964,
       "missedDelay": 9,
@@ -345974,8 +345974,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789429278609,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -373398,11 +373398,22 @@
         "followingSku": "8613735",
         "followingTitle": "9K Yellow Gold Graduated Rose Drop Earring with Push Back",
         "followingAuctionCode": "0019870151"
+      },
+      {
+        "start": 1789429278609,
+        "end": 1789429342878,
+        "durationMin": 1.1,
+        "precedingSku": "7570673",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Basket Weave Band Ring",
+        "precedingAuctionCode": "0019870153",
+        "followingSku": "7615929",
+        "followingTitle": "Wedding Band Ring in 9K Yellow Gold",
+        "followingAuctionCode": "0019870110"
       }
     ],
-    "lastOnAirSku": "7570673",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Basket Weave Band Ring",
-    "lastOnAirAuctionCode": "0019870153",
+    "lastOnAirSku": "7615929",
+    "lastOnAirTitle": "Wedding Band Ring in 9K Yellow Gold",
+    "lastOnAirAuctionCode": "0019870110",
     "precedingSku": "7570673",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Basket Weave Band Ring",
     "precedingAuctionCode": "0019870153"
