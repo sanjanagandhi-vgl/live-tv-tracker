@@ -14548,16 +14548,16 @@
       "firstAir": 1785070396767,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788728599068,
+      "lastAir": 1789397306789,
       "title": "One Truth 818 Anti-Ageing Cleanser (50ml)",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019858680",
+      "pdpPrice": "120.99",
+      "auctionCode": "0019869733",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-06",
-      "time": "22:03:19",
-      "lastUpdated": 1788728599068,
+      "date": "2026-09-14",
+      "time": "15:48:26",
+      "lastUpdated": 1789397306789,
       "source": "gha",
       "missedAt": 1785071127585,
       "missedDelay": 2,
@@ -344602,8 +344602,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789397240769,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371729,11 +371729,22 @@
         "followingSku": "8071944",
         "followingTitle": "Set of 5",
         "followingAuctionCode": "0019869731"
+      },
+      {
+        "start": 1789397240769,
+        "end": 1789397306789,
+        "durationMin": 1.1,
+        "precedingSku": "8071944",
+        "precedingTitle": "Set of 5",
+        "precedingAuctionCode": "0019869731",
+        "followingSku": "8354345",
+        "followingTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
+        "followingAuctionCode": "0019869733"
       }
     ],
-    "lastOnAirSku": "8071944",
-    "lastOnAirTitle": "Set of 5",
-    "lastOnAirAuctionCode": "0019869731",
+    "lastOnAirSku": "8354345",
+    "lastOnAirTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
+    "lastOnAirAuctionCode": "0019869733",
     "precedingSku": "8071944",
     "precedingTitle": "Set of 5",
     "precedingAuctionCode": "0019869731"
