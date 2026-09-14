@@ -344371,9 +344371,16 @@
       "img": true,
       "date": "2026-09-14",
       "time": "13:28:22",
-      "productUrl": null,
-      "lastUpdated": 1789388902779,
-      "source": "gha"
+      "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser-size-small-black-8682759",
+      "lastUpdated": 1789389501942,
+      "source": "gha",
+      "missedAt": 1789389501942,
+      "missedDelay": 10,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "productUrlChecked": 1789389506724,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8625546": {
       "sku": "8625546",
@@ -344394,11 +344401,71 @@
       "productUrlChecked": 1789388733935,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8682771": {
+      "sku": "8682771",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-14",
+      "time": "13:38:21",
+      "preExisting": true,
+      "missedAt": 1789389501942,
+      "missedDelay": null,
+      "lastUpdated": 1789389501942,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "title": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - XL, 20-22) - Black",
+      "auctionCode": "0019869620",
+      "source": "gha",
+      "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser-size-small-black-8682759",
+      "productUrlChecked": 1789389506912,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8682760": {
+      "sku": "8682760",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-14",
+      "time": "13:38:21",
+      "preExisting": true,
+      "missedAt": 1789389501942,
+      "missedDelay": null,
+      "lastUpdated": 1789389501942,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "title": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - M, 12-14) - Black",
+      "auctionCode": "0019869618",
+      "source": "gha",
+      "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser-size-small-black-8682759",
+      "productUrlChecked": 1789389507089,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8682770": {
+      "sku": "8682770",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-14",
+      "time": "13:38:21",
+      "preExisting": true,
+      "missedAt": 1789389501942,
+      "missedDelay": null,
+      "lastUpdated": 1789389501942,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "title": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - L, 16-18) - Black",
+      "auctionCode": "0019869619",
+      "source": "gha",
+      "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser-size-small-black-8682759",
+      "productUrlChecked": 1789389507268,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789389501942,
     "gaps": [
       {
         "start": 1785823527869,
@@ -371441,8 +371508,8 @@
     "lastOnAirSku": "8416838",
     "lastOnAirTitle": "La Marey Stretch Jersey Dress With Side Pockets (Size XL, 20-22) - Dark Purple",
     "lastOnAirAuctionCode": "0019869630",
-    "precedingSku": "8682759",
-    "precedingTitle": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - S, 8-10) - Black",
-    "precedingAuctionCode": "0019869617"
+    "precedingSku": "8416838",
+    "precedingTitle": "La Marey Stretch Jersey Dress With Side Pockets (Size XL, 20-22) - Dark Purple",
+    "precedingAuctionCode": "0019869630"
   }
 }
