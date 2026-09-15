@@ -275317,17 +275317,17 @@
       "firstAir": 1788184463493,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789150759369,
+      "lastAir": 1789449383121,
       "title": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019864292",
+      "pdpPrice": "50.99",
+      "auctionCode": "0019870723",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "19:19:19",
+      "date": "2026-09-15",
+      "time": "06:16:23",
       "productUrl": "/products/laurelle-2-piece-set-sweet-riviera-eau-de-toilette-100ml-shower-gel-100ml?variant=53104771957002",
-      "lastUpdated": 1789150759369,
+      "lastUpdated": 1789449383121,
       "source": "gha",
       "missedAt": 1788185600025,
       "missedDelay": 9,
@@ -346404,8 +346404,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789449335521,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374037,11 +374037,22 @@
         "followingSku": "8507640",
         "followingTitle": "Chandelier Rouge Eau de Parfum - 100ml",
         "followingAuctionCode": "0019870702"
+      },
+      {
+        "start": 1789449335521,
+        "end": 1789449383121,
+        "durationMin": 0.8,
+        "precedingSku": "8306337",
+        "precedingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
+        "precedingAuctionCode": "0019870701",
+        "followingSku": "7210980",
+        "followingTitle": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
+        "followingAuctionCode": "0019870723"
       }
     ],
-    "lastOnAirSku": "8306337",
-    "lastOnAirTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
-    "lastOnAirAuctionCode": "0019870701",
+    "lastOnAirSku": "7210980",
+    "lastOnAirTitle": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
+    "lastOnAirAuctionCode": "0019870723",
     "precedingSku": "8306337",
     "precedingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
     "precedingAuctionCode": "0019870701"
