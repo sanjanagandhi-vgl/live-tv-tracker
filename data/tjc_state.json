@@ -346487,11 +346487,29 @@
       "productUrlChecked": 1789453284357,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8749906": {
+      "sku": "8749906",
+      "firstAir": 1789453399332,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789453399332,
+      "title": "NEW Arrival- Douvalls Argan Renewing Hand & Body Lotion - 250ml",
+      "pdpPrice": "23.99",
+      "auctionCode": "0019870518",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "07:23:19",
+      "productUrl": null,
+      "lastUpdated": 1789453399332,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789453344235,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374167,11 +374185,22 @@
         "followingSku": "8749903",
         "followingTitle": "NEW Arrival- Douvalls Argan Renewing Vanilla Bean Hand & Body Wash - 250ml",
         "followingAuctionCode": "0019870521"
+      },
+      {
+        "start": 1789453344235,
+        "end": 1789453399332,
+        "durationMin": 0.9,
+        "precedingSku": "8749903",
+        "precedingTitle": "NEW Arrival- Douvalls Argan Renewing Vanilla Bean Hand & Body Wash - 250ml",
+        "precedingAuctionCode": "0019870521",
+        "followingSku": "8749906",
+        "followingTitle": "NEW Arrival- Douvalls Argan Renewing Hand & Body Lotion - 250ml",
+        "followingAuctionCode": "0019870518"
       }
     ],
-    "lastOnAirSku": "8749903",
-    "lastOnAirTitle": "NEW Arrival- Douvalls Argan Renewing Vanilla Bean Hand & Body Wash - 250ml",
-    "lastOnAirAuctionCode": "0019870521",
+    "lastOnAirSku": "8749906",
+    "lastOnAirTitle": "NEW Arrival- Douvalls Argan Renewing Hand & Body Lotion - 250ml",
+    "lastOnAirAuctionCode": "0019870518",
     "precedingSku": "8749903",
     "precedingTitle": "NEW Arrival- Douvalls Argan Renewing Vanilla Bean Hand & Body Wash - 250ml",
     "precedingAuctionCode": "0019870521"
