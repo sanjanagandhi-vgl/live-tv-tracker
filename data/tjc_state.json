@@ -24609,23 +24609,23 @@
       "sku": "7992480",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-07",
-      "time": "14:26:24",
+      "date": "2026-09-15",
+      "time": "07:34:22",
       "preExisting": true,
       "missedAt": 1785406243979,
       "missedDelay": null,
-      "lastUpdated": 1788787584089,
+      "lastUpdated": 1789454062115,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
-      "auctionCode": "0019860696",
+      "auctionCode": "0019870523",
       "source": "gha",
       "productUrl": "/products/douvalls-argan-infused-growth-serum-mascara-6ml-achieve-longer-fuller-and-voluminous-eyelashes?variant=53108072677642",
       "productUrlChecked": 1785406253003,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1788787584089,
-      "pdpPrice": "19.99",
+      "lastAir": 1789454062115,
+      "pdpPrice": "125.99",
       "buy": true,
       "login": false,
       "img": true
@@ -346552,8 +346552,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789454006025,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374240,11 +374240,22 @@
         "followingSku": "8749906",
         "followingTitle": "NEW Arrival- Douvalls Argan Renewing Hand & Body Lotion - 250ml",
         "followingAuctionCode": "0019870518"
+      },
+      {
+        "start": 1789454006025,
+        "end": 1789454062115,
+        "durationMin": 0.9,
+        "precedingSku": "8749906",
+        "precedingTitle": "NEW Arrival- Douvalls Argan Renewing Hand & Body Lotion - 250ml",
+        "precedingAuctionCode": "0019870518",
+        "followingSku": "7992480",
+        "followingTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
+        "followingAuctionCode": "0019870523"
       }
     ],
-    "lastOnAirSku": "8749906",
-    "lastOnAirTitle": "NEW Arrival- Douvalls Argan Renewing Hand & Body Lotion - 250ml",
-    "lastOnAirAuctionCode": "0019870518",
+    "lastOnAirSku": "7992480",
+    "lastOnAirTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
+    "lastOnAirAuctionCode": "0019870523",
     "precedingSku": "8749906",
     "precedingTitle": "NEW Arrival- Douvalls Argan Renewing Hand & Body Lotion - 250ml",
     "precedingAuctionCode": "0019870518"
