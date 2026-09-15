@@ -53612,17 +53612,17 @@
       "firstAir": 1785639373317,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785639982779,
+      "lastAir": 1789457784298,
       "title": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019803818",
+      "pdpPrice": "40.99",
+      "auctionCode": "0019870438",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-02",
-      "time": "04:06:22",
+      "date": "2026-09-15",
+      "time": "08:36:24",
       "productUrl": "/products/doctors-formula-marine-collagen-instant-eye-hydration-repair-treatment-15ml-3301948",
-      "lastUpdated": 1785640609783,
+      "lastUpdated": 1789457784298,
       "source": "gha",
       "missedAt": 1785640609783,
       "missedDelay": 10,
@@ -346617,8 +346617,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789457729269,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374327,11 +374327,22 @@
         "followingSku": "3377432",
         "followingTitle": "Doctors Formula- Marine Collagen Anti-Ageing Day Moisturiser - 50ml",
         "followingAuctionCode": "0019870439"
+      },
+      {
+        "start": 1789457729269,
+        "end": 1789457784298,
+        "durationMin": 0.9,
+        "precedingSku": "3377432",
+        "precedingTitle": "Doctors Formula- Marine Collagen Anti-Ageing Day Moisturiser - 50ml",
+        "precedingAuctionCode": "0019870439",
+        "followingSku": "3301948",
+        "followingTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
+        "followingAuctionCode": "0019870438"
       }
     ],
-    "lastOnAirSku": "3377432",
-    "lastOnAirTitle": "Doctors Formula- Marine Collagen Anti-Ageing Day Moisturiser - 50ml",
-    "lastOnAirAuctionCode": "0019870439",
+    "lastOnAirSku": "3301948",
+    "lastOnAirTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
+    "lastOnAirAuctionCode": "0019870438",
     "precedingSku": "3377432",
     "precedingTitle": "Doctors Formula- Marine Collagen Anti-Ageing Day Moisturiser - 50ml",
     "precedingAuctionCode": "0019870439"
