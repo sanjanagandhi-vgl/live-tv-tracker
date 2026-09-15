@@ -347239,11 +347239,29 @@
       "productUrl": null,
       "lastUpdated": 1789478361079,
       "source": "gha"
+    },
+    "8697547": {
+      "sku": "8697547",
+      "firstAir": 1789478844199,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789478844199,
+      "title": "Hair Pin, Claw and Clip (Size - One Size) - Yellow",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019870730",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "14:27:24",
+      "productUrl": null,
+      "lastUpdated": 1789478844199,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789478784128,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -375128,11 +375146,22 @@
         "followingSku": "221332009",
         "followingTitle": "SET OF 3 - Barrel Hair Curling Brush",
         "followingAuctionCode": "0019870709"
+      },
+      {
+        "start": 1789478784128,
+        "end": 1789478844199,
+        "durationMin": 1.0,
+        "precedingSku": "221332009",
+        "precedingTitle": "SET OF 3 - Barrel Hair Curling Brush",
+        "precedingAuctionCode": "0019870709",
+        "followingSku": "8697547",
+        "followingTitle": "Hair Pin, Claw and Clip (Size - One Size) - Yellow",
+        "followingAuctionCode": "0019870730"
       }
     ],
-    "lastOnAirSku": "221332009",
-    "lastOnAirTitle": "SET OF 3 - Barrel Hair Curling Brush",
-    "lastOnAirAuctionCode": "0019870709",
+    "lastOnAirSku": "8697547",
+    "lastOnAirTitle": "Hair Pin, Claw and Clip (Size - One Size) - Yellow",
+    "lastOnAirAuctionCode": "0019870730",
     "precedingSku": "221332009",
     "precedingTitle": "SET OF 3 - Barrel Hair Curling Brush",
     "precedingAuctionCode": "0019870709"
