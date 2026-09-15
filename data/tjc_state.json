@@ -347564,11 +347564,29 @@
       "productUrlChecked": 1789481452674,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8623631": {
+      "sku": "8623631",
+      "firstAir": 1789481543862,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789481543862,
+      "title": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019870673",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "15:12:23",
+      "productUrl": null,
+      "lastUpdated": 1789481543862,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789481481093,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -375508,11 +375526,22 @@
         "followingSku": "8623633",
         "followingTitle": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
         "followingAuctionCode": "0019870675"
+      },
+      {
+        "start": 1789481481093,
+        "end": 1789481543862,
+        "durationMin": 1.0,
+        "precedingSku": "8623633",
+        "precedingTitle": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
+        "precedingAuctionCode": "0019870675",
+        "followingSku": "8623631",
+        "followingTitle": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
+        "followingAuctionCode": "0019870673"
       }
     ],
-    "lastOnAirSku": "8623633",
+    "lastOnAirSku": "8623631",
     "lastOnAirTitle": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
-    "lastOnAirAuctionCode": "0019870675",
+    "lastOnAirAuctionCode": "0019870673",
     "precedingSku": "8623633",
     "precedingTitle": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
     "precedingAuctionCode": "0019870675"
