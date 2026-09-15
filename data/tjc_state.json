@@ -305699,21 +305699,26 @@
       "sku": "8616409",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-05",
-      "time": "22:45:34",
+      "date": "2026-09-15",
+      "time": "12:44:24",
       "preExisting": true,
       "missedAt": 1788644734574,
       "missedDelay": null,
-      "lastUpdated": 1788644734574,
+      "lastUpdated": 1789472664796,
       "missedPrice": 79.99,
       "missedImg": true,
-      "title": "Yellow Gold Plated Sterling Silver Bismark Quarda Necklace (Size - 20) with Lobster Clasp, Silver Wt. 12.64 Gms",
-      "auctionCode": "0019858814",
+      "title": "Vicenza Close Out- Sterling Silver Bismark Quarda Necklace (Size - 20) with Lobster Clasp",
+      "auctionCode": "0019871240",
       "source": "gha",
       "productUrl": "/products/sterling-silver-bismark-quarda-necklace-size-20-silver-wt-12-80-gms-8616398",
       "productUrlChecked": 1788644738864,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789472664796,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8616374": {
       "sku": "8616374",
@@ -347022,8 +347027,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789472599946,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374831,11 +374836,22 @@
         "followingSku": "8675556",
         "followingTitle": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
         "followingAuctionCode": "0019871380"
+      },
+      {
+        "start": 1789472599946,
+        "end": 1789472664796,
+        "durationMin": 1.1,
+        "precedingSku": "8675556",
+        "precedingTitle": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
+        "precedingAuctionCode": "0019871380",
+        "followingSku": "8616409",
+        "followingTitle": "Vicenza Close Out- Sterling Silver Bismark Quarda Necklace (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019871240"
       }
     ],
-    "lastOnAirSku": "8675556",
-    "lastOnAirTitle": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
-    "lastOnAirAuctionCode": "0019871380",
+    "lastOnAirSku": "8616409",
+    "lastOnAirTitle": "Vicenza Close Out- Sterling Silver Bismark Quarda Necklace (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019871240",
     "precedingSku": "8675556",
     "precedingTitle": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
     "precedingAuctionCode": "0019871380"
