@@ -348269,11 +348269,29 @@
       "productUrlChecked": 1789484475568,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8756582": {
+      "sku": "8756582",
+      "firstAir": 1789484731379,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789484731379,
+      "title": "Lotus Lola Leather Laceless Slipon Trainers with Metallic Side Stripe (Size 3) - Natural",
+      "pdpPrice": "180.99",
+      "auctionCode": "0019870265",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-15",
+      "time": "16:05:31",
+      "productUrl": null,
+      "lastUpdated": 1789484731379,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789484664696,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -376257,11 +376275,22 @@
         "followingSku": "8589603",
         "followingTitle": "La Marey Faux Suede Long Waterfall Open Front Jacket (Size XXL, 24-26) - Chocolate",
         "followingAuctionCode": "0019870641"
+      },
+      {
+        "start": 1789484664696,
+        "end": 1789484731379,
+        "durationMin": 1.1,
+        "precedingSku": "8185646",
+        "precedingTitle": "La Marey Polo T-Shirt (Size S, 8-10) - Navy",
+        "precedingAuctionCode": "0019870682",
+        "followingSku": "8756582",
+        "followingTitle": "Lotus Lola Leather Laceless Slipon Trainers with Metallic Side Stripe (Size 3) - Natural",
+        "followingAuctionCode": "0019870265"
       }
     ],
-    "lastOnAirSku": "8185646",
-    "lastOnAirTitle": "La Marey Polo T-Shirt (Size S, 8-10) - Navy",
-    "lastOnAirAuctionCode": "0019870682",
+    "lastOnAirSku": "8756582",
+    "lastOnAirTitle": "Lotus Lola Leather Laceless Slipon Trainers with Metallic Side Stripe (Size 3) - Natural",
+    "lastOnAirAuctionCode": "0019870265",
     "precedingSku": "8185646",
     "precedingTitle": "La Marey Polo T-Shirt (Size S, 8-10) - Navy",
     "precedingAuctionCode": "0019870682"
