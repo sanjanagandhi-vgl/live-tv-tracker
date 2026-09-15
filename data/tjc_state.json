@@ -305809,21 +305809,26 @@
       "sku": "8675556",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-05",
-      "time": "23:37:18",
+      "date": "2026-09-15",
+      "time": "12:35:29",
       "preExisting": true,
       "missedAt": 1788647838213,
       "missedDelay": null,
-      "lastUpdated": 1788647838213,
+      "lastUpdated": 1789472129083,
       "missedPrice": 59.99,
       "missedImg": false,
-      "title": "Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
-      "auctionCode": "0019858849",
+      "title": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
+      "auctionCode": "0019871380",
       "source": "gha",
       "productUrl": "/products/rhodium-overlay-sterling-silver-bracelet-size-7-1-ext-8675555",
       "productUrlChecked": 1788647840847,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789472129083,
+      "pdpPrice": "499.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8723799": {
       "sku": "8723799",
@@ -346990,8 +346995,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789472063349,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374788,11 +374793,22 @@
         "followingSku": "8763256",
         "followingTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
         "followingAuctionCode": "0019871676"
+      },
+      {
+        "start": 1789472063349,
+        "end": 1789472129083,
+        "durationMin": 1.1,
+        "precedingSku": "8763256",
+        "precedingTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
+        "precedingAuctionCode": "0019871676",
+        "followingSku": "8675556",
+        "followingTitle": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
+        "followingAuctionCode": "0019871380"
       }
     ],
-    "lastOnAirSku": "8763256",
-    "lastOnAirTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
-    "lastOnAirAuctionCode": "0019871676",
+    "lastOnAirSku": "8675556",
+    "lastOnAirTitle": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
+    "lastOnAirAuctionCode": "0019871380",
     "precedingSku": "8763256",
     "precedingTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
     "precedingAuctionCode": "0019871676"
