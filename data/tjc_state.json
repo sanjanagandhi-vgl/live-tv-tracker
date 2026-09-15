@@ -346809,11 +346809,29 @@
       "productUrlChecked": 1789463009095,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8614369": {
+      "sku": "8614369",
+      "firstAir": 1789465167415,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789465167415,
+      "title": "LIVMORE Panda Insulated Stainless Steel Double-Wall Vacuum Bottle 400ml",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019870223",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "10:39:27",
+      "productUrl": null,
+      "lastUpdated": 1789465167415,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789464985100,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374588,11 +374606,22 @@
         "followingSku": "8695102",
         "followingTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
         "followingAuctionCode": "0019870233"
+      },
+      {
+        "start": 1789464985100,
+        "end": 1789465167415,
+        "durationMin": 3.0,
+        "precedingSku": "8695102",
+        "precedingTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
+        "precedingAuctionCode": "0019870233",
+        "followingSku": "8614369",
+        "followingTitle": "LIVMORE Panda Insulated Stainless Steel Double-Wall Vacuum Bottle 400ml",
+        "followingAuctionCode": "0019870223"
       }
     ],
-    "lastOnAirSku": "8695102",
-    "lastOnAirTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
-    "lastOnAirAuctionCode": "0019870233",
+    "lastOnAirSku": "8614369",
+    "lastOnAirTitle": "LIVMORE Panda Insulated Stainless Steel Double-Wall Vacuum Bottle 400ml",
+    "lastOnAirAuctionCode": "0019870223",
     "precedingSku": "8695102",
     "precedingTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
     "precedingAuctionCode": "0019870233"
