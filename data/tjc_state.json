@@ -348760,11 +348760,29 @@
       "productUrlChecked": 1789486593056,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8620813": {
+      "sku": "8620813",
+      "firstAir": 1789487479163,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789487479163,
+      "title": "La Marey Soft Drape V-Neck Midi Dress with Trim Detail (Size XL, 20-22) - Black",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019870588",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "16:51:19",
+      "productUrl": null,
+      "lastUpdated": 1789487479163,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789487440976,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -376792,11 +376810,22 @@
         "followingSku": "8751848",
         "followingTitle": null,
         "followingAuctionCode": "0019870608"
+      },
+      {
+        "start": 1789487440976,
+        "end": 1789487479163,
+        "durationMin": 0.6,
+        "precedingSku": "8624944",
+        "precedingTitle": "La Marey Luxe Women's Oversized Knit Jumper (One Size, 8-20) - Blue",
+        "precedingAuctionCode": "0019870605",
+        "followingSku": "8620813",
+        "followingTitle": "La Marey Soft Drape V-Neck Midi Dress with Trim Detail (Size XL, 20-22) - Black",
+        "followingAuctionCode": "0019870588"
       }
     ],
-    "lastOnAirSku": "8624944",
-    "lastOnAirTitle": "La Marey Luxe Women's Oversized Knit Jumper (One Size, 8-20) - Blue",
-    "lastOnAirAuctionCode": "0019870605",
+    "lastOnAirSku": "8620813",
+    "lastOnAirTitle": "La Marey Soft Drape V-Neck Midi Dress with Trim Detail (Size XL, 20-22) - Black",
+    "lastOnAirAuctionCode": "0019870588",
     "precedingSku": "8624944",
     "precedingTitle": "La Marey Luxe Women's Oversized Knit Jumper (One Size, 8-20) - Blue",
     "precedingAuctionCode": "0019870605"
