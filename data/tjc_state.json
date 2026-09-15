@@ -15379,16 +15379,16 @@
       "firstAir": 1785091700851,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789404559506,
-      "title": "DEAL OF THE DAY - 9K Yellow Gold Bismark Necklace (Size - 20) 4.70 Gram",
-      "pdpPrice": 699.99,
-      "auctionCode": "0019870309",
+      "lastAir": 1789512502183,
+      "title": "DEAL OF THE DAY - 9K Yellow Gold Bismark Necklace (Size - 20)",
+      "pdpPrice": "6999.99",
+      "auctionCode": "0019872182",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-14",
-      "time": "17:49:19",
-      "lastUpdated": 1789404559506,
+      "date": "2026-09-15",
+      "time": "23:48:22",
+      "lastUpdated": 1789512502183,
       "source": "gha",
       "missedAt": 1785092059876,
       "missedDelay": 2,
@@ -349500,8 +349500,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789512440662,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -377727,11 +377727,22 @@
         "followingSku": "8626563",
         "followingTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
         "followingAuctionCode": "0019871933"
+      },
+      {
+        "start": 1789512440662,
+        "end": 1789512502183,
+        "durationMin": 1.0,
+        "precedingSku": "8626563",
+        "precedingTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
+        "precedingAuctionCode": "0019871933",
+        "followingSku": "8640990",
+        "followingTitle": "DEAL OF THE DAY - 9K Yellow Gold Bismark Necklace (Size - 20)",
+        "followingAuctionCode": "0019872182"
       }
     ],
-    "lastOnAirSku": "8626563",
-    "lastOnAirTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019871933",
+    "lastOnAirSku": "8640990",
+    "lastOnAirTitle": "DEAL OF THE DAY - 9K Yellow Gold Bismark Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019872182",
     "precedingSku": "8626563",
     "precedingTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
     "precedingAuctionCode": "0019871933"
