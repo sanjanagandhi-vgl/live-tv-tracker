@@ -347264,11 +347264,29 @@
       "productUrl": null,
       "lastUpdated": 1789479079338,
       "source": "gha"
+    },
+    "8697353": {
+      "sku": "8697353",
+      "firstAir": 1789479199906,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789479199906,
+      "title": "Women's Twisted Braided Hairband with Silver Rhinestones - White",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019870725",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "14:33:19",
+      "productUrl": null,
+      "lastUpdated": 1789479199906,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789479145765,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -375164,11 +375182,22 @@
         "followingSku": "8697547",
         "followingTitle": "Hair Pin, Claw and Clip (Size - One Size) - Yellow",
         "followingAuctionCode": "0019870730"
+      },
+      {
+        "start": 1789479145765,
+        "end": 1789479199906,
+        "durationMin": 0.9,
+        "precedingSku": "8697547",
+        "precedingTitle": "Hair Pin, Claw and Clip (Size - One Size) - Yellow",
+        "precedingAuctionCode": "0019870730",
+        "followingSku": "8697353",
+        "followingTitle": "Women's Twisted Braided Hairband with Silver Rhinestones - White",
+        "followingAuctionCode": "0019870725"
       }
     ],
-    "lastOnAirSku": "8697547",
-    "lastOnAirTitle": "Hair Pin, Claw and Clip (Size - One Size) - Yellow",
-    "lastOnAirAuctionCode": "0019870730",
+    "lastOnAirSku": "8697353",
+    "lastOnAirTitle": "Women's Twisted Braided Hairband with Silver Rhinestones - White",
+    "lastOnAirAuctionCode": "0019870725",
     "precedingSku": "8697547",
     "precedingTitle": "Hair Pin, Claw and Clip (Size - One Size) - Yellow",
     "precedingAuctionCode": "0019870730"
