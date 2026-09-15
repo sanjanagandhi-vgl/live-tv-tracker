@@ -314301,17 +314301,17 @@
       "firstAir": 1788795264326,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789026503647,
+      "lastAir": 1789490542034,
       "title": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019863467",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019870579",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-10",
-      "time": "08:48:23",
+      "date": "2026-09-15",
+      "time": "17:42:22",
       "productUrl": "/products/bra-size-extra-large-8500882",
-      "lastUpdated": 1789026503647,
+      "lastUpdated": 1789490542034,
       "source": "gha",
       "missedAt": 1788797743219,
       "missedDelay": 9,
@@ -348971,8 +348971,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789490480189,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -377011,11 +377011,22 @@
         "followingSku": "8620813",
         "followingTitle": "La Marey Soft Drape V-Neck Midi Dress with Trim Detail (Size XL, 20-22) - Black",
         "followingAuctionCode": "0019870588"
+      },
+      {
+        "start": 1789490480189,
+        "end": 1789490542034,
+        "durationMin": 1.0,
+        "precedingSku": "8683835",
+        "precedingTitle": "Elegant 100% Viscose Striped Soft Scarf (174 x 68.5cm) - Coffee & White",
+        "precedingAuctionCode": "0019870568",
+        "followingSku": "8500893",
+        "followingTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
+        "followingAuctionCode": "0019870579"
       }
     ],
-    "lastOnAirSku": "8683835",
-    "lastOnAirTitle": "Elegant 100% Viscose Striped Soft Scarf (174 x 68.5cm) - Coffee & White",
-    "lastOnAirAuctionCode": "0019870568",
+    "lastOnAirSku": "8500893",
+    "lastOnAirTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
+    "lastOnAirAuctionCode": "0019870579",
     "precedingSku": "8683835",
     "precedingTitle": "Elegant 100% Viscose Striped Soft Scarf (174 x 68.5cm) - Coffee & White",
     "precedingAuctionCode": "0019870568"
