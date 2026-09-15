@@ -346659,11 +346659,29 @@
       "productUrl": null,
       "lastUpdated": 1789461200714,
       "source": "gha"
+    },
+    "8695050": {
+      "sku": "8695050",
+      "firstAir": 1789461330202,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789461330202,
+      "title": "LIVMORE Set of 4 Replacement Teeth Whitening Gel Pens (2ml Each)",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019869063",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "09:35:30",
+      "productUrl": null,
+      "lastUpdated": 1789461330202,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789461261372,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374405,11 +374423,22 @@
         "followingSku": "8639706",
         "followingTitle": "LIVEMORE Advance Teeth Whitening & Disinfection Kit with 24 Red, Blue & Dual Led Lights (Includes 4 Gel Pens) - White",
         "followingAuctionCode": "0019868151"
+      },
+      {
+        "start": 1789461261372,
+        "end": 1789461330202,
+        "durationMin": 1.1,
+        "precedingSku": "8639706",
+        "precedingTitle": "LIVEMORE Advance Teeth Whitening & Disinfection Kit with 24 Red, Blue & Dual Led Lights (Includes 4 Gel Pens) - White",
+        "precedingAuctionCode": "0019868151",
+        "followingSku": "8695050",
+        "followingTitle": "LIVMORE Set of 4 Replacement Teeth Whitening Gel Pens (2ml Each)",
+        "followingAuctionCode": "0019869063"
       }
     ],
-    "lastOnAirSku": "8639706",
-    "lastOnAirTitle": "LIVEMORE Advance Teeth Whitening & Disinfection Kit with 24 Red, Blue & Dual Led Lights (Includes 4 Gel Pens) - White",
-    "lastOnAirAuctionCode": "0019868151",
+    "lastOnAirSku": "8695050",
+    "lastOnAirTitle": "LIVMORE Set of 4 Replacement Teeth Whitening Gel Pens (2ml Each)",
+    "lastOnAirAuctionCode": "0019869063",
     "precedingSku": "8639706",
     "precedingTitle": "LIVEMORE Advance Teeth Whitening & Disinfection Kit with 24 Red, Blue & Dual Led Lights (Includes 4 Gel Pens) - White",
     "precedingAuctionCode": "0019868151"
