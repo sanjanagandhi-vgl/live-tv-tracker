@@ -286957,23 +286957,23 @@
       "sku": "8740721",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-11",
-      "time": "14:38:24",
+      "date": "2026-09-15",
+      "time": "06:30:51",
       "preExisting": true,
       "missedAt": 1788357630129,
       "missedDelay": null,
-      "lastUpdated": 1789133904567,
+      "lastUpdated": 1789450251195,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
-      "auctionCode": "0019865533",
+      "auctionCode": "0019870625",
       "source": "gha",
       "productUrl": "/products/opi-nail-laquer-spring-2026-collection-big-apple-energy-8740679",
       "productUrlChecked": 1788357642866,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789133904567,
-      "pdpPrice": "7.99",
+      "lastAir": 1789450251195,
+      "pdpPrice": "14.99",
       "buy": true,
       "login": false,
       "img": true
@@ -346422,8 +346422,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789450101103,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374077,11 +374077,22 @@
         "followingSku": "8695409",
         "followingTitle": "Bourjois- 3-Piece Rouge Velvet Ink Lip Colour Set (Includes All About Brown 18, Belle Brune 12 & Cup of Rose 24)",
         "followingAuctionCode": "0019870541"
+      },
+      {
+        "start": 1789450101103,
+        "end": 1789450251195,
+        "durationMin": 2.5,
+        "precedingSku": "8695409",
+        "precedingTitle": "Bourjois- 3-Piece Rouge Velvet Ink Lip Colour Set (Includes All About Brown 18, Belle Brune 12 & Cup of Rose 24)",
+        "precedingAuctionCode": "0019870541",
+        "followingSku": "8740721",
+        "followingTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
+        "followingAuctionCode": "0019870625"
       }
     ],
-    "lastOnAirSku": "8695409",
-    "lastOnAirTitle": "Bourjois- 3-Piece Rouge Velvet Ink Lip Colour Set (Includes All About Brown 18, Belle Brune 12 & Cup of Rose 24)",
-    "lastOnAirAuctionCode": "0019870541",
+    "lastOnAirSku": "8740721",
+    "lastOnAirTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
+    "lastOnAirAuctionCode": "0019870625",
     "precedingSku": "8695409",
     "precedingTitle": "Bourjois- 3-Piece Rouge Velvet Ink Lip Colour Set (Includes All About Brown 18, Belle Brune 12 & Cup of Rose 24)",
     "precedingAuctionCode": "0019870541"
