@@ -2126,23 +2126,23 @@
       "sku": "8426918",
       "tvPrice": "",
       "remarks": "",
-      "time": "08:04:23",
+      "time": "22:28:22",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Natural White Diamond Hoop Earring",
-      "auctionCode": "0019869027",
+      "title": "Natural White Diamond Hoop Earrings",
+      "auctionCode": "0019871466",
       "source": "gha",
-      "lastAir": 1789369463419,
-      "pdpPrice": "9.99",
+      "lastAir": 1789507702968,
+      "pdpPrice": "79.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "productUrl": null,
-      "lastUpdated": 1789369463419
+      "lastUpdated": 1789507702968
     },
     "8620471": {
       "sku": "8620471",
@@ -349440,8 +349440,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789507640373,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -377623,11 +377623,22 @@
         "followingSku": "8089687",
         "followingTitle": "GP HoneyComb Collection - Madeira Citrine, Blue Sapphire, White Zircon 7 Natural Champagne Zircon Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.07 Ct.",
         "followingAuctionCode": "0019871350"
+      },
+      {
+        "start": 1789507640373,
+        "end": 1789507702968,
+        "durationMin": 1.0,
+        "precedingSku": "4478705",
+        "precedingTitle": "Heart Shape Photo Pendant with Chain (Size 20-2 Ext)",
+        "precedingAuctionCode": "0019871479",
+        "followingSku": "8426918",
+        "followingTitle": "Natural White Diamond Hoop Earrings",
+        "followingAuctionCode": "0019871466"
       }
     ],
-    "lastOnAirSku": "4478705",
-    "lastOnAirTitle": "Heart Shape Photo Pendant with Chain (Size 20-2 Ext)",
-    "lastOnAirAuctionCode": "0019871479",
+    "lastOnAirSku": "8426918",
+    "lastOnAirTitle": "Natural White Diamond Hoop Earrings",
+    "lastOnAirAuctionCode": "0019871466",
     "precedingSku": "4478705",
     "precedingTitle": "Heart Shape Photo Pendant with Chain (Size 20-2 Ext)",
     "precedingAuctionCode": "0019871479"
