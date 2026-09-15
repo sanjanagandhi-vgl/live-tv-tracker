@@ -349444,11 +349444,29 @@
       "missedDelay": 9,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8759885": {
+      "sku": "8759885",
+      "firstAir": 1789509038538,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789509038538,
+      "title": "Multi Gemstones Stretchable Bracelet (Size - 7) 100.00 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019872035",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-15",
+      "time": "22:50:38",
+      "productUrl": null,
+      "lastUpdated": 1789509038538,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789508902859,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -377641,11 +377659,22 @@
         "followingSku": "8426918",
         "followingTitle": "Natural White Diamond Hoop Earrings",
         "followingAuctionCode": "0019871466"
+      },
+      {
+        "start": 1789508902859,
+        "end": 1789509038538,
+        "durationMin": 2.3,
+        "precedingSku": "4442694",
+        "precedingTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated ...",
+        "precedingAuctionCode": "0019871397",
+        "followingSku": "8759885",
+        "followingTitle": "Multi Gemstones Stretchable Bracelet (Size - 7) 100.00 Ct.",
+        "followingAuctionCode": "0019872035"
       }
     ],
-    "lastOnAirSku": "4442694",
-    "lastOnAirTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated ...",
-    "lastOnAirAuctionCode": "0019871397",
+    "lastOnAirSku": "8759885",
+    "lastOnAirTitle": "Multi Gemstones Stretchable Bracelet (Size - 7) 100.00 Ct.",
+    "lastOnAirAuctionCode": "0019872035",
     "precedingSku": "4442694",
     "precedingTitle": "Designer Inspired - Cubic Zirconia Teddy Bear Pendant with Chain (Size 20) in Yellow Gold Plated ...",
     "precedingAuctionCode": "0019871397"
