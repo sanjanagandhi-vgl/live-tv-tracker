@@ -263443,17 +263443,17 @@
       "firstAir": 1787943142052,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787943261452,
+      "lastAir": 1789443742189,
       "title": "Christmas Trio Gift Set",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019845695",
+      "pdpPrice": "200.99",
+      "auctionCode": "0019870000",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-28",
-      "time": "19:54:21",
+      "date": "2026-09-15",
+      "time": "04:42:22",
       "productUrl": "/products/christmas-trio-gift-set8371333",
-      "lastUpdated": 1787943800552,
+      "lastUpdated": 1789443742189,
       "source": "gha",
       "missedAt": 1787943800552,
       "missedDelay": 9,
@@ -346369,8 +346369,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789443505118,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -373925,11 +373925,22 @@
         "followingSku": "8522953",
         "followingTitle": "Exclusive Handcrafted Rich Mango Wood Two Drawer Chest (9.5 x 21 x 18cm)",
         "followingAuctionCode": "0019869990"
+      },
+      {
+        "start": 1789443505118,
+        "end": 1789443742189,
+        "durationMin": 4.0,
+        "precedingSku": "8624558",
+        "precedingTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+        "precedingAuctionCode": "0019869977",
+        "followingSku": "8371333",
+        "followingTitle": "Christmas Trio Gift Set",
+        "followingAuctionCode": "0019870000"
       }
     ],
-    "lastOnAirSku": "8624558",
-    "lastOnAirTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
-    "lastOnAirAuctionCode": "0019869977",
+    "lastOnAirSku": "8371333",
+    "lastOnAirTitle": "Christmas Trio Gift Set",
+    "lastOnAirAuctionCode": "0019870000",
     "precedingSku": "8624558",
     "precedingTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
     "precedingAuctionCode": "0019869977"
