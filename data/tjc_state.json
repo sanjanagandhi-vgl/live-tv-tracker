@@ -333519,21 +333519,26 @@
       "sku": "8631056",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-11",
-      "time": "20:34:24",
+      "date": "2026-09-15",
+      "time": "18:17:21",
       "preExisting": true,
       "missedAt": 1789155264492,
       "missedDelay": null,
-      "lastUpdated": 1789155264492,
+      "lastUpdated": 1789492641913,
       "missedPrice": 6.99,
       "missedImg": true,
       "title": "Set of 2 - Christmas Gift Wrapping Paper Sheets (56x56cm) - Red & Dark Green - 40 Sheets Total",
-      "auctionCode": "0019866174",
+      "auctionCode": "0019870459",
       "source": "gha",
       "productUrl": "/products/christmas-ornament-size-one-size-red-green-8631056",
       "productUrlChecked": 1789155269217,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789492641913,
+      "pdpPrice": "89.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8569834": {
       "sku": "8569834",
@@ -349058,8 +349063,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789492537123,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -377109,11 +377114,22 @@
         "followingSku": "8500893",
         "followingTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
         "followingAuctionCode": "0019870579"
+      },
+      {
+        "start": 1789492537123,
+        "end": 1789492641913,
+        "durationMin": 1.7,
+        "precedingSku": "8515724",
+        "precedingTitle": "Magnifying Glass - Black",
+        "precedingAuctionCode": "0019870544",
+        "followingSku": "8631056",
+        "followingTitle": "Set of 2 - Christmas Gift Wrapping Paper Sheets (56x56cm) - Red & Dark Green - 40 Sheets Total",
+        "followingAuctionCode": "0019870459"
       }
     ],
-    "lastOnAirSku": "8515724",
-    "lastOnAirTitle": "Magnifying Glass - Black",
-    "lastOnAirAuctionCode": "0019870544",
+    "lastOnAirSku": "8631056",
+    "lastOnAirTitle": "Set of 2 - Christmas Gift Wrapping Paper Sheets (56x56cm) - Red & Dark Green - 40 Sheets Total",
+    "lastOnAirAuctionCode": "0019870459",
     "precedingSku": "8515724",
     "precedingTitle": "Magnifying Glass - Black",
     "precedingAuctionCode": "0019870544"
