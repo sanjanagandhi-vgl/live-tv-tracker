@@ -346596,11 +346596,29 @@
       "productUrlChecked": 1789454484958,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "3377432": {
+      "sku": "3377432",
+      "firstAir": 1789456159416,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789456159416,
+      "title": "Doctors Formula- Marine Collagen Anti-Ageing Day Moisturiser - 50ml",
+      "pdpPrice": "120.99",
+      "auctionCode": "0019870439",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "08:09:19",
+      "productUrl": null,
+      "lastUpdated": 1789456159416,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789456038813,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374298,11 +374316,22 @@
         "followingSku": "7992480",
         "followingTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
         "followingAuctionCode": "0019870523"
+      },
+      {
+        "start": 1789456038813,
+        "end": 1789456159416,
+        "durationMin": 2.0,
+        "precedingSku": "7992480",
+        "precedingTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
+        "precedingAuctionCode": "0019870523",
+        "followingSku": "3377432",
+        "followingTitle": "Doctors Formula- Marine Collagen Anti-Ageing Day Moisturiser - 50ml",
+        "followingAuctionCode": "0019870439"
       }
     ],
-    "lastOnAirSku": "7992480",
-    "lastOnAirTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
-    "lastOnAirAuctionCode": "0019870523",
+    "lastOnAirSku": "3377432",
+    "lastOnAirTitle": "Doctors Formula- Marine Collagen Anti-Ageing Day Moisturiser - 50ml",
+    "lastOnAirAuctionCode": "0019870439",
     "precedingSku": "7992480",
     "precedingTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
     "precedingAuctionCode": "0019870523"
