@@ -339749,21 +339749,26 @@
       "sku": "8535346",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-09-15",
+      "time": "05:49:18",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1789447758112,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Designer Closeout - Patent Chic Crossbody Bag - Black",
-      "auctionCode": "0019868373",
+      "auctionCode": "0019870011",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-black-8535346",
       "productUrlChecked": 1789359100645,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789447758112,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8535347": {
       "sku": "8535347",
@@ -346374,8 +346379,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789447703006,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -373985,11 +373990,22 @@
         "followingSku": "8753815",
         "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Necklace (Size - 20) with Senorita Clasp, Gold Wt. 19.35 Gms",
         "followingAuctionCode": "0019871096"
+      },
+      {
+        "start": 1789447703006,
+        "end": 1789447758112,
+        "durationMin": 0.9,
+        "precedingSku": "8427362",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Mesh Stretchable (Size 7 TO 9) - Bangle",
+        "precedingAuctionCode": "0019871097",
+        "followingSku": "8535346",
+        "followingTitle": "Designer Closeout - Patent Chic Crossbody Bag - Black",
+        "followingAuctionCode": "0019870011"
       }
     ],
-    "lastOnAirSku": "8427362",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Mesh Stretchable (Size 7 TO 9) - Bangle",
-    "lastOnAirAuctionCode": "0019871097",
+    "lastOnAirSku": "8535346",
+    "lastOnAirTitle": "Designer Closeout - Patent Chic Crossbody Bag - Black",
+    "lastOnAirAuctionCode": "0019870011",
     "precedingSku": "8427362",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Mesh Stretchable (Size 7 TO 9) - Bangle",
     "precedingAuctionCode": "0019871097"
