@@ -347582,11 +347582,29 @@
       "productUrl": null,
       "lastUpdated": 1789481665234,
       "source": "gha"
+    },
+    "8507979": {
+      "sku": "8507979",
+      "firstAir": 1789481840533,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789481840533,
+      "title": "La Marey Printed Buttoned Skirt (Size - S-M, 8-14) - Green",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019870691",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "15:17:20",
+      "productUrl": null,
+      "lastUpdated": 1789481840533,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789481745899,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -375537,11 +375555,22 @@
         "followingSku": "8623631",
         "followingTitle": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
         "followingAuctionCode": "0019870673"
+      },
+      {
+        "start": 1789481745899,
+        "end": 1789481840533,
+        "durationMin": 1.6,
+        "precedingSku": "8623631",
+        "precedingTitle": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
+        "precedingAuctionCode": "0019870673",
+        "followingSku": "8507979",
+        "followingTitle": "La Marey Printed Buttoned Skirt (Size - S-M, 8-14) - Green",
+        "followingAuctionCode": "0019870691"
       }
     ],
-    "lastOnAirSku": "8623631",
-    "lastOnAirTitle": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
-    "lastOnAirAuctionCode": "0019870673",
+    "lastOnAirSku": "8507979",
+    "lastOnAirTitle": "La Marey Printed Buttoned Skirt (Size - S-M, 8-14) - Green",
+    "lastOnAirAuctionCode": "0019870691",
     "precedingSku": "8623631",
     "precedingTitle": "La Marey Relaxed Fit Sweatshirt with Side Pocket (Size S-M, 8-14) - Purple",
     "precedingAuctionCode": "0019870673"
