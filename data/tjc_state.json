@@ -348361,11 +348361,29 @@
       "productUrl": null,
       "lastUpdated": 1789485564787,
       "source": "gha"
+    },
+    "8756589": {
+      "sku": "8756589",
+      "firstAir": 1789485680810,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789485680810,
+      "title": "Lotus Lola Leather Laceless Slipon Trainers with Leopard Print Side Stripe (Size 3) - Tan",
+      "pdpPrice": "300.99",
+      "auctionCode": "0019870272",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-15",
+      "time": "16:21:20",
+      "productUrl": null,
+      "lastUpdated": 1789485680810,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789485642635,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -376371,11 +376389,22 @@
         "followingSku": "8756596",
         "followingTitle": "Lotus Lola Leather Laceless Slipon Trainers with Zebra Print Side Stripe (Size 3) - White",
         "followingAuctionCode": "0019870279"
+      },
+      {
+        "start": 1789485642635,
+        "end": 1789485680810,
+        "durationMin": 0.6,
+        "precedingSku": "8756596",
+        "precedingTitle": "Lotus Lola Leather Laceless Slipon Trainers with Zebra Print Side Stripe (Size 3) - White",
+        "precedingAuctionCode": "0019870279",
+        "followingSku": "8756589",
+        "followingTitle": "Lotus Lola Leather Laceless Slipon Trainers with Leopard Print Side Stripe (Size 3) - Tan",
+        "followingAuctionCode": "0019870272"
       }
     ],
-    "lastOnAirSku": "8756596",
-    "lastOnAirTitle": "Lotus Lola Leather Laceless Slipon Trainers with Zebra Print Side Stripe (Size 3) - White",
-    "lastOnAirAuctionCode": "0019870279",
+    "lastOnAirSku": "8756589",
+    "lastOnAirTitle": "Lotus Lola Leather Laceless Slipon Trainers with Leopard Print Side Stripe (Size 3) - Tan",
+    "lastOnAirAuctionCode": "0019870272",
     "precedingSku": "8756596",
     "precedingTitle": "Lotus Lola Leather Laceless Slipon Trainers with Zebra Print Side Stripe (Size 3) - White",
     "precedingAuctionCode": "0019870279"
