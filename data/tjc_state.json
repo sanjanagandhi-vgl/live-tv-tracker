@@ -302173,21 +302173,26 @@
       "sku": "8739967",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "19:59:19",
+      "date": "2026-09-15",
+      "time": "02:07:20",
       "preExisting": true,
       "missedAt": 1788548359695,
       "missedDelay": null,
-      "lastUpdated": 1788548359695,
+      "lastUpdated": 1789434440370,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
-      "auctionCode": "0019858086",
+      "auctionCode": "0019869863",
       "source": "gha",
       "productUrl": "/products/pecksniffs-manuka-honey-orange-blossom-moisturising-hand-wash-500ml-8739964",
       "productUrlChecked": 1788548363413,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789434440370,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8593265": {
       "sku": "8593265",
@@ -346051,8 +346056,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789434330682,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -373530,11 +373535,22 @@
         "followingSku": "8607543",
         "followingTitle": "Bronzella Collection - Station Bracelet (Size - 7.5) in 18K Gold Plating",
         "followingAuctionCode": "0019870186"
+      },
+      {
+        "start": 1789434330682,
+        "end": 1789434440370,
+        "durationMin": 1.8,
+        "precedingSku": "4485378",
+        "precedingTitle": "Bronzella Collection - Floral Pendant with Chain (Size 20) in 18K Gold Plating 8.20 Gms",
+        "precedingAuctionCode": "0019870209",
+        "followingSku": "8739967",
+        "followingTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
+        "followingAuctionCode": "0019869863"
       }
     ],
-    "lastOnAirSku": "4485378",
-    "lastOnAirTitle": "Bronzella Collection - Floral Pendant with Chain (Size 20) in 18K Gold Plating 8.20 Gms",
-    "lastOnAirAuctionCode": "0019870209",
+    "lastOnAirSku": "8739967",
+    "lastOnAirTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
+    "lastOnAirAuctionCode": "0019869863",
     "precedingSku": "4485378",
     "precedingTitle": "Bronzella Collection - Floral Pendant with Chain (Size 20) in 18K Gold Plating 8.20 Gms",
     "precedingAuctionCode": "0019870209"
