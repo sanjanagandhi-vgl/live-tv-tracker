@@ -314233,17 +314233,17 @@
       "firstAir": 1788791360563,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788791599993,
+      "lastAir": 1789458679702,
       "title": "Doctors Formula- Marine Collagen Wash Away Cleanser - 150ml & Muslin Cloth",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019860903",
+      "pdpPrice": "68.99",
+      "auctionCode": "0019870494",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-07",
-      "time": "15:33:19",
+      "date": "2026-09-15",
+      "time": "08:51:19",
       "productUrl": "/products/doctors-formula-marine-collagen-wash-away-cleanser-150ml-muslin-cloth",
-      "lastUpdated": 1788792144729,
+      "lastUpdated": 1789458679702,
       "source": "gha",
       "missedAt": 1788792144729,
       "missedDelay": 9,
@@ -346644,8 +346644,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789458636730,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374365,11 +374365,22 @@
         "followingSku": "3301948",
         "followingTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
         "followingAuctionCode": "0019870438"
+      },
+      {
+        "start": 1789458636730,
+        "end": 1789458679702,
+        "durationMin": 0.7,
+        "precedingSku": "3301948",
+        "precedingTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
+        "precedingAuctionCode": "0019870438",
+        "followingSku": "7177061",
+        "followingTitle": "Doctors Formula- Marine Collagen Wash Away Cleanser - 150ml & Muslin Cloth",
+        "followingAuctionCode": "0019870494"
       }
     ],
-    "lastOnAirSku": "3301948",
-    "lastOnAirTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
-    "lastOnAirAuctionCode": "0019870438",
+    "lastOnAirSku": "7177061",
+    "lastOnAirTitle": "Doctors Formula- Marine Collagen Wash Away Cleanser - 150ml & Muslin Cloth",
+    "lastOnAirAuctionCode": "0019870494",
     "precedingSku": "3301948",
     "precedingTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
     "precedingAuctionCode": "0019870438"
