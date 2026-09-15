@@ -2126,7 +2126,7 @@
       "sku": "8426918",
       "tvPrice": "",
       "remarks": "",
-      "time": "22:31:18",
+      "time": "22:32:23",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
@@ -2135,14 +2135,14 @@
       "title": "Natural White Diamond Hoop Earrings",
       "auctionCode": "0019871466",
       "source": "gha",
-      "lastAir": 1789507878727,
+      "lastAir": 1789507943825,
       "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-15",
       "productUrl": null,
-      "lastUpdated": 1789507878727
+      "lastUpdated": 1789507943825
     },
     "8620471": {
       "sku": "8620471",
@@ -349432,11 +349432,15 @@
       "date": "2026-09-15",
       "time": "22:23:19",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8735991?variant=53676980404490",
-      "lastUpdated": 1789507399939,
+      "lastUpdated": 1789507943825,
       "source": "gha",
       "productUrlChecked": 1789507404471,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789507943825,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
