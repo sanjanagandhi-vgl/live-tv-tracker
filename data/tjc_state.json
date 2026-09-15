@@ -339757,21 +339757,26 @@
       "sku": "7632745",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-09-15",
+      "time": "19:57:22",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1789498642024,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Set of 3 Jewellery Box with Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Black, White & Green",
-      "auctionCode": "0019869047",
+      "title": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
+      "auctionCode": "0019870481",
       "source": "gha",
       "productUrl": "/products/patterned-jewellery-box-size-10x10x5-multi-color",
       "productUrlChecked": 1789359099709,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789498642024,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8535346": {
       "sku": "8535346",
@@ -349383,8 +349388,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789498584284,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -377522,11 +377527,22 @@
         "followingSku": "8614369",
         "followingTitle": "LIVMORE Panda Insulated Stainless Steel Double-Wall Vacuum Bottle 400ml",
         "followingAuctionCode": "0019872029"
+      },
+      {
+        "start": 1789498584284,
+        "end": 1789498642024,
+        "durationMin": 1.0,
+        "precedingSku": "8614369",
+        "precedingTitle": "LIVMORE Panda Insulated Stainless Steel Double-Wall Vacuum Bottle 400ml",
+        "precedingAuctionCode": "0019872029",
+        "followingSku": "7632745",
+        "followingTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
+        "followingAuctionCode": "0019870481"
       }
     ],
-    "lastOnAirSku": "8614369",
-    "lastOnAirTitle": "LIVMORE Panda Insulated Stainless Steel Double-Wall Vacuum Bottle 400ml",
-    "lastOnAirAuctionCode": "0019872029",
+    "lastOnAirSku": "7632745",
+    "lastOnAirTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
+    "lastOnAirAuctionCode": "0019870481",
     "precedingSku": "8614369",
     "precedingTitle": "LIVMORE Panda Insulated Stainless Steel Double-Wall Vacuum Bottle 400ml",
     "precedingAuctionCode": "0019872029"
