@@ -349462,11 +349462,29 @@
       "productUrl": null,
       "lastUpdated": 1789509328753,
       "source": "gha"
+    },
+    "8746963": {
+      "sku": "8746963",
+      "firstAir": 1789509440759,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789509440759,
+      "title": "Close Out Deal- Designer Inspired Woven Hoop Earring",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019871393",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "22:57:20",
+      "productUrl": null,
+      "lastUpdated": 1789509440759,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789509385316,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -377670,11 +377688,22 @@
         "followingSku": "8759885",
         "followingTitle": "Multi Gemstones Stretchable Bracelet (Size - 7) 100.00 Ct.",
         "followingAuctionCode": "0019872035"
+      },
+      {
+        "start": 1789509385316,
+        "end": 1789509440759,
+        "durationMin": 0.9,
+        "precedingSku": "8759885",
+        "precedingTitle": "Multi Gemstones Stretchable Bracelet (Size - 7) 100.00 Ct.",
+        "precedingAuctionCode": "0019872035",
+        "followingSku": "8746963",
+        "followingTitle": "Close Out Deal- Designer Inspired Woven Hoop Earring",
+        "followingAuctionCode": "0019871393"
       }
     ],
-    "lastOnAirSku": "8759885",
-    "lastOnAirTitle": "Multi Gemstones Stretchable Bracelet (Size - 7) 100.00 Ct.",
-    "lastOnAirAuctionCode": "0019872035",
+    "lastOnAirSku": "8746963",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Woven Hoop Earring",
+    "lastOnAirAuctionCode": "0019871393",
     "precedingSku": "8759885",
     "precedingTitle": "Multi Gemstones Stretchable Bracelet (Size - 7) 100.00 Ct.",
     "precedingAuctionCode": "0019872035"
