@@ -346081,11 +346081,29 @@
       "productUrl": null,
       "lastUpdated": 1789438344201,
       "source": "gha"
+    },
+    "7857499": {
+      "sku": "7857499",
+      "firstAir": 1789438463184,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789438463184,
+      "title": "La Marey Super Soft Checker Borg Fleece Jacket",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019869937",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "03:14:23",
+      "productUrl": null,
+      "lastUpdated": 1789438463184,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789438402352,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -373585,11 +373603,22 @@
         "followingSku": "8538095",
         "followingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
         "followingAuctionCode": "0019870215"
+      },
+      {
+        "start": 1789438402352,
+        "end": 1789438463184,
+        "durationMin": 1.0,
+        "precedingSku": "7857484",
+        "precedingTitle": "La Marey Super Soft Checker Borg Fleece Jacket",
+        "precedingAuctionCode": "0019869940",
+        "followingSku": "7857499",
+        "followingTitle": "La Marey Super Soft Checker Borg Fleece Jacket",
+        "followingAuctionCode": "0019869937"
       }
     ],
-    "lastOnAirSku": "7857484",
+    "lastOnAirSku": "7857499",
     "lastOnAirTitle": "La Marey Super Soft Checker Borg Fleece Jacket",
-    "lastOnAirAuctionCode": "0019869940",
+    "lastOnAirAuctionCode": "0019869937",
     "precedingSku": "7857484",
     "precedingTitle": "La Marey Super Soft Checker Borg Fleece Jacket",
     "precedingAuctionCode": "0019869940"
