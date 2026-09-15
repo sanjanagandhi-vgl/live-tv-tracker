@@ -346935,11 +346935,15 @@
       "date": "2026-09-15",
       "time": "12:14:25",
       "productUrl": "/products/sterling-silver-earring-with-clasp-8763490?variant=53697988296970",
-      "lastUpdated": 1789470865172,
+      "lastUpdated": 1789471399515,
       "source": "gha",
       "productUrlChecked": 1789470869786,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789471399515,
+      "missedDelay": 9,
+      "missedPrice": 29.99,
+      "missedImg": true
     },
     "8763546": {
       "sku": "8763546",
@@ -346961,8 +346965,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789471399515,
     "gaps": [
       {
         "start": 1785823527869,
@@ -374753,8 +374757,8 @@
     "lastOnAirSku": "8763546",
     "lastOnAirTitle": "Close Out Deal - Sterling Silver Ball Drop Earring with Lever Back",
     "lastOnAirAuctionCode": "0019871064",
-    "precedingSku": "8695102",
-    "precedingTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
-    "precedingAuctionCode": "0019870233"
+    "precedingSku": "8763546",
+    "precedingTitle": "Close Out Deal - Sterling Silver Ball Drop Earring with Lever Back",
+    "precedingAuctionCode": "0019871064"
   }
 }
