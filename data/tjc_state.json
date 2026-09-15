@@ -347397,11 +347397,29 @@
       "productUrlChecked": 1789479991933,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8622226": {
+      "sku": "8622226",
+      "firstAir": 1789480162657,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789480162657,
+      "title": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Dark Green",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019870600",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-15",
+      "time": "14:49:22",
+      "productUrl": null,
+      "lastUpdated": 1789480162657,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789480105830,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -375319,11 +375337,22 @@
         "followingSku": "8526589",
         "followingTitle": "Set of 2 Crystal Embellished Butterfly and Teddy Bear Charms Keychains (17cm & 19cm) - Dark Grey",
         "followingAuctionCode": "0019870742"
+      },
+      {
+        "start": 1789480105830,
+        "end": 1789480162657,
+        "durationMin": 0.9,
+        "precedingSku": "8526589",
+        "precedingTitle": "Set of 2 Crystal Embellished Butterfly and Teddy Bear Charms Keychains (17cm & 19cm) - Dark Grey",
+        "precedingAuctionCode": "0019870742",
+        "followingSku": "8622226",
+        "followingTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Dark Green",
+        "followingAuctionCode": "0019870600"
       }
     ],
-    "lastOnAirSku": "8526589",
-    "lastOnAirTitle": "Set of 2 Crystal Embellished Butterfly and Teddy Bear Charms Keychains (17cm & 19cm) - Dark Grey",
-    "lastOnAirAuctionCode": "0019870742",
+    "lastOnAirSku": "8622226",
+    "lastOnAirTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Dark Green",
+    "lastOnAirAuctionCode": "0019870600",
     "precedingSku": "8526589",
     "precedingTitle": "Set of 2 Crystal Embellished Butterfly and Teddy Bear Charms Keychains (17cm & 19cm) - Dark Grey",
     "precedingAuctionCode": "0019870742"
