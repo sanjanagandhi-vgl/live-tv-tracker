@@ -314357,17 +314357,17 @@
       "firstAir": 1788795264326,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789492105374,
+      "lastAir": 1789556782016,
       "title": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019870579",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019872501",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-15",
-      "time": "18:08:25",
+      "date": "2026-09-16",
+      "time": "12:06:22",
       "productUrl": "/products/bra-size-extra-large-8500882?variant=53632250216714",
-      "lastUpdated": 1789492105374,
+      "lastUpdated": 1789556782016,
       "source": "gha",
       "missedAt": 1788797743219,
       "missedDelay": 9,
@@ -350428,8 +350428,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789556661734,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -379095,11 +379095,22 @@
         "followingSku": "8683821",
         "followingTitle": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Khaki",
         "followingAuctionCode": "0019871545"
+      },
+      {
+        "start": 1789556661734,
+        "end": 1789556782016,
+        "durationMin": 2.0,
+        "precedingSku": "8615696",
+        "precedingTitle": "Crossbody Bag (Size - One Size) - Dark Blue",
+        "precedingAuctionCode": "0019872467",
+        "followingSku": "8500893",
+        "followingTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
+        "followingAuctionCode": "0019872501"
       }
     ],
-    "lastOnAirSku": "8615696",
-    "lastOnAirTitle": "Crossbody Bag (Size - One Size) - Dark Blue",
-    "lastOnAirAuctionCode": "0019872467",
+    "lastOnAirSku": "8500893",
+    "lastOnAirTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
+    "lastOnAirAuctionCode": "0019872501",
     "precedingSku": "8615696",
     "precedingTitle": "Crossbody Bag (Size - One Size) - Dark Blue",
     "precedingAuctionCode": "0019872467"
