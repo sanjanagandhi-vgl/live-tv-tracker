@@ -180358,18 +180358,23 @@
       "sku": "8419189",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "13:51:20",
+      "date": "2026-09-16",
+      "time": "06:47:20",
       "preExisting": true,
       "missedAt": 1786971080475,
       "missedDelay": null,
-      "lastUpdated": 1786971080475,
+      "lastUpdated": 1789537640051,
       "missedPrice": 279.99,
       "missedImg": true,
-      "title": "La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700Gms) - Champagne",
-      "auctionCode": "0019826115",
+      "title": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700Gms) - Champagne",
+      "auctionCode": "0019871621",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1789537640051,
+      "pdpPrice": "5099.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8419179": {
       "sku": "8419179",
@@ -350280,8 +350285,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789537570876,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378782,11 +378787,22 @@
         "followingSku": "8322529",
         "followingTitle": "Livmore All Seasons Cooling Mulberry  Silk Blend  Quilt (Double 135 x 200 cm) - Champagne",
         "followingAuctionCode": "0019871629"
+      },
+      {
+        "start": 1789537570876,
+        "end": 1789537640051,
+        "durationMin": 1.2,
+        "precedingSku": "8412037",
+        "precedingTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
+        "precedingAuctionCode": "0019871631",
+        "followingSku": "8419189",
+        "followingTitle": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700Gms) - Champagne",
+        "followingAuctionCode": "0019871621"
       }
     ],
-    "lastOnAirSku": "8412037",
-    "lastOnAirTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
-    "lastOnAirAuctionCode": "0019871631",
+    "lastOnAirSku": "8419189",
+    "lastOnAirTitle": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700Gms) - Champagne",
+    "lastOnAirAuctionCode": "0019871621",
     "precedingSku": "8412037",
     "precedingTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
     "precedingAuctionCode": "0019871631"
