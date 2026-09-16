@@ -7851,19 +7851,19 @@
       "sku": "8322529",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-25",
-      "time": "13:37:18",
+      "date": "2026-09-16",
+      "time": "06:18:24",
       "preExisting": true,
       "missedAt": 1784945062090,
       "missedDelay": null,
-      "lastUpdated": 1787661438331,
+      "lastUpdated": 1789535904224,
       "missedPrice": 34.99,
       "missedImg": true,
-      "title": "Livmore All Seasons Cooling Mulberry Silk Blend Quilt (Double, 135 x 200 cm) - Pink.",
-      "auctionCode": "0019839502",
+      "title": "Livmore All Seasons Cooling Mulberry  Silk Blend  Quilt (Double 135 x 200 cm) - Champagne",
+      "auctionCode": "0019871629",
       "source": "gha",
-      "lastAir": 1787661438331,
-      "pdpPrice": "34.99",
+      "lastAir": 1789535904224,
+      "pdpPrice": "59.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -350260,8 +350260,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789535839941,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378751,11 +378751,22 @@
         "followingSku": "8563041",
         "followingTitle": "La Marey Signature Mulberry Silk Patterned Pillowcase with MOP Button Closure (Size 50x75 cm) - Navy",
         "followingAuctionCode": "0019871639"
+      },
+      {
+        "start": 1789535839941,
+        "end": 1789535904224,
+        "durationMin": 1.1,
+        "precedingSku": "8563041",
+        "precedingTitle": "La Marey Signature Mulberry Silk Patterned Pillowcase with MOP Button Closure (Size 50x75 cm) - Navy",
+        "precedingAuctionCode": "0019871639",
+        "followingSku": "8322529",
+        "followingTitle": "Livmore All Seasons Cooling Mulberry  Silk Blend  Quilt (Double 135 x 200 cm) - Champagne",
+        "followingAuctionCode": "0019871629"
       }
     ],
-    "lastOnAirSku": "8563041",
-    "lastOnAirTitle": "La Marey Signature Mulberry Silk Patterned Pillowcase with MOP Button Closure (Size 50x75 cm) - Navy",
-    "lastOnAirAuctionCode": "0019871639",
+    "lastOnAirSku": "8322529",
+    "lastOnAirTitle": "Livmore All Seasons Cooling Mulberry  Silk Blend  Quilt (Double 135 x 200 cm) - Champagne",
+    "lastOnAirAuctionCode": "0019871629",
     "precedingSku": "8563041",
     "precedingTitle": "La Marey Signature Mulberry Silk Patterned Pillowcase with MOP Button Closure (Size 50x75 cm) - Navy",
     "precedingAuctionCode": "0019871639"
