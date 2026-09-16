@@ -350551,11 +350551,29 @@
       "productUrlChecked": 1789560148622,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8636693": {
+      "sku": "8636693",
+      "firstAir": 1789560327845,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789560327845,
+      "title": "La Marey Womens Striped Tassel Poncho with Pockets (One Size) - Beige",
+      "pdpPrice": "279.99",
+      "auctionCode": "0019871746",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-16",
+      "time": "13:05:27",
+      "productUrl": null,
+      "lastUpdated": 1789560327845,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789560198843,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -379265,11 +379283,22 @@
         "followingSku": "8756589",
         "followingTitle": "Lotus Lola Leather Laceless Slipon Trainers with Leopard Print Side Stripe (Size 3) - Tan",
         "followingAuctionCode": "0019872481"
+      },
+      {
+        "start": 1789560198843,
+        "end": 1789560327845,
+        "durationMin": 2.2,
+        "precedingSku": "8525675",
+        "precedingTitle": "Genuine Leather RFID Blocking Zip Around Card Holder Wallet - Red",
+        "precedingAuctionCode": "0019871825",
+        "followingSku": "8636693",
+        "followingTitle": "La Marey Womens Striped Tassel Poncho with Pockets (One Size) - Beige",
+        "followingAuctionCode": "0019871746"
       }
     ],
-    "lastOnAirSku": "8525675",
-    "lastOnAirTitle": "Genuine Leather RFID Blocking Zip Around Card Holder Wallet - Red",
-    "lastOnAirAuctionCode": "0019871825",
+    "lastOnAirSku": "8636693",
+    "lastOnAirTitle": "La Marey Womens Striped Tassel Poncho with Pockets (One Size) - Beige",
+    "lastOnAirAuctionCode": "0019871746",
     "precedingSku": "8525675",
     "precedingTitle": "Genuine Leather RFID Blocking Zip Around Card Holder Wallet - Red",
     "precedingAuctionCode": "0019871825"
