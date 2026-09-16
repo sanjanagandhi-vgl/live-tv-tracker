@@ -64353,21 +64353,26 @@
       "sku": "8528117",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-03",
-      "time": "13:09:18",
+      "date": "2026-09-16",
+      "time": "07:36:21",
       "preExisting": true,
       "missedAt": 1785758958505,
       "missedDelay": null,
-      "lastUpdated": 1785758958505,
+      "lastUpdated": 1789540581918,
       "missedPrice": 17.99,
       "missedImg": true,
       "title": "LIVMORE Single-Sided Digital Print Flannel Blanket (150x200cm) - Rose",
-      "auctionCode": "0019804827",
+      "auctionCode": "0019871589",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-150x1-cm-multi-color-8528068",
       "productUrlChecked": 1785758976396,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789540581918,
+      "pdpPrice": "159.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8662884": {
       "sku": "8662884",
@@ -350288,8 +350293,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789540528626,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378823,11 +378828,22 @@
         "followingSku": "8413568",
         "followingTitle": "8-Piece Enamelled Cast Iron Cookware Set - 2L, 3L & 4L Lidded Casserole, Bakeware & Square Roaster - Blue",
         "followingAuctionCode": "0019871674"
+      },
+      {
+        "start": 1789540528626,
+        "end": 1789540581918,
+        "durationMin": 0.9,
+        "precedingSku": "8413568",
+        "precedingTitle": "8-Piece Enamelled Cast Iron Cookware Set - 2L, 3L & 4L Lidded Casserole, Bakeware & Square Roaster - Blue",
+        "precedingAuctionCode": "0019871674",
+        "followingSku": "8528117",
+        "followingTitle": "LIVMORE Single-Sided Digital Print Flannel Blanket (150x200cm) - Rose",
+        "followingAuctionCode": "0019871589"
       }
     ],
-    "lastOnAirSku": "8413568",
-    "lastOnAirTitle": "8-Piece Enamelled Cast Iron Cookware Set - 2L, 3L & 4L Lidded Casserole, Bakeware & Square Roaster - Blue",
-    "lastOnAirAuctionCode": "0019871674",
+    "lastOnAirSku": "8528117",
+    "lastOnAirTitle": "LIVMORE Single-Sided Digital Print Flannel Blanket (150x200cm) - Rose",
+    "lastOnAirAuctionCode": "0019871589",
     "precedingSku": "8413568",
     "precedingTitle": "8-Piece Enamelled Cast Iron Cookware Set - 2L, 3L & 4L Lidded Casserole, Bakeware & Square Roaster - Blue",
     "precedingAuctionCode": "0019871674"
