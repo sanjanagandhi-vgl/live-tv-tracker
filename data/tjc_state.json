@@ -153244,17 +153244,17 @@
       "firstAir": 1786654105935,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789470561825,
+      "lastAir": 1789582102559,
       "title": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
-      "pdpPrice": 49.99,
-      "auctionCode": "0019870841",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019873055",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-15",
-      "time": "12:09:21",
+      "date": "2026-09-16",
+      "time": "19:08:22",
       "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8620514?variant=53191555449098",
-      "lastUpdated": 1789470561825,
+      "lastUpdated": 1789582102559,
       "source": "gha",
       "missedAt": 1786654705407,
       "missedDelay": 9,
@@ -352043,8 +352043,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789582039310,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -380996,11 +380996,22 @@
         "followingSku": "8687774",
         "followingTitle": "Designer Wool Cat Motif Compact Zipped Wallet - Red",
         "followingAuctionCode": "0019873235"
+      },
+      {
+        "start": 1789582039310,
+        "end": 1789582102559,
+        "durationMin": 1.1,
+        "precedingSku": "8662131",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019872929",
+        "followingSku": "8620514",
+        "followingTitle": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
+        "followingAuctionCode": "0019873055"
       }
     ],
-    "lastOnAirSku": "8662131",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019872929",
+    "lastOnAirSku": "8620514",
+    "lastOnAirTitle": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019873055",
     "precedingSku": "8662131",
     "precedingTitle": null,
     "precedingAuctionCode": "0019872929"
