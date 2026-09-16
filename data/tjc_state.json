@@ -2046,23 +2046,23 @@
       "sku": "8548666",
       "tvPrice": "",
       "remarks": "",
-      "time": "04:30:52",
+      "time": "04:25:28",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 24.99,
       "missedImg": false,
       "title": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-      "auctionCode": "0019865996",
+      "auctionCode": "0019871225",
       "source": "gha",
-      "lastAir": 1789183852587,
-      "pdpPrice": "24.99",
+      "lastAir": 1789529128008,
+      "pdpPrice": "120.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-12",
+      "date": "2026-09-16",
       "productUrl": null,
-      "lastUpdated": 1789183852587
+      "lastUpdated": 1789529128008
     },
     "8548674": {
       "sku": "8548674",
@@ -350242,8 +350242,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789529064518,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378634,11 +378634,22 @@
         "followingSku": "8163344",
         "followingTitle": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
         "followingAuctionCode": "0019871195"
+      },
+      {
+        "start": 1789529064518,
+        "end": 1789529128008,
+        "durationMin": 1.1,
+        "precedingSku": "8750411",
+        "precedingTitle": "Vicenza Close Out- 14K Yellow Gold Necklace (Size - 20)",
+        "precedingAuctionCode": "0019871176",
+        "followingSku": "8548666",
+        "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "followingAuctionCode": "0019871225"
       }
     ],
-    "lastOnAirSku": "8750411",
-    "lastOnAirTitle": "Vicenza Close Out- 14K Yellow Gold Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019871176",
+    "lastOnAirSku": "8548666",
+    "lastOnAirTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+    "lastOnAirAuctionCode": "0019871225",
     "precedingSku": "8750411",
     "precedingTitle": "Vicenza Close Out- 14K Yellow Gold Necklace (Size - 20)",
     "precedingAuctionCode": "0019871176"
