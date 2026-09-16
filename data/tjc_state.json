@@ -352083,11 +352083,29 @@
       "productUrl": null,
       "lastUpdated": 1789582398693,
       "source": "gha"
+    },
+    "8642560": {
+      "sku": "8642560",
+      "firstAir": 1789582837669,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789582837669,
+      "title": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019873246",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-16",
+      "time": "19:20:37",
+      "productUrl": null,
+      "lastUpdated": 1789582837669,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789582641804,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381050,11 +381068,22 @@
         "followingSku": "8620514",
         "followingTitle": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
         "followingAuctionCode": "0019873055"
+      },
+      {
+        "start": 1789582641804,
+        "end": 1789582837669,
+        "durationMin": 3.3,
+        "precedingSku": "8763550",
+        "precedingTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
+        "precedingAuctionCode": "0019873060",
+        "followingSku": "8642560",
+        "followingTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+        "followingAuctionCode": "0019873246"
       }
     ],
-    "lastOnAirSku": "8763550",
-    "lastOnAirTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019873060",
+    "lastOnAirSku": "8642560",
+    "lastOnAirTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+    "lastOnAirAuctionCode": "0019873246",
     "precedingSku": "8763550",
     "precedingTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
     "precedingAuctionCode": "0019873060"
