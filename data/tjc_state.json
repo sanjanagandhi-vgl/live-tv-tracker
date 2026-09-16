@@ -61506,17 +61506,17 @@
       "firstAir": 1785733759165,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787371641212,
-      "title": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
-      "pdpPrice": "39.99",
-      "auctionCode": "0019834286",
+      "lastAir": 1789528538424,
+      "title": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019871195",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-22",
-      "time": "05:07:21",
+      "date": "2026-09-16",
+      "time": "04:15:38",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2918378381",
-      "lastUpdated": 1787372182871,
+      "lastUpdated": 1789528538424,
       "source": "gha",
       "missedAt": 1787372182871,
       "missedDelay": 9,
@@ -350235,8 +350235,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789528463376,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378616,11 +378616,22 @@
         "followingSku": "8562041",
         "followingTitle": "9K Yellow Gold Bean Tube Twist Earring with Clasp",
         "followingAuctionCode": "0019871169"
+      },
+      {
+        "start": 1789528463376,
+        "end": 1789528538424,
+        "durationMin": 1.3,
+        "precedingSku": "8412220",
+        "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Hoop Earring with Clasp 1.67 Gms",
+        "precedingAuctionCode": "0019871312",
+        "followingSku": "8163344",
+        "followingTitle": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
+        "followingAuctionCode": "0019871195"
       }
     ],
-    "lastOnAirSku": "8412220",
-    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Hoop Earring with Clasp 1.67 Gms",
-    "lastOnAirAuctionCode": "0019871312",
+    "lastOnAirSku": "8163344",
+    "lastOnAirTitle": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
+    "lastOnAirAuctionCode": "0019871195",
     "precedingSku": "8412220",
     "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Hoop Earring with Clasp 1.67 Gms",
     "precedingAuctionCode": "0019871312"
