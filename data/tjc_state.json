@@ -350905,14 +350905,21 @@
       "img": true,
       "date": "2026-09-16",
       "time": "15:17:22",
-      "productUrl": null,
-      "lastUpdated": 1789568242442,
-      "source": "gha"
+      "productUrl": "/products/djoy-sterling-silver-bracelet-size-8-silver-wt-21-gms-8600597",
+      "lastUpdated": 1789568783245,
+      "source": "gha",
+      "missedAt": 1789568783245,
+      "missedDelay": 9,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "productUrlChecked": 1789568787988,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789568783245,
     "gaps": [
       {
         "start": 1785823527869,
@@ -379759,8 +379766,8 @@
     "lastOnAirSku": "8514645",
     "lastOnAirTitle": "Royal Bali Collection -  Handmade Tarakashi Filigree Sterling Silver Bracelet (Size - 7.5-0.5 Ext)",
     "lastOnAirAuctionCode": "0019873048",
-    "precedingSku": "8600597",
-    "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Filigree Ladam Bracelet (Size - 8) with T-Bar Clasp, Silver Wt. 20.80 Gms",
-    "precedingAuctionCode": "0019871990"
+    "precedingSku": "8514645",
+    "precedingTitle": "Royal Bali Collection -  Handmade Tarakashi Filigree Sterling Silver Bracelet (Size - 7.5-0.5 Ext)",
+    "precedingAuctionCode": "0019873048"
   }
 }
