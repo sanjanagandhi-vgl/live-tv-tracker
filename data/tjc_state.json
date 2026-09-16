@@ -350877,14 +350877,21 @@
       "img": true,
       "date": "2026-09-16",
       "time": "14:18:22",
-      "productUrl": null,
-      "lastUpdated": 1789564702563,
-      "source": "gha"
+      "productUrl": "/products/djoy-sterling-silver-pendant-silver-wt-5-5-gms-8601285",
+      "lastUpdated": 1789565240891,
+      "source": "gha",
+      "missedAt": 1789565240891,
+      "missedDelay": 9,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1789565247305,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789565240891,
     "gaps": [
       {
         "start": 1785823527869,
@@ -379665,8 +379672,8 @@
     "lastOnAirSku": "8600717",
     "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Borobudur Ring",
     "lastOnAirAuctionCode": "0019872063",
-    "precedingSku": "8601285",
-    "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Filigree Heart Pendant",
-    "precedingAuctionCode": "0019872028"
+    "precedingSku": "8600717",
+    "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Borobudur Ring",
+    "precedingAuctionCode": "0019872063"
   }
 }
