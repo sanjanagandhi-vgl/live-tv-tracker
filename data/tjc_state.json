@@ -350039,11 +350039,29 @@
       "productUrlChecked": 1789518871104,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8271425": {
+      "sku": "8271425",
+      "firstAir": 1789522040910,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789522040910,
+      "title": "LIVMORE Set of 5 Hanging Garment Bags (135 x 65 cm) - Grey",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019871447",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-16",
+      "time": "02:27:20",
+      "productUrl": null,
+      "lastUpdated": 1789522040910,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789521981948,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378368,11 +378386,22 @@
         "followingSku": "8535912",
         "followingTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
         "followingAuctionCode": "0019871562"
+      },
+      {
+        "start": 1789521981948,
+        "end": 1789522040910,
+        "durationMin": 1.0,
+        "precedingSku": "8535912",
+        "precedingTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
+        "precedingAuctionCode": "0019871562",
+        "followingSku": "8271425",
+        "followingTitle": "LIVMORE Set of 5 Hanging Garment Bags (135 x 65 cm) - Grey",
+        "followingAuctionCode": "0019871447"
       }
     ],
-    "lastOnAirSku": "8535912",
-    "lastOnAirTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
-    "lastOnAirAuctionCode": "0019871562",
+    "lastOnAirSku": "8271425",
+    "lastOnAirTitle": "LIVMORE Set of 5 Hanging Garment Bags (135 x 65 cm) - Grey",
+    "lastOnAirAuctionCode": "0019871447",
     "precedingSku": "8535912",
     "precedingTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
     "precedingAuctionCode": "0019871562"
