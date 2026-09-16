@@ -242889,17 +242889,17 @@
       "firstAir": 1787742938180,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789204158138,
+      "lastAir": 1789533684062,
       "title": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
-      "pdpPrice": "39.99",
-      "auctionCode": "0019865946",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019871179",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-12",
-      "time": "10:09:18",
+      "date": "2026-09-16",
+      "time": "05:41:24",
       "productUrl": "/products/live-from-vegas-9k-yellow-gold-earring-with-push-back-8572443",
-      "lastUpdated": 1789204158138,
+      "lastUpdated": 1789533684062,
       "source": "gha",
       "missedAt": 1787743763472,
       "missedDelay": 10,
@@ -350255,8 +350255,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789533637762,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378713,11 +378713,22 @@
         "followingSku": "8196970",
         "followingTitle": "24K Yellow Gold (99.9% Purity) Dolphin Embossed Collectible (39.85 x 25.95 mm)",
         "followingAuctionCode": "0019871315"
+      },
+      {
+        "start": 1789533637762,
+        "end": 1789533684062,
+        "durationMin": 0.8,
+        "precedingSku": "8629402",
+        "precedingTitle": "24K Yellow Gold Majestic Peacock Design Ornaments",
+        "precedingAuctionCode": "0019871289",
+        "followingSku": "8572443",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
+        "followingAuctionCode": "0019871179"
       }
     ],
-    "lastOnAirSku": "8629402",
-    "lastOnAirTitle": "24K Yellow Gold Majestic Peacock Design Ornaments",
-    "lastOnAirAuctionCode": "0019871289",
+    "lastOnAirSku": "8572443",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
+    "lastOnAirAuctionCode": "0019871179",
     "precedingSku": "8629402",
     "precedingTitle": "24K Yellow Gold Majestic Peacock Design Ornaments",
     "precedingAuctionCode": "0019871289"
