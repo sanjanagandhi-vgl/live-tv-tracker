@@ -352452,11 +352452,29 @@
       "missedDelay": 9,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8690902": {
+      "sku": "8690902",
+      "firstAir": 1789598182116,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789598182116,
+      "title": "9K Yellow Byzantine Gold Necklace (Size - 20)",
+      "pdpPrice": "12000.99",
+      "auctionCode": "0019873612",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-16",
+      "time": "23:36:22",
+      "productUrl": null,
+      "lastUpdated": 1789598182116,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789598130166,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381518,11 +381536,22 @@
         "followingSku": "8426918",
         "followingTitle": "Natural White Diamond Hoop Earring",
         "followingAuctionCode": "0019873490"
+      },
+      {
+        "start": 1789598130166,
+        "end": 1789598182116,
+        "durationMin": 0.9,
+        "precedingSku": "8588253",
+        "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Greek Key Band Ring",
+        "precedingAuctionCode": "0019873704",
+        "followingSku": "8690902",
+        "followingTitle": "9K Yellow Byzantine Gold Necklace (Size - 20)",
+        "followingAuctionCode": "0019873612"
       }
     ],
-    "lastOnAirSku": "8588253",
-    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Greek Key Band Ring",
-    "lastOnAirAuctionCode": "0019873704",
+    "lastOnAirSku": "8690902",
+    "lastOnAirTitle": "9K Yellow Byzantine Gold Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019873612",
     "precedingSku": "8588253",
     "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Greek Key Band Ring",
     "precedingAuctionCode": "0019873704"
