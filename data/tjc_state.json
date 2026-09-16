@@ -2700,23 +2700,23 @@
       "sku": "8535912",
       "tvPrice": "",
       "remarks": "",
-      "time": "18:24:23",
+      "time": "02:20:37",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
-      "auctionCode": "0019830449",
+      "auctionCode": "0019871562",
       "source": "gha",
-      "lastAir": 1787160263906,
+      "lastAir": 1789521637018,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
+      "date": "2026-09-16",
       "productUrl": null,
-      "lastUpdated": 1787160263906
+      "lastUpdated": 1789521637018
     },
     "8535919": {
       "sku": "8535919",
@@ -350042,8 +350042,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789521561150,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378357,11 +378357,22 @@
         "followingSku": "8435360",
         "followingTitle": "LIVMORE Set of 3 Floral Pattern Storage Bags - Rose",
         "followingAuctionCode": "0019871422"
+      },
+      {
+        "start": 1789521561150,
+        "end": 1789521637018,
+        "durationMin": 1.3,
+        "precedingSku": "8435360",
+        "precedingTitle": "LIVMORE Set of 3 Floral Pattern Storage Bags - Rose",
+        "precedingAuctionCode": "0019871422",
+        "followingSku": "8535912",
+        "followingTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
+        "followingAuctionCode": "0019871562"
       }
     ],
-    "lastOnAirSku": "8435360",
-    "lastOnAirTitle": "LIVMORE Set of 3 Floral Pattern Storage Bags - Rose",
-    "lastOnAirAuctionCode": "0019871422",
+    "lastOnAirSku": "8535912",
+    "lastOnAirTitle": "Inflatable Flocked Armchair - 150kg Capacity Blow Up Lounger Chair with Hand Pump - Khaki",
+    "lastOnAirAuctionCode": "0019871562",
     "precedingSku": "8435360",
     "precedingTitle": "LIVMORE Set of 3 Floral Pattern Storage Bags - Rose",
     "precedingAuctionCode": "0019871422"
