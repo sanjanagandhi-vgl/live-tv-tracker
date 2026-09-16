@@ -241638,21 +241638,26 @@
       "sku": "8600717",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-25",
-      "time": "23:14:22",
+      "date": "2026-09-16",
+      "time": "14:20:41",
       "preExisting": true,
       "missedAt": 1787696062191,
       "missedDelay": null,
-      "lastUpdated": 1787696062191,
+      "lastUpdated": 1789564841833,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Royal Bali Collection - D'Joy Sterling Silver Borobudur Ring",
-      "auctionCode": "0019841049",
+      "auctionCode": "0019872063",
       "source": "gha",
       "productUrl": "/products/royal-bali-collection-sterling-silver-floral-ring",
       "productUrlChecked": 1787696066436,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789564841833,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8600719": {
       "sku": "8600719",
@@ -350878,8 +350883,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789564759179,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -379644,11 +379649,22 @@
         "followingSku": "8514551",
         "followingTitle": "Royal Bali Collection - Sterling Silver Leaf Design Earring with Hook",
         "followingAuctionCode": "0019872056"
+      },
+      {
+        "start": 1789564759179,
+        "end": 1789564841833,
+        "durationMin": 1.4,
+        "precedingSku": "8601285",
+        "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Filigree Heart Pendant",
+        "precedingAuctionCode": "0019872028",
+        "followingSku": "8600717",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Borobudur Ring",
+        "followingAuctionCode": "0019872063"
       }
     ],
-    "lastOnAirSku": "8601285",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Filigree Heart Pendant",
-    "lastOnAirAuctionCode": "0019872028",
+    "lastOnAirSku": "8600717",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Borobudur Ring",
+    "lastOnAirAuctionCode": "0019872063",
     "precedingSku": "8601285",
     "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Filigree Heart Pendant",
     "precedingAuctionCode": "0019872028"
