@@ -317074,17 +317074,17 @@
       "firstAir": 1788834441609,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789359743723,
+      "lastAir": 1789524983495,
       "title": "Natures Wick - Sun Ripened Pear Woodwick Medium Jar - Yellow. 284grams",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019869120",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019871450",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-14",
-      "time": "05:22:23",
+      "date": "2026-09-16",
+      "time": "03:16:23",
       "productUrl": "/products/natures-wick-sun-ripened-pear-woodwick-medium-jar-yellow-284grams",
-      "lastUpdated": 1789359743723,
+      "lastUpdated": 1789524983495,
       "source": "gha",
       "missedAt": 1788835159518,
       "missedDelay": 10,
@@ -350085,8 +350085,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789524938670,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378422,11 +378422,22 @@
         "followingSku": "8271425",
         "followingTitle": "LIVMORE Set of 5 Hanging Garment Bags (135 x 65 cm) - Grey",
         "followingAuctionCode": "0019871447"
+      },
+      {
+        "start": 1789524938670,
+        "end": 1789524983495,
+        "durationMin": 0.7,
+        "precedingSku": "7828754",
+        "precedingTitle": "3D Paper Tree Lamp with Birth of Jesus",
+        "precedingAuctionCode": "0019871611",
+        "followingSku": "8658395",
+        "followingTitle": "Natures Wick - Sun Ripened Pear Woodwick Medium Jar - Yellow. 284grams",
+        "followingAuctionCode": "0019871450"
       }
     ],
-    "lastOnAirSku": "7828754",
-    "lastOnAirTitle": "3D Paper Tree Lamp with Birth of Jesus",
-    "lastOnAirAuctionCode": "0019871611",
+    "lastOnAirSku": "8658395",
+    "lastOnAirTitle": "Natures Wick - Sun Ripened Pear Woodwick Medium Jar - Yellow. 284grams",
+    "lastOnAirAuctionCode": "0019871450",
     "precedingSku": "7828754",
     "precedingTitle": "3D Paper Tree Lamp with Birth of Jesus",
     "precedingAuctionCode": "0019871611"
