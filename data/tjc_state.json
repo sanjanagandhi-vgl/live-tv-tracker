@@ -41184,21 +41184,26 @@
       "sku": "8699185",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "23:44:21",
+      "date": "2026-09-16",
+      "time": "05:46:23",
       "preExisting": true,
       "missedAt": 1785537861788,
       "missedDelay": null,
-      "lastUpdated": 1785537861788,
+      "lastUpdated": 1789533983306,
       "missedPrice": 189.99,
       "missedImg": true,
-      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 24.0)",
-      "auctionCode": "0019802269",
+      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+      "auctionCode": "0019871188",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-16-gold-wt-1-01-gms-8698754",
       "productUrlChecked": 1785537872474,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789533983306,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8724092": {
       "sku": "8724092",
@@ -350255,8 +350260,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789533936399,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378724,11 +378729,22 @@
         "followingSku": "8572443",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
         "followingAuctionCode": "0019871179"
+      },
+      {
+        "start": 1789533936399,
+        "end": 1789533983306,
+        "durationMin": 0.8,
+        "precedingSku": "8572443",
+        "precedingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
+        "precedingAuctionCode": "0019871179",
+        "followingSku": "8699185",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+        "followingAuctionCode": "0019871188"
       }
     ],
-    "lastOnAirSku": "8572443",
-    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
-    "lastOnAirAuctionCode": "0019871179",
+    "lastOnAirSku": "8699185",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+    "lastOnAirAuctionCode": "0019871188",
     "precedingSku": "8572443",
     "precedingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
     "precedingAuctionCode": "0019871179"
