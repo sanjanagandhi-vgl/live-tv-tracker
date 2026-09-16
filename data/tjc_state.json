@@ -350340,11 +350340,29 @@
       "productUrlChecked": 1789553546599,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8683821": {
+      "sku": "8683821",
+      "firstAir": 1789554502963,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789554502963,
+      "title": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Khaki",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019871545",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-16",
+      "time": "11:28:22",
+      "productUrl": null,
+      "lastUpdated": 1789554502963,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789554334799,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378999,11 +379017,22 @@
         "followingSku": "8665215",
         "followingTitle": "Dual-Sided 2-in-1 Jewelry Case & 6-Piece Manicure Tool Set Organizer - Brown",
         "followingAuctionCode": "0019872512"
+      },
+      {
+        "start": 1789554334799,
+        "end": 1789554502963,
+        "durationMin": 2.8,
+        "precedingSku": "8415248",
+        "precedingTitle": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Pink",
+        "precedingAuctionCode": "0019871666",
+        "followingSku": "8683821",
+        "followingTitle": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Khaki",
+        "followingAuctionCode": "0019871545"
       }
     ],
-    "lastOnAirSku": "8415248",
-    "lastOnAirTitle": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Pink",
-    "lastOnAirAuctionCode": "0019871666",
+    "lastOnAirSku": "8683821",
+    "lastOnAirTitle": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Khaki",
+    "lastOnAirAuctionCode": "0019871545",
     "precedingSku": "8415248",
     "precedingTitle": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Pink",
     "precedingAuctionCode": "0019871666"
