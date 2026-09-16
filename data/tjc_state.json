@@ -132530,17 +132530,17 @@
       "firstAir": 1786437331274,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787125880582,
+      "lastAir": 1789561399076,
       "title": "LA Marey Knit Hoodie",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019828085",
+      "pdpPrice": "174.99",
+      "auctionCode": "0019871886",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "08:51:20",
+      "date": "2026-09-16",
+      "time": "13:23:19",
       "productUrl": "/products/la-marey-knit-hoodie",
-      "lastUpdated": 1787125880582,
+      "lastUpdated": 1789561399076,
       "source": "gha",
       "missedAt": 1786437863566,
       "missedDelay": 9,
@@ -350656,8 +350656,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789561279034,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -379378,11 +379378,22 @@
         "followingSku": "8636693",
         "followingTitle": "La Marey Womens Striped Tassel Poncho with Pockets (One Size) - Beige",
         "followingAuctionCode": "0019871746"
+      },
+      {
+        "start": 1789561279034,
+        "end": 1789561399076,
+        "durationMin": 2.0,
+        "precedingSku": "8673205",
+        "precedingTitle": "QED London Oversized Lightweight Pocket Shirt (Size S, 8-10) - Stone",
+        "precedingAuctionCode": "0019871793",
+        "followingSku": "8228028",
+        "followingTitle": "LA Marey Knit Hoodie",
+        "followingAuctionCode": "0019871886"
       }
     ],
-    "lastOnAirSku": "8673205",
-    "lastOnAirTitle": "QED London Oversized Lightweight Pocket Shirt (Size S, 8-10) - Stone",
-    "lastOnAirAuctionCode": "0019871793",
+    "lastOnAirSku": "8228028",
+    "lastOnAirTitle": "LA Marey Knit Hoodie",
+    "lastOnAirAuctionCode": "0019871886",
     "precedingSku": "8673205",
     "precedingTitle": "QED London Oversized Lightweight Pocket Shirt (Size S, 8-10) - Stone",
     "precedingAuctionCode": "0019871793"
