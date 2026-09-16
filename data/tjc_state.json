@@ -350330,14 +350330,21 @@
       "img": true,
       "date": "2026-09-16",
       "time": "11:02:23",
-      "productUrl": null,
-      "lastUpdated": 1789552943105,
-      "source": "gha"
+      "productUrl": "/products/opatra-lumiflex-led-nir-face-mask-with-neck-strap-and-lumieye-rf-ems-ion-vibration-led-light-therapy-device-for-eyes-life-time-warranty-221315181",
+      "lastUpdated": 1789553542297,
+      "source": "gha",
+      "missedAt": 1789553542297,
+      "missedDelay": 10,
+      "missedPrice": 249.99,
+      "missedImg": true,
+      "productUrlChecked": 1789553546599,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789553542297,
     "gaps": [
       {
         "start": 1785823527869,
@@ -378986,8 +378993,8 @@
     "lastOnAirSku": "8597967",
     "lastOnAirTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
     "lastOnAirAuctionCode": "0019871729",
-    "precedingSku": "221315181",
-    "precedingTitle": "Opatra LumiFlex LED & NIR Face Mask With Neck Strap and LumiEye - RF, EMS, Ion Vibration & LED Light Therapy Device For Eyes - Life Time Warranty",
-    "precedingAuctionCode": "0019871484"
+    "precedingSku": "8597967",
+    "precedingTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
+    "precedingAuctionCode": "0019871729"
   }
 }
