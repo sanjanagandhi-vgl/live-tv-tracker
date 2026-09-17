@@ -355361,11 +355361,29 @@
       "productUrl": null,
       "lastUpdated": 1789652785519,
       "source": "gha"
+    },
+    "8714498": {
+      "sku": "8714498",
+      "firstAir": 1789652904529,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789652904529,
+      "title": "White Fresh Water Pearl & White Mother Of Pearl Adjustable Ring",
+      "pdpPrice": "279.99",
+      "auctionCode": "0019874496",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-17",
+      "time": "14:48:24",
+      "productUrl": null,
+      "lastUpdated": 1789652904529,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789652840218,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -385021,11 +385039,22 @@
         "followingSku": "8714425",
         "followingTitle": "White Fresh Water Pearl Heart Earring with Push Back",
         "followingAuctionCode": "0019861914"
+      },
+      {
+        "start": 1789652840218,
+        "end": 1789652904529,
+        "durationMin": 1.1,
+        "precedingSku": "8663613",
+        "precedingTitle": "Peach Fresh Water Pearl & White Fresh Water Pearl Necklace (Size - 16) with Lobster Clasp in Silver Yellow Tone 165.00 Ct.",
+        "precedingAuctionCode": "0019871707",
+        "followingSku": "8714498",
+        "followingTitle": "White Fresh Water Pearl & White Mother Of Pearl Adjustable Ring",
+        "followingAuctionCode": "0019874496"
       }
     ],
-    "lastOnAirSku": "8663613",
-    "lastOnAirTitle": "Peach Fresh Water Pearl & White Fresh Water Pearl Necklace (Size - 16) with Lobster Clasp in Silver Yellow Tone 165.00 Ct.",
-    "lastOnAirAuctionCode": "0019871707",
+    "lastOnAirSku": "8714498",
+    "lastOnAirTitle": "White Fresh Water Pearl & White Mother Of Pearl Adjustable Ring",
+    "lastOnAirAuctionCode": "0019874496",
     "precedingSku": "8663613",
     "precedingTitle": "Peach Fresh Water Pearl & White Fresh Water Pearl Necklace (Size - 16) with Lobster Clasp in Silver Yellow Tone 165.00 Ct.",
     "precedingAuctionCode": "0019871707"
