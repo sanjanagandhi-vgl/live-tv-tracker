@@ -354027,11 +354027,15 @@
       "date": "2026-09-17",
       "time": "10:14:24",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8746954?variant=53676981649674",
-      "lastUpdated": 1789636464979,
+      "lastUpdated": 1789639583697,
       "source": "gha",
       "productUrlChecked": 1789636469240,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789639583697,
+      "missedDelay": 52,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "4427687": {
       "sku": "4427687",
@@ -354080,8 +354084,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789639583697,
     "gaps": [
       {
         "start": 1785823527869,
@@ -383610,8 +383614,8 @@
     "lastOnAirSku": "7546459",
     "lastOnAirTitle": "One Time Closeout -  Set Of 4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
     "lastOnAirAuctionCode": "0019874121",
-    "precedingSku": "8673795",
-    "precedingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
-    "precedingAuctionCode": "0019874108"
+    "precedingSku": "7546459",
+    "precedingTitle": "One Time Closeout -  Set Of 4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
+    "precedingAuctionCode": "0019874121"
   }
 }
