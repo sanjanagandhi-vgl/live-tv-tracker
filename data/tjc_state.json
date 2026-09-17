@@ -352676,11 +352676,29 @@
       "productUrlChecked": 1789610551619,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8195639": {
+      "sku": "8195639",
+      "firstAir": 1789611382382,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789611382382,
+      "title": "Flower Wreath Decoration (36cm)",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019872331",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-17",
+      "time": "03:16:22",
+      "productUrl": null,
+      "lastUpdated": 1789611382382,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789611337083,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381896,11 +381914,22 @@
         "followingSku": "7730142",
         "followingTitle": "Genuine Leather Crossbody Bag",
         "followingAuctionCode": "0019872502"
+      },
+      {
+        "start": 1789611337083,
+        "end": 1789611382382,
+        "durationMin": 0.8,
+        "precedingSku": "8564910",
+        "precedingTitle": "LIVMORE Rhinestones Enamelled Tote Bag Shaped Trinket Jewellery Box - Red & Gold",
+        "precedingAuctionCode": "0019872333",
+        "followingSku": "8195639",
+        "followingTitle": "Flower Wreath Decoration (36cm)",
+        "followingAuctionCode": "0019872331"
       }
     ],
-    "lastOnAirSku": "8564910",
-    "lastOnAirTitle": "LIVMORE Rhinestones Enamelled Tote Bag Shaped Trinket Jewellery Box - Red & Gold",
-    "lastOnAirAuctionCode": "0019872333",
+    "lastOnAirSku": "8195639",
+    "lastOnAirTitle": "Flower Wreath Decoration (36cm)",
+    "lastOnAirAuctionCode": "0019872331",
     "precedingSku": "8564910",
     "precedingTitle": "LIVMORE Rhinestones Enamelled Tote Bag Shaped Trinket Jewellery Box - Red & Gold",
     "precedingAuctionCode": "0019872333"
