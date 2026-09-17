@@ -356854,14 +356854,41 @@
       "img": true,
       "date": "2026-09-17",
       "time": "21:25:29",
-      "productUrl": null,
-      "lastUpdated": 1789676729365,
-      "source": "gha"
+      "productUrl": "/products/livmore-patterned-blanket-size-200x1-cm-burgundy-8627880",
+      "lastUpdated": 1789677264925,
+      "source": "gha",
+      "missedAt": 1789677264925,
+      "missedDelay": 9,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1789677273133,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8627891": {
+      "sku": "8627891",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-17",
+      "time": "21:34:24",
+      "preExisting": true,
+      "missedAt": 1789677264925,
+      "missedDelay": null,
+      "lastUpdated": 1789677264925,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Beige",
+      "auctionCode": "0019874149",
+      "source": "gha",
+      "productUrl": "/products/livmore-patterned-blanket-size-200x1-cm-burgundy-8627880",
+      "productUrlChecked": 1789677273888,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789677264925,
     "gaps": [
       {
         "start": 1785823527869,
@@ -386753,8 +386780,8 @@
     "lastOnAirSku": "8669514",
     "lastOnAirTitle": "LIVMORE Battery-Operated Lavender Illustration Rotating Glass Decorative Table Lamp Powered by 3 x AAA Batteries (not inc.) - Purple",
     "lastOnAirAuctionCode": "0019874177",
-    "precedingSku": "8627881",
-    "precedingTitle": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Beige",
-    "precedingAuctionCode": "0019874148"
+    "precedingSku": "8669514",
+    "precedingTitle": "LIVMORE Battery-Operated Lavender Illustration Rotating Glass Decorative Table Lamp Powered by 3 x AAA Batteries (not inc.) - Purple",
+    "precedingAuctionCode": "0019874177"
   }
 }
