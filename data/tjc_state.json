@@ -342055,21 +342055,26 @@
       "sku": "4482829",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-09-17",
+      "time": "23:47:20",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1789685240213,
       "missedPrice": 117.99,
       "missedImg": true,
       "title": "THE MAIN EVENT - Premium Old Mine Cut Moissanite Solitaire Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 5.70 Ct.",
-      "auctionCode": "0019867364",
+      "auctionCode": "0019873784",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-solitaire-pendant-with-chain-size-18-in-rhodium-overlay-sterling-silver-3-50-ct-4482829",
       "productUrlChecked": 1789359448239,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789685240213,
+      "pdpPrice": "117.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8592997": {
       "sku": "8592997",
@@ -357374,8 +357379,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789685183287,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -387361,11 +387366,22 @@
         "followingSku": "8592997",
         "followingTitle": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
         "followingAuctionCode": "0019873785"
+      },
+      {
+        "start": 1789685183287,
+        "end": 1789685240213,
+        "durationMin": 0.9,
+        "precedingSku": "8592997",
+        "precedingTitle": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
+        "precedingAuctionCode": "0019873785",
+        "followingSku": "4482829",
+        "followingTitle": "THE MAIN EVENT - Premium Old Mine Cut Moissanite Solitaire Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 5.70 Ct.",
+        "followingAuctionCode": "0019873784"
       }
     ],
-    "lastOnAirSku": "8592997",
-    "lastOnAirTitle": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
-    "lastOnAirAuctionCode": "0019873785",
+    "lastOnAirSku": "4482829",
+    "lastOnAirTitle": "THE MAIN EVENT - Premium Old Mine Cut Moissanite Solitaire Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 5.70 Ct.",
+    "lastOnAirAuctionCode": "0019873784",
     "precedingSku": "8592997",
     "precedingTitle": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
     "precedingAuctionCode": "0019873785"
