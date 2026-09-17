@@ -355808,11 +355808,29 @@
       "productUrl": null,
       "lastUpdated": 1789666160196,
       "source": "gha"
+    },
+    "8763513": {
+      "sku": "8763513",
+      "firstAir": 1789666402677,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789666402677,
+      "title": "D'Joy - AAA Turkizite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "129.99",
+      "auctionCode": "0019874034",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-17",
+      "time": "18:33:22",
+      "productUrl": null,
+      "lastUpdated": 1789666402677,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789666251991,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -385578,11 +385596,22 @@
         "followingSku": "8753728",
         "followingTitle": "D'Joy - Turkizite & Natural White Diamond Ballerina Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
         "followingAuctionCode": "0019872341"
+      },
+      {
+        "start": 1789666251991,
+        "end": 1789666402677,
+        "durationMin": 2.5,
+        "precedingSku": "8753728",
+        "precedingTitle": "D'Joy - Turkizite & Natural White Diamond Ballerina Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
+        "precedingAuctionCode": "0019872341",
+        "followingSku": "8763513",
+        "followingTitle": "D'Joy - AAA Turkizite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019874034"
       }
     ],
-    "lastOnAirSku": "8753728",
-    "lastOnAirTitle": "D'Joy - Turkizite & Natural White Diamond Ballerina Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
-    "lastOnAirAuctionCode": "0019872341",
+    "lastOnAirSku": "8763513",
+    "lastOnAirTitle": "D'Joy - AAA Turkizite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019874034",
     "precedingSku": "8753728",
     "precedingTitle": "D'Joy - Turkizite & Natural White Diamond Ballerina Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
     "precedingAuctionCode": "0019872341"
