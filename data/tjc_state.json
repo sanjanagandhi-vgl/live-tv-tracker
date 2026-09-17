@@ -317684,21 +317684,26 @@
       "sku": "8630982",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-08",
-      "time": "12:11:19",
+      "date": "2026-09-17",
+      "time": "07:33:19",
       "preExisting": true,
       "missedAt": 1788865879481,
       "missedDelay": null,
-      "lastUpdated": 1788865879481,
+      "lastUpdated": 1789626799939,
       "missedPrice": 14.99,
       "missedImg": false,
       "title": "Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
-      "auctionCode": "0019861704",
+      "auctionCode": "0019872626",
       "source": "gha",
       "productUrl": "/products/nylon-patterned-rug-and-door-mat-size-90x1-cm-black-black-8630981",
       "productUrlChecked": 1788865883143,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789626799939,
+      "pdpPrice": "120.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8734691": {
       "sku": "8734691",
@@ -352921,8 +352926,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789626742149,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -382292,11 +382297,22 @@
         "followingSku": "8646849",
         "followingTitle": "LIVMORE Luxury Waffle Texture Single Layer Check Jacquard Blanket Throw (200 x 150 cm) - Brown",
         "followingAuctionCode": "0019872622"
+      },
+      {
+        "start": 1789626742149,
+        "end": 1789626799939,
+        "durationMin": 1.0,
+        "precedingSku": "8646849",
+        "precedingTitle": "LIVMORE Luxury Waffle Texture Single Layer Check Jacquard Blanket Throw (200 x 150 cm) - Brown",
+        "precedingAuctionCode": "0019872622",
+        "followingSku": "8630982",
+        "followingTitle": "Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
+        "followingAuctionCode": "0019872626"
       }
     ],
-    "lastOnAirSku": "8646849",
-    "lastOnAirTitle": "LIVMORE Luxury Waffle Texture Single Layer Check Jacquard Blanket Throw (200 x 150 cm) - Brown",
-    "lastOnAirAuctionCode": "0019872622",
+    "lastOnAirSku": "8630982",
+    "lastOnAirTitle": "Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
+    "lastOnAirAuctionCode": "0019872626",
     "precedingSku": "8646849",
     "precedingTitle": "LIVMORE Luxury Waffle Texture Single Layer Check Jacquard Blanket Throw (200 x 150 cm) - Brown",
     "precedingAuctionCode": "0019872622"
