@@ -15393,16 +15393,16 @@
       "firstAir": 1785091700851,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789601182587,
+      "lastAir": 1789604599726,
       "title": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
-      "pdpPrice": 699.99,
-      "auctionCode": "0019873813",
+      "pdpPrice": "6999.99",
+      "auctionCode": "0019873816",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-17",
-      "time": "00:26:22",
-      "lastUpdated": 1789601182587,
+      "time": "01:23:19",
+      "lastUpdated": 1789604599726,
       "source": "gha",
       "missedAt": 1785092059876,
       "missedDelay": 2,
@@ -352639,8 +352639,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789604543367,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381757,11 +381757,22 @@
         "followingSku": "8414786",
         "followingTitle": "Tucson Preview- Natural Type A Jadeite Necklace (Size - 20) with Dragon Lock 400.00 Ct.",
         "followingAuctionCode": "0019873573"
+      },
+      {
+        "start": 1789604543367,
+        "end": 1789604599726,
+        "durationMin": 0.9,
+        "precedingSku": "8708606",
+        "precedingTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
+        "precedingAuctionCode": "0019873656",
+        "followingSku": "8640990",
+        "followingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+        "followingAuctionCode": "0019873816"
       }
     ],
-    "lastOnAirSku": "8708606",
-    "lastOnAirTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
-    "lastOnAirAuctionCode": "0019873656",
+    "lastOnAirSku": "8640990",
+    "lastOnAirTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019873816",
     "precedingSku": "8708606",
     "precedingTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
     "precedingAuctionCode": "0019873656"
