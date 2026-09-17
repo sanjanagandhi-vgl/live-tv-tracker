@@ -356406,11 +356406,29 @@
       "auctionCode": "0019874189",
       "source": "gha",
       "productUrl": null
+    },
+    "8773052": {
+      "sku": "8773052",
+      "firstAir": 1789670597893,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789670597893,
+      "title": "AAA Natural Turkizite & Grown Diamond (SI-G-H) Ring in 18K Gold Vermeil Sterling Silver 1.50 Ct.",
+      "pdpPrice": "4599.99",
+      "auctionCode": "0019872367",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-17",
+      "time": "19:43:17",
+      "productUrl": null,
+      "lastUpdated": 1789670597893,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789670479761,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -386242,11 +386260,22 @@
         "followingSku": "8767915",
         "followingTitle": "D'Joy - AAA Turkizite Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.64 Ct.",
         "followingAuctionCode": "0019874043"
+      },
+      {
+        "start": 1789670479761,
+        "end": 1789670597893,
+        "durationMin": 2.0,
+        "precedingSku": "8767915",
+        "precedingTitle": "D'Joy - AAA Turkizite Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.64 Ct.",
+        "precedingAuctionCode": "0019874043",
+        "followingSku": "8773052",
+        "followingTitle": "AAA Natural Turkizite & Grown Diamond (SI-G-H) Ring in 18K Gold Vermeil Sterling Silver 1.50 Ct.",
+        "followingAuctionCode": "0019872367"
       }
     ],
-    "lastOnAirSku": "8767915",
-    "lastOnAirTitle": "D'Joy - AAA Turkizite Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.64 Ct.",
-    "lastOnAirAuctionCode": "0019874043",
+    "lastOnAirSku": "8773052",
+    "lastOnAirTitle": "AAA Natural Turkizite & Grown Diamond (SI-G-H) Ring in 18K Gold Vermeil Sterling Silver 1.50 Ct.",
+    "lastOnAirAuctionCode": "0019872367",
     "precedingSku": "8767915",
     "precedingTitle": "D'Joy - AAA Turkizite Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.64 Ct.",
     "precedingAuctionCode": "0019874043"
