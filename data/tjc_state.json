@@ -355304,11 +355304,29 @@
       "productUrl": null,
       "lastUpdated": 1789651941927,
       "source": "gha"
+    },
+    "8714425": {
+      "sku": "8714425",
+      "firstAir": 1789652062672,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789652062672,
+      "title": "White Fresh Water Pearl Heart Earring with Push Back",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019861914",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-17",
+      "time": "14:34:22",
+      "productUrl": null,
+      "lastUpdated": 1789652062672,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789651998479,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -384953,11 +384971,22 @@
         "followingSku": "8705722",
         "followingTitle": "White Keshi Pearl & White Mother Of Pearl Drop Earring with Push Back",
         "followingAuctionCode": "0019864191"
+      },
+      {
+        "start": 1789651998479,
+        "end": 1789652062672,
+        "durationMin": 1.1,
+        "precedingSku": "8640067",
+        "precedingTitle": "White Fresh Water Pearl Beads Necklace (Size - 20) with Clasp",
+        "precedingAuctionCode": "0019872744",
+        "followingSku": "8714425",
+        "followingTitle": "White Fresh Water Pearl Heart Earring with Push Back",
+        "followingAuctionCode": "0019861914"
       }
     ],
-    "lastOnAirSku": "8640067",
-    "lastOnAirTitle": "White Fresh Water Pearl Beads Necklace (Size - 20) with Clasp",
-    "lastOnAirAuctionCode": "0019872744",
+    "lastOnAirSku": "8714425",
+    "lastOnAirTitle": "White Fresh Water Pearl Heart Earring with Push Back",
+    "lastOnAirAuctionCode": "0019861914",
     "precedingSku": "8640067",
     "precedingTitle": "White Fresh Water Pearl Beads Necklace (Size - 20) with Clasp",
     "precedingAuctionCode": "0019872744"
