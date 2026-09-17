@@ -356243,11 +356243,15 @@
       "date": "2026-09-17",
       "time": "19:32:25",
       "productUrl": "/products/luxuriant-9k-yellow-gold-aaa-turkizite-lab-grown-yellow-diamond-si-g-h-pendant-2-08-ct-8758553?variant=53628294037770",
-      "lastUpdated": 1789669945891,
+      "lastUpdated": 1789670479761,
       "source": "gha",
       "productUrlChecked": 1789669949903,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789670479761,
+      "missedDelay": 9,
+      "missedPrice": 599.99,
+      "missedImg": true
     },
     "8767915": {
       "sku": "8767915",
@@ -356405,8 +356409,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789670479761,
     "gaps": [
       {
         "start": 1785823527869,
@@ -386243,8 +386247,8 @@
     "lastOnAirSku": "8767915",
     "lastOnAirTitle": "D'Joy - AAA Turkizite Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.64 Ct.",
     "lastOnAirAuctionCode": "0019874043",
-    "precedingSku": "8758553",
-    "precedingTitle": "Luxuriant - 9K Yellow Gold AAA Turkizite & Lab Grown Yellow Diamond (SI) Pendant 2.08 Ct.",
-    "precedingAuctionCode": "0019874197"
+    "precedingSku": "8767915",
+    "precedingTitle": "D'Joy - AAA Turkizite Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.64 Ct.",
+    "precedingAuctionCode": "0019874043"
   }
 }
