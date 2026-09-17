@@ -348078,21 +348078,26 @@
       "sku": "8622224",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "15:10:40",
+      "date": "2026-09-17",
+      "time": "13:34:24",
       "preExisting": true,
       "missedAt": 1789481440481,
       "missedDelay": null,
-      "lastUpdated": 1789481440481,
+      "lastUpdated": 1789648464209,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "La Marey Womens Button-Through Shacket with Contrast Collar (Size S-M, 8-14) - Chocolate",
-      "auctionCode": "0019871876",
+      "title": "La Marey Womens Button-Through Shacket with Contrast Collar (Size S-M, 8-14) - TAN",
+      "auctionCode": "0019873700",
       "source": "gha",
       "productUrl": "/products/la-marey-patterned-coat-size-s-m-chocolate-8622224",
       "productUrlChecked": 1789481452674,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789648464209,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8623631": {
       "sku": "8623631",
@@ -355195,8 +355200,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789648402655,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -384808,11 +384813,22 @@
         "followingSku": "8638753",
         "followingTitle": "Insired By Italian Designer- LA Marey Signature 100% Top Grain Genuine Leather Bag- Black",
         "followingAuctionCode": "0019872732"
+      },
+      {
+        "start": 1789648402655,
+        "end": 1789648464209,
+        "durationMin": 1.0,
+        "precedingSku": "8638753",
+        "precedingTitle": "Inspired By Italian Designer- LA Marey Signature 100% Top Grain Genuine Leather Bag- Black",
+        "precedingAuctionCode": "0019872732",
+        "followingSku": "8622224",
+        "followingTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size S-M, 8-14) - TAN",
+        "followingAuctionCode": "0019873700"
       }
     ],
-    "lastOnAirSku": "8638753",
-    "lastOnAirTitle": "Inspired By Italian Designer- LA Marey Signature 100% Top Grain Genuine Leather Bag- Black",
-    "lastOnAirAuctionCode": "0019872732",
+    "lastOnAirSku": "8622224",
+    "lastOnAirTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size S-M, 8-14) - TAN",
+    "lastOnAirAuctionCode": "0019873700",
     "precedingSku": "8638753",
     "precedingTitle": "Inspired By Italian Designer- LA Marey Signature 100% Top Grain Genuine Leather Bag- Black",
     "precedingAuctionCode": "0019872732"
