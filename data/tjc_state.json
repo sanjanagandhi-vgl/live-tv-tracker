@@ -180486,18 +180486,23 @@
       "sku": "8419179",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "13:51:20",
+      "date": "2026-09-17",
+      "time": "03:34:23",
       "preExisting": true,
       "missedAt": 1786971080475,
       "missedDelay": null,
-      "lastUpdated": 1786971080475,
+      "lastUpdated": 1789612463764,
       "missedPrice": 279.99,
       "missedImg": true,
-      "title": "La Marey Signature 100% Mulberry Silk Quilt (200 x 200 cm, Double 550Gms ) - Blue",
-      "auctionCode": "0019826116",
+      "title": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700GSM) - Champagne",
+      "auctionCode": "0019872418",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1789612463764,
+      "pdpPrice": "5099.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8419190": {
       "sku": "8419190",
@@ -352719,8 +352724,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789612398534,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381969,11 +381974,22 @@
         "followingSku": "8367714",
         "followingTitle": "Feng Shui Rose Quartz Crystal Money Tree Ornament with Ceramic Pot (11cm) - Pink",
         "followingAuctionCode": "0019872298"
+      },
+      {
+        "start": 1789612398534,
+        "end": 1789612463764,
+        "durationMin": 1.1,
+        "precedingSku": "8564234",
+        "precedingTitle": "Livmore Handcrafted Wooden Cot Serving Platter with Resin Inlay (25 x 32 cm) - Grey",
+        "precedingAuctionCode": "0019872338",
+        "followingSku": "8419179",
+        "followingTitle": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700GSM) - Champagne",
+        "followingAuctionCode": "0019872418"
       }
     ],
-    "lastOnAirSku": "8564234",
-    "lastOnAirTitle": "Livmore Handcrafted Wooden Cot Serving Platter with Resin Inlay (25 x 32 cm) - Grey",
-    "lastOnAirAuctionCode": "0019872338",
+    "lastOnAirSku": "8419179",
+    "lastOnAirTitle": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700GSM) - Champagne",
+    "lastOnAirAuctionCode": "0019872418",
     "precedingSku": "8564234",
     "precedingTitle": "Livmore Handcrafted Wooden Cot Serving Platter with Resin Inlay (25 x 32 cm) - Grey",
     "precedingAuctionCode": "0019872338"
