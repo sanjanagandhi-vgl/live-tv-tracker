@@ -319992,21 +319992,26 @@
       "sku": "8646849",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-08",
-      "time": "20:34:25",
+      "date": "2026-09-17",
+      "time": "07:24:25",
       "preExisting": true,
       "missedAt": 1788896065223,
       "missedDelay": null,
-      "lastUpdated": 1788896065223,
+      "lastUpdated": 1789626265367,
       "missedPrice": 19.99,
       "missedImg": false,
-      "title": "LIVMORE Luxury Waffle Texture 900G Blanket (Size 200x150 cm) - Blue",
-      "auctionCode": "0019862697",
+      "title": "LIVMORE Luxury Waffle Texture Single Layer Check Jacquard Blanket Throw (200 x 150 cm) - Brown",
+      "auctionCode": "0019872622",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-200x1-cm-blue-8646849",
       "productUrlChecked": 1788896069122,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789626265367,
+      "pdpPrice": "120.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8646851": {
       "sku": "8646851",
@@ -352916,8 +352921,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789626198444,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -382276,11 +382281,22 @@
         "followingSku": "8597276",
         "followingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Beige",
         "followingAuctionCode": "0019872621"
+      },
+      {
+        "start": 1789626198444,
+        "end": 1789626265367,
+        "durationMin": 1.1,
+        "precedingSku": "8597276",
+        "precedingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Beige",
+        "precedingAuctionCode": "0019872621",
+        "followingSku": "8646849",
+        "followingTitle": "LIVMORE Luxury Waffle Texture Single Layer Check Jacquard Blanket Throw (200 x 150 cm) - Brown",
+        "followingAuctionCode": "0019872622"
       }
     ],
-    "lastOnAirSku": "8597276",
-    "lastOnAirTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Beige",
-    "lastOnAirAuctionCode": "0019872621",
+    "lastOnAirSku": "8646849",
+    "lastOnAirTitle": "LIVMORE Luxury Waffle Texture Single Layer Check Jacquard Blanket Throw (200 x 150 cm) - Brown",
+    "lastOnAirAuctionCode": "0019872622",
     "precedingSku": "8597276",
     "precedingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Beige",
     "precedingAuctionCode": "0019872621"
