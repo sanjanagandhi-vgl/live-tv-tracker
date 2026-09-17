@@ -146979,23 +146979,23 @@
       "sku": "7840711",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-10",
-      "time": "03:35:29",
+      "date": "2026-09-17",
+      "time": "02:25:30",
       "preExisting": true,
       "missedAt": 1786576639996,
       "missedDelay": null,
-      "lastUpdated": 1789007729836,
+      "lastUpdated": 1789608330315,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Mens Waffle Full Zip Jacket with Side Pockets (Size XXXL) - Olive",
-      "auctionCode": "0019863037",
+      "title": "Mens Waffle Full Zip Jacket with Side Pockets  (Size XXXL) - Olive",
+      "auctionCode": "0019872538",
       "source": "gha",
       "productUrl": "/products/mens-waffle-full-zip-with-side-welt-pocket?variant=53106085986570",
       "productUrlChecked": 1786576648389,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1789007729836,
-      "pdpPrice": 14.99,
+      "lastAir": 1789608330315,
+      "pdpPrice": "14.99",
       "buy": true,
       "login": false,
       "img": true
@@ -352649,8 +352649,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789608261472,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381833,11 +381833,22 @@
         "followingSku": "7707034",
         "followingTitle": "Lightning Deal Special- Padded Deep Filled Fleeced Unisex Jacket With Zip Pockets - Navy",
         "followingAuctionCode": "0019872532"
+      },
+      {
+        "start": 1789608261472,
+        "end": 1789608330315,
+        "durationMin": 1.1,
+        "precedingSku": "7707034",
+        "precedingTitle": "Lightning Deal Special- Padded Deep Filled Fleeced Unisex Jacket With Zip Pockets - Navy",
+        "precedingAuctionCode": "0019872532",
+        "followingSku": "7840711",
+        "followingTitle": "Mens Waffle Full Zip Jacket with Side Pockets  (Size XXXL) - Olive",
+        "followingAuctionCode": "0019872538"
       }
     ],
-    "lastOnAirSku": "7707034",
-    "lastOnAirTitle": "Lightning Deal Special- Padded Deep Filled Fleeced Unisex Jacket With Zip Pockets - Navy",
-    "lastOnAirAuctionCode": "0019872532",
+    "lastOnAirSku": "7840711",
+    "lastOnAirTitle": "Mens Waffle Full Zip Jacket with Side Pockets  (Size XXXL) - Olive",
+    "lastOnAirAuctionCode": "0019872538",
     "precedingSku": "7707034",
     "precedingTitle": "Lightning Deal Special- Padded Deep Filled Fleeced Unisex Jacket With Zip Pockets - Navy",
     "precedingAuctionCode": "0019872532"
