@@ -186866,23 +186866,23 @@
       "sku": "7730142",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "12:23:18",
+      "date": "2026-09-17",
+      "time": "02:46:22",
       "preExisting": true,
       "missedAt": 1787025046488,
       "missedDelay": null,
-      "lastUpdated": 1787138598316,
+      "lastUpdated": 1789609582580,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Genuine Leather Crossbody Bag",
-      "auctionCode": "0019829104",
+      "auctionCode": "0019872502",
       "source": "gha",
       "productUrl": "/products/genuine-leather-crossbody-bag-1708073284",
       "productUrlChecked": 1787025054053,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787138598316,
-      "pdpPrice": "29.99",
+      "lastAir": 1789609582580,
+      "pdpPrice": "59.99",
       "buy": true,
       "login": false,
       "img": true
@@ -352654,8 +352654,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789609534794,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381860,11 +381860,22 @@
         "followingSku": "8683473",
         "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
         "followingAuctionCode": "0019872534"
+      },
+      {
+        "start": 1789609534794,
+        "end": 1789609582580,
+        "durationMin": 0.8,
+        "precedingSku": "8683473",
+        "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "precedingAuctionCode": "0019872534",
+        "followingSku": "7730142",
+        "followingTitle": "Genuine Leather Crossbody Bag",
+        "followingAuctionCode": "0019872502"
       }
     ],
-    "lastOnAirSku": "8683473",
-    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
-    "lastOnAirAuctionCode": "0019872534",
+    "lastOnAirSku": "7730142",
+    "lastOnAirTitle": "Genuine Leather Crossbody Bag",
+    "lastOnAirAuctionCode": "0019872502",
     "precedingSku": "8683473",
     "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
     "precedingAuctionCode": "0019872534"
