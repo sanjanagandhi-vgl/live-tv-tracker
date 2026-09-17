@@ -186495,21 +186495,26 @@
       "sku": "8367714",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "03:38:21",
+      "date": "2026-09-17",
+      "time": "03:23:19",
       "preExisting": true,
       "missedAt": 1787020701709,
       "missedDelay": null,
-      "lastUpdated": 1787020701709,
+      "lastUpdated": 1789611799436,
       "missedPrice": 3.99,
       "missedImg": true,
-      "title": "Feng Shui Strawberry Quartz Crystal Money Tree Ornament with Ceramic Pot (11cm) - Rose Red",
-      "auctionCode": "0019826188",
+      "title": "Feng Shui Rose Quartz Crystal Money Tree Ornament with Ceramic Pot (11cm) - Pink",
+      "auctionCode": "0019872298",
       "source": "gha",
       "productUrl": "/products/decorative-tree-1648367599",
       "productUrlChecked": 1787020709577,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789611799436,
+      "pdpPrice": "5.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8636916": {
       "sku": "8636916",
@@ -352702,8 +352707,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789611741323,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381941,11 +381946,22 @@
         "followingSku": "8629019",
         "followingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
         "followingAuctionCode": "0019872403"
+      },
+      {
+        "start": 1789611741323,
+        "end": 1789611799436,
+        "durationMin": 1.0,
+        "precedingSku": "8629019",
+        "precedingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+        "precedingAuctionCode": "0019872403",
+        "followingSku": "8367714",
+        "followingTitle": "Feng Shui Rose Quartz Crystal Money Tree Ornament with Ceramic Pot (11cm) - Pink",
+        "followingAuctionCode": "0019872298"
       }
     ],
-    "lastOnAirSku": "8629019",
-    "lastOnAirTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
-    "lastOnAirAuctionCode": "0019872403",
+    "lastOnAirSku": "8367714",
+    "lastOnAirTitle": "Feng Shui Rose Quartz Crystal Money Tree Ornament with Ceramic Pot (11cm) - Pink",
+    "lastOnAirAuctionCode": "0019872298",
     "precedingSku": "8629019",
     "precedingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
     "precedingAuctionCode": "0019872403"
