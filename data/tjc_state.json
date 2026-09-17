@@ -355478,9 +355478,16 @@
       "img": true,
       "date": "2026-09-17",
       "time": "15:29:19",
-      "productUrl": null,
-      "lastUpdated": 1789655359456,
-      "source": "gha"
+      "productUrl": "/products/la-closeout-deals-peacock-pearl-silver-white-fresh-water-pearl-necklace-size-18-with-sterling-silver-ball-clasp-8663010",
+      "lastUpdated": 1789655961523,
+      "source": "gha",
+      "missedAt": 1789655961523,
+      "missedDelay": 10,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1789655969760,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8714428": {
       "sku": "8714428",
@@ -355502,8 +355509,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789655961523,
     "gaps": [
       {
         "start": 1785823527869,
@@ -385186,8 +385193,8 @@
     "lastOnAirSku": "8714428",
     "lastOnAirTitle": "Abalone Shell, White Cubic Zirconia & White Fresh Water Pearl Floral Dangling Earring with Push Back",
     "lastOnAirAuctionCode": "0019861916",
-    "precedingSku": "4313892",
-    "precedingTitle": "Set of 5 - Multi Colour Fresh Water Pearl Stud Earrings with Push Backs",
-    "precedingAuctionCode": "0019874570"
+    "precedingSku": "8714428",
+    "precedingTitle": "Abalone Shell, White Cubic Zirconia & White Fresh Water Pearl Floral Dangling Earring with Push Back",
+    "precedingAuctionCode": "0019861916"
   }
 }
