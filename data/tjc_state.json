@@ -356223,11 +356223,29 @@
       "productUrl": null,
       "lastUpdated": 1789669529267,
       "source": "gha"
+    },
+    "8758553": {
+      "sku": "8758553",
+      "firstAir": 1789669702362,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789669702362,
+      "title": "Luxuriant - 9K Yellow Gold AAA Turkizite & Lab Grown Yellow Diamond (SI) Pendant 2.08 Ct.",
+      "pdpPrice": "599.99",
+      "auctionCode": "0019874197",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-17",
+      "time": "19:28:22",
+      "productUrl": null,
+      "lastUpdated": 1789669702362,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789669583887,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -386037,11 +386055,22 @@
         "followingSku": "8751645",
         "followingTitle": null,
         "followingAuctionCode": "0019874188"
+      },
+      {
+        "start": 1789669583887,
+        "end": 1789669702362,
+        "durationMin": 2.0,
+        "precedingSku": "8751645",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019874188",
+        "followingSku": "8758553",
+        "followingTitle": "Luxuriant - 9K Yellow Gold AAA Turkizite & Lab Grown Yellow Diamond (SI) Pendant 2.08 Ct.",
+        "followingAuctionCode": "0019874197"
       }
     ],
-    "lastOnAirSku": "8751645",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019874188",
+    "lastOnAirSku": "8758553",
+    "lastOnAirTitle": "Luxuriant - 9K Yellow Gold AAA Turkizite & Lab Grown Yellow Diamond (SI) Pendant 2.08 Ct.",
+    "lastOnAirAuctionCode": "0019874197",
     "precedingSku": "8751645",
     "precedingTitle": null,
     "precedingAuctionCode": "0019874188"
