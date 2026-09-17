@@ -54324,23 +54324,23 @@
       "sku": "7833580",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-10",
-      "time": "14:41:23",
+      "date": "2026-09-17",
+      "time": "02:04:22",
       "preExisting": true,
       "missedAt": 1785649202325,
       "missedDelay": null,
-      "lastUpdated": 1786369283377,
+      "lastUpdated": 1789607062251,
       "missedPrice": 5.99,
       "missedImg": true,
       "title": "Cashmere Winter Plaid Gloves with Touch Screen Tips",
-      "auctionCode": "0019813849",
+      "auctionCode": "0019872547",
       "source": "gha",
       "productUrl": "/products/cashmere-wool-gloves",
       "productUrlChecked": 1785649220287,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1786369283377,
-      "pdpPrice": "4.99",
+      "lastAir": 1789607062251,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -352639,8 +352639,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789607001235,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381790,11 +381790,22 @@
         "followingSku": "8611088",
         "followingTitle": "Natural White Jade Stretchable Beads Lotus Carved Bracelet (Size - 7) 150.00 Ct.",
         "followingAuctionCode": "0019873179"
+      },
+      {
+        "start": 1789607001235,
+        "end": 1789607062251,
+        "durationMin": 1.0,
+        "precedingSku": "8665216",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019873268",
+        "followingSku": "7833580",
+        "followingTitle": "Cashmere Winter Plaid Gloves with Touch Screen Tips",
+        "followingAuctionCode": "0019872547"
       }
     ],
-    "lastOnAirSku": "8665216",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019873268",
+    "lastOnAirSku": "7833580",
+    "lastOnAirTitle": "Cashmere Winter Plaid Gloves with Touch Screen Tips",
+    "lastOnAirAuctionCode": "0019872547",
     "precedingSku": "8665216",
     "precedingTitle": null,
     "precedingAuctionCode": "0019873268"
