@@ -350481,21 +350481,26 @@
       "sku": "8419166",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "06:25:27",
+      "date": "2026-09-17",
+      "time": "03:49:18",
       "preExisting": true,
       "missedAt": 1789536327468,
       "missedDelay": null,
-      "lastUpdated": 1789536327468,
+      "lastUpdated": 1789613358158,
       "missedPrice": 39.99,
       "missedImg": true,
       "title": "LA Marey Signature 100% Mulberry Silk Pillow Case with Button (Size 75x50 cm) - Silver.",
-      "auctionCode": "0019871644",
+      "auctionCode": "0019872412",
       "source": "gha",
       "productUrl": "/products/la-marey-signature-mulberry-silk-patterned-pillowcase-with-mop-button-closure-size-50x75-cm-navy-8562983",
       "productUrlChecked": 1789536334741,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789613358158,
+      "pdpPrice": "389.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8356065": {
       "sku": "8356065",
@@ -352724,8 +352729,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789613302735,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381985,11 +381990,22 @@
         "followingSku": "8419179",
         "followingTitle": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700GSM) - Champagne",
         "followingAuctionCode": "0019872418"
+      },
+      {
+        "start": 1789613302735,
+        "end": 1789613358158,
+        "durationMin": 0.9,
+        "precedingSku": "8419179",
+        "precedingTitle": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700GSM) - Champagne",
+        "precedingAuctionCode": "0019872418",
+        "followingSku": "8419166",
+        "followingTitle": "LA Marey Signature 100% Mulberry Silk Pillow Case with Button (Size 75x50 cm) - Silver.",
+        "followingAuctionCode": "0019872412"
       }
     ],
-    "lastOnAirSku": "8419179",
-    "lastOnAirTitle": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700GSM) - Champagne",
-    "lastOnAirAuctionCode": "0019872418",
+    "lastOnAirSku": "8419166",
+    "lastOnAirTitle": "LA Marey Signature 100% Mulberry Silk Pillow Case with Button (Size 75x50 cm) - Silver.",
+    "lastOnAirAuctionCode": "0019872412",
     "precedingSku": "8419179",
     "precedingTitle": "MOST LUXURIOUS SILK DUVET AT TJC - La Marey Signature 100% Mulberry Silk Quilt (225 x 220 cm, King 700GSM) - Champagne",
     "precedingAuctionCode": "0019872418"
