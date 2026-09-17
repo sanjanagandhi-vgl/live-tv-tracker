@@ -355535,11 +355535,29 @@
       "missedDelay": 9,
       "missedPrice": 1699.99,
       "missedImg": false
+    },
+    "8415427": {
+      "sku": "8415427",
+      "firstAir": 1789660278828,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789660278828,
+      "title": "9K Yellow Gold Diamond Cut Band Ring",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019875007",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-17",
+      "time": "16:51:18",
+      "productUrl": null,
+      "lastUpdated": 1789660278828,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789660238583,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -385261,11 +385279,22 @@
         "followingSku": "8135333",
         "followingTitle": "9K Yellow Gold Spiga Necklace",
         "followingAuctionCode": "0019874595"
+      },
+      {
+        "start": 1789660238583,
+        "end": 1789660278828,
+        "durationMin": 0.7,
+        "precedingSku": "8135333",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace",
+        "precedingAuctionCode": "0019874595",
+        "followingSku": "8415427",
+        "followingTitle": "9K Yellow Gold Diamond Cut Band Ring",
+        "followingAuctionCode": "0019875007"
       }
     ],
-    "lastOnAirSku": "8135333",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace",
-    "lastOnAirAuctionCode": "0019874595",
+    "lastOnAirSku": "8415427",
+    "lastOnAirTitle": "9K Yellow Gold Diamond Cut Band Ring",
+    "lastOnAirAuctionCode": "0019875007",
     "precedingSku": "8135333",
     "precedingTitle": "9K Yellow Gold Spiga Necklace",
     "precedingAuctionCode": "0019874595"
