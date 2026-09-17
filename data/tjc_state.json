@@ -349674,21 +349674,26 @@
       "sku": "8629019",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "19:33:19",
+      "date": "2026-09-17",
+      "time": "03:20:37",
       "preExisting": true,
       "missedAt": 1789497199221,
       "missedDelay": null,
-      "lastUpdated": 1789497199221,
+      "lastUpdated": 1789611637868,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "LIVMORE Limited Edition Halloween Pumpkin Enamelled Trinket Box",
-      "auctionCode": "0019871937",
+      "title": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+      "auctionCode": "0019872403",
       "source": "gha",
       "productUrl": "/products/livmore-pumpkin-jewellery-box-size-5x5x6-cm-orange-8628834",
       "productUrlChecked": 1789497204294,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789611637868,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8628836": {
       "sku": "8628836",
@@ -352697,8 +352702,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789611559163,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -381925,11 +381930,22 @@
         "followingSku": "8195639",
         "followingTitle": "Flower Wreath Decoration (36cm)",
         "followingAuctionCode": "0019872331"
+      },
+      {
+        "start": 1789611559163,
+        "end": 1789611637868,
+        "durationMin": 1.3,
+        "precedingSku": "8195639",
+        "precedingTitle": "Flower Wreath Decoration (36cm)",
+        "precedingAuctionCode": "0019872331",
+        "followingSku": "8629019",
+        "followingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+        "followingAuctionCode": "0019872403"
       }
     ],
-    "lastOnAirSku": "8195639",
-    "lastOnAirTitle": "Flower Wreath Decoration (36cm)",
-    "lastOnAirAuctionCode": "0019872331",
+    "lastOnAirSku": "8629019",
+    "lastOnAirTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+    "lastOnAirAuctionCode": "0019872403",
     "precedingSku": "8195639",
     "precedingTitle": "Flower Wreath Decoration (36cm)",
     "precedingAuctionCode": "0019872331"
