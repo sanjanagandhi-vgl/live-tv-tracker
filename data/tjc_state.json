@@ -347336,17 +347336,17 @@
       "firstAir": 1789467037241,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789539198026,
+      "lastAir": 1789628130166,
       "title": "Magnetic Portable Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Black",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019872183",
+      "pdpPrice": "159.99",
+      "auctionCode": "0019873722",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-16",
-      "time": "07:13:18",
+      "date": "2026-09-17",
+      "time": "07:55:30",
       "productUrl": "/products/bluetooth-speaker-size-41x57-cm-black-8598153?variant=53688961859850",
-      "lastUpdated": 1789539198026,
+      "lastUpdated": 1789628130166,
       "source": "gha",
       "productUrlChecked": 1789468407901,
       "productUrlStatus": 200,
@@ -352944,8 +352944,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789628062156,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -382337,11 +382337,22 @@
         "followingSku": "8640990",
         "followingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
         "followingAuctionCode": "0019873818"
+      },
+      {
+        "start": 1789628062156,
+        "end": 1789628130166,
+        "durationMin": 1.1,
+        "precedingSku": "8640990",
+        "precedingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+        "precedingAuctionCode": "0019873818",
+        "followingSku": "8598153",
+        "followingTitle": "Magnetic Portable Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Black",
+        "followingAuctionCode": "0019873722"
       }
     ],
-    "lastOnAirSku": "8640990",
-    "lastOnAirTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019873818",
+    "lastOnAirSku": "8598153",
+    "lastOnAirTitle": "Magnetic Portable Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Black",
+    "lastOnAirAuctionCode": "0019873722",
     "precedingSku": "8640990",
     "precedingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
     "precedingAuctionCode": "0019873818"
