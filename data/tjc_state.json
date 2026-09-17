@@ -356015,9 +356015,16 @@
       "img": true,
       "date": "2026-09-17",
       "time": "18:47:18",
-      "productUrl": null,
-      "lastUpdated": 1789667238474,
-      "source": "gha"
+      "productUrl": "/products/djoy-aaa-turkizite-earring-with-lever-back-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-56-ct-8770032",
+      "lastUpdated": 1789667818612,
+      "source": "gha",
+      "missedAt": 1789667818612,
+      "missedDelay": 10,
+      "missedPrice": 149.99,
+      "missedImg": true,
+      "productUrlChecked": 1789667825940,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8763515": {
       "sku": "8763515",
@@ -356178,11 +356185,31 @@
       "productUrlChecked": 1789667443868,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8770033": {
+      "sku": "8770033",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-17",
+      "time": "18:56:58",
+      "preExisting": true,
+      "missedAt": 1789667818612,
+      "missedDelay": null,
+      "lastUpdated": 1789667818612,
+      "missedPrice": 149.99,
+      "missedImg": true,
+      "title": "D'Joy - AAA Turkizite Solitaire Earring with Lever Back in Rhodium Overlay Sterling Silver 1.56 Ct.",
+      "auctionCode": "0019874120",
+      "source": "gha",
+      "productUrl": "/products/djoy-aaa-turkizite-earring-with-lever-back-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-56-ct-8770032",
+      "productUrlChecked": 1789667826527,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789667818612,
     "gaps": [
       {
         "start": 1785823527869,
@@ -385986,8 +386013,8 @@
     "lastOnAirSku": "4518416",
     "lastOnAirTitle": "Luxuriant - AAA Turkizite & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.70 Ct.",
     "lastOnAirAuctionCode": "0019872397",
-    "precedingSku": "8770032",
-    "precedingTitle": "D'Joy - AAA Turkizite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 1.56 Ct.",
-    "precedingAuctionCode": "0019872350"
+    "precedingSku": "4518416",
+    "precedingTitle": "Luxuriant - AAA Turkizite & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.70 Ct.",
+    "precedingAuctionCode": "0019872397"
   }
 }
