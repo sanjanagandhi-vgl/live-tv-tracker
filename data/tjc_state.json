@@ -24575,21 +24575,26 @@
       "sku": "8712276",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-30",
-      "time": "10:50:36",
+      "date": "2026-09-18",
+      "time": "13:28:23",
       "preExisting": true,
       "missedAt": 1785405036009,
       "missedDelay": null,
-      "lastUpdated": 1785405036009,
+      "lastUpdated": 1789734503023,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "SEJOY Cordless Water Flosser with 5 Cleaning Modes, 6 Jet Tips & IPX7 Waterproof Design - Purple",
-      "auctionCode": "0019800510",
+      "auctionCode": "0019875113",
       "source": "gha",
       "productUrl": "/products/sejoy-cordless-water-flosser-with-5-cleaning-modes-6-jet-tips-ipx7-waterproof-design-purple-8712276",
       "productUrlChecked": 1785405041155,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789734503023,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8481196": {
       "sku": "8481196",
@@ -359179,8 +359184,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789734384004,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389848,11 +389853,22 @@
         "followingSku": "4464147",
         "followingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp in Two Tone Plating",
         "followingAuctionCode": "0019875093"
+      },
+      {
+        "start": 1789734384004,
+        "end": 1789734503023,
+        "durationMin": 2.0,
+        "precedingSku": "4464147",
+        "precedingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+        "precedingAuctionCode": "0019875093",
+        "followingSku": "8712276",
+        "followingTitle": "SEJOY Cordless Water Flosser with 5 Cleaning Modes, 6 Jet Tips & IPX7 Waterproof Design - Purple",
+        "followingAuctionCode": "0019875113"
       }
     ],
-    "lastOnAirSku": "4464147",
-    "lastOnAirTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
-    "lastOnAirAuctionCode": "0019875093",
+    "lastOnAirSku": "8712276",
+    "lastOnAirTitle": "SEJOY Cordless Water Flosser with 5 Cleaning Modes, 6 Jet Tips & IPX7 Waterproof Design - Purple",
+    "lastOnAirAuctionCode": "0019875113",
     "precedingSku": "4464147",
     "precedingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
     "precedingAuctionCode": "0019875093"
