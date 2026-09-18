@@ -2145,23 +2145,23 @@
       "sku": "8426918",
       "tvPrice": "",
       "remarks": "",
-      "time": "01:09:31",
+      "time": "11:38:25",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Natural White Diamond Hoop Earring",
-      "auctionCode": "0019874760",
+      "auctionCode": "0019875858",
       "source": "gha",
-      "lastAir": 1789690171811,
-      "pdpPrice": "9.99",
+      "lastAir": 1789727905226,
+      "pdpPrice": "18.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-18",
       "productUrl": "/products/evertrue-white-diamond-full-hoop-earring?variant=53107443171594",
-      "lastUpdated": 1789690171811,
+      "lastUpdated": 1789727905226,
       "productUrlChecked": 1789508443278,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -358991,8 +358991,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789727837815,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389583,11 +389583,22 @@
         "followingSku": "8682261",
         "followingTitle": "Rose Quartz Bear Design Home Decor 40.00 Ct.",
         "followingAuctionCode": "0019875553"
+      },
+      {
+        "start": 1789727837815,
+        "end": 1789727905226,
+        "durationMin": 1.1,
+        "precedingSku": "8374821",
+        "precedingTitle": "Fancy Bracelet",
+        "precedingAuctionCode": "0019875090",
+        "followingSku": "8426918",
+        "followingTitle": "Natural White Diamond Hoop Earring",
+        "followingAuctionCode": "0019875858"
       }
     ],
-    "lastOnAirSku": "8374821",
-    "lastOnAirTitle": "Fancy Bracelet",
-    "lastOnAirAuctionCode": "0019875090",
+    "lastOnAirSku": "8426918",
+    "lastOnAirTitle": "Natural White Diamond Hoop Earring",
+    "lastOnAirAuctionCode": "0019875858",
     "precedingSku": "8374821",
     "precedingTitle": "Fancy Bracelet",
     "precedingAuctionCode": "0019875090"
