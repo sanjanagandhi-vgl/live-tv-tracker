@@ -358337,11 +358337,29 @@
       "productUrl": null,
       "lastUpdated": 1789708706400,
       "source": "gha"
+    },
+    "8566306": {
+      "sku": "8566306",
+      "firstAir": 1789708838223,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789708838223,
+      "title": "Mark Hill Pick 'N' Mix Triple Threat Heat Protection Leave In Cream - 200ml",
+      "pdpPrice": "3.99",
+      "auctionCode": "0019874325",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "06:20:38",
+      "productUrl": null,
+      "lastUpdated": 1789708838223,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789708759685,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388591,11 +388609,22 @@
         "followingSku": "8299921",
         "followingTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
         "followingAuctionCode": "0019874318"
+      },
+      {
+        "start": 1789708759685,
+        "end": 1789708838223,
+        "durationMin": 1.3,
+        "precedingSku": "8299921",
+        "precedingTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
+        "precedingAuctionCode": "0019874318",
+        "followingSku": "8566306",
+        "followingTitle": "Mark Hill Pick 'N' Mix Triple Threat Heat Protection Leave In Cream - 200ml",
+        "followingAuctionCode": "0019874325"
       }
     ],
-    "lastOnAirSku": "8299921",
-    "lastOnAirTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
-    "lastOnAirAuctionCode": "0019874318",
+    "lastOnAirSku": "8566306",
+    "lastOnAirTitle": "Mark Hill Pick 'N' Mix Triple Threat Heat Protection Leave In Cream - 200ml",
+    "lastOnAirAuctionCode": "0019874325",
     "precedingSku": "8299921",
     "precedingTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
     "precedingAuctionCode": "0019874318"
