@@ -150592,21 +150592,26 @@
       "sku": "8411906",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "11:30:54",
+      "date": "2026-09-18",
+      "time": "11:06:24",
       "preExisting": true,
       "missedAt": 1786617054107,
       "missedDelay": null,
-      "lastUpdated": 1786617054107,
+      "lastUpdated": 1789725984144,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "White Glass Pearl Choker Necklace (Size - 16-4 Inch Ext) with White Crystal and Green Glass",
-      "auctionCode": "0019818307",
+      "auctionCode": "0019874364",
       "source": "gha",
       "productUrl": "/products/white-glass-pearl-choker-necklace",
       "productUrlChecked": 1786617062269,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789725984144,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7714397": {
       "sku": "7714397",
@@ -358889,8 +358894,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789725931621,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389459,11 +389464,22 @@
         "followingSku": "8673795",
         "followingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
         "followingAuctionCode": "0019874359"
+      },
+      {
+        "start": 1789725931621,
+        "end": 1789725984144,
+        "durationMin": 0.9,
+        "precedingSku": "8735994",
+        "precedingTitle": "Close Out Deal- Designer Inspired Hoop Earring with Push Back",
+        "precedingAuctionCode": "0019871871",
+        "followingSku": "8411906",
+        "followingTitle": "White Glass Pearl Choker Necklace (Size - 16-4 Inch Ext) with White Crystal and Green Glass",
+        "followingAuctionCode": "0019874364"
       }
     ],
-    "lastOnAirSku": "8735994",
-    "lastOnAirTitle": "Close Out Deal- Designer Inspired Hoop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019871871",
+    "lastOnAirSku": "8411906",
+    "lastOnAirTitle": "White Glass Pearl Choker Necklace (Size - 16-4 Inch Ext) with White Crystal and Green Glass",
+    "lastOnAirAuctionCode": "0019874364",
     "precedingSku": "8735994",
     "precedingTitle": "Close Out Deal- Designer Inspired Hoop Earring with Push Back",
     "precedingAuctionCode": "0019871871"
