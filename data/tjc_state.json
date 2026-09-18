@@ -195084,17 +195084,17 @@
       "firstAir": 1787139262116,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787139638111,
+      "lastAir": 1789699878740,
       "title": "Ladies Diamond Thermal Legging",
       "pdpPrice": "4.99",
-      "auctionCode": "0019829121",
+      "auctionCode": "0019873165",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-19",
-      "time": "12:40:38",
+      "date": "2026-09-18",
+      "time": "03:51:18",
       "productUrl": "/products/ladies-diamond-thermal-legging",
-      "lastUpdated": 1787140240192,
+      "lastUpdated": 1789699878740,
       "source": "gha",
       "missedAt": 1787140240192,
       "missedDelay": 10,
@@ -357635,8 +357635,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789699762694,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -387776,11 +387776,22 @@
         "followingSku": "8530064",
         "followingTitle": "QED London Pullover Sweatshirt Hoodie With Shirt (Size S, 8 to 10) - Lilac",
         "followingAuctionCode": "0019874228"
+      },
+      {
+        "start": 1789699762694,
+        "end": 1789699878740,
+        "durationMin": 1.9,
+        "precedingSku": "8530064",
+        "precedingTitle": "QED London Pullover Sweatshirt Hoodie With Shirt (Size S, 8 to 10) - Lilac",
+        "precedingAuctionCode": "0019874228",
+        "followingSku": "8371419",
+        "followingTitle": "Ladies Diamond Thermal Legging",
+        "followingAuctionCode": "0019873165"
       }
     ],
-    "lastOnAirSku": "8530064",
-    "lastOnAirTitle": "QED London Pullover Sweatshirt Hoodie With Shirt (Size S, 8 to 10) - Lilac",
-    "lastOnAirAuctionCode": "0019874228",
+    "lastOnAirSku": "8371419",
+    "lastOnAirTitle": "Ladies Diamond Thermal Legging",
+    "lastOnAirAuctionCode": "0019873165",
     "precedingSku": "8530064",
     "precedingTitle": "QED London Pullover Sweatshirt Hoodie With Shirt (Size S, 8 to 10) - Lilac",
     "precedingAuctionCode": "0019874228"
