@@ -359331,11 +359331,29 @@
       "productUrl": null,
       "lastUpdated": 1789741941943,
       "source": "gha"
+    },
+    "4522493": {
+      "sku": "4522493",
+      "firstAir": 1789742064890,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789742064890,
+      "title": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019873465",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "15:34:24",
+      "productUrl": null,
+      "lastUpdated": 1789742064890,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789742003440,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390091,11 +390109,22 @@
         "followingSku": "8681860",
         "followingTitle": "Chrysocolla Jasper Cross Pendant in Silver Tone 10.00 Ct.",
         "followingAuctionCode": "0019873492"
+      },
+      {
+        "start": 1789742003440,
+        "end": 1789742064890,
+        "durationMin": 1.0,
+        "precedingSku": "8681860",
+        "precedingTitle": "Chrysocolla Jasper Cross Pendant",
+        "precedingAuctionCode": "0019873492",
+        "followingSku": "4522493",
+        "followingTitle": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
+        "followingAuctionCode": "0019873465"
       }
     ],
-    "lastOnAirSku": "8681860",
-    "lastOnAirTitle": "Chrysocolla Jasper Cross Pendant",
-    "lastOnAirAuctionCode": "0019873492",
+    "lastOnAirSku": "4522493",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
+    "lastOnAirAuctionCode": "0019873465",
     "precedingSku": "8681860",
     "precedingTitle": "Chrysocolla Jasper Cross Pendant",
     "precedingAuctionCode": "0019873492"
