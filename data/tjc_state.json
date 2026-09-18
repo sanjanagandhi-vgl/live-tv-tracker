@@ -299449,17 +299449,17 @@
       "firstAir": 1788491063813,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788491360158,
+      "lastAir": 1789710862210,
       "title": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019854163",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019874356",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-04",
-      "time": "04:09:20",
+      "date": "2026-09-18",
+      "time": "06:54:22",
       "productUrl": "/products/spongelle-art-chinois-body-buffer-lavender-sky-99g-8679505?variant=53410621980938",
-      "lastUpdated": 1788491903621,
+      "lastUpdated": 1789710862210,
       "source": "gha",
       "productUrlChecked": 1788491364439,
       "productUrlStatus": 200,
@@ -358379,8 +358379,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789710798144,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388685,11 +388685,22 @@
         "followingSku": "8740721",
         "followingTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
         "followingAuctionCode": "0019874303"
+      },
+      {
+        "start": 1789710798144,
+        "end": 1789710862210,
+        "durationMin": 1.1,
+        "precedingSku": "7971319",
+        "precedingTitle": "Beautech Womens Portable 3 in 1 shaver with USB Charging - Green",
+        "precedingAuctionCode": "0019874406",
+        "followingSku": "8679508",
+        "followingTitle": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
+        "followingAuctionCode": "0019874356"
       }
     ],
-    "lastOnAirSku": "7971319",
-    "lastOnAirTitle": "Beautech Womens Portable 3 in 1 shaver with USB Charging - Green",
-    "lastOnAirAuctionCode": "0019874406",
+    "lastOnAirSku": "8679508",
+    "lastOnAirTitle": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
+    "lastOnAirAuctionCode": "0019874356",
     "precedingSku": "7971319",
     "precedingTitle": "Beautech Womens Portable 3 in 1 shaver with USB Charging - Green",
     "precedingAuctionCode": "0019874406"
