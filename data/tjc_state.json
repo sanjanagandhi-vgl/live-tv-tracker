@@ -359281,11 +359281,29 @@
       "productUrl": null,
       "lastUpdated": 1789736838444,
       "source": "gha"
+    },
+    "8789153": {
+      "sku": "8789153",
+      "firstAir": 1789736967483,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789736967483,
+      "title": "Laurelle Amour de Carnaval 5 x50ml Body Mist",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019874844",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "14:09:27",
+      "productUrl": null,
+      "lastUpdated": 1789736967483,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789736904159,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389975,11 +389993,22 @@
         "followingSku": "8714513",
         "followingTitle": "White Keshi Pearl Butterfly Drop Earring with Push Back",
         "followingAuctionCode": "0019875768"
+      },
+      {
+        "start": 1789736904159,
+        "end": 1789736967483,
+        "durationMin": 1.1,
+        "precedingSku": "8714513",
+        "precedingTitle": "White Keshi Pearl Butterfly Drop Earring with Push Back",
+        "precedingAuctionCode": "0019875768",
+        "followingSku": "8789153",
+        "followingTitle": "Laurelle Amour de Carnaval 5 x50ml Body Mist",
+        "followingAuctionCode": "0019874844"
       }
     ],
-    "lastOnAirSku": "8714513",
-    "lastOnAirTitle": "White Keshi Pearl Butterfly Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019875768",
+    "lastOnAirSku": "8789153",
+    "lastOnAirTitle": "Laurelle Amour de Carnaval 5 x50ml Body Mist",
+    "lastOnAirAuctionCode": "0019874844",
     "precedingSku": "8714513",
     "precedingTitle": "White Keshi Pearl Butterfly Drop Earring with Push Back",
     "precedingAuctionCode": "0019875768"
