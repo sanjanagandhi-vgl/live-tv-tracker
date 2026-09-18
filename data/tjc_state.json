@@ -359833,11 +359833,29 @@
       "productUrlChecked": 1789746046159,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4446117": {
+      "sku": "4446117",
+      "firstAir": 1789746505240,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789746505240,
+      "title": "Set of 2 - Multi-Colour Crystal Keychain in Pineapple & Seahorse Design",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019874725",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "16:48:25",
+      "productUrl": null,
+      "lastUpdated": 1789746505240,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789746443085,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390681,11 +390699,22 @@
         "followingSku": "8512277",
         "followingTitle": "131 Pcs Complete Sewing kit with Case - Includes 30 Colour Threads",
         "followingAuctionCode": "0019876014"
+      },
+      {
+        "start": 1789746443085,
+        "end": 1789746505240,
+        "durationMin": 1.0,
+        "precedingSku": "8512277",
+        "precedingTitle": "131 Pcs Complete Sewing kit with Case - Includes 30 Colour Threads",
+        "precedingAuctionCode": "0019876014",
+        "followingSku": "4446117",
+        "followingTitle": "Set of 2 - Multi-Colour Crystal Keychain in Pineapple & Seahorse Design",
+        "followingAuctionCode": "0019874725"
       }
     ],
-    "lastOnAirSku": "8512277",
-    "lastOnAirTitle": "131 Pcs Complete Sewing kit with Case - Includes 30 Colour Threads",
-    "lastOnAirAuctionCode": "0019876014",
+    "lastOnAirSku": "4446117",
+    "lastOnAirTitle": "Set of 2 - Multi-Colour Crystal Keychain in Pineapple & Seahorse Design",
+    "lastOnAirAuctionCode": "0019874725",
     "precedingSku": "8512277",
     "precedingTitle": "131 Pcs Complete Sewing kit with Case - Includes 30 Colour Threads",
     "precedingAuctionCode": "0019876014"
