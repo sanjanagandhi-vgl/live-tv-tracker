@@ -357650,11 +357650,29 @@
       "productUrl": null,
       "lastUpdated": 1789700130381,
       "source": "gha"
+    },
+    "7850634": {
+      "sku": "7850634",
+      "firstAir": 1789700240280,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789700240280,
+      "title": "Leopard Print Benie Hat and Gloves Set",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019873272",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "03:57:20",
+      "productUrl": null,
+      "lastUpdated": 1789700240280,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789700182612,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -387816,11 +387834,22 @@
         "followingSku": "7850545",
         "followingTitle": "Super Soft Plush Hat and Scarf Set",
         "followingAuctionCode": "0019873215"
+      },
+      {
+        "start": 1789700182612,
+        "end": 1789700240280,
+        "durationMin": 1.0,
+        "precedingSku": "7850545",
+        "precedingTitle": "Super Soft Plush Hat and Scarf Set",
+        "precedingAuctionCode": "0019873215",
+        "followingSku": "7850634",
+        "followingTitle": "Leopard Print Benie Hat and Gloves Set",
+        "followingAuctionCode": "0019873272"
       }
     ],
-    "lastOnAirSku": "7850545",
-    "lastOnAirTitle": "Super Soft Plush Hat and Scarf Set",
-    "lastOnAirAuctionCode": "0019873215",
+    "lastOnAirSku": "7850634",
+    "lastOnAirTitle": "Leopard Print Benie Hat and Gloves Set",
+    "lastOnAirAuctionCode": "0019873272",
     "precedingSku": "7850545",
     "precedingTitle": "Super Soft Plush Hat and Scarf Set",
     "precedingAuctionCode": "0019873215"
