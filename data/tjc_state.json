@@ -340744,26 +340744,26 @@
       "sku": "8631042",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "17:04:26",
+      "date": "2026-09-18",
+      "time": "18:22:24",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789401866365,
+      "lastUpdated": 1789752144986,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
-      "auctionCode": "0019869991",
+      "auctionCode": "0019874202",
       "source": "gha",
       "productUrl": "/products/livmore-hanging-decoration-size-one-size-clear-8631042?variant=53688967954698",
       "productUrlChecked": 1789359150005,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789401866365,
-      "pdpPrice": 9.99,
+      "lastAir": 1789752144986,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
-      "img": false
+      "img": true
     },
     "8695103": {
       "sku": "8695103",
@@ -360031,8 +360031,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789752037992,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390986,11 +390986,22 @@
         "followingSku": "8418021",
         "followingTitle": "Set of 2 - Faux Flower Branches with LED Lights (50-60cm) - Champagne",
         "followingAuctionCode": "0019874206"
+      },
+      {
+        "start": 1789752037992,
+        "end": 1789752144986,
+        "durationMin": 1.8,
+        "precedingSku": "8627579",
+        "precedingTitle": "LIVMORE Set of 6 Multi-Functional Kitchen Dishwashing & Pot Scrubbing Brushes",
+        "precedingAuctionCode": "0019874203",
+        "followingSku": "8631042",
+        "followingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
+        "followingAuctionCode": "0019874202"
       }
     ],
-    "lastOnAirSku": "8627579",
-    "lastOnAirTitle": "LIVMORE Set of 6 Multi-Functional Kitchen Dishwashing & Pot Scrubbing Brushes",
-    "lastOnAirAuctionCode": "0019874203",
+    "lastOnAirSku": "8631042",
+    "lastOnAirTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
+    "lastOnAirAuctionCode": "0019874202",
     "precedingSku": "8627579",
     "precedingTitle": "LIVMORE Set of 6 Multi-Functional Kitchen Dishwashing & Pot Scrubbing Brushes",
     "precedingAuctionCode": "0019874203"
