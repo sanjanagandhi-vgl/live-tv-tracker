@@ -358341,9 +358341,16 @@
       "img": true,
       "date": "2026-09-18",
       "time": "06:18:26",
-      "productUrl": null,
-      "lastUpdated": 1789708706400,
-      "source": "gha"
+      "productUrl": "/products/doctors-formula-power-active-retinol-serum-30ml",
+      "lastUpdated": 1789709304763,
+      "source": "gha",
+      "missedAt": 1789709304763,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1789709309600,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8566306": {
       "sku": "8566306",
@@ -358365,8 +358372,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789709304763,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388643,8 +388650,8 @@
     "lastOnAirSku": "8566305",
     "lastOnAirTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
     "lastOnAirAuctionCode": "0019874326",
-    "precedingSku": "8566306",
-    "precedingTitle": "Mark Hill Pick 'N' Mix Triple Threat Heat Protection Leave In Cream - 200ml",
-    "precedingAuctionCode": "0019874325"
+    "precedingSku": "8566305",
+    "precedingTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
+    "precedingAuctionCode": "0019874326"
   }
 }
