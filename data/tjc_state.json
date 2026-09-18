@@ -39683,17 +39683,17 @@
       "firstAir": 1785518959715,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785518959715,
+      "lastAir": 1789705528145,
       "title": "Aquamarine Pendant with Chain (Size 20) 63.00 Ct.",
       "pdpPrice": "139.99",
-      "auctionCode": "0019802114",
+      "auctionCode": "0019874298",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-31",
-      "time": "18:29:19",
+      "date": "2026-09-18",
+      "time": "05:25:28",
       "productUrl": "/products/aquamarine-pendant-with-chain-size-20-63-00-ct-4480789",
-      "lastUpdated": 1785519610041,
+      "lastUpdated": 1789705528145,
       "source": "gha",
       "missedAt": 1785519610041,
       "missedDelay": 11,
@@ -358016,8 +358016,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789705464020,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388223,11 +388223,22 @@
         "followingSku": "8507054",
         "followingTitle": "EverTrue - Labradorite & Champagne Cubic Zirconia Ring 18.37 Ct.",
         "followingAuctionCode": "0019874424"
+      },
+      {
+        "start": 1789705464020,
+        "end": 1789705528145,
+        "durationMin": 1.1,
+        "precedingSku": "8503853",
+        "precedingTitle": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
+        "precedingAuctionCode": "0019874337",
+        "followingSku": "4480789",
+        "followingTitle": "Aquamarine Pendant with Chain (Size 20) 63.00 Ct.",
+        "followingAuctionCode": "0019874298"
       }
     ],
-    "lastOnAirSku": "8503853",
-    "lastOnAirTitle": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
-    "lastOnAirAuctionCode": "0019874337",
+    "lastOnAirSku": "4480789",
+    "lastOnAirTitle": "Aquamarine Pendant with Chain (Size 20) 63.00 Ct.",
+    "lastOnAirAuctionCode": "0019874298",
     "precedingSku": "8503853",
     "precedingTitle": "EverTrue - Green Onyx Pear Cut Solitaire Ring in Yellow Gold Tone 2.28 Ct.",
     "precedingAuctionCode": "0019874337"
