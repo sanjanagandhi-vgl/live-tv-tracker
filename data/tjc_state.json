@@ -157126,23 +157126,23 @@
       "sku": "8538132",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "06:20:37",
+      "date": "2026-09-18",
+      "time": "07:43:19",
       "preExisting": true,
       "missedAt": 1786701330481,
       "missedDelay": null,
-      "lastUpdated": 1786944037616,
+      "lastUpdated": 1789713799294,
       "missedPrice": 6.99,
       "missedImg": true,
       "title": "Love Vits Raspberry Ketone - 100 Tablets",
-      "auctionCode": "0019825256",
+      "auctionCode": "0019874402",
       "source": "gha",
       "productUrl": "/products/new-launch-love-vits-100-tablets",
       "productUrlChecked": 1786701342235,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1786944037616,
-      "pdpPrice": "6.99",
+      "lastAir": 1789713799294,
+      "pdpPrice": "79.99",
       "buy": true,
       "login": false,
       "img": true
@@ -358379,8 +358379,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789713742239,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388729,11 +388729,22 @@
         "followingSku": "8665394",
         "followingTitle": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
         "followingAuctionCode": "0019874423"
+      },
+      {
+        "start": 1789713742239,
+        "end": 1789713799294,
+        "durationMin": 1.0,
+        "precedingSku": "8665394",
+        "precedingTitle": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
+        "precedingAuctionCode": "0019874423",
+        "followingSku": "8538132",
+        "followingTitle": "Love Vits Raspberry Ketone - 100 Tablets",
+        "followingAuctionCode": "0019874402"
       }
     ],
-    "lastOnAirSku": "8665394",
-    "lastOnAirTitle": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
-    "lastOnAirAuctionCode": "0019874423",
+    "lastOnAirSku": "8538132",
+    "lastOnAirTitle": "Love Vits Raspberry Ketone - 100 Tablets",
+    "lastOnAirAuctionCode": "0019874402",
     "precedingSku": "8665394",
     "precedingTitle": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
     "precedingAuctionCode": "0019874423"
