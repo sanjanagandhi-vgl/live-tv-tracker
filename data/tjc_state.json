@@ -302003,17 +302003,17 @@
       "firstAir": 1788532916052,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788533241010,
+      "lastAir": 1789713501322,
       "title": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019856669",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019874423",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-04",
-      "time": "15:47:21",
+      "date": "2026-09-18",
+      "time": "07:38:21",
       "productUrl": "/products/sand-sky-oil-control-dual-action-blemish-patches-72s-8665394",
-      "lastUpdated": 1788533784477,
+      "lastUpdated": 1789713501322,
       "source": "gha",
       "missedAt": 1788533784477,
       "missedDelay": 9,
@@ -358379,8 +358379,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789713438475,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388718,11 +388718,22 @@
         "followingSku": "8241554",
         "followingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
         "followingAuctionCode": "0019874391"
+      },
+      {
+        "start": 1789713438475,
+        "end": 1789713501322,
+        "durationMin": 1.0,
+        "precedingSku": "8241554",
+        "precedingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
+        "precedingAuctionCode": "0019874391",
+        "followingSku": "8665394",
+        "followingTitle": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
+        "followingAuctionCode": "0019874423"
       }
     ],
-    "lastOnAirSku": "8241554",
-    "lastOnAirTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
-    "lastOnAirAuctionCode": "0019874391",
+    "lastOnAirSku": "8665394",
+    "lastOnAirTitle": "Sand & Sky Oil Control - Dual Action Blemish Patches 72s",
+    "lastOnAirAuctionCode": "0019874423",
     "precedingSku": "8241554",
     "precedingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
     "precedingAuctionCode": "0019874391"
