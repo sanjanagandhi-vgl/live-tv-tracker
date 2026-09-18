@@ -358384,11 +358384,29 @@
       "productUrlChecked": 1789709606042,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8687965": {
+      "sku": "8687965",
+      "firstAir": 1789716396220,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789716396220,
+      "title": "Patterned Tote Bag (Size 49x36x18 cm) - Blue White",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019873432",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "08:26:36",
+      "productUrl": null,
+      "lastUpdated": 1789716396220,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789716263559,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388781,11 +388799,22 @@
         "followingSku": "8683473",
         "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
         "followingAuctionCode": "0019874453"
+      },
+      {
+        "start": 1789716263559,
+        "end": 1789716396220,
+        "durationMin": 2.2,
+        "precedingSku": "8683473",
+        "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "precedingAuctionCode": "0019874453",
+        "followingSku": "8687965",
+        "followingTitle": "Patterned Tote Bag (Size 49x36x18 cm) - Blue White",
+        "followingAuctionCode": "0019873432"
       }
     ],
-    "lastOnAirSku": "8683473",
-    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
-    "lastOnAirAuctionCode": "0019874453",
+    "lastOnAirSku": "8687965",
+    "lastOnAirTitle": "Patterned Tote Bag (Size 49x36x18 cm) - Blue White",
+    "lastOnAirAuctionCode": "0019873432",
     "precedingSku": "8683473",
     "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
     "precedingAuctionCode": "0019874453"
