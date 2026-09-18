@@ -301237,23 +301237,23 @@
       "sku": "8673795",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-17",
-      "time": "10:39:19",
+      "date": "2026-09-18",
+      "time": "10:43:18",
       "preExisting": true,
       "missedAt": 1788520398503,
       "missedDelay": null,
-      "lastUpdated": 1789637959652,
+      "lastUpdated": 1789724598280,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
-      "auctionCode": "0019874108",
+      "auctionCode": "0019874359",
       "source": "gha",
       "productUrl": "/products/singapore-necklace-size-18-with-spring-ring-clasp-in-yellow-gold-plated-sterling-silver-8673794",
       "productUrlChecked": 1788520403000,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789637959652,
-      "pdpPrice": "9.99",
+      "lastAir": 1789724598280,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": false
@@ -358824,8 +358824,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789724542677,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389383,11 +389383,22 @@
         "followingSku": "8735992",
         "followingTitle": "Close Out Deal- Designer Inspired Dual Heart Earring with Push Back",
         "followingAuctionCode": "0019874274"
+      },
+      {
+        "start": 1789724542677,
+        "end": 1789724598280,
+        "durationMin": 0.9,
+        "precedingSku": "7833452",
+        "precedingTitle": "Fire Opal Bar Pendant in Sterling Silver",
+        "precedingAuctionCode": "0019874286",
+        "followingSku": "8673795",
+        "followingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
+        "followingAuctionCode": "0019874359"
       }
     ],
-    "lastOnAirSku": "7833452",
-    "lastOnAirTitle": "Fire Opal Bar Pendant in Sterling Silver",
-    "lastOnAirAuctionCode": "0019874286",
+    "lastOnAirSku": "8673795",
+    "lastOnAirTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
+    "lastOnAirAuctionCode": "0019874359",
     "precedingSku": "7833452",
     "precedingTitle": "Fire Opal Bar Pendant in Sterling Silver",
     "precedingAuctionCode": "0019874286"
