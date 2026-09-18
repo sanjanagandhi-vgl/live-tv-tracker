@@ -360744,11 +360744,15 @@
       "date": "2026-09-18",
       "time": "22:33:20",
       "productUrl": "/products/tucson-close-out-insect-fossil-jasper-pear-cut-pendant?variant=53273729499402",
-      "lastUpdated": 1789767200905,
+      "lastUpdated": 1789767743453,
       "source": "gha",
       "productUrlChecked": 1789767205392,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789767743453,
+      "missedDelay": 9,
+      "missedPrice": 5.99,
+      "missedImg": false
     },
     "8311711": {
       "sku": "8311711",
@@ -360784,6 +360788,24 @@
       "time": "22:41:21",
       "productUrl": null,
       "lastUpdated": 1789767681361,
+      "source": "gha"
+    },
+    "8662962": {
+      "sku": "8662962",
+      "firstAir": 1789767743453,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789767743453,
+      "title": "Tucson Close Out - Brazil Rainforest Rhyolite Jasper Pendant",
+      "pdpPrice": "3.99",
+      "auctionCode": "0019875298",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-18",
+      "time": "22:42:23",
+      "productUrl": null,
+      "lastUpdated": 1789767743453,
       "source": "gha"
     }
   },
@@ -391921,9 +391943,9 @@
         "followingAuctionCode": "0019875284"
       }
     ],
-    "lastOnAirSku": "8662895",
-    "lastOnAirTitle": "Tucson Close Out - Insect Fossil Jasper Pear Cut Pendant",
-    "lastOnAirAuctionCode": "0019875296",
+    "lastOnAirSku": "8662962",
+    "lastOnAirTitle": "Tucson Close Out - Brazil Rainforest Rhyolite Jasper Pendant",
+    "lastOnAirAuctionCode": "0019875298",
     "precedingSku": "8356516",
     "precedingTitle": "Fossil Jasper Rectangular Cabochon Cut Pendant 65.00 Ct.",
     "precedingAuctionCode": "0019875283"
