@@ -359154,11 +359154,29 @@
       "productUrlChecked": 1789733065761,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4464147": {
+      "sku": "4464147",
+      "firstAir": 1789733183095,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789733183095,
+      "title": "Set of 2 - Magnetic Lock with Lobster Clasp in Two Tone Plating",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019875093",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "13:06:23",
+      "productUrl": null,
+      "lastUpdated": 1789733183095,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789732866692,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389815,11 +389833,22 @@
         "followingSku": "4510787",
         "followingTitle": "Heart Pendant with Chain (Size 28) & T-Bar Clasp",
         "followingAuctionCode": "0019875548"
+      },
+      {
+        "start": 1789732866692,
+        "end": 1789733183095,
+        "durationMin": 5.3,
+        "precedingSku": "8714424",
+        "precedingTitle": "Abalone Shell & White Fresh Water Pearl Beads Earring with Push Back",
+        "precedingAuctionCode": "0019875747",
+        "followingSku": "4464147",
+        "followingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp in Two Tone Plating",
+        "followingAuctionCode": "0019875093"
       }
     ],
-    "lastOnAirSku": "8714424",
-    "lastOnAirTitle": "Abalone Shell & White Fresh Water Pearl Beads Earring with Push Back",
-    "lastOnAirAuctionCode": "0019875747",
+    "lastOnAirSku": "4464147",
+    "lastOnAirTitle": "Set of 2 - Magnetic Lock with Lobster Clasp in Two Tone Plating",
+    "lastOnAirAuctionCode": "0019875093",
     "precedingSku": "8714424",
     "precedingTitle": "Abalone Shell & White Fresh Water Pearl Beads Earring with Push Back",
     "precedingAuctionCode": "0019875747"
