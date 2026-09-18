@@ -360432,11 +360432,29 @@
       "productUrl": null,
       "lastUpdated": 1789765639370,
       "source": "gha"
+    },
+    "8356528": {
+      "sku": "8356528",
+      "firstAir": 1789765758623,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789765758623,
+      "title": "Mudstone Radiant Cut Pendant in Silver Tone",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019875284",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-18",
+      "time": "22:09:18",
+      "productUrl": null,
+      "lastUpdated": 1789765758623,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789765701909,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -391555,11 +391573,22 @@
         "followingSku": "8567190",
         "followingTitle": "Novelty Lobster Cartoon Mini Backpack Rucksack - Yellow",
         "followingAuctionCode": "0019875187"
+      },
+      {
+        "start": 1789765701909,
+        "end": 1789765758623,
+        "durationMin": 0.9,
+        "precedingSku": "8356516",
+        "precedingTitle": "Fossil Jasper Rectangular Cabochon Cut Pendant 65.00 Ct.",
+        "precedingAuctionCode": "0019875283",
+        "followingSku": "8356528",
+        "followingTitle": "Mudstone Radiant Cut Pendant in Silver Tone",
+        "followingAuctionCode": "0019875284"
       }
     ],
-    "lastOnAirSku": "8356516",
-    "lastOnAirTitle": "Fossil Jasper Rectangular Cabochon Cut Pendant 65.00 Ct.",
-    "lastOnAirAuctionCode": "0019875283",
+    "lastOnAirSku": "8356528",
+    "lastOnAirTitle": "Mudstone Radiant Cut Pendant in Silver Tone",
+    "lastOnAirAuctionCode": "0019875284",
     "precedingSku": "8356516",
     "precedingTitle": "Fossil Jasper Rectangular Cabochon Cut Pendant 65.00 Ct.",
     "precedingAuctionCode": "0019875283"
