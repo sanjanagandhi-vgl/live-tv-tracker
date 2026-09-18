@@ -125110,17 +125110,17 @@
       "firstAir": 1786372838691,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786726341645,
+      "lastAir": 1789712959696,
       "title": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019819647",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019874391",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-14",
-      "time": "17:52:21",
+      "date": "2026-09-18",
+      "time": "07:29:19",
       "productUrl": "/products/marigold-lotus-100-pure-mafura-oil-100-ml?variant=53107193610506",
-      "lastUpdated": 1786726341645,
+      "lastUpdated": 1789712959696,
       "source": "gha",
       "missedAt": 1786373839315,
       "missedDelay": 9,
@@ -358379,8 +358379,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789712902555,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388707,11 +388707,22 @@
         "followingSku": "8739949",
         "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
         "followingAuctionCode": "0019874367"
+      },
+      {
+        "start": 1789712902555,
+        "end": 1789712959696,
+        "durationMin": 1.0,
+        "precedingSku": "8739949",
+        "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+        "precedingAuctionCode": "0019874367",
+        "followingSku": "8241554",
+        "followingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
+        "followingAuctionCode": "0019874391"
       }
     ],
-    "lastOnAirSku": "8739949",
-    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
-    "lastOnAirAuctionCode": "0019874367",
+    "lastOnAirSku": "8241554",
+    "lastOnAirTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
+    "lastOnAirAuctionCode": "0019874391",
     "precedingSku": "8739949",
     "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
     "precedingAuctionCode": "0019874367"
