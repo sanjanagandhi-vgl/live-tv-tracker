@@ -359536,11 +359536,29 @@
       "productUrl": null,
       "lastUpdated": 1789743929590,
       "source": "gha"
+    },
+    "4505375": {
+      "sku": "4505375",
+      "firstAir": 1789744244613,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789744244613,
+      "title": "Premium Designer Inspired Satin Finish Feathers Printed Scarf & Bracelet in a Gift Box - Black",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019873216",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "16:10:44",
+      "productUrl": null,
+      "lastUpdated": 1789744244613,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789743983038,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390340,11 +390358,22 @@
         "followingSku": "8688129",
         "followingTitle": "Crossbody Bag (Size - One Size) - Black",
         "followingAuctionCode": "0019873435"
+      },
+      {
+        "start": 1789743983038,
+        "end": 1789744244613,
+        "durationMin": 4.4,
+        "precedingSku": "8688129",
+        "precedingTitle": "Set of 2 Crossbody Bag (Size - One Size) - Black",
+        "precedingAuctionCode": "0019873435",
+        "followingSku": "4505375",
+        "followingTitle": "Premium Designer Inspired Satin Finish Feathers Printed Scarf & Bracelet in a Gift Box - Black",
+        "followingAuctionCode": "0019873216"
       }
     ],
-    "lastOnAirSku": "8688129",
-    "lastOnAirTitle": "Set of 2 Crossbody Bag (Size - One Size) - Black",
-    "lastOnAirAuctionCode": "0019873435",
+    "lastOnAirSku": "4505375",
+    "lastOnAirTitle": "Premium Designer Inspired Satin Finish Feathers Printed Scarf & Bracelet in a Gift Box - Black",
+    "lastOnAirAuctionCode": "0019873216",
     "precedingSku": "8688129",
     "precedingTitle": "Set of 2 Crossbody Bag (Size - One Size) - Black",
     "precedingAuctionCode": "0019873435"
