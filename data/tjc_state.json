@@ -124584,21 +124584,26 @@
       "sku": "7827780",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-10",
-      "time": "14:54:28",
+      "date": "2026-09-18",
+      "time": "03:25:28",
       "preExisting": true,
       "missedAt": 1786370068545,
       "missedDelay": null,
-      "lastUpdated": 1786370068545,
+      "lastUpdated": 1789698328797,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "Snapback Baker Boy Cap (57cm) - Cream",
-      "auctionCode": "0019813865",
+      "title": "Solid Vintage Flat Cap",
+      "auctionCode": "0019873960",
       "source": "gha",
       "productUrl": "/products/patterned-vintage-flat-cap",
       "productUrlChecked": 1786370076503,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789698328797,
+      "pdpPrice": "4.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7827783": {
       "sku": "7827783",
@@ -357617,8 +357622,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789698242535,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -387736,11 +387741,22 @@
         "followingSku": "6841647",
         "followingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Red",
         "followingAuctionCode": "0019875516"
+      },
+      {
+        "start": 1789698242535,
+        "end": 1789698328797,
+        "durationMin": 1.4,
+        "precedingSku": "6841647",
+        "precedingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Red",
+        "precedingAuctionCode": "0019875516",
+        "followingSku": "7827780",
+        "followingTitle": "Solid Vintage Flat Cap",
+        "followingAuctionCode": "0019873960"
       }
     ],
-    "lastOnAirSku": "6841647",
-    "lastOnAirTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Red",
-    "lastOnAirAuctionCode": "0019875516",
+    "lastOnAirSku": "7827780",
+    "lastOnAirTitle": "Solid Vintage Flat Cap",
+    "lastOnAirAuctionCode": "0019873960",
     "precedingSku": "6841647",
     "precedingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Red",
     "precedingAuctionCode": "0019875516"
