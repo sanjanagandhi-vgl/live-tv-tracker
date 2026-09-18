@@ -360058,11 +360058,29 @@
       "productUrlChecked": 1789753949101,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8711337": {
+      "sku": "8711337",
+      "firstAir": 1789754785891,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789754785891,
+      "title": "Extrahouse LED Dimmable, Touch Desk Lamp 1.8w, 120lm - White - 30cm",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019874396",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-18",
+      "time": "19:06:25",
+      "productUrl": null,
+      "lastUpdated": 1789754785891,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789754727441,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -391071,11 +391089,22 @@
         "followingSku": "8363438",
         "followingTitle": "Livmore 6-in-1 Multi-Functional Knife Sharpener - Grey & Orange",
         "followingAuctionCode": "0019874223"
+      },
+      {
+        "start": 1789754727441,
+        "end": 1789754785891,
+        "durationMin": 1.0,
+        "precedingSku": "8363438",
+        "precedingTitle": "Livmore 6-in-1 Multi-Functional Knife Sharpener - Grey & Orange",
+        "precedingAuctionCode": "0019874223",
+        "followingSku": "8711337",
+        "followingTitle": "Extrahouse LED Dimmable, Touch Desk Lamp 1.8w, 120lm - White - 30cm",
+        "followingAuctionCode": "0019874396"
       }
     ],
-    "lastOnAirSku": "8363438",
-    "lastOnAirTitle": "Livmore 6-in-1 Multi-Functional Knife Sharpener - Grey & Orange",
-    "lastOnAirAuctionCode": "0019874223",
+    "lastOnAirSku": "8711337",
+    "lastOnAirTitle": "Extrahouse LED Dimmable, Touch Desk Lamp 1.8w, 120lm - White - 30cm",
+    "lastOnAirAuctionCode": "0019874396",
     "precedingSku": "8363438",
     "precedingTitle": "Livmore 6-in-1 Multi-Functional Knife Sharpener - Grey & Orange",
     "precedingAuctionCode": "0019874223"
