@@ -359294,17 +359294,17 @@
       "firstAir": 1789736967483,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789737801240,
+      "lastAir": 1789746746063,
       "title": "Laurelle Amour de Carnaval 5 x50ml Body Mist",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019874844",
+      "pdpPrice": "40.99",
+      "auctionCode": "0019876389",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-18",
-      "time": "14:23:21",
+      "time": "16:52:26",
       "productUrl": "/products/laurelle-amour-de-carnaval-5-x50ml-body-mist-8789153",
-      "lastUpdated": 1789738351682,
+      "lastUpdated": 1789746746063,
       "source": "gha",
       "missedAt": 1789738351682,
       "missedDelay": 9,
@@ -359854,8 +359854,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789746679544,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390710,11 +390710,22 @@
         "followingSku": "4446117",
         "followingTitle": "Set of 2 - Multi-Colour Crystal Keychain in Pineapple & Seahorse Design",
         "followingAuctionCode": "0019874725"
+      },
+      {
+        "start": 1789746679544,
+        "end": 1789746746063,
+        "durationMin": 1.1,
+        "precedingSku": "4446117",
+        "precedingTitle": "Set of 2 - Multi-Colour Crystal Keychain in Pineapple & Seahorse Design",
+        "precedingAuctionCode": "0019874725",
+        "followingSku": "8789153",
+        "followingTitle": "Laurelle Amour de Carnaval 5 x50ml Body Mist",
+        "followingAuctionCode": "0019876389"
       }
     ],
-    "lastOnAirSku": "4446117",
-    "lastOnAirTitle": "Set of 2 - Multi-Colour Crystal Keychain in Pineapple & Seahorse Design",
-    "lastOnAirAuctionCode": "0019874725",
+    "lastOnAirSku": "8789153",
+    "lastOnAirTitle": "Laurelle Amour de Carnaval 5 x50ml Body Mist",
+    "lastOnAirAuctionCode": "0019876389",
     "precedingSku": "4446117",
     "precedingTitle": "Set of 2 - Multi-Colour Crystal Keychain in Pineapple & Seahorse Design",
     "precedingAuctionCode": "0019874725"
