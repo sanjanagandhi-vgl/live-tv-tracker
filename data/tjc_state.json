@@ -360226,11 +360226,29 @@
       "productUrlChecked": 1789757612458,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8624644": {
+      "sku": "8624644",
+      "firstAir": 1789757665760,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789757665760,
+      "title": "Cable, Charger and Adapter - White",
+      "pdpPrice": "18.99",
+      "auctionCode": "0019875875",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "19:54:25",
+      "productUrl": null,
+      "lastUpdated": 1789757665760,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789757435684,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -391283,11 +391301,22 @@
         "followingSku": "8622423",
         "followingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
         "followingAuctionCode": "0019874616"
+      },
+      {
+        "start": 1789757435684,
+        "end": 1789757665760,
+        "durationMin": 3.8,
+        "precedingSku": "7933626",
+        "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
+        "precedingAuctionCode": "0019874735",
+        "followingSku": "8624644",
+        "followingTitle": "Cable, Charger and Adapter - White",
+        "followingAuctionCode": "0019875875"
       }
     ],
-    "lastOnAirSku": "7933626",
-    "lastOnAirTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
-    "lastOnAirAuctionCode": "0019874735",
+    "lastOnAirSku": "8624644",
+    "lastOnAirTitle": "Cable, Charger and Adapter - White",
+    "lastOnAirAuctionCode": "0019875875",
     "precedingSku": "7933626",
     "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
     "precedingAuctionCode": "0019874735"
