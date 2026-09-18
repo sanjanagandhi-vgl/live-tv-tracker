@@ -300059,17 +300059,17 @@
       "firstAir": 1788505159515,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789089863430,
+      "lastAir": 1789714583153,
       "title": "Lip Smacker Manicure Set Unicorn Nail Blockbuster",
-      "pdpPrice": 6.99,
-      "auctionCode": "0019863511",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019873106",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "02:24:23",
+      "date": "2026-09-18",
+      "time": "07:56:23",
       "productUrl": "/products/lip-smacker-manicure-set-unicorn-nail-blockbuster-8666743?variant=53232357245194",
-      "lastUpdated": 1789089863430,
+      "lastUpdated": 1789714583153,
       "source": "gha",
       "missedAt": 1788506663958,
       "missedDelay": 10,
@@ -358379,8 +358379,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789714463635,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388740,11 +388740,22 @@
         "followingSku": "8538132",
         "followingTitle": "Love Vits Raspberry Ketone - 100 Tablets",
         "followingAuctionCode": "0019874402"
+      },
+      {
+        "start": 1789714463635,
+        "end": 1789714583153,
+        "durationMin": 2.0,
+        "precedingSku": "8538132",
+        "precedingTitle": "Love Vits Raspberry Ketone - 100 Tablets",
+        "precedingAuctionCode": "0019874402",
+        "followingSku": "8666743",
+        "followingTitle": "Lip Smacker Manicure Set Unicorn Nail Blockbuster",
+        "followingAuctionCode": "0019873106"
       }
     ],
-    "lastOnAirSku": "8538132",
-    "lastOnAirTitle": "Love Vits Raspberry Ketone - 100 Tablets",
-    "lastOnAirAuctionCode": "0019874402",
+    "lastOnAirSku": "8666743",
+    "lastOnAirTitle": "Lip Smacker Manicure Set Unicorn Nail Blockbuster",
+    "lastOnAirAuctionCode": "0019873106",
     "precedingSku": "8538132",
     "precedingTitle": "Love Vits Raspberry Ketone - 100 Tablets",
     "precedingAuctionCode": "0019874402"
