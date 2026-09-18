@@ -331796,17 +331796,17 @@
       "firstAir": 1789107439884,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789107799358,
+      "lastAir": 1789739782863,
       "title": "Christmas gift card(pack of 5",
       "pdpPrice": "7.99",
-      "auctionCode": "0019864756",
+      "auctionCode": "0019874746",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "07:23:19",
+      "date": "2026-09-18",
+      "time": "14:56:22",
       "productUrl": "/products/christmas-gift-cardpack-of-58312163",
-      "lastUpdated": 1789108371054,
+      "lastUpdated": 1789739782863,
       "source": "gha",
       "missedAt": 1789108371054,
       "missedDelay": 10,
@@ -359316,8 +359316,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789739661674,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390040,11 +390040,22 @@
         "followingSku": "8306337",
         "followingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
         "followingAuctionCode": "0019875976"
+      },
+      {
+        "start": 1789739661674,
+        "end": 1789739782863,
+        "durationMin": 2.0,
+        "precedingSku": "8739949",
+        "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+        "precedingAuctionCode": "0019875982",
+        "followingSku": "8312163",
+        "followingTitle": "Christmas gift card(pack of 5",
+        "followingAuctionCode": "0019874746"
       }
     ],
-    "lastOnAirSku": "8739949",
-    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
-    "lastOnAirAuctionCode": "0019875982",
+    "lastOnAirSku": "8312163",
+    "lastOnAirTitle": "Christmas gift card(pack of 5",
+    "lastOnAirAuctionCode": "0019874746",
     "precedingSku": "8739949",
     "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
     "precedingAuctionCode": "0019875982"
