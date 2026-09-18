@@ -360825,11 +360825,29 @@
       "productUrl": null,
       "lastUpdated": 1789767864945,
       "source": "gha"
+    },
+    "8666884": {
+      "sku": "8666884",
+      "firstAir": 1789767991663,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789767991663,
+      "title": "Tucson Close Out- Natural Dragon Blood Jasper & Blue Agate Pendant",
+      "pdpPrice": "3.99",
+      "auctionCode": "0019875300",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-18",
+      "time": "22:46:31",
+      "productUrl": null,
+      "lastUpdated": 1789767991663,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789767935487,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -391959,11 +391977,22 @@
         "followingSku": "8356528",
         "followingTitle": "Mudstone Radiant Cut Pendant in Silver Tone",
         "followingAuctionCode": "0019875284"
+      },
+      {
+        "start": 1789767935487,
+        "end": 1789767991663,
+        "durationMin": 0.9,
+        "precedingSku": "8666832",
+        "precedingTitle": "Tucson Close Out  Scene Jasper Cabochon Cut Pendant in Silver Tone 40.00 Ct.",
+        "precedingAuctionCode": "0019875299",
+        "followingSku": "8666884",
+        "followingTitle": "Tucson Close Out- Natural Dragon Blood Jasper & Blue Agate Pendant",
+        "followingAuctionCode": "0019875300"
       }
     ],
-    "lastOnAirSku": "8666832",
-    "lastOnAirTitle": "Tucson Close Out  Scene Jasper Cabochon Cut Pendant in Silver Tone 40.00 Ct.",
-    "lastOnAirAuctionCode": "0019875299",
+    "lastOnAirSku": "8666884",
+    "lastOnAirTitle": "Tucson Close Out- Natural Dragon Blood Jasper & Blue Agate Pendant",
+    "lastOnAirAuctionCode": "0019875300",
     "precedingSku": "8666832",
     "precedingTitle": "Tucson Close Out  Scene Jasper Cabochon Cut Pendant in Silver Tone 40.00 Ct.",
     "precedingAuctionCode": "0019875299"
