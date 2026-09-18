@@ -360103,11 +360103,29 @@
       "productUrlChecked": 1789755749881,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8622423": {
+      "sku": "8622423",
+      "firstAir": 1789756253131,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789756253131,
+      "title": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+      "pdpPrice": "89.99",
+      "auctionCode": "0019874616",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "19:30:53",
+      "productUrl": null,
+      "lastUpdated": 1789756253131,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789756161815,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -391149,11 +391167,22 @@
         "followingSku": "8598153",
         "followingTitle": "Magnetic Portable Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Black",
         "followingAuctionCode": "0019874268"
+      },
+      {
+        "start": 1789756161815,
+        "end": 1789756253131,
+        "durationMin": 1.5,
+        "precedingSku": "8598153",
+        "precedingTitle": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Black",
+        "precedingAuctionCode": "0019874268",
+        "followingSku": "8622423",
+        "followingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+        "followingAuctionCode": "0019874616"
       }
     ],
-    "lastOnAirSku": "8598153",
-    "lastOnAirTitle": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Black",
-    "lastOnAirAuctionCode": "0019874268",
+    "lastOnAirSku": "8622423",
+    "lastOnAirTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+    "lastOnAirAuctionCode": "0019874616",
     "precedingSku": "8598153",
     "precedingTitle": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Black",
     "precedingAuctionCode": "0019874268"
