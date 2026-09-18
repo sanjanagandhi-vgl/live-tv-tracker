@@ -358614,9 +358614,16 @@
       "img": true,
       "date": "2026-09-18",
       "time": "09:26:23",
-      "productUrl": null,
-      "lastUpdated": 1789719983733,
-      "source": "gha"
+      "productUrl": "/products/amour-de-carnaval-jet-set-pack-includes-body-mist-lotion-and-shower-gel-pink-8788138",
+      "lastUpdated": 1789720533117,
+      "source": "gha",
+      "missedAt": 1789720533117,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1789720541803,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8697572": {
       "sku": "8697572",
@@ -358657,11 +358664,31 @@
       "productUrlChecked": 1789719042413,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8788139": {
+      "sku": "8788139",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-18",
+      "time": "09:35:33",
+      "preExisting": true,
+      "missedAt": 1789720533117,
+      "missedDelay": null,
+      "lastUpdated": 1789720533117,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Amour de Carnaval Jet Set Pack (Includes Body mist, Lotion and Shower Gel) - Orange",
+      "auctionCode": "0019874445",
+      "source": "gha",
+      "productUrl": "/products/amour-de-carnaval-jet-set-pack-includes-body-mist-lotion-and-shower-gel-pink-8788138",
+      "productUrlChecked": 1789720542026,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789720533117,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389114,8 +389141,8 @@
     "lastOnAirSku": "8689641",
     "lastOnAirTitle": "Laurelle Divine Fleur Wild Petals EDP - 100ml",
     "lastOnAirAuctionCode": "0019874606",
-    "precedingSku": "8788138",
-    "precedingTitle": "DEAL OF THE DAY- Amour de Carnaval Luxe Jet Set Travel Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
-    "precedingAuctionCode": "0019874443"
+    "precedingSku": "8689641",
+    "precedingTitle": "Laurelle Divine Fleur Wild Petals EDP - 100ml",
+    "precedingAuctionCode": "0019874606"
   }
 }
