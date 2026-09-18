@@ -359963,11 +359963,29 @@
       "productUrlChecked": 1789748366378,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8699223": {
+      "sku": "8699223",
+      "firstAir": 1789749800796,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789749800796,
+      "title": "Fragrance Works Soft Sandalwood EDP (10ml) - Yellow",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019876438",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "17:43:20",
+      "productUrl": null,
+      "lastUpdated": 1789749800796,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789749744439,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390877,11 +390895,22 @@
         "followingSku": "8560649",
         "followingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
         "followingAuctionCode": "0019875178"
+      },
+      {
+        "start": 1789749744439,
+        "end": 1789749800796,
+        "durationMin": 0.9,
+        "precedingSku": "8560649",
+        "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
+        "precedingAuctionCode": "0019875178",
+        "followingSku": "8699223",
+        "followingTitle": "Fragrance Works Soft Sandalwood EDP (10ml) - Yellow",
+        "followingAuctionCode": "0019876438"
       }
     ],
-    "lastOnAirSku": "8560649",
-    "lastOnAirTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
-    "lastOnAirAuctionCode": "0019875178",
+    "lastOnAirSku": "8699223",
+    "lastOnAirTitle": "Fragrance Works Soft Sandalwood EDP (10ml) - Yellow",
+    "lastOnAirAuctionCode": "0019876438",
     "precedingSku": "8560649",
     "precedingTitle": "Pair Of Ladies Magnetic Massage Therapy Acupressure Insoles (2.5 - 6.5)",
     "precedingAuctionCode": "0019875178"
