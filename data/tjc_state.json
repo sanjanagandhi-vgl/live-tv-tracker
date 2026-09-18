@@ -198145,17 +198145,17 @@
       "firstAir": 1787205327975,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788536601904,
+      "lastAir": 1789695636007,
       "title": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
-      "pdpPrice": "8.99",
-      "auctionCode": "0019856672",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019873117",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-04",
-      "time": "16:43:21",
+      "date": "2026-09-18",
+      "time": "02:40:36",
       "productUrl": "/products/laurelle-royale-edition-gold-eau-de-toilette-100ml",
-      "lastUpdated": 1788536601904,
+      "lastUpdated": 1789695636007,
       "source": "gha",
       "missedAt": 1787206343271,
       "missedDelay": 11,
@@ -357617,8 +357617,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789695558253,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -387692,11 +387692,22 @@
         "followingSku": "8426918",
         "followingTitle": "Natural White Diamond Hoop Earring",
         "followingAuctionCode": "0019874760"
+      },
+      {
+        "start": 1789695558253,
+        "end": 1789695636007,
+        "durationMin": 1.3,
+        "precedingSku": "7995807",
+        "precedingTitle": "Marigold & Lotus Massage oil 30 ml",
+        "precedingAuctionCode": "0019873086",
+        "followingSku": "3492618",
+        "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+        "followingAuctionCode": "0019873117"
       }
     ],
-    "lastOnAirSku": "7995807",
-    "lastOnAirTitle": "Marigold & Lotus Massage oil 30 ml",
-    "lastOnAirAuctionCode": "0019873086",
+    "lastOnAirSku": "3492618",
+    "lastOnAirTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+    "lastOnAirAuctionCode": "0019873117",
     "precedingSku": "7995807",
     "precedingTitle": "Marigold & Lotus Massage oil 30 ml",
     "precedingAuctionCode": "0019873086"
