@@ -334045,21 +334045,26 @@
       "sku": "8633005",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-11",
-      "time": "19:01:58",
+      "date": "2026-09-18",
+      "time": "18:26:25",
       "preExisting": true,
       "missedAt": 1789149718479,
       "missedDelay": null,
-      "lastUpdated": 1789149718479,
+      "lastUpdated": 1789752385093,
       "missedPrice": 4.99,
       "missedImg": true,
       "title": "Set of 3 Heavy-Duty Multipurpose Duct Tape Rolls - Strong Adhesive Repair Tape - Black",
-      "auctionCode": "0019866181",
+      "auctionCode": "0019874248",
       "source": "gha",
       "productUrl": "/products/home-diy-black-aqua-green-8633005",
       "productUrlChecked": 1789149723231,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789752385093,
+      "pdpPrice": "18.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8609232": {
       "sku": "8609232",
@@ -360031,8 +360036,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789752331235,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390997,11 +391002,22 @@
         "followingSku": "8631042",
         "followingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
         "followingAuctionCode": "0019874202"
+      },
+      {
+        "start": 1789752331235,
+        "end": 1789752385093,
+        "durationMin": 0.9,
+        "precedingSku": "8631042",
+        "precedingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
+        "precedingAuctionCode": "0019874202",
+        "followingSku": "8633005",
+        "followingTitle": "Set of 3 Heavy-Duty Multipurpose Duct Tape Rolls - Strong Adhesive Repair Tape - Black",
+        "followingAuctionCode": "0019874248"
       }
     ],
-    "lastOnAirSku": "8631042",
-    "lastOnAirTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
-    "lastOnAirAuctionCode": "0019874202",
+    "lastOnAirSku": "8633005",
+    "lastOnAirTitle": "Set of 3 Heavy-Duty Multipurpose Duct Tape Rolls - Strong Adhesive Repair Tape - Black",
+    "lastOnAirAuctionCode": "0019874248",
     "precedingSku": "8631042",
     "precedingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set",
     "precedingAuctionCode": "0019874202"
