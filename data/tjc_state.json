@@ -359379,11 +359379,15 @@
       "date": "2026-09-18",
       "time": "15:42:21",
       "productUrl": "/products/abalone-shell-drop-pendant-with-chain-size-18-2-ext-3-00-ct-4510794?variant=53427354796298",
-      "lastUpdated": 1789742541689,
+      "lastUpdated": 1789743179247,
       "source": "gha",
       "productUrlChecked": 1789742545849,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789743179247,
+      "missedDelay": 11,
+      "missedPrice": 4.99,
+      "missedImg": false
     },
     "8758825": {
       "sku": "8758825",
@@ -359479,9 +359483,16 @@
       "img": false,
       "date": "2026-09-18",
       "time": "15:43:22",
-      "productUrl": null,
-      "lastUpdated": 1789742602457,
-      "source": "gha"
+      "productUrl": "/products/abalone-shell-drop-pendant-with-chain-size-18-2-ext-3-00-ct-4506646",
+      "lastUpdated": 1789743179247,
+      "source": "gha",
+      "missedAt": 1789743179247,
+      "missedDelay": 10,
+      "missedPrice": 4.99,
+      "missedImg": false,
+      "productUrlChecked": 1789743183361,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4510793": {
       "sku": "4510793",
@@ -359503,11 +359514,29 @@
       "productUrlChecked": 1789742785951,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8688129": {
+      "sku": "8688129",
+      "firstAir": 1789743179247,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789743179247,
+      "title": "Crossbody Bag (Size - One Size) - Black",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019873435",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "15:52:59",
+      "productUrl": null,
+      "lastUpdated": 1789743179247,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789743080556,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390296,11 +390325,22 @@
         "followingSku": "4510793",
         "followingTitle": "Abalone Shell Drop Pendant with Chain (Size 18-2 Ext)",
         "followingAuctionCode": "0019873468"
+      },
+      {
+        "start": 1789743080556,
+        "end": 1789743179247,
+        "durationMin": 1.6,
+        "precedingSku": "8665216",
+        "precedingTitle": "LIVMORE Set of 2 Travel Jewellery Box Organisers with Snap Button Closure (15.5x10.5x5cm) - Pink & Dark Green",
+        "precedingAuctionCode": "0019874673",
+        "followingSku": "8688129",
+        "followingTitle": "Crossbody Bag (Size - One Size) - Black",
+        "followingAuctionCode": "0019873435"
       }
     ],
-    "lastOnAirSku": "8665216",
-    "lastOnAirTitle": "LIVMORE Set of 2 Travel Jewellery Box Organisers with Snap Button Closure (15.5x10.5x5cm) - Pink & Dark Green",
-    "lastOnAirAuctionCode": "0019874673",
+    "lastOnAirSku": "8688129",
+    "lastOnAirTitle": "Crossbody Bag (Size - One Size) - Black",
+    "lastOnAirAuctionCode": "0019873435",
     "precedingSku": "8665216",
     "precedingTitle": "LIVMORE Set of 2 Travel Jewellery Box Organisers with Snap Button Closure (15.5x10.5x5cm) - Pink & Dark Green",
     "precedingAuctionCode": "0019874673"
