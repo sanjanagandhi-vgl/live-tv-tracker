@@ -352876,21 +352876,26 @@
       "sku": "8687454",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "22:39:24",
+      "date": "2026-09-18",
+      "time": "05:07:18",
       "preExisting": true,
       "missedAt": 1789594764046,
       "missedDelay": null,
-      "lastUpdated": 1789594764046,
+      "lastUpdated": 1789704438068,
       "missedPrice": 6.99,
       "missedImg": true,
       "title": "Multi Rutilated Quartz Adjustable Bracelet (Size 6.5-9.5) 70.00 Ct.",
-      "auctionCode": "0019873538",
+      "auctionCode": "0019874376",
       "source": "gha",
       "productUrl": "/products/multi-rutilated-quartz-stone-bracelet-70-000-ct-8687454",
       "productUrlChecked": 1789594768478,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789704438068,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8687457": {
       "sku": "8687457",
@@ -357768,8 +357773,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789704384168,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -387953,11 +387958,22 @@
         "followingSku": "8412907",
         "followingTitle": "Livmore Chinese Dragon Glass Decor - Blue",
         "followingAuctionCode": "0019874158"
+      },
+      {
+        "start": 1789704384168,
+        "end": 1789704438068,
+        "durationMin": 0.9,
+        "precedingSku": "8413611",
+        "precedingTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm) - Blue",
+        "precedingAuctionCode": "0019874161",
+        "followingSku": "8687454",
+        "followingTitle": "Multi Rutilated Quartz Adjustable Bracelet (Size 6.5-9.5) 70.00 Ct.",
+        "followingAuctionCode": "0019874376"
       }
     ],
-    "lastOnAirSku": "8413611",
-    "lastOnAirTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm) - Blue",
-    "lastOnAirAuctionCode": "0019874161",
+    "lastOnAirSku": "8687454",
+    "lastOnAirTitle": "Multi Rutilated Quartz Adjustable Bracelet (Size 6.5-9.5) 70.00 Ct.",
+    "lastOnAirAuctionCode": "0019874376",
     "precedingSku": "8413611",
     "precedingTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm) - Blue",
     "precedingAuctionCode": "0019874161"
