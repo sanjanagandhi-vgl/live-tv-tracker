@@ -358319,11 +358319,29 @@
       "productUrl": null,
       "lastUpdated": 1789708463504,
       "source": "gha"
+    },
+    "8299921": {
+      "sku": "8299921",
+      "firstAir": 1789708586157,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789708586157,
+      "title": "Doctors Formula- Power Active Retinol Serum - 30ml",
+      "pdpPrice": "495.99",
+      "auctionCode": "0019874318",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "06:16:26",
+      "productUrl": null,
+      "lastUpdated": 1789708586157,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789708535446,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388562,11 +388580,22 @@
         "followingSku": "8341810",
         "followingTitle": "Bondi Blades Derma Razor 3-Pack",
         "followingAuctionCode": "0019874324"
+      },
+      {
+        "start": 1789708535446,
+        "end": 1789708586157,
+        "durationMin": 0.8,
+        "precedingSku": "7541708",
+        "precedingTitle": "Doctors Formula Probiotics ADVANCED Repairing Set - 8 Hour Repairing Night Moisturiser - 50ml, Anti-Inflammatory Overnight Repairing Serum and Deep Hydration and Repairing Mask",
+        "precedingAuctionCode": "0019874319",
+        "followingSku": "8299921",
+        "followingTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
+        "followingAuctionCode": "0019874318"
       }
     ],
-    "lastOnAirSku": "7541708",
-    "lastOnAirTitle": "Doctors Formula Probiotics ADVANCED Repairing Set - 8 Hour Repairing Night Moisturiser - 50ml, Anti-Inflammatory Overnight Repairing Serum and Deep Hydration and Repairing Mask",
-    "lastOnAirAuctionCode": "0019874319",
+    "lastOnAirSku": "8299921",
+    "lastOnAirTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
+    "lastOnAirAuctionCode": "0019874318",
     "precedingSku": "7541708",
     "precedingTitle": "Doctors Formula Probiotics ADVANCED Repairing Set - 8 Hour Repairing Night Moisturiser - 50ml, Anti-Inflammatory Overnight Repairing Serum and Deep Hydration and Repairing Mask",
     "precedingAuctionCode": "0019874319"
