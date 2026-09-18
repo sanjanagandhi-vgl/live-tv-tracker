@@ -158213,23 +158213,23 @@
       "sku": "8201619",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-27",
-      "time": "04:19:19",
+      "date": "2026-09-18",
+      "time": "17:46:25",
       "preExisting": true,
       "missedAt": 1786716329313,
       "missedDelay": null,
-      "lastUpdated": 1787800759346,
+      "lastUpdated": 1789749985502,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit - Deeps & Reds",
-      "auctionCode": "0019844663",
+      "title": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit - Brights and Pinks",
+      "auctionCode": "0019875172",
       "source": "gha",
       "productUrl": "/products/just-herbs-set-of-5-ayurvedic-liquid-matte-finish-lipstick-kit-deeps-reds?variant=53107422560522",
       "productUrlChecked": 1786716337530,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787800759346,
-      "pdpPrice": 4.99,
+      "lastAir": 1789749985502,
+      "pdpPrice": "69.99",
       "buy": true,
       "login": false,
       "img": true
@@ -359984,8 +359984,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789749935313,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390906,11 +390906,22 @@
         "followingSku": "8699223",
         "followingTitle": "Fragrance Works Soft Sandalwood EDP (10ml) - Yellow",
         "followingAuctionCode": "0019876438"
+      },
+      {
+        "start": 1789749935313,
+        "end": 1789749985502,
+        "durationMin": 0.8,
+        "precedingSku": "8699223",
+        "precedingTitle": "Fragrance Works Soft Sandalwood EDP (10ml) - Yellow",
+        "precedingAuctionCode": "0019876438",
+        "followingSku": "8201619",
+        "followingTitle": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit - Brights and Pinks",
+        "followingAuctionCode": "0019875172"
       }
     ],
-    "lastOnAirSku": "8699223",
-    "lastOnAirTitle": "Fragrance Works Soft Sandalwood EDP (10ml) - Yellow",
-    "lastOnAirAuctionCode": "0019876438",
+    "lastOnAirSku": "8201619",
+    "lastOnAirTitle": "Just Herbs- Set of 5 - Ayurvedic Liquid Matte Finish Lipstick Kit - Brights and Pinks",
+    "lastOnAirAuctionCode": "0019875172",
     "precedingSku": "8699223",
     "precedingTitle": "Fragrance Works Soft Sandalwood EDP (10ml) - Yellow",
     "precedingAuctionCode": "0019876438"
