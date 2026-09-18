@@ -358746,11 +358746,29 @@
       "productUrl": null,
       "lastUpdated": 1789723341420,
       "source": "gha"
+    },
+    "8746953": {
+      "sku": "8746953",
+      "firstAir": 1789723462591,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789723462591,
+      "title": "Close Out Deal- Designer Inspired Hoop Earring",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019871874",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "10:24:22",
+      "productUrl": null,
+      "lastUpdated": 1789723462591,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789723400326,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389264,11 +389282,22 @@
         "followingSku": "4427689",
         "followingTitle": "Set of 3 - Peacock Color Shell Pearl Stretchable Bracelet (Size - 7), Push Back Earring & T-Bar Clasp Necklace (Size - 20)",
         "followingAuctionCode": "0019874258"
+      },
+      {
+        "start": 1789723400326,
+        "end": 1789723462591,
+        "durationMin": 1.0,
+        "precedingSku": "4427689",
+        "precedingTitle": "Set of 3 - Peacock Color Shell Pearl Stretchable Bracelet (Size - 7), Push Back Earring & T-Bar Clasp Necklace (Size - 20)",
+        "precedingAuctionCode": "0019874258",
+        "followingSku": "8746953",
+        "followingTitle": "Close Out Deal- Designer Inspired Hoop Earring",
+        "followingAuctionCode": "0019871874"
       }
     ],
-    "lastOnAirSku": "4427689",
-    "lastOnAirTitle": "Set of 3 - Peacock Color Shell Pearl Stretchable Bracelet (Size - 7), Push Back Earring & T-Bar Clasp Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019874258",
+    "lastOnAirSku": "8746953",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Hoop Earring",
+    "lastOnAirAuctionCode": "0019871874",
     "precedingSku": "4427689",
     "precedingTitle": "Set of 3 - Peacock Color Shell Pearl Stretchable Bracelet (Size - 7), Push Back Earring & T-Bar Clasp Necklace (Size - 20)",
     "precedingAuctionCode": "0019874258"
