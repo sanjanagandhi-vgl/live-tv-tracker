@@ -38614,23 +38614,23 @@
       "sku": "8341810",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-11",
-      "time": "14:31:20",
+      "date": "2026-09-18",
+      "time": "06:05:28",
       "preExisting": true,
       "missedAt": 1785506903329,
       "missedDelay": null,
-      "lastUpdated": 1789133480165,
+      "lastUpdated": 1789707928543,
       "missedPrice": 4.99,
       "missedImg": true,
       "title": "Bondi Blades Derma Razor 3-Pack",
-      "auctionCode": "0019865527",
+      "auctionCode": "0019874324",
       "source": "gha",
       "productUrl": "/products/finishing-touch-flawless-lady-electric-shaver-white",
       "productUrlChecked": 1785506912623,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1789133480165,
-      "pdpPrice": "2.99",
+      "lastAir": 1789707928543,
+      "pdpPrice": "6.99",
       "buy": true,
       "login": false,
       "img": true
@@ -358304,8 +358304,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789707395083,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388533,11 +388533,22 @@
         "followingSku": "8484037",
         "followingTitle": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp",
         "followingAuctionCode": "0019875525"
+      },
+      {
+        "start": 1789707395083,
+        "end": 1789707928543,
+        "durationMin": 8.9,
+        "precedingSku": "8525984",
+        "precedingTitle": "Harry Potter Slytherin Coffee Mug",
+        "precedingAuctionCode": "0019874183",
+        "followingSku": "8341810",
+        "followingTitle": "Bondi Blades Derma Razor 3-Pack",
+        "followingAuctionCode": "0019874324"
       }
     ],
-    "lastOnAirSku": "8525984",
-    "lastOnAirTitle": "Harry Potter Slytherin Coffee Mug",
-    "lastOnAirAuctionCode": "0019874183",
+    "lastOnAirSku": "8341810",
+    "lastOnAirTitle": "Bondi Blades Derma Razor 3-Pack",
+    "lastOnAirAuctionCode": "0019874324",
     "precedingSku": "8525984",
     "precedingTitle": "Harry Potter Slytherin Coffee Mug",
     "precedingAuctionCode": "0019874183"
