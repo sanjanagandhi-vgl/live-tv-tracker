@@ -359054,11 +359054,15 @@
       "date": "2026-09-18",
       "time": "12:22:21",
       "productUrl": "/products/3-piece-set-shell-pearl-stone-bracelet-and-fancy-necklace?variant=53104724181258",
-      "lastUpdated": 1789730541849,
+      "lastUpdated": 1789731052135,
       "source": "gha",
       "productUrlChecked": 1789730547378,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789731052135,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8714404": {
       "sku": "8714404",
@@ -359080,8 +359084,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789731052135,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389710,8 +389714,8 @@
     "lastOnAirSku": "8714404",
     "lastOnAirTitle": "White Keshi Pearl Drop Earring with Push Back",
     "lastOnAirAuctionCode": "0019875763",
-    "precedingSku": "4511305",
-    "precedingTitle": "Black Enameled Snake Pendant with Ball Chain (Size 18-2 Ext) & Lobster Clasp",
-    "precedingAuctionCode": "0019875559"
+    "precedingSku": "8714404",
+    "precedingTitle": "White Keshi Pearl Drop Earring with Push Back",
+    "precedingAuctionCode": "0019875763"
   }
 }
