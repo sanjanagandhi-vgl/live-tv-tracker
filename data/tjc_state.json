@@ -36616,17 +36616,17 @@
       "firstAir": 1785487533727,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789359143214,
+      "lastAir": 1789745959677,
       "title": "131 Pcs Complete Sewing kit with Case - Includes 30 Colour Threads",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019869144",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019876014",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-14",
-      "time": "05:12:23",
+      "date": "2026-09-18",
+      "time": "16:39:19",
       "productUrl": "/products/tool-kit-home-size-23x3-black-multicolor-8512277",
-      "lastUpdated": 1789359143214,
+      "lastUpdated": 1789745959677,
       "source": "gha",
       "missedAt": 1785488366533,
       "missedDelay": 9,
@@ -359749,8 +359749,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789745903005,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390583,11 +390583,22 @@
         "followingSku": "8626755",
         "followingTitle": "Livmore Set of 2 Handcrafted Nested Mango Wooden Boxes with Oxidized Lotus Work - Brown",
         "followingAuctionCode": "0019874722"
+      },
+      {
+        "start": 1789745903005,
+        "end": 1789745959677,
+        "durationMin": 0.9,
+        "precedingSku": "8626755",
+        "precedingTitle": "Livmore Set of 2 Handcrafted Nested Mango Wooden Boxes with Oxidized Lotus Work - Brown",
+        "precedingAuctionCode": "0019874722",
+        "followingSku": "8512277",
+        "followingTitle": "131 Pcs Complete Sewing kit with Case - Includes 30 Colour Threads",
+        "followingAuctionCode": "0019876014"
       }
     ],
-    "lastOnAirSku": "8626755",
-    "lastOnAirTitle": "Livmore Set of 2 Handcrafted Nested Mango Wooden Boxes with Oxidized Lotus Work - Brown",
-    "lastOnAirAuctionCode": "0019874722",
+    "lastOnAirSku": "8512277",
+    "lastOnAirTitle": "131 Pcs Complete Sewing kit with Case - Includes 30 Colour Threads",
+    "lastOnAirAuctionCode": "0019876014",
     "precedingSku": "8626755",
     "precedingTitle": "Livmore Set of 2 Handcrafted Nested Mango Wooden Boxes with Oxidized Lotus Work - Brown",
     "precedingAuctionCode": "0019874722"
