@@ -38640,17 +38640,17 @@
       "firstAir": 1785507086783,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788492261877,
+      "lastAir": 1789709129336,
       "title": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
       "pdpPrice": "5.99",
-      "auctionCode": "0019854153",
+      "auctionCode": "0019874326",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-04",
-      "time": "04:24:21",
+      "date": "2026-09-18",
+      "time": "06:25:29",
       "productUrl": "/products/2-piece-set-mark-hill-lets-hydrate-hydrating-treatment-cream-200ml-hair-oil-50ml-8566305",
-      "lastUpdated": 1788492261877,
+      "lastUpdated": 1789709129336,
       "source": "gha",
       "missedAt": 1785507797201,
       "missedDelay": 10,
@@ -358365,8 +358365,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789709062032,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -388627,11 +388627,22 @@
         "followingSku": "8566306",
         "followingTitle": "Mark Hill Pick 'N' Mix Triple Threat Heat Protection Leave In Cream - 200ml",
         "followingAuctionCode": "0019874325"
+      },
+      {
+        "start": 1789709062032,
+        "end": 1789709129336,
+        "durationMin": 1.1,
+        "precedingSku": "8566306",
+        "precedingTitle": "Mark Hill Pick 'N' Mix Triple Threat Heat Protection Leave In Cream - 200ml",
+        "precedingAuctionCode": "0019874325",
+        "followingSku": "8566305",
+        "followingTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
+        "followingAuctionCode": "0019874326"
       }
     ],
-    "lastOnAirSku": "8566306",
-    "lastOnAirTitle": "Mark Hill Pick 'N' Mix Triple Threat Heat Protection Leave In Cream - 200ml",
-    "lastOnAirAuctionCode": "0019874325",
+    "lastOnAirSku": "8566305",
+    "lastOnAirTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
+    "lastOnAirAuctionCode": "0019874326",
     "precedingSku": "8566306",
     "precedingTitle": "Mark Hill Pick 'N' Mix Triple Threat Heat Protection Leave In Cream - 200ml",
     "precedingAuctionCode": "0019874325"
