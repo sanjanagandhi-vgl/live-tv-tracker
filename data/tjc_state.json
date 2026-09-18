@@ -357632,11 +357632,29 @@
       "productUrlChecked": 1789694553811,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7850545": {
+      "sku": "7850545",
+      "firstAir": 1789700062966,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789700062966,
+      "title": "Super Soft Plush Hat and Scarf Set",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019873215",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "03:54:22",
+      "productUrl": null,
+      "lastUpdated": 1789700062966,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789699998184,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -387787,11 +387805,22 @@
         "followingSku": "8371419",
         "followingTitle": "Ladies Diamond Thermal Legging",
         "followingAuctionCode": "0019873165"
+      },
+      {
+        "start": 1789699998184,
+        "end": 1789700062966,
+        "durationMin": 1.1,
+        "precedingSku": "8371419",
+        "precedingTitle": "Ladies Diamond Thermal Legging",
+        "precedingAuctionCode": "0019873165",
+        "followingSku": "7850545",
+        "followingTitle": "Super Soft Plush Hat and Scarf Set",
+        "followingAuctionCode": "0019873215"
       }
     ],
-    "lastOnAirSku": "8371419",
-    "lastOnAirTitle": "Ladies Diamond Thermal Legging",
-    "lastOnAirAuctionCode": "0019873165",
+    "lastOnAirSku": "7850545",
+    "lastOnAirTitle": "Super Soft Plush Hat and Scarf Set",
+    "lastOnAirAuctionCode": "0019873215",
     "precedingSku": "8371419",
     "precedingTitle": "Ladies Diamond Thermal Legging",
     "precedingAuctionCode": "0019873165"
