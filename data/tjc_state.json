@@ -360251,11 +360251,29 @@
       "productUrl": null,
       "lastUpdated": 1789759038846,
       "source": "gha"
+    },
+    "8596521": {
+      "sku": "8596521",
+      "firstAir": 1789759279386,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789759279386,
+      "title": "Livmore Rechargeable Mini Portable Bag Heat Sealer with 10 Sealing Bags - USB Powered - White",
+      "pdpPrice": "22.99",
+      "auctionCode": "0019874777",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-18",
+      "time": "20:21:19",
+      "productUrl": null,
+      "lastUpdated": 1789759279386,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789759102533,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -391319,11 +391337,22 @@
         "followingSku": "8624644",
         "followingTitle": "Cable, Charger and Adapter - White",
         "followingAuctionCode": "0019875875"
+      },
+      {
+        "start": 1789759102533,
+        "end": 1789759279386,
+        "durationMin": 2.9,
+        "precedingSku": "8624644",
+        "precedingTitle": "Cable, Charger and Adapter - White",
+        "precedingAuctionCode": "0019875875",
+        "followingSku": "8596521",
+        "followingTitle": "Livmore Rechargeable Mini Portable Bag Heat Sealer with 10 Sealing Bags - USB Powered - White",
+        "followingAuctionCode": "0019874777"
       }
     ],
-    "lastOnAirSku": "8624644",
-    "lastOnAirTitle": "Cable, Charger and Adapter - White",
-    "lastOnAirAuctionCode": "0019875875",
+    "lastOnAirSku": "8596521",
+    "lastOnAirTitle": "Livmore Rechargeable Mini Portable Bag Heat Sealer with 10 Sealing Bags - USB Powered - White",
+    "lastOnAirAuctionCode": "0019874777",
     "precedingSku": "8624644",
     "precedingTitle": "Cable, Charger and Adapter - White",
     "precedingAuctionCode": "0019875875"
