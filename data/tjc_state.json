@@ -150687,21 +150687,26 @@
       "sku": "8586067",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "12:19:22",
+      "date": "2026-09-18",
+      "time": "12:33:20",
       "preExisting": true,
       "missedAt": 1786619962083,
       "missedDelay": null,
-      "lastUpdated": 1786619962083,
+      "lastUpdated": 1789731200118,
       "missedPrice": 8.99,
       "missedImg": true,
       "title": "LOX - 2 Pairs Silver Tone English Style Secure Earring Backs",
-      "auctionCode": "0019819669",
+      "auctionCode": "0019875757",
       "source": "gha",
       "productUrl": "/products/24-piece-transparent-ring-size-adjuster-set",
       "productUrlChecked": 1786619967749,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789731200118,
+      "pdpPrice": "279.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8131711": {
       "sku": "8131711",
@@ -359084,8 +359089,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789731052135,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -389709,11 +389714,22 @@
         "followingSku": "4510742",
         "followingTitle": "Multi-Colour  Cushion Shape Pendant with Chain (Size 18)",
         "followingAuctionCode": "0019875563"
+      },
+      {
+        "start": 1789731052135,
+        "end": 1789731200118,
+        "durationMin": 2.5,
+        "precedingSku": "8714404",
+        "precedingTitle": "White Keshi Pearl Drop Earring with Push Back",
+        "precedingAuctionCode": "0019875763",
+        "followingSku": "8586067",
+        "followingTitle": "LOX - 2 Pairs Silver Tone English Style Secure Earring Backs",
+        "followingAuctionCode": "0019875757"
       }
     ],
-    "lastOnAirSku": "8714404",
-    "lastOnAirTitle": "White Keshi Pearl Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019875763",
+    "lastOnAirSku": "8586067",
+    "lastOnAirTitle": "LOX - 2 Pairs Silver Tone English Style Secure Earring Backs",
+    "lastOnAirAuctionCode": "0019875757",
     "precedingSku": "8714404",
     "precedingTitle": "White Keshi Pearl Drop Earring with Push Back",
     "precedingAuctionCode": "0019875763"
