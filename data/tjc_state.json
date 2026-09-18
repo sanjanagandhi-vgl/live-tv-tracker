@@ -359349,11 +359349,29 @@
       "productUrl": null,
       "lastUpdated": 1789742239505,
       "source": "gha"
+    },
+    "4510794": {
+      "sku": "4510794",
+      "firstAir": 1789742361175,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789742361175,
+      "title": "Abalone Shell Drop Pendant with Chain (Size 18-2 Ext) 3.00 Ct.",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019873469",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-18",
+      "time": "15:39:21",
+      "productUrl": null,
+      "lastUpdated": 1789742361175,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789742304821,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -390120,11 +390138,22 @@
         "followingSku": "4522493",
         "followingTitle": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
         "followingAuctionCode": "0019873465"
+      },
+      {
+        "start": 1789742304821,
+        "end": 1789742361175,
+        "durationMin": 0.9,
+        "precedingSku": "4522493",
+        "precedingTitle": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
+        "precedingAuctionCode": "0019873465",
+        "followingSku": "4510794",
+        "followingTitle": "Abalone Shell Drop Pendant with Chain (Size 18-2 Ext) 3.00 Ct.",
+        "followingAuctionCode": "0019873469"
       }
     ],
-    "lastOnAirSku": "4522493",
-    "lastOnAirTitle": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
-    "lastOnAirAuctionCode": "0019873465",
+    "lastOnAirSku": "4510794",
+    "lastOnAirTitle": "Abalone Shell Drop Pendant with Chain (Size 18-2 Ext) 3.00 Ct.",
+    "lastOnAirAuctionCode": "0019873469",
     "precedingSku": "4522493",
     "precedingTitle": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
     "precedingAuctionCode": "0019873465"
