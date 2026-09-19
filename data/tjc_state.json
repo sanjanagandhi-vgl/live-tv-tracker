@@ -368294,7 +368294,10 @@
       "missedAt": 1789848798571,
       "missedDelay": 10,
       "missedPrice": 1479.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrlChecked": 1789848864733,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8793409": {
       "sku": "8793409",
@@ -368315,7 +368318,10 @@
       "missedAt": 1789848798571,
       "missedDelay": 10,
       "missedPrice": 1479.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrlChecked": 1789848864921,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8793438": {
       "sku": "8793438",
@@ -368336,7 +368342,10 @@
       "missedAt": 1789848798571,
       "missedDelay": 10,
       "missedPrice": 1479.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrlChecked": 1789848865117,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8493985": {
       "sku": "8493985",
@@ -368613,8 +368622,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789848861972,
     "gaps": [
       {
         "start": 1785823527869,
@@ -400596,8 +400605,8 @@
     "lastOnAirSku": "8493985",
     "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Bubble Ring in Rhodium Overlay Sterling Silver 0.50 Ct.",
     "lastOnAirAuctionCode": "0019877469",
-    "precedingSku": "8793346",
-    "precedingTitle": "TJC Biggest Diamond Offer-  9K Yellow Gold Certified VS-EF Lab Grown Diamond Solitaire Ring 4.00 Ct.",
-    "precedingAuctionCode": "0019878100"
+    "precedingSku": "8493985",
+    "precedingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Bubble Ring in Rhodium Overlay Sterling Silver 0.50 Ct.",
+    "precedingAuctionCode": "0019877469"
   }
 }
