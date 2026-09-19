@@ -68871,17 +68871,17 @@
       "firstAir": 1785803781089,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785804041830,
+      "lastAir": 1789826728562,
       "title": "Luxuriant Diamond Lab Grown Diamond (SI-GH) Heart Pendant in Sterling Silver",
-      "pdpPrice": "129.99",
-      "auctionCode": "0019805859",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019876343",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-04",
-      "time": "01:40:41",
+      "date": "2026-09-19",
+      "time": "15:05:28",
       "productUrl": "/products/luxuriant-diamond-lab-grown-diamond-si-gh-heart-pendant-in-sterling-silver",
-      "lastUpdated": 1785804636774,
+      "lastUpdated": 1789826728562,
       "source": "gha",
       "missedAt": 1785804636774,
       "missedDelay": 10,
@@ -366506,8 +366506,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789826662539,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -398319,11 +398319,22 @@
         "followingSku": "8774455",
         "followingTitle": null,
         "followingAuctionCode": "0019877694"
+      },
+      {
+        "start": 1789826662539,
+        "end": 1789826728562,
+        "durationMin": 1.1,
+        "precedingSku": "8774455",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019877694",
+        "followingSku": "8048165",
+        "followingTitle": "Luxuriant Diamond Lab Grown Diamond (SI-GH) Heart Pendant in Sterling Silver",
+        "followingAuctionCode": "0019876343"
       }
     ],
-    "lastOnAirSku": "8774455",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019877694",
+    "lastOnAirSku": "8048165",
+    "lastOnAirTitle": "Luxuriant Diamond Lab Grown Diamond (SI-GH) Heart Pendant in Sterling Silver",
+    "lastOnAirAuctionCode": "0019876343",
     "precedingSku": "8774455",
     "precedingTitle": null,
     "precedingAuctionCode": "0019877694"
