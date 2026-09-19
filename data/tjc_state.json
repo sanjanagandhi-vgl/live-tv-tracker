@@ -42841,17 +42841,17 @@
       "firstAir": 1785549439489,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789774159579,
+      "lastAir": 1789790062922,
       "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Necklace (Size - 30-2 Ext) in Rhodium Overlay Sterling Silver 1.00 Ct.",
       "pdpPrice": "189.99",
-      "auctionCode": "0019876176",
+      "auctionCode": "0019876685",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-19",
-      "time": "00:29:19",
+      "time": "04:54:22",
       "productUrl": "/products/luxuriant-lab-grown-diamond-necklace-1548563535",
-      "lastUpdated": 1789774159579,
+      "lastUpdated": 1789790062922,
       "source": "gha",
       "missedAt": 1785550462051,
       "missedDelay": 9,
@@ -362127,8 +362127,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789789998729,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -393478,11 +393478,22 @@
         "followingSku": "8551440",
         "followingTitle": "Luxuriant - Lab Grown Diamond Stud Earring with Push Post in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019875726"
+      },
+      {
+        "start": 1789789998729,
+        "end": 1789790062922,
+        "durationMin": 1.1,
+        "precedingSku": "8551440",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond Stud Earring with Push Post in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019875726",
+        "followingSku": "8563535",
+        "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Necklace (Size - 30-2 Ext) in Rhodium Overlay Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019876685"
       }
     ],
-    "lastOnAirSku": "8551440",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond Stud Earring with Push Post in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019875726",
+    "lastOnAirSku": "8563535",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Necklace (Size - 30-2 Ext) in Rhodium Overlay Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019876685",
     "precedingSku": "8551440",
     "precedingTitle": "Luxuriant - Lab Grown Diamond Stud Earring with Push Post in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019875726"
