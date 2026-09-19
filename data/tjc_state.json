@@ -361731,11 +361731,29 @@
       "productUrl": null,
       "lastUpdated": 1789780703668,
       "source": "gha"
+    },
+    "8270076": {
+      "sku": "8270076",
+      "firstAir": 1789780836096,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789780836096,
+      "title": "LUXURIANT Nail-Inspired Lab Grown Diamond Openable Bangle",
+      "pdpPrice": "2099.99",
+      "auctionCode": "0019875614",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-19",
+      "time": "02:20:36",
+      "productUrl": null,
+      "lastUpdated": 1789780836096,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789780765389,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -392942,11 +392960,22 @@
         "followingSku": "8274755",
         "followingTitle": "Luxuriant Lab Grown Diamond (SI/GH) Necklace (Size 20)",
         "followingAuctionCode": "0019875620"
+      },
+      {
+        "start": 1789780765389,
+        "end": 1789780836096,
+        "durationMin": 1.2,
+        "precedingSku": "8274755",
+        "precedingTitle": "Luxuriant Lab Grown Diamond (SI/GH) Necklace (Size 20)",
+        "precedingAuctionCode": "0019875620",
+        "followingSku": "8270076",
+        "followingTitle": "LUXURIANT Nail-Inspired Lab Grown Diamond Openable Bangle",
+        "followingAuctionCode": "0019875614"
       }
     ],
-    "lastOnAirSku": "8274755",
-    "lastOnAirTitle": "Luxuriant Lab Grown Diamond (SI/GH) Necklace (Size 20)",
-    "lastOnAirAuctionCode": "0019875620",
+    "lastOnAirSku": "8270076",
+    "lastOnAirTitle": "LUXURIANT Nail-Inspired Lab Grown Diamond Openable Bangle",
+    "lastOnAirAuctionCode": "0019875614",
     "precedingSku": "8274755",
     "precedingTitle": "Luxuriant Lab Grown Diamond (SI/GH) Necklace (Size 20)",
     "precedingAuctionCode": "0019875620"
