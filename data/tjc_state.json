@@ -365498,11 +365498,29 @@
       "auctionCode": "0019876516",
       "source": "gha",
       "productUrl": null
+    },
+    "8759671": {
+      "sku": "8759671",
+      "firstAir": 1789818798962,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789818798962,
+      "title": "Fifth Avenue CloseOut-10K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 7.5) 4.20 Ct.",
+      "pdpPrice": "9999.99",
+      "auctionCode": "0019876629",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-19",
+      "time": "12:53:18",
+      "productUrl": null,
+      "lastUpdated": 1789818798962,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789818636903,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -397215,11 +397233,22 @@
         "followingSku": "8774007",
         "followingTitle": null,
         "followingAuctionCode": "0019877510"
+      },
+      {
+        "start": 1789818636903,
+        "end": 1789818798962,
+        "durationMin": 2.7,
+        "precedingSku": "8774007",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019877510",
+        "followingSku": "8759671",
+        "followingTitle": "Fifth Avenue CloseOut-10K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 7.5) 4.20 Ct.",
+        "followingAuctionCode": "0019876629"
       }
     ],
-    "lastOnAirSku": "8774007",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019877510",
+    "lastOnAirSku": "8759671",
+    "lastOnAirTitle": "Fifth Avenue CloseOut-10K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Tennis Bracelet (Size - 7.5) 4.20 Ct.",
+    "lastOnAirAuctionCode": "0019876629",
     "precedingSku": "8774007",
     "precedingTitle": null,
     "precedingAuctionCode": "0019877510"
