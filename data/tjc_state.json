@@ -365180,11 +365180,29 @@
       "productUrlChecked": 1789816704268,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8767577": {
+      "sku": "8767577",
+      "firstAir": 1789816877366,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789816877366,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019876515",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-19",
+      "time": "12:21:17",
+      "productUrl": null,
+      "lastUpdated": 1789816877366,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789816758286,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -396864,11 +396882,22 @@
         "followingSku": "8502593",
         "followingTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Stud Push Post Earring 2.08 Ct.",
         "followingAuctionCode": "0019876524"
+      },
+      {
+        "start": 1789816758286,
+        "end": 1789816877366,
+        "durationMin": 2.0,
+        "precedingSku": "8502593",
+        "precedingTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Stud Push Post Earr...",
+        "precedingAuctionCode": "0019876524",
+        "followingSku": "8767577",
+        "followingTitle": null,
+        "followingAuctionCode": "0019876515"
       }
     ],
-    "lastOnAirSku": "8502593",
-    "lastOnAirTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Stud Push Post Earr...",
-    "lastOnAirAuctionCode": "0019876524",
+    "lastOnAirSku": "8767577",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019876515",
     "precedingSku": "8502593",
     "precedingTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Stud Push Post Earr...",
     "precedingAuctionCode": "0019876524"
