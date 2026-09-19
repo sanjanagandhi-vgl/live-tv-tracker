@@ -363295,11 +363295,29 @@
       "productUrl": null,
       "lastUpdated": 1789802959094,
       "source": "gha-variant"
+    },
+    "8507938": {
+      "sku": "8507938",
+      "firstAir": 1789803262947,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789803262947,
+      "title": "Luxuriant SI-G-H Lab Grown Diamond Solitaire Stud Earring with Screw Back in 18K Vermeil Yellow Gold Plated Sterling Silver 1.01 Ct.",
+      "pdpPrice": "1199.99",
+      "auctionCode": "0019876895",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-19",
+      "time": "08:34:22",
+      "productUrl": null,
+      "lastUpdated": 1789803262947,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789803052288,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -394825,11 +394843,22 @@
         "followingSku": "8052761",
         "followingTitle": "Luxuriant Lab Grown Diamond Ring (VS-E-F) in Sterling Silver",
         "followingAuctionCode": "0019876283"
+      },
+      {
+        "start": 1789803052288,
+        "end": 1789803262947,
+        "durationMin": 3.5,
+        "precedingSku": "8052761",
+        "precedingTitle": "Luxuriant Lab Grown Diamond Ring (VS-E-F) in Sterling Silver",
+        "precedingAuctionCode": "0019876283",
+        "followingSku": "8507938",
+        "followingTitle": "Luxuriant SI-G-H Lab Grown Diamond Solitaire Stud Earring with Screw Back in 18K Vermeil Yellow Gold Plated Sterling Silver 1.01 Ct.",
+        "followingAuctionCode": "0019876895"
       }
     ],
-    "lastOnAirSku": "8052761",
-    "lastOnAirTitle": "Luxuriant Lab Grown Diamond Ring (VS-E-F) in Sterling Silver",
-    "lastOnAirAuctionCode": "0019876283",
+    "lastOnAirSku": "8507938",
+    "lastOnAirTitle": "Luxuriant SI-G-H Lab Grown Diamond Solitaire Stud Earring with Screw Back in 18K Vermeil Yellow Gold Plated Sterling Silver 1.01 Ct.",
+    "lastOnAirAuctionCode": "0019876895",
     "precedingSku": "8052761",
     "precedingTitle": "Luxuriant Lab Grown Diamond Ring (VS-E-F) in Sterling Silver",
     "precedingAuctionCode": "0019876283"
