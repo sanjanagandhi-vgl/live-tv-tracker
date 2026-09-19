@@ -22801,19 +22801,19 @@
       "sku": "8480269",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-07",
-      "time": "19:35:30",
+      "date": "2026-09-19",
+      "time": "01:36:22",
       "preExisting": true,
       "missedAt": 1785350781750,
       "missedDelay": null,
-      "lastUpdated": 1788806130557,
+      "lastUpdated": 1789778182108,
       "missedPrice": 119.99,
       "missedImg": true,
       "title": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
-      "auctionCode": "0019861264",
+      "auctionCode": "0019876223",
       "source": "gha",
-      "lastAir": 1788806130557,
-      "pdpPrice": "119.99",
+      "lastAir": 1789778182108,
+      "pdpPrice": "2499.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -361696,8 +361696,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789778129470,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -392882,11 +392882,22 @@
         "followingSku": "8614793",
         "followingTitle": "Statement Design - Lab Grown Diamond (SI-G-H) Dangling Earring with Push Post in Rhodium Overlay Sterling Silver 2.50 Ct.",
         "followingAuctionCode": "0019876261"
+      },
+      {
+        "start": 1789778129470,
+        "end": 1789778182108,
+        "durationMin": 0.9,
+        "precedingSku": "8094865",
+        "precedingTitle": "Biggest Close Out Deal - Luxuriant 9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Ring 1.55 Ct.",
+        "precedingAuctionCode": "0019876251",
+        "followingSku": "8480269",
+        "followingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
+        "followingAuctionCode": "0019876223"
       }
     ],
-    "lastOnAirSku": "8094865",
-    "lastOnAirTitle": "Biggest Close Out Deal - Luxuriant 9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Ring 1.55 Ct.",
-    "lastOnAirAuctionCode": "0019876251",
+    "lastOnAirSku": "8480269",
+    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
+    "lastOnAirAuctionCode": "0019876223",
     "precedingSku": "8094865",
     "precedingTitle": "Biggest Close Out Deal - Luxuriant 9K Yellow Gold SGL Certified Lab Grown Diamond (SI-G-H) Ring 1.55 Ct.",
     "precedingAuctionCode": "0019876251"
