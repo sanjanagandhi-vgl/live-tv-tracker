@@ -49073,25 +49073,26 @@
       "sku": "8692364",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-22",
-      "time": "12:35:28",
+      "date": "2026-09-19",
+      "time": "06:29:19",
       "preExisting": true,
       "missedAt": 1785593894331,
       "missedDelay": null,
-      "lastUpdated": 1787398528901,
+      "lastUpdated": 1789795759211,
       "missedPrice": 389.99,
       "missedImg": true,
-      "title": "Luxuriant SGL Certified SI/GH Lab Grown Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
-      "auctionCode": "0019836223",
-      "source": "gha-variant",
+      "title": "Luxuriant SGL Certified SI-GH Lab Grown Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+      "auctionCode": "0019876458",
+      "source": "gha",
       "productUrl": "/products/luxuriant-sgl-certified-lab-grown-diamond-si-g-h-pressure-set-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-2-00-ct-8692338",
       "productUrlChecked": 1785593898455,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787398528901,
-      "pdpPrice": 389.99,
+      "lastAir": 1789795759211,
+      "pdpPrice": "1649.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "8692365": {
       "sku": "8692365",
@@ -362389,8 +362390,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789795703616,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -393817,11 +393818,22 @@
         "followingSku": "8167222",
         "followingTitle": "Luxuriant Lab Grown Diamond SI-GH Solitaire Earring in Sterling Silver",
         "followingAuctionCode": "0019876442"
+      },
+      {
+        "start": 1789795703616,
+        "end": 1789795759211,
+        "durationMin": 0.9,
+        "precedingSku": "8691066",
+        "precedingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI-G-H) Halo Earring with Lever Back in Rhodium Overlay Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019876317",
+        "followingSku": "8692364",
+        "followingTitle": "Luxuriant SGL Certified SI-GH Lab Grown Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+        "followingAuctionCode": "0019876458"
       }
     ],
-    "lastOnAirSku": "8691066",
-    "lastOnAirTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI-G-H) Halo Earring with Lever Back in Rhodium Overlay Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019876317",
+    "lastOnAirSku": "8692364",
+    "lastOnAirTitle": "Luxuriant SGL Certified SI-GH Lab Grown Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019876458",
     "precedingSku": "8691066",
     "precedingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI-G-H) Halo Earring with Lever Back in Rhodium Overlay Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019876317"
