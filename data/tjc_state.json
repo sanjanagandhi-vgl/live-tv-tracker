@@ -361756,11 +361756,29 @@
       "productUrl": null,
       "lastUpdated": 1789781188618,
       "source": "gha"
+    },
+    "8515060": {
+      "sku": "8515060",
+      "firstAir": 1789781478618,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789781478618,
+      "title": "Luxuriant - Lab Grown Diamond Sterling Silver Trilogy Ring",
+      "pdpPrice": "1799.99",
+      "auctionCode": "0019875635",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-19",
+      "time": "02:31:18",
+      "productUrl": null,
+      "lastUpdated": 1789781478618,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789781239378,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -392978,11 +392996,22 @@
         "followingSku": "8270076",
         "followingTitle": "LUXURIANT Nail-Inspired Lab Grown Diamond Openable Bangle",
         "followingAuctionCode": "0019875614"
+      },
+      {
+        "start": 1789781239378,
+        "end": 1789781478618,
+        "durationMin": 4.0,
+        "precedingSku": "8270076",
+        "precedingTitle": "LUXURIANT Nail-Inspired Lab Grown Diamond Openable Bangle",
+        "precedingAuctionCode": "0019875614",
+        "followingSku": "8515060",
+        "followingTitle": "Luxuriant - Lab Grown Diamond Sterling Silver Trilogy Ring",
+        "followingAuctionCode": "0019875635"
       }
     ],
-    "lastOnAirSku": "8270076",
-    "lastOnAirTitle": "LUXURIANT Nail-Inspired Lab Grown Diamond Openable Bangle",
-    "lastOnAirAuctionCode": "0019875614",
+    "lastOnAirSku": "8515060",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond Sterling Silver Trilogy Ring",
+    "lastOnAirAuctionCode": "0019875635",
     "precedingSku": "8270076",
     "precedingTitle": "LUXURIANT Nail-Inspired Lab Grown Diamond Openable Bangle",
     "precedingAuctionCode": "0019875614"
