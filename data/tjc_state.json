@@ -9002,21 +9002,22 @@
       "firstAir": 1784965102377,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784965939517,
-      "title": "Natural Black Boot Jade & Lab Grown Diamond (0.50Cts SI/GH )Solitaire Band Ring in Rhodium Overlay Sterling Silver 24.90 Ct.",
-      "pdpPrice": 129.99,
-      "auctionCode": "0019791449",
-      "buy": false,
+      "lastAir": 1789776198219,
+      "title": "Natural Black Boot Jade & Lab Grown Diamond (0.50Cts SI-GH )Solitaire Band Ring in Rhodium Overlay Sterling Silver 24.90 Ct.",
+      "pdpPrice": "2345.99",
+      "auctionCode": "0019876184",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "08:52:19",
-      "lastUpdated": 1784966838368,
+      "date": "2026-09-19",
+      "time": "01:03:18",
+      "lastUpdated": 1789776198219,
       "source": "gha",
       "missedAt": 1784966838368,
       "missedDelay": 15,
       "missedPrice": 129.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8370072": {
       "sku": "8370072",
@@ -361554,8 +361555,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789776065803,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -392718,11 +392719,22 @@
         "followingSku": "8774007",
         "followingTitle": null,
         "followingAuctionCode": "0019876018"
+      },
+      {
+        "start": 1789776065803,
+        "end": 1789776198219,
+        "durationMin": 2.2,
+        "precedingSku": "8493472",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond SI-G-H Solitaire Studs Push Post Earring in 18K Vermeil Yellow Gold...",
+        "precedingAuctionCode": "0019876174",
+        "followingSku": "8658034",
+        "followingTitle": "Natural Black Boot Jade & Lab Grown Diamond (0.50Cts SI-GH )Solitaire Band Ring in Rhodium Overlay Sterling Silver 24.90 Ct.",
+        "followingAuctionCode": "0019876184"
       }
     ],
-    "lastOnAirSku": "8493472",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond SI-G-H Solitaire Studs Push Post Earring in 18K Vermeil Yellow Gold...",
-    "lastOnAirAuctionCode": "0019876174",
+    "lastOnAirSku": "8658034",
+    "lastOnAirTitle": "Natural Black Boot Jade & Lab Grown Diamond (0.50Cts SI-GH )Solitaire Band Ring in Rhodium Overlay Sterling Silver 24.90 Ct.",
+    "lastOnAirAuctionCode": "0019876184",
     "precedingSku": "8493472",
     "precedingTitle": "Luxuriant - Lab Grown Diamond SI-G-H Solitaire Studs Push Post Earring in 18K Vermeil Yellow Gold...",
     "precedingAuctionCode": "0019876174"
