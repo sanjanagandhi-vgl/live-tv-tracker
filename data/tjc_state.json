@@ -363545,7 +363545,7 @@
       "firstAir": 1789805302018,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789826127567,
+      "lastAir": 1789826238195,
       "title": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (Mrq 2.00 Ct) (SI-G-H) Ring 3.50 Ct.",
       "pdpPrice": null,
       "auctionCode": "0019877694",
@@ -363553,9 +363553,9 @@
       "login": false,
       "img": false,
       "date": "2026-09-19",
-      "time": "14:55:27",
+      "time": "14:57:18",
       "productUrl": null,
-      "lastUpdated": 1789826127567,
+      "lastUpdated": 1789826238195,
       "source": "gha",
       "missedAt": 1789807462320,
       "missedDelay": 9,
@@ -366506,8 +366506,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789826182746,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -398305,6 +398305,17 @@
         "precedingSku": "8741941",
         "precedingTitle": "Luxuriant - 9K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct.",
         "precedingAuctionCode": "0019876632",
+        "followingSku": "8774455",
+        "followingTitle": null,
+        "followingAuctionCode": "0019877694"
+      },
+      {
+        "start": 1789826182746,
+        "end": 1789826238195,
+        "durationMin": 0.9,
+        "precedingSku": "8774455",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019877694",
         "followingSku": "8774455",
         "followingTitle": null,
         "followingAuctionCode": "0019877694"
