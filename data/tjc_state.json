@@ -49626,17 +49626,17 @@
       "firstAir": 1785595763566,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789074144899,
+      "lastAir": 1789815142543,
       "title": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.05 Ct.",
-      "pdpPrice": 399.99,
-      "auctionCode": "0019864869",
+      "pdpPrice": "5678.99",
+      "auctionCode": "0019876430",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-10",
-      "time": "22:02:24",
+      "date": "2026-09-19",
+      "time": "11:52:22",
       "productUrl": "/products/luxuriant-lab-grown-diamond-si-g-h-ballerina-cluster-ring-in-rhodium-overlay-sterling-silver-2-10-ct-m8608765?variant=53294192918794",
-      "lastUpdated": 1789074144899,
+      "lastUpdated": 1789815142543,
       "source": "gha",
       "missedAt": 1785596840966,
       "missedDelay": 10,
@@ -365158,8 +365158,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789815078123,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -396806,11 +396806,22 @@
         "followingSku": "8774455",
         "followingTitle": null,
         "followingAuctionCode": "0019877372"
+      },
+      {
+        "start": 1789815078123,
+        "end": 1789815142543,
+        "durationMin": 1.1,
+        "precedingSku": "8774455",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019877372",
+        "followingSku": "8608765",
+        "followingTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.05 Ct.",
+        "followingAuctionCode": "0019876430"
       }
     ],
-    "lastOnAirSku": "8774455",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019877372",
+    "lastOnAirSku": "8608765",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.05 Ct.",
+    "lastOnAirAuctionCode": "0019876430",
     "precedingSku": "8774455",
     "precedingTitle": null,
     "precedingAuctionCode": "0019877372"
