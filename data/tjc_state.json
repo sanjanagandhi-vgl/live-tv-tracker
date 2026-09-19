@@ -361713,11 +361713,29 @@
       "productUrlChecked": 1789778664911,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8274755": {
+      "sku": "8274755",
+      "firstAir": 1789780462099,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789780462099,
+      "title": "Luxuriant Lab Grown Diamond (SI/GH) Necklace (Size 20)",
+      "pdpPrice": "2799.99",
+      "auctionCode": "0019875620",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-19",
+      "time": "02:14:22",
+      "productUrl": null,
+      "lastUpdated": 1789780462099,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789780038737,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -392913,11 +392931,22 @@
         "followingSku": "8480269",
         "followingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
         "followingAuctionCode": "0019876223"
+      },
+      {
+        "start": 1789780038737,
+        "end": 1789780462099,
+        "durationMin": 7.1,
+        "precedingSku": "8480269",
+        "precedingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
+        "precedingAuctionCode": "0019876223",
+        "followingSku": "8274755",
+        "followingTitle": "Luxuriant Lab Grown Diamond (SI/GH) Necklace (Size 20)",
+        "followingAuctionCode": "0019875620"
       }
     ],
-    "lastOnAirSku": "8480269",
-    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
-    "lastOnAirAuctionCode": "0019876223",
+    "lastOnAirSku": "8274755",
+    "lastOnAirTitle": "Luxuriant Lab Grown Diamond (SI/GH) Necklace (Size 20)",
+    "lastOnAirAuctionCode": "0019875620",
     "precedingSku": "8480269",
     "precedingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
     "precedingAuctionCode": "0019876223"
