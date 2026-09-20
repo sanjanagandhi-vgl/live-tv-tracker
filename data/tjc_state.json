@@ -6318,17 +6318,23 @@
       "sku": "8642591",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-24",
-      "time": "16:53:18",
+      "date": "2026-09-20",
+      "time": "15:36:22",
       "preExisting": true,
       "missedAt": 1784908398752,
       "missedDelay": null,
-      "lastUpdated": 1784908398752,
+      "lastUpdated": 1789914982652,
       "missedPrice": 299.99,
       "missedImg": true,
-      "title": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 22) with Lobster Clasp",
-      "auctionCode": "0019791709",
-      "source": "gha"
+      "title": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 30) with Lobster Clasp",
+      "auctionCode": "0019878441",
+      "source": "gha",
+      "lastAir": 1789914982652,
+      "pdpPrice": "499.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8233468": {
       "sku": "8233468",
@@ -371965,8 +371971,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789914928031,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404768,11 +404774,22 @@
         "followingSku": "8668666",
         "followingTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
         "followingAuctionCode": "0019878476"
+      },
+      {
+        "start": 1789914928031,
+        "end": 1789914982652,
+        "durationMin": 0.9,
+        "precedingSku": "8668666",
+        "precedingTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
+        "precedingAuctionCode": "0019878476",
+        "followingSku": "8642591",
+        "followingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 30) with Lobster Clasp",
+        "followingAuctionCode": "0019878441"
       }
     ],
-    "lastOnAirSku": "8668666",
-    "lastOnAirTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019878476",
+    "lastOnAirSku": "8642591",
+    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 30) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019878441",
     "precedingSku": "8668666",
     "precedingTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
     "precedingAuctionCode": "0019878476"
