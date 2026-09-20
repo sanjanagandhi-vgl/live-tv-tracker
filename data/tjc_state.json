@@ -127044,17 +127044,17 @@
       "firstAir": 1786397485320,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789428328343,
+      "lastAir": 1789913838485,
       "title": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
-      "pdpPrice": 59.99,
-      "auctionCode": "0019870148",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019878454",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-15",
-      "time": "00:25:28",
+      "date": "2026-09-20",
+      "time": "15:17:18",
       "productUrl": "/products/close-out-deal-9k-yellow-gold-dolphin-creole-earring-with-clasp-8613734?variant=53109405483274",
-      "lastUpdated": 1789428328343,
+      "lastUpdated": 1789913838485,
       "source": "gha",
       "missedAt": 1786398142395,
       "missedDelay": 9,
@@ -371933,8 +371933,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789913782538,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404692,11 +404692,22 @@
         "followingSku": "8572412",
         "followingTitle": "9K Yellow Gold Huggie Earring with Clasp",
         "followingAuctionCode": "0019878423"
+      },
+      {
+        "start": 1789913782538,
+        "end": 1789913838485,
+        "durationMin": 0.9,
+        "precedingSku": "8572412",
+        "precedingTitle": "9K Yellow Gold Huggie Earring with Clasp",
+        "precedingAuctionCode": "0019878423",
+        "followingSku": "8613734",
+        "followingTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
+        "followingAuctionCode": "0019878454"
       }
     ],
-    "lastOnAirSku": "8572412",
-    "lastOnAirTitle": "9K Yellow Gold Huggie Earring with Clasp",
-    "lastOnAirAuctionCode": "0019878423",
+    "lastOnAirSku": "8613734",
+    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
+    "lastOnAirAuctionCode": "0019878454",
     "precedingSku": "8572412",
     "precedingTitle": "9K Yellow Gold Huggie Earring with Clasp",
     "precedingAuctionCode": "0019878423"
