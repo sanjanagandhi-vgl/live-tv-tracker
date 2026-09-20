@@ -34577,23 +34577,23 @@
       "sku": "8429768",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "06:27:19",
+      "date": "2026-09-20",
+      "time": "02:49:21",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1786944439961,
+      "lastUpdated": 1789868961125,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Massager",
-      "auctionCode": "0019825323",
+      "auctionCode": "0019875394",
       "source": "gha",
       "productUrl": "/products/massager-1518429767",
       "productUrlChecked": 1785476750086,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1786944439961,
-      "pdpPrice": "14.99",
+      "lastAir": 1789868961125,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -369203,8 +369203,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789868900795,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401390,11 +401390,22 @@
         "followingSku": "7682838",
         "followingTitle": "Laurelle Baie Des Anges EDP By Perry - 50ml",
         "followingAuctionCode": "0019875371"
+      },
+      {
+        "start": 1789868900795,
+        "end": 1789868961125,
+        "durationMin": 1.0,
+        "precedingSku": "8379930",
+        "precedingTitle": "Set of 2 QAWAFI Elysian",
+        "precedingAuctionCode": "0019875388",
+        "followingSku": "8429768",
+        "followingTitle": "Massager",
+        "followingAuctionCode": "0019875394"
       }
     ],
-    "lastOnAirSku": "8379930",
-    "lastOnAirTitle": "Set of 2 QAWAFI Elysian",
-    "lastOnAirAuctionCode": "0019875388",
+    "lastOnAirSku": "8429768",
+    "lastOnAirTitle": "Massager",
+    "lastOnAirAuctionCode": "0019875394",
     "precedingSku": "8379930",
     "precedingTitle": "Set of 2 QAWAFI Elysian",
     "precedingAuctionCode": "0019875388"
