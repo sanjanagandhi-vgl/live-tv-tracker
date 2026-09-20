@@ -88764,23 +88764,23 @@
       "sku": "8668670",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-08",
-      "time": "22:26:22",
+      "date": "2026-09-20",
+      "time": "05:15:37",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1788902782489,
+      "lastUpdated": 1789877737198,
       "missedPrice": 299.99,
       "missedImg": true,
       "title": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
-      "auctionCode": "0019862202",
+      "auctionCode": "0019875422",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-cross-necklace-size-16-with-spring-ring-clasp-8668670?variant=53473709981962",
       "productUrlChecked": 1786057427769,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1788902782489,
-      "pdpPrice": "179.99",
+      "lastAir": 1789877737198,
+      "pdpPrice": "249.99",
       "buy": true,
       "login": false,
       "img": true
@@ -369303,8 +369303,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789877662676,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401600,11 +401600,22 @@
         "followingSku": "8572443",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
         "followingAuctionCode": "0019875423"
+      },
+      {
+        "start": 1789877662676,
+        "end": 1789877737198,
+        "durationMin": 1.2,
+        "precedingSku": "8572443",
+        "precedingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
+        "precedingAuctionCode": "0019875423",
+        "followingSku": "8668670",
+        "followingTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
+        "followingAuctionCode": "0019875422"
       }
     ],
-    "lastOnAirSku": "8572443",
-    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
-    "lastOnAirAuctionCode": "0019875423",
+    "lastOnAirSku": "8668670",
+    "lastOnAirTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019875422",
     "precedingSku": "8572443",
     "precedingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
     "precedingAuctionCode": "0019875423"
