@@ -23403,19 +23403,19 @@
       "sku": "8572379",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-12",
-      "time": "04:16:24",
+      "date": "2026-09-20",
+      "time": "15:28:22",
       "preExisting": true,
       "missedAt": 1785371128635,
       "missedDelay": null,
-      "lastUpdated": 1789182984009,
+      "lastUpdated": 1789914502020,
       "missedPrice": 69.99,
       "missedImg": true,
       "title": "Designer Inspired - 9K Yellow Gold Heart Pendant",
-      "auctionCode": "0019866016",
+      "auctionCode": "0019878469",
       "source": "gha",
-      "lastAir": 1789182984009,
-      "pdpPrice": "59.99",
+      "lastAir": 1789914502020,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -371965,8 +371965,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789914441097,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404746,11 +404746,22 @@
         "followingSku": "8571440",
         "followingTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
         "followingAuctionCode": "0019878439"
+      },
+      {
+        "start": 1789914441097,
+        "end": 1789914502020,
+        "durationMin": 1.0,
+        "precedingSku": "8596986",
+        "precedingTitle": "9K Yellow Gold Ring (Size - Medium)",
+        "precedingAuctionCode": "0019878471",
+        "followingSku": "8572379",
+        "followingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
+        "followingAuctionCode": "0019878469"
       }
     ],
-    "lastOnAirSku": "8596986",
-    "lastOnAirTitle": "9K Yellow Gold Ring (Size - Medium)",
-    "lastOnAirAuctionCode": "0019878471",
+    "lastOnAirSku": "8572379",
+    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
+    "lastOnAirAuctionCode": "0019878469",
     "precedingSku": "8596986",
     "precedingTitle": "9K Yellow Gold Ring (Size - Medium)",
     "precedingAuctionCode": "0019878471"
