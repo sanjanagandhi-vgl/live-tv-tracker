@@ -359408,21 +359408,26 @@
       "sku": "4464160",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "13:34:23",
+      "date": "2026-09-20",
+      "time": "14:54:25",
       "preExisting": true,
       "missedAt": 1789734863646,
       "missedDelay": null,
-      "lastUpdated": 1789734863646,
+      "lastUpdated": 1789912465222,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Set of 2 - Magnetic Lock with Lobster Clasp in Rhodium Plating",
-      "auctionCode": "0019875825",
+      "title": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+      "auctionCode": "0019878602",
       "source": "gha",
       "productUrl": "/products/magnetic-lock-in-rhodium-overlay-pure-white-stainless-steel-4464147",
       "productUrlChecked": 1789734867845,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789912465222,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4464157": {
       "sku": "4464157",
@@ -371907,8 +371912,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789912398930,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404633,11 +404638,22 @@
         "followingSku": "8673795",
         "followingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019879199"
+      },
+      {
+        "start": 1789912398930,
+        "end": 1789912465222,
+        "durationMin": 1.1,
+        "precedingSku": "8673795",
+        "precedingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019879199",
+        "followingSku": "4464160",
+        "followingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+        "followingAuctionCode": "0019878602"
       }
     ],
-    "lastOnAirSku": "8673795",
-    "lastOnAirTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019879199",
+    "lastOnAirSku": "4464160",
+    "lastOnAirTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+    "lastOnAirAuctionCode": "0019878602",
     "precedingSku": "8673795",
     "precedingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019879199"
