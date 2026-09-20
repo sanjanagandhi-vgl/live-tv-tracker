@@ -180,23 +180,23 @@
       "sku": "8571440",
       "tvPrice": "",
       "remarks": "",
-      "time": "10:50:38",
+      "time": "15:21:18",
       "preExisting": true,
       "missedAt": 1784790236863,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
-      "auctionCode": "0019845777",
+      "auctionCode": "0019878439",
       "source": "gha",
-      "lastAir": 1788083438215,
-      "pdpPrice": "199.99",
+      "lastAir": 1789914078402,
+      "pdpPrice": "399.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-30",
+      "date": "2026-09-20",
       "productUrl": null,
-      "lastUpdated": 1788083438215
+      "lastUpdated": 1789914078402
     },
     "8422340": {
       "sku": "8422340",
@@ -371933,8 +371933,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789913959165,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404703,11 +404703,22 @@
         "followingSku": "8613734",
         "followingTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
         "followingAuctionCode": "0019878454"
+      },
+      {
+        "start": 1789913959165,
+        "end": 1789914078402,
+        "durationMin": 2.0,
+        "precedingSku": "8613734",
+        "precedingTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
+        "precedingAuctionCode": "0019878454",
+        "followingSku": "8571440",
+        "followingTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
+        "followingAuctionCode": "0019878439"
       }
     ],
-    "lastOnAirSku": "8613734",
-    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
-    "lastOnAirAuctionCode": "0019878454",
+    "lastOnAirSku": "8571440",
+    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
+    "lastOnAirAuctionCode": "0019878439",
     "precedingSku": "8613734",
     "precedingTitle": "Close Out Deal- 9K Yellow Gold Dolphin Creole Earring with Clasp",
     "precedingAuctionCode": "0019878454"
