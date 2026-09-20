@@ -337210,21 +337210,26 @@
       "sku": "8579795",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-12",
-      "time": "21:53:21",
+      "date": "2026-09-20",
+      "time": "23:12:22",
       "preExisting": true,
       "missedAt": 1789246401919,
       "missedDelay": null,
-      "lastUpdated": 1789246401919,
+      "lastUpdated": 1789942342176,
       "missedPrice": 899.99,
       "missedImg": true,
       "title": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
-      "auctionCode": "0019868232",
+      "auctionCode": "0019878245",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-6-00-gms-8579795",
       "productUrlChecked": 1789246406203,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789942342176,
+      "pdpPrice": "1299.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8579814": {
       "sku": "8579814",
@@ -373198,8 +373203,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789942237032,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -406397,11 +406402,22 @@
         "followingSku": "8697645",
         "followingTitle": "Multi Colour  Stretchable Bracelet",
         "followingAuctionCode": "0019879535"
+      },
+      {
+        "start": 1789942237032,
+        "end": 1789942342176,
+        "durationMin": 1.8,
+        "precedingSku": "8697645",
+        "precedingTitle": "Multi Colour  Stretchable Bracelet",
+        "precedingAuctionCode": "0019879535",
+        "followingSku": "8579795",
+        "followingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
+        "followingAuctionCode": "0019878245"
       }
     ],
-    "lastOnAirSku": "8697645",
-    "lastOnAirTitle": "Multi Colour  Stretchable Bracelet",
-    "lastOnAirAuctionCode": "0019879535",
+    "lastOnAirSku": "8579795",
+    "lastOnAirTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
+    "lastOnAirAuctionCode": "0019878245",
     "precedingSku": "8697645",
     "precedingTitle": "Multi Colour  Stretchable Bracelet",
     "precedingAuctionCode": "0019879535"
