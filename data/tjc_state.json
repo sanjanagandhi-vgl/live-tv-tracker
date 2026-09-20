@@ -301412,23 +301412,23 @@
       "sku": "8673795",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "10:49:21",
+      "date": "2026-09-20",
+      "time": "14:45:35",
       "preExisting": true,
       "missedAt": 1788520398503,
       "missedDelay": null,
-      "lastUpdated": 1789724961480,
+      "lastUpdated": 1789911935483,
       "missedPrice": 9.99,
       "missedImg": false,
-      "title": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
-      "auctionCode": "0019874359",
+      "title": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019879199",
       "source": "gha",
       "productUrl": "/products/singapore-necklace-size-18-with-spring-ring-clasp-in-yellow-gold-plated-sterling-silver-8673794?variant=53514621550858",
       "productUrlChecked": 1788520403000,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789724961480,
-      "pdpPrice": 9.99,
+      "lastAir": 1789911935483,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": false
@@ -371907,8 +371907,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789911862741,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404622,11 +404622,22 @@
         "followingSku": "8356068",
         "followingTitle": "24K Yellow Gold (99.9% Gold Purity) FU Embossed Foil (100 x 50 MM)",
         "followingAuctionCode": "0019878589"
+      },
+      {
+        "start": 1789911862741,
+        "end": 1789911935483,
+        "durationMin": 1.2,
+        "precedingSku": "8356068",
+        "precedingTitle": "24K Yellow Gold (99.9% Gold Purity) FU Embossed Foil (100 x 50 MM)",
+        "precedingAuctionCode": "0019878589",
+        "followingSku": "8673795",
+        "followingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019879199"
       }
     ],
-    "lastOnAirSku": "8356068",
-    "lastOnAirTitle": "24K Yellow Gold (99.9% Gold Purity) FU Embossed Foil (100 x 50 MM)",
-    "lastOnAirAuctionCode": "0019878589",
+    "lastOnAirSku": "8673795",
+    "lastOnAirTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019879199",
     "precedingSku": "8356068",
     "precedingTitle": "24K Yellow Gold (99.9% Gold Purity) FU Embossed Foil (100 x 50 MM)",
     "precedingAuctionCode": "0019878589"
