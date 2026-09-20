@@ -371909,11 +371909,29 @@
       "productUrlChecked": 1789910606408,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8697645": {
+      "sku": "8697645",
+      "firstAir": 1789912941550,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789912941550,
+      "title": "Multi Colour  Stretchable Bracelet",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019878611",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-20",
+      "time": "15:02:21",
+      "productUrl": null,
+      "lastUpdated": 1789912941550,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789912860431,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404649,11 +404667,22 @@
         "followingSku": "4464160",
         "followingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
         "followingAuctionCode": "0019878602"
+      },
+      {
+        "start": 1789912860431,
+        "end": 1789912941550,
+        "durationMin": 1.4,
+        "precedingSku": "4464160",
+        "precedingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+        "precedingAuctionCode": "0019878602",
+        "followingSku": "8697645",
+        "followingTitle": "Multi Colour  Stretchable Bracelet",
+        "followingAuctionCode": "0019878611"
       }
     ],
-    "lastOnAirSku": "4464160",
-    "lastOnAirTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
-    "lastOnAirAuctionCode": "0019878602",
+    "lastOnAirSku": "8697645",
+    "lastOnAirTitle": "Multi Colour  Stretchable Bracelet",
+    "lastOnAirAuctionCode": "0019878611",
     "precedingSku": "4464160",
     "precedingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
     "precedingAuctionCode": "0019878602"
