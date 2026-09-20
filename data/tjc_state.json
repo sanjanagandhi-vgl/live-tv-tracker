@@ -78419,17 +78419,17 @@
       "firstAir": 1785928158195,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788990679741,
+      "lastAir": 1789914799298,
       "title": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
-      "pdpPrice": 699.99,
-      "auctionCode": "0019863619",
+      "pdpPrice": "999.99",
+      "auctionCode": "0019878476",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-09",
-      "time": "22:51:19",
+      "date": "2026-09-20",
+      "time": "15:33:19",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-4-05-gms-8668666?variant=53450038968586",
-      "lastUpdated": 1788990679741,
+      "lastUpdated": 1789914799298,
       "source": "gha",
       "missedAt": 1785930264676,
       "missedDelay": 9,
@@ -371965,8 +371965,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789914740958,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404757,11 +404757,22 @@
         "followingSku": "8572379",
         "followingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
         "followingAuctionCode": "0019878469"
+      },
+      {
+        "start": 1789914740958,
+        "end": 1789914799298,
+        "durationMin": 1.0,
+        "precedingSku": "8572379",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
+        "precedingAuctionCode": "0019878469",
+        "followingSku": "8668666",
+        "followingTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
+        "followingAuctionCode": "0019878476"
       }
     ],
-    "lastOnAirSku": "8572379",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
-    "lastOnAirAuctionCode": "0019878469",
+    "lastOnAirSku": "8668666",
+    "lastOnAirTitle": "First Time Ever Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019878476",
     "precedingSku": "8572379",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
     "precedingAuctionCode": "0019878469"
