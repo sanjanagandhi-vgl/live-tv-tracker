@@ -340781,23 +340781,23 @@
       "sku": "8661754",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "03:31:21",
+      "date": "2026-09-20",
+      "time": "07:13:18",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789525881809,
+      "lastUpdated": 1789884798965,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Limited Edition Elephant Gemstone Carving Collectible - Green Aventurine",
-      "auctionCode": "0019871551",
+      "auctionCode": "0019875120",
       "source": "gha",
       "productUrl": "/products/showpiece-size-one-size-multi-color-8661754?variant=53688970838282",
       "productUrlChecked": 1789359148444,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789525881809,
-      "pdpPrice": 9.99,
+      "lastAir": 1789884798965,
+      "pdpPrice": "119.99",
       "buy": true,
       "login": false,
       "img": true
@@ -369313,8 +369313,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789884680944,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401665,11 +401665,22 @@
         "followingSku": "8088314",
         "followingTitle": "100 Magic Foam Deep Clean Sponge Cleaner-Eraser - Melamine Chemical Free, Odourless. Kitchen, Bathroom, Stainless Steel, Wall, Floor.",
         "followingAuctionCode": "0019875030"
+      },
+      {
+        "start": 1789884680944,
+        "end": 1789884798965,
+        "durationMin": 2.0,
+        "precedingSku": "8088314",
+        "precedingTitle": "100 Magic Foam Deep Clean Sponge Cleaner-Eraser - Melamine Chemical Free, Odourless. Kitchen, Bathroom, Stainless Steel, Wall, Floor.",
+        "precedingAuctionCode": "0019875030",
+        "followingSku": "8661754",
+        "followingTitle": "Limited Edition Elephant Gemstone Carving Collectible - Green Aventurine",
+        "followingAuctionCode": "0019875120"
       }
     ],
-    "lastOnAirSku": "8088314",
-    "lastOnAirTitle": "100 Magic Foam Deep Clean Sponge Cleaner-Eraser - Melamine Chemical Free, Odourless. Kitchen, Bathroom, Stainless Steel, Wall, Floor.",
-    "lastOnAirAuctionCode": "0019875030",
+    "lastOnAirSku": "8661754",
+    "lastOnAirTitle": "Limited Edition Elephant Gemstone Carving Collectible - Green Aventurine",
+    "lastOnAirAuctionCode": "0019875120",
     "precedingSku": "8088314",
     "precedingTitle": "100 Magic Foam Deep Clean Sponge Cleaner-Eraser - Melamine Chemical Free, Odourless. Kitchen, Bathroom, Stainless Steel, Wall, Floor.",
     "precedingAuctionCode": "0019875030"
