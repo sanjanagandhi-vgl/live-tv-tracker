@@ -371988,11 +371988,29 @@
       "productUrlChecked": 1789919184748,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8749537": {
+      "sku": "8749537",
+      "firstAir": 1789920742125,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789920742125,
+      "title": "Close Out- High Luster Natural Pearl Necklace (Size - 17)",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019878231",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-20",
+      "time": "17:12:22",
+      "productUrl": null,
+      "lastUpdated": 1789920742125,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789920440221,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404882,11 +404900,22 @@
         "followingSku": "8626580",
         "followingTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 8) with Lobster Clasp",
         "followingAuctionCode": "0019878480"
+      },
+      {
+        "start": 1789920440221,
+        "end": 1789920742125,
+        "durationMin": 5.0,
+        "precedingSku": "8626580",
+        "precedingTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 8) with Lobster Clasp",
+        "precedingAuctionCode": "0019878480",
+        "followingSku": "8749537",
+        "followingTitle": "Close Out- High Luster Natural Pearl Necklace (Size - 17)",
+        "followingAuctionCode": "0019878231"
       }
     ],
-    "lastOnAirSku": "8626580",
-    "lastOnAirTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 8) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019878480",
+    "lastOnAirSku": "8749537",
+    "lastOnAirTitle": "Close Out- High Luster Natural Pearl Necklace (Size - 17)",
+    "lastOnAirAuctionCode": "0019878231",
     "precedingSku": "8626580",
     "precedingTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 8) with Lobster Clasp",
     "precedingAuctionCode": "0019878480"
