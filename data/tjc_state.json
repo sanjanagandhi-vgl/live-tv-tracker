@@ -369411,14 +369411,21 @@
       "img": false,
       "date": "2026-09-20",
       "time": "09:55:26",
-      "productUrl": null,
-      "lastUpdated": 1789894526797,
-      "source": "gha"
+      "productUrl": "/products/cookware-set-size-one-size-white-white-8632973",
+      "lastUpdated": 1789895127731,
+      "source": "gha",
+      "missedAt": 1789895127731,
+      "missedDelay": 10,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "productUrlChecked": 1789895134311,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1789895127731,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401873,8 +401880,8 @@
     "lastOnAirSku": "8534474",
     "lastOnAirTitle": "LIVMORE Set of 4 Food-Grade Silicone Collapsible Bowls (350ml-1200ml) - Microwave, Freezer & Dishwasher Safe Stackable Meal Prep Containers - Pink",
     "lastOnAirAuctionCode": "0019875042",
-    "precedingSku": "8632973",
-    "precedingTitle": "Electric Hot Pot Cooker, Steamer, Non-Stick Frying Pan - 700W - White",
-    "precedingAuctionCode": "0019875039"
+    "precedingSku": "8534474",
+    "precedingTitle": "LIVMORE Set of 4 Food-Grade Silicone Collapsible Bowls (350ml-1200ml) - Microwave, Freezer & Dishwasher Safe Stackable Meal Prep Containers - Pink",
+    "precedingAuctionCode": "0019875042"
   }
 }
