@@ -7092,16 +7092,16 @@
       "firstAir": 1784929942806,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789931541790,
+      "lastAir": 1789943303938,
       "title": "9K Yellow Gold Spiga Necklace",
-      "pdpPrice": "199.99",
-      "auctionCode": "0019879522",
+      "pdpPrice": "2599.99",
+      "auctionCode": "0019879585",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-20",
-      "time": "20:12:21",
-      "lastUpdated": 1789931541790,
+      "time": "23:28:23",
+      "lastUpdated": 1789943303938,
       "source": "gha",
       "missedAt": 1784930728239,
       "missedDelay": 2,
@@ -373203,8 +373203,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789943182615,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -406413,11 +406413,22 @@
         "followingSku": "8579795",
         "followingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
         "followingAuctionCode": "0019878245"
+      },
+      {
+        "start": 1789943182615,
+        "end": 1789943303938,
+        "durationMin": 2.0,
+        "precedingSku": "8319356",
+        "precedingTitle": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
+        "precedingAuctionCode": "0019878251",
+        "followingSku": "8055959",
+        "followingTitle": "9K Yellow Gold Spiga Necklace",
+        "followingAuctionCode": "0019879585"
       }
     ],
-    "lastOnAirSku": "8319356",
-    "lastOnAirTitle": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
-    "lastOnAirAuctionCode": "0019878251",
+    "lastOnAirSku": "8055959",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace",
+    "lastOnAirAuctionCode": "0019879585",
     "precedingSku": "8319356",
     "precedingTitle": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
     "precedingAuctionCode": "0019878251"
