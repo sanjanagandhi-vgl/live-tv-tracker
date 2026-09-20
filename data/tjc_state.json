@@ -345014,21 +345014,26 @@
       "sku": "8499867",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-09-20",
+      "time": "06:23:18",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1789881798004,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Green Gleam Multi Purpose Cleaning Solution 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
-      "auctionCode": "0019866052",
+      "auctionCode": "0019875027",
       "source": "gha",
       "productUrl": "/products/green-glame-multi-purpose-cleaning-solution",
       "productUrlChecked": 1789359940512,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789881798004,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "3411637": {
       "sku": "3411637",
@@ -369308,8 +369313,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789881744520,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401627,11 +401632,22 @@
         "followingSku": "8635548",
         "followingTitle": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
         "followingAuctionCode": "0019875895"
+      },
+      {
+        "start": 1789881744520,
+        "end": 1789881798004,
+        "durationMin": 0.9,
+        "precedingSku": "8635548",
+        "precedingTitle": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
+        "precedingAuctionCode": "0019875895",
+        "followingSku": "8499867",
+        "followingTitle": "Green Gleam Multi Purpose Cleaning Solution 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
+        "followingAuctionCode": "0019875027"
       }
     ],
-    "lastOnAirSku": "8635548",
-    "lastOnAirTitle": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
-    "lastOnAirAuctionCode": "0019875895",
+    "lastOnAirSku": "8499867",
+    "lastOnAirTitle": "Green Gleam Multi Purpose Cleaning Solution 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
+    "lastOnAirAuctionCode": "0019875027",
     "precedingSku": "8635548",
     "precedingTitle": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
     "precedingAuctionCode": "0019875895"
