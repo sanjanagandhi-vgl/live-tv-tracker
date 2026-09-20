@@ -372206,11 +372206,29 @@
       "productUrl": null,
       "lastUpdated": 1789927637650,
       "source": "gha"
+    },
+    "8635539": {
+      "sku": "8635539",
+      "firstAir": 1789927758734,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789927758734,
+      "title": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red & White",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019878528",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-20",
+      "time": "19:09:18",
+      "productUrl": null,
+      "lastUpdated": 1789927758734,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789927700836,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -405210,11 +405228,22 @@
         "followingSku": "8635481",
         "followingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
         "followingAuctionCode": "0019878569"
+      },
+      {
+        "start": 1789927700836,
+        "end": 1789927758734,
+        "durationMin": 1.0,
+        "precedingSku": "8635481",
+        "precedingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+        "precedingAuctionCode": "0019878569",
+        "followingSku": "8635539",
+        "followingTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red & White",
+        "followingAuctionCode": "0019878528"
       }
     ],
-    "lastOnAirSku": "8635481",
-    "lastOnAirTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
-    "lastOnAirAuctionCode": "0019878569",
+    "lastOnAirSku": "8635539",
+    "lastOnAirTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red & White",
+    "lastOnAirAuctionCode": "0019878528",
     "precedingSku": "8635481",
     "precedingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
     "precedingAuctionCode": "0019878569"
