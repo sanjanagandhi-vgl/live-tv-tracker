@@ -340696,21 +340696,26 @@
       "sku": "8624566",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-09-20",
+      "time": "07:21:22",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1789885282943,
       "missedPrice": 17.99,
       "missedImg": true,
       "title": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
-      "auctionCode": "0019868297",
+      "auctionCode": "0019875092",
       "source": "gha",
       "productUrl": "/products/livmore-christmas-ornament-size-one-size-green-8624566",
       "productUrlChecked": 1789359103352,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789885282943,
+      "pdpPrice": "159.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8624558": {
       "sku": "8624558",
@@ -369313,8 +369318,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789885235942,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401676,11 +401681,22 @@
         "followingSku": "8661754",
         "followingTitle": "Limited Edition Elephant Gemstone Carving Collectible - Green Aventurine",
         "followingAuctionCode": "0019875120"
+      },
+      {
+        "start": 1789885235942,
+        "end": 1789885282943,
+        "durationMin": 0.8,
+        "precedingSku": "8661754",
+        "precedingTitle": "Limited Edition Elephant Gemstone Carving Collectible - Green Aventurine",
+        "precedingAuctionCode": "0019875120",
+        "followingSku": "8624566",
+        "followingTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+        "followingAuctionCode": "0019875092"
       }
     ],
-    "lastOnAirSku": "8661754",
-    "lastOnAirTitle": "Limited Edition Elephant Gemstone Carving Collectible - Green Aventurine",
-    "lastOnAirAuctionCode": "0019875120",
+    "lastOnAirSku": "8624566",
+    "lastOnAirTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+    "lastOnAirAuctionCode": "0019875092",
     "precedingSku": "8661754",
     "precedingTitle": "Limited Edition Elephant Gemstone Carving Collectible - Green Aventurine",
     "precedingAuctionCode": "0019875120"
