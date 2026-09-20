@@ -97059,21 +97059,26 @@
       "sku": "4414994",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "11:37:21",
+      "date": "2026-09-20",
+      "time": "19:35:26",
       "preExisting": true,
       "missedAt": 1786099041447,
       "missedDelay": null,
-      "lastUpdated": 1786099041447,
+      "lastUpdated": 1789929326945,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "The Carved Treasure Collection - Honey Serpentine Carved Qi Lin Ornament 3215.00 Ct.",
-      "auctionCode": "0019810560",
+      "title": "The Carved Treasure Collection - Honey Serpentine Carved Ornament",
+      "auctionCode": "0019876007",
       "source": "gha",
       "productUrl": "/products/the-carved-treasure-collection-honey-serpentine-carved-ornament",
       "productUrlChecked": 1786099048619,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789929326945,
+      "pdpPrice": "2597.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8519271": {
       "sku": "8519271",
@@ -372391,8 +372396,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789929263179,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -405436,11 +405441,22 @@
         "followingSku": "4489057",
         "followingTitle": "Serpentine Jade Maneki Neko Lucky Cat Figurine (900 Cts) with Free Bracelet (100 Cts).",
         "followingAuctionCode": "0019875999"
+      },
+      {
+        "start": 1789929263179,
+        "end": 1789929326945,
+        "durationMin": 1.1,
+        "precedingSku": "4489057",
+        "precedingTitle": "Serpentine Jade Maneki Neko Lucky Cat Figurine (900 Cts) with Free Bracelet (100 Cts).",
+        "precedingAuctionCode": "0019875999",
+        "followingSku": "4414994",
+        "followingTitle": "The Carved Treasure Collection - Honey Serpentine Carved Ornament",
+        "followingAuctionCode": "0019876007"
       }
     ],
-    "lastOnAirSku": "4489057",
-    "lastOnAirTitle": "Serpentine Jade Maneki Neko Lucky Cat Figurine (900 Cts) with Free Bracelet (100 Cts).",
-    "lastOnAirAuctionCode": "0019875999",
+    "lastOnAirSku": "4414994",
+    "lastOnAirTitle": "The Carved Treasure Collection - Honey Serpentine Carved Ornament",
+    "lastOnAirAuctionCode": "0019876007",
     "precedingSku": "4489057",
     "precedingTitle": "Serpentine Jade Maneki Neko Lucky Cat Figurine (900 Cts) with Free Bracelet (100 Cts).",
     "precedingAuctionCode": "0019875999"
