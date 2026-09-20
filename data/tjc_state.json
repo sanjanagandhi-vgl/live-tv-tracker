@@ -369461,9 +369461,16 @@
       "img": true,
       "date": "2026-09-20",
       "time": "10:17:18",
-      "productUrl": null,
-      "lastUpdated": 1789895838600,
-      "source": "gha"
+      "productUrl": "/products/djoy-rhodolite-garnet-white-zircon-dangling-earring-with-push-post-in-yellow-gold-plated-sterling-silver-1-10-ct-8744144",
+      "lastUpdated": 1789896438911,
+      "source": "gha",
+      "missedAt": 1789896438911,
+      "missedDelay": 10,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1789896442002,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4521362": {
       "sku": "4521362",
@@ -369500,11 +369507,29 @@
       "productUrl": null,
       "lastUpdated": 1789896327392,
       "source": "gha"
+    },
+    "8744059": {
+      "sku": "8744059",
+      "firstAir": 1789896438911,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789896438911,
+      "title": "D'Joy - Orissa Natural Rhodolite Garnet, Peridot & White Zircon Dangling Earring with Push Back in Platinum Overlay Sterling Silver 2.08 Ct.",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019876800",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-20",
+      "time": "10:27:18",
+      "productUrl": null,
+      "lastUpdated": 1789896438911,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789896381930,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401976,11 +402001,22 @@
         "followingSku": "8744144",
         "followingTitle": "D'Joy - Orissa Natural Rhodolite Garnet & White Zircon Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 1.10 Ct.",
         "followingAuctionCode": "0019876948"
+      },
+      {
+        "start": 1789896381930,
+        "end": 1789896438911,
+        "durationMin": 0.9,
+        "precedingSku": "4517672",
+        "precedingTitle": "D'Joy - Orissa Natural Rhodolite Garnet & White Zircon Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20) 1.85 Ct.",
+        "precedingAuctionCode": "0019876822",
+        "followingSku": "8744059",
+        "followingTitle": "D'Joy - Orissa Natural Rhodolite Garnet, Peridot & White Zircon Dangling Earring with Push Back in Platinum Overlay Sterling Silver 2.08 Ct.",
+        "followingAuctionCode": "0019876800"
       }
     ],
-    "lastOnAirSku": "4517672",
-    "lastOnAirTitle": "D'Joy - Orissa Natural Rhodolite Garnet & White Zircon Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20) 1.85 Ct.",
-    "lastOnAirAuctionCode": "0019876822",
+    "lastOnAirSku": "8744059",
+    "lastOnAirTitle": "D'Joy - Orissa Natural Rhodolite Garnet, Peridot & White Zircon Dangling Earring with Push Back in Platinum Overlay Sterling Silver 2.08 Ct.",
+    "lastOnAirAuctionCode": "0019876800",
     "precedingSku": "4517672",
     "precedingTitle": "D'Joy - Orissa Natural Rhodolite Garnet & White Zircon Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20) 1.85 Ct.",
     "precedingAuctionCode": "0019876822"
