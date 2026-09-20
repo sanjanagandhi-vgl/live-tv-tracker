@@ -372227,11 +372227,29 @@
       "productUrlChecked": 1789927846031,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8635543": {
+      "sku": "8635543",
+      "firstAir": 1789927942024,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789927942024,
+      "title": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019878526",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-20",
+      "time": "19:12:22",
+      "productUrl": null,
+      "lastUpdated": 1789927942024,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789927879005,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -405242,11 +405260,22 @@
         "followingSku": "8635539",
         "followingTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red & White",
         "followingAuctionCode": "0019878528"
+      },
+      {
+        "start": 1789927879005,
+        "end": 1789927942024,
+        "durationMin": 1.1,
+        "precedingSku": "8635539",
+        "precedingTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red & White",
+        "precedingAuctionCode": "0019878528",
+        "followingSku": "8635543",
+        "followingTitle": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
+        "followingAuctionCode": "0019878526"
       }
     ],
-    "lastOnAirSku": "8635539",
-    "lastOnAirTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red & White",
-    "lastOnAirAuctionCode": "0019878528",
+    "lastOnAirSku": "8635543",
+    "lastOnAirTitle": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
+    "lastOnAirAuctionCode": "0019878526",
     "precedingSku": "8635539",
     "precedingTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red & White",
     "precedingAuctionCode": "0019878528"
