@@ -372229,11 +372229,15 @@
       "date": "2026-09-20",
       "time": "19:10:43",
       "productUrl": "/products/livmore-patterned-jewellery-box-size-8x5x2-cm-green-white-8635539?variant=53677358121226",
-      "lastUpdated": 1789927843429,
+      "lastUpdated": 1789928358147,
       "source": "gha",
       "productUrlChecked": 1789927846031,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789928358147,
+      "missedDelay": 9,
+      "missedPrice": 14.99,
+      "missedImg": true
     },
     "8635543": {
       "sku": "8635543",
@@ -372258,7 +372262,7 @@
       "firstAir": 1789928137479,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789928301463,
+      "lastAir": 1789928358147,
       "title": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
       "pdpPrice": "14.99",
       "auctionCode": "0019878523",
@@ -372266,9 +372270,9 @@
       "login": false,
       "img": true,
       "date": "2026-09-20",
-      "time": "19:18:21",
+      "time": "19:19:18",
       "productUrl": null,
-      "lastUpdated": 1789928301463,
+      "lastUpdated": 1789928358147,
       "source": "gha"
     },
     "8635532": {
@@ -372308,6 +372312,26 @@
       "source": "gha",
       "productUrl": "/products/livmore-pumpkin-jewellery-box-size-5x5x6-cm-orange-8628834",
       "productUrlChecked": 1789928188885,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8635540": {
+      "sku": "8635540",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-20",
+      "time": "19:19:18",
+      "preExisting": true,
+      "missedAt": 1789928358147,
+      "missedDelay": null,
+      "lastUpdated": 1789928358147,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Pink",
+      "auctionCode": "0019878529",
+      "source": "gha",
+      "productUrl": "/products/livmore-patterned-jewellery-box-size-8x5x2-cm-green-white-8635539",
+      "productUrlChecked": 1789928361036,
       "productUrlStatus": 200,
       "productUrl404": false
     }
