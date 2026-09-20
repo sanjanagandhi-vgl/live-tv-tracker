@@ -350508,21 +350508,26 @@
       "sku": "8635548",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "19:45:38",
+      "date": "2026-09-20",
+      "time": "06:18:22",
       "preExisting": true,
       "missedAt": 1789497938189,
       "missedDelay": null,
-      "lastUpdated": 1789497938189,
+      "lastUpdated": 1789881502887,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "LIVMORE Limited Edition Cross Enamelled Trinket Box",
-      "auctionCode": "0019871959",
+      "title": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
+      "auctionCode": "0019875895",
       "source": "gha",
       "productUrl": "/products/livmore-pumpkin-jewellery-box-size-5x5x6-cm-orange-8628834",
       "productUrlChecked": 1789497946580,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789881502887,
+      "pdpPrice": "159.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8089687": {
       "sku": "8089687",
@@ -369303,8 +369308,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789881438881,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401611,11 +401616,22 @@
         "followingSku": "8668670",
         "followingTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
         "followingAuctionCode": "0019875422"
+      },
+      {
+        "start": 1789881438881,
+        "end": 1789881502887,
+        "durationMin": 1.1,
+        "precedingSku": "8642560",
+        "precedingTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+        "precedingAuctionCode": "0019875892",
+        "followingSku": "8635548",
+        "followingTitle": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
+        "followingAuctionCode": "0019875895"
       }
     ],
-    "lastOnAirSku": "8642560",
-    "lastOnAirTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
-    "lastOnAirAuctionCode": "0019875892",
+    "lastOnAirSku": "8635548",
+    "lastOnAirTitle": "LIVMORE Oval Floral Butterfly Enamelled Jewellery Trinket Box (5cm)  - Red",
+    "lastOnAirAuctionCode": "0019875895",
     "precedingSku": "8642560",
     "precedingTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
     "precedingAuctionCode": "0019875892"
