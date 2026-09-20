@@ -333039,17 +333039,17 @@
       "firstAir": 1789128804204,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789128863713,
+      "lastAir": 1789910358955,
       "title": "Close Out Deal- Designer Inspired Hoop Earring",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019865740",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019878586",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "13:14:23",
+      "date": "2026-09-20",
+      "time": "14:19:18",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8746955",
-      "lastUpdated": 1789129465737,
+      "lastUpdated": 1789910358955,
       "source": "gha",
       "missedAt": 1789129465737,
       "missedDelay": 10,
@@ -371895,8 +371895,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789910302156,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404577,11 +404577,22 @@
         "followingSku": "8516670",
         "followingTitle": "African Amethyst Cluster Ring 9.44 Ct.",
         "followingAuctionCode": "0019878573"
+      },
+      {
+        "start": 1789910302156,
+        "end": 1789910358955,
+        "durationMin": 0.9,
+        "precedingSku": "8763256",
+        "precedingTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
+        "precedingAuctionCode": "0019878587",
+        "followingSku": "8746955",
+        "followingTitle": "Close Out Deal- Designer Inspired Hoop Earring",
+        "followingAuctionCode": "0019878586"
       }
     ],
-    "lastOnAirSku": "8763256",
-    "lastOnAirTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
-    "lastOnAirAuctionCode": "0019878587",
+    "lastOnAirSku": "8746955",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Hoop Earring",
+    "lastOnAirAuctionCode": "0019878586",
     "precedingSku": "8763256",
     "precedingTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
     "precedingAuctionCode": "0019878587"
