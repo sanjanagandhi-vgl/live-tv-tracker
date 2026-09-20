@@ -70360,23 +70360,23 @@
       "sku": "8572412",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "08:40:42",
+      "date": "2026-09-20",
+      "time": "15:15:34",
       "preExisting": true,
       "missedAt": 1785843145273,
       "missedDelay": null,
-      "lastUpdated": 1786779642294,
+      "lastUpdated": 1789913734584,
       "missedPrice": 199.99,
       "missedImg": true,
       "title": "9K Yellow Gold Huggie Earring with Clasp",
-      "auctionCode": "0019822817",
+      "auctionCode": "0019878423",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-with-spring-ring-clasp-8597033",
       "productUrlChecked": 1785843150666,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1786779642294,
-      "pdpPrice": "199.99",
+      "lastAir": 1789913734584,
+      "pdpPrice": "989.99",
       "buy": true,
       "login": false,
       "img": true
@@ -371933,8 +371933,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789913662513,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404681,11 +404681,22 @@
         "followingSku": "8697645",
         "followingTitle": "Multi Colour  Stretchable Bracelet",
         "followingAuctionCode": "0019878611"
+      },
+      {
+        "start": 1789913662513,
+        "end": 1789913734584,
+        "durationMin": 1.2,
+        "precedingSku": "8697645",
+        "precedingTitle": "Multi Colour Stretchable Bracelet",
+        "precedingAuctionCode": "0019878611",
+        "followingSku": "8572412",
+        "followingTitle": "9K Yellow Gold Huggie Earring with Clasp",
+        "followingAuctionCode": "0019878423"
       }
     ],
-    "lastOnAirSku": "8697645",
-    "lastOnAirTitle": "Multi Colour Stretchable Bracelet",
-    "lastOnAirAuctionCode": "0019878611",
+    "lastOnAirSku": "8572412",
+    "lastOnAirTitle": "9K Yellow Gold Huggie Earring with Clasp",
+    "lastOnAirAuctionCode": "0019878423",
     "precedingSku": "8697645",
     "precedingTitle": "Multi Colour Stretchable Bracelet",
     "precedingAuctionCode": "0019878611"
