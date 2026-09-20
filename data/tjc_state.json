@@ -20879,17 +20879,23 @@
       "sku": "8534474",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "11:44:23",
+      "date": "2026-09-20",
+      "time": "09:57:18",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785321863299,
+      "lastUpdated": 1789894638545,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "LIVMORE Set of 4 Food-Grade Silicone Collapsible Bowls (350ml-1200ml) - Microwave, Freezer & Dishwasher Safe Stackable Meal Prep Containers - Blue.",
-      "auctionCode": "0019799005",
-      "source": "gha"
+      "title": "LIVMORE Set of 4 Food-Grade Silicone Collapsible Bowls (350ml-1200ml) - Microwave, Freezer & Dishwasher Safe Stackable Meal Prep Containers - Pink",
+      "auctionCode": "0019875042",
+      "source": "gha",
+      "lastAir": 1789894638545,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8556783": {
       "sku": "8556783",
@@ -369411,8 +369417,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789894582249,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401851,11 +401857,22 @@
         "followingSku": "8632973",
         "followingTitle": "Electric Hot Pot Cooker, Steamer, Non-Stick Frying Pan - 700W - White",
         "followingAuctionCode": "0019875039"
+      },
+      {
+        "start": 1789894582249,
+        "end": 1789894638545,
+        "durationMin": 0.9,
+        "precedingSku": "8632973",
+        "precedingTitle": "Electric Hot Pot Cooker, Steamer, Non-Stick Frying Pan - 700W - White",
+        "precedingAuctionCode": "0019875039",
+        "followingSku": "8534474",
+        "followingTitle": "LIVMORE Set of 4 Food-Grade Silicone Collapsible Bowls (350ml-1200ml) - Microwave, Freezer & Dishwasher Safe Stackable Meal Prep Containers - Pink",
+        "followingAuctionCode": "0019875042"
       }
     ],
-    "lastOnAirSku": "8632973",
-    "lastOnAirTitle": "Electric Hot Pot Cooker, Steamer, Non-Stick Frying Pan - 700W - White",
-    "lastOnAirAuctionCode": "0019875039",
+    "lastOnAirSku": "8534474",
+    "lastOnAirTitle": "LIVMORE Set of 4 Food-Grade Silicone Collapsible Bowls (350ml-1200ml) - Microwave, Freezer & Dishwasher Safe Stackable Meal Prep Containers - Pink",
+    "lastOnAirAuctionCode": "0019875042",
     "precedingSku": "8632973",
     "precedingTitle": "Electric Hot Pot Cooker, Steamer, Non-Stick Frying Pan - 700W - White",
     "precedingAuctionCode": "0019875039"
