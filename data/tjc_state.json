@@ -64545,21 +64545,26 @@
       "sku": "8528115",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-03",
-      "time": "13:09:18",
+      "date": "2026-09-20",
+      "time": "07:47:21",
       "preExisting": true,
       "missedAt": 1785758958505,
       "missedDelay": null,
-      "lastUpdated": 1785758958505,
+      "lastUpdated": 1789886841146,
       "missedPrice": 17.99,
       "missedImg": true,
       "title": "LIVMORE Single-Sided Digital Print Flannel Blanket (150x200cm) - Dahlias",
-      "auctionCode": "0019804829",
+      "auctionCode": "0019875144",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-150x1-cm-multi-color-8528068",
       "productUrlChecked": 1785758973289,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789886841146,
+      "pdpPrice": "159.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8528117": {
       "sku": "8528117",
@@ -369318,8 +369323,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789886735167,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401703,11 +401708,22 @@
         "followingSku": "8669514",
         "followingTitle": "LIVMORE Battery-Operated Stained Glass Calla Lily Print Rotating Decorative Table Lamp - 15cm",
         "followingAuctionCode": "0019875805"
+      },
+      {
+        "start": 1789886735167,
+        "end": 1789886841146,
+        "durationMin": 1.8,
+        "precedingSku": "8669514",
+        "precedingTitle": "LIVMORE Battery-Operated Stained Glass Calla Lily Print Rotating Decorative Table Lamp - 15cm",
+        "precedingAuctionCode": "0019875805",
+        "followingSku": "8528115",
+        "followingTitle": "LIVMORE Single-Sided Digital Print Flannel Blanket (150x200cm) - Dahlias",
+        "followingAuctionCode": "0019875144"
       }
     ],
-    "lastOnAirSku": "8669514",
-    "lastOnAirTitle": "LIVMORE Battery-Operated Stained Glass Calla Lily Print Rotating Decorative Table Lamp - 15cm",
-    "lastOnAirAuctionCode": "0019875805",
+    "lastOnAirSku": "8528115",
+    "lastOnAirTitle": "LIVMORE Single-Sided Digital Print Flannel Blanket (150x200cm) - Dahlias",
+    "lastOnAirAuctionCode": "0019875144",
     "precedingSku": "8669514",
     "precedingTitle": "LIVMORE Battery-Operated Stained Glass Calla Lily Print Rotating Decorative Table Lamp - 15cm",
     "precedingAuctionCode": "0019875805"
