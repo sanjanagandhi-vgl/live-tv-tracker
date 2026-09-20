@@ -371550,11 +371550,15 @@
       "date": "2026-09-20",
       "time": "12:51:18",
       "productUrl": "/products/rhodolite-garnet-pendant-in-yellow-gold-plated-sterling-silver-with-chain-size-20-2-40-ct-4517667?variant=53690792050954",
-      "lastUpdated": 1789905078942,
+      "lastUpdated": 1789905660220,
       "source": "gha",
       "productUrlChecked": 1789905082189,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1789905660220,
+      "missedDelay": 10,
+      "missedPrice": 39.99,
+      "missedImg": true
     },
     "8744072": {
       "sku": "8744072",
@@ -371582,7 +371586,7 @@
       "firstAir": 1789905439049,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789905560196,
+      "lastAir": 1789905660220,
       "title": "D'Joy - Orissa Natural Rhodolite Garnet & White Zircon Bubble Circle Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
       "pdpPrice": "49.99",
       "auctionCode": "0019876862",
@@ -371590,9 +371594,9 @@
       "login": false,
       "img": true,
       "date": "2026-09-20",
-      "time": "12:59:20",
+      "time": "13:01:00",
       "productUrl": null,
-      "lastUpdated": 1789905560196,
+      "lastUpdated": 1789905660220,
       "source": "gha"
     }
   },
