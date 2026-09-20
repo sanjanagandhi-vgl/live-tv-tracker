@@ -2591,23 +2591,23 @@
       "sku": "8697692",
       "tvPrice": "",
       "remarks": "",
-      "time": "00:01:18",
+      "time": "01:44:22",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 3799.99,
       "missedImg": false,
       "title": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Halo Ring 5.50 Ct, Platinum Wt. 7.25 Gms",
-      "auctionCode": "0019845165",
+      "auctionCode": "0019876147",
       "source": "gha",
-      "lastAir": 1787785278527,
-      "pdpPrice": "3499.99",
+      "lastAir": 1789865062236,
+      "pdpPrice": "45899.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-27",
+      "date": "2026-09-20",
       "productUrl": null,
-      "lastUpdated": 1787785278527
+      "lastUpdated": 1789865062236
     },
     "8697704": {
       "sku": "8697704",
@@ -369022,8 +369022,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789864836770,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401176,11 +401176,22 @@
         "followingSku": "8581147",
         "followingTitle": "D'Joy - Tanzanite & Moissanite Dangling Earring in Rhodium Overlay Sterling Silver 1.12 Ct.",
         "followingAuctionCode": "0019876063"
+      },
+      {
+        "start": 1789864836770,
+        "end": 1789865062236,
+        "durationMin": 3.8,
+        "precedingSku": "8571818",
+        "precedingTitle": "Tanzanite Trilogy Ring in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019876092",
+        "followingSku": "8697692",
+        "followingTitle": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Halo Ring 5.50 Ct, Platinum Wt. 7.25 Gms",
+        "followingAuctionCode": "0019876147"
       }
     ],
-    "lastOnAirSku": "8571818",
-    "lastOnAirTitle": "Tanzanite Trilogy Ring in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019876092",
+    "lastOnAirSku": "8697692",
+    "lastOnAirTitle": "BLACK FRIDAY HEIRLOOM DEAL - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite (5.00 Ct) & Natural White Diamond (0.50 Ct EF- VS) Halo Ring 5.50 Ct, Platinum Wt. 7.25 Gms",
+    "lastOnAirAuctionCode": "0019876147",
     "precedingSku": "8571818",
     "precedingTitle": "Tanzanite Trilogy Ring in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019876092"
