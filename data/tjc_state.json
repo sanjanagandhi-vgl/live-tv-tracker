@@ -369268,11 +369268,29 @@
       "productUrl": null,
       "lastUpdated": 1789876039833,
       "source": "gha"
+    },
+    "8363825": {
+      "sku": "8363825",
+      "firstAir": 1789876343433,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789876343433,
+      "title": "QED Chunky Check Scarf (Free Size)",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019875411",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-20",
+      "time": "04:52:23",
+      "productUrl": null,
+      "lastUpdated": 1789876343433,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789876279083,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -401546,11 +401564,22 @@
         "followingSku": "8249756",
         "followingTitle": "La Marey Beanie Hat",
         "followingAuctionCode": "0019875415"
+      },
+      {
+        "start": 1789876279083,
+        "end": 1789876343433,
+        "durationMin": 1.1,
+        "precedingSku": "7851189",
+        "precedingTitle": "Cashmere Diamond Hat, Cap and Earmuff",
+        "precedingAuctionCode": "0019875412",
+        "followingSku": "8363825",
+        "followingTitle": "QED Chunky Check Scarf (Free Size)",
+        "followingAuctionCode": "0019875411"
       }
     ],
-    "lastOnAirSku": "7851189",
-    "lastOnAirTitle": "Cashmere Diamond Hat, Cap and Earmuff",
-    "lastOnAirAuctionCode": "0019875412",
+    "lastOnAirSku": "8363825",
+    "lastOnAirTitle": "QED Chunky Check Scarf (Free Size)",
+    "lastOnAirAuctionCode": "0019875411",
     "precedingSku": "7851189",
     "precedingTitle": "Cashmere Diamond Hat, Cap and Earmuff",
     "precedingAuctionCode": "0019875412"
