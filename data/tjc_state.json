@@ -78449,23 +78449,23 @@
       "sku": "8646991",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "21:34:24",
+      "date": "2026-09-20",
+      "time": "16:22:21",
       "preExisting": true,
       "missedAt": 1785928646680,
       "missedDelay": null,
-      "lastUpdated": 1789590864685,
+      "lastUpdated": 1789917741311,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
-      "auctionCode": "0019873047",
+      "auctionCode": "0019879083",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-hoop-earring-with-clasp-8646993",
       "productUrlChecked": 1785928654481,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1789590864685,
-      "pdpPrice": "89.99",
+      "lastAir": 1789917741311,
+      "pdpPrice": "2069.99",
       "buy": true,
       "login": false,
       "img": true
@@ -371971,8 +371971,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789917678176,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -404818,11 +404818,22 @@
         "followingSku": "8416867",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Curb Chunky Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019878418"
+      },
+      {
+        "start": 1789917678176,
+        "end": 1789917741311,
+        "durationMin": 1.1,
+        "precedingSku": "8416867",
+        "precedingTitle": "Designer Inspired- 9K Yellow Gold Curb Chunky Bracelet (Size - 7.5)",
+        "precedingAuctionCode": "0019878418",
+        "followingSku": "8646991",
+        "followingTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
+        "followingAuctionCode": "0019879083"
       }
     ],
-    "lastOnAirSku": "8416867",
-    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Curb Chunky Bracelet (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019878418",
+    "lastOnAirSku": "8646991",
+    "lastOnAirTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
+    "lastOnAirAuctionCode": "0019879083",
     "precedingSku": "8416867",
     "precedingTitle": "Designer Inspired- 9K Yellow Gold Curb Chunky Bracelet (Size - 7.5)",
     "precedingAuctionCode": "0019878418"
