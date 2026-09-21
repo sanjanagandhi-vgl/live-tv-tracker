@@ -311811,17 +311811,17 @@
       "firstAir": 1788721466408,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788722542386,
+      "lastAir": 1790000960128,
       "title": "Opatra Lux Brush Pro with EMS, Red, Blue & Laser Light Technology for Hair Care (Lifetime Warranty)",
-      "pdpPrice": "69.99",
-      "auctionCode": "0019858653",
+      "pdpPrice": "1349.99",
+      "auctionCode": "0019876043",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-06",
-      "time": "20:22:22",
+      "date": "2026-09-21",
+      "time": "15:29:20",
       "productUrl": "/products/opatra-luxe-brush-pro",
-      "lastUpdated": 1788723142493,
+      "lastUpdated": 1790000960128,
       "source": "gha",
       "missedAt": 1788723142493,
       "missedDelay": 10,
@@ -375937,8 +375937,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790000911019,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -409664,11 +409664,22 @@
         "followingSku": "3643506",
         "followingTitle": "Opatra- Teeth Whitening System With 2 Extra Whitening Gels",
         "followingAuctionCode": "0019880239"
+      },
+      {
+        "start": 1790000911019,
+        "end": 1790000960128,
+        "durationMin": 0.8,
+        "precedingSku": "3643506",
+        "precedingTitle": "Opatra- Teeth Whitening System With 2 Extra Whitening Gels",
+        "precedingAuctionCode": "0019880239",
+        "followingSku": "8505207",
+        "followingTitle": "Opatra Lux Brush Pro with EMS, Red, Blue & Laser Light Technology for Hair Care (Lifetime Warranty)",
+        "followingAuctionCode": "0019876043"
       }
     ],
-    "lastOnAirSku": "3643506",
-    "lastOnAirTitle": "Opatra- Teeth Whitening System With 2 Extra Whitening Gels",
-    "lastOnAirAuctionCode": "0019880239",
+    "lastOnAirSku": "8505207",
+    "lastOnAirTitle": "Opatra Lux Brush Pro with EMS, Red, Blue & Laser Light Technology for Hair Care (Lifetime Warranty)",
+    "lastOnAirAuctionCode": "0019876043",
     "precedingSku": "3643506",
     "precedingTitle": "Opatra- Teeth Whitening System With 2 Extra Whitening Gels",
     "precedingAuctionCode": "0019880239"
