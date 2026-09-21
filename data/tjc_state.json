@@ -376192,11 +376192,29 @@
       "productUrl": null,
       "lastUpdated": 1790011280438,
       "source": "gha"
+    },
+    "8770452": {
+      "sku": "8770452",
+      "firstAir": 1790011463801,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790011463801,
+      "title": "D'Joy - Red Jade & Dyed Black Jade Solitaire Ring in Yellow Gold Plated Sterling Silver 41.00 Ct.",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019877790",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-21",
+      "time": "18:24:23",
+      "productUrl": null,
+      "lastUpdated": 1790011463801,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790011343698,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -410021,11 +410039,22 @@
         "followingSku": "4420040",
         "followingTitle": "D'Joy Red Jade & Black Jade Dragon Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 36.47 Ct.",
         "followingAuctionCode": "0019877927"
+      },
+      {
+        "start": 1790011343698,
+        "end": 1790011463801,
+        "durationMin": 2.0,
+        "precedingSku": "4420040",
+        "precedingTitle": "D'Joy Red Jade & Black Jade Dragon Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 36.47 Ct.",
+        "precedingAuctionCode": "0019877927",
+        "followingSku": "8770452",
+        "followingTitle": "D'Joy - Red Jade & Dyed Black Jade Solitaire Ring in Yellow Gold Plated Sterling Silver 41.00 Ct.",
+        "followingAuctionCode": "0019877790"
       }
     ],
-    "lastOnAirSku": "4420040",
-    "lastOnAirTitle": "D'Joy Red Jade & Black Jade Dragon Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 36.47 Ct.",
-    "lastOnAirAuctionCode": "0019877927",
+    "lastOnAirSku": "8770452",
+    "lastOnAirTitle": "D'Joy - Red Jade & Dyed Black Jade Solitaire Ring in Yellow Gold Plated Sterling Silver 41.00 Ct.",
+    "lastOnAirAuctionCode": "0019877790",
     "precedingSku": "4420040",
     "precedingTitle": "D'Joy Red Jade & Black Jade Dragon Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 36.47 Ct.",
     "precedingAuctionCode": "0019877927"
