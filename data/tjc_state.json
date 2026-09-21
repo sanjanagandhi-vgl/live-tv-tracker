@@ -242246,17 +242246,17 @@
       "firstAir": 1787723600984,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789379543864,
+      "lastAir": 1789999463549,
       "title": "Opatra- Clean Pro5 - Electric Toothbrush with 2 Replacement Heads, LIFETIME WARRANTY",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019868740",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019876037",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-14",
-      "time": "10:52:23",
+      "date": "2026-09-21",
+      "time": "15:04:23",
       "productUrl": "/products/opatra-toothbrush-with-replacement-heads",
-      "lastUpdated": 1789379543864,
+      "lastUpdated": 1789999463549,
       "source": "gha",
       "missedAt": 1787725046197,
       "missedDelay": 9,
@@ -375937,8 +375937,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789999399097,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -409642,11 +409642,22 @@
         "followingSku": "8379575",
         "followingTitle": "Creme Du Loch- Cleansing Balm - 100ml",
         "followingAuctionCode": "0019876026"
+      },
+      {
+        "start": 1789999399097,
+        "end": 1789999463549,
+        "durationMin": 1.1,
+        "precedingSku": "7971321",
+        "precedingTitle": "Beautech Womens Portable 3 in 1 shaver with USB Charging - Green",
+        "precedingAuctionCode": "0019879190",
+        "followingSku": "7180139",
+        "followingTitle": "Opatra- Clean Pro5 - Electric Toothbrush with 2 Replacement Heads, LIFETIME WARRANTY",
+        "followingAuctionCode": "0019876037"
       }
     ],
-    "lastOnAirSku": "7971321",
-    "lastOnAirTitle": "Beautech Womens Portable 3 in 1 shaver with USB Charging - Green",
-    "lastOnAirAuctionCode": "0019879190",
+    "lastOnAirSku": "7180139",
+    "lastOnAirTitle": "Opatra- Clean Pro5 - Electric Toothbrush with 2 Replacement Heads, LIFETIME WARRANTY",
+    "lastOnAirAuctionCode": "0019876037",
     "precedingSku": "7971321",
     "precedingTitle": "Beautech Womens Portable 3 in 1 shaver with USB Charging - Green",
     "precedingAuctionCode": "0019879190"
