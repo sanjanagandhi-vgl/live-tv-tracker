@@ -53731,17 +53731,17 @@
       "firstAir": 1785637341870,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785637465448,
+      "lastAir": 1790000362650,
       "title": "Opatra- Teeth Whitening System With 2 Extra Whitening Gels",
-      "pdpPrice": "79.99",
-      "auctionCode": "0019803814",
+      "pdpPrice": "409.99",
+      "auctionCode": "0019880239",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-02",
-      "time": "03:24:25",
+      "date": "2026-09-21",
+      "time": "15:19:22",
       "productUrl": "/products/opatra-teeth-whitening-system-with-2-extra-whitening-gels",
-      "lastUpdated": 1785637997536,
+      "lastUpdated": 1790000362650,
       "source": "gha",
       "missedAt": 1785637997536,
       "missedDelay": 9,
@@ -375937,8 +375937,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790000303952,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -409653,11 +409653,22 @@
         "followingSku": "7180139",
         "followingTitle": "Opatra- Clean Pro5 - Electric Toothbrush with 2 Replacement Heads, LIFETIME WARRANTY",
         "followingAuctionCode": "0019876037"
+      },
+      {
+        "start": 1790000303952,
+        "end": 1790000362650,
+        "durationMin": 1.0,
+        "precedingSku": "7180139",
+        "precedingTitle": "Opatra- Clean Pro5 - Electric Toothbrush with 2 Replacement Heads, LIFETIME WARRANTY",
+        "precedingAuctionCode": "0019876037",
+        "followingSku": "3643506",
+        "followingTitle": "Opatra- Teeth Whitening System With 2 Extra Whitening Gels",
+        "followingAuctionCode": "0019880239"
       }
     ],
-    "lastOnAirSku": "7180139",
-    "lastOnAirTitle": "Opatra- Clean Pro5 - Electric Toothbrush with 2 Replacement Heads, LIFETIME WARRANTY",
-    "lastOnAirAuctionCode": "0019876037",
+    "lastOnAirSku": "3643506",
+    "lastOnAirTitle": "Opatra- Teeth Whitening System With 2 Extra Whitening Gels",
+    "lastOnAirAuctionCode": "0019880239",
     "precedingSku": "7180139",
     "precedingTitle": "Opatra- Clean Pro5 - Electric Toothbrush with 2 Replacement Heads, LIFETIME WARRANTY",
     "precedingAuctionCode": "0019876037"
