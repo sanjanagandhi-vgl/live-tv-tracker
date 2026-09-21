@@ -377612,11 +377612,29 @@
       "productUrl": null,
       "lastUpdated": 1790027663243,
       "source": "gha"
+    },
+    "8673671": {
+      "sku": "8673671",
+      "firstAir": 1790027785637,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790027785637,
+      "title": "Italian Made-  Figaro Necklace (Size - 20) with Lobster Clasp in Sterling Silver",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019879180",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-21",
+      "time": "22:56:25",
+      "productUrl": null,
+      "lastUpdated": 1790027785637,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790027729180,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -411562,11 +411580,22 @@
         "followingSku": "7601627",
         "followingTitle": "Animal Ring Box (Size 13x9x2 in) - Brown & Black",
         "followingAuctionCode": "0019879181"
+      },
+      {
+        "start": 1790027729180,
+        "end": 1790027785637,
+        "durationMin": 0.9,
+        "precedingSku": "8616437",
+        "precedingTitle": "Rhodium Overlay Sterling Silver Barrel Typhoon Necklace (Size - 20) with Lobster Clasp, Silver Wt. 12.80 Gms",
+        "precedingAuctionCode": "0019880364",
+        "followingSku": "8673671",
+        "followingTitle": "Italian Made-  Figaro Necklace (Size - 20) with Lobster Clasp in Sterling Silver",
+        "followingAuctionCode": "0019879180"
       }
     ],
-    "lastOnAirSku": "8616437",
-    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Barrel Typhoon Necklace (Size - 20) with Lobster Clasp, Silver Wt. 12.80 Gms",
-    "lastOnAirAuctionCode": "0019880364",
+    "lastOnAirSku": "8673671",
+    "lastOnAirTitle": "Italian Made-  Figaro Necklace (Size - 20) with Lobster Clasp in Sterling Silver",
+    "lastOnAirAuctionCode": "0019879180",
     "precedingSku": "8616437",
     "precedingTitle": "Rhodium Overlay Sterling Silver Barrel Typhoon Necklace (Size - 20) with Lobster Clasp, Silver Wt. 12.80 Gms",
     "precedingAuctionCode": "0019880364"
