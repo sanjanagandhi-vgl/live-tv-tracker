@@ -2851,15 +2851,18 @@
       "firstAir": 1784851852401,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784851852401,
+      "lastAir": 1790025642527,
       "title": "Rhodium Overlay Sterling Silver Barrel Typhoon Necklace (Size - 20) with Lobster Clasp, Silver Wt. 12.80 Gms",
-      "pdpPrice": 79.99,
-      "auctionCode": "0019792619",
-      "buy": false,
+      "pdpPrice": "599.99",
+      "auctionCode": "0019880363",
+      "buy": true,
       "login": false,
-      "img": false,
-      "time": "01:10:52",
-      "source": "gha"
+      "img": true,
+      "time": "22:20:42",
+      "source": "gha",
+      "date": "2026-09-21",
+      "productUrl": null,
+      "lastUpdated": 1790025642527
     },
     "8697710": {
       "sku": "8697710",
@@ -377587,8 +377590,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790025503829,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -411512,11 +411515,22 @@
         "followingSku": "8753832",
         "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
         "followingAuctionCode": "0019878039"
+      },
+      {
+        "start": 1790025503829,
+        "end": 1790025642527,
+        "durationMin": 2.3,
+        "precedingSku": "8763550",
+        "precedingTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
+        "precedingAuctionCode": "0019879179",
+        "followingSku": "8616436",
+        "followingTitle": "Rhodium Overlay Sterling Silver Barrel Typhoon Necklace (Size - 20) with Lobster Clasp, Silver Wt. 12.80 Gms",
+        "followingAuctionCode": "0019880363"
       }
     ],
-    "lastOnAirSku": "8763550",
-    "lastOnAirTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019879179",
+    "lastOnAirSku": "8616436",
+    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Barrel Typhoon Necklace (Size - 20) with Lobster Clasp, Silver Wt. 12.80 Gms",
+    "lastOnAirAuctionCode": "0019880363",
     "precedingSku": "8763550",
     "precedingTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
     "precedingAuctionCode": "0019879179"
