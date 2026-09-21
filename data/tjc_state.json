@@ -93934,17 +93934,17 @@
       "firstAir": 1786081998432,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786110931035,
+      "lastAir": 1789997453218,
       "title": "Creme Du Loch- Cleansing Balm - 100ml",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019810826",
-      "buy": false,
+      "pdpPrice": "200.99",
+      "auctionCode": "0019876026",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-07",
-      "time": "14:55:31",
+      "date": "2026-09-21",
+      "time": "14:30:53",
       "productUrl": "/products/creme-du-loch-cleansing-balm-100ml?variant=53108366082314",
-      "lastUpdated": 1786110931035,
+      "lastUpdated": 1789997453218,
       "source": "gha",
       "missedAt": 1786083439409,
       "missedDelay": 9,
@@ -375917,8 +375917,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789997360287,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -409611,11 +409611,22 @@
         "followingSku": "8631792",
         "followingTitle": "NEW ARRIVAL- Creme Du Loch Invisible SPF 50 Moisturiser - 50ml",
         "followingAuctionCode": "0019876025"
+      },
+      {
+        "start": 1789997360287,
+        "end": 1789997453218,
+        "durationMin": 1.5,
+        "precedingSku": "7550391",
+        "precedingTitle": "Creme Du Loch- Age Defying Daily Serum - 50ml",
+        "precedingAuctionCode": "0019876030",
+        "followingSku": "8379575",
+        "followingTitle": "Creme Du Loch- Cleansing Balm - 100ml",
+        "followingAuctionCode": "0019876026"
       }
     ],
-    "lastOnAirSku": "7550391",
-    "lastOnAirTitle": "Creme Du Loch- Age Defying Daily Serum - 50ml",
-    "lastOnAirAuctionCode": "0019876030",
+    "lastOnAirSku": "8379575",
+    "lastOnAirTitle": "Creme Du Loch- Cleansing Balm - 100ml",
+    "lastOnAirAuctionCode": "0019876026",
     "precedingSku": "7550391",
     "precedingTitle": "Creme Du Loch- Age Defying Daily Serum - 50ml",
     "precedingAuctionCode": "0019876030"
