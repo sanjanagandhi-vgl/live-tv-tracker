@@ -298656,21 +298656,26 @@
       "sku": "8736102",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-03",
-      "time": "21:15:48",
+      "date": "2026-09-21",
+      "time": "16:42:25",
       "preExisting": true,
       "missedAt": 1788466548244,
       "missedDelay": null,
-      "lastUpdated": 1788466548244,
+      "lastUpdated": 1790005345657,
       "missedPrice": 1499.99,
       "missedImg": true,
       "title": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Natural Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
-      "auctionCode": "0019854700",
+      "auctionCode": "0019877321",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-patroke-kunzite-solitaire-ring-platinum-wt-5-73-gms-10-240-ct-8736045",
       "productUrlChecked": 1788466555598,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790005345657,
+      "pdpPrice": "12345.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8736103": {
       "sku": "8736103",
@@ -375955,8 +375960,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790005281288,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -409715,11 +409720,22 @@
         "followingSku": "8748208",
         "followingTitle": "Chairman Pick- Rhapsody - 950 Platinum AAAA Patroke Kunzite Solitaire Pendant 16.75 Ct, Platinum Wt. 7.10 Gms",
         "followingAuctionCode": "0019875900"
+      },
+      {
+        "start": 1790005281288,
+        "end": 1790005345657,
+        "durationMin": 1.1,
+        "precedingSku": "8748208",
+        "precedingTitle": "Chairman Pick- Rhapsody - 950 Platinum AAAA Patroke Kunzite Solitaire Pendant 16.75 Ct, Platinum Wt. 7.10 Gms",
+        "precedingAuctionCode": "0019875900",
+        "followingSku": "8736102",
+        "followingTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Natural Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
+        "followingAuctionCode": "0019877321"
       }
     ],
-    "lastOnAirSku": "8748208",
-    "lastOnAirTitle": "Chairman Pick- Rhapsody - 950 Platinum AAAA Patroke Kunzite Solitaire Pendant 16.75 Ct, Platinum Wt. 7.10 Gms",
-    "lastOnAirAuctionCode": "0019875900",
+    "lastOnAirSku": "8736102",
+    "lastOnAirTitle": "MONSTER DEAL - Rhapsody - 950 Platinum AAAA Natural Patroke Kunzite Solitaire Ring 10.24 Ct, Platinum Wt.5.40 Gms",
+    "lastOnAirAuctionCode": "0019877321",
     "precedingSku": "8748208",
     "precedingTitle": "Chairman Pick- Rhapsody - 950 Platinum AAAA Patroke Kunzite Solitaire Pendant 16.75 Ct, Platinum Wt. 7.10 Gms",
     "precedingAuctionCode": "0019875900"
