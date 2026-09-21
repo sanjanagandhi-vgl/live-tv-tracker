@@ -373843,11 +373843,29 @@
       "productUrl": null,
       "lastUpdated": 1789949664186,
       "source": "gha"
+    },
+    "8502164": {
+      "sku": "8502164",
+      "firstAir": 1789949781213,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789949781213,
+      "title": "Premier African Ruby (4.5 Ct.) & Lab Grown Diamond SI-GH (0.60 Ct.) Emerald Cut Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 5.20 Ct.",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019878849",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-21",
+      "time": "01:16:21",
+      "productUrl": null,
+      "lastUpdated": 1789949781213,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789949735896,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -407111,11 +407129,22 @@
         "followingSku": "8571841",
         "followingTitle": "African Ruby Trilogy Ring in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019878756"
+      },
+      {
+        "start": 1789949735896,
+        "end": 1789949781213,
+        "durationMin": 0.8,
+        "precedingSku": "8571841",
+        "precedingTitle": "African Ruby Trilogy Ring in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019878756",
+        "followingSku": "8502164",
+        "followingTitle": "Premier African Ruby (4.5 Ct.) & Lab Grown Diamond SI-GH (0.60 Ct.) Emerald Cut Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 5.20 Ct.",
+        "followingAuctionCode": "0019878849"
       }
     ],
-    "lastOnAirSku": "8571841",
-    "lastOnAirTitle": "African Ruby Trilogy Ring in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019878756",
+    "lastOnAirSku": "8502164",
+    "lastOnAirTitle": "Premier African Ruby (4.5 Ct.) & Lab Grown Diamond SI-GH (0.60 Ct.) Emerald Cut Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 5.20 Ct.",
+    "lastOnAirAuctionCode": "0019878849",
     "precedingSku": "8571841",
     "precedingTitle": "African Ruby Trilogy Ring in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019878756"
