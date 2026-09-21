@@ -374270,11 +374270,29 @@
       "productUrlChecked": 1789953145403,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7193149": {
+      "sku": "7193149",
+      "firstAir": 1789954341568,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789954341568,
+      "title": "9K Two Colour Gold 7.5mm X 14mm Kiss Band Bangle",
+      "pdpPrice": "689.99",
+      "auctionCode": "0019875492",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-21",
+      "time": "02:32:21",
+      "productUrl": null,
+      "lastUpdated": 1789954341568,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789954281080,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -407571,11 +407589,22 @@
         "followingSku": "7154575",
         "followingTitle": "9K Yellow Gold 11.5mm X 59.5mm 'Sea and Sand' Drop Earrings",
         "followingAuctionCode": "0019875489"
+      },
+      {
+        "start": 1789954281080,
+        "end": 1789954341568,
+        "durationMin": 1.0,
+        "precedingSku": "8572380",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Dolphin Pendant",
+        "precedingAuctionCode": "0019878249",
+        "followingSku": "7193149",
+        "followingTitle": "9K Two Colour Gold 7.5mm X 14mm Kiss Band Bangle",
+        "followingAuctionCode": "0019875492"
       }
     ],
-    "lastOnAirSku": "8572380",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Dolphin Pendant",
-    "lastOnAirAuctionCode": "0019878249",
+    "lastOnAirSku": "7193149",
+    "lastOnAirTitle": "9K Two Colour Gold 7.5mm X 14mm Kiss Band Bangle",
+    "lastOnAirAuctionCode": "0019875492",
     "precedingSku": "8572380",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Dolphin Pendant",
     "precedingAuctionCode": "0019878249"
