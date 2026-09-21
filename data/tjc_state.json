@@ -374824,11 +374824,29 @@
       "missedDelay": 9,
       "missedPrice": 19.99,
       "missedImg": true
+    },
+    "8675551": {
+      "sku": "8675551",
+      "firstAir": 1789986439234,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789986439234,
+      "title": "Italian Made Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
+      "pdpPrice": "239.99",
+      "auctionCode": "0019878917",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-21",
+      "time": "11:27:19",
+      "productUrl": null,
+      "lastUpdated": 1789986439234,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789986385680,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -408422,11 +408440,22 @@
         "followingSku": "8697645",
         "followingTitle": "Multi Colour Stretchable Bracelet",
         "followingAuctionCode": "0019879665"
+      },
+      {
+        "start": 1789986385680,
+        "end": 1789986439234,
+        "durationMin": 0.9,
+        "precedingSku": "8697645",
+        "precedingTitle": "Multi Colour Stretchable Bracelet",
+        "precedingAuctionCode": "0019879665",
+        "followingSku": "8675551",
+        "followingTitle": "Italian Made Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
+        "followingAuctionCode": "0019878917"
       }
     ],
-    "lastOnAirSku": "8697645",
-    "lastOnAirTitle": "Multi Colour Stretchable Bracelet",
-    "lastOnAirAuctionCode": "0019879665",
+    "lastOnAirSku": "8675551",
+    "lastOnAirTitle": "Italian Made Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext)",
+    "lastOnAirAuctionCode": "0019878917",
     "precedingSku": "8697645",
     "precedingTitle": "Multi Colour Stretchable Bracelet",
     "precedingAuctionCode": "0019879665"
