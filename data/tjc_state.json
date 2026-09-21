@@ -374165,9 +374165,16 @@
       "img": true,
       "date": "2026-09-21",
       "time": "02:02:24",
-      "productUrl": null,
-      "lastUpdated": 1789952544022,
-      "source": "gha"
+      "productUrl": "/products/djoy-african-ruby-dyed-white-jade-band-ring-in-yellow-gold-plated-sterling-silver-7-90-ct-m8483161",
+      "lastUpdated": 1789953141963,
+      "source": "gha",
+      "missedAt": 1789953141963,
+      "missedDelay": 10,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1789953144695,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7188471": {
       "sku": "7188471",
@@ -374204,11 +374211,49 @@
       "productUrl": null,
       "lastUpdated": 1789953035190,
       "source": "gha"
+    },
+    "7154575": {
+      "sku": "7154575",
+      "firstAir": 1789953141963,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789953141963,
+      "title": "9K Yellow Gold 11.5mm X 59.5mm 'Sea and Sand' Drop Earrings",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019875489",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-21",
+      "time": "02:12:21",
+      "productUrl": null,
+      "lastUpdated": 1789953141963,
+      "source": "gha"
+    },
+    "8483394": {
+      "sku": "8483394",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-21",
+      "time": "02:12:21",
+      "preExisting": true,
+      "missedAt": 1789953141963,
+      "missedDelay": null,
+      "lastUpdated": 1789953141963,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "title": "D'Joy - African Ruby & Dyed White Jade Band Ring in Yellow Gold Plated Sterling Silver 7.90 Ct.",
+      "auctionCode": "0019878843",
+      "source": "gha",
+      "productUrl": "/products/djoy-african-ruby-dyed-white-jade-band-ring-in-yellow-gold-plated-sterling-silver-7-90-ct-m8483161",
+      "productUrlChecked": 1789953145403,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789953078901,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -407494,11 +407539,22 @@
         "followingSku": "8427362",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Mesh Stretchable (Size 7 TO 9) - Bangle",
         "followingAuctionCode": "0019875499"
+      },
+      {
+        "start": 1789953078901,
+        "end": 1789953141963,
+        "durationMin": 1.1,
+        "precedingSku": "7190382",
+        "precedingTitle": "9K Yellow Gold Flat Curb Chain With Spring Ring Clasp (Size - 16)",
+        "precedingAuctionCode": "0019875491",
+        "followingSku": "7154575",
+        "followingTitle": "9K Yellow Gold 11.5mm X 59.5mm 'Sea and Sand' Drop Earrings",
+        "followingAuctionCode": "0019875489"
       }
     ],
-    "lastOnAirSku": "7190382",
-    "lastOnAirTitle": "9K Yellow Gold Flat Curb Chain With Spring Ring Clasp (Size - 16)",
-    "lastOnAirAuctionCode": "0019875491",
+    "lastOnAirSku": "7154575",
+    "lastOnAirTitle": "9K Yellow Gold 11.5mm X 59.5mm 'Sea and Sand' Drop Earrings",
+    "lastOnAirAuctionCode": "0019875489",
     "precedingSku": "7190382",
     "precedingTitle": "9K Yellow Gold Flat Curb Chain With Spring Ring Clasp (Size - 16)",
     "precedingAuctionCode": "0019875491"
