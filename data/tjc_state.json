@@ -376832,11 +376832,29 @@
       "productUrl": null,
       "lastUpdated": 1790017463575,
       "source": "gha"
+    },
+    "8773636": {
+      "sku": "8773636",
+      "firstAir": 1790017584864,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790017584864,
+      "title": "D'Joy - Red Jade Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 500.00 Ct.",
+      "pdpPrice": "1999.99",
+      "auctionCode": "0019880352",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-21",
+      "time": "20:06:24",
+      "productUrl": null,
+      "lastUpdated": 1790017584864,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790017528118,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -410694,11 +410712,22 @@
         "followingSku": "8770599",
         "followingTitle": "EverTrue - Red Jade & Black Spinel Twin Dragon-Head Beaded Bracelet (Size - 7) 117.83 Ct.",
         "followingAuctionCode": "0019877847"
+      },
+      {
+        "start": 1790017528118,
+        "end": 1790017584864,
+        "durationMin": 0.9,
+        "precedingSku": "8770641",
+        "precedingTitle": "EverTrue - Red Jade Bamboo Frame Solitaire Ring 17.90 Ct.",
+        "precedingAuctionCode": "0019877828",
+        "followingSku": "8773636",
+        "followingTitle": "D'Joy - Red Jade Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 500.00 Ct.",
+        "followingAuctionCode": "0019880352"
       }
     ],
-    "lastOnAirSku": "8770641",
-    "lastOnAirTitle": "EverTrue - Red Jade Bamboo Frame Solitaire Ring 17.90 Ct.",
-    "lastOnAirAuctionCode": "0019877828",
+    "lastOnAirSku": "8773636",
+    "lastOnAirTitle": "D'Joy - Red Jade Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 500.00 Ct.",
+    "lastOnAirAuctionCode": "0019880352",
     "precedingSku": "8770641",
     "precedingTitle": "EverTrue - Red Jade Bamboo Frame Solitaire Ring 17.90 Ct.",
     "precedingAuctionCode": "0019877828"
