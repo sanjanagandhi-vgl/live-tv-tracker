@@ -156321,21 +156321,26 @@
       "sku": "7990792",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "06:49:20",
+      "date": "2026-09-21",
+      "time": "10:22:27",
       "preExisting": true,
       "missedAt": 1786686560592,
       "missedDelay": null,
-      "lastUpdated": 1786686560592,
+      "lastUpdated": 1789982547379,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Lapis Lazuli & Interchangeable Multi Gemstones Necklace (Size -18-2 Ext) in Yellow Tone 59.50 Ct.",
-      "auctionCode": "0019819765",
+      "title": "Lapis Lazuli, Multi Gemstones Interchangeable Necklace (Size - 18) in Stainless Steel",
+      "auctionCode": "0019878873",
       "source": "gha",
       "productUrl": "/products/lapis-lazuli-multi-gemstones-interchangeable-necklace-size-18-in-stainless-steel",
       "productUrlChecked": 1786686565219,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1789982547379,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8479504": {
       "sku": "8479504",
@@ -374822,8 +374827,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789982479804,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -408362,11 +408367,22 @@
         "followingSku": "8568041",
         "followingTitle": "D'Joy - Boulder Opal White Zircon Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 1.75 Ct.",
         "followingAuctionCode": "0019878862"
+      },
+      {
+        "start": 1789982479804,
+        "end": 1789982547379,
+        "durationMin": 1.1,
+        "precedingSku": "8343315",
+        "precedingTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
+        "precedingAuctionCode": "0019878871",
+        "followingSku": "7990792",
+        "followingTitle": "Lapis Lazuli, Multi Gemstones Interchangeable Necklace (Size - 18) in Stainless Steel",
+        "followingAuctionCode": "0019878873"
       }
     ],
-    "lastOnAirSku": "8343315",
-    "lastOnAirTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
-    "lastOnAirAuctionCode": "0019878871",
+    "lastOnAirSku": "7990792",
+    "lastOnAirTitle": "Lapis Lazuli, Multi Gemstones Interchangeable Necklace (Size - 18) in Stainless Steel",
+    "lastOnAirAuctionCode": "0019878873",
     "precedingSku": "8343315",
     "precedingTitle": "Natural Type A Jadeite Jade Stone Zodiac Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
     "precedingAuctionCode": "0019878871"
