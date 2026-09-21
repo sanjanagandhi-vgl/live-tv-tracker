@@ -374711,11 +374711,29 @@
       "productUrl": null,
       "lastUpdated": 1789979543267,
       "source": "gha"
+    },
+    "8660885": {
+      "sku": "8660885",
+      "firstAir": 1789979663878,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789979663878,
+      "title": "Ashwood Genuine Leather Mourne Multi Zip Crossbody Bag - Yellow",
+      "pdpPrice": "209.99",
+      "auctionCode": "0019877243",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-21",
+      "time": "09:34:23",
+      "productUrl": null,
+      "lastUpdated": 1789979663878,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789979598589,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -408221,11 +408239,22 @@
         "followingSku": "8611928",
         "followingTitle": "Dr. Lightfoot Crossover Padded Wide Foot Wedge Sandals (Size 5) - Pale Blue",
         "followingAuctionCode": "0019875775"
+      },
+      {
+        "start": 1789979598589,
+        "end": 1789979663878,
+        "durationMin": 1.1,
+        "precedingSku": "8623062",
+        "precedingTitle": "La Marey Patterned Blazer (Size - Small) - Beige Green",
+        "precedingAuctionCode": "0019877395",
+        "followingSku": "8660885",
+        "followingTitle": "Ashwood Genuine Leather Mourne Multi Zip Crossbody Bag - Yellow",
+        "followingAuctionCode": "0019877243"
       }
     ],
-    "lastOnAirSku": "8623062",
-    "lastOnAirTitle": "La Marey Patterned Blazer (Size - Small) - Beige Green",
-    "lastOnAirAuctionCode": "0019877395",
+    "lastOnAirSku": "8660885",
+    "lastOnAirTitle": "Ashwood Genuine Leather Mourne Multi Zip Crossbody Bag - Yellow",
+    "lastOnAirAuctionCode": "0019877243",
     "precedingSku": "8623062",
     "precedingTitle": "La Marey Patterned Blazer (Size - Small) - Beige Green",
     "precedingAuctionCode": "0019877395"
