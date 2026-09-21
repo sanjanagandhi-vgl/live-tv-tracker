@@ -375434,11 +375434,29 @@
       "productUrlChecked": 1789990286152,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4484234": {
+      "sku": "4484234",
+      "firstAir": 1789990344691,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1789990344691,
+      "title": "D'Joy - Moissanite Cluster Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 3.20 Ct.",
+      "pdpPrice": "159.99",
+      "auctionCode": "0019878976",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-21",
+      "time": "12:32:24",
+      "productUrl": null,
+      "lastUpdated": 1789990344691,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1789990280573,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -409076,11 +409094,22 @@
         "followingSku": "8597999",
         "followingTitle": "D'Joy - Moissanite Cluster Ring in Rhodium Overlay Sterling Silver 3.30 Ct.",
         "followingAuctionCode": "0019879009"
+      },
+      {
+        "start": 1789990280573,
+        "end": 1789990344691,
+        "durationMin": 1.1,
+        "precedingSku": "8597999",
+        "precedingTitle": "D'Joy - Moissanite Cluster Ring in Rhodium Overlay Sterling Silver 3.30 Ct.",
+        "precedingAuctionCode": "0019879009",
+        "followingSku": "4484234",
+        "followingTitle": "D'Joy - Moissanite Cluster Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 3.20 Ct.",
+        "followingAuctionCode": "0019878976"
       }
     ],
-    "lastOnAirSku": "8597999",
-    "lastOnAirTitle": "D'Joy - Moissanite Cluster Ring in Rhodium Overlay Sterling Silver 3.30 Ct.",
-    "lastOnAirAuctionCode": "0019879009",
+    "lastOnAirSku": "4484234",
+    "lastOnAirTitle": "D'Joy - Moissanite Cluster Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 3.20 Ct.",
+    "lastOnAirAuctionCode": "0019878976",
     "precedingSku": "8597999",
     "precedingTitle": "D'Joy - Moissanite Cluster Ring in Rhodium Overlay Sterling Silver 3.30 Ct.",
     "precedingAuctionCode": "0019879009"
