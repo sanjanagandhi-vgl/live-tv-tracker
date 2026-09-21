@@ -337610,23 +337610,23 @@
       "sku": "8753832",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-21",
-      "time": "22:06:25",
+      "date": "2026-09-22",
+      "time": "00:20:35",
       "preExisting": true,
       "missedAt": 1789253728770,
       "missedDelay": null,
-      "lastUpdated": 1790024785481,
+      "lastUpdated": 1790032835212,
       "missedPrice": 499.99,
       "missedImg": true,
       "title": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
-      "auctionCode": "0019878039",
+      "auctionCode": "0019880377",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-3-60-gms-8753816",
       "productUrlChecked": 1789253737327,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790024785481,
-      "pdpPrice": "459.99",
+      "lastAir": 1790032835212,
+      "pdpPrice": "999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -377652,8 +377652,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790032759779,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -411654,11 +411654,22 @@
         "followingSku": "8724206",
         "followingTitle": "The Royal Asscher Cut Collection - 9K Yellow Gold AAA Turkizite Solitaire Pendant 2.00 Ct.",
         "followingAuctionCode": "0019880373"
+      },
+      {
+        "start": 1790032759779,
+        "end": 1790032835212,
+        "durationMin": 1.3,
+        "precedingSku": "8724206",
+        "precedingTitle": "The Royal Asscher Cut Collection - 9K Yellow Gold AAA Turkizite Solitaire Pendant 2.00 Ct.",
+        "precedingAuctionCode": "0019880373",
+        "followingSku": "8753832",
+        "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
+        "followingAuctionCode": "0019880377"
       }
     ],
-    "lastOnAirSku": "8724206",
-    "lastOnAirTitle": "The Royal Asscher Cut Collection - 9K Yellow Gold AAA Turkizite Solitaire Pendant 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019880373",
+    "lastOnAirSku": "8753832",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
+    "lastOnAirAuctionCode": "0019880377",
     "precedingSku": "8724206",
     "precedingTitle": "The Royal Asscher Cut Collection - 9K Yellow Gold AAA Turkizite Solitaire Pendant 2.00 Ct.",
     "precedingAuctionCode": "0019880373"
