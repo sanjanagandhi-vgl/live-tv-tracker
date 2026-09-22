@@ -377785,11 +377785,29 @@
       "productUrlChecked": 1790040447000,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8310047": {
+      "sku": "8310047",
+      "firstAir": 1790041581052,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790041581052,
+      "title": "La Marey Faux Fur Hoodie Gilet (Size 8 to 16) - Beige",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019879505",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "time": "02:46:21",
+      "productUrl": null,
+      "lastUpdated": 1790041581052,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790041534539,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -411867,11 +411885,22 @@
         "followingSku": "8613761",
         "followingTitle": "Exquisite Elegance Seamless Padded Bra (Size - XL, 44-46) - Black",
         "followingAuctionCode": "0019879467"
+      },
+      {
+        "start": 1790041534539,
+        "end": 1790041581052,
+        "durationMin": 0.8,
+        "precedingSku": "8505323",
+        "precedingTitle": "Exquisite Elegance Seamless High Waist Tummy Control Brief (Size- XL 16 T0 18) - Nude",
+        "precedingAuctionCode": "0019879473",
+        "followingSku": "8310047",
+        "followingTitle": "La Marey Faux Fur Hoodie Gilet (Size 8 to 16) - Beige",
+        "followingAuctionCode": "0019879505"
       }
     ],
-    "lastOnAirSku": "8505323",
-    "lastOnAirTitle": "Exquisite Elegance Seamless High Waist Tummy Control Brief (Size- XL 16 T0 18) - Nude",
-    "lastOnAirAuctionCode": "0019879473",
+    "lastOnAirSku": "8310047",
+    "lastOnAirTitle": "La Marey Faux Fur Hoodie Gilet (Size 8 to 16) - Beige",
+    "lastOnAirAuctionCode": "0019879505",
     "precedingSku": "8505323",
     "precedingTitle": "Exquisite Elegance Seamless High Waist Tummy Control Brief (Size- XL 16 T0 18) - Nude",
     "precedingAuctionCode": "0019879473"
