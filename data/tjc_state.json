@@ -9453,16 +9453,16 @@
       "firstAir": 1784976988178,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789204878593,
+      "lastAir": 1790093481904,
       "title": "Maestro Collection - 9K Yellow Gold Twisted Hoop Earring with Clasp",
       "pdpPrice": "99.99",
-      "auctionCode": "0019865950",
+      "auctionCode": "0019880946",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-12",
-      "time": "10:21:18",
-      "lastUpdated": 1789204878593,
+      "date": "2026-09-22",
+      "time": "17:11:21",
+      "lastUpdated": 1790093481904,
       "source": "gha",
       "missedAt": 1784977398519,
       "missedDelay": 1,
@@ -379649,8 +379649,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790093439579,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414179,11 +414179,22 @@
         "followingSku": "8343668",
         "followingTitle": "9K Yellow Gold Rolo Chain",
         "followingAuctionCode": "0019880945"
+      },
+      {
+        "start": 1790093439579,
+        "end": 1790093481904,
+        "durationMin": 0.7,
+        "precedingSku": "8233468",
+        "precedingTitle": "Vicenza Find-9K Yellow Gold Concave Belcher Necklace (Size 18) with Lobster Clasp",
+        "precedingAuctionCode": "0019880776",
+        "followingSku": "8646993",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Twisted Hoop Earring with Clasp",
+        "followingAuctionCode": "0019880946"
       }
     ],
-    "lastOnAirSku": "8233468",
-    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Concave Belcher Necklace (Size 18) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019880776",
+    "lastOnAirSku": "8646993",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Twisted Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019880946",
     "precedingSku": "8233468",
     "precedingTitle": "Vicenza Find-9K Yellow Gold Concave Belcher Necklace (Size 18) with Lobster Clasp",
     "precedingAuctionCode": "0019880776"
