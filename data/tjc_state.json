@@ -7166,18 +7166,18 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-22",
-      "time": "00:35:26",
+      "time": "17:28:24",
       "preExisting": true,
       "missedAt": 1784930728239,
       "missedDelay": null,
-      "lastUpdated": 1790033726051,
+      "lastUpdated": 1790094504614,
       "missedPrice": 199.99,
       "missedImg": true,
       "title": "9K Yellow Gold Spiga Necklace",
-      "auctionCode": "0019880370",
+      "auctionCode": "0019881026",
       "source": "gha",
-      "lastAir": 1790033726051,
-      "pdpPrice": "199.99",
+      "lastAir": 1790094504614,
+      "pdpPrice": "2599.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -379652,8 +379652,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790094330549,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414204,11 +414204,22 @@
         "followingSku": "8597030",
         "followingTitle": "Live From Vicenza - Maestro Collection- 9K Yellow Gold Cross Necklace (Size - 20) with Spring Ring Clasp",
         "followingAuctionCode": "0019880779"
+      },
+      {
+        "start": 1790094330549,
+        "end": 1790094504614,
+        "durationMin": 2.9,
+        "precedingSku": "8571435",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
+        "precedingAuctionCode": "0019880781",
+        "followingSku": "8055952",
+        "followingTitle": "9K Yellow Gold Spiga Necklace",
+        "followingAuctionCode": "0019881026"
       }
     ],
-    "lastOnAirSku": "8571435",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019880781",
+    "lastOnAirSku": "8055952",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace",
+    "lastOnAirAuctionCode": "0019881026",
     "precedingSku": "8571435",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
     "precedingAuctionCode": "0019880781"
