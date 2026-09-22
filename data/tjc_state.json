@@ -24419,23 +24419,23 @@
       "sku": "7169130",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-12",
-      "time": "06:51:17",
+      "date": "2026-09-22",
+      "time": "08:46:24",
       "preExisting": true,
       "missedAt": 1785398554539,
       "missedDelay": null,
-      "lastUpdated": 1789192277909,
+      "lastUpdated": 1790063184053,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Cetuem- Golden Glow - 50ml",
-      "auctionCode": "0019865862",
+      "auctionCode": "0019878609",
       "source": "gha",
       "productUrl": "/products/cetuem-golden-glow-50ml",
       "productUrlChecked": 1785398556975,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1789192277909,
-      "pdpPrice": "14.99",
+      "lastAir": 1790063184053,
+      "pdpPrice": "64.99",
       "buy": true,
       "login": false,
       "img": true
@@ -378119,8 +378119,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790063064492,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412374,11 +412374,22 @@
         "followingSku": "7437186",
         "followingTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
         "followingAuctionCode": "0019876163"
+      },
+      {
+        "start": 1790063064492,
+        "end": 1790063184053,
+        "durationMin": 2.0,
+        "precedingSku": "2984483",
+        "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
+        "precedingAuctionCode": "0019878607",
+        "followingSku": "7169130",
+        "followingTitle": "Cetuem- Golden Glow - 50ml",
+        "followingAuctionCode": "0019878609"
       }
     ],
-    "lastOnAirSku": "2984483",
-    "lastOnAirTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
-    "lastOnAirAuctionCode": "0019878607",
+    "lastOnAirSku": "7169130",
+    "lastOnAirTitle": "Cetuem- Golden Glow - 50ml",
+    "lastOnAirAuctionCode": "0019878609",
     "precedingSku": "2984483",
     "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
     "precedingAuctionCode": "0019878607"
