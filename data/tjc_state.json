@@ -36268,17 +36268,17 @@
       "firstAir": 1785482839343,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785483055064,
+      "lastAir": 1790042182447,
       "title": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Turquoise",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019801915",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019879483",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-31",
-      "time": "08:30:55",
+      "date": "2026-09-22",
+      "time": "02:56:22",
       "productUrl": "/products/voltz-10k-power-bank-6018610736",
-      "lastUpdated": 1785483562155,
+      "lastUpdated": 1790042182447,
       "source": "gha",
       "missedAt": 1785483562155,
       "missedDelay": 8,
@@ -377806,8 +377806,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790042130787,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -411896,11 +411896,22 @@
         "followingSku": "8310047",
         "followingTitle": "La Marey Faux Fur Hoodie Gilet (Size 8 to 16) - Beige",
         "followingAuctionCode": "0019879505"
+      },
+      {
+        "start": 1790042130787,
+        "end": 1790042182447,
+        "durationMin": 0.9,
+        "precedingSku": "7762030",
+        "precedingTitle": "Charlotte West Gilet",
+        "precedingAuctionCode": "0019879506",
+        "followingSku": "8610736",
+        "followingTitle": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Turquoise",
+        "followingAuctionCode": "0019879483"
       }
     ],
-    "lastOnAirSku": "7762030",
-    "lastOnAirTitle": "Charlotte West Gilet",
-    "lastOnAirAuctionCode": "0019879506",
+    "lastOnAirSku": "8610736",
+    "lastOnAirTitle": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Turquoise",
+    "lastOnAirAuctionCode": "0019879483",
     "precedingSku": "7762030",
     "precedingTitle": "Charlotte West Gilet",
     "precedingAuctionCode": "0019879506"
