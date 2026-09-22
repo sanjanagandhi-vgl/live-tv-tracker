@@ -379413,11 +379413,29 @@
       "productUrlChecked": 1790089713034,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8736140": {
+      "sku": "8736140",
+      "firstAir": 1790089890470,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790089890470,
+      "title": "La Marey Signature Luxe Sheepskin Leather Jacket (Size L, 16-18) - Black",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019877712",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "time": "16:11:30",
+      "productUrl": null,
+      "lastUpdated": 1790089890470,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790089762414,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -413902,11 +413920,22 @@
         "followingSku": "8769528",
         "followingTitle": "Aurabelle Women Patent Finish Tassel Slipon Lug Sole Loafers (Size 4) - Black",
         "followingAuctionCode": "0019878128"
+      },
+      {
+        "start": 1790089762414,
+        "end": 1790089890470,
+        "durationMin": 2.1,
+        "precedingSku": "8769534",
+        "precedingTitle": "Aurabelle Women Patent Finish Tassel Slipon Lug Sole Loafers (Size 4) - Brown",
+        "precedingAuctionCode": "0019878129",
+        "followingSku": "8736140",
+        "followingTitle": "La Marey Signature Luxe Sheepskin Leather Jacket (Size L, 16-18) - Black",
+        "followingAuctionCode": "0019877712"
       }
     ],
-    "lastOnAirSku": "8769534",
-    "lastOnAirTitle": "Aurabelle Women Patent Finish Tassel Slipon Lug Sole Loafers (Size 4) - Brown",
-    "lastOnAirAuctionCode": "0019878129",
+    "lastOnAirSku": "8736140",
+    "lastOnAirTitle": "La Marey Signature Luxe Sheepskin Leather Jacket (Size L, 16-18) - Black",
+    "lastOnAirAuctionCode": "0019877712",
     "precedingSku": "8769534",
     "precedingTitle": "Aurabelle Women Patent Finish Tassel Slipon Lug Sole Loafers (Size 4) - Brown",
     "precedingAuctionCode": "0019878129"
