@@ -377885,17 +377885,17 @@
       "firstAir": 1790046329514,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790046637095,
+      "lastAir": 1790084478887,
       "title": "Wool Patterned Hat Cap and Earmuff",
-      "pdpPrice": "12.99",
-      "auctionCode": "0019879511",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019880771",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-22",
-      "time": "04:10:37",
+      "time": "14:41:18",
       "productUrl": "/products/wool-patterned-hat-cap-and-earmuff",
-      "lastUpdated": 1790047237354,
+      "lastUpdated": 1790084478887,
       "source": "gha",
       "missedAt": 1790047237354,
       "missedDelay": 10,
@@ -378422,8 +378422,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790084438066,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412875,11 +412875,22 @@
         "followingSku": "8683473",
         "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
         "followingAuctionCode": "0019877775"
+      },
+      {
+        "start": 1790084438066,
+        "end": 1790084478887,
+        "durationMin": 0.7,
+        "precedingSku": "8683473",
+        "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "precedingAuctionCode": "0019877775",
+        "followingSku": "8205132",
+        "followingTitle": "Wool Patterned Hat Cap and Earmuff",
+        "followingAuctionCode": "0019880771"
       }
     ],
-    "lastOnAirSku": "8683473",
-    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
-    "lastOnAirAuctionCode": "0019877775",
+    "lastOnAirSku": "8205132",
+    "lastOnAirTitle": "Wool Patterned Hat Cap and Earmuff",
+    "lastOnAirAuctionCode": "0019880771",
     "precedingSku": "8683473",
     "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
     "precedingAuctionCode": "0019877775"
