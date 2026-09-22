@@ -377986,11 +377986,29 @@
       "productUrlChecked": 1790054545220,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8379712": {
+      "sku": "8379712",
+      "firstAir": 1790058653240,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790058653240,
+      "title": "Mysteries Crown Perfume",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019880390",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "time": "07:30:53",
+      "productUrl": null,
+      "lastUpdated": 1790058653240,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790057305833,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412211,11 +412229,22 @@
         "followingSku": "8212261",
         "followingTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
         "followingAuctionCode": "0019879247"
+      },
+      {
+        "start": 1790057305833,
+        "end": 1790058653240,
+        "durationMin": 22.5,
+        "precedingSku": "8212261",
+        "precedingTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
+        "precedingAuctionCode": "0019879247",
+        "followingSku": "8379712",
+        "followingTitle": "Mysteries Crown Perfume",
+        "followingAuctionCode": "0019880390"
       }
     ],
-    "lastOnAirSku": "8212261",
-    "lastOnAirTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
-    "lastOnAirAuctionCode": "0019879247",
+    "lastOnAirSku": "8379712",
+    "lastOnAirTitle": "Mysteries Crown Perfume",
+    "lastOnAirAuctionCode": "0019880390",
     "precedingSku": "8212261",
     "precedingTitle": "Livmore Rechargeable Hot Compress Portable Massager Belt with Heat and Vibration Therapy - Grey",
     "precedingAuctionCode": "0019879247"
