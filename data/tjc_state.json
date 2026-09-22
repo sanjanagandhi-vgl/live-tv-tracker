@@ -292025,17 +292025,17 @@
       "firstAir": 1788397762470,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789998265423,
+      "lastAir": 1790055144452,
       "title": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019879853",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019880386",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-21",
-      "time": "14:44:25",
+      "date": "2026-09-22",
+      "time": "06:32:24",
       "productUrl": "/products/cyclax-cocoa-butter-rich-body-cream-8739949",
-      "lastUpdated": 1789998265423,
+      "lastUpdated": 1790055144452,
       "source": "gha",
       "missedAt": 1788398357923,
       "missedDelay": 10,
@@ -377989,8 +377989,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790055051154,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412189,11 +412189,22 @@
         "followingSku": "2744944",
         "followingTitle": "Douvalls - Argan Active Protective Eye Serum - 15ml",
         "followingAuctionCode": "0019879445"
+      },
+      {
+        "start": 1790055051154,
+        "end": 1790055144452,
+        "durationMin": 1.6,
+        "precedingSku": "2744944",
+        "precedingTitle": "Douvalls - Argan Active Protective Eye Serum - 15ml",
+        "precedingAuctionCode": "0019879445",
+        "followingSku": "8739949",
+        "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+        "followingAuctionCode": "0019880386"
       }
     ],
-    "lastOnAirSku": "2744944",
-    "lastOnAirTitle": "Douvalls - Argan Active Protective Eye Serum - 15ml",
-    "lastOnAirAuctionCode": "0019879445",
+    "lastOnAirSku": "8739949",
+    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+    "lastOnAirAuctionCode": "0019880386",
     "precedingSku": "2744944",
     "precedingTitle": "Douvalls - Argan Active Protective Eye Serum - 15ml",
     "precedingAuctionCode": "0019879445"
