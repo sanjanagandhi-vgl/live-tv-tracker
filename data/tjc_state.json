@@ -24539,23 +24539,23 @@
       "sku": "7437186",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-12",
-      "time": "06:55:28",
+      "date": "2026-09-22",
+      "time": "08:20:36",
       "preExisting": true,
       "missedAt": 1785398554539,
       "missedDelay": null,
-      "lastUpdated": 1789192528224,
+      "lastUpdated": 1790061636720,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
-      "auctionCode": "0019865863",
+      "auctionCode": "0019876163",
       "source": "gha",
       "productUrl": "/products/cetuem-eye-trio-incl-eye-cleanser-eye-cream-and-eye-gel-mask?variant=53108291240202",
       "productUrlChecked": 1785398557645,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1789192528224,
-      "pdpPrice": 49.99,
+      "lastAir": 1790061636720,
+      "pdpPrice": "200.99",
       "buy": true,
       "login": false,
       "img": true
@@ -378119,8 +378119,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790061559069,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412363,11 +412363,22 @@
         "followingSku": "221334645",
         "followingTitle": "Pack of 2- Amour de Carnaval Luxe Jet Set Travel Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml)",
         "followingAuctionCode": "0019879214"
+      },
+      {
+        "start": 1790061559069,
+        "end": 1790061636720,
+        "durationMin": 1.3,
+        "precedingSku": "3312314",
+        "precedingTitle": "Cetuem Radiance Duo with Exfoliating Mask 50ml and SCR Gold Booster Serum 15ml",
+        "precedingAuctionCode": "0019876160",
+        "followingSku": "7437186",
+        "followingTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
+        "followingAuctionCode": "0019876163"
       }
     ],
-    "lastOnAirSku": "3312314",
-    "lastOnAirTitle": "Cetuem Radiance Duo with Exfoliating Mask 50ml and SCR Gold Booster Serum 15ml",
-    "lastOnAirAuctionCode": "0019876160",
+    "lastOnAirSku": "7437186",
+    "lastOnAirTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
+    "lastOnAirAuctionCode": "0019876163",
     "precedingSku": "3312314",
     "precedingTitle": "Cetuem Radiance Duo with Exfoliating Mask 50ml and SCR Gold Booster Serum 15ml",
     "precedingAuctionCode": "0019876160"
