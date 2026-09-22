@@ -192643,17 +192643,17 @@
       "firstAir": 1787121200207,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790065859181,
+      "lastAir": 1790107342720,
       "title": "Cetuem Pack of 2 - Lip Allure & Collagen Eye Complex - 15ml each",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019876161",
+      "pdpPrice": "120.99",
+      "auctionCode": "0019881285",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-22",
-      "time": "09:30:59",
+      "time": "21:02:22",
       "productUrl": "/products/cetuem-pack-of-2-lip-allure-collagen-eye-complex-15ml-each-8753059?variant=53530672234762",
-      "lastUpdated": 1790065859181,
+      "lastUpdated": 1790107342720,
       "source": "gha",
       "missedAt": 1787122866251,
       "missedDelay": 10,
@@ -379852,8 +379852,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790107267132,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414569,11 +414569,22 @@
         "followingSku": "7169130",
         "followingTitle": "Cetuem- Golden Glow - 50ml",
         "followingAuctionCode": "0019881074"
+      },
+      {
+        "start": 1790107267132,
+        "end": 1790107342720,
+        "durationMin": 1.3,
+        "precedingSku": "7437186",
+        "precedingTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
+        "precedingAuctionCode": "0019881115",
+        "followingSku": "8753059",
+        "followingTitle": "Cetuem Pack of 2 - Lip Allure & Collagen Eye Complex - 15ml each",
+        "followingAuctionCode": "0019881285"
       }
     ],
-    "lastOnAirSku": "7437186",
-    "lastOnAirTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
-    "lastOnAirAuctionCode": "0019881115",
+    "lastOnAirSku": "8753059",
+    "lastOnAirTitle": "Cetuem Pack of 2 - Lip Allure & Collagen Eye Complex - 15ml each",
+    "lastOnAirAuctionCode": "0019881285",
     "precedingSku": "7437186",
     "precedingTitle": "Cetuem Eye Trio (Incl. Eye Cleanser, Eye Cream and Eye Gel Mask)",
     "precedingAuctionCode": "0019881115"
