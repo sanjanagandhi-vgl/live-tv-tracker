@@ -35211,21 +35211,21 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-22",
-      "time": "08:43:19",
+      "time": "20:37:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1790062999864,
+      "lastUpdated": 1790105842990,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Cetuem- Creme De Lite Moisturiser - 50ml",
-      "auctionCode": "0019878607",
+      "auctionCode": "0019881073",
       "source": "gha",
       "productUrl": "/products/cetuem-creme-de-lite-moisturiser-50ml?variant=53108422770954",
       "productUrlChecked": 1785476908147,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1790062999864,
+      "lastAir": 1790105842990,
       "pdpPrice": "29.99",
       "buy": true,
       "login": false,
@@ -379852,8 +379852,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790105675466,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414536,11 +414536,22 @@
         "followingSku": "2912905",
         "followingTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
         "followingAuctionCode": "0019881072"
+      },
+      {
+        "start": 1790105675466,
+        "end": 1790105842990,
+        "durationMin": 2.8,
+        "precedingSku": "2912905",
+        "precedingTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
+        "precedingAuctionCode": "0019881072",
+        "followingSku": "2984483",
+        "followingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
+        "followingAuctionCode": "0019881073"
       }
     ],
-    "lastOnAirSku": "2912905",
-    "lastOnAirTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
-    "lastOnAirAuctionCode": "0019881072",
+    "lastOnAirSku": "2984483",
+    "lastOnAirTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
+    "lastOnAirAuctionCode": "0019881073",
     "precedingSku": "2912905",
     "precedingTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
     "precedingAuctionCode": "0019881072"
