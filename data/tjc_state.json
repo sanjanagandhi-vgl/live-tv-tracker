@@ -188071,17 +188071,17 @@
       "firstAir": 1787057239140,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787057729294,
+      "lastAir": 1790081082145,
       "title": "Cotton Mattress",
-      "pdpPrice": "599.99",
-      "auctionCode": "0019827745",
+      "pdpPrice": "549.99",
+      "auctionCode": "0019875841",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-18",
-      "time": "13:55:29",
+      "date": "2026-09-22",
+      "time": "13:44:42",
       "productUrl": "/products/cotton-mattress",
-      "lastUpdated": 1787058262329,
+      "lastUpdated": 1790081082145,
       "source": "gha",
       "missedAt": 1787058262329,
       "missedDelay": 9,
@@ -378278,8 +378278,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790080999963,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412687,11 +412687,22 @@
         "followingSku": "8195996",
         "followingTitle": "Cotton Mattress",
         "followingAuctionCode": "0019875842"
+      },
+      {
+        "start": 1790080999963,
+        "end": 1790081082145,
+        "durationMin": 1.4,
+        "precedingSku": "8195996",
+        "precedingTitle": "Cotton Mattress",
+        "precedingAuctionCode": "0019875842",
+        "followingSku": "8195995",
+        "followingTitle": "Cotton Mattress",
+        "followingAuctionCode": "0019875841"
       }
     ],
-    "lastOnAirSku": "8195996",
+    "lastOnAirSku": "8195995",
     "lastOnAirTitle": "Cotton Mattress",
-    "lastOnAirAuctionCode": "0019875842",
+    "lastOnAirAuctionCode": "0019875841",
     "precedingSku": "8195996",
     "precedingTitle": "Cotton Mattress",
     "precedingAuctionCode": "0019875842"
