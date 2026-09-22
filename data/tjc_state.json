@@ -213425,21 +213425,26 @@
       "sku": "8324445",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "20:14:21",
+      "date": "2026-09-22",
+      "time": "03:54:23",
       "preExisting": true,
       "missedAt": 1787339661877,
       "missedDelay": null,
-      "lastUpdated": 1787339661877,
+      "lastUpdated": 1790045663589,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "NOD Signal EDP - 30ml",
-      "auctionCode": "0019830278",
+      "title": "NOD Homage EDP - 30ml",
+      "auctionCode": "0019879482",
       "source": "gha",
       "productUrl": "/products/nod-homage-edp-30ml",
       "productUrlChecked": 1787339673492,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790045663589,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8324452": {
       "sku": "8324452",
@@ -377844,8 +377849,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790045599975,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -411956,11 +411961,22 @@
         "followingSku": "8624564",
         "followingTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
         "followingAuctionCode": "0019879575"
+      },
+      {
+        "start": 1790045599975,
+        "end": 1790045663589,
+        "durationMin": 1.1,
+        "precedingSku": "8354265",
+        "precedingTitle": "TWS True Wireless Earbuds - 150mAh Charging Case - 2-3 Hour Playtime",
+        "precedingAuctionCode": "0019879479",
+        "followingSku": "8324445",
+        "followingTitle": "NOD Homage EDP - 30ml",
+        "followingAuctionCode": "0019879482"
       }
     ],
-    "lastOnAirSku": "8354265",
-    "lastOnAirTitle": "TWS True Wireless Earbuds - 150mAh Charging Case - 2-3 Hour Playtime",
-    "lastOnAirAuctionCode": "0019879479",
+    "lastOnAirSku": "8324445",
+    "lastOnAirTitle": "NOD Homage EDP - 30ml",
+    "lastOnAirAuctionCode": "0019879482",
     "precedingSku": "8354265",
     "precedingTitle": "TWS True Wireless Earbuds - 150mAh Charging Case - 2-3 Hour Playtime",
     "precedingAuctionCode": "0019879479"
