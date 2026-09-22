@@ -283324,21 +283324,21 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-22",
-      "time": "09:14:23",
+      "time": "20:12:23",
       "preExisting": true,
       "missedAt": 1788270930007,
       "missedDelay": null,
-      "lastUpdated": 1790064863871,
+      "lastUpdated": 1790104343244,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
-      "auctionCode": "0019878608",
+      "auctionCode": "0019881072",
       "source": "gha",
       "productUrl": "/products/cetuem-scr-gold-anti-ageing-anti-oxidant-gold-regenerator-serum-50ml",
       "productUrlChecked": 1788270944400,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790064863871,
+      "lastAir": 1790104343244,
       "pdpPrice": "49.99",
       "buy": true,
       "login": false,
@@ -379852,8 +379852,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790103863403,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414525,11 +414525,22 @@
         "followingSku": "8630981",
         "followingTitle": "LOWEST EVER PRICE - Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
         "followingAuctionCode": "0019880244"
+      },
+      {
+        "start": 1790103863403,
+        "end": 1790104343244,
+        "durationMin": 8.0,
+        "precedingSku": "8630981",
+        "precedingTitle": "LOWEST EVER PRICE - Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
+        "precedingAuctionCode": "0019880244",
+        "followingSku": "2912905",
+        "followingTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
+        "followingAuctionCode": "0019881072"
       }
     ],
-    "lastOnAirSku": "8630981",
-    "lastOnAirTitle": "LOWEST EVER PRICE - Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
-    "lastOnAirAuctionCode": "0019880244",
+    "lastOnAirSku": "2912905",
+    "lastOnAirTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
+    "lastOnAirAuctionCode": "0019881072",
     "precedingSku": "8630981",
     "precedingTitle": "LOWEST EVER PRICE - Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
     "precedingAuctionCode": "0019880244"
