@@ -378327,11 +378327,29 @@
       "productUrl": null,
       "lastUpdated": 1790083164542,
       "source": "gha"
+    },
+    "8688010": {
+      "sku": "8688010",
+      "firstAir": 1790083469660,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790083469660,
+      "title": "Ladies Multi-colour Printed Large Travel Tote Bag - Blue & White",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019877765",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "time": "14:24:29",
+      "productUrl": null,
+      "lastUpdated": 1790083469660,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790083402691,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412761,11 +412779,22 @@
         "followingSku": "8667806",
         "followingTitle": "Soho Square Berlin Unisex Sunglasses - Black",
         "followingAuctionCode": "0019877761"
+      },
+      {
+        "start": 1790083402691,
+        "end": 1790083469660,
+        "durationMin": 1.1,
+        "precedingSku": "8667806",
+        "precedingTitle": "Soho Square Berlin Unisex Sunglasses - Black",
+        "precedingAuctionCode": "0019877761",
+        "followingSku": "8688010",
+        "followingTitle": "Ladies Multi-colour Printed Large Travel Tote Bag - Blue & White",
+        "followingAuctionCode": "0019877765"
       }
     ],
-    "lastOnAirSku": "8667806",
-    "lastOnAirTitle": "Soho Square Berlin Unisex Sunglasses - Black",
-    "lastOnAirAuctionCode": "0019877761",
+    "lastOnAirSku": "8688010",
+    "lastOnAirTitle": "Ladies Multi-colour Printed Large Travel Tote Bag - Blue & White",
+    "lastOnAirAuctionCode": "0019877765",
     "precedingSku": "8667806",
     "precedingTitle": "Soho Square Berlin Unisex Sunglasses - Black",
     "precedingAuctionCode": "0019877761"
