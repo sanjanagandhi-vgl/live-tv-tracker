@@ -283307,23 +283307,23 @@
       "sku": "2912905",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-12",
-      "time": "06:34:23",
+      "date": "2026-09-22",
+      "time": "09:05:28",
       "preExisting": true,
       "missedAt": 1788270930007,
       "missedDelay": null,
-      "lastUpdated": 1789191263216,
+      "lastUpdated": 1790064328933,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
-      "auctionCode": "0019865855",
+      "auctionCode": "0019878608",
       "source": "gha",
       "productUrl": "/products/cetuem-scr-gold-anti-ageing-anti-oxidant-gold-regenerator-serum-50ml",
       "productUrlChecked": 1788270944400,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789191263216,
-      "pdpPrice": "49.99",
+      "lastAir": 1790064328933,
+      "pdpPrice": "350.99",
       "buy": true,
       "login": false,
       "img": true
@@ -378119,8 +378119,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790064264653,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412385,11 +412385,22 @@
         "followingSku": "7169130",
         "followingTitle": "Cetuem- Golden Glow - 50ml",
         "followingAuctionCode": "0019878609"
+      },
+      {
+        "start": 1790064264653,
+        "end": 1790064328933,
+        "durationMin": 1.1,
+        "precedingSku": "8477936",
+        "precedingTitle": "Cetuem Duo Bundle (Incl. PH Skin Cleanser and PH Skin Lotion) with Free Sponge",
+        "precedingAuctionCode": "0019876171",
+        "followingSku": "2912905",
+        "followingTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
+        "followingAuctionCode": "0019878608"
       }
     ],
-    "lastOnAirSku": "8477936",
-    "lastOnAirTitle": "Cetuem Duo Bundle (Incl. PH Skin Cleanser and PH Skin Lotion) with Free Sponge",
-    "lastOnAirAuctionCode": "0019876171",
+    "lastOnAirSku": "2912905",
+    "lastOnAirTitle": "Cetuem - SCR Gold Anti-Ageing, Anti-Oxidant Gold Regenerator Serum - 50ml",
+    "lastOnAirAuctionCode": "0019878608",
     "precedingSku": "8477936",
     "precedingTitle": "Cetuem Duo Bundle (Incl. PH Skin Cleanser and PH Skin Lotion) with Free Sponge",
     "precedingAuctionCode": "0019876171"
