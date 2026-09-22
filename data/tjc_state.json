@@ -274165,21 +274165,26 @@
       "sku": "8613066",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "05:24:22",
+      "date": "2026-09-22",
+      "time": "22:10:36",
       "preExisting": true,
       "missedAt": 1788150262591,
       "missedDelay": null,
-      "lastUpdated": 1788150262591,
+      "lastUpdated": 1790111436329,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "D'Joy - GRA Certified Moissanite Full Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 2.80 Ct.",
-      "auctionCode": "0019850902",
+      "title": "Moissanite Full Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 2.80 Ct.",
+      "auctionCode": "0019880325",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-full-hoop-earring-in-sterling-silver-2-800-ct-2658613065",
       "productUrlChecked": 1788150265504,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790111436329,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8612488": {
       "sku": "8612488",
@@ -379852,8 +379857,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790111304839,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414613,11 +414618,22 @@
         "followingSku": "8236690",
         "followingTitle": "Last in Stock- Keplin Lightweight Digital Vacuum with Bending Hose - 3 Speed, 60 Min Run Time, 350W Motor - LIFETIME WARRANTY",
         "followingAuctionCode": "0019881071"
+      },
+      {
+        "start": 1790111304839,
+        "end": 1790111436329,
+        "durationMin": 2.2,
+        "precedingSku": "8236690",
+        "precedingTitle": "Last in Stock- Keplin Lightweight Digital Vacuum with Bending Hose - 3 Speed, 60 Min Run Time, 35...",
+        "precedingAuctionCode": "0019881071",
+        "followingSku": "8613066",
+        "followingTitle": "Moissanite Full Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 2.80 Ct.",
+        "followingAuctionCode": "0019880325"
       }
     ],
-    "lastOnAirSku": "8236690",
-    "lastOnAirTitle": "Last in Stock- Keplin Lightweight Digital Vacuum with Bending Hose - 3 Speed, 60 Min Run Time, 35...",
-    "lastOnAirAuctionCode": "0019881071",
+    "lastOnAirSku": "8613066",
+    "lastOnAirTitle": "Moissanite Full Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 2.80 Ct.",
+    "lastOnAirAuctionCode": "0019880325",
     "precedingSku": "8236690",
     "precedingTitle": "Last in Stock- Keplin Lightweight Digital Vacuum with Bending Hose - 3 Speed, 60 Min Run Time, 35...",
     "precedingAuctionCode": "0019881071"
