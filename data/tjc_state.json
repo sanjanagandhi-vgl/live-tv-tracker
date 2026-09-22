@@ -378419,11 +378419,29 @@
       "productUrlChecked": 1790084441515,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8646923": {
+      "sku": "8646923",
+      "firstAir": 1790084838860,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790084838860,
+      "title": "Pure And Natural Keyhole Top (Size 22-24) - Sky",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019879325",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "time": "14:47:18",
+      "productUrl": null,
+      "lastUpdated": 1790084838860,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790084736657,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412886,11 +412904,22 @@
         "followingSku": "8205132",
         "followingTitle": "Wool Patterned Hat Cap and Earmuff",
         "followingAuctionCode": "0019880771"
+      },
+      {
+        "start": 1790084736657,
+        "end": 1790084838860,
+        "durationMin": 1.7,
+        "precedingSku": "8205132",
+        "precedingTitle": "Wool Patterned Hat Cap and Earmuff",
+        "precedingAuctionCode": "0019880771",
+        "followingSku": "8646923",
+        "followingTitle": "Pure And Natural Keyhole Top (Size 22-24) - Sky",
+        "followingAuctionCode": "0019879325"
       }
     ],
-    "lastOnAirSku": "8205132",
-    "lastOnAirTitle": "Wool Patterned Hat Cap and Earmuff",
-    "lastOnAirAuctionCode": "0019880771",
+    "lastOnAirSku": "8646923",
+    "lastOnAirTitle": "Pure And Natural Keyhole Top (Size 22-24) - Sky",
+    "lastOnAirAuctionCode": "0019879325",
     "precedingSku": "8205132",
     "precedingTitle": "Wool Patterned Hat Cap and Earmuff",
     "precedingAuctionCode": "0019880771"
