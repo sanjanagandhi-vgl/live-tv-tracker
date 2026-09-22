@@ -3935,16 +3935,16 @@
       "firstAir": 1784877261114,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786842559895,
+      "lastAir": 1790093185702,
       "title": "9K Yellow Gold Rolo Chain",
-      "pdpPrice": "79.99",
-      "auctionCode": "0019823905",
+      "pdpPrice": "1289.99",
+      "auctionCode": "0019880945",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-16",
-      "time": "02:09:19",
-      "lastUpdated": 1786842559895,
+      "date": "2026-09-22",
+      "time": "17:06:25",
+      "lastUpdated": 1790093185702,
       "source": "gha",
       "missedAt": 1784877501839,
       "missedDelay": 1,
@@ -379649,8 +379649,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790093127729,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414168,11 +414168,22 @@
         "followingSku": "8636693",
         "followingTitle": "La Marey Womens Striped Tassel Poncho Cardigan  with Pockets (One Size) - Beige",
         "followingAuctionCode": "0019879350"
+      },
+      {
+        "start": 1790093127729,
+        "end": 1790093185702,
+        "durationMin": 1.0,
+        "precedingSku": "8636693",
+        "precedingTitle": "La Marey Womens Striped Tassel Poncho Cardigan with Pockets (One Size) - Beige",
+        "precedingAuctionCode": "0019879350",
+        "followingSku": "8343668",
+        "followingTitle": "9K Yellow Gold Rolo Chain",
+        "followingAuctionCode": "0019880945"
       }
     ],
-    "lastOnAirSku": "8636693",
-    "lastOnAirTitle": "La Marey Womens Striped Tassel Poncho Cardigan with Pockets (One Size) - Beige",
-    "lastOnAirAuctionCode": "0019879350",
+    "lastOnAirSku": "8343668",
+    "lastOnAirTitle": "9K Yellow Gold Rolo Chain",
+    "lastOnAirAuctionCode": "0019880945",
     "precedingSku": "8636693",
     "precedingTitle": "La Marey Womens Striped Tassel Poncho Cardigan with Pockets (One Size) - Beige",
     "precedingAuctionCode": "0019879350"
