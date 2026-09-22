@@ -130,15 +130,23 @@
       "sku": "2744944",
       "tvPrice": "",
       "remarks": "",
-      "time": "07:03:56",
+      "time": "06:22:22",
       "preExisting": true,
       "missedAt": 1784790236863,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
-      "title": "Douvalls Argan Active Eye Serum - Protect, Repair and Lift Delicate Face Skin",
-      "auctionCode": "0019791031",
-      "source": "gha"
+      "title": "Douvalls - Argan Active Protective Eye Serum - 15ml",
+      "auctionCode": "0019879445",
+      "source": "gha",
+      "lastAir": 1790054542851,
+      "pdpPrice": "54.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "productUrl": null,
+      "lastUpdated": 1790054542851
     },
     "8689414": {
       "sku": "8689414",
@@ -377968,14 +377976,21 @@
       "img": true,
       "date": "2026-09-22",
       "time": "06:13:20",
-      "productUrl": null,
-      "lastUpdated": 1790054000514,
-      "source": "gha"
+      "productUrl": "/products/douvalls-argan-ungurahua-conditoner-240ml",
+      "lastUpdated": 1790054542851,
+      "source": "gha",
+      "missedAt": 1790054542851,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1790054545220,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790054485847,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412163,11 +412178,22 @@
         "followingSku": "8411750",
         "followingTitle": "IW Special Socks",
         "followingAuctionCode": "0019879510"
+      },
+      {
+        "start": 1790054485847,
+        "end": 1790054542851,
+        "durationMin": 1.0,
+        "precedingSku": "8740709",
+        "precedingTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
+        "precedingAuctionCode": "0019879435",
+        "followingSku": "2744944",
+        "followingTitle": "Douvalls - Argan Active Protective Eye Serum - 15ml",
+        "followingAuctionCode": "0019879445"
       }
     ],
-    "lastOnAirSku": "8740709",
-    "lastOnAirTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
-    "lastOnAirAuctionCode": "0019879435",
+    "lastOnAirSku": "2744944",
+    "lastOnAirTitle": "Douvalls - Argan Active Protective Eye Serum - 15ml",
+    "lastOnAirAuctionCode": "0019879445",
     "precedingSku": "8740709",
     "precedingTitle": "OPI Nail Lacquer Spring 2026 Collection - Lincoln Park After Brunch - 15ml",
     "precedingAuctionCode": "0019879435"
