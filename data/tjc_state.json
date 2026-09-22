@@ -378349,9 +378349,16 @@
       "img": true,
       "date": "2026-09-22",
       "time": "14:30:54",
-      "productUrl": null,
-      "lastUpdated": 1790083854030,
-      "source": "gha"
+      "productUrl": "/products/patterned-tote-bag-size-49x36x18-cm-blue-white-8687965",
+      "lastUpdated": 1790084438066,
+      "source": "gha",
+      "missedAt": 1790084438066,
+      "missedDelay": 10,
+      "missedPrice": 6.99,
+      "missedImg": true,
+      "productUrlChecked": 1790084440663,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8684010": {
       "sku": "8684010",
@@ -378392,11 +378399,31 @@
       "productUrlChecked": 1790083767972,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8687968": {
+      "sku": "8687968",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-22",
+      "time": "14:40:38",
+      "preExisting": true,
+      "missedAt": 1790084438066,
+      "missedDelay": null,
+      "lastUpdated": 1790084438066,
+      "missedPrice": 6.99,
+      "missedImg": true,
+      "title": "Ladies Multi-colour Printed Large Travel Tote Bag - Purple",
+      "auctionCode": "0019878096",
+      "source": "gha",
+      "productUrl": "/products/patterned-tote-bag-size-49x36x18-cm-blue-white-8687965",
+      "productUrlChecked": 1790084441515,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790084438066,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412853,8 +412880,8 @@
     "lastOnAirSku": "8683473",
     "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
     "lastOnAirAuctionCode": "0019877775",
-    "precedingSku": "8688010",
-    "precedingTitle": "Ladies Multi-colour Printed Large Travel Tote Bag - Blue & White",
-    "precedingAuctionCode": "0019877765"
+    "precedingSku": "8683473",
+    "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+    "precedingAuctionCode": "0019877775"
   }
 }
