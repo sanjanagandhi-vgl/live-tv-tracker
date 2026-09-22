@@ -379654,11 +379654,29 @@
       "auctionCode": "0019877709",
       "source": "gha",
       "productUrl": null
+    },
+    "8661847": {
+      "sku": "8661847",
+      "firstAir": 1790098640335,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790098640335,
+      "title": "Carved Yellow Jade Duck Semi-Precious Gemstone Figurine (4x4cm)",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019878676",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "time": "18:37:20",
+      "productUrl": null,
+      "lastUpdated": 1790098640335,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790098469634,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414275,11 +414293,22 @@
         "followingSku": "8623574",
         "followingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
         "followingAuctionCode": "0019878654"
+      },
+      {
+        "start": 1790098469634,
+        "end": 1790098640335,
+        "durationMin": 2.8,
+        "precedingSku": "8623574",
+        "precedingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+        "precedingAuctionCode": "0019878654",
+        "followingSku": "8661847",
+        "followingTitle": "Carved Yellow Jade Duck Semi-Precious Gemstone Figurine (4x4cm)",
+        "followingAuctionCode": "0019878676"
       }
     ],
-    "lastOnAirSku": "8623574",
-    "lastOnAirTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
-    "lastOnAirAuctionCode": "0019878654",
+    "lastOnAirSku": "8661847",
+    "lastOnAirTitle": "Carved Yellow Jade Duck Semi-Precious Gemstone Figurine (4x4cm)",
+    "lastOnAirAuctionCode": "0019878676",
     "precedingSku": "8623574",
     "precedingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
     "precedingAuctionCode": "0019878654"
