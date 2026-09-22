@@ -360699,21 +360699,26 @@
       "sku": "8623574",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "19:53:22",
+      "date": "2026-09-22",
+      "time": "18:32:25",
       "preExisting": true,
       "missedAt": 1789757602088,
       "missedDelay": null,
-      "lastUpdated": 1789757602088,
+      "lastUpdated": 1790098345599,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Modern Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob - Silver",
-      "auctionCode": "0019874617",
+      "title": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+      "auctionCode": "0019878654",
       "source": "gha",
       "productUrl": "/products/patterned-jewellery-box-size-10x10x4-cm-copper-8622423",
       "productUrlChecked": 1789757612458,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790098345599,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8624644": {
       "sku": "8624644",
@@ -379652,8 +379657,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790098257440,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414259,11 +414264,22 @@
         "followingSku": "8624644",
         "followingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
         "followingAuctionCode": "0019878636"
+      },
+      {
+        "start": 1790098257440,
+        "end": 1790098345599,
+        "durationMin": 1.5,
+        "precedingSku": "8624644",
+        "precedingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
+        "precedingAuctionCode": "0019878636",
+        "followingSku": "8623574",
+        "followingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+        "followingAuctionCode": "0019878654"
       }
     ],
-    "lastOnAirSku": "8624644",
-    "lastOnAirTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
-    "lastOnAirAuctionCode": "0019878636",
+    "lastOnAirSku": "8623574",
+    "lastOnAirTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+    "lastOnAirAuctionCode": "0019878654",
     "precedingSku": "8624644",
     "precedingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
     "precedingAuctionCode": "0019878636"
