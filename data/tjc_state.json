@@ -379503,11 +379503,29 @@
       "auctionCode": "0019878140",
       "source": "gha",
       "productUrl": null
+    },
+    "8736188": {
+      "sku": "8736188",
+      "firstAir": 1790091389594,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790091389594,
+      "title": "La Marey Signature Genuine Leather Jacket",
+      "pdpPrice": "600.99",
+      "auctionCode": "0019877501",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "time": "16:36:29",
+      "productUrl": null,
+      "lastUpdated": 1790091389594,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790091331836,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414003,11 +414021,22 @@
         "followingSku": "8736140",
         "followingTitle": "La Marey Signature Luxe Sheepskin Leather Jacket (Size L, 16-18) - Black",
         "followingAuctionCode": "0019877712"
+      },
+      {
+        "start": 1790091331836,
+        "end": 1790091389594,
+        "durationMin": 1.0,
+        "precedingSku": "8736140",
+        "precedingTitle": "La Marey Signature Luxe Leather Jacket (Size L, 16-18) - Black",
+        "precedingAuctionCode": "0019877712",
+        "followingSku": "8736188",
+        "followingTitle": "La Marey Signature Genuine Leather Jacket",
+        "followingAuctionCode": "0019877501"
       }
     ],
-    "lastOnAirSku": "8736140",
-    "lastOnAirTitle": "La Marey Signature Luxe Leather Jacket (Size L, 16-18) - Black",
-    "lastOnAirAuctionCode": "0019877712",
+    "lastOnAirSku": "8736188",
+    "lastOnAirTitle": "La Marey Signature Genuine Leather Jacket",
+    "lastOnAirAuctionCode": "0019877501",
     "precedingSku": "8736140",
     "precedingTitle": "La Marey Signature Luxe Leather Jacket (Size L, 16-18) - Black",
     "precedingAuctionCode": "0019877712"
