@@ -375025,21 +375025,26 @@
       "sku": "8624922",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-21",
-      "time": "12:03:00",
+      "date": "2026-09-22",
+      "time": "22:32:22",
       "preExisting": true,
       "missedAt": 1789988580984,
       "missedDelay": null,
-      "lastUpdated": 1789988580984,
+      "lastUpdated": 1790112742175,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "Moissanite Solitaire Earring with Lever Back in Platinum Overlay Sterling Silver 5.00 Ct.",
-      "auctionCode": "0019879234",
+      "title": "Moissanite Solitaire Earring with Lever Back in Platinum Overlay Sterling Silver 3.60 Ct.",
+      "auctionCode": "0019880279",
       "source": "gha",
       "productUrl": "/products/moissanite-earring-in-platinum-overlaysterling-silver-3-594-ct-8624922",
       "productUrlChecked": 1789988584494,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790112742175,
+      "pdpPrice": "479.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "3341877": {
       "sku": "3341877",
@@ -379912,9 +379917,16 @@
       "img": true,
       "date": "2026-09-22",
       "time": "22:22:57",
-      "productUrl": null,
-      "lastUpdated": 1790112177667,
-      "source": "gha"
+      "productUrl": "/products/djoy-gra-certified-moissanite-stud-earring-with-push-back-in-sterling-silver-2658613251",
+      "lastUpdated": 1790112742175,
+      "source": "gha",
+      "missedAt": 1790112742175,
+      "missedDelay": 9,
+      "missedPrice": 44.99,
+      "missedImg": true,
+      "productUrlChecked": 1790112745433,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8622534": {
       "sku": "8622534",
@@ -379936,8 +379948,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790112560278,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414730,11 +414742,22 @@
         "followingSku": "8613252",
         "followingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Stud Earring with Push Back in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019880328"
+      },
+      {
+        "start": 1790112560278,
+        "end": 1790112742175,
+        "durationMin": 3.0,
+        "precedingSku": "8622534",
+        "precedingTitle": "D'Joy - Moissanite Cross Hoop Earring in Platinum Overlay Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019880329",
+        "followingSku": "8624922",
+        "followingTitle": "Moissanite Solitaire Earring with Lever Back in Platinum Overlay Sterling Silver 3.60 Ct.",
+        "followingAuctionCode": "0019880279"
       }
     ],
-    "lastOnAirSku": "8622534",
-    "lastOnAirTitle": "D'Joy - Moissanite Cross Hoop Earring in Platinum Overlay Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019880329",
+    "lastOnAirSku": "8624922",
+    "lastOnAirTitle": "Moissanite Solitaire Earring with Lever Back in Platinum Overlay Sterling Silver 3.60 Ct.",
+    "lastOnAirAuctionCode": "0019880279",
     "precedingSku": "8622534",
     "precedingTitle": "D'Joy - Moissanite Cross Hoop Earring in Platinum Overlay Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019880329"
