@@ -379784,11 +379784,29 @@
       "productUrlChecked": 1790099912618,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8639561": {
+      "sku": "8639561",
+      "firstAir": 1790100666308,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790100666308,
+      "title": "Livmore Super Soft & Cozy Blanket(150 x 200cm) - Taupe",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019880240",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "time": "19:11:06",
+      "productUrl": null,
+      "lastUpdated": 1790100666308,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790100560558,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414427,11 +414445,22 @@
         "followingSku": "8704567",
         "followingTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
         "followingAuctionCode": "0019876012"
+      },
+      {
+        "start": 1790100560558,
+        "end": 1790100666308,
+        "durationMin": 1.8,
+        "precedingSku": "8704567",
+        "precedingTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Z...",
+        "precedingAuctionCode": "0019876012",
+        "followingSku": "8639561",
+        "followingTitle": "Livmore Super Soft & Cozy Blanket(150 x 200cm) - Taupe",
+        "followingAuctionCode": "0019880240"
       }
     ],
-    "lastOnAirSku": "8704567",
-    "lastOnAirTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Z...",
-    "lastOnAirAuctionCode": "0019876012",
+    "lastOnAirSku": "8639561",
+    "lastOnAirTitle": "Livmore Super Soft & Cozy Blanket(150 x 200cm) - Taupe",
+    "lastOnAirAuctionCode": "0019880240",
     "precedingSku": "8704567",
     "precedingTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Z...",
     "precedingAuctionCode": "0019876012"
