@@ -332292,21 +332292,26 @@
       "sku": "8683484",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-11",
-      "time": "09:40:38",
+      "date": "2026-09-22",
+      "time": "02:27:23",
       "preExisting": true,
       "missedAt": 1789116038316,
       "missedDelay": null,
-      "lastUpdated": 1789116038316,
+      "lastUpdated": 1790040443284,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size L-XL, 16-20) - Black, White, Grey & Beige",
-      "auctionCode": "0019864707",
+      "title": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+      "auctionCode": "0019879464",
       "source": "gha",
       "productUrl": "/products/socks-size-s-m-black-white-8683473",
       "productUrlChecked": 1789116041413,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790040443284,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8508252": {
       "sku": "8508252",
@@ -377769,14 +377774,21 @@
       "img": true,
       "date": "2026-09-22",
       "time": "02:17:18",
-      "productUrl": null,
-      "lastUpdated": 1790039838356,
-      "source": "gha"
+      "productUrl": "/products/exquisite-elegance-set-of-6-non-slip-silicone-gripper-lace-footies-sock-size-4-8-3-black-3-nude-8613769",
+      "lastUpdated": 1790040443284,
+      "source": "gha",
+      "missedAt": 1790040443284,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1790040447000,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790040384745,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -411832,11 +411844,22 @@
         "followingSku": "8699380",
         "followingTitle": "D'Joy - Natural Blue Turquoise Sun Ray Link Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 6.32 Ct, Silver Wt. 12.90 Gms",
         "followingAuctionCode": "0019879415"
+      },
+      {
+        "start": 1790040384745,
+        "end": 1790040443284,
+        "durationMin": 1.0,
+        "precedingSku": "8309398",
+        "precedingTitle": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Blue",
+        "precedingAuctionCode": "0019879486",
+        "followingSku": "8683484",
+        "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "followingAuctionCode": "0019879464"
       }
     ],
-    "lastOnAirSku": "8309398",
-    "lastOnAirTitle": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Blue",
-    "lastOnAirAuctionCode": "0019879486",
+    "lastOnAirSku": "8683484",
+    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+    "lastOnAirAuctionCode": "0019879464",
     "precedingSku": "8309398",
     "precedingTitle": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Blue",
     "precedingAuctionCode": "0019879486"
