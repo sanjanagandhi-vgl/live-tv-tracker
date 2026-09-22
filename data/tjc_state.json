@@ -187971,17 +187971,17 @@
       "firstAir": 1787054543256,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787058383873,
+      "lastAir": 1790079341482,
       "title": "Cotton Mattress",
-      "pdpPrice": "499.99",
-      "auctionCode": "0019829263",
+      "pdpPrice": "1800.99",
+      "auctionCode": "0019875842",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-18",
-      "time": "14:06:23",
+      "date": "2026-09-22",
+      "time": "13:15:41",
       "productUrl": "/products/cotton-mattress",
-      "lastUpdated": 1787058383873,
+      "lastUpdated": 1790079341482,
       "source": "gha",
       "missedAt": 1787057239140,
       "missedDelay": 10,
@@ -378278,8 +378278,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790079206679,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412676,11 +412676,22 @@
         "followingSku": "8627881",
         "followingTitle": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Beige",
         "followingAuctionCode": "0019875888"
+      },
+      {
+        "start": 1790079206679,
+        "end": 1790079341482,
+        "durationMin": 2.2,
+        "precedingSku": "8627881",
+        "precedingTitle": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Beige",
+        "precedingAuctionCode": "0019875888",
+        "followingSku": "8195996",
+        "followingTitle": "Cotton Mattress",
+        "followingAuctionCode": "0019875842"
       }
     ],
-    "lastOnAirSku": "8627881",
-    "lastOnAirTitle": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Beige",
-    "lastOnAirAuctionCode": "0019875888",
+    "lastOnAirSku": "8195996",
+    "lastOnAirTitle": "Cotton Mattress",
+    "lastOnAirAuctionCode": "0019875842",
     "precedingSku": "8627881",
     "precedingTitle": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Beige",
     "precedingAuctionCode": "0019875888"
