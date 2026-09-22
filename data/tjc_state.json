@@ -378004,11 +378004,29 @@
       "productUrl": null,
       "lastUpdated": 1790058928419,
       "source": "gha"
+    },
+    "221334645": {
+      "sku": "221334645",
+      "firstAir": 1790059040843,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790059040843,
+      "title": "Pack of 2- Amour de Carnaval Luxe Jet Set Travel Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml)",
+      "pdpPrice": "81.98",
+      "auctionCode": "0019879214",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-22",
+      "time": "07:37:20",
+      "productUrl": null,
+      "lastUpdated": 1790059040843,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790058982730,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412240,11 +412258,22 @@
         "followingSku": "8379712",
         "followingTitle": "Mysteries Crown Perfume",
         "followingAuctionCode": "0019880390"
+      },
+      {
+        "start": 1790058982730,
+        "end": 1790059040843,
+        "durationMin": 1.0,
+        "precedingSku": "8379712",
+        "precedingTitle": "Mysteries Crown Perfume",
+        "precedingAuctionCode": "0019880390",
+        "followingSku": "221334645",
+        "followingTitle": "Pack of 2- Amour de Carnaval Luxe Jet Set Travel Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml)",
+        "followingAuctionCode": "0019879214"
       }
     ],
-    "lastOnAirSku": "8379712",
-    "lastOnAirTitle": "Mysteries Crown Perfume",
-    "lastOnAirAuctionCode": "0019880390",
+    "lastOnAirSku": "221334645",
+    "lastOnAirTitle": "Pack of 2- Amour de Carnaval Luxe Jet Set Travel Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml)",
+    "lastOnAirAuctionCode": "0019879214",
     "precedingSku": "8379712",
     "precedingTitle": "Mysteries Crown Perfume",
     "precedingAuctionCode": "0019880390"
