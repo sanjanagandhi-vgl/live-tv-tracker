@@ -378793,8 +378793,12 @@
       "date": "2026-09-22",
       "time": "15:28:23",
       "productUrl": null,
-      "lastUpdated": 1790087303374,
-      "source": "gha"
+      "lastUpdated": 1790088038541,
+      "source": "gha",
+      "missedAt": 1790088038541,
+      "missedDelay": 12,
+      "missedPrice": 17.99,
+      "missedImg": false
     },
     "8778393": {
       "sku": "8778393",
@@ -378835,7 +378839,7 @@
       "firstAir": 1790087664704,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790087964677,
+      "lastAir": 1790088038541,
       "title": "Boheme Womens Leopard Print Casual Lace-Up Trainers (Size - 4) - Bordeaux",
       "pdpPrice": "29.99",
       "auctionCode": "0019878131",
@@ -378843,9 +378847,9 @@
       "login": false,
       "img": false,
       "date": "2026-09-22",
-      "time": "15:39:24",
+      "time": "15:40:38",
       "productUrl": null,
-      "lastUpdated": 1790087964677,
+      "lastUpdated": 1790088038541,
       "source": "gha"
     },
     "8778397": {
@@ -378862,6 +378866,23 @@
       "missedImg": false,
       "title": "American Holic Loose Fitting Jumper (Size L-XL, 16 to 22) - Grey",
       "auctionCode": "0019879314",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8778399": {
+      "sku": "8778399",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-22",
+      "time": "15:40:38",
+      "preExisting": true,
+      "missedAt": 1790088038541,
+      "missedDelay": null,
+      "lastUpdated": 1790088038541,
+      "missedPrice": 17.99,
+      "missedImg": false,
+      "title": "American Holic Loose Fitting Jumper (Size L-XL, 16 to 22) - Khaki",
+      "auctionCode": "0019879315",
       "source": "gha",
       "productUrl": null
     }
