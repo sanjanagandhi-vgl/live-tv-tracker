@@ -6554,16 +6554,16 @@
       "firstAir": 1784913141766,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788195558989,
+      "lastAir": 1790099542919,
       "title": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
       "pdpPrice": "59.99",
-      "auctionCode": "0019852743",
+      "auctionCode": "0019876012",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
-      "time": "17:59:18",
-      "lastUpdated": 1788195558989,
+      "date": "2026-09-22",
+      "time": "18:52:22",
+      "lastUpdated": 1790099542919,
       "source": "gha",
       "missedAt": 1784916085649,
       "missedDelay": 0,
@@ -379740,8 +379740,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790099436104,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414369,11 +414369,22 @@
         "followingSku": "8661847",
         "followingTitle": "Carved Yellow Jade Duck Semi-Precious Gemstone Figurine (4x4cm)",
         "followingAuctionCode": "0019878676"
+      },
+      {
+        "start": 1790099436104,
+        "end": 1790099542919,
+        "durationMin": 1.8,
+        "precedingSku": "8661855",
+        "precedingTitle": "Carved Opalite Hedgehog Semi-Precious Gemstone Figurine (3.5x5.5cm)",
+        "precedingAuctionCode": "0019878679",
+        "followingSku": "8704567",
+        "followingTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
+        "followingAuctionCode": "0019876012"
       }
     ],
-    "lastOnAirSku": "8661855",
-    "lastOnAirTitle": "Carved Opalite Hedgehog Semi-Precious Gemstone Figurine (3.5x5.5cm)",
-    "lastOnAirAuctionCode": "0019878679",
+    "lastOnAirSku": "8704567",
+    "lastOnAirTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams",
+    "lastOnAirAuctionCode": "0019876012",
     "precedingSku": "8661855",
     "precedingTitle": "Carved Opalite Hedgehog Semi-Precious Gemstone Figurine (3.5x5.5cm)",
     "precedingAuctionCode": "0019878679"
