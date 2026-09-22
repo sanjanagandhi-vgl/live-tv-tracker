@@ -335579,17 +335579,17 @@
       "firstAir": 1789190065687,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789190360813,
+      "lastAir": 1790107880923,
       "title": "Cetuem- SCR Gold Illuminating Skin Cleanser - 100ml",
       "pdpPrice": "17.99",
-      "auctionCode": "0019865853",
+      "auctionCode": "0019876165",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-12",
-      "time": "06:19:20",
+      "date": "2026-09-22",
+      "time": "21:11:20",
       "productUrl": "/products/cetuem-scr-gold-illuminating-skin-cleanser-100ml",
-      "lastUpdated": 1789190902273,
+      "lastUpdated": 1790107880923,
       "source": "gha",
       "missedAt": 1789190902273,
       "missedDelay": 9,
@@ -379852,8 +379852,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790107839913,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414580,11 +414580,22 @@
         "followingSku": "8753059",
         "followingTitle": "Cetuem Pack of 2 - Lip Allure & Collagen Eye Complex - 15ml each",
         "followingAuctionCode": "0019881285"
+      },
+      {
+        "start": 1790107839913,
+        "end": 1790107880923,
+        "durationMin": 0.7,
+        "precedingSku": "8753059",
+        "precedingTitle": "Cetuem Pack of 2 - Lip Allure & Collagen Eye Complex - 15ml each",
+        "precedingAuctionCode": "0019881285",
+        "followingSku": "2795570",
+        "followingTitle": "Cetuem- SCR Gold Illuminating Skin Cleanser - 100ml",
+        "followingAuctionCode": "0019876165"
       }
     ],
-    "lastOnAirSku": "8753059",
-    "lastOnAirTitle": "Cetuem Pack of 2 - Lip Allure & Collagen Eye Complex - 15ml each",
-    "lastOnAirAuctionCode": "0019881285",
+    "lastOnAirSku": "2795570",
+    "lastOnAirTitle": "Cetuem- SCR Gold Illuminating Skin Cleanser - 100ml",
+    "lastOnAirAuctionCode": "0019876165",
     "precedingSku": "8753059",
     "precedingTitle": "Cetuem Pack of 2 - Lip Allure & Collagen Eye Complex - 15ml each",
     "precedingAuctionCode": "0019881285"
