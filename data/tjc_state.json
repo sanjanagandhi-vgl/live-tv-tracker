@@ -378293,9 +378293,16 @@
       "img": true,
       "date": "2026-09-22",
       "time": "14:11:19",
-      "productUrl": null,
-      "lastUpdated": 1790082679671,
-      "source": "gha"
+      "productUrl": "/products/new-70-cashmere-blend-gloves-with-ultra-soft-faux-fur-cuff",
+      "lastUpdated": 1790083238726,
+      "source": "gha",
+      "missedAt": 1790083238726,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1790083243032,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8684008": {
       "sku": "8684008",
@@ -378317,8 +378324,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790083238726,
     "gaps": [
       {
         "start": 1785823527869,
@@ -412742,8 +412749,8 @@
     "lastOnAirSku": "8684008",
     "lastOnAirTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
     "lastOnAirAuctionCode": "0019877673",
-    "precedingSku": "8195996",
-    "precedingTitle": "Cotton Mattress",
-    "precedingAuctionCode": "0019875842"
+    "precedingSku": "8684008",
+    "precedingTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
+    "precedingAuctionCode": "0019877673"
   }
 }
