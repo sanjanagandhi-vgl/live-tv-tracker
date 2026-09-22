@@ -24332,16 +24332,16 @@
       "firstAir": 1785393559951,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790061502105,
+      "lastAir": 1790106262796,
       "title": "Cetuem Radiance Duo with Exfoliating Mask 50ml and SCR Gold Booster Serum 15ml",
       "pdpPrice": "29.99",
-      "auctionCode": "0019876160",
+      "auctionCode": "0019881075",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-22",
-      "time": "08:18:22",
-      "lastUpdated": 1790061502105,
+      "time": "20:44:22",
+      "lastUpdated": 1790106262796,
       "source": "gha",
       "productUrl": "/products/cetuem-radiance-duo-with-exfoliating-mask-50ml-and-scr-gold-booster-serum-15ml",
       "missedAt": 1785398554539,
@@ -379852,8 +379852,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790106142917,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -414547,11 +414547,22 @@
         "followingSku": "2984483",
         "followingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
         "followingAuctionCode": "0019881073"
+      },
+      {
+        "start": 1790106142917,
+        "end": 1790106262796,
+        "durationMin": 2.0,
+        "precedingSku": "2984483",
+        "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
+        "precedingAuctionCode": "0019881073",
+        "followingSku": "3312314",
+        "followingTitle": "Cetuem Radiance Duo with Exfoliating Mask 50ml and SCR Gold Booster Serum 15ml",
+        "followingAuctionCode": "0019881075"
       }
     ],
-    "lastOnAirSku": "2984483",
-    "lastOnAirTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
-    "lastOnAirAuctionCode": "0019881073",
+    "lastOnAirSku": "3312314",
+    "lastOnAirTitle": "Cetuem Radiance Duo with Exfoliating Mask 50ml and SCR Gold Booster Serum 15ml",
+    "lastOnAirAuctionCode": "0019881075",
     "precedingSku": "2984483",
     "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
     "precedingAuctionCode": "0019881073"
