@@ -381933,11 +381933,29 @@
       "productUrlChecked": 1790158348194,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8525773": {
+      "sku": "8525773",
+      "firstAir": 1790162135145,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790162135145,
+      "title": "Designer-Inspired Stylish Clutch with Chain Strap - Off White",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019880937",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "12:15:35",
+      "productUrl": null,
+      "lastUpdated": 1790162135145,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790162064422,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -417423,11 +417441,22 @@
         "followingSku": "8658010",
         "followingTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjustable Length Strap - Multi",
         "followingAuctionCode": "0019880109"
+      },
+      {
+        "start": 1790162064422,
+        "end": 1790162135145,
+        "durationMin": 1.2,
+        "precedingSku": "8658010",
+        "precedingTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjust...",
+        "precedingAuctionCode": "0019880109",
+        "followingSku": "8525773",
+        "followingTitle": "Designer-Inspired Stylish Clutch with Chain Strap - Off White",
+        "followingAuctionCode": "0019880937"
       }
     ],
-    "lastOnAirSku": "8658010",
-    "lastOnAirTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjust...",
-    "lastOnAirAuctionCode": "0019880109",
+    "lastOnAirSku": "8525773",
+    "lastOnAirTitle": "Designer-Inspired Stylish Clutch with Chain Strap - Off White",
+    "lastOnAirAuctionCode": "0019880937",
     "precedingSku": "8658010",
     "precedingTitle": "One Time Designer Closeout Deal - Plaid Crossbody Phone Bag with Snaffle Horsebit Detail & Adjust...",
     "precedingAuctionCode": "0019880109"
