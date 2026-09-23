@@ -36414,17 +36414,17 @@
       "firstAir": 1785483443895,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786568728352,
+      "lastAir": 1790196862123,
       "title": "Lightweight and Cozy Faux Fur Bucket Hat (58cm) - Light Brown",
-      "pdpPrice": "3.99",
-      "auctionCode": "0019816946",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019880861",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-12",
-      "time": "22:05:28",
+      "date": "2026-09-23",
+      "time": "21:54:22",
       "productUrl": "/products/lightweight-and-cozy-hat",
-      "lastUpdated": 1786568728352,
+      "lastUpdated": 1790196862123,
       "source": "gha",
       "missedAt": 1785484341470,
       "missedDelay": 10,
@@ -383838,8 +383838,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790196800548,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -419677,11 +419677,22 @@
         "followingSku": "8371419",
         "followingTitle": "Ladies Diamond Thermal Legging",
         "followingAuctionCode": "0019880863"
+      },
+      {
+        "start": 1790196800548,
+        "end": 1790196862123,
+        "durationMin": 1.0,
+        "precedingSku": "8371419",
+        "precedingTitle": "Ladies Diamond Thermal Legging",
+        "precedingAuctionCode": "0019880863",
+        "followingSku": "7846799",
+        "followingTitle": "Lightweight and Cozy Faux Fur Bucket Hat (58cm) - Light Brown",
+        "followingAuctionCode": "0019880861"
       }
     ],
-    "lastOnAirSku": "8371419",
-    "lastOnAirTitle": "Ladies Diamond Thermal Legging",
-    "lastOnAirAuctionCode": "0019880863",
+    "lastOnAirSku": "7846799",
+    "lastOnAirTitle": "Lightweight and Cozy Faux Fur Bucket Hat (58cm) - Light Brown",
+    "lastOnAirAuctionCode": "0019880861",
     "precedingSku": "8371419",
     "precedingTitle": "Ladies Diamond Thermal Legging",
     "precedingAuctionCode": "0019880863"
