@@ -95366,21 +95366,26 @@
       "sku": "7931121",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "08:50:39",
+      "date": "2026-09-23",
+      "time": "12:43:18",
       "preExisting": true,
       "missedAt": 1786089039292,
       "missedDelay": null,
-      "lastUpdated": 1786089039292,
+      "lastUpdated": 1790163798896,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "La marey Jersey Leopard Print Midi Dress with Waistband (Size L) - Green & Pink",
-      "auctionCode": "0019809836",
+      "title": "La Marey Jersey Waistband Midi Dress",
+      "auctionCode": "0019881425",
       "source": "gha",
       "productUrl": "/products/la-marey-jersey-waistband-midi-dress-1726044427",
       "productUrlChecked": 1786089052722,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790163798896,
+      "pdpPrice": "104.00",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7931122": {
       "sku": "7931122",
@@ -381973,9 +381978,16 @@
       "img": true,
       "date": "2026-09-23",
       "time": "12:33:21",
-      "productUrl": null,
-      "lastUpdated": 1790163201236,
-      "source": "gha"
+      "productUrl": "/products/la-marey-oversized-cardigan",
+      "lastUpdated": 1790163798896,
+      "source": "gha",
+      "missedAt": 1790163798896,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1790163802301,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8525777": {
       "sku": "8525777",
@@ -382074,11 +382086,31 @@
       "productUrl": null,
       "lastUpdated": 1790163679291,
       "source": "gha"
+    },
+    "8201252": {
+      "sku": "8201252",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-23",
+      "time": "12:43:18",
+      "preExisting": true,
+      "missedAt": 1790163798896,
+      "missedDelay": null,
+      "lastUpdated": 1790163798896,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Oversized Cardigan (Size 10 to 22) - Chocolate",
+      "auctionCode": "0019881142",
+      "source": "gha",
+      "productUrl": "/products/la-marey-oversized-cardigan",
+      "productUrlChecked": 1790163803125,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790163742061,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -417597,11 +417629,22 @@
         "followingSku": "8528735",
         "followingTitle": "Gold Metallic Thread Stripe Geo Print Button Dress (Size L-XL, 16-22) - Blue",
         "followingAuctionCode": "0019881029"
+      },
+      {
+        "start": 1790163742061,
+        "end": 1790163798896,
+        "durationMin": 0.9,
+        "precedingSku": "8528735",
+        "precedingTitle": "Gold Metallic Thread Stripe Geo Print Button Dress (Size L-XL, 16-22) - Blue",
+        "precedingAuctionCode": "0019881029",
+        "followingSku": "7931121",
+        "followingTitle": "La Marey Jersey Waistband Midi Dress",
+        "followingAuctionCode": "0019881425"
       }
     ],
-    "lastOnAirSku": "8528735",
-    "lastOnAirTitle": "Gold Metallic Thread Stripe Geo Print Button Dress (Size L-XL, 16-22) - Blue",
-    "lastOnAirAuctionCode": "0019881029",
+    "lastOnAirSku": "7931121",
+    "lastOnAirTitle": "La Marey Jersey Waistband Midi Dress",
+    "lastOnAirAuctionCode": "0019881425",
     "precedingSku": "8528735",
     "precedingTitle": "Gold Metallic Thread Stripe Geo Print Button Dress (Size L-XL, 16-22) - Blue",
     "precedingAuctionCode": "0019881029"
