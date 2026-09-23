@@ -158101,23 +158101,23 @@
       "sku": "8522997",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-17",
-      "time": "03:02:23",
+      "date": "2026-09-23",
+      "time": "01:43:18",
       "preExisting": true,
       "missedAt": 1786708703721,
       "missedDelay": null,
-      "lastUpdated": 1789610543121,
+      "lastUpdated": 1790124198382,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "JCK Vegas Deal- STRADA Limited Edition Japanese Movement Water Resistant Serpent Watch - Rose",
-      "auctionCode": "0019872551",
+      "auctionCode": "0019880864",
       "source": "gha",
       "productUrl": "/products/jck-vegas-preview-deal-strada-serpent-watch-japanese-movement-water-resistant-watch-8523004",
       "productUrlChecked": 1786708709878,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789610543121,
-      "pdpPrice": "14.99",
+      "lastAir": 1790124198382,
+      "pdpPrice": "1011.99",
       "buy": true,
       "login": false,
       "img": true
@@ -380334,8 +380334,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790124142596,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415249,11 +415249,22 @@
         "followingSku": "8565227",
         "followingTitle": "La Marey Signature Genuine Leather Quilted Butterfly Top Handle Bag with Crossbody Strap - Off White",
         "followingAuctionCode": "0019881297"
+      },
+      {
+        "start": 1790124142596,
+        "end": 1790124198382,
+        "durationMin": 0.9,
+        "precedingSku": "7852909",
+        "precedingTitle": "Cashmere Wool Gloves One Size",
+        "precedingAuctionCode": "0019880843",
+        "followingSku": "8522997",
+        "followingTitle": "JCK Vegas Deal- STRADA Limited Edition Japanese Movement Water Resistant Serpent Watch - Rose",
+        "followingAuctionCode": "0019880864"
       }
     ],
-    "lastOnAirSku": "7852909",
-    "lastOnAirTitle": "Cashmere Wool Gloves One Size",
-    "lastOnAirAuctionCode": "0019880843",
+    "lastOnAirSku": "8522997",
+    "lastOnAirTitle": "JCK Vegas Deal- STRADA Limited Edition Japanese Movement Water Resistant Serpent Watch - Rose",
+    "lastOnAirAuctionCode": "0019880864",
     "precedingSku": "7852909",
     "precedingTitle": "Cashmere Wool Gloves One Size",
     "precedingAuctionCode": "0019880843"
