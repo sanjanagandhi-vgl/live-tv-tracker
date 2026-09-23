@@ -382056,11 +382056,29 @@
       "productUrlChecked": 1790163270072,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8528735": {
+      "sku": "8528735",
+      "firstAir": 1790163476904,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790163476904,
+      "title": "Gold Metallic Thread Stripe Geo Print Button Dress (Size L-XL, 16-22) - Blue",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019881029",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "12:37:56",
+      "productUrl": null,
+      "lastUpdated": 1790163476904,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790163265749,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -417568,11 +417586,22 @@
         "followingSku": "8201251",
         "followingTitle": "La Marey Oversized Cardigan",
         "followingAuctionCode": "0019881130"
+      },
+      {
+        "start": 1790163265749,
+        "end": 1790163476904,
+        "durationMin": 3.5,
+        "precedingSku": "8201251",
+        "precedingTitle": "La Marey Oversized Cardigan",
+        "precedingAuctionCode": "0019881130",
+        "followingSku": "8528735",
+        "followingTitle": "Gold Metallic Thread Stripe Geo Print Button Dress (Size L-XL, 16-22) - Blue",
+        "followingAuctionCode": "0019881029"
       }
     ],
-    "lastOnAirSku": "8201251",
-    "lastOnAirTitle": "La Marey Oversized Cardigan",
-    "lastOnAirAuctionCode": "0019881130",
+    "lastOnAirSku": "8528735",
+    "lastOnAirTitle": "Gold Metallic Thread Stripe Geo Print Button Dress (Size L-XL, 16-22) - Blue",
+    "lastOnAirAuctionCode": "0019881029",
     "precedingSku": "8201251",
     "precedingTitle": "La Marey Oversized Cardigan",
     "precedingAuctionCode": "0019881130"
