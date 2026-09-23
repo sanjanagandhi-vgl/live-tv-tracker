@@ -340909,23 +340909,23 @@
       "sku": "8535346",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "05:50:38",
+      "date": "2026-09-23",
+      "time": "03:09:21",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789447838031,
+      "lastUpdated": 1790129361836,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Designer Closeout - Patent Chic Crossbody Bag - Black",
-      "auctionCode": "0019870011",
+      "title": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
+      "auctionCode": "0019880811",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-black-8535346",
       "productUrlChecked": 1789359100645,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789447838031,
-      "pdpPrice": "19.99",
+      "lastAir": 1790129361836,
+      "pdpPrice": "39.99",
       "buy": true,
       "login": false,
       "img": true
@@ -380602,8 +380602,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790129305551,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415539,11 +415539,22 @@
         "followingSku": "7840706",
         "followingTitle": "Mens Waffle Full Zip Jacket with Side Pockets  (Size XL) - Olive",
         "followingAuctionCode": "0019879708"
+      },
+      {
+        "start": 1790129305551,
+        "end": 1790129361836,
+        "durationMin": 0.9,
+        "precedingSku": "7730139",
+        "precedingTitle": "Genuine Leather Crossbody Bag",
+        "precedingAuctionCode": "0019879762",
+        "followingSku": "8535346",
+        "followingTitle": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
+        "followingAuctionCode": "0019880811"
       }
     ],
-    "lastOnAirSku": "7730139",
-    "lastOnAirTitle": "Genuine Leather Crossbody Bag",
-    "lastOnAirAuctionCode": "0019879762",
+    "lastOnAirSku": "8535346",
+    "lastOnAirTitle": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
+    "lastOnAirAuctionCode": "0019880811",
     "precedingSku": "7730139",
     "precedingTitle": "Genuine Leather Crossbody Bag",
     "precedingAuctionCode": "0019879762"
