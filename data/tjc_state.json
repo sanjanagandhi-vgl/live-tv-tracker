@@ -359921,21 +359921,26 @@
       "sku": "4464157",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "13:34:23",
+      "date": "2026-09-23",
+      "time": "22:33:23",
       "preExisting": true,
       "missedAt": 1789734863646,
       "missedDelay": null,
-      "lastUpdated": 1789734863646,
+      "lastUpdated": 1790199203385,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Set of 2 - Magnetic Lock with Lobster Clasp in Yellow Gold Plating",
-      "auctionCode": "0019875824",
+      "title": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+      "auctionCode": "0019881247",
       "source": "gha",
       "productUrl": "/products/magnetic-lock-in-rhodium-overlay-pure-white-stainless-steel-4464147",
       "productUrlChecked": 1789734868048,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790199203385,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8182895": {
       "sku": "8182895",
@@ -383902,8 +383907,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790199146372,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -419829,11 +419834,22 @@
         "followingSku": "8426917",
         "followingTitle": "Natural White Diamond Hoop Earring",
         "followingAuctionCode": "0019880999"
+      },
+      {
+        "start": 1790199146372,
+        "end": 1790199203385,
+        "durationMin": 1.0,
+        "precedingSku": "8678169",
+        "precedingTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
+        "precedingAuctionCode": "0019881244",
+        "followingSku": "4464157",
+        "followingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+        "followingAuctionCode": "0019881247"
       }
     ],
-    "lastOnAirSku": "8678169",
-    "lastOnAirTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
-    "lastOnAirAuctionCode": "0019881244",
+    "lastOnAirSku": "4464157",
+    "lastOnAirTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+    "lastOnAirAuctionCode": "0019881247",
     "precedingSku": "8678169",
     "precedingTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
     "precedingAuctionCode": "0019881244"
