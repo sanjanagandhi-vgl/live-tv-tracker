@@ -380830,11 +380830,29 @@
       "productUrl": null,
       "lastUpdated": 1790149159054,
       "source": "gha"
+    },
+    "8780389": {
+      "sku": "8780389",
+      "firstAir": 1790149461289,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790149461289,
+      "title": "D'Joy - Lab Grown Diamond Cluster Earring with Push Post in Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019881364",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "08:44:21",
+      "productUrl": null,
+      "lastUpdated": 1790149461289,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790149238619,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -416045,11 +416063,22 @@
         "followingSku": "8482945",
         "followingTitle": "Luxuriant SI/GH Lab Grown Diamond Ring in Sterling Silver",
         "followingAuctionCode": "0019880686"
+      },
+      {
+        "start": 1790149238619,
+        "end": 1790149461289,
+        "durationMin": 3.7,
+        "precedingSku": "8482945",
+        "precedingTitle": "Luxuriant SI/GH Lab Grown Diamond Ring in Sterling Silver",
+        "precedingAuctionCode": "0019880686",
+        "followingSku": "8780389",
+        "followingTitle": "D'Joy - Lab Grown Diamond Cluster Earring with Push Post in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019881364"
       }
     ],
-    "lastOnAirSku": "8482945",
-    "lastOnAirTitle": "Luxuriant SI/GH Lab Grown Diamond Ring in Sterling Silver",
-    "lastOnAirAuctionCode": "0019880686",
+    "lastOnAirSku": "8780389",
+    "lastOnAirTitle": "D'Joy - Lab Grown Diamond Cluster Earring with Push Post in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019881364",
     "precedingSku": "8482945",
     "precedingTitle": "Luxuriant SI/GH Lab Grown Diamond Ring in Sterling Silver",
     "precedingAuctionCode": "0019880686"
