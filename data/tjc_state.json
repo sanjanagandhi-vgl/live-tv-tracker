@@ -315243,17 +315243,17 @@
       "firstAir": 1788795264326,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789977862858,
+      "lastAir": 1790164400650,
       "title": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019875790",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019881110",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-21",
-      "time": "09:04:22",
+      "date": "2026-09-23",
+      "time": "12:53:20",
       "productUrl": "/products/bra-size-extra-large-8500882?variant=53632250216714",
-      "lastUpdated": 1789977862858,
+      "lastUpdated": 1790164400650,
       "source": "gha",
       "missedAt": 1788797743219,
       "missedDelay": 9,
@@ -382181,8 +382181,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790164341837,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -417723,11 +417723,22 @@
         "followingSku": "8437426",
         "followingTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Black",
         "followingAuctionCode": "0019881424"
+      },
+      {
+        "start": 1790164341837,
+        "end": 1790164400650,
+        "durationMin": 1.0,
+        "precedingSku": "8437426",
+        "precedingTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Black",
+        "precedingAuctionCode": "0019881424",
+        "followingSku": "8500893",
+        "followingTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
+        "followingAuctionCode": "0019881110"
       }
     ],
-    "lastOnAirSku": "8437426",
-    "lastOnAirTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Black",
-    "lastOnAirAuctionCode": "0019881424",
+    "lastOnAirSku": "8500893",
+    "lastOnAirTitle": "Comfortisse Set of 3 Uplift Padded Bra (Size - XXL, 40-42) - Black, Beige & White",
+    "lastOnAirAuctionCode": "0019881110",
     "precedingSku": "8437426",
     "precedingTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Black",
     "precedingAuctionCode": "0019881424"
