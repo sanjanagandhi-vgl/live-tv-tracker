@@ -320697,18 +320697,23 @@
       "sku": "7632680",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-08",
-      "time": "20:03:21",
+      "date": "2026-09-23",
+      "time": "18:12:22",
       "preExisting": true,
       "missedAt": 1788894201978,
       "missedDelay": null,
-      "lastUpdated": 1788894201978,
+      "lastUpdated": 1790183542229,
       "missedPrice": 7.99,
       "missedImg": false,
       "title": "Square Crystal Studded Trinket Box - Rose Gold",
-      "auctionCode": "0019862745",
+      "auctionCode": "0019881218",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1790183542229,
+      "pdpPrice": "38.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8662131": {
       "sku": "8662131",
@@ -383518,8 +383523,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790183063057,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -419225,11 +419230,22 @@
         "followingSku": "8646086",
         "followingTitle": "Lucy Q - SGL Certified Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.30 Ct.",
         "followingAuctionCode": "0019880136"
+      },
+      {
+        "start": 1790183063057,
+        "end": 1790183542229,
+        "durationMin": 8.0,
+        "precedingSku": "8775609",
+        "precedingTitle": "Lucy Q - Lab Grown Diamond (SI-G-H) Drip Necklace (Size - 20) in Rhodium Overlay Sterling Silver, Silver Wt. 62.00 Gms",
+        "precedingAuctionCode": "0019882550",
+        "followingSku": "7632680",
+        "followingTitle": "Square Crystal Studded Trinket Box - Rose Gold",
+        "followingAuctionCode": "0019881218"
       }
     ],
-    "lastOnAirSku": "8775609",
-    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond (SI-G-H) Drip Necklace (Size - 20) in Rhodium Overlay Sterling Silver, Silver Wt. 62.00 Gms",
-    "lastOnAirAuctionCode": "0019882550",
+    "lastOnAirSku": "7632680",
+    "lastOnAirTitle": "Square Crystal Studded Trinket Box - Rose Gold",
+    "lastOnAirAuctionCode": "0019881218",
     "precedingSku": "8775609",
     "precedingTitle": "Lucy Q - Lab Grown Diamond (SI-G-H) Drip Necklace (Size - 20) in Rhodium Overlay Sterling Silver, Silver Wt. 62.00 Gms",
     "precedingAuctionCode": "0019882550"
