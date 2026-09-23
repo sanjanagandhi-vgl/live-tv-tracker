@@ -360753,17 +360753,17 @@
       "firstAir": 1789756253131,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789757063123,
+      "lastAir": 1790156663403,
       "title": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
       "pdpPrice": "9.99",
-      "auctionCode": "0019874616",
+      "auctionCode": "0019879865",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-18",
-      "time": "19:44:23",
+      "date": "2026-09-23",
+      "time": "10:44:23",
       "productUrl": "/products/patterned-jewellery-box-size-10x10x4-cm-copper-8622423",
-      "lastUpdated": 1789757602088,
+      "lastUpdated": 1790156663403,
       "source": "gha",
       "missedAt": 1789757602088,
       "missedDelay": 9,
@@ -381881,8 +381881,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790156599972,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -417247,11 +417247,22 @@
         "followingSku": "8635539",
         "followingTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red, White & Blue",
         "followingAuctionCode": "0019879868"
+      },
+      {
+        "start": 1790156599972,
+        "end": 1790156663403,
+        "durationMin": 1.1,
+        "precedingSku": "8635539",
+        "precedingTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red, White & Blue",
+        "precedingAuctionCode": "0019879868",
+        "followingSku": "8622423",
+        "followingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+        "followingAuctionCode": "0019879865"
       }
     ],
-    "lastOnAirSku": "8635539",
-    "lastOnAirTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red, White & Blue",
-    "lastOnAirAuctionCode": "0019879868",
+    "lastOnAirSku": "8622423",
+    "lastOnAirTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+    "lastOnAirAuctionCode": "0019879865",
     "precedingSku": "8635539",
     "precedingTitle": "LIVMORE Butterfly Enamelled Jewellery Trinket Box (8cm) - Green Red, White & Blue",
     "precedingAuctionCode": "0019879868"
