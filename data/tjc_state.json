@@ -3027,22 +3027,22 @@
       "sku": "8616394",
       "tvPrice": "",
       "remarks": "",
-      "time": "12:54:22",
+      "time": "05:27:53",
       "preExisting": true,
       "missedAt": 1784851852401,
       "missedDelay": null,
       "missedPrice": 99.99,
       "missedImg": false,
       "title": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
-      "auctionCode": "0019871068",
+      "auctionCode": "0019879813",
       "source": "gha",
-      "lastAir": 1789473262356,
-      "pdpPrice": "99.99",
+      "lastAir": 1790137673768,
+      "pdpPrice": "89.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-15",
-      "lastUpdated": 1789473262356,
+      "date": "2026-09-23",
+      "lastUpdated": 1790137673768,
       "productUrl": null
     },
     "8620423": {
@@ -380750,8 +380750,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790137582959,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415786,11 +415786,22 @@
         "followingSku": "8415120",
         "followingTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8), Silver Wt. 13.70 Gms",
         "followingAuctionCode": "0019879810"
+      },
+      {
+        "start": 1790137582959,
+        "end": 1790137673768,
+        "durationMin": 1.5,
+        "precedingSku": "8613563",
+        "precedingTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
+        "precedingAuctionCode": "0019879800",
+        "followingSku": "8616394",
+        "followingTitle": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019879813"
       }
     ],
-    "lastOnAirSku": "8613563",
-    "lastOnAirTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
-    "lastOnAirAuctionCode": "0019879800",
+    "lastOnAirSku": "8616394",
+    "lastOnAirTitle": "Italian Made-  Sterling Silver Double Curb Necklace (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019879813",
     "precedingSku": "8613563",
     "precedingTitle": "Sterling Silver Double-Curb Bracelet (Size - 7.5) with Lobster Clasp 8.65 Grams",
     "precedingAuctionCode": "0019879800"
