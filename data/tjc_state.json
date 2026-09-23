@@ -381844,11 +381844,29 @@
       "productUrl": null,
       "lastUpdated": 1790155343207,
       "source": "gha"
+    },
+    "8625570": {
+      "sku": "8625570",
+      "firstAir": 1790155851146,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790155851146,
+      "title": "3 Pairs - Exquisite Elegance Casual Footies (Size 4-8) - Nude",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019881077",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "10:30:51",
+      "productUrl": null,
+      "lastUpdated": 1790155851146,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790155758942,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -417180,11 +417198,22 @@
         "followingSku": "8684008",
         "followingTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
         "followingAuctionCode": "0019881107"
+      },
+      {
+        "start": 1790155758942,
+        "end": 1790155851146,
+        "durationMin": 1.5,
+        "precedingSku": "8684008",
+        "precedingTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
+        "precedingAuctionCode": "0019881107",
+        "followingSku": "8625570",
+        "followingTitle": "3 Pairs - Exquisite Elegance Casual Footies (Size 4-8) - Nude",
+        "followingAuctionCode": "0019881077"
       }
     ],
-    "lastOnAirSku": "8684008",
-    "lastOnAirTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
-    "lastOnAirAuctionCode": "0019881107",
+    "lastOnAirSku": "8625570",
+    "lastOnAirTitle": "3 Pairs - Exquisite Elegance Casual Footies (Size 4-8) - Nude",
+    "lastOnAirAuctionCode": "0019881077",
     "precedingSku": "8684008",
     "precedingTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
     "precedingAuctionCode": "0019881107"
