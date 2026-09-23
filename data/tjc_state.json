@@ -372396,21 +372396,26 @@
       "sku": "8779865",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "16:46:21",
+      "date": "2026-09-23",
+      "time": "06:33:21",
       "preExisting": true,
       "missedAt": 1789919181211,
       "missedDelay": null,
-      "lastUpdated": 1789919181211,
+      "lastUpdated": 1790141601024,
       "missedPrice": 149.99,
       "missedImg": true,
-      "title": "9K Yellow Gold Paperclip  Necklace (Size - 16)",
-      "auctionCode": "0019879101",
+      "title": "Paperclip Necklace in 9K Yellow Gold",
+      "auctionCode": "0019881337",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-paperclip-necklace-size-18-with-lobster-clasp-8596945",
       "productUrlChecked": 1789919184748,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790141601024,
+      "pdpPrice": "399.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8749537": {
       "sku": "8749537",
@@ -380775,8 +380780,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790141301946,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415855,11 +415860,22 @@
         "followingSku": "8642605",
         "followingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 24) with Lobster Clasp",
         "followingAuctionCode": "0019880460"
+      },
+      {
+        "start": 1790141301946,
+        "end": 1790141601024,
+        "durationMin": 5.0,
+        "precedingSku": "8642605",
+        "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 24) with Lobster Clasp",
+        "precedingAuctionCode": "0019880460",
+        "followingSku": "8779865",
+        "followingTitle": "Paperclip Necklace in 9K Yellow Gold",
+        "followingAuctionCode": "0019881337"
       }
     ],
-    "lastOnAirSku": "8642605",
-    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 24) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019880460",
+    "lastOnAirSku": "8779865",
+    "lastOnAirTitle": "Paperclip Necklace in 9K Yellow Gold",
+    "lastOnAirAuctionCode": "0019881337",
     "precedingSku": "8642605",
     "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 24) with Lobster Clasp",
     "precedingAuctionCode": "0019880460"
