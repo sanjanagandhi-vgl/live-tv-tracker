@@ -23475,19 +23475,19 @@
       "sku": "8572379",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "15:31:19",
+      "date": "2026-09-23",
+      "time": "07:10:36",
       "preExisting": true,
       "missedAt": 1785371128635,
       "missedDelay": null,
-      "lastUpdated": 1789914679412,
+      "lastUpdated": 1790143836834,
       "missedPrice": 69.99,
       "missedImg": true,
       "title": "Designer Inspired - 9K Yellow Gold Heart Pendant",
-      "auctionCode": "0019878469",
+      "auctionCode": "0019880468",
       "source": "gha",
-      "lastAir": 1789914679412,
-      "pdpPrice": "49.99",
+      "lastAir": 1790143836834,
+      "pdpPrice": "1239.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -380802,8 +380802,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790143810793,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415915,11 +415915,22 @@
         "followingSku": "7990783",
         "followingTitle": "24K (99.99% Purity) Yellow Gold Pixiu Adjustable Bracelet",
         "followingAuctionCode": "0019880466"
+      },
+      {
+        "start": 1790143810793,
+        "end": 1790143836834,
+        "durationMin": 0.4,
+        "precedingSku": "7990783",
+        "precedingTitle": "24K (99.99% Purity) Yellow Gold Pixiu Adjustable Bracelet",
+        "precedingAuctionCode": "0019880466",
+        "followingSku": "8572379",
+        "followingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
+        "followingAuctionCode": "0019880468"
       }
     ],
-    "lastOnAirSku": "7990783",
-    "lastOnAirTitle": "24K (99.99% Purity) Yellow Gold Pixiu Adjustable Bracelet",
-    "lastOnAirAuctionCode": "0019880466",
+    "lastOnAirSku": "8572379",
+    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
+    "lastOnAirAuctionCode": "0019880468",
     "precedingSku": "7990783",
     "precedingTitle": "24K (99.99% Purity) Yellow Gold Pixiu Adjustable Bracelet",
     "precedingAuctionCode": "0019880466"
