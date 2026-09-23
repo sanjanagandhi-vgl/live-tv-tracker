@@ -7108,16 +7108,16 @@
       "firstAir": 1784929535364,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789246344197,
+      "lastAir": 1790205979884,
       "title": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
-      "pdpPrice": "199.99",
-      "auctionCode": "0019868197",
+      "pdpPrice": "189.99",
+      "auctionCode": "0019881965",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-12",
-      "time": "21:52:24",
-      "lastUpdated": 1789246344197,
+      "date": "2026-09-24",
+      "time": "00:26:19",
+      "lastUpdated": 1790205979884,
       "source": "gha",
       "missedAt": 1784929876646,
       "missedDelay": 1,
@@ -384043,8 +384043,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790205925989,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420069,11 +420069,22 @@
         "followingSku": "8753823",
         "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
         "followingAuctionCode": "0019881977"
+      },
+      {
+        "start": 1790205925989,
+        "end": 1790205979884,
+        "durationMin": 0.9,
+        "precedingSku": "8588253",
+        "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Greek Key Band Ring",
+        "precedingAuctionCode": "0019881957",
+        "followingSku": "8597033",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+        "followingAuctionCode": "0019881965"
       }
     ],
-    "lastOnAirSku": "8588253",
-    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Greek Key Band Ring",
-    "lastOnAirAuctionCode": "0019881957",
+    "lastOnAirSku": "8597033",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019881965",
     "precedingSku": "8588253",
     "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Greek Key Band Ring",
     "precedingAuctionCode": "0019881957"
