@@ -380722,11 +380722,29 @@
       "productUrlChecked": 1790135476764,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7315468": {
+      "sku": "7315468",
+      "firstAir": 1790136682998,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790136682998,
+      "title": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
+      "pdpPrice": "89.99",
+      "auctionCode": "0019879795",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "05:11:22",
+      "productUrl": null,
+      "lastUpdated": 1790136682998,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790136638345,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415739,11 +415757,22 @@
         "followingSku": "8616375",
         "followingTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
         "followingAuctionCode": "0019879802"
+      },
+      {
+        "start": 1790136638345,
+        "end": 1790136682998,
+        "durationMin": 0.7,
+        "precedingSku": "8616375",
+        "precedingTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
+        "precedingAuctionCode": "0019879802",
+        "followingSku": "7315468",
+        "followingTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
+        "followingAuctionCode": "0019879795"
       }
     ],
-    "lastOnAirSku": "8616375",
-    "lastOnAirTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019879802",
+    "lastOnAirSku": "7315468",
+    "lastOnAirTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
+    "lastOnAirAuctionCode": "0019879795",
     "precedingSku": "8616375",
     "precedingTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
     "precedingAuctionCode": "0019879802"
