@@ -333384,17 +333384,17 @@
       "firstAir": 1789128804204,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789910436646,
+      "lastAir": 1790198479833,
       "title": "Close Out Deal- Designer Inspired Hoop Earring",
       "pdpPrice": "9.99",
-      "auctionCode": "0019878586",
+      "auctionCode": "0019881039",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-20",
-      "time": "14:20:36",
+      "date": "2026-09-23",
+      "time": "22:21:19",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8746955",
-      "lastUpdated": 1789910436646,
+      "lastUpdated": 1790198479833,
       "source": "gha",
       "missedAt": 1789129465737,
       "missedDelay": 10,
@@ -383884,8 +383884,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790198434359,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -419789,11 +419789,22 @@
         "followingSku": "8747248",
         "followingTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
         "followingAuctionCode": "0019881040"
+      },
+      {
+        "start": 1790198434359,
+        "end": 1790198479833,
+        "durationMin": 0.8,
+        "precedingSku": "8747248",
+        "precedingTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+        "precedingAuctionCode": "0019881040",
+        "followingSku": "8746955",
+        "followingTitle": "Close Out Deal- Designer Inspired Hoop Earring",
+        "followingAuctionCode": "0019881039"
       }
     ],
-    "lastOnAirSku": "8747248",
-    "lastOnAirTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019881040",
+    "lastOnAirSku": "8746955",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Hoop Earring",
+    "lastOnAirAuctionCode": "0019881039",
     "precedingSku": "8747248",
     "precedingTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
     "precedingAuctionCode": "0019881040"
