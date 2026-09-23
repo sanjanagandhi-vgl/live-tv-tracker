@@ -41206,17 +41206,17 @@
       "firstAir": 1785534146944,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789532544671,
+      "lastAir": 1790206158566,
       "title": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
       "pdpPrice": "169.99",
-      "auctionCode": "0019871172",
+      "auctionCode": "0019881966",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-16",
-      "time": "05:22:24",
+      "date": "2026-09-24",
+      "time": "00:29:18",
       "productUrl": "/products/9k-yellow-gold-earring-with-clasp-8597036?variant=53296874717450",
-      "lastUpdated": 1789532544671,
+      "lastUpdated": 1790206158566,
       "source": "gha",
       "missedAt": 1785534744672,
       "missedDelay": 9,
@@ -384043,8 +384043,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790206100066,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420080,11 +420080,22 @@
         "followingSku": "8597033",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
         "followingAuctionCode": "0019881965"
+      },
+      {
+        "start": 1790206100066,
+        "end": 1790206158566,
+        "durationMin": 1.0,
+        "precedingSku": "8597033",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019881965",
+        "followingSku": "8597036",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+        "followingAuctionCode": "0019881966"
       }
     ],
-    "lastOnAirSku": "8597033",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019881965",
+    "lastOnAirSku": "8597036",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019881966",
     "precedingSku": "8597033",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
     "precedingAuctionCode": "0019881965"
