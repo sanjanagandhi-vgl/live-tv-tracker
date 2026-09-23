@@ -306684,21 +306684,26 @@
       "sku": "8616375",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-05",
-      "time": "22:58:22",
+      "date": "2026-09-23",
+      "time": "05:09:18",
       "preExisting": true,
       "missedAt": 1788645502289,
       "missedDelay": null,
-      "lastUpdated": 1788645502289,
+      "lastUpdated": 1790136558937,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "Yellow Gold Plated Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
-      "auctionCode": "0019858812",
+      "title": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
+      "auctionCode": "0019879802",
       "source": "gha",
       "productUrl": "/products/sterling-silver-romy-chain-bracelet-size-7-5-with-lobster-clasp-8616374",
       "productUrlChecked": 1788645505735,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790136558937,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8675555": {
       "sku": "8675555",
@@ -380720,8 +380725,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790136503386,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415723,11 +415728,22 @@
         "followingSku": "8236054",
         "followingTitle": "Designer Inspired - Natural Chrome Diopside Panther Earrings with Push Post in Yellow Gold Plated",
         "followingAuctionCode": "0019879887"
+      },
+      {
+        "start": 1790136503386,
+        "end": 1790136558937,
+        "durationMin": 0.9,
+        "precedingSku": "8478763",
+        "precedingTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Curb Necklace (Size - 20)",
+        "precedingAuctionCode": "0019879808",
+        "followingSku": "8616375",
+        "followingTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019879802"
       }
     ],
-    "lastOnAirSku": "8478763",
-    "lastOnAirTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Curb Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019879808",
+    "lastOnAirSku": "8616375",
+    "lastOnAirTitle": "Sterling Silver Romy Chain Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019879802",
     "precedingSku": "8478763",
     "precedingTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Curb Necklace (Size - 20)",
     "precedingAuctionCode": "0019879808"
