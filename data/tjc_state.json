@@ -383036,11 +383036,15 @@
       "date": "2026-09-23",
       "time": "15:57:21",
       "productUrl": "/products/lucy-q-flame-collection-sculptural-pendant-with-chain-size-18-24-28-in-two-tone-plated-sterling-silver-silver-wt-8-50-gms?variant=53107996983562",
-      "lastUpdated": 1790175441475,
+      "lastUpdated": 1790175984803,
       "source": "gha",
       "productUrlChecked": 1790175444696,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1790175984803,
+      "missedDelay": 9,
+      "missedPrice": 69.99,
+      "missedImg": true
     },
     "8275023": {
       "sku": "8275023",
@@ -383201,11 +383205,29 @@
       "productUrlChecked": 1790175757074,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8775609": {
+      "sku": "8775609",
+      "firstAir": 1790175984803,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790175984803,
+      "title": "Lucy Q - Lab Grown Diamond (SI-G-H) Drip Necklace (Size - 20) in Rhodium Overlay Sterling Silver, Silver Wt. 62.00 Gms",
+      "pdpPrice": "12345.99",
+      "auctionCode": "0019880046",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "16:06:24",
+      "productUrl": null,
+      "lastUpdated": 1790175984803,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790175800701,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -418856,11 +418878,22 @@
         "followingSku": "4424286",
         "followingTitle": "Lucy Q-Flame Collection Sculptural Pendant with Chain (Size - 28) in Two Tone Plated Sterling Silver",
         "followingAuctionCode": "0019880036"
+      },
+      {
+        "start": 1790175800701,
+        "end": 1790175984803,
+        "durationMin": 3.1,
+        "precedingSku": "4505269",
+        "precedingTitle": "Lucy Q - African Ruby Solitaire Pendant with Chain (Size 20) in Platinum Overlay Sterling Silver",
+        "precedingAuctionCode": "0019880172",
+        "followingSku": "8775609",
+        "followingTitle": "Lucy Q - Lab Grown Diamond (SI-G-H) Drip Necklace (Size - 20) in Rhodium Overlay Sterling Silver, Silver Wt. 62.00 Gms",
+        "followingAuctionCode": "0019880046"
       }
     ],
-    "lastOnAirSku": "4505269",
-    "lastOnAirTitle": "Lucy Q - African Ruby Solitaire Pendant with Chain (Size 20) in Platinum Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019880172",
+    "lastOnAirSku": "8775609",
+    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond (SI-G-H) Drip Necklace (Size - 20) in Rhodium Overlay Sterling Silver, Silver Wt. 62.00 Gms",
+    "lastOnAirAuctionCode": "0019880046",
     "precedingSku": "4505269",
     "precedingTitle": "Lucy Q - African Ruby Solitaire Pendant with Chain (Size 20) in Platinum Overlay Sterling Silver",
     "precedingAuctionCode": "0019880172"
