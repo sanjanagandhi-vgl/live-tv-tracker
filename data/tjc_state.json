@@ -22881,17 +22881,23 @@
       "sku": "4249661",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "19:21:30",
+      "date": "2026-09-23",
+      "time": "14:42:30",
       "preExisting": true,
       "missedAt": 1785349290143,
       "missedDelay": null,
-      "lastUpdated": 1785349290143,
+      "lastUpdated": 1790170950344,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019800629",
-      "source": "gha"
+      "auctionCode": "0019880038",
+      "source": "gha",
+      "lastAir": 1790170950344,
+      "pdpPrice": "399.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8480269": {
       "sku": "8480269",
@@ -382509,8 +382515,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790170829027,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -418106,11 +418112,22 @@
         "followingSku": "4238960",
         "followingTitle": "Lucy Q Drop Collection - Drop Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019880040"
+      },
+      {
+        "start": 1790170829027,
+        "end": 1790170950344,
+        "durationMin": 2.0,
+        "precedingSku": "8699212",
+        "precedingTitle": "Lucy Q - Lab Grown Diamond Drip Ring in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019880005",
+        "followingSku": "4249661",
+        "followingTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019880038"
       }
     ],
-    "lastOnAirSku": "8699212",
-    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Drip Ring in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019880005",
+    "lastOnAirSku": "4249661",
+    "lastOnAirTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019880038",
     "precedingSku": "8699212",
     "precedingTitle": "Lucy Q - Lab Grown Diamond Drip Ring in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019880005"
