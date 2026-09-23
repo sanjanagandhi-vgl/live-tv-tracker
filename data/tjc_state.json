@@ -382700,11 +382700,15 @@
       "date": "2026-09-23",
       "time": "15:20:41",
       "productUrl": "/products/lucy-q-sterling-silver-fancy-necklace-size-18-8699189?variant=53780810924298",
-      "lastUpdated": 1790173241730,
+      "lastUpdated": 1790173761473,
       "source": "gha",
       "productUrlChecked": 1790173248647,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1790173761473,
+      "missedDelay": 9,
+      "missedPrice": 59.99,
+      "missedImg": true
     },
     "8699191": {
       "sku": "8699191",
@@ -382764,8 +382768,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790173761473,
     "gaps": [
       {
         "start": 1785823527869,
@@ -418388,8 +418392,8 @@
     "lastOnAirSku": "8699190",
     "lastOnAirTitle": "Lucy Q - Sunburst Earring with Hoop in Yellow Gold Plated Sterling Silver",
     "lastOnAirAuctionCode": "0019879984",
-    "precedingSku": "4249661",
-    "precedingTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
-    "precedingAuctionCode": "0019880038"
+    "precedingSku": "8699190",
+    "precedingTitle": "Lucy Q - Sunburst Earring with Hoop in Yellow Gold Plated Sterling Silver",
+    "precedingAuctionCode": "0019879984"
   }
 }
