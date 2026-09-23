@@ -299741,17 +299741,17 @@
       "firstAir": 1788488903675,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789094598536,
+      "lastAir": 1790129664354,
       "title": "Love Music Drink Bottle - White",
-      "pdpPrice": 6.99,
-      "auctionCode": "0019863810",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019879819",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "03:43:18",
+      "date": "2026-09-23",
+      "time": "03:14:24",
       "productUrl": "/products/love-music-drink-bottle-white-8642850?variant=53191622656266",
-      "lastUpdated": 1789094598536,
+      "lastUpdated": 1790129664354,
       "source": "gha",
       "missedAt": 1788489559406,
       "missedDelay": 11,
@@ -380602,8 +380602,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790129600232,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415550,11 +415550,22 @@
         "followingSku": "8535346",
         "followingTitle": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
         "followingAuctionCode": "0019880811"
+      },
+      {
+        "start": 1790129600232,
+        "end": 1790129664354,
+        "durationMin": 1.1,
+        "precedingSku": "8535346",
+        "precedingTitle": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
+        "precedingAuctionCode": "0019880811",
+        "followingSku": "8642850",
+        "followingTitle": "Love Music Drink Bottle - White",
+        "followingAuctionCode": "0019879819"
       }
     ],
-    "lastOnAirSku": "8535346",
-    "lastOnAirTitle": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
-    "lastOnAirAuctionCode": "0019880811",
+    "lastOnAirSku": "8642850",
+    "lastOnAirTitle": "Love Music Drink Bottle - White",
+    "lastOnAirAuctionCode": "0019879819",
     "precedingSku": "8535346",
     "precedingTitle": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
     "precedingAuctionCode": "0019880811"
