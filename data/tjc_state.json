@@ -195517,17 +195517,17 @@
       "firstAir": 1787139262116,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789699943520,
+      "lastAir": 1790196742935,
       "title": "Ladies Diamond Thermal Legging",
-      "pdpPrice": "4.99",
-      "auctionCode": "0019873165",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019880863",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-18",
-      "time": "03:52:23",
+      "date": "2026-09-23",
+      "time": "21:52:22",
       "productUrl": "/products/ladies-diamond-thermal-legging",
-      "lastUpdated": 1789699943520,
+      "lastUpdated": 1790196742935,
       "source": "gha",
       "missedAt": 1787140240192,
       "missedDelay": 10,
@@ -383838,8 +383838,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790196558297,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -419666,11 +419666,22 @@
         "followingSku": "8645253",
         "followingTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
         "followingAuctionCode": "0019881563"
+      },
+      {
+        "start": 1790196558297,
+        "end": 1790196742935,
+        "durationMin": 3.1,
+        "precedingSku": "8645253",
+        "precedingTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
+        "precedingAuctionCode": "0019881563",
+        "followingSku": "8371419",
+        "followingTitle": "Ladies Diamond Thermal Legging",
+        "followingAuctionCode": "0019880863"
       }
     ],
-    "lastOnAirSku": "8645253",
-    "lastOnAirTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
-    "lastOnAirAuctionCode": "0019881563",
+    "lastOnAirSku": "8371419",
+    "lastOnAirTitle": "Ladies Diamond Thermal Legging",
+    "lastOnAirAuctionCode": "0019880863",
     "precedingSku": "8645253",
     "precedingTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
     "precedingAuctionCode": "0019881563"
