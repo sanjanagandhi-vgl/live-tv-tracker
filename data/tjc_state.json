@@ -380812,11 +380812,29 @@
       "productUrlChecked": 1790147664701,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8482945": {
+      "sku": "8482945",
+      "firstAir": 1790148679547,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790148679547,
+      "title": "Luxuriant SI/GH Lab Grown Diamond Ring in Sterling Silver",
+      "pdpPrice": "799.99",
+      "auctionCode": "0019880686",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "08:31:19",
+      "productUrl": null,
+      "lastUpdated": 1790148679547,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790148656520,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -416016,11 +416034,22 @@
         "followingSku": "8052772",
         "followingTitle": "Luxuriant Lab Grown Diamond Ring (VS-E-F) in Sterling Silver",
         "followingAuctionCode": "0019880653"
+      },
+      {
+        "start": 1790148656520,
+        "end": 1790148679547,
+        "durationMin": 0.4,
+        "precedingSku": "8052772",
+        "precedingTitle": "Luxuriant Lab Grown Diamond Ring (VS-E-F) in Sterling Silver",
+        "precedingAuctionCode": "0019880653",
+        "followingSku": "8482945",
+        "followingTitle": "Luxuriant SI/GH Lab Grown Diamond Ring in Sterling Silver",
+        "followingAuctionCode": "0019880686"
       }
     ],
-    "lastOnAirSku": "8052772",
-    "lastOnAirTitle": "Luxuriant Lab Grown Diamond Ring (VS-E-F) in Sterling Silver",
-    "lastOnAirAuctionCode": "0019880653",
+    "lastOnAirSku": "8482945",
+    "lastOnAirTitle": "Luxuriant SI/GH Lab Grown Diamond Ring in Sterling Silver",
+    "lastOnAirAuctionCode": "0019880686",
     "precedingSku": "8052772",
     "precedingTitle": "Luxuriant Lab Grown Diamond Ring (VS-E-F) in Sterling Silver",
     "precedingAuctionCode": "0019880653"
