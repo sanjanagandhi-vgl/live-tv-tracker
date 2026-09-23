@@ -9713,19 +9713,19 @@
       "sku": "8523801",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-27",
-      "time": "00:24:24",
+      "date": "2026-09-23",
+      "time": "21:10:39",
       "preExisting": true,
       "missedAt": 1784983277411,
       "missedDelay": null,
-      "lastUpdated": 1787786664410,
+      "lastUpdated": 1790194239000,
       "missedPrice": 6799.99,
       "missedImg": false,
       "title": "Rhapsody 950 Platinum AAAA Tanzanite & Natural Diamond (VS-EF) Pear Cut Halo Pendant 11.58  Ct, Platinum Wt. 5.60 Gms.",
-      "auctionCode": "0019845134",
+      "auctionCode": "0019881527",
       "source": "gha",
-      "lastAir": 1787786664410,
-      "pdpPrice": "6499.99",
+      "lastAir": 1790194239000,
+      "pdpPrice": "19999.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -383671,8 +383671,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790194041105,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -419466,11 +419466,22 @@
         "followingSku": "8699989",
         "followingTitle": "The Grand Studio Finale Deal - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite Solitaire Ring 6.16 Ct, Platinum Wt. 5.40 Gms",
         "followingAuctionCode": "0019881506"
+      },
+      {
+        "start": 1790194041105,
+        "end": 1790194239000,
+        "durationMin": 3.3,
+        "precedingSku": "8699989",
+        "precedingTitle": "The Grand Studio Finale Deal - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite Solitaire Ring 6.16 Ct, Platinum Wt. 5.40 Gms",
+        "precedingAuctionCode": "0019881506",
+        "followingSku": "8523801",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite & Natural Diamond (VS-EF) Pear Cut Halo Pendant 11.58  Ct, Platinum Wt. 5.60 Gms.",
+        "followingAuctionCode": "0019881527"
       }
     ],
-    "lastOnAirSku": "8699989",
-    "lastOnAirTitle": "The Grand Studio Finale Deal - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite Solitaire Ring 6.16 Ct, Platinum Wt. 5.40 Gms",
-    "lastOnAirAuctionCode": "0019881506",
+    "lastOnAirSku": "8523801",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite & Natural Diamond (VS-EF) Pear Cut Halo Pendant 11.58  Ct, Platinum Wt. 5.60 Gms.",
+    "lastOnAirAuctionCode": "0019881527",
     "precedingSku": "8699989",
     "precedingTitle": "The Grand Studio Finale Deal - Rhapsody 950 Platinum AAAA Intense Vivid Tanzanite Solitaire Ring 6.16 Ct, Platinum Wt. 5.40 Gms",
     "precedingAuctionCode": "0019881506"
