@@ -380056,8 +380056,12 @@
       "date": "2026-09-22",
       "time": "22:18:25",
       "productUrl": null,
-      "lastUpdated": 1790111905626,
-      "source": "gha"
+      "lastUpdated": 1790142862401,
+      "source": "gha",
+      "missedAt": 1790142862401,
+      "missedDelay": 516,
+      "missedPrice": 79.99,
+      "missedImg": false
     },
     "8613252": {
       "sku": "8613252",
@@ -380780,8 +380784,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790142862401,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415876,8 +415880,8 @@
     "lastOnAirSku": "8640990",
     "lastOnAirTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
     "lastOnAirAuctionCode": "0019880471",
-    "precedingSku": "8642605",
-    "precedingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 24) with Lobster Clasp",
-    "precedingAuctionCode": "0019880460"
+    "precedingSku": "8640990",
+    "precedingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+    "precedingAuctionCode": "0019880471"
   }
 }
