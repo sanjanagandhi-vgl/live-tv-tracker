@@ -325824,21 +325824,26 @@
       "sku": "8545247",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-09",
-      "time": "20:26:26",
+      "date": "2026-09-23",
+      "time": "01:14:22",
       "preExisting": true,
       "missedAt": 1788981986909,
       "missedDelay": null,
-      "lastUpdated": 1788981986909,
+      "lastUpdated": 1790122462350,
       "missedPrice": 17.99,
       "missedImg": false,
-      "title": "Designer Closeout - Tapestry Large Handbag With Detachable Shoulder Strap - Floral",
-      "auctionCode": "0019863911",
+      "title": "Designer Inspired Women's Floral Print Travel Handbag - Black & Multicolour",
+      "auctionCode": "0019878785",
       "source": "gha",
       "productUrl": "/products/patterned-travel-bag-size-45x19x31-cm-white-green-8545244",
       "productUrlChecked": 1788981990005,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790122462350,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8545260": {
       "sku": "8545260",
@@ -380311,8 +380316,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790122342599,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415204,11 +415209,22 @@
         "followingSku": "8055952",
         "followingTitle": "9K Yellow Gold Spiga Necklace",
         "followingAuctionCode": "0019881281"
+      },
+      {
+        "start": 1790122342599,
+        "end": 1790122462350,
+        "durationMin": 2.0,
+        "precedingSku": "8617546",
+        "precedingTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
+        "precedingAuctionCode": "0019880841",
+        "followingSku": "8545247",
+        "followingTitle": "Designer Inspired Women's Floral Print Travel Handbag - Black & Multicolour",
+        "followingAuctionCode": "0019878785"
       }
     ],
-    "lastOnAirSku": "8617546",
-    "lastOnAirTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
-    "lastOnAirAuctionCode": "0019880841",
+    "lastOnAirSku": "8545247",
+    "lastOnAirTitle": "Designer Inspired Women's Floral Print Travel Handbag - Black & Multicolour",
+    "lastOnAirAuctionCode": "0019878785",
     "precedingSku": "8617546",
     "precedingTitle": "La Marey Women's Cashmere Touch Sequin Knitted Poncho Cape (One Size, 8-20) - Black",
     "precedingAuctionCode": "0019880841"
