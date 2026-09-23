@@ -17490,21 +17490,22 @@
       "firstAir": 1785130756637,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785131359718,
-      "title": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 30) with Lobster Clasp",
-      "pdpPrice": 299.99,
-      "auctionCode": "0019795957",
-      "buy": false,
-      "login": true,
-      "img": false,
-      "date": "2026-07-27",
-      "time": "06:49:19",
-      "lastUpdated": 1785131433981,
+      "lastAir": 1790141129063,
+      "title": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 24) with Lobster Clasp",
+      "pdpPrice": "359.99",
+      "auctionCode": "0019880460",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "06:25:29",
+      "lastUpdated": 1790141129063,
       "source": "gha",
       "missedAt": 1785131433981,
       "missedDelay": 1,
       "missedPrice": 299.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8699202": {
       "sku": "8699202",
@@ -380774,8 +380775,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790141061837,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415843,11 +415844,22 @@
         "followingSku": "8477964",
         "followingTitle": "Surabaya Gold Deal - 9K Yellow Gold Chain (Size - 22) with Spring Ring Clasp",
         "followingAuctionCode": "0019880456"
+      },
+      {
+        "start": 1790141061837,
+        "end": 1790141129063,
+        "durationMin": 1.1,
+        "precedingSku": "8519073",
+        "precedingTitle": "9K Yellow Gold Mariner Necklace (Size - 20)",
+        "precedingAuctionCode": "0019880461",
+        "followingSku": "8642605",
+        "followingTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 24) with Lobster Clasp",
+        "followingAuctionCode": "0019880460"
       }
     ],
-    "lastOnAirSku": "8519073",
-    "lastOnAirTitle": "9K Yellow Gold Mariner Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019880461",
+    "lastOnAirSku": "8642605",
+    "lastOnAirTitle": "Vicenza Find-9K Yellow Gold Belcher Necklace (Size - 24) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019880460",
     "precedingSku": "8519073",
     "precedingTitle": "9K Yellow Gold Mariner Necklace (Size - 20)",
     "precedingAuctionCode": "0019880461"
