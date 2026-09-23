@@ -340661,21 +340661,26 @@
       "sku": "3391497",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-09-23",
+      "time": "15:05:28",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1790172328468,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "LucyQ Air Drop Collection - Yellow Gold Plated Sterling Silver Air Drop Earrings with Push Back",
-      "auctionCode": "0019868516",
+      "auctionCode": "0019880194",
       "source": "gha",
       "productUrl": "/products/lucyq-air-drip-collection-air-drip-earrings-in-sterling-silver",
       "productUrlChecked": 1789359048018,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790172328468,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "3815792": {
       "sku": "3815792",
@@ -382662,8 +382667,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790172265898,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -418270,11 +418275,22 @@
         "followingSku": "4249661",
         "followingTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019880038"
+      },
+      {
+        "start": 1790172265898,
+        "end": 1790172328468,
+        "durationMin": 1.0,
+        "precedingSku": "4249661",
+        "precedingTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019880038",
+        "followingSku": "3391497",
+        "followingTitle": "LucyQ Air Drop Collection - Yellow Gold Plated Sterling Silver Air Drop Earrings with Push Back",
+        "followingAuctionCode": "0019880194"
       }
     ],
-    "lastOnAirSku": "4249661",
-    "lastOnAirTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019880038",
+    "lastOnAirSku": "3391497",
+    "lastOnAirTitle": "LucyQ Air Drop Collection - Yellow Gold Plated Sterling Silver Air Drop Earrings with Push Back",
+    "lastOnAirAuctionCode": "0019880194",
     "precedingSku": "4249661",
     "precedingTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019880038"
