@@ -381951,11 +381951,29 @@
       "productUrl": null,
       "lastUpdated": 1790162675663,
       "source": "gha"
+    },
+    "8201251": {
+      "sku": "8201251",
+      "firstAir": 1790162782874,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790162782874,
+      "title": "La Marey Oversized Cardigan",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019881130",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "12:26:22",
+      "productUrl": null,
+      "lastUpdated": 1790162782874,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790162729662,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -417452,11 +417470,22 @@
         "followingSku": "8525773",
         "followingTitle": "Designer-Inspired Stylish Clutch with Chain Strap - Off White",
         "followingAuctionCode": "0019880937"
+      },
+      {
+        "start": 1790162729662,
+        "end": 1790162782874,
+        "durationMin": 0.9,
+        "precedingSku": "8525773",
+        "precedingTitle": "Designer-Inspired Stylish Clutch with Chain Strap - Off White",
+        "precedingAuctionCode": "0019880937",
+        "followingSku": "8201251",
+        "followingTitle": "La Marey Oversized Cardigan",
+        "followingAuctionCode": "0019881130"
       }
     ],
-    "lastOnAirSku": "8525773",
-    "lastOnAirTitle": "Designer-Inspired Stylish Clutch with Chain Strap - Off White",
-    "lastOnAirAuctionCode": "0019880937",
+    "lastOnAirSku": "8201251",
+    "lastOnAirTitle": "La Marey Oversized Cardigan",
+    "lastOnAirAuctionCode": "0019881130",
     "precedingSku": "8525773",
     "precedingTitle": "Designer-Inspired Stylish Clutch with Chain Strap - Off White",
     "precedingAuctionCode": "0019880937"
