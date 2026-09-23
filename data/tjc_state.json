@@ -13813,21 +13813,22 @@
       "firstAir": 1785043910527,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785043910527,
-      "title": "EverTrue - Labradorite Cross Pendant with Chain (Size 20) 7.86 Ct.",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019795533",
-      "buy": false,
-      "login": true,
+      "lastAir": 1790133439779,
+      "title": "EverTrue - Labradorite Cross Pendant with Chain (Size 20)  7.86 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019879931",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "06:31:50",
-      "lastUpdated": 1785043955361,
+      "date": "2026-09-23",
+      "time": "04:17:19",
+      "lastUpdated": 1790133439779,
       "source": "gha",
       "missedAt": 1785043955361,
       "missedDelay": 1,
       "missedPrice": 19.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8553628": {
       "sku": "8553628",
@@ -380645,8 +380646,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790133382184,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415626,11 +415627,22 @@
         "followingSku": "8578867",
         "followingTitle": "Abalone Shell Adjustable Beads Bracelet (Size - 7.5-1 Ext) with T-Bar Clasp 50.00 Ct.",
         "followingAuctionCode": "0019879926"
+      },
+      {
+        "start": 1790133382184,
+        "end": 1790133439779,
+        "durationMin": 1.0,
+        "precedingSku": "8143225",
+        "precedingTitle": "Natural Shungite Stud Ball Earrings with Push Back in Rhodium Overlay Sterling Silver 12.00 Ct.",
+        "precedingAuctionCode": "0019879874",
+        "followingSku": "4506987",
+        "followingTitle": "EverTrue - Labradorite Cross Pendant with Chain (Size 20)  7.86 Ct.",
+        "followingAuctionCode": "0019879931"
       }
     ],
-    "lastOnAirSku": "8143225",
-    "lastOnAirTitle": "Natural Shungite Stud Ball Earrings with Push Back in Rhodium Overlay Sterling Silver 12.00 Ct.",
-    "lastOnAirAuctionCode": "0019879874",
+    "lastOnAirSku": "4506987",
+    "lastOnAirTitle": "EverTrue - Labradorite Cross Pendant with Chain (Size 20)  7.86 Ct.",
+    "lastOnAirAuctionCode": "0019879931",
     "precedingSku": "8143225",
     "precedingTitle": "Natural Shungite Stud Ball Earrings with Push Back in Rhodium Overlay Sterling Silver 12.00 Ct.",
     "precedingAuctionCode": "0019879874"
