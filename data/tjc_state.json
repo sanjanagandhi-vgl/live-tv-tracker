@@ -188,23 +188,23 @@
       "sku": "8571440",
       "tvPrice": "",
       "remarks": "",
-      "time": "15:23:17",
+      "time": "00:36:21",
       "preExisting": true,
       "missedAt": 1784790236863,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
-      "auctionCode": "0019878439",
+      "auctionCode": "0019881969",
       "source": "gha",
-      "lastAir": 1789914197219,
-      "pdpPrice": 299.99,
+      "lastAir": 1790206581210,
+      "pdpPrice": "399.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-20",
+      "date": "2026-09-24",
       "productUrl": "/products/close-out-deal-9k-yellow-gold-necklace-size-30-1-ext-8571440?variant=53191725777162",
-      "lastUpdated": 1789914197219,
+      "lastUpdated": 1790206581210,
       "productUrlChecked": 1789914199752,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -384043,8 +384043,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790206562645,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420091,11 +420091,22 @@
         "followingSku": "8597036",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
         "followingAuctionCode": "0019881966"
+      },
+      {
+        "start": 1790206562645,
+        "end": 1790206581210,
+        "durationMin": 0.3,
+        "precedingSku": "8571435",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
+        "precedingAuctionCode": "0019881968",
+        "followingSku": "8571440",
+        "followingTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
+        "followingAuctionCode": "0019881969"
       }
     ],
-    "lastOnAirSku": "8571435",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019881968",
+    "lastOnAirSku": "8571440",
+    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Necklace (Size - 30-1 Ext)",
+    "lastOnAirAuctionCode": "0019881969",
     "precedingSku": "8571435",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
     "precedingAuctionCode": "0019881968"
