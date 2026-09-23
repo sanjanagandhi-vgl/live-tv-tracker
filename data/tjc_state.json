@@ -23092,17 +23092,23 @@
       "sku": "4238960",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "21:27:20",
+      "date": "2026-09-23",
+      "time": "14:19:20",
       "preExisting": true,
       "missedAt": 1785356840208,
       "missedDelay": null,
-      "lastUpdated": 1785356840208,
+      "lastUpdated": 1790169560819,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Lucy Q Drop Collection - Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019800624",
-      "source": "gha"
+      "title": "Lucy Q Drop Collection - Drop Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019880040",
+      "source": "gha",
+      "lastAir": 1790169560819,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8044537": {
       "sku": "8044537",
@@ -382453,8 +382459,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790169504770,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -418039,11 +418045,22 @@
         "followingSku": "4269439",
         "followingTitle": "Lucy Q Drop Collection - Pendant with Chain (Size 18) in 18K Vermeil Rose Gold Plated Sterling Silver.",
         "followingAuctionCode": "0019880042"
+      },
+      {
+        "start": 1790169504770,
+        "end": 1790169560819,
+        "durationMin": 0.9,
+        "precedingSku": "8108299",
+        "precedingTitle": "Lucy Q Drop Collection - Rhodium Overlay Sterling Silver Earrings with Push Back",
+        "precedingAuctionCode": "0019880041",
+        "followingSku": "4238960",
+        "followingTitle": "Lucy Q Drop Collection - Drop Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019880040"
       }
     ],
-    "lastOnAirSku": "8108299",
-    "lastOnAirTitle": "Lucy Q Drop Collection - Rhodium Overlay Sterling Silver Earrings with Push Back",
-    "lastOnAirAuctionCode": "0019880041",
+    "lastOnAirSku": "4238960",
+    "lastOnAirTitle": "Lucy Q Drop Collection - Drop Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019880040",
     "precedingSku": "8108299",
     "precedingTitle": "Lucy Q Drop Collection - Rhodium Overlay Sterling Silver Earrings with Push Back",
     "precedingAuctionCode": "0019880041"
