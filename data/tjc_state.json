@@ -382478,9 +382478,16 @@
       "img": true,
       "date": "2026-09-23",
       "time": "14:29:16",
-      "productUrl": null,
-      "lastUpdated": 1790170156558,
-      "source": "gha"
+      "productUrl": "/products/lucy-q-lab-grown-diamond-fancy-earring-in-rhodium-overlaysterling-silver-0-060-ct-8699211",
+      "lastUpdated": 1790170829027,
+      "source": "gha",
+      "missedAt": 1790170829027,
+      "missedDelay": 11,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1790170832241,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8699212": {
       "sku": "8699212",
@@ -382502,8 +382509,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790170829027,
     "gaps": [
       {
         "start": 1785823527869,
@@ -418104,8 +418111,8 @@
     "lastOnAirSku": "8699212",
     "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Drip Ring in Rhodium Overlay Sterling Silver",
     "lastOnAirAuctionCode": "0019880005",
-    "precedingSku": "8108299",
-    "precedingTitle": "Lucy Q Drop Collection - Rhodium Overlay Sterling Silver Earrings with Push Back",
-    "precedingAuctionCode": "0019880041"
+    "precedingSku": "8699212",
+    "precedingTitle": "Lucy Q - Lab Grown Diamond Drip Ring in Rhodium Overlay Sterling Silver",
+    "precedingAuctionCode": "0019880005"
   }
 }
