@@ -380679,11 +380679,29 @@
       "productUrl": null,
       "lastUpdated": 1790134583587,
       "source": "gha"
+    },
+    "8236054": {
+      "sku": "8236054",
+      "firstAir": 1790134702612,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790134702612,
+      "title": "Designer Inspired - Natural Chrome Diopside Panther Earrings with Push Post in Yellow Gold Plated",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019879887",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-23",
+      "time": "04:38:22",
+      "productUrl": null,
+      "lastUpdated": 1790134702612,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790134638799,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415674,11 +415692,22 @@
         "followingSku": "4506987",
         "followingTitle": "EverTrue - Labradorite Cross Pendant with Chain (Size 20)  7.86 Ct.",
         "followingAuctionCode": "0019879931"
+      },
+      {
+        "start": 1790134638799,
+        "end": 1790134702612,
+        "durationMin": 1.1,
+        "precedingSku": "8235959",
+        "precedingTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Bangle (Size - 7.5)",
+        "precedingAuctionCode": "0019879879",
+        "followingSku": "8236054",
+        "followingTitle": "Designer Inspired - Natural Chrome Diopside Panther Earrings with Push Post in Yellow Gold Plated",
+        "followingAuctionCode": "0019879887"
       }
     ],
-    "lastOnAirSku": "8235959",
-    "lastOnAirTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Bangle (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019879879",
+    "lastOnAirSku": "8236054",
+    "lastOnAirTitle": "Designer Inspired - Natural Chrome Diopside Panther Earrings with Push Post in Yellow Gold Plated",
+    "lastOnAirAuctionCode": "0019879887",
     "precedingSku": "8235959",
     "precedingTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Bangle (Size - 7.5)",
     "precedingAuctionCode": "0019879879"
