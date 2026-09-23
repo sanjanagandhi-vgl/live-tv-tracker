@@ -166287,25 +166287,26 @@
       "sku": "8412122",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-30",
-      "time": "12:24:22",
+      "date": "2026-09-23",
+      "time": "07:17:19",
       "preExisting": true,
       "missedAt": 1786781544058,
       "missedDelay": null,
-      "lastUpdated": 1788089062698,
+      "lastUpdated": 1790144239509,
       "missedPrice": 199.99,
       "missedImg": true,
       "title": "Designer Inspired- 9K Yellow Gold Screw Band Ring",
-      "auctionCode": "0019850458",
-      "source": "gha-variant",
+      "auctionCode": "0019880588",
+      "source": "gha",
       "productUrl": "/products/luxoro-9k-yellow-gold-floral-band-spinner-ring-m8510534?variant=53191760412938",
       "productUrlChecked": 1786781550806,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1788089062698,
-      "pdpPrice": 249.99,
+      "lastAir": 1790144239509,
+      "pdpPrice": "199.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "8412124": {
       "sku": "8412124",
@@ -380802,8 +380803,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790144182893,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -415926,11 +415927,22 @@
         "followingSku": "8572379",
         "followingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
         "followingAuctionCode": "0019880468"
+      },
+      {
+        "start": 1790144182893,
+        "end": 1790144239509,
+        "durationMin": 0.9,
+        "precedingSku": "8572379",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
+        "precedingAuctionCode": "0019880468",
+        "followingSku": "8412122",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Screw Band Ring",
+        "followingAuctionCode": "0019880588"
       }
     ],
-    "lastOnAirSku": "8572379",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
-    "lastOnAirAuctionCode": "0019880468",
+    "lastOnAirSku": "8412122",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Screw Band Ring",
+    "lastOnAirAuctionCode": "0019880588",
     "precedingSku": "8572379",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
     "precedingAuctionCode": "0019880468"
