@@ -5101,16 +5101,16 @@
       "firstAir": 1784893701582,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789562187744,
+      "lastAir": 1790265145341,
       "title": "La Marey Solid Jean and Pant/Trouser",
       "pdpPrice": "14.99",
-      "auctionCode": "0019871888",
+      "auctionCode": "0019882570",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-16",
-      "time": "13:36:27",
-      "lastUpdated": 1789562187744,
+      "date": "2026-09-24",
+      "time": "16:52:25",
+      "lastUpdated": 1790265145341,
       "source": "gha",
       "missedAt": 1784893996989,
       "missedDelay": 2,
@@ -385512,8 +385512,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790265039084,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -422330,11 +422330,22 @@
         "followingSku": "8231407",
         "followingTitle": "La Marey Solid Jean and Pant/Trouser",
         "followingAuctionCode": "0019882567"
+      },
+      {
+        "start": 1790265039084,
+        "end": 1790265145341,
+        "durationMin": 1.8,
+        "precedingSku": "8231407",
+        "precedingTitle": "La Marey Solid Jean and Pant/Trouser",
+        "precedingAuctionCode": "0019882567",
+        "followingSku": "8231403",
+        "followingTitle": "La Marey Solid Jean and Pant/Trouser",
+        "followingAuctionCode": "0019882570"
       }
     ],
-    "lastOnAirSku": "8231407",
+    "lastOnAirSku": "8231403",
     "lastOnAirTitle": "La Marey Solid Jean and Pant/Trouser",
-    "lastOnAirAuctionCode": "0019882567",
+    "lastOnAirAuctionCode": "0019882570",
     "precedingSku": "8231407",
     "precedingTitle": "La Marey Solid Jean and Pant/Trouser",
     "precedingAuctionCode": "0019882567"
