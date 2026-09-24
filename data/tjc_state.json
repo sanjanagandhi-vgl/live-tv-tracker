@@ -385773,11 +385773,29 @@
       "productUrl": null,
       "lastUpdated": 1790271262096,
       "source": "gha"
+    },
+    "8743961": {
+      "sku": "8743961",
+      "firstAir": 1790271384249,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790271384249,
+      "title": "D'Joy - Kwai Blue Sapphire & White Zircon Leaf Bypass Ring in Yellow Gold Plated Sterling Silver 1.23 Ct.",
+      "pdpPrice": "579.99",
+      "auctionCode": "0019883495",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-24",
+      "time": "18:36:24",
+      "productUrl": null,
+      "lastUpdated": 1790271384249,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790271334105,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -422704,11 +422722,22 @@
         "followingSku": "8748210",
         "followingTitle": "D'Joy - AAA Kwai Blue Sapphire & Moissanite Necklace (Size - 20) in Yellow Gold Plated Sterling Silver 2.07 Ct.",
         "followingAuctionCode": "0019883491"
+      },
+      {
+        "start": 1790271334105,
+        "end": 1790271384249,
+        "durationMin": 0.8,
+        "precedingSku": "8748210",
+        "precedingTitle": "D'Joy - AAA Kwai Blue Sapphire & Moissanite Necklace (Size - 20) in Yellow Gold Plated Sterling Silver 2.07 Ct.",
+        "precedingAuctionCode": "0019883491",
+        "followingSku": "8743961",
+        "followingTitle": "D'Joy - Kwai Blue Sapphire & White Zircon Leaf Bypass Ring in Yellow Gold Plated Sterling Silver 1.23 Ct.",
+        "followingAuctionCode": "0019883495"
       }
     ],
-    "lastOnAirSku": "8748210",
-    "lastOnAirTitle": "D'Joy - AAA Kwai Blue Sapphire & Moissanite Necklace (Size - 20) in Yellow Gold Plated Sterling Silver 2.07 Ct.",
-    "lastOnAirAuctionCode": "0019883491",
+    "lastOnAirSku": "8743961",
+    "lastOnAirTitle": "D'Joy - Kwai Blue Sapphire & White Zircon Leaf Bypass Ring in Yellow Gold Plated Sterling Silver 1.23 Ct.",
+    "lastOnAirAuctionCode": "0019883495",
     "precedingSku": "8748210",
     "precedingTitle": "D'Joy - AAA Kwai Blue Sapphire & Moissanite Necklace (Size - 20) in Yellow Gold Plated Sterling Silver 2.07 Ct.",
     "precedingAuctionCode": "0019883491"
