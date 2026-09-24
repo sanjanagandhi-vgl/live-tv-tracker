@@ -188844,21 +188844,26 @@
       "sku": "8575476",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "16:20:40",
+      "date": "2026-09-24",
+      "time": "17:25:31",
       "preExisting": true,
       "missedAt": 1787066440684,
       "missedDelay": null,
-      "lastUpdated": 1787066440684,
+      "lastUpdated": 1790267131156,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "MEGA BAG CLERANCE OFFER- 100% Genuine Leather Holdall Travel Duffel Bag - Brown",
-      "auctionCode": "0019826603",
+      "title": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
+      "auctionCode": "0019883156",
       "source": "gha",
       "productUrl": "/products/genuine-leather-holdall-travel-duffel-bag-black-8575475",
       "productUrlChecked": 1787066450562,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790267131156,
+      "pdpPrice": "89.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8575477": {
       "sku": "8575477",
@@ -385589,8 +385594,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790267061808,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -422440,11 +422445,22 @@
         "followingSku": "8574565",
         "followingTitle": "Barrel Style Multi-Pocket Top-Handle Crossbody Bag - Dark Purple",
         "followingAuctionCode": "0019882148"
+      },
+      {
+        "start": 1790267061808,
+        "end": 1790267131156,
+        "durationMin": 1.2,
+        "precedingSku": "8574565",
+        "precedingTitle": "Barrel Style Multi-Pocket Top-Handle Crossbody Bag - Dark Purple",
+        "precedingAuctionCode": "0019882148",
+        "followingSku": "8575476",
+        "followingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
+        "followingAuctionCode": "0019883156"
       }
     ],
-    "lastOnAirSku": "8574565",
-    "lastOnAirTitle": "Barrel Style Multi-Pocket Top-Handle Crossbody Bag - Dark Purple",
-    "lastOnAirAuctionCode": "0019882148",
+    "lastOnAirSku": "8575476",
+    "lastOnAirTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
+    "lastOnAirAuctionCode": "0019883156",
     "precedingSku": "8574565",
     "precedingTitle": "Barrel Style Multi-Pocket Top-Handle Crossbody Bag - Dark Purple",
     "precedingAuctionCode": "0019882148"
