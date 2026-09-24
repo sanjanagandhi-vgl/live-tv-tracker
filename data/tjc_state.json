@@ -2969,23 +2969,23 @@
       "sku": "8616412",
       "tvPrice": "",
       "remarks": "",
-      "time": "18:11:20",
+      "time": "17:47:20",
       "preExisting": true,
       "missedAt": 1784851852401,
       "missedDelay": null,
       "missedPrice": 67.99,
       "missedImg": false,
       "title": "BIGGEST JCK CLOSEOUT DEAL - Sterling Silver Paperclip Necklace (Size - 22) with Lobster Clasp, Silver Wt. 11.70 Gms",
-      "auctionCode": "0019865870",
+      "auctionCode": "0019883174",
       "source": "gha",
-      "lastAir": 1789233080325,
-      "pdpPrice": "67.99",
+      "lastAir": 1790268440926,
+      "pdpPrice": "1345.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-12",
+      "date": "2026-09-24",
       "productUrl": null,
-      "lastUpdated": 1789233080325
+      "lastUpdated": 1790268440926
     },
     "8616413": {
       "sku": "8616413",
@@ -385663,8 +385663,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790268387318,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -422536,11 +422536,22 @@
         "followingSku": "8646856",
         "followingTitle": "LIVMORE Cashmere Blend Luxury Blanket (150 x 200cm) - Pink",
         "followingAuctionCode": "0019883163"
+      },
+      {
+        "start": 1790268387318,
+        "end": 1790268440926,
+        "durationMin": 0.9,
+        "precedingSku": "8646856",
+        "precedingTitle": "LIVMORE Cashmere Blend Luxury Blanket (150 x 200cm) - Pink",
+        "precedingAuctionCode": "0019883163",
+        "followingSku": "8616412",
+        "followingTitle": "BIGGEST JCK CLOSEOUT DEAL - Sterling Silver Paperclip Necklace (Size - 22) with Lobster Clasp, Silver Wt. 11.70 Gms",
+        "followingAuctionCode": "0019883174"
       }
     ],
-    "lastOnAirSku": "8646856",
-    "lastOnAirTitle": "LIVMORE Cashmere Blend Luxury Blanket (150 x 200cm) - Pink",
-    "lastOnAirAuctionCode": "0019883163",
+    "lastOnAirSku": "8616412",
+    "lastOnAirTitle": "BIGGEST JCK CLOSEOUT DEAL - Sterling Silver Paperclip Necklace (Size - 22) with Lobster Clasp, Silver Wt. 11.70 Gms",
+    "lastOnAirAuctionCode": "0019883174",
     "precedingSku": "8646856",
     "precedingTitle": "LIVMORE Cashmere Blend Luxury Blanket (150 x 200cm) - Pink",
     "precedingAuctionCode": "0019883163"
