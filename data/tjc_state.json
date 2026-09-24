@@ -306570,25 +306570,26 @@
       "sku": "8675209",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-17",
-      "time": "11:22:23",
+      "date": "2026-09-24",
+      "time": "04:24:22",
       "preExisting": true,
       "missedAt": 1788643463335,
       "missedDelay": null,
-      "lastUpdated": 1789640543055,
+      "lastUpdated": 1790220262315,
       "missedPrice": 14.99,
       "missedImg": false,
-      "title": "Italian Made Yellow Gold Plated Sterling Silver Necklace (Size - 16) with Lobster Clasp",
-      "auctionCode": "0019873936",
-      "source": "gha-variant",
+      "title": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
+      "auctionCode": "0019881851",
+      "source": "gha",
       "productUrl": "/products/rhodium-overlaysterling-silver-necklace-size-16-8675203",
       "productUrlChecked": 1788643467963,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789640543055,
-      "pdpPrice": 19.99,
+      "lastAir": 1790220262315,
+      "pdpPrice": "49.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": false
     },
     "8616398": {
       "sku": "8616398",
@@ -384099,8 +384100,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790220141186,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420345,11 +420346,22 @@
         "followingSku": "7188471",
         "followingTitle": "9K Three Colour Gold 9mm X 18mm Textured And Polished 4 Way Triple Knot Pendant",
         "followingAuctionCode": "0019882072"
+      },
+      {
+        "start": 1790220141186,
+        "end": 1790220262315,
+        "durationMin": 2.0,
+        "precedingSku": "7188471",
+        "precedingTitle": "9K Three Colour Gold 9mm X 18mm Textured And Polished 4 Way Triple Knot Pendant",
+        "precedingAuctionCode": "0019882072",
+        "followingSku": "8675209",
+        "followingTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
+        "followingAuctionCode": "0019881851"
       }
     ],
-    "lastOnAirSku": "7188471",
-    "lastOnAirTitle": "9K Three Colour Gold 9mm X 18mm Textured And Polished 4 Way Triple Knot Pendant",
-    "lastOnAirAuctionCode": "0019882072",
+    "lastOnAirSku": "8675209",
+    "lastOnAirTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 16) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019881851",
     "precedingSku": "7188471",
     "precedingTitle": "9K Three Colour Gold 9mm X 18mm Textured And Polished 4 Way Triple Knot Pendant",
     "precedingAuctionCode": "0019882072"
