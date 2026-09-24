@@ -276299,21 +276299,26 @@
       "sku": "8431474",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "15:32:23",
+      "date": "2026-09-24",
+      "time": "07:34:23",
       "preExisting": true,
       "missedAt": 1788186743846,
       "missedDelay": null,
-      "lastUpdated": 1788186743846,
+      "lastUpdated": 1790231663777,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
-      "auctionCode": "0019851717",
+      "auctionCode": "0019882049",
       "source": "gha",
       "productUrl": "/products/leather-patterned-tote-bag-2658431472",
       "productUrlChecked": 1788186747674,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790231663777,
+      "pdpPrice": "5099.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8431432": {
       "sku": "8431432",
@@ -384179,8 +384184,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790231599194,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420546,11 +420551,22 @@
         "followingSku": "8448463",
         "followingTitle": "William Hunt London Limited Edition Automatic Skeleton Watch With 5 ATM Water Resistancy Exhibition Back and Butterfly Buckle Clasp - 42MM Dial - Black",
         "followingAuctionCode": "0019882041"
+      },
+      {
+        "start": 1790231599194,
+        "end": 1790231663777,
+        "durationMin": 1.1,
+        "precedingSku": "8448463",
+        "precedingTitle": "William Hunt London Limited Edition Automatic Skeleton Watch With 5 ATM Water Resistancy Exhibition Back and Butterfly Buckle Clasp - 42MM Dial - Black",
+        "precedingAuctionCode": "0019882041",
+        "followingSku": "8431474",
+        "followingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
+        "followingAuctionCode": "0019882049"
       }
     ],
-    "lastOnAirSku": "8448463",
-    "lastOnAirTitle": "William Hunt London Limited Edition Automatic Skeleton Watch With 5 ATM Water Resistancy Exhibition Back and Butterfly Buckle Clasp - 42MM Dial - Black",
-    "lastOnAirAuctionCode": "0019882041",
+    "lastOnAirSku": "8431474",
+    "lastOnAirTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
+    "lastOnAirAuctionCode": "0019882049",
     "precedingSku": "8448463",
     "precedingTitle": "William Hunt London Limited Edition Automatic Skeleton Watch With 5 ATM Water Resistancy Exhibition Back and Butterfly Buckle Clasp - 42MM Dial - Black",
     "precedingAuctionCode": "0019882041"
