@@ -180125,17 +180125,17 @@
       "firstAir": 1786952600178,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786952838370,
+      "lastAir": 1790260465856,
       "title": "Nova of London - Full Range Fleece Lined Warm Leggings",
       "pdpPrice": "9.99",
-      "auctionCode": "0019821918",
+      "auctionCode": "0019882417",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "time": "08:47:18",
+      "date": "2026-09-24",
+      "time": "15:34:25",
       "productUrl": "/products/nova-of-london-full-range-fleece-lined-warm-leggings",
-      "lastUpdated": 1786953438689,
+      "lastUpdated": 1790260465856,
       "source": "gha",
       "missedAt": 1786953438689,
       "missedDelay": 10,
@@ -384846,8 +384846,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790260402122,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -421565,11 +421565,22 @@
         "followingSku": "8225737",
         "followingTitle": "La Marey Sequined Jumper",
         "followingAuctionCode": "0019882419"
+      },
+      {
+        "start": 1790260402122,
+        "end": 1790260465856,
+        "durationMin": 1.1,
+        "precedingSku": "8225737",
+        "precedingTitle": "La Marey Sequined Jumper",
+        "precedingAuctionCode": "0019882419",
+        "followingSku": "7616101",
+        "followingTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
+        "followingAuctionCode": "0019882417"
       }
     ],
-    "lastOnAirSku": "8225737",
-    "lastOnAirTitle": "La Marey Sequined Jumper",
-    "lastOnAirAuctionCode": "0019882419",
+    "lastOnAirSku": "7616101",
+    "lastOnAirTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
+    "lastOnAirAuctionCode": "0019882417",
     "precedingSku": "8225737",
     "precedingTitle": "La Marey Sequined Jumper",
     "precedingAuctionCode": "0019882419"
