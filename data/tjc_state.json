@@ -346366,21 +346366,26 @@
       "sku": "8627890",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "16:41:21",
+      "date": "2026-09-24",
+      "time": "07:46:22",
       "preExisting": true,
       "missedAt": 1789400481849,
       "missedDelay": null,
-      "lastUpdated": 1789400481849,
+      "lastUpdated": 1790232382373,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "LIVMORE Double Layer Floral Jacquard Faux Fur & Sherpa Throw Blanket (150x200cm) - Silver Grey",
-      "auctionCode": "0019869719",
+      "title": "LIVMORE Double Layered Floral Jacquard Faux Fur & Sherpa Blanket  600 gsm (150x200cm) - Silver Grey",
+      "auctionCode": "0019882012",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-200x1-cm-burgundy-8627880",
       "productUrlChecked": 1789400491901,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790232382373,
+      "pdpPrice": "279.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8627898": {
       "sku": "8627898",
@@ -384184,8 +384189,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790232337127,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420562,11 +420567,22 @@
         "followingSku": "8431474",
         "followingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
         "followingAuctionCode": "0019882049"
+      },
+      {
+        "start": 1790232337127,
+        "end": 1790232382373,
+        "durationMin": 0.8,
+        "precedingSku": "8431474",
+        "precedingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
+        "precedingAuctionCode": "0019882049",
+        "followingSku": "8627890",
+        "followingTitle": "LIVMORE Double Layered Floral Jacquard Faux Fur & Sherpa Blanket  600 gsm (150x200cm) - Silver Grey",
+        "followingAuctionCode": "0019882012"
       }
     ],
-    "lastOnAirSku": "8431474",
-    "lastOnAirTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
-    "lastOnAirAuctionCode": "0019882049",
+    "lastOnAirSku": "8627890",
+    "lastOnAirTitle": "LIVMORE Double Layered Floral Jacquard Faux Fur & Sherpa Blanket  600 gsm (150x200cm) - Silver Grey",
+    "lastOnAirAuctionCode": "0019882012",
     "precedingSku": "8431474",
     "precedingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
     "precedingAuctionCode": "0019882049"
