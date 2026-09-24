@@ -386623,9 +386623,16 @@
       "img": true,
       "date": "2026-09-24",
       "time": "19:59:20",
-      "productUrl": null,
-      "lastUpdated": 1790276360363,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-diffused-blue-sapphire-lab-grown-diamond-halo-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-4-25-ct-4524994",
+      "lastUpdated": 1790276960012,
+      "source": "gha",
+      "missedAt": 1790276960012,
+      "missedDelay": 10,
+      "missedPrice": 159.99,
+      "missedImg": true,
+      "productUrlChecked": 1790276962786,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8744153": {
       "sku": "8744153",
@@ -386964,11 +386971,31 @@
       "productUrlChecked": 1790276472709,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8754401": {
+      "sku": "8754401",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-24",
+      "time": "20:09:20",
+      "preExisting": true,
+      "missedAt": 1790276960012,
+      "missedDelay": null,
+      "lastUpdated": 1790276960012,
+      "missedPrice": 159.99,
+      "missedImg": true,
+      "title": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Earring with Lever Back in Rhodium Overlay Sterling Silver 4.20 Ct.",
+      "auctionCode": "0019883830",
+      "source": "gha",
+      "productUrl": "/products/luxuriant-diffused-blue-sapphire-lab-grown-diamond-halo-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-4-25-ct-4524994",
+      "productUrlChecked": 1790276963228,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790276960012,
     "gaps": [
       {
         "start": 1785823527869,
@@ -423988,8 +424015,8 @@
     "lastOnAirSku": "8754274",
     "lastOnAirTitle": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Ring in Rhodium Overlay Sterling Silver 4.25 Ct.",
     "lastOnAirAuctionCode": "0019881653",
-    "precedingSku": "8744311",
-    "precedingTitle": "D'Joy - Kwai Blue Sapphire Solitaire Ring in Platinum Overlay Sterling Silver 1.65 Ct.",
-    "precedingAuctionCode": "0019881878"
+    "precedingSku": "8754274",
+    "precedingTitle": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Ring in Rhodium Overlay Sterling Silver 4.25 Ct.",
+    "precedingAuctionCode": "0019881653"
   }
 }
