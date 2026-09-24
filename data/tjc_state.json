@@ -386529,20 +386529,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-24",
-      "time": "19:47:24",
+      "time": "20:50:39",
       "preExisting": true,
       "missedAt": 1790275644286,
       "missedDelay": null,
-      "lastUpdated": 1790275644286,
+      "lastUpdated": 1790279439776,
       "missedPrice": 479.99,
       "missedImg": true,
       "title": "Luxoro - RARE SIZE - 9K Yellow Gold AAA Kwai Blue Sapphire Solitaire Ring 7.50 Ct.",
-      "auctionCode": "0019881938",
+      "auctionCode": "0019883848",
       "source": "gha",
       "productUrl": "/products/luxoro-9k-yellow-gold-aaa-diffused-blue-sapphire-solitaire-ring-7-50-ct-8753232",
       "productUrlChecked": 1790275648369,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790279439776,
+      "pdpPrice": "479.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8753232": {
       "sku": "8753232",
@@ -387626,8 +387631,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790279305566,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -424675,11 +424680,22 @@
         "followingSku": "8753281",
         "followingTitle": "The Royal Blue- AAA Kwai Blue Sapphire & Lab Grown Diamond (SI-G-H) Halo Ring in Rhodium Overlay Sterling Silver 2.82 Ct.",
         "followingAuctionCode": "0019881852"
+      },
+      {
+        "start": 1790279305566,
+        "end": 1790279439776,
+        "durationMin": 2.2,
+        "precedingSku": "8753281",
+        "precedingTitle": "The Royal Blue- AAA Kwai Blue Sapphire & Lab Grown Diamond (SI-G-H) Halo Ring in Rhodium Overlay Sterling Silver 2.82 Ct.",
+        "precedingAuctionCode": "0019881852",
+        "followingSku": "8753233",
+        "followingTitle": "Luxoro - RARE SIZE - 9K Yellow Gold AAA Kwai Blue Sapphire Solitaire Ring 7.50 Ct.",
+        "followingAuctionCode": "0019883848"
       }
     ],
-    "lastOnAirSku": "8753281",
-    "lastOnAirTitle": "The Royal Blue- AAA Kwai Blue Sapphire & Lab Grown Diamond (SI-G-H) Halo Ring in Rhodium Overlay Sterling Silver 2.82 Ct.",
-    "lastOnAirAuctionCode": "0019881852",
+    "lastOnAirSku": "8753233",
+    "lastOnAirTitle": "Luxoro - RARE SIZE - 9K Yellow Gold AAA Kwai Blue Sapphire Solitaire Ring 7.50 Ct.",
+    "lastOnAirAuctionCode": "0019883848",
     "precedingSku": "8753281",
     "precedingTitle": "The Royal Blue- AAA Kwai Blue Sapphire & Lab Grown Diamond (SI-G-H) Halo Ring in Rhodium Overlay Sterling Silver 2.82 Ct.",
     "precedingAuctionCode": "0019881852"
