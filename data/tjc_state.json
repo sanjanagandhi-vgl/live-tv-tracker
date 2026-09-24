@@ -384806,9 +384806,16 @@
       "login": false,
       "date": "2026-09-24",
       "time": "15:32:22",
-      "productUrl": null,
-      "lastUpdated": 1790260342782,
-      "source": "gha-variant"
+      "productUrl": "/products/la-marey-sequined-jumper",
+      "lastUpdated": 1790260881397,
+      "source": "gha-variant",
+      "missedAt": 1790260881397,
+      "missedDelay": 9,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "productUrlChecked": 1790260887194,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8225738": {
       "sku": "8225738",
@@ -384823,9 +384830,16 @@
       "login": false,
       "date": "2026-09-24",
       "time": "15:32:22",
-      "productUrl": null,
-      "lastUpdated": 1790260342782,
-      "source": "gha-variant"
+      "productUrl": "/products/la-marey-sequined-jumper",
+      "lastUpdated": 1790260881397,
+      "source": "gha-variant",
+      "missedAt": 1790260881397,
+      "missedDelay": 9,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "productUrlChecked": 1790260888004,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8225736": {
       "sku": "8225736",
@@ -384840,14 +384854,39 @@
       "login": false,
       "date": "2026-09-24",
       "time": "15:32:22",
+      "productUrl": "/products/la-marey-sequined-jumper",
+      "lastUpdated": 1790260881397,
+      "source": "gha-variant",
+      "missedAt": 1790260881397,
+      "missedDelay": 9,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "productUrlChecked": 1790260888545,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8201208": {
+      "sku": "8201208",
+      "firstAir": 1790260881397,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790260881397,
+      "title": "La Marey Long Cardigan",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019882564",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-24",
+      "time": "15:41:21",
       "productUrl": null,
-      "lastUpdated": 1790260342782,
-      "source": "gha-variant"
+      "lastUpdated": 1790260881397,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790260839274,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -421576,11 +421615,22 @@
         "followingSku": "7616101",
         "followingTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
         "followingAuctionCode": "0019882417"
+      },
+      {
+        "start": 1790260839274,
+        "end": 1790260881397,
+        "durationMin": 0.7,
+        "precedingSku": "7616101",
+        "precedingTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
+        "precedingAuctionCode": "0019882417",
+        "followingSku": "8201208",
+        "followingTitle": "La Marey Long Cardigan",
+        "followingAuctionCode": "0019882564"
       }
     ],
-    "lastOnAirSku": "7616101",
-    "lastOnAirTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
-    "lastOnAirAuctionCode": "0019882417",
+    "lastOnAirSku": "8201208",
+    "lastOnAirTitle": "La Marey Long Cardigan",
+    "lastOnAirAuctionCode": "0019882564",
     "precedingSku": "7616101",
     "precedingTitle": "Nova of London - Full Range Fleece Lined Warm Leggings",
     "precedingAuctionCode": "0019882417"
