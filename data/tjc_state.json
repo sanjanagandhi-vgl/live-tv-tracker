@@ -350776,21 +350776,26 @@
       "sku": "8574497",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "18:55:31",
+      "date": "2026-09-24",
+      "time": "03:05:26",
       "preExisting": true,
       "missedAt": 1789494931648,
       "missedDelay": null,
-      "lastUpdated": 1789494931648,
+      "lastUpdated": 1790215526251,
       "missedPrice": 9.99,
       "missedImg": false,
-      "title": "3D Laser-Engraved Crystal Ball LED Night Light - Lily of the Valley Floral Branch with Cat Figure (8cm)",
-      "auctionCode": "0019871929",
+      "title": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
+      "auctionCode": "0019881539",
       "source": "gha",
       "productUrl": "/products/night-light-size-one-size-transparent-8574481",
       "productUrlChecked": 1789494936143,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790215526251,
+      "pdpPrice": "103.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8574498": {
       "sku": "8574498",
@@ -384054,8 +384059,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790215466672,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420190,11 +420195,22 @@
         "followingSku": "8623574",
         "followingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
         "followingAuctionCode": "0019881495"
+      },
+      {
+        "start": 1790215466672,
+        "end": 1790215526251,
+        "durationMin": 1.0,
+        "precedingSku": "8623574",
+        "precedingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
+        "precedingAuctionCode": "0019881495",
+        "followingSku": "8574497",
+        "followingTitle": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
+        "followingAuctionCode": "0019881539"
       }
     ],
-    "lastOnAirSku": "8623574",
-    "lastOnAirTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
-    "lastOnAirAuctionCode": "0019881495",
+    "lastOnAirSku": "8574497",
+    "lastOnAirTitle": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
+    "lastOnAirAuctionCode": "0019881539",
     "precedingSku": "8623574",
     "precedingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
     "precedingAuctionCode": "0019881495"
