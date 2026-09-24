@@ -384186,11 +384186,29 @@
       "productUrl": null,
       "lastUpdated": 1790223438112,
       "source": "gha"
+    },
+    "7329848": {
+      "sku": "7329848",
+      "firstAir": 1790236400290,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790236400290,
+      "title": "9K Yellow Gold  Chain (Size - 18),  Gold Wt. 13.5 Gms",
+      "pdpPrice": "1279.99",
+      "auctionCode": "0019882331",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-24",
+      "time": "08:53:20",
+      "productUrl": null,
+      "lastUpdated": 1790236400290,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790236349841,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420633,11 +420651,22 @@
         "followingSku": "8596966",
         "followingTitle": "Italian Made- 9K Yellow Gold Paperclip Necklace (Size - 24). Gold Wt 12.75 Gms",
         "followingAuctionCode": "0019882332"
+      },
+      {
+        "start": 1790236349841,
+        "end": 1790236400290,
+        "durationMin": 0.8,
+        "precedingSku": "8596966",
+        "precedingTitle": "Italian Made- 9K Yellow Gold Paperclip Necklace (Size - 24). Gold Wt 12.75 Gms",
+        "precedingAuctionCode": "0019882332",
+        "followingSku": "7329848",
+        "followingTitle": "9K Yellow Gold  Chain (Size - 18),  Gold Wt. 13.5 Gms",
+        "followingAuctionCode": "0019882331"
       }
     ],
-    "lastOnAirSku": "8596966",
-    "lastOnAirTitle": "Italian Made- 9K Yellow Gold Paperclip Necklace (Size - 24). Gold Wt 12.75 Gms",
-    "lastOnAirAuctionCode": "0019882332",
+    "lastOnAirSku": "7329848",
+    "lastOnAirTitle": "9K Yellow Gold  Chain (Size - 18),  Gold Wt. 13.5 Gms",
+    "lastOnAirAuctionCode": "0019882331",
     "precedingSku": "8596966",
     "precedingTitle": "Italian Made- 9K Yellow Gold Paperclip Necklace (Size - 24). Gold Wt 12.75 Gms",
     "precedingAuctionCode": "0019882332"
