@@ -19236,19 +19236,19 @@
       "sku": "8503684",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-12",
-      "time": "04:03:21",
+      "date": "2026-09-24",
+      "time": "07:10:37",
       "preExisting": true,
       "missedAt": 1785166157710,
       "missedDelay": null,
-      "lastUpdated": 1789182201297,
+      "lastUpdated": 1790230237618,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "LIVMORE Set of 3 Bamboo Towels - 500GSM -INC-  Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Pink",
-      "auctionCode": "0019865827",
+      "title": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
+      "auctionCode": "0019882025",
       "source": "gha",
-      "lastAir": 1789182201297,
-      "pdpPrice": "29.99",
+      "lastAir": 1790230237618,
+      "pdpPrice": "249.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -384179,8 +384179,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790230159083,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420524,11 +420524,22 @@
         "followingSku": "3492618",
         "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
         "followingAuctionCode": "0019882059"
+      },
+      {
+        "start": 1790230159083,
+        "end": 1790230237618,
+        "durationMin": 1.3,
+        "precedingSku": "8611615",
+        "precedingTitle": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
+        "precedingAuctionCode": "0019882004",
+        "followingSku": "8503684",
+        "followingTitle": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
+        "followingAuctionCode": "0019882025"
       }
     ],
-    "lastOnAirSku": "8611615",
-    "lastOnAirTitle": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
-    "lastOnAirAuctionCode": "0019882004",
+    "lastOnAirSku": "8503684",
+    "lastOnAirTitle": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
+    "lastOnAirAuctionCode": "0019882025",
     "precedingSku": "8611615",
     "precedingTitle": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
     "precedingAuctionCode": "0019882004"
