@@ -384571,11 +384571,29 @@
       "productUrl": null,
       "lastUpdated": 1790255183012,
       "source": "gha"
+    },
+    "221334950": {
+      "sku": "221334950",
+      "firstAir": 1790255436403,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790255436403,
+      "title": "Women's Beauty & Hair Accessory Gift Set - Perfume, Lipsticks Hairband Brush & Claw Clips",
+      "pdpPrice": "34.96",
+      "auctionCode": "0019882369",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-24",
+      "time": "14:10:36",
+      "productUrl": null,
+      "lastUpdated": 1790255436403,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790255240255,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -421227,11 +421245,22 @@
         "followingSku": "8746943",
         "followingTitle": "Close Out Deal- Designer Inspired Knot Stud Earring with Push Back",
         "followingAuctionCode": "0019882498"
+      },
+      {
+        "start": 1790255240255,
+        "end": 1790255436403,
+        "durationMin": 3.3,
+        "precedingSku": "8746943",
+        "precedingTitle": "Close Out Deal- Designer Inspired Knot Stud Earring with Push Back",
+        "precedingAuctionCode": "0019882498",
+        "followingSku": "221334950",
+        "followingTitle": "Women's Beauty & Hair Accessory Gift Set - Perfume, Lipsticks Hairband Brush & Claw Clips",
+        "followingAuctionCode": "0019882369"
       }
     ],
-    "lastOnAirSku": "8746943",
-    "lastOnAirTitle": "Close Out Deal- Designer Inspired Knot Stud Earring with Push Back",
-    "lastOnAirAuctionCode": "0019882498",
+    "lastOnAirSku": "221334950",
+    "lastOnAirTitle": "Women's Beauty & Hair Accessory Gift Set - Perfume, Lipsticks Hairband Brush & Claw Clips",
+    "lastOnAirAuctionCode": "0019882369",
     "precedingSku": "8746943",
     "precedingTitle": "Close Out Deal- Designer Inspired Knot Stud Earring with Push Back",
     "precedingAuctionCode": "0019882498"
