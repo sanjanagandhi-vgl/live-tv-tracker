@@ -5063,17 +5063,17 @@
       "firstAir": 1784893344043,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789562187744,
-      "title": "LA Marey Knit Trousers (Size M, 12-14) - Brown",
-      "pdpPrice": 14.99,
-      "auctionCode": "0019872617",
+      "lastAir": 1790264840751,
+      "title": "La Marey Solid Jean and Pant/Trouser",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019882567",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-16",
-      "time": "13:36:27",
-      "lastUpdated": 1789562187744,
-      "source": "gha-variant",
+      "date": "2026-09-24",
+      "time": "16:47:20",
+      "lastUpdated": 1790264840751,
+      "source": "gha",
       "missedAt": 1784893701582,
       "missedDelay": 1,
       "missedPrice": 19.99,
@@ -385512,8 +385512,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790264783345,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -422319,11 +422319,22 @@
         "followingSku": "8237472",
         "followingTitle": "La Marey Hybrid Plisse Midi Dress (Size S, 8-10) - Denim Blue",
         "followingAuctionCode": "0019882409"
+      },
+      {
+        "start": 1790264783345,
+        "end": 1790264840751,
+        "durationMin": 1.0,
+        "precedingSku": "8237472",
+        "precedingTitle": "La Marey Hybrid Plisse Midi Dress (Size S, 8-10) - Denim Blue",
+        "precedingAuctionCode": "0019882409",
+        "followingSku": "8231407",
+        "followingTitle": "La Marey Solid Jean and Pant/Trouser",
+        "followingAuctionCode": "0019882567"
       }
     ],
-    "lastOnAirSku": "8237472",
-    "lastOnAirTitle": "La Marey Hybrid Plisse Midi Dress (Size S, 8-10) - Denim Blue",
-    "lastOnAirAuctionCode": "0019882409",
+    "lastOnAirSku": "8231407",
+    "lastOnAirTitle": "La Marey Solid Jean and Pant/Trouser",
+    "lastOnAirAuctionCode": "0019882567",
     "precedingSku": "8237472",
     "precedingTitle": "La Marey Hybrid Plisse Midi Dress (Size S, 8-10) - Denim Blue",
     "precedingAuctionCode": "0019882409"
