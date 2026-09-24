@@ -373060,21 +373060,26 @@
       "sku": "8646856",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "21:14:21",
+      "date": "2026-09-24",
+      "time": "17:33:20",
       "preExisting": true,
       "missedAt": 1789935261416,
       "missedDelay": null,
-      "lastUpdated": 1789935261416,
+      "lastUpdated": 1790267600622,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "LIVMORE Cashmere Blend Luxury Blanket (150 x 200cm) - Blue",
-      "auctionCode": "0019875820",
+      "title": "LIVMORE Cashmere Blend Luxury Blanket (150 x 200cm) - Pink",
+      "auctionCode": "0019883163",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-200x1-cm-grey-8646855",
       "productUrlChecked": 1789935265191,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790267600622,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8371591": {
       "sku": "8371591",
@@ -385658,8 +385663,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790267478565,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -422520,11 +422525,22 @@
         "followingSku": "8575476",
         "followingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
         "followingAuctionCode": "0019883156"
+      },
+      {
+        "start": 1790267478565,
+        "end": 1790267600622,
+        "durationMin": 2.0,
+        "precedingSku": "8575476",
+        "precedingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
+        "precedingAuctionCode": "0019883156",
+        "followingSku": "8646856",
+        "followingTitle": "LIVMORE Cashmere Blend Luxury Blanket (150 x 200cm) - Pink",
+        "followingAuctionCode": "0019883163"
       }
     ],
-    "lastOnAirSku": "8575476",
-    "lastOnAirTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
-    "lastOnAirAuctionCode": "0019883156",
+    "lastOnAirSku": "8646856",
+    "lastOnAirTitle": "LIVMORE Cashmere Blend Luxury Blanket (150 x 200cm) - Pink",
+    "lastOnAirAuctionCode": "0019883163",
     "precedingSku": "8575476",
     "precedingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
     "precedingAuctionCode": "0019883156"
