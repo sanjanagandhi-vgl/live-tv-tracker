@@ -208968,18 +208968,23 @@
       "sku": "8666432",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "13:26:21",
+      "date": "2026-09-24",
+      "time": "11:02:24",
       "preExisting": true,
       "missedAt": 1787315181549,
       "missedDelay": null,
-      "lastUpdated": 1787315181549,
+      "lastUpdated": 1790244144273,
       "missedPrice": 19.99,
       "missedImg": false,
       "title": "3-Layer Debossed Floral PU Leather Jewellery Organiser Box with Drawers - Baby Pink",
-      "auctionCode": "0019833763",
+      "auctionCode": "0019882747",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1790244144273,
+      "pdpPrice": "239.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8666433": {
       "sku": "8666433",
@@ -384473,8 +384478,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790244064288,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -421016,11 +421021,22 @@
         "followingSku": "8516481",
         "followingTitle": "MEGA  DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019882542"
+      },
+      {
+        "start": 1790244064288,
+        "end": 1790244144273,
+        "durationMin": 1.3,
+        "precedingSku": "8356062",
+        "precedingTitle": "24K Yellow Gold (99.9% Gold Purity) FU Embossed Foil (100 x 50 MM)",
+        "precedingAuctionCode": "0019882093",
+        "followingSku": "8666432",
+        "followingTitle": "3-Layer Debossed Floral PU Leather Jewellery Organiser Box with Drawers - Baby Pink",
+        "followingAuctionCode": "0019882747"
       }
     ],
-    "lastOnAirSku": "8356062",
-    "lastOnAirTitle": "24K Yellow Gold (99.9% Gold Purity) FU Embossed Foil (100 x 50 MM)",
-    "lastOnAirAuctionCode": "0019882093",
+    "lastOnAirSku": "8666432",
+    "lastOnAirTitle": "3-Layer Debossed Floral PU Leather Jewellery Organiser Box with Drawers - Baby Pink",
+    "lastOnAirAuctionCode": "0019882747",
     "precedingSku": "8356062",
     "precedingTitle": "24K Yellow Gold (99.9% Gold Purity) FU Embossed Foil (100 x 50 MM)",
     "precedingAuctionCode": "0019882093"
