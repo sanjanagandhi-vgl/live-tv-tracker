@@ -384372,11 +384372,29 @@
       "auctionCode": "0019882713",
       "source": "gha",
       "productUrl": null
+    },
+    "4453954": {
+      "sku": "4453954",
+      "firstAir": 1790240783332,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790240783332,
+      "title": "D'Joy Natural Kunzite Oval Cut Solitaire Drop Pendant with Chain (Size 20) in Rose Gold Plated Sterling Silver 6.67 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019882022",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-24",
+      "time": "10:06:23",
+      "productUrl": null,
+      "lastUpdated": 1790240783332,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790240730712,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420874,11 +420892,22 @@
         "followingSku": "4484978",
         "followingTitle": "D'Joy - Ethiopian Opal & White Zircon Halo Drop Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.34 Ct.",
         "followingAuctionCode": "0019882024"
+      },
+      {
+        "start": 1790240730712,
+        "end": 1790240783332,
+        "durationMin": 0.9,
+        "precedingSku": "4484978",
+        "precedingTitle": "D'Joy - Ethiopian Opal & White Zircon Halo Drop Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.34 Ct.",
+        "precedingAuctionCode": "0019882024",
+        "followingSku": "4453954",
+        "followingTitle": "D'Joy Natural Kunzite Oval Cut Solitaire Drop Pendant with Chain (Size 20) in Rose Gold Plated Sterling Silver 6.67 Ct.",
+        "followingAuctionCode": "0019882022"
       }
     ],
-    "lastOnAirSku": "4484978",
-    "lastOnAirTitle": "D'Joy - Ethiopian Opal & White Zircon Halo Drop Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.34 Ct.",
-    "lastOnAirAuctionCode": "0019882024",
+    "lastOnAirSku": "4453954",
+    "lastOnAirTitle": "D'Joy Natural Kunzite Oval Cut Solitaire Drop Pendant with Chain (Size 20) in Rose Gold Plated Sterling Silver 6.67 Ct.",
+    "lastOnAirAuctionCode": "0019882022",
     "precedingSku": "4484978",
     "precedingTitle": "D'Joy - Ethiopian Opal & White Zircon Halo Drop Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.34 Ct.",
     "precedingAuctionCode": "0019882024"
