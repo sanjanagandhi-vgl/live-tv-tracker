@@ -304176,21 +304176,26 @@
       "sku": "7525329",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-05",
-      "time": "10:32:22",
+      "date": "2026-09-24",
+      "time": "04:13:19",
       "preExisting": true,
       "missedAt": 1788600742272,
       "missedDelay": null,
-      "lastUpdated": 1788600742272,
+      "lastUpdated": 1790219599292,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Infinity Knot Link Bracelet (Size - 7) in 18K Vermeil Yellow Gold Plated Sterling Silver, Silver Wt. 6.25 Gms.",
-      "auctionCode": "0019856626",
+      "title": "Infinity Knot Bracelet in Sterling Silver",
+      "auctionCode": "0019881836",
       "source": "gha",
       "productUrl": "/products/infinity-knot-bracelet-in-sterling-silver",
       "productUrlChecked": 1788600747952,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790219599292,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7570673": {
       "sku": "7570673",
@@ -384087,8 +384092,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790219540727,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420311,11 +420316,22 @@
         "followingSku": "8618139",
         "followingTitle": "D'Joy - Premium Peach Edison (9-10mm) Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 11.80 Ct.",
         "followingAuctionCode": "0019881956"
+      },
+      {
+        "start": 1790219540727,
+        "end": 1790219599292,
+        "durationMin": 1.0,
+        "precedingSku": "8618139",
+        "precedingTitle": "D'Joy - Premium Peach Edison (9-10mm) Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 11.80 Ct.",
+        "precedingAuctionCode": "0019881956",
+        "followingSku": "7525329",
+        "followingTitle": "Infinity Knot Bracelet in Sterling Silver",
+        "followingAuctionCode": "0019881836"
       }
     ],
-    "lastOnAirSku": "8618139",
-    "lastOnAirTitle": "D'Joy - Premium Peach Edison (9-10mm) Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 11.80 Ct.",
-    "lastOnAirAuctionCode": "0019881956",
+    "lastOnAirSku": "7525329",
+    "lastOnAirTitle": "Infinity Knot Bracelet in Sterling Silver",
+    "lastOnAirAuctionCode": "0019881836",
     "precedingSku": "8618139",
     "precedingTitle": "D'Joy - Premium Peach Edison (9-10mm) Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 11.80 Ct.",
     "precedingAuctionCode": "0019881956"
