@@ -387743,11 +387743,29 @@
       "productUrl": null,
       "lastUpdated": 1790285061651,
       "source": "gha"
+    },
+    "8659043": {
+      "sku": "8659043",
+      "firstAir": 1790285183808,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790285183808,
+      "title": "Bronzella Collection - Full Hoop Earring with Clasp Back in 18K Gold Plating 9.16 Gms",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019883468",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-24",
+      "time": "22:26:23",
+      "productUrl": null,
+      "lastUpdated": 1790285183808,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790285130066,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -424894,11 +424912,22 @@
         "followingSku": "8620842",
         "followingTitle": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
         "followingAuctionCode": "0019883467"
+      },
+      {
+        "start": 1790285130066,
+        "end": 1790285183808,
+        "durationMin": 0.9,
+        "precedingSku": "8620842",
+        "precedingTitle": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
+        "precedingAuctionCode": "0019883467",
+        "followingSku": "8659043",
+        "followingTitle": "Bronzella Collection - Full Hoop Earring with Clasp Back in 18K Gold Plating 9.16 Gms",
+        "followingAuctionCode": "0019883468"
       }
     ],
-    "lastOnAirSku": "8620842",
-    "lastOnAirTitle": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
-    "lastOnAirAuctionCode": "0019883467",
+    "lastOnAirSku": "8659043",
+    "lastOnAirTitle": "Bronzella Collection - Full Hoop Earring with Clasp Back in 18K Gold Plating 9.16 Gms",
+    "lastOnAirAuctionCode": "0019883468",
     "precedingSku": "8620842",
     "precedingTitle": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
     "precedingAuctionCode": "0019883467"
