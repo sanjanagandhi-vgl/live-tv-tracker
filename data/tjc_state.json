@@ -198595,17 +198595,17 @@
       "firstAir": 1787205327975,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789722440549,
+      "lastAir": 1790227278832,
       "title": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019875108",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019882059",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-18",
-      "time": "10:07:20",
+      "date": "2026-09-24",
+      "time": "06:21:18",
       "productUrl": "/products/laurelle-royale-edition-gold-eau-de-toilette-100ml",
-      "lastUpdated": 1789722440549,
+      "lastUpdated": 1790227278832,
       "source": "gha",
       "missedAt": 1787206343271,
       "missedDelay": 11,
@@ -384179,8 +384179,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790227239163,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420513,11 +420513,22 @@
         "followingSku": "7852909",
         "followingTitle": "Cashmere Wool Gloves One Size",
         "followingAuctionCode": "0019882030"
+      },
+      {
+        "start": 1790227239163,
+        "end": 1790227278832,
+        "durationMin": 0.7,
+        "precedingSku": "7852909",
+        "precedingTitle": "Cashmere Wool Gloves One Size",
+        "precedingAuctionCode": "0019882030",
+        "followingSku": "3492618",
+        "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+        "followingAuctionCode": "0019882059"
       }
     ],
-    "lastOnAirSku": "7852909",
-    "lastOnAirTitle": "Cashmere Wool Gloves One Size",
-    "lastOnAirAuctionCode": "0019882030",
+    "lastOnAirSku": "3492618",
+    "lastOnAirTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+    "lastOnAirAuctionCode": "0019882059",
     "precedingSku": "7852909",
     "precedingTitle": "Cashmere Wool Gloves One Size",
     "precedingAuctionCode": "0019882030"
