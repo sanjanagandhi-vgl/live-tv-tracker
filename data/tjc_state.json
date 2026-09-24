@@ -23078,19 +23078,19 @@
       "sku": "4269439",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-23",
-      "time": "14:12:22",
+      "date": "2026-09-25",
+      "time": "00:12:24",
       "preExisting": true,
       "missedAt": 1785356541664,
       "missedDelay": null,
-      "lastUpdated": 1790169142649,
+      "lastUpdated": 1790291544027,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Lucy Q Drop Collection - Pendant with Chain (Size 18) in 18K Vermeil Rose Gold Plated Sterling Si...",
-      "auctionCode": "0019880042",
+      "title": "Lucy Q Drop Collection - Pendant with Chain (Size 18) in 18K Vermeil Rose Gold Plated Sterling Silver.",
+      "auctionCode": "0019882928",
       "source": "gha",
-      "lastAir": 1790169142649,
-      "pdpPrice": 69.99,
+      "lastAir": 1790291544027,
+      "pdpPrice": "69.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -387871,8 +387871,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790291481560,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425107,11 +425107,22 @@
         "followingSku": "8699211",
         "followingTitle": "Lucy Q - Lab Grown Diamond Drip Earring with Push Back in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019882929"
+      },
+      {
+        "start": 1790291481560,
+        "end": 1790291544027,
+        "durationMin": 1.0,
+        "precedingSku": "8699211",
+        "precedingTitle": "Lucy Q - Lab Grown Diamond Drip Earring with Push Back in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019882929",
+        "followingSku": "4269439",
+        "followingTitle": "Lucy Q Drop Collection - Pendant with Chain (Size 18) in 18K Vermeil Rose Gold Plated Sterling Silver.",
+        "followingAuctionCode": "0019882928"
       }
     ],
-    "lastOnAirSku": "8699211",
-    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Drip Earring with Push Back in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019882929",
+    "lastOnAirSku": "4269439",
+    "lastOnAirTitle": "Lucy Q Drop Collection - Pendant with Chain (Size 18) in 18K Vermeil Rose Gold Plated Sterling Silver.",
+    "lastOnAirAuctionCode": "0019882928",
     "precedingSku": "8699211",
     "precedingTitle": "Lucy Q - Lab Grown Diamond Drip Earring with Push Back in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019882929"
