@@ -27763,21 +27763,26 @@
       "sku": "8356628",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-09-24",
+      "time": "22:07:20",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1790284040655,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Australian Magic Red Crystal Earring with Push Back",
-      "auctionCode": "0019801680",
+      "title": "Blue Crystal Earring with Push Back",
+      "auctionCode": "0019883452",
       "source": "gha",
       "productUrl": "/products/white-crystal-earring-with-push-back",
       "productUrlChecked": 1785474938111,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790284040655,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8322731": {
       "sku": "8322731",
@@ -387662,8 +387667,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790283660498,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -424766,11 +424771,22 @@
         "followingSku": "8593307",
         "followingTitle": "9K White Gold Curb Chain with Spring Ring Clasp (Size - 16)",
         "followingAuctionCode": "0019882596"
+      },
+      {
+        "start": 1790283660498,
+        "end": 1790284040655,
+        "durationMin": 6.3,
+        "precedingSku": "8593307",
+        "precedingTitle": "9K White Gold Curb Chain with Spring Ring Clasp (Size - 16)",
+        "precedingAuctionCode": "0019882596",
+        "followingSku": "8356628",
+        "followingTitle": "Blue Crystal Earring with Push Back",
+        "followingAuctionCode": "0019883452"
       }
     ],
-    "lastOnAirSku": "8593307",
-    "lastOnAirTitle": "9K White Gold Curb Chain with Spring Ring Clasp (Size - 16)",
-    "lastOnAirAuctionCode": "0019882596",
+    "lastOnAirSku": "8356628",
+    "lastOnAirTitle": "Blue Crystal Earring with Push Back",
+    "lastOnAirAuctionCode": "0019883452",
     "precedingSku": "8593307",
     "precedingTitle": "9K White Gold Curb Chain with Spring Ring Clasp (Size - 16)",
     "precedingAuctionCode": "0019882596"
