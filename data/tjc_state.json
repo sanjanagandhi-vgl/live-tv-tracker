@@ -386364,11 +386364,29 @@
       "productUrl": null,
       "lastUpdated": 1790275280323,
       "source": "gha"
+    },
+    "8744145": {
+      "sku": "8744145",
+      "firstAir": 1790275399576,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790275399576,
+      "title": "D'Joy - Kwai Blue Sapphire & White Zircon Ring in Yellow Gold Plated Sterling Silver 3.36 Ct.",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019881807",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-24",
+      "time": "19:43:19",
+      "productUrl": null,
+      "lastUpdated": 1790275399576,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790275341785,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -423350,11 +423368,22 @@
         "followingSku": "8744833",
         "followingTitle": "D'Joy - Kwai Blue Sapphire Solitaire Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver 1.62 Ct.",
         "followingAuctionCode": "0019881897"
+      },
+      {
+        "start": 1790275341785,
+        "end": 1790275399576,
+        "durationMin": 1.0,
+        "precedingSku": "8744833",
+        "precedingTitle": "D'Joy - Kwai Blue Sapphire Solitaire Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver 1.62 Ct.",
+        "precedingAuctionCode": "0019881897",
+        "followingSku": "8744145",
+        "followingTitle": "D'Joy - Kwai Blue Sapphire & White Zircon Ring in Yellow Gold Plated Sterling Silver 3.36 Ct.",
+        "followingAuctionCode": "0019881807"
       }
     ],
-    "lastOnAirSku": "8744833",
-    "lastOnAirTitle": "D'Joy - Kwai Blue Sapphire Solitaire Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver 1.62 Ct.",
-    "lastOnAirAuctionCode": "0019881897",
+    "lastOnAirSku": "8744145",
+    "lastOnAirTitle": "D'Joy - Kwai Blue Sapphire & White Zircon Ring in Yellow Gold Plated Sterling Silver 3.36 Ct.",
+    "lastOnAirAuctionCode": "0019881807",
     "precedingSku": "8744833",
     "precedingTitle": "D'Joy - Kwai Blue Sapphire Solitaire Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver 1.62 Ct.",
     "precedingAuctionCode": "0019881897"
