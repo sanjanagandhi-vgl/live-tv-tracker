@@ -20331,21 +20331,22 @@
       "firstAir": 1785185732276,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785186142517,
+      "lastAir": 1790224942269,
       "title": "9K Yellow Gold Diamond-Cut-Edge Square Pendant",
-      "pdpPrice": 99.99,
-      "auctionCode": "0019797062",
-      "buy": false,
-      "login": true,
-      "img": false,
-      "date": "2026-07-27",
-      "time": "22:02:22",
-      "lastUpdated": 1785186198977,
+      "pdpPrice": "69.99",
+      "auctionCode": "0019882070",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-24",
+      "time": "05:42:22",
+      "lastUpdated": 1790224942269,
       "source": "gha",
       "missedAt": 1785186198977,
       "missedDelay": 1,
       "missedPrice": 99.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8607593": {
       "sku": "8607593",
@@ -384173,8 +384174,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790224878524,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420474,11 +420475,22 @@
         "followingSku": "8571434",
         "followingTitle": "Maestro Collection- 9K Yellow Gold Heart Drop Necklace (Size - 18) with Spring Ring Clasp",
         "followingAuctionCode": "0019881984"
+      },
+      {
+        "start": 1790224878524,
+        "end": 1790224942269,
+        "durationMin": 1.1,
+        "precedingSku": "8412095",
+        "precedingTitle": "Maestro Collection 9K Yellow Gold Clover Band Ring. Gold Wt 2.55 Gms",
+        "precedingAuctionCode": "0019881996",
+        "followingSku": "8613746",
+        "followingTitle": "9K Yellow Gold Diamond-Cut-Edge Square Pendant",
+        "followingAuctionCode": "0019882070"
       }
     ],
-    "lastOnAirSku": "8412095",
-    "lastOnAirTitle": "Maestro Collection 9K Yellow Gold Clover Band Ring. Gold Wt 2.55 Gms",
-    "lastOnAirAuctionCode": "0019881996",
+    "lastOnAirSku": "8613746",
+    "lastOnAirTitle": "9K Yellow Gold Diamond-Cut-Edge Square Pendant",
+    "lastOnAirAuctionCode": "0019882070",
     "precedingSku": "8412095",
     "precedingTitle": "Maestro Collection 9K Yellow Gold Clover Band Ring. Gold Wt 2.55 Gms",
     "precedingAuctionCode": "0019881996"
