@@ -387721,11 +387721,29 @@
       "productUrl": null,
       "lastUpdated": 1790284880243,
       "source": "gha"
+    },
+    "8620842": {
+      "sku": "8620842",
+      "firstAir": 1790284999248,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790284999248,
+      "title": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019883467",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-24",
+      "time": "22:23:19",
+      "productUrl": null,
+      "lastUpdated": 1790284999248,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790284943217,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -424861,11 +424879,22 @@
         "followingSku": "8672965",
         "followingTitle": "EverTrue - Labradorite Solitaire Lever Back Earring 4.60 Ct.",
         "followingAuctionCode": "0019883457"
+      },
+      {
+        "start": 1790284943217,
+        "end": 1790284999248,
+        "durationMin": 0.9,
+        "precedingSku": "8672965",
+        "precedingTitle": "EverTrue - Labradorite Solitaire Lever Back Earring 4.60 Ct.",
+        "precedingAuctionCode": "0019883457",
+        "followingSku": "8620842",
+        "followingTitle": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
+        "followingAuctionCode": "0019883467"
       }
     ],
-    "lastOnAirSku": "8672965",
-    "lastOnAirTitle": "EverTrue - Labradorite Solitaire Lever Back Earring 4.60 Ct.",
-    "lastOnAirAuctionCode": "0019883457",
+    "lastOnAirSku": "8620842",
+    "lastOnAirTitle": "Lapis Lazuli Solitaire Earring with Hook in Sterling Silver 6.00 Ct.",
+    "lastOnAirAuctionCode": "0019883467",
     "precedingSku": "8672965",
     "precedingTitle": "EverTrue - Labradorite Solitaire Lever Back Earring 4.60 Ct.",
     "precedingAuctionCode": "0019883457"
