@@ -325172,17 +325172,17 @@
       "firstAir": 1788968740250,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790205801413,
+      "lastAir": 1790236641633,
       "title": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
-      "pdpPrice": 599.99,
-      "auctionCode": "0019881977",
+      "pdpPrice": "599.99",
+      "auctionCode": "0019882733",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-24",
-      "time": "00:23:21",
+      "time": "08:57:21",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-3-60-gms-8753816?variant=53620566393098",
-      "lastUpdated": 1790205801413,
+      "lastUpdated": 1790236641633,
       "source": "gha",
       "missedAt": 1788970704567,
       "missedDelay": 9,
@@ -384207,8 +384207,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790236581805,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420662,11 +420662,22 @@
         "followingSku": "7329848",
         "followingTitle": "9K Yellow Gold  Chain (Size - 18),  Gold Wt. 13.5 Gms",
         "followingAuctionCode": "0019882331"
+      },
+      {
+        "start": 1790236581805,
+        "end": 1790236641633,
+        "durationMin": 1.0,
+        "precedingSku": "7329848",
+        "precedingTitle": "9K Yellow Gold  Chain (Size - 18),  Gold Wt. 13.5 Gms",
+        "precedingAuctionCode": "0019882331",
+        "followingSku": "8753823",
+        "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
+        "followingAuctionCode": "0019882733"
       }
     ],
-    "lastOnAirSku": "7329848",
-    "lastOnAirTitle": "9K Yellow Gold  Chain (Size - 18),  Gold Wt. 13.5 Gms",
-    "lastOnAirAuctionCode": "0019882331",
+    "lastOnAirSku": "8753823",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
+    "lastOnAirAuctionCode": "0019882733",
     "precedingSku": "7329848",
     "precedingTitle": "9K Yellow Gold  Chain (Size - 18),  Gold Wt. 13.5 Gms",
     "precedingAuctionCode": "0019882331"
