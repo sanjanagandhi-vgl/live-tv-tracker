@@ -337600,23 +337600,23 @@
       "sku": "8579795",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "23:21:18",
+      "date": "2026-09-24",
+      "time": "23:40:35",
       "preExisting": true,
       "missedAt": 1789246401919,
       "missedDelay": null,
-      "lastUpdated": 1789942878432,
+      "lastUpdated": 1790289635032,
       "missedPrice": 899.99,
       "missedImg": true,
       "title": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
-      "auctionCode": "0019878245",
+      "auctionCode": "0019883757",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-6-00-gms-8579795",
       "productUrlChecked": 1789246406203,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789942878432,
-      "pdpPrice": "799.99",
+      "lastAir": 1790289635032,
+      "pdpPrice": "4739.99",
       "buy": true,
       "login": false,
       "img": true
@@ -387871,8 +387871,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790289559108,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425085,11 +425085,22 @@
         "followingSku": "8710080",
         "followingTitle": "D'Joy - Colombian Colour Emeraldine Quartz & White Zircon Halo Ring in Rhodium Overlay Sterling Silver 14.30 Ct.",
         "followingAuctionCode": "0019883629"
+      },
+      {
+        "start": 1790289559108,
+        "end": 1790289635032,
+        "durationMin": 1.3,
+        "precedingSku": "8710080",
+        "precedingTitle": "D'Joy - Colombian Colour Emeraldine Quartz & White Zircon Halo Ring in Rhodium Overlay Sterling Silver 14.30 Ct.",
+        "precedingAuctionCode": "0019883629",
+        "followingSku": "8579795",
+        "followingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
+        "followingAuctionCode": "0019883757"
       }
     ],
-    "lastOnAirSku": "8710080",
-    "lastOnAirTitle": "D'Joy - Colombian Colour Emeraldine Quartz & White Zircon Halo Ring in Rhodium Overlay Sterling Silver 14.30 Ct.",
-    "lastOnAirAuctionCode": "0019883629",
+    "lastOnAirSku": "8579795",
+    "lastOnAirTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
+    "lastOnAirAuctionCode": "0019883757",
     "precedingSku": "8710080",
     "precedingTitle": "D'Joy - Colombian Colour Emeraldine Quartz & White Zircon Halo Ring in Rhodium Overlay Sterling Silver 14.30 Ct.",
     "precedingAuctionCode": "0019883629"
