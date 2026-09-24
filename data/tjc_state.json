@@ -361007,21 +361007,26 @@
       "sku": "8624645",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "20:27:19",
+      "date": "2026-09-24",
+      "time": "03:18:21",
       "preExisting": true,
       "missedAt": 1789759639221,
       "missedDelay": null,
-      "lastUpdated": 1789759639221,
+      "lastUpdated": 1790216301711,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Cable, Charger and Adapter - Black",
-      "auctionCode": "0019876436",
+      "title": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
+      "auctionCode": "0019881537",
       "source": "gha",
       "productUrl": "/products/cable-charger-and-adapter-white-8624644",
       "productUrlChecked": 1789759644420,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790216301711,
+      "pdpPrice": "149.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8506328": {
       "sku": "8506328",
@@ -384059,8 +384064,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790216239260,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420217,11 +420222,22 @@
         "followingSku": "7510390",
         "followingTitle": "Handcarved Labradorite Guardian Angel Figurine Sculpture (Size 8 Cm) & Butterfly Stretchable Bracelet Presented in Velvet Pouch With Gift Card",
         "followingAuctionCode": "0019881545"
+      },
+      {
+        "start": 1790216239260,
+        "end": 1790216301711,
+        "durationMin": 1.0,
+        "precedingSku": "7510390",
+        "precedingTitle": "Handcarved Labradorite Guardian Angel Figurine Sculpture (Size 8 Cm) & Butterfly Stretchable Bracelet Presented in Velvet Pouch With Gift Card",
+        "precedingAuctionCode": "0019881545",
+        "followingSku": "8624645",
+        "followingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
+        "followingAuctionCode": "0019881537"
       }
     ],
-    "lastOnAirSku": "7510390",
-    "lastOnAirTitle": "Handcarved Labradorite Guardian Angel Figurine Sculpture (Size 8 Cm) & Butterfly Stretchable Bracelet Presented in Velvet Pouch With Gift Card",
-    "lastOnAirAuctionCode": "0019881545",
+    "lastOnAirSku": "8624645",
+    "lastOnAirTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
+    "lastOnAirAuctionCode": "0019881537",
     "precedingSku": "7510390",
     "precedingTitle": "Handcarved Labradorite Guardian Angel Figurine Sculpture (Size 8 Cm) & Butterfly Stretchable Bracelet Presented in Velvet Pouch With Gift Card",
     "precedingAuctionCode": "0019881545"
