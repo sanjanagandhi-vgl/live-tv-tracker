@@ -385372,11 +385372,29 @@
       "productUrlChecked": 1790264005375,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8237472": {
+      "sku": "8237472",
+      "firstAir": 1790264480959,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790264480959,
+      "title": "La Marey Hybrid Plisse Midi Dress (Size S, 8-10) - Denim Blue",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019882409",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-24",
+      "time": "16:41:20",
+      "productUrl": null,
+      "lastUpdated": 1790264480959,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790264437048,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -422171,11 +422189,22 @@
         "followingSku": "8547919",
         "followingTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 20) - Black",
         "followingAuctionCode": "0019882519"
+      },
+      {
+        "start": 1790264437048,
+        "end": 1790264480959,
+        "durationMin": 0.7,
+        "precedingSku": "8547919",
+        "precedingTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 20) - Black",
+        "precedingAuctionCode": "0019882519",
+        "followingSku": "8237472",
+        "followingTitle": "La Marey Hybrid Plisse Midi Dress (Size S, 8-10) - Denim Blue",
+        "followingAuctionCode": "0019882409"
       }
     ],
-    "lastOnAirSku": "8547919",
-    "lastOnAirTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 20) - Black",
-    "lastOnAirAuctionCode": "0019882519",
+    "lastOnAirSku": "8237472",
+    "lastOnAirTitle": "La Marey Hybrid Plisse Midi Dress (Size S, 8-10) - Denim Blue",
+    "lastOnAirAuctionCode": "0019882409",
     "precedingSku": "8547919",
     "precedingTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 20) - Black",
     "precedingAuctionCode": "0019882519"
