@@ -387779,11 +387779,29 @@
       "productUrl": null,
       "lastUpdated": 1790285450484,
       "source": "gha"
+    },
+    "4492573": {
+      "sku": "4492573",
+      "firstAir": 1790285540630,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790285540630,
+      "title": "EverTrue - Green Onyx Pendant with Beads Chain (Size 20) 5.08 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019883473",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-24",
+      "time": "22:32:20",
+      "productUrl": null,
+      "lastUpdated": 1790285540630,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790285478753,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -424941,11 +424959,22 @@
         "followingSku": "8659043",
         "followingTitle": "Bronzella Collection - Full Hoop Earring with Clasp Back in 18K Gold Plating 9.16 Gms",
         "followingAuctionCode": "0019883468"
+      },
+      {
+        "start": 1790285478753,
+        "end": 1790285540630,
+        "durationMin": 1.0,
+        "precedingSku": "4484021",
+        "precedingTitle": "EverTrue - Pendant with Chain (Size 20) in Yellow Gold Tone",
+        "precedingAuctionCode": "0019883472",
+        "followingSku": "4492573",
+        "followingTitle": "EverTrue - Green Onyx Pendant with Beads Chain (Size 20) 5.08 Ct.",
+        "followingAuctionCode": "0019883473"
       }
     ],
-    "lastOnAirSku": "4484021",
-    "lastOnAirTitle": "EverTrue - Pendant with Chain (Size 20) in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019883472",
+    "lastOnAirSku": "4492573",
+    "lastOnAirTitle": "EverTrue - Green Onyx Pendant with Beads Chain (Size 20) 5.08 Ct.",
+    "lastOnAirAuctionCode": "0019883473",
     "precedingSku": "4484021",
     "precedingTitle": "EverTrue - Pendant with Chain (Size 20) in Yellow Gold Tone",
     "precedingAuctionCode": "0019883472"
