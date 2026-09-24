@@ -348448,21 +348448,26 @@
       "sku": "8614426",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "11:04:25",
+      "date": "2026-09-24",
+      "time": "06:06:21",
       "preExisting": true,
       "missedAt": 1789466665708,
       "missedDelay": null,
-      "lastUpdated": 1789466665708,
+      "lastUpdated": 1790226381939,
       "missedPrice": 5.99,
       "missedImg": true,
-      "title": "LIVMORE Giraffe Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Yellow (JT-838)",
-      "auctionCode": "0019870224",
+      "title": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+      "auctionCode": "0019882006",
       "source": "gha",
       "productUrl": "/products/livmore-coffee-travel-mug-and-tea-cup-size-one-size-red-8613506",
       "productUrlChecked": 1789466671289,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790226381939,
+      "pdpPrice": "159.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8614551": {
       "sku": "8614551",
@@ -384174,8 +384179,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790225782765,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -420486,11 +420491,22 @@
         "followingSku": "8613746",
         "followingTitle": "9K Yellow Gold Diamond-Cut-Edge Square Pendant",
         "followingAuctionCode": "0019882070"
+      },
+      {
+        "start": 1790225782765,
+        "end": 1790226381939,
+        "durationMin": 10.0,
+        "precedingSku": "7792196",
+        "precedingTitle": "Biggest Close Out - Maestro Collection- 9K Yellow Gold Omega Memory Bangle (Size 7.5)",
+        "precedingAuctionCode": "0019881985",
+        "followingSku": "8614426",
+        "followingTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+        "followingAuctionCode": "0019882006"
       }
     ],
-    "lastOnAirSku": "7792196",
-    "lastOnAirTitle": "Biggest Close Out - Maestro Collection- 9K Yellow Gold Omega Memory Bangle (Size 7.5)",
-    "lastOnAirAuctionCode": "0019881985",
+    "lastOnAirSku": "8614426",
+    "lastOnAirTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+    "lastOnAirAuctionCode": "0019882006",
     "precedingSku": "7792196",
     "precedingTitle": "Biggest Close Out - Maestro Collection- 9K Yellow Gold Omega Memory Bangle (Size 7.5)",
     "precedingAuctionCode": "0019881985"
