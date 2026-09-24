@@ -378496,17 +378496,17 @@
       "firstAir": 1790070199644,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790230104103,
+      "lastAir": 1790258603614,
       "title": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019882004",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019883265",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-24",
-      "time": "07:08:24",
+      "time": "15:03:23",
       "productUrl": "/products/earbud-and-in-ear-headphone-size-60x45-cm-white-8611615",
-      "lastUpdated": 1790230104103,
+      "lastUpdated": 1790258603614,
       "source": "gha",
       "missedAt": 1790072064043,
       "missedDelay": 10,
@@ -384731,8 +384731,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790258466256,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -421428,11 +421428,22 @@
         "followingSku": "7850112",
         "followingTitle": "Cuff Beanie with Faux Pearl (22 x 21cm) - White",
         "followingAuctionCode": "0019882403"
+      },
+      {
+        "start": 1790258466256,
+        "end": 1790258603614,
+        "durationMin": 2.3,
+        "precedingSku": "7850112",
+        "precedingTitle": "Cuff Beanie with Faux Pearl (22 x 21cm) - White",
+        "precedingAuctionCode": "0019882403",
+        "followingSku": "8611615",
+        "followingTitle": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
+        "followingAuctionCode": "0019883265"
       }
     ],
-    "lastOnAirSku": "7850112",
-    "lastOnAirTitle": "Cuff Beanie with Faux Pearl (22 x 21cm) - White",
-    "lastOnAirAuctionCode": "0019882403",
+    "lastOnAirSku": "8611615",
+    "lastOnAirTitle": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
+    "lastOnAirAuctionCode": "0019883265",
     "precedingSku": "7850112",
     "precedingTitle": "Cuff Beanie with Faux Pearl (22 x 21cm) - White",
     "precedingAuctionCode": "0019882403"
