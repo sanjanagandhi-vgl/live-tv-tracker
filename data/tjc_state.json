@@ -342506,21 +342506,26 @@
       "sku": "8689587",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-09-25",
+      "time": "21:44:21",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1790369061682,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "D'Joy - Moissanite Signet Ring in Rhodium Overlay Sterling Silver 4.90 Ct.",
-      "auctionCode": "0019868129",
+      "auctionCode": "0019884457",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-signet-ring-in-rhodium-overlay-sterling-silver-4-90-ct-8689587",
       "productUrlChecked": 1789359347394,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790369061682,
+      "pdpPrice": "599.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8689588": {
       "sku": "8689588",
@@ -390424,8 +390429,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790368984540,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428936,11 +428941,22 @@
         "followingSku": "8770608",
         "followingTitle": "D'Joy - Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 9.05 Ct.",
         "followingAuctionCode": "0019884466"
+      },
+      {
+        "start": 1790368984540,
+        "end": 1790369061682,
+        "durationMin": 1.3,
+        "precedingSku": "8770608",
+        "precedingTitle": "D'Joy - Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 9.05 Ct.",
+        "precedingAuctionCode": "0019884466",
+        "followingSku": "8689587",
+        "followingTitle": "D'Joy - Moissanite Signet Ring in Rhodium Overlay Sterling Silver 4.90 Ct.",
+        "followingAuctionCode": "0019884457"
       }
     ],
-    "lastOnAirSku": "8770608",
-    "lastOnAirTitle": "D'Joy - Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 9.05 Ct.",
-    "lastOnAirAuctionCode": "0019884466",
+    "lastOnAirSku": "8689587",
+    "lastOnAirTitle": "D'Joy - Moissanite Signet Ring in Rhodium Overlay Sterling Silver 4.90 Ct.",
+    "lastOnAirAuctionCode": "0019884457",
     "precedingSku": "8770608",
     "precedingTitle": "D'Joy - Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 9.05 Ct.",
     "precedingAuctionCode": "0019884466"
