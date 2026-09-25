@@ -388988,9 +388988,16 @@
       "img": true,
       "date": "2026-09-25",
       "time": "12:19:19",
-      "productUrl": null,
-      "lastUpdated": 1790335159079,
-      "source": "gha"
+      "productUrl": "/products/white-fresh-water-pearl-beads-earring-pure-yellow-brass-5-000-ct-8714423",
+      "lastUpdated": 1790335793698,
+      "source": "gha",
+      "missedAt": 1790335793698,
+      "missedDelay": 11,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1790335799124,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8714427": {
       "sku": "8714427",
@@ -389048,8 +389055,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790335793698,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427059,8 +427066,8 @@
     "lastOnAirSku": "8714499",
     "lastOnAirTitle": "White Fresh Water Pearl Adjustable Ring with Enameling",
     "lastOnAirAuctionCode": "0019883490",
-    "precedingSku": "8714500",
-    "precedingTitle": "White Fresh Water Pearl & White Mother Of Pearl Adjustable Floral Ring",
-    "precedingAuctionCode": "0019883488"
+    "precedingSku": "8714499",
+    "precedingTitle": "White Fresh Water Pearl Adjustable Ring with Enameling",
+    "precedingAuctionCode": "0019883490"
   }
 }
