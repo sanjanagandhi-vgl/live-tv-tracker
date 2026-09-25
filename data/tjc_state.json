@@ -34711,23 +34711,23 @@
       "sku": "8429768",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "03:04:23",
+      "date": "2026-09-25",
+      "time": "03:09:21",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1789869863543,
+      "lastUpdated": 1790302161655,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Massager",
-      "auctionCode": "0019875394",
+      "auctionCode": "0019882750",
       "source": "gha",
       "productUrl": "/products/massager-1518429767",
       "productUrlChecked": 1785476750086,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789869863543,
-      "pdpPrice": "9.99",
+      "lastAir": 1790302161655,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -388128,8 +388128,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790302105357,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425474,11 +425474,22 @@
         "followingSku": "7979452",
         "followingTitle": "Multi Colour Cubic Zirconia Necklace (Size - 30+2 Ext.) with Lobster Clasp",
         "followingAuctionCode": "0019882963"
+      },
+      {
+        "start": 1790302105357,
+        "end": 1790302161655,
+        "durationMin": 0.9,
+        "precedingSku": "4428898",
+        "precedingTitle": "9 Piece Set - 4 Peacock Colour Shell Pearl Earrings, 4 Magic Colour Crystal Earrings and Tennis Bracelet (Size 8 + 1.5 Ext) 52.50 Ct.",
+        "precedingAuctionCode": "0019882971",
+        "followingSku": "8429768",
+        "followingTitle": "Massager",
+        "followingAuctionCode": "0019882750"
       }
     ],
-    "lastOnAirSku": "4428898",
-    "lastOnAirTitle": "9 Piece Set - 4 Peacock Colour Shell Pearl Earrings, 4 Magic Colour Crystal Earrings and Tennis Bracelet (Size 8 + 1.5 Ext) 52.50 Ct.",
-    "lastOnAirAuctionCode": "0019882971",
+    "lastOnAirSku": "8429768",
+    "lastOnAirTitle": "Massager",
+    "lastOnAirAuctionCode": "0019882750",
     "precedingSku": "4428898",
     "precedingTitle": "9 Piece Set - 4 Peacock Colour Shell Pearl Earrings, 4 Magic Colour Crystal Earrings and Tennis Bracelet (Size 8 + 1.5 Ext) 52.50 Ct.",
     "precedingAuctionCode": "0019882971"
