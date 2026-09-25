@@ -388754,11 +388754,29 @@
       "productUrlChecked": 1790331641852,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4505285": {
+      "sku": "4505285",
+      "firstAir": 1790331862036,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790331862036,
+      "title": "Set of 2 - Leaf Vine Enameled Earring with Push Back & Pendant with Chain (Size 16-2 Ext)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883536",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-25",
+      "time": "11:24:22",
+      "productUrl": null,
+      "lastUpdated": 1790331862036,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790331798512,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426664,11 +426682,22 @@
         "followingSku": "8282322",
         "followingTitle": "White Cubic Zirconia & Yellow Cubic Zirconia Bracelet (Size - 7.5) in Yellow Gold Tone 11.00 Ct.",
         "followingAuctionCode": "0019883537"
+      },
+      {
+        "start": 1790331798512,
+        "end": 1790331862036,
+        "durationMin": 1.1,
+        "precedingSku": "8282322",
+        "precedingTitle": "White Cubic Zirconia & Yellow Cubic Zirconia Bracelet (Size - 7.5) in Yellow Gold Tone 11.00 Ct.",
+        "precedingAuctionCode": "0019883537",
+        "followingSku": "4505285",
+        "followingTitle": "Set of 2 - Leaf Vine Enameled Earring with Push Back & Pendant with Chain (Size 16-2 Ext)",
+        "followingAuctionCode": "0019883536"
       }
     ],
-    "lastOnAirSku": "8282322",
-    "lastOnAirTitle": "White Cubic Zirconia & Yellow Cubic Zirconia Bracelet (Size - 7.5) in Yellow Gold Tone 11.00 Ct.",
-    "lastOnAirAuctionCode": "0019883537",
+    "lastOnAirSku": "4505285",
+    "lastOnAirTitle": "Set of 2 - Leaf Vine Enameled Earring with Push Back & Pendant with Chain (Size 16-2 Ext)",
+    "lastOnAirAuctionCode": "0019883536",
     "precedingSku": "8282322",
     "precedingTitle": "White Cubic Zirconia & Yellow Cubic Zirconia Bracelet (Size - 7.5) in Yellow Gold Tone 11.00 Ct.",
     "precedingAuctionCode": "0019883537"
