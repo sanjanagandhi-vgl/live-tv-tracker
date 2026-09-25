@@ -300386,21 +300386,26 @@
       "sku": "8667368",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "05:56:24",
+      "date": "2026-09-25",
+      "time": "07:57:20",
       "preExisting": true,
       "missedAt": 1788497784014,
       "missedDelay": null,
-      "lastUpdated": 1788497784014,
+      "lastUpdated": 1790319440536,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Leopard Dome Umbrella - White",
-      "auctionCode": "0019856195",
+      "title": "Greek Design Dome Umbrella - Silver",
+      "auctionCode": "0019883240",
       "source": "gha",
       "productUrl": "/products/greek-design-dome-umbrella-gold-1368667356",
       "productUrlChecked": 1788497794157,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790319440536,
+      "pdpPrice": "50.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8667375": {
       "sku": "8667375",
@@ -388335,8 +388340,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790319381064,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426011,11 +426016,22 @@
         "followingSku": "8418021",
         "followingTitle": "Set of 2 - Faux Flower Branches with LED Lights (50-60cm) - Champagne",
         "followingAuctionCode": "0019883371"
+      },
+      {
+        "start": 1790319381064,
+        "end": 1790319440536,
+        "durationMin": 1.0,
+        "precedingSku": "8418021",
+        "precedingTitle": "Set of 2 - Faux Flower Branches with LED Lights (50-60cm) - Champagne",
+        "precedingAuctionCode": "0019883371",
+        "followingSku": "8667368",
+        "followingTitle": "Greek Design Dome Umbrella - Silver",
+        "followingAuctionCode": "0019883240"
       }
     ],
-    "lastOnAirSku": "8418021",
-    "lastOnAirTitle": "Set of 2 - Faux Flower Branches with LED Lights (50-60cm) - Champagne",
-    "lastOnAirAuctionCode": "0019883371",
+    "lastOnAirSku": "8667368",
+    "lastOnAirTitle": "Greek Design Dome Umbrella - Silver",
+    "lastOnAirAuctionCode": "0019883240",
     "precedingSku": "8418021",
     "precedingTitle": "Set of 2 - Faux Flower Branches with LED Lights (50-60cm) - Champagne",
     "precedingAuctionCode": "0019883371"
