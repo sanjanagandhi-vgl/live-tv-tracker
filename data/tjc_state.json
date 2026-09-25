@@ -388425,11 +388425,29 @@
       "productUrl": null,
       "lastUpdated": 1790325328369,
       "source": "gha"
+    },
+    "8791320": {
+      "sku": "8791320",
+      "firstAir": 1790325501705,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790325501705,
+      "title": "Laurelle Gent Skin Cleansing Hand and Face Lotion with Almond Oil & Panthenol - 100ml",
+      "pdpPrice": "50.99",
+      "auctionCode": "0019883191",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-25",
+      "time": "09:38:21",
+      "productUrl": null,
+      "lastUpdated": 1790325501705,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790325384239,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426170,11 +426188,22 @@
         "followingSku": "8791315",
         "followingTitle": "Laurelle Gent Skin Protect Post Shave Balm with Aloevera & Panthenol - 100ml",
         "followingAuctionCode": "0019883187"
+      },
+      {
+        "start": 1790325384239,
+        "end": 1790325501705,
+        "durationMin": 2.0,
+        "precedingSku": "8791315",
+        "precedingTitle": "Laurelle Gent Skin Protect Post Shave Balm with Aloevera & Panthenol - 100ml",
+        "precedingAuctionCode": "0019883187",
+        "followingSku": "8791320",
+        "followingTitle": "Laurelle Gent Skin Cleansing Hand and Face Lotion with Almond Oil & Panthenol - 100ml",
+        "followingAuctionCode": "0019883191"
       }
     ],
-    "lastOnAirSku": "8791315",
-    "lastOnAirTitle": "Laurelle Gent Skin Protect Post Shave Balm with Aloevera & Panthenol - 100ml",
-    "lastOnAirAuctionCode": "0019883187",
+    "lastOnAirSku": "8791320",
+    "lastOnAirTitle": "Laurelle Gent Skin Cleansing Hand and Face Lotion with Almond Oil & Panthenol - 100ml",
+    "lastOnAirAuctionCode": "0019883191",
     "precedingSku": "8791315",
     "precedingTitle": "Laurelle Gent Skin Protect Post Shave Balm with Aloevera & Panthenol - 100ml",
     "precedingAuctionCode": "0019883187"
