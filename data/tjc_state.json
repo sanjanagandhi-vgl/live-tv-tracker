@@ -355377,23 +355377,23 @@
       "sku": "8620504",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-23",
-      "time": "05:06:22",
+      "date": "2026-09-25",
+      "time": "10:19:18",
       "preExisting": true,
       "missedAt": 1789638503073,
       "missedDelay": null,
-      "lastUpdated": 1790136382666,
+      "lastUpdated": 1790327958935,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "Sterling Silver Hoop Earring",
-      "auctionCode": "0019879797",
+      "auctionCode": "0019882709",
       "source": "gha",
-      "productUrl": "/products/singapore-necklace-size-18-with-spring-ring-clasp-in-yellow-gold-plated-sterling-silver-8673794",
+      "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8620504?variant=53191670726922",
       "productUrlChecked": 1789638507692,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790136382666,
-      "pdpPrice": "9.99",
+      "lastAir": 1790327958935,
+      "pdpPrice": 9.99,
       "buy": true,
       "login": false,
       "img": true
@@ -388596,8 +388596,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790327901564,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426415,11 +426415,22 @@
         "followingSku": "4459192",
         "followingTitle": "D'Joy African Ruby Scroll Link Drop Pendant with Chain (Size 20)",
         "followingAuctionCode": "0019883281"
+      },
+      {
+        "start": 1790327901564,
+        "end": 1790327958935,
+        "durationMin": 1.0,
+        "precedingSku": "4459192",
+        "precedingTitle": "D'Joy African Ruby Scroll Link Drop Pendant with Chain (Size 20)",
+        "precedingAuctionCode": "0019883281",
+        "followingSku": "8620504",
+        "followingTitle": "Sterling Silver Hoop Earring",
+        "followingAuctionCode": "0019882709"
       }
     ],
-    "lastOnAirSku": "4459192",
-    "lastOnAirTitle": "D'Joy African Ruby Scroll Link Drop Pendant with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019883281",
+    "lastOnAirSku": "8620504",
+    "lastOnAirTitle": "Sterling Silver Hoop Earring",
+    "lastOnAirAuctionCode": "0019882709",
     "precedingSku": "4459192",
     "precedingTitle": "D'Joy African Ruby Scroll Link Drop Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019883281"
