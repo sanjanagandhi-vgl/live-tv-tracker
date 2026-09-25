@@ -388536,11 +388536,29 @@
       "auctionCode": "0019883292",
       "source": "gha",
       "productUrl": null
+    },
+    "8500487": {
+      "sku": "8500487",
+      "firstAir": 1790327300942,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790327300942,
+      "title": "Orissa Natural Rhodolite Garnet Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver 1.56 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883358",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "10:08:20",
+      "productUrl": null,
+      "lastUpdated": 1790327300942,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790327238891,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426325,11 +426343,22 @@
         "followingSku": "8422662",
         "followingTitle": "D'Joy Natural Champagne, Blue, Green & Yellow Diamond Stud Earring with Push Post in 18K Vermeil Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019883359"
+      },
+      {
+        "start": 1790327238891,
+        "end": 1790327300942,
+        "durationMin": 1.0,
+        "precedingSku": "8422662",
+        "precedingTitle": "D'Joy Natural Champagne, Blue, Green & Yellow Diamond Stud Earring with Push Post in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019883359",
+        "followingSku": "8500487",
+        "followingTitle": "Orissa Natural Rhodolite Garnet Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver 1.56 Ct.",
+        "followingAuctionCode": "0019883358"
       }
     ],
-    "lastOnAirSku": "8422662",
-    "lastOnAirTitle": "D'Joy Natural Champagne, Blue, Green & Yellow Diamond Stud Earring with Push Post in 18K Vermeil Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019883359",
+    "lastOnAirSku": "8500487",
+    "lastOnAirTitle": "Orissa Natural Rhodolite Garnet Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver 1.56 Ct.",
+    "lastOnAirAuctionCode": "0019883358",
     "precedingSku": "8422662",
     "precedingTitle": "D'Joy Natural Champagne, Blue, Green & Yellow Diamond Stud Earring with Push Post in 18K Vermeil Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019883359"
