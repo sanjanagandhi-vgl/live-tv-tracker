@@ -16071,21 +16071,22 @@
       "firstAir": 1785107477146,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785107663187,
+      "lastAir": 1790335848198,
       "title": "LA Closeout Deals Multi Colour Dyed Peacock, Silver & White Fresh Water Pearl Two Row Stretchable Bracelet (Size - 7)",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019796565",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883493",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "00:14:23",
-      "lastUpdated": 1785107736018,
+      "date": "2026-09-25",
+      "time": "12:30:48",
+      "lastUpdated": 1790335848198,
       "source": "gha",
       "missedAt": 1785107736018,
       "missedDelay": 1,
       "missedPrice": 19.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8415271": {
       "sku": "8415271",
@@ -389055,8 +389056,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790335793698,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427061,11 +427062,22 @@
         "followingSku": "8714499",
         "followingTitle": "White Fresh Water Pearl Adjustable Ring with Enameling",
         "followingAuctionCode": "0019883490"
+      },
+      {
+        "start": 1790335793698,
+        "end": 1790335848198,
+        "durationMin": 0.9,
+        "precedingSku": "8714499",
+        "precedingTitle": "White Fresh Water Pearl Adjustable Ring with Enameling",
+        "precedingAuctionCode": "0019883490",
+        "followingSku": "8663242",
+        "followingTitle": "LA Closeout Deals Multi Colour Dyed Peacock, Silver & White Fresh Water Pearl Two Row Stretchable Bracelet (Size - 7)",
+        "followingAuctionCode": "0019883493"
       }
     ],
-    "lastOnAirSku": "8714499",
-    "lastOnAirTitle": "White Fresh Water Pearl Adjustable Ring with Enameling",
-    "lastOnAirAuctionCode": "0019883490",
+    "lastOnAirSku": "8663242",
+    "lastOnAirTitle": "LA Closeout Deals Multi Colour Dyed Peacock, Silver & White Fresh Water Pearl Two Row Stretchable Bracelet (Size - 7)",
+    "lastOnAirAuctionCode": "0019883493",
     "precedingSku": "8714499",
     "precedingTitle": "White Fresh Water Pearl Adjustable Ring with Enameling",
     "precedingAuctionCode": "0019883490"
