@@ -390501,14 +390501,39 @@
       "img": true,
       "date": "2026-09-25",
       "time": "22:53:17",
+      "productUrl": "/products/evertrue-rose-quartz-beads-necklace-size-18-2-ext-in-yellow-gold-tone-135-00-ct-8721098",
+      "lastUpdated": 1790373799801,
+      "source": "gha",
+      "missedAt": 1790373799801,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1790373802207,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8719740": {
+      "sku": "8719740",
+      "firstAir": 1790373799801,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790373799801,
+      "title": "Multi Colour Crystal 7 Chakra Wings Pendant in Silver Tone 3.00 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019884070",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-25",
+      "time": "23:03:19",
       "productUrl": null,
-      "lastUpdated": 1790373197641,
+      "lastUpdated": 1790373799801,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790373742933,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429118,11 +429143,22 @@
         "followingSku": "4478705",
         "followingTitle": "Heart Shape Locket with Chain (Size 20-2 Ext)",
         "followingAuctionCode": "0019884121"
+      },
+      {
+        "start": 1790373742933,
+        "end": 1790373799801,
+        "durationMin": 0.9,
+        "precedingSku": "4478705",
+        "precedingTitle": "Heart Shape Locket with Chain (Size 20-2 Ext)",
+        "precedingAuctionCode": "0019884121",
+        "followingSku": "8719740",
+        "followingTitle": "Multi Colour Crystal 7 Chakra Wings Pendant in Silver Tone 3.00 Ct.",
+        "followingAuctionCode": "0019884070"
       }
     ],
-    "lastOnAirSku": "4478705",
-    "lastOnAirTitle": "Heart Shape Locket with Chain (Size 20-2 Ext)",
-    "lastOnAirAuctionCode": "0019884121",
+    "lastOnAirSku": "8719740",
+    "lastOnAirTitle": "Multi Colour Crystal 7 Chakra Wings Pendant in Silver Tone 3.00 Ct.",
+    "lastOnAirAuctionCode": "0019884070",
     "precedingSku": "4478705",
     "precedingTitle": "Heart Shape Locket with Chain (Size 20-2 Ext)",
     "precedingAuctionCode": "0019884121"
