@@ -389638,11 +389638,29 @@
       "productUrlChecked": 1790350401857,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8711421": {
+      "sku": "8711421",
+      "firstAir": 1790352502786,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790352502786,
+      "title": "Borosilicate Glass Water Bottle with Protective Silicone Sleeve (370ml) - Pink",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883650",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "17:08:22",
+      "productUrl": null,
+      "lastUpdated": 1790352502786,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790352328942,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427867,11 +427885,22 @@
         "followingSku": "8661905",
         "followingTitle": "Portable 2 Layer Travel Jewelry Box with Removable Lock - Pink",
         "followingAuctionCode": "0019883149"
+      },
+      {
+        "start": 1790352328942,
+        "end": 1790352502786,
+        "durationMin": 2.9,
+        "precedingSku": "8661905",
+        "precedingTitle": "Portable 2 Layer Travel Jewelry Box with Removable Lock - Pink",
+        "precedingAuctionCode": "0019883149",
+        "followingSku": "8711421",
+        "followingTitle": "Borosilicate Glass Water Bottle with Protective Silicone Sleeve (370ml) - Pink",
+        "followingAuctionCode": "0019883650"
       }
     ],
-    "lastOnAirSku": "8661905",
-    "lastOnAirTitle": "Portable 2 Layer Travel Jewelry Box with Removable Lock - Pink",
-    "lastOnAirAuctionCode": "0019883149",
+    "lastOnAirSku": "8711421",
+    "lastOnAirTitle": "Borosilicate Glass Water Bottle with Protective Silicone Sleeve (370ml) - Pink",
+    "lastOnAirAuctionCode": "0019883650",
     "precedingSku": "8661905",
     "precedingTitle": "Portable 2 Layer Travel Jewelry Box with Removable Lock - Pink",
     "precedingAuctionCode": "0019883149"
