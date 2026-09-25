@@ -348498,21 +348498,21 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-25",
-      "time": "16:32:25",
+      "time": "23:30:51",
       "preExisting": true,
       "missedAt": 1789463000276,
       "missedDelay": null,
-      "lastUpdated": 1790350345707,
+      "lastUpdated": 1790375451724,
       "missedPrice": 12.99,
       "missedImg": true,
       "title": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
-      "auctionCode": "0019884481",
+      "auctionCode": "0019884906",
       "source": "gha",
       "productUrl": "/products/jewellery-box-size-11x7x6-cm-brown-8665215",
       "productUrlChecked": 1789463008642,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790350345707,
+      "lastAir": 1790375451724,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
@@ -390590,8 +390590,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790375357702,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429234,11 +429234,22 @@
         "followingSku": "8677967",
         "followingTitle": "La Marey Women's Fringed Scarf (176 x 66cm) - Yellow",
         "followingAuctionCode": "0019884894"
+      },
+      {
+        "start": 1790375357702,
+        "end": 1790375451724,
+        "durationMin": 1.6,
+        "precedingSku": "8677967",
+        "precedingTitle": "La Marey Women's Fringed Scarf (176 x 66cm) - Yellow",
+        "precedingAuctionCode": "0019884894",
+        "followingSku": "6841646",
+        "followingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
+        "followingAuctionCode": "0019884906"
       }
     ],
-    "lastOnAirSku": "8677967",
-    "lastOnAirTitle": "La Marey Women's Fringed Scarf (176 x 66cm) - Yellow",
-    "lastOnAirAuctionCode": "0019884894",
+    "lastOnAirSku": "6841646",
+    "lastOnAirTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
+    "lastOnAirAuctionCode": "0019884906",
     "precedingSku": "8677967",
     "precedingTitle": "La Marey Women's Fringed Scarf (176 x 66cm) - Yellow",
     "precedingAuctionCode": "0019884894"
