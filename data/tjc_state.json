@@ -388984,11 +388984,29 @@
       "productUrl": null,
       "lastUpdated": 1790335159079,
       "source": "gha"
+    },
+    "8714427": {
+      "sku": "8714427",
+      "firstAir": 1790335278890,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790335278890,
+      "title": "White Fresh Water Pearl Solitaire Drop Earring with Hook",
+      "pdpPrice": "289.99",
+      "auctionCode": "0019883487",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "12:21:18",
+      "productUrl": null,
+      "lastUpdated": 1790335278890,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790335237615,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426971,11 +426989,22 @@
         "followingSku": "8714423",
         "followingTitle": "White Fresh Water Pearl Solitaire Dangling Earring with Push Back",
         "followingAuctionCode": "0019883486"
+      },
+      {
+        "start": 1790335237615,
+        "end": 1790335278890,
+        "durationMin": 0.7,
+        "precedingSku": "8714423",
+        "precedingTitle": "White Fresh Water Pearl Solitaire Dangling Earring with Push Back",
+        "precedingAuctionCode": "0019883486",
+        "followingSku": "8714427",
+        "followingTitle": "White Fresh Water Pearl Solitaire Drop Earring with Hook",
+        "followingAuctionCode": "0019883487"
       }
     ],
-    "lastOnAirSku": "8714423",
-    "lastOnAirTitle": "White Fresh Water Pearl Solitaire Dangling Earring with Push Back",
-    "lastOnAirAuctionCode": "0019883486",
+    "lastOnAirSku": "8714427",
+    "lastOnAirTitle": "White Fresh Water Pearl Solitaire Drop Earring with Hook",
+    "lastOnAirAuctionCode": "0019883487",
     "precedingSku": "8714423",
     "precedingTitle": "White Fresh Water Pearl Solitaire Dangling Earring with Push Back",
     "precedingAuctionCode": "0019883486"
