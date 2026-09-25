@@ -101675,17 +101675,17 @@
       "firstAir": 1786135648113,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789699280542,
+      "lastAir": 1790350581620,
       "title": "Adult Light Up Beanie Hat",
       "pdpPrice": "4.99",
-      "auctionCode": "0019873160",
+      "auctionCode": "0019883446",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-18",
-      "time": "03:41:20",
+      "date": "2026-09-25",
+      "time": "16:36:21",
       "productUrl": "/products/adult-light-up-beanie-hat",
-      "lastUpdated": 1789699280542,
+      "lastUpdated": 1790350581620,
       "source": "gha",
       "missedAt": 1786136247198,
       "missedDelay": 9,
@@ -389641,8 +389641,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790350398260,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427845,11 +427845,22 @@
         "followingSku": "6841646",
         "followingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
         "followingAuctionCode": "0019884481"
+      },
+      {
+        "start": 1790350398260,
+        "end": 1790350581620,
+        "durationMin": 3.1,
+        "precedingSku": "6841646",
+        "precedingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
+        "precedingAuctionCode": "0019884481",
+        "followingSku": "8301476",
+        "followingTitle": "Adult Light Up Beanie Hat",
+        "followingAuctionCode": "0019883446"
       }
     ],
-    "lastOnAirSku": "6841646",
-    "lastOnAirTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
-    "lastOnAirAuctionCode": "0019884481",
+    "lastOnAirSku": "8301476",
+    "lastOnAirTitle": "Adult Light Up Beanie Hat",
+    "lastOnAirAuctionCode": "0019883446",
     "precedingSku": "6841646",
     "precedingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
     "precedingAuctionCode": "0019884481"
