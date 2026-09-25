@@ -38807,17 +38807,17 @@
       "firstAir": 1785507086783,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789709238168,
+      "lastAir": 1790302943470,
       "title": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
       "pdpPrice": "5.99",
-      "auctionCode": "0019874326",
+      "auctionCode": "0019882738",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-18",
-      "time": "06:27:18",
+      "date": "2026-09-25",
+      "time": "03:22:23",
       "productUrl": "/products/2-piece-set-mark-hill-lets-hydrate-hydrating-treatment-cream-200ml-hair-oil-50ml-8566305",
-      "lastUpdated": 1789709238168,
+      "lastUpdated": 1790302943470,
       "source": "gha",
       "missedAt": 1785507797201,
       "missedDelay": 10,
@@ -388153,8 +388153,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790302881060,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425532,11 +425532,22 @@
         "followingSku": "7210977",
         "followingTitle": "MEGA DEAL - Amour Eternel Eau de Parfum (100ml) & Body Mist (150ml) Gift Set",
         "followingAuctionCode": "0019882722"
+      },
+      {
+        "start": 1790302881060,
+        "end": 1790302943470,
+        "durationMin": 1.0,
+        "precedingSku": "7210977",
+        "precedingTitle": "MEGA DEAL - Amour Eternel Eau de Parfum (100ml) & Body Mist (150ml) Gift Set",
+        "precedingAuctionCode": "0019882722",
+        "followingSku": "8566305",
+        "followingTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
+        "followingAuctionCode": "0019882738"
       }
     ],
-    "lastOnAirSku": "7210977",
-    "lastOnAirTitle": "MEGA DEAL - Amour Eternel Eau de Parfum (100ml) & Body Mist (150ml) Gift Set",
-    "lastOnAirAuctionCode": "0019882722",
+    "lastOnAirSku": "8566305",
+    "lastOnAirTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
+    "lastOnAirAuctionCode": "0019882738",
     "precedingSku": "7210977",
     "precedingTitle": "MEGA DEAL - Amour Eternel Eau de Parfum (100ml) & Body Mist (150ml) Gift Set",
     "precedingAuctionCode": "0019882722"
