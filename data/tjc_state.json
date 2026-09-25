@@ -389235,11 +389235,29 @@
       "productUrl": null,
       "lastUpdated": 1790338039413,
       "source": "gha"
+    },
+    "8212785": {
+      "sku": "8212785",
+      "firstAir": 1790338240295,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790338240295,
+      "title": "Magnetic Lock with Lobster Clasp in Rhodium Plating",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883118",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "13:10:40",
+      "productUrl": null,
+      "lastUpdated": 1790338240295,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790338101694,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427266,11 +427284,22 @@
         "followingSku": "8666316",
         "followingTitle": "Peach Fresh Water Pearl Adjustable Beads Bracelet (Size - 6.5-9)",
         "followingAuctionCode": "0019883520"
+      },
+      {
+        "start": 1790338101694,
+        "end": 1790338240295,
+        "durationMin": 2.3,
+        "precedingSku": "8714430",
+        "precedingTitle": "White Fresh Water Pearl Heart Drop Earring with Push Back",
+        "precedingAuctionCode": "0019883516",
+        "followingSku": "8212785",
+        "followingTitle": "Magnetic Lock with Lobster Clasp in Rhodium Plating",
+        "followingAuctionCode": "0019883118"
       }
     ],
-    "lastOnAirSku": "8714430",
-    "lastOnAirTitle": "White Fresh Water Pearl Heart Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019883516",
+    "lastOnAirSku": "8212785",
+    "lastOnAirTitle": "Magnetic Lock with Lobster Clasp in Rhodium Plating",
+    "lastOnAirAuctionCode": "0019883118",
     "precedingSku": "8714430",
     "precedingTitle": "White Fresh Water Pearl Heart Drop Earring with Push Back",
     "precedingAuctionCode": "0019883516"
