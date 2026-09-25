@@ -389278,11 +389278,29 @@
       "auctionCode": "0019883119",
       "source": "gha",
       "productUrl": null
+    },
+    "4511306": {
+      "sku": "4511306",
+      "firstAir": 1790341159366,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790341159366,
+      "title": "Blue Enameled Fish Pendant with Rollon Chain (Size 18-2 Ext) & Lobster Clasp",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019883535",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-25",
+      "time": "13:59:19",
+      "productUrl": null,
+      "lastUpdated": 1790341159366,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790341038691,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427342,11 +427360,22 @@
         "followingSku": "8426918",
         "followingTitle": "Natural White Diamond Hoop Earring",
         "followingAuctionCode": "0019883282"
+      },
+      {
+        "start": 1790341038691,
+        "end": 1790341159366,
+        "durationMin": 2.0,
+        "precedingSku": "8426918",
+        "precedingTitle": "Natural White Diamond Hoop Earring",
+        "precedingAuctionCode": "0019883282",
+        "followingSku": "4511306",
+        "followingTitle": "Blue Enameled Fish Pendant with Rollon Chain (Size 18-2 Ext) & Lobster Clasp",
+        "followingAuctionCode": "0019883535"
       }
     ],
-    "lastOnAirSku": "8426918",
-    "lastOnAirTitle": "Natural White Diamond Hoop Earring",
-    "lastOnAirAuctionCode": "0019883282",
+    "lastOnAirSku": "4511306",
+    "lastOnAirTitle": "Blue Enameled Fish Pendant with Rollon Chain (Size 18-2 Ext) & Lobster Clasp",
+    "lastOnAirAuctionCode": "0019883535",
     "precedingSku": "8426918",
     "precedingTitle": "Natural White Diamond Hoop Earring",
     "precedingAuctionCode": "0019883282"
