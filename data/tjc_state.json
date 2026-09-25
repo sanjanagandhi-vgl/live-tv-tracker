@@ -359980,21 +359980,26 @@
       "sku": "8673672",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "13:04:21",
+      "date": "2026-09-25",
+      "time": "05:30:48",
       "preExisting": true,
       "missedAt": 1789733061613,
       "missedDelay": null,
-      "lastUpdated": 1789733061613,
+      "lastUpdated": 1790310648919,
       "missedPrice": 9.99,
       "missedImg": false,
-      "title": "Italian Made-  Figaro Necklace (Size - 20) with Lobster Clasp in Rose Gold Plated Sterling Silver",
-      "auctionCode": "0019875913",
+      "title": "Squash Figaro Necklace (Size - 20) with Lobster Clasp in Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019883110",
       "source": "gha",
       "productUrl": "/products/squash-figaro-necklace-size-20-with-lobster-clasp-in-sterling-silver-8673670",
       "productUrlChecked": 1789733065761,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790310648919,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "4464147": {
       "sku": "4464147",
@@ -388253,8 +388258,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790310560590,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425808,11 +425813,22 @@
         "followingSku": "8723796",
         "followingTitle": "Multi Color Fresh Water Pearl Adjustable Bangle (Size - 7.5)",
         "followingAuctionCode": "0019883101"
+      },
+      {
+        "start": 1790310560590,
+        "end": 1790310648919,
+        "durationMin": 1.5,
+        "precedingSku": "8678169",
+        "precedingTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
+        "precedingAuctionCode": "0019883063",
+        "followingSku": "8673672",
+        "followingTitle": "Squash Figaro Necklace (Size - 20) with Lobster Clasp in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019883110"
       }
     ],
-    "lastOnAirSku": "8678169",
-    "lastOnAirTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
-    "lastOnAirAuctionCode": "0019883063",
+    "lastOnAirSku": "8673672",
+    "lastOnAirTitle": "Squash Figaro Necklace (Size - 20) with Lobster Clasp in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019883110",
     "precedingSku": "8678169",
     "precedingTitle": "White Fresh Water Pearl Dangle Earring with Push Back",
     "precedingAuctionCode": "0019883063"
