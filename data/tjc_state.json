@@ -390019,11 +390019,29 @@
       "productUrl": null,
       "lastUpdated": 1790358142670,
       "source": "gha"
+    },
+    "7883728": {
+      "sku": "7883728",
+      "firstAir": 1790358635573,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790358635573,
+      "title": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883379",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "18:50:35",
+      "productUrl": null,
+      "lastUpdated": 1790358635573,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790358199682,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428369,11 +428387,22 @@
         "followingSku": "8709354",
         "followingTitle": "STRADA Limited Edition Dragonfly Japanese Movement Water Resistant Vintage Pocket Watch with 31 Inch Chain",
         "followingAuctionCode": "0019875939"
+      },
+      {
+        "start": 1790358199682,
+        "end": 1790358635573,
+        "durationMin": 7.3,
+        "precedingSku": "8709354",
+        "precedingTitle": "STRADA Limited Edition Dragonfly Japanese Movement Water Resistant Vintage Pocket Watch with 31 Inch Chain",
+        "precedingAuctionCode": "0019875939",
+        "followingSku": "7883728",
+        "followingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
+        "followingAuctionCode": "0019883379"
       }
     ],
-    "lastOnAirSku": "8709354",
-    "lastOnAirTitle": "STRADA Limited Edition Dragonfly Japanese Movement Water Resistant Vintage Pocket Watch with 31 Inch Chain",
-    "lastOnAirAuctionCode": "0019875939",
+    "lastOnAirSku": "7883728",
+    "lastOnAirTitle": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
+    "lastOnAirAuctionCode": "0019883379",
     "precedingSku": "8709354",
     "precedingTitle": "STRADA Limited Edition Dragonfly Japanese Movement Water Resistant Vintage Pocket Watch with 31 Inch Chain",
     "precedingAuctionCode": "0019875939"
