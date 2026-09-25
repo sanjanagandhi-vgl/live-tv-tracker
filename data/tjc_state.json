@@ -388779,11 +388779,29 @@
       "productUrl": null,
       "lastUpdated": 1790332038504,
       "source": "gha"
+    },
+    "8722918": {
+      "sku": "8722918",
+      "firstAir": 1790332158931,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790332158931,
+      "title": "Chunky Cable Link Necklace (Size - 20) with Lobster Clasp",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019884199",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "11:29:18",
+      "productUrl": null,
+      "lastUpdated": 1790332158931,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790332102762,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426700,11 +426718,22 @@
         "followingSku": "4505285",
         "followingTitle": "Set of 2 - Leaf Vine Enameled Earring with Push Back & Pendant with Chain (Size 16-2 Ext)",
         "followingAuctionCode": "0019883536"
+      },
+      {
+        "start": 1790332102762,
+        "end": 1790332158931,
+        "durationMin": 0.9,
+        "precedingSku": "4505285",
+        "precedingTitle": "Set of 2 - Leaf Vine Enameled Earring with Push Back & Pendant with Chain (Size 16-2 Ext)",
+        "precedingAuctionCode": "0019883536",
+        "followingSku": "8722918",
+        "followingTitle": "Chunky Cable Link Necklace (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019884199"
       }
     ],
-    "lastOnAirSku": "4505285",
-    "lastOnAirTitle": "Set of 2 - Leaf Vine Enameled Earring with Push Back & Pendant with Chain (Size 16-2 Ext)",
-    "lastOnAirAuctionCode": "0019883536",
+    "lastOnAirSku": "8722918",
+    "lastOnAirTitle": "Chunky Cable Link Necklace (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019884199",
     "precedingSku": "4505285",
     "precedingTitle": "Set of 2 - Leaf Vine Enameled Earring with Push Back & Pendant with Chain (Size 16-2 Ext)",
     "precedingAuctionCode": "0019883536"
