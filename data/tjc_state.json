@@ -320756,19 +320756,19 @@
       "sku": "7632679",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "04:18:24",
+      "date": "2026-09-25",
+      "time": "04:43:19",
       "preExisting": true,
       "missedAt": 1788893730177,
       "missedDelay": null,
-      "lastUpdated": 1789442304266,
+      "lastUpdated": 1790307799890,
       "missedPrice": 7.99,
       "missedImg": false,
       "title": "Square Crystal Studded Trinket Box - Rose Gold",
-      "auctionCode": "0019869999",
+      "auctionCode": "0019883116",
       "source": "gha",
       "productUrl": null,
-      "lastAir": 1789442304266,
+      "lastAir": 1790307799890,
       "pdpPrice": "7.99",
       "buy": true,
       "login": false,
@@ -388222,8 +388222,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790307679019,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425711,11 +425711,22 @@
         "followingSku": "8553757",
         "followingTitle": "La Bella Viva 2 Piece Gift Set - inc. Eau De Parfum Spray 30ml & Body Lotion 50ml",
         "followingAuctionCode": "0019882726"
+      },
+      {
+        "start": 1790307679019,
+        "end": 1790307799890,
+        "durationMin": 2.0,
+        "precedingSku": "7966968",
+        "precedingTitle": "Benson Headband Met Led: 3mode",
+        "precedingAuctionCode": "0019882770",
+        "followingSku": "7632679",
+        "followingTitle": "Square Crystal Studded Trinket Box - Rose Gold",
+        "followingAuctionCode": "0019883116"
       }
     ],
-    "lastOnAirSku": "7966968",
-    "lastOnAirTitle": "Benson Headband Met Led: 3mode",
-    "lastOnAirAuctionCode": "0019882770",
+    "lastOnAirSku": "7632679",
+    "lastOnAirTitle": "Square Crystal Studded Trinket Box - Rose Gold",
+    "lastOnAirAuctionCode": "0019883116",
     "precedingSku": "7966968",
     "precedingTitle": "Benson Headband Met Led: 3mode",
     "precedingAuctionCode": "0019882770"
