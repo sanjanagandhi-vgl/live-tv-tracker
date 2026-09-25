@@ -40871,17 +40871,17 @@
       "firstAir": 1785523878574,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790318597979,
+      "lastAir": 1790321540660,
       "title": "Set of 3 Scented Candles in Tins - Jasmine & Ylang Ylang, Hidden Springs, Teakwood & Oak",
-      "pdpPrice": "4.99",
-      "auctionCode": "0019883375",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883880",
       "buy": true,
       "login": false,
       "img": false,
       "date": "2026-09-25",
-      "time": "07:43:17",
+      "time": "08:32:20",
       "productUrl": "/products/set-of-3-scented-candles-in-tins-jasmine-ylang-ylang-hidden-springs-teakwood-oak-8480631?variant=53109398864138",
-      "lastUpdated": 1790318597979,
+      "lastUpdated": 1790321540660,
       "source": "gha",
       "missedAt": 1785524733287,
       "missedDelay": 10,
@@ -388360,8 +388360,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790321450805,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426080,11 +426080,22 @@
         "followingSku": "8312164",
         "followingTitle": "Christmas gift card(pack of 5",
         "followingAuctionCode": "0019883306"
+      },
+      {
+        "start": 1790321450805,
+        "end": 1790321540660,
+        "durationMin": 1.5,
+        "precedingSku": "8574481",
+        "precedingTitle": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
+        "precedingAuctionCode": "0019883307",
+        "followingSku": "8480631",
+        "followingTitle": "Set of 3 Scented Candles in Tins - Jasmine & Ylang Ylang, Hidden Springs, Teakwood & Oak",
+        "followingAuctionCode": "0019883880"
       }
     ],
-    "lastOnAirSku": "8574481",
-    "lastOnAirTitle": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
-    "lastOnAirAuctionCode": "0019883307",
+    "lastOnAirSku": "8480631",
+    "lastOnAirTitle": "Set of 3 Scented Candles in Tins - Jasmine & Ylang Ylang, Hidden Springs, Teakwood & Oak",
+    "lastOnAirAuctionCode": "0019883880",
     "precedingSku": "8574481",
     "precedingTitle": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
     "precedingAuctionCode": "0019883307"
