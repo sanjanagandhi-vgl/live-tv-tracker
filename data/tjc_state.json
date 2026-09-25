@@ -390337,11 +390337,29 @@
       "productUrl": null,
       "lastUpdated": 1790365037975,
       "source": "gha"
+    },
+    "7558185": {
+      "sku": "7558185",
+      "firstAir": 1790365158711,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790365158711,
+      "title": "Set of 3 Hanging Gingerbread Christmas Tree Decor Ornaments - Rose Gold (Stars & Bell)",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019883658",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "20:39:18",
+      "productUrl": null,
+      "lastUpdated": 1790365158711,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790365138323,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428786,11 +428804,22 @@
         "followingSku": "7558191",
         "followingTitle": "Festive Gingerbread House",
         "followingAuctionCode": "0019883670"
+      },
+      {
+        "start": 1790365138323,
+        "end": 1790365158711,
+        "durationMin": 0.3,
+        "precedingSku": "7558191",
+        "precedingTitle": "Festive Gingerbread House",
+        "precedingAuctionCode": "0019883670",
+        "followingSku": "7558185",
+        "followingTitle": "Set of 3 Hanging Gingerbread Christmas Tree Decor Ornaments - Rose Gold (Stars & Bell)",
+        "followingAuctionCode": "0019883658"
       }
     ],
-    "lastOnAirSku": "7558191",
-    "lastOnAirTitle": "Festive Gingerbread House",
-    "lastOnAirAuctionCode": "0019883670",
+    "lastOnAirSku": "7558185",
+    "lastOnAirTitle": "Set of 3 Hanging Gingerbread Christmas Tree Decor Ornaments - Rose Gold (Stars & Bell)",
+    "lastOnAirAuctionCode": "0019883658",
     "precedingSku": "7558191",
     "precedingTitle": "Festive Gingerbread House",
     "precedingAuctionCode": "0019883670"
