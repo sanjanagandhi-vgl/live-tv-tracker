@@ -389541,11 +389541,29 @@
       "auctionCode": "0019884125",
       "source": "gha",
       "productUrl": null
+    },
+    "8545222": {
+      "sku": "8545222",
+      "firstAir": 1790348127876,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790348127876,
+      "title": "Designer Inspired Women's Floral Print Travel Handbag - Black & Multicolour",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883680",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "15:55:27",
+      "productUrl": null,
+      "lastUpdated": 1790348127876,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790348064859,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427715,11 +427733,22 @@
         "followingSku": "8556665",
         "followingTitle": "Retro Thick-Frame UV400 Protective Orange Rectangle Sunglasses with the Box - Orange",
         "followingAuctionCode": "0019883140"
+      },
+      {
+        "start": 1790348064859,
+        "end": 1790348127876,
+        "durationMin": 1.1,
+        "precedingSku": "8556665",
+        "precedingTitle": "Retro Thick-Frame UV400 Protective Orange Rectangle Sunglasses with the Box - Orange",
+        "precedingAuctionCode": "0019883140",
+        "followingSku": "8545222",
+        "followingTitle": "Designer Inspired Women's Floral Print Travel Handbag - Black & Multicolour",
+        "followingAuctionCode": "0019883680"
       }
     ],
-    "lastOnAirSku": "8556665",
-    "lastOnAirTitle": "Retro Thick-Frame UV400 Protective Orange Rectangle Sunglasses with the Box - Orange",
-    "lastOnAirAuctionCode": "0019883140",
+    "lastOnAirSku": "8545222",
+    "lastOnAirTitle": "Designer Inspired Women's Floral Print Travel Handbag - Black & Multicolour",
+    "lastOnAirAuctionCode": "0019883680",
     "precedingSku": "8556665",
     "precedingTitle": "Retro Thick-Frame UV400 Protective Orange Rectangle Sunglasses with the Box - Orange",
     "precedingAuctionCode": "0019883140"
