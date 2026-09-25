@@ -390124,11 +390124,29 @@
       "productUrlChecked": 1790358718454,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8800438": {
+      "sku": "8800438",
+      "firstAir": 1790360302451,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790360302451,
+      "title": "Super Soft Plush Fluffy Sheepskin Shape Faux Fur Rug (60x70cm) - White",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883328",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "19:18:22",
+      "productUrl": null,
+      "lastUpdated": 1790360302451,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790360185349,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428485,11 +428503,22 @@
         "followingSku": "7883728",
         "followingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
         "followingAuctionCode": "0019883379"
+      },
+      {
+        "start": 1790360185349,
+        "end": 1790360302451,
+        "durationMin": 2.0,
+        "precedingSku": "7883728",
+        "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
+        "precedingAuctionCode": "0019883379",
+        "followingSku": "8800438",
+        "followingTitle": "Super Soft Plush Fluffy Sheepskin Shape Faux Fur Rug (60x70cm) - White",
+        "followingAuctionCode": "0019883328"
       }
     ],
-    "lastOnAirSku": "7883728",
-    "lastOnAirTitle": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
-    "lastOnAirAuctionCode": "0019883379",
+    "lastOnAirSku": "8800438",
+    "lastOnAirTitle": "Super Soft Plush Fluffy Sheepskin Shape Faux Fur Rug (60x70cm) - White",
+    "lastOnAirAuctionCode": "0019883328",
     "precedingSku": "7883728",
     "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
     "precedingAuctionCode": "0019883379"
