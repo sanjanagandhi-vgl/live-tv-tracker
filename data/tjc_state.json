@@ -14178,16 +14178,16 @@
       "firstAir": 1785048985980,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785491542576,
+      "lastAir": 1790334983391,
       "title": "Close Out - Pearl Necklace (Size - 18-2 Ext)",
       "pdpPrice": "9.99",
-      "auctionCode": "0019801588",
+      "auctionCode": "0019883485",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-31",
-      "time": "10:52:22",
-      "lastUpdated": 1785491542576,
+      "date": "2026-09-25",
+      "time": "12:16:23",
+      "lastUpdated": 1790334983391,
       "source": "gha",
       "missedAt": 1785049398876,
       "missedDelay": 1,
@@ -388962,8 +388962,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790334935430,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426924,11 +426924,22 @@
         "followingSku": "8714515",
         "followingTitle": "White Fresh Water Pearl Stud Earring with Push Back",
         "followingAuctionCode": "0019883484"
+      },
+      {
+        "start": 1790334935430,
+        "end": 1790334983391,
+        "durationMin": 0.8,
+        "precedingSku": "8714515",
+        "precedingTitle": "White Fresh Water Pearl Stud Earring with Push Back",
+        "precedingAuctionCode": "0019883484",
+        "followingSku": "8671523",
+        "followingTitle": "Close Out - Pearl Necklace (Size - 18-2 Ext)",
+        "followingAuctionCode": "0019883485"
       }
     ],
-    "lastOnAirSku": "8714515",
-    "lastOnAirTitle": "White Fresh Water Pearl Stud Earring with Push Back",
-    "lastOnAirAuctionCode": "0019883484",
+    "lastOnAirSku": "8671523",
+    "lastOnAirTitle": "Close Out - Pearl Necklace (Size - 18-2 Ext)",
+    "lastOnAirAuctionCode": "0019883485",
     "precedingSku": "8714515",
     "precedingTitle": "White Fresh Water Pearl Stud Earring with Push Back",
     "precedingAuctionCode": "0019883484"
