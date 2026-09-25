@@ -389366,8 +389366,12 @@
       "date": "2026-09-25",
       "time": "15:45:36",
       "productUrl": null,
-      "lastUpdated": 1790347536639,
-      "source": "gha"
+      "lastUpdated": 1790348064859,
+      "source": "gha",
+      "missedAt": 1790348064859,
+      "missedDelay": 9,
+      "missedPrice": 4.99,
+      "missedImg": true
     },
     "8585293": {
       "sku": "8585293",
@@ -389486,11 +389490,62 @@
       "productUrl": null,
       "lastUpdated": 1790347998163,
       "source": "gha"
+    },
+    "8800489": {
+      "sku": "8800489",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-25",
+      "time": "15:54:24",
+      "preExisting": true,
+      "missedAt": 1790348064859,
+      "missedDelay": null,
+      "lastUpdated": 1790348064859,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "title": "Pack of 2 - Stripe Print Knitted Cover Reusable Mini Hand Warmers - Multi Colour",
+      "auctionCode": "0019884162",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8800488": {
+      "sku": "8800488",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-25",
+      "time": "15:54:24",
+      "preExisting": true,
+      "missedAt": 1790348064859,
+      "missedDelay": null,
+      "lastUpdated": 1790348064859,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "title": "Pack of 2 - Cherry Print Knitted Cover Reusable Mini Hand Warmers - Pink",
+      "auctionCode": "0019884161",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8800487": {
+      "sku": "8800487",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-25",
+      "time": "15:54:24",
+      "preExisting": true,
+      "missedAt": 1790348064859,
+      "missedDelay": null,
+      "lastUpdated": 1790348064859,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "title": "Pack of 2 - Snowflake Print Knitted Cover Reusable Mini Hand Warmers - Blue",
+      "auctionCode": "0019884125",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790348064859,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427665,8 +427720,8 @@
     "lastOnAirSku": "8556665",
     "lastOnAirTitle": "Retro Thick-Frame UV400 Protective Orange Rectangle Sunglasses with the Box - Orange",
     "lastOnAirAuctionCode": "0019883140",
-    "precedingSku": "8800441",
-    "precedingTitle": "Pack of 2 - Leopard Print Knitted Cover Reusable Mini Hand Warmers - Grey",
-    "precedingAuctionCode": "0019883331"
+    "precedingSku": "8556665",
+    "precedingTitle": "Retro Thick-Frame UV400 Protective Orange Rectangle Sunglasses with the Box - Orange",
+    "precedingAuctionCode": "0019883140"
   }
 }
