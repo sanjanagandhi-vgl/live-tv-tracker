@@ -388157,11 +388157,29 @@
       "productUrlChecked": 1790303306911,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7953434": {
+      "sku": "7953434",
+      "firstAir": 1790303479952,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790303479952,
+      "title": "Marigold - Lotus Moringa Oil 100ml",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019882724",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "03:31:19",
+      "productUrl": null,
+      "lastUpdated": 1790303479952,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790303451252,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425572,11 +425590,22 @@
         "followingSku": "8236481",
         "followingTitle": "Maracuja Oil - 100 ml",
         "followingAuctionCode": "0019882739"
+      },
+      {
+        "start": 1790303451252,
+        "end": 1790303479952,
+        "durationMin": 0.5,
+        "precedingSku": "8236481",
+        "precedingTitle": "Maracuja Oil - 100 ml",
+        "precedingAuctionCode": "0019882739",
+        "followingSku": "7953434",
+        "followingTitle": "Marigold - Lotus Moringa Oil 100ml",
+        "followingAuctionCode": "0019882724"
       }
     ],
-    "lastOnAirSku": "8236481",
-    "lastOnAirTitle": "Maracuja Oil - 100 ml",
-    "lastOnAirAuctionCode": "0019882739",
+    "lastOnAirSku": "7953434",
+    "lastOnAirTitle": "Marigold - Lotus Moringa Oil 100ml",
+    "lastOnAirAuctionCode": "0019882724",
     "precedingSku": "8236481",
     "precedingTitle": "Maracuja Oil - 100 ml",
     "precedingAuctionCode": "0019882739"
