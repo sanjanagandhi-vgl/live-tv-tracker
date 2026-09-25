@@ -24297,18 +24297,18 @@
       "sku": "2780233",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-04",
-      "time": "20:58:29",
+      "date": "2026-09-25",
+      "time": "03:13:19",
       "preExisting": true,
       "missedAt": 1785390637049,
       "missedDelay": null,
-      "lastUpdated": 1785873509304,
+      "lastUpdated": 1790302399048,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Bug Soother Natural Mosquito and Insect Repellent - 100ml",
-      "auctionCode": "0019806180",
+      "auctionCode": "0019882721",
       "source": "gha",
-      "lastAir": 1785873509304,
+      "lastAir": 1790302399048,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
@@ -388128,8 +388128,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790302343163,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425485,11 +425485,22 @@
         "followingSku": "8429768",
         "followingTitle": "Massager",
         "followingAuctionCode": "0019882750"
+      },
+      {
+        "start": 1790302343163,
+        "end": 1790302399048,
+        "durationMin": 0.9,
+        "precedingSku": "8429768",
+        "precedingTitle": "Massager",
+        "precedingAuctionCode": "0019882750",
+        "followingSku": "2780233",
+        "followingTitle": "Bug Soother Natural Mosquito and Insect Repellent - 100ml",
+        "followingAuctionCode": "0019882721"
       }
     ],
-    "lastOnAirSku": "8429768",
-    "lastOnAirTitle": "Massager",
-    "lastOnAirAuctionCode": "0019882750",
+    "lastOnAirSku": "2780233",
+    "lastOnAirTitle": "Bug Soother Natural Mosquito and Insect Repellent - 100ml",
+    "lastOnAirAuctionCode": "0019882721",
     "precedingSku": "8429768",
     "precedingTitle": "Massager",
     "precedingAuctionCode": "0019882750"
