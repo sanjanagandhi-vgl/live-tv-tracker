@@ -97748,17 +97748,17 @@
       "firstAir": 1786102464645,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786102528362,
+      "lastAir": 1790366127523,
       "title": "Set of 2 Christmas Novelty Bottle Cover",
-      "pdpPrice": "2.99",
-      "auctionCode": "0019810476",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019883671",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-07",
-      "time": "12:35:28",
+      "date": "2026-09-25",
+      "time": "20:55:27",
       "productUrl": "/products/set-of-2-christmas-novelty-bottle-cover",
-      "lastUpdated": 1786103136119,
+      "lastUpdated": 1790366127523,
       "source": "gha",
       "missedAt": 1786103136119,
       "missedDelay": 10,
@@ -390417,8 +390417,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790366063288,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428885,11 +428885,22 @@
         "followingSku": "7551891",
         "followingTitle": "3 Piece Tinsel Santa Hat Light Set - Multi",
         "followingAuctionCode": "0019883672"
+      },
+      {
+        "start": 1790366063288,
+        "end": 1790366127523,
+        "durationMin": 1.1,
+        "precedingSku": "7552751",
+        "precedingTitle": "Christmas Ornament (Size 1x1x1 cm) - Grey",
+        "precedingAuctionCode": "0019883660",
+        "followingSku": "7552876",
+        "followingTitle": "Set of 2 Christmas Novelty Bottle Cover",
+        "followingAuctionCode": "0019883671"
       }
     ],
-    "lastOnAirSku": "7552751",
-    "lastOnAirTitle": "Christmas Ornament (Size 1x1x1 cm) - Grey",
-    "lastOnAirAuctionCode": "0019883660",
+    "lastOnAirSku": "7552876",
+    "lastOnAirTitle": "Set of 2 Christmas Novelty Bottle Cover",
+    "lastOnAirAuctionCode": "0019883671",
     "precedingSku": "7552751",
     "precedingTitle": "Christmas Ornament (Size 1x1x1 cm) - Grey",
     "precedingAuctionCode": "0019883660"
