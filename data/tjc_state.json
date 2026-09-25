@@ -157488,21 +157488,26 @@
       "sku": "8538136",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "10:55:30",
+      "date": "2026-09-25",
+      "time": "06:23:54",
       "preExisting": true,
       "missedAt": 1786701330481,
       "missedDelay": null,
-      "lastUpdated": 1786701330481,
+      "lastUpdated": 1790313834514,
       "missedPrice": 6.99,
       "missedImg": true,
-      "title": "Love Vits Raspberry Ketone - 100 Tablets",
-      "auctionCode": "0019820003",
+      "title": "Love Vits Apple Cider Vinegar - 100 Tablets",
+      "auctionCode": "0019883218",
       "source": "gha",
       "productUrl": "/products/new-launch-love-vits-100-tablets",
       "productUrlChecked": 1786701339648,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790313834514,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8538131": {
       "sku": "8538131",
@@ -388295,8 +388300,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790313752259,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425894,11 +425899,22 @@
         "followingSku": "8789153",
         "followingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
         "followingAuctionCode": "0019883874"
+      },
+      {
+        "start": 1790313752259,
+        "end": 1790313834514,
+        "durationMin": 1.4,
+        "precedingSku": "8306337",
+        "precedingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
+        "precedingAuctionCode": "0019883876",
+        "followingSku": "8538136",
+        "followingTitle": "Love Vits Apple Cider Vinegar - 100 Tablets",
+        "followingAuctionCode": "0019883218"
       }
     ],
-    "lastOnAirSku": "8306337",
-    "lastOnAirTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
-    "lastOnAirAuctionCode": "0019883876",
+    "lastOnAirSku": "8538136",
+    "lastOnAirTitle": "Love Vits Apple Cider Vinegar - 100 Tablets",
+    "lastOnAirAuctionCode": "0019883218",
     "precedingSku": "8306337",
     "precedingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
     "precedingAuctionCode": "0019883876"
