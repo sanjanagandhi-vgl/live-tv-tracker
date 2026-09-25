@@ -389674,11 +389674,29 @@
       "productUrl": null,
       "lastUpdated": 1790353582977,
       "source": "gha"
+    },
+    "8661844": {
+      "sku": "8661844",
+      "firstAir": 1790353758321,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790353758321,
+      "title": "Carved Opal Bear Semi-Precious Gemstone Figurine (5cm - 2 Inches)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883335",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "17:29:18",
+      "productUrl": null,
+      "lastUpdated": 1790353758321,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790353640031,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427925,11 +427943,22 @@
         "followingSku": "8677880",
         "followingTitle": "Natural Light Brown Leopard Skin Jasper Cross Pendant in Gold Tone 10.00 Ct.",
         "followingAuctionCode": "0019883700"
+      },
+      {
+        "start": 1790353640031,
+        "end": 1790353758321,
+        "durationMin": 2.0,
+        "precedingSku": "8677880",
+        "precedingTitle": "Natural Light Brown Leopard Skin Jasper Cross Pendant in Gold Tone 10.00 Ct.",
+        "precedingAuctionCode": "0019883700",
+        "followingSku": "8661844",
+        "followingTitle": "Carved Opal Bear Semi-Precious Gemstone Figurine (5cm - 2 Inches)",
+        "followingAuctionCode": "0019883335"
       }
     ],
-    "lastOnAirSku": "8677880",
-    "lastOnAirTitle": "Natural Light Brown Leopard Skin Jasper Cross Pendant in Gold Tone 10.00 Ct.",
-    "lastOnAirAuctionCode": "0019883700",
+    "lastOnAirSku": "8661844",
+    "lastOnAirTitle": "Carved Opal Bear Semi-Precious Gemstone Figurine (5cm - 2 Inches)",
+    "lastOnAirAuctionCode": "0019883335",
     "precedingSku": "8677880",
     "precedingTitle": "Natural Light Brown Leopard Skin Jasper Cross Pendant in Gold Tone 10.00 Ct.",
     "precedingAuctionCode": "0019883700"
