@@ -124951,17 +124951,17 @@
       "firstAir": 1786370068545,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787451043980,
+      "lastAir": 1790304333986,
       "title": "Warmies Microwavable Boots",
-      "pdpPrice": "12.99",
-      "auctionCode": "0019836913",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883019",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-23",
-      "time": "03:10:43",
+      "date": "2026-09-25",
+      "time": "03:45:33",
       "productUrl": "/products/warmies-microwavable-boots",
-      "lastUpdated": 1787451043980,
+      "lastUpdated": 1790304333986,
       "source": "gha",
       "missedAt": 1786370840233,
       "missedDelay": 10,
@@ -388194,8 +388194,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790304263185,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425628,11 +425628,22 @@
         "followingSku": "6841646",
         "followingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
         "followingAuctionCode": "0019883009"
+      },
+      {
+        "start": 1790304263185,
+        "end": 1790304333986,
+        "durationMin": 1.2,
+        "precedingSku": "6841646",
+        "precedingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
+        "precedingAuctionCode": "0019883009",
+        "followingSku": "8330966",
+        "followingTitle": "Warmies Microwavable Boots",
+        "followingAuctionCode": "0019883019"
       }
     ],
-    "lastOnAirSku": "6841646",
-    "lastOnAirTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
-    "lastOnAirAuctionCode": "0019883009",
+    "lastOnAirSku": "8330966",
+    "lastOnAirTitle": "Warmies Microwavable Boots",
+    "lastOnAirAuctionCode": "0019883019",
     "precedingSku": "6841646",
     "precedingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
     "precedingAuctionCode": "0019883009"
