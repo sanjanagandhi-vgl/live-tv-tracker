@@ -390319,11 +390319,29 @@
       "productUrlChecked": 1790364268261,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7558191": {
+      "sku": "7558191",
+      "firstAir": 1790364962061,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790364962061,
+      "title": "Festive Gingerbread House",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883670",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "20:36:02",
+      "productUrl": null,
+      "lastUpdated": 1790364962061,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790364862647,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428757,11 +428775,22 @@
         "followingSku": "8381603",
         "followingTitle": "Set of 10 Hand Printed Personal Cards",
         "followingAuctionCode": "0019883659"
+      },
+      {
+        "start": 1790364862647,
+        "end": 1790364962061,
+        "durationMin": 1.7,
+        "precedingSku": "8381603",
+        "precedingTitle": "Set of 10 Hand Printed Personal Cards",
+        "precedingAuctionCode": "0019883659",
+        "followingSku": "7558191",
+        "followingTitle": "Festive Gingerbread House",
+        "followingAuctionCode": "0019883670"
       }
     ],
-    "lastOnAirSku": "8381603",
-    "lastOnAirTitle": "Set of 10 Hand Printed Personal Cards",
-    "lastOnAirAuctionCode": "0019883659",
+    "lastOnAirSku": "7558191",
+    "lastOnAirTitle": "Festive Gingerbread House",
+    "lastOnAirAuctionCode": "0019883670",
     "precedingSku": "8381603",
     "precedingTitle": "Set of 10 Hand Printed Personal Cards",
     "precedingAuctionCode": "0019883659"
