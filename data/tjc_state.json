@@ -389628,14 +389628,21 @@
       "img": false,
       "date": "2026-09-25",
       "time": "16:23:17",
-      "productUrl": null,
-      "lastUpdated": 1790349797882,
-      "source": "gha"
+      "productUrl": "/products/pack-of-2x10-multi-colour-gemstone-glass-jar-one-size-250-00-ct-221335322",
+      "lastUpdated": 1790350398260,
+      "source": "gha",
+      "missedAt": 1790350398260,
+      "missedDelay": 10,
+      "missedPrice": 7.98,
+      "missedImg": false,
+      "productUrlChecked": 1790350401857,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790350398260,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427843,8 +427850,8 @@
     "lastOnAirSku": "6841646",
     "lastOnAirTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
     "lastOnAirAuctionCode": "0019884481",
-    "precedingSku": "221335322",
-    "precedingTitle": "Pack of 2 x 9 Bottles - Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
-    "precedingAuctionCode": "0019884513"
+    "precedingSku": "6841646",
+    "precedingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
+    "precedingAuctionCode": "0019884481"
   }
 }
