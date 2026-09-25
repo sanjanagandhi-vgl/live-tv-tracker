@@ -388603,11 +388603,29 @@
       "productUrlChecked": 1790327666300,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8701728": {
+      "sku": "8701728",
+      "firstAir": 1790329341806,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790329341806,
+      "title": "One of Kind -  Necklace (Size - 20) with T-Bar Clasp",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019883466",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-25",
+      "time": "10:42:21",
+      "productUrl": null,
+      "lastUpdated": 1790329341806,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790329159217,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426469,11 +426487,22 @@
         "followingSku": "4446146",
         "followingTitle": "White Crystal Star Enamel Pendant with Chain (Size 24) & Lobster Clasp in Yellow and Black Tone",
         "followingAuctionCode": "0019883539"
+      },
+      {
+        "start": 1790329159217,
+        "end": 1790329341806,
+        "durationMin": 3.0,
+        "precedingSku": "8219740",
+        "precedingTitle": "Amber Sterling Silver Push Back Earring 2.00 Ct.",
+        "precedingAuctionCode": "0019883540",
+        "followingSku": "8701728",
+        "followingTitle": "One of Kind -  Necklace (Size - 20) with T-Bar Clasp",
+        "followingAuctionCode": "0019883466"
       }
     ],
-    "lastOnAirSku": "8219740",
-    "lastOnAirTitle": "Amber Sterling Silver Push Back Earring 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019883540",
+    "lastOnAirSku": "8701728",
+    "lastOnAirTitle": "One of Kind -  Necklace (Size - 20) with T-Bar Clasp",
+    "lastOnAirAuctionCode": "0019883466",
     "precedingSku": "8219740",
     "precedingTitle": "Amber Sterling Silver Push Back Earring 2.00 Ct.",
     "precedingAuctionCode": "0019883540"
