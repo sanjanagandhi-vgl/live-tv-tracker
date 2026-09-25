@@ -8575,19 +8575,19 @@
       "sku": "8356032",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-05",
-      "time": "02:08:23",
+      "date": "2026-09-25",
+      "time": "01:17:18",
       "preExisting": true,
       "missedAt": 1784958558584,
       "missedDelay": null,
-      "lastUpdated": 1785892103199,
+      "lastUpdated": 1790295438553,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "White Silver (99.9% Purity) Unicorn Collectable",
-      "auctionCode": "0019806716",
+      "auctionCode": "0019882956",
       "source": "gha",
-      "lastAir": 1785892103199,
-      "pdpPrice": "7.99",
+      "lastAir": 1790295438553,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -388048,8 +388048,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790295381176,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425350,11 +425350,22 @@
         "followingSku": "7791912",
         "followingTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
         "followingAuctionCode": "0019882954"
+      },
+      {
+        "start": 1790295381176,
+        "end": 1790295438553,
+        "durationMin": 1.0,
+        "precedingSku": "7791912",
+        "precedingTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
+        "precedingAuctionCode": "0019882954",
+        "followingSku": "8356032",
+        "followingTitle": "White Silver (99.9% Purity) Unicorn Collectable",
+        "followingAuctionCode": "0019882956"
       }
     ],
-    "lastOnAirSku": "7791912",
-    "lastOnAirTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
-    "lastOnAirAuctionCode": "0019882954",
+    "lastOnAirSku": "8356032",
+    "lastOnAirTitle": "White Silver (99.9% Purity) Unicorn Collectable",
+    "lastOnAirAuctionCode": "0019882956",
     "precedingSku": "7791912",
     "precedingTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
     "precedingAuctionCode": "0019882954"
