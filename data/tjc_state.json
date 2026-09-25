@@ -388959,11 +388959,29 @@
       "productUrlChecked": 1790334866141,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8714423": {
+      "sku": "8714423",
+      "firstAir": 1790335159079,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790335159079,
+      "title": "White Fresh Water Pearl Solitaire Dangling Earring with Push Back",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883486",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "12:19:19",
+      "productUrl": null,
+      "lastUpdated": 1790335159079,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790335101344,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426935,11 +426953,22 @@
         "followingSku": "8671523",
         "followingTitle": "Close Out - Pearl Necklace (Size - 18-2 Ext)",
         "followingAuctionCode": "0019883485"
+      },
+      {
+        "start": 1790335101344,
+        "end": 1790335159079,
+        "durationMin": 1.0,
+        "precedingSku": "8671523",
+        "precedingTitle": "Close Out - Pearl Necklace (Size - 18-2 Ext)",
+        "precedingAuctionCode": "0019883485",
+        "followingSku": "8714423",
+        "followingTitle": "White Fresh Water Pearl Solitaire Dangling Earring with Push Back",
+        "followingAuctionCode": "0019883486"
       }
     ],
-    "lastOnAirSku": "8671523",
-    "lastOnAirTitle": "Close Out - Pearl Necklace (Size - 18-2 Ext)",
-    "lastOnAirAuctionCode": "0019883485",
+    "lastOnAirSku": "8714423",
+    "lastOnAirTitle": "White Fresh Water Pearl Solitaire Dangling Earring with Push Back",
+    "lastOnAirAuctionCode": "0019883486",
     "precedingSku": "8671523",
     "precedingTitle": "Close Out - Pearl Necklace (Size - 18-2 Ext)",
     "precedingAuctionCode": "0019883485"
