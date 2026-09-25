@@ -388400,11 +388400,29 @@
       "productUrl": null,
       "lastUpdated": 1790324542108,
       "source": "gha"
+    },
+    "8791315": {
+      "sku": "8791315",
+      "firstAir": 1790324662044,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790324662044,
+      "title": "Laurelle Gent Skin Protect Post Shave Balm with Aloevera & Panthenol - 100ml",
+      "pdpPrice": "40.99",
+      "auctionCode": "0019883187",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-25",
+      "time": "09:24:22",
+      "productUrl": null,
+      "lastUpdated": 1790324662044,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790324597837,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426134,11 +426152,22 @@
         "followingSku": "8480631",
         "followingTitle": "Set of 3 Scented Candles in Tins - Jasmine & Ylang Ylang, Hidden Springs, Teakwood & Oak",
         "followingAuctionCode": "0019883880"
+      },
+      {
+        "start": 1790324597837,
+        "end": 1790324662044,
+        "durationMin": 1.1,
+        "precedingSku": "221335276",
+        "precedingTitle": "DOD - 2 Piece Gent Skin Men's Grooming Gift Set - 100ml Pour Homme EDT & 50ml Roll-On Deodorant",
+        "precedingAuctionCode": "0019883853",
+        "followingSku": "8791315",
+        "followingTitle": "Laurelle Gent Skin Protect Post Shave Balm with Aloevera & Panthenol - 100ml",
+        "followingAuctionCode": "0019883187"
       }
     ],
-    "lastOnAirSku": "221335276",
-    "lastOnAirTitle": "DOD - 2 Piece Gent Skin Men's Grooming Gift Set - 100ml Pour Homme EDT & 50ml Roll-On Deodorant",
-    "lastOnAirAuctionCode": "0019883853",
+    "lastOnAirSku": "8791315",
+    "lastOnAirTitle": "Laurelle Gent Skin Protect Post Shave Balm with Aloevera & Panthenol - 100ml",
+    "lastOnAirAuctionCode": "0019883187",
     "precedingSku": "221335276",
     "precedingTitle": "DOD - 2 Piece Gent Skin Men's Grooming Gift Set - 100ml Pour Homme EDT & 50ml Roll-On Deodorant",
     "precedingAuctionCode": "0019883853"
