@@ -390041,9 +390041,16 @@
       "img": true,
       "date": "2026-09-25",
       "time": "19:15:37",
-      "productUrl": null,
-      "lastUpdated": 1790360137226,
-      "source": "gha"
+      "productUrl": "/products/closeout-deal-nusuk-dubai-ana-al-awwal-air-freshener-300ml",
+      "lastUpdated": 1790360662448,
+      "source": "gha",
+      "missedAt": 1790360662448,
+      "missedDelay": 9,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "productUrlChecked": 1790360667631,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8709408": {
       "sku": "8709408",
@@ -390142,11 +390149,51 @@
       "productUrl": null,
       "lastUpdated": 1790360609480,
       "source": "gha"
+    },
+    "8228261": {
+      "sku": "8228261",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-25",
+      "time": "19:24:22",
+      "preExisting": true,
+      "missedAt": 1790360662448,
+      "missedDelay": null,
+      "lastUpdated": 1790360662448,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "title": "Arabian Oud Home Fragrance Collection- Dubai Momento - 300ML",
+      "auctionCode": "0019884245",
+      "source": "gha",
+      "productUrl": "/products/closeout-deal-nusuk-dubai-ana-al-awwal-air-freshener-300ml",
+      "productUrlChecked": 1790360668279,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7948829": {
+      "sku": "7948829",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-25",
+      "time": "19:24:22",
+      "preExisting": true,
+      "missedAt": 1790360662448,
+      "missedDelay": null,
+      "lastUpdated": 1790360662448,
+      "missedPrice": 4.99,
+      "missedImg": true,
+      "title": "TJC Exclusive NUSUK Nuqat Air Freshener - 300ml",
+      "auctionCode": "0019884244",
+      "source": "gha",
+      "productUrl": "/products/closeout-deal-nusuk-dubai-ana-al-awwal-air-freshener-300ml",
+      "productUrlChecked": 1790360668517,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790360662448,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428519,8 +428566,8 @@
     "lastOnAirSku": "8800438",
     "lastOnAirTitle": "Super Soft Plush Fluffy Sheepskin Shape Faux Fur Rug (60x70cm) - White",
     "lastOnAirAuctionCode": "0019883328",
-    "precedingSku": "7883728",
-    "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
-    "precedingAuctionCode": "0019883379"
+    "precedingSku": "8800438",
+    "precedingTitle": "Super Soft Plush Fluffy Sheepskin Shape Faux Fur Rug (60x70cm) - White",
+    "precedingAuctionCode": "0019883328"
   }
 }
