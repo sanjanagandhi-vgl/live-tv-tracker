@@ -76841,17 +76841,17 @@
       "firstAir": 1785916110099,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785916399326,
+      "lastAir": 1790320040080,
       "title": "La Marey Round Neck Top (One Size) - Brown & Light Pink",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019807378",
+      "pdpPrice": "159.99",
+      "auctionCode": "0019883396",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-05",
-      "time": "08:53:19",
+      "date": "2026-09-25",
+      "time": "08:07:20",
       "productUrl": "/products/la-marey-patterned-top-size-one-size-purple-8555290",
-      "lastUpdated": 1785916941272,
+      "lastUpdated": 1790320040080,
       "source": "gha",
       "missedAt": 1785916941272,
       "missedDelay": 9,
@@ -388340,8 +388340,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790319984428,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426027,11 +426027,22 @@
         "followingSku": "8667368",
         "followingTitle": "Greek Design Dome Umbrella - Silver",
         "followingAuctionCode": "0019883240"
+      },
+      {
+        "start": 1790319984428,
+        "end": 1790320040080,
+        "durationMin": 0.9,
+        "precedingSku": "8667368",
+        "precedingTitle": "Greek Design Dome Umbrella - Silver",
+        "precedingAuctionCode": "0019883240",
+        "followingSku": "8555291",
+        "followingTitle": "La Marey Round Neck Top (One Size) - Brown & Light Pink",
+        "followingAuctionCode": "0019883396"
       }
     ],
-    "lastOnAirSku": "8667368",
-    "lastOnAirTitle": "Greek Design Dome Umbrella - Silver",
-    "lastOnAirAuctionCode": "0019883240",
+    "lastOnAirSku": "8555291",
+    "lastOnAirTitle": "La Marey Round Neck Top (One Size) - Brown & Light Pink",
+    "lastOnAirAuctionCode": "0019883396",
     "precedingSku": "8667368",
     "precedingTitle": "Greek Design Dome Umbrella - Silver",
     "precedingAuctionCode": "0019883240"
