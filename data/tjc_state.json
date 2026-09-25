@@ -389671,9 +389671,16 @@
       "img": true,
       "date": "2026-09-25",
       "time": "17:26:22",
-      "productUrl": null,
-      "lastUpdated": 1790353582977,
-      "source": "gha"
+      "productUrl": "/products/natural-light-brown-leopard-skin-jasper-cross-pendant-in-gold-tone-10-00-ct-8677869",
+      "lastUpdated": 1790354129662,
+      "source": "gha",
+      "missedAt": 1790354129662,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1790354133230,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8661844": {
       "sku": "8661844",
@@ -389695,11 +389702,51 @@
       "productUrlChecked": 1790353946083,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8320969": {
+      "sku": "8320969",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-25",
+      "time": "17:35:29",
+      "preExisting": true,
+      "missedAt": 1790354129662,
+      "missedDelay": null,
+      "lastUpdated": 1790354129662,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Grey & Fresh Water Pearl Adjustable Bangle (Size - 7) with Gold Plated Ball",
+      "auctionCode": "0019883711",
+      "source": "gha",
+      "productUrl": "/products/natural-light-brown-leopard-skin-jasper-cross-pendant-in-gold-tone-10-00-ct-8677869",
+      "productUrlChecked": 1790354134529,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8484128": {
+      "sku": "8484128",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-25",
+      "time": "17:35:29",
+      "preExisting": true,
+      "missedAt": 1790354129662,
+      "missedDelay": null,
+      "lastUpdated": 1790354129662,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Salt Pepper Quartz Chips Necklace (Size - 32) 353.00 Ct.",
+      "auctionCode": "0019883708",
+      "source": "gha",
+      "productUrl": "/products/natural-light-brown-leopard-skin-jasper-cross-pendant-in-gold-tone-10-00-ct-8677869",
+      "productUrlChecked": 1790354134773,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790354129662,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427973,8 +428020,8 @@
     "lastOnAirSku": "8381597",
     "lastOnAirTitle": "TJC 20TH BIRTHDAY MONSTER DEAL - Set of 2 24K Gold (99.9% Purity) Fortuna Flake Pens With 2 Refills & Gift Box",
     "lastOnAirAuctionCode": "0019883699",
-    "precedingSku": "8661844",
-    "precedingTitle": "Carved Opal Bear Semi-Precious Gemstone Figurine (5cm - 2 Inches)",
-    "precedingAuctionCode": "0019883335"
+    "precedingSku": "8381597",
+    "precedingTitle": "TJC 20TH BIRTHDAY MONSTER DEAL - Set of 2 24K Gold (99.9% Purity) Fortuna Flake Pens With 2 Refills & Gift Box",
+    "precedingAuctionCode": "0019883699"
   }
 }
