@@ -24893,21 +24893,26 @@
       "sku": "8526614",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-30",
-      "time": "11:51:24",
+      "date": "2026-09-25",
+      "time": "07:30:49",
       "preExisting": true,
       "missedAt": 1785408684878,
       "missedDelay": null,
-      "lastUpdated": 1785408684878,
+      "lastUpdated": 1790317849772,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Set of 2 Beaded Seahorse and Lobster Charms Keychains (12cm) - Red & White",
-      "auctionCode": "0019800239",
+      "title": "Set of 2 Beaded Parrot and Dolphin Charms Keychains (7.6cm & 15cm) - Black & Red",
+      "auctionCode": "0019883273",
       "source": "gha",
       "productUrl": "/products/set-of-2-beaded-parrot-and-dolphin-charms-keychains-7-6cm-15cm-black-red-8526612",
       "productUrlChecked": 1785408686442,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790317849772,
+      "pdpPrice": "119.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8483906": {
       "sku": "8483906",
@@ -388318,16 +388323,20 @@
       "date": "2026-09-25",
       "time": "07:20:34",
       "productUrl": "/products/la-marey-patterned-scarf-size-one-size-yellow-8677967?variant=53676784550154",
-      "lastUpdated": 1790317234139,
+      "lastUpdated": 1790317849772,
       "source": "gha",
       "productUrlChecked": 1790317043854,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1790317849772,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790317759801,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425958,11 +425967,22 @@
         "followingSku": "8611615",
         "followingTitle": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
         "followingAuctionCode": "0019883248"
+      },
+      {
+        "start": 1790317759801,
+        "end": 1790317849772,
+        "durationMin": 1.5,
+        "precedingSku": "8567210",
+        "precedingTitle": "Kids Plush Monster Character Mini Top Handle Crossbody Bag - Brown",
+        "precedingAuctionCode": "0019883227",
+        "followingSku": "8526614",
+        "followingTitle": "Set of 2 Beaded Parrot and Dolphin Charms Keychains (7.6cm & 15cm) - Black & Red",
+        "followingAuctionCode": "0019883273"
       }
     ],
-    "lastOnAirSku": "8567210",
-    "lastOnAirTitle": "Kids Plush Monster Character Mini Top Handle Crossbody Bag - Brown",
-    "lastOnAirAuctionCode": "0019883227",
+    "lastOnAirSku": "8526614",
+    "lastOnAirTitle": "Set of 2 Beaded Parrot and Dolphin Charms Keychains (7.6cm & 15cm) - Black & Red",
+    "lastOnAirAuctionCode": "0019883273",
     "precedingSku": "8567210",
     "precedingTitle": "Kids Plush Monster Character Mini Top Handle Crossbody Bag - Brown",
     "precedingAuctionCode": "0019883227"
