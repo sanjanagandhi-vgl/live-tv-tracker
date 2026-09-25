@@ -12441,16 +12441,16 @@
       "firstAir": 1785027140270,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786444760324,
+      "lastAir": 1790294661881,
       "title": "Adjustable Byzantine Bracelet (Size - 9.5)",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019816319",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019882950",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-11",
-      "time": "11:39:20",
-      "lastUpdated": 1786444760324,
+      "date": "2026-09-25",
+      "time": "01:04:21",
+      "lastUpdated": 1790294661881,
       "source": "gha",
       "missedAt": 1785027199663,
       "missedDelay": 1,
@@ -388030,8 +388030,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790294600564,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425299,11 +425299,22 @@
         "followingSku": "4249661",
         "followingTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019882914"
+      },
+      {
+        "start": 1790294600564,
+        "end": 1790294661881,
+        "durationMin": 1.0,
+        "precedingSku": "4249661",
+        "precedingTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019882914",
+        "followingSku": "8481390",
+        "followingTitle": "Adjustable Byzantine Bracelet (Size - 9.5)",
+        "followingAuctionCode": "0019882950"
       }
     ],
-    "lastOnAirSku": "4249661",
-    "lastOnAirTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019882914",
+    "lastOnAirSku": "8481390",
+    "lastOnAirTitle": "Adjustable Byzantine Bracelet (Size - 9.5)",
+    "lastOnAirAuctionCode": "0019882950",
     "precedingSku": "4249661",
     "precedingTitle": "LUCY Q Amore Filigree Collection - Heart Pendant with Adjustable Chain (Size 28-24-20-16) in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019882914"
