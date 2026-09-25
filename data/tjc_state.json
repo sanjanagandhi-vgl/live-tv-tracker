@@ -73133,21 +73133,26 @@
       "sku": "8516361",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-04",
-      "time": "17:54:25",
+      "date": "2026-09-26",
+      "time": "00:07:18",
       "preExisting": true,
       "missedAt": 1785862465248,
       "missedDelay": null,
-      "lastUpdated": 1785862465248,
+      "lastUpdated": 1790377638762,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "Designer Inspired-  Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Black",
-      "auctionCode": "0019805945",
+      "title": "2 Piece Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Ivory",
+      "auctionCode": "0019884659",
       "source": "gha",
       "productUrl": "/products/2-piece-genuine-leather-check-stripe-tote-bag-with-matching-zip-pouch-burgundy-multi-8516359",
       "productUrlChecked": 1785862476526,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790377638762,
+      "pdpPrice": "1349.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8516362": {
       "sku": "8516362",
@@ -390610,8 +390615,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790377583827,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429276,11 +429281,22 @@
         "followingSku": "7971321",
         "followingTitle": "Beautech Womens Portable 3 in 1 shaver with USB Charging - Green",
         "followingAuctionCode": "0019884901"
+      },
+      {
+        "start": 1790377583827,
+        "end": 1790377638762,
+        "durationMin": 0.9,
+        "precedingSku": "8594289",
+        "precedingTitle": "Marigold & Lotus Goat Milk Collection of Whipped Body Butter (200g) Body Scrub (200g) & Goat Milk Soap (100g)",
+        "precedingAuctionCode": "0019884900",
+        "followingSku": "8516361",
+        "followingTitle": "2 Piece Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Ivory",
+        "followingAuctionCode": "0019884659"
       }
     ],
-    "lastOnAirSku": "8594289",
-    "lastOnAirTitle": "Marigold & Lotus Goat Milk Collection of Whipped Body Butter (200g) Body Scrub (200g) & Goat Milk Soap (100g)",
-    "lastOnAirAuctionCode": "0019884900",
+    "lastOnAirSku": "8516361",
+    "lastOnAirTitle": "2 Piece Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Ivory",
+    "lastOnAirAuctionCode": "0019884659",
     "precedingSku": "8594289",
     "precedingTitle": "Marigold & Lotus Goat Milk Collection of Whipped Body Butter (200g) Body Scrub (200g) & Goat Milk Soap (100g)",
     "precedingAuctionCode": "0019884900"
