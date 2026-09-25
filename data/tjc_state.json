@@ -567,22 +567,22 @@
       "sku": "6860824",
       "tvPrice": "",
       "remarks": "",
-      "time": "06:43:17",
+      "time": "14:08:23",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
-      "auctionCode": "0019883207",
+      "auctionCode": "0019881205",
       "source": "gha",
-      "lastAir": 1790314997517,
+      "lastAir": 1790341703422,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-09-25",
-      "lastUpdated": 1790314997517,
+      "lastUpdated": 1790341703422,
       "productUrl": "/products/cetuem-relief-duo-ice-pack-for-pain-relief-muscle-aches-and-joint-discomfort-caused-by-minor-backaches-tendinitis-and-overuse-of-muscles?variant=53105940168970",
       "productUrlChecked": 1789463135369,
       "productUrlStatus": 200,
@@ -389299,8 +389299,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790341583638,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427371,11 +427371,22 @@
         "followingSku": "4511306",
         "followingTitle": "Blue Enameled Fish Pendant with Rollon Chain (Size 18-2 Ext) & Lobster Clasp",
         "followingAuctionCode": "0019883535"
+      },
+      {
+        "start": 1790341583638,
+        "end": 1790341703422,
+        "durationMin": 2.0,
+        "precedingSku": "4511306",
+        "precedingTitle": "Blue Enameled Fish Pendant with Rollon Chain (Size 18-2 Ext) & Lobster Clasp",
+        "precedingAuctionCode": "0019883535",
+        "followingSku": "6860824",
+        "followingTitle": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
+        "followingAuctionCode": "0019881205"
       }
     ],
-    "lastOnAirSku": "4511306",
-    "lastOnAirTitle": "Blue Enameled Fish Pendant with Rollon Chain (Size 18-2 Ext) & Lobster Clasp",
-    "lastOnAirAuctionCode": "0019883535",
+    "lastOnAirSku": "6860824",
+    "lastOnAirTitle": "Cetuem Relief Duo - Ice Pack for Pain Relief Muscle aches and Joint Discomfort caused by Minor Backaches, Tendinitis, and Overuse of Muscles",
+    "lastOnAirAuctionCode": "0019881205",
     "precedingSku": "4511306",
     "precedingTitle": "Blue Enameled Fish Pendant with Rollon Chain (Size 18-2 Ext) & Lobster Clasp",
     "precedingAuctionCode": "0019883535"
