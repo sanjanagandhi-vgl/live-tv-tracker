@@ -358507,21 +358507,26 @@
       "sku": "7978066",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-17",
-      "time": "23:32:23",
+      "date": "2026-09-25",
+      "time": "21:57:18",
       "preExisting": true,
       "missedAt": 1789684343739,
       "missedDelay": null,
-      "lastUpdated": 1789684343739,
+      "lastUpdated": 1790369838602,
       "missedPrice": 159.99,
       "missedImg": true,
-      "title": "RADIANTA Moissanite - GRA Certified D-VVS1 Moissanite Line Bracelet (Size - 8) in Rhodium Overlay Sterling Silver 6.67 Ct.",
-      "auctionCode": "0019873783",
+      "title": "RADIANTA Moissanite - GRA Certified D-VVS1 Moissanite Line Bracelet (Size - 8) in Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019884474",
       "source": "gha",
       "productUrl": "/products/radianta-moissanite-gra-certified-d-vvs1-moissanite-line-bracelet-size-8-in-rhodium-overlay-sterling-silver",
       "productUrlChecked": 1789684349301,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790369838602,
+      "pdpPrice": "249.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7978050": {
       "sku": "7978050",
@@ -390429,8 +390434,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790369786154,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428974,11 +428979,22 @@
         "followingSku": "8724656",
         "followingTitle": "D'Joy - GRA Certified Moissanite Hoop Earring with Clasp in Rhodium Overlay Sterling Silver 11.04 Ct.",
         "followingAuctionCode": "0019884486"
+      },
+      {
+        "start": 1790369786154,
+        "end": 1790369838602,
+        "durationMin": 0.9,
+        "precedingSku": "8724656",
+        "precedingTitle": "D'Joy - GRA Certified Moissanite Hoop Earring with Clasp in Rhodium Overlay Sterling Silver 11.04 Ct.",
+        "precedingAuctionCode": "0019884486",
+        "followingSku": "7978066",
+        "followingTitle": "RADIANTA Moissanite - GRA Certified D-VVS1 Moissanite Line Bracelet (Size - 8) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019884474"
       }
     ],
-    "lastOnAirSku": "8724656",
-    "lastOnAirTitle": "D'Joy - GRA Certified Moissanite Hoop Earring with Clasp in Rhodium Overlay Sterling Silver 11.04 Ct.",
-    "lastOnAirAuctionCode": "0019884486",
+    "lastOnAirSku": "7978066",
+    "lastOnAirTitle": "RADIANTA Moissanite - GRA Certified D-VVS1 Moissanite Line Bracelet (Size - 8) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019884474",
     "precedingSku": "8724656",
     "precedingTitle": "D'Joy - GRA Certified Moissanite Hoop Earring with Clasp in Rhodium Overlay Sterling Silver 11.04 Ct.",
     "precedingAuctionCode": "0019884486"
