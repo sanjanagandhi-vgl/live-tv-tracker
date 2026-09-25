@@ -213207,17 +213207,17 @@
       "firstAir": 1787333302958,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789141162156,
+      "lastAir": 1790364680636,
       "title": "Set of 10 Hand Printed Personal Cards",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019865593",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019883659",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "16:39:22",
+      "date": "2026-09-25",
+      "time": "20:31:20",
       "productUrl": null,
-      "lastUpdated": 1789141162156,
+      "lastUpdated": 1790364680636,
       "source": "gha",
       "missedAt": 1787334080449,
       "missedDelay": 9,
@@ -390322,8 +390322,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790364649444,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428746,11 +428746,22 @@
         "followingSku": "8801605",
         "followingTitle": "Christmas Decorations Santa Candle 33Hr Burn Time",
         "followingAuctionCode": "0019883645"
+      },
+      {
+        "start": 1790364649444,
+        "end": 1790364680636,
+        "durationMin": 0.5,
+        "precedingSku": "8801605",
+        "precedingTitle": "Christmas Decorations Santa Candle 33Hr Burn Time",
+        "precedingAuctionCode": "0019883645",
+        "followingSku": "8381603",
+        "followingTitle": "Set of 10 Hand Printed Personal Cards",
+        "followingAuctionCode": "0019883659"
       }
     ],
-    "lastOnAirSku": "8801605",
-    "lastOnAirTitle": "Christmas Decorations Santa Candle 33Hr Burn Time",
-    "lastOnAirAuctionCode": "0019883645",
+    "lastOnAirSku": "8381603",
+    "lastOnAirTitle": "Set of 10 Hand Printed Personal Cards",
+    "lastOnAirAuctionCode": "0019883659",
     "precedingSku": "8801605",
     "precedingTitle": "Christmas Decorations Santa Candle 33Hr Burn Time",
     "precedingAuctionCode": "0019883645"
