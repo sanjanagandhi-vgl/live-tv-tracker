@@ -28300,23 +28300,23 @@
       "sku": "8677118",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "11:26:25",
+      "date": "2026-09-25",
+      "time": "22:48:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1788517585172,
+      "lastUpdated": 1790372902504,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "White Shell Pearl & Crystal Bangle (Size - 7) 50.00 Ct.",
-      "auctionCode": "0019856368",
+      "auctionCode": "0019884065",
       "source": "gha",
       "productUrl": "/products/white-shell-pearl-crystal-bangle-50-000-ct-8677118",
       "productUrlChecked": 1785475045791,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1788517585172,
-      "pdpPrice": "9.99",
+      "lastAir": 1790372902504,
+      "pdpPrice": "6.99",
       "buy": true,
       "login": false,
       "img": true
@@ -390482,8 +390482,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790372837538,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429060,11 +429060,22 @@
         "followingSku": "8696751",
         "followingTitle": "White Shell Pearl & Multi Crystal Blooming Flower Adjustable Necklace (Size - 18-2 Ext) 235.00 Ct.",
         "followingAuctionCode": "0019884059"
+      },
+      {
+        "start": 1790372837538,
+        "end": 1790372902504,
+        "durationMin": 1.1,
+        "precedingSku": "8696751",
+        "precedingTitle": "White Shell Pearl & Multi Crystal Blooming Flower Adjustable Necklace (Size - 18-2 Ext) 235.00 Ct.",
+        "precedingAuctionCode": "0019884059",
+        "followingSku": "8677118",
+        "followingTitle": "White Shell Pearl & Crystal Bangle (Size - 7) 50.00 Ct.",
+        "followingAuctionCode": "0019884065"
       }
     ],
-    "lastOnAirSku": "8696751",
-    "lastOnAirTitle": "White Shell Pearl & Multi Crystal Blooming Flower Adjustable Necklace (Size - 18-2 Ext) 235.00 Ct.",
-    "lastOnAirAuctionCode": "0019884059",
+    "lastOnAirSku": "8677118",
+    "lastOnAirTitle": "White Shell Pearl & Crystal Bangle (Size - 7) 50.00 Ct.",
+    "lastOnAirAuctionCode": "0019884065",
     "precedingSku": "8696751",
     "precedingTitle": "White Shell Pearl & Multi Crystal Blooming Flower Adjustable Necklace (Size - 18-2 Ext) 235.00 Ct.",
     "precedingAuctionCode": "0019884059"
