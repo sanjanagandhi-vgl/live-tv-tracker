@@ -389318,11 +389318,29 @@
       "productUrl": null,
       "lastUpdated": 1790346141251,
       "source": "gha"
+    },
+    "8768590": {
+      "sku": "8768590",
+      "firstAir": 1790346261802,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790346261802,
+      "title": "Tahiti Shell Pearl Drop Earring with Push Back",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019881253",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "15:24:21",
+      "productUrl": null,
+      "lastUpdated": 1790346261802,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790346199741,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427448,11 +427466,22 @@
         "followingSku": "8585290",
         "followingTitle": "Ladies Oval Crystal Compact Mirror Keyring Bag Charm with Pearl Chain - White",
         "followingAuctionCode": "0019883022"
+      },
+      {
+        "start": 1790346199741,
+        "end": 1790346261802,
+        "durationMin": 1.0,
+        "precedingSku": "8585290",
+        "precedingTitle": "Ladies Oval Crystal Compact Mirror Keyring Bag Charm with Pearl Chain - White",
+        "precedingAuctionCode": "0019883022",
+        "followingSku": "8768590",
+        "followingTitle": "Tahiti Shell Pearl Drop Earring with Push Back",
+        "followingAuctionCode": "0019881253"
       }
     ],
-    "lastOnAirSku": "8585290",
-    "lastOnAirTitle": "Ladies Oval Crystal Compact Mirror Keyring Bag Charm with Pearl Chain - White",
-    "lastOnAirAuctionCode": "0019883022",
+    "lastOnAirSku": "8768590",
+    "lastOnAirTitle": "Tahiti Shell Pearl Drop Earring with Push Back",
+    "lastOnAirAuctionCode": "0019881253",
     "precedingSku": "8585290",
     "precedingTitle": "Ladies Oval Crystal Compact Mirror Keyring Bag Charm with Pearl Chain - White",
     "precedingAuctionCode": "0019883022"
