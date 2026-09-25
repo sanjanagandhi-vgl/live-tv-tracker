@@ -36690,17 +36690,17 @@
       "firstAir": 1785486925453,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789150464307,
+      "lastAir": 1790326585873,
       "title": "Nicola Spring 70% Cotton 30% Polyester Super Soft Oversized Bath Towel (172x72cm) - Charcoal",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019865476",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019883322",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "19:14:24",
+      "date": "2026-09-25",
+      "time": "09:56:25",
       "productUrl": "/products/nicola-spring-70-cotton-30-polyester-super-soft-oversized-bath-towel-172x72cm-charcoal",
-      "lastUpdated": 1789150464307,
+      "lastUpdated": 1790326585873,
       "source": "gha",
       "missedAt": 1785487636804,
       "missedDelay": 10,
@@ -388539,8 +388539,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790326533402,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426303,11 +426303,22 @@
         "followingSku": "8791320",
         "followingTitle": "Laurelle Gent Skin Cleansing Hand and Face Lotion with Almond Oil & Panthenol - 100ml",
         "followingAuctionCode": "0019883942"
+      },
+      {
+        "start": 1790326533402,
+        "end": 1790326585873,
+        "durationMin": 0.9,
+        "precedingSku": "7949738",
+        "precedingTitle": "Douvallis Colour Drip Lip and Cheek Oil",
+        "precedingAuctionCode": "0019883196",
+        "followingSku": "8662101",
+        "followingTitle": "Nicola Spring 70% Cotton 30% Polyester Super Soft Oversized Bath Towel (172x72cm) - Charcoal",
+        "followingAuctionCode": "0019883322"
       }
     ],
-    "lastOnAirSku": "7949738",
-    "lastOnAirTitle": "Douvallis Colour Drip Lip and Cheek Oil",
-    "lastOnAirAuctionCode": "0019883196",
+    "lastOnAirSku": "8662101",
+    "lastOnAirTitle": "Nicola Spring 70% Cotton 30% Polyester Super Soft Oversized Bath Towel (172x72cm) - Charcoal",
+    "lastOnAirAuctionCode": "0019883322",
     "precedingSku": "7949738",
     "precedingTitle": "Douvallis Colour Drip Lip and Cheek Oil",
     "precedingAuctionCode": "0019883196"
