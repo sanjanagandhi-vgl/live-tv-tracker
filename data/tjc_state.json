@@ -390341,9 +390341,16 @@
       "img": true,
       "date": "2026-09-25",
       "time": "20:37:17",
-      "productUrl": null,
-      "lastUpdated": 1790365037975,
-      "source": "gha"
+      "productUrl": "/products/festive-gingerbread-house",
+      "lastUpdated": 1790365648650,
+      "source": "gha",
+      "missedAt": 1790365648650,
+      "missedDelay": 10,
+      "missedPrice": 6.99,
+      "missedImg": true,
+      "productUrlChecked": 1790365652193,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7558185": {
       "sku": "7558185",
@@ -390382,6 +390389,24 @@
       "productUrlChecked": 1790365238802,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8181728": {
+      "sku": "8181728",
+      "firstAir": 1790365648650,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790365648650,
+      "title": "Printed Cosy Fleece Throw Blanket (220gsm)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883676",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "20:47:28",
+      "productUrl": null,
+      "lastUpdated": 1790365648650,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -428855,9 +428880,9 @@
         "followingAuctionCode": "0019883672"
       }
     ],
-    "lastOnAirSku": "7551891",
-    "lastOnAirTitle": "3 Piece Tinsel Santa Hat Light Set - Multi",
-    "lastOnAirAuctionCode": "0019883672",
+    "lastOnAirSku": "8181728",
+    "lastOnAirTitle": "Printed Cosy Fleece Throw Blanket (220gsm)",
+    "lastOnAirAuctionCode": "0019883676",
     "precedingSku": "7558185",
     "precedingTitle": "Set of 3 Hanging Gingerbread Christmas Tree Decor Ornaments - Rose Gold (Stars & Bell)",
     "precedingAuctionCode": "0019883658"
