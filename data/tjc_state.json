@@ -40799,23 +40799,23 @@
       "sku": "8484037",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "05:47:18",
+      "date": "2026-09-25",
+      "time": "13:45:35",
       "preExisting": true,
       "missedAt": 1785522654833,
       "missedDelay": null,
-      "lastUpdated": 1789706838771,
+      "lastUpdated": 1790340335046,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp",
-      "auctionCode": "0019875525",
+      "auctionCode": "0019883459",
       "source": "gha",
       "productUrl": "/products/evertrue-white-diamond-linking-bracelet-size-7-5-with-lobster-clasp?variant=53107085738250",
       "productUrlChecked": 1785522662919,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1789706838771,
-      "pdpPrice": 9.99,
+      "lastAir": 1790340335046,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -389281,8 +389281,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790340261901,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -427320,11 +427320,22 @@
         "followingSku": "8212785",
         "followingTitle": "Magnetic Lock with Lobster Clasp in Rhodium Plating",
         "followingAuctionCode": "0019883118"
+      },
+      {
+        "start": 1790340261901,
+        "end": 1790340335046,
+        "durationMin": 1.2,
+        "precedingSku": "8673794",
+        "precedingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019883294",
+        "followingSku": "8484037",
+        "followingTitle": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019883459"
       }
     ],
-    "lastOnAirSku": "8673794",
-    "lastOnAirTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019883294",
+    "lastOnAirSku": "8484037",
+    "lastOnAirTitle": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019883459",
     "precedingSku": "8673794",
     "precedingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019883294"
