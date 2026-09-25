@@ -390236,11 +390236,29 @@
       "productUrlChecked": 1790361204472,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8801616": {
+      "sku": "8801616",
+      "firstAir": 1790363358752,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790363358752,
+      "title": "Mains Operated Multi-Coloured 100 LED String Lights with Storage Box (10m) - Multi-Coloured",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019883649",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "20:09:18",
+      "productUrl": null,
+      "lastUpdated": 1790363358752,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790363239315,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428641,11 +428659,22 @@
         "followingSku": "8624644",
         "followingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
         "followingAuctionCode": "0019883029"
+      },
+      {
+        "start": 1790363239315,
+        "end": 1790363358752,
+        "durationMin": 2.0,
+        "precedingSku": "8624644",
+        "precedingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
+        "precedingAuctionCode": "0019883029",
+        "followingSku": "8801616",
+        "followingTitle": "Mains Operated Multi-Coloured 100 LED String Lights with Storage Box (10m) - Multi-Coloured",
+        "followingAuctionCode": "0019883649"
       }
     ],
-    "lastOnAirSku": "8624644",
-    "lastOnAirTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
-    "lastOnAirAuctionCode": "0019883029",
+    "lastOnAirSku": "8801616",
+    "lastOnAirTitle": "Mains Operated Multi-Coloured 100 LED String Lights with Storage Box (10m) - Multi-Coloured",
+    "lastOnAirAuctionCode": "0019883649",
     "precedingSku": "8624644",
     "precedingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
     "precedingAuctionCode": "0019883029"
