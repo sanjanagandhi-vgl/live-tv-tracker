@@ -388057,11 +388057,29 @@
       "productUrlChecked": 1790295931281,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8363355": {
+      "sku": "8363355",
+      "firstAir": 1790296037659,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790296037659,
+      "title": "Designer Inspired - Double Dragon Head Bracelet (Size - 8)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019882962",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "01:27:17",
+      "productUrl": null,
+      "lastUpdated": 1790296037659,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790295981950,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425384,11 +425402,22 @@
         "followingSku": "8553583",
         "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Bracelet (Size - 7.5) with Lobster Clasp",
         "followingAuctionCode": "0019882959"
+      },
+      {
+        "start": 1790295981950,
+        "end": 1790296037659,
+        "durationMin": 0.9,
+        "precedingSku": "8274134",
+        "precedingTitle": "Murano Glass Necklace (Size 20)",
+        "precedingAuctionCode": "0019882960",
+        "followingSku": "8363355",
+        "followingTitle": "Designer Inspired - Double Dragon Head Bracelet (Size - 8)",
+        "followingAuctionCode": "0019882962"
       }
     ],
-    "lastOnAirSku": "8274134",
-    "lastOnAirTitle": "Murano Glass Necklace (Size 20)",
-    "lastOnAirAuctionCode": "0019882960",
+    "lastOnAirSku": "8363355",
+    "lastOnAirTitle": "Designer Inspired - Double Dragon Head Bracelet (Size - 8)",
+    "lastOnAirAuctionCode": "0019882962",
     "precedingSku": "8274134",
     "precedingTitle": "Murano Glass Necklace (Size 20)",
     "precedingAuctionCode": "0019882960"
