@@ -388814,11 +388814,29 @@
       "productUrlChecked": 1790332586463,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4124149": {
+      "sku": "4124149",
+      "firstAir": 1790333062392,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790333062392,
+      "title": "3 Piece Set - Crystal Bracelet (Size 7.5) with Bracelet Buddy and Bracelet Box in Silver Tone",
+      "pdpPrice": "209.99",
+      "auctionCode": "0019883985",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "11:44:22",
+      "productUrl": null,
+      "lastUpdated": 1790333062392,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790332942125,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -426746,11 +426764,22 @@
         "followingSku": "8722918",
         "followingTitle": "Chunky Cable Link Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019884199"
+      },
+      {
+        "start": 1790332942125,
+        "end": 1790333062392,
+        "durationMin": 2.0,
+        "precedingSku": "8699316",
+        "precedingTitle": "Twisted Link Bangle (Size - 7.25) in Yellow Gold Tone",
+        "precedingAuctionCode": "0019883440",
+        "followingSku": "4124149",
+        "followingTitle": "3 Piece Set - Crystal Bracelet (Size 7.5) with Bracelet Buddy and Bracelet Box in Silver Tone",
+        "followingAuctionCode": "0019883985"
       }
     ],
-    "lastOnAirSku": "8699316",
-    "lastOnAirTitle": "Twisted Link Bangle (Size - 7.25) in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019883440",
+    "lastOnAirSku": "4124149",
+    "lastOnAirTitle": "3 Piece Set - Crystal Bracelet (Size 7.5) with Bracelet Buddy and Bracelet Box in Silver Tone",
+    "lastOnAirAuctionCode": "0019883985",
     "precedingSku": "8699316",
     "precedingTitle": "Twisted Link Bangle (Size - 7.25) in Yellow Gold Tone",
     "precedingAuctionCode": "0019883440"
