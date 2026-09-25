@@ -390254,11 +390254,29 @@
       "productUrl": null,
       "lastUpdated": 1790363662413,
       "source": "gha"
+    },
+    "8801605": {
+      "sku": "8801605",
+      "firstAir": 1790363905404,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790363905404,
+      "title": "Christmas Decorations Santa Candle 33Hr Burn Time",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883645",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-25",
+      "time": "20:18:25",
+      "productUrl": null,
+      "lastUpdated": 1790363905404,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790363735046,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428670,11 +428688,22 @@
         "followingSku": "8801616",
         "followingTitle": "Mains Operated Multi-Coloured 100 LED String Lights with Storage Box (10m) - Multi-Coloured",
         "followingAuctionCode": "0019883649"
+      },
+      {
+        "start": 1790363735046,
+        "end": 1790363905404,
+        "durationMin": 2.8,
+        "precedingSku": "8801616",
+        "precedingTitle": "Mains Operated Multi-Coloured 100 LED String Lights with Storage Box (10m) - Multi-Coloured",
+        "precedingAuctionCode": "0019883649",
+        "followingSku": "8801605",
+        "followingTitle": "Christmas Decorations Santa Candle 33Hr Burn Time",
+        "followingAuctionCode": "0019883645"
       }
     ],
-    "lastOnAirSku": "8801616",
-    "lastOnAirTitle": "Mains Operated Multi-Coloured 100 LED String Lights with Storage Box (10m) - Multi-Coloured",
-    "lastOnAirAuctionCode": "0019883649",
+    "lastOnAirSku": "8801605",
+    "lastOnAirTitle": "Christmas Decorations Santa Candle 33Hr Burn Time",
+    "lastOnAirAuctionCode": "0019883645",
     "precedingSku": "8801616",
     "precedingTitle": "Mains Operated Multi-Coloured 100 LED String Lights with Storage Box (10m) - Multi-Coloured",
     "precedingAuctionCode": "0019883649"
