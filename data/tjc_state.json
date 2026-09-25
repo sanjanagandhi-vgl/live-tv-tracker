@@ -292257,17 +292257,17 @@
       "firstAir": 1788397878538,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788398001563,
+      "lastAir": 1790303185883,
       "title": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
-      "pdpPrice": 4.99,
-      "auctionCode": "0019853670",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019882725",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-03",
-      "time": "02:13:21",
+      "date": "2026-09-25",
+      "time": "03:26:25",
       "productUrl": "/products/marigold-lotus-aloe-vera-gel-with-vitamin-a-e-100-ml?variant=53106319261962",
-      "lastUpdated": 1788398001563,
+      "lastUpdated": 1790303185883,
       "source": "gha",
       "productUrlChecked": 1788398005618,
       "productUrlStatus": 200,
@@ -388153,8 +388153,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790303126330,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425543,11 +425543,22 @@
         "followingSku": "8566305",
         "followingTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
         "followingAuctionCode": "0019882738"
+      },
+      {
+        "start": 1790303126330,
+        "end": 1790303185883,
+        "durationMin": 1.0,
+        "precedingSku": "8566305",
+        "precedingTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
+        "precedingAuctionCode": "0019882738",
+        "followingSku": "8244715",
+        "followingTitle": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
+        "followingAuctionCode": "0019882725"
       }
     ],
-    "lastOnAirSku": "8566305",
-    "lastOnAirTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
-    "lastOnAirAuctionCode": "0019882738",
+    "lastOnAirSku": "8244715",
+    "lastOnAirTitle": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
+    "lastOnAirAuctionCode": "0019882725",
     "precedingSku": "8566305",
     "precedingTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
     "precedingAuctionCode": "0019882738"
