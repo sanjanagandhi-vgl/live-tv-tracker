@@ -343090,23 +343090,23 @@
       "sku": "8592997",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-17",
-      "time": "23:45:37",
+      "date": "2026-09-25",
+      "time": "21:16:21",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789685137605,
+      "lastUpdated": 1790367381318,
       "missedPrice": 117.99,
       "missedImg": true,
       "title": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
-      "auctionCode": "0019873785",
+      "auctionCode": "0019884448",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-solitaire-ring-in-rhodium-overlaysterling-silver-3-500-ct-8592997?variant=53666675851530",
       "productUrlChecked": 1789359449141,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789685137605,
-      "pdpPrice": 117.99,
+      "lastAir": 1790367381318,
+      "pdpPrice": "4999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -390424,8 +390424,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790367141771,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -428903,11 +428903,22 @@
         "followingSku": "7552876",
         "followingTitle": "Set of 2 Christmas Novelty Bottle Cover",
         "followingAuctionCode": "0019883671"
+      },
+      {
+        "start": 1790367141771,
+        "end": 1790367381318,
+        "durationMin": 4.0,
+        "precedingSku": "7552876",
+        "precedingTitle": "Set of 2 Christmas Novelty Bottle Cover",
+        "precedingAuctionCode": "0019883671",
+        "followingSku": "8592997",
+        "followingTitle": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
+        "followingAuctionCode": "0019884448"
       }
     ],
-    "lastOnAirSku": "7552876",
-    "lastOnAirTitle": "Set of 2 Christmas Novelty Bottle Cover",
-    "lastOnAirAuctionCode": "0019883671",
+    "lastOnAirSku": "8592997",
+    "lastOnAirTitle": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
+    "lastOnAirAuctionCode": "0019884448",
     "precedingSku": "7552876",
     "precedingTitle": "Set of 2 Christmas Novelty Bottle Cover",
     "precedingAuctionCode": "0019883671"
