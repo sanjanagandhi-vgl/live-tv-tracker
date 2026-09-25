@@ -348408,21 +348408,26 @@
       "sku": "6841646",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "10:03:20",
+      "date": "2026-09-25",
+      "time": "03:39:19",
       "preExisting": true,
       "missedAt": 1789463000276,
       "missedDelay": null,
-      "lastUpdated": 1789463000276,
+      "lastUpdated": 1790303959189,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Black",
-      "auctionCode": "0019870531",
+      "title": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
+      "auctionCode": "0019883009",
       "source": "gha",
       "productUrl": "/products/jewellery-box-size-11x7x6-cm-brown-8665215",
       "productUrlChecked": 1789463008642,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790303959189,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "6841647": {
       "sku": "6841647",
@@ -388182,8 +388187,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790303905712,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425605,11 +425610,22 @@
         "followingSku": "7953434",
         "followingTitle": "Marigold - Lotus Moringa Oil 100ml",
         "followingAuctionCode": "0019882724"
+      },
+      {
+        "start": 1790303905712,
+        "end": 1790303959189,
+        "durationMin": 0.9,
+        "precedingSku": "8789153",
+        "precedingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
+        "precedingAuctionCode": "0019883005",
+        "followingSku": "6841646",
+        "followingTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
+        "followingAuctionCode": "0019883009"
       }
     ],
-    "lastOnAirSku": "8789153",
-    "lastOnAirTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
-    "lastOnAirAuctionCode": "0019883005",
+    "lastOnAirSku": "6841646",
+    "lastOnAirTitle": "2 in 1 - Six Piece Manicure Set and Travel Jewellery Organiser with Inside Mirror (Size 12x6x6cm) - Mint Green",
+    "lastOnAirAuctionCode": "0019883009",
     "precedingSku": "8789153",
     "precedingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
     "precedingAuctionCode": "0019883005"
