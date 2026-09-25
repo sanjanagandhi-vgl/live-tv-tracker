@@ -388075,11 +388075,29 @@
       "productUrl": null,
       "lastUpdated": 1790296158873,
       "source": "gha"
+    },
+    "7979452": {
+      "sku": "7979452",
+      "firstAir": 1790296526363,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790296526363,
+      "title": "Multi Colour Cubic Zirconia Necklace (Size - 30+2 Ext.) with Lobster Clasp",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019882963",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-25",
+      "time": "01:35:26",
+      "productUrl": null,
+      "lastUpdated": 1790296526363,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790296460915,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425413,11 +425431,22 @@
         "followingSku": "8363355",
         "followingTitle": "Designer Inspired - Double Dragon Head Bracelet (Size - 8)",
         "followingAuctionCode": "0019882962"
+      },
+      {
+        "start": 1790296460915,
+        "end": 1790296526363,
+        "durationMin": 1.1,
+        "precedingSku": "8526789",
+        "precedingTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
+        "precedingAuctionCode": "0019882944",
+        "followingSku": "7979452",
+        "followingTitle": "Multi Colour Cubic Zirconia Necklace (Size - 30+2 Ext.) with Lobster Clasp",
+        "followingAuctionCode": "0019882963"
       }
     ],
-    "lastOnAirSku": "8526789",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
-    "lastOnAirAuctionCode": "0019882944",
+    "lastOnAirSku": "7979452",
+    "lastOnAirTitle": "Multi Colour Cubic Zirconia Necklace (Size - 30+2 Ext.) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019882963",
     "precedingSku": "8526789",
     "precedingTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
     "precedingAuctionCode": "0019882944"
