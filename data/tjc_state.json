@@ -27853,21 +27853,26 @@
       "sku": "8553583",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-09-25",
+      "time": "01:20:36",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1790295636696,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Bracelet (Size - 7.5) with Lobster Clasp",
-      "auctionCode": "0019801648",
+      "auctionCode": "0019882959",
       "source": "gha",
       "productUrl": "/products/sterling-silver-grumetta-rada-bracelet-with-lobster-clasp-2768553582",
       "productUrlChecked": 1785474990370,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790295636696,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8646075": {
       "sku": "8646075",
@@ -388048,8 +388053,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790295559308,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -425361,11 +425366,22 @@
         "followingSku": "8356032",
         "followingTitle": "White Silver (99.9% Purity) Unicorn Collectable",
         "followingAuctionCode": "0019882956"
+      },
+      {
+        "start": 1790295559308,
+        "end": 1790295636696,
+        "durationMin": 1.3,
+        "precedingSku": "8356032",
+        "precedingTitle": "White Silver (99.9% Purity) Unicorn Collectable",
+        "precedingAuctionCode": "0019882956",
+        "followingSku": "8553583",
+        "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019882959"
       }
     ],
-    "lastOnAirSku": "8356032",
-    "lastOnAirTitle": "White Silver (99.9% Purity) Unicorn Collectable",
-    "lastOnAirAuctionCode": "0019882956",
+    "lastOnAirSku": "8553583",
+    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019882959",
     "precedingSku": "8356032",
     "precedingTitle": "White Silver (99.9% Purity) Unicorn Collectable",
     "precedingAuctionCode": "0019882956"
