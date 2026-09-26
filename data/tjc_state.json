@@ -389615,21 +389615,26 @@
       "sku": "8768582",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "15:33:21",
+      "date": "2026-09-26",
+      "time": "14:37:17",
       "preExisting": true,
       "missedAt": 1790346801572,
       "missedDelay": null,
-      "lastUpdated": 1790346801572,
+      "lastUpdated": 1790429837804,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "White Shell Pearl Drop Earring with Push Back",
-      "auctionCode": "0019883957",
+      "title": "Golden Shell Pearl Drop Earring with Push Back",
+      "auctionCode": "0019885039",
       "source": "gha",
       "productUrl": "/products/tahiti-shell-pearl-earring-0-010-ct-8768590",
       "productUrlChecked": 1790346805755,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790429837804,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8556665": {
       "sku": "8556665",
@@ -391526,8 +391531,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790429782661,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430753,11 +430758,22 @@
         "followingSku": "8616385",
         "followingTitle": "Sterling Silver Grumetta Rada Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019885083"
+      },
+      {
+        "start": 1790429782661,
+        "end": 1790429837804,
+        "durationMin": 0.9,
+        "precedingSku": "8616385",
+        "precedingTitle": "Sterling Silver Grumetta Rada Necklace (Size - 20) with Lobster Clasp",
+        "precedingAuctionCode": "0019885083",
+        "followingSku": "8768582",
+        "followingTitle": "Golden Shell Pearl Drop Earring with Push Back",
+        "followingAuctionCode": "0019885039"
       }
     ],
-    "lastOnAirSku": "8616385",
-    "lastOnAirTitle": "Sterling Silver Grumetta Rada Necklace (Size - 20) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019885083",
+    "lastOnAirSku": "8768582",
+    "lastOnAirTitle": "Golden Shell Pearl Drop Earring with Push Back",
+    "lastOnAirAuctionCode": "0019885039",
     "precedingSku": "8616385",
     "precedingTitle": "Sterling Silver Grumetta Rada Necklace (Size - 20) with Lobster Clasp",
     "precedingAuctionCode": "0019885083"
