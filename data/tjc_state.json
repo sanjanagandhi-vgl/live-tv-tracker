@@ -3118,15 +3118,23 @@
       "sku": "8616385",
       "tvPrice": "",
       "remarks": "",
-      "time": "01:10:52",
+      "time": "14:31:18",
       "preExisting": true,
       "missedAt": 1784851852401,
       "missedDelay": null,
       "missedPrice": 27.99,
       "missedImg": false,
       "title": "Sterling Silver Grumetta Rada Necklace (Size - 20) with Lobster Clasp",
-      "auctionCode": "0019791906",
-      "source": "gha"
+      "auctionCode": "0019885083",
+      "source": "gha",
+      "lastAir": 1790429478690,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-26",
+      "productUrl": null,
+      "lastUpdated": 1790429478690
     },
     "8616386": {
       "sku": "8616386",
@@ -391515,8 +391523,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790429449218,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430731,11 +430739,22 @@
         "followingSku": "8616365",
         "followingTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
         "followingAuctionCode": "0019885075"
+      },
+      {
+        "start": 1790429449218,
+        "end": 1790429478690,
+        "durationMin": 0.5,
+        "precedingSku": "8616365",
+        "precedingTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
+        "precedingAuctionCode": "0019885075",
+        "followingSku": "8616385",
+        "followingTitle": "Sterling Silver Grumetta Rada Necklace (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019885083"
       }
     ],
-    "lastOnAirSku": "8616365",
-    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019885075",
+    "lastOnAirSku": "8616385",
+    "lastOnAirTitle": "Sterling Silver Grumetta Rada Necklace (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019885083",
     "precedingSku": "8616365",
     "precedingTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
     "precedingAuctionCode": "0019885075"
