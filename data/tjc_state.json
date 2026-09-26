@@ -35946,21 +35946,26 @@
       "sku": "8697666",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "07:09:25",
+      "date": "2026-09-26",
+      "time": "02:08:21",
       "preExisting": true,
       "missedAt": 1785478165157,
       "missedDelay": null,
-      "lastUpdated": 1785478165157,
+      "lastUpdated": 1790384901692,
       "missedPrice": 6.99,
       "missedImg": true,
       "title": "Curver Water Bottle with Flip-Top Lid and Carry Strap (420ml) - Pastel Blue",
-      "auctionCode": "0019801904",
+      "auctionCode": "0019883839",
       "source": "gha",
       "productUrl": "/products/curver-water-bottle-with-flip-top-lid-and-carry-strap-420ml-yellow-8697665",
       "productUrlChecked": 1785478182645,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790384901692,
+      "pdpPrice": "3.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8697668": {
       "sku": "8697668",
@@ -390800,8 +390805,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790384840495,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429543,11 +429548,22 @@
         "followingSku": "8556518",
         "followingTitle": "Flower Print Crossbody Phone Bag - Purple",
         "followingAuctionCode": "0019884539"
+      },
+      {
+        "start": 1790384840495,
+        "end": 1790384901692,
+        "durationMin": 1.0,
+        "precedingSku": "8662979",
+        "precedingTitle": "Las Vegas Closeout Deals Fresh Water Pearl 12x9MM Sterling Silver Necklace (Size - 18) with Lobster Clasp",
+        "precedingAuctionCode": "0019884569",
+        "followingSku": "8697666",
+        "followingTitle": "Curver Water Bottle with Flip-Top Lid and Carry Strap (420ml) - Pastel Blue",
+        "followingAuctionCode": "0019883839"
       }
     ],
-    "lastOnAirSku": "8662979",
-    "lastOnAirTitle": "Las Vegas Closeout Deals Fresh Water Pearl 12x9MM Sterling Silver Necklace (Size - 18) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019884569",
+    "lastOnAirSku": "8697666",
+    "lastOnAirTitle": "Curver Water Bottle with Flip-Top Lid and Carry Strap (420ml) - Pastel Blue",
+    "lastOnAirAuctionCode": "0019883839",
     "precedingSku": "8662979",
     "precedingTitle": "Las Vegas Closeout Deals Fresh Water Pearl 12x9MM Sterling Silver Necklace (Size - 18) with Lobster Clasp",
     "precedingAuctionCode": "0019884569"
