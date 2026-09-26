@@ -392055,11 +392055,29 @@
       "productUrl": null,
       "lastUpdated": 1790435182937,
       "source": "gha-variant"
+    },
+    "8797409": {
+      "sku": "8797409",
+      "firstAir": 1790435435349,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790435435349,
+      "title": "Japan Close Out- Rhapsody 950 Platinum SGL Certified Natural White Diamond (VS-E-F) Solitaire Ring 0.50Ct",
+      "pdpPrice": "23456.99",
+      "auctionCode": "0019884230",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-26",
+      "time": "16:10:35",
+      "productUrl": null,
+      "lastUpdated": 1790435435349,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790435241966,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -431340,11 +431358,22 @@
         "followingSku": "8784529",
         "followingTitle": "D'Joy - Natural White Diamond Band Ring in Yellow Gold Plated Sterling Silver 0.25 Ct.",
         "followingAuctionCode": "0019884011"
+      },
+      {
+        "start": 1790435241966,
+        "end": 1790435435349,
+        "durationMin": 3.2,
+        "precedingSku": "8784529",
+        "precedingTitle": "D'Joy - Natural White Diamond Band Ring in Yellow Gold Plated Sterling Silver 0.25 Ct.",
+        "precedingAuctionCode": "0019884011",
+        "followingSku": "8797409",
+        "followingTitle": "Japan Close Out- Rhapsody 950 Platinum SGL Certified Natural White Diamond (VS-E-F) Solitaire Ring 0.50Ct",
+        "followingAuctionCode": "0019884230"
       }
     ],
-    "lastOnAirSku": "8784529",
-    "lastOnAirTitle": "D'Joy - Natural White Diamond Band Ring in Yellow Gold Plated Sterling Silver 0.25 Ct.",
-    "lastOnAirAuctionCode": "0019884011",
+    "lastOnAirSku": "8797409",
+    "lastOnAirTitle": "Japan Close Out- Rhapsody 950 Platinum SGL Certified Natural White Diamond (VS-E-F) Solitaire Ring 0.50Ct",
+    "lastOnAirAuctionCode": "0019884230",
     "precedingSku": "8784529",
     "precedingTitle": "D'Joy - Natural White Diamond Band Ring in Yellow Gold Plated Sterling Silver 0.25 Ct.",
     "precedingAuctionCode": "0019884011"
