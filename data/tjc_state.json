@@ -391518,17 +391518,17 @@
       "firstAir": 1790424381446,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790425756620,
+      "lastAir": 1790466078600,
       "title": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
-      "pdpPrice": "1999.99",
-      "auctionCode": "0019884118",
+      "pdpPrice": "16577.99",
+      "auctionCode": "0019886344",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-09-26",
-      "time": "13:29:16",
+      "date": "2026-09-27",
+      "time": "00:41:18",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-15-00-gms-8690903",
-      "lastUpdated": 1790426300270,
+      "lastUpdated": 1790466078600,
       "source": "gha",
       "missedAt": 1790426300270,
       "missedDelay": 9,
@@ -393420,8 +393420,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790465901420,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433054,11 +433054,22 @@
         "followingSku": "8324445",
         "followingTitle": "NOD Homage EDP - 30ml",
         "followingAuctionCode": "0019885921"
+      },
+      {
+        "start": 1790465901420,
+        "end": 1790466078600,
+        "durationMin": 3.0,
+        "precedingSku": "8324445",
+        "precedingTitle": "NOD Homage EDP - 30ml",
+        "precedingAuctionCode": "0019885921",
+        "followingSku": "8690903",
+        "followingTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
+        "followingAuctionCode": "0019886344"
       }
     ],
-    "lastOnAirSku": "8324445",
-    "lastOnAirTitle": "NOD Homage EDP - 30ml",
-    "lastOnAirAuctionCode": "0019885921",
+    "lastOnAirSku": "8690903",
+    "lastOnAirTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
+    "lastOnAirAuctionCode": "0019886344",
     "precedingSku": "8324445",
     "precedingTitle": "NOD Homage EDP - 30ml",
     "precedingAuctionCode": "0019885921"
