@@ -391373,11 +391373,29 @@
       "auctionCode": "0019884921",
       "source": "gha",
       "productUrl": null
+    },
+    "8690903": {
+      "sku": "8690903",
+      "firstAir": 1790424381446,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790424381446,
+      "title": "Milan Close Out - 9K Yellow Gold Flat Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
+      "pdpPrice": "16577.99",
+      "auctionCode": "0019884118",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-26",
+      "time": "13:06:21",
+      "productUrl": null,
+      "lastUpdated": 1790424381446,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790424142649,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430504,11 +430522,22 @@
         "followingSku": "8691038",
         "followingTitle": "Milan Close Out- 9K Yellow Gold Flat Byzantino Circolare Bracelet (Size - 8), Gold Wt. 9.00 Gms",
         "followingAuctionCode": "0019884387"
+      },
+      {
+        "start": 1790424142649,
+        "end": 1790424381446,
+        "durationMin": 4.0,
+        "precedingSku": "8691038",
+        "precedingTitle": "Milan Close Out- 9K Yellow Gold Flat Byzantino Circolare Bracelet (Size - 8), Gold Wt. 9.00 Gms",
+        "precedingAuctionCode": "0019884387",
+        "followingSku": "8690903",
+        "followingTitle": "Milan Close Out - 9K Yellow Gold Flat Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
+        "followingAuctionCode": "0019884118"
       }
     ],
-    "lastOnAirSku": "8691038",
-    "lastOnAirTitle": "Milan Close Out- 9K Yellow Gold Flat Byzantino Circolare Bracelet (Size - 8), Gold Wt. 9.00 Gms",
-    "lastOnAirAuctionCode": "0019884387",
+    "lastOnAirSku": "8690903",
+    "lastOnAirTitle": "Milan Close Out - 9K Yellow Gold Flat Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
+    "lastOnAirAuctionCode": "0019884118",
     "precedingSku": "8691038",
     "precedingTitle": "Milan Close Out- 9K Yellow Gold Flat Byzantino Circolare Bracelet (Size - 8), Gold Wt. 9.00 Gms",
     "precedingAuctionCode": "0019884387"
