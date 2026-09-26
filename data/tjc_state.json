@@ -6585,16 +6585,16 @@
       "firstAir": 1784913141766,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790100502927,
-      "title": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Z...",
-      "pdpPrice": 59.99,
-      "auctionCode": "0019876012",
+      "lastAir": 1790406200887,
+      "title": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams with free spoon",
+      "pdpPrice": "300.99",
+      "auctionCode": "0019883465",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-22",
-      "time": "19:08:22",
-      "lastUpdated": 1790100502927,
+      "date": "2026-09-26",
+      "time": "08:03:20",
+      "lastUpdated": 1790406200887,
       "source": "gha",
       "missedAt": 1784916085649,
       "missedDelay": 0,
@@ -391070,8 +391070,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790406140948,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430044,11 +430044,22 @@
         "followingSku": "221303375",
         "followingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply with Free Spoon",
         "followingAuctionCode": "0019884818"
+      },
+      {
+        "start": 1790406140948,
+        "end": 1790406200887,
+        "durationMin": 1.0,
+        "precedingSku": "221303375",
+        "precedingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply with Free Spoon",
+        "precedingAuctionCode": "0019884818",
+        "followingSku": "8704567",
+        "followingTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams with free spoon",
+        "followingAuctionCode": "0019883465"
       }
     ],
-    "lastOnAirSku": "221303375",
-    "lastOnAirTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply with Free Spoon",
-    "lastOnAirAuctionCode": "0019884818",
+    "lastOnAirSku": "8704567",
+    "lastOnAirTitle": "Collagen Tribe Marine- 500 Dalton Tripeptide Collagen with Hyaluronic Acid, Vitamin C, Biotin & Zinc - 108 Grams with free spoon",
+    "lastOnAirAuctionCode": "0019883465",
     "precedingSku": "221303375",
     "precedingTitle": "Fountain of Youth Lifestyle PURE Tripeptide Collagen - Double Size 200gm - Upto 200 Day Supply with Free Spoon",
     "precedingAuctionCode": "0019884818"
