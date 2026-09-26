@@ -391528,11 +391528,29 @@
       "productUrlChecked": 1790428882709,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8713468": {
+      "sku": "8713468",
+      "firstAir": 1790430077930,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790430077930,
+      "title": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019885816",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-26",
+      "time": "14:41:17",
+      "productUrl": null,
+      "lastUpdated": 1790430077930,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790430035668,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430769,11 +430787,22 @@
         "followingSku": "8768582",
         "followingTitle": "Golden Shell Pearl Drop Earring with Push Back",
         "followingAuctionCode": "0019885039"
+      },
+      {
+        "start": 1790430035668,
+        "end": 1790430077930,
+        "durationMin": 0.7,
+        "precedingSku": "8768582",
+        "precedingTitle": "Golden Shell Pearl Drop Earring with Push Back",
+        "precedingAuctionCode": "0019885039",
+        "followingSku": "8713468",
+        "followingTitle": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
+        "followingAuctionCode": "0019885816"
       }
     ],
-    "lastOnAirSku": "8768582",
-    "lastOnAirTitle": "Golden Shell Pearl Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019885039",
+    "lastOnAirSku": "8713468",
+    "lastOnAirTitle": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
+    "lastOnAirAuctionCode": "0019885816",
     "precedingSku": "8768582",
     "precedingTitle": "Golden Shell Pearl Drop Earring with Push Back",
     "precedingAuctionCode": "0019885039"
