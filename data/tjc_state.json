@@ -3146,15 +3146,23 @@
       "sku": "8616365",
       "tvPrice": "",
       "remarks": "",
-      "time": "01:10:52",
+      "time": "14:29:18",
       "preExisting": true,
       "missedAt": 1784851852401,
       "missedDelay": null,
       "missedPrice": 29.99,
       "missedImg": false,
       "title": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
-      "auctionCode": "0019791904",
-      "source": "gha"
+      "auctionCode": "0019885075",
+      "source": "gha",
+      "lastAir": 1790429358689,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-26",
+      "productUrl": null,
+      "lastUpdated": 1790429358689
     },
     "8616366": {
       "sku": "8616366",
@@ -391507,8 +391515,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790429301953,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430712,11 +430720,22 @@
         "followingSku": "8503401",
         "followingTitle": "Close Out Deal - Sterling Silver Rhombus Drop Earring with Push Back",
         "followingAuctionCode": "0019885063"
+      },
+      {
+        "start": 1790429301953,
+        "end": 1790429358689,
+        "durationMin": 0.9,
+        "precedingSku": "8261910",
+        "precedingTitle": "Live From Vegas - Designer Inspired - Multi Color Cubic Zirconia Cuff Bangle (Size - 7.5)",
+        "precedingAuctionCode": "0019885080",
+        "followingSku": "8616365",
+        "followingTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
+        "followingAuctionCode": "0019885075"
       }
     ],
-    "lastOnAirSku": "8261910",
-    "lastOnAirTitle": "Live From Vegas - Designer Inspired - Multi Color Cubic Zirconia Cuff Bangle (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019885080",
+    "lastOnAirSku": "8616365",
+    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019885075",
     "precedingSku": "8261910",
     "precedingTitle": "Live From Vegas - Designer Inspired - Multi Color Cubic Zirconia Cuff Bangle (Size - 7.5)",
     "precedingAuctionCode": "0019885080"
