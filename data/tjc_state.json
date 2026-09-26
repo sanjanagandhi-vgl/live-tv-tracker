@@ -393321,8 +393321,12 @@
       "date": "2026-09-26",
       "time": "22:23:16",
       "productUrl": null,
-      "lastUpdated": 1790457796944,
-      "source": "gha"
+      "lastUpdated": 1790458341751,
+      "source": "gha",
+      "missedAt": 1790458341751,
+      "missedDelay": 9,
+      "missedPrice": 7.99,
+      "missedImg": false
     },
     "8542632": {
       "sku": "8542632",
@@ -393344,8 +393348,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790458341751,
     "gaps": [
       {
         "start": 1785823527869,
@@ -432884,8 +432888,8 @@
     "lastOnAirSku": "7632754",
     "lastOnAirTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
     "lastOnAirAuctionCode": "0019885409",
-    "precedingSku": "8542632",
-    "precedingTitle": "EverTrue - Black Spinel Full Hoop Earring in Yellow Gold Tone 4.80  Ct.",
-    "precedingAuctionCode": "0019885372"
+    "precedingSku": "7632754",
+    "precedingTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
+    "precedingAuctionCode": "0019885409"
   }
 }
