@@ -24519,23 +24519,23 @@
       "sku": "7169130",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-22",
-      "time": "20:56:23",
+      "date": "2026-09-26",
+      "time": "07:16:21",
       "preExisting": true,
       "missedAt": 1785398554539,
       "missedDelay": null,
-      "lastUpdated": 1790106983521,
+      "lastUpdated": 1790403381478,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Cetuem- Golden Glow - 50ml",
-      "auctionCode": "0019881074",
+      "title": "Cetuem- Golden Glow - 50ml (New Packaging)",
+      "auctionCode": "0019883526",
       "source": "gha",
       "productUrl": "/products/cetuem-golden-glow-50ml?variant=53108226687242",
       "productUrlChecked": 1785398556975,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1790106983521,
-      "pdpPrice": 19.99,
+      "lastAir": 1790403381478,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -391064,8 +391064,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790403196633,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430016,11 +430016,22 @@
         "followingSku": "3312314",
         "followingTitle": "Cetuem Radiance Duo with Exfoliating Mask 50ml and SCR Gold Booster Serum 15ml",
         "followingAuctionCode": "0019883530"
+      },
+      {
+        "start": 1790403196633,
+        "end": 1790403381478,
+        "durationMin": 3.1,
+        "precedingSku": "2984483",
+        "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
+        "precedingAuctionCode": "0019883529",
+        "followingSku": "7169130",
+        "followingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
+        "followingAuctionCode": "0019883526"
       }
     ],
-    "lastOnAirSku": "2984483",
-    "lastOnAirTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
-    "lastOnAirAuctionCode": "0019883529",
+    "lastOnAirSku": "7169130",
+    "lastOnAirTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
+    "lastOnAirAuctionCode": "0019883526",
     "precedingSku": "2984483",
     "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
     "precedingAuctionCode": "0019883529"
