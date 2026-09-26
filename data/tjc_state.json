@@ -101458,21 +101458,26 @@
       "sku": "8419656",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "20:46:26",
+      "date": "2026-09-26",
+      "time": "03:51:18",
       "preExisting": true,
       "missedAt": 1786131986250,
       "missedDelay": null,
-      "lastUpdated": 1786131986250,
+      "lastUpdated": 1790391078537,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Genuine Leather Designer Minimalist Zipper Crossbody Top Handle Box Bag - Khaki",
-      "auctionCode": "0019811618",
+      "title": "Genuine Leather Designer Minimalist Zipper Crossbody Top Handle Box Bag - Black",
+      "auctionCode": "0019883786",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-8048419653",
       "productUrlChecked": 1786131995243,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790391078537,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8419657": {
       "sku": "8419657",
@@ -390919,8 +390924,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790391033630,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429717,11 +429722,22 @@
         "followingSku": "8431473",
         "followingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
         "followingAuctionCode": "0019883792"
+      },
+      {
+        "start": 1790391033630,
+        "end": 1790391078537,
+        "durationMin": 0.7,
+        "precedingSku": "8431473",
+        "precedingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
+        "precedingAuctionCode": "0019883792",
+        "followingSku": "8419656",
+        "followingTitle": "Genuine Leather Designer Minimalist Zipper Crossbody Top Handle Box Bag - Black",
+        "followingAuctionCode": "0019883786"
       }
     ],
-    "lastOnAirSku": "8431473",
-    "lastOnAirTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
-    "lastOnAirAuctionCode": "0019883792",
+    "lastOnAirSku": "8419656",
+    "lastOnAirTitle": "Genuine Leather Designer Minimalist Zipper Crossbody Top Handle Box Bag - Black",
+    "lastOnAirAuctionCode": "0019883786",
     "precedingSku": "8431473",
     "precedingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
     "precedingAuctionCode": "0019883792"
