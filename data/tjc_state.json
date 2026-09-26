@@ -276427,21 +276427,26 @@
       "sku": "8431473",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "15:32:23",
+      "date": "2026-09-26",
+      "time": "03:47:17",
       "preExisting": true,
       "missedAt": 1788186743846,
       "missedDelay": null,
-      "lastUpdated": 1788186743846,
+      "lastUpdated": 1790390837675,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Black",
-      "auctionCode": "0019851716",
+      "title": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
+      "auctionCode": "0019883792",
       "source": "gha",
       "productUrl": "/products/leather-patterned-tote-bag-2658431472",
       "productUrlChecked": 1788186747451,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790390837675,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8431474": {
       "sku": "8431474",
@@ -390914,8 +390919,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790390780424,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429701,11 +429706,22 @@
         "followingSku": "8597277",
         "followingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
         "followingAuctionCode": "0019883838"
+      },
+      {
+        "start": 1790390780424,
+        "end": 1790390837675,
+        "durationMin": 1.0,
+        "precedingSku": "8479758",
+        "precedingTitle": "Designer Inspired Finest Italian Leather Bucket Bag with Internal Drawstring Pouch & Shoulder Strap - Coral",
+        "precedingAuctionCode": "0019883802",
+        "followingSku": "8431473",
+        "followingTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
+        "followingAuctionCode": "0019883792"
       }
     ],
-    "lastOnAirSku": "8479758",
-    "lastOnAirTitle": "Designer Inspired Finest Italian Leather Bucket Bag with Internal Drawstring Pouch & Shoulder Strap - Coral",
-    "lastOnAirAuctionCode": "0019883802",
+    "lastOnAirSku": "8431473",
+    "lastOnAirTitle": "Designer Closeout Deal - Genuine Leather Structured Bag with Padlock and Key - Khaki",
+    "lastOnAirAuctionCode": "0019883792",
     "precedingSku": "8479758",
     "precedingTitle": "Designer Inspired Finest Italian Leather Bucket Bag with Internal Drawstring Pouch & Shoulder Strap - Coral",
     "precedingAuctionCode": "0019883802"
