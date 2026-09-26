@@ -392865,11 +392865,29 @@
       "productUrl": null,
       "lastUpdated": 1790457079681,
       "source": "gha"
+    },
+    "8503676": {
+      "sku": "8503676",
+      "firstAir": 1790457198818,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790457198818,
+      "title": "EverTrue - Green Onyx Trilogy Ring in Yellow Gold Tone 3.25 Ct.",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019885335",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-26",
+      "time": "22:13:18",
+      "productUrl": null,
+      "lastUpdated": 1790457198818,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790457141780,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -432381,11 +432399,22 @@
         "followingSku": "8216017",
         "followingTitle": "EverTrue Butterfly & Floral Openwork Cuff Bangle (Size - 7.5) in Yellow Gold Tone",
         "followingAuctionCode": "0019885289"
+      },
+      {
+        "start": 1790457141780,
+        "end": 1790457198818,
+        "durationMin": 1.0,
+        "precedingSku": "8192590",
+        "precedingTitle": "D'joy Natural Shungite Station Necklace (Size 20) with Lobster Clasp in Rhodium Overlay Sterling Silver 70.00 Ct.",
+        "precedingAuctionCode": "0019885284",
+        "followingSku": "8503676",
+        "followingTitle": "EverTrue - Green Onyx Trilogy Ring in Yellow Gold Tone 3.25 Ct.",
+        "followingAuctionCode": "0019885335"
       }
     ],
-    "lastOnAirSku": "8192590",
-    "lastOnAirTitle": "D'joy Natural Shungite Station Necklace (Size 20) with Lobster Clasp in Rhodium Overlay Sterling Silver 70.00 Ct.",
-    "lastOnAirAuctionCode": "0019885284",
+    "lastOnAirSku": "8503676",
+    "lastOnAirTitle": "EverTrue - Green Onyx Trilogy Ring in Yellow Gold Tone 3.25 Ct.",
+    "lastOnAirAuctionCode": "0019885335",
     "precedingSku": "8192590",
     "precedingTitle": "D'joy Natural Shungite Station Necklace (Size 20) with Lobster Clasp in Rhodium Overlay Sterling Silver 70.00 Ct.",
     "precedingAuctionCode": "0019885284"
