@@ -285738,21 +285738,26 @@
       "sku": "8646453",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-02",
-      "time": "02:40:35",
+      "date": "2026-09-26",
+      "time": "02:32:23",
       "preExisting": true,
       "missedAt": 1788313235920,
       "missedDelay": null,
-      "lastUpdated": 1788313235920,
+      "lastUpdated": 1790386343928,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Miniso Wireless Earbud - Green",
-      "auctionCode": "0019853553",
+      "auctionCode": "0019883836",
       "source": "gha",
       "productUrl": "/products/miniso-wireless-earbud-9068646453",
       "productUrlChecked": 1788313243990,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790386343928,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8642607": {
       "sku": "8642607",
@@ -390817,8 +390822,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790386278241,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429582,11 +429587,22 @@
         "followingSku": "8169026",
         "followingTitle": "22K Gold Foil Flakes in Bottle",
         "followingAuctionCode": "0019883833"
+      },
+      {
+        "start": 1790386278241,
+        "end": 1790386343928,
+        "durationMin": 1.1,
+        "precedingSku": "8201306",
+        "precedingTitle": "LIVMORE Handcrafted 150 Lapis Lazuli Gemstone Bonsai Feng Shui Tree (30.48 cm) - Blue",
+        "precedingAuctionCode": "0019883816",
+        "followingSku": "8646453",
+        "followingTitle": "Miniso Wireless Earbud - Green",
+        "followingAuctionCode": "0019883836"
       }
     ],
-    "lastOnAirSku": "8201306",
-    "lastOnAirTitle": "LIVMORE Handcrafted 150 Lapis Lazuli Gemstone Bonsai Feng Shui Tree (30.48 cm) - Blue",
-    "lastOnAirAuctionCode": "0019883816",
+    "lastOnAirSku": "8646453",
+    "lastOnAirTitle": "Miniso Wireless Earbud - Green",
+    "lastOnAirAuctionCode": "0019883836",
     "precedingSku": "8201306",
     "precedingTitle": "LIVMORE Handcrafted 150 Lapis Lazuli Gemstone Bonsai Feng Shui Tree (30.48 cm) - Blue",
     "precedingAuctionCode": "0019883816"
