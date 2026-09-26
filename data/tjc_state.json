@@ -204490,17 +204490,17 @@
       "firstAir": 1787247051494,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787247450061,
+      "lastAir": 1790385032467,
       "title": "22K Gold Foil Flakes in Bottle",
-      "pdpPrice": "4.99",
-      "auctionCode": "0019828958",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019883833",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-20",
-      "time": "18:37:30",
+      "date": "2026-09-26",
+      "time": "02:10:32",
       "productUrl": "/products/22k-gold-foil-flakes-in-bottle",
-      "lastUpdated": 1787247992312,
+      "lastUpdated": 1790385032467,
       "source": "gha",
       "missedAt": 1787247992312,
       "missedDelay": 9,
@@ -390805,8 +390805,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790384961743,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429559,11 +429559,22 @@
         "followingSku": "8697666",
         "followingTitle": "Curver Water Bottle with Flip-Top Lid and Carry Strap (420ml) - Pastel Blue",
         "followingAuctionCode": "0019883839"
+      },
+      {
+        "start": 1790384961743,
+        "end": 1790385032467,
+        "durationMin": 1.2,
+        "precedingSku": "8697666",
+        "precedingTitle": "Curver Water Bottle with Flip-Top Lid and Carry Strap (420ml) - Pastel Blue",
+        "precedingAuctionCode": "0019883839",
+        "followingSku": "8169026",
+        "followingTitle": "22K Gold Foil Flakes in Bottle",
+        "followingAuctionCode": "0019883833"
       }
     ],
-    "lastOnAirSku": "8697666",
-    "lastOnAirTitle": "Curver Water Bottle with Flip-Top Lid and Carry Strap (420ml) - Pastel Blue",
-    "lastOnAirAuctionCode": "0019883839",
+    "lastOnAirSku": "8169026",
+    "lastOnAirTitle": "22K Gold Foil Flakes in Bottle",
+    "lastOnAirAuctionCode": "0019883833",
     "precedingSku": "8697666",
     "precedingTitle": "Curver Water Bottle with Flip-Top Lid and Carry Strap (420ml) - Pastel Blue",
     "precedingAuctionCode": "0019883839"
