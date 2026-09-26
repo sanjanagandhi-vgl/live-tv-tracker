@@ -390979,11 +390979,29 @@
       "productUrl": null,
       "lastUpdated": 1790395582051,
       "source": "gha"
+    },
+    "7341212": {
+      "sku": "7341212",
+      "firstAir": 1790395879429,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790395879429,
+      "title": "9K Rose Gold  Earring,  Gold Wt. 1.5 Gms",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019883751",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-26",
+      "time": "05:11:19",
+      "productUrl": null,
+      "lastUpdated": 1790395879429,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790395836105,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429835,11 +429853,22 @@
         "followingSku": "7328230",
         "followingTitle": "9K Yellow Gold  Anklet,  Gold Wt. 0.84 Gms",
         "followingAuctionCode": "0019883748"
+      },
+      {
+        "start": 1790395836105,
+        "end": 1790395879429,
+        "durationMin": 0.7,
+        "precedingSku": "7337804",
+        "precedingTitle": "9K Yellow Gold  Earring,  Gold Wt. 1.1 Gms",
+        "precedingAuctionCode": "0019883750",
+        "followingSku": "7341212",
+        "followingTitle": "9K Rose Gold  Earring,  Gold Wt. 1.5 Gms",
+        "followingAuctionCode": "0019883751"
       }
     ],
-    "lastOnAirSku": "7337804",
-    "lastOnAirTitle": "9K Yellow Gold  Earring,  Gold Wt. 1.1 Gms",
-    "lastOnAirAuctionCode": "0019883750",
+    "lastOnAirSku": "7341212",
+    "lastOnAirTitle": "9K Rose Gold  Earring,  Gold Wt. 1.5 Gms",
+    "lastOnAirAuctionCode": "0019883751",
     "precedingSku": "7337804",
     "precedingTitle": "9K Yellow Gold  Earring,  Gold Wt. 1.1 Gms",
     "precedingAuctionCode": "0019883750"
