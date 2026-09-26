@@ -391473,9 +391473,16 @@
       "img": true,
       "date": "2026-09-26",
       "time": "14:18:20",
-      "productUrl": null,
-      "lastUpdated": 1790428700875,
-      "source": "gha"
+      "productUrl": "/products/djoy-natural-larimar-skyblue-topaz-dangling-earring-with-push-post-in-platinum-overlay-sterling-silver-3-00-ct",
+      "lastUpdated": 1790429301953,
+      "source": "gha",
+      "missedAt": 1790429301953,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1790429304743,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4497026": {
       "sku": "4497026",
@@ -391500,8 +391507,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790429301953,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430710,8 +430717,8 @@
     "lastOnAirSku": "8261910",
     "lastOnAirTitle": "Live From Vegas - Designer Inspired - Multi Color Cubic Zirconia Cuff Bangle (Size - 7.5)",
     "lastOnAirAuctionCode": "0019885080",
-    "precedingSku": "7509256",
-    "precedingTitle": "D'Joy Tanzanite Solitaire Earrings with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver 0.96 Ct.",
-    "precedingAuctionCode": "0019885062"
+    "precedingSku": "8261910",
+    "precedingTitle": "Live From Vegas - Designer Inspired - Multi Color Cubic Zirconia Cuff Bangle (Size - 7.5)",
+    "precedingAuctionCode": "0019885080"
   }
 }
