@@ -257741,21 +257741,26 @@
       "sku": "8580805",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-27",
-      "time": "21:57:19",
+      "date": "2026-09-26",
+      "time": "04:11:17",
       "preExisting": true,
       "missedAt": 1787864239791,
       "missedDelay": null,
-      "lastUpdated": 1787864239791,
+      "lastUpdated": 1790392277834,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "GAMAGES OF LONDON Lancaster Limited Edition Hand Assembled Mechanical Quartz Mens Watch in Stainless Steel - Rose Red",
-      "auctionCode": "0019845530",
+      "auctionCode": "0019883734",
       "source": "gha",
       "productUrl": "/products/gamages-of-london-limited-edition-hand-assembled-cromwell-mecha-quartz-3atm-water-resistant-watch-with-genuine-leather-strap-with-5-year-warranty-2768625168",
       "productUrlChecked": 1787864244470,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790392277834,
+      "pdpPrice": "149.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8433943": {
       "sku": "8433943",
@@ -390951,8 +390956,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790392238132,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -429760,11 +429765,22 @@
         "followingSku": "8419656",
         "followingTitle": "Genuine Leather Designer Minimalist Zipper Crossbody Top Handle Box Bag - Black",
         "followingAuctionCode": "0019883786"
+      },
+      {
+        "start": 1790392238132,
+        "end": 1790392277834,
+        "durationMin": 0.7,
+        "precedingSku": "7864795",
+        "precedingTitle": "La Marey Couture Femme Vintage Blazer",
+        "precedingAuctionCode": "0019884953",
+        "followingSku": "8580805",
+        "followingTitle": "GAMAGES OF LONDON Lancaster Limited Edition Hand Assembled Mechanical Quartz Mens Watch in Stainless Steel - Rose Red",
+        "followingAuctionCode": "0019883734"
       }
     ],
-    "lastOnAirSku": "7864795",
-    "lastOnAirTitle": "La Marey Couture Femme Vintage Blazer",
-    "lastOnAirAuctionCode": "0019884953",
+    "lastOnAirSku": "8580805",
+    "lastOnAirTitle": "GAMAGES OF LONDON Lancaster Limited Edition Hand Assembled Mechanical Quartz Mens Watch in Stainless Steel - Rose Red",
+    "lastOnAirAuctionCode": "0019883734",
     "precedingSku": "7864795",
     "precedingTitle": "La Marey Couture Femme Vintage Blazer",
     "precedingAuctionCode": "0019884953"
