@@ -213820,23 +213820,23 @@
       "sku": "8324445",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-22",
-      "time": "04:04:24",
+      "date": "2026-09-27",
+      "time": "00:30:50",
       "preExisting": true,
       "missedAt": 1787339661877,
       "missedDelay": null,
-      "lastUpdated": 1790046264675,
+      "lastUpdated": 1790465450772,
       "missedPrice": 12.99,
       "missedImg": true,
       "title": "NOD Homage EDP - 30ml",
-      "auctionCode": "0019879482",
+      "auctionCode": "0019885921",
       "source": "gha",
       "productUrl": "/products/nod-homage-edp-30ml?variant=53107359154442",
       "productUrlChecked": 1787339673492,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790046264675,
-      "pdpPrice": 19.99,
+      "lastAir": 1790465450772,
+      "pdpPrice": "39.99",
       "buy": true,
       "login": false,
       "img": true
@@ -393420,8 +393420,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790465356731,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433043,11 +433043,22 @@
         "followingSku": "8615746",
         "followingTitle": "Womens Genuine Leather Slouchy Hobo Convertible Shoulder & Crossbody Bag - Green",
         "followingAuctionCode": "0019885930"
+      },
+      {
+        "start": 1790465356731,
+        "end": 1790465450772,
+        "durationMin": 1.6,
+        "precedingSku": "8615746",
+        "precedingTitle": "Womens Genuine Leather Slouchy Hobo Convertible Shoulder & Crossbody Bag - Green",
+        "precedingAuctionCode": "0019885930",
+        "followingSku": "8324445",
+        "followingTitle": "NOD Homage EDP - 30ml",
+        "followingAuctionCode": "0019885921"
       }
     ],
-    "lastOnAirSku": "8615746",
-    "lastOnAirTitle": "Womens Genuine Leather Slouchy Hobo Convertible Shoulder & Crossbody Bag - Green",
-    "lastOnAirAuctionCode": "0019885930",
+    "lastOnAirSku": "8324445",
+    "lastOnAirTitle": "NOD Homage EDP - 30ml",
+    "lastOnAirAuctionCode": "0019885921",
     "precedingSku": "8615746",
     "precedingTitle": "Womens Genuine Leather Slouchy Hobo Convertible Shoulder & Crossbody Bag - Green",
     "precedingAuctionCode": "0019885930"
