@@ -96345,17 +96345,17 @@
       "firstAir": 1786091727758,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787967200021,
+      "lastAir": 1790428582496,
       "title": "Close Out Deal - Sterling Silver Rhombus Drop Earring with Push Back",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019847896",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019885063",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-29",
-      "time": "02:33:20",
+      "date": "2026-09-26",
+      "time": "14:16:22",
       "productUrl": "/products/close-out-deal-sterling-silver-rhombus-drop-earring-with-push-back",
-      "lastUpdated": 1787967200021,
+      "lastUpdated": 1790428582496,
       "source": "gha",
       "missedAt": 1786092388387,
       "missedDelay": 9,
@@ -391429,8 +391429,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790428533659,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430623,11 +430623,22 @@
         "followingSku": "8618139",
         "followingTitle": "D'Joy - Premium Peach Edison (9-10mm) Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 11.80 Ct.",
         "followingAuctionCode": "0019885060"
+      },
+      {
+        "start": 1790428533659,
+        "end": 1790428582496,
+        "durationMin": 0.8,
+        "precedingSku": "7509256",
+        "precedingTitle": "D'Joy Tanzanite Solitaire Earrings with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver 0.96 Ct.",
+        "precedingAuctionCode": "0019885062",
+        "followingSku": "8503401",
+        "followingTitle": "Close Out Deal - Sterling Silver Rhombus Drop Earring with Push Back",
+        "followingAuctionCode": "0019885063"
       }
     ],
-    "lastOnAirSku": "7509256",
-    "lastOnAirTitle": "D'Joy Tanzanite Solitaire Earrings with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver 0.96 Ct.",
-    "lastOnAirAuctionCode": "0019885062",
+    "lastOnAirSku": "8503401",
+    "lastOnAirTitle": "Close Out Deal - Sterling Silver Rhombus Drop Earring with Push Back",
+    "lastOnAirAuctionCode": "0019885063",
     "precedingSku": "7509256",
     "precedingTitle": "D'Joy Tanzanite Solitaire Earrings with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver 0.96 Ct.",
     "precedingAuctionCode": "0019885062"
