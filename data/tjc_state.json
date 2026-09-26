@@ -80790,21 +80790,26 @@
       "sku": "8709936",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-05",
-      "time": "19:36:29",
+      "date": "2026-09-26",
+      "time": "18:42:20",
       "preExisting": true,
       "missedAt": 1785954989907,
       "missedDelay": null,
-      "lastUpdated": 1785954989907,
+      "lastUpdated": 1790444540677,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "D'Joy - Natural Chrome Diopside 7 Stone Band Ring in Platinum Overlay Sterling Silver 1.45 Ct.",
-      "auctionCode": "0019808965",
+      "auctionCode": "0019885235",
       "source": "gha",
       "productUrl": "/products/luxuriant-natural-chrome-diopside-lab-grown-diamond-3-stone-ring-sterling-silver-1-331-ct-8706441",
       "productUrlChecked": 1785955035768,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790444540677,
+      "pdpPrice": "129.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8709938": {
       "sku": "8709938",
@@ -392497,8 +392502,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790444434950,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -431867,11 +431872,22 @@
         "followingSku": "8706847",
         "followingTitle": "Luxuriant - Natural Chrome Diopside & Lab Grown Diamond (SI-G-H) Floral Cluster Ring in Rhodium Overlay Sterling Silver 2.16 Ct.",
         "followingAuctionCode": "0019885299"
+      },
+      {
+        "start": 1790444434950,
+        "end": 1790444540677,
+        "durationMin": 1.8,
+        "precedingSku": "8706847",
+        "precedingTitle": "Luxuriant - Natural Chrome Diopside & Lab Grown Diamond (SI-G-H) Floral Cluster Ring in Rhodium Overlay Sterling Silver 2.16 Ct.",
+        "precedingAuctionCode": "0019885299",
+        "followingSku": "8709936",
+        "followingTitle": "D'Joy - Natural Chrome Diopside 7 Stone Band Ring in Platinum Overlay Sterling Silver 1.45 Ct.",
+        "followingAuctionCode": "0019885235"
       }
     ],
-    "lastOnAirSku": "8706847",
-    "lastOnAirTitle": "Luxuriant - Natural Chrome Diopside & Lab Grown Diamond (SI-G-H) Floral Cluster Ring in Rhodium Overlay Sterling Silver 2.16 Ct.",
-    "lastOnAirAuctionCode": "0019885299",
+    "lastOnAirSku": "8709936",
+    "lastOnAirTitle": "D'Joy - Natural Chrome Diopside 7 Stone Band Ring in Platinum Overlay Sterling Silver 1.45 Ct.",
+    "lastOnAirAuctionCode": "0019885235",
     "precedingSku": "8706847",
     "precedingTitle": "Luxuriant - Natural Chrome Diopside & Lab Grown Diamond (SI-G-H) Floral Cluster Ring in Rhodium Overlay Sterling Silver 2.16 Ct.",
     "precedingAuctionCode": "0019885299"
