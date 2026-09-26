@@ -353,22 +353,22 @@
       "sku": "8699240",
       "tvPrice": "",
       "remarks": "",
-      "time": "00:14:20",
+      "time": "12:18:23",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "Biggest Close Out Deal- 9K Yellow Gold Shiny Octagon Links Bracelet (Size - 7.5). Gold Wt 6.75 Gms",
-      "auctionCode": "0019878711",
+      "auctionCode": "0019884937",
       "source": "gha",
-      "lastAir": 1789946060848,
+      "lastAir": 1790421503864,
       "pdpPrice": "799.99",
       "buy": true,
       "login": false,
-      "img": true,
-      "date": "2026-09-21",
-      "lastUpdated": 1789946060848,
+      "img": false,
+      "date": "2026-09-26",
+      "lastUpdated": 1790421503864,
       "productUrl": null
     },
     "8412220": {
@@ -391370,8 +391370,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790421437688,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -430465,11 +430465,22 @@
         "followingSku": "8535396",
         "followingTitle": "One Time CloseOut-Ladies Colour Block Saddle Crossbody Bag - White",
         "followingAuctionCode": "0019884129"
+      },
+      {
+        "start": 1790421437688,
+        "end": 1790421503864,
+        "durationMin": 1.1,
+        "precedingSku": "8668661",
+        "precedingTitle": "Biggest Close Out Deal- ITALIAN 9K Yellow Gold Paperclip Necklace (Size - 18)",
+        "precedingAuctionCode": "0019884935",
+        "followingSku": "8699240",
+        "followingTitle": "Biggest Close Out Deal- 9K Yellow Gold Shiny Octagon Links Bracelet (Size - 7.5). Gold Wt 6.75 Gms",
+        "followingAuctionCode": "0019884937"
       }
     ],
-    "lastOnAirSku": "8668661",
-    "lastOnAirTitle": "Biggest Close Out Deal- ITALIAN 9K Yellow Gold Paperclip Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019884935",
+    "lastOnAirSku": "8699240",
+    "lastOnAirTitle": "Biggest Close Out Deal- 9K Yellow Gold Shiny Octagon Links Bracelet (Size - 7.5). Gold Wt 6.75 Gms",
+    "lastOnAirAuctionCode": "0019884937",
     "precedingSku": "8668661",
     "precedingTitle": "Biggest Close Out Deal- ITALIAN 9K Yellow Gold Paperclip Necklace (Size - 18)",
     "precedingAuctionCode": "0019884935"
