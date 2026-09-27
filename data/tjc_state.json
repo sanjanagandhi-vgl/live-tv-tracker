@@ -393786,11 +393786,29 @@
       "auctionCode": "0019884741",
       "source": "gha",
       "productUrl": null
+    },
+    "8658952": {
+      "sku": "8658952",
+      "firstAir": 1790497039836,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790497039836,
+      "title": "DEAL OF THE DAY - BRAND NEW Livmore High Impact Suction Garment Steamer with Dry Iron, Steam, Steam and Suction including 1 Year warranty - White",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019885115",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "09:17:19",
+      "productUrl": null,
+      "lastUpdated": 1790497039836,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790496933842,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433797,11 +433815,22 @@
         "followingSku": "8630981",
         "followingTitle": "LOWEST EVER PRICE - Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
         "followingAuctionCode": "0019884800"
+      },
+      {
+        "start": 1790496933842,
+        "end": 1790497039836,
+        "durationMin": 1.8,
+        "precedingSku": "8630981",
+        "precedingTitle": "LOWEST EVER PRICE - Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
+        "precedingAuctionCode": "0019884800",
+        "followingSku": "8658952",
+        "followingTitle": "DEAL OF THE DAY - BRAND NEW Livmore High Impact Suction Garment Steamer with Dry Iron, Steam, Steam and Suction including 1 Year warranty - White",
+        "followingAuctionCode": "0019885115"
       }
     ],
-    "lastOnAirSku": "8630981",
-    "lastOnAirTitle": "LOWEST EVER PRICE - Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
-    "lastOnAirAuctionCode": "0019884800",
+    "lastOnAirSku": "8658952",
+    "lastOnAirTitle": "DEAL OF THE DAY - BRAND NEW Livmore High Impact Suction Garment Steamer with Dry Iron, Steam, Steam and Suction including 1 Year warranty - White",
+    "lastOnAirAuctionCode": "0019885115",
     "precedingSku": "8630981",
     "precedingTitle": "LOWEST EVER PRICE - Heavy Duty Dirt Trapping Elastic Wire Doormat - Non Slip Entrance Mat - Black & Red",
     "precedingAuctionCode": "0019884800"
