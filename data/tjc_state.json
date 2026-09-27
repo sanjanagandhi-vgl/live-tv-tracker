@@ -393994,11 +393994,29 @@
       "productUrlChecked": 1790509584003,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8692383": {
+      "sku": "8692383",
+      "firstAir": 1790510060344,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790510060344,
+      "title": "9K Yellow Gold Hoop Earring",
+      "pdpPrice": "999.99",
+      "auctionCode": "0019885227",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "12:54:20",
+      "productUrl": null,
+      "lastUpdated": 1790510060344,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790509877339,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -434203,11 +434221,22 @@
         "followingSku": "6025269",
         "followingTitle": "Italian Made 9K Yellow Gold Mesh Stretchable Bangle (Size - 7.25)",
         "followingAuctionCode": "0019884767"
+      },
+      {
+        "start": 1790509877339,
+        "end": 1790510060344,
+        "durationMin": 3.1,
+        "precedingSku": "6025269",
+        "precedingTitle": "Italian Made 9K Yellow Gold Mesh Stretchable Bangle (Size - 7.25)",
+        "precedingAuctionCode": "0019884767",
+        "followingSku": "8692383",
+        "followingTitle": "9K Yellow Gold Hoop Earring",
+        "followingAuctionCode": "0019885227"
       }
     ],
-    "lastOnAirSku": "6025269",
-    "lastOnAirTitle": "Italian Made 9K Yellow Gold Mesh Stretchable Bangle (Size - 7.25)",
-    "lastOnAirAuctionCode": "0019884767",
+    "lastOnAirSku": "8692383",
+    "lastOnAirTitle": "9K Yellow Gold Hoop Earring",
+    "lastOnAirAuctionCode": "0019885227",
     "precedingSku": "6025269",
     "precedingTitle": "Italian Made 9K Yellow Gold Mesh Stretchable Bangle (Size - 7.25)",
     "precedingAuctionCode": "0019884767"
