@@ -8823,16 +8823,16 @@
       "firstAir": 1784959834709,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786963159039,
+      "lastAir": 1790484637065,
       "title": "La Bella Handmade Byzantine Sterling Silver Necklace (Size - 20) with Lobster Clasp, Silver Wt. 47.91 Gms",
       "pdpPrice": "299.99",
-      "auctionCode": "0019825621",
+      "auctionCode": "0019884410",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "time": "11:39:19",
-      "lastUpdated": 1786963159039,
+      "date": "2026-09-27",
+      "time": "05:50:37",
+      "lastUpdated": 1790484637065,
       "source": "gha",
       "missedAt": 1784960728127,
       "missedDelay": 1,
@@ -393639,8 +393639,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790484564438,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433515,11 +433515,22 @@
         "followingSku": "7315468",
         "followingTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
         "followingAuctionCode": "0019884379"
+      },
+      {
+        "start": 1790484564438,
+        "end": 1790484637065,
+        "durationMin": 1.2,
+        "precedingSku": "7315468",
+        "precedingTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
+        "precedingAuctionCode": "0019884379",
+        "followingSku": "8478743",
+        "followingTitle": "La Bella Handmade Byzantine Sterling Silver Necklace (Size - 20) with Lobster Clasp, Silver Wt. 47.91 Gms",
+        "followingAuctionCode": "0019884410"
       }
     ],
-    "lastOnAirSku": "7315468",
-    "lastOnAirTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
-    "lastOnAirAuctionCode": "0019884379",
+    "lastOnAirSku": "8478743",
+    "lastOnAirTitle": "La Bella Handmade Byzantine Sterling Silver Necklace (Size - 20) with Lobster Clasp, Silver Wt. 47.91 Gms",
+    "lastOnAirAuctionCode": "0019884410",
     "precedingSku": "7315468",
     "precedingTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
     "precedingAuctionCode": "0019884379"
