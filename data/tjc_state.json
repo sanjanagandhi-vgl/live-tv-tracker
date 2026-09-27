@@ -353947,21 +353947,26 @@
       "sku": "8642562",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "19:41:20",
+      "date": "2026-09-27",
+      "time": "02:58:20",
       "preExisting": true,
       "missedAt": 1789584080240,
       "missedDelay": null,
-      "lastUpdated": 1789584080240,
+      "lastUpdated": 1790474300276,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Red",
-      "auctionCode": "0019873248",
+      "title": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+      "auctionCode": "0019884223",
       "source": "gha",
       "productUrl": "/products/livmore-showpiece-size-one-size-purple-8642560",
       "productUrlChecked": 1789584085311,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790474300276,
+      "pdpPrice": "12.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8696753": {
       "sku": "8696753",
@@ -393501,8 +393506,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790474182034,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433234,11 +433239,22 @@
         "followingSku": "8486132",
         "followingTitle": "Livmore Indoor-Outdoor Rug 440 Gsm Mat (Size 120x180 Cm) - Aqua",
         "followingAuctionCode": "0019884203"
+      },
+      {
+        "start": 1790474182034,
+        "end": 1790474300276,
+        "durationMin": 2.0,
+        "precedingSku": "8564876",
+        "precedingTitle": "LIVMORE Rhinestones Enamelled Tote Bag Shaped Trinket Jewellery Box - Red & Gold",
+        "precedingAuctionCode": "0019884190",
+        "followingSku": "8642562",
+        "followingTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+        "followingAuctionCode": "0019884223"
       }
     ],
-    "lastOnAirSku": "8564876",
-    "lastOnAirTitle": "LIVMORE Rhinestones Enamelled Tote Bag Shaped Trinket Jewellery Box - Red & Gold",
-    "lastOnAirAuctionCode": "0019884190",
+    "lastOnAirSku": "8642562",
+    "lastOnAirTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+    "lastOnAirAuctionCode": "0019884223",
     "precedingSku": "8564876",
     "precedingTitle": "LIVMORE Rhinestones Enamelled Tote Bag Shaped Trinket Jewellery Box - Red & Gold",
     "precedingAuctionCode": "0019884190"
