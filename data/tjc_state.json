@@ -19773,19 +19773,19 @@
       "sku": "8686775",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-21",
-      "time": "13:02:23",
+      "date": "2026-09-27",
+      "time": "11:07:19",
       "preExisting": true,
       "missedAt": 1785170358233,
       "missedDelay": null,
-      "lastUpdated": 1789992143341,
+      "lastUpdated": 1790503639667,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
-      "auctionCode": "0019879053",
+      "auctionCode": "0019885879",
       "source": "gha",
-      "lastAir": 1789992143341,
-      "pdpPrice": "129.99",
+      "lastAir": 1790503639667,
+      "pdpPrice": "8995.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -393920,8 +393920,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790503581913,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -434027,11 +434027,22 @@
         "followingSku": "8690235",
         "followingTitle": "D'Joy - Moissanite & Black Jade Solitaire Ring in Yellow Gold Plated Sterling Silver 14.60 Ct.",
         "followingAuctionCode": "0019886782"
+      },
+      {
+        "start": 1790503581913,
+        "end": 1790503639667,
+        "durationMin": 1.0,
+        "precedingSku": "8690235",
+        "precedingTitle": "D'Joy - Moissanite & Black Jade Solitaire Ring in Yellow Gold Plated Sterling Silver 14.60 Ct.",
+        "precedingAuctionCode": "0019886782",
+        "followingSku": "8686775",
+        "followingTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+        "followingAuctionCode": "0019885879"
       }
     ],
-    "lastOnAirSku": "8690235",
-    "lastOnAirTitle": "D'Joy - Moissanite & Black Jade Solitaire Ring in Yellow Gold Plated Sterling Silver 14.60 Ct.",
-    "lastOnAirAuctionCode": "0019886782",
+    "lastOnAirSku": "8686775",
+    "lastOnAirTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+    "lastOnAirAuctionCode": "0019885879",
     "precedingSku": "8690235",
     "precedingTitle": "D'Joy - Moissanite & Black Jade Solitaire Ring in Yellow Gold Plated Sterling Silver 14.60 Ct.",
     "precedingAuctionCode": "0019886782"
