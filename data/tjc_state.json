@@ -21418,19 +21418,19 @@
       "sku": "8591116",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "20:35:28",
+      "date": "2026-09-27",
+      "time": "21:39:18",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1789414528400,
+      "lastUpdated": 1790541558852,
       "missedPrice": 249.99,
       "missedImg": true,
       "title": "9K Yellow Gold AAA Golden South Sea Pearl (9-11mm) Stud Ball Earring with Push Post",
-      "auctionCode": "0019868784",
+      "auctionCode": "0019884717",
       "source": "gha",
-      "lastAir": 1789414528400,
-      "pdpPrice": "329.99",
+      "lastAir": 1790541558852,
+      "pdpPrice": "3987.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -395933,8 +395933,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790541503475,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -436447,11 +436447,22 @@
         "followingSku": "8762572",
         "followingTitle": "FIND OF THE YEAR- 950 Platinum AAAA Golden South Sea Pearl (7mm to 12mm) Graduated Necklace (Size - 17.5) 230.00 Ct,",
         "followingAuctionCode": "0019884702"
+      },
+      {
+        "start": 1790541503475,
+        "end": 1790541558852,
+        "durationMin": 0.9,
+        "precedingSku": "8671705",
+        "precedingTitle": "18K Yellow Gold AAAA Golden South Sea Pearl Pendant 16.70 Ct.",
+        "precedingAuctionCode": "0019884703",
+        "followingSku": "8591116",
+        "followingTitle": "9K Yellow Gold AAA Golden South Sea Pearl (9-11mm) Stud Ball Earring with Push Post",
+        "followingAuctionCode": "0019884717"
       }
     ],
-    "lastOnAirSku": "8671705",
-    "lastOnAirTitle": "18K Yellow Gold AAAA Golden South Sea Pearl Pendant 16.70 Ct.",
-    "lastOnAirAuctionCode": "0019884703",
+    "lastOnAirSku": "8591116",
+    "lastOnAirTitle": "9K Yellow Gold AAA Golden South Sea Pearl (9-11mm) Stud Ball Earring with Push Post",
+    "lastOnAirAuctionCode": "0019884717",
     "precedingSku": "8671705",
     "precedingTitle": "18K Yellow Gold AAAA Golden South Sea Pearl Pendant 16.70 Ct.",
     "precedingAuctionCode": "0019884703"
