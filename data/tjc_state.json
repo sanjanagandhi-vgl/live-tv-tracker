@@ -318387,21 +318387,26 @@
       "sku": "8658396",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-08",
-      "time": "03:39:19",
+      "date": "2026-09-27",
+      "time": "02:15:32",
       "preExisting": true,
       "missedAt": 1788835159518,
       "missedDelay": null,
-      "lastUpdated": 1788835159518,
+      "lastUpdated": 1790471732594,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Natures Wick - Sea Salt Watermelon Woodwick Medium Jar - Pink. 284grams",
-      "auctionCode": "0019860830",
+      "title": "Natures Wick - Sun Ripened Pear Woodwick Medium Jar - Yellow. 284grams",
+      "auctionCode": "0019884204",
       "source": "gha",
       "productUrl": "/products/natures-wick-sun-ripened-pear-woodwick-medium-jar-yellow-284grams",
       "productUrlChecked": 1788835162604,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790471732594,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8586709": {
       "sku": "8586709",
@@ -393491,8 +393496,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790471660909,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433191,11 +433196,22 @@
         "followingSku": "7814519",
         "followingTitle": "Light-up Christmas Cottage in a Dome",
         "followingAuctionCode": "0019884224"
+      },
+      {
+        "start": 1790471660909,
+        "end": 1790471732594,
+        "durationMin": 1.2,
+        "precedingSku": "7827668",
+        "precedingTitle": "Set Of 70 Christmas Baubles",
+        "precedingAuctionCode": "0019884227",
+        "followingSku": "8658396",
+        "followingTitle": "Natures Wick - Sun Ripened Pear Woodwick Medium Jar - Yellow. 284grams",
+        "followingAuctionCode": "0019884204"
       }
     ],
-    "lastOnAirSku": "7827668",
-    "lastOnAirTitle": "Set Of 70 Christmas Baubles",
-    "lastOnAirAuctionCode": "0019884227",
+    "lastOnAirSku": "8658396",
+    "lastOnAirTitle": "Natures Wick - Sun Ripened Pear Woodwick Medium Jar - Yellow. 284grams",
+    "lastOnAirAuctionCode": "0019884204",
     "precedingSku": "7827668",
     "precedingTitle": "Set Of 70 Christmas Baubles",
     "precedingAuctionCode": "0019884227"
