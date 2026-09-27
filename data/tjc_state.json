@@ -140140,21 +140140,26 @@
       "sku": "8556615",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-12",
-      "time": "05:18:23",
+      "date": "2026-09-27",
+      "time": "18:06:27",
       "preExisting": true,
       "missedAt": 1786508303759,
       "missedDelay": null,
-      "lastUpdated": 1786508303759,
+      "lastUpdated": 1790528787113,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "9K Yellow Gold Ball Stud Earrings",
-      "auctionCode": "0019816521",
+      "auctionCode": "0019887117",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-ball-stud-earrings-ball-3-mm-post-7-5x0-65mm-with-silicon-back",
       "productUrlChecked": 1786508314445,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790528787113,
+      "pdpPrice": "457.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8572409": {
       "sku": "8572409",
@@ -395787,8 +395792,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790528732878,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -436169,11 +436174,22 @@
         "followingSku": "8790156",
         "followingTitle": "Luxuriant - Lab Grown Padparadscha Sapphire & White Zircon Necklace (Size - 20) in Yellow Gold Plated Sterling Silver 4.15 Ct.",
         "followingAuctionCode": "0019885556"
+      },
+      {
+        "start": 1790528732878,
+        "end": 1790528787113,
+        "durationMin": 0.9,
+        "precedingSku": "8754768",
+        "precedingTitle": "CUSTOMER APPRECIATION DEAL - Premium Lab Grown Padparadscha Sapphire Solitaire Ring in Platinum O...",
+        "precedingAuctionCode": "0019887162",
+        "followingSku": "8556615",
+        "followingTitle": "9K Yellow Gold Ball Stud Earrings",
+        "followingAuctionCode": "0019887117"
       }
     ],
-    "lastOnAirSku": "8754768",
-    "lastOnAirTitle": "CUSTOMER APPRECIATION DEAL - Premium Lab Grown Padparadscha Sapphire Solitaire Ring in Platinum O...",
-    "lastOnAirAuctionCode": "0019887162",
+    "lastOnAirSku": "8556615",
+    "lastOnAirTitle": "9K Yellow Gold Ball Stud Earrings",
+    "lastOnAirAuctionCode": "0019887117",
     "precedingSku": "8754768",
     "precedingTitle": "CUSTOMER APPRECIATION DEAL - Premium Lab Grown Padparadscha Sapphire Solitaire Ring in Platinum O...",
     "precedingAuctionCode": "0019887162"
