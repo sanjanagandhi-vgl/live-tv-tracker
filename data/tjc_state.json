@@ -5791,21 +5791,22 @@
       "firstAir": 1784901799333,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784902398357,
-      "title": "Ashwood Highgate Real Leather Crossbody Shoulder Bag - Black",
-      "pdpPrice": 49.99,
-      "auctionCode": "0019792876",
-      "buy": false,
+      "lastAir": 1790475261814,
+      "title": "Ashwood Highgate Real Leather Crossbody Shoulder Bag - Taupe",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019884273",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-24",
-      "time": "15:13:18",
-      "lastUpdated": 1784902462481,
+      "date": "2026-09-27",
+      "time": "03:14:21",
+      "lastUpdated": 1790475261814,
       "source": "gha",
       "missedAt": 1784902462481,
       "missedDelay": 1,
       "missedPrice": 49.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8660942": {
       "sku": "8660942",
@@ -393516,8 +393517,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790475142326,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433260,11 +433261,22 @@
         "followingSku": "8642562",
         "followingTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
         "followingAuctionCode": "0019884223"
+      },
+      {
+        "start": 1790475142326,
+        "end": 1790475261814,
+        "durationMin": 2.0,
+        "precedingSku": "8642561",
+        "precedingTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+        "precedingAuctionCode": "0019884185",
+        "followingSku": "8660801",
+        "followingTitle": "Ashwood Highgate Real Leather Crossbody Shoulder Bag - Taupe",
+        "followingAuctionCode": "0019884273"
       }
     ],
-    "lastOnAirSku": "8642561",
-    "lastOnAirTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
-    "lastOnAirAuctionCode": "0019884185",
+    "lastOnAirSku": "8660801",
+    "lastOnAirTitle": "Ashwood Highgate Real Leather Crossbody Shoulder Bag - Taupe",
+    "lastOnAirAuctionCode": "0019884273",
     "precedingSku": "8642561",
     "precedingTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
     "precedingAuctionCode": "0019884185"
