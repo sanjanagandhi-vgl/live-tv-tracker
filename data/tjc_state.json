@@ -89114,23 +89114,23 @@
       "sku": "8668670",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "05:24:23",
+      "date": "2026-09-27",
+      "time": "18:52:21",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1789878263010,
+      "lastUpdated": 1790531541158,
       "missedPrice": 299.99,
       "missedImg": true,
       "title": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
-      "auctionCode": "0019875422",
+      "auctionCode": "0019887105",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-cross-necklace-size-16-with-spring-ring-clasp-8668670?variant=53473709981962",
       "productUrlChecked": 1786057427769,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1789878263010,
-      "pdpPrice": "179.99",
+      "lastAir": 1790531541158,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true
@@ -395795,8 +395795,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790531435185,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -436243,11 +436243,22 @@
         "followingSku": "7674311",
         "followingTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
         "followingAuctionCode": "0019887115"
+      },
+      {
+        "start": 1790531435185,
+        "end": 1790531541158,
+        "durationMin": 1.8,
+        "precedingSku": "7674311",
+        "precedingTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
+        "precedingAuctionCode": "0019887115",
+        "followingSku": "8668670",
+        "followingTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
+        "followingAuctionCode": "0019887105"
       }
     ],
-    "lastOnAirSku": "7674311",
-    "lastOnAirTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019887115",
+    "lastOnAirSku": "8668670",
+    "lastOnAirTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019887105",
     "precedingSku": "7674311",
     "precedingTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
     "precedingAuctionCode": "0019887115"
