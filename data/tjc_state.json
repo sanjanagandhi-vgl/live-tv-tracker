@@ -378971,21 +378971,26 @@
       "sku": "8634630",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-22",
-      "time": "11:45:35",
+      "date": "2026-09-27",
+      "time": "01:07:20",
       "preExisting": true,
       "missedAt": 1790073935793,
       "missedDelay": null,
-      "lastUpdated": 1790073935793,
+      "lastUpdated": 1790467640802,
       "missedPrice": 39.99,
       "missedImg": true,
-      "title": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions Colour - Orange",
-      "auctionCode": "0019880606",
+      "title": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions Colour - Blue",
+      "auctionCode": "0019885886",
       "source": "gha",
       "productUrl": "/products/toy-size-one-size-blue-8634629",
       "productUrlChecked": 1790073939594,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790467640802,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8206515": {
       "sku": "8206515",
@@ -393420,8 +393425,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790467465984,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433065,11 +433070,22 @@
         "followingSku": "8690903",
         "followingTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
         "followingAuctionCode": "0019886344"
+      },
+      {
+        "start": 1790467465984,
+        "end": 1790467640802,
+        "durationMin": 2.9,
+        "precedingSku": "8690903",
+        "precedingTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
+        "precedingAuctionCode": "0019886344",
+        "followingSku": "8634630",
+        "followingTitle": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions Colour - Blue",
+        "followingAuctionCode": "0019885886"
       }
     ],
-    "lastOnAirSku": "8690903",
-    "lastOnAirTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
-    "lastOnAirAuctionCode": "0019886344",
+    "lastOnAirSku": "8634630",
+    "lastOnAirTitle": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions Colour - Blue",
+    "lastOnAirAuctionCode": "0019885886",
     "precedingSku": "8690903",
     "precedingTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
     "precedingAuctionCode": "0019886344"
