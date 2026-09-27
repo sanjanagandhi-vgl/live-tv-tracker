@@ -393811,11 +393811,29 @@
       "productUrlChecked": 1790499202052,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8612952": {
+      "sku": "8612952",
+      "firstAir": 1790500278407,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790500278407,
+      "title": "D'Joy - GRA Certified Moissanite Floral Drop Earring with Push Back in Rhodium Overlay Sterling Silver 2.40 Ct.",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019885026",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "10:11:18",
+      "productUrl": null,
+      "lastUpdated": 1790500278407,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790500160701,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433855,11 +433873,22 @@
         "followingSku": "7827691",
         "followingTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200W, 2000W, and ECO)",
         "followingAuctionCode": "0019886775"
+      },
+      {
+        "start": 1790500160701,
+        "end": 1790500278407,
+        "durationMin": 2.0,
+        "precedingSku": "7827691",
+        "precedingTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200W, 2000W, and ECO)",
+        "precedingAuctionCode": "0019886775",
+        "followingSku": "8612952",
+        "followingTitle": "D'Joy - GRA Certified Moissanite Floral Drop Earring with Push Back in Rhodium Overlay Sterling Silver 2.40 Ct.",
+        "followingAuctionCode": "0019885026"
       }
     ],
-    "lastOnAirSku": "7827691",
-    "lastOnAirTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200W, 2000W, and ECO)",
-    "lastOnAirAuctionCode": "0019886775",
+    "lastOnAirSku": "8612952",
+    "lastOnAirTitle": "D'Joy - GRA Certified Moissanite Floral Drop Earring with Push Back in Rhodium Overlay Sterling Silver 2.40 Ct.",
+    "lastOnAirAuctionCode": "0019885026",
     "precedingSku": "7827691",
     "precedingTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200W, 2000W, and ECO)",
     "precedingAuctionCode": "0019886775"
