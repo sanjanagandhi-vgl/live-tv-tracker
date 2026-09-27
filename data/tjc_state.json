@@ -393478,14 +393478,21 @@
       "img": true,
       "date": "2026-09-27",
       "time": "02:04:23",
-      "productUrl": null,
-      "lastUpdated": 1790471063497,
-      "source": "gha"
+      "productUrl": "/products/bronzella-collection-evertrue-crucifix-pendant-with-chain-size-20-in-18k-yellow-gold-plating",
+      "lastUpdated": 1790471660909,
+      "source": "gha",
+      "missedAt": 1790471660909,
+      "missedDelay": 10,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1790471663836,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790471660909,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433189,8 +433196,8 @@
     "lastOnAirSku": "7827668",
     "lastOnAirTitle": "Set Of 70 Christmas Baubles",
     "lastOnAirAuctionCode": "0019884227",
-    "precedingSku": "4457447",
-    "precedingTitle": "Bronzella Collection - Crucifix Pendant with Chain (Size 20) in 18K Gold Plating 8.50 Gms",
-    "precedingAuctionCode": "0019885788"
+    "precedingSku": "7827668",
+    "precedingTitle": "Set Of 70 Christmas Baubles",
+    "precedingAuctionCode": "0019884227"
   }
 }
