@@ -393923,11 +393923,29 @@
       "productUrlChecked": 1790501548313,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8692239": {
+      "sku": "8692239",
+      "firstAir": 1790505633091,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790505633091,
+      "title": "Limited Edition - 9K Yellow Gold Bangle (Size - 7)",
+      "pdpPrice": "5999.99",
+      "auctionCode": "0019884688",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "11:40:33",
+      "productUrl": null,
+      "lastUpdated": 1790505633091,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790505501562,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -434055,11 +434073,22 @@
         "followingSku": "8427362",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Mesh Stretchable (Size 7 TO 9) - Bangle",
         "followingAuctionCode": "0019884992"
+      },
+      {
+        "start": 1790505501562,
+        "end": 1790505633091,
+        "durationMin": 2.2,
+        "precedingSku": "8626601",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
+        "precedingAuctionCode": "0019884679",
+        "followingSku": "8692239",
+        "followingTitle": "Limited Edition - 9K Yellow Gold Bangle (Size - 7)",
+        "followingAuctionCode": "0019884688"
       }
     ],
-    "lastOnAirSku": "8626601",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
-    "lastOnAirAuctionCode": "0019884679",
+    "lastOnAirSku": "8692239",
+    "lastOnAirTitle": "Limited Edition - 9K Yellow Gold Bangle (Size - 7)",
+    "lastOnAirAuctionCode": "0019884688",
     "precedingSku": "8626601",
     "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 22)",
     "precedingAuctionCode": "0019884679"
