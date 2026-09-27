@@ -393730,11 +393730,29 @@
       "missedDelay": 10,
       "missedPrice": 8.99,
       "missedImg": false
+    },
+    "8499432": {
+      "sku": "8499432",
+      "firstAir": 1790493141611,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790493141611,
+      "title": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Light Blue",
+      "pdpPrice": "279.99",
+      "auctionCode": "0019883427",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-27",
+      "time": "08:12:21",
+      "productUrl": null,
+      "lastUpdated": 1790493141611,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790493033826,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433708,11 +433726,22 @@
         "followingSku": "7827691",
         "followingTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200W, 2000W, and ECO)",
         "followingAuctionCode": "0019884804"
+      },
+      {
+        "start": 1790493033826,
+        "end": 1790493141611,
+        "durationMin": 1.8,
+        "precedingSku": "7827691",
+        "precedingTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200...",
+        "precedingAuctionCode": "0019884804",
+        "followingSku": "8499432",
+        "followingTitle": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Light Blue",
+        "followingAuctionCode": "0019883427"
       }
     ],
-    "lastOnAirSku": "7827691",
-    "lastOnAirTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200...",
-    "lastOnAirAuctionCode": "0019884804",
+    "lastOnAirSku": "8499432",
+    "lastOnAirTitle": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Light Blue",
+    "lastOnAirAuctionCode": "0019883427",
     "precedingSku": "7827691",
     "precedingTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200...",
     "precedingAuctionCode": "0019884804"
