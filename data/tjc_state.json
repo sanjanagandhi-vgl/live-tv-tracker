@@ -393662,11 +393662,29 @@
       "productUrl": null,
       "lastUpdated": 1790486240320,
       "source": "gha"
+    },
+    "8711428": {
+      "sku": "8711428",
+      "firstAir": 1790486357685,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790486357685,
+      "title": "Borosilicate Glass Water Bottle with Protective Silicone Sleeve (370ml) - Grey",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019886358",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "06:19:17",
+      "productUrl": null,
+      "lastUpdated": 1790486357685,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790486301161,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433563,11 +433581,22 @@
         "followingSku": "8800489",
         "followingTitle": "Pack of 2 - Stripe Print Knitted Cover Reusable Mini Hand Warmers - Multi Colour",
         "followingAuctionCode": "0019884784"
+      },
+      {
+        "start": 1790486301161,
+        "end": 1790486357685,
+        "durationMin": 0.9,
+        "precedingSku": "8711390",
+        "precedingTitle": "Apollo Copper and Stainless Steel Cocktail Shaker Set - Brown",
+        "precedingAuctionCode": "0019884743",
+        "followingSku": "8711428",
+        "followingTitle": "Borosilicate Glass Water Bottle with Protective Silicone Sleeve (370ml) - Grey",
+        "followingAuctionCode": "0019886358"
       }
     ],
-    "lastOnAirSku": "8711390",
-    "lastOnAirTitle": "Apollo Copper and Stainless Steel Cocktail Shaker Set - Brown",
-    "lastOnAirAuctionCode": "0019884743",
+    "lastOnAirSku": "8711428",
+    "lastOnAirTitle": "Borosilicate Glass Water Bottle with Protective Silicone Sleeve (370ml) - Grey",
+    "lastOnAirAuctionCode": "0019886358",
     "precedingSku": "8711390",
     "precedingTitle": "Apollo Copper and Stainless Steel Cocktail Shaker Set - Brown",
     "precedingAuctionCode": "0019884743"
