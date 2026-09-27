@@ -7927,16 +7927,16 @@
       "firstAir": 1784943197172,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789400241424,
+      "lastAir": 1790472647028,
       "title": "Hotel Quality Premium Pillow Pair - Set of 2 - White",
-      "pdpPrice": "14.99",
-      "auctionCode": "0019869727",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019884195",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-14",
-      "time": "16:37:21",
-      "lastUpdated": 1789400241424,
+      "date": "2026-09-27",
+      "time": "02:30:47",
+      "lastUpdated": 1790472647028,
       "source": "gha",
       "missedAt": 1784943557226,
       "missedDelay": 1,
@@ -393496,8 +393496,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790472557072,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433207,11 +433207,22 @@
         "followingSku": "8658396",
         "followingTitle": "Natures Wick - Sun Ripened Pear Woodwick Medium Jar - Yellow. 284grams",
         "followingAuctionCode": "0019884204"
+      },
+      {
+        "start": 1790472557072,
+        "end": 1790472647028,
+        "durationMin": 1.5,
+        "precedingSku": "8503685",
+        "precedingTitle": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
+        "precedingAuctionCode": "0019884218",
+        "followingSku": "8675128",
+        "followingTitle": "Hotel Quality Premium Pillow Pair - Set of 2 - White",
+        "followingAuctionCode": "0019884195"
       }
     ],
-    "lastOnAirSku": "8503685",
-    "lastOnAirTitle": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
-    "lastOnAirAuctionCode": "0019884218",
+    "lastOnAirSku": "8675128",
+    "lastOnAirTitle": "Hotel Quality Premium Pillow Pair - Set of 2 - White",
+    "lastOnAirAuctionCode": "0019884195",
     "precedingSku": "8503685",
     "precedingTitle": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
     "precedingAuctionCode": "0019884218"
