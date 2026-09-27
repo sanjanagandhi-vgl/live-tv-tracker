@@ -393519,11 +393519,29 @@
       "productUrlChecked": 1790471663836,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7848440": {
+      "sku": "7848440",
+      "firstAir": 1790476342051,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790476342051,
+      "title": "La Marey High Tie Tassel Poncho",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019884292",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "03:32:22",
+      "productUrl": null,
+      "lastUpdated": 1790476342051,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790476278044,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433299,11 +433317,22 @@
         "followingSku": "8270067",
         "followingTitle": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
         "followingAuctionCode": "0019884253"
+      },
+      {
+        "start": 1790476278044,
+        "end": 1790476342051,
+        "durationMin": 1.1,
+        "precedingSku": "8270067",
+        "precedingTitle": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
+        "precedingAuctionCode": "0019884253",
+        "followingSku": "7848440",
+        "followingTitle": "La Marey High Tie Tassel Poncho",
+        "followingAuctionCode": "0019884292"
       }
     ],
-    "lastOnAirSku": "8270067",
-    "lastOnAirTitle": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
-    "lastOnAirAuctionCode": "0019884253",
+    "lastOnAirSku": "7848440",
+    "lastOnAirTitle": "La Marey High Tie Tassel Poncho",
+    "lastOnAirAuctionCode": "0019884292",
     "precedingSku": "8270067",
     "precedingTitle": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
     "precedingAuctionCode": "0019884253"
