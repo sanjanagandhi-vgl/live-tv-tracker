@@ -181497,21 +181497,26 @@
       "sku": "8270067",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "14:54:23",
+      "date": "2026-09-27",
+      "time": "03:29:20",
       "preExisting": true,
       "missedAt": 1786974863842,
       "missedDelay": null,
-      "lastUpdated": 1786974863842,
+      "lastUpdated": 1790476160332,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel (180 x 70 cm) - Pink",
-      "auctionCode": "0019825673",
+      "title": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
+      "auctionCode": "0019884253",
       "source": "gha",
       "productUrl": "/products/la-marey-100-merino-wool-abstract-print-scarf-with-tassel",
       "productUrlChecked": 1786974869547,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790476160332,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8479523": {
       "sku": "8479523",
@@ -393517,8 +393522,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790476100324,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433283,11 +433288,22 @@
         "followingSku": "7850112",
         "followingTitle": "Cuff Beanie with Faux Pearl (22 x 21cm) - White",
         "followingAuctionCode": "0019884257"
+      },
+      {
+        "start": 1790476100324,
+        "end": 1790476160332,
+        "durationMin": 1.0,
+        "precedingSku": "7850112",
+        "precedingTitle": "Cuff Beanie with Faux Pearl (22 x 21cm) - White",
+        "precedingAuctionCode": "0019884257",
+        "followingSku": "8270067",
+        "followingTitle": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
+        "followingAuctionCode": "0019884253"
       }
     ],
-    "lastOnAirSku": "7850112",
-    "lastOnAirTitle": "Cuff Beanie with Faux Pearl (22 x 21cm) - White",
-    "lastOnAirAuctionCode": "0019884257",
+    "lastOnAirSku": "8270067",
+    "lastOnAirTitle": "LA MAREY 100% Merino Wool Abstract Print Scarf with Tassel",
+    "lastOnAirAuctionCode": "0019884253",
     "precedingSku": "7850112",
     "precedingTitle": "Cuff Beanie with Faux Pearl (22 x 21cm) - White",
     "precedingAuctionCode": "0019884257"
