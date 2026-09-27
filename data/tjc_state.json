@@ -114191,17 +114191,17 @@
       "firstAir": 1786254742672,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789442136085,
+      "lastAir": 1790471303738,
       "title": "Light-up Christmas Cottage in a Dome",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019870062",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019884224",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-15",
-      "time": "04:15:36",
+      "date": "2026-09-27",
+      "time": "02:08:23",
       "productUrl": "/products/light-up-christmas-cottage-in-a-dome",
-      "lastUpdated": 1789442136085,
+      "lastUpdated": 1790471303738,
       "source": "gha",
       "missedAt": 1786255527153,
       "missedDelay": 10,
@@ -393484,8 +393484,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790471126729,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433173,11 +433173,22 @@
         "followingSku": "8607782",
         "followingTitle": "Bronzella Collection - Scalloped Ring in 18K Gold Plating 3.00 Gms",
         "followingAuctionCode": "0019885789"
+      },
+      {
+        "start": 1790471126729,
+        "end": 1790471303738,
+        "durationMin": 3.0,
+        "precedingSku": "4457447",
+        "precedingTitle": "Bronzella Collection - Crucifix Pendant with Chain (Size 20) in 18K Gold Plating 8.50 Gms",
+        "precedingAuctionCode": "0019885788",
+        "followingSku": "7814519",
+        "followingTitle": "Light-up Christmas Cottage in a Dome",
+        "followingAuctionCode": "0019884224"
       }
     ],
-    "lastOnAirSku": "4457447",
-    "lastOnAirTitle": "Bronzella Collection - Crucifix Pendant with Chain (Size 20) in 18K Gold Plating 8.50 Gms",
-    "lastOnAirAuctionCode": "0019885788",
+    "lastOnAirSku": "7814519",
+    "lastOnAirTitle": "Light-up Christmas Cottage in a Dome",
+    "lastOnAirAuctionCode": "0019884224",
     "precedingSku": "4457447",
     "precedingTitle": "Bronzella Collection - Crucifix Pendant with Chain (Size 20) in 18K Gold Plating 8.50 Gms",
     "precedingAuctionCode": "0019885788"
