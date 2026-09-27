@@ -108116,23 +108116,23 @@
       "sku": "6025269",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "22:26:23",
+      "date": "2026-09-27",
+      "time": "12:48:20",
       "preExisting": true,
       "missedAt": 1786201526934,
       "missedDelay": null,
-      "lastUpdated": 1786829183287,
+      "lastUpdated": 1790509700368,
       "missedPrice": 199.99,
       "missedImg": true,
       "title": "Italian Made 9K Yellow Gold Mesh Stretchable Bangle (Size - 7.25)",
-      "auctionCode": "0019824647",
+      "auctionCode": "0019884767",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-spiga-necklace",
       "productUrlChecked": 1786201534074,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1786829183287,
-      "pdpPrice": "199.99",
+      "lastAir": 1790509700368,
+      "pdpPrice": "2899.99",
       "buy": true,
       "login": false,
       "img": true
@@ -393997,8 +393997,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790509638497,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -434192,11 +434192,22 @@
         "followingSku": "8692016",
         "followingTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7)",
         "followingAuctionCode": "0019885035"
+      },
+      {
+        "start": 1790509638497,
+        "end": 1790509700368,
+        "durationMin": 1.0,
+        "precedingSku": "8692016",
+        "precedingTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7) Gold Wt. 6.2 Gms",
+        "precedingAuctionCode": "0019885035",
+        "followingSku": "6025269",
+        "followingTitle": "Italian Made 9K Yellow Gold Mesh Stretchable Bangle (Size - 7.25)",
+        "followingAuctionCode": "0019884767"
       }
     ],
-    "lastOnAirSku": "8692016",
-    "lastOnAirTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7) Gold Wt. 6.2 Gms",
-    "lastOnAirAuctionCode": "0019885035",
+    "lastOnAirSku": "6025269",
+    "lastOnAirTitle": "Italian Made 9K Yellow Gold Mesh Stretchable Bangle (Size - 7.25)",
+    "lastOnAirAuctionCode": "0019884767",
     "precedingSku": "8692016",
     "precedingTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7) Gold Wt. 6.2 Gms",
     "precedingAuctionCode": "0019885035"
