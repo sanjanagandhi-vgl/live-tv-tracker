@@ -393973,11 +393973,29 @@
       "missedDelay": 10,
       "missedPrice": 69.99,
       "missedImg": true
+    },
+    "8692016": {
+      "sku": "8692016",
+      "firstAir": 1790508797523,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790508797523,
+      "title": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7)",
+      "pdpPrice": "9999.00",
+      "auctionCode": "0019885035",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "12:33:17",
+      "productUrl": null,
+      "lastUpdated": 1790508797523,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790508648801,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -434160,11 +434178,22 @@
         "followingSku": "8319356",
         "followingTitle": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
         "followingAuctionCode": "0019885004"
+      },
+      {
+        "start": 1790508648801,
+        "end": 1790508797523,
+        "durationMin": 2.5,
+        "precedingSku": "8319356",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
+        "precedingAuctionCode": "0019885004",
+        "followingSku": "8692016",
+        "followingTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7)",
+        "followingAuctionCode": "0019885035"
       }
     ],
-    "lastOnAirSku": "8319356",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
-    "lastOnAirAuctionCode": "0019885004",
+    "lastOnAirSku": "8692016",
+    "lastOnAirTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7)",
+    "lastOnAirAuctionCode": "0019885035",
     "precedingSku": "8319356",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
     "precedingAuctionCode": "0019885004"
