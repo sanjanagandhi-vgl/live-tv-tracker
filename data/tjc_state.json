@@ -344871,19 +344871,19 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-27",
-      "time": "10:36:23",
+      "time": "19:05:28",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1790501783924,
+      "lastUpdated": 1790532328356,
       "missedPrice": 29.99,
       "missedImg": false,
       "title": "Moissanite Solitaire Heart Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
-      "auctionCode": "0019885749",
+      "auctionCode": "0019887172",
       "source": "gha",
       "productUrl": null,
-      "lastAir": 1790501783924,
-      "pdpPrice": "19.99",
+      "lastAir": 1790532328356,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true
@@ -395795,8 +395795,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790532199045,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -436254,11 +436254,22 @@
         "followingSku": "8668670",
         "followingTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
         "followingAuctionCode": "0019887105"
+      },
+      {
+        "start": 1790532199045,
+        "end": 1790532328356,
+        "durationMin": 2.2,
+        "precedingSku": "8668670",
+        "precedingTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
+        "precedingAuctionCode": "0019887105",
+        "followingSku": "4452727",
+        "followingTitle": "Moissanite Solitaire Heart Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
+        "followingAuctionCode": "0019887172"
       }
     ],
-    "lastOnAirSku": "8668670",
-    "lastOnAirTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019887105",
+    "lastOnAirSku": "4452727",
+    "lastOnAirTitle": "Moissanite Solitaire Heart Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019887172",
     "precedingSku": "8668670",
     "precedingTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
     "precedingAuctionCode": "0019887105"
