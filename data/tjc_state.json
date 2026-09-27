@@ -393708,11 +393708,29 @@
       "auctionCode": "0019886359",
       "source": "gha",
       "productUrl": null
+    },
+    "8801613": {
+      "sku": "8801613",
+      "firstAir": 1790488561323,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790488561323,
+      "title": "Pack of 5- Christmas decorations Santa CandleDark Red",
+      "pdpPrice": "8.99",
+      "auctionCode": "0019886360",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-27",
+      "time": "06:56:01",
+      "productUrl": null,
+      "lastUpdated": 1790488561323,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790488460516,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433631,11 +433649,22 @@
         "followingSku": "8579250",
         "followingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Power Motor- Ideal for beds, sofas, pillows, and upholstery- Grey",
         "followingAuctionCode": "0019884806"
+      },
+      {
+        "start": 1790488460516,
+        "end": 1790488561323,
+        "durationMin": 1.7,
+        "precedingSku": "8579250",
+        "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
+        "precedingAuctionCode": "0019884806",
+        "followingSku": "8801613",
+        "followingTitle": "Pack of 5- Christmas decorations Santa CandleDark Red",
+        "followingAuctionCode": "0019886360"
       }
     ],
-    "lastOnAirSku": "8579250",
-    "lastOnAirTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
-    "lastOnAirAuctionCode": "0019884806",
+    "lastOnAirSku": "8801613",
+    "lastOnAirTitle": "Pack of 5- Christmas decorations Santa CandleDark Red",
+    "lastOnAirAuctionCode": "0019886360",
     "precedingSku": "8579250",
     "precedingTitle": "Livmore Cordless UV Sterilisation Vacuum Cleaner With HEPA Filter - Strong Suction, 50W High-Powe...",
     "precedingAuctionCode": "0019884806"
