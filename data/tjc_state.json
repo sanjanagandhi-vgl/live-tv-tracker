@@ -57517,17 +57517,17 @@
       "firstAir": 1785669206435,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789943126715,
+      "lastAir": 1790508198129,
       "title": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
-      "pdpPrice": "389.99",
-      "auctionCode": "0019878251",
+      "pdpPrice": "7499.99",
+      "auctionCode": "0019885004",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-20",
-      "time": "23:25:26",
+      "date": "2026-09-27",
+      "time": "12:23:18",
       "productUrl": "/products/maestro-collection-9k-yellow-gold-diamond-cut-ring-m8319356",
-      "lastUpdated": 1789943126715,
+      "lastUpdated": 1790508198129,
       "source": "gha",
       "missedAt": 1785670940028,
       "missedDelay": 9,
@@ -393972,8 +393972,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790508176072,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -434145,11 +434145,22 @@
         "followingSku": "8692474",
         "followingTitle": "9K Yellow Gold Pendant",
         "followingAuctionCode": "0019885234"
+      },
+      {
+        "start": 1790508176072,
+        "end": 1790508198129,
+        "durationMin": 0.4,
+        "precedingSku": "8692474",
+        "precedingTitle": "9K Yellow Gold Pendant",
+        "precedingAuctionCode": "0019885234",
+        "followingSku": "8319356",
+        "followingTitle": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
+        "followingAuctionCode": "0019885004"
       }
     ],
-    "lastOnAirSku": "8692474",
-    "lastOnAirTitle": "9K Yellow Gold Pendant",
-    "lastOnAirAuctionCode": "0019885234",
+    "lastOnAirSku": "8319356",
+    "lastOnAirTitle": "Live From Vicenza - Maestro Collection - 9K Yellow Gold Diamond Cut Ring",
+    "lastOnAirAuctionCode": "0019885004",
     "precedingSku": "8692474",
     "precedingTitle": "9K Yellow Gold Pendant",
     "precedingAuctionCode": "0019885234"
