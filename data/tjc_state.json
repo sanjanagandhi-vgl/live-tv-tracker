@@ -99882,23 +99882,23 @@
       "sku": "8433852",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-12",
-      "time": "22:47:18",
+      "date": "2026-09-27",
+      "time": "23:53:18",
       "preExisting": true,
       "missedAt": 1786119039770,
       "missedDelay": null,
-      "lastUpdated": 1789249638681,
+      "lastUpdated": 1790549598322,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "24K Yellow Gold (99.9 % Purity) Dragon Pattern Collectable",
-      "auctionCode": "0019868285",
+      "title": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
+      "auctionCode": "0019886223",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2918378381?variant=53109185872138",
       "productUrlChecked": 1786119050379,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1789249638681,
-      "pdpPrice": 24.99,
+      "lastAir": 1790549598322,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -396485,8 +396485,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790549542291,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -437076,11 +437076,22 @@
         "followingSku": "8412121",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Screw Band Ring",
         "followingAuctionCode": "0019886212"
+      },
+      {
+        "start": 1790549542291,
+        "end": 1790549598322,
+        "durationMin": 0.9,
+        "precedingSku": "7674311",
+        "precedingTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
+        "precedingAuctionCode": "0019887177",
+        "followingSku": "8433852",
+        "followingTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
+        "followingAuctionCode": "0019886223"
       }
     ],
-    "lastOnAirSku": "7674311",
-    "lastOnAirTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019887177",
+    "lastOnAirSku": "8433852",
+    "lastOnAirTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
+    "lastOnAirAuctionCode": "0019886223",
     "precedingSku": "7674311",
     "precedingTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
     "precedingAuctionCode": "0019887177"
