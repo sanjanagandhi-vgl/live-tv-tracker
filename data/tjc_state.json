@@ -394016,11 +394016,29 @@
       "productUrl": null,
       "lastUpdated": 1790510840058,
       "source": "gha"
+    },
+    "7674311": {
+      "sku": "7674311",
+      "firstAir": 1790511077259,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790511077259,
+      "title": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
+      "pdpPrice": "6999.00",
+      "auctionCode": "0019884681",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "13:11:17",
+      "productUrl": null,
+      "lastUpdated": 1790511077259,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790510902388,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -434236,11 +434254,22 @@
         "followingSku": "8692383",
         "followingTitle": "9K Yellow Gold Hoop Earring",
         "followingAuctionCode": "0019885227"
+      },
+      {
+        "start": 1790510902388,
+        "end": 1790511077259,
+        "durationMin": 2.9,
+        "precedingSku": "8692383",
+        "precedingTitle": "9K Yellow Gold Hoop Earring",
+        "precedingAuctionCode": "0019885227",
+        "followingSku": "7674311",
+        "followingTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
+        "followingAuctionCode": "0019884681"
       }
     ],
-    "lastOnAirSku": "8692383",
-    "lastOnAirTitle": "9K Yellow Gold Hoop Earring",
-    "lastOnAirAuctionCode": "0019885227",
+    "lastOnAirSku": "7674311",
+    "lastOnAirTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019884681",
     "precedingSku": "8692383",
     "precedingTitle": "9K Yellow Gold Hoop Earring",
     "precedingAuctionCode": "0019885227"
