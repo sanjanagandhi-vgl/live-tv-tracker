@@ -343106,21 +343106,26 @@
       "sku": "8770632",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-09-27",
+      "time": "19:20:35",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1790533235786,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "D'Joy - Moissanite 5 Stone Ring in Rhodium Overlay Sterling Silver  2.14 Ct.",
-      "auctionCode": "0019867513",
+      "auctionCode": "0019885481",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-ring-in-rhodium-overlaysterling-silver-2-140-ct-8770632",
       "productUrlChecked": 1789359395534,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790533235786,
+      "pdpPrice": "499.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8770633": {
       "sku": "8770633",
@@ -395795,8 +395800,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790533158216,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -436276,11 +436281,22 @@
         "followingSku": "8622552",
         "followingTitle": "One Time Deal- Moissanite Hoop Earring in Yellow Gold Sterling Silver 1.60 Ct.",
         "followingAuctionCode": "0019887176"
+      },
+      {
+        "start": 1790533158216,
+        "end": 1790533235786,
+        "durationMin": 1.3,
+        "precedingSku": "8622552",
+        "precedingTitle": "One Time Deal- Moissanite Hoop Earring in Yellow Gold Sterling Silver 1.60 Ct.",
+        "precedingAuctionCode": "0019887176",
+        "followingSku": "8770632",
+        "followingTitle": "D'Joy - Moissanite 5 Stone Ring in Rhodium Overlay Sterling Silver  2.14 Ct.",
+        "followingAuctionCode": "0019885481"
       }
     ],
-    "lastOnAirSku": "8622552",
-    "lastOnAirTitle": "One Time Deal- Moissanite Hoop Earring in Yellow Gold Sterling Silver 1.60 Ct.",
-    "lastOnAirAuctionCode": "0019887176",
+    "lastOnAirSku": "8770632",
+    "lastOnAirTitle": "D'Joy - Moissanite 5 Stone Ring in Rhodium Overlay Sterling Silver  2.14 Ct.",
+    "lastOnAirAuctionCode": "0019885481",
     "precedingSku": "8622552",
     "precedingTitle": "One Time Deal- Moissanite Hoop Earring in Yellow Gold Sterling Silver 1.60 Ct.",
     "precedingAuctionCode": "0019887176"
