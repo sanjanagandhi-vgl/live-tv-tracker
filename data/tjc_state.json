@@ -300446,21 +300446,26 @@
       "sku": "8557093",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "05:30:56",
+      "date": "2026-09-27",
+      "time": "01:27:19",
       "preExisting": true,
       "missedAt": 1788496256180,
       "missedDelay": null,
-      "lastUpdated": 1788496256180,
+      "lastUpdated": 1790468839783,
       "missedPrice": 6.99,
       "missedImg": true,
-      "title": "Antique Style Petal Pearl Pendant Brooch with Hanging Chains (15cm) - Dark Gold",
-      "auctionCode": "0019856179",
+      "title": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
+      "auctionCode": "0019885894",
       "source": "gha",
       "productUrl": "/products/antique-style-green-crystal-double-brooch-with-hanging-chains-16-5cm-gold-8557086",
       "productUrlChecked": 1788496265528,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790468839783,
+      "pdpPrice": "6.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8557086": {
       "sku": "8557086",
@@ -393443,8 +393448,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790468782048,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433110,11 +433115,22 @@
         "followingSku": "8624645",
         "followingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
         "followingAuctionCode": "0019885885"
+      },
+      {
+        "start": 1790468782048,
+        "end": 1790468839783,
+        "durationMin": 1.0,
+        "precedingSku": "4455506",
+        "precedingTitle": "LA MAREY Set of 2- RFID Smartphone Floral Crossbody Bag & Starfish Cuff Bracelet Gift Set - Black",
+        "precedingAuctionCode": "0019885889",
+        "followingSku": "8557093",
+        "followingTitle": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
+        "followingAuctionCode": "0019885894"
       }
     ],
-    "lastOnAirSku": "4455506",
-    "lastOnAirTitle": "LA MAREY Set of 2- RFID Smartphone Floral Crossbody Bag & Starfish Cuff Bracelet Gift Set - Black",
-    "lastOnAirAuctionCode": "0019885889",
+    "lastOnAirSku": "8557093",
+    "lastOnAirTitle": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
+    "lastOnAirAuctionCode": "0019885894",
     "precedingSku": "4455506",
     "precedingTitle": "LA MAREY Set of 2- RFID Smartphone Floral Crossbody Bag & Starfish Cuff Bracelet Gift Set - Black",
     "precedingAuctionCode": "0019885889"
