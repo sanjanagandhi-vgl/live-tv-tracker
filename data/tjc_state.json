@@ -188037,21 +188037,26 @@
       "sku": "8519808",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "09:36:21",
+      "date": "2026-09-27",
+      "time": "03:55:24",
       "preExisting": true,
       "missedAt": 1787042181695,
       "missedDelay": null,
-      "lastUpdated": 1787042181695,
+      "lastUpdated": 1790477724518,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Voyages Rituals Imperial Garden EDP - 100ml",
-      "auctionCode": "0019826588",
+      "title": "Voyages Rituals Verona EDP - 100ml",
+      "auctionCode": "0019884279",
       "source": "gha",
       "productUrl": "/products/voyages-rituals-imperial-garden-edp-100ml",
       "productUrlChecked": 1787042184401,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790477724518,
+      "pdpPrice": "24.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8519939": {
       "sku": "8519939",
@@ -393577,8 +393582,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790477660251,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433365,11 +433370,22 @@
         "followingSku": "7848440",
         "followingTitle": "La Marey High Tie Tassel Poncho",
         "followingAuctionCode": "0019884292"
+      },
+      {
+        "start": 1790477660251,
+        "end": 1790477724518,
+        "durationMin": 1.1,
+        "precedingSku": "8417252",
+        "precedingTitle": "WILLIAM HUNT Limited Edition Swiss Movement VVS- E-F Lab Grown Diamonds Watch With 5ATM Water Resistancy and Bubble Strap With Gift Box - Silver",
+        "precedingAuctionCode": "0019884263",
+        "followingSku": "8519808",
+        "followingTitle": "Voyages Rituals Verona EDP - 100ml",
+        "followingAuctionCode": "0019884279"
       }
     ],
-    "lastOnAirSku": "8417252",
-    "lastOnAirTitle": "WILLIAM HUNT Limited Edition Swiss Movement VVS- E-F Lab Grown Diamonds Watch With 5ATM Water Resistancy and Bubble Strap With Gift Box - Silver",
-    "lastOnAirAuctionCode": "0019884263",
+    "lastOnAirSku": "8519808",
+    "lastOnAirTitle": "Voyages Rituals Verona EDP - 100ml",
+    "lastOnAirAuctionCode": "0019884279",
     "precedingSku": "8417252",
     "precedingTitle": "WILLIAM HUNT Limited Edition Swiss Movement VVS- E-F Lab Grown Diamonds Watch With 5ATM Water Resistancy and Bubble Strap With Gift Box - Silver",
     "precedingAuctionCode": "0019884263"
