@@ -393607,11 +393607,29 @@
       "missedDelay": 9,
       "missedPrice": 99.99,
       "missedImg": true
+    },
+    "8376265": {
+      "sku": "8376265",
+      "firstAir": 1790482400226,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790482400226,
+      "title": "Rhodium Overlay Sterling Silver Criss & Rings Chain (Size 17)",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019884389",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "05:13:20",
+      "productUrl": null,
+      "lastUpdated": 1790482400226,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790482344361,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -433442,11 +433460,22 @@
         "followingSku": "8417252",
         "followingTitle": "WILLIAM HUNT Limited Edition Swiss Movement VVS- E-F Lab Grown Diamonds Watch With 5ATM Water Resistancy and Bubble Strap With Gift Box - Silver",
         "followingAuctionCode": "0019886363"
+      },
+      {
+        "start": 1790482344361,
+        "end": 1790482400226,
+        "durationMin": 0.9,
+        "precedingSku": "8553693",
+        "precedingTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
+        "precedingAuctionCode": "0019884376",
+        "followingSku": "8376265",
+        "followingTitle": "Rhodium Overlay Sterling Silver Criss & Rings Chain (Size 17)",
+        "followingAuctionCode": "0019884389"
       }
     ],
-    "lastOnAirSku": "8553693",
-    "lastOnAirTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019884376",
+    "lastOnAirSku": "8376265",
+    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Criss & Rings Chain (Size 17)",
+    "lastOnAirAuctionCode": "0019884389",
     "precedingSku": "8553693",
     "precedingTitle": "Italian Made -Rhodium Overlay Sterling Silver Rolo Chain (Size - 24) with Lobster Clasp",
     "precedingAuctionCode": "0019884376"
