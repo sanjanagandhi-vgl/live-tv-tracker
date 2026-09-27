@@ -243944,17 +243944,17 @@
       "firstAir": 1787743943456,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790281879592,
+      "lastAir": 1790529078302,
       "title": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
-      "pdpPrice": "149.99",
-      "auctionCode": "0019882602",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019887124",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-24",
-      "time": "21:31:19",
+      "date": "2026-09-27",
+      "time": "18:11:18",
       "productUrl": "/products/designer-inspired-9k-yellow-gold-interlocking-necklace-size-18-8571435",
-      "lastUpdated": 1790281879592,
+      "lastUpdated": 1790529078302,
       "source": "gha",
       "missedAt": 1787744736005,
       "missedDelay": 9,
@@ -395792,8 +395792,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790529037646,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -436196,11 +436196,22 @@
         "followingSku": "7577713",
         "followingTitle": "9K Yellow Gold  Chain (Size - 16),  Gold Wt. 1.7 Gms",
         "followingAuctionCode": "0019887123"
+      },
+      {
+        "start": 1790529037646,
+        "end": 1790529078302,
+        "durationMin": 0.7,
+        "precedingSku": "7577713",
+        "precedingTitle": "9K Yellow Gold  Chain (Size - 16),  Gold Wt. 1.7 Gms",
+        "precedingAuctionCode": "0019887123",
+        "followingSku": "8571435",
+        "followingTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
+        "followingAuctionCode": "0019887124"
       }
     ],
-    "lastOnAirSku": "7577713",
-    "lastOnAirTitle": "9K Yellow Gold  Chain (Size - 16),  Gold Wt. 1.7 Gms",
-    "lastOnAirAuctionCode": "0019887123",
+    "lastOnAirSku": "8571435",
+    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019887124",
     "precedingSku": "7577713",
     "precedingTitle": "9K Yellow Gold  Chain (Size - 16),  Gold Wt. 1.7 Gms",
     "precedingAuctionCode": "0019887123"
