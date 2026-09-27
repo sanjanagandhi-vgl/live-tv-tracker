@@ -389157,21 +389157,26 @@
       "sku": "4527086",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "11:20:38",
+      "date": "2026-09-27",
+      "time": "22:33:28",
       "preExisting": true,
       "missedAt": 1790331638013,
       "missedDelay": null,
-      "lastUpdated": 1790331638013,
+      "lastUpdated": 1790544808208,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 3 - Pink Cubic Zirconia Tennis Bracelet (Size - 7.5), Stud Push Back Earring & Solitaire Pendant with Chain (Size 20-2 Ext)",
-      "auctionCode": "0019883954",
+      "auctionCode": "0019886058",
       "source": "gha",
       "productUrl": "/products/3-piece-set-green-cubic-zirconia-bracelet-earring-pendant-with-chain-size-20-8-20ct-8-200-ct-4527090",
       "productUrlChecked": 1790331641852,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790544808208,
+      "pdpPrice": "179.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4505285": {
       "sku": "4505285",
@@ -395992,8 +395997,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790544741652,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -436528,11 +436533,22 @@
         "followingSku": "7561346",
         "followingTitle": "D'Joy - Moissanite Sterling Silver Cluster Earring with Push Back",
         "followingAuctionCode": "0019886022"
+      },
+      {
+        "start": 1790544741652,
+        "end": 1790544808208,
+        "durationMin": 1.1,
+        "precedingSku": "4505144",
+        "precedingTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
+        "precedingAuctionCode": "0019886059",
+        "followingSku": "4527086",
+        "followingTitle": "Set of 3 - Pink Cubic Zirconia Tennis Bracelet (Size - 7.5), Stud Push Back Earring & Solitaire Pendant with Chain (Size 20-2 Ext)",
+        "followingAuctionCode": "0019886058"
       }
     ],
-    "lastOnAirSku": "4505144",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019886059",
+    "lastOnAirSku": "4527086",
+    "lastOnAirTitle": "Set of 3 - Pink Cubic Zirconia Tennis Bracelet (Size - 7.5), Stud Push Back Earring & Solitaire Pendant with Chain (Size 20-2 Ext)",
+    "lastOnAirAuctionCode": "0019886058",
     "precedingSku": "4505144",
     "precedingTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019886059"
