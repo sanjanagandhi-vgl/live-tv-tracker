@@ -393948,11 +393948,29 @@
       "missedDelay": 9,
       "missedPrice": 1999.99,
       "missedImg": true
+    },
+    "8692474": {
+      "sku": "8692474",
+      "firstAir": 1790507734110,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790507734110,
+      "title": "9K Yellow Gold Pendant",
+      "pdpPrice": "899.99",
+      "auctionCode": "0019885234",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-27",
+      "time": "12:15:34",
+      "productUrl": null,
+      "lastUpdated": 1790507734110,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790507661924,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -434113,11 +434131,22 @@
         "followingSku": "8668666",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
         "followingAuctionCode": "0019885630"
+      },
+      {
+        "start": 1790507661924,
+        "end": 1790507734110,
+        "durationMin": 1.2,
+        "precedingSku": "8668666",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
+        "precedingAuctionCode": "0019885630",
+        "followingSku": "8692474",
+        "followingTitle": "9K Yellow Gold Pendant",
+        "followingAuctionCode": "0019885234"
       }
     ],
-    "lastOnAirSku": "8668666",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019885630",
+    "lastOnAirSku": "8692474",
+    "lastOnAirTitle": "9K Yellow Gold Pendant",
+    "lastOnAirAuctionCode": "0019885234",
     "precedingSku": "8668666",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Greek Key Necklace (Size - 20)",
     "precedingAuctionCode": "0019885630"
