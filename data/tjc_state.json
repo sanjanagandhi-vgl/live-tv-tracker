@@ -136304,22 +136304,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-28",
-      "time": "02:24:21",
+      "time": "02:26:20",
       "preExisting": true,
       "missedAt": 1786466367646,
       "missedDelay": null,
-      "lastUpdated": 1790558661815,
+      "lastUpdated": 1790558780859,
       "missedPrice": 24.99,
       "missedImg": true,
       "title": "Genuine Leather crossbody bag",
-      "auctionCode": "0019883903",
+      "auctionCode": "0019887225",
       "source": "gha",
       "productUrl": "/products/genuine-leather-crossbody-bag-1828158478",
       "productUrlChecked": 1786466392375,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790558661815,
-      "pdpPrice": "399.99",
+      "lastAir": 1790558780859,
+      "pdpPrice": "29.99",
       "buy": true,
       "login": false,
       "img": true
@@ -397012,8 +397012,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790558728432,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -437702,11 +437702,22 @@
         "followingSku": "8160704",
         "followingTitle": "Genuine Leather Multi-Pocket Crossbody Bag with Adjustable Strap",
         "followingAuctionCode": "0019883938"
+      },
+      {
+        "start": 1790558728432,
+        "end": 1790558780859,
+        "durationMin": 0.9,
+        "precedingSku": "8158478",
+        "precedingTitle": "Genuine Leather crossbody bag",
+        "precedingAuctionCode": "0019883903",
+        "followingSku": "8158478",
+        "followingTitle": "Genuine Leather crossbody bag",
+        "followingAuctionCode": "0019887225"
       }
     ],
     "lastOnAirSku": "8158478",
     "lastOnAirTitle": "Genuine Leather crossbody bag",
-    "lastOnAirAuctionCode": "0019883903",
+    "lastOnAirAuctionCode": "0019887225",
     "precedingSku": "8158478",
     "precedingTitle": "Genuine Leather crossbody bag",
     "precedingAuctionCode": "0019883903"
