@@ -399149,11 +399149,29 @@
       "productUrlChecked": 1790614044073,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8579327": {
+      "sku": "8579327",
+      "firstAir": 1790614278940,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790614278940,
+      "title": "Dog Motif Ladies Zip Around RFID Wallet Purse - Pink",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019886411",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-28",
+      "time": "17:51:18",
+      "productUrl": null,
+      "lastUpdated": 1790614278940,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790614236046,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -440568,11 +440586,22 @@
         "followingSku": "8528832",
         "followingTitle": "Gold Metallic Thread Stripe Print Top (Size XL, 20-22) - Dark Blue",
         "followingAuctionCode": "0019886592"
+      },
+      {
+        "start": 1790614236046,
+        "end": 1790614278940,
+        "durationMin": 0.7,
+        "precedingSku": "8290018",
+        "precedingTitle": "La Marey Wanderweight 90% Duck Down Ultralight Packable Jacket (Size M) - Taupe",
+        "precedingAuctionCode": "0019887772",
+        "followingSku": "8579327",
+        "followingTitle": "Dog Motif Ladies Zip Around RFID Wallet Purse - Pink",
+        "followingAuctionCode": "0019886411"
       }
     ],
-    "lastOnAirSku": "8290018",
-    "lastOnAirTitle": "La Marey Wanderweight 90% Duck Down Ultralight Packable Jacket (Size M) - Taupe",
-    "lastOnAirAuctionCode": "0019887772",
+    "lastOnAirSku": "8579327",
+    "lastOnAirTitle": "Dog Motif Ladies Zip Around RFID Wallet Purse - Pink",
+    "lastOnAirAuctionCode": "0019886411",
     "precedingSku": "8290018",
     "precedingTitle": "La Marey Wanderweight 90% Duck Down Ultralight Packable Jacket (Size M) - Taupe",
     "precedingAuctionCode": "0019887772"
