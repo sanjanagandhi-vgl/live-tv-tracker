@@ -2101,23 +2101,23 @@
       "sku": "8548666",
       "tvPrice": "",
       "remarks": "",
-      "time": "04:29:20",
+      "time": "06:34:21",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 24.99,
       "missedImg": false,
       "title": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-      "auctionCode": "0019871225",
+      "auctionCode": "0019886247",
       "source": "gha",
-      "lastAir": 1789529360424,
-      "pdpPrice": "24.99",
+      "lastAir": 1790573661325,
+      "pdpPrice": "120.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-16",
+      "date": "2026-09-28",
       "productUrl": null,
-      "lastUpdated": 1789529360424
+      "lastUpdated": 1790573661325
     },
     "8548674": {
       "sku": "8548674",
@@ -397289,8 +397289,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790573541919,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438199,11 +438199,22 @@
         "followingSku": "8668670",
         "followingTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
         "followingAuctionCode": "0019886300"
+      },
+      {
+        "start": 1790573541919,
+        "end": 1790573661325,
+        "durationMin": 2.0,
+        "precedingSku": "8746546",
+        "precedingTitle": "9K Yellow Gold Diamond Cut Belcher Chain (Size - 24) With Spring Ring Clasp",
+        "precedingAuctionCode": "0019886307",
+        "followingSku": "8548666",
+        "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "followingAuctionCode": "0019886247"
       }
     ],
-    "lastOnAirSku": "8746546",
-    "lastOnAirTitle": "9K Yellow Gold Diamond Cut Belcher Chain (Size - 24) With Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019886307",
+    "lastOnAirSku": "8548666",
+    "lastOnAirTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+    "lastOnAirAuctionCode": "0019886247",
     "precedingSku": "8746546",
     "precedingTitle": "9K Yellow Gold Diamond Cut Belcher Chain (Size - 24) With Spring Ring Clasp",
     "precedingAuctionCode": "0019886307"
