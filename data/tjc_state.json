@@ -397783,16 +397783,20 @@
       "date": "2026-09-28",
       "time": "14:26:24",
       "productUrl": "/products/tjc-special-table-lamp-size-one-size-red-8711389?variant=53783612129546",
-      "lastUpdated": 1790601984824,
+      "lastUpdated": 1790602529412,
       "source": "gha",
       "productUrlChecked": 1790601987487,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1790602529412,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790602529412,
     "gaps": [
       {
         "start": 1785823527869,
@@ -439025,8 +439029,8 @@
     "lastOnAirSku": "7883728",
     "lastOnAirTitle": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
     "lastOnAirAuctionCode": "0019886919",
-    "precedingSku": "8312163",
-    "precedingTitle": "Christmas gift card(pack of 5",
-    "precedingAuctionCode": "0019887758"
+    "precedingSku": "7883728",
+    "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Ahlami 300ML",
+    "precedingAuctionCode": "0019886919"
   }
 }
