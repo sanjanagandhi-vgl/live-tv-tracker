@@ -397615,11 +397615,29 @@
       "missedDelay": 8,
       "missedPrice": 6.99,
       "missedImg": true
+    },
+    "8671978": {
+      "sku": "8671978",
+      "firstAir": 1790588183538,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790588183538,
+      "title": "Vegas Close Out Deal - AB Crystal Earring with Clasp",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019886846",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-28",
+      "time": "10:36:23",
+      "productUrl": null,
+      "lastUpdated": 1790588183538,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790588129020,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438737,11 +438755,22 @@
         "followingSku": "4124164",
         "followingTitle": "3 Piece Set - Crystal Bracelet (Size 7.5) with Bracelet Buddy and Bracelet Box in Silver Tone",
         "followingAuctionCode": "0019886836"
+      },
+      {
+        "start": 1790588129020,
+        "end": 1790588183538,
+        "durationMin": 0.9,
+        "precedingSku": "8682330",
+        "precedingTitle": "Natural Rose Quartz Cross Pendant",
+        "precedingAuctionCode": "0019886847",
+        "followingSku": "8671978",
+        "followingTitle": "Vegas Close Out Deal - AB Crystal Earring with Clasp",
+        "followingAuctionCode": "0019886846"
       }
     ],
-    "lastOnAirSku": "8682330",
-    "lastOnAirTitle": "Natural Rose Quartz Cross Pendant",
-    "lastOnAirAuctionCode": "0019886847",
+    "lastOnAirSku": "8671978",
+    "lastOnAirTitle": "Vegas Close Out Deal - AB Crystal Earring with Clasp",
+    "lastOnAirAuctionCode": "0019886846",
     "precedingSku": "8682330",
     "precedingTitle": "Natural Rose Quartz Cross Pendant",
     "precedingAuctionCode": "0019886847"
