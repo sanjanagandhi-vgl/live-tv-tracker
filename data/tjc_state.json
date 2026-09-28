@@ -41577,23 +41577,23 @@
       "sku": "8699185",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-24",
-      "time": "05:50:35",
+      "date": "2026-09-28",
+      "time": "07:08:21",
       "preExisting": true,
       "missedAt": 1785537861788,
       "missedDelay": null,
-      "lastUpdated": 1790225435061,
+      "lastUpdated": 1790575701599,
       "missedPrice": 189.99,
       "missedImg": true,
       "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
-      "auctionCode": "0019882052",
+      "auctionCode": "0019886261",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-16-gold-wt-1-01-gms-8698754?variant=53410620014858",
       "productUrlChecked": 1785537872474,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1790225435061,
-      "pdpPrice": 179.99,
+      "lastAir": 1790575701599,
+      "pdpPrice": "489.99",
       "buy": true,
       "login": false,
       "img": true
@@ -397297,8 +397297,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790575638301,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438240,11 +438240,22 @@
         "followingSku": "8570642",
         "followingTitle": "9K Yellow Gold Infinity Chain Bracelet (Size - 7.5) with Spring Clasp",
         "followingAuctionCode": "0019886275"
+      },
+      {
+        "start": 1790575638301,
+        "end": 1790575701599,
+        "durationMin": 1.1,
+        "precedingSku": "8570642",
+        "precedingTitle": "9K Yellow Gold Infinity Chain Bracelet (Size - 7.5) with Spring Clasp",
+        "precedingAuctionCode": "0019886275",
+        "followingSku": "8699185",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+        "followingAuctionCode": "0019886261"
       }
     ],
-    "lastOnAirSku": "8570642",
-    "lastOnAirTitle": "9K Yellow Gold Infinity Chain Bracelet (Size - 7.5) with Spring Clasp",
-    "lastOnAirAuctionCode": "0019886275",
+    "lastOnAirSku": "8699185",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+    "lastOnAirAuctionCode": "0019886261",
     "precedingSku": "8570642",
     "precedingTitle": "9K Yellow Gold Infinity Chain Bracelet (Size - 7.5) with Spring Clasp",
     "precedingAuctionCode": "0019886275"
