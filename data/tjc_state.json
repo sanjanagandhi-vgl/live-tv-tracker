@@ -399238,9 +399238,16 @@
       "img": true,
       "date": "2026-09-28",
       "time": "18:14:22",
-      "productUrl": null,
-      "lastUpdated": 1790615662624,
-      "source": "gha"
+      "productUrl": "/products/djoy-aaa-rose-de-france-amethyst-pendant-in-rose-gold-plated-sterling-silver-with-chain-size-20-5-18-ct-4512212",
+      "lastUpdated": 1790616266347,
+      "source": "gha",
+      "missedAt": 1790616266347,
+      "missedDelay": 10,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1790616269818,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8579334": {
       "sku": "8579334",
@@ -399305,8 +399312,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790616266347,
     "gaps": [
       {
         "start": 1785823527869,
@@ -440748,8 +440755,8 @@
     "lastOnAirSku": "8714166",
     "lastOnAirTitle": "D'Joy - AAA Rose De France Amethyst, White Zircon & Pink Fresh Water Pearl Dangling Earring with ...",
     "lastOnAirAuctionCode": "0019886523",
-    "precedingSku": "4512212",
-    "precedingTitle": "D'Joy - AAA Rose De France Amethyst Pendant in Rose Gold Plated Sterling Silver with Chain (Size 20) 5.18 Ct.",
-    "precedingAuctionCode": "0019886437"
+    "precedingSku": "8714166",
+    "precedingTitle": "D'Joy - AAA Rose De France Amethyst, White Zircon & Pink Fresh Water Pearl Dangling Earring with ...",
+    "precedingAuctionCode": "0019886523"
   }
 }
