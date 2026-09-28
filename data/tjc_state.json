@@ -389539,21 +389539,26 @@
       "sku": "4124164",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "12:14:22",
+      "date": "2026-09-28",
+      "time": "10:16:22",
       "preExisting": true,
       "missedAt": 1790334862440,
       "missedDelay": null,
-      "lastUpdated": 1790334862440,
+      "lastUpdated": 1790586982932,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "3 Piece Set - White Crystal Bracelet (Size 7.5) with Bracelet Buddy & Bracelet Box 70.00 Ct.",
-      "auctionCode": "0019883987",
+      "title": "3 Piece Set - Crystal Bracelet (Size 7.5) with Bracelet Buddy and Bracelet Box in Silver Tone",
+      "auctionCode": "0019886836",
       "source": "gha",
       "productUrl": "/products/3-piece-set-crystal-bracelet-size-7-5-with-bracelet-buddy-and-bracelet-box-in-silver-tone",
       "productUrlChecked": 1790334865907,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790586982932,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4124147": {
       "sku": "4124147",
@@ -397583,8 +397588,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790586938966,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438691,11 +438696,22 @@
         "followingSku": "8685932",
         "followingTitle": "EverTrue - Mohave Blue Turquoise & White Zircon Dangling Earring with Push Post in Yellow Gold 5.66 Ct.",
         "followingAuctionCode": "0019886823"
+      },
+      {
+        "start": 1790586938966,
+        "end": 1790586982932,
+        "durationMin": 0.7,
+        "precedingSku": "7791912",
+        "precedingTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
+        "precedingAuctionCode": "0019886839",
+        "followingSku": "4124164",
+        "followingTitle": "3 Piece Set - Crystal Bracelet (Size 7.5) with Bracelet Buddy and Bracelet Box in Silver Tone",
+        "followingAuctionCode": "0019886836"
       }
     ],
-    "lastOnAirSku": "7791912",
-    "lastOnAirTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
-    "lastOnAirAuctionCode": "0019886839",
+    "lastOnAirSku": "4124164",
+    "lastOnAirTitle": "3 Piece Set - Crystal Bracelet (Size 7.5) with Bracelet Buddy and Bracelet Box in Silver Tone",
+    "lastOnAirAuctionCode": "0019886836",
     "precedingSku": "7791912",
     "precedingTitle": "Sleeping Beauty Color Shell Pearl Earring in Rhodium Overlay Sterling Silver 30.00 ct 30.000 Ct.",
     "precedingAuctionCode": "0019886839"
