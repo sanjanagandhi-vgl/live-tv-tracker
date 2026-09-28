@@ -175145,21 +175145,26 @@
       "sku": "8531779",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "15:30:50",
+      "date": "2026-09-28",
+      "time": "05:41:19",
       "preExisting": true,
       "missedAt": 1786890650252,
       "missedDelay": null,
-      "lastUpdated": 1786890650252,
+      "lastUpdated": 1790570479388,
       "missedPrice": 69.99,
       "missedImg": true,
       "title": "D'Joy GRA Certified Moissanite (VVS-D) Solitaire Ring in Rhodium Overlay Sterling Silver 3.00 Ct.",
-      "auctionCode": "0019820870",
+      "auctionCode": "0019884328",
       "source": "gha",
       "productUrl": "/products/djoy-gra-certified-moissanite-vs-d-e-trilogy-ring-in-rhodium-overlay-sterling-silver-3-52-ct",
       "productUrlChecked": 1786890682648,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790570479388,
+      "pdpPrice": "2587.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8613889": {
       "sku": "8613889",
@@ -397259,8 +397264,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790570437092,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438114,11 +438119,22 @@
         "followingSku": "4477715",
         "followingTitle": "Moissanite Cushion Cut Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 6.61 Ct.",
         "followingAuctionCode": "0019884228"
+      },
+      {
+        "start": 1790570437092,
+        "end": 1790570479388,
+        "durationMin": 0.7,
+        "precedingSku": "8638616",
+        "precedingTitle": "D'Joy - Moissanite Trilogy Ring in Platinum Overlay Sterling Silver  2.20 Ct.",
+        "precedingAuctionCode": "0019887241",
+        "followingSku": "8531779",
+        "followingTitle": "D'Joy GRA Certified Moissanite (VVS-D) Solitaire Ring in Rhodium Overlay Sterling Silver 3.00 Ct.",
+        "followingAuctionCode": "0019884328"
       }
     ],
-    "lastOnAirSku": "8638616",
-    "lastOnAirTitle": "D'Joy - Moissanite Trilogy Ring in Platinum Overlay Sterling Silver  2.20 Ct.",
-    "lastOnAirAuctionCode": "0019887241",
+    "lastOnAirSku": "8531779",
+    "lastOnAirTitle": "D'Joy GRA Certified Moissanite (VVS-D) Solitaire Ring in Rhodium Overlay Sterling Silver 3.00 Ct.",
+    "lastOnAirAuctionCode": "0019884328",
     "precedingSku": "8638616",
     "precedingTitle": "D'Joy - Moissanite Trilogy Ring in Platinum Overlay Sterling Silver  2.20 Ct.",
     "precedingAuctionCode": "0019887241"
