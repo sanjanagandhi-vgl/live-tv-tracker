@@ -384439,21 +384439,26 @@
       "sku": "8795308",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-23",
-      "time": "19:55:28",
+      "date": "2026-09-28",
+      "time": "16:11:21",
       "preExisting": true,
       "missedAt": 1790189728329,
       "missedDelay": null,
-      "lastUpdated": 1790189728329,
+      "lastUpdated": 1790608281778,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Cream",
-      "auctionCode": "0019882143",
+      "title": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+      "auctionCode": "0019886421",
       "source": "gha",
       "productUrl": "/products/tjc-special-water-bottle-size-one-size-black-8795307",
       "productUrlChecked": 1790189732843,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790608281778,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8699989": {
       "sku": "8699989",
@@ -397848,8 +397853,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790608238030,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -439165,11 +439170,22 @@
         "followingSku": "8528122",
         "followingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
         "followingAuctionCode": "0019886925"
+      },
+      {
+        "start": 1790608238030,
+        "end": 1790608281778,
+        "durationMin": 0.7,
+        "precedingSku": "8528122",
+        "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
+        "precedingAuctionCode": "0019886925",
+        "followingSku": "8795308",
+        "followingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+        "followingAuctionCode": "0019886421"
       }
     ],
-    "lastOnAirSku": "8528122",
-    "lastOnAirTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
-    "lastOnAirAuctionCode": "0019886925",
+    "lastOnAirSku": "8795308",
+    "lastOnAirTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+    "lastOnAirAuctionCode": "0019886421",
     "precedingSku": "8528122",
     "precedingTitle": "LIVMORE Starry Night Artistic Print Soft Flannel Fleece Throw Blanket (154 x 212 cm) - Blue & Green",
     "precedingAuctionCode": "0019886925"
