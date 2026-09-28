@@ -205071,21 +205071,26 @@
       "sku": "8479811",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-20",
-      "time": "21:05:31",
+      "date": "2026-09-28",
+      "time": "02:34:07",
       "preExisting": true,
       "missedAt": 1787256331150,
       "missedDelay": null,
-      "lastUpdated": 1787256331150,
+      "lastUpdated": 1790559247969,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "Inspired By Hawa Mahal- 100% Genuine Leather  Tote Bag with Drawstring Pouch - Sage Green",
-      "auctionCode": "0019832221",
+      "title": "Inspired By Hawa Mahal- 100% Genuine Leather  Tote Bag with Drawstring Pouch - Green",
+      "auctionCode": "0019883947",
       "source": "gha",
       "productUrl": "/products/leather-patterned-tote-bag-1258479805",
       "productUrlChecked": 1787256341112,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790559247969,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8479805": {
       "sku": "8479805",
@@ -397032,8 +397037,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790559141585,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -437733,11 +437738,22 @@
         "followingSku": "8158478",
         "followingTitle": "Genuine Leather crossbody bag",
         "followingAuctionCode": "0019887225"
+      },
+      {
+        "start": 1790559141585,
+        "end": 1790559247969,
+        "durationMin": 1.8,
+        "precedingSku": "8447619",
+        "precedingTitle": "David Jones Leatherette Tote Bag - Lime",
+        "precedingAuctionCode": "0019883946",
+        "followingSku": "8479811",
+        "followingTitle": "Inspired By Hawa Mahal- 100% Genuine Leather  Tote Bag with Drawstring Pouch - Green",
+        "followingAuctionCode": "0019883947"
       }
     ],
-    "lastOnAirSku": "8447619",
-    "lastOnAirTitle": "David Jones Leatherette Tote Bag - Lime",
-    "lastOnAirAuctionCode": "0019883946",
+    "lastOnAirSku": "8479811",
+    "lastOnAirTitle": "Inspired By Hawa Mahal- 100% Genuine Leather  Tote Bag with Drawstring Pouch - Green",
+    "lastOnAirAuctionCode": "0019883947",
     "precedingSku": "8447619",
     "precedingTitle": "David Jones Leatherette Tote Bag - Lime",
     "precedingAuctionCode": "0019883946"
