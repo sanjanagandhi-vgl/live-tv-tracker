@@ -400386,11 +400386,29 @@
       "productUrlChecked": 1790622985058,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8695385": {
+      "sku": "8695385",
+      "firstAir": 1790623237612,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790623237612,
+      "title": "AAA Rose De France Amethyst Solitaire Ring in Rose Gold Plated Sterling Silver 8.63 Ct.",
+      "pdpPrice": "129.99",
+      "auctionCode": "0019886488",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-28",
+      "time": "20:20:37",
+      "productUrl": null,
+      "lastUpdated": 1790623237612,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790623103718,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -441926,11 +441944,22 @@
         "followingSku": "8780993",
         "followingTitle": "EverTrue - AAA Rose De France Amethyst Tennis Bracelet (Size - 7) 21.62 Ct.",
         "followingAuctionCode": "0019887625"
+      },
+      {
+        "start": 1790623103718,
+        "end": 1790623237612,
+        "durationMin": 2.2,
+        "precedingSku": "8780993",
+        "precedingTitle": "EverTrue - AAA Rose De France Amethyst Tennis Bracelet (Size - 7) 21.62 Ct.",
+        "precedingAuctionCode": "0019887625",
+        "followingSku": "8695385",
+        "followingTitle": "AAA Rose De France Amethyst Solitaire Ring in Rose Gold Plated Sterling Silver 8.63 Ct.",
+        "followingAuctionCode": "0019886488"
       }
     ],
-    "lastOnAirSku": "8780993",
-    "lastOnAirTitle": "EverTrue - AAA Rose De France Amethyst Tennis Bracelet (Size - 7) 21.62 Ct.",
-    "lastOnAirAuctionCode": "0019887625",
+    "lastOnAirSku": "8695385",
+    "lastOnAirTitle": "AAA Rose De France Amethyst Solitaire Ring in Rose Gold Plated Sterling Silver 8.63 Ct.",
+    "lastOnAirAuctionCode": "0019886488",
     "precedingSku": "8780993",
     "precedingTitle": "EverTrue - AAA Rose De France Amethyst Tennis Bracelet (Size - 7) 21.62 Ct.",
     "precedingAuctionCode": "0019887625"
