@@ -397886,11 +397886,29 @@
       "productUrl": null,
       "lastUpdated": 1790609731827,
       "source": "gha"
+    },
+    "8556598": {
+      "sku": "8556598",
+      "firstAir": 1790609840279,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790609840279,
+      "title": "Pure and Natural Star Jumper (Size S, 8-10) - Deep Plum & Stone",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019885948",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-28",
+      "time": "16:37:20",
+      "productUrl": null,
+      "lastUpdated": 1790609840279,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790609786354,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -439228,11 +439246,22 @@
         "followingSku": "8556602",
         "followingTitle": "Pure and Natural Star Jumper (Size S, 8-10) - Walnut & Flag Stone",
         "followingAuctionCode": "0019885952"
+      },
+      {
+        "start": 1790609786354,
+        "end": 1790609840279,
+        "durationMin": 0.9,
+        "precedingSku": "8556594",
+        "precedingTitle": "Pure and Natural Star Jumper (Size S, 8-10) - Caribbean & White",
+        "precedingAuctionCode": "0019887750",
+        "followingSku": "8556598",
+        "followingTitle": "Pure and Natural Star Jumper (Size S, 8-10) - Deep Plum & Stone",
+        "followingAuctionCode": "0019885948"
       }
     ],
-    "lastOnAirSku": "8556594",
-    "lastOnAirTitle": "Pure and Natural Star Jumper (Size S, 8-10) - Caribbean & White",
-    "lastOnAirAuctionCode": "0019887750",
+    "lastOnAirSku": "8556598",
+    "lastOnAirTitle": "Pure and Natural Star Jumper (Size S, 8-10) - Deep Plum & Stone",
+    "lastOnAirAuctionCode": "0019885948",
     "precedingSku": "8556594",
     "precedingTitle": "Pure and Natural Star Jumper (Size S, 8-10) - Caribbean & White",
     "precedingAuctionCode": "0019887750"
