@@ -397205,11 +397205,29 @@
       "productUrlChecked": 1790565509335,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "2651046": {
+      "sku": "2651046",
+      "firstAir": 1790567543996,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790567543996,
+      "title": "2-Tier Anti-Tarnish Protective Layer Jewellery Box Organizer (26cm) - Red",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019884056",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-28",
+      "time": "04:52:23",
+      "productUrl": null,
+      "lastUpdated": 1790567543996,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790567479357,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438030,11 +438048,22 @@
         "followingSku": "8482915",
         "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Fancy Necklace (Size - 30) with Lobster Clasp, Silver Wt. 49.25 Gms",
         "followingAuctionCode": "0019883919"
+      },
+      {
+        "start": 1790567479357,
+        "end": 1790567543996,
+        "durationMin": 1.1,
+        "precedingSku": "8646078",
+        "precedingTitle": "Sterling Silver Band Ring",
+        "precedingAuctionCode": "0019883922",
+        "followingSku": "2651046",
+        "followingTitle": "2-Tier Anti-Tarnish Protective Layer Jewellery Box Organizer (26cm) - Red",
+        "followingAuctionCode": "0019884056"
       }
     ],
-    "lastOnAirSku": "8646078",
-    "lastOnAirTitle": "Sterling Silver Band Ring",
-    "lastOnAirAuctionCode": "0019883922",
+    "lastOnAirSku": "2651046",
+    "lastOnAirTitle": "2-Tier Anti-Tarnish Protective Layer Jewellery Box Organizer (26cm) - Red",
+    "lastOnAirAuctionCode": "0019884056",
     "precedingSku": "8646078",
     "precedingTitle": "Sterling Silver Band Ring",
     "precedingAuctionCode": "0019883922"
