@@ -4364,16 +4364,16 @@
       "firstAir": 1784884159328,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790313677176,
+      "lastAir": 1790605882077,
       "title": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019883876",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019886868",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-25",
-      "time": "06:21:17",
-      "lastUpdated": 1790313677176,
+      "date": "2026-09-28",
+      "time": "15:31:22",
+      "lastUpdated": 1790605882077,
       "source": "gha",
       "missedAt": 1784884534629,
       "missedDelay": 2,
@@ -397819,8 +397819,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790605761851,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -439103,11 +439103,22 @@
         "followingSku": "8791313",
         "followingTitle": "Laurelle Gent Skin Anti Perspirant Roll on Deodorant with Aloevera - 50ml",
         "followingAuctionCode": "0019887778"
+      },
+      {
+        "start": 1790605761851,
+        "end": 1790605882077,
+        "durationMin": 2.0,
+        "precedingSku": "8791313",
+        "precedingTitle": "Laurelle Gent Skin Anti Perspirant Roll on Deodorant with Aloevera - 50ml",
+        "precedingAuctionCode": "0019887778",
+        "followingSku": "8306337",
+        "followingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
+        "followingAuctionCode": "0019886868"
       }
     ],
-    "lastOnAirSku": "8791313",
-    "lastOnAirTitle": "Laurelle Gent Skin Anti Perspirant Roll on Deodorant with Aloevera - 50ml",
-    "lastOnAirAuctionCode": "0019887778",
+    "lastOnAirSku": "8306337",
+    "lastOnAirTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
+    "lastOnAirAuctionCode": "0019886868",
     "precedingSku": "8791313",
     "precedingTitle": "Laurelle Gent Skin Anti Perspirant Roll on Deodorant with Aloevera - 50ml",
     "precedingAuctionCode": "0019887778"
