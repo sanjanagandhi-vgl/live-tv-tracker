@@ -397850,11 +397850,29 @@
       "missedDelay": 8,
       "missedPrice": 4.99,
       "missedImg": true
+    },
+    "8556602": {
+      "sku": "8556602",
+      "firstAir": 1790609131000,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790609131000,
+      "title": "Pure and Natural Star Jumper (Size S, 8-10) - Walnut & Flag Stone",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019885952",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-28",
+      "time": "16:25:31",
+      "productUrl": null,
+      "lastUpdated": 1790609131000,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790608862411,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -439181,11 +439199,22 @@
         "followingSku": "8795308",
         "followingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
         "followingAuctionCode": "0019886421"
+      },
+      {
+        "start": 1790608862411,
+        "end": 1790609131000,
+        "durationMin": 4.5,
+        "precedingSku": "8795308",
+        "precedingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+        "precedingAuctionCode": "0019886421",
+        "followingSku": "8556602",
+        "followingTitle": "Pure and Natural Star Jumper (Size S, 8-10) - Walnut & Flag Stone",
+        "followingAuctionCode": "0019885952"
       }
     ],
-    "lastOnAirSku": "8795308",
-    "lastOnAirTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
-    "lastOnAirAuctionCode": "0019886421",
+    "lastOnAirSku": "8556602",
+    "lastOnAirTitle": "Pure and Natural Star Jumper (Size S, 8-10) - Walnut & Flag Stone",
+    "lastOnAirAuctionCode": "0019885952",
     "precedingSku": "8795308",
     "precedingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
     "precedingAuctionCode": "0019886421"
