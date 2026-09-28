@@ -319233,17 +319233,17 @@
       "firstAir": 1788875187289,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788875602227,
-      "title": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Pink",
+      "lastAir": 1790581834448,
+      "title": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Grey",
       "pdpPrice": "14.99",
-      "auctionCode": "0019861959",
+      "auctionCode": "0019886780",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-08",
-      "time": "14:53:22",
+      "date": "2026-09-28",
+      "time": "08:50:34",
       "productUrl": "/products/qed-london-top-size-s-m-black-8673238",
-      "lastUpdated": 1788876383120,
+      "lastUpdated": 1790581834448,
       "source": "gha",
       "missedAt": 1788876383120,
       "missedDelay": 13,
@@ -397364,8 +397364,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790581757942,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438395,11 +438395,22 @@
         "followingSku": "8673257",
         "followingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Grey",
         "followingAuctionCode": "0019886778"
+      },
+      {
+        "start": 1790581757942,
+        "end": 1790581834448,
+        "durationMin": 1.3,
+        "precedingSku": "8673257",
+        "precedingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Grey",
+        "precedingAuctionCode": "0019886778",
+        "followingSku": "8673260",
+        "followingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Grey",
+        "followingAuctionCode": "0019886780"
       }
     ],
-    "lastOnAirSku": "8673257",
+    "lastOnAirSku": "8673260",
     "lastOnAirTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Grey",
-    "lastOnAirAuctionCode": "0019886778",
+    "lastOnAirAuctionCode": "0019886780",
     "precedingSku": "8673257",
     "precedingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Grey",
     "precedingAuctionCode": "0019886778"
