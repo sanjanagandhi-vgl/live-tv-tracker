@@ -385932,24 +385932,25 @@
       "firstAir": 1790262440888,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790262983874,
-      "title": "La Marey Luxe Drape Trousers (Size - S/M, 8-14) - Chocolate",
-      "pdpPrice": 24.99,
-      "auctionCode": "0019882432",
+      "lastAir": 1790580826227,
+      "title": "La Marey Luxe Drape Trousers (Size - S-M, 8-14) - Black",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019886673",
       "buy": true,
       "login": false,
-      "date": "2026-09-24",
-      "time": "16:16:23",
+      "date": "2026-09-28",
+      "time": "08:33:46",
       "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser-size-s-m-black-8620884",
-      "lastUpdated": 1790263588457,
-      "source": "gha-variant",
+      "lastUpdated": 1790580826227,
+      "source": "gha",
       "missedAt": 1790263588457,
       "missedDelay": 10,
       "missedPrice": 24.99,
       "missedImg": true,
       "productUrlChecked": 1790263593017,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "img": true
     },
     "8620875": {
       "sku": "8620875",
@@ -397363,8 +397364,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790580799440,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438372,11 +438373,22 @@
         "followingSku": "8620875",
         "followingTitle": "La Marey Luxe Drape V-Neck Top (Size - S-M, 8-14) - Black",
         "followingAuctionCode": "0019886664"
+      },
+      {
+        "start": 1790580799440,
+        "end": 1790580826227,
+        "durationMin": 0.4,
+        "precedingSku": "8620877",
+        "precedingTitle": "La Marey Luxe Drape V-Neck Top (Size - S-M, 8-14) - Black",
+        "precedingAuctionCode": "0019886665",
+        "followingSku": "8620886",
+        "followingTitle": "La Marey Luxe Drape Trousers (Size - S-M, 8-14) - Black",
+        "followingAuctionCode": "0019886673"
       }
     ],
-    "lastOnAirSku": "8620877",
-    "lastOnAirTitle": "La Marey Luxe Drape V-Neck Top (Size - S-M, 8-14) - Black",
-    "lastOnAirAuctionCode": "0019886665",
+    "lastOnAirSku": "8620886",
+    "lastOnAirTitle": "La Marey Luxe Drape Trousers (Size - S-M, 8-14) - Black",
+    "lastOnAirAuctionCode": "0019886673",
     "precedingSku": "8620877",
     "precedingTitle": "La Marey Luxe Drape V-Neck Top (Size - S-M, 8-14) - Black",
     "precedingAuctionCode": "0019886665"
