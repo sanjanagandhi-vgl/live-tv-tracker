@@ -89134,23 +89134,23 @@
       "sku": "8668670",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-27",
-      "time": "19:02:21",
+      "date": "2026-09-28",
+      "time": "06:27:19",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1790532141244,
+      "lastUpdated": 1790573239719,
       "missedPrice": 299.99,
       "missedImg": true,
       "title": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
-      "auctionCode": "0019887105",
+      "auctionCode": "0019886300",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-cross-necklace-size-16-with-spring-ring-clasp-8668670?variant=53473709981962",
       "productUrlChecked": 1786057427769,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1790532141244,
-      "pdpPrice": "99.99",
+      "lastAir": 1790573239719,
+      "pdpPrice": "299.99",
       "buy": true,
       "login": false,
       "img": true
@@ -397289,8 +397289,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790573180333,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438188,11 +438188,22 @@
         "followingSku": "8571435",
         "followingTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
         "followingAuctionCode": "0019887251"
+      },
+      {
+        "start": 1790573180333,
+        "end": 1790573239719,
+        "durationMin": 1.0,
+        "precedingSku": "8571435",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
+        "precedingAuctionCode": "0019887251",
+        "followingSku": "8668670",
+        "followingTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
+        "followingAuctionCode": "0019886300"
       }
     ],
-    "lastOnAirSku": "8571435",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019887251",
+    "lastOnAirSku": "8668670",
+    "lastOnAirTitle": "Maestro Collection -9K Yellow Gold Cross Necklace with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019886300",
     "precedingSku": "8571435",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Interlocking Necklace (Size - 18)",
     "precedingAuctionCode": "0019887251"
