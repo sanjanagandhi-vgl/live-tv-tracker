@@ -385956,17 +385956,17 @@
       "firstAir": 1790263105410,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790263399920,
+      "lastAir": 1790579958309,
       "title": "La Marey Luxe Drape V-Neck Top (Size - S-M, 8-14) - Black",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019882095",
+      "pdpPrice": "349.99",
+      "auctionCode": "0019886664",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-24",
-      "time": "16:23:19",
+      "date": "2026-09-28",
+      "time": "08:19:18",
       "productUrl": "/products/la-marey-patterned-top-size-s-m-black-8620875",
-      "lastUpdated": 1790264000469,
+      "lastUpdated": 1790579958309,
       "source": "gha",
       "missedAt": 1790264000469,
       "missedDelay": 10,
@@ -397315,8 +397315,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790579901667,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438313,11 +438313,22 @@
         "followingSku": "8683705",
         "followingTitle": "Patterned Scarf (Size - One Size) - Dark Red",
         "followingAuctionCode": "0019887253"
+      },
+      {
+        "start": 1790579901667,
+        "end": 1790579958309,
+        "durationMin": 0.9,
+        "precedingSku": "8683705",
+        "precedingTitle": "Patterned Scarf (Size - One Size) - Dark Red",
+        "precedingAuctionCode": "0019887253",
+        "followingSku": "8620875",
+        "followingTitle": "La Marey Luxe Drape V-Neck Top (Size - S-M, 8-14) - Black",
+        "followingAuctionCode": "0019886664"
       }
     ],
-    "lastOnAirSku": "8683705",
-    "lastOnAirTitle": "Patterned Scarf (Size - One Size) - Dark Red",
-    "lastOnAirAuctionCode": "0019887253",
+    "lastOnAirSku": "8620875",
+    "lastOnAirTitle": "La Marey Luxe Drape V-Neck Top (Size - S-M, 8-14) - Black",
+    "lastOnAirAuctionCode": "0019886664",
     "precedingSku": "8683705",
     "precedingTitle": "Patterned Scarf (Size - One Size) - Dark Red",
     "precedingAuctionCode": "0019887253"
