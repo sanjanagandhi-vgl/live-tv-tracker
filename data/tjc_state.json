@@ -338071,23 +338071,23 @@
       "sku": "8579795",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "00:03:19",
+      "date": "2026-09-28",
+      "time": "07:33:18",
       "preExisting": true,
       "missedAt": 1789246401919,
       "missedDelay": null,
-      "lastUpdated": 1790290999822,
+      "lastUpdated": 1790577198049,
       "missedPrice": 899.99,
       "missedImg": true,
       "title": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
-      "auctionCode": "0019883757",
+      "auctionCode": "0019886284",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-6-00-gms-8579795",
       "productUrlChecked": 1789246406203,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790290999822,
-      "pdpPrice": "749.99",
+      "lastAir": 1790577198049,
+      "pdpPrice": "4739.99",
       "buy": true,
       "login": false,
       "img": true
@@ -397297,8 +397297,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790577141335,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438273,11 +438273,22 @@
         "followingSku": "8572365",
         "followingTitle": "Designer Inspired - 9K Yellow Gold Circle Pendant",
         "followingAuctionCode": "0019886279"
+      },
+      {
+        "start": 1790577141335,
+        "end": 1790577198049,
+        "durationMin": 0.9,
+        "precedingSku": "8572365",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Circle Pendant",
+        "precedingAuctionCode": "0019886279",
+        "followingSku": "8579795",
+        "followingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
+        "followingAuctionCode": "0019886284"
       }
     ],
-    "lastOnAirSku": "8572365",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Circle Pendant",
-    "lastOnAirAuctionCode": "0019886279",
+    "lastOnAirSku": "8579795",
+    "lastOnAirTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
+    "lastOnAirAuctionCode": "0019886284",
     "precedingSku": "8572365",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Circle Pendant",
     "precedingAuctionCode": "0019886279"
