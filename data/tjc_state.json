@@ -21081,19 +21081,19 @@
       "sku": "8556783",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-10",
-      "time": "02:31:21",
+      "date": "2026-09-28",
+      "time": "01:30:55",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1789003881081,
+      "lastUpdated": 1790555455974,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
-      "auctionCode": "0019862930",
+      "auctionCode": "0019886425",
       "source": "gha",
-      "lastAir": 1789003881081,
-      "pdpPrice": 14.99,
+      "lastAir": 1790555455974,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -396966,8 +396966,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790555358782,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -437612,11 +437612,22 @@
         "followingSku": "8572305",
         "followingTitle": "Green Jade Stretchable Bead Bracelet (Size - 7)",
         "followingAuctionCode": "0019887000"
+      },
+      {
+        "start": 1790555358782,
+        "end": 1790555455974,
+        "durationMin": 1.6,
+        "precedingSku": "8642756",
+        "precedingTitle": "Charming Lying-Down Soft Giraffe Toy with Playful Upright Tail  - Yellow",
+        "precedingAuctionCode": "0019886426",
+        "followingSku": "8556783",
+        "followingTitle": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
+        "followingAuctionCode": "0019886425"
       }
     ],
-    "lastOnAirSku": "8642756",
-    "lastOnAirTitle": "Charming Lying-Down Soft Giraffe Toy with Playful Upright Tail  - Yellow",
-    "lastOnAirAuctionCode": "0019886426",
+    "lastOnAirSku": "8556783",
+    "lastOnAirTitle": "LIVMORE 14PCS Heavy Duty Furniture Mover Tool Set (34x6.7x2cm) - Red",
+    "lastOnAirAuctionCode": "0019886425",
     "precedingSku": "8642756",
     "precedingTitle": "Charming Lying-Down Soft Giraffe Toy with Playful Upright Tail  - Yellow",
     "precedingAuctionCode": "0019886426"
