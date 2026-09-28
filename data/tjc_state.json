@@ -304215,21 +304215,26 @@
       "sku": "8527328",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "23:50:35",
+      "date": "2026-09-28",
+      "time": "23:47:19",
       "preExisting": true,
       "missedAt": 1788562235204,
       "missedDelay": null,
-      "lastUpdated": 1788562235204,
+      "lastUpdated": 1790635639498,
       "missedPrice": 299.99,
       "missedImg": true,
-      "title": "JCK Vegas Finds- 14K White Gold Natural Earth Mined Diamond  ( SI G-H) Journey Pendant 0.50 Ct.",
-      "auctionCode": "0019857381",
+      "title": "JCK Vegas Finds- 14K White Gold Natural Earth Mined Diamond (SI G-H) Journey Pendant 0.50 Ct.",
+      "auctionCode": "0019887553",
       "source": "gha",
       "productUrl": "/products/gold-white-diamond-pendant-0-50-ct",
       "productUrlChecked": 1788562238454,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790635639498,
+      "pdpPrice": "2699.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4476892": {
       "sku": "4476892",
@@ -400752,8 +400757,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790635534658,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -442421,11 +442426,22 @@
         "followingSku": "8797379",
         "followingTitle": "Japan Close Out- Rhapsody - 950 Platinum SGL Certified White Diamond (VS-E-F) 5 Stone Ring 1.00 Ct",
         "followingAuctionCode": "0019887532"
+      },
+      {
+        "start": 1790635534658,
+        "end": 1790635639498,
+        "durationMin": 1.7,
+        "precedingSku": "8797379",
+        "precedingTitle": "Japan Close Out- Rhapsody - 950 Platinum SGL Certified White Diamond (VS-E-F) 5 Stone Ring 1.00 Ct",
+        "precedingAuctionCode": "0019887532",
+        "followingSku": "8527328",
+        "followingTitle": "JCK Vegas Finds- 14K White Gold Natural Earth Mined Diamond (SI G-H) Journey Pendant 0.50 Ct.",
+        "followingAuctionCode": "0019887553"
       }
     ],
-    "lastOnAirSku": "8797379",
-    "lastOnAirTitle": "Japan Close Out- Rhapsody - 950 Platinum SGL Certified White Diamond (VS-E-F) 5 Stone Ring 1.00 Ct",
-    "lastOnAirAuctionCode": "0019887532",
+    "lastOnAirSku": "8527328",
+    "lastOnAirTitle": "JCK Vegas Finds- 14K White Gold Natural Earth Mined Diamond (SI G-H) Journey Pendant 0.50 Ct.",
+    "lastOnAirAuctionCode": "0019887553",
     "precedingSku": "8797379",
     "precedingTitle": "Japan Close Out- Rhapsody - 950 Platinum SGL Certified White Diamond (VS-E-F) 5 Stone Ring 1.00 Ct",
     "precedingAuctionCode": "0019887532"
