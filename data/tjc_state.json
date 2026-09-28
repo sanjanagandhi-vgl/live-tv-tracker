@@ -397174,11 +397174,29 @@
       "productUrlChecked": 1790564305335,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7486425": {
+      "sku": "7486425",
+      "firstAir": 1790564839498,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790564839498,
+      "title": "Filigree Leaf Ring in Sterling Silver",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019883907",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-28",
+      "time": "04:07:19",
+      "productUrl": null,
+      "lastUpdated": 1790564839498,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790564783359,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -437955,11 +437973,22 @@
         "followingSku": "8087141",
         "followingTitle": "Alphonse Maria Mucha Glass Suncatcher - Square Pendant with Chain & Silver Frame",
         "followingAuctionCode": "0019883890"
+      },
+      {
+        "start": 1790564783359,
+        "end": 1790564839498,
+        "durationMin": 0.9,
+        "precedingSku": "8642756",
+        "precedingTitle": "Charming Lying-Down Soft Bear Toy with Playful Upright Tail - White",
+        "precedingAuctionCode": "0019887227",
+        "followingSku": "7486425",
+        "followingTitle": "Filigree Leaf Ring in Sterling Silver",
+        "followingAuctionCode": "0019883907"
       }
     ],
-    "lastOnAirSku": "8642756",
-    "lastOnAirTitle": "Charming Lying-Down Soft Bear Toy with Playful Upright Tail - White",
-    "lastOnAirAuctionCode": "0019887227",
+    "lastOnAirSku": "7486425",
+    "lastOnAirTitle": "Filigree Leaf Ring in Sterling Silver",
+    "lastOnAirAuctionCode": "0019883907",
     "precedingSku": "8642756",
     "precedingTitle": "Charming Lying-Down Soft Bear Toy with Playful Upright Tail - White",
     "precedingAuctionCode": "0019887227"
