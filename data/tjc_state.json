@@ -399620,11 +399620,29 @@
       "productUrl": null,
       "lastUpdated": 1790617159382,
       "source": "gha-variant"
+    },
+    "4509024": {
+      "sku": "4509024",
+      "firstAir": 1790617400963,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790617400963,
+      "title": "D'Joy - AAA Rose De France Amethyst Trilogy Pendant in Rose Gold Plated Sterling Silver with Chain (Size 20) 1.60 Ct.",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019886465",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-28",
+      "time": "18:43:20",
+      "productUrl": null,
+      "lastUpdated": 1790617400963,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790617238219,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -441072,11 +441090,22 @@
         "followingSku": "8697476",
         "followingTitle": "D'Joy - AAA Rose De France Amethyst Trilogy Ring in Rose Gold Plated Sterling Silver 2.84 Ct.",
         "followingAuctionCode": "0019888319"
+      },
+      {
+        "start": 1790617238219,
+        "end": 1790617400963,
+        "durationMin": 2.7,
+        "precedingSku": "8697476",
+        "precedingTitle": "D'Joy - AAA Rose De France Amethyst Trilogy Ring in Rose Gold Plated Sterling Silver 2.84 Ct.",
+        "precedingAuctionCode": "0019888319",
+        "followingSku": "4509024",
+        "followingTitle": "D'Joy - AAA Rose De France Amethyst Trilogy Pendant in Rose Gold Plated Sterling Silver with Chain (Size 20) 1.60 Ct.",
+        "followingAuctionCode": "0019886465"
       }
     ],
-    "lastOnAirSku": "8697476",
-    "lastOnAirTitle": "D'Joy - AAA Rose De France Amethyst Trilogy Ring in Rose Gold Plated Sterling Silver 2.84 Ct.",
-    "lastOnAirAuctionCode": "0019888319",
+    "lastOnAirSku": "4509024",
+    "lastOnAirTitle": "D'Joy - AAA Rose De France Amethyst Trilogy Pendant in Rose Gold Plated Sterling Silver with Chain (Size 20) 1.60 Ct.",
+    "lastOnAirAuctionCode": "0019886465",
     "precedingSku": "8697476",
     "precedingTitle": "D'Joy - AAA Rose De France Amethyst Trilogy Ring in Rose Gold Plated Sterling Silver 2.84 Ct.",
     "precedingAuctionCode": "0019888319"
