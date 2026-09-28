@@ -400718,14 +400718,41 @@
       "img": true,
       "date": "2026-09-28",
       "time": "22:37:19",
-      "productUrl": null,
-      "lastUpdated": 1790631439054,
-      "source": "gha"
+      "productUrl": "/products/djoy-white-diamond-adjustable-bracelet-size-9-5-in-yellow-gold-plated-sterling-silver-8781757",
+      "lastUpdated": 1790632039334,
+      "source": "gha",
+      "missedAt": 1790632039334,
+      "missedDelay": 10,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1790632041635,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8781757": {
+      "sku": "8781757",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-28",
+      "time": "22:47:19",
+      "preExisting": true,
+      "missedAt": 1790632039334,
+      "missedDelay": null,
+      "lastUpdated": 1790632039334,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "D'Joy - White Diamond Adjustable Bracelet (Size - 9.5) in Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019887481",
+      "source": "gha",
+      "productUrl": "/products/djoy-white-diamond-adjustable-bracelet-size-9-5-in-yellow-gold-plated-sterling-silver-8781757",
+      "productUrlChecked": 1790632042365,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790632039334,
     "gaps": [
       {
         "start": 1785823527869,
@@ -442365,8 +442392,8 @@
     "lastOnAirSku": "8564247",
     "lastOnAirTitle": "EverTrue - Natural White Diamond Necklace (Size - 20)",
     "lastOnAirAuctionCode": "0019887482",
-    "precedingSku": "8781706",
-    "precedingTitle": "D'Joy - White Diamond Adjustable Bracelet (Size - 9.5) in Yellow Gold Plated Sterling Silver",
-    "precedingAuctionCode": "0019887480"
+    "precedingSku": "8564247",
+    "precedingTitle": "EverTrue - Natural White Diamond Necklace (Size - 20)",
+    "precedingAuctionCode": "0019887482"
   }
 }
