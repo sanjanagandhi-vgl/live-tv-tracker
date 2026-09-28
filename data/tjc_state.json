@@ -397294,11 +397294,29 @@
       "productUrlChecked": 1790572346183,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8683705": {
+      "sku": "8683705",
+      "firstAir": 1790579437484,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790579437484,
+      "title": "Patterned Scarf (Size - One Size) - Dark Red",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019887253",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-28",
+      "time": "08:10:37",
+      "productUrl": null,
+      "lastUpdated": 1790579437484,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790579357770,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438284,11 +438302,22 @@
         "followingSku": "8579795",
         "followingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
         "followingAuctionCode": "0019886284"
+      },
+      {
+        "start": 1790579357770,
+        "end": 1790579437484,
+        "durationMin": 1.3,
+        "precedingSku": "8579795",
+        "precedingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
+        "precedingAuctionCode": "0019886284",
+        "followingSku": "8683705",
+        "followingTitle": "Patterned Scarf (Size - One Size) - Dark Red",
+        "followingAuctionCode": "0019887253"
       }
     ],
-    "lastOnAirSku": "8579795",
-    "lastOnAirTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
-    "lastOnAirAuctionCode": "0019886284",
+    "lastOnAirSku": "8683705",
+    "lastOnAirTitle": "Patterned Scarf (Size - One Size) - Dark Red",
+    "lastOnAirAuctionCode": "0019887253",
     "precedingSku": "8579795",
     "precedingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
     "precedingAuctionCode": "0019886284"
