@@ -399214,11 +399214,15 @@
       "date": "2026-09-28",
       "time": "18:07:19",
       "productUrl": "/products/djoy-rose-de-france-amethyst-white-zircon-dangling-earring-with-push-post-in-rose-gold-plated-sterling-silver-3-40-ct-8698279?variant=53807636840714",
-      "lastUpdated": 1790615239772,
+      "lastUpdated": 1790615736910,
       "source": "gha",
       "productUrlChecked": 1790615242808,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1790615736910,
+      "missedDelay": 8,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "4512212": {
       "sku": "4512212",
@@ -399280,8 +399284,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790615736910,
     "gaps": [
       {
         "start": 1785823527869,
@@ -440712,8 +440716,8 @@
     "lastOnAirSku": "4512212",
     "lastOnAirTitle": "D'Joy - AAA Rose De France Amethyst Pendant in Rose Gold Plated Sterling Silver with Chain (Size 20) 5.18 Ct.",
     "lastOnAirAuctionCode": "0019886437",
-    "precedingSku": "8290018",
-    "precedingTitle": "La Marey Wanderweight 90% Duck Down Ultralight Packable Jacket (Size M) - Taupe",
-    "precedingAuctionCode": "0019887772"
+    "precedingSku": "4512212",
+    "precedingTitle": "D'Joy - AAA Rose De France Amethyst Pendant in Rose Gold Plated Sterling Silver with Chain (Size 20) 5.18 Ct.",
+    "precedingAuctionCode": "0019886437"
   }
 }
