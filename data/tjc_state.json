@@ -397052,11 +397052,29 @@
       "productUrl": null,
       "lastUpdated": 1790560279490,
       "source": "gha"
+    },
+    "8192543": {
+      "sku": "8192543",
+      "firstAir": 1790560398230,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790560398230,
+      "title": "Crossbody Bag",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019883905",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-28",
+      "time": "02:53:18",
+      "productUrl": null,
+      "lastUpdated": 1790560398230,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790560342372,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -437767,11 +437785,22 @@
         "followingSku": "8479811",
         "followingTitle": "Inspired By Hawa Mahal- 100% Genuine Leather  Tote Bag with Drawstring Pouch - Green",
         "followingAuctionCode": "0019883947"
+      },
+      {
+        "start": 1790560342372,
+        "end": 1790560398230,
+        "durationMin": 0.9,
+        "precedingSku": "8231297",
+        "precedingTitle": "JVC-style Structured Saddle Bag with Flap Lock - Shoulder Strap",
+        "precedingAuctionCode": "0019883931",
+        "followingSku": "8192543",
+        "followingTitle": "Crossbody Bag",
+        "followingAuctionCode": "0019883905"
       }
     ],
-    "lastOnAirSku": "8231297",
-    "lastOnAirTitle": "JVC-style Structured Saddle Bag with Flap Lock - Shoulder Strap",
-    "lastOnAirAuctionCode": "0019883931",
+    "lastOnAirSku": "8192543",
+    "lastOnAirTitle": "Crossbody Bag",
+    "lastOnAirAuctionCode": "0019883905",
     "precedingSku": "8231297",
     "precedingTitle": "JVC-style Structured Saddle Bag with Flap Lock - Shoulder Strap",
     "precedingAuctionCode": "0019883931"
