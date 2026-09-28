@@ -332855,17 +332855,17 @@
       "firstAir": 1789107439884,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790130381158,
+      "lastAir": 1790601504782,
       "title": "Christmas gift card(pack of 5",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019879845",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019887758",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-23",
-      "time": "03:26:21",
+      "date": "2026-09-28",
+      "time": "14:18:24",
       "productUrl": "/products/christmas-gift-cardpack-of-58312163",
-      "lastUpdated": 1790130381158,
+      "lastUpdated": 1790601504782,
       "source": "gha",
       "missedAt": 1789108371054,
       "missedDelay": 10,
@@ -397770,8 +397770,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790601439964,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -438977,11 +438977,22 @@
         "followingSku": "8692176",
         "followingTitle": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 8.60 Gms",
         "followingAuctionCode": "0019887182"
+      },
+      {
+        "start": 1790601439964,
+        "end": 1790601504782,
+        "durationMin": 1.1,
+        "precedingSku": "8801605",
+        "precedingTitle": "Christmas Decorations Santa Candle 33hr Burn Time",
+        "precedingAuctionCode": "0019886886",
+        "followingSku": "8312163",
+        "followingTitle": "Christmas gift card(pack of 5",
+        "followingAuctionCode": "0019887758"
       }
     ],
-    "lastOnAirSku": "8801605",
-    "lastOnAirTitle": "Christmas Decorations Santa Candle 33hr Burn Time",
-    "lastOnAirAuctionCode": "0019886886",
+    "lastOnAirSku": "8312163",
+    "lastOnAirTitle": "Christmas gift card(pack of 5",
+    "lastOnAirAuctionCode": "0019887758",
     "precedingSku": "8801605",
     "precedingTitle": "Christmas Decorations Santa Candle 33hr Burn Time",
     "precedingAuctionCode": "0019886886"
