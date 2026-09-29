@@ -5914,21 +5914,22 @@
       "firstAir": 1784902637073,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784954660458,
-      "title": "GENOA TIME V2 Handmade Byzantine Bracelet Watch with Japanese Movement 3ATM Golden Sunshine Dial (Size 7.5 inch with 2 inch extender) - Yellow",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019794336",
-      "buy": false,
+      "lastAir": 1790652746876,
+      "title": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019887423",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-25",
-      "time": "05:44:20",
-      "lastUpdated": 1784954660458,
+      "date": "2026-09-29",
+      "time": "04:32:26",
+      "lastUpdated": 1790652746876,
       "source": "gha",
       "missedAt": 1784902702945,
       "missedDelay": 1,
       "missedPrice": 39.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8580175": {
       "sku": "8580175",
@@ -401820,8 +401821,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790652680504,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -443632,11 +443633,22 @@
         "followingSku": "8566636",
         "followingTitle": "Genuine Leather Top-Handle Satchel Bag with Adjustable Shoulder Strap - Black",
         "followingAuctionCode": "0019887402"
+      },
+      {
+        "start": 1790652680504,
+        "end": 1790652746876,
+        "durationMin": 1.1,
+        "precedingSku": "8646875",
+        "precedingTitle": "Assots London Tina Suede Slouchy Shoulder Bag - Green",
+        "precedingAuctionCode": "0019887393",
+        "followingSku": "8579943",
+        "followingTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
+        "followingAuctionCode": "0019887423"
       }
     ],
-    "lastOnAirSku": "8646875",
-    "lastOnAirTitle": "Assots London Tina Suede Slouchy Shoulder Bag - Green",
-    "lastOnAirAuctionCode": "0019887393",
+    "lastOnAirSku": "8579943",
+    "lastOnAirTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
+    "lastOnAirAuctionCode": "0019887423",
     "precedingSku": "8646875",
     "precedingTitle": "Assots London Tina Suede Slouchy Shoulder Bag - Green",
     "precedingAuctionCode": "0019887393"
