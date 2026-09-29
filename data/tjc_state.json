@@ -229297,21 +229297,26 @@
       "sku": "8314610",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-23",
-      "time": "20:50:38",
+      "date": "2026-09-30",
+      "time": "00:04:23",
       "preExisting": true,
       "missedAt": 1787514638837,
       "missedDelay": null,
-      "lastUpdated": 1787514638837,
+      "lastUpdated": 1790723063975,
       "missedPrice": 899.99,
       "missedImg": true,
-      "title": "Tony Diniz Collection- Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring 2.07 Ct, Platinum Wt. 4.25 Gms.",
-      "auctionCode": "0019837623",
+      "title": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+      "auctionCode": "0019888808",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-aaaa-tanzanite-solitaire-ring-platinum",
       "productUrlChecked": 1787514642330,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790723063975,
+      "pdpPrice": "19999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8314612": {
       "sku": "8314612",
@@ -404487,8 +404492,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790722999878,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -446959,11 +446964,22 @@
         "followingSku": "8572272",
         "followingTitle": "Luxuriant - Tanzanite & Lab Grown Diamond (SI-G-H) Solitaire Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019888786"
+      },
+      {
+        "start": 1790722999878,
+        "end": 1790723063975,
+        "durationMin": 1.1,
+        "precedingSku": "8572272",
+        "precedingTitle": "Luxuriant - Tanzanite & Lab Grown Diamond (SI-G-H) Solitaire Ring in Rhodium Overlay Sterling Sil...",
+        "precedingAuctionCode": "0019888786",
+        "followingSku": "8314610",
+        "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+        "followingAuctionCode": "0019888808"
       }
     ],
-    "lastOnAirSku": "8572272",
-    "lastOnAirTitle": "Luxuriant - Tanzanite & Lab Grown Diamond (SI-G-H) Solitaire Ring in Rhodium Overlay Sterling Sil...",
-    "lastOnAirAuctionCode": "0019888786",
+    "lastOnAirSku": "8314610",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
+    "lastOnAirAuctionCode": "0019888808",
     "precedingSku": "8572272",
     "precedingTitle": "Luxuriant - Tanzanite & Lab Grown Diamond (SI-G-H) Solitaire Ring in Rhodium Overlay Sterling Sil...",
     "precedingAuctionCode": "0019888786"
