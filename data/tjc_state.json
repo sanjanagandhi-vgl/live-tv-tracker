@@ -349329,21 +349329,26 @@
       "sku": "8598659",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "11:42:22",
+      "date": "2026-09-29",
+      "time": "10:26:23",
       "preExisting": true,
       "missedAt": 1789468942289,
       "missedDelay": null,
-      "lastUpdated": 1789468942289,
+      "lastUpdated": 1790673983857,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Magnetic Portable Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Purple",
-      "auctionCode": "0019870219",
+      "title": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Purple",
+      "auctionCode": "0019887705",
       "source": "gha",
       "productUrl": "/products/bluetooth-speaker-size-41x57-cm-black-8598153",
       "productUrlChecked": 1789468949854,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790673983857,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8763490": {
       "sku": "8763490",
@@ -402198,8 +402203,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790673928623,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -444230,11 +444235,22 @@
         "followingSku": "8627579",
         "followingTitle": "LIVMORE Set of 6 Multi-Functional Kitchen Dishwashing & Pot Scrubbing Brushes",
         "followingAuctionCode": "0019887708"
+      },
+      {
+        "start": 1790673928623,
+        "end": 1790673983857,
+        "durationMin": 0.9,
+        "precedingSku": "8627579",
+        "precedingTitle": "LIVMORE Set of 6 Multi-Functional Kitchen Dishwashing & Pot Scrubbing Brushes",
+        "precedingAuctionCode": "0019887708",
+        "followingSku": "8598659",
+        "followingTitle": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Purple",
+        "followingAuctionCode": "0019887705"
       }
     ],
-    "lastOnAirSku": "8627579",
-    "lastOnAirTitle": "LIVMORE Set of 6 Multi-Functional Kitchen Dishwashing & Pot Scrubbing Brushes",
-    "lastOnAirAuctionCode": "0019887708",
+    "lastOnAirSku": "8598659",
+    "lastOnAirTitle": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Purple",
+    "lastOnAirAuctionCode": "0019887705",
     "precedingSku": "8627579",
     "precedingTitle": "LIVMORE Set of 6 Multi-Functional Kitchen Dishwashing & Pot Scrubbing Brushes",
     "precedingAuctionCode": "0019887708"
