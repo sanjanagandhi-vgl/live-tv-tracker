@@ -293542,17 +293542,17 @@
       "firstAir": 1788417328356,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788933036612,
+      "lastAir": 1790664141093,
       "title": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
-      "pdpPrice": "24.99",
-      "auctionCode": "0019861804",
+      "pdpPrice": "150.99",
+      "auctionCode": "0019888380",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-09",
-      "time": "06:50:36",
+      "date": "2026-09-29",
+      "time": "07:42:21",
       "productUrl": "/products/skineance-snake-venom-anti-ageing-cream-50ml",
-      "lastUpdated": 1788933036612,
+      "lastUpdated": 1790664141093,
       "source": "gha",
       "missedAt": 1788418638713,
       "missedDelay": 10,
@@ -402091,8 +402091,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790664080103,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -444046,11 +444046,22 @@
         "followingSku": "8219738",
         "followingTitle": "Skineance Magic Serum 5 x 2ml",
         "followingAuctionCode": "0019885377"
+      },
+      {
+        "start": 1790664080103,
+        "end": 1790664141093,
+        "durationMin": 1.0,
+        "precedingSku": "8219738",
+        "precedingTitle": "Skineance Magic Serum 5 x 2ml",
+        "precedingAuctionCode": "0019885377",
+        "followingSku": "8149057",
+        "followingTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
+        "followingAuctionCode": "0019888380"
       }
     ],
-    "lastOnAirSku": "8219738",
-    "lastOnAirTitle": "Skineance Magic Serum 5 x 2ml",
-    "lastOnAirAuctionCode": "0019885377",
+    "lastOnAirSku": "8149057",
+    "lastOnAirTitle": "SKINEANCE Snake Venom Anti-Ageing Cream - 50ml",
+    "lastOnAirAuctionCode": "0019888380",
     "precedingSku": "8219738",
     "precedingTitle": "Skineance Magic Serum 5 x 2ml",
     "precedingAuctionCode": "0019885377"
