@@ -403010,11 +403010,29 @@
       "productUrlChecked": 1790693606182,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8521991": {
+      "sku": "8521991",
+      "firstAir": 1790694265032,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790694265032,
+      "title": "Emreco Bubble Textured Jumper (Size S, 8-10) - Ivory",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019888042",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-29",
+      "time": "16:04:25",
+      "productUrl": null,
+      "lastUpdated": 1790694265032,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790694200713,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -445199,11 +445217,22 @@
         "followingSku": "8683718",
         "followingTitle": "La Marey Classic Polka Dot Pattern Lightweight Scarf (180 x 70 cm) - Navy Blue & Red.",
         "followingAuctionCode": "0019888997"
+      },
+      {
+        "start": 1790694200713,
+        "end": 1790694265032,
+        "durationMin": 1.1,
+        "precedingSku": "8625170",
+        "precedingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
+        "precedingAuctionCode": "0019888268",
+        "followingSku": "8521991",
+        "followingTitle": "Emreco Bubble Textured Jumper (Size S, 8-10) - Ivory",
+        "followingAuctionCode": "0019888042"
       }
     ],
-    "lastOnAirSku": "8625170",
-    "lastOnAirTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
-    "lastOnAirAuctionCode": "0019888268",
+    "lastOnAirSku": "8521991",
+    "lastOnAirTitle": "Emreco Bubble Textured Jumper (Size S, 8-10) - Ivory",
+    "lastOnAirAuctionCode": "0019888042",
     "precedingSku": "8625170",
     "precedingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
     "precedingAuctionCode": "0019888268"
