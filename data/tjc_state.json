@@ -349969,23 +349969,23 @@
       "sku": "8622224",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-17",
-      "time": "13:39:19",
+      "date": "2026-09-29",
+      "time": "16:48:20",
       "preExisting": true,
       "missedAt": 1789481440481,
       "missedDelay": null,
-      "lastUpdated": 1789648759624,
+      "lastUpdated": 1790696900119,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "La Marey Womens Button-Through Shacket with Contrast Collar (Size S-M, 8-14) - TAN",
-      "auctionCode": "0019873700",
+      "auctionCode": "0019888339",
       "source": "gha",
       "productUrl": "/products/la-marey-patterned-coat-size-s-m-chocolate-8622224",
       "productUrlChecked": 1789481452674,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789648759624,
-      "pdpPrice": "29.99",
+      "lastAir": 1790696900119,
+      "pdpPrice": "89.99",
       "buy": true,
       "login": false,
       "img": true
@@ -403724,8 +403724,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790696839723,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -445932,11 +445932,22 @@
         "followingSku": "8522007",
         "followingTitle": "Emreco Bubble Textured Jumper (Size S, 8-10) - Hot Pink",
         "followingAuctionCode": "0019888054"
+      },
+      {
+        "start": 1790696839723,
+        "end": 1790696900119,
+        "durationMin": 1.0,
+        "precedingSku": "8778582",
+        "precedingTitle": "Dr Lightfoot - Chloe Boot (Size 3) - Black",
+        "precedingAuctionCode": "0019888202",
+        "followingSku": "8622224",
+        "followingTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size S-M, 8-14) - TAN",
+        "followingAuctionCode": "0019888339"
       }
     ],
-    "lastOnAirSku": "8778582",
-    "lastOnAirTitle": "Dr Lightfoot - Chloe Boot (Size 3) - Black",
-    "lastOnAirAuctionCode": "0019888202",
+    "lastOnAirSku": "8622224",
+    "lastOnAirTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size S-M, 8-14) - TAN",
+    "lastOnAirAuctionCode": "0019888339",
     "precedingSku": "8778582",
     "precedingTitle": "Dr Lightfoot - Chloe Boot (Size 3) - Black",
     "precedingAuctionCode": "0019888202"
