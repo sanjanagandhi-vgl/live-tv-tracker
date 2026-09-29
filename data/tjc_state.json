@@ -403935,11 +403935,29 @@
       "productUrlChecked": 1790697333464,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8692490": {
+      "sku": "8692490",
+      "firstAir": 1790699064399,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790699064399,
+      "title": "Crossbody Bag (Size - One Size) - Dark Green",
+      "pdpPrice": "899.99",
+      "auctionCode": "0019889014",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-29",
+      "time": "17:24:24",
+      "productUrl": null,
+      "lastUpdated": 1790699064399,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790698882700,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -446179,11 +446197,22 @@
         "followingSku": "8620930",
         "followingTitle": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Brown Leopard Print",
         "followingAuctionCode": "0019888184"
+      },
+      {
+        "start": 1790698882700,
+        "end": 1790699064399,
+        "durationMin": 3.0,
+        "precedingSku": "8620932",
+        "precedingTitle": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Brown Leopard Print",
+        "precedingAuctionCode": "0019888186",
+        "followingSku": "8692490",
+        "followingTitle": "Crossbody Bag (Size - One Size) - Dark Green",
+        "followingAuctionCode": "0019889014"
       }
     ],
-    "lastOnAirSku": "8620932",
-    "lastOnAirTitle": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Brown Leopard Print",
-    "lastOnAirAuctionCode": "0019888186",
+    "lastOnAirSku": "8692490",
+    "lastOnAirTitle": "Crossbody Bag (Size - One Size) - Dark Green",
+    "lastOnAirAuctionCode": "0019889014",
     "precedingSku": "8620932",
     "precedingTitle": "La Marey Womens Brushed Knit Printed Long Sleeve Top (Size L-XL, 16-20) - Brown Leopard Print",
     "precedingAuctionCode": "0019888186"
