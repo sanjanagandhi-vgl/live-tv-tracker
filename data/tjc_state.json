@@ -30553,21 +30553,26 @@
       "sku": "8363248",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-09-29",
+      "time": "10:06:24",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1790672784474,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - White",
-      "auctionCode": "0019800523",
+      "title": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - Red",
+      "auctionCode": "0019887711",
       "source": "gha",
       "productUrl": "/products/bug-zapper",
       "productUrlChecked": 1785475586342,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790672784474,
+      "pdpPrice": "4.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8363245": {
       "sku": "8363245",
@@ -402179,8 +402184,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790672663402,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -444178,11 +444183,22 @@
         "followingSku": "8791878",
         "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
         "followingAuctionCode": "0019887907"
+      },
+      {
+        "start": 1790672663402,
+        "end": 1790672784474,
+        "durationMin": 2.0,
+        "precedingSku": "8791878",
+        "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "precedingAuctionCode": "0019887907",
+        "followingSku": "8363248",
+        "followingTitle": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - Red",
+        "followingAuctionCode": "0019887711"
       }
     ],
-    "lastOnAirSku": "8791878",
-    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
-    "lastOnAirAuctionCode": "0019887907",
+    "lastOnAirSku": "8363248",
+    "lastOnAirTitle": "3-in-1 Folding Electric Mosquito Swatter - USB Rechargeable 500mAh, 2-3 Hour Battery (45 X 23 CM) - Red",
+    "lastOnAirAuctionCode": "0019887711",
     "precedingSku": "8791878",
     "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
     "precedingAuctionCode": "0019887907"
