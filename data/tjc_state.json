@@ -342126,21 +342126,26 @@
       "sku": "8695103",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-09-29",
+      "time": "11:18:23",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1790677103586,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "LIVMORE 3D Laser Etched Unicorn Crystal Ball with LED Night Light",
-      "auctionCode": "0019869621",
+      "title": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
+      "auctionCode": "0019887780",
       "source": "gha",
       "productUrl": "/products/livmore-night-light-size-one-size-transparent-8695103",
       "productUrlChecked": 1789359151713,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790677103586,
+      "pdpPrice": "89.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8622187": {
       "sku": "8622187",
@@ -402266,8 +402271,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790676981717,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -444342,11 +444347,22 @@
         "followingSku": "8667855",
         "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
         "followingAuctionCode": "0019888459"
+      },
+      {
+        "start": 1790676981717,
+        "end": 1790677103586,
+        "durationMin": 2.0,
+        "precedingSku": "8667855",
+        "precedingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "precedingAuctionCode": "0019888459",
+        "followingSku": "8695103",
+        "followingTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
+        "followingAuctionCode": "0019887780"
       }
     ],
-    "lastOnAirSku": "8667855",
-    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
-    "lastOnAirAuctionCode": "0019888459",
+    "lastOnAirSku": "8695103",
+    "lastOnAirTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
+    "lastOnAirAuctionCode": "0019887780",
     "precedingSku": "8667855",
     "precedingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
     "precedingAuctionCode": "0019888459"
