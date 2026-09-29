@@ -394284,18 +394284,23 @@
       "sku": "8499430",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-27",
-      "time": "08:44:20",
+      "date": "2026-09-29",
+      "time": "11:45:36",
       "preExisting": true,
       "missedAt": 1790495060880,
       "missedDelay": null,
-      "lastUpdated": 1790495060880,
+      "lastUpdated": 1790678736895,
       "missedPrice": 19.99,
       "missedImg": false,
       "title": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Pink",
-      "auctionCode": "0019884741",
+      "auctionCode": "0019887718",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1790678736895,
+      "pdpPrice": "279.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8658952": {
       "sku": "8658952",
@@ -402328,8 +402333,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790678660987,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -444415,11 +444420,22 @@
         "followingSku": "8695103",
         "followingTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
         "followingAuctionCode": "0019887780"
+      },
+      {
+        "start": 1790678660987,
+        "end": 1790678736895,
+        "durationMin": 1.3,
+        "precedingSku": "8801614",
+        "precedingTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
+        "precedingAuctionCode": "0019887759",
+        "followingSku": "8499430",
+        "followingTitle": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Pink",
+        "followingAuctionCode": "0019887718"
       }
     ],
-    "lastOnAirSku": "8801614",
-    "lastOnAirTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
-    "lastOnAirAuctionCode": "0019887759",
+    "lastOnAirSku": "8499430",
+    "lastOnAirTitle": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Pink",
+    "lastOnAirAuctionCode": "0019887718",
     "precedingSku": "8801614",
     "precedingTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
     "precedingAuctionCode": "0019887759"
