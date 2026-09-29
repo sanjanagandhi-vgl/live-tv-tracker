@@ -315972,21 +315972,26 @@
       "sku": "4465769",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-07",
-      "time": "16:39:20",
+      "date": "2026-09-29",
+      "time": "17:51:19",
       "preExisting": true,
       "missedAt": 1788795560119,
       "missedDelay": null,
-      "lastUpdated": 1788795560119,
+      "lastUpdated": 1790700679395,
       "missedPrice": 12.39,
       "missedImg": true,
-      "title": "Super Find - La Marey Womens Set of 2 High Waist Seemless Shaper Shorts Shaper Shorts (Size L-XL, UK 16-20) - Black & Skin",
-      "auctionCode": "0019859933",
+      "title": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
+      "auctionCode": "0019888272",
       "source": "gha",
       "productUrl": "/products/la-marey-set-of-2-slim-n-lift-silhouette-shaper-4465761",
       "productUrlChecked": 1788795563512,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790700679395,
+      "pdpPrice": "12.39",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8588510": {
       "sku": "8588510",
@@ -403956,8 +403961,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790700638035,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -446208,11 +446213,22 @@
         "followingSku": "8692490",
         "followingTitle": "Crossbody Bag (Size - One Size) - Dark Green",
         "followingAuctionCode": "0019889014"
+      },
+      {
+        "start": 1790700638035,
+        "end": 1790700679395,
+        "durationMin": 0.7,
+        "precedingSku": "8692490",
+        "precedingTitle": "SUPER FIND - Designer Crossbody Bag (Size - One Size) - Dark Green",
+        "precedingAuctionCode": "0019889014",
+        "followingSku": "4465769",
+        "followingTitle": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
+        "followingAuctionCode": "0019888272"
       }
     ],
-    "lastOnAirSku": "8692490",
-    "lastOnAirTitle": "SUPER FIND - Designer Crossbody Bag (Size - One Size) - Dark Green",
-    "lastOnAirAuctionCode": "0019889014",
+    "lastOnAirSku": "4465769",
+    "lastOnAirTitle": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
+    "lastOnAirAuctionCode": "0019888272",
     "precedingSku": "8692490",
     "precedingTitle": "SUPER FIND - Designer Crossbody Bag (Size - One Size) - Dark Green",
     "precedingAuctionCode": "0019889014"
