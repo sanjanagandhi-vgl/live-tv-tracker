@@ -391032,21 +391032,26 @@
       "sku": "7948829",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "19:24:22",
+      "date": "2026-09-29",
+      "time": "18:34:24",
       "preExisting": true,
       "missedAt": 1790360662448,
       "missedDelay": null,
-      "lastUpdated": 1790360662448,
+      "lastUpdated": 1790703264033,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "TJC Exclusive NUSUK Nuqat Air Freshener - 300ml",
-      "auctionCode": "0019884244",
+      "title": "NUSUK Arabian Oud Home Fragrance Collection - Nuqat - 300ML",
+      "auctionCode": "0019888077",
       "source": "gha",
       "productUrl": "/products/closeout-deal-nusuk-dubai-ana-al-awwal-air-freshener-300ml",
       "productUrlChecked": 1790360668517,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790703264033,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8800440": {
       "sku": "8800440",
@@ -404028,8 +404033,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790703053245,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -446324,11 +446329,22 @@
         "followingSku": "8194045",
         "followingTitle": "YALE Pack of 2 - Standard Security Brass Combination Padlock - Gold",
         "followingAuctionCode": "0019888087"
+      },
+      {
+        "start": 1790703053245,
+        "end": 1790703264033,
+        "durationMin": 3.5,
+        "precedingSku": "8194045",
+        "precedingTitle": "YALE Pack of 2 - Standard Security Brass Combination Padlock - Gold",
+        "precedingAuctionCode": "0019888087",
+        "followingSku": "7948829",
+        "followingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Nuqat - 300ML",
+        "followingAuctionCode": "0019888077"
       }
     ],
-    "lastOnAirSku": "8194045",
-    "lastOnAirTitle": "YALE Pack of 2 - Standard Security Brass Combination Padlock - Gold",
-    "lastOnAirAuctionCode": "0019888087",
+    "lastOnAirSku": "7948829",
+    "lastOnAirTitle": "NUSUK Arabian Oud Home Fragrance Collection - Nuqat - 300ML",
+    "lastOnAirAuctionCode": "0019888077",
     "precedingSku": "8194045",
     "precedingTitle": "YALE Pack of 2 - Standard Security Brass Combination Padlock - Gold",
     "precedingAuctionCode": "0019888087"
