@@ -163313,17 +163313,17 @@
       "firstAir": 1786730062463,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789622543402,
+      "lastAir": 1790701643682,
       "title": "Christmas Ornament (Size 1x1x1 cm) - Grey",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019872683",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019888070",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-17",
-      "time": "06:22:23",
+      "date": "2026-09-29",
+      "time": "18:07:23",
       "productUrl": "/products/christmas-ornament-size-1x1x1-cm-grey",
-      "lastUpdated": 1789622543402,
+      "lastUpdated": 1790701643682,
       "source": "gha",
       "missedAt": 1786730727907,
       "missedDelay": 9,
@@ -404028,8 +404028,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790701346073,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -446291,11 +446291,22 @@
         "followingSku": "4465769",
         "followingTitle": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
         "followingAuctionCode": "0019888272"
+      },
+      {
+        "start": 1790701346073,
+        "end": 1790701643682,
+        "durationMin": 5.0,
+        "precedingSku": "4465769",
+        "precedingTitle": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
+        "precedingAuctionCode": "0019888272",
+        "followingSku": "7552750",
+        "followingTitle": "Christmas Ornament (Size 1x1x1 cm) - Grey",
+        "followingAuctionCode": "0019888070"
       }
     ],
-    "lastOnAirSku": "4465769",
-    "lastOnAirTitle": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
-    "lastOnAirAuctionCode": "0019888272",
+    "lastOnAirSku": "7552750",
+    "lastOnAirTitle": "Christmas Ornament (Size 1x1x1 cm) - Grey",
+    "lastOnAirAuctionCode": "0019888070",
     "precedingSku": "4465769",
     "precedingTitle": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
     "precedingAuctionCode": "0019888272"
