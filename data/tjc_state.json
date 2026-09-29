@@ -213454,17 +213454,17 @@
       "firstAir": 1787332639894,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789158081317,
+      "lastAir": 1790702664526,
       "title": "YALE Pack of 2 - Standard Security Brass Combination Padlock - Gold",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019864272",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019888087",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "21:21:21",
+      "date": "2026-09-29",
+      "time": "18:24:24",
       "productUrl": null,
-      "lastUpdated": 1789158081317,
+      "lastUpdated": 1790702664526,
       "source": "gha",
       "missedAt": 1787333452352,
       "missedDelay": 10,
@@ -404028,8 +404028,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790702606072,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -446313,11 +446313,22 @@
         "followingSku": "8088314",
         "followingTitle": "100 Magic Foam Deep Clean Sponge Cleaner-Eraser - Melamine Chemical Free, Odourless. Kitchen, Bathroom, Stainless Steel, Wall, Floor.",
         "followingAuctionCode": "0019888084"
+      },
+      {
+        "start": 1790702606072,
+        "end": 1790702664526,
+        "durationMin": 1.0,
+        "precedingSku": "8088314",
+        "precedingTitle": "100 Magic Foam Deep Clean Sponge Cleaner-Eraser - Melamine Chemical Free, Odourless. Kitchen, Bathroom, Stainless Steel, Wall, Floor.",
+        "precedingAuctionCode": "0019888084",
+        "followingSku": "8194045",
+        "followingTitle": "YALE Pack of 2 - Standard Security Brass Combination Padlock - Gold",
+        "followingAuctionCode": "0019888087"
       }
     ],
-    "lastOnAirSku": "8088314",
-    "lastOnAirTitle": "100 Magic Foam Deep Clean Sponge Cleaner-Eraser - Melamine Chemical Free, Odourless. Kitchen, Bathroom, Stainless Steel, Wall, Floor.",
-    "lastOnAirAuctionCode": "0019888084",
+    "lastOnAirSku": "8194045",
+    "lastOnAirTitle": "YALE Pack of 2 - Standard Security Brass Combination Padlock - Gold",
+    "lastOnAirAuctionCode": "0019888087",
     "precedingSku": "8088314",
     "precedingTitle": "100 Magic Foam Deep Clean Sponge Cleaner-Eraser - Melamine Chemical Free, Odourless. Kitchen, Bathroom, Stainless Steel, Wall, Floor.",
     "precedingAuctionCode": "0019888084"
