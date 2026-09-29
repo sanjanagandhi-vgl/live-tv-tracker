@@ -292694,17 +292694,17 @@
       "firstAir": 1788397762470,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790605464455,
+      "lastAir": 1790659943086,
       "title": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019885055",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019888062",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-28",
-      "time": "15:24:24",
+      "date": "2026-09-29",
+      "time": "06:32:23",
       "productUrl": "/products/cyclax-cocoa-butter-rich-body-cream-8739949",
-      "lastUpdated": 1790605464455,
+      "lastUpdated": 1790659943086,
       "source": "gha",
       "missedAt": 1788398357923,
       "missedDelay": 10,
@@ -402091,8 +402091,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790659758690,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -444013,11 +444013,22 @@
         "followingSku": "7971321",
         "followingTitle": "Beautech Womens Portable 3 in 1 shaver with USB Charging - Green",
         "followingAuctionCode": "0019888060"
+      },
+      {
+        "start": 1790659758690,
+        "end": 1790659943086,
+        "durationMin": 3.1,
+        "precedingSku": "7971321",
+        "precedingTitle": "Beautech Portable Shaver with USB Charging - White",
+        "precedingAuctionCode": "0019888060",
+        "followingSku": "8739949",
+        "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+        "followingAuctionCode": "0019888062"
       }
     ],
-    "lastOnAirSku": "7971321",
-    "lastOnAirTitle": "Beautech Portable Shaver with USB Charging - White",
-    "lastOnAirAuctionCode": "0019888060",
+    "lastOnAirSku": "8739949",
+    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+    "lastOnAirAuctionCode": "0019888062",
     "precedingSku": "7971321",
     "precedingTitle": "Beautech Portable Shaver with USB Charging - White",
     "precedingAuctionCode": "0019888060"
