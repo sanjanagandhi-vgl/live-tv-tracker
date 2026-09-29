@@ -401687,11 +401687,29 @@
       "productUrl": null,
       "lastUpdated": 1790641583172,
       "source": "gha"
+    },
+    "7566739": {
+      "sku": "7566739",
+      "firstAir": 1790642478829,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790642478829,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019887611",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-29",
+      "time": "01:41:18",
+      "productUrl": null,
+      "lastUpdated": 1790642478829,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790642433552,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -443425,11 +443443,22 @@
         "followingSku": "8613689",
         "followingTitle": "Italian Made Sterling Silver Flat Square Curb Chain (Size - 18) with Lobster Clasp, Silver Wt. 25.00 Gms",
         "followingAuctionCode": "0019887630"
+      },
+      {
+        "start": 1790642433552,
+        "end": 1790642478829,
+        "durationMin": 0.8,
+        "precedingSku": "8478769",
+        "precedingTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Bismark Necklace (Size - 20)",
+        "precedingAuctionCode": "0019887590",
+        "followingSku": "7566739",
+        "followingTitle": null,
+        "followingAuctionCode": "0019887611"
       }
     ],
-    "lastOnAirSku": "8478769",
-    "lastOnAirTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Bismark Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019887590",
+    "lastOnAirSku": "7566739",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019887611",
     "precedingSku": "8478769",
     "precedingTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Bismark Necklace (Size - 20)",
     "precedingAuctionCode": "0019887590"
