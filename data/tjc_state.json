@@ -402218,11 +402218,29 @@
       "productUrl": null,
       "lastUpdated": 1790676078969,
       "source": "gha"
+    },
+    "8667855": {
+      "sku": "8667855",
+      "firstAir": 1790676383059,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790676383059,
+      "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019888459",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-29",
+      "time": "11:06:23",
+      "productUrl": null,
+      "lastUpdated": 1790676383059,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790676142307,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -444286,11 +444304,22 @@
         "followingSku": "8624695",
         "followingTitle": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
         "followingAuctionCode": "0019888457"
+      },
+      {
+        "start": 1790676142307,
+        "end": 1790676383059,
+        "durationMin": 4.0,
+        "precedingSku": "8624695",
+        "precedingTitle": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
+        "precedingAuctionCode": "0019888457",
+        "followingSku": "8667855",
+        "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "followingAuctionCode": "0019888459"
       }
     ],
-    "lastOnAirSku": "8624695",
-    "lastOnAirTitle": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
-    "lastOnAirAuctionCode": "0019888457",
+    "lastOnAirSku": "8667855",
+    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+    "lastOnAirAuctionCode": "0019888459",
     "precedingSku": "8624695",
     "precedingTitle": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
     "precedingAuctionCode": "0019888457"
