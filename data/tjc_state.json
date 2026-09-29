@@ -402131,11 +402131,29 @@
       "productUrl": null,
       "lastUpdated": 1790668998002,
       "source": "gha"
+    },
+    "8791878": {
+      "sku": "8791878",
+      "firstAir": 1790669436565,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790669436565,
+      "title": "Laurelle Fly Fairy EDP - 85ml",
+      "pdpPrice": "80.99",
+      "auctionCode": "0019887907",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-29",
+      "time": "09:10:36",
+      "productUrl": null,
+      "lastUpdated": 1790669436565,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790669064350,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -444122,11 +444140,22 @@
         "followingSku": "9053742",
         "followingTitle": "Doctors Formula- Probiotics ADVANCED Radiance - Radiance Eye Serum, Sensitive Anti-Bac Redness Reducer - 30ml and Dragons Blood Sensitive Wrinkle Reducer",
         "followingAuctionCode": "0019887986"
+      },
+      {
+        "start": 1790669064350,
+        "end": 1790669436565,
+        "durationMin": 6.2,
+        "precedingSku": "9053742",
+        "precedingTitle": "Doctors Formula- Probiotics ADVANCED Radiance - Radiance Eye Serum, Sensitive Anti-Bac Redness Reducer - 30ml and Dragons Blood Sensitive Wrinkle Reducer",
+        "precedingAuctionCode": "0019887986",
+        "followingSku": "8791878",
+        "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "followingAuctionCode": "0019887907"
       }
     ],
-    "lastOnAirSku": "9053742",
-    "lastOnAirTitle": "Doctors Formula- Probiotics ADVANCED Radiance - Radiance Eye Serum, Sensitive Anti-Bac Redness Reducer - 30ml and Dragons Blood Sensitive Wrinkle Reducer",
-    "lastOnAirAuctionCode": "0019887986",
+    "lastOnAirSku": "8791878",
+    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
+    "lastOnAirAuctionCode": "0019887907",
     "precedingSku": "9053742",
     "precedingTitle": "Doctors Formula- Probiotics ADVANCED Radiance - Radiance Eye Serum, Sensitive Anti-Bac Redness Reducer - 30ml and Dragons Blood Sensitive Wrinkle Reducer",
     "precedingAuctionCode": "0019887986"
