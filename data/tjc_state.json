@@ -402289,20 +402289,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-09-29",
-      "time": "11:10:40",
+      "time": "19:15:33",
       "preExisting": true,
       "missedAt": 1790676640168,
       "missedDelay": null,
-      "lastUpdated": 1790676640168,
+      "lastUpdated": 1790705733970,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W)  - Black",
-      "auctionCode": "0019888458",
+      "title": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
+      "auctionCode": "0019889779",
       "source": "gha",
       "productUrl": "/products/tech-accessories-size-23x3-cm-white-8624695",
       "productUrlChecked": 1790676643513,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790705733970,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8667857": {
       "sku": "8667857",
@@ -404036,8 +404041,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790705663127,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -446365,11 +446370,22 @@
         "followingSku": "8330952",
         "followingTitle": "MEGA CLEARANCE DEAL - Electric Shoe-Glove-Boot-Hat Dryer Warmer with Adjustable Rack, Heat Blower and Timer - White",
         "followingAuctionCode": "0019888111"
+      },
+      {
+        "start": 1790705663127,
+        "end": 1790705733970,
+        "durationMin": 1.2,
+        "precedingSku": "8330952",
+        "precedingTitle": "MEGA CLEARANCE DEAL - Electric Shoe-Glove-Boot-Hat Dryer Warmer with Adjustable Rack, Heat Blower...",
+        "precedingAuctionCode": "0019888111",
+        "followingSku": "8624696",
+        "followingTitle": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
+        "followingAuctionCode": "0019889779"
       }
     ],
-    "lastOnAirSku": "8330952",
-    "lastOnAirTitle": "MEGA CLEARANCE DEAL - Electric Shoe-Glove-Boot-Hat Dryer Warmer with Adjustable Rack, Heat Blower...",
-    "lastOnAirAuctionCode": "0019888111",
+    "lastOnAirSku": "8624696",
+    "lastOnAirTitle": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
+    "lastOnAirAuctionCode": "0019889779",
     "precedingSku": "8330952",
     "precedingTitle": "MEGA CLEARANCE DEAL - Electric Shoe-Glove-Boot-Hat Dryer Warmer with Adjustable Rack, Heat Blower...",
     "precedingAuctionCode": "0019888111"
