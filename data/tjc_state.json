@@ -402503,11 +402503,29 @@
       "productUrl": null,
       "lastUpdated": 1790690545655,
       "source": "gha"
+    },
+    "8778606": {
+      "sku": "8778606",
+      "firstAir": 1790690664004,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790690664004,
+      "title": "New Season - Priscilla Ladies Slippers (Size 3) - Blue",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019888220",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-29",
+      "time": "15:04:24",
+      "productUrl": null,
+      "lastUpdated": 1790690664004,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790690602196,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -444670,11 +444688,22 @@
         "followingSku": "221326210",
         "followingTitle": "BEAUTY  OFFER ONLY- Cetuem Ice Pack (Pack of 2) - 100ml Each",
         "followingAuctionCode": "0019888946"
+      },
+      {
+        "start": 1790690602196,
+        "end": 1790690664004,
+        "durationMin": 1.0,
+        "precedingSku": "8579336",
+        "precedingTitle": "Dog Motif Ladies Zip Around RFID Wallet Purse - Dark Blue",
+        "precedingAuctionCode": "0019888951",
+        "followingSku": "8778606",
+        "followingTitle": "New Season - Priscilla Ladies Slippers (Size 3) - Blue",
+        "followingAuctionCode": "0019888220"
       }
     ],
-    "lastOnAirSku": "8579336",
-    "lastOnAirTitle": "Dog Motif Ladies Zip Around RFID Wallet Purse - Dark Blue",
-    "lastOnAirAuctionCode": "0019888951",
+    "lastOnAirSku": "8778606",
+    "lastOnAirTitle": "New Season - Priscilla Ladies Slippers (Size 3) - Blue",
+    "lastOnAirAuctionCode": "0019888220",
     "precedingSku": "8579336",
     "precedingTitle": "Dog Motif Ladies Zip Around RFID Wallet Purse - Dark Blue",
     "precedingAuctionCode": "0019888951"
