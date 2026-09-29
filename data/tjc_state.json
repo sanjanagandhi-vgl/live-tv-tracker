@@ -403028,11 +403028,29 @@
       "productUrl": null,
       "lastUpdated": 1790694503321,
       "source": "gha"
+    },
+    "8522007": {
+      "sku": "8522007",
+      "firstAir": 1790694636642,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790694636642,
+      "title": "Emreco Bubble Textured Jumper (Size S, 8-10) - Hot Pink",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019888054",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-29",
+      "time": "16:10:36",
+      "productUrl": null,
+      "lastUpdated": 1790694636642,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790694560775,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -445228,11 +445246,22 @@
         "followingSku": "8521991",
         "followingTitle": "Emreco Bubble Textured Jumper (Size S, 8-10) - Ivory",
         "followingAuctionCode": "0019888042"
+      },
+      {
+        "start": 1790694560775,
+        "end": 1790694636642,
+        "durationMin": 1.3,
+        "precedingSku": "8521991",
+        "precedingTitle": "Emreco Bubble Textured Jumper (Size S, 8-10) - Ivory",
+        "precedingAuctionCode": "0019888042",
+        "followingSku": "8522007",
+        "followingTitle": "Emreco Bubble Textured Jumper (Size S, 8-10) - Hot Pink",
+        "followingAuctionCode": "0019888054"
       }
     ],
-    "lastOnAirSku": "8521991",
-    "lastOnAirTitle": "Emreco Bubble Textured Jumper (Size S, 8-10) - Ivory",
-    "lastOnAirAuctionCode": "0019888042",
+    "lastOnAirSku": "8522007",
+    "lastOnAirTitle": "Emreco Bubble Textured Jumper (Size S, 8-10) - Hot Pink",
+    "lastOnAirAuctionCode": "0019888054",
     "precedingSku": "8521991",
     "precedingTitle": "Emreco Bubble Textured Jumper (Size S, 8-10) - Ivory",
     "precedingAuctionCode": "0019888042"
