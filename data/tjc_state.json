@@ -317618,21 +317618,26 @@
       "sku": "4481404",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-07",
-      "time": "23:52:24",
+      "date": "2026-09-30",
+      "time": "00:47:21",
       "preExisting": true,
       "missedAt": 1788821544357,
       "missedDelay": null,
-      "lastUpdated": 1788821544357,
+      "lastUpdated": 1790725641859,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "D'Joy - Tanzanite & White Zircon Drop Pendant with Chain (Size 20) in Platinum Overlay Sterling Silver",
-      "auctionCode": "0019861203",
+      "auctionCode": "0019889079",
       "source": "gha",
       "productUrl": "/products/djoy-tanzanite-white-zircon-pendant-with-chain-size-20-in-platinum-overlay-yellow-gold-plated-sterling-silver-4478979",
       "productUrlChecked": 1788821546864,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790725641859,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8572401": {
       "sku": "8572401",
@@ -404682,8 +404687,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790725580985,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -447165,11 +447170,22 @@
         "followingSku": "8314610",
         "followingTitle": "Rhapsody 950 Platinum AAAA Tanzanite Solitaire Ring Platinum",
         "followingAuctionCode": "0019888808"
+      },
+      {
+        "start": 1790725580985,
+        "end": 1790725641859,
+        "durationMin": 1.0,
+        "precedingSku": "8582024",
+        "precedingTitle": "D'Joy - Tanzanite Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019889080",
+        "followingSku": "4481404",
+        "followingTitle": "D'Joy - Tanzanite & White Zircon Drop Pendant with Chain (Size 20) in Platinum Overlay Sterling Silver",
+        "followingAuctionCode": "0019889079"
       }
     ],
-    "lastOnAirSku": "8582024",
-    "lastOnAirTitle": "D'Joy - Tanzanite Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019889080",
+    "lastOnAirSku": "4481404",
+    "lastOnAirTitle": "D'Joy - Tanzanite & White Zircon Drop Pendant with Chain (Size 20) in Platinum Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019889079",
     "precedingSku": "8582024",
     "precedingTitle": "D'Joy - Tanzanite Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019889080"
