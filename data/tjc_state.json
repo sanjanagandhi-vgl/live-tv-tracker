@@ -405483,11 +405483,29 @@
       "productUrl": null,
       "lastUpdated": 1790750362698,
       "source": "gha"
+    },
+    "7939243": {
+      "sku": "7939243",
+      "firstAir": 1790750478426,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790750478426,
+      "title": "Doctor\u2019s Formula Peptide Pro8 Age Reset Skincare Set with Mask, Eye Refresh, and Serum",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019889358",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "07:41:18",
+      "productUrl": null,
+      "lastUpdated": 1790750478426,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790750437086,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -448343,11 +448361,22 @@
         "followingSku": "7541613",
         "followingTitle": "Doctors Formula- Probiotics Advanced Radiance - 12 Hour Day Protection Moisturiser - 50ml",
         "followingAuctionCode": "0019889351"
+      },
+      {
+        "start": 1790750437086,
+        "end": 1790750478426,
+        "durationMin": 0.7,
+        "precedingSku": "7541613",
+        "precedingTitle": "Doctors Formula- Probiotics Advanced Radiance - 12 Hour Day Protection Moisturiser - 50ml",
+        "precedingAuctionCode": "0019889351",
+        "followingSku": "7939243",
+        "followingTitle": "Doctor\u2019s Formula Peptide Pro8 Age Reset Skincare Set with Mask, Eye Refresh, and Serum",
+        "followingAuctionCode": "0019889358"
       }
     ],
-    "lastOnAirSku": "7541613",
-    "lastOnAirTitle": "Doctors Formula- Probiotics Advanced Radiance - 12 Hour Day Protection Moisturiser - 50ml",
-    "lastOnAirAuctionCode": "0019889351",
+    "lastOnAirSku": "7939243",
+    "lastOnAirTitle": "Doctor\u2019s Formula Peptide Pro8 Age Reset Skincare Set with Mask, Eye Refresh, and Serum",
+    "lastOnAirAuctionCode": "0019889358",
     "precedingSku": "7541613",
     "precedingTitle": "Doctors Formula- Probiotics Advanced Radiance - 12 Hour Day Protection Moisturiser - 50ml",
     "precedingAuctionCode": "0019889351"
