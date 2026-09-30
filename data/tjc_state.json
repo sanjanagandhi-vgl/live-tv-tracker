@@ -131014,17 +131014,17 @@
       "firstAir": 1786429103534,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786429279727,
+      "lastAir": 1790734467375,
       "title": "Crossbody Bag",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019815323",
+      "pdpPrice": "47.99",
+      "auctionCode": "0019888417",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-11",
-      "time": "07:21:19",
+      "date": "2026-09-30",
+      "time": "03:14:27",
       "productUrl": "/products/crossbody-bag-1988162363",
-      "lastUpdated": 1786429853620,
+      "lastUpdated": 1790734467375,
       "source": "gha",
       "missedAt": 1786429853620,
       "missedDelay": 10,
@@ -405100,8 +405100,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790734399490,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -447715,11 +447715,22 @@
         "followingSku": "8160742",
         "followingTitle": "Leather Patterned Tote Bag (Size 30x12x23 )",
         "followingAuctionCode": "0019888404"
+      },
+      {
+        "start": 1790734399490,
+        "end": 1790734467375,
+        "durationMin": 1.1,
+        "precedingSku": "7603766",
+        "precedingTitle": "100% Genuine Leather Crossbody Bag with 2 Long Shoulder Straps - Black",
+        "precedingAuctionCode": "0019888406",
+        "followingSku": "8162363",
+        "followingTitle": "Crossbody Bag",
+        "followingAuctionCode": "0019888417"
       }
     ],
-    "lastOnAirSku": "7603766",
-    "lastOnAirTitle": "100% Genuine Leather Crossbody Bag with 2 Long Shoulder Straps - Black",
-    "lastOnAirAuctionCode": "0019888406",
+    "lastOnAirSku": "8162363",
+    "lastOnAirTitle": "Crossbody Bag",
+    "lastOnAirAuctionCode": "0019888417",
     "precedingSku": "7603766",
     "precedingTitle": "100% Genuine Leather Crossbody Bag with 2 Long Shoulder Straps - Black",
     "precedingAuctionCode": "0019888406"
