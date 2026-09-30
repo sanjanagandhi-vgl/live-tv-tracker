@@ -406612,11 +406612,29 @@
       "productUrl": null,
       "lastUpdated": 1790780185732,
       "source": "gha"
+    },
+    "8290003": {
+      "sku": "8290003",
+      "firstAir": 1790780305573,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790780305573,
+      "title": "La Marey Wanderweight 90% Duck Down Ultralight Packable Jacket (Size L 16  to 18) - Burgundy",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019889867",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "15:58:25",
+      "productUrl": null,
+      "lastUpdated": 1790780305573,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790780240877,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -449813,11 +449831,22 @@
         "followingSku": "8636693",
         "followingTitle": "La Marey Womens Striped Tassel Poncho Cardigan  with Pockets (One Size) - Beige",
         "followingAuctionCode": "0019889843"
+      },
+      {
+        "start": 1790780240877,
+        "end": 1790780305573,
+        "durationMin": 1.1,
+        "precedingSku": "8229270",
+        "precedingTitle": "La Marey Leopard Print Longline Knitted Cardigan (Size 10-22) - Beige",
+        "precedingAuctionCode": "0019889919",
+        "followingSku": "8290003",
+        "followingTitle": "La Marey Wanderweight 90% Duck Down Ultralight Packable Jacket (Size L 16  to 18) - Burgundy",
+        "followingAuctionCode": "0019889867"
       }
     ],
-    "lastOnAirSku": "8229270",
-    "lastOnAirTitle": "La Marey Leopard Print Longline Knitted Cardigan (Size 10-22) - Beige",
-    "lastOnAirAuctionCode": "0019889919",
+    "lastOnAirSku": "8290003",
+    "lastOnAirTitle": "La Marey Wanderweight 90% Duck Down Ultralight Packable Jacket (Size L 16  to 18) - Burgundy",
+    "lastOnAirAuctionCode": "0019889867",
     "precedingSku": "8229270",
     "precedingTitle": "La Marey Leopard Print Longline Knitted Cardigan (Size 10-22) - Beige",
     "precedingAuctionCode": "0019889919"
