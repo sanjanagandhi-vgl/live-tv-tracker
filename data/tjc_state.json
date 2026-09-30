@@ -168841,20 +168841,20 @@
       "sku": "8500975",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "20:12:25",
+      "date": "2026-09-30",
+      "time": "20:40:33",
       "preExisting": true,
       "missedAt": 1786813102956,
       "missedDelay": null,
-      "lastUpdated": 1788203545476,
+      "lastUpdated": 1790797233891,
       "missedPrice": 1999.99,
       "missedImg": true,
       "title": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
-      "auctionCode": "0019852219",
+      "auctionCode": "0019890715",
       "source": "gha",
       "productUrl": null,
-      "lastAir": 1788203545476,
-      "pdpPrice": "1999.99",
+      "lastAir": 1790797233891,
+      "pdpPrice": "2999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -408273,8 +408273,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790796980840,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -451702,11 +451702,22 @@
         "followingSku": "8591162",
         "followingTitle": "D'Joy - Natural Larimar Solitaire Ring in Rhodium Overlay Sterling Silver 13.60 Ct.",
         "followingAuctionCode": "0019890917"
+      },
+      {
+        "start": 1790796980840,
+        "end": 1790797233891,
+        "durationMin": 4.2,
+        "precedingSku": "8587835",
+        "precedingTitle": "D'Joy - Natural Larimar & Swiss Blue Topaz Ring in Platinum Overlay Sterling Silver 2.20 Ct.",
+        "precedingAuctionCode": "0019890520",
+        "followingSku": "8500975",
+        "followingTitle": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
+        "followingAuctionCode": "0019890715"
       }
     ],
-    "lastOnAirSku": "8587835",
-    "lastOnAirTitle": "D'Joy - Natural Larimar & Swiss Blue Topaz Ring in Platinum Overlay Sterling Silver 2.20 Ct.",
-    "lastOnAirAuctionCode": "0019890520",
+    "lastOnAirSku": "8500975",
+    "lastOnAirTitle": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
+    "lastOnAirAuctionCode": "0019890715",
     "precedingSku": "8587835",
     "precedingTitle": "D'Joy - Natural Larimar & Swiss Blue Topaz Ring in Platinum Overlay Sterling Silver 2.20 Ct.",
     "precedingAuctionCode": "0019890520"
