@@ -23049,19 +23049,19 @@
       "sku": "8480269",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-19",
-      "time": "04:41:20",
+      "date": "2026-09-30",
+      "time": "20:56:22",
       "preExisting": true,
       "missedAt": 1785350781750,
       "missedDelay": null,
-      "lastUpdated": 1789789280491,
+      "lastUpdated": 1790798182315,
       "missedPrice": 119.99,
       "missedImg": true,
       "title": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
-      "auctionCode": "0019876686",
+      "auctionCode": "0019889957",
       "source": "gha",
-      "lastAir": 1789789280491,
-      "pdpPrice": "119.99",
+      "lastAir": 1790798182315,
+      "pdpPrice": "2499.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -408719,8 +408719,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790798131451,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -452159,11 +452159,22 @@
         "followingSku": "8500975",
         "followingTitle": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
         "followingAuctionCode": "0019890715"
+      },
+      {
+        "start": 1790798131451,
+        "end": 1790798182315,
+        "durationMin": 0.8,
+        "precedingSku": "8501104",
+        "precedingTitle": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
+        "precedingAuctionCode": "0019890589",
+        "followingSku": "8480269",
+        "followingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
+        "followingAuctionCode": "0019889957"
       }
     ],
-    "lastOnAirSku": "8501104",
-    "lastOnAirTitle": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
-    "lastOnAirAuctionCode": "0019890589",
+    "lastOnAirSku": "8480269",
+    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
+    "lastOnAirAuctionCode": "0019889957",
     "precedingSku": "8501104",
     "precedingTitle": "LUXURIANT 5 Ct. Lab Grown Diamond Ring In 950 Platinum IGI Certified (VS-EF)",
     "precedingAuctionCode": "0019890589"
