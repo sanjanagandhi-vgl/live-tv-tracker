@@ -381727,17 +381727,17 @@
       "firstAir": 1790123901379,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790227158448,
+      "lastAir": 1790778082092,
       "title": "Cashmere Wool Gloves One Size",
       "pdpPrice": "7.99",
-      "auctionCode": "0019882030",
+      "auctionCode": "0019889833",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-24",
-      "time": "06:19:18",
+      "date": "2026-09-30",
+      "time": "15:21:22",
       "productUrl": "/products/cashmere-wool-gloves-one-size",
-      "lastUpdated": 1790227158448,
+      "lastUpdated": 1790778082092,
       "source": "gha",
       "missedAt": 1790124636064,
       "missedDelay": 9,
@@ -406585,8 +406585,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790778035731,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -449761,11 +449761,22 @@
         "followingSku": "8683820",
         "followingTitle": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Beige",
         "followingAuctionCode": "0019889759"
+      },
+      {
+        "start": 1790778035731,
+        "end": 1790778082092,
+        "durationMin": 0.8,
+        "precedingSku": "8683820",
+        "precedingTitle": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Beige",
+        "precedingAuctionCode": "0019889759",
+        "followingSku": "7852909",
+        "followingTitle": "Cashmere Wool Gloves One Size",
+        "followingAuctionCode": "0019889833"
       }
     ],
-    "lastOnAirSku": "8683820",
-    "lastOnAirTitle": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Beige",
-    "lastOnAirAuctionCode": "0019889759",
+    "lastOnAirSku": "7852909",
+    "lastOnAirTitle": "Cashmere Wool Gloves One Size",
+    "lastOnAirAuctionCode": "0019889833",
     "precedingSku": "8683820",
     "precedingTitle": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Beige",
     "precedingAuctionCode": "0019889759"
