@@ -405946,9 +405946,16 @@
       "img": true,
       "date": "2026-09-30",
       "time": "08:56:23",
-      "productUrl": null,
-      "lastUpdated": 1790754983343,
-      "source": "gha"
+      "productUrl": "/products/la-marey-borg-jacket-with-pockets",
+      "lastUpdated": 1790755532308,
+      "source": "gha",
+      "missedAt": 1790755532308,
+      "missedDelay": 9,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1790755539150,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8130511": {
       "sku": "8130511",
@@ -406137,11 +406144,51 @@
       "productUrl": null,
       "lastUpdated": 1790755464788,
       "source": "gha-variant"
+    },
+    "7850306": {
+      "sku": "7850306",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-30",
+      "time": "09:05:32",
+      "preExisting": true,
+      "missedAt": 1790755532308,
+      "missedDelay": null,
+      "lastUpdated": 1790755532308,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Borg Jacket with Pockets (Size 20 to 22) - Olive",
+      "auctionCode": "0019889588",
+      "source": "gha",
+      "productUrl": "/products/la-marey-borg-jacket-with-pockets",
+      "productUrlChecked": 1790755540039,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7850300": {
+      "sku": "7850300",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-30",
+      "time": "09:05:32",
+      "preExisting": true,
+      "missedAt": 1790755532308,
+      "missedDelay": null,
+      "lastUpdated": 1790755532308,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Borg Jacket with Pockets (Size 16 to 18) - Olive",
+      "auctionCode": "0019889587",
+      "source": "gha",
+      "productUrl": "/products/la-marey-borg-jacket-with-pockets",
+      "productUrlChecked": 1790755540272,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790755532308,
     "gaps": [
       {
         "start": 1785823527869,
@@ -449079,8 +449126,8 @@
     "lastOnAirSku": "8130511",
     "lastOnAirTitle": "Anonymous Crepe Bolero (Size 12) - Royal Blue",
     "lastOnAirAuctionCode": "0019888841",
-    "precedingSku": "7857499",
-    "precedingTitle": "La Marey Super Soft Checker Borg Fleece Jacket",
-    "precedingAuctionCode": "0019889598"
+    "precedingSku": "8130511",
+    "precedingTitle": "Anonymous Crepe Bolero (Size 12) - Royal Blue",
+    "precedingAuctionCode": "0019888841"
   }
 }
