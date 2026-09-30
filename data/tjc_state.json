@@ -404763,9 +404763,16 @@
       "img": true,
       "date": "2026-09-30",
       "time": "01:19:18",
-      "productUrl": null,
-      "lastUpdated": 1790727558836,
-      "source": "gha"
+      "productUrl": "/products/gp-italian-garden-collection-green-diamond-kanchanaburi-blue-sapphire-white-diamond-solitaire-diamond-ring-in-18k-vermeil-yellow-gold-plated-rhodium-overlay-sterling-silver",
+      "lastUpdated": 1790728158920,
+      "source": "gha",
+      "missedAt": 1790728158920,
+      "missedDelay": 10,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1790728164251,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4430518": {
       "sku": "4430518",
@@ -404787,11 +404794,51 @@
       "productUrlChecked": 1790727867327,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8036538": {
+      "sku": "8036538",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-30",
+      "time": "01:29:18",
+      "preExisting": true,
+      "missedAt": 1790728158920,
+      "missedDelay": null,
+      "lastUpdated": 1790728158920,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "GP Italian Garden Collection - Green Diamond, Kanchanaburi Blue Sapphire & White Diamond  Solitaire Diamond Ring in 18K Vermeil Yellow Gold Plated & Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019888586",
+      "source": "gha",
+      "productUrl": "/products/gp-italian-garden-collection-green-diamond-kanchanaburi-blue-sapphire-white-diamond-solitaire-diamond-ring-in-18k-vermeil-yellow-gold-plated-rhodium-overlay-sterling-silver",
+      "productUrlChecked": 1790728164890,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8036536": {
+      "sku": "8036536",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-09-30",
+      "time": "01:29:18",
+      "preExisting": true,
+      "missedAt": 1790728158920,
+      "missedDelay": null,
+      "lastUpdated": 1790728158920,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "GP Italian Garden Collection - Green Diamond, Kanchanaburi Blue Sapphire & White Diamond  Solitaire Diamond Ring in 18K Vermeil Yellow Gold Plated & Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019888585",
+      "source": "gha",
+      "productUrl": "/products/gp-italian-garden-collection-green-diamond-kanchanaburi-blue-sapphire-white-diamond-solitaire-diamond-ring-in-18k-vermeil-yellow-gold-plated-rhodium-overlay-sterling-silver",
+      "productUrlChecked": 1790728165115,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790728158920,
     "gaps": [
       {
         "start": 1785823527869,
@@ -447333,8 +447380,8 @@
     "lastOnAirSku": "8519688",
     "lastOnAirTitle": "Live From Vicenza GP Trionfo Collection - Multi Diamond & Blue Sapphire Starfish Earring with Lever Back in 18K Vermeil Rose Gold Plated Sterling Silver 0.52 Ct.",
     "lastOnAirAuctionCode": "0019888602",
-    "precedingSku": "8036535",
-    "precedingTitle": "GP Italian Garden Collection - Green Diamond, Kanchanaburi Blue Sapphire & White Diamond  Solitaire Diamond Ring in 18K Vermeil Yellow Gold Plated & Rhodium Overlay Sterling Silver",
-    "precedingAuctionCode": "0019888584"
+    "precedingSku": "8519688",
+    "precedingTitle": "Live From Vicenza GP Trionfo Collection - Multi Diamond & Blue Sapphire Starfish Earring with Lever Back in 18K Vermeil Rose Gold Plated Sterling Silver 0.52 Ct.",
+    "precedingAuctionCode": "0019888602"
   }
 }
