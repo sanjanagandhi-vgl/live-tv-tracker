@@ -140365,17 +140365,17 @@
       "firstAir": 1786512041973,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788499942596,
+      "lastAir": 1790751864676,
       "title": "Doctors Formula: Power Active Caffeine Serum - 30ml",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019856558",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019889352",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-04",
-      "time": "06:32:22",
+      "date": "2026-09-30",
+      "time": "08:04:24",
       "productUrl": "/products/doctors-formula-power-active-caffeine-serum-30ml",
-      "lastUpdated": 1788499942596,
+      "lastUpdated": 1790751864676,
       "source": "gha",
       "missedAt": 1786513102476,
       "missedDelay": 11,
@@ -405512,9 +405512,16 @@
       "img": true,
       "date": "2026-09-30",
       "time": "07:55:26",
-      "productUrl": null,
-      "lastUpdated": 1790751326221,
-      "source": "gha"
+      "productUrl": "/products/doctors-formula-peptide-pro8-age-reset-skincare-set-with-mask-eye-refresh-and-serum",
+      "lastUpdated": 1790751864676,
+      "source": "gha",
+      "missedAt": 1790751864676,
+      "missedDelay": 9,
+      "missedPrice": 15.99,
+      "missedImg": true,
+      "productUrlChecked": 1790751867425,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7939232": {
       "sku": "7939232",
@@ -405536,8 +405543,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790751799557,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -448426,11 +448433,22 @@
         "followingSku": "8299921",
         "followingTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
         "followingAuctionCode": "0019889350"
+      },
+      {
+        "start": 1790751799557,
+        "end": 1790751864676,
+        "durationMin": 1.1,
+        "precedingSku": "8299921",
+        "precedingTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
+        "precedingAuctionCode": "0019889350",
+        "followingSku": "6305360",
+        "followingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
+        "followingAuctionCode": "0019889352"
       }
     ],
-    "lastOnAirSku": "8299921",
-    "lastOnAirTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
-    "lastOnAirAuctionCode": "0019889350",
+    "lastOnAirSku": "6305360",
+    "lastOnAirTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
+    "lastOnAirAuctionCode": "0019889352",
     "precedingSku": "8299921",
     "precedingTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
     "precedingAuctionCode": "0019889350"
