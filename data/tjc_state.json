@@ -405465,11 +405465,29 @@
       "productUrl": null,
       "lastUpdated": 1790750183460,
       "source": "gha"
+    },
+    "7541613": {
+      "sku": "7541613",
+      "firstAir": 1790750300753,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790750300753,
+      "title": "Doctors Formula- Probiotics Advanced Radiance - 12 Hour Day Protection Moisturiser - 50ml",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019889351",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "07:38:20",
+      "productUrl": null,
+      "lastUpdated": 1790750300753,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790750238319,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -448314,11 +448332,22 @@
         "followingSku": "7164888",
         "followingTitle": "Doctors Formula- Marine Collagen Anti-Aging Day Moisturiser SPF50",
         "followingAuctionCode": "0019889363"
+      },
+      {
+        "start": 1790750238319,
+        "end": 1790750300753,
+        "durationMin": 1.0,
+        "precedingSku": "7177060",
+        "precedingTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
+        "precedingAuctionCode": "0019889354",
+        "followingSku": "7541613",
+        "followingTitle": "Doctors Formula- Probiotics Advanced Radiance - 12 Hour Day Protection Moisturiser - 50ml",
+        "followingAuctionCode": "0019889351"
       }
     ],
-    "lastOnAirSku": "7177060",
-    "lastOnAirTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
-    "lastOnAirAuctionCode": "0019889354",
+    "lastOnAirSku": "7541613",
+    "lastOnAirTitle": "Doctors Formula- Probiotics Advanced Radiance - 12 Hour Day Protection Moisturiser - 50ml",
+    "lastOnAirAuctionCode": "0019889351",
     "precedingSku": "7177060",
     "precedingTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
     "precedingAuctionCode": "0019889354"
