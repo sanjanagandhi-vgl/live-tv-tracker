@@ -406184,11 +406184,29 @@
       "productUrlChecked": 1790755540272,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8692508": {
+      "sku": "8692508",
+      "firstAir": 1790755760647,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790755760647,
+      "title": "Genuine Leather Everyday Crossbody Bag - Brown",
+      "pdpPrice": "719.99",
+      "auctionCode": "0019889495",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "09:09:20",
+      "productUrl": null,
+      "lastUpdated": 1790755760647,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790755532308,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -449121,11 +449139,22 @@
         "followingSku": "8130511",
         "followingTitle": "Anonymous Crepe Bolero (Size 12) - Royal Blue",
         "followingAuctionCode": "0019888841"
+      },
+      {
+        "start": 1790755532308,
+        "end": 1790755760647,
+        "durationMin": 3.8,
+        "precedingSku": "8130511",
+        "precedingTitle": "Anonymous Crepe Bolero (Size 12) - Royal Blue",
+        "precedingAuctionCode": "0019888841",
+        "followingSku": "8692508",
+        "followingTitle": "Genuine Leather Everyday Crossbody Bag - Brown",
+        "followingAuctionCode": "0019889495"
       }
     ],
-    "lastOnAirSku": "8130511",
-    "lastOnAirTitle": "Anonymous Crepe Bolero (Size 12) - Royal Blue",
-    "lastOnAirAuctionCode": "0019888841",
+    "lastOnAirSku": "8692508",
+    "lastOnAirTitle": "Genuine Leather Everyday Crossbody Bag - Brown",
+    "lastOnAirAuctionCode": "0019889495",
     "precedingSku": "8130511",
     "precedingTitle": "Anonymous Crepe Bolero (Size 12) - Royal Blue",
     "precedingAuctionCode": "0019888841"
