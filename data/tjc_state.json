@@ -339791,21 +339791,26 @@
       "sku": "8379947",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-13",
-      "time": "03:56:24",
+      "date": "2026-09-30",
+      "time": "08:15:37",
       "preExisting": true,
       "missedAt": 1789268184434,
       "missedDelay": null,
-      "lastUpdated": 1789268184434,
+      "lastUpdated": 1790752537104,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Qawafi UAE Velvet Moon - Breeze (100ml)",
-      "auctionCode": "0019866634",
+      "title": "Qawafi UAE - Velvet Moon - Petal (100ml)",
+      "auctionCode": "0019889333",
       "source": "gha",
       "productUrl": "/products/qawafi-uae-velvet-moon-sonata-100ml",
       "productUrlChecked": 1789268191169,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790752537104,
+      "pdpPrice": "74.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8379948": {
       "sku": "8379948",
@@ -405550,8 +405555,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790752278922,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -448451,11 +448456,22 @@
         "followingSku": "6305360",
         "followingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
         "followingAuctionCode": "0019889352"
+      },
+      {
+        "start": 1790752278922,
+        "end": 1790752537104,
+        "durationMin": 4.3,
+        "precedingSku": "6305360",
+        "precedingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
+        "precedingAuctionCode": "0019889352",
+        "followingSku": "8379947",
+        "followingTitle": "Qawafi UAE - Velvet Moon - Petal (100ml)",
+        "followingAuctionCode": "0019889333"
       }
     ],
-    "lastOnAirSku": "6305360",
-    "lastOnAirTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
-    "lastOnAirAuctionCode": "0019889352",
+    "lastOnAirSku": "8379947",
+    "lastOnAirTitle": "Qawafi UAE - Velvet Moon - Petal (100ml)",
+    "lastOnAirAuctionCode": "0019889333",
     "precedingSku": "6305360",
     "precedingTitle": "Doctors Formula: Power Active Caffeine Serum - 30ml",
     "precedingAuctionCode": "0019889352"
