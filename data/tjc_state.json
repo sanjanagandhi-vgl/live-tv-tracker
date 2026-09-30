@@ -276843,21 +276843,26 @@
       "sku": "8431432",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "15:39:20",
+      "date": "2026-09-30",
+      "time": "03:51:17",
       "preExisting": true,
       "missedAt": 1788187160934,
       "missedDelay": null,
-      "lastUpdated": 1788187160934,
+      "lastUpdated": 1790736677376,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "Premium Genuine Leather Domed Satchel Bag with Detachable Crossbody Strap - Alloy Orange",
-      "auctionCode": "0019851713",
+      "title": "Premium Genuine Leather Domed Satchel Bag with Detachable Crossbody Strap - Black",
+      "auctionCode": "0019888427",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-2658431432",
       "productUrlChecked": 1788187164814,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790736677376,
+      "pdpPrice": "389.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8431454": {
       "sku": "8431454",
@@ -405180,8 +405185,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790736636146,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -447817,11 +447822,22 @@
         "followingSku": "8033704",
         "followingTitle": "The Sumptuous Collection from Grand Pelle 100% Italian Leather Bag",
         "followingAuctionCode": "0019888408"
+      },
+      {
+        "start": 1790736636146,
+        "end": 1790736677376,
+        "durationMin": 0.7,
+        "precedingSku": "8033704",
+        "precedingTitle": "The Sumptuous Collection from Grand Pelle 100% Italian Leather Bag",
+        "precedingAuctionCode": "0019888408",
+        "followingSku": "8431432",
+        "followingTitle": "Premium Genuine Leather Domed Satchel Bag with Detachable Crossbody Strap - Black",
+        "followingAuctionCode": "0019888427"
       }
     ],
-    "lastOnAirSku": "8033704",
-    "lastOnAirTitle": "The Sumptuous Collection from Grand Pelle 100% Italian Leather Bag",
-    "lastOnAirAuctionCode": "0019888408",
+    "lastOnAirSku": "8431432",
+    "lastOnAirTitle": "Premium Genuine Leather Domed Satchel Bag with Detachable Crossbody Strap - Black",
+    "lastOnAirAuctionCode": "0019888427",
     "precedingSku": "8033704",
     "precedingTitle": "The Sumptuous Collection from Grand Pelle 100% Italian Leather Bag",
     "precedingAuctionCode": "0019888408"
