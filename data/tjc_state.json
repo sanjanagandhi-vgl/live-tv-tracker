@@ -405305,11 +405305,29 @@
       "productUrl": null,
       "lastUpdated": 1790741542592,
       "source": "gha"
+    },
+    "7949735": {
+      "sku": "7949735",
+      "firstAir": 1790744782499,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790744782499,
+      "title": "Douvallis Colour Drip Lip and Cheek Oil",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019890091",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "06:06:22",
+      "productUrl": null,
+      "lastUpdated": 1790744782499,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790744133051,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -448099,11 +448117,22 @@
         "followingSku": "4458416",
         "followingTitle": "D'Joy Moissanite Heart and Arrow Cut Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.13 Ct.",
         "followingAuctionCode": "0019888445"
+      },
+      {
+        "start": 1790744133051,
+        "end": 1790744782499,
+        "durationMin": 10.8,
+        "precedingSku": "4458416",
+        "precedingTitle": "D'Joy Moissanite Heart and Arrow Cut Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.13 Ct.",
+        "precedingAuctionCode": "0019888445",
+        "followingSku": "7949735",
+        "followingTitle": "Douvallis Colour Drip Lip and Cheek Oil",
+        "followingAuctionCode": "0019890091"
       }
     ],
-    "lastOnAirSku": "4458416",
-    "lastOnAirTitle": "D'Joy Moissanite Heart and Arrow Cut Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.13 Ct.",
-    "lastOnAirAuctionCode": "0019888445",
+    "lastOnAirSku": "7949735",
+    "lastOnAirTitle": "Douvallis Colour Drip Lip and Cheek Oil",
+    "lastOnAirAuctionCode": "0019890091",
     "precedingSku": "4458416",
     "precedingTitle": "D'Joy Moissanite Heart and Arrow Cut Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 2.13 Ct.",
     "precedingAuctionCode": "0019888445"
