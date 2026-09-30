@@ -120421,23 +120421,23 @@
       "sku": "8523089",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-11",
-      "time": "21:33:25",
+      "date": "2026-09-30",
+      "time": "21:33:18",
       "preExisting": true,
       "missedAt": 1786307598651,
       "missedDelay": null,
-      "lastUpdated": 1786480405473,
+      "lastUpdated": 1790800398340,
       "missedPrice": 4699.99,
       "missedImg": true,
       "title": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
-      "auctionCode": "0019816366",
+      "auctionCode": "0019890830",
       "source": "gha",
       "productUrl": "/products/the-heirloom-collection-rhapsody-18k-yellow-gold-aaaa-natural-turkizite-vs-e-f-natural-diamond-ring-10-05-ct",
       "productUrlChecked": 1786307615962,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1786480405473,
-      "pdpPrice": "4699.99",
+      "lastAir": 1790800398340,
+      "pdpPrice": "45676.99",
       "buy": true,
       "login": false,
       "img": true
@@ -408929,8 +408929,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790800159936,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -452402,11 +452402,22 @@
         "followingSku": "8657969",
         "followingTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
         "followingAuctionCode": "0019890855"
+      },
+      {
+        "start": 1790800159936,
+        "end": 1790800398340,
+        "durationMin": 4.0,
+        "precedingSku": "8657969",
+        "precedingTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
+        "precedingAuctionCode": "0019890855",
+        "followingSku": "8523089",
+        "followingTitle": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
+        "followingAuctionCode": "0019890830"
       }
     ],
-    "lastOnAirSku": "8657969",
-    "lastOnAirTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
-    "lastOnAirAuctionCode": "0019890855",
+    "lastOnAirSku": "8523089",
+    "lastOnAirTitle": "The Heirloom Collection - Rhapsody 18K Yellow Gold AAAA Natural Turkizite & VS-E-F Natural Diamond Ring 10.05 Ct",
+    "lastOnAirAuctionCode": "0019890830",
     "precedingSku": "8657969",
     "precedingTitle": "The Tony Diniz Collection - 9K Yellow Gold AAA Rubellite and Earth Mined Diamond Ring 2.46 Ct.",
     "precedingAuctionCode": "0019890855"
