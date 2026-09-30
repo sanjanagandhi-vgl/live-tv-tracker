@@ -405847,7 +405847,10 @@
       "time": "08:53:28",
       "productUrl": "/products/tjc-special-top?variant=53105783832842",
       "lastUpdated": 1790754808297,
-      "source": "gha-variant"
+      "source": "gha-variant",
+      "productUrlChecked": 1790754868003,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8331040": {
       "sku": "8331040",
@@ -405864,7 +405867,28 @@
       "time": "08:53:28",
       "productUrl": "/products/tjc-special-top?variant=53105783832842",
       "lastUpdated": 1790754808297,
-      "source": "gha-variant"
+      "source": "gha-variant",
+      "productUrlChecked": 1790754868170,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7850303": {
+      "sku": "7850303",
+      "firstAir": 1790754865659,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790754865659,
+      "title": "La Marey Borg Jacket with Pockets",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019889586",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "08:54:25",
+      "productUrl": null,
+      "lastUpdated": 1790754865659,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -448793,9 +448817,9 @@
         "followingAuctionCode": "0019888960"
       }
     ],
-    "lastOnAirSku": "8311921",
-    "lastOnAirTitle": "TJC Special Top",
-    "lastOnAirAuctionCode": "0019888960",
+    "lastOnAirSku": "7850303",
+    "lastOnAirTitle": "La Marey Borg Jacket with Pockets",
+    "lastOnAirAuctionCode": "0019889586",
     "precedingSku": "8023446",
     "precedingTitle": "Soul Smart- Cordless Head Massager with Long-Lasting 1500mAh Battery",
     "precedingAuctionCode": "0019889382"
