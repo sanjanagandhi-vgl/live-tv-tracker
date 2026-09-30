@@ -360044,17 +360044,17 @@
       "firstAir": 1789708586157,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789708706400,
+      "lastAir": 1790751677750,
       "title": "Doctors Formula- Power Active Retinol Serum - 30ml",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019874318",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019889350",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-18",
-      "time": "06:18:26",
+      "date": "2026-09-30",
+      "time": "08:01:17",
       "productUrl": "/products/doctors-formula-power-active-retinol-serum-30ml",
-      "lastUpdated": 1789709304763,
+      "lastUpdated": 1790751677750,
       "source": "gha",
       "missedAt": 1789709304763,
       "missedDelay": 10,
@@ -405536,8 +405536,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790751661945,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -448415,11 +448415,22 @@
         "followingSku": "7939232",
         "followingTitle": "New Arrival - Doctors Formula Peptide Pro8 Reactivating Cleanser - 100ml",
         "followingAuctionCode": "0019889353"
+      },
+      {
+        "start": 1790751661945,
+        "end": 1790751677750,
+        "durationMin": 0.3,
+        "precedingSku": "7939232",
+        "precedingTitle": "New Arrival - Doctors Formula Peptide Pro8 Reactivating Cleanser - 100ml",
+        "precedingAuctionCode": "0019889353",
+        "followingSku": "8299921",
+        "followingTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
+        "followingAuctionCode": "0019889350"
       }
     ],
-    "lastOnAirSku": "7939232",
-    "lastOnAirTitle": "New Arrival - Doctors Formula Peptide Pro8 Reactivating Cleanser - 100ml",
-    "lastOnAirAuctionCode": "0019889353",
+    "lastOnAirSku": "8299921",
+    "lastOnAirTitle": "Doctors Formula- Power Active Retinol Serum - 30ml",
+    "lastOnAirAuctionCode": "0019889350",
     "precedingSku": "7939232",
     "precedingTitle": "New Arrival - Doctors Formula Peptide Pro8 Reactivating Cleanser - 100ml",
     "precedingAuctionCode": "0019889353"
