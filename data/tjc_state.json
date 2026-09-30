@@ -292908,21 +292908,26 @@
       "sku": "8243723",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-03",
-      "time": "03:13:20",
+      "date": "2026-09-30",
+      "time": "04:34:22",
       "preExisting": true,
       "missedAt": 1788401600050,
       "missedDelay": null,
-      "lastUpdated": 1788401600050,
+      "lastUpdated": 1790739262126,
       "missedPrice": 24.99,
       "missedImg": true,
-      "title": "Bitvae- Electric Toothbrush with 60-Day Battery Life | 5 Modes, USB Charging & 8 Dupont Brush Heads (IPX7)",
-      "auctionCode": "0019853728",
+      "title": "Bristle: Dupont Brushing Modes: 5 modes",
+      "auctionCode": "0019888429",
       "source": "gha",
       "productUrl": "/products/bristle-dupont-brushing-modes-5-modes",
       "productUrlChecked": 1788401608920,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790739262126,
+      "pdpPrice": "174.00",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8611928": {
       "sku": "8611928",
@@ -405257,8 +405262,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790739141692,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -447938,11 +447943,22 @@
         "followingSku": "8739965",
         "followingTitle": "Pecksniff's Ginger Flower & Patchouli Liquid Hand Wash - 480ml",
         "followingAuctionCode": "0019887298"
+      },
+      {
+        "start": 1790739141692,
+        "end": 1790739262126,
+        "durationMin": 2.0,
+        "precedingSku": "8644034",
+        "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
+        "precedingAuctionCode": "0019888430",
+        "followingSku": "8243723",
+        "followingTitle": "Bristle: Dupont Brushing Modes: 5 modes",
+        "followingAuctionCode": "0019888429"
       }
     ],
-    "lastOnAirSku": "8644034",
-    "lastOnAirTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
-    "lastOnAirAuctionCode": "0019888430",
+    "lastOnAirSku": "8243723",
+    "lastOnAirTitle": "Bristle: Dupont Brushing Modes: 5 modes",
+    "lastOnAirAuctionCode": "0019888429",
     "precedingSku": "8644034",
     "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
     "precedingAuctionCode": "0019888430"
