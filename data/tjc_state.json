@@ -149272,17 +149272,17 @@
       "firstAir": 1786602930283,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786602984539,
+      "lastAir": 1790756439157,
       "title": "Emma Ladies Shoes",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019817103",
+      "pdpPrice": "44.99",
+      "auctionCode": "0019889633",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-13",
-      "time": "07:36:24",
+      "date": "2026-09-30",
+      "time": "09:20:39",
       "productUrl": "/products/emma-ladies-shoes",
-      "lastUpdated": 1786603537855,
+      "lastUpdated": 1790756439157,
       "source": "gha",
       "missedAt": 1786603537855,
       "missedDelay": 9,
@@ -406282,8 +406282,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790756359537,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -449227,11 +449227,22 @@
         "followingSku": "8692508",
         "followingTitle": "Genuine Leather Everyday Crossbody Bag - Brown",
         "followingAuctionCode": "0019889495"
+      },
+      {
+        "start": 1790756359537,
+        "end": 1790756439157,
+        "durationMin": 1.3,
+        "precedingSku": "8692508",
+        "precedingTitle": "Genuine Leather Everyday Crossbody Bag - Brown",
+        "precedingAuctionCode": "0019889495",
+        "followingSku": "8283088",
+        "followingTitle": "Emma Ladies Shoes",
+        "followingAuctionCode": "0019889633"
       }
     ],
-    "lastOnAirSku": "8692508",
-    "lastOnAirTitle": "Genuine Leather Everyday Crossbody Bag - Brown",
-    "lastOnAirAuctionCode": "0019889495",
+    "lastOnAirSku": "8283088",
+    "lastOnAirTitle": "Emma Ladies Shoes",
+    "lastOnAirAuctionCode": "0019889633",
     "precedingSku": "8692508",
     "precedingTitle": "Genuine Leather Everyday Crossbody Bag - Brown",
     "precedingAuctionCode": "0019889495"
