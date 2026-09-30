@@ -47966,23 +47966,23 @@
       "sku": "8272755",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-23",
-      "time": "09:39:21",
+      "date": "2026-09-30",
+      "time": "02:05:29",
       "preExisting": true,
       "missedAt": 1785581216499,
       "missedDelay": null,
-      "lastUpdated": 1787474361913,
+      "lastUpdated": 1790730329699,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
-      "auctionCode": "0019836716",
+      "auctionCode": "0019888382",
       "source": "gha",
       "productUrl": "/products/william-hunt-lab-grown-diamond-ladies-tungsten-carbide-case-watch",
       "productUrlChecked": 1785581220790,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787474361913,
-      "pdpPrice": "59.99",
+      "lastAir": 1790730329699,
+      "pdpPrice": "2345.99",
       "buy": true,
       "login": false,
       "img": true
@@ -405016,9 +405016,16 @@
       "img": true,
       "date": "2026-09-30",
       "time": "01:55:28",
-      "productUrl": null,
-      "lastUpdated": 1790729728214,
-      "source": "gha"
+      "productUrl": "/products/gp-serpentine-collection-african-amethyst-red-garnet-peridot-citrine-skyblue-topaz-blue-sapphire-pendant-with-chain-size-20-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-78-ct",
+      "lastUpdated": 1790730329699,
+      "source": "gha",
+      "missedAt": 1790730329699,
+      "missedDelay": 10,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1790730332761,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7986715": {
       "sku": "7986715",
@@ -405062,8 +405069,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790730146050,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -447622,11 +447629,22 @@
         "followingSku": "4339050",
         "followingTitle": "GP Celestial Collection - African Amethyst & Multi Gemstones Pendant with Chain (Size - 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 4.15 Ct, Silver Wt. 10.97 Gms.",
         "followingAuctionCode": "0019888627"
+      },
+      {
+        "start": 1790730146050,
+        "end": 1790730329699,
+        "durationMin": 3.1,
+        "precedingSku": "8325035",
+        "precedingTitle": "Live From Vicenza GP - Italian Garden Collection Champagne Diamond (SI-CP), Yellow Diamond & Blue Sapphire Butterfly Drop Earring with Push Back in Tri Colour Plated Sterling Silver 0.31 Ct.",
+        "precedingAuctionCode": "0019888623",
+        "followingSku": "8272755",
+        "followingTitle": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
+        "followingAuctionCode": "0019888382"
       }
     ],
-    "lastOnAirSku": "8325035",
-    "lastOnAirTitle": "Live From Vicenza GP - Italian Garden Collection Champagne Diamond (SI-CP), Yellow Diamond & Blue Sapphire Butterfly Drop Earring with Push Back in Tri Colour Plated Sterling Silver 0.31 Ct.",
-    "lastOnAirAuctionCode": "0019888623",
+    "lastOnAirSku": "8272755",
+    "lastOnAirTitle": "New Launch- William Hunt Lab Grown Diamond VS-EF Ladies Tungsten Carbide Case Watch - Gold",
+    "lastOnAirAuctionCode": "0019888382",
     "precedingSku": "8325035",
     "precedingTitle": "Live From Vicenza GP - Italian Garden Collection Champagne Diamond (SI-CP), Yellow Diamond & Blue Sapphire Butterfly Drop Earring with Push Back in Tri Colour Plated Sterling Silver 0.31 Ct.",
     "precedingAuctionCode": "0019888623"
