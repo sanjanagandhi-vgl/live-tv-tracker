@@ -90097,23 +90097,23 @@
       "sku": "8594879",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-13",
-      "time": "01:41:19",
+      "date": "2026-09-30",
+      "time": "21:07:20",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1789260079730,
+      "lastUpdated": 1790798840867,
       "missedPrice": 57.99,
       "missedImg": true,
       "title": "D'Joy - White Edison Pearl (10-11mm) & Dyed Green Jade Blooming Flower Ring in Rhodium Overlay Sterling Silver 39.90 Ct.",
-      "auctionCode": "0019867504",
+      "auctionCode": "0019890619",
       "source": "gha",
       "productUrl": "/products/djoy-white-edison-pearl-10-11mm-dyed-green-jade-blooming-flower-ring-in-rhodium-overlay-sterling-silver-39-90-ct-m8594879",
       "productUrlChecked": 1786057723118,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789260079730,
-      "pdpPrice": "39.99",
+      "lastAir": 1790798840867,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -408739,8 +408739,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790798782673,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -452190,11 +452190,22 @@
         "followingSku": "8480269",
         "followingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
         "followingAuctionCode": "0019889957"
+      },
+      {
+        "start": 1790798782673,
+        "end": 1790798840867,
+        "durationMin": 1.0,
+        "precedingSku": "8480269",
+        "precedingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
+        "precedingAuctionCode": "0019889957",
+        "followingSku": "8594879",
+        "followingTitle": "D'Joy - White Edison Pearl (10-11mm) & Dyed Green Jade Blooming Flower Ring in Rhodium Overlay Sterling Silver 39.90 Ct.",
+        "followingAuctionCode": "0019890619"
       }
     ],
-    "lastOnAirSku": "8480269",
-    "lastOnAirTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
-    "lastOnAirAuctionCode": "0019889957",
+    "lastOnAirSku": "8594879",
+    "lastOnAirTitle": "D'Joy - White Edison Pearl (10-11mm) & Dyed Green Jade Blooming Flower Ring in Rhodium Overlay Sterling Silver 39.90 Ct.",
+    "lastOnAirAuctionCode": "0019890619",
     "precedingSku": "8480269",
     "precedingTitle": "Lucy Q - Lab Grown Diamond Ring in Rhodium Overlay Sterling Silver 0.36 Ct.",
     "precedingAuctionCode": "0019889957"
