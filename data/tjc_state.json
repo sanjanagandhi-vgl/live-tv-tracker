@@ -405419,9 +405419,16 @@
       "img": true,
       "date": "2026-09-30",
       "time": "07:19:20",
-      "productUrl": null,
-      "lastUpdated": 1790749160256,
-      "source": "gha"
+      "productUrl": "/products/doctors-formula-dragons-blood-sensitive-anti-bac-cleanser-100ml",
+      "lastUpdated": 1790749757188,
+      "source": "gha",
+      "missedAt": 1790749757188,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1790749762816,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7164888": {
       "sku": "7164888",
@@ -405439,6 +405446,24 @@
       "time": "07:21:18",
       "productUrl": null,
       "lastUpdated": 1790749278573,
+      "source": "gha"
+    },
+    "7177060": {
+      "sku": "7177060",
+      "firstAir": 1790749757188,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790749757188,
+      "title": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
+      "pdpPrice": "78.99",
+      "auctionCode": "0019889354",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "07:29:17",
+      "productUrl": null,
+      "lastUpdated": 1790749757188,
       "source": "gha"
     }
   },
@@ -448291,9 +448316,9 @@
         "followingAuctionCode": "0019889363"
       }
     ],
-    "lastOnAirSku": "3301949",
-    "lastOnAirTitle": "Doctors Formula- Original Time Reverse Serum - 30ml",
-    "lastOnAirAuctionCode": "0019889362",
+    "lastOnAirSku": "7177060",
+    "lastOnAirTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
+    "lastOnAirAuctionCode": "0019889354",
     "precedingSku": "9053750",
     "precedingTitle": "Doctors Formula- Dragons Blood Sensitive Anti-Bac Cleanser - 100ml",
     "precedingAuctionCode": "0019889345"
