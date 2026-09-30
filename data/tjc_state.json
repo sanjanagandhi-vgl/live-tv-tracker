@@ -405515,11 +405515,29 @@
       "productUrl": null,
       "lastUpdated": 1790751326221,
       "source": "gha"
+    },
+    "7939232": {
+      "sku": "7939232",
+      "firstAir": 1790751438011,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790751438011,
+      "title": "New Arrival - Doctors Formula Peptide Pro8 Reactivating Cleanser - 100ml",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019889353",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "07:57:18",
+      "productUrl": null,
+      "lastUpdated": 1790751438011,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790751384040,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -448386,11 +448404,22 @@
         "followingSku": "7939243",
         "followingTitle": "Doctor\u2019s Formula Peptide Pro8 Age Reset Skincare Set with Mask, Eye Refresh, and Serum",
         "followingAuctionCode": "0019889358"
+      },
+      {
+        "start": 1790751384040,
+        "end": 1790751438011,
+        "durationMin": 0.9,
+        "precedingSku": "7939243",
+        "precedingTitle": "Doctor\u2019s Formula Peptide Pro8 Age Reset Skincare Set with Mask, Eye Refresh, and Serum",
+        "precedingAuctionCode": "0019889358",
+        "followingSku": "7939232",
+        "followingTitle": "New Arrival - Doctors Formula Peptide Pro8 Reactivating Cleanser - 100ml",
+        "followingAuctionCode": "0019889353"
       }
     ],
-    "lastOnAirSku": "7939243",
-    "lastOnAirTitle": "Doctor\u2019s Formula Peptide Pro8 Age Reset Skincare Set with Mask, Eye Refresh, and Serum",
-    "lastOnAirAuctionCode": "0019889358",
+    "lastOnAirSku": "7939232",
+    "lastOnAirTitle": "New Arrival - Doctors Formula Peptide Pro8 Reactivating Cleanser - 100ml",
+    "lastOnAirAuctionCode": "0019889353",
     "precedingSku": "7939243",
     "precedingTitle": "Doctor\u2019s Formula Peptide Pro8 Age Reset Skincare Set with Mask, Eye Refresh, and Serum",
     "precedingAuctionCode": "0019889358"
