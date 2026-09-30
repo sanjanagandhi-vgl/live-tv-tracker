@@ -406564,11 +406564,29 @@
       "missedDelay": 9,
       "missedPrice": 9.99,
       "missedImg": false
+    },
+    "8683820": {
+      "sku": "8683820",
+      "firstAir": 1790777542291,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790777542291,
+      "title": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Beige",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019889759",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "15:12:22",
+      "productUrl": null,
+      "lastUpdated": 1790777542291,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790776941830,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -449732,11 +449750,22 @@
         "followingSku": "8579398",
         "followingTitle": "Designer Inspired Genuine Leather Horsebit Top-Handle Satchel Bag With Shoulder Strap - Dark Red",
         "followingAuctionCode": "0019890069"
+      },
+      {
+        "start": 1790776941830,
+        "end": 1790777542291,
+        "durationMin": 10.0,
+        "precedingSku": "8579398",
+        "precedingTitle": "Designer Inspired Genuine Leather Horsebit Top-Handle Satchel Bag With Shoulder Strap - Dark Red",
+        "precedingAuctionCode": "0019890069",
+        "followingSku": "8683820",
+        "followingTitle": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Beige",
+        "followingAuctionCode": "0019889759"
       }
     ],
-    "lastOnAirSku": "8579398",
-    "lastOnAirTitle": "Designer Inspired Genuine Leather Horsebit Top-Handle Satchel Bag With Shoulder Strap - Dark Red",
-    "lastOnAirAuctionCode": "0019890069",
+    "lastOnAirSku": "8683820",
+    "lastOnAirTitle": "Cozy Horizontal Striped Knitted Scarf (170 x 29cm) - Beige",
+    "lastOnAirAuctionCode": "0019889759",
     "precedingSku": "8579398",
     "precedingTitle": "Designer Inspired Genuine Leather Horsebit Top-Handle Satchel Bag With Shoulder Strap - Dark Red",
     "precedingAuctionCode": "0019890069"
