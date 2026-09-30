@@ -20347,16 +20347,16 @@
       "firstAir": 1785184347147,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790422580936,
+      "lastAir": 1790765903556,
       "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
-      "pdpPrice": 149.99,
-      "auctionCode": "0019885229",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019889307",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-26",
-      "time": "12:36:20",
-      "lastUpdated": 1790422580936,
+      "date": "2026-09-30",
+      "time": "11:58:23",
+      "lastUpdated": 1790765903556,
       "source": "gha",
       "missedAt": 1785184949278,
       "missedDelay": 1,
@@ -406530,8 +406530,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790765840545,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -449607,11 +449607,22 @@
         "followingSku": "7951862",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Reversible Mesh Bangle (Size-7- 8in)",
         "followingAuctionCode": "0019889249"
+      },
+      {
+        "start": 1790765840545,
+        "end": 1790765903556,
+        "durationMin": 1.1,
+        "precedingSku": "8412112",
+        "precedingTitle": "Royal Bali Collection- 9K Yellow Gold Heart Ring",
+        "precedingAuctionCode": "0019889264",
+        "followingSku": "8698754",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+        "followingAuctionCode": "0019889307"
       }
     ],
-    "lastOnAirSku": "8412112",
-    "lastOnAirTitle": "Royal Bali Collection- 9K Yellow Gold Heart Ring",
-    "lastOnAirAuctionCode": "0019889264",
+    "lastOnAirSku": "8698754",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+    "lastOnAirAuctionCode": "0019889307",
     "precedingSku": "8412112",
     "precedingTitle": "Royal Bali Collection- 9K Yellow Gold Heart Ring",
     "precedingAuctionCode": "0019889264"
