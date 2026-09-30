@@ -406395,11 +406395,29 @@
       "productUrlChecked": 1790758767964,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4237474": {
+      "sku": "4237474",
+      "firstAir": 1790759128701,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790759128701,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019889222",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-09-30",
+      "time": "10:05:28",
+      "productUrl": null,
+      "lastUpdated": 1790759128701,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790759061751,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -449354,11 +449372,22 @@
         "followingSku": "8283088",
         "followingTitle": "Emma Ladies Shoes",
         "followingAuctionCode": "0019889633"
+      },
+      {
+        "start": 1790759061751,
+        "end": 1790759128701,
+        "durationMin": 1.1,
+        "precedingSku": "8233523",
+        "precedingTitle": "La Marey Sleeve Printed Blouse With Crystal",
+        "precedingAuctionCode": "0019888949",
+        "followingSku": "4237474",
+        "followingTitle": null,
+        "followingAuctionCode": "0019889222"
       }
     ],
-    "lastOnAirSku": "8233523",
-    "lastOnAirTitle": "La Marey Sleeve Printed Blouse With Crystal",
-    "lastOnAirAuctionCode": "0019888949",
+    "lastOnAirSku": "4237474",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019889222",
     "precedingSku": "8233523",
     "precedingTitle": "La Marey Sleeve Printed Blouse With Crystal",
     "precedingAuctionCode": "0019888949"
