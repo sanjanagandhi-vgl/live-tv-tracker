@@ -341827,25 +341827,26 @@
       "sku": "8592968",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-26",
-      "time": "19:22:21",
+      "date": "2026-09-30",
+      "time": "20:26:20",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1790446941712,
+      "lastUpdated": 1790796380513,
       "missedPrice": 39.99,
       "missedImg": true,
-      "title": "D'Joy - Natural Larimar & Carved Jadeite Solitaire Ring in Yellow Gold Plated Sterling Silver 15.50 Ct.",
-      "auctionCode": "0019886179",
-      "source": "gha-variant",
+      "title": "D'Joy - Natural Larimar & Carved Jadeite Ring in Yellow Gold Plated Sterling Silver 15.00 Ct.",
+      "auctionCode": "0019890003",
+      "source": "gha",
       "productUrl": "/products/royal-bali-collection-djoy-african-amethyst-sterling-silver-solitaire-ring-2-13-ct",
       "productUrlChecked": 1789359094042,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790446941712,
-      "pdpPrice": 49.99,
+      "lastAir": 1790796380513,
+      "pdpPrice": "19.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "8592989": {
       "sku": "8592989",
@@ -407720,8 +407721,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790796261062,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -451127,11 +451128,22 @@
         "followingSku": "8658212",
         "followingTitle": "D'Joy - Pink Conch Shell & Moissanite Ring in Rhodium Overlay Sterling Silver 7.26 Ct.",
         "followingAuctionCode": "0019890020"
+      },
+      {
+        "start": 1790796261062,
+        "end": 1790796380513,
+        "durationMin": 2.0,
+        "precedingSku": "8658174",
+        "precedingTitle": "D'Joy - Pink Conch Shell Trilogy Ring in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019890610",
+        "followingSku": "8592968",
+        "followingTitle": "D'Joy - Natural Larimar & Carved Jadeite Ring in Yellow Gold Plated Sterling Silver 15.00 Ct.",
+        "followingAuctionCode": "0019890003"
       }
     ],
-    "lastOnAirSku": "8658174",
-    "lastOnAirTitle": "D'Joy - Pink Conch Shell Trilogy Ring in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019890610",
+    "lastOnAirSku": "8592968",
+    "lastOnAirTitle": "D'Joy - Natural Larimar & Carved Jadeite Ring in Yellow Gold Plated Sterling Silver 15.00 Ct.",
+    "lastOnAirAuctionCode": "0019890003",
     "precedingSku": "8658174",
     "precedingTitle": "D'Joy - Pink Conch Shell Trilogy Ring in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019890610"
