@@ -32932,21 +32932,26 @@
       "sku": "8579398",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-09-30",
+      "time": "14:47:19",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1790776039211,
       "missedPrice": 69.99,
       "missedImg": true,
-      "title": "Designer Inspired Genuine Leather Horsebit Top-Handle Satchel Bag With Shoulder Strap - Dusty Pink",
-      "auctionCode": "0019801344",
+      "title": "Designer Inspired Genuine Leather Horsebit Top-Handle Satchel Bag With Shoulder Strap - Dark Red",
+      "auctionCode": "0019890069",
       "source": "gha",
       "productUrl": "/products/designer-inspired-genuine-leather-horsebit-top-handle-satchel-bag-with-shoulder-strap-dark-green-8579397",
       "productUrlChecked": 1785476177774,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790776039211,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8579409": {
       "sku": "8579409",
@@ -406562,8 +406567,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790775801276,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -449716,11 +449721,22 @@
         "followingSku": "8691036",
         "followingTitle": "Maestro Collection- Limited Edition 9K Yellow Gold Over Size Belcher Bracelet (Size - 8), Gold Wt.12.50 Gms",
         "followingAuctionCode": "0019889300"
+      },
+      {
+        "start": 1790775801276,
+        "end": 1790776039211,
+        "durationMin": 4.0,
+        "precedingSku": "8580175",
+        "precedingTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
+        "precedingAuctionCode": "0019889819",
+        "followingSku": "8579398",
+        "followingTitle": "Designer Inspired Genuine Leather Horsebit Top-Handle Satchel Bag With Shoulder Strap - Dark Red",
+        "followingAuctionCode": "0019890069"
       }
     ],
-    "lastOnAirSku": "8580175",
-    "lastOnAirTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
-    "lastOnAirAuctionCode": "0019889819",
+    "lastOnAirSku": "8579398",
+    "lastOnAirTitle": "Designer Inspired Genuine Leather Horsebit Top-Handle Satchel Bag With Shoulder Strap - Dark Red",
+    "lastOnAirAuctionCode": "0019890069",
     "precedingSku": "8580175",
     "precedingTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
     "precedingAuctionCode": "0019889819"
