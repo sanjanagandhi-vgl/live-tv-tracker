@@ -405417,11 +405417,29 @@
       "productUrl": null,
       "lastUpdated": 1790749160256,
       "source": "gha"
+    },
+    "7164888": {
+      "sku": "7164888",
+      "firstAir": 1790749278573,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790749278573,
+      "title": "Doctors Formula- Marine Collagen Anti-Aging Day Moisturiser SPF50",
+      "pdpPrice": "15.99",
+      "auctionCode": "0019889363",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-09-30",
+      "time": "07:21:18",
+      "productUrl": null,
+      "lastUpdated": 1790749278573,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790749240124,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -448255,11 +448273,22 @@
         "followingSku": "9053734",
         "followingTitle": "Doctors Formula- Dragons Blood Sensitive Anti-Bac Daily Moisturiser - 50ml",
         "followingAuctionCode": "0019889344"
+      },
+      {
+        "start": 1790749240124,
+        "end": 1790749278573,
+        "durationMin": 0.6,
+        "precedingSku": "9053750",
+        "precedingTitle": "Doctors Formula- Dragons Blood Sensitive Anti-Bac Cleanser - 100ml",
+        "precedingAuctionCode": "0019889345",
+        "followingSku": "7164888",
+        "followingTitle": "Doctors Formula- Marine Collagen Anti-Aging Day Moisturiser SPF50",
+        "followingAuctionCode": "0019889363"
       }
     ],
-    "lastOnAirSku": "9053750",
-    "lastOnAirTitle": "Doctors Formula- Dragons Blood Sensitive Anti-Bac Cleanser - 100ml",
-    "lastOnAirAuctionCode": "0019889345",
+    "lastOnAirSku": "7164888",
+    "lastOnAirTitle": "Doctors Formula- Marine Collagen Anti-Aging Day Moisturiser SPF50",
+    "lastOnAirAuctionCode": "0019889363",
     "precedingSku": "9053750",
     "precedingTitle": "Doctors Formula- Dragons Blood Sensitive Anti-Bac Cleanser - 100ml",
     "precedingAuctionCode": "0019889345"
