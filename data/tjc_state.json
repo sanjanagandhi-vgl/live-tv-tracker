@@ -153845,21 +153845,26 @@
       "sku": "8586733",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-13",
-      "time": "20:43:28",
+      "date": "2026-09-30",
+      "time": "21:56:21",
       "preExisting": true,
       "missedAt": 1786650208644,
       "missedDelay": null,
-      "lastUpdated": 1786650208644,
+      "lastUpdated": 1790801781826,
       "missedPrice": 3499.99,
       "missedImg": true,
       "title": "Heirloom Collection - Rhapsody - 950 Platinum AAAA Tanzanite (4.4ct) & White Diamond (VS-E-F 0.40ct) Trillion Cut Ring 4.80 Ct, Platinum Wt. 7.37 Gms",
-      "auctionCode": "0019816811",
+      "auctionCode": "0019890908",
       "source": "gha",
       "productUrl": "/products/heirloom-collection-rhapsody-950-platinum-aaaa-tanzanite-4-4ct-white-diamond-vs-e-f-0-40ct-trillion-cut-ring-4-80-ct-platinum-wt-7-37-gms-m8586733",
       "productUrlChecked": 1786650226508,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790801781826,
+      "pdpPrice": "2999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8586809": {
       "sku": "8586809",
@@ -408929,8 +408934,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790801726610,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -452424,11 +452429,22 @@
         "followingSku": "8588774",
         "followingTitle": "MONSTER DEAL - Rhapsody - 18K Yellow Gold AAAA Natural Turkizite (5.15ct) & Natural White Diamond (0.20 ct E-F-VS) Ring 5.35 Ct, Gold Wt.4.90 Gms",
         "followingAuctionCode": "0019890652"
+      },
+      {
+        "start": 1790801726610,
+        "end": 1790801781826,
+        "durationMin": 0.9,
+        "precedingSku": "8588774",
+        "precedingTitle": "MONSTER DEAL - Rhapsody - 18K Yellow Gold AAAA Natural Turkizite (5.15ct) & Natural White Diamond (0.20 ct E-F-VS) Ring 5.35 Ct, Gold Wt.4.90 Gms",
+        "precedingAuctionCode": "0019890652",
+        "followingSku": "8586733",
+        "followingTitle": "Heirloom Collection - Rhapsody - 950 Platinum AAAA Tanzanite (4.4ct) & White Diamond (VS-E-F 0.40ct) Trillion Cut Ring 4.80 Ct, Platinum Wt. 7.37 Gms",
+        "followingAuctionCode": "0019890908"
       }
     ],
-    "lastOnAirSku": "8588774",
-    "lastOnAirTitle": "MONSTER DEAL - Rhapsody - 18K Yellow Gold AAAA Natural Turkizite (5.15ct) & Natural White Diamond (0.20 ct E-F-VS) Ring 5.35 Ct, Gold Wt.4.90 Gms",
-    "lastOnAirAuctionCode": "0019890652",
+    "lastOnAirSku": "8586733",
+    "lastOnAirTitle": "Heirloom Collection - Rhapsody - 950 Platinum AAAA Tanzanite (4.4ct) & White Diamond (VS-E-F 0.40ct) Trillion Cut Ring 4.80 Ct, Platinum Wt. 7.37 Gms",
+    "lastOnAirAuctionCode": "0019890908",
     "precedingSku": "8588774",
     "precedingTitle": "MONSTER DEAL - Rhapsody - 18K Yellow Gold AAAA Natural Turkizite (5.15ct) & Natural White Diamond (0.20 ct E-F-VS) Ring 5.35 Ct, Gold Wt.4.90 Gms",
     "precedingAuctionCode": "0019890652"
