@@ -379368,17 +379368,17 @@
       "firstAir": 1790046329514,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790154679487,
+      "lastAir": 1790820932659,
       "title": "Wool Patterned Hat Cap and Earmuff",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019881076",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019890795",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-23",
-      "time": "10:11:19",
+      "date": "2026-10-01",
+      "time": "03:15:32",
       "productUrl": "/products/wool-patterned-hat-cap-and-earmuff?variant=53099959976202",
-      "lastUpdated": 1790154679487,
+      "lastUpdated": 1790820932659,
       "source": "gha",
       "missedAt": 1790047237354,
       "missedDelay": 10,
@@ -408990,8 +408990,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790820861032,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -452694,11 +452694,22 @@
         "followingSku": "8669518",
         "followingTitle": "LIVMORE Battery-Operated Stained Glass Calla Lily Print Rotating Decorative Table Lamp - 15cm",
         "followingAuctionCode": "0019890144"
+      },
+      {
+        "start": 1790820861032,
+        "end": 1790820932659,
+        "durationMin": 1.2,
+        "precedingSku": "7700287",
+        "precedingTitle": "Leather Patterned Tote Bag  - Black",
+        "precedingAuctionCode": "0019890835",
+        "followingSku": "8205132",
+        "followingTitle": "Wool Patterned Hat Cap and Earmuff",
+        "followingAuctionCode": "0019890795"
       }
     ],
-    "lastOnAirSku": "7700287",
-    "lastOnAirTitle": "Leather Patterned Tote Bag  - Black",
-    "lastOnAirAuctionCode": "0019890835",
+    "lastOnAirSku": "8205132",
+    "lastOnAirTitle": "Wool Patterned Hat Cap and Earmuff",
+    "lastOnAirAuctionCode": "0019890795",
     "precedingSku": "7700287",
     "precedingTitle": "Leather Patterned Tote Bag  - Black",
     "precedingAuctionCode": "0019890835"
