@@ -409989,11 +409989,29 @@
       "productUrlChecked": 1790849738299,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8328248": {
+      "sku": "8328248",
+      "firstAir": 1790849841240,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790849841240,
+      "title": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019891938",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-01",
+      "time": "11:17:21",
+      "productUrl": null,
+      "lastUpdated": 1790849841240,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790849735254,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -454026,11 +454044,22 @@
         "followingSku": "8673794",
         "followingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
         "followingAuctionCode": "0019892248"
+      },
+      {
+        "start": 1790849735254,
+        "end": 1790849841240,
+        "durationMin": 1.8,
+        "precedingSku": "8673794",
+        "precedingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
+        "precedingAuctionCode": "0019892248",
+        "followingSku": "8328248",
+        "followingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+        "followingAuctionCode": "0019891938"
       }
     ],
-    "lastOnAirSku": "8673794",
-    "lastOnAirTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
-    "lastOnAirAuctionCode": "0019892248",
+    "lastOnAirSku": "8328248",
+    "lastOnAirTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+    "lastOnAirAuctionCode": "0019891938",
     "precedingSku": "8673794",
     "precedingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
     "precedingAuctionCode": "0019892248"
