@@ -334005,17 +334005,17 @@
       "firstAir": 1789125559717,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789506562109,
+      "lastAir": 1790898259869,
       "title": "Close Out Deal- Designer Inspired Twist Hoop Earring",
-      "pdpPrice": 8.99,
-      "auctionCode": "0019871627",
+      "pdpPrice": "8.99",
+      "auctionCode": "0019892552",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-15",
-      "time": "22:09:22",
+      "date": "2026-10-02",
+      "time": "00:44:19",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8746964?variant=53676982042890",
-      "lastUpdated": 1789506562109,
+      "lastUpdated": 1790898259869,
       "source": "gha",
       "missedAt": 1789126344594,
       "missedDelay": 10,
@@ -412524,8 +412524,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790898198548,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -457031,11 +457031,22 @@
         "followingSku": "8634659",
         "followingTitle": "D'Joy - Paraiba Moissanite 5 Stone Ring in Rhodium Overlay Sterling Silver 3.70 Ct.",
         "followingAuctionCode": "0019892487"
+      },
+      {
+        "start": 1790898198548,
+        "end": 1790898259869,
+        "durationMin": 1.0,
+        "precedingSku": "8746984",
+        "precedingTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
+        "precedingAuctionCode": "0019892545",
+        "followingSku": "8746964",
+        "followingTitle": "Close Out Deal- Designer Inspired Twist Hoop Earring",
+        "followingAuctionCode": "0019892552"
       }
     ],
-    "lastOnAirSku": "8746984",
-    "lastOnAirTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019892545",
+    "lastOnAirSku": "8746964",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Twist Hoop Earring",
+    "lastOnAirAuctionCode": "0019892552",
     "precedingSku": "8746984",
     "precedingTitle": "Close Out Deal- Designer Inspired Adjustable Cuff Bangle (Size - 7.5)",
     "precedingAuctionCode": "0019892545"
