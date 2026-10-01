@@ -398864,24 +398864,25 @@
       "firstAir": 1790611465615,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790612240420,
-      "title": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size - 4) - Leopard",
-      "pdpPrice": 24.99,
-      "auctionCode": "0019887676",
+      "lastAir": 1790856501523,
+      "title": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019892343",
       "buy": true,
       "login": false,
-      "date": "2026-09-28",
-      "time": "17:17:20",
+      "date": "2026-10-01",
+      "time": "13:08:21",
       "productUrl": "/products/tjc-special-ladies-shoe-size-4-black-8769831",
-      "lastUpdated": 1790612783705,
-      "source": "gha-variant",
+      "lastUpdated": 1790856501523,
+      "source": "gha",
       "missedAt": 1790612783705,
       "missedDelay": 9,
       "missedPrice": 24.99,
       "missedImg": true,
       "productUrlChecked": 1790612790991,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "img": true
     },
     "8769849": {
       "sku": "8769849",
@@ -410422,8 +410423,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790856200327,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -454544,11 +454545,22 @@
         "followingSku": "8521991",
         "followingTitle": "Emreco Bubble Textured Jumper (Size L, 16-18) - Ivory",
         "followingAuctionCode": "0019891387"
+      },
+      {
+        "start": 1790856200327,
+        "end": 1790856501523,
+        "durationMin": 5.0,
+        "precedingSku": "8076869",
+        "precedingTitle": "Pure And Natural Crew Neck Cardigan",
+        "precedingAuctionCode": "0019891513",
+        "followingSku": "8769843",
+        "followingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
+        "followingAuctionCode": "0019892343"
       }
     ],
-    "lastOnAirSku": "8076869",
-    "lastOnAirTitle": "Pure And Natural Crew Neck Cardigan",
-    "lastOnAirAuctionCode": "0019891513",
+    "lastOnAirSku": "8769843",
+    "lastOnAirTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
+    "lastOnAirAuctionCode": "0019892343",
     "precedingSku": "8076869",
     "precedingTitle": "Pure And Natural Crew Neck Cardigan",
     "precedingAuctionCode": "0019891513"
