@@ -356424,23 +356424,23 @@
       "sku": "8620504",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "10:19:18",
+      "date": "2026-10-01",
+      "time": "10:58:21",
       "preExisting": true,
       "missedAt": 1789638503073,
       "missedDelay": null,
-      "lastUpdated": 1790327958935,
+      "lastUpdated": 1790848701122,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "Sterling Silver Hoop Earring",
-      "auctionCode": "0019882709",
+      "auctionCode": "0019892246",
       "source": "gha",
       "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8620504?variant=53191670726922",
       "productUrlChecked": 1789638507692,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790327958935,
-      "pdpPrice": 9.99,
+      "lastAir": 1790848701122,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true
@@ -409945,8 +409945,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790848640591,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -453957,11 +453957,22 @@
         "followingSku": "8616366",
         "followingTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
         "followingAuctionCode": "0019891767"
+      },
+      {
+        "start": 1790848640591,
+        "end": 1790848701122,
+        "durationMin": 1.0,
+        "precedingSku": "8616366",
+        "precedingTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
+        "precedingAuctionCode": "0019891767",
+        "followingSku": "8620504",
+        "followingTitle": "Sterling Silver Hoop Earring",
+        "followingAuctionCode": "0019892246"
       }
     ],
-    "lastOnAirSku": "8616366",
-    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019891767",
+    "lastOnAirSku": "8620504",
+    "lastOnAirTitle": "Sterling Silver Hoop Earring",
+    "lastOnAirAuctionCode": "0019892246",
     "precedingSku": "8616366",
     "precedingTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
     "precedingAuctionCode": "0019891767"
