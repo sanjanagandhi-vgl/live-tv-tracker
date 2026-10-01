@@ -409316,11 +409316,29 @@
       "productUrl": null,
       "lastUpdated": 1790839341620,
       "source": "gha"
+    },
+    "8579326": {
+      "sku": "8579326",
+      "firstAir": 1790839462800,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790839462800,
+      "title": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019891031",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-01",
+      "time": "08:24:22",
+      "productUrl": null,
+      "lastUpdated": 1790839462800,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790839400456,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -453232,11 +453250,22 @@
         "followingSku": "8800487",
         "followingTitle": "Pack of 2 - Leopard Print Knitted Cover Reusable Mini Hand Warmers - Grey",
         "followingAuctionCode": "0019891136"
+      },
+      {
+        "start": 1790839400456,
+        "end": 1790839462800,
+        "durationMin": 1.0,
+        "precedingSku": "221335928",
+        "precedingTitle": "Laurelle London Premium Mens Accessories Gift Bundle -Ultimate Gift Set for Him",
+        "precedingAuctionCode": "0019891932",
+        "followingSku": "8579326",
+        "followingTitle": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
+        "followingAuctionCode": "0019891031"
       }
     ],
-    "lastOnAirSku": "221335928",
-    "lastOnAirTitle": "Laurelle London Premium Mens Accessories Gift Bundle -Ultimate Gift Set for Him",
-    "lastOnAirAuctionCode": "0019891932",
+    "lastOnAirSku": "8579326",
+    "lastOnAirTitle": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
+    "lastOnAirAuctionCode": "0019891031",
     "precedingSku": "221335928",
     "precedingTitle": "Laurelle London Premium Mens Accessories Gift Bundle -Ultimate Gift Set for Him",
     "precedingAuctionCode": "0019891932"
