@@ -410004,14 +410004,41 @@
       "img": true,
       "date": "2026-10-01",
       "time": "11:29:20",
-      "productUrl": null,
-      "lastUpdated": 1790850560416,
-      "source": "gha"
+      "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2698285299",
+      "lastUpdated": 1790851160477,
+      "source": "gha",
+      "missedAt": 1790851160477,
+      "missedDelay": 10,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1790851163724,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8328246": {
+      "sku": "8328246",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-01",
+      "time": "11:39:20",
+      "preExisting": true,
+      "missedAt": 1790851160477,
+      "missedDelay": null,
+      "lastUpdated": 1790851160477,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "24K Yellow Gold Christmas Embossed Foil (39.40 MM x 25.60 MM)",
+      "auctionCode": "0019892231",
+      "source": "gha",
+      "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2698285299",
+      "productUrlChecked": 1790851164291,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790851160477,
     "gaps": [
       {
         "start": 1785823527869,
@@ -454071,8 +454098,8 @@
     "lastOnAirSku": "4527086",
     "lastOnAirTitle": "Set of 3 - White Cubic Zirconia Tennis Bracelet (Size - 7.5), Stud Push Back Earring & Solitaire Pendant with Chain (Size 20-2 Ext)",
     "lastOnAirAuctionCode": "0019892051",
-    "precedingSku": "8328248",
-    "precedingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
-    "precedingAuctionCode": "0019891938"
+    "precedingSku": "4527086",
+    "precedingTitle": "Set of 3 - White Cubic Zirconia Tennis Bracelet (Size - 7.5), Stud Push Back Earring & Solitaire Pendant with Chain (Size 20-2 Ext)",
+    "precedingAuctionCode": "0019892051"
   }
 }
