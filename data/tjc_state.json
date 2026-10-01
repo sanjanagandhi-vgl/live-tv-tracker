@@ -164930,21 +164930,26 @@
       "sku": "7744141",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "23:04:22",
+      "date": "2026-10-01",
+      "time": "12:01:00",
       "preExisting": true,
       "missedAt": 1786745062746,
       "missedDelay": null,
-      "lastUpdated": 1786745062746,
+      "lastUpdated": 1790852460479,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "Red Color Murano Glass  Necklace (Size - 24) Pure White Stainless Steel",
-      "auctionCode": "0019819986",
+      "title": "Murano Glass Necklace (Size - 24) Pure White Stainless Steel",
+      "auctionCode": "0019891944",
       "source": "gha",
       "productUrl": "/products/murano-glass-necklace-size-24-pure-white-stainless-steel",
       "productUrlChecked": 1786745073836,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790852460479,
+      "pdpPrice": "4.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7744165": {
       "sku": "7744165",
@@ -410037,8 +410042,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790852360586,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -454115,11 +454120,22 @@
         "followingSku": "3335270",
         "followingTitle": "Murano Glass Earring",
         "followingAuctionCode": "0019891852"
+      },
+      {
+        "start": 1790852360586,
+        "end": 1790852460479,
+        "durationMin": 1.7,
+        "precedingSku": "3335270",
+        "precedingTitle": "Murano Glass Earring",
+        "precedingAuctionCode": "0019891852",
+        "followingSku": "7744141",
+        "followingTitle": "Murano Glass Necklace (Size - 24) Pure White Stainless Steel",
+        "followingAuctionCode": "0019891944"
       }
     ],
-    "lastOnAirSku": "3335270",
-    "lastOnAirTitle": "Murano Glass Earring",
-    "lastOnAirAuctionCode": "0019891852",
+    "lastOnAirSku": "7744141",
+    "lastOnAirTitle": "Murano Glass Necklace (Size - 24) Pure White Stainless Steel",
+    "lastOnAirAuctionCode": "0019891944",
     "precedingSku": "3335270",
     "precedingTitle": "Murano Glass Earring",
     "precedingAuctionCode": "0019891852"
