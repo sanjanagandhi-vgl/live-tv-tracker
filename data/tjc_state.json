@@ -40099,17 +40099,17 @@
       "firstAir": 1785519268738,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786698201893,
+      "lastAir": 1790851705076,
       "title": "Murano Glass Earring",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019818074",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019891852",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-14",
-      "time": "10:03:21",
+      "date": "2026-10-01",
+      "time": "11:48:25",
       "productUrl": "/products/set-of-2-multi-colour-and-green-murano-style-basket-earrings-in-stainless-steel-1709828851",
-      "lastUpdated": 1786698201893,
+      "lastUpdated": 1790851705076,
       "source": "gha",
       "missedAt": 1785520251368,
       "missedDelay": 11,
@@ -410037,8 +410037,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790851532379,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -454104,11 +454104,22 @@
         "followingSku": "7546459",
         "followingTitle": "One Time Closeout -  Set Of 4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
         "followingAuctionCode": "0019891699"
+      },
+      {
+        "start": 1790851532379,
+        "end": 1790851705076,
+        "durationMin": 2.9,
+        "precedingSku": "7546459",
+        "precedingTitle": "One Time Closeout -  Set Of 4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
+        "precedingAuctionCode": "0019891699",
+        "followingSku": "3335270",
+        "followingTitle": "Murano Glass Earring",
+        "followingAuctionCode": "0019891852"
       }
     ],
-    "lastOnAirSku": "7546459",
-    "lastOnAirTitle": "One Time Closeout -  Set Of 4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
-    "lastOnAirAuctionCode": "0019891699",
+    "lastOnAirSku": "3335270",
+    "lastOnAirTitle": "Murano Glass Earring",
+    "lastOnAirAuctionCode": "0019891852",
     "precedingSku": "7546459",
     "precedingTitle": "One Time Closeout -  Set Of 4 Jewellery Box with Interior Velvet Protection (Size 10x10x5 cm) - Orange, Light Pink, Brown & Purple",
     "precedingAuctionCode": "0019891699"
