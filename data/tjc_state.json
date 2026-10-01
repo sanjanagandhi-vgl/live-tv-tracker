@@ -277063,21 +277063,26 @@
       "sku": "8662144",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "16:04:29",
+      "date": "2026-10-01",
+      "time": "01:42:21",
       "preExisting": true,
       "missedAt": 1788188669225,
       "missedDelay": null,
-      "lastUpdated": 1788188669225,
+      "lastUpdated": 1790815341781,
       "missedPrice": 99.99,
       "missedImg": true,
-      "title": "FINAL WATCH OF CLEARANCE - William Hunt Limited Edition Mosaic Automatic Movement 5ATM Water Resistant Enamel Skeleton Dial & Rose Gold Plated UNISEX Watch with Black Genuine Leather Strap",
-      "auctionCode": "0019852481",
+      "title": "William Hunt Limited Edition Mosaic Automatic Movement 5ATM Water Resistant Enamel Skeleton Dial & Rose Gold Plated UNISEX Watch with Black Genuine Leather Strap",
+      "auctionCode": "0019891491",
       "source": "gha",
       "productUrl": "/products/william-hunt-watch-pure-white-stainless-steel-8702912",
       "productUrlChecked": 1788188672094,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790815341781,
+      "pdpPrice": "129.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8725754": {
       "sku": "8725754",
@@ -408939,8 +408944,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790815236493,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -452555,11 +452560,22 @@
         "followingSku": "8588371",
         "followingTitle": "William Hunt 3D Horse Motif & Apricot MOP Dial Ronda Swiss Movement 5ATM with 50 Lab Grown Diamonds (VS-E-F) & Green Leather Strap",
         "followingAuctionCode": "0019891493"
+      },
+      {
+        "start": 1790815236493,
+        "end": 1790815341781,
+        "durationMin": 1.8,
+        "precedingSku": "8588371",
+        "precedingTitle": "William Hunt 3D Horse Motif & Apricot MOP Dial Ronda Swiss Movement 5ATM with 50 Lab Grown Diamonds (VS-E-F) & Green Leather Strap",
+        "precedingAuctionCode": "0019891493",
+        "followingSku": "8662144",
+        "followingTitle": "William Hunt Limited Edition Mosaic Automatic Movement 5ATM Water Resistant Enamel Skeleton Dial & Rose Gold Plated UNISEX Watch with Black Genuine Leather Strap",
+        "followingAuctionCode": "0019891491"
       }
     ],
-    "lastOnAirSku": "8588371",
-    "lastOnAirTitle": "William Hunt 3D Horse Motif & Apricot MOP Dial Ronda Swiss Movement 5ATM with 50 Lab Grown Diamonds (VS-E-F) & Green Leather Strap",
-    "lastOnAirAuctionCode": "0019891493",
+    "lastOnAirSku": "8662144",
+    "lastOnAirTitle": "William Hunt Limited Edition Mosaic Automatic Movement 5ATM Water Resistant Enamel Skeleton Dial & Rose Gold Plated UNISEX Watch with Black Genuine Leather Strap",
+    "lastOnAirAuctionCode": "0019891491",
     "precedingSku": "8588371",
     "precedingTitle": "William Hunt 3D Horse Motif & Apricot MOP Dial Ronda Swiss Movement 5ATM with 50 Lab Grown Diamonds (VS-E-F) & Green Leather Strap",
     "precedingAuctionCode": "0019891493"
