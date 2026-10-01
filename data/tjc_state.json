@@ -30465,21 +30465,26 @@
       "sku": "8579284",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-10-01",
+      "time": "18:38:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1790876302608,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Livmore Mini Portable ABS Air Purifier, Ideal for home, office, car or travel use,  Helps reduce dust, odours, and air impurities  - White",
-      "auctionCode": "0019802011",
+      "auctionCode": "0019891619",
       "source": "gha",
       "productUrl": "/products/air-purifier-size-12x1-cm-black-8579103",
       "productUrlChecked": 1785475551897,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790876302608,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8526612": {
       "sku": "8526612",
@@ -411496,8 +411501,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790876064699,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -455827,11 +455832,22 @@
         "followingSku": "8801612",
         "followingTitle": "CHRISTMAS SPECIAL - Set of 6- Cute Christmas Earrings",
         "followingAuctionCode": "0019891636"
+      },
+      {
+        "start": 1790876064699,
+        "end": 1790876302608,
+        "durationMin": 4.0,
+        "precedingSku": "8801612",
+        "precedingTitle": "CHRISTMAS SPECIAL - Set of 6- Cute Christmas Earrings",
+        "precedingAuctionCode": "0019891636",
+        "followingSku": "8579284",
+        "followingTitle": "Livmore Mini Portable ABS Air Purifier, Ideal for home, office, car or travel use,  Helps reduce dust, odours, and air impurities  - White",
+        "followingAuctionCode": "0019891619"
       }
     ],
-    "lastOnAirSku": "8801612",
-    "lastOnAirTitle": "CHRISTMAS SPECIAL - Set of 6- Cute Christmas Earrings",
-    "lastOnAirAuctionCode": "0019891636",
+    "lastOnAirSku": "8579284",
+    "lastOnAirTitle": "Livmore Mini Portable ABS Air Purifier, Ideal for home, office, car or travel use,  Helps reduce dust, odours, and air impurities  - White",
+    "lastOnAirAuctionCode": "0019891619",
     "precedingSku": "8801612",
     "precedingTitle": "CHRISTMAS SPECIAL - Set of 6- Cute Christmas Earrings",
     "precedingAuctionCode": "0019891636"
