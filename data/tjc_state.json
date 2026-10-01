@@ -254157,17 +254157,17 @@
       "firstAir": 1787802984208,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787803704177,
+      "lastAir": 1790880564019,
       "title": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus (30ml)",
-      "pdpPrice": 17.99,
-      "auctionCode": "0019844807",
+      "pdpPrice": "150.99",
+      "auctionCode": "0019891576",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-27",
-      "time": "05:08:24",
+      "date": "2026-10-01",
+      "time": "19:49:24",
       "productUrl": "/products/cbd-queen-muscle-joint-balm-6-super-strength-peppermint-eucalyptus-30ml?variant=53108126548234",
-      "lastUpdated": 1787803704177,
+      "lastUpdated": 1790880564019,
       "source": "gha",
       "productUrlChecked": 1787803719673,
       "productUrlStatus": 200,
@@ -411526,8 +411526,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790880501803,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -455901,11 +455901,22 @@
         "followingSku": "8538101",
         "followingTitle": "CBD Queen- Body Oil Super Strength - 30ml (900mg) - Lavender",
         "followingAuctionCode": "0019891575"
+      },
+      {
+        "start": 1790880501803,
+        "end": 1790880564019,
+        "durationMin": 1.0,
+        "precedingSku": "8538101",
+        "precedingTitle": "CBD Queen- Body Oil Super Strength - 30ml (900mg) - Lavender",
+        "precedingAuctionCode": "0019891575",
+        "followingSku": "8538105",
+        "followingTitle": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus (30ml)",
+        "followingAuctionCode": "0019891576"
       }
     ],
-    "lastOnAirSku": "8538101",
-    "lastOnAirTitle": "CBD Queen- Body Oil Super Strength - 30ml (900mg) - Lavender",
-    "lastOnAirAuctionCode": "0019891575",
+    "lastOnAirSku": "8538105",
+    "lastOnAirTitle": "CBD Queen- Muscle & Joint Balm 6% Super Strength - Peppermint & Eucalyptus (30ml)",
+    "lastOnAirAuctionCode": "0019891576",
     "precedingSku": "8538101",
     "precedingTitle": "CBD Queen- Body Oil Super Strength - 30ml (900mg) - Lavender",
     "precedingAuctionCode": "0019891575"
