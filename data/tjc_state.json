@@ -411562,11 +411562,29 @@
       "auctionCode": "0019893054",
       "source": "gha",
       "productUrl": null
+    },
+    "8576754": {
+      "sku": "8576754",
+      "firstAir": 1790886799333,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790886799333,
+      "title": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019891668",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-01",
+      "time": "21:33:19",
+      "productUrl": null,
+      "lastUpdated": 1790886799333,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790886653081,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -455973,11 +455991,22 @@
         "followingSku": "8480118",
         "followingTitle": "Retro Bauhaus Style Nordic Dome Mushroom Table Lamp with Rocker Switch & 1.5M Cord Length (50 x 14cm) - Green",
         "followingAuctionCode": "0019891661"
+      },
+      {
+        "start": 1790886653081,
+        "end": 1790886799333,
+        "durationMin": 2.4,
+        "precedingSku": "8480118",
+        "precedingTitle": "Retro Bauhaus Style Nordic Dome Mushroom Table Lamp with Rocker Switch & 1.5M Cord Length (50 x 14cm) - Green",
+        "precedingAuctionCode": "0019891661",
+        "followingSku": "8576754",
+        "followingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+        "followingAuctionCode": "0019891668"
       }
     ],
-    "lastOnAirSku": "8480118",
-    "lastOnAirTitle": "Retro Bauhaus Style Nordic Dome Mushroom Table Lamp with Rocker Switch & 1.5M Cord Length (50 x 14cm) - Green",
-    "lastOnAirAuctionCode": "0019891661",
+    "lastOnAirSku": "8576754",
+    "lastOnAirTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+    "lastOnAirAuctionCode": "0019891668",
     "precedingSku": "8480118",
     "precedingTitle": "Retro Bauhaus Style Nordic Dome Mushroom Table Lamp with Rocker Switch & 1.5M Cord Length (50 x 14cm) - Green",
     "precedingAuctionCode": "0019891661"
