@@ -390716,18 +390716,23 @@
       "sku": "8800487",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "15:54:24",
+      "date": "2026-10-01",
+      "time": "08:07:18",
       "preExisting": true,
       "missedAt": 1790348064859,
       "missedDelay": null,
-      "lastUpdated": 1790348064859,
+      "lastUpdated": 1790838438447,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "Pack of 2 - Snowflake Print Knitted Cover Reusable Mini Hand Warmers - Blue",
-      "auctionCode": "0019884125",
+      "title": "Pack of 2 - Leopard Print Knitted Cover Reusable Mini Hand Warmers - Grey",
+      "auctionCode": "0019891136",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1790838438447,
+      "pdpPrice": "52.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8545222": {
       "sku": "8545222",
@@ -409296,8 +409301,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790838385846,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -453198,11 +453203,22 @@
         "followingSku": "8734691",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
         "followingAuctionCode": "0019892110"
+      },
+      {
+        "start": 1790838385846,
+        "end": 1790838438447,
+        "durationMin": 0.9,
+        "precedingSku": "8611615",
+        "precedingTitle": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
+        "precedingAuctionCode": "0019891015",
+        "followingSku": "8800487",
+        "followingTitle": "Pack of 2 - Leopard Print Knitted Cover Reusable Mini Hand Warmers - Grey",
+        "followingAuctionCode": "0019891136"
       }
     ],
-    "lastOnAirSku": "8611615",
-    "lastOnAirTitle": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
-    "lastOnAirAuctionCode": "0019891015",
+    "lastOnAirSku": "8800487",
+    "lastOnAirTitle": "Pack of 2 - Leopard Print Knitted Cover Reusable Mini Hand Warmers - Grey",
+    "lastOnAirAuctionCode": "0019891136",
     "precedingSku": "8611615",
     "precedingTitle": "Wireless Earbuds with Digital Touch Screen, Bluetooth 5.4, Noise Cancelling Mic, 4 - 5h Playtime, EQ Modes, Compatible for iPhone & Android (Size 60x45 cm) - White",
     "precedingAuctionCode": "0019891015"
