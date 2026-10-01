@@ -3208,23 +3208,23 @@
       "sku": "8616366",
       "tvPrice": "",
       "remarks": "",
-      "time": "04:37:19",
+      "time": "10:54:22",
       "preExisting": true,
       "missedAt": 1784851852401,
       "missedDelay": null,
       "missedPrice": 29.99,
       "missedImg": false,
       "title": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
-      "auctionCode": "0019883920",
+      "auctionCode": "0019891767",
       "source": "gha",
-      "lastAir": 1790566639018,
-      "pdpPrice": "29.99",
+      "lastAir": 1790848462718,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-28",
+      "date": "2026-10-01",
       "productUrl": null,
-      "lastUpdated": 1790566639018
+      "lastUpdated": 1790848462718
     },
     "8570535": {
       "sku": "8570535",
@@ -409945,8 +409945,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790848403917,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -453946,11 +453946,22 @@
         "followingSku": "8710006",
         "followingTitle": "Vintage Style Velvet 3-Tier Jewellery Organiser Box with Lock, Mirror & Removable Trays (12x12x12cm) - Pink",
         "followingAuctionCode": "0019892228"
+      },
+      {
+        "start": 1790848403917,
+        "end": 1790848462718,
+        "durationMin": 1.0,
+        "precedingSku": "8710006",
+        "precedingTitle": "Vintage Style Velvet 3-Tier Jewellery Organiser Box with Lock, Mirror & Removable Trays (12x12x12cm) - Pink",
+        "precedingAuctionCode": "0019892228",
+        "followingSku": "8616366",
+        "followingTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
+        "followingAuctionCode": "0019891767"
       }
     ],
-    "lastOnAirSku": "8710006",
-    "lastOnAirTitle": "Vintage Style Velvet 3-Tier Jewellery Organiser Box with Lock, Mirror & Removable Trays (12x12x12cm) - Pink",
-    "lastOnAirAuctionCode": "0019892228",
+    "lastOnAirSku": "8616366",
+    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Treccia Vintage Bracelet (Size - 7-1 Ext) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019891767",
     "precedingSku": "8710006",
     "precedingTitle": "Vintage Style Velvet 3-Tier Jewellery Organiser Box with Lock, Mirror & Removable Trays (12x12x12cm) - Pink",
     "precedingAuctionCode": "0019892228"
