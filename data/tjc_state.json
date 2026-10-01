@@ -409344,11 +409344,29 @@
       "productUrlChecked": 1790839858156,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8688902": {
+      "sku": "8688902",
+      "firstAir": 1790840181121,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790840181121,
+      "title": "One Time Deal- Genoa Engraved  Green Jade Ladies Watch- Green",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019891424",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-01",
+      "time": "08:36:21",
+      "productUrl": null,
+      "lastUpdated": 1790840181121,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790840061182,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -453271,11 +453289,22 @@
         "followingSku": "8579326",
         "followingTitle": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
         "followingAuctionCode": "0019891031"
+      },
+      {
+        "start": 1790840061182,
+        "end": 1790840181121,
+        "durationMin": 2.0,
+        "precedingSku": "8312164",
+        "precedingTitle": "Christmas gift card(pack of 5",
+        "precedingAuctionCode": "0019891216",
+        "followingSku": "8688902",
+        "followingTitle": "One Time Deal- Genoa Engraved  Green Jade Ladies Watch- Green",
+        "followingAuctionCode": "0019891424"
       }
     ],
-    "lastOnAirSku": "8312164",
-    "lastOnAirTitle": "Christmas gift card(pack of 5",
-    "lastOnAirAuctionCode": "0019891216",
+    "lastOnAirSku": "8688902",
+    "lastOnAirTitle": "One Time Deal- Genoa Engraved  Green Jade Ladies Watch- Green",
+    "lastOnAirAuctionCode": "0019891424",
     "precedingSku": "8312164",
     "precedingTitle": "Christmas gift card(pack of 5",
     "precedingAuctionCode": "0019891216"
