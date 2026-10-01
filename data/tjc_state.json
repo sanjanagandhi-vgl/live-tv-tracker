@@ -340945,21 +340945,26 @@
       "sku": "8562721",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-10-01",
+      "time": "22:31:20",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1790890280031,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "LIVMORE Leopard Shaped Trinket Storage Box (Size 11x3x8 cm) - Gold & White",
-      "auctionCode": "0019868648",
+      "title": "LIVMORE Two Owl-Shaped Trinket Storage Box (Size 7x7x8 cm) - Multi Colour",
+      "auctionCode": "0019892424",
       "source": "gha",
       "productUrl": "/products/livmore-owl-shaped-trinket-storage-box-size-7x7x8-cm-multi-color-8562063",
       "productUrlChecked": 1789358915732,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790890280031,
+      "pdpPrice": "119.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8562722": {
       "sku": "8562722",
@@ -411738,8 +411743,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790890245900,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -456212,11 +456217,22 @@
         "followingSku": "8615959",
         "followingTitle": "D'Joy - Premium White Edison Pearl (10-11mm) Stud Ball Earring with Push Back in Rhodium Overlay Sterling Silver 15.34 Ct.",
         "followingAuctionCode": "0019891851"
+      },
+      {
+        "start": 1790890245900,
+        "end": 1790890280031,
+        "durationMin": 0.6,
+        "precedingSku": "8768582",
+        "precedingTitle": "Golden Shell Pearl Drop Earring with Push Back",
+        "precedingAuctionCode": "0019891863",
+        "followingSku": "8562721",
+        "followingTitle": "LIVMORE Two Owl-Shaped Trinket Storage Box (Size 7x7x8 cm) - Multi Colour",
+        "followingAuctionCode": "0019892424"
       }
     ],
-    "lastOnAirSku": "8768582",
-    "lastOnAirTitle": "Golden Shell Pearl Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019891863",
+    "lastOnAirSku": "8562721",
+    "lastOnAirTitle": "LIVMORE Two Owl-Shaped Trinket Storage Box (Size 7x7x8 cm) - Multi Colour",
+    "lastOnAirAuctionCode": "0019892424",
     "precedingSku": "8768582",
     "precedingTitle": "Golden Shell Pearl Drop Earring with Push Back",
     "precedingAuctionCode": "0019891863"
