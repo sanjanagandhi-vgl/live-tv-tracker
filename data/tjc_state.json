@@ -409969,11 +409969,31 @@
       "productUrlChecked": 1790848885147,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8791325": {
+      "sku": "8791325",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-01",
+      "time": "11:15:35",
+      "preExisting": true,
+      "missedAt": 1790849735254,
+      "missedDelay": null,
+      "lastUpdated": 1790849735254,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Hoop Earring in Vermeil Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019892247",
+      "source": "gha",
+      "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8620504",
+      "productUrlChecked": 1790849738299,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790849735254,
     "gaps": [
       {
         "start": 1785823527869,
@@ -454011,8 +454031,8 @@
     "lastOnAirSku": "8673794",
     "lastOnAirTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
     "lastOnAirAuctionCode": "0019892248",
-    "precedingSku": "8620504",
-    "precedingTitle": "Sterling Silver Hoop Earring",
-    "precedingAuctionCode": "0019892246"
+    "precedingSku": "8673794",
+    "precedingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
+    "precedingAuctionCode": "0019892248"
   }
 }
