@@ -11171,17 +11171,23 @@
       "sku": "8553005",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-25",
-      "time": "19:09:20",
+      "date": "2026-10-01",
+      "time": "14:44:20",
       "preExisting": true,
       "missedAt": 1785002960341,
       "missedDelay": null,
-      "lastUpdated": 1785002960341,
+      "lastUpdated": 1790862260309,
       "missedPrice": 69.99,
       "missedImg": true,
-      "title": "Italian Made - Yellow Gold Plated Sterling Silver Pyramid Pave Curb Chain (Size - 20) with Lobster Clasp",
-      "auctionCode": "0019795064",
-      "source": "gha"
+      "title": "Italian Made - Yellow Gold Plated Sterling Silver Pyramid Pave Curb Chain (Size - 18) with Lobster Clasp",
+      "auctionCode": "0019891965",
+      "source": "gha",
+      "lastAir": 1790862260309,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8703801": {
       "sku": "8703801",
@@ -410677,8 +410683,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790862198203,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -454887,11 +454893,22 @@
         "followingSku": "8415113",
         "followingTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8), Silver Wt. 13.70 Gms",
         "followingAuctionCode": "0019892741"
+      },
+      {
+        "start": 1790862198203,
+        "end": 1790862260309,
+        "durationMin": 1.0,
+        "precedingSku": "8415148",
+        "precedingTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8), Silver Wt. 13.70 Gms",
+        "precedingAuctionCode": "0019892739",
+        "followingSku": "8553005",
+        "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Pyramid Pave Curb Chain (Size - 18) with Lobster Clasp",
+        "followingAuctionCode": "0019891965"
       }
     ],
-    "lastOnAirSku": "8415148",
-    "lastOnAirTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8), Silver Wt. 13.70 Gms",
-    "lastOnAirAuctionCode": "0019892739",
+    "lastOnAirSku": "8553005",
+    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Pyramid Pave Curb Chain (Size - 18) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019891965",
     "precedingSku": "8415148",
     "precedingTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8), Silver Wt. 13.70 Gms",
     "precedingAuctionCode": "0019892739"
