@@ -111671,17 +111671,17 @@
       "firstAir": 1786228700845,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790642358007,
+      "lastAir": 1790829632403,
       "title": "La Bella Handmade - Yellow Gold Plated Sterling Silver Bismark Necklace (Size - 20)",
-      "pdpPrice": "89.99",
-      "auctionCode": "0019887590",
+      "pdpPrice": "1345.99",
+      "auctionCode": "0019890233",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-29",
-      "time": "01:39:18",
+      "date": "2026-10-01",
+      "time": "05:40:32",
       "productUrl": "/products/la-bella-handmade-yellow-gold-plated-sterling-silver-bismark-necklace-size-20-silver-wt-14-09-gms",
-      "lastUpdated": 1790642358007,
+      "lastUpdated": 1790829632403,
       "source": "gha",
       "missedAt": 1786229661850,
       "missedDelay": 10,
@@ -409296,8 +409296,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790829592885,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -453088,11 +453088,22 @@
         "followingSku": "8722823",
         "followingTitle": "La Bella Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
         "followingAuctionCode": "0019890235"
+      },
+      {
+        "start": 1790829592885,
+        "end": 1790829632403,
+        "durationMin": 0.7,
+        "precedingSku": "8722823",
+        "precedingTitle": "La Bella Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
+        "precedingAuctionCode": "0019890235",
+        "followingSku": "8478769",
+        "followingTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Bismark Necklace (Size - 20)",
+        "followingAuctionCode": "0019890233"
       }
     ],
-    "lastOnAirSku": "8722823",
-    "lastOnAirTitle": "La Bella Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019890235",
+    "lastOnAirSku": "8478769",
+    "lastOnAirTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Bismark Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019890233",
     "precedingSku": "8722823",
     "precedingTitle": "La Bella Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
     "precedingAuctionCode": "0019890235"
