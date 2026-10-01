@@ -409105,11 +409105,29 @@
       "productUrlChecked": 1790822189209,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7840725": {
+      "sku": "7840725",
+      "firstAir": 1790822540817,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790822540817,
+      "title": "Teddy Fleece Jacket (Size L) - Tan",
+      "pdpPrice": "349.99",
+      "auctionCode": "0019890331",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-01",
+      "time": "03:42:20",
+      "productUrl": null,
+      "lastUpdated": 1790822540817,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790822477809,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -452834,11 +452852,22 @@
         "followingSku": "8636856",
         "followingTitle": "Antigua Apparel Mens Polo T-shirt (Size XXL, 24 to 26) - Black",
         "followingAuctionCode": "0019890325"
+      },
+      {
+        "start": 1790822477809,
+        "end": 1790822540817,
+        "durationMin": 1.1,
+        "precedingSku": "8636856",
+        "precedingTitle": "Antigua Apparel Mens Polo T-shirt (Size XXL, 24 to 26) - Black",
+        "precedingAuctionCode": "0019890325",
+        "followingSku": "7840725",
+        "followingTitle": "Teddy Fleece Jacket (Size L) - Tan",
+        "followingAuctionCode": "0019890331"
       }
     ],
-    "lastOnAirSku": "8636856",
-    "lastOnAirTitle": "Antigua Apparel Mens Polo T-shirt (Size XXL, 24 to 26) - Black",
-    "lastOnAirAuctionCode": "0019890325",
+    "lastOnAirSku": "7840725",
+    "lastOnAirTitle": "Teddy Fleece Jacket (Size L) - Tan",
+    "lastOnAirAuctionCode": "0019890331",
     "precedingSku": "8636856",
     "precedingTitle": "Antigua Apparel Mens Polo T-shirt (Size XXL, 24 to 26) - Black",
     "precedingAuctionCode": "0019890325"
