@@ -342168,23 +342168,23 @@
       "sku": "8624558",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "03:27:22",
+      "date": "2026-10-01",
+      "time": "02:37:16",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789525642223,
+      "lastUpdated": 1790818636779,
       "missedPrice": 17.99,
       "missedImg": true,
       "title": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
-      "auctionCode": "0019871582",
+      "auctionCode": "0019890115",
       "source": "gha",
       "productUrl": "/products/livmore-christmas-ornament-size-one-size-red-8624558?variant=53677357105418",
       "productUrlChecked": 1789359147168,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789525642223,
-      "pdpPrice": 17.99,
+      "lastAir": 1790818636779,
+      "pdpPrice": "159.99",
       "buy": true,
       "login": false,
       "img": true
@@ -408962,8 +408962,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790818581584,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -452633,11 +452633,22 @@
         "followingSku": "8628834",
         "followingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
         "followingAuctionCode": "0019890121"
+      },
+      {
+        "start": 1790818581584,
+        "end": 1790818636779,
+        "durationMin": 0.9,
+        "precedingSku": "8628834",
+        "precedingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+        "precedingAuctionCode": "0019890121",
+        "followingSku": "8624558",
+        "followingTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+        "followingAuctionCode": "0019890115"
       }
     ],
-    "lastOnAirSku": "8628834",
-    "lastOnAirTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
-    "lastOnAirAuctionCode": "0019890121",
+    "lastOnAirSku": "8624558",
+    "lastOnAirTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+    "lastOnAirAuctionCode": "0019890115",
     "precedingSku": "8628834",
     "precedingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
     "precedingAuctionCode": "0019890121"
