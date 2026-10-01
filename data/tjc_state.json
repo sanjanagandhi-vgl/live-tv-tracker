@@ -347344,21 +347344,26 @@
       "sku": "8669518",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "15:15:38",
+      "date": "2026-10-01",
+      "time": "02:56:21",
       "preExisting": true,
       "missedAt": 1789395338633,
       "missedDelay": null,
-      "lastUpdated": 1789395338633,
+      "lastUpdated": 1790819781247,
       "missedPrice": 17.99,
       "missedImg": false,
-      "title": "LIVMORE Battery-Operated Stained Glass Blue Butterfly Print Rotating Decorative Table Lamp - 15cm",
-      "auctionCode": "0019870261",
+      "title": "LIVMORE Battery-Operated Stained Glass Calla Lily Print Rotating Decorative Table Lamp - 15cm",
+      "auctionCode": "0019890144",
       "source": "gha",
       "productUrl": "/products/livmore-table-lamp-size-one-size-purple-8669514",
       "productUrlChecked": 1789395343655,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790819781247,
+      "pdpPrice": "17.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8669565": {
       "sku": "8669565",
@@ -408967,8 +408972,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790819677921,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -452660,11 +452665,22 @@
         "followingSku": "8622423",
         "followingTitle": "Copper Mirrored Glass Jewellery Box with Clear Crystal Jewel Lid Knob",
         "followingAuctionCode": "0019890110"
+      },
+      {
+        "start": 1790819677921,
+        "end": 1790819781247,
+        "durationMin": 1.7,
+        "precedingSku": "7864333",
+        "precedingTitle": "Nusuk Dubai Air Freshener Dubai Air freshener Liyali Al Ans",
+        "precedingAuctionCode": "0019890140",
+        "followingSku": "8669518",
+        "followingTitle": "LIVMORE Battery-Operated Stained Glass Calla Lily Print Rotating Decorative Table Lamp - 15cm",
+        "followingAuctionCode": "0019890144"
       }
     ],
-    "lastOnAirSku": "7864333",
-    "lastOnAirTitle": "Nusuk Dubai Air Freshener Dubai Air freshener Liyali Al Ans",
-    "lastOnAirAuctionCode": "0019890140",
+    "lastOnAirSku": "8669518",
+    "lastOnAirTitle": "LIVMORE Battery-Operated Stained Glass Calla Lily Print Rotating Decorative Table Lamp - 15cm",
+    "lastOnAirAuctionCode": "0019890144",
     "precedingSku": "7864333",
     "precedingTitle": "Nusuk Dubai Air Freshener Dubai Air freshener Liyali Al Ans",
     "precedingAuctionCode": "0019890140"
