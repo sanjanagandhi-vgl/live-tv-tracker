@@ -410762,11 +410762,29 @@
       "auctionCode": "0019892779",
       "source": "gha",
       "productUrl": null
+    },
+    "8719184": {
+      "sku": "8719184",
+      "firstAir": 1790866283114,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790866283114,
+      "title": "D'Joy- USAMBARA Colour Change Garnet, Moissanite Main Stone With Surrounding Stone Ring in Rhodium OverlaySterling Silver  2.030  Ct.",
+      "pdpPrice": "2345.99",
+      "auctionCode": "0019892736",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-01",
+      "time": "15:51:23",
+      "productUrl": null,
+      "lastUpdated": 1790866283114,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790866237501,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -454997,11 +455015,22 @@
         "followingSku": "8719172",
         "followingTitle": "D'Joy - USAMBARA Colour Change Garnet & Moissanite Ring in 18K Vermeil Rose Gold Plated Sterling Silver 2.23 Ct.",
         "followingAuctionCode": "0019892735"
+      },
+      {
+        "start": 1790866237501,
+        "end": 1790866283114,
+        "durationMin": 0.8,
+        "precedingSku": "8719172",
+        "precedingTitle": "D'Joy - USAMBARA Colour Change Garnet & Moissanite Ring in 18K Vermeil Rose Gold Plated Sterling Silver 2.23 Ct.",
+        "precedingAuctionCode": "0019892735",
+        "followingSku": "8719184",
+        "followingTitle": "D'Joy- USAMBARA Colour Change Garnet, Moissanite Main Stone With Surrounding Stone Ring in Rhodium OverlaySterling Silver  2.030  Ct.",
+        "followingAuctionCode": "0019892736"
       }
     ],
-    "lastOnAirSku": "8719172",
-    "lastOnAirTitle": "D'Joy - USAMBARA Colour Change Garnet & Moissanite Ring in 18K Vermeil Rose Gold Plated Sterling Silver 2.23 Ct.",
-    "lastOnAirAuctionCode": "0019892735",
+    "lastOnAirSku": "8719184",
+    "lastOnAirTitle": "D'Joy- USAMBARA Colour Change Garnet, Moissanite Main Stone With Surrounding Stone Ring in Rhodium OverlaySterling Silver  2.030  Ct.",
+    "lastOnAirAuctionCode": "0019892736",
     "precedingSku": "8719172",
     "precedingTitle": "D'Joy - USAMBARA Colour Change Garnet & Moissanite Ring in 18K Vermeil Rose Gold Plated Sterling Silver 2.23 Ct.",
     "precedingAuctionCode": "0019892735"
