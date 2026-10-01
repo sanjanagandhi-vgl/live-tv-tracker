@@ -341471,21 +341471,26 @@
       "sku": "8679312",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-10-01",
+      "time": "22:08:21",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1790888901215,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "D'Joy - Multi Colour Amber Adjustable Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver 150.00 Ct.",
-      "auctionCode": "0019868522",
+      "auctionCode": "0019892421",
       "source": "gha",
       "productUrl": "/products/djoy-multi-color-amber-adjustable-necklace-size-20-2-ext-in-yellow-gold-plated-sterling-silver-150-00-ct-8679312",
       "productUrlChecked": 1789358971208,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790888901215,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8678863": {
       "sku": "8678863",
@@ -411690,8 +411695,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790888730096,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -456131,11 +456136,22 @@
         "followingSku": "7576039",
         "followingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
         "followingAuctionCode": "0019893183"
+      },
+      {
+        "start": 1790888730096,
+        "end": 1790888901215,
+        "durationMin": 2.9,
+        "precedingSku": "7576039",
+        "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+        "precedingAuctionCode": "0019893183",
+        "followingSku": "8679312",
+        "followingTitle": "D'Joy - Multi Colour Amber Adjustable Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver 150.00 Ct.",
+        "followingAuctionCode": "0019892421"
       }
     ],
-    "lastOnAirSku": "7576039",
-    "lastOnAirTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
-    "lastOnAirAuctionCode": "0019893183",
+    "lastOnAirSku": "8679312",
+    "lastOnAirTitle": "D'Joy - Multi Colour Amber Adjustable Necklace (Size - 20-2 Ext) in Yellow Gold Plated Sterling Silver 150.00 Ct.",
+    "lastOnAirAuctionCode": "0019892421",
     "precedingSku": "7576039",
     "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
     "precedingAuctionCode": "0019893183"
