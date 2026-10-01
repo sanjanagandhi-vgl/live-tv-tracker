@@ -402732,21 +402732,26 @@
       "sku": "8800491",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-29",
-      "time": "13:44:21",
+      "date": "2026-10-01",
+      "time": "09:45:43",
       "preExisting": true,
       "missedAt": 1790685861730,
       "missedDelay": null,
-      "lastUpdated": 1790685861730,
+      "lastUpdated": 1790844343593,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "THE MOST LUXURIOUS SHERPA BLANKETS - Plush Bliss Luxury Flannel Throw Blanket (Double) 150 x 200 - Brown - 600 GSM",
-      "auctionCode": "0019887738",
+      "title": "THE MOST LUXURIOUS SHERPA BLANKETS - Plush Bliss Luxury Flannel Throw Blanket (Double) 150 x 200 ...",
+      "auctionCode": "0019891115",
       "source": "gha",
-      "productUrl": "/products/solid-plush-bliss-luxury-flannel-throw-blanket-150x200cm-green-8800490",
+      "productUrl": "/products/solid-plush-bliss-luxury-flannel-throw-blanket-150x200cm-green-8800490?variant=53827451093258",
       "productUrlChecked": 1790685866005,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790844343593,
+      "pdpPrice": 29.99,
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8564983": {
       "sku": "8564983",
@@ -409624,8 +409629,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790844140353,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -453581,11 +453586,22 @@
         "followingSku": "4527204",
         "followingTitle": "TJC EXCLUSIVE - Extremely Rare Hand Carved Serpentine Dragon Boat Ornament - Symbolising Strength & Perseverance With Bracelet (Size 7.5 Strechable) 800.00 Ct.",
         "followingAuctionCode": "0019891135"
+      },
+      {
+        "start": 1790844140353,
+        "end": 1790844343593,
+        "durationMin": 3.4,
+        "precedingSku": "4527204",
+        "precedingTitle": "TJC EXCLUSIVE - Extremely Rare Hand Carved Serpentine Dragon Boat Ornament - Symbolising Strength & Perseverance With Bracelet (Size 7.5 Strechable) 800.00 Ct.",
+        "precedingAuctionCode": "0019891135",
+        "followingSku": "8800491",
+        "followingTitle": "THE MOST LUXURIOUS SHERPA BLANKETS - Plush Bliss Luxury Flannel Throw Blanket (Double) 150 x 200 ...",
+        "followingAuctionCode": "0019891115"
       }
     ],
-    "lastOnAirSku": "4527204",
-    "lastOnAirTitle": "TJC EXCLUSIVE - Extremely Rare Hand Carved Serpentine Dragon Boat Ornament - Symbolising Strength & Perseverance With Bracelet (Size 7.5 Strechable) 800.00 Ct.",
-    "lastOnAirAuctionCode": "0019891135",
+    "lastOnAirSku": "8800491",
+    "lastOnAirTitle": "THE MOST LUXURIOUS SHERPA BLANKETS - Plush Bliss Luxury Flannel Throw Blanket (Double) 150 x 200 ...",
+    "lastOnAirAuctionCode": "0019891115",
     "precedingSku": "4527204",
     "precedingTitle": "TJC EXCLUSIVE - Extremely Rare Hand Carved Serpentine Dragon Boat Ornament - Symbolising Strength & Perseverance With Bracelet (Size 7.5 Strechable) 800.00 Ct.",
     "precedingAuctionCode": "0019891135"
