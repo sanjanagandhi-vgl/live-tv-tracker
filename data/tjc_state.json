@@ -321584,17 +321584,17 @@
       "firstAir": 1788891143609,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788891681602,
-      "title": "CBD Queen- Body Oil Super Strength 30ml (900mg) - Lemongrass",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019860900",
+      "lastAir": 1790880143625,
+      "title": "CBD Queen- Body Oil Super Strength - 30ml (900mg) - Lavender",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019891575",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-08",
-      "time": "19:21:21",
+      "date": "2026-10-01",
+      "time": "19:42:23",
       "productUrl": "/products/cbd-queen-body-oil-super-strength-30ml-900mg?variant=53106302517514",
-      "lastUpdated": 1788891681602,
+      "lastUpdated": 1790880143625,
       "source": "gha",
       "productUrlChecked": 1788891684949,
       "productUrlStatus": 200,
@@ -411526,8 +411526,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790879909488,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -455890,11 +455890,22 @@
         "followingSku": "8538095",
         "followingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural Unflavoured - 10ml",
         "followingAuctionCode": "0019891572"
+      },
+      {
+        "start": 1790879909488,
+        "end": 1790880143625,
+        "durationMin": 3.9,
+        "precedingSku": "8538095",
+        "precedingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural Unflavoured - 10ml",
+        "precedingAuctionCode": "0019891572",
+        "followingSku": "8538101",
+        "followingTitle": "CBD Queen- Body Oil Super Strength - 30ml (900mg) - Lavender",
+        "followingAuctionCode": "0019891575"
       }
     ],
-    "lastOnAirSku": "8538095",
-    "lastOnAirTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural Unflavoured - 10ml",
-    "lastOnAirAuctionCode": "0019891572",
+    "lastOnAirSku": "8538101",
+    "lastOnAirTitle": "CBD Queen- Body Oil Super Strength - 30ml (900mg) - Lavender",
+    "lastOnAirAuctionCode": "0019891575",
     "precedingSku": "8538095",
     "precedingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Natural Unflavoured - 10ml",
     "precedingAuctionCode": "0019891572"
