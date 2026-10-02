@@ -415614,7 +415614,7 @@
       "firstAir": 1790953582415,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790963541311,
+      "lastAir": 1790963661762,
       "title": "Earbud and In-Ear Headphone (Size 4x3 cm) - Black",
       "pdpPrice": null,
       "auctionCode": "0019894520",
@@ -415622,9 +415622,9 @@
       "login": false,
       "img": false,
       "date": "2026-10-02",
-      "time": "18:52:21",
+      "time": "18:54:21",
       "productUrl": null,
-      "lastUpdated": 1790963541311,
+      "lastUpdated": 1790963661762,
       "source": "gha",
       "missedAt": 1790954903402,
       "missedDelay": 10,
@@ -415988,8 +415988,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790963599606,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461375,6 +461375,17 @@
         "followingSku": "8520227",
         "followingTitle": "Musical Santa Light-Up Projector Glowing Wand Toy - Red",
         "followingAuctionCode": "0019892597"
+      },
+      {
+        "start": 1790963599606,
+        "end": 1790963661762,
+        "durationMin": 1.0,
+        "precedingSku": "8354262",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019894520",
+        "followingSku": "8354262",
+        "followingTitle": null,
+        "followingAuctionCode": "0019894520"
       }
     ],
     "lastOnAirSku": "8354262",
