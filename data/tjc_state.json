@@ -303071,23 +303071,23 @@
       "sku": "8516481",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-27",
-      "time": "10:54:20",
+      "date": "2026-10-02",
+      "time": "19:45:36",
       "preExisting": true,
       "missedAt": 1788525144983,
       "missedDelay": null,
-      "lastUpdated": 1790502860656,
+      "lastUpdated": 1790966736496,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "MEGA  DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
-      "auctionCode": "0019885867",
+      "auctionCode": "0019894525",
       "source": "gha",
       "productUrl": "/products/moissanite-solitaire-stud-push-post-earring-in-platinum-overlay-sterling-silver-8516481?variant=53583054602506",
       "productUrlChecked": 1788525150817,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790502860656,
-      "pdpPrice": "19.99",
+      "lastAir": 1790966736496,
+      "pdpPrice": "799.99",
       "buy": true,
       "login": false,
       "img": true
@@ -416143,8 +416143,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790966477857,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461574,11 +461574,22 @@
         "followingSku": "8635425",
         "followingTitle": "LIVMORE 700gsm Bubble Faux Rabbit Fur & Micro Mink Cushion Cover - Cream",
         "followingAuctionCode": "0019892611"
+      },
+      {
+        "start": 1790966477857,
+        "end": 1790966736496,
+        "durationMin": 4.3,
+        "precedingSku": "8635425",
+        "precedingTitle": "LIVMORE 700gsm Bubble Faux Rabbit Fur & Micro Mink Cushion Cover - Cream",
+        "precedingAuctionCode": "0019892611",
+        "followingSku": "8516481",
+        "followingTitle": "MEGA  DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
+        "followingAuctionCode": "0019894525"
       }
     ],
-    "lastOnAirSku": "8635425",
-    "lastOnAirTitle": "LIVMORE 700gsm Bubble Faux Rabbit Fur & Micro Mink Cushion Cover - Cream",
-    "lastOnAirAuctionCode": "0019892611",
+    "lastOnAirSku": "8516481",
+    "lastOnAirTitle": "MEGA  DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019894525",
     "precedingSku": "8635425",
     "precedingTitle": "LIVMORE 700gsm Bubble Faux Rabbit Fur & Micro Mink Cushion Cover - Cream",
     "precedingAuctionCode": "0019892611"
