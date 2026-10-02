@@ -413582,11 +413582,29 @@
       "productUrlChecked": 1790920865165,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8779769": {
+      "sku": "8779769",
+      "firstAir": 1790925679728,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790925679728,
+      "title": "Lipsy Radiant Pearl EDT - 30ml",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019892575",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "08:21:19",
+      "productUrl": null,
+      "lastUpdated": 1790925679728,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790925558708,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458411,11 +458429,22 @@
         "followingSku": "8688132",
         "followingTitle": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
         "followingAuctionCode": "0019892693"
+      },
+      {
+        "start": 1790925558708,
+        "end": 1790925679728,
+        "durationMin": 2.0,
+        "precedingSku": "8688132",
+        "precedingTitle": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
+        "precedingAuctionCode": "0019892693",
+        "followingSku": "8779769",
+        "followingTitle": "Lipsy Radiant Pearl EDT - 30ml",
+        "followingAuctionCode": "0019892575"
       }
     ],
-    "lastOnAirSku": "8688132",
-    "lastOnAirTitle": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
-    "lastOnAirAuctionCode": "0019892693",
+    "lastOnAirSku": "8779769",
+    "lastOnAirTitle": "Lipsy Radiant Pearl EDT - 30ml",
+    "lastOnAirAuctionCode": "0019892575",
     "precedingSku": "8688132",
     "precedingTitle": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
     "precedingAuctionCode": "0019892693"
