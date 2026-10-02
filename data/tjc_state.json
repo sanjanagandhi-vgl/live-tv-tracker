@@ -361632,21 +361632,26 @@
       "sku": "8688132",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "16:15:37",
+      "date": "2026-10-02",
+      "time": "07:44:59",
       "preExisting": true,
       "missedAt": 1789744537901,
       "missedDelay": null,
-      "lastUpdated": 1789744537901,
+      "lastUpdated": 1790923499152,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Crossbody Bag (Size - One Size) - Navy",
-      "auctionCode": "0019875986",
+      "title": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
+      "auctionCode": "0019892693",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-black-8688129",
       "productUrlChecked": 1789744542860,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790923499152,
+      "pdpPrice": "119.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8688131": {
       "sku": "8688131",
@@ -413580,8 +413585,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790923396817,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458395,11 +458400,22 @@
         "followingSku": "8791323",
         "followingTitle": "Laurelle Gent Skin Anti-Dandruff Cleansing Shampoo with Aloevera - 250ml",
         "followingAuctionCode": "0019892592"
+      },
+      {
+        "start": 1790923396817,
+        "end": 1790923499152,
+        "durationMin": 1.7,
+        "precedingSku": "8791323",
+        "precedingTitle": "Laurelle Gent Skin Anti-Dandruff Cleansing Shampoo with Aloevera - 250ml",
+        "precedingAuctionCode": "0019892592",
+        "followingSku": "8688132",
+        "followingTitle": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
+        "followingAuctionCode": "0019892693"
       }
     ],
-    "lastOnAirSku": "8791323",
-    "lastOnAirTitle": "Laurelle Gent Skin Anti-Dandruff Cleansing Shampoo with Aloevera - 250ml",
-    "lastOnAirAuctionCode": "0019892592",
+    "lastOnAirSku": "8688132",
+    "lastOnAirTitle": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
+    "lastOnAirAuctionCode": "0019892693",
     "precedingSku": "8791323",
     "precedingTitle": "Laurelle Gent Skin Anti-Dandruff Cleansing Shampoo with Aloevera - 250ml",
     "precedingAuctionCode": "0019892592"
