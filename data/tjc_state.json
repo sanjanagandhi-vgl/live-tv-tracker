@@ -416073,11 +416073,15 @@
       "date": "2026-10-02",
       "time": "19:32:59",
       "productUrl": "/products/livmore-patterned-pillow-case-and-cover-size-75x1-cm-brown-8646022?variant=53842656002314",
-      "lastUpdated": 1790965979052,
+      "lastUpdated": 1790966543436,
       "source": "gha",
       "productUrlChecked": 1790965983444,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1790966543436,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8567118": {
       "sku": "8567118",
@@ -416116,6 +416120,26 @@
       "productUrl": null,
       "lastUpdated": 1790966433066,
       "source": "gha"
+    },
+    "8646023": {
+      "sku": "8646023",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-02",
+      "time": "19:42:23",
+      "preExisting": true,
+      "missedAt": 1790966543436,
+      "missedDelay": null,
+      "lastUpdated": 1790966543436,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "LIVMORE Patterned Pillow Case and Cover (Size 75x1 cm) - Grey",
+      "auctionCode": "0019894024",
+      "source": "gha",
+      "productUrl": "/products/livmore-patterned-pillow-case-and-cover-size-75x1-cm-brown-8646022",
+      "productUrlChecked": 1790966547073,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
