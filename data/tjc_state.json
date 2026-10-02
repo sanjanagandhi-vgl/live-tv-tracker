@@ -402850,21 +402850,26 @@
       "sku": "8667857",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-29",
-      "time": "11:24:21",
+      "date": "2026-10-02",
+      "time": "06:18:24",
       "preExisting": true,
       "missedAt": 1790677461928,
       "missedDelay": null,
-      "lastUpdated": 1790677461928,
+      "lastUpdated": 1790918304354,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Christmas Market",
-      "auctionCode": "0019888461",
+      "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+      "auctionCode": "0019892653",
       "source": "gha",
       "productUrl": "/products/livmore-candle-holder-size-one-size-white-8667855",
       "productUrlChecked": 1790677469873,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790918304354,
+      "pdpPrice": "149.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8667856": {
       "sku": "8667856",
@@ -413505,8 +413510,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790918238157,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458254,11 +458259,22 @@
         "followingSku": "7827668",
         "followingTitle": "Set Of 70 Christmas Baubles",
         "followingAuctionCode": "0019892662"
+      },
+      {
+        "start": 1790918238157,
+        "end": 1790918304354,
+        "durationMin": 1.1,
+        "precedingSku": "7827667",
+        "precedingTitle": "Set of 87 Christmas Balls; Mini multi-colour Christmas decorative hanging balls",
+        "precedingAuctionCode": "0019892661",
+        "followingSku": "8667857",
+        "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "followingAuctionCode": "0019892653"
       }
     ],
-    "lastOnAirSku": "7827667",
-    "lastOnAirTitle": "Set of 87 Christmas Balls; Mini multi-colour Christmas decorative hanging balls",
-    "lastOnAirAuctionCode": "0019892661",
+    "lastOnAirSku": "8667857",
+    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+    "lastOnAirAuctionCode": "0019892653",
     "precedingSku": "7827667",
     "precedingTitle": "Set of 87 Christmas Balls; Mini multi-colour Christmas decorative hanging balls",
     "precedingAuctionCode": "0019892661"
