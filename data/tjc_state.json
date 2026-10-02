@@ -390738,21 +390738,26 @@
       "sku": "8585291",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "15:32:24",
+      "date": "2026-10-02",
+      "time": "02:20:32",
       "preExisting": true,
       "missedAt": 1790346744225,
       "missedDelay": null,
-      "lastUpdated": 1790346744225,
+      "lastUpdated": 1790904032590,
       "missedPrice": 6.99,
       "missedImg": false,
       "title": "Ladies Oval Crystal Compact Mirror Keyring Bag Charm with Pearl Chain - Pink",
-      "auctionCode": "0019883964",
+      "auctionCode": "0019892093",
       "source": "gha",
       "productUrl": "/products/keychain-size-one-size-white-8585290",
       "productUrlChecked": 1790346749081,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790904032590,
+      "pdpPrice": "6.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8768583": {
       "sku": "8768583",
@@ -412915,8 +412920,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790903958634,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -457499,11 +457504,22 @@
         "followingSku": "8629862",
         "followingTitle": "Pack of 2 - Floral Print Square Scarves (68x68cm) - Green & Peach",
         "followingAuctionCode": "0019892097"
+      },
+      {
+        "start": 1790903958634,
+        "end": 1790904032590,
+        "durationMin": 1.2,
+        "precedingSku": "8557086",
+        "precedingTitle": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
+        "precedingAuctionCode": "0019892086",
+        "followingSku": "8585291",
+        "followingTitle": "Ladies Oval Crystal Compact Mirror Keyring Bag Charm with Pearl Chain - Pink",
+        "followingAuctionCode": "0019892093"
       }
     ],
-    "lastOnAirSku": "8557086",
-    "lastOnAirTitle": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
-    "lastOnAirAuctionCode": "0019892086",
+    "lastOnAirSku": "8585291",
+    "lastOnAirTitle": "Ladies Oval Crystal Compact Mirror Keyring Bag Charm with Pearl Chain - Pink",
+    "lastOnAirAuctionCode": "0019892093",
     "precedingSku": "8557086",
     "precedingTitle": "Antique Style Green Crystal Double Brooch with Hanging Chains (16.5cm) - Gold",
     "precedingAuctionCode": "0019892086"
