@@ -415892,11 +415892,29 @@
       "productUrlChecked": 1790959705716,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8758243": {
+      "sku": "8758243",
+      "firstAir": 1790961799954,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790961799954,
+      "title": "Abalone Shell Oval Necklace (Size - 24)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019892540",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "18:23:19",
+      "productUrl": null,
+      "lastUpdated": 1790961799954,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790961634144,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461238,11 +461256,22 @@
         "followingSku": "3335270",
         "followingTitle": "Set of 2 - Multi Colour and Green Murano Style Basket Earrings in Stainless Steel",
         "followingAuctionCode": "0019894337"
+      },
+      {
+        "start": 1790961634144,
+        "end": 1790961799954,
+        "durationMin": 2.8,
+        "precedingSku": "3335270",
+        "precedingTitle": "Set of 2 - Multi Colour and Green Murano Style Basket Earrings in Stainless Steel",
+        "precedingAuctionCode": "0019894337",
+        "followingSku": "8758243",
+        "followingTitle": "Abalone Shell Oval Necklace (Size - 24)",
+        "followingAuctionCode": "0019892540"
       }
     ],
-    "lastOnAirSku": "3335270",
-    "lastOnAirTitle": "Set of 2 - Multi Colour and Green Murano Style Basket Earrings in Stainless Steel",
-    "lastOnAirAuctionCode": "0019894337",
+    "lastOnAirSku": "8758243",
+    "lastOnAirTitle": "Abalone Shell Oval Necklace (Size - 24)",
+    "lastOnAirAuctionCode": "0019892540",
     "precedingSku": "3335270",
     "precedingTitle": "Set of 2 - Multi Colour and Green Murano Style Basket Earrings in Stainless Steel",
     "precedingAuctionCode": "0019894337"
