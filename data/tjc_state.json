@@ -413629,17 +413629,17 @@
       "firstAir": 1790925679728,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790927957654,
+      "lastAir": 1790951782129,
       "title": "Lipsy Radiant Pearl EDT - 30ml",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019892575",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019893015",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-02",
-      "time": "08:59:17",
+      "time": "15:36:22",
       "productUrl": "/products/lipsy-radiant-pearl-edt-30ml-8779769?variant=53842510446858",
-      "lastUpdated": 1790928501974,
+      "lastUpdated": 1790951782129,
       "source": "gha",
       "productUrlChecked": 1790927960944,
       "productUrlStatus": 200,
@@ -415611,8 +415611,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790951599791,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460789,11 +460789,22 @@
         "followingSku": "8687774",
         "followingTitle": "Designer Wool Cat Motif Compact Zipped Wallet - Red",
         "followingAuctionCode": "0019893164"
+      },
+      {
+        "start": 1790951599791,
+        "end": 1790951782129,
+        "durationMin": 3.0,
+        "precedingSku": "8687774",
+        "precedingTitle": "Designer Wool Cat Motif Compact Zipped Wallet - Red",
+        "precedingAuctionCode": "0019893164",
+        "followingSku": "8779769",
+        "followingTitle": "Lipsy Radiant Pearl EDT - 30ml",
+        "followingAuctionCode": "0019893015"
       }
     ],
-    "lastOnAirSku": "8687774",
-    "lastOnAirTitle": "Designer Wool Cat Motif Compact Zipped Wallet - Red",
-    "lastOnAirAuctionCode": "0019893164",
+    "lastOnAirSku": "8779769",
+    "lastOnAirTitle": "Lipsy Radiant Pearl EDT - 30ml",
+    "lastOnAirAuctionCode": "0019893015",
     "precedingSku": "8687774",
     "precedingTitle": "Designer Wool Cat Motif Compact Zipped Wallet - Red",
     "precedingAuctionCode": "0019893164"
