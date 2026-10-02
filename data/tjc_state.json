@@ -276858,17 +276858,17 @@
       "firstAir": 1788184463493,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790740237283,
+      "lastAir": 1790952862420,
       "title": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019887306",
+      "pdpPrice": "50.99",
+      "auctionCode": "0019892625",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-30",
-      "time": "04:50:37",
+      "date": "2026-10-02",
+      "time": "15:54:22",
       "productUrl": "/products/laurelle-2-piece-set-sweet-riviera-eau-de-toilette-100ml-shower-gel-100ml?variant=53104771957002",
-      "lastUpdated": 1790740237283,
+      "lastUpdated": 1790952862420,
       "source": "gha",
       "missedAt": 1788185600025,
       "missedDelay": 9,
@@ -415611,8 +415611,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790952801495,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460800,11 +460800,22 @@
         "followingSku": "8779769",
         "followingTitle": "Lipsy Radiant Pearl EDT - 30ml",
         "followingAuctionCode": "0019893015"
+      },
+      {
+        "start": 1790952801495,
+        "end": 1790952862420,
+        "durationMin": 1.0,
+        "precedingSku": "8779769",
+        "precedingTitle": "Lipsy Radiant Pearl EDT - 30ml",
+        "precedingAuctionCode": "0019893015",
+        "followingSku": "7210980",
+        "followingTitle": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
+        "followingAuctionCode": "0019892625"
       }
     ],
-    "lastOnAirSku": "8779769",
-    "lastOnAirTitle": "Lipsy Radiant Pearl EDT - 30ml",
-    "lastOnAirAuctionCode": "0019893015",
+    "lastOnAirSku": "7210980",
+    "lastOnAirTitle": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
+    "lastOnAirAuctionCode": "0019892625",
     "precedingSku": "8779769",
     "precedingTitle": "Lipsy Radiant Pearl EDT - 30ml",
     "precedingAuctionCode": "0019893015"
