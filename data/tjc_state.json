@@ -414378,11 +414378,29 @@
       "productUrlChecked": 1790938241562,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8755098": {
+      "sku": "8755098",
+      "firstAir": 1790939780363,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790939780363,
+      "title": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019893551",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-02",
+      "time": "12:16:20",
+      "productUrl": null,
+      "lastUpdated": 1790939780363,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790939733790,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -459394,11 +459412,22 @@
         "followingSku": "7744169",
         "followingTitle": "Multi Colour Murano Style Glass Floral Necklace (Size - 24)",
         "followingAuctionCode": "0019893018"
+      },
+      {
+        "start": 1790939733790,
+        "end": 1790939780363,
+        "durationMin": 0.8,
+        "precedingSku": "7744169",
+        "precedingTitle": "Multi Colour Murano Style Glass Floral Necklace (Size - 24)",
+        "precedingAuctionCode": "0019893018",
+        "followingSku": "8755098",
+        "followingTitle": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
+        "followingAuctionCode": "0019893551"
       }
     ],
-    "lastOnAirSku": "7744169",
-    "lastOnAirTitle": "Multi Colour Murano Style Glass Floral Necklace (Size - 24)",
-    "lastOnAirAuctionCode": "0019893018",
+    "lastOnAirSku": "8755098",
+    "lastOnAirTitle": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
+    "lastOnAirAuctionCode": "0019893551",
     "precedingSku": "7744169",
     "precedingTitle": "Multi Colour Murano Style Glass Floral Necklace (Size - 24)",
     "precedingAuctionCode": "0019893018"
