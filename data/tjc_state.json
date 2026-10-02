@@ -380132,21 +380132,26 @@
       "sku": "8687968",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-22",
-      "time": "14:40:38",
+      "date": "2026-10-02",
+      "time": "14:48:21",
       "preExisting": true,
       "missedAt": 1790084438066,
       "missedDelay": null,
-      "lastUpdated": 1790084438066,
+      "lastUpdated": 1790948901800,
       "missedPrice": 6.99,
       "missedImg": true,
-      "title": "Ladies Multi-colour Printed Large Travel Tote Bag - Purple",
-      "auctionCode": "0019878096",
+      "title": "Ladies Multi-colour Printed Large Travel Tote Bag - Blue, Black & Off White",
+      "auctionCode": "0019893222",
       "source": "gha",
       "productUrl": "/products/patterned-tote-bag-size-49x36x18-cm-blue-white-8687965",
       "productUrlChecked": 1790084441515,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790948901800,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8646923": {
       "sku": "8646923",
@@ -415328,8 +415333,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790948839311,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460473,11 +460478,22 @@
         "followingSku": "8502046",
         "followingTitle": "Botanical Embroidered Zip-Around Purse - Sea Blue",
         "followingAuctionCode": "0019893231"
+      },
+      {
+        "start": 1790948839311,
+        "end": 1790948901800,
+        "durationMin": 1.0,
+        "precedingSku": "8502046",
+        "precedingTitle": "Botanical Embroidered Zip-Around Purse - Sea Blue",
+        "precedingAuctionCode": "0019893231",
+        "followingSku": "8687968",
+        "followingTitle": "Ladies Multi-colour Printed Large Travel Tote Bag - Blue, Black & Off White",
+        "followingAuctionCode": "0019893222"
       }
     ],
-    "lastOnAirSku": "8502046",
-    "lastOnAirTitle": "Botanical Embroidered Zip-Around Purse - Sea Blue",
-    "lastOnAirAuctionCode": "0019893231",
+    "lastOnAirSku": "8687968",
+    "lastOnAirTitle": "Ladies Multi-colour Printed Large Travel Tote Bag - Blue, Black & Off White",
+    "lastOnAirAuctionCode": "0019893222",
     "precedingSku": "8502046",
     "precedingTitle": "Botanical Embroidered Zip-Around Purse - Sea Blue",
     "precedingAuctionCode": "0019893231"
