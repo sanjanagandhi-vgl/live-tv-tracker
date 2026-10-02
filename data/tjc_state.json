@@ -414263,11 +414263,29 @@
       "missedDelay": 8,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8778284": {
+      "sku": "8778284",
+      "firstAir": 1790935758367,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790935758367,
+      "title": "Fancy Necklace (Size - 18) Pure White Stainless Steel",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019893300",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "11:09:18",
+      "productUrl": null,
+      "lastUpdated": 1790935758367,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790935673830,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -459202,11 +459220,22 @@
         "followingSku": "8426917",
         "followingTitle": "Natural White Diamond Hoop Earrings",
         "followingAuctionCode": "0019892055"
+      },
+      {
+        "start": 1790935673830,
+        "end": 1790935758367,
+        "durationMin": 1.4,
+        "precedingSku": "8426917",
+        "precedingTitle": "Natural White Diamond Hoop Earrings",
+        "precedingAuctionCode": "0019892055",
+        "followingSku": "8778284",
+        "followingTitle": "Fancy Necklace (Size - 18) Pure White Stainless Steel",
+        "followingAuctionCode": "0019893300"
       }
     ],
-    "lastOnAirSku": "8426917",
-    "lastOnAirTitle": "Natural White Diamond Hoop Earrings",
-    "lastOnAirAuctionCode": "0019892055",
+    "lastOnAirSku": "8778284",
+    "lastOnAirTitle": "Fancy Necklace (Size - 18) Pure White Stainless Steel",
+    "lastOnAirAuctionCode": "0019893300",
     "precedingSku": "8426917",
     "precedingTitle": "Natural White Diamond Hoop Earrings",
     "precedingAuctionCode": "0019892055"
