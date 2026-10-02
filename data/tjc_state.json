@@ -412866,11 +412866,29 @@
       "auctionCode": "0019892316",
       "source": "gha",
       "productUrl": null
+    },
+    "8629862": {
+      "sku": "8629862",
+      "firstAir": 1790903059586,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790903059586,
+      "title": "Pack of 2 - Floral Print Square Scarves (68x68cm) - Green & Peach",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019892097",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "02:04:19",
+      "productUrl": null,
+      "lastUpdated": 1790903059586,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790902940287,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -457442,11 +457460,22 @@
         "followingSku": "8672243",
         "followingTitle": "BLACK FRIDAY MEGA CLOSE OUT DEAL- GRA Certified D Colour Moissanite (Rnd Brilliant Cut) (6mm) Earrings with Push Back in Rhodium Overlay Sterling Silver 1.60 Ct.",
         "followingAuctionCode": "0019892536"
+      },
+      {
+        "start": 1790902940287,
+        "end": 1790903059586,
+        "durationMin": 2.0,
+        "precedingSku": "8672243",
+        "precedingTitle": "BLACK FRIDAY MEGA CLOSE OUT DEAL- GRA Certified D Colour Moissanite (Rnd Brilliant Cut) (6mm) Earrings with Push Back in Rhodium Overlay Sterling Silver 1.60 Ct.",
+        "precedingAuctionCode": "0019892536",
+        "followingSku": "8629862",
+        "followingTitle": "Pack of 2 - Floral Print Square Scarves (68x68cm) - Green & Peach",
+        "followingAuctionCode": "0019892097"
       }
     ],
-    "lastOnAirSku": "8672243",
-    "lastOnAirTitle": "BLACK FRIDAY MEGA CLOSE OUT DEAL- GRA Certified D Colour Moissanite (Rnd Brilliant Cut) (6mm) Earrings with Push Back in Rhodium Overlay Sterling Silver 1.60 Ct.",
-    "lastOnAirAuctionCode": "0019892536",
+    "lastOnAirSku": "8629862",
+    "lastOnAirTitle": "Pack of 2 - Floral Print Square Scarves (68x68cm) - Green & Peach",
+    "lastOnAirAuctionCode": "0019892097",
     "precedingSku": "8672243",
     "precedingTitle": "BLACK FRIDAY MEGA CLOSE OUT DEAL- GRA Certified D Colour Moissanite (Rnd Brilliant Cut) (6mm) Earrings with Push Back in Rhodium Overlay Sterling Silver 1.60 Ct.",
     "precedingAuctionCode": "0019892536"
