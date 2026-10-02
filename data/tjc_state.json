@@ -293495,17 +293495,17 @@
       "firstAir": 1788405036161,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788405384276,
-      "title": "Lucy Q - Snowflake Bauble Collection Pendant with Red Ribbon",
+      "lastAir": 1790959236579,
+      "title": "Lucy Q - Star Bauble Collection Pendant with Red Ribbon",
       "pdpPrice": "4.99",
-      "auctionCode": "0019854049",
+      "auctionCode": "0019893067",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-03",
-      "time": "04:16:24",
+      "date": "2026-10-02",
+      "time": "17:40:36",
       "productUrl": "/products/lucy-q-snowflake-bauble-collection-pendant-with-red-ribbon",
-      "lastUpdated": 1788405983353,
+      "lastUpdated": 1790959236579,
       "source": "gha",
       "missedAt": 1788405983353,
       "missedDelay": 10,
@@ -415855,8 +415855,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790959176940,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461165,11 +461165,22 @@
         "followingSku": "8687349",
         "followingTitle": "Cherry Quartz Stretchable Bracelet (Size - 7) 125.00 Ct.",
         "followingAuctionCode": "0019894478"
+      },
+      {
+        "start": 1790959176940,
+        "end": 1790959236579,
+        "durationMin": 1.0,
+        "precedingSku": "8687349",
+        "precedingTitle": "Cherry Quartz Stretchable Bracelet (Size - 7  to 10) 125.00 Ct.",
+        "precedingAuctionCode": "0019894478",
+        "followingSku": "8283764",
+        "followingTitle": "Lucy Q - Star Bauble Collection Pendant with Red Ribbon",
+        "followingAuctionCode": "0019893067"
       }
     ],
-    "lastOnAirSku": "8687349",
-    "lastOnAirTitle": "Cherry Quartz Stretchable Bracelet (Size - 7  to 10) 125.00 Ct.",
-    "lastOnAirAuctionCode": "0019894478",
+    "lastOnAirSku": "8283764",
+    "lastOnAirTitle": "Lucy Q - Star Bauble Collection Pendant with Red Ribbon",
+    "lastOnAirAuctionCode": "0019893067",
     "precedingSku": "8687349",
     "precedingTitle": "Cherry Quartz Stretchable Bracelet (Size - 7  to 10) 125.00 Ct.",
     "precedingAuctionCode": "0019894478"
