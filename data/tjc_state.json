@@ -415647,11 +415647,29 @@
       "auctionCode": "0019893385",
       "source": "gha",
       "productUrl": null
+    },
+    "8697569": {
+      "sku": "8697569",
+      "firstAir": 1790955636853,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790955636853,
+      "title": "Set of 2 Women's Acrylic Hair Claw Clips - Yellow",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019893219",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "16:40:36",
+      "productUrl": null,
+      "lastUpdated": 1790955636853,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790955559122,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460883,11 +460901,22 @@
         "followingSku": "8801605",
         "followingTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
         "followingAuctionCode": "0019893190"
+      },
+      {
+        "start": 1790955559122,
+        "end": 1790955636853,
+        "durationMin": 1.3,
+        "precedingSku": "8801605",
+        "precedingTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
+        "precedingAuctionCode": "0019893190",
+        "followingSku": "8697569",
+        "followingTitle": "Set of 2 Women's Acrylic Hair Claw Clips - Yellow",
+        "followingAuctionCode": "0019893219"
       }
     ],
-    "lastOnAirSku": "8801605",
-    "lastOnAirTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
-    "lastOnAirAuctionCode": "0019893190",
+    "lastOnAirSku": "8697569",
+    "lastOnAirTitle": "Set of 2 Women's Acrylic Hair Claw Clips - Yellow",
+    "lastOnAirAuctionCode": "0019893219",
     "precedingSku": "8801605",
     "precedingTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
     "precedingAuctionCode": "0019893190"
