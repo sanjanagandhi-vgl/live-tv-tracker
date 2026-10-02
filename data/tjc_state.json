@@ -414233,11 +414233,29 @@
       "productUrlChecked": 1790932761850,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4520228": {
+      "sku": "4520228",
+      "firstAir": 1790934500658,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790934500658,
+      "title": "Push Back 925-Sterling Silver.",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019892038",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "10:48:20",
+      "productUrl": null,
+      "lastUpdated": 1790934500658,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790934440218,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -459150,11 +459168,22 @@
         "followingSku": "8579258",
         "followingTitle": "High Lustre Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
         "followingAuctionCode": "0019891086"
+      },
+      {
+        "start": 1790934440218,
+        "end": 1790934500658,
+        "durationMin": 1.0,
+        "precedingSku": "8579258",
+        "precedingTitle": "High Lustre Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
+        "precedingAuctionCode": "0019891086",
+        "followingSku": "4520228",
+        "followingTitle": "Push Back 925-Sterling Silver.",
+        "followingAuctionCode": "0019892038"
       }
     ],
-    "lastOnAirSku": "8579258",
-    "lastOnAirTitle": "High Lustre Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
-    "lastOnAirAuctionCode": "0019891086",
+    "lastOnAirSku": "4520228",
+    "lastOnAirTitle": "Push Back 925-Sterling Silver.",
+    "lastOnAirAuctionCode": "0019892038",
     "precedingSku": "8579258",
     "precedingTitle": "High Lustre Fresh Water Pearl Adjustable Necklace (Size - 18-2 Ext)",
     "precedingAuctionCode": "0019891086"
