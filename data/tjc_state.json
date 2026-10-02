@@ -415708,11 +415708,15 @@
       "date": "2026-10-02",
       "time": "17:17:18",
       "productUrl": "/products/livmore-candle-holder-size-one-size-white-8667855?variant=53822892966154",
-      "lastUpdated": 1790957838580,
+      "lastUpdated": 1790958334300,
       "source": "gha",
       "productUrlChecked": 1790957841571,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1790958334300,
+      "missedDelay": 8,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8750394": {
       "sku": "8750394",
@@ -415752,11 +415756,51 @@
       "productUrlChecked": 1790958270303,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8667890": {
+      "sku": "8667890",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-02",
+      "time": "17:25:34",
+      "preExisting": true,
+      "missedAt": 1790958334300,
+      "missedDelay": null,
+      "lastUpdated": 1790958334300,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Robin",
+      "auctionCode": "0019893211",
+      "source": "gha",
+      "productUrl": "/products/livmore-candle-holder-size-one-size-white-8667855",
+      "productUrlChecked": 1790958337541,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8667889": {
+      "sku": "8667889",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-02",
+      "time": "17:25:34",
+      "preExisting": true,
+      "missedAt": 1790958334300,
+      "missedDelay": null,
+      "lastUpdated": 1790958334300,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Angel",
+      "auctionCode": "0019893210",
+      "source": "gha",
+      "productUrl": "/products/livmore-candle-holder-size-one-size-white-8667855",
+      "productUrlChecked": 1790958338023,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790958334300,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461048,8 +461092,8 @@
     "lastOnAirSku": "8663134",
     "lastOnAirTitle": "LA Closeout Deals Multi colour Golden, Peacock, Silver & white Fresh Water Pearl Necklace (Size -...",
     "lastOnAirAuctionCode": "0019893060",
-    "precedingSku": "8750327",
-    "precedingTitle": "Ceramic Bracelet (Size - 7.5+2 Ext) with Lobster Clasp 100.00 Ct.",
-    "precedingAuctionCode": "0019893075"
+    "precedingSku": "8663134",
+    "precedingTitle": "LA Closeout Deals Multi colour Golden, Peacock, Silver & white Fresh Water Pearl Necklace (Size -...",
+    "precedingAuctionCode": "0019893060"
   }
 }
