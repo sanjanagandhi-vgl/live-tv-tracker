@@ -205068,21 +205068,26 @@
       "sku": "8205084",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-20",
-      "time": "18:58:26",
+      "date": "2026-10-02",
+      "time": "09:34:20",
       "preExisting": true,
       "missedAt": 1787248706126,
       "missedDelay": null,
-      "lastUpdated": 1787248706126,
+      "lastUpdated": 1790930060524,
       "missedPrice": 5.99,
       "missedImg": true,
       "title": "Designer Closeout Deal - Beanie Hat & Fingerless Glove Set with Colourful Button Accents - Black",
-      "auctionCode": "0019833968",
+      "auctionCode": "0019892873",
       "source": "gha",
       "productUrl": "/products/beanie-hat-glove-set-with-colorful-button-accents",
       "productUrlChecked": 1787248718374,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790930060524,
+      "pdpPrice": "5.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8205085": {
       "sku": "8205085",
@@ -413686,8 +413691,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790929997818,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458545,11 +458550,22 @@
         "followingSku": "7853994",
         "followingTitle": "La Marey Plush Vest with Zipper",
         "followingAuctionCode": "0019892849"
+      },
+      {
+        "start": 1790929997818,
+        "end": 1790930060524,
+        "durationMin": 1.0,
+        "precedingSku": "7853994",
+        "precedingTitle": "La Marey Plush Vest with Zipper",
+        "precedingAuctionCode": "0019892849",
+        "followingSku": "8205084",
+        "followingTitle": "Designer Closeout Deal - Beanie Hat & Fingerless Glove Set with Colourful Button Accents - Black",
+        "followingAuctionCode": "0019892873"
       }
     ],
-    "lastOnAirSku": "7853994",
-    "lastOnAirTitle": "La Marey Plush Vest with Zipper",
-    "lastOnAirAuctionCode": "0019892849",
+    "lastOnAirSku": "8205084",
+    "lastOnAirTitle": "Designer Closeout Deal - Beanie Hat & Fingerless Glove Set with Colourful Button Accents - Black",
+    "lastOnAirAuctionCode": "0019892873",
     "precedingSku": "7853994",
     "precedingTitle": "La Marey Plush Vest with Zipper",
     "precedingAuctionCode": "0019892849"
