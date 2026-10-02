@@ -415732,9 +415732,16 @@
       "img": true,
       "date": "2026-10-02",
       "time": "17:21:20",
-      "productUrl": null,
-      "lastUpdated": 1790958080052,
-      "source": "gha"
+      "productUrl": "/products/ceramic-white-fresh-water-pearl-necklace-size-20-with-senorita-clasp-245-00-ct-8750394",
+      "lastUpdated": 1790958653536,
+      "source": "gha",
+      "missedAt": 1790958653536,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1790958657207,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8663134": {
       "sku": "8663134",
@@ -415817,8 +415824,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790958653536,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461121,8 +461128,8 @@
     "lastOnAirSku": "8712472",
     "lastOnAirTitle": "Purple Amethyst Elegant Adjustable Bypass Ring in Gold Tone 6.70 Ct.",
     "lastOnAirAuctionCode": "0019892719",
-    "precedingSku": "8663134",
-    "precedingTitle": "LA Closeout Deals Multi colour Golden, Peacock, Silver & white Fresh Water Pearl Necklace (Size -...",
-    "precedingAuctionCode": "0019893060"
+    "precedingSku": "8712472",
+    "precedingTitle": "Purple Amethyst Elegant Adjustable Bypass Ring in Gold Tone 6.70 Ct.",
+    "precedingAuctionCode": "0019892719"
   }
 }
