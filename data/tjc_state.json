@@ -413665,11 +413665,29 @@
       "productUrl": null,
       "lastUpdated": 1790929702221,
       "source": "gha"
+    },
+    "7853994": {
+      "sku": "7853994",
+      "firstAir": 1790929846745,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790929846745,
+      "title": "La Marey Plush Vest with Zipper",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019892849",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "09:30:46",
+      "productUrl": null,
+      "lastUpdated": 1790929846745,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790929761139,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458516,11 +458534,22 @@
         "followingSku": "8624985",
         "followingTitle": "Heat Machine Ladies 1Pk Cable Knit Footless Tights (Size S-M, 10-12) - Black",
         "followingAuctionCode": "0019893180"
+      },
+      {
+        "start": 1790929761139,
+        "end": 1790929846745,
+        "durationMin": 1.4,
+        "precedingSku": "8624985",
+        "precedingTitle": "Heat Machine 300 Denier Thermal Leggings (Size S-M, 10-12) - Black",
+        "precedingAuctionCode": "0019893180",
+        "followingSku": "7853994",
+        "followingTitle": "La Marey Plush Vest with Zipper",
+        "followingAuctionCode": "0019892849"
       }
     ],
-    "lastOnAirSku": "8624985",
-    "lastOnAirTitle": "Heat Machine 300 Denier Thermal Leggings (Size S-M, 10-12) - Black",
-    "lastOnAirAuctionCode": "0019893180",
+    "lastOnAirSku": "7853994",
+    "lastOnAirTitle": "La Marey Plush Vest with Zipper",
+    "lastOnAirAuctionCode": "0019892849",
     "precedingSku": "8624985",
     "precedingTitle": "Heat Machine 300 Denier Thermal Leggings (Size S-M, 10-12) - Black",
     "precedingAuctionCode": "0019893180"
