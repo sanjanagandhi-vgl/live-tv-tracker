@@ -293008,17 +293008,17 @@
       "firstAir": 1788397762470,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790660661717,
+      "lastAir": 1790921357640,
       "title": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
-      "pdpPrice": 6.99,
-      "auctionCode": "0019888062",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019892797",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-29",
-      "time": "06:44:21",
+      "date": "2026-10-02",
+      "time": "07:09:17",
       "productUrl": "/products/cyclax-cocoa-butter-rich-body-cream-8739949?variant=53504169902346",
-      "lastUpdated": 1790660661717,
+      "lastUpdated": 1790921357640,
       "source": "gha",
       "missedAt": 1788398357923,
       "missedDelay": 10,
@@ -413575,8 +413575,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790921237768,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458357,11 +458357,22 @@
         "followingSku": "8666788",
         "followingTitle": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
         "followingAuctionCode": "0019892690"
+      },
+      {
+        "start": 1790921237768,
+        "end": 1790921357640,
+        "durationMin": 2.0,
+        "precedingSku": "8666788",
+        "precedingTitle": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
+        "precedingAuctionCode": "0019892690",
+        "followingSku": "8739949",
+        "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+        "followingAuctionCode": "0019892797"
       }
     ],
-    "lastOnAirSku": "8666788",
-    "lastOnAirTitle": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
-    "lastOnAirAuctionCode": "0019892690",
+    "lastOnAirSku": "8739949",
+    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+    "lastOnAirAuctionCode": "0019892797",
     "precedingSku": "8666788",
     "precedingTitle": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
     "precedingAuctionCode": "0019892690"
