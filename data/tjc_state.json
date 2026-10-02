@@ -290467,17 +290467,17 @@
       "firstAir": 1788375439026,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788375984019,
+      "lastAir": 1790970677769,
       "title": "STRADA Limited Edition Elephant Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
-      "pdpPrice": "14.99",
-      "auctionCode": "0019853980",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019883132",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-02",
-      "time": "20:06:24",
+      "date": "2026-10-02",
+      "time": "20:51:17",
       "productUrl": "/products/strada-watch-pure-white-stainless-steel-8576285",
-      "lastUpdated": 1788376538232,
+      "lastUpdated": 1790970677769,
       "source": "gha",
       "missedAt": 1788376538232,
       "missedDelay": 9,
@@ -416255,9 +416255,16 @@
       "img": true,
       "date": "2026-10-02",
       "time": "20:42:24",
-      "productUrl": null,
-      "lastUpdated": 1790970144171,
-      "source": "gha"
+      "productUrl": "/products/keychain-size-one-size-white-8526608",
+      "lastUpdated": 1790970677769,
+      "source": "gha",
+      "missedAt": 1790970677769,
+      "missedDelay": 9,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "productUrlChecked": 1790970686268,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8526608": {
       "sku": "8526608",
@@ -416279,8 +416286,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790970501822,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461776,11 +461783,22 @@
         "followingSku": "8574514",
         "followingTitle": "Set of 2 Printed Tote Bag with Matching Pouch - Black & White",
         "followingAuctionCode": "0019893120"
+      },
+      {
+        "start": 1790970501822,
+        "end": 1790970677769,
+        "durationMin": 2.9,
+        "precedingSku": "8574514",
+        "precedingTitle": "Set of 2 Printed Tote Bag with Matching Pouch - Black & White",
+        "precedingAuctionCode": "0019893120",
+        "followingSku": "8576285",
+        "followingTitle": "STRADA Limited Edition Elephant Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
+        "followingAuctionCode": "0019883132"
       }
     ],
-    "lastOnAirSku": "8574514",
-    "lastOnAirTitle": "Set of 2 Printed Tote Bag with Matching Pouch - Black & White",
-    "lastOnAirAuctionCode": "0019893120",
+    "lastOnAirSku": "8576285",
+    "lastOnAirTitle": "STRADA Limited Edition Elephant Pocket Watch With Japanese Movement, Water Resistancy & 31 Inch Curb Chain",
+    "lastOnAirAuctionCode": "0019883132",
     "precedingSku": "8574514",
     "precedingTitle": "Set of 2 Printed Tote Bag with Matching Pouch - Black & White",
     "precedingAuctionCode": "0019893120"
