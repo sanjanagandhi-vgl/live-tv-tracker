@@ -389880,18 +389880,23 @@
       "sku": "8791323",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "09:50:35",
+      "date": "2026-10-02",
+      "time": "07:38:22",
       "preExisting": true,
       "missedAt": 1790326235712,
       "missedDelay": null,
-      "lastUpdated": 1790326235712,
+      "lastUpdated": 1790923102543,
       "missedPrice": 3.99,
       "missedImg": false,
       "title": "Laurelle Gent Skin Anti-Dandruff Cleansing Shampoo with Aloevera - 250ml",
-      "auctionCode": "0019883293",
+      "auctionCode": "0019892592",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1790923102543,
+      "pdpPrice": "3.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8791322": {
       "sku": "8791322",
@@ -413575,8 +413580,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790923041386,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458379,11 +458384,22 @@
         "followingSku": "8791324",
         "followingTitle": "Laurelle Gent Skin Pour Homme Eau De Toilette Spray Fragrance for Men - 100ml",
         "followingAuctionCode": "0019892606"
+      },
+      {
+        "start": 1790923041386,
+        "end": 1790923102543,
+        "durationMin": 1.0,
+        "precedingSku": "8791324",
+        "precedingTitle": "Laurelle Gent Skin Pour Homme Eau De Toilette Spray Fragrance for Men - 100ml",
+        "precedingAuctionCode": "0019892606",
+        "followingSku": "8791323",
+        "followingTitle": "Laurelle Gent Skin Anti-Dandruff Cleansing Shampoo with Aloevera - 250ml",
+        "followingAuctionCode": "0019892592"
       }
     ],
-    "lastOnAirSku": "8791324",
-    "lastOnAirTitle": "Laurelle Gent Skin Pour Homme Eau De Toilette Spray Fragrance for Men - 100ml",
-    "lastOnAirAuctionCode": "0019892606",
+    "lastOnAirSku": "8791323",
+    "lastOnAirTitle": "Laurelle Gent Skin Anti-Dandruff Cleansing Shampoo with Aloevera - 250ml",
+    "lastOnAirAuctionCode": "0019892592",
     "precedingSku": "8791324",
     "precedingTitle": "Laurelle Gent Skin Pour Homme Eau De Toilette Spray Fragrance for Men - 100ml",
     "precedingAuctionCode": "0019892606"
