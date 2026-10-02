@@ -332766,23 +332766,23 @@
       "sku": "8664240",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "02:06:22",
+      "date": "2026-10-02",
+      "time": "05:29:18",
       "preExisting": true,
       "missedAt": 1789098265652,
       "missedDelay": null,
-      "lastUpdated": 1789693582254,
+      "lastUpdated": 1790915358393,
       "missedPrice": 5.99,
       "missedImg": true,
       "title": "Black Agate Adjustable Tree of Life Drop Necklace (Size - 18-2 Ext) 45.00 Ct.",
-      "auctionCode": "0019874755",
+      "auctionCode": "0019892370",
       "source": "gha",
       "productUrl": "/products/black-agate-adjustable-tree-of-life-drop-necklace-size-18-2-ext-45-00-ct-8664240?variant=53505134067978",
       "productUrlChecked": 1789098269212,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789693582254,
-      "pdpPrice": 5.99,
+      "lastAir": 1790915358393,
+      "pdpPrice": "5.99",
       "buy": true,
       "login": false,
       "img": true
@@ -413430,8 +413430,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790915301763,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458135,11 +458135,22 @@
         "followingSku": "8666318",
         "followingTitle": "White Keshi Pearl & White Fresh Water Pearl Adjustable Beads Bracelet (Size 6.5-9)",
         "followingAuctionCode": "0019892366"
+      },
+      {
+        "start": 1790915301763,
+        "end": 1790915358393,
+        "durationMin": 0.9,
+        "precedingSku": "8696751",
+        "precedingTitle": "White Shell Pearl & Multi Crystal Blooming Flower Adjustable Necklace (Size - 18-2 Ext) 235.00 Ct.",
+        "precedingAuctionCode": "0019892367",
+        "followingSku": "8664240",
+        "followingTitle": "Black Agate Adjustable Tree of Life Drop Necklace (Size - 18-2 Ext) 45.00 Ct.",
+        "followingAuctionCode": "0019892370"
       }
     ],
-    "lastOnAirSku": "8696751",
-    "lastOnAirTitle": "White Shell Pearl & Multi Crystal Blooming Flower Adjustable Necklace (Size - 18-2 Ext) 235.00 Ct.",
-    "lastOnAirAuctionCode": "0019892367",
+    "lastOnAirSku": "8664240",
+    "lastOnAirTitle": "Black Agate Adjustable Tree of Life Drop Necklace (Size - 18-2 Ext) 45.00 Ct.",
+    "lastOnAirAuctionCode": "0019892370",
     "precedingSku": "8696751",
     "precedingTitle": "White Shell Pearl & Multi Crystal Blooming Flower Adjustable Necklace (Size - 18-2 Ext) 235.00 Ct.",
     "precedingAuctionCode": "0019892367"
