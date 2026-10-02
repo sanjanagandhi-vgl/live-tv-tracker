@@ -414465,7 +414465,7 @@
       "tvPrice": "",
       "remarks": "",
       "lastAir": 1790941880062,
-      "title": null,
+      "title": "3 Layer Velvet Jewellery Box with Mirror Inside and Lock (Size 12 Cm) - Black",
       "pdpPrice": null,
       "auctionCode": "0019893304",
       "buy": true,
@@ -414474,8 +414474,12 @@
       "date": "2026-10-02",
       "time": "12:51:20",
       "productUrl": null,
-      "lastUpdated": 1790941880062,
-      "source": "gha"
+      "lastUpdated": 1790942461152,
+      "source": "gha",
+      "missedAt": 1790942461152,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": false
     },
     "8282374": {
       "sku": "8282374",
@@ -414536,11 +414540,45 @@
       "productUrlChecked": 1790942002151,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "6298114": {
+      "sku": "6298114",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-02",
+      "time": "13:01:01",
+      "preExisting": true,
+      "missedAt": 1790942461152,
+      "missedDelay": null,
+      "lastUpdated": 1790942461152,
+      "missedPrice": 9.99,
+      "missedImg": false,
+      "title": "3 Layer Velvet Jewellery Box with Mirror Inside and Lock (Size 12 Cm) - Red",
+      "auctionCode": "0019893306",
+      "source": "gha",
+      "productUrl": null
+    },
+    "6298112": {
+      "sku": "6298112",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-02",
+      "time": "13:01:01",
+      "preExisting": true,
+      "missedAt": 1790942461152,
+      "missedDelay": null,
+      "lastUpdated": 1790942461152,
+      "missedPrice": 9.99,
+      "missedImg": false,
+      "title": "3 Layer Velvet Jewellery Box with Mirror Inside and Lock (Size 12 Cm) - Navy",
+      "auctionCode": "0019893305",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790942461152,
     "gaps": [
       {
         "start": 1785823527869,
@@ -459590,8 +459628,8 @@
     "lastOnAirSku": "4446146",
     "lastOnAirTitle": "White Crystal Star Enamel Pendant with Chain (Size 24) & Lobster Clasp in Yellow and Black Tone",
     "lastOnAirAuctionCode": "0019892043",
-    "precedingSku": "6298111",
-    "precedingTitle": null,
-    "precedingAuctionCode": "0019893304"
+    "precedingSku": "4446146",
+    "precedingTitle": "White Crystal Star Enamel Pendant with Chain (Size 24) & Lobster Clasp in Yellow and Black Tone",
+    "precedingAuctionCode": "0019892043"
   }
 }
