@@ -415913,11 +415913,29 @@
       "productUrlChecked": 1790961934301,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "6291319": {
+      "sku": "6291319",
+      "firstAir": 1790962039513,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790962039513,
+      "title": "Handcrafted Rose Flower Bear with Bow - Pink",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019892985",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "18:27:19",
+      "productUrl": null,
+      "lastUpdated": 1790962039513,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790961980964,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461270,11 +461288,22 @@
         "followingSku": "8758243",
         "followingTitle": "Abalone Shell Oval Necklace (Size - 24)",
         "followingAuctionCode": "0019892540"
+      },
+      {
+        "start": 1790961980964,
+        "end": 1790962039513,
+        "durationMin": 1.0,
+        "precedingSku": "8758243",
+        "precedingTitle": "Abalone Shell Oval Necklace (Size - 24)",
+        "precedingAuctionCode": "0019892540",
+        "followingSku": "6291319",
+        "followingTitle": "Handcrafted Rose Flower Bear with Bow - Pink",
+        "followingAuctionCode": "0019892985"
       }
     ],
-    "lastOnAirSku": "8758243",
-    "lastOnAirTitle": "Abalone Shell Oval Necklace (Size - 24)",
-    "lastOnAirAuctionCode": "0019892540",
+    "lastOnAirSku": "6291319",
+    "lastOnAirTitle": "Handcrafted Rose Flower Bear with Bow - Pink",
+    "lastOnAirAuctionCode": "0019892985",
     "precedingSku": "8758243",
     "precedingTitle": "Abalone Shell Oval Necklace (Size - 24)",
     "precedingAuctionCode": "0019892540"
