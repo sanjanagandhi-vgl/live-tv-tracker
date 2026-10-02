@@ -415335,11 +415335,29 @@
       "productUrlChecked": 1790948184781,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8808062": {
+      "sku": "8808062",
+      "firstAir": 1790950159617,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790950159617,
+      "title": "Herringbone Tweed Slippers (Size 3) - Black",
+      "pdpPrice": "50.99",
+      "auctionCode": "0019893714",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "15:09:19",
+      "productUrl": null,
+      "lastUpdated": 1790950159617,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790950102192,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460494,11 +460512,22 @@
         "followingSku": "8687968",
         "followingTitle": "Ladies Multi-colour Printed Large Travel Tote Bag - Blue, Black & Off White",
         "followingAuctionCode": "0019893222"
+      },
+      {
+        "start": 1790950102192,
+        "end": 1790950159617,
+        "durationMin": 1.0,
+        "precedingSku": "8688130",
+        "precedingTitle": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
+        "precedingAuctionCode": "0019894001",
+        "followingSku": "8808062",
+        "followingTitle": "Herringbone Tweed Slippers (Size 3) - Black",
+        "followingAuctionCode": "0019893714"
       }
     ],
-    "lastOnAirSku": "8688130",
-    "lastOnAirTitle": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
-    "lastOnAirAuctionCode": "0019894001",
+    "lastOnAirSku": "8808062",
+    "lastOnAirTitle": "Herringbone Tweed Slippers (Size 3) - Black",
+    "lastOnAirAuctionCode": "0019893714",
     "precedingSku": "8688130",
     "precedingTitle": "Set of 2 Ladies Lightweight Crossbody Shoulder Bag with Leather Trim - Black",
     "precedingAuctionCode": "0019894001"
