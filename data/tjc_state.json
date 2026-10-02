@@ -413507,11 +413507,29 @@
       "productUrlChecked": 1790917110884,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8520304": {
+      "sku": "8520304",
+      "firstAir": 1790918634564,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790918634564,
+      "title": "TJC Special Diffuser (Size - One Size) - Green",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019892607",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-02",
+      "time": "06:23:54",
+      "productUrl": null,
+      "lastUpdated": 1790918634564,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790918543005,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458270,11 +458288,22 @@
         "followingSku": "8667857",
         "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
         "followingAuctionCode": "0019892653"
+      },
+      {
+        "start": 1790918543005,
+        "end": 1790918634564,
+        "durationMin": 1.5,
+        "precedingSku": "8667857",
+        "precedingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "precedingAuctionCode": "0019892653",
+        "followingSku": "8520304",
+        "followingTitle": "TJC Special Diffuser (Size - One Size) - Green",
+        "followingAuctionCode": "0019892607"
       }
     ],
-    "lastOnAirSku": "8667857",
-    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
-    "lastOnAirAuctionCode": "0019892653",
+    "lastOnAirSku": "8520304",
+    "lastOnAirTitle": "TJC Special Diffuser (Size - One Size) - Green",
+    "lastOnAirAuctionCode": "0019892607",
     "precedingSku": "8667857",
     "precedingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
     "precedingAuctionCode": "0019892653"
