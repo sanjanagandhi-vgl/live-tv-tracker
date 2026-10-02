@@ -356567,23 +356567,23 @@
       "sku": "8620504",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-01",
-      "time": "15:14:24",
+      "date": "2026-10-02",
+      "time": "10:25:27",
       "preExisting": true,
       "missedAt": 1789638503073,
       "missedDelay": null,
-      "lastUpdated": 1790864064944,
+      "lastUpdated": 1790933127464,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "Sterling Silver Hoop Earring",
-      "auctionCode": "0019892596",
+      "auctionCode": "0019892854",
       "source": "gha",
       "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8620504?variant=53191670726922",
       "productUrlChecked": 1789638507692,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790864064944,
-      "pdpPrice": "9.99",
+      "lastAir": 1790933127464,
+      "pdpPrice": "39.99",
       "buy": true,
       "login": false,
       "img": true
@@ -414183,11 +414183,15 @@
       "date": "2026-10-02",
       "time": "10:16:22",
       "productUrl": "/products/natural-baltic-light-yellow-amber-stretchable-bracelet-150-00-ct-8696582?variant=53427359023370",
-      "lastUpdated": 1790932582573,
+      "lastUpdated": 1790933127464,
       "source": "gha",
       "productUrlChecked": 1790932585308,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1790933127464,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": false
     },
     "8783278": {
       "sku": "8783278",
@@ -414232,8 +414236,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790933061945,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -459113,11 +459117,22 @@
         "followingSku": "8686852",
         "followingTitle": "La Marey Signature Striped Long Scarf (180 x 65cm) - Light Grey, Beige & Black",
         "followingAuctionCode": "0019891039"
+      },
+      {
+        "start": 1790933061945,
+        "end": 1790933127464,
+        "durationMin": 1.1,
+        "precedingSku": "8577149",
+        "precedingTitle": "One Time Deal-Morganite and Aquamarine Necklace (Size - 18-2 Ext) with Lobster Clasp.",
+        "precedingAuctionCode": "0019891093",
+        "followingSku": "8620504",
+        "followingTitle": "Sterling Silver Hoop Earring",
+        "followingAuctionCode": "0019892854"
       }
     ],
-    "lastOnAirSku": "8577149",
-    "lastOnAirTitle": "One Time Deal-Morganite and Aquamarine Necklace (Size - 18-2 Ext) with Lobster Clasp.",
-    "lastOnAirAuctionCode": "0019891093",
+    "lastOnAirSku": "8620504",
+    "lastOnAirTitle": "Sterling Silver Hoop Earring",
+    "lastOnAirAuctionCode": "0019892854",
     "precedingSku": "8577149",
     "precedingTitle": "One Time Deal-Morganite and Aquamarine Necklace (Size - 18-2 Ext) with Lobster Clasp.",
     "precedingAuctionCode": "0019891093"
