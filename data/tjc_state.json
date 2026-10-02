@@ -59673,23 +59673,23 @@
       "sku": "8666788",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-01",
-      "time": "11:47:18",
+      "date": "2026-10-02",
+      "time": "06:52:25",
       "preExisting": true,
       "missedAt": 1785693503671,
       "missedDelay": null,
-      "lastUpdated": 1788259638732,
+      "lastUpdated": 1790920345667,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
-      "auctionCode": "0019852311",
+      "auctionCode": "0019892690",
       "source": "gha",
       "productUrl": "/products/multipurpose-cleaning-caddy-storage-organizer-with-adjustable-strap-black-8666787",
       "productUrlChecked": 1785693511837,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1788259638732,
-      "pdpPrice": "12.99",
+      "lastAir": 1790920345667,
+      "pdpPrice": "29.99",
       "buy": true,
       "login": false,
       "img": true
@@ -413528,8 +413528,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790920278784,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -458299,11 +458299,22 @@
         "followingSku": "8520304",
         "followingTitle": "TJC Special Diffuser (Size - One Size) - Green",
         "followingAuctionCode": "0019892607"
+      },
+      {
+        "start": 1790920278784,
+        "end": 1790920345667,
+        "durationMin": 1.1,
+        "precedingSku": "8520304",
+        "precedingTitle": "Bauble Fragrance Reed Diffuser (100ml) - Green",
+        "precedingAuctionCode": "0019892607",
+        "followingSku": "8666788",
+        "followingTitle": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
+        "followingAuctionCode": "0019892690"
       }
     ],
-    "lastOnAirSku": "8520304",
-    "lastOnAirTitle": "Bauble Fragrance Reed Diffuser (100ml) - Green",
-    "lastOnAirAuctionCode": "0019892607",
+    "lastOnAirSku": "8666788",
+    "lastOnAirTitle": "Multipurpose Caddy Storage Organizer with Adjustable Straps - Blue",
+    "lastOnAirAuctionCode": "0019892690",
     "precedingSku": "8520304",
     "precedingTitle": "Bauble Fragrance Reed Diffuser (100ml) - Green",
     "precedingAuctionCode": "0019892607"
