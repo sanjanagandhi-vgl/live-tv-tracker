@@ -414341,17 +414341,17 @@
       "firstAir": 1790935758367,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790947398497,
+      "lastAir": 1790979798320,
       "title": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
       "pdpPrice": "9.99",
-      "auctionCode": "0019893512",
+      "auctionCode": "0019894534",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-02",
-      "time": "14:23:18",
+      "time": "23:23:18",
       "productUrl": "/products/fancy-necklace-size-18-pure-white-stainless-steel-8778284",
-      "lastUpdated": 1790947398497,
+      "lastUpdated": 1790979798320,
       "source": "gha",
       "missedAt": 1790936957892,
       "missedDelay": 10,
@@ -416409,8 +416409,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790979742237,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -462060,11 +462060,22 @@
         "followingSku": "4520228",
         "followingTitle": "Set of 5 - Push Back 925-Sterling Silver.",
         "followingAuctionCode": "0019893511"
+      },
+      {
+        "start": 1790979742237,
+        "end": 1790979798320,
+        "durationMin": 0.9,
+        "precedingSku": "8479470",
+        "precedingTitle": "EverTrue - Blue Turquoise Solitaire Ring in Yellow Gold Tone 5.90 Ct.",
+        "precedingAuctionCode": "0019893448",
+        "followingSku": "8778284",
+        "followingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
+        "followingAuctionCode": "0019894534"
       }
     ],
-    "lastOnAirSku": "8479470",
-    "lastOnAirTitle": "EverTrue - Blue Turquoise Solitaire Ring in Yellow Gold Tone 5.90 Ct.",
-    "lastOnAirAuctionCode": "0019893448",
+    "lastOnAirSku": "8778284",
+    "lastOnAirTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019894534",
     "precedingSku": "8479470",
     "precedingTitle": "EverTrue - Blue Turquoise Solitaire Ring in Yellow Gold Tone 5.90 Ct.",
     "precedingAuctionCode": "0019893448"
