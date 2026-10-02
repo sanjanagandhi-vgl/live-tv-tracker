@@ -415253,17 +415253,17 @@
       "firstAir": 1790943634092,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790944700941,
+      "lastAir": 1790959399140,
       "title": "EverTrue - Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
-      "pdpPrice": 7.99,
-      "auctionCode": "0019893323",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019894192",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-02",
-      "time": "13:38:20",
+      "time": "17:43:19",
       "productUrl": "/products/white-diamond-pendant-with-chain-size-20-stainless-steel-0-005-ct-4528713?variant=53807629959434",
-      "lastUpdated": 1790945275044,
+      "lastUpdated": 1790959399140,
       "source": "gha",
       "productUrlChecked": 1790944704241,
       "productUrlStatus": 200,
@@ -415855,8 +415855,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790959278259,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461176,11 +461176,22 @@
         "followingSku": "8283764",
         "followingTitle": "Lucy Q - Star Bauble Collection Pendant with Red Ribbon",
         "followingAuctionCode": "0019893067"
+      },
+      {
+        "start": 1790959278259,
+        "end": 1790959399140,
+        "durationMin": 2.0,
+        "precedingSku": "8283764",
+        "precedingTitle": "Lucy Q - Star Bauble Collection Pendant with Red Ribbon",
+        "precedingAuctionCode": "0019893067",
+        "followingSku": "4528713",
+        "followingTitle": "EverTrue - Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+        "followingAuctionCode": "0019894192"
       }
     ],
-    "lastOnAirSku": "8283764",
-    "lastOnAirTitle": "Lucy Q - Star Bauble Collection Pendant with Red Ribbon",
-    "lastOnAirAuctionCode": "0019893067",
+    "lastOnAirSku": "4528713",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019894192",
     "precedingSku": "8283764",
     "precedingTitle": "Lucy Q - Star Bauble Collection Pendant with Red Ribbon",
     "precedingAuctionCode": "0019893067"
