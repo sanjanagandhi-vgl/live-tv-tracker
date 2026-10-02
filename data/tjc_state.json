@@ -415608,11 +415608,29 @@
       "productUrlChecked": 1790951454260,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8354262": {
+      "sku": "8354262",
+      "firstAir": 1790953582415,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790953582415,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019892987",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-02",
+      "time": "16:06:22",
+      "productUrl": null,
+      "lastUpdated": 1790953582415,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790953464555,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460811,11 +460829,22 @@
         "followingSku": "7210980",
         "followingTitle": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
         "followingAuctionCode": "0019892625"
+      },
+      {
+        "start": 1790953464555,
+        "end": 1790953582415,
+        "durationMin": 2.0,
+        "precedingSku": "7210980",
+        "precedingTitle": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
+        "precedingAuctionCode": "0019892625",
+        "followingSku": "8354262",
+        "followingTitle": null,
+        "followingAuctionCode": "0019892987"
       }
     ],
-    "lastOnAirSku": "7210980",
-    "lastOnAirTitle": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
-    "lastOnAirAuctionCode": "0019892625",
+    "lastOnAirSku": "8354262",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019892987",
     "precedingSku": "7210980",
     "precedingTitle": "Laurelle 2 Piece Set - Sweet Riviera Eau de Parfum & Shower Gel - 100ml each",
     "precedingAuctionCode": "0019892625"
