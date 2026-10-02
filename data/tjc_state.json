@@ -27790,23 +27790,23 @@
       "sku": "4470332",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-04",
-      "time": "20:17:20",
+      "date": "2026-10-02",
+      "time": "01:22:21",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1788549440890,
+      "lastUpdated": 1790900541671,
       "missedPrice": 7.99,
       "missedImg": false,
       "title": "Set of 3 - EverTrue Multi Diamond Pendant",
-      "auctionCode": "0019856960",
+      "auctionCode": "0019892298",
       "source": "gha",
       "productUrl": "/products/set-of-3-evertrue-multi-diamond-pendant-4470332",
       "productUrlChecked": 1785474937883,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1788549440890,
-      "pdpPrice": "9.99",
+      "lastAir": 1790900541671,
+      "pdpPrice": "29.99",
       "buy": true,
       "login": false,
       "img": false
@@ -412737,8 +412737,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790900433380,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -457277,11 +457277,22 @@
         "followingSku": "8526791",
         "followingTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
         "followingAuctionCode": "0019892295"
+      },
+      {
+        "start": 1790900433380,
+        "end": 1790900541671,
+        "durationMin": 1.8,
+        "precedingSku": "8526791",
+        "precedingTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
+        "precedingAuctionCode": "0019892295",
+        "followingSku": "4470332",
+        "followingTitle": "Set of 3 - EverTrue Multi Diamond Pendant",
+        "followingAuctionCode": "0019892298"
       }
     ],
-    "lastOnAirSku": "8526791",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
-    "lastOnAirAuctionCode": "0019892295",
+    "lastOnAirSku": "4470332",
+    "lastOnAirTitle": "Set of 3 - EverTrue Multi Diamond Pendant",
+    "lastOnAirAuctionCode": "0019892298",
     "precedingSku": "8526791",
     "precedingTitle": "EverTrue - Natural White Diamond Hoop Earring 4.00 Ct.",
     "precedingAuctionCode": "0019892295"
