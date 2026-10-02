@@ -413242,11 +413242,29 @@
       "productUrlChecked": 1790912131382,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4446140": {
+      "sku": "4446140",
+      "firstAir": 1790912236933,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790912236933,
+      "title": "Shield Pendant with Chain (Size 24) & Lobster Clasp in Two-Tone Plating",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019892259",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "04:37:16",
+      "productUrl": null,
+      "lastUpdated": 1790912236933,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790912180717,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -457895,11 +457913,22 @@
         "followingSku": "8562762",
         "followingTitle": "Livmore 100%  Cotton Woven Throw Blanket - (Size 130x160 cm) - Light Grey",
         "followingAuctionCode": "0019892163"
+      },
+      {
+        "start": 1790912180717,
+        "end": 1790912236933,
+        "durationMin": 0.9,
+        "precedingSku": "8322693",
+        "precedingTitle": "Grey Crystal Necklace (Size - 16-3)",
+        "precedingAuctionCode": "0019892277",
+        "followingSku": "4446140",
+        "followingTitle": "Shield Pendant with Chain (Size 24) & Lobster Clasp in Two-Tone Plating",
+        "followingAuctionCode": "0019892259"
       }
     ],
-    "lastOnAirSku": "8322693",
-    "lastOnAirTitle": "Grey Crystal Necklace (Size - 16-3)",
-    "lastOnAirAuctionCode": "0019892277",
+    "lastOnAirSku": "4446140",
+    "lastOnAirTitle": "Shield Pendant with Chain (Size 24) & Lobster Clasp in Two-Tone Plating",
+    "lastOnAirAuctionCode": "0019892259",
     "precedingSku": "8322693",
     "precedingTitle": "Grey Crystal Necklace (Size - 16-3)",
     "precedingAuctionCode": "0019892277"
