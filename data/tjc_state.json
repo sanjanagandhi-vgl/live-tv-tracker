@@ -414426,11 +414426,29 @@
       "productUrl": null,
       "lastUpdated": 1790940983401,
       "source": "gha"
+    },
+    "8282230": {
+      "sku": "8282230",
+      "firstAir": 1790941100355,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790941100355,
+      "title": "White Cubic Zirconia Bracelet (Size - 7.5) in Silver Tone 9.50 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019892069",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "12:38:20",
+      "productUrl": null,
+      "lastUpdated": 1790941100355,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790941038420,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -459453,11 +459471,22 @@
         "followingSku": "8755098",
         "followingTitle": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
         "followingAuctionCode": "0019893551"
+      },
+      {
+        "start": 1790941038420,
+        "end": 1790941100355,
+        "durationMin": 1.0,
+        "precedingSku": "4424670",
+        "precedingTitle": "Yellow Crystal Solitaire Pendant with Chain (Size 24) in Silver Tone (60x39)",
+        "precedingAuctionCode": "0019892045",
+        "followingSku": "8282230",
+        "followingTitle": "White Cubic Zirconia Bracelet (Size - 7.5) in Silver Tone 9.50 Ct.",
+        "followingAuctionCode": "0019892069"
       }
     ],
-    "lastOnAirSku": "4424670",
-    "lastOnAirTitle": "Yellow Crystal Solitaire Pendant with Chain (Size 24) in Silver Tone (60x39)",
-    "lastOnAirAuctionCode": "0019892045",
+    "lastOnAirSku": "8282230",
+    "lastOnAirTitle": "White Cubic Zirconia Bracelet (Size - 7.5) in Silver Tone 9.50 Ct.",
+    "lastOnAirAuctionCode": "0019892069",
     "precedingSku": "4424670",
     "precedingTitle": "Yellow Crystal Solitaire Pendant with Chain (Size 24) in Silver Tone (60x39)",
     "precedingAuctionCode": "0019892045"
