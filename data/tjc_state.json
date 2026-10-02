@@ -209656,21 +209656,26 @@
       "sku": "8480562",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "13:32:22",
+      "date": "2026-10-02",
+      "time": "14:03:18",
       "preExisting": true,
       "missedAt": 1787315542841,
       "missedDelay": null,
-      "lastUpdated": 1787315542841,
+      "lastUpdated": 1790946198573,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Designer-Inspired RFID-Protected Lemon Print Shoulder Bag with a Chain Strap - Blue",
-      "auctionCode": "0019830337",
+      "title": "Designer-Inspired RFID-Protected Strawberry Print Shoulder Bag with a Chain Strap - Blue",
+      "auctionCode": "0019892990",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-1458480522",
       "productUrlChecked": 1787315545145,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790946198573,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8480570": {
       "sku": "8480570",
@@ -415273,8 +415278,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790946140637,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460363,11 +460368,22 @@
         "followingSku": "8426917",
         "followingTitle": "Natural White Diamond Hoop Earrings",
         "followingAuctionCode": "0019893758"
+      },
+      {
+        "start": 1790946140637,
+        "end": 1790946198573,
+        "durationMin": 1.0,
+        "precedingSku": "8426917",
+        "precedingTitle": "Natural White Diamond Hoop Earrings",
+        "precedingAuctionCode": "0019893758",
+        "followingSku": "8480562",
+        "followingTitle": "Designer-Inspired RFID-Protected Strawberry Print Shoulder Bag with a Chain Strap - Blue",
+        "followingAuctionCode": "0019892990"
       }
     ],
-    "lastOnAirSku": "8426917",
-    "lastOnAirTitle": "Natural White Diamond Hoop Earrings",
-    "lastOnAirAuctionCode": "0019893758",
+    "lastOnAirSku": "8480562",
+    "lastOnAirTitle": "Designer-Inspired RFID-Protected Strawberry Print Shoulder Bag with a Chain Strap - Blue",
+    "lastOnAirAuctionCode": "0019892990",
     "precedingSku": "8426917",
     "precedingTitle": "Natural White Diamond Hoop Earrings",
     "precedingAuctionCode": "0019893758"
