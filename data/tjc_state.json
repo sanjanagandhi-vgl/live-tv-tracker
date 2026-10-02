@@ -15131,21 +15131,22 @@
       "firstAir": 1785083182772,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785084077366,
+      "lastAir": 1790980460625,
       "title": "D'Joy - Multi Colour Jade Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 539.00 Ct.",
-      "pdpPrice": 89.99,
-      "auctionCode": "0019796227",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "89.99",
+      "auctionCode": "0019893523",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-26",
-      "time": "17:41:17",
-      "lastUpdated": 1785084140606,
+      "date": "2026-10-02",
+      "time": "23:34:20",
+      "lastUpdated": 1790980460625,
       "source": "gha",
       "missedAt": 1785084140606,
       "missedDelay": 1,
       "missedPrice": 89.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8588632": {
       "sku": "8588632",
@@ -416576,8 +416577,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790980398428,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -462238,11 +462239,22 @@
         "followingSku": "8778284",
         "followingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
         "followingAuctionCode": "0019894534"
+      },
+      {
+        "start": 1790980398428,
+        "end": 1790980460625,
+        "durationMin": 1.0,
+        "precedingSku": "8778284",
+        "precedingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
+        "precedingAuctionCode": "0019894534",
+        "followingSku": "8620487",
+        "followingTitle": "D'Joy - Multi Colour Jade Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 539.00 Ct.",
+        "followingAuctionCode": "0019893523"
       }
     ],
-    "lastOnAirSku": "8778284",
-    "lastOnAirTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019894534",
+    "lastOnAirSku": "8620487",
+    "lastOnAirTitle": "D'Joy - Multi Colour Jade Beads Necklace (Size - 20) with Magnetic Clasp in Yellow Gold Plated Sterling Silver 539.00 Ct.",
+    "lastOnAirAuctionCode": "0019893523",
     "precedingSku": "8778284",
     "precedingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
     "precedingAuctionCode": "0019894534"
