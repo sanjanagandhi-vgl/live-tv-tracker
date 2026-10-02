@@ -390819,21 +390819,26 @@
       "sku": "8768583",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "15:33:21",
+      "date": "2026-10-02",
+      "time": "11:22:22",
       "preExisting": true,
       "missedAt": 1790346801572,
       "missedDelay": null,
-      "lastUpdated": 1790346801572,
+      "lastUpdated": 1790936542082,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Golden Shell Pearl Drop Earring with Push Back",
-      "auctionCode": "0019883958",
+      "title": "Golden Shell Pearl Drop Earring with Push Back 20.00 Ct.",
+      "auctionCode": "0019891134",
       "source": "gha",
       "productUrl": "/products/tahiti-shell-pearl-earring-0-010-ct-8768590",
       "productUrlChecked": 1790346805108,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790936542082,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8768582": {
       "sku": "8768582",
@@ -414284,8 +414289,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790936439542,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -459231,11 +459236,22 @@
         "followingSku": "8778284",
         "followingTitle": "Fancy Necklace (Size - 18) Pure White Stainless Steel",
         "followingAuctionCode": "0019893300"
+      },
+      {
+        "start": 1790936439542,
+        "end": 1790936542082,
+        "durationMin": 1.7,
+        "precedingSku": "8778284",
+        "precedingTitle": "Fancy Necklace (Size - 18) Pure White Stainless Steel",
+        "precedingAuctionCode": "0019893300",
+        "followingSku": "8768583",
+        "followingTitle": "Golden Shell Pearl Drop Earring with Push Back 20.00 Ct.",
+        "followingAuctionCode": "0019891134"
       }
     ],
-    "lastOnAirSku": "8778284",
-    "lastOnAirTitle": "Fancy Necklace (Size - 18) Pure White Stainless Steel",
-    "lastOnAirAuctionCode": "0019893300",
+    "lastOnAirSku": "8768583",
+    "lastOnAirTitle": "Golden Shell Pearl Drop Earring with Push Back 20.00 Ct.",
+    "lastOnAirAuctionCode": "0019891134",
     "precedingSku": "8778284",
     "precedingTitle": "Fancy Necklace (Size - 18) Pure White Stainless Steel",
     "precedingAuctionCode": "0019893300"
