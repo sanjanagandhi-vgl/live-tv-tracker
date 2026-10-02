@@ -64774,17 +64774,17 @@
       "firstAir": 1785755062570,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790674581670,
+      "lastAir": 1790954435324,
       "title": "Multi Functional LED Torch Hand Tool Kit (Batteries not  included) - Black",
       "pdpPrice": "9.99",
-      "auctionCode": "0019887709",
+      "auctionCode": "0019893200",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-29",
-      "time": "10:36:21",
+      "date": "2026-10-02",
+      "time": "16:20:35",
       "productUrl": "/products/tool-kit-home-black-8540720",
-      "lastUpdated": 1790674581670,
+      "lastUpdated": 1790954435324,
       "source": "gha",
       "missedAt": 1785756444554,
       "missedDelay": 9,
@@ -415629,8 +415629,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790954359529,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460840,11 +460840,22 @@
         "followingSku": "8354262",
         "followingTitle": null,
         "followingAuctionCode": "0019892987"
+      },
+      {
+        "start": 1790954359529,
+        "end": 1790954435324,
+        "durationMin": 1.3,
+        "precedingSku": "8354262",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019892987",
+        "followingSku": "8540720",
+        "followingTitle": "Multi Functional LED Torch Hand Tool Kit (Batteries not  included) - Black",
+        "followingAuctionCode": "0019893200"
       }
     ],
-    "lastOnAirSku": "8354262",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019892987",
+    "lastOnAirSku": "8540720",
+    "lastOnAirTitle": "Multi Functional LED Torch Hand Tool Kit (Batteries not  included) - Black",
+    "lastOnAirAuctionCode": "0019893200",
     "precedingSku": "8354262",
     "precedingTitle": null,
     "precedingAuctionCode": "0019892987"
