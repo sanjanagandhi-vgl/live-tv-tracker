@@ -293584,21 +293584,26 @@
       "sku": "8283826",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-03",
-      "time": "04:26:23",
+      "date": "2026-10-02",
+      "time": "22:13:19",
       "preExisting": true,
       "missedAt": 1788405983353,
       "missedDelay": null,
-      "lastUpdated": 1788405983353,
+      "lastUpdated": 1790975599514,
       "missedPrice": 4.99,
       "missedImg": true,
       "title": "Lucy Q-Drop Bauble Collection White Shell Pearl Pendant with Red Ribbon",
-      "auctionCode": "0019854052",
+      "auctionCode": "0019893343",
       "source": "gha",
       "productUrl": "/products/lucy-q-snowflake-bauble-collection-pendant-with-red-ribbon",
       "productUrlChecked": 1788405993822,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1790975599514,
+      "pdpPrice": "4.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8342416": {
       "sku": "8342416",
@@ -416336,8 +416341,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790975544967,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461910,11 +461915,22 @@
         "followingSku": "8343307",
         "followingTitle": "Natural Type A Jadeite Jade Stone Zodiac Pig Necklace with Cotton Thread (Size 26 Adjustable) 60.00 Ct.",
         "followingAuctionCode": "0019893342"
+      },
+      {
+        "start": 1790975544967,
+        "end": 1790975599514,
+        "durationMin": 0.9,
+        "precedingSku": "8746953",
+        "precedingTitle": "Close Out Deal- Designer Inspired Hoop Earring",
+        "precedingAuctionCode": "0019893339",
+        "followingSku": "8283826",
+        "followingTitle": "Lucy Q-Drop Bauble Collection White Shell Pearl Pendant with Red Ribbon",
+        "followingAuctionCode": "0019893343"
       }
     ],
-    "lastOnAirSku": "8746953",
-    "lastOnAirTitle": "Close Out Deal- Designer Inspired Hoop Earring",
-    "lastOnAirAuctionCode": "0019893339",
+    "lastOnAirSku": "8283826",
+    "lastOnAirTitle": "Lucy Q-Drop Bauble Collection White Shell Pearl Pendant with Red Ribbon",
+    "lastOnAirAuctionCode": "0019893343",
     "precedingSku": "8746953",
     "precedingTitle": "Close Out Deal- Designer Inspired Hoop Earring",
     "precedingAuctionCode": "0019893339"
