@@ -2174,22 +2174,22 @@
       "sku": "8426917",
       "tvPrice": "",
       "remarks": "",
-      "time": "11:06:21",
+      "time": "13:50:33",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "Natural White Diamond Hoop Earrings",
-      "auctionCode": "0019892055",
+      "auctionCode": "0019893758",
       "source": "gha",
-      "lastAir": 1790935581641,
+      "lastAir": 1790945433498,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-02",
-      "lastUpdated": 1790935581641,
+      "lastUpdated": 1790945433498,
       "productUrl": "/products/evertrue-white-diamond-full-hoop-earring?variant=53107443204362",
       "productUrlChecked": 1789638986622,
       "productUrlStatus": 200,
@@ -415266,8 +415266,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790945358216,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460345,11 +460345,22 @@
         "followingSku": "4528713",
         "followingTitle": "EverTrue - Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
         "followingAuctionCode": "0019893323"
+      },
+      {
+        "start": 1790945358216,
+        "end": 1790945433498,
+        "durationMin": 1.3,
+        "precedingSku": "8764015",
+        "precedingTitle": "EverTrue - Natural White Diamond Tree of Life Earring with Lever Back in Yellow Gold Tone",
+        "precedingAuctionCode": "0019893325",
+        "followingSku": "8426917",
+        "followingTitle": "Natural White Diamond Hoop Earrings",
+        "followingAuctionCode": "0019893758"
       }
     ],
-    "lastOnAirSku": "8764015",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Tree of Life Earring with Lever Back in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019893325",
+    "lastOnAirSku": "8426917",
+    "lastOnAirTitle": "Natural White Diamond Hoop Earrings",
+    "lastOnAirAuctionCode": "0019893758",
     "precedingSku": "8764015",
     "precedingTitle": "EverTrue - Natural White Diamond Tree of Life Earring with Lever Back in Yellow Gold Tone",
     "precedingAuctionCode": "0019893325"
