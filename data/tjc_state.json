@@ -416032,11 +416032,29 @@
       "productUrlChecked": 1790963785170,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8567117": {
+      "sku": "8567117",
+      "firstAir": 1790964439245,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790964439245,
+      "title": "Multi-Functional UK Plug Socket with 4 Outlets, 3 USB Ports and 1 PD Fast Charge (2200W) with Surge Protection - Black",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019893115",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "19:07:19",
+      "productUrl": null,
+      "lastUpdated": 1790964439245,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790964160725,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -461433,11 +461451,22 @@
         "followingSku": "8354262",
         "followingTitle": null,
         "followingAuctionCode": "0019894520"
+      },
+      {
+        "start": 1790964160725,
+        "end": 1790964439245,
+        "durationMin": 4.6,
+        "precedingSku": "8354262",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019894520",
+        "followingSku": "8567117",
+        "followingTitle": "Multi-Functional UK Plug Socket with 4 Outlets, 3 USB Ports and 1 PD Fast Charge (2200W) with Surge Protection - Black",
+        "followingAuctionCode": "0019893115"
       }
     ],
-    "lastOnAirSku": "8354262",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019894520",
+    "lastOnAirSku": "8567117",
+    "lastOnAirTitle": "Multi-Functional UK Plug Socket with 4 Outlets, 3 USB Ports and 1 PD Fast Charge (2200W) with Surge Protection - Black",
+    "lastOnAirAuctionCode": "0019893115",
     "precedingSku": "8354262",
     "precedingTitle": null,
     "precedingAuctionCode": "0019894520"
