@@ -27835,23 +27835,23 @@
       "sku": "7744169",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "22:55:30",
+      "date": "2026-10-02",
+      "time": "12:08:23",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1786744530382,
+      "lastUpdated": 1790939303103,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Murano Glass Necklace (Size - 24) Pure White Stainless Steel",
-      "auctionCode": "0019819982",
+      "title": "Multi Colour Murano Style Glass Floral Necklace (Size - 24)",
+      "auctionCode": "0019893018",
       "source": "gha",
       "productUrl": "/products/murano-glass-necklace-size-24-pure-white-stainless-steel",
       "productUrlChecked": 1785474937945,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1786744530382,
-      "pdpPrice": "4.99",
+      "lastAir": 1790939303103,
+      "pdpPrice": "6.99",
       "buy": true,
       "login": false,
       "img": true
@@ -414381,8 +414381,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790939237717,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -459383,11 +459383,22 @@
         "followingSku": "3335270",
         "followingTitle": "Set of 2 - Multi Colour and Green Murano Style Basket Earrings in Stainless Steel",
         "followingAuctionCode": "0019893308"
+      },
+      {
+        "start": 1790939237717,
+        "end": 1790939303103,
+        "durationMin": 1.1,
+        "precedingSku": "3335270",
+        "precedingTitle": "Set of 2 - Multi Colour and Green Murano Style Basket Earrings in Stainless Steel",
+        "precedingAuctionCode": "0019893308",
+        "followingSku": "7744169",
+        "followingTitle": "Multi Colour Murano Style Glass Floral Necklace (Size - 24)",
+        "followingAuctionCode": "0019893018"
       }
     ],
-    "lastOnAirSku": "3335270",
-    "lastOnAirTitle": "Set of 2 - Multi Colour and Green Murano Style Basket Earrings in Stainless Steel",
-    "lastOnAirAuctionCode": "0019893308",
+    "lastOnAirSku": "7744169",
+    "lastOnAirTitle": "Multi Colour Murano Style Glass Floral Necklace (Size - 24)",
+    "lastOnAirAuctionCode": "0019893018",
     "precedingSku": "3335270",
     "precedingTitle": "Set of 2 - Multi Colour and Green Murano Style Basket Earrings in Stainless Steel",
     "precedingAuctionCode": "0019893308"
