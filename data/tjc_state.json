@@ -415018,11 +415018,29 @@
       "productUrl": null,
       "lastUpdated": 1790943501833,
       "source": "gha-variant"
+    },
+    "4528713": {
+      "sku": "4528713",
+      "firstAir": 1790943634092,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1790943634092,
+      "title": "EverTrue - Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019893323",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-02",
+      "time": "13:20:34",
+      "productUrl": null,
+      "lastUpdated": 1790943634092,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790943559634,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -460089,11 +460107,22 @@
         "followingSku": "8427755",
         "followingTitle": "EverTrue Natural White Diamond Half Eternity Band Ring",
         "followingAuctionCode": "0019891238"
+      },
+      {
+        "start": 1790943559634,
+        "end": 1790943634092,
+        "durationMin": 1.2,
+        "precedingSku": "8427755",
+        "precedingTitle": "EverTrue Natural White Diamond Half Eternity Band Ring",
+        "precedingAuctionCode": "0019891238",
+        "followingSku": "4528713",
+        "followingTitle": "EverTrue - Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+        "followingAuctionCode": "0019893323"
       }
     ],
-    "lastOnAirSku": "8427755",
-    "lastOnAirTitle": "EverTrue Natural White Diamond Half Eternity Band Ring",
-    "lastOnAirAuctionCode": "0019891238",
+    "lastOnAirSku": "4528713",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019893323",
     "precedingSku": "8427755",
     "precedingTitle": "EverTrue Natural White Diamond Half Eternity Band Ring",
     "precedingAuctionCode": "0019891238"
