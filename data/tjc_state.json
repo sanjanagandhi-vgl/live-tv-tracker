@@ -124932,17 +124932,17 @@
       "firstAir": 1786363878611,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790421197819,
+      "lastAir": 1790988558091,
       "title": "Close Out Deal- 9K Yellow Gold Paperclip Necklace (Size - 18)",
-      "pdpPrice": "599.99",
-      "auctionCode": "0019884936",
+      "pdpPrice": "5999.99",
+      "auctionCode": "0019893802",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-26",
-      "time": "12:13:17",
+      "date": "2026-10-03",
+      "time": "01:49:18",
       "productUrl": "/products/9k-yellow-gold-paperclip-necklace-size-18-with-lobster-clasp-gold-wt-3-75-gms-8668663?variant=53473707524362",
-      "lastUpdated": 1790421197819,
+      "lastUpdated": 1790988558091,
       "source": "gha",
       "missedAt": 1786367598741,
       "missedDelay": 38,
@@ -416775,8 +416775,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790988500851,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -462514,11 +462514,22 @@
         "followingSku": "8319329",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Link Necklace (Size - 20)",
         "followingAuctionCode": "0019893797"
+      },
+      {
+        "start": 1790988500851,
+        "end": 1790988558091,
+        "durationMin": 1.0,
+        "precedingSku": "8319329",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Link Necklace (Size - 20)",
+        "precedingAuctionCode": "0019893797",
+        "followingSku": "8668663",
+        "followingTitle": "Close Out Deal- 9K Yellow Gold Paperclip Necklace (Size - 18)",
+        "followingAuctionCode": "0019893802"
       }
     ],
-    "lastOnAirSku": "8319329",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Link Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019893797",
+    "lastOnAirSku": "8668663",
+    "lastOnAirTitle": "Close Out Deal- 9K Yellow Gold Paperclip Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019893802",
     "precedingSku": "8319329",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Link Necklace (Size - 20)",
     "precedingAuctionCode": "0019893797"
