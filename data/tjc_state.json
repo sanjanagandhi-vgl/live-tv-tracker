@@ -319113,20 +319113,20 @@
       "sku": "8196970",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "05:19:18",
+      "date": "2026-10-03",
+      "time": "01:28:22",
       "preExisting": true,
       "missedAt": 1788829879957,
       "missedDelay": null,
-      "lastUpdated": 1789532358375,
+      "lastUpdated": 1790987302361,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "24K Yellow Gold (99.9% Purity) Dolphin Embossed Collectible (39.85 x 25.95 mm)",
-      "auctionCode": "0019871315",
+      "auctionCode": "0019893814",
       "source": "gha",
       "productUrl": null,
-      "lastAir": 1789532358375,
-      "pdpPrice": "19.99",
+      "lastAir": 1790987302361,
+      "pdpPrice": "29.99",
       "buy": true,
       "login": false,
       "img": true
@@ -416730,8 +416730,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790987238559,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -462447,11 +462447,22 @@
         "followingSku": "8556615",
         "followingTitle": "9K Yellow Gold Ball Stud Earrings",
         "followingAuctionCode": "0019893784"
+      },
+      {
+        "start": 1790987238559,
+        "end": 1790987302361,
+        "durationMin": 1.1,
+        "precedingSku": "8692474",
+        "precedingTitle": "9K Yellow Gold Heart Pendant",
+        "precedingAuctionCode": "0019893788",
+        "followingSku": "8196970",
+        "followingTitle": "24K Yellow Gold (99.9% Purity) Dolphin Embossed Collectible (39.85 x 25.95 mm)",
+        "followingAuctionCode": "0019893814"
       }
     ],
-    "lastOnAirSku": "8692474",
-    "lastOnAirTitle": "9K Yellow Gold Heart Pendant",
-    "lastOnAirAuctionCode": "0019893788",
+    "lastOnAirSku": "8196970",
+    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Dolphin Embossed Collectible (39.85 x 25.95 mm)",
+    "lastOnAirAuctionCode": "0019893814",
     "precedingSku": "8692474",
     "precedingTitle": "9K Yellow Gold Heart Pendant",
     "precedingAuctionCode": "0019893788"
