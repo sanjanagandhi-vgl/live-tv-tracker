@@ -7385,16 +7385,16 @@
       "firstAir": 1784933435975,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786845141706,
+      "lastAir": 1790988333462,
       "title": "Maestro Collection - 9K Yellow Gold Link Necklace (Size - 20)",
       "pdpPrice": "199.99",
-      "auctionCode": "0019824160",
+      "auctionCode": "0019893797",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-16",
-      "time": "02:52:21",
-      "lastUpdated": 1786845141706,
+      "date": "2026-10-03",
+      "time": "01:45:33",
+      "lastUpdated": 1790988333462,
       "source": "gha",
       "missedAt": 1784933662491,
       "missedDelay": 2,
@@ -416748,8 +416748,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790988260397,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -462476,11 +462476,22 @@
         "followingSku": "8196970",
         "followingTitle": "24K Yellow Gold (99.9% Purity) Dolphin Embossed Collectible (39.85 x 25.95 mm)",
         "followingAuctionCode": "0019893814"
+      },
+      {
+        "start": 1790988260397,
+        "end": 1790988333462,
+        "durationMin": 1.2,
+        "precedingSku": "8477938",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 30) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019893799",
+        "followingSku": "8319329",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Link Necklace (Size - 20)",
+        "followingAuctionCode": "0019893797"
       }
     ],
-    "lastOnAirSku": "8477938",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 30) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019893799",
+    "lastOnAirSku": "8319329",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Link Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019893797",
     "precedingSku": "8477938",
     "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 30) with Spring Ring Clasp",
     "precedingAuctionCode": "0019893799"
