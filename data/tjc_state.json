@@ -421101,11 +421101,29 @@
       "productUrl": null,
       "lastUpdated": 1791060925783,
       "source": "gha"
+    },
+    "8793648": {
+      "sku": "8793648",
+      "firstAir": 1791061040865,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791061040865,
+      "title": "The Tokyo Treasure - 900 White Platinum AAAA Blue Sapphire & White Diamond (VS) Halo Ring 3.13 Ct, Platinum Wt.11.17 Gms",
+      "pdpPrice": "3999.99",
+      "auctionCode": "0019894287",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "21:57:20",
+      "productUrl": null,
+      "lastUpdated": 1791061040865,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791060979630,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -467569,11 +467587,22 @@
         "followingSku": "8793457",
         "followingTitle": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond (VS2-SI) Halo Ring 2.54 Ct, Platinum Wt.7.54 Gms",
         "followingAuctionCode": "0019894278"
+      },
+      {
+        "start": 1791060979630,
+        "end": 1791061040865,
+        "durationMin": 1.0,
+        "precedingSku": "8793514",
+        "precedingTitle": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond Halo Ring 2.54 Ct, Platinum Wt. 5.54 Gms",
+        "precedingAuctionCode": "0019894284",
+        "followingSku": "8793648",
+        "followingTitle": "The Tokyo Treasure - 900 White Platinum AAAA Blue Sapphire & White Diamond (VS) Halo Ring 3.13 Ct, Platinum Wt.11.17 Gms",
+        "followingAuctionCode": "0019894287"
       }
     ],
-    "lastOnAirSku": "8793514",
-    "lastOnAirTitle": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond Halo Ring 2.54 Ct, Platinum Wt. 5.54 Gms",
-    "lastOnAirAuctionCode": "0019894284",
+    "lastOnAirSku": "8793648",
+    "lastOnAirTitle": "The Tokyo Treasure - 900 White Platinum AAAA Blue Sapphire & White Diamond (VS) Halo Ring 3.13 Ct, Platinum Wt.11.17 Gms",
+    "lastOnAirAuctionCode": "0019894287",
     "precedingSku": "8793514",
     "precedingTitle": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond Halo Ring 2.54 Ct, Platinum Wt. 5.54 Gms",
     "precedingAuctionCode": "0019894284"
