@@ -421626,11 +421626,29 @@
       "productUrlChecked": 1791068063566,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "3562646": {
+      "sku": "3562646",
+      "firstAir": 1791070879431,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791070879431,
+      "title": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size 20) with Spring Ring Clasp",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019894814",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-04",
+      "time": "00:41:19",
+      "productUrl": null,
+      "lastUpdated": 1791070879431,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791070836068,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468237,11 +468255,22 @@
         "followingSku": "8416911",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Infinity Link Necklace (Size - 20) with Spring Ring Clasp",
         "followingAuctionCode": "0019894823"
+      },
+      {
+        "start": 1791070836068,
+        "end": 1791070879431,
+        "durationMin": 0.7,
+        "precedingSku": "8416911",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Infinity Link Necklace (Size - 20) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019894823",
+        "followingSku": "3562646",
+        "followingTitle": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size 20) with Spring Ring Clasp",
+        "followingAuctionCode": "0019894814"
       }
     ],
-    "lastOnAirSku": "8416911",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Infinity Link Necklace (Size - 20) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019894823",
+    "lastOnAirSku": "3562646",
+    "lastOnAirTitle": "Surabaya Gold Deal  - 9K Yellow Gold Chain (Size 20) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019894814",
     "precedingSku": "8416911",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Infinity Link Necklace (Size - 20) with Spring Ring Clasp",
     "precedingAuctionCode": "0019894823"
