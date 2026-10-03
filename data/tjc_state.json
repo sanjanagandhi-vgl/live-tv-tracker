@@ -6682,19 +6682,19 @@
       "sku": "7958078",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-06",
-      "time": "20:02:25",
+      "date": "2026-10-03",
+      "time": "07:20:34",
       "preExisting": true,
       "missedAt": 1784916085649,
       "missedDelay": null,
-      "lastUpdated": 1788721345319,
+      "lastUpdated": 1791008434565,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply With FREE SPOON",
-      "auctionCode": "0019860629",
+      "title": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+      "auctionCode": "0019893298",
       "source": "gha",
-      "lastAir": 1788721345319,
-      "pdpPrice": "59.99",
+      "lastAir": 1791008434565,
+      "pdpPrice": "179.00",
       "buy": true,
       "login": false,
       "img": true,
@@ -416780,8 +416780,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791007997655,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -462629,11 +462629,22 @@
         "followingSku": "7169130",
         "followingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
         "followingAuctionCode": "0019893466"
+      },
+      {
+        "start": 1791007997655,
+        "end": 1791008434565,
+        "durationMin": 7.3,
+        "precedingSku": "7169130",
+        "precedingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
+        "precedingAuctionCode": "0019893466",
+        "followingSku": "7958078",
+        "followingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+        "followingAuctionCode": "0019893298"
       }
     ],
-    "lastOnAirSku": "7169130",
-    "lastOnAirTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
-    "lastOnAirAuctionCode": "0019893466",
+    "lastOnAirSku": "7958078",
+    "lastOnAirTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+    "lastOnAirAuctionCode": "0019893298",
     "precedingSku": "7169130",
     "precedingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
     "precedingAuctionCode": "0019893466"
