@@ -78940,23 +78940,23 @@
       "sku": "8646991",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-27",
-      "time": "23:26:20",
+      "date": "2026-10-03",
+      "time": "12:27:17",
       "preExisting": true,
       "missedAt": 1785928646680,
       "missedDelay": null,
-      "lastUpdated": 1790547980928,
+      "lastUpdated": 1791026837757,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
-      "auctionCode": "0019886206",
+      "auctionCode": "0019894005",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-hoop-earring-with-clasp-8646993",
       "productUrlChecked": 1785928654481,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1790547980928,
-      "pdpPrice": "89.99",
+      "lastAir": 1791026837757,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true
@@ -417177,8 +417177,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791026783216,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -463213,11 +463213,22 @@
         "followingSku": "8740772",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Butterfly Necklace (Size - 18)",
         "followingAuctionCode": "0019893968"
+      },
+      {
+        "start": 1791026783216,
+        "end": 1791026837757,
+        "durationMin": 0.9,
+        "precedingSku": "8740772",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Butterfly Necklace (Size - 18)",
+        "precedingAuctionCode": "0019893968",
+        "followingSku": "8646991",
+        "followingTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
+        "followingAuctionCode": "0019894005"
       }
     ],
-    "lastOnAirSku": "8740772",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Butterfly Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019893968",
+    "lastOnAirSku": "8646991",
+    "lastOnAirTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
+    "lastOnAirAuctionCode": "0019894005",
     "precedingSku": "8740772",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Butterfly Necklace (Size - 18)",
     "precedingAuctionCode": "0019893968"
