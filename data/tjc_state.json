@@ -345800,20 +345800,20 @@
       "sku": "4452729",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "01:19:19",
+      "date": "2026-10-03",
+      "time": "10:42:22",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789517959011,
+      "lastUpdated": 1791020542384,
       "missedPrice": 29.99,
       "missedImg": false,
-      "title": "Moissanite Solitaire Heart Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
-      "auctionCode": "0019870873",
+      "title": "D'Joy - Moissanite Solitaire Heart Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
+      "auctionCode": "0019894153",
       "source": "gha",
       "productUrl": null,
-      "lastAir": 1789517959011,
-      "pdpPrice": "29.99",
+      "lastAir": 1791020542384,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -416813,8 +416813,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791020476993,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -462750,11 +462750,22 @@
         "followingSku": "7194723",
         "followingTitle": "9K Yellow Gold Moissanite Boat Ring 1.97 Ct.",
         "followingAuctionCode": "0019894926"
+      },
+      {
+        "start": 1791020476993,
+        "end": 1791020542384,
+        "durationMin": 1.1,
+        "precedingSku": "7194723",
+        "precedingTitle": "9K Yellow Gold Moissanite Boat Ring 1.97 Ct.",
+        "precedingAuctionCode": "0019894926",
+        "followingSku": "4452729",
+        "followingTitle": "D'Joy - Moissanite Solitaire Heart Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
+        "followingAuctionCode": "0019894153"
       }
     ],
-    "lastOnAirSku": "7194723",
-    "lastOnAirTitle": "9K Yellow Gold Moissanite Boat Ring 1.97 Ct.",
-    "lastOnAirAuctionCode": "0019894926",
+    "lastOnAirSku": "4452729",
+    "lastOnAirTitle": "D'Joy - Moissanite Solitaire Heart Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019894153",
     "precedingSku": "7194723",
     "precedingTitle": "9K Yellow Gold Moissanite Boat Ring 1.97 Ct.",
     "precedingAuctionCode": "0019894926"
