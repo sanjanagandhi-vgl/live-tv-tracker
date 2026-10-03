@@ -419352,11 +419352,29 @@
       "productUrl": null,
       "lastUpdated": 1791044899928,
       "source": "gha"
+    },
+    "7337821": {
+      "sku": "7337821",
+      "firstAir": 1791045046844,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791045046844,
+      "title": "9K Yellow Gold  Earring,  Gold Wt. 2.5 Gms",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019894837",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "17:30:46",
+      "productUrl": null,
+      "lastUpdated": 1791045046844,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791044957629,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -465633,11 +465651,22 @@
         "followingSku": "7254812",
         "followingTitle": "9K Yellow Gold  Pendant,  Gold Wt. 3.2 Gms",
         "followingAuctionCode": "0019894835"
+      },
+      {
+        "start": 1791044957629,
+        "end": 1791045046844,
+        "durationMin": 1.5,
+        "precedingSku": "7254812",
+        "precedingTitle": "9K Yellow Gold  Pendant,  Gold Wt. 3.2 Gms",
+        "precedingAuctionCode": "0019894835",
+        "followingSku": "7337821",
+        "followingTitle": "9K Yellow Gold  Earring,  Gold Wt. 2.5 Gms",
+        "followingAuctionCode": "0019894837"
       }
     ],
-    "lastOnAirSku": "7254812",
-    "lastOnAirTitle": "9K Yellow Gold  Pendant,  Gold Wt. 3.2 Gms",
-    "lastOnAirAuctionCode": "0019894835",
+    "lastOnAirSku": "7337821",
+    "lastOnAirTitle": "9K Yellow Gold  Earring,  Gold Wt. 2.5 Gms",
+    "lastOnAirAuctionCode": "0019894837",
     "precedingSku": "7254812",
     "precedingTitle": "9K Yellow Gold  Pendant,  Gold Wt. 3.2 Gms",
     "precedingAuctionCode": "0019894835"
