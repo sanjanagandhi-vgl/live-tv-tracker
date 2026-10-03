@@ -419295,9 +419295,16 @@
       "img": true,
       "date": "2026-10-03",
       "time": "17:24:22",
-      "productUrl": null,
-      "lastUpdated": 1791044662967,
-      "source": "gha"
+      "productUrl": "/products/diamond-cut-figaro-chain-in-9k-yellow-gold",
+      "lastUpdated": 1791045198907,
+      "source": "gha",
+      "missedAt": 1791045198907,
+      "missedDelay": 9,
+      "missedPrice": 329.99,
+      "missedImg": true,
+      "productUrlChecked": 1791045202282,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7344288": {
       "sku": "7344288",
@@ -419370,11 +419377,29 @@
       "productUrl": null,
       "lastUpdated": 1791045078612,
       "source": "gha"
+    },
+    "8740774": {
+      "sku": "8740774",
+      "firstAir": 1791045198907,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791045198907,
+      "title": "9K Yellow Gold AAA Cubic Zirconia Necklace (Size - 18)",
+      "pdpPrice": "4444.99",
+      "auctionCode": "0019894103",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "17:33:18",
+      "productUrl": null,
+      "lastUpdated": 1791045198907,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791045140786,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -465662,11 +465687,22 @@
         "followingSku": "7337821",
         "followingTitle": "9K Yellow Gold  Earring,  Gold Wt. 2.5 Gms",
         "followingAuctionCode": "0019894837"
+      },
+      {
+        "start": 1791045140786,
+        "end": 1791045198907,
+        "durationMin": 1.0,
+        "precedingSku": "7337821",
+        "precedingTitle": "9K Yellow Gold  Earring,  Gold Wt. 2.5 Gms",
+        "precedingAuctionCode": "0019894837",
+        "followingSku": "8740774",
+        "followingTitle": "9K Yellow Gold AAA Cubic Zirconia Necklace (Size - 18)",
+        "followingAuctionCode": "0019894103"
       }
     ],
-    "lastOnAirSku": "7337821",
-    "lastOnAirTitle": "9K Yellow Gold  Earring,  Gold Wt. 2.5 Gms",
-    "lastOnAirAuctionCode": "0019894837",
+    "lastOnAirSku": "8740774",
+    "lastOnAirTitle": "9K Yellow Gold AAA Cubic Zirconia Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019894103",
     "precedingSku": "7337821",
     "precedingTitle": "9K Yellow Gold  Earring,  Gold Wt. 2.5 Gms",
     "precedingAuctionCode": "0019894837"
