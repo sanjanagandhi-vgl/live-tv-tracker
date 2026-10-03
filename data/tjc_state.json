@@ -420549,7 +420549,10 @@
       "missedAt": 1791058157471,
       "missedDelay": 10,
       "missedPrice": 249.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1791058235096,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8797705": {
       "sku": "8797705",
@@ -420570,7 +420573,10 @@
       "missedAt": 1791058157471,
       "missedDelay": 10,
       "missedPrice": 249.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1791058235845,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8797377": {
       "sku": "8797377",
@@ -420830,8 +420836,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791058231944,
     "gaps": [
       {
         "start": 1785823527869,
@@ -467278,8 +467284,8 @@
     "lastOnAirSku": "8794000",
     "lastOnAirTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 16) in Sterling Silver 120.50 Ct.",
     "lastOnAirAuctionCode": "0019895126",
-    "precedingSku": "8794040",
-    "precedingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 18) in Sterling Silver 131.10 Ct.",
-    "precedingAuctionCode": "0019894380"
+    "precedingSku": "8794000",
+    "precedingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 16) in Sterling Silver 120.50 Ct.",
+    "precedingAuctionCode": "0019895126"
   }
 }
