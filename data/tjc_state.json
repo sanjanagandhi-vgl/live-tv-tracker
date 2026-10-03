@@ -420618,11 +420618,29 @@
       "productUrlChecked": 1791057659875,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8794550": {
+      "sku": "8794550",
+      "firstAir": 1791057741097,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791057741097,
+      "title": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 23) in Sterling Silver 246.50 Ct.",
+      "pdpPrice": "2799.99",
+      "auctionCode": "0019894340",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-03",
+      "time": "21:02:21",
+      "productUrl": null,
+      "lastUpdated": 1791057741097,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791057654566,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -467031,11 +467049,22 @@
         "followingSku": "8797348",
         "followingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Ring 2.00Ct, Platinum Wt. 4.50 Gms",
         "followingAuctionCode": "0019895435"
+      },
+      {
+        "start": 1791057654566,
+        "end": 1791057741097,
+        "durationMin": 1.4,
+        "precedingSku": "8797675",
+        "precedingTitle": "The Tokyo Treasure - SGL Certified Natural White Diamond (I3-G-H) Ring in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019895417",
+        "followingSku": "8794550",
+        "followingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 23) in Sterling Silver 246.50 Ct.",
+        "followingAuctionCode": "0019894340"
       }
     ],
-    "lastOnAirSku": "8797675",
-    "lastOnAirTitle": "The Tokyo Treasure - SGL Certified Natural White Diamond (I3-G-H) Ring in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019895417",
+    "lastOnAirSku": "8794550",
+    "lastOnAirTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 23) in Sterling Silver 246.50 Ct.",
+    "lastOnAirAuctionCode": "0019894340",
     "precedingSku": "8797675",
     "precedingTitle": "The Tokyo Treasure - SGL Certified Natural White Diamond (I3-G-H) Ring in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019895417"
