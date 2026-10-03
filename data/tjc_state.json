@@ -417199,11 +417199,29 @@
       "productUrl": null,
       "lastUpdated": 1791029183245,
       "source": "gha"
+    },
+    "8798029": {
+      "sku": "8798029",
+      "firstAir": 1791029358668,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791029358668,
+      "title": "9K Yellow Gold Ring with Enameling",
+      "pdpPrice": "1499.99",
+      "auctionCode": "0019893859",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-03",
+      "time": "13:09:18",
+      "productUrl": null,
+      "lastUpdated": 1791029358668,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791029239681,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -463260,11 +463278,22 @@
         "followingSku": "8740771",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Turquoise Enamelled Strechable Mesh Bangle (Size - 7  to 9)",
         "followingAuctionCode": "0019893930"
+      },
+      {
+        "start": 1791029239681,
+        "end": 1791029358668,
+        "durationMin": 2.0,
+        "precedingSku": "8740771",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Turquoise Enamelled Stretchable Mesh Bangle (Size - 7  to 9)",
+        "precedingAuctionCode": "0019893930",
+        "followingSku": "8798029",
+        "followingTitle": "9K Yellow Gold Ring with Enameling",
+        "followingAuctionCode": "0019893859"
       }
     ],
-    "lastOnAirSku": "8740771",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Turquoise Enamelled Stretchable Mesh Bangle (Size - 7  to 9)",
-    "lastOnAirAuctionCode": "0019893930",
+    "lastOnAirSku": "8798029",
+    "lastOnAirTitle": "9K Yellow Gold Ring with Enameling",
+    "lastOnAirAuctionCode": "0019893859",
     "precedingSku": "8740771",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Turquoise Enamelled Stretchable Mesh Bangle (Size - 7  to 9)",
     "precedingAuctionCode": "0019893930"
