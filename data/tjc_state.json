@@ -420969,9 +420969,16 @@
       "img": false,
       "date": "2026-10-03",
       "time": "21:20:32",
-      "productUrl": null,
-      "lastUpdated": 1791058832044,
-      "source": "gha"
+      "productUrl": "/products/japanese-akoya-pearl-necklace-size-16-sterling-silver-191-650-ct-8794530",
+      "lastUpdated": 1791059357334,
+      "source": "gha",
+      "missedAt": 1791059357334,
+      "missedDelay": 9,
+      "missedPrice": 369.99,
+      "missedImg": false,
+      "productUrlChecked": 1791059360472,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8794562": {
       "sku": "8794562",
@@ -421008,11 +421015,29 @@
       "productUrl": null,
       "lastUpdated": 1791058941063,
       "source": "gha"
+    },
+    "8793457": {
+      "sku": "8793457",
+      "firstAir": 1791059357334,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791059357334,
+      "title": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond (VS2-SI) Halo Ring 2.54 Ct, Platinum Wt.7.54 Gms",
+      "pdpPrice": "9988.99",
+      "auctionCode": "0019894278",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "21:29:17",
+      "productUrl": null,
+      "lastUpdated": 1791059357334,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791058998505,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -467465,11 +467490,22 @@
         "followingSku": "8794038",
         "followingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 14) in Sterling Silver 95.90 Ct.",
         "followingAuctionCode": "0019895127"
+      },
+      {
+        "start": 1791058998505,
+        "end": 1791059357334,
+        "durationMin": 6.0,
+        "precedingSku": "8794476",
+        "precedingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 18) in Sterling Silver 209.30 Ct.",
+        "precedingAuctionCode": "0019895158",
+        "followingSku": "8793457",
+        "followingTitle": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond (VS2-SI) Halo Ring 2.54 Ct, Platinum Wt.7.54 Gms",
+        "followingAuctionCode": "0019894278"
       }
     ],
-    "lastOnAirSku": "8794476",
-    "lastOnAirTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 18) in Sterling Silver 209.30 Ct.",
-    "lastOnAirAuctionCode": "0019895158",
+    "lastOnAirSku": "8793457",
+    "lastOnAirTitle": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond (VS2-SI) Halo Ring 2.54 Ct, Platinum Wt.7.54 Gms",
+    "lastOnAirAuctionCode": "0019894278",
     "precedingSku": "8794476",
     "precedingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 18) in Sterling Silver 209.30 Ct.",
     "precedingAuctionCode": "0019895158"
