@@ -417224,11 +417224,29 @@
       "productUrl": null,
       "lastUpdated": 1791031534746,
       "source": "gha"
+    },
+    "8740773": {
+      "sku": "8740773",
+      "firstAir": 1791031637558,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791031637558,
+      "title": "Maestro Collection - 9K Yellow Gold Amore Heart Necklace (Size - 18)",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019893969",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "13:47:17",
+      "productUrl": null,
+      "lastUpdated": 1791031637558,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791031581150,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -463296,11 +463314,22 @@
         "followingSku": "8798029",
         "followingTitle": "9K Yellow Gold Ring with Enameling",
         "followingAuctionCode": "0019893859"
+      },
+      {
+        "start": 1791031581150,
+        "end": 1791031637558,
+        "durationMin": 0.9,
+        "precedingSku": "8798029",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut La Pantera Ring with Enameling",
+        "precedingAuctionCode": "0019893859",
+        "followingSku": "8740773",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Amore Heart Necklace (Size - 18)",
+        "followingAuctionCode": "0019893969"
       }
     ],
-    "lastOnAirSku": "8798029",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut La Pantera Ring with Enameling",
-    "lastOnAirAuctionCode": "0019893859",
+    "lastOnAirSku": "8740773",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Amore Heart Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019893969",
     "precedingSku": "8798029",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut La Pantera Ring with Enameling",
     "precedingAuctionCode": "0019893859"
