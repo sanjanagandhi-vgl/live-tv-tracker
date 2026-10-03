@@ -419495,9 +419495,16 @@
       "img": false,
       "date": "2026-10-03",
       "time": "18:29:17",
-      "productUrl": null,
-      "lastUpdated": 1791048557954,
-      "source": "gha"
+      "productUrl": "/products/djoy-natural-white-diamond-i3-g-h-hoop-earring-in-18k-vermeil-yellow-gold-plated-sterling-silver-0-33-ct-8797513",
+      "lastUpdated": 1791049158287,
+      "source": "gha",
+      "missedAt": 1791049158287,
+      "missedDelay": 10,
+      "missedPrice": 99.99,
+      "missedImg": false,
+      "productUrlChecked": 1791049161215,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4539175": {
       "sku": "4539175",
@@ -419676,11 +419683,49 @@
       "productUrlChecked": 1791048686804,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4539192": {
+      "sku": "4539192",
+      "firstAir": 1791049158287,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791049158287,
+      "title": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019895297",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "18:39:18",
+      "productUrl": null,
+      "lastUpdated": 1791049158287,
+      "source": "gha"
+    },
+    "8797514": {
+      "sku": "8797514",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-03",
+      "time": "18:39:18",
+      "preExisting": true,
+      "missedAt": 1791049158287,
+      "missedDelay": null,
+      "lastUpdated": 1791049158287,
+      "missedPrice": 99.99,
+      "missedImg": false,
+      "title": "The Tokyo Treasure - D'Joy White Diamond (I3-G-H) Hoop Earring in Rhodium Overlay Sterling Silver 0.33 Ct.",
+      "auctionCode": "0019895317",
+      "source": "gha",
+      "productUrl": "/products/djoy-natural-white-diamond-i3-g-h-hoop-earring-in-18k-vermeil-yellow-gold-plated-sterling-silver-0-33-ct-8797513",
+      "productUrlChecked": 1791049161715,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791049101316,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -466034,11 +466079,22 @@
         "followingSku": "4539175",
         "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Circular Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019895291"
+      },
+      {
+        "start": 1791049101316,
+        "end": 1791049158287,
+        "durationMin": 0.9,
+        "precedingSku": "4539175",
+        "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Circular Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019895291",
+        "followingSku": "4539192",
+        "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019895297"
       }
     ],
-    "lastOnAirSku": "4539175",
-    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Circular Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019895291",
+    "lastOnAirSku": "4539192",
+    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019895297",
     "precedingSku": "4539175",
     "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Circular Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019895291"
