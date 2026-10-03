@@ -419793,11 +419793,29 @@
       "productUrlChecked": 1791049840234,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8796016": {
+      "sku": "8796016",
+      "firstAir": 1791051334619,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791051334619,
+      "title": "The Tokyo Treasure - D'Joy Natural White Diamond Solitaire Band Ring in Rhodium Overlay Sterling Silver",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019895396",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "19:15:34",
+      "productUrl": null,
+      "lastUpdated": 1791051334619,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791051260078,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -466173,11 +466191,22 @@
         "followingSku": "8795993",
         "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019895301"
+      },
+      {
+        "start": 1791051260078,
+        "end": 1791051334619,
+        "durationMin": 1.2,
+        "precedingSku": "8795993",
+        "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019895301",
+        "followingSku": "8796016",
+        "followingTitle": "The Tokyo Treasure - D'Joy Natural White Diamond Solitaire Band Ring in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019895396"
       }
     ],
-    "lastOnAirSku": "8795993",
-    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019895301",
+    "lastOnAirSku": "8796016",
+    "lastOnAirTitle": "The Tokyo Treasure - D'Joy Natural White Diamond Solitaire Band Ring in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019895396",
     "precedingSku": "8795993",
     "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019895301"
