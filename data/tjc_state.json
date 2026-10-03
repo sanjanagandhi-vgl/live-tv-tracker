@@ -418751,11 +418751,29 @@
       "productUrlChecked": 1791039686116,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "3683137": {
+      "sku": "3683137",
+      "firstAir": 1791040100886,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791040100886,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019894945",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-03",
+      "time": "16:08:20",
+      "productUrl": null,
+      "lastUpdated": 1791040100886,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791039926131,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -464966,11 +464984,22 @@
         "followingSku": "8754424",
         "followingTitle": "9K Yellow Gold AAAA Chanthaburi Ruby Rare Size (OVAL11X9) & Natural Diamond Ring 5.45 Ct.",
         "followingAuctionCode": "0019895594"
+      },
+      {
+        "start": 1791039926131,
+        "end": 1791040100886,
+        "durationMin": 2.9,
+        "precedingSku": "8754424",
+        "precedingTitle": "9K Yellow Gold AAAA Chanthaburi Ruby Rare Size (OVAL11X9) & Natural Diamond Ring 5.45 Ct.",
+        "precedingAuctionCode": "0019895594",
+        "followingSku": "3683137",
+        "followingTitle": null,
+        "followingAuctionCode": "0019894945"
       }
     ],
-    "lastOnAirSku": "8754424",
-    "lastOnAirTitle": "9K Yellow Gold AAAA Chanthaburi Ruby Rare Size (OVAL11X9) & Natural Diamond Ring 5.45 Ct.",
-    "lastOnAirAuctionCode": "0019895594",
+    "lastOnAirSku": "3683137",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019894945",
     "precedingSku": "8754424",
     "precedingTitle": "9K Yellow Gold AAAA Chanthaburi Ruby Rare Size (OVAL11X9) & Natural Diamond Ring 5.45 Ct.",
     "precedingAuctionCode": "0019895594"
