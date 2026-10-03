@@ -420136,11 +420136,29 @@
       "auctionCode": "0019895397",
       "source": "gha",
       "productUrl": null
+    },
+    "8797348": {
+      "sku": "8797348",
+      "firstAir": 1791054934868,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791054934868,
+      "title": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Ring 2.00Ct, Platinum Wt. 4.50 Gms",
+      "pdpPrice": "9999.99",
+      "auctionCode": "0019895435",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "20:15:34",
+      "productUrl": null,
+      "lastUpdated": 1791054934868,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791054560725,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -466538,11 +466556,22 @@
         "followingSku": "8797525",
         "followingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Earring with Screw Back 1.08 Ct, Platinum Wt. 2.60 Gms",
         "followingAuctionCode": "0019893583"
+      },
+      {
+        "start": 1791054560725,
+        "end": 1791054934868,
+        "durationMin": 6.2,
+        "precedingSku": "8797525",
+        "precedingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Earring with Screw Back 1.08 Ct, Platinum Wt. 2.60 Gms",
+        "precedingAuctionCode": "0019893583",
+        "followingSku": "8797348",
+        "followingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Ring 2.00Ct, Platinum Wt. 4.50 Gms",
+        "followingAuctionCode": "0019895435"
       }
     ],
-    "lastOnAirSku": "8797525",
-    "lastOnAirTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Earring with Screw Back 1.08 Ct, Platinum Wt. 2.60 Gms",
-    "lastOnAirAuctionCode": "0019893583",
+    "lastOnAirSku": "8797348",
+    "lastOnAirTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Ring 2.00Ct, Platinum Wt. 4.50 Gms",
+    "lastOnAirAuctionCode": "0019895435",
     "precedingSku": "8797525",
     "precedingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Earring with Screw Back 1.08 Ct, Platinum Wt. 2.60 Gms",
     "precedingAuctionCode": "0019893583"
