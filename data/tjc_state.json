@@ -179233,21 +179233,26 @@
       "sku": "8746487",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "23:56:22",
+      "date": "2026-10-03",
+      "time": "17:53:16",
       "preExisting": true,
       "missedAt": 1786920982658,
       "missedDelay": null,
-      "lastUpdated": 1786920982658,
+      "lastUpdated": 1791046396568,
       "missedPrice": 699.99,
       "missedImg": true,
       "title": "9K Yellow Gold Diamond Cut Basket Weave & Ball Bracelet (Size - 7.5) with Lobster Clasp",
-      "auctionCode": "0019825909",
+      "auctionCode": "0019894857",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-byzantine-chain-bracelet-size-7-5-with-lobster-clasp-8746491",
       "productUrlChecked": 1786920998157,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791046396568,
+      "pdpPrice": "699.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8746490": {
       "sku": "8746490",
@@ -419453,8 +419458,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791046340957,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -465775,11 +465780,22 @@
         "followingSku": "8691038",
         "followingTitle": "Italian 9K Yellow Gold Flat Byzantino Handmade Circolare Bracelet (Size - 8), Gold Wt. 9.00 Gms.",
         "followingAuctionCode": "0019895713"
+      },
+      {
+        "start": 1791046340957,
+        "end": 1791046396568,
+        "durationMin": 0.9,
+        "precedingSku": "8691038",
+        "precedingTitle": "Italian 9K Yellow Gold Flat Byzantino Handmade Circolare Bracelet (Size - 8), Gold Wt. 9.00 Gms.",
+        "precedingAuctionCode": "0019895713",
+        "followingSku": "8746487",
+        "followingTitle": "9K Yellow Gold Diamond Cut Basket Weave & Ball Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019894857"
       }
     ],
-    "lastOnAirSku": "8691038",
-    "lastOnAirTitle": "Italian 9K Yellow Gold Flat Byzantino Handmade Circolare Bracelet (Size - 8), Gold Wt. 9.00 Gms.",
-    "lastOnAirAuctionCode": "0019895713",
+    "lastOnAirSku": "8746487",
+    "lastOnAirTitle": "9K Yellow Gold Diamond Cut Basket Weave & Ball Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019894857",
     "precedingSku": "8691038",
     "precedingTitle": "Italian 9K Yellow Gold Flat Byzantino Handmade Circolare Bracelet (Size - 8), Gold Wt. 9.00 Gms.",
     "precedingAuctionCode": "0019895713"
