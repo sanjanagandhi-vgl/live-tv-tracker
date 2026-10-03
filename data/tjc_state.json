@@ -9454,19 +9454,19 @@
       "sku": "8416911",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "00:15:41",
+      "date": "2026-10-04",
+      "time": "00:37:17",
       "preExisting": true,
       "missedAt": 1784971622932,
       "missedDelay": null,
-      "lastUpdated": 1786835741035,
+      "lastUpdated": 1791070637587,
       "missedPrice": 99.99,
       "missedImg": false,
       "title": "Maestro Collection - 9K Yellow Gold Infinity Link Necklace (Size - 20) with Spring Ring Clasp",
-      "auctionCode": "0019823640",
+      "auctionCode": "0019894823",
       "source": "gha",
-      "lastAir": 1786835741035,
-      "pdpPrice": "99.99",
+      "lastAir": 1791070637587,
+      "pdpPrice": "1289.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -421629,8 +421629,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791070581167,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468226,11 +468226,22 @@
         "followingSku": "8741678",
         "followingTitle": "BORDLITE Cabin Bag on Wheels - Lightweight, Retractable Handle Soft Shell Carry On Flight Holdall & Travel Duffel (Free Bag Allowance Approved) 50x35x20 CM - Pink",
         "followingAuctionCode": "0019895313"
+      },
+      {
+        "start": 1791070581167,
+        "end": 1791070637587,
+        "durationMin": 0.9,
+        "precedingSku": "8741678",
+        "precedingTitle": "BORDLITE Cabin Bag on Wheels - Lightweight, Retractable Handle Soft Shell Carry On Flight Holdall & Travel Duffel (Free Bag Allowance Approved) 50x35x20 CM - Pink",
+        "precedingAuctionCode": "0019895313",
+        "followingSku": "8416911",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Infinity Link Necklace (Size - 20) with Spring Ring Clasp",
+        "followingAuctionCode": "0019894823"
       }
     ],
-    "lastOnAirSku": "8741678",
-    "lastOnAirTitle": "BORDLITE Cabin Bag on Wheels - Lightweight, Retractable Handle Soft Shell Carry On Flight Holdall & Travel Duffel (Free Bag Allowance Approved) 50x35x20 CM - Pink",
-    "lastOnAirAuctionCode": "0019895313",
+    "lastOnAirSku": "8416911",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Infinity Link Necklace (Size - 20) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019894823",
     "precedingSku": "8741678",
     "precedingTitle": "BORDLITE Cabin Bag on Wheels - Lightweight, Retractable Handle Soft Shell Carry On Flight Holdall & Travel Duffel (Free Bag Allowance Approved) 50x35x20 CM - Pink",
     "precedingAuctionCode": "0019895313"
