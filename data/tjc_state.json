@@ -420833,11 +420833,32 @@
       "productUrl": null,
       "lastUpdated": 1791058157471,
       "source": "gha"
+    },
+    "8794038": {
+      "sku": "8794038",
+      "firstAir": 1791058275700,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791058275700,
+      "title": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 14) in Sterling Silver 95.90 Ct.",
+      "pdpPrice": 149.99,
+      "auctionCode": "0019895127",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "21:11:15",
+      "productUrl": "/products/japanese-akoya-pearl-necklace-size-15-sterling-silver-95-900-ct-8794038?variant=53847673110794",
+      "lastUpdated": 1791058275700,
+      "source": "gha",
+      "productUrlChecked": 1791058279165,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791058231944,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -467279,11 +467300,22 @@
         "followingSku": "8794531",
         "followingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 14) in Sterling Silver 186.50 Ct.",
         "followingAuctionCode": "0019894388"
+      },
+      {
+        "start": 1791058231944,
+        "end": 1791058275700,
+        "durationMin": 0.7,
+        "precedingSku": "8794000",
+        "precedingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 16) in Sterling Silver 120.50 Ct.",
+        "precedingAuctionCode": "0019895126",
+        "followingSku": "8794038",
+        "followingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 14) in Sterling Silver 95.90 Ct.",
+        "followingAuctionCode": "0019895127"
       }
     ],
-    "lastOnAirSku": "8794000",
-    "lastOnAirTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 16) in Sterling Silver 120.50 Ct.",
-    "lastOnAirAuctionCode": "0019895126",
+    "lastOnAirSku": "8794038",
+    "lastOnAirTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 14) in Sterling Silver 95.90 Ct.",
+    "lastOnAirAuctionCode": "0019895127",
     "precedingSku": "8794000",
     "precedingTitle": "The Tokyo Treasure - Japanese Akoya Pearl Necklace (Size - 16) in Sterling Silver 120.50 Ct.",
     "precedingAuctionCode": "0019895126"
