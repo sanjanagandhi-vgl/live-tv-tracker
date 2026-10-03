@@ -1867,22 +1867,22 @@
       "sku": "8499105",
       "tvPrice": "",
       "remarks": "",
-      "time": "02:42:19",
+      "time": "04:34:19",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 799.99,
       "missedImg": false,
       "title": "Luxuriant - 18K Yellow Gold IGI Certified VS-E/F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
-      "auctionCode": "0019894550",
+      "auctionCode": "0019894722",
       "source": "gha",
-      "lastAir": 1790991739414,
-      "pdpPrice": "679.99",
+      "lastAir": 1790998459441,
+      "pdpPrice": "979.99",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-03",
-      "lastUpdated": 1790991739414,
+      "lastUpdated": 1790998459441,
       "productUrl": null
     },
     "8610940": {
@@ -416780,8 +416780,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1790998340141,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -462585,11 +462585,22 @@
         "followingSku": "8666669",
         "followingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
         "followingAuctionCode": "0019894703"
+      },
+      {
+        "start": 1790998340141,
+        "end": 1790998459441,
+        "durationMin": 2.0,
+        "precedingSku": "8666669",
+        "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
+        "precedingAuctionCode": "0019894703",
+        "followingSku": "8499105",
+        "followingTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E/F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+        "followingAuctionCode": "0019894722"
       }
     ],
-    "lastOnAirSku": "8666669",
-    "lastOnAirTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
-    "lastOnAirAuctionCode": "0019894703",
+    "lastOnAirSku": "8499105",
+    "lastOnAirTitle": "Luxuriant - 18K Yellow Gold IGI Certified VS-E/F Lab Grown Diamond Oval Cut Solitaire Pendant 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019894722",
     "precedingSku": "8666669",
     "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Necklace (Size - 20) Weight 15.60 Grams",
     "precedingAuctionCode": "0019894703"
