@@ -416742,9 +416742,16 @@
       "img": true,
       "date": "2026-10-03",
       "time": "01:39:16",
-      "productUrl": null,
-      "lastUpdated": 1790987956703,
-      "source": "gha"
+      "productUrl": "/products/close-out-deal-999-white-platinum-band-ring",
+      "lastUpdated": 1790988500851,
+      "source": "gha",
+      "missedAt": 1790988500851,
+      "missedDelay": 9,
+      "missedPrice": 299.99,
+      "missedImg": true,
+      "productUrlChecked": 1790988506680,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8162613": {
       "sku": "8162613",
@@ -416768,8 +416775,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1790988500851,
     "gaps": [
       {
         "start": 1785823527869,
@@ -462512,8 +462519,8 @@
     "lastOnAirSku": "8319329",
     "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Link Necklace (Size - 20)",
     "lastOnAirAuctionCode": "0019893797",
-    "precedingSku": "8477938",
-    "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 30) with Spring Ring Clasp",
-    "precedingAuctionCode": "0019893799"
+    "precedingSku": "8319329",
+    "precedingTitle": "Maestro Collection - 9K Yellow Gold Link Necklace (Size - 20)",
+    "precedingAuctionCode": "0019893797"
   }
 }
