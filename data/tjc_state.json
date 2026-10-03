@@ -417187,17 +417187,17 @@
       "firstAir": 1791028112762,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791029183245,
+      "lastAir": 1791044358073,
       "title": "Maestro Collection - 9K Yellow Gold Turquoise Enamelled Stretchable Mesh Bangle (Size - 7  to 9)",
       "pdpPrice": "299.99",
-      "auctionCode": "0019893930",
+      "auctionCode": "0019895686",
       "buy": true,
       "login": false,
-      "img": false,
+      "img": true,
       "date": "2026-10-03",
-      "time": "13:06:23",
+      "time": "17:19:18",
       "productUrl": "/products/9k-yellow-gold-a-red-garnet-bangle-gold-wt-1-49-gms-1-500-ct-8740771",
-      "lastUpdated": 1791029734278,
+      "lastUpdated": 1791044358073,
       "source": "gha",
       "missedAt": 1791029734278,
       "missedDelay": 9,
@@ -419283,8 +419283,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791044237382,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -465539,11 +465539,22 @@
         "followingSku": "8798029",
         "followingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut La Pantera Ring with Enameling",
         "followingAuctionCode": "0019895678"
+      },
+      {
+        "start": 1791044237382,
+        "end": 1791044358073,
+        "durationMin": 2.0,
+        "precedingSku": "8798029",
+        "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut La Pantera Ring with Enameling",
+        "precedingAuctionCode": "0019895678",
+        "followingSku": "8740771",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Turquoise Enamelled Stretchable Mesh Bangle (Size - 7  to 9)",
+        "followingAuctionCode": "0019895686"
       }
     ],
-    "lastOnAirSku": "8798029",
-    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut La Pantera Ring with Enameling",
-    "lastOnAirAuctionCode": "0019895678",
+    "lastOnAirSku": "8740771",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Turquoise Enamelled Stretchable Mesh Bangle (Size - 7  to 9)",
+    "lastOnAirAuctionCode": "0019895686",
     "precedingSku": "8798029",
     "precedingTitle": "Maestro Collection - 9K Yellow Gold Diamond Cut La Pantera Ring with Enameling",
     "precedingAuctionCode": "0019895678"
