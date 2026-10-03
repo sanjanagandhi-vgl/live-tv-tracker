@@ -419724,11 +419724,29 @@
       "productUrlChecked": 1791049161715,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8795993": {
+      "sku": "8795993",
+      "firstAir": 1791049460309,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791049460309,
+      "title": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+      "pdpPrice": "4599.99",
+      "auctionCode": "0019895301",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-03",
+      "time": "18:44:20",
+      "productUrl": null,
+      "lastUpdated": 1791049460309,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791049341077,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -466093,11 +466111,22 @@
         "followingSku": "4539192",
         "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019895297"
+      },
+      {
+        "start": 1791049341077,
+        "end": 1791049460309,
+        "durationMin": 2.0,
+        "precedingSku": "4539192",
+        "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in R...",
+        "precedingAuctionCode": "0019895297",
+        "followingSku": "8795993",
+        "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019895301"
       }
     ],
-    "lastOnAirSku": "4539192",
-    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in R...",
-    "lastOnAirAuctionCode": "0019895297",
+    "lastOnAirSku": "8795993",
+    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019895301",
     "precedingSku": "4539192",
     "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in R...",
     "precedingAuctionCode": "0019895297"
