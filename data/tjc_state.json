@@ -7228,16 +7228,16 @@
       "firstAir": 1784929942806,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789955238240,
-      "title": "9K Yellow Gold Spiga Necklace",
-      "pdpPrice": 199.99,
-      "auctionCode": "0019879621",
+      "lastAir": 1791065541582,
+      "title": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
+      "pdpPrice": "1609.99",
+      "auctionCode": "0019894887",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-21",
-      "time": "02:47:18",
-      "lastUpdated": 1789955238240,
+      "date": "2026-10-03",
+      "time": "23:12:21",
+      "lastUpdated": 1791065541582,
       "source": "gha",
       "missedAt": 1784930728239,
       "missedDelay": 2,
@@ -421596,8 +421596,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791065432860,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468138,11 +468138,22 @@
         "followingSku": "8323511",
         "followingTitle": "Moissanite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019895213"
+      },
+      {
+        "start": 1791065432860,
+        "end": 1791065541582,
+        "durationMin": 1.8,
+        "precedingSku": "8323511",
+        "precedingTitle": "Moissanite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019895213",
+        "followingSku": "8055959",
+        "followingTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
+        "followingAuctionCode": "0019894887"
       }
     ],
-    "lastOnAirSku": "8323511",
-    "lastOnAirTitle": "Moissanite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019895213",
+    "lastOnAirSku": "8055959",
+    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019894887",
     "precedingSku": "8323511",
     "precedingTitle": "Moissanite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019895213"
