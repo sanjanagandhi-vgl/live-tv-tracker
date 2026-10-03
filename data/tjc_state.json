@@ -419706,11 +419706,15 @@
       "date": "2026-10-03",
       "time": "18:41:17",
       "productUrl": "/products/djoy-natural-white-diamond-i3-g-h-pendant-with-chain-size-18-2-ext-in-rhodium-overlay-sterling-silver-4539192?variant=53818269073674",
-      "lastUpdated": 1791049277236,
+      "lastUpdated": 1791049835408,
       "source": "gha",
       "productUrlChecked": 1791049280459,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1791049835408,
+      "missedDelay": 9,
+      "missedPrice": 79.99,
+      "missedImg": true
     },
     "8797514": {
       "sku": "8797514",
@@ -419737,7 +419741,7 @@
       "firstAir": 1791049460309,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791049757532,
+      "lastAir": 1791049835408,
       "title": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
       "pdpPrice": "699.99",
       "auctionCode": "0019895301",
@@ -419745,9 +419749,9 @@
       "login": false,
       "img": true,
       "date": "2026-10-03",
-      "time": "18:49:17",
+      "time": "18:50:35",
       "productUrl": null,
-      "lastUpdated": 1791049757532,
+      "lastUpdated": 1791049835408,
       "source": "gha"
     },
     "4539176": {
@@ -419767,6 +419771,26 @@
       "source": "gha",
       "productUrl": "/products/djoy-natural-white-diamond-i3-g-h-pendant-with-chain-size-18-2-ext-in-rhodium-overlay-sterling-silver-4539175",
       "productUrlChecked": 1791049586125,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "4539193": {
+      "sku": "4539193",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-03",
+      "time": "18:50:35",
+      "preExisting": true,
+      "missedAt": 1791049835408,
+      "missedDelay": null,
+      "lastUpdated": 1791049835408,
+      "missedPrice": 79.99,
+      "missedImg": true,
+      "title": "The Tokyo Treasure - D'Joy Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019895322",
+      "source": "gha",
+      "productUrl": "/products/djoy-natural-white-diamond-i3-g-h-pendant-with-chain-size-18-2-ext-in-rhodium-overlay-sterling-silver-4539192",
+      "productUrlChecked": 1791049840234,
       "productUrlStatus": 200,
       "productUrl404": false
     }
