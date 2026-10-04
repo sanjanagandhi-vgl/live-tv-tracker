@@ -7973,16 +7973,16 @@
       "firstAir": 1784943197172,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790472862931,
+      "lastAir": 1791149179879,
       "title": "Hotel Quality Premium Pillow Pair - Set of 2 - White",
-      "pdpPrice": "14.99",
-      "auctionCode": "0019884195",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019895948",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-27",
-      "time": "02:34:22",
-      "lastUpdated": 1790472862931,
+      "date": "2026-10-04",
+      "time": "22:26:19",
+      "lastUpdated": 1791149179879,
       "source": "gha",
       "missedAt": 1784943557226,
       "missedDelay": 1,
@@ -425407,8 +425407,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791149125490,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -472873,11 +472873,22 @@
         "followingSku": "8646828",
         "followingTitle": "Livmore Super Soft Ombre Design Blanket (150x200cm) 250gsm - Navy",
         "followingAuctionCode": "0019895942"
+      },
+      {
+        "start": 1791149125490,
+        "end": 1791149179879,
+        "durationMin": 0.9,
+        "precedingSku": "8419133",
+        "precedingTitle": "LA Marey Signature 100% Mulberry Silk Pillow Case with Button (Size 75x50 cm) - Beige",
+        "precedingAuctionCode": "0019895957",
+        "followingSku": "8675128",
+        "followingTitle": "Hotel Quality Premium Pillow Pair - Set of 2 - White",
+        "followingAuctionCode": "0019895948"
       }
     ],
-    "lastOnAirSku": "8419133",
-    "lastOnAirTitle": "LA Marey Signature 100% Mulberry Silk Pillow Case with Button (Size 75x50 cm) - Beige",
-    "lastOnAirAuctionCode": "0019895957",
+    "lastOnAirSku": "8675128",
+    "lastOnAirTitle": "Hotel Quality Premium Pillow Pair - Set of 2 - White",
+    "lastOnAirAuctionCode": "0019895948",
     "precedingSku": "8419133",
     "precedingTitle": "LA Marey Signature 100% Mulberry Silk Pillow Case with Button (Size 75x50 cm) - Beige",
     "precedingAuctionCode": "0019895957"
