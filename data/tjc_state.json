@@ -82563,17 +82563,17 @@
       "firstAir": 1785974661826,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790807544135,
+      "lastAir": 1791156327918,
       "title": "Luxoro - 9K Yellow Gold Floral Spinner Band Ring",
-      "pdpPrice": "249.99",
-      "auctionCode": "0019890974",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019896006",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-30",
-      "time": "23:32:24",
+      "date": "2026-10-05",
+      "time": "00:25:27",
       "productUrl": "/products/luxoro-9k-yellow-gold-floral-band-spinner-ring-m8510534?variant=53191760412938",
-      "lastUpdated": 1790807544135,
+      "lastUpdated": 1791156327918,
       "source": "gha",
       "missedAt": 1785975637574,
       "missedDelay": 9,
@@ -425542,8 +425542,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791156263344,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473129,11 +473129,22 @@
         "followingSku": "7344288",
         "followingTitle": "18K Yellow Gold Love Knot Earring with Push Back",
         "followingAuctionCode": "0019896025"
+      },
+      {
+        "start": 1791156263344,
+        "end": 1791156327918,
+        "durationMin": 1.1,
+        "precedingSku": "7344288",
+        "precedingTitle": "18K Yellow Gold Love Knot Earring with Push Back",
+        "precedingAuctionCode": "0019896025",
+        "followingSku": "8510534",
+        "followingTitle": "Luxoro - 9K Yellow Gold Floral Spinner Band Ring",
+        "followingAuctionCode": "0019896006"
       }
     ],
-    "lastOnAirSku": "7344288",
-    "lastOnAirTitle": "18K Yellow Gold Love Knot Earring with Push Back",
-    "lastOnAirAuctionCode": "0019896025",
+    "lastOnAirSku": "8510534",
+    "lastOnAirTitle": "Luxoro - 9K Yellow Gold Floral Spinner Band Ring",
+    "lastOnAirAuctionCode": "0019896006",
     "precedingSku": "7344288",
     "precedingTitle": "18K Yellow Gold Love Knot Earring with Push Back",
     "precedingAuctionCode": "0019896025"
