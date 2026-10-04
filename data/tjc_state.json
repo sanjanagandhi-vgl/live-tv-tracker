@@ -272034,17 +272034,17 @@
       "firstAir": 1788081929848,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790572398651,
+      "lastAir": 1791094100644,
       "title": "9K Yellow Gold Teddy Drop Earring with Push Back",
-      "pdpPrice": "79.99",
-      "auctionCode": "0019886274",
+      "pdpPrice": "89.99",
+      "auctionCode": "0019895083",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-28",
-      "time": "06:13:18",
+      "date": "2026-10-04",
+      "time": "07:08:20",
       "productUrl": "/products/9k-yellow-gold-teddy-drop-earring-with-push-back-8572440",
-      "lastUpdated": 1790572398651,
+      "lastUpdated": 1791094100644,
       "source": "gha",
       "missedAt": 1788082638391,
       "missedDelay": 10,
@@ -421647,8 +421647,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791094037036,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468431,11 +468431,22 @@
         "followingSku": "7577713",
         "followingTitle": "LIMITED EDITION- 9K Yellow Gold Necklace (Size - 16)",
         "followingAuctionCode": "0019895086"
+      },
+      {
+        "start": 1791094037036,
+        "end": 1791094100644,
+        "durationMin": 1.1,
+        "precedingSku": "7577713",
+        "precedingTitle": "LIMITED EDITION- 9K Yellow Gold Necklace (Size - 16)",
+        "precedingAuctionCode": "0019895086",
+        "followingSku": "8572440",
+        "followingTitle": "9K Yellow Gold Teddy Drop Earring with Push Back",
+        "followingAuctionCode": "0019895083"
       }
     ],
-    "lastOnAirSku": "7577713",
-    "lastOnAirTitle": "LIMITED EDITION- 9K Yellow Gold Necklace (Size - 16)",
-    "lastOnAirAuctionCode": "0019895086",
+    "lastOnAirSku": "8572440",
+    "lastOnAirTitle": "9K Yellow Gold Teddy Drop Earring with Push Back",
+    "lastOnAirAuctionCode": "0019895083",
     "precedingSku": "7577713",
     "precedingTitle": "LIMITED EDITION- 9K Yellow Gold Necklace (Size - 16)",
     "precedingAuctionCode": "0019895086"
