@@ -422455,11 +422455,15 @@
       "date": "2026-10-04",
       "time": "15:32:23",
       "productUrl": "/products/luxuriant-ethiopian-opal-lab-grown-diamond-pendant-with-chain-size-20-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-50-ct-4508482?variant=53746991825162",
-      "lastUpdated": 1791124343345,
+      "lastUpdated": 1791124942510,
       "source": "gha",
       "productUrlChecked": 1791124346555,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1791124942510,
+      "missedDelay": 10,
+      "missedPrice": 89.99,
+      "missedImg": true
     },
     "8772927": {
       "sku": "8772927",
@@ -422641,8 +422645,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791124942510,
     "gaps": [
       {
         "start": 1785823527869,
@@ -469793,8 +469797,8 @@
     "lastOnAirSku": "8782628",
     "lastOnAirTitle": "D'Joy - AAA Ethiopian Opal & White Zircon Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 1.36 Ct.",
     "lastOnAirAuctionCode": "0019894585",
-    "precedingSku": "4508482",
-    "precedingTitle": "Luxuriant - Ethiopian Opal & Lab Grown Diamond Halo Pendant with Chain (Size 20) in 18K Vermeil Y...",
-    "precedingAuctionCode": "0019894394"
+    "precedingSku": "8782628",
+    "precedingTitle": "D'Joy - AAA Ethiopian Opal & White Zircon Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 1.36 Ct.",
+    "precedingAuctionCode": "0019894585"
   }
 }
