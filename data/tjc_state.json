@@ -410493,17 +410493,17 @@
       "firstAir": 1790849841240,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790850560416,
+      "lastAir": 1791073701300,
       "title": "24K Gold (99.9% Purity) Embossed Cross Collectable",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019891938",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019895250",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-01",
-      "time": "11:29:20",
+      "date": "2026-10-04",
+      "time": "01:28:21",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2698285299",
-      "lastUpdated": 1790851160477,
+      "lastUpdated": 1791073701300,
       "source": "gha",
       "missedAt": 1790851160477,
       "missedDelay": 10,
@@ -421647,8 +421647,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791073637861,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468299,11 +468299,22 @@
         "followingSku": "8709408",
         "followingTitle": "STRADA Limited Edition Dragonfly Japanese Movement Water Resistant Vintage Pocket Watch with 31 Inch Chain",
         "followingAuctionCode": "0019895223"
+      },
+      {
+        "start": 1791073637861,
+        "end": 1791073701300,
+        "durationMin": 1.1,
+        "precedingSku": "8322853",
+        "precedingTitle": "Set of 4 Pairs of Snuggle Toes Cosy Socks (Size UK 4-8) - Christmas Pud, Ho Ho Ho, Christmas Tree & Elf",
+        "precedingAuctionCode": "0019895249",
+        "followingSku": "8328248",
+        "followingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+        "followingAuctionCode": "0019895250"
       }
     ],
-    "lastOnAirSku": "8322853",
-    "lastOnAirTitle": "Set of 4 Pairs of Snuggle Toes Cosy Socks (Size UK 4-8) - Christmas Pud, Ho Ho Ho, Christmas Tree & Elf",
-    "lastOnAirAuctionCode": "0019895249",
+    "lastOnAirSku": "8328248",
+    "lastOnAirTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+    "lastOnAirAuctionCode": "0019895250",
     "precedingSku": "8322853",
     "precedingTitle": "Set of 4 Pairs of Snuggle Toes Cosy Socks (Size UK 4-8) - Christmas Pud, Ho Ho Ho, Christmas Tree & Elf",
     "precedingAuctionCode": "0019895249"
