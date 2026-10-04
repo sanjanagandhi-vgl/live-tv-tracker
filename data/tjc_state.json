@@ -424376,11 +424376,15 @@
       "date": "2026-10-04",
       "time": "18:55:24",
       "productUrl": "/products/djoy-ethiopian-opal-dangling-earring-sterling-silver-0-648-ct-8781823?variant=53846579118346",
-      "lastUpdated": 1791136524301,
+      "lastUpdated": 1791137126126,
       "source": "gha",
       "productUrlChecked": 1791136531696,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1791137126126,
+      "missedDelay": 10,
+      "missedPrice": 59.99,
+      "missedImg": true
     },
     "4509989": {
       "sku": "4509989",
@@ -424419,11 +424423,29 @@
       "productUrlChecked": 1791136883334,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4539752": {
+      "sku": "4539752",
+      "firstAir": 1791137126126,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791137126126,
+      "title": "D'Joy - Ethiopian Opal, Multi-Tourmaline & White Zircon Floral Cluster Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 4.80 Ct.",
+      "pdpPrice": "420.99",
+      "auctionCode": "0019895253",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-04",
+      "time": "19:05:26",
+      "productUrl": null,
+      "lastUpdated": 1791137126126,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791137062064,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -471723,11 +471745,22 @@
         "followingSku": "4509989",
         "followingTitle": "D'Joy - Ethiopian Opal & White Zircon Sunburst Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019894608"
+      },
+      {
+        "start": 1791137062064,
+        "end": 1791137126126,
+        "durationMin": 1.1,
+        "precedingSku": "4509989",
+        "precedingTitle": "D'Joy - Ethiopian Opal & White Zircon Sunburst Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019894608",
+        "followingSku": "4539752",
+        "followingTitle": "D'Joy - Ethiopian Opal, Multi-Tourmaline & White Zircon Floral Cluster Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 4.80 Ct.",
+        "followingAuctionCode": "0019895253"
       }
     ],
-    "lastOnAirSku": "4509989",
-    "lastOnAirTitle": "D'Joy - Ethiopian Opal & White Zircon Sunburst Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019894608",
+    "lastOnAirSku": "4539752",
+    "lastOnAirTitle": "D'Joy - Ethiopian Opal, Multi-Tourmaline & White Zircon Floral Cluster Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 4.80 Ct.",
+    "lastOnAirAuctionCode": "0019895253",
     "precedingSku": "4509989",
     "precedingTitle": "D'Joy - Ethiopian Opal & White Zircon Sunburst Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019894608"
