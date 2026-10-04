@@ -170080,17 +170080,17 @@
       "firstAir": 1786830265340,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790252784441,
+      "lastAir": 1791094277998,
       "title": "9K Yellow Gold Heart Bracelet (Size - 7.5)",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019882295",
+      "pdpPrice": "1345.00",
+      "auctionCode": "0019895085",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-24",
-      "time": "13:26:24",
+      "date": "2026-10-04",
+      "time": "07:11:17",
       "productUrl": "/products/9k-yellow-gold-bracelet-size-7-5-8570643?variant=53191684391178",
-      "lastUpdated": 1790252784441,
+      "lastUpdated": 1791094277998,
       "source": "gha",
       "missedAt": 1786830931285,
       "missedDelay": 9,
@@ -421647,8 +421647,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791094234732,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468442,11 +468442,22 @@
         "followingSku": "8572440",
         "followingTitle": "9K Yellow Gold Teddy Drop Earring with Push Back",
         "followingAuctionCode": "0019895083"
+      },
+      {
+        "start": 1791094234732,
+        "end": 1791094277998,
+        "durationMin": 0.7,
+        "precedingSku": "8572440",
+        "precedingTitle": "9K Yellow Gold Teddy Drop Earring with Push Back",
+        "precedingAuctionCode": "0019895083",
+        "followingSku": "8570643",
+        "followingTitle": "9K Yellow Gold Heart Bracelet (Size - 7.5)",
+        "followingAuctionCode": "0019895085"
       }
     ],
-    "lastOnAirSku": "8572440",
-    "lastOnAirTitle": "9K Yellow Gold Teddy Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019895083",
+    "lastOnAirSku": "8570643",
+    "lastOnAirTitle": "9K Yellow Gold Heart Bracelet (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019895085",
     "precedingSku": "8572440",
     "precedingTitle": "9K Yellow Gold Teddy Drop Earring with Push Back",
     "precedingAuctionCode": "0019895083"
