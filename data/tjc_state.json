@@ -326375,17 +326375,17 @@
       "firstAir": 1788968740250,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791096196351,
+      "lastAir": 1791145846392,
       "title": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
       "pdpPrice": "599.99",
-      "auctionCode": "0019895076",
+      "auctionCode": "0019896502",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-04",
-      "time": "07:43:16",
+      "time": "21:30:46",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-3-60-gms-8753816?variant=53620566393098",
-      "lastUpdated": 1791096196351,
+      "lastUpdated": 1791145846392,
       "source": "gha",
       "missedAt": 1788970704567,
       "missedDelay": 9,
@@ -425228,9 +425228,16 @@
       "img": true,
       "date": "2026-10-04",
       "time": "21:20:32",
-      "productUrl": null,
-      "lastUpdated": 1791145232825,
-      "source": "gha"
+      "productUrl": "/products/9k-yellow-gold-necklace-size-22-gold-wt-15-10-gms-8753813",
+      "lastUpdated": 1791145846392,
+      "source": "gha",
+      "missedAt": 1791145846392,
+      "missedDelay": 10,
+      "missedPrice": 1799.99,
+      "missedImg": true,
+      "productUrlChecked": 1791145849956,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8774577": {
       "sku": "8774577",
@@ -425388,8 +425395,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791145638843,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -472810,11 +472817,22 @@
         "followingSku": "8692380",
         "followingTitle": "Maestro Biggest Vicenza Find- 9K Yellow Gold Hoop Earring",
         "followingAuctionCode": "0019889330"
+      },
+      {
+        "start": 1791145638843,
+        "end": 1791145846392,
+        "durationMin": 3.5,
+        "precedingSku": "8692380",
+        "precedingTitle": "Maestro Biggest Vicenza Find- 9K Yellow Gold Hoop Earring",
+        "precedingAuctionCode": "0019889330",
+        "followingSku": "8753823",
+        "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
+        "followingAuctionCode": "0019896502"
       }
     ],
-    "lastOnAirSku": "8692380",
-    "lastOnAirTitle": "Maestro Biggest Vicenza Find- 9K Yellow Gold Hoop Earring",
-    "lastOnAirAuctionCode": "0019889330",
+    "lastOnAirSku": "8753823",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
+    "lastOnAirAuctionCode": "0019896502",
     "precedingSku": "8692380",
     "precedingTitle": "Maestro Biggest Vicenza Find- 9K Yellow Gold Hoop Earring",
     "precedingAuctionCode": "0019889330"
