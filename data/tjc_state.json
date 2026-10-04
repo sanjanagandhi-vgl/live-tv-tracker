@@ -223193,17 +223193,17 @@
       "firstAir": 1787478680190,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787999359119,
+      "lastAir": 1791110359229,
       "title": "LIVMORE Smart Nutritional Kitchen Scale with 2feat TFT Colour Screen - Bluetooth Macro & Calorie Tracker App Scale for Meal Prep, 5kg-11lb Capacity (230x160x17mm)",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019849019",
+      "pdpPrice": "239.99",
+      "auctionCode": "0019895143",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-29",
-      "time": "11:29:19",
+      "date": "2026-10-04",
+      "time": "11:39:19",
       "productUrl": "/products/livmore-kitchen-scale-size-one-size-multi-color-multicolor-8515366",
-      "lastUpdated": 1787999359119,
+      "lastUpdated": 1791110359229,
       "source": "gha",
       "missedAt": 1787480062076,
       "missedDelay": 10,
@@ -422025,8 +422025,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791110300540,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -469018,11 +469018,22 @@
         "followingSku": "8646524",
         "followingTitle": null,
         "followingAuctionCode": "0019895130"
+      },
+      {
+        "start": 1791110300540,
+        "end": 1791110359229,
+        "durationMin": 1.0,
+        "precedingSku": "8646524",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019895130",
+        "followingSku": "8515366",
+        "followingTitle": "LIVMORE Smart Nutritional Kitchen Scale with 2feat TFT Colour Screen - Bluetooth Macro & Calorie Tracker App Scale for Meal Prep, 5kg-11lb Capacity (230x160x17mm)",
+        "followingAuctionCode": "0019895143"
       }
     ],
-    "lastOnAirSku": "8646524",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019895130",
+    "lastOnAirSku": "8515366",
+    "lastOnAirTitle": "LIVMORE Smart Nutritional Kitchen Scale with 2feat TFT Colour Screen - Bluetooth Macro & Calorie Tracker App Scale for Meal Prep, 5kg-11lb Capacity (230x160x17mm)",
+    "lastOnAirAuctionCode": "0019895143",
     "precedingSku": "8646524",
     "precedingTitle": null,
     "precedingAuctionCode": "0019895130"
