@@ -422029,11 +422029,29 @@
       "productUrlChecked": 1791109040887,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8502275": {
+      "sku": "8502275",
+      "firstAir": 1791113727385,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791113727385,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019895150",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-04",
+      "time": "12:35:27",
+      "productUrl": null,
+      "lastUpdated": 1791113727385,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791113659663,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -469080,11 +469098,22 @@
         "followingSku": "8646022",
         "followingTitle": "LIVMORE Super Soft Faux Rabbit Fur Leopard Pillowcase (75x50 cm)",
         "followingAuctionCode": "0019896176"
+      },
+      {
+        "start": 1791113659663,
+        "end": 1791113727385,
+        "durationMin": 1.1,
+        "precedingSku": "8646022",
+        "precedingTitle": "LIVMORE Super Soft Faux Rabbit Fur Leopard Pillowcase (75x50 cm)",
+        "precedingAuctionCode": "0019896176",
+        "followingSku": "8502275",
+        "followingTitle": null,
+        "followingAuctionCode": "0019895150"
       }
     ],
-    "lastOnAirSku": "8646022",
-    "lastOnAirTitle": "LIVMORE Super Soft Faux Rabbit Fur Leopard Pillowcase (75x50 cm)",
-    "lastOnAirAuctionCode": "0019896176",
+    "lastOnAirSku": "8502275",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019895150",
     "precedingSku": "8646022",
     "precedingTitle": "LIVMORE Super Soft Faux Rabbit Fur Leopard Pillowcase (75x50 cm)",
     "precedingAuctionCode": "0019896176"
