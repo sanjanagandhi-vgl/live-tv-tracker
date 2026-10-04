@@ -425521,11 +425521,29 @@
       "productUrlChecked": 1791155544389,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7939328": {
+      "sku": "7939328",
+      "firstAir": 1791156032153,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791156032153,
+      "title": "Hatton Garden Closeout - 9K Yellow Gold Cross Pendant",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019896028",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-05",
+      "time": "00:20:32",
+      "productUrl": null,
+      "lastUpdated": 1791156032153,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791155956109,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473089,11 +473107,22 @@
         "followingSku": "7579399",
         "followingTitle": "9K Yellow Gold  Chain (Size - 16),  Gold Wt. 2.5 Gms",
         "followingAuctionCode": "0019896016"
+      },
+      {
+        "start": 1791155956109,
+        "end": 1791156032153,
+        "durationMin": 1.3,
+        "precedingSku": "7579399",
+        "precedingTitle": "9K Yellow Gold  Chain (Size - 16),  Gold Wt. 2.5 Gms",
+        "precedingAuctionCode": "0019896016",
+        "followingSku": "7939328",
+        "followingTitle": "Hatton Garden Closeout - 9K Yellow Gold Cross Pendant",
+        "followingAuctionCode": "0019896028"
       }
     ],
-    "lastOnAirSku": "7579399",
-    "lastOnAirTitle": "9K Yellow Gold  Chain (Size - 16),  Gold Wt. 2.5 Gms",
-    "lastOnAirAuctionCode": "0019896016",
+    "lastOnAirSku": "7939328",
+    "lastOnAirTitle": "Hatton Garden Closeout - 9K Yellow Gold Cross Pendant",
+    "lastOnAirAuctionCode": "0019896028",
     "precedingSku": "7579399",
     "precedingTitle": "9K Yellow Gold  Chain (Size - 16),  Gold Wt. 2.5 Gms",
     "precedingAuctionCode": "0019896016"
