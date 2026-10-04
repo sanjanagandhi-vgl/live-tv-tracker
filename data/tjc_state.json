@@ -391784,21 +391784,26 @@
       "sku": "8228261",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "19:24:22",
+      "date": "2026-10-04",
+      "time": "10:06:20",
       "preExisting": true,
       "missedAt": 1790360662448,
       "missedDelay": null,
-      "lastUpdated": 1790360662448,
+      "lastUpdated": 1791104780755,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "Arabian Oud Home Fragrance Collection- Dubai Momento - 300ML",
-      "auctionCode": "0019884245",
+      "title": "Arabian Oud Home Fragrance Collection - 300ML",
+      "auctionCode": "0019895109",
       "source": "gha",
       "productUrl": "/products/closeout-deal-nusuk-dubai-ana-al-awwal-air-freshener-300ml",
       "productUrlChecked": 1790360668279,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791104780755,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7948829": {
       "sku": "7948829",
@@ -421925,8 +421930,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791104730066,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468841,11 +468846,22 @@
         "followingSku": "8775609",
         "followingTitle": "Lucy Q - Lab Grown Diamond (SI/G-H) Necklace (Size - 20) in Rhodium Overlay Sterling Silver 0.75 Ct, Silver Wt. 62.00 Gms",
         "followingAuctionCode": "0019894277"
+      },
+      {
+        "start": 1791104730066,
+        "end": 1791104780755,
+        "durationMin": 0.8,
+        "precedingSku": "8692322",
+        "precedingTitle": "9K Yellow Gold Earring with Push Back",
+        "precedingAuctionCode": "0019893783",
+        "followingSku": "8228261",
+        "followingTitle": "Arabian Oud Home Fragrance Collection - 300ML",
+        "followingAuctionCode": "0019895109"
       }
     ],
-    "lastOnAirSku": "8692322",
-    "lastOnAirTitle": "9K Yellow Gold Earring with Push Back",
-    "lastOnAirAuctionCode": "0019893783",
+    "lastOnAirSku": "8228261",
+    "lastOnAirTitle": "Arabian Oud Home Fragrance Collection - 300ML",
+    "lastOnAirAuctionCode": "0019895109",
     "precedingSku": "8692322",
     "precedingTitle": "9K Yellow Gold Earring with Push Back",
     "precedingAuctionCode": "0019893783"
