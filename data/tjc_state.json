@@ -6688,18 +6688,18 @@
       "sku": "7958078",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-03",
-      "time": "08:12:20",
+      "date": "2026-10-04",
+      "time": "03:23:16",
       "preExisting": true,
       "missedAt": 1784916085649,
       "missedDelay": null,
-      "lastUpdated": 1791011540339,
+      "lastUpdated": 1791080596466,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
-      "auctionCode": "0019893298",
+      "auctionCode": "0019895807",
       "source": "gha",
-      "lastAir": 1791011540339,
+      "lastAir": 1791080596466,
       "pdpPrice": "59.99",
       "buy": true,
       "login": false,
@@ -421647,8 +421647,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791079997544,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468332,11 +468332,22 @@
         "followingSku": "7169130",
         "followingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
         "followingAuctionCode": "0019896038"
+      },
+      {
+        "start": 1791079997544,
+        "end": 1791080596466,
+        "durationMin": 10.0,
+        "precedingSku": "7169130",
+        "precedingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
+        "precedingAuctionCode": "0019896038",
+        "followingSku": "7958078",
+        "followingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+        "followingAuctionCode": "0019895807"
       }
     ],
-    "lastOnAirSku": "7169130",
-    "lastOnAirTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
-    "lastOnAirAuctionCode": "0019896038",
+    "lastOnAirSku": "7958078",
+    "lastOnAirTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+    "lastOnAirAuctionCode": "0019895807",
     "precedingSku": "7169130",
     "precedingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
     "precedingAuctionCode": "0019896038"
