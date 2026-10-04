@@ -421977,11 +421977,29 @@
       "productUrl": null,
       "lastUpdated": 1791108436948,
       "source": "gha"
+    },
+    "8646524": {
+      "sku": "8646524",
+      "firstAir": 1791108740776,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791108740776,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019895130",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-04",
+      "time": "11:12:20",
+      "productUrl": null,
+      "lastUpdated": 1791108740776,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791108500599,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468962,11 +468980,22 @@
         "followingSku": "8646354",
         "followingTitle": "LIVMORE Set of 2 - Faux Fur Leopard Print Square Chair Seat Cushions (40x40cm) - Brown",
         "followingAuctionCode": "0019895099"
+      },
+      {
+        "start": 1791108500599,
+        "end": 1791108740776,
+        "durationMin": 4.0,
+        "precedingSku": "8646354",
+        "precedingTitle": "LIVMORE Set of 2 - Faux Fur Leopard Print Square Chair Seat Cushions (40x40cm) - Brown",
+        "precedingAuctionCode": "0019895099",
+        "followingSku": "8646524",
+        "followingTitle": null,
+        "followingAuctionCode": "0019895130"
       }
     ],
-    "lastOnAirSku": "8646354",
-    "lastOnAirTitle": "LIVMORE Set of 2 - Faux Fur Leopard Print Square Chair Seat Cushions (40x40cm) - Brown",
-    "lastOnAirAuctionCode": "0019895099",
+    "lastOnAirSku": "8646524",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019895130",
     "precedingSku": "8646354",
     "precedingTitle": "LIVMORE Set of 2 - Faux Fur Leopard Print Square Chair Seat Cushions (40x40cm) - Brown",
     "precedingAuctionCode": "0019895099"
