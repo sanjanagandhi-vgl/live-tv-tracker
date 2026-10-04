@@ -421924,14 +421924,39 @@
       "img": true,
       "date": "2026-10-04",
       "time": "10:04:24",
+      "productUrl": "/products/9k-yellow-gold-earring-gold-wt-0-69-gms-8692322",
+      "lastUpdated": 1791105259361,
+      "source": "gha",
+      "missedAt": 1791105259361,
+      "missedDelay": 10,
+      "missedPrice": 129.99,
+      "missedImg": true,
+      "productUrlChecked": 1791105265132,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7883719": {
+      "sku": "7883719",
+      "firstAir": 1791105259361,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791105259361,
+      "title": "NUSUK Areej Al Zahoor Air Freshener - 300ml",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019895069",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-04",
+      "time": "10:14:19",
       "productUrl": null,
-      "lastUpdated": 1791104664893,
+      "lastUpdated": 1791105259361,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791105196924,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468857,11 +468882,22 @@
         "followingSku": "8228261",
         "followingTitle": "Arabian Oud Home Fragrance Collection - 300ML",
         "followingAuctionCode": "0019895109"
+      },
+      {
+        "start": 1791105196924,
+        "end": 1791105259361,
+        "durationMin": 1.0,
+        "precedingSku": "8228261",
+        "precedingTitle": "Arabian Oud Home Fragrance Collection - 300ML",
+        "precedingAuctionCode": "0019895109",
+        "followingSku": "7883719",
+        "followingTitle": "NUSUK Areej Al Zahoor Air Freshener - 300ml",
+        "followingAuctionCode": "0019895069"
       }
     ],
-    "lastOnAirSku": "8228261",
-    "lastOnAirTitle": "Arabian Oud Home Fragrance Collection - 300ML",
-    "lastOnAirAuctionCode": "0019895109",
+    "lastOnAirSku": "7883719",
+    "lastOnAirTitle": "NUSUK Areej Al Zahoor Air Freshener - 300ml",
+    "lastOnAirAuctionCode": "0019895069",
     "precedingSku": "8228261",
     "precedingTitle": "Arabian Oud Home Fragrance Collection - 300ML",
     "precedingAuctionCode": "0019895109"
