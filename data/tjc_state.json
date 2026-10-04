@@ -60344,17 +60344,17 @@
       "firstAir": 1785707780813,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785841278498,
+      "lastAir": 1791155299642,
       "title": "Italian Made - 9K Yellow Gold Curb Necklace (Size - 18) Gold Wt 3.80gms",
       "pdpPrice": "359.99",
-      "auctionCode": "0019806646",
+      "auctionCode": "0019895934",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-04",
-      "time": "12:01:18",
+      "date": "2026-10-05",
+      "time": "00:08:19",
       "productUrl": "/products/9k-yellow-gold-curb-chain-size-18-with-lobster-clasp-gold-wt-3-80-gms-8613729",
-      "lastUpdated": 1785841278498,
+      "lastUpdated": 1791155299642,
       "source": "gha",
       "missedAt": 1785708863161,
       "missedDelay": 9,
@@ -425504,8 +425504,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791155238985,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473047,11 +473047,22 @@
         "followingSku": "8647001",
         "followingTitle": "9K Yellow Gold Hoop Earring with Clasp",
         "followingAuctionCode": "0019895933"
+      },
+      {
+        "start": 1791155238985,
+        "end": 1791155299642,
+        "durationMin": 1.0,
+        "precedingSku": "8647001",
+        "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019895933",
+        "followingSku": "8613729",
+        "followingTitle": "Italian Made - 9K Yellow Gold Curb Necklace (Size - 18) Gold Wt 3.80gms",
+        "followingAuctionCode": "0019895934"
       }
     ],
-    "lastOnAirSku": "8647001",
-    "lastOnAirTitle": "9K Yellow Gold Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019895933",
+    "lastOnAirSku": "8613729",
+    "lastOnAirTitle": "Italian Made - 9K Yellow Gold Curb Necklace (Size - 18) Gold Wt 3.80gms",
+    "lastOnAirAuctionCode": "0019895934",
     "precedingSku": "8647001",
     "precedingTitle": "9K Yellow Gold Hoop Earring with Clasp",
     "precedingAuctionCode": "0019895933"
