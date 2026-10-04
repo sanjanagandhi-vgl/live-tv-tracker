@@ -422174,11 +422174,15 @@
       "date": "2026-10-04",
       "time": "14:28:21",
       "productUrl": "/products/ethiopian-opal-white-zircon-pendant-with-chain-size-20-mix-metal-0-60-ct-0-930-ct-4534644?variant=53846520889610",
-      "lastUpdated": 1791120501179,
+      "lastUpdated": 1791120980034,
       "source": "gha",
       "productUrlChecked": 1791120504858,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1791120980034,
+      "missedDelay": 8,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8700331": {
       "sku": "8700331",
@@ -422203,8 +422207,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791120980034,
     "gaps": [
       {
         "start": 1785823527869,
@@ -469311,8 +469315,8 @@
     "lastOnAirSku": "8700331",
     "lastOnAirTitle": "D'Joy - AAA Ethiopian Opal & White Zircon Dangling Earring in Rhodium Overlay Sterling Silver 1.7...",
     "lastOnAirAuctionCode": "0019894457",
-    "precedingSku": "8700330",
-    "precedingTitle": "D'Joy - Ethiopian Opal & White Zircon Earring with Push Post in Yellow Gold Plated Sterling Silver",
-    "precedingAuctionCode": "0019894454"
+    "precedingSku": "8700331",
+    "precedingTitle": "D'Joy - AAA Ethiopian Opal & White Zircon Dangling Earring in Rhodium Overlay Sterling Silver 1.7...",
+    "precedingAuctionCode": "0019894457"
   }
 }
