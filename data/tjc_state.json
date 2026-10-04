@@ -422090,11 +422090,29 @@
       "auctionCode": "0019896048",
       "source": "gha",
       "productUrl": null
+    },
+    "8194432": {
+      "sku": "8194432",
+      "firstAir": 1791115462924,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791115462924,
+      "title": "6 Inch 21V Chainsaw with 2 Chains and a 2 Batteries (Size 42x11x10 cm) - Blue",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019895189",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-04",
+      "time": "13:04:22",
+      "productUrl": null,
+      "lastUpdated": 1791115462924,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791115377904,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -469152,11 +469170,22 @@
         "followingSku": "8502275",
         "followingTitle": null,
         "followingAuctionCode": "0019895150"
+      },
+      {
+        "start": 1791115377904,
+        "end": 1791115462924,
+        "durationMin": 1.4,
+        "precedingSku": "8646354",
+        "precedingTitle": "LIVMORE Set of 2 - Faux Fur Leopard Print Square Chair Seat Cushions (40x40cm) - Brown",
+        "precedingAuctionCode": "0019896227",
+        "followingSku": "8194432",
+        "followingTitle": "6 Inch 21V Chainsaw with 2 Chains and a 2 Batteries (Size 42x11x10 cm) - Blue",
+        "followingAuctionCode": "0019895189"
       }
     ],
-    "lastOnAirSku": "8646354",
-    "lastOnAirTitle": "LIVMORE Set of 2 - Faux Fur Leopard Print Square Chair Seat Cushions (40x40cm) - Brown",
-    "lastOnAirAuctionCode": "0019896227",
+    "lastOnAirSku": "8194432",
+    "lastOnAirTitle": "6 Inch 21V Chainsaw with 2 Chains and a 2 Batteries (Size 42x11x10 cm) - Blue",
+    "lastOnAirAuctionCode": "0019895189",
     "precedingSku": "8646354",
     "precedingTitle": "LIVMORE Set of 2 - Faux Fur Leopard Print Square Chair Seat Cushions (40x40cm) - Brown",
     "precedingAuctionCode": "0019896227"
