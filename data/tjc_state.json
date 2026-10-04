@@ -419427,17 +419427,17 @@
       "firstAir": 1791044726424,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791044726424,
+      "lastAir": 1791156141148,
       "title": "18K Yellow Gold Love Knot Earring with Push Back",
-      "pdpPrice": "299.99",
-      "auctionCode": "0019894832",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019896025",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-03",
-      "time": "17:25:26",
+      "date": "2026-10-05",
+      "time": "00:22:21",
       "productUrl": "/products/18k-yellow-gold-earring-gold-wt-1-4-gms",
-      "lastUpdated": 1791045326075,
+      "lastUpdated": 1791156141148,
       "source": "gha",
       "missedAt": 1791045326075,
       "missedDelay": 10,
@@ -425542,8 +425542,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791156077339,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473118,11 +473118,22 @@
         "followingSku": "7939328",
         "followingTitle": "Hatton Garden Closeout - 9K Yellow Gold Cross Pendant",
         "followingAuctionCode": "0019896028"
+      },
+      {
+        "start": 1791156077339,
+        "end": 1791156141148,
+        "durationMin": 1.1,
+        "precedingSku": "7939328",
+        "precedingTitle": "Hatton Garden Closeout - 9K Yellow Gold Cross Pendant",
+        "precedingAuctionCode": "0019896028",
+        "followingSku": "7344288",
+        "followingTitle": "18K Yellow Gold Love Knot Earring with Push Back",
+        "followingAuctionCode": "0019896025"
       }
     ],
-    "lastOnAirSku": "7939328",
-    "lastOnAirTitle": "Hatton Garden Closeout - 9K Yellow Gold Cross Pendant",
-    "lastOnAirAuctionCode": "0019896028",
+    "lastOnAirSku": "7344288",
+    "lastOnAirTitle": "18K Yellow Gold Love Knot Earring with Push Back",
+    "lastOnAirAuctionCode": "0019896025",
     "precedingSku": "7939328",
     "precedingTitle": "Hatton Garden Closeout - 9K Yellow Gold Cross Pendant",
     "precedingAuctionCode": "0019896028"
