@@ -425367,11 +425367,29 @@
       "auctionCode": "0019894207",
       "source": "gha",
       "productUrl": null
+    },
+    "8692380": {
+      "sku": "8692380",
+      "firstAir": 1791145342535,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791145342535,
+      "title": "Maestro Biggest Vicenza Find- 9K Yellow Gold Hoop Earring",
+      "pdpPrice": "2999.99",
+      "auctionCode": "0019889330",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-04",
+      "time": "21:22:22",
+      "productUrl": null,
+      "lastUpdated": 1791145342535,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791145277111,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -472781,11 +472799,22 @@
         "followingSku": "8753813",
         "followingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Graduated Rope Necklace (Size - 22) with Lobster Clasp, Gold Wt. 15.10 Gms",
         "followingAuctionCode": "0019896458"
+      },
+      {
+        "start": 1791145277111,
+        "end": 1791145342535,
+        "durationMin": 1.1,
+        "precedingSku": "8753813",
+        "precedingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Graduated Rope Necklace (Size - 22) with Lobster Clasp, Gold Wt. 15.10 Gms",
+        "precedingAuctionCode": "0019896458",
+        "followingSku": "8692380",
+        "followingTitle": "Maestro Biggest Vicenza Find- 9K Yellow Gold Hoop Earring",
+        "followingAuctionCode": "0019889330"
       }
     ],
-    "lastOnAirSku": "8753813",
-    "lastOnAirTitle": "MAESTRO COLLECTION - 9K Yellow Gold Graduated Rope Necklace (Size - 22) with Lobster Clasp, Gold Wt. 15.10 Gms",
-    "lastOnAirAuctionCode": "0019896458",
+    "lastOnAirSku": "8692380",
+    "lastOnAirTitle": "Maestro Biggest Vicenza Find- 9K Yellow Gold Hoop Earring",
+    "lastOnAirAuctionCode": "0019889330",
     "precedingSku": "8753813",
     "precedingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Graduated Rope Necklace (Size - 22) with Lobster Clasp, Gold Wt. 15.10 Gms",
     "precedingAuctionCode": "0019896458"
