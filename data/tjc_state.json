@@ -14439,16 +14439,16 @@
       "firstAir": 1785050433506,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788904761380,
+      "lastAir": 1791094579379,
       "title": "9K Yellow Gold Hoop Earring",
-      "pdpPrice": "149.99",
-      "auctionCode": "0019862180",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019895048",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-08",
-      "time": "22:59:21",
-      "lastUpdated": 1788904761380,
+      "date": "2026-10-04",
+      "time": "07:16:19",
+      "lastUpdated": 1791094579379,
       "source": "gha",
       "missedAt": 1785050780487,
       "missedDelay": 2,
@@ -421647,8 +421647,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791094533963,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -468453,11 +468453,22 @@
         "followingSku": "8570643",
         "followingTitle": "9K Yellow Gold Heart Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019895085"
+      },
+      {
+        "start": 1791094533963,
+        "end": 1791094579379,
+        "durationMin": 0.8,
+        "precedingSku": "8570643",
+        "precedingTitle": "9K Yellow Gold Heart Bracelet (Size - 7.5)",
+        "precedingAuctionCode": "0019895085",
+        "followingSku": "8588272",
+        "followingTitle": "9K Yellow Gold Hoop Earring",
+        "followingAuctionCode": "0019895048"
       }
     ],
-    "lastOnAirSku": "8570643",
-    "lastOnAirTitle": "9K Yellow Gold Heart Bracelet (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019895085",
+    "lastOnAirSku": "8588272",
+    "lastOnAirTitle": "9K Yellow Gold Hoop Earring",
+    "lastOnAirAuctionCode": "0019895048",
     "precedingSku": "8570643",
     "precedingTitle": "9K Yellow Gold Heart Bracelet (Size - 7.5)",
     "precedingAuctionCode": "0019895085"
