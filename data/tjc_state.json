@@ -425539,11 +425539,29 @@
       "productUrl": null,
       "lastUpdated": 1791156032153,
       "source": "gha"
+    },
+    "7192230": {
+      "sku": "7192230",
+      "firstAir": 1791157231960,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791157231960,
+      "title": "9K Yellow Gold 2.5mm Diamond Cut Figaro Belcher Chain 18 Inch",
+      "pdpPrice": "469.99",
+      "auctionCode": "0019896022",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-05",
+      "time": "00:40:31",
+      "productUrl": null,
+      "lastUpdated": 1791157231960,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791157157181,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473140,11 +473158,22 @@
         "followingSku": "8510534",
         "followingTitle": "Luxoro - 9K Yellow Gold Floral Spinner Band Ring",
         "followingAuctionCode": "0019896006"
+      },
+      {
+        "start": 1791157157181,
+        "end": 1791157231960,
+        "durationMin": 1.2,
+        "precedingSku": "8699185",
+        "precedingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+        "precedingAuctionCode": "0019893311",
+        "followingSku": "7192230",
+        "followingTitle": "9K Yellow Gold 2.5mm Diamond Cut Figaro Belcher Chain 18 Inch",
+        "followingAuctionCode": "0019896022"
       }
     ],
-    "lastOnAirSku": "8699185",
-    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
-    "lastOnAirAuctionCode": "0019893311",
+    "lastOnAirSku": "7192230",
+    "lastOnAirTitle": "9K Yellow Gold 2.5mm Diamond Cut Figaro Belcher Chain 18 Inch",
+    "lastOnAirAuctionCode": "0019896022",
     "precedingSku": "8699185",
     "precedingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
     "precedingAuctionCode": "0019893311"
