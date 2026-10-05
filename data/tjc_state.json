@@ -4703,19 +4703,19 @@
       "sku": "8525765",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-04",
-      "time": "00:31:20",
+      "date": "2026-10-05",
+      "time": "07:49:18",
       "preExisting": true,
       "missedAt": 1784888782088,
       "missedDelay": null,
-      "lastUpdated": 1791070280973,
+      "lastUpdated": 1791182958999,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Red",
-      "auctionCode": "0019895285",
+      "auctionCode": "0019896061",
       "source": "gha",
-      "lastAir": 1791070280973,
-      "pdpPrice": "14.99",
+      "lastAir": 1791182958999,
+      "pdpPrice": "39.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -425709,8 +425709,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791182908560,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473626,11 +473626,22 @@
         "followingSku": "8583348",
         "followingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
         "followingAuctionCode": "0019893972"
+      },
+      {
+        "start": 1791182908560,
+        "end": 1791182958999,
+        "durationMin": 0.8,
+        "precedingSku": "8583348",
+        "precedingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
+        "precedingAuctionCode": "0019893972",
+        "followingSku": "8525765",
+        "followingTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Red",
+        "followingAuctionCode": "0019896061"
       }
     ],
-    "lastOnAirSku": "8583348",
-    "lastOnAirTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
-    "lastOnAirAuctionCode": "0019893972",
+    "lastOnAirSku": "8525765",
+    "lastOnAirTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Red",
+    "lastOnAirAuctionCode": "0019896061",
     "precedingSku": "8583348",
     "precedingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Burgundy",
     "precedingAuctionCode": "0019893972"
