@@ -376798,17 +376798,17 @@
       "firstAir": 1789977932549,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790693542574,
+      "lastAir": 1791181278361,
       "title": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
-      "pdpPrice": "39.99",
-      "auctionCode": "0019888134",
+      "pdpPrice": "599.99",
+      "auctionCode": "0019893852",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-29",
-      "time": "15:52:22",
+      "date": "2026-10-05",
+      "time": "07:21:18",
       "productUrl": null,
-      "lastUpdated": 1790693542574,
+      "lastUpdated": 1791181278361,
       "source": "gha",
       "missedAt": 1789980074156,
       "missedDelay": 9,
@@ -425673,8 +425673,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791181238328,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473546,11 +473546,22 @@
         "followingSku": "8636704",
         "followingTitle": "La Marey Womens Striped Tassel Poncho Cardigan  with Pockets (One Size) - Beige",
         "followingAuctionCode": "0019896102"
+      },
+      {
+        "start": 1791181238328,
+        "end": 1791181278361,
+        "durationMin": 0.7,
+        "precedingSku": "8636704",
+        "precedingTitle": "La Marey Womens Striped Tassel Poncho Cardigan  with Pockets (One Size) - Beige",
+        "precedingAuctionCode": "0019896102",
+        "followingSku": "8623062",
+        "followingTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
+        "followingAuctionCode": "0019893852"
       }
     ],
-    "lastOnAirSku": "8636704",
-    "lastOnAirTitle": "La Marey Womens Striped Tassel Poncho Cardigan  with Pockets (One Size) - Beige",
-    "lastOnAirAuctionCode": "0019896102",
+    "lastOnAirSku": "8623062",
+    "lastOnAirTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
+    "lastOnAirAuctionCode": "0019893852",
     "precedingSku": "8636704",
     "precedingTitle": "La Marey Womens Striped Tassel Poncho Cardigan  with Pockets (One Size) - Beige",
     "precedingAuctionCode": "0019896102"
