@@ -411989,17 +411989,17 @@
       "firstAir": 1790876838626,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791164598281,
+      "lastAir": 1791178157254,
       "title": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019896535",
+      "pdpPrice": "64.99",
+      "auctionCode": "0019895244",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-05",
-      "time": "02:43:18",
+      "time": "06:29:17",
       "productUrl": "/products/40-phillips-batteries-24x-aa-and-16x-aaa-power-alkaline-with-long-life?variant=53107040846090",
-      "lastUpdated": 1791164598281,
+      "lastUpdated": 1791178157254,
       "source": "gha",
       "missedAt": 1790878882184,
       "missedDelay": 10,
@@ -425668,8 +425668,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791178100947,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473497,11 +473497,22 @@
         "followingSku": "8801615",
         "followingTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
         "followingAuctionCode": "0019893708"
+      },
+      {
+        "start": 1791178100947,
+        "end": 1791178157254,
+        "durationMin": 0.9,
+        "precedingSku": "8801615",
+        "precedingTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
+        "precedingAuctionCode": "0019893708",
+        "followingSku": "7576039",
+        "followingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+        "followingAuctionCode": "0019895244"
       }
     ],
-    "lastOnAirSku": "8801615",
-    "lastOnAirTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
-    "lastOnAirAuctionCode": "0019893708",
+    "lastOnAirSku": "7576039",
+    "lastOnAirTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+    "lastOnAirAuctionCode": "0019895244",
     "precedingSku": "8801615",
     "precedingTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
     "precedingAuctionCode": "0019893708"
