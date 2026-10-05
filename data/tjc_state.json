@@ -179600,17 +179600,17 @@
       "firstAir": 1786936842091,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788143359655,
+      "lastAir": 1791177035022,
       "title": "58 Christmas Baubles- Red, Green & Gold - Small, Large, Glossy, Frosted",
-      "pdpPrice": "12.99",
-      "auctionCode": "0019850487",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019893588",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-31",
-      "time": "03:29:19",
+      "date": "2026-10-05",
+      "time": "06:10:35",
       "productUrl": "/products/58-christmas-baubles-red-green-gold-small-large-glossy-frosted",
-      "lastUpdated": 1788143359655,
+      "lastUpdated": 1791177035022,
       "source": "gha",
       "missedAt": 1786937541399,
       "missedDelay": 10,
@@ -425658,8 +425658,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791176959225,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473443,11 +473443,22 @@
         "followingSku": "7814536",
         "followingTitle": "Large Light-up Street Lamp",
         "followingAuctionCode": "0019893587"
+      },
+      {
+        "start": 1791176959225,
+        "end": 1791177035022,
+        "durationMin": 1.3,
+        "precedingSku": "7814519",
+        "precedingTitle": "Light-up Christmas Cottage in a Dome",
+        "precedingAuctionCode": "0019893586",
+        "followingSku": "7827666",
+        "followingTitle": "58 Christmas Baubles- Red, Green & Gold - Small, Large, Glossy, Frosted",
+        "followingAuctionCode": "0019893588"
       }
     ],
-    "lastOnAirSku": "7814519",
-    "lastOnAirTitle": "Light-up Christmas Cottage in a Dome",
-    "lastOnAirAuctionCode": "0019893586",
+    "lastOnAirSku": "7827666",
+    "lastOnAirTitle": "58 Christmas Baubles- Red, Green & Gold - Small, Large, Glossy, Frosted",
+    "lastOnAirAuctionCode": "0019893588",
     "precedingSku": "7814519",
     "precedingTitle": "Light-up Christmas Cottage in a Dome",
     "precedingAuctionCode": "0019893586"
