@@ -426393,11 +426393,29 @@
       "productUrlChecked": 1791206065200,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8686903": {
+      "sku": "8686903",
+      "firstAir": 1791210382319,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791210382319,
+      "title": "La Marey Signature Genuine Leather Tote Bag - Grey",
+      "pdpPrice": "1299.99",
+      "auctionCode": "0019896689",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-05",
+      "time": "15:26:22",
+      "productUrl": null,
+      "lastUpdated": 1791210382319,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791210143538,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474588,11 +474606,22 @@
         "followingSku": "8791878",
         "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
         "followingAuctionCode": "0019892645"
+      },
+      {
+        "start": 1791210143538,
+        "end": 1791210382319,
+        "durationMin": 4.0,
+        "precedingSku": "8791878",
+        "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "precedingAuctionCode": "0019892645",
+        "followingSku": "8686903",
+        "followingTitle": "La Marey Signature Genuine Leather Tote Bag - Grey",
+        "followingAuctionCode": "0019896689"
       }
     ],
-    "lastOnAirSku": "8791878",
-    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
-    "lastOnAirAuctionCode": "0019892645",
+    "lastOnAirSku": "8686903",
+    "lastOnAirTitle": "La Marey Signature Genuine Leather Tote Bag - Grey",
+    "lastOnAirAuctionCode": "0019896689",
     "precedingSku": "8791878",
     "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
     "precedingAuctionCode": "0019892645"
