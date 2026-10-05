@@ -391993,21 +391993,26 @@
       "sku": "8801615",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "20:24:24",
+      "date": "2026-10-05",
+      "time": "06:24:20",
       "preExisting": true,
       "missedAt": 1790364264107,
       "missedDelay": null,
-      "lastUpdated": 1790364264107,
+      "lastUpdated": 1791177860846,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Mains Operated Warm White 100 LED String Lights with Storage Box (10m) - Warm White",
-      "auctionCode": "0019884599",
+      "title": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
+      "auctionCode": "0019893708",
       "source": "gha",
       "productUrl": "/products/tjc-special-christmas-ornament-size-one-size-multi-color-8801616",
       "productUrlChecked": 1790364268026,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791177860846,
+      "pdpPrice": "80.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8801614": {
       "sku": "8801614",
@@ -425663,8 +425668,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791177798337,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473481,11 +473486,22 @@
         "followingSku": "8628836",
         "followingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
         "followingAuctionCode": "0019893753"
+      },
+      {
+        "start": 1791177798337,
+        "end": 1791177860846,
+        "durationMin": 1.0,
+        "precedingSku": "8628836",
+        "precedingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+        "precedingAuctionCode": "0019893753",
+        "followingSku": "8801615",
+        "followingTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
+        "followingAuctionCode": "0019893708"
       }
     ],
-    "lastOnAirSku": "8628836",
-    "lastOnAirTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
-    "lastOnAirAuctionCode": "0019893753",
+    "lastOnAirSku": "8801615",
+    "lastOnAirTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
+    "lastOnAirAuctionCode": "0019893708",
     "precedingSku": "8628836",
     "precedingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
     "precedingAuctionCode": "0019893753"
