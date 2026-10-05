@@ -352516,21 +352516,26 @@
       "sku": "8628836",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "19:33:19",
+      "date": "2026-10-05",
+      "time": "06:20:34",
       "preExisting": true,
       "missedAt": 1789497199221,
       "missedDelay": null,
-      "lastUpdated": 1789497199221,
+      "lastUpdated": 1791177634790,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "LIVMORE Limited Edition Halloween Pumpkin Head Enamelled Trinket Box",
-      "auctionCode": "0019871939",
+      "title": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+      "auctionCode": "0019893753",
       "source": "gha",
       "productUrl": "/products/livmore-pumpkin-jewellery-box-size-5x5x6-cm-orange-8628834",
       "productUrlChecked": 1789497204825,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791177634790,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8628837": {
       "sku": "8628837",
@@ -425658,8 +425663,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791177556930,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473465,11 +473470,22 @@
         "followingSku": "8312163",
         "followingTitle": "Christmas gift card(pack of 5",
         "followingAuctionCode": "0019893603"
+      },
+      {
+        "start": 1791177556930,
+        "end": 1791177634790,
+        "durationMin": 1.3,
+        "precedingSku": "8371333",
+        "precedingTitle": "Christmas Trio Gift Set",
+        "precedingAuctionCode": "0019893605",
+        "followingSku": "8628836",
+        "followingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+        "followingAuctionCode": "0019893753"
       }
     ],
-    "lastOnAirSku": "8371333",
-    "lastOnAirTitle": "Christmas Trio Gift Set",
-    "lastOnAirAuctionCode": "0019893605",
+    "lastOnAirSku": "8628836",
+    "lastOnAirTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
+    "lastOnAirAuctionCode": "0019893753",
     "precedingSku": "8371333",
     "precedingTitle": "Christmas Trio Gift Set",
     "precedingAuctionCode": "0019893605"
