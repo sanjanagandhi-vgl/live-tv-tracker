@@ -427100,11 +427100,29 @@
       "missedDelay": 10,
       "missedPrice": 4.99,
       "missedImg": false
+    },
+    "8808142": {
+      "sku": "8808142",
+      "firstAir": 1791227248762,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791227248762,
+      "title": "The Paradigm Of Luxury - Limited Edition 800 GSM Faux Rabbit Fur Bubble Blanket with Insulating Micro Mink Plush Backing (150x200cm) - Chocolate",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019893516",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-05",
+      "time": "20:07:28",
+      "productUrl": null,
+      "lastUpdated": 1791227248762,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791227070617,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -475427,11 +475445,22 @@
         "followingSku": "8638848",
         "followingTitle": "La Marey Signature Womens Genuine Leather Snakeskin Bag - Red",
         "followingAuctionCode": "0019896189"
+      },
+      {
+        "start": 1791227070617,
+        "end": 1791227248762,
+        "durationMin": 3.0,
+        "precedingSku": "8638848",
+        "precedingTitle": "La Marey Signature Womens Genuine Leather Snakeskin Bag - Red",
+        "precedingAuctionCode": "0019896189",
+        "followingSku": "8808142",
+        "followingTitle": "The Paradigm Of Luxury - Limited Edition 800 GSM Faux Rabbit Fur Bubble Blanket with Insulating Micro Mink Plush Backing (150x200cm) - Chocolate",
+        "followingAuctionCode": "0019893516"
       }
     ],
-    "lastOnAirSku": "8638848",
-    "lastOnAirTitle": "La Marey Signature Womens Genuine Leather Snakeskin Bag - Red",
-    "lastOnAirAuctionCode": "0019896189",
+    "lastOnAirSku": "8808142",
+    "lastOnAirTitle": "The Paradigm Of Luxury - Limited Edition 800 GSM Faux Rabbit Fur Bubble Blanket with Insulating Micro Mink Plush Backing (150x200cm) - Chocolate",
+    "lastOnAirAuctionCode": "0019893516",
     "precedingSku": "8638848",
     "precedingTitle": "La Marey Signature Womens Genuine Leather Snakeskin Bag - Red",
     "precedingAuctionCode": "0019896189"
