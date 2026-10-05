@@ -403181,21 +403181,21 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-05",
-      "time": "03:59:17",
+      "time": "06:36:23",
       "preExisting": true,
       "missedAt": 1790677461928,
       "missedDelay": null,
-      "lastUpdated": 1791169157949,
+      "lastUpdated": 1791178583814,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
-      "auctionCode": "0019896534",
+      "auctionCode": "0019896552",
       "source": "gha",
       "productUrl": "/products/livmore-candle-holder-size-one-size-white-8667855?variant=53822892933386",
       "productUrlChecked": 1790677469873,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791169157949,
+      "lastAir": 1791178583814,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
@@ -425668,8 +425668,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791178460830,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473508,11 +473508,22 @@
         "followingSku": "7576039",
         "followingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
         "followingAuctionCode": "0019895244"
+      },
+      {
+        "start": 1791178460830,
+        "end": 1791178583814,
+        "durationMin": 2.0,
+        "precedingSku": "7576039",
+        "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+        "precedingAuctionCode": "0019895244",
+        "followingSku": "8667857",
+        "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "followingAuctionCode": "0019896552"
       }
     ],
-    "lastOnAirSku": "7576039",
-    "lastOnAirTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
-    "lastOnAirAuctionCode": "0019895244",
+    "lastOnAirSku": "8667857",
+    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+    "lastOnAirAuctionCode": "0019896552",
     "precedingSku": "7576039",
     "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
     "precedingAuctionCode": "0019895244"
