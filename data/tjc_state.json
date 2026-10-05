@@ -353583,21 +353583,26 @@
       "sku": "8636704",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "13:26:21",
+      "date": "2026-10-05",
+      "time": "07:14:20",
       "preExisting": true,
       "missedAt": 1789561581807,
       "missedDelay": null,
-      "lastUpdated": 1789561581807,
+      "lastUpdated": 1791180860485,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "La Marey Womens Striped Tassel Poncho with Pockets (One Size) - Red",
-      "auctionCode": "0019871747",
+      "title": "La Marey Womens Striped Tassel Poncho Cardigan  with Pockets (One Size) - Beige",
+      "auctionCode": "0019896102",
       "source": "gha",
       "productUrl": "/products/la-marey-patterned-poncho-size-one-size-black-8636693",
       "productUrlChecked": 1789561591893,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791180860485,
+      "pdpPrice": "279.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8636705": {
       "sku": "8636705",
@@ -425668,8 +425673,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791180797501,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473530,11 +473535,22 @@
         "followingSku": "8194432",
         "followingTitle": "6 Inch 21V Chainsaw with 2 Chains and a 2 Batteries (Size 42x11x10 cm) - Blue",
         "followingAuctionCode": "0019896551"
+      },
+      {
+        "start": 1791180797501,
+        "end": 1791180860485,
+        "durationMin": 1.0,
+        "precedingSku": "8673257",
+        "precedingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Grey",
+        "precedingAuctionCode": "0019896117",
+        "followingSku": "8636704",
+        "followingTitle": "La Marey Womens Striped Tassel Poncho Cardigan  with Pockets (One Size) - Beige",
+        "followingAuctionCode": "0019896102"
       }
     ],
-    "lastOnAirSku": "8673257",
-    "lastOnAirTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Grey",
-    "lastOnAirAuctionCode": "0019896117",
+    "lastOnAirSku": "8636704",
+    "lastOnAirTitle": "La Marey Womens Striped Tassel Poncho Cardigan  with Pockets (One Size) - Beige",
+    "lastOnAirAuctionCode": "0019896102",
     "precedingSku": "8673257",
     "precedingTitle": "QED London Organza Ruffle Trim Arm Batwing Top (Size M-L, 14 to 16) - Grey",
     "precedingAuctionCode": "0019896117"
