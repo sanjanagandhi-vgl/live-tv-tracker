@@ -387115,17 +387115,17 @@
       "firstAir": 1790263105410,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790580264035,
-      "title": "La Marey Luxe Drape V-Neck Top (Size - S-M, 8-14) - Black",
+      "lastAir": 1791217235327,
+      "title": "La Marey Patterned Top (Size - S/M) - Black",
       "pdpPrice": "19.99",
-      "auctionCode": "0019886664",
+      "auctionCode": "0019896676",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-28",
-      "time": "08:24:24",
+      "date": "2026-10-05",
+      "time": "17:20:35",
       "productUrl": "/products/la-marey-patterned-top-size-s-m-black-8620875",
-      "lastUpdated": 1790580264035,
+      "lastUpdated": 1791217235327,
       "source": "gha",
       "missedAt": 1790264000469,
       "missedDelay": 10,
@@ -427066,8 +427066,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791217163077,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -475313,11 +475313,22 @@
         "followingSku": "8808102",
         "followingTitle": "Finnish Ladies Soft Plush Slip-On House Slippers (Size 3) - Beige",
         "followingAuctionCode": "0019895691"
+      },
+      {
+        "start": 1791217163077,
+        "end": 1791217235327,
+        "durationMin": 1.2,
+        "precedingSku": "8620886",
+        "precedingTitle": "La Marey Patterned Jean and Pant/Trouser (Size - S/M) - Black",
+        "precedingAuctionCode": "0019896678",
+        "followingSku": "8620875",
+        "followingTitle": "La Marey Patterned Top (Size - S/M) - Black",
+        "followingAuctionCode": "0019896676"
       }
     ],
-    "lastOnAirSku": "8620886",
-    "lastOnAirTitle": "La Marey Patterned Jean and Pant/Trouser (Size - S/M) - Black",
-    "lastOnAirAuctionCode": "0019896678",
+    "lastOnAirSku": "8620875",
+    "lastOnAirTitle": "La Marey Patterned Top (Size - S/M) - Black",
+    "lastOnAirAuctionCode": "0019896676",
     "precedingSku": "8620886",
     "precedingTitle": "La Marey Patterned Jean and Pant/Trouser (Size - S/M) - Black",
     "precedingAuctionCode": "0019896678"
