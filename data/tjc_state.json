@@ -403170,23 +403170,23 @@
       "sku": "8667857",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-04",
-      "time": "12:05:27",
+      "date": "2026-10-05",
+      "time": "03:53:17",
       "preExisting": true,
       "missedAt": 1790677461928,
       "missedDelay": null,
-      "lastUpdated": 1791111927317,
+      "lastUpdated": 1791168797295,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
-      "auctionCode": "0019896170",
+      "auctionCode": "0019896534",
       "source": "gha",
       "productUrl": "/products/livmore-candle-holder-size-one-size-white-8667855?variant=53822892933386",
       "productUrlChecked": 1790677469873,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791111927317,
-      "pdpPrice": 9.99,
+      "lastAir": 1791168797295,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -425658,8 +425658,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791168557265,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473388,11 +473388,22 @@
         "followingSku": "8578873",
         "followingTitle": "Rechargeable Mini Electric Food Chopper & Garlic Cutter (350ml) - USB Powered - Green",
         "followingAuctionCode": "0019896489"
+      },
+      {
+        "start": 1791168557265,
+        "end": 1791168797295,
+        "durationMin": 4.0,
+        "precedingSku": "8578873",
+        "precedingTitle": "Rechargeable Mini Electric Food Chopper & Garlic Cutter (350ml) - USB Powered - Green",
+        "precedingAuctionCode": "0019896489",
+        "followingSku": "8667857",
+        "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "followingAuctionCode": "0019896534"
       }
     ],
-    "lastOnAirSku": "8578873",
-    "lastOnAirTitle": "Rechargeable Mini Electric Food Chopper & Garlic Cutter (350ml) - USB Powered - Green",
-    "lastOnAirAuctionCode": "0019896489",
+    "lastOnAirSku": "8667857",
+    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+    "lastOnAirAuctionCode": "0019896534",
     "precedingSku": "8578873",
     "precedingTitle": "Rechargeable Mini Electric Food Chopper & Garlic Cutter (350ml) - USB Powered - Green",
     "precedingAuctionCode": "0019896489"
