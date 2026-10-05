@@ -426199,11 +426199,15 @@
       "date": "2026-10-05",
       "time": "13:22:21",
       "productUrl": "/products/pure-and-natural-womens-elastic-waist-wide-leg-textured-jersey-trousers-with-mock-tie-size-l-16-18-chocolate-8586246?variant=53857437810954",
-      "lastUpdated": 1791202941162,
+      "lastUpdated": 1791203449607,
       "source": "gha",
       "productUrlChecked": 1791202944488,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1791203449607,
+      "missedDelay": 8,
+      "missedPrice": 24.99,
+      "missedImg": true
     },
     "8586249": {
       "sku": "8586249",
@@ -426264,11 +426268,71 @@
       "productUrlChecked": 1791203186110,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8586253": {
+      "sku": "8586253",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-05",
+      "time": "13:30:49",
+      "preExisting": true,
+      "missedAt": 1791203449607,
+      "missedDelay": null,
+      "lastUpdated": 1791203449607,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "title": "Pure And Natural Womens Elastic Waist Wide Leg Textured Jersey Trousers with Mock Tie (Size XL, 20-22) - Khaki",
+      "auctionCode": "0019896628",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-womens-elastic-waist-wide-leg-textured-jersey-trousers-with-mock-tie-size-l-16-18-chocolate-8586246",
+      "productUrlChecked": 1791203452214,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8586250": {
+      "sku": "8586250",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-05",
+      "time": "13:30:49",
+      "preExisting": true,
+      "missedAt": 1791203449607,
+      "missedDelay": null,
+      "lastUpdated": 1791203449607,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "title": "Pure And Natural Womens Elastic Waist Wide Leg Textured Jersey Trousers with Mock Tie (Size L, 16-18) - Khaki",
+      "auctionCode": "0019896627",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-womens-elastic-waist-wide-leg-textured-jersey-trousers-with-mock-tie-size-l-16-18-chocolate-8586246",
+      "productUrlChecked": 1791203452681,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8586251": {
+      "sku": "8586251",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-05",
+      "time": "13:30:49",
+      "preExisting": true,
+      "missedAt": 1791203449607,
+      "missedDelay": null,
+      "lastUpdated": 1791203449607,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "title": "Pure And Natural Womens Elastic Waist Wide Leg Textured Jersey Trousers with Mock Tie (Size M, 12-14) - Khaki",
+      "auctionCode": "0019896625",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-womens-elastic-waist-wide-leg-textured-jersey-trousers-with-mock-tie-size-l-16-18-chocolate-8586246",
+      "productUrlChecked": 1791203452844,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791203449607,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474409,8 +474473,8 @@
     "lastOnAirSku": "8585001",
     "lastOnAirTitle": "Pure And Natural Ladies Textured Cowl Neck Long Sleeve Top (Size L, 16-18) - Chocolate",
     "lastOnAirAuctionCode": "0019896230",
-    "precedingSku": "8622507",
-    "precedingTitle": "La Marey Womens Double Layer Classic Boat Neck Top (Size XL, 20-22) - Black",
-    "precedingAuctionCode": "0019896249"
+    "precedingSku": "8585001",
+    "precedingTitle": "Pure And Natural Ladies Textured Cowl Neck Long Sleeve Top (Size L, 16-18) - Chocolate",
+    "precedingAuctionCode": "0019896230"
   }
 }
