@@ -199399,17 +199399,17 @@
       "firstAir": 1787206702011,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1787478557300,
+      "lastAir": 1791176596735,
       "title": "Large Light-up Street Lamp",
       "pdpPrice": "9.99",
-      "auctionCode": "0019835512",
+      "auctionCode": "0019893587",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-23",
-      "time": "10:49:17",
+      "date": "2026-10-05",
+      "time": "06:03:16",
       "productUrl": "/products/large-light-up-street-lamp",
-      "lastUpdated": 1787478557300,
+      "lastUpdated": 1791176596735,
       "source": "gha",
       "missedAt": 1787207358651,
       "missedDelay": 10,
@@ -425658,8 +425658,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791176457720,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473432,11 +473432,22 @@
         "followingSku": "8646354",
         "followingTitle": "LIVMORE Set of 2 - Faux Fur Leopard Print Square Chair Seat Cushions (40x40cm) - Brown",
         "followingAuctionCode": "0019896546"
+      },
+      {
+        "start": 1791176457720,
+        "end": 1791176596735,
+        "durationMin": 2.3,
+        "precedingSku": "7827691",
+        "precedingTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200W, 2000W, and ECO)",
+        "precedingAuctionCode": "0019896497",
+        "followingSku": "7814536",
+        "followingTitle": "Large Light-up Street Lamp",
+        "followingAuctionCode": "0019893587"
       }
     ],
-    "lastOnAirSku": "7827691",
-    "lastOnAirTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200W, 2000W, and ECO)",
-    "lastOnAirAuctionCode": "0019896497",
+    "lastOnAirSku": "7814536",
+    "lastOnAirTitle": "Large Light-up Street Lamp",
+    "lastOnAirAuctionCode": "0019893587",
     "precedingSku": "7827691",
     "precedingTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200W, 2000W, and ECO)",
     "precedingAuctionCode": "0019896497"
