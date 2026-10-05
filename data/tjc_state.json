@@ -426411,11 +426411,29 @@
       "productUrl": null,
       "lastUpdated": 1791212903455,
       "source": "gha"
+    },
+    "8696824": {
+      "sku": "8696824",
+      "firstAir": 1791213141513,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791213141513,
+      "title": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019895545",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-05",
+      "time": "16:12:21",
+      "productUrl": null,
+      "lastUpdated": 1791213141513,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791212960041,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474617,11 +474635,22 @@
         "followingSku": "8686903",
         "followingTitle": "La Marey Signature Genuine Leather Tote Bag - Grey",
         "followingAuctionCode": "0019896689"
+      },
+      {
+        "start": 1791212960041,
+        "end": 1791213141513,
+        "durationMin": 3.0,
+        "precedingSku": "8686903",
+        "precedingTitle": "La Marey Signature Genuine Leather Tote Bag - Grey",
+        "precedingAuctionCode": "0019896689",
+        "followingSku": "8696824",
+        "followingTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+        "followingAuctionCode": "0019895545"
       }
     ],
-    "lastOnAirSku": "8686903",
-    "lastOnAirTitle": "La Marey Signature Genuine Leather Tote Bag - Grey",
-    "lastOnAirAuctionCode": "0019896689",
+    "lastOnAirSku": "8696824",
+    "lastOnAirTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+    "lastOnAirAuctionCode": "0019895545",
     "precedingSku": "8686903",
     "precedingTitle": "La Marey Signature Genuine Leather Tote Bag - Grey",
     "precedingAuctionCode": "0019896689"
