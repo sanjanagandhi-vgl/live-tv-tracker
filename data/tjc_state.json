@@ -426516,11 +426516,29 @@
       "productUrlChecked": 1791213574560,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8808093": {
+      "sku": "8808093",
+      "firstAir": 1791214046386,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791214046386,
+      "title": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019895687",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-05",
+      "time": "16:27:26",
+      "productUrl": null,
+      "lastUpdated": 1791214046386,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791213926515,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474733,11 +474751,22 @@
         "followingSku": "8696824",
         "followingTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
         "followingAuctionCode": "0019895545"
+      },
+      {
+        "start": 1791213926515,
+        "end": 1791214046386,
+        "durationMin": 2.0,
+        "precedingSku": "8696824",
+        "precedingTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+        "precedingAuctionCode": "0019895545",
+        "followingSku": "8808093",
+        "followingTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
+        "followingAuctionCode": "0019895687"
       }
     ],
-    "lastOnAirSku": "8696824",
-    "lastOnAirTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
-    "lastOnAirAuctionCode": "0019895545",
+    "lastOnAirSku": "8808093",
+    "lastOnAirTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
+    "lastOnAirAuctionCode": "0019895687",
     "precedingSku": "8696824",
     "precedingTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
     "precedingAuctionCode": "0019895545"
