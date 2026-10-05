@@ -422115,17 +422115,17 @@
       "firstAir": 1791108740776,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791167598222,
+      "lastAir": 1791184157581,
       "title": "Electric Non Stick Pot with Steamer for Boiling, Cooking, Frying (1.8L) - White",
       "pdpPrice": null,
-      "auctionCode": "0019896488",
+      "auctionCode": "0019896555",
       "buy": true,
       "login": false,
       "img": false,
       "date": "2026-10-05",
-      "time": "03:33:18",
+      "time": "08:09:17",
       "productUrl": null,
-      "lastUpdated": 1791167598222,
+      "lastUpdated": 1791184157581,
       "source": "gha",
       "missedAt": 1791110779385,
       "missedDelay": 9,
@@ -425709,8 +425709,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791183983137,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473637,11 +473637,22 @@
         "followingSku": "8525765",
         "followingTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Red",
         "followingAuctionCode": "0019896061"
+      },
+      {
+        "start": 1791183983137,
+        "end": 1791184157581,
+        "durationMin": 2.9,
+        "precedingSku": "8525765",
+        "precedingTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Red",
+        "precedingAuctionCode": "0019896061",
+        "followingSku": "8646524",
+        "followingTitle": null,
+        "followingAuctionCode": "0019896555"
       }
     ],
-    "lastOnAirSku": "8525765",
-    "lastOnAirTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Red",
-    "lastOnAirAuctionCode": "0019896061",
+    "lastOnAirSku": "8646524",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019896555",
     "precedingSku": "8525765",
     "precedingTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Red",
     "precedingAuctionCode": "0019896061"
