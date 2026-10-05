@@ -426699,11 +426699,29 @@
       "productUrl": null,
       "lastUpdated": 1791214944213,
       "source": "gha"
+    },
+    "8808102": {
+      "sku": "8808102",
+      "firstAir": 1791215061597,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791215061597,
+      "title": "Finnish Ladies Soft Plush Slip-On House Slippers (Size 3) - Beige",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019895691",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-05",
+      "time": "16:44:21",
+      "productUrl": null,
+      "lastUpdated": 1791215061597,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791214996885,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474938,11 +474956,22 @@
         "followingSku": "8808097",
         "followingTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
         "followingAuctionCode": "0019895705"
+      },
+      {
+        "start": 1791214996885,
+        "end": 1791215061597,
+        "durationMin": 1.1,
+        "precedingSku": "8808097",
+        "precedingTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
+        "precedingAuctionCode": "0019895705",
+        "followingSku": "8808102",
+        "followingTitle": "Finnish Ladies Soft Plush Slip-On House Slippers (Size 3) - Beige",
+        "followingAuctionCode": "0019895691"
       }
     ],
-    "lastOnAirSku": "8808097",
-    "lastOnAirTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
-    "lastOnAirAuctionCode": "0019895705",
+    "lastOnAirSku": "8808102",
+    "lastOnAirTitle": "Finnish Ladies Soft Plush Slip-On House Slippers (Size 3) - Beige",
+    "lastOnAirAuctionCode": "0019895691",
     "precedingSku": "8808097",
     "precedingTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
     "precedingAuctionCode": "0019895705"
