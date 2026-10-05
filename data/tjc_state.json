@@ -403130,17 +403130,17 @@
       "firstAir": 1790669436565,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790672602044,
+      "lastAir": 1791209186368,
       "title": "Laurelle Fly Fairy EDP - 85ml",
       "pdpPrice": "19.99",
-      "auctionCode": "0019887907",
+      "auctionCode": "0019892645",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-29",
-      "time": "10:03:22",
+      "date": "2026-10-05",
+      "time": "15:06:26",
       "productUrl": "/products/laurelle-fly-fairy-85ml-edp-8791878",
-      "lastUpdated": 1790673196907,
+      "lastUpdated": 1791209186368,
       "source": "gha",
       "missedAt": 1790673196907,
       "missedDelay": 10,
@@ -426396,8 +426396,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791209128752,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474577,11 +474577,22 @@
         "followingSku": "2984483",
         "followingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
         "followingAuctionCode": "0019897236"
+      },
+      {
+        "start": 1791209128752,
+        "end": 1791209186368,
+        "durationMin": 1.0,
+        "precedingSku": "2984483",
+        "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
+        "precedingAuctionCode": "0019897236",
+        "followingSku": "8791878",
+        "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "followingAuctionCode": "0019892645"
       }
     ],
-    "lastOnAirSku": "2984483",
-    "lastOnAirTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
-    "lastOnAirAuctionCode": "0019897236",
+    "lastOnAirSku": "8791878",
+    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
+    "lastOnAirAuctionCode": "0019892645",
     "precedingSku": "2984483",
     "precedingTitle": "Cetuem- Creme De Lite Moisturiser - 50ml",
     "precedingAuctionCode": "0019897236"
