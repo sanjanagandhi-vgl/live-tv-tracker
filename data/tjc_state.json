@@ -259254,17 +259254,17 @@
       "firstAir": 1787880562054,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789112964087,
+      "lastAir": 1791193582987,
       "title": "Laurelle I'M The One EDT - 100ml",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019864780",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019896157",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "08:49:24",
+      "date": "2026-10-05",
+      "time": "10:46:22",
       "productUrl": "/products/laurelle-im-the-one-edt-100ml",
-      "lastUpdated": 1789112964087,
+      "lastUpdated": 1791193582987,
       "source": "gha",
       "missedAt": 1787881342510,
       "missedDelay": 10,
@@ -426043,8 +426043,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791193462257,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474070,11 +474070,22 @@
         "followingSku": "8779769",
         "followingTitle": "Lipsy Radiant Pearl EDT - 30ml",
         "followingAuctionCode": "0019896145"
+      },
+      {
+        "start": 1791193462257,
+        "end": 1791193582987,
+        "durationMin": 2.0,
+        "precedingSku": "7177060",
+        "precedingTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
+        "precedingAuctionCode": "0019896185",
+        "followingSku": "8306394",
+        "followingTitle": "Laurelle I'M The One EDT - 100ml",
+        "followingAuctionCode": "0019896157"
       }
     ],
-    "lastOnAirSku": "7177060",
-    "lastOnAirTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
-    "lastOnAirAuctionCode": "0019896185",
+    "lastOnAirSku": "8306394",
+    "lastOnAirTitle": "Laurelle I'M The One EDT - 100ml",
+    "lastOnAirAuctionCode": "0019896157",
     "precedingSku": "7177060",
     "precedingTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
     "precedingAuctionCode": "0019896185"
