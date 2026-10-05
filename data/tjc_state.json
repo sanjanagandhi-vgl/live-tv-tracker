@@ -354681,21 +354681,26 @@
       "sku": "8604463",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "16:46:22",
+      "date": "2026-10-05",
+      "time": "22:40:36",
       "preExisting": true,
       "missedAt": 1789573582633,
       "missedDelay": null,
-      "lastUpdated": 1789573582633,
+      "lastUpdated": 1791236436390,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "D'Joy - Moissanite Vintage Solitaire Pendant in Sterling Silver 2.65 Ct.",
-      "auctionCode": "0019872099",
+      "auctionCode": "0019896322",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-pendant-sterling-silver-2-660-ct-8604463",
       "productUrlChecked": 1789573587878,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791236436390,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8604601": {
       "sku": "8604601",
@@ -427424,8 +427429,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791236360691,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -475759,11 +475764,22 @@
         "followingSku": "8808142",
         "followingTitle": "The Paradigm Of Luxury - Limited Edition 800 GSM Faux Rabbit Fur Bubble Blanket with Insulating Micro Mink Plush Backing (150x200cm) - Chocolate",
         "followingAuctionCode": "0019893516"
+      },
+      {
+        "start": 1791236360691,
+        "end": 1791236436390,
+        "durationMin": 1.3,
+        "precedingSku": "8604454",
+        "precedingTitle": "Royal Bali Collection - D'Joy Moissanite Solitaire Ring in Sterling Silver 2.70 Ct.",
+        "precedingAuctionCode": "0019897866",
+        "followingSku": "8604463",
+        "followingTitle": "D'Joy - Moissanite Vintage Solitaire Pendant in Sterling Silver 2.65 Ct.",
+        "followingAuctionCode": "0019896322"
       }
     ],
-    "lastOnAirSku": "8604454",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Moissanite Solitaire Ring in Sterling Silver 2.70 Ct.",
-    "lastOnAirAuctionCode": "0019897866",
+    "lastOnAirSku": "8604463",
+    "lastOnAirTitle": "D'Joy - Moissanite Vintage Solitaire Pendant in Sterling Silver 2.65 Ct.",
+    "lastOnAirAuctionCode": "0019896322",
     "precedingSku": "8604454",
     "precedingTitle": "Royal Bali Collection - D'Joy Moissanite Solitaire Ring in Sterling Silver 2.70 Ct.",
     "precedingAuctionCode": "0019897866"
