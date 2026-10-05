@@ -425706,11 +425706,29 @@
       "productUrlChecked": 1791162505796,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8763240": {
+      "sku": "8763240",
+      "firstAir": 1791186078536,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791186078536,
+      "title": "William Hunt Limited Edition Celestial Watch with Miyota Movement, 5ATM WR, White MOP Dial, Multi Color CZ, Sapphire Dial & IPG Plated Case with Milanese Adjustable Strap - Gold",
+      "pdpPrice": "1499.99",
+      "auctionCode": "0019896570",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-05",
+      "time": "08:41:18",
+      "productUrl": null,
+      "lastUpdated": 1791186078536,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791185960429,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -473648,11 +473666,22 @@
         "followingSku": "8646524",
         "followingTitle": null,
         "followingAuctionCode": "0019896555"
+      },
+      {
+        "start": 1791185960429,
+        "end": 1791186078536,
+        "durationMin": 2.0,
+        "precedingSku": "8646524",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019896555",
+        "followingSku": "8763240",
+        "followingTitle": "William Hunt Limited Edition Celestial Watch with Miyota Movement, 5ATM WR, White MOP Dial, Multi Color CZ, Sapphire Dial & IPG Plated Case with Milanese Adjustable Strap - Gold",
+        "followingAuctionCode": "0019896570"
       }
     ],
-    "lastOnAirSku": "8646524",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019896555",
+    "lastOnAirSku": "8763240",
+    "lastOnAirTitle": "William Hunt Limited Edition Celestial Watch with Miyota Movement, 5ATM WR, White MOP Dial, Multi Color CZ, Sapphire Dial & IPG Plated Case with Milanese Adjustable Strap - Gold",
+    "lastOnAirAuctionCode": "0019896570",
     "precedingSku": "8646524",
     "precedingTitle": null,
     "precedingAuctionCode": "0019896555"
