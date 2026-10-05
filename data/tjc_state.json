@@ -24987,23 +24987,23 @@
       "sku": "7992480",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-21",
-      "time": "07:26:21",
+      "date": "2026-10-05",
+      "time": "10:08:23",
       "preExisting": true,
       "missedAt": 1785406243979,
       "missedDelay": null,
-      "lastUpdated": 1789971981899,
+      "lastUpdated": 1791191303334,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
-      "auctionCode": "0019876610",
+      "auctionCode": "0019896173",
       "source": "gha",
       "productUrl": "/products/douvalls-argan-infused-growth-serum-mascara-6ml-achieve-longer-fuller-and-voluminous-eyelashes?variant=53108072677642",
       "productUrlChecked": 1785406253003,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789971981899,
-      "pdpPrice": "19.99",
+      "lastAir": 1791191303334,
+      "pdpPrice": "125.99",
       "buy": true,
       "login": false,
       "img": true
@@ -426043,8 +426043,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791191242957,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474048,11 +474048,22 @@
         "followingSku": "8739950",
         "followingTitle": "Cyclax Vitamin E Face & Body Cream - 300ml",
         "followingAuctionCode": "0019896148"
+      },
+      {
+        "start": 1791191242957,
+        "end": 1791191303334,
+        "durationMin": 1.0,
+        "precedingSku": "8739950",
+        "precedingTitle": "Cyclax Vitamin E Face & Body Cream - 300ml",
+        "precedingAuctionCode": "0019896148",
+        "followingSku": "7992480",
+        "followingTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
+        "followingAuctionCode": "0019896173"
       }
     ],
-    "lastOnAirSku": "8739950",
-    "lastOnAirTitle": "Cyclax Vitamin E Face & Body Cream - 300ml",
-    "lastOnAirAuctionCode": "0019896148",
+    "lastOnAirSku": "7992480",
+    "lastOnAirTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
+    "lastOnAirAuctionCode": "0019896173",
     "precedingSku": "8739950",
     "precedingTitle": "Cyclax Vitamin E Face & Body Cream - 300ml",
     "precedingAuctionCode": "0019896148"
