@@ -293229,21 +293229,26 @@
       "sku": "8739950",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-03",
-      "time": "02:19:17",
+      "date": "2026-10-05",
+      "time": "10:04:24",
       "preExisting": true,
       "missedAt": 1788398357923,
       "missedDelay": null,
-      "lastUpdated": 1788398357923,
+      "lastUpdated": 1791191064252,
       "missedPrice": 2.99,
       "missedImg": true,
-      "title": "Cyclax Vitamin E Face & Body Cream",
-      "auctionCode": "0019853664",
+      "title": "Cyclax Vitamin E Face & Body Cream - 300ml",
+      "auctionCode": "0019896148",
       "source": "gha",
       "productUrl": "/products/cyclax-cocoa-butter-rich-body-cream-8739949",
       "productUrlChecked": 1788398366325,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791191064252,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7971320": {
       "sku": "7971320",
@@ -426038,8 +426043,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791191008128,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474032,11 +474037,22 @@
         "followingSku": "8519573",
         "followingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm) - White & Brown",
         "followingAuctionCode": "0019896631"
+      },
+      {
+        "start": 1791191008128,
+        "end": 1791191064252,
+        "durationMin": 0.9,
+        "precedingSku": "8519573",
+        "precedingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm) - White & Brown",
+        "precedingAuctionCode": "0019896631",
+        "followingSku": "8739950",
+        "followingTitle": "Cyclax Vitamin E Face & Body Cream - 300ml",
+        "followingAuctionCode": "0019896148"
       }
     ],
-    "lastOnAirSku": "8519573",
-    "lastOnAirTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm) - White & Brown",
-    "lastOnAirAuctionCode": "0019896631",
+    "lastOnAirSku": "8739950",
+    "lastOnAirTitle": "Cyclax Vitamin E Face & Body Cream - 300ml",
+    "lastOnAirAuctionCode": "0019896148",
     "precedingSku": "8519573",
     "precedingTitle": "24 LED Warm White Silk Cotton Blossom Tree Tabletop Light (60cm) - White & Brown",
     "precedingAuctionCode": "0019896631"
