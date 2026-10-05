@@ -6688,18 +6688,18 @@
       "sku": "7958078",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-04",
-      "time": "04:09:18",
+      "date": "2026-10-05",
+      "time": "19:15:36",
       "preExisting": true,
       "missedAt": 1784916085649,
       "missedDelay": null,
-      "lastUpdated": 1791083358279,
+      "lastUpdated": 1791224136785,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
-      "auctionCode": "0019895807",
+      "auctionCode": "0019896187",
       "source": "gha",
-      "lastAir": 1791083358279,
+      "lastAir": 1791224136785,
       "pdpPrice": "59.99",
       "buy": true,
       "login": false,
@@ -427103,8 +427103,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791223999450,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -475405,11 +475405,22 @@
         "followingSku": "8635530",
         "followingTitle": "LIVMORE Halloween Pumpkin Head Witch Hat Enamelled Jewellery Trinket Box (6.5cm) - Orange",
         "followingAuctionCode": "0019895568"
+      },
+      {
+        "start": 1791223999450,
+        "end": 1791224136785,
+        "durationMin": 2.3,
+        "precedingSku": "8564795",
+        "precedingTitle": "LIVMORE Rhinestones Enamelled Tote Bag Shaped Trinket Jewellery Box - Red & Gold",
+        "precedingAuctionCode": "0019895582",
+        "followingSku": "7958078",
+        "followingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+        "followingAuctionCode": "0019896187"
       }
     ],
-    "lastOnAirSku": "8564795",
-    "lastOnAirTitle": "LIVMORE Rhinestones Enamelled Tote Bag Shaped Trinket Jewellery Box - Red & Gold",
-    "lastOnAirAuctionCode": "0019895582",
+    "lastOnAirSku": "7958078",
+    "lastOnAirTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+    "lastOnAirAuctionCode": "0019896187",
     "precedingSku": "8564795",
     "precedingTitle": "LIVMORE Rhinestones Enamelled Tote Bag Shaped Trinket Jewellery Box - Red & Gold",
     "precedingAuctionCode": "0019895582"
