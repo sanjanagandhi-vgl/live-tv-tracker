@@ -426681,11 +426681,29 @@
       "productUrlChecked": 1791214405541,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8808097": {
+      "sku": "8808097",
+      "firstAir": 1791214644178,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791214644178,
+      "title": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019895705",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-05",
+      "time": "16:37:24",
+      "productUrl": null,
+      "lastUpdated": 1791214644178,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791214583242,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -474909,11 +474927,22 @@
         "followingSku": "8808093",
         "followingTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
         "followingAuctionCode": "0019895687"
+      },
+      {
+        "start": 1791214583242,
+        "end": 1791214644178,
+        "durationMin": 1.0,
+        "precedingSku": "8808093",
+        "precedingTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
+        "precedingAuctionCode": "0019895687",
+        "followingSku": "8808097",
+        "followingTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
+        "followingAuctionCode": "0019895705"
       }
     ],
-    "lastOnAirSku": "8808093",
+    "lastOnAirSku": "8808097",
     "lastOnAirTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
-    "lastOnAirAuctionCode": "0019895687",
+    "lastOnAirAuctionCode": "0019895705",
     "precedingSku": "8808093",
     "precedingTitle": "Finnish Zipper Ankle Slipper Boots (Size 4) - Red",
     "precedingAuctionCode": "0019895687"
