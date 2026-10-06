@@ -427780,11 +427780,29 @@
       "productUrl": null,
       "lastUpdated": 1791244943672,
       "source": "gha"
+    },
+    "8249757": {
+      "sku": "8249757",
+      "firstAir": 1791245309120,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791245309120,
+      "title": "La Marey Beanie Hat",
+      "pdpPrice": "8.99",
+      "auctionCode": "0019896785",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-06",
+      "time": "01:08:29",
+      "productUrl": null,
+      "lastUpdated": 1791245309120,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791245242501,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476184,11 +476202,22 @@
         "followingSku": "7852909",
         "followingTitle": "Cashmere Wool Gloves One Size",
         "followingAuctionCode": "0019896783"
+      },
+      {
+        "start": 1791245242501,
+        "end": 1791245309120,
+        "durationMin": 1.1,
+        "precedingSku": "7852909",
+        "precedingTitle": "Cashmere Wool Gloves One Size",
+        "precedingAuctionCode": "0019896783",
+        "followingSku": "8249757",
+        "followingTitle": "La Marey Beanie Hat",
+        "followingAuctionCode": "0019896785"
       }
     ],
-    "lastOnAirSku": "7852909",
-    "lastOnAirTitle": "Cashmere Wool Gloves One Size",
-    "lastOnAirAuctionCode": "0019896783",
+    "lastOnAirSku": "8249757",
+    "lastOnAirTitle": "La Marey Beanie Hat",
+    "lastOnAirAuctionCode": "0019896785",
     "precedingSku": "7852909",
     "precedingTitle": "Cashmere Wool Gloves One Size",
     "precedingAuctionCode": "0019896783"
