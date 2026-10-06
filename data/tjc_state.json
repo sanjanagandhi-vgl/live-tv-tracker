@@ -412305,21 +412305,26 @@
       "sku": "8577150",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-01",
-      "time": "21:53:19",
+      "date": "2026-10-06",
+      "time": "19:37:23",
       "preExisting": true,
       "missedAt": 1790887999768,
       "missedDelay": null,
-      "lastUpdated": 1790887999768,
+      "lastUpdated": 1791311843163,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Blue",
-      "auctionCode": "0019891671",
+      "title": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+      "auctionCode": "0019897996",
       "source": "gha",
-      "productUrl": "/products/livmore-showpiece-size-one-size-blue-8576754",
+      "productUrl": "/products/livmore-showpiece-size-one-size-blue-8576754?variant=53834756194570",
       "productUrlChecked": 1790888004020,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791311843163,
+      "pdpPrice": 199.99,
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8576756": {
       "sku": "8576756",
@@ -429530,8 +429535,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791311781721,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478646,11 +478651,22 @@
         "followingSku": "8666777",
         "followingTitle": "LIVMORE Limited Edition Hand Finished Turkish Mosaic Glass  Lamp (Requires E14 Screw Bulb) Mains Powered UK Plug - Multi",
         "followingAuctionCode": "0019897807"
+      },
+      {
+        "start": 1791311781721,
+        "end": 1791311843163,
+        "durationMin": 1.0,
+        "precedingSku": "8667890",
+        "precedingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "precedingAuctionCode": "0019897796",
+        "followingSku": "8577150",
+        "followingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+        "followingAuctionCode": "0019897996"
       }
     ],
-    "lastOnAirSku": "8667890",
-    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
-    "lastOnAirAuctionCode": "0019897796",
+    "lastOnAirSku": "8577150",
+    "lastOnAirTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+    "lastOnAirAuctionCode": "0019897996",
     "precedingSku": "8667890",
     "precedingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
     "precedingAuctionCode": "0019897796"
