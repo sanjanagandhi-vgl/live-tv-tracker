@@ -429239,11 +429239,29 @@
       "productUrlChecked": 1791300869296,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7859644": {
+      "sku": "7859644",
+      "firstAir": 1791301160164,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791301160164,
+      "title": "Tamsy Printed Cardigan - Brown & Beige Leopard Print",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019897508",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-06",
+      "time": "16:39:20",
+      "productUrl": null,
+      "lastUpdated": 1791301160164,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791301040313,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478237,11 +478255,22 @@
         "followingSku": "8583322",
         "followingTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
         "followingAuctionCode": "0019896966"
+      },
+      {
+        "start": 1791301040313,
+        "end": 1791301160164,
+        "durationMin": 2.0,
+        "precedingSku": "8583322",
+        "precedingTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+        "precedingAuctionCode": "0019896966",
+        "followingSku": "7859644",
+        "followingTitle": "Tamsy Printed Cardigan - Brown & Beige Leopard Print",
+        "followingAuctionCode": "0019897508"
       }
     ],
-    "lastOnAirSku": "8583322",
-    "lastOnAirTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
-    "lastOnAirAuctionCode": "0019896966",
+    "lastOnAirSku": "7859644",
+    "lastOnAirTitle": "Tamsy Printed Cardigan - Brown & Beige Leopard Print",
+    "lastOnAirAuctionCode": "0019897508",
     "precedingSku": "8583322",
     "precedingTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
     "precedingAuctionCode": "0019896966"
