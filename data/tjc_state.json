@@ -380330,21 +380330,26 @@
       "sku": "8634643",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-22",
-      "time": "11:45:35",
+      "date": "2026-10-06",
+      "time": "04:10:34",
       "preExisting": true,
       "missedAt": 1790073935793,
       "missedDelay": null,
-      "lastUpdated": 1790073935793,
+      "lastUpdated": 1791256234287,
       "missedPrice": 39.99,
       "missedImg": true,
-      "title": "Remote Control Robot Cat Toy Interactive Touch & Follow Functionss Colour - Pink",
-      "auctionCode": "0019880608",
+      "title": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions - Blue",
+      "auctionCode": "0019896720",
       "source": "gha",
       "productUrl": "/products/toy-size-one-size-blue-8634629",
       "productUrlChecked": 1790073939329,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791256234287,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8634642": {
       "sku": "8634642",
@@ -427900,8 +427905,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791256158704,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476466,11 +476471,22 @@
         "followingSku": "8576755",
         "followingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
         "followingAuctionCode": "0019896716"
+      },
+      {
+        "start": 1791256158704,
+        "end": 1791256234287,
+        "durationMin": 1.3,
+        "precedingSku": "8576755",
+        "precedingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+        "precedingAuctionCode": "0019896716",
+        "followingSku": "8634643",
+        "followingTitle": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions - Blue",
+        "followingAuctionCode": "0019896720"
       }
     ],
-    "lastOnAirSku": "8576755",
-    "lastOnAirTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
-    "lastOnAirAuctionCode": "0019896716",
+    "lastOnAirSku": "8634643",
+    "lastOnAirTitle": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions - Blue",
+    "lastOnAirAuctionCode": "0019896720",
     "precedingSku": "8576755",
     "precedingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
     "precedingAuctionCode": "0019896716"
