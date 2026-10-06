@@ -428015,17 +428015,17 @@
       "firstAir": 1791275478708,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791276635443,
+      "lastAir": 1791293450512,
       "title": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
-      "pdpPrice": "12.99",
-      "auctionCode": "0019893779",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019898397",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-06",
-      "time": "09:50:35",
+      "time": "14:30:50",
       "productUrl": "/products/laurelle-ethereal-blue-edp-100ml-tonka-oud-8798357",
-      "lastUpdated": 1791277262519,
+      "lastUpdated": 1791293450512,
       "source": "gha",
       "missedAt": 1791277262519,
       "missedDelay": 10,
@@ -428364,8 +428364,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791293182044,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -477249,11 +477249,22 @@
         "followingSku": "8798421",
         "followingTitle": "Laurelle Exotic Rock EDP - 50ml - Vanilla",
         "followingAuctionCode": "0019896347"
+      },
+      {
+        "start": 1791293182044,
+        "end": 1791293450512,
+        "durationMin": 4.5,
+        "precedingSku": "8798421",
+        "precedingTitle": "Laurelle Exotic Rock EDP - 50ml - Vanilla",
+        "precedingAuctionCode": "0019896347",
+        "followingSku": "8798357",
+        "followingTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
+        "followingAuctionCode": "0019898397"
       }
     ],
-    "lastOnAirSku": "8798421",
-    "lastOnAirTitle": "Laurelle Exotic Rock EDP - 50ml - Vanilla",
-    "lastOnAirAuctionCode": "0019896347",
+    "lastOnAirSku": "8798357",
+    "lastOnAirTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
+    "lastOnAirAuctionCode": "0019898397",
     "precedingSku": "8798421",
     "precedingTitle": "Laurelle Exotic Rock EDP - 50ml - Vanilla",
     "precedingAuctionCode": "0019896347"
