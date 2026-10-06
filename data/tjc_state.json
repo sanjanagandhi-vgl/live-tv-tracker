@@ -427412,21 +427412,26 @@
       "sku": "8777475",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-05",
-      "time": "21:52:16",
+      "date": "2026-10-06",
+      "time": "05:25:28",
       "preExisting": true,
       "missedAt": 1791233536282,
       "missedDelay": null,
-      "lastUpdated": 1791233536282,
+      "lastUpdated": 1791260728019,
       "missedPrice": 149.99,
       "missedImg": true,
-      "title": "Luxuriant - AAA Turkizite & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.40 Ct.",
-      "auctionCode": "0019897715",
+      "title": "AAA Natural Turkizite (1.24 Ct) & Grown Diamond (SI-G-H) Ring in 18K Gold Vermeil Sterling Silver 1.40 Ct.",
+      "auctionCode": "0019897883",
       "source": "gha",
       "productUrl": "/products/luxuriant-aaa-turkizite-lab-grown-diamond-si-g-h-halo-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-40-ct-8777474",
       "productUrlChecked": 1791233540847,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791260728019,
+      "pdpPrice": "499.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8599254": {
       "sku": "8599254",
@@ -427931,8 +427936,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791260436401,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476541,11 +476546,22 @@
         "followingSku": "8747714",
         "followingTitle": "Biggest Close Out Deal- 9K Yellow Gold Graduated Omega Memory Necklace (Size - 20)",
         "followingAuctionCode": "0019897909"
+      },
+      {
+        "start": 1791260436401,
+        "end": 1791260728019,
+        "durationMin": 4.9,
+        "precedingSku": "8321366",
+        "precedingTitle": "24K Yellow Gold Lunar Rabbit Collectible",
+        "precedingAuctionCode": "0019896606",
+        "followingSku": "8777475",
+        "followingTitle": "AAA Natural Turkizite (1.24 Ct) & Grown Diamond (SI-G-H) Ring in 18K Gold Vermeil Sterling Silver 1.40 Ct.",
+        "followingAuctionCode": "0019897883"
       }
     ],
-    "lastOnAirSku": "8321366",
-    "lastOnAirTitle": "24K Yellow Gold Lunar Rabbit Collectible",
-    "lastOnAirAuctionCode": "0019896606",
+    "lastOnAirSku": "8777475",
+    "lastOnAirTitle": "AAA Natural Turkizite (1.24 Ct) & Grown Diamond (SI-G-H) Ring in 18K Gold Vermeil Sterling Silver 1.40 Ct.",
+    "lastOnAirAuctionCode": "0019897883",
     "precedingSku": "8321366",
     "precedingTitle": "24K Yellow Gold Lunar Rabbit Collectible",
     "precedingAuctionCode": "0019896606"
