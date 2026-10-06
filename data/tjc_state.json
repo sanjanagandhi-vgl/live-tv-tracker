@@ -429366,11 +429366,29 @@
       "productUrl": null,
       "lastUpdated": 1791302127093,
       "source": "gha"
+    },
+    "7931979": {
+      "sku": "7931979",
+      "firstAir": 1791302239005,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791302239005,
+      "title": "La Marey Solid Colour Crew Neck Jumper (Size 16 to 18) - Brilliant Violet",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019897521",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-06",
+      "time": "16:57:19",
+      "productUrl": null,
+      "lastUpdated": 1791302239005,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791302184327,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478386,11 +478404,22 @@
         "followingSku": "8544794",
         "followingTitle": "3 Piece Genuine Leather Woven Tote Bag Set - Black & Silver",
         "followingAuctionCode": "0019897535"
+      },
+      {
+        "start": 1791302184327,
+        "end": 1791302239005,
+        "durationMin": 0.9,
+        "precedingSku": "8544794",
+        "precedingTitle": "3 Piece Genuine Leather Woven Tote Bag Set - Black & Silver",
+        "precedingAuctionCode": "0019897535",
+        "followingSku": "7931979",
+        "followingTitle": "La Marey Solid Colour Crew Neck Jumper (Size 16 to 18) - Brilliant Violet",
+        "followingAuctionCode": "0019897521"
       }
     ],
-    "lastOnAirSku": "8544794",
-    "lastOnAirTitle": "3 Piece Genuine Leather Woven Tote Bag Set - Black & Silver",
-    "lastOnAirAuctionCode": "0019897535",
+    "lastOnAirSku": "7931979",
+    "lastOnAirTitle": "La Marey Solid Colour Crew Neck Jumper (Size 16 to 18) - Brilliant Violet",
+    "lastOnAirAuctionCode": "0019897521",
     "precedingSku": "8544794",
     "precedingTitle": "3 Piece Genuine Leather Woven Tote Bag Set - Black & Silver",
     "precedingAuctionCode": "0019897535"
