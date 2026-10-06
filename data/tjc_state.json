@@ -183737,17 +183737,17 @@
       "firstAir": 1786982902596,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786983338068,
+      "lastAir": 1791305238514,
       "title": "BODYOGRAPHY- Pro Perfect Foundation Stick Chai - Medium-Deep Neutral",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019825882",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019896743",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-17",
-      "time": "17:15:38",
+      "date": "2026-10-06",
+      "time": "17:47:18",
       "productUrl": "/products/bodyography-pro-perfect-foundation-stick-cream-8671390",
-      "lastUpdated": 1786983931073,
+      "lastUpdated": 1791305238514,
       "source": "gha",
       "missedAt": 1786983931073,
       "missedDelay": 10,
@@ -429447,8 +429447,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791305183405,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478486,11 +478486,22 @@
         "followingSku": "8671494",
         "followingTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
         "followingAuctionCode": "0019896769"
+      },
+      {
+        "start": 1791305183405,
+        "end": 1791305238514,
+        "durationMin": 0.9,
+        "precedingSku": "8671494",
+        "precedingTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
+        "precedingAuctionCode": "0019896769",
+        "followingSku": "8671390",
+        "followingTitle": "BODYOGRAPHY- Pro Perfect Foundation Stick Chai - Medium-Deep Neutral",
+        "followingAuctionCode": "0019896743"
       }
     ],
-    "lastOnAirSku": "8671494",
-    "lastOnAirTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
-    "lastOnAirAuctionCode": "0019896769",
+    "lastOnAirSku": "8671390",
+    "lastOnAirTitle": "BODYOGRAPHY- Pro Perfect Foundation Stick Chai - Medium-Deep Neutral",
+    "lastOnAirAuctionCode": "0019896743",
     "precedingSku": "8671494",
     "precedingTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
     "precedingAuctionCode": "0019896769"
