@@ -426765,21 +426765,26 @@
       "sku": "8696826",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-05",
-      "time": "16:33:20",
+      "date": "2026-10-06",
+      "time": "22:55:24",
       "preExisting": true,
       "missedAt": 1791214400601,
       "missedDelay": null,
-      "lastUpdated": 1791214400601,
+      "lastUpdated": 1791323724912,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Orange",
-      "auctionCode": "0019895547",
+      "title": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+      "auctionCode": "0019897726",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-yellow-8696824",
       "productUrlChecked": 1791214405385,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791323724912,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8696825": {
       "sku": "8696825",
@@ -429757,8 +429762,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791323660550,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478961,11 +478966,22 @@
         "followingSku": "8696613",
         "followingTitle": "Set of 30 Reusable Christmas Foil Present Gift Packing Bags With Ribbon Ties",
         "followingAuctionCode": "0019899023"
+      },
+      {
+        "start": 1791323660550,
+        "end": 1791323724912,
+        "durationMin": 1.1,
+        "precedingSku": "8696613",
+        "precedingTitle": "Set of 30 Reusable Christmas Foil Present Gift Packing Bags With Ribbon Ties",
+        "precedingAuctionCode": "0019899023",
+        "followingSku": "8696826",
+        "followingTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+        "followingAuctionCode": "0019897726"
       }
     ],
-    "lastOnAirSku": "8696613",
-    "lastOnAirTitle": "Set of 30 Reusable Christmas Foil Present Gift Packing Bags With Ribbon Ties",
-    "lastOnAirAuctionCode": "0019899023",
+    "lastOnAirSku": "8696826",
+    "lastOnAirTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+    "lastOnAirAuctionCode": "0019897726",
     "precedingSku": "8696613",
     "precedingTitle": "Set of 30 Reusable Christmas Foil Present Gift Packing Bags With Ribbon Ties",
     "precedingAuctionCode": "0019899023"
