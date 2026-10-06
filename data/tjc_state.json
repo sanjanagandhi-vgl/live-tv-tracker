@@ -1817,23 +1817,23 @@
       "sku": "8421313",
       "tvPrice": "",
       "remarks": "",
-      "time": "02:22:22",
+      "time": "07:52:23",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 49.99,
       "missedImg": false,
-      "title": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light fo...",
-      "auctionCode": "0019869867",
+      "title": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+      "auctionCode": "0019897195",
       "source": "gha",
-      "lastAir": 1789435342693,
-      "pdpPrice": 49.99,
+      "lastAir": 1791269543027,
+      "pdpPrice": "240.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-15",
+      "date": "2026-10-06",
       "productUrl": "/products/last-in-stock-chin-fit-elite-with-photon-facelifting-technology-infrared-red-blue-light-for-double-chin-jawline8421313?variant=53577155051786",
-      "lastUpdated": 1789435342693,
+      "lastUpdated": 1791269543027,
       "productUrlChecked": 1789435350170,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -427941,8 +427941,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791269479176,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476617,11 +476617,22 @@
         "followingSku": "8243723",
         "followingTitle": "Bristle: Dupont Brushing Modes: 5 modes",
         "followingAuctionCode": "0019897318"
+      },
+      {
+        "start": 1791269479176,
+        "end": 1791269543027,
+        "durationMin": 1.1,
+        "precedingSku": "8243723",
+        "precedingTitle": "Bristle: Dupont Brushing Modes: 5 modes",
+        "precedingAuctionCode": "0019897318",
+        "followingSku": "8421313",
+        "followingTitle": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+        "followingAuctionCode": "0019897195"
       }
     ],
-    "lastOnAirSku": "8243723",
-    "lastOnAirTitle": "Bristle: Dupont Brushing Modes: 5 modes",
-    "lastOnAirAuctionCode": "0019897318",
+    "lastOnAirSku": "8421313",
+    "lastOnAirTitle": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+    "lastOnAirAuctionCode": "0019897195",
     "precedingSku": "8243723",
     "precedingTitle": "Bristle: Dupont Brushing Modes: 5 modes",
     "precedingAuctionCode": "0019897318"
