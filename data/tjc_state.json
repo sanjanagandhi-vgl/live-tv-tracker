@@ -429113,11 +429113,29 @@
       "productUrlChecked": 1791299006458,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8583317": {
+      "sku": "8583317",
+      "firstAir": 1791299358290,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791299358290,
+      "title": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019896961",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-06",
+      "time": "16:09:18",
+      "productUrl": null,
+      "lastUpdated": 1791299358290,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791299243279,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478089,11 +478107,22 @@
         "followingSku": "7898126",
         "followingTitle": "La Marey 100% Cotton Cozy Round Neck Jumper (Size L) - Purple",
         "followingAuctionCode": "0019897524"
+      },
+      {
+        "start": 1791299243279,
+        "end": 1791299358290,
+        "durationMin": 1.9,
+        "precedingSku": "8547919",
+        "precedingTitle": "Pure & Natural Womens Tapered Leg Trousers with 27Inch Inseam (Size 10) - Pink",
+        "precedingAuctionCode": "0019897556",
+        "followingSku": "8583317",
+        "followingTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+        "followingAuctionCode": "0019896961"
       }
     ],
-    "lastOnAirSku": "8547919",
-    "lastOnAirTitle": "Pure & Natural Womens Tapered Leg Trousers with 27Inch Inseam (Size 10) - Pink",
-    "lastOnAirAuctionCode": "0019897556",
+    "lastOnAirSku": "8583317",
+    "lastOnAirTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+    "lastOnAirAuctionCode": "0019896961",
     "precedingSku": "8547919",
     "precedingTitle": "Pure & Natural Womens Tapered Leg Trousers with 27Inch Inseam (Size 10) - Pink",
     "precedingAuctionCode": "0019897556"
