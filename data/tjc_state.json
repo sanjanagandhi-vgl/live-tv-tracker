@@ -427974,11 +427974,29 @@
       "productUrl": null,
       "lastUpdated": 1791273863354,
       "source": "gha"
+    },
+    "8798376": {
+      "sku": "8798376",
+      "firstAir": 1791274159868,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791274159868,
+      "title": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019893772",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-06",
+      "time": "09:09:19",
+      "productUrl": null,
+      "lastUpdated": 1791274159868,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791273929831,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476675,11 +476693,22 @@
         "followingSku": "8538107",
         "followingTitle": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Peppermint - 10ml",
         "followingAuctionCode": "0019896958"
+      },
+      {
+        "start": 1791273929831,
+        "end": 1791274159868,
+        "durationMin": 3.8,
+        "precedingSku": "8538099",
+        "precedingTitle": "CBD Queen- Muscle & Joint Balm 6% (3000mg) - 50ml",
+        "precedingAuctionCode": "0019896951",
+        "followingSku": "8798376",
+        "followingTitle": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
+        "followingAuctionCode": "0019893772"
       }
     ],
-    "lastOnAirSku": "8538099",
-    "lastOnAirTitle": "CBD Queen- Muscle & Joint Balm 6% (3000mg) - 50ml",
-    "lastOnAirAuctionCode": "0019896951",
+    "lastOnAirSku": "8798376",
+    "lastOnAirTitle": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
+    "lastOnAirAuctionCode": "0019893772",
     "precedingSku": "8538099",
     "precedingTitle": "CBD Queen- Muscle & Joint Balm 6% (3000mg) - 50ml",
     "precedingAuctionCode": "0019896951"
