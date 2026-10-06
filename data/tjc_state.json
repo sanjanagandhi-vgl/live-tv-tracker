@@ -401787,21 +401787,26 @@
       "sku": "8602203",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-28",
-      "time": "21:54:23",
+      "date": "2026-10-06",
+      "time": "03:05:27",
       "preExisting": true,
       "missedAt": 1790628863684,
       "missedDelay": null,
-      "lastUpdated": 1790628863684,
+      "lastUpdated": 1791252327624,
       "missedPrice": 129.99,
       "missedImg": true,
-      "title": "Royal Bali Collection - D'Joy Fissure Filled Blue Sapphire Vintage Bangle in Sterling Silver 2.16 Ct, Silver Wt. 16.30 Gms",
-      "auctionCode": "0019888338",
+      "title": "Royal Bali Collection - D'Joy Fissure Filled Ruby Vintage Bangle (Size - 7.5) in Sterling Silver 2.00 Ct, Silver Wt. 16.65 Gms",
+      "auctionCode": "0019896302",
       "source": "gha",
       "productUrl": "/products/djoy-fissure-filled-ruby-bangle-sterling-silver-silver-wt-16-gms-1-990-ct-8602200",
       "productUrlChecked": 1790628867550,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791252327624,
+      "pdpPrice": "499.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8781706": {
       "sku": "8781706",
@@ -427877,14 +427882,21 @@
       "img": true,
       "date": "2026-10-06",
       "time": "02:55:26",
-      "productUrl": null,
-      "lastUpdated": 1791251726478,
-      "source": "gha"
+      "productUrl": "/products/royal-bali-collection-sterling-silver-floral-earring-with-hook",
+      "lastUpdated": 1791252327624,
+      "source": "gha",
+      "missedAt": 1791252327624,
+      "missedDelay": 10,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "productUrlChecked": 1791252331379,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791252145018,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476394,11 +476406,22 @@
         "followingSku": "8514570",
         "followingTitle": "Royal Bali Collection - Sterling Silver Floral Earring with Hook",
         "followingAuctionCode": "0019896290"
+      },
+      {
+        "start": 1791252145018,
+        "end": 1791252327624,
+        "durationMin": 3.0,
+        "precedingSku": "8514493",
+        "precedingTitle": "Royal Bali Collection - Sterling Silver Ornate Key Pendant",
+        "precedingAuctionCode": "0019896284",
+        "followingSku": "8602203",
+        "followingTitle": "Royal Bali Collection - D'Joy Fissure Filled Ruby Vintage Bangle (Size - 7.5) in Sterling Silver 2.00 Ct, Silver Wt. 16.65 Gms",
+        "followingAuctionCode": "0019896302"
       }
     ],
-    "lastOnAirSku": "8514493",
-    "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Ornate Key Pendant",
-    "lastOnAirAuctionCode": "0019896284",
+    "lastOnAirSku": "8602203",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Fissure Filled Ruby Vintage Bangle (Size - 7.5) in Sterling Silver 2.00 Ct, Silver Wt. 16.65 Gms",
+    "lastOnAirAuctionCode": "0019896302",
     "precedingSku": "8514493",
     "precedingTitle": "Royal Bali Collection - Sterling Silver Ornate Key Pendant",
     "precedingAuctionCode": "0019896284"
