@@ -405082,21 +405082,26 @@
       "sku": "8692491",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-29",
-      "time": "17:59:21",
+      "date": "2026-10-06",
+      "time": "01:23:18",
       "preExisting": true,
       "missedAt": 1790701161519,
       "missedDelay": null,
-      "lastUpdated": 1790701161519,
+      "lastUpdated": 1791246198619,
       "missedPrice": 69.99,
       "missedImg": true,
-      "title": "Crossbody Bag (Size - One Size) - Burgundy",
-      "auctionCode": "0019889045",
+      "title": "SUPER FIND - Designer Genuine Leather Handbag with Top Handle & Shoulder Strap - Dark Green",
+      "auctionCode": "0019896749",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-dark-green-8692490",
       "productUrlChecked": 1790701165030,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791246198619,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4479541": {
       "sku": "4479541",
@@ -427820,8 +427825,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791246078573,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476243,11 +476248,22 @@
         "followingSku": "8580175",
         "followingTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
         "followingAuctionCode": "0019896941"
+      },
+      {
+        "start": 1791246078573,
+        "end": 1791246198619,
+        "durationMin": 2.0,
+        "precedingSku": "8580175",
+        "precedingTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
+        "precedingAuctionCode": "0019896941",
+        "followingSku": "8692491",
+        "followingTitle": "SUPER FIND - Designer Genuine Leather Handbag with Top Handle & Shoulder Strap - Dark Green",
+        "followingAuctionCode": "0019896749"
       }
     ],
-    "lastOnAirSku": "8580175",
-    "lastOnAirTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
-    "lastOnAirAuctionCode": "0019896941",
+    "lastOnAirSku": "8692491",
+    "lastOnAirTitle": "SUPER FIND - Designer Genuine Leather Handbag with Top Handle & Shoulder Strap - Dark Green",
+    "lastOnAirAuctionCode": "0019896749",
     "precedingSku": "8580175",
     "precedingTitle": "GENOA TIME V2 Byzantine Chain Watch PC21S Japan Movement 3ATM WR Golden Sunshine Dial & PNP Gold Plating Alloy Case Womens Watch with Byzantine Stainless Steel Chain",
     "precedingAuctionCode": "0019896941"
