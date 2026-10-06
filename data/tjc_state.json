@@ -293361,23 +293361,23 @@
       "sku": "8243723",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-30",
-      "time": "04:43:17",
+      "date": "2026-10-06",
+      "time": "07:41:19",
       "preExisting": true,
       "missedAt": 1788401600050,
       "missedDelay": null,
-      "lastUpdated": 1790739797832,
+      "lastUpdated": 1791268879918,
       "missedPrice": 24.99,
       "missedImg": true,
       "title": "Bristle: Dupont Brushing Modes: 5 modes",
-      "auctionCode": "0019888429",
+      "auctionCode": "0019897318",
       "source": "gha",
       "productUrl": "/products/bristle-dupont-brushing-modes-5-modes",
       "productUrlChecked": 1788401608920,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790739797832,
-      "pdpPrice": "19.99",
+      "lastAir": 1791268879918,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -427941,8 +427941,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791268585560,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476606,11 +476606,22 @@
         "followingSku": "8416537",
         "followingTitle": "Bitvae Toothbrush Cleaner with UV-C Cleaning, Air Drying, LED Smart Screen & 30-Day Battery Life",
         "followingAuctionCode": "0019897319"
+      },
+      {
+        "start": 1791268585560,
+        "end": 1791268879918,
+        "durationMin": 4.9,
+        "precedingSku": "8416537",
+        "precedingTitle": "Bitvae Toothbrush Cleaner with UV-C Cleaning, Air Drying, LED Smart Screen & 30-Day Battery Life",
+        "precedingAuctionCode": "0019897319",
+        "followingSku": "8243723",
+        "followingTitle": "Bristle: Dupont Brushing Modes: 5 modes",
+        "followingAuctionCode": "0019897318"
       }
     ],
-    "lastOnAirSku": "8416537",
-    "lastOnAirTitle": "Bitvae Toothbrush Cleaner with UV-C Cleaning, Air Drying, LED Smart Screen & 30-Day Battery Life",
-    "lastOnAirAuctionCode": "0019897319",
+    "lastOnAirSku": "8243723",
+    "lastOnAirTitle": "Bristle: Dupont Brushing Modes: 5 modes",
+    "lastOnAirAuctionCode": "0019897318",
     "precedingSku": "8416537",
     "precedingTitle": "Bitvae Toothbrush Cleaner with UV-C Cleaning, Air Drying, LED Smart Screen & 30-Day Battery Life",
     "precedingAuctionCode": "0019897319"
