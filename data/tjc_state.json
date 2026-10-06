@@ -427862,11 +427862,29 @@
       "productUrlChecked": 1791251439156,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8514570": {
+      "sku": "8514570",
+      "firstAir": 1791251597723,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791251597723,
+      "title": "Royal Bali Collection - Sterling Silver Floral Earring with Hook",
+      "pdpPrice": "899.99",
+      "auctionCode": "0019896290",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-06",
+      "time": "02:53:17",
+      "productUrl": null,
+      "lastUpdated": 1791251597723,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791251541628,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476365,11 +476383,22 @@
         "followingSku": "8514569",
         "followingTitle": "Royal Bali Collection - Sterling Silver Dangle Earring with Hook",
         "followingAuctionCode": "0019896289"
+      },
+      {
+        "start": 1791251541628,
+        "end": 1791251597723,
+        "durationMin": 0.9,
+        "precedingSku": "8514569",
+        "precedingTitle": "Royal Bali Collection - Sterling Silver Dangle Earring with Hook",
+        "precedingAuctionCode": "0019896289",
+        "followingSku": "8514570",
+        "followingTitle": "Royal Bali Collection - Sterling Silver Floral Earring with Hook",
+        "followingAuctionCode": "0019896290"
       }
     ],
-    "lastOnAirSku": "8514569",
-    "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Dangle Earring with Hook",
-    "lastOnAirAuctionCode": "0019896289",
+    "lastOnAirSku": "8514570",
+    "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Floral Earring with Hook",
+    "lastOnAirAuctionCode": "0019896290",
     "precedingSku": "8514569",
     "precedingTitle": "Royal Bali Collection - Sterling Silver Dangle Earring with Hook",
     "precedingAuctionCode": "0019896289"
