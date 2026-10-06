@@ -353319,21 +353319,26 @@
       "sku": "8719947",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-16",
-      "time": "03:44:21",
+      "date": "2026-10-06",
+      "time": "18:35:28",
       "preExisting": true,
       "missedAt": 1789526661688,
       "missedDelay": null,
-      "lastUpdated": 1789526661688,
+      "lastUpdated": 1791308128397,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Lemon Room Mist - 100ml",
-      "auctionCode": "0019871662",
+      "title": "Anna Lihs Rose Room Mist - 100ml",
+      "auctionCode": "0019897856",
       "source": "gha",
       "productUrl": "/products/tjc-special-diffuser-size-one-size-rose-8719945",
       "productUrlChecked": 1789526669722,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791308128397,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8719948": {
       "sku": "8719948",
@@ -429473,8 +429478,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791308061128,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478556,11 +478561,22 @@
         "followingSku": "7925315",
         "followingTitle": "Hand-Carved Wooden Collapsible Star Spring Tray with Legs (29 x 29 cm) - Natural Brown",
         "followingAuctionCode": "0019897804"
+      },
+      {
+        "start": 1791308061128,
+        "end": 1791308128397,
+        "durationMin": 1.1,
+        "precedingSku": "8566553",
+        "precedingTitle": "Hand-Carved Wooden Collapsible Heptagon Spring Tray Basket with Feet (26.5 x 26.5 cm) - Natural B...",
+        "precedingAuctionCode": "0019897802",
+        "followingSku": "8719947",
+        "followingTitle": "Anna Lihs Rose Room Mist - 100ml",
+        "followingAuctionCode": "0019897856"
       }
     ],
-    "lastOnAirSku": "8566553",
-    "lastOnAirTitle": "Hand-Carved Wooden Collapsible Heptagon Spring Tray Basket with Feet (26.5 x 26.5 cm) - Natural B...",
-    "lastOnAirAuctionCode": "0019897802",
+    "lastOnAirSku": "8719947",
+    "lastOnAirTitle": "Anna Lihs Rose Room Mist - 100ml",
+    "lastOnAirAuctionCode": "0019897856",
     "precedingSku": "8566553",
     "precedingTitle": "Hand-Carved Wooden Collapsible Heptagon Spring Tray Basket with Feet (26.5 x 26.5 cm) - Natural B...",
     "precedingAuctionCode": "0019897802"
