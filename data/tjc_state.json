@@ -412310,21 +412310,26 @@
       "sku": "8576755",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-01",
-      "time": "21:53:19",
+      "date": "2026-10-06",
+      "time": "04:06:23",
       "preExisting": true,
       "missedAt": 1790887999768,
       "missedDelay": null,
-      "lastUpdated": 1790887999768,
+      "lastUpdated": 1791255983816,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Red",
-      "auctionCode": "0019891669",
+      "title": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+      "auctionCode": "0019896716",
       "source": "gha",
       "productUrl": "/products/livmore-showpiece-size-one-size-blue-8576754",
       "productUrlChecked": 1790888004345,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791255983816,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7577398": {
       "sku": "7577398",
@@ -427895,8 +427900,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791255798886,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476450,11 +476455,22 @@
         "followingSku": "4506475",
         "followingTitle": "D'Joy - Labradorite Solitaire Pendant in Platinum Overlay Sterling Silver with Chain (Size 20) 39.50 Ct.",
         "followingAuctionCode": "0019897907"
+      },
+      {
+        "start": 1791255798886,
+        "end": 1791255983816,
+        "durationMin": 3.1,
+        "precedingSku": "8747714",
+        "precedingTitle": "Biggest Close Out Deal- 9K Yellow Gold Graduated Omega Memory Necklace (Size - 20)",
+        "precedingAuctionCode": "0019896579",
+        "followingSku": "8576755",
+        "followingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+        "followingAuctionCode": "0019896716"
       }
     ],
-    "lastOnAirSku": "8747714",
-    "lastOnAirTitle": "Biggest Close Out Deal- 9K Yellow Gold Graduated Omega Memory Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019896579",
+    "lastOnAirSku": "8576755",
+    "lastOnAirTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+    "lastOnAirAuctionCode": "0019896716",
     "precedingSku": "8747714",
     "precedingTitle": "Biggest Close Out Deal- 9K Yellow Gold Graduated Omega Memory Necklace (Size - 20)",
     "precedingAuctionCode": "0019896579"
