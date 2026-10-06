@@ -342628,21 +342628,26 @@
       "sku": "8624565",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-10-06",
+      "time": "01:48:23",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1791247703551,
       "missedPrice": 17.99,
       "missedImg": true,
-      "title": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Yellow",
-      "auctionCode": "0019869603",
+      "title": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+      "auctionCode": "0019896705",
       "source": "gha",
       "productUrl": "/products/livmore-christmas-ornament-size-one-size-green-8624566",
       "productUrlChecked": 1789359147655,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791247703551,
+      "pdpPrice": "17.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8661754": {
       "sku": "8661754",
@@ -427825,8 +427830,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791247638644,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476270,11 +476275,22 @@
         "followingSku": "8644034",
         "followingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
         "followingAuctionCode": "0019896849"
+      },
+      {
+        "start": 1791247638644,
+        "end": 1791247703551,
+        "durationMin": 1.1,
+        "precedingSku": "8644034",
+        "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
+        "precedingAuctionCode": "0019896849",
+        "followingSku": "8624565",
+        "followingTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+        "followingAuctionCode": "0019896705"
       }
     ],
-    "lastOnAirSku": "8644034",
-    "lastOnAirTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
-    "lastOnAirAuctionCode": "0019896849",
+    "lastOnAirSku": "8624565",
+    "lastOnAirTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+    "lastOnAirAuctionCode": "0019896705",
     "precedingSku": "8644034",
     "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
     "precedingAuctionCode": "0019896849"
