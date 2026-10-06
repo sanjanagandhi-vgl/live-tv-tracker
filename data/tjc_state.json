@@ -429479,11 +429479,29 @@
       "missedDelay": 9,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8696613": {
+      "sku": "8696613",
+      "firstAir": 1791308734415,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791308734415,
+      "title": "Set of 30 Reusable Christmas Foil Present Gift Packing Bags With Ribbon Ties",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019897812",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-06",
+      "time": "18:45:34",
+      "productUrl": null,
+      "lastUpdated": 1791308734415,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791308478913,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478576,11 +478594,22 @@
         "followingSku": "8719947",
         "followingTitle": "Anna Lihs Rose Room Mist - 100ml",
         "followingAuctionCode": "0019897856"
+      },
+      {
+        "start": 1791308478913,
+        "end": 1791308734415,
+        "durationMin": 4.3,
+        "precedingSku": "8719947",
+        "precedingTitle": "Anna Lihs Rose Room Mist - 100ml",
+        "precedingAuctionCode": "0019897856",
+        "followingSku": "8696613",
+        "followingTitle": "Set of 30 Reusable Christmas Foil Present Gift Packing Bags With Ribbon Ties",
+        "followingAuctionCode": "0019897812"
       }
     ],
-    "lastOnAirSku": "8719947",
-    "lastOnAirTitle": "Anna Lihs Rose Room Mist - 100ml",
-    "lastOnAirAuctionCode": "0019897856",
+    "lastOnAirSku": "8696613",
+    "lastOnAirTitle": "Set of 30 Reusable Christmas Foil Present Gift Packing Bags With Ribbon Ties",
+    "lastOnAirAuctionCode": "0019897812",
     "precedingSku": "8719947",
     "precedingTitle": "Anna Lihs Rose Room Mist - 100ml",
     "precedingAuctionCode": "0019897856"
