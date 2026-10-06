@@ -419233,18 +419233,23 @@
       "sku": "3681005",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-03",
-      "time": "16:30:45",
+      "date": "2026-10-06",
+      "time": "13:32:21",
       "preExisting": true,
       "missedAt": 1791041445776,
       "missedDelay": null,
-      "lastUpdated": 1791041445776,
+      "lastUpdated": 1791289941233,
       "missedPrice": 137.99,
       "missedImg": false,
       "title": "D'Joy - Chanthaburi Ruby (FF) & Natural White Diamond Oval Halo Ring in Platinum Overlay Sterling Silver 3.20 Ct.",
-      "auctionCode": "0019895613",
+      "auctionCode": "0019898119",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1791289941233,
+      "pdpPrice": null,
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "3680995": {
       "sku": "3680995",
@@ -428322,8 +428327,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791289849652,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -477174,11 +477179,22 @@
         "followingSku": "8415340",
         "followingTitle": "D'Joy - Ethiopian Opal Tennis Bracelet (Size - 7.5+2) in Rhodium Overlay Sterling Silver 12.00 Ct.",
         "followingAuctionCode": "0019898004"
+      },
+      {
+        "start": 1791289849652,
+        "end": 1791289941233,
+        "durationMin": 1.5,
+        "precedingSku": "8415340",
+        "precedingTitle": "D'Joy - Ethiopian Opal Tennis Bracelet (Size - 7.5+2) in Rhodium Overlay Sterling Silver 12.00 Ct.",
+        "precedingAuctionCode": "0019898004",
+        "followingSku": "3681005",
+        "followingTitle": null,
+        "followingAuctionCode": "0019898119"
       }
     ],
-    "lastOnAirSku": "8415340",
-    "lastOnAirTitle": "D'Joy - Ethiopian Opal Tennis Bracelet (Size - 7.5+2) in Rhodium Overlay Sterling Silver 12.00 Ct.",
-    "lastOnAirAuctionCode": "0019898004",
+    "lastOnAirSku": "3681005",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019898119",
     "precedingSku": "8415340",
     "precedingTitle": "D'Joy - Ethiopian Opal Tennis Bracelet (Size - 7.5+2) in Rhodium Overlay Sterling Silver 12.00 Ct.",
     "precedingAuctionCode": "0019898004"
