@@ -428343,11 +428343,29 @@
       "productUrlChecked": 1791290363463,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8798421": {
+      "sku": "8798421",
+      "firstAir": 1791292835104,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791292835104,
+      "title": "Laurelle Exotic Rock EDP - 50ml - Vanilla",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019896347",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-06",
+      "time": "14:20:35",
+      "productUrl": null,
+      "lastUpdated": 1791292835104,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791292703377,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -477220,11 +477238,22 @@
         "followingSku": "8798376",
         "followingTitle": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
         "followingAuctionCode": "0019898386"
+      },
+      {
+        "start": 1791292703377,
+        "end": 1791292835104,
+        "durationMin": 2.2,
+        "precedingSku": "8798376",
+        "precedingTitle": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
+        "precedingAuctionCode": "0019898386",
+        "followingSku": "8798421",
+        "followingTitle": "Laurelle Exotic Rock EDP - 50ml - Vanilla",
+        "followingAuctionCode": "0019896347"
       }
     ],
-    "lastOnAirSku": "8798376",
-    "lastOnAirTitle": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
-    "lastOnAirAuctionCode": "0019898386",
+    "lastOnAirSku": "8798421",
+    "lastOnAirTitle": "Laurelle Exotic Rock EDP - 50ml - Vanilla",
+    "lastOnAirAuctionCode": "0019896347",
     "precedingSku": "8798376",
     "precedingTitle": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
     "precedingAuctionCode": "0019898386"
