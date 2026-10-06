@@ -7879,16 +7879,16 @@
       "firstAir": 1784942061111,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789158743501,
+      "lastAir": 1791307041680,
       "title": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Blue",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019864176",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019897801",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "21:32:23",
-      "lastUpdated": 1789158743501,
+      "date": "2026-10-06",
+      "time": "18:17:21",
+      "lastUpdated": 1791307041680,
       "source": "gha",
       "missedAt": 1784942233331,
       "missedDelay": 2,
@@ -429447,8 +429447,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791306863516,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478508,11 +478508,22 @@
         "followingSku": "8671384",
         "followingTitle": "Bodyography Tinted Moisturiser - Light",
         "followingAuctionCode": "0019896750"
+      },
+      {
+        "start": 1791306863516,
+        "end": 1791307041680,
+        "durationMin": 3.0,
+        "precedingSku": "8671384",
+        "precedingTitle": "Bodyography Tinted Moisturiser - Light",
+        "precedingAuctionCode": "0019896750",
+        "followingSku": "8559295",
+        "followingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Blue",
+        "followingAuctionCode": "0019897801"
       }
     ],
-    "lastOnAirSku": "8671384",
-    "lastOnAirTitle": "Bodyography Tinted Moisturiser - Light",
-    "lastOnAirAuctionCode": "0019896750",
+    "lastOnAirSku": "8559295",
+    "lastOnAirTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Blue",
+    "lastOnAirAuctionCode": "0019897801",
     "precedingSku": "8671384",
     "precedingTitle": "Bodyography Tinted Moisturiser - Light",
     "precedingAuctionCode": "0019896750"
