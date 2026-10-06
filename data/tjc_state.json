@@ -328876,23 +328876,23 @@
       "sku": "8479750",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "03:09:17",
+      "date": "2026-10-06",
+      "time": "04:17:17",
       "preExisting": true,
       "missedAt": 1789005200225,
       "missedDelay": null,
-      "lastUpdated": 1790906957675,
+      "lastUpdated": 1791256637784,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Multi-Level Waterfall Pouring Bowl Water Flow Fountain Tabletop Ornament (Size 11x9x17 cm)",
-      "auctionCode": "0019892211",
+      "auctionCode": "0019896728",
       "source": "gha",
       "productUrl": "/products/green-lotus-flower-flat-stone-basin-water-flow-fountain-tabletop-ornament-size-18-x-11-x-12-cm-8479353",
       "productUrlChecked": 1789005209007,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790906957675,
-      "pdpPrice": "9.99",
+      "lastAir": 1791256637784,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true
@@ -427905,8 +427905,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791256461952,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -476482,11 +476482,22 @@
         "followingSku": "8634643",
         "followingTitle": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions - Blue",
         "followingAuctionCode": "0019896720"
+      },
+      {
+        "start": 1791256461952,
+        "end": 1791256637784,
+        "durationMin": 2.9,
+        "precedingSku": "8634643",
+        "precedingTitle": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions - Blue",
+        "precedingAuctionCode": "0019896720",
+        "followingSku": "8479750",
+        "followingTitle": "Multi-Level Waterfall Pouring Bowl Water Flow Fountain Tabletop Ornament (Size 11x9x17 cm)",
+        "followingAuctionCode": "0019896728"
       }
     ],
-    "lastOnAirSku": "8634643",
-    "lastOnAirTitle": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions - Blue",
-    "lastOnAirAuctionCode": "0019896720",
+    "lastOnAirSku": "8479750",
+    "lastOnAirTitle": "Multi-Level Waterfall Pouring Bowl Water Flow Fountain Tabletop Ornament (Size 11x9x17 cm)",
+    "lastOnAirAuctionCode": "0019896728",
     "precedingSku": "8634643",
     "precedingTitle": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions - Blue",
     "precedingAuctionCode": "0019896720"
