@@ -403207,17 +403207,17 @@
       "firstAir": 1790669436565,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791210086481,
+      "lastAir": 1791321382535,
       "title": "Laurelle Fly Fairy EDP - 85ml",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019892645",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019897712",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-05",
-      "time": "15:21:26",
+      "date": "2026-10-06",
+      "time": "22:16:22",
       "productUrl": "/products/laurelle-fly-fairy-85ml-edp-8791878?variant=53824574521610",
-      "lastUpdated": 1791210086481,
+      "lastUpdated": 1791321382535,
       "source": "gha",
       "missedAt": 1790673196907,
       "missedDelay": 10,
@@ -429753,8 +429753,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791321034591,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -478935,11 +478935,22 @@
         "followingSku": "8686960",
         "followingTitle": "La Marey Signature Striped Long Scarf (180 x 65cm) - Light Grey, Beige & Black",
         "followingAuctionCode": "0019897678"
+      },
+      {
+        "start": 1791321034591,
+        "end": 1791321382535,
+        "durationMin": 5.8,
+        "precedingSku": "8686960",
+        "precedingTitle": "La Marey Signature Striped Long Scarf (180 x 65cm) - Light Grey, Beige & Black",
+        "precedingAuctionCode": "0019897678",
+        "followingSku": "8791878",
+        "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "followingAuctionCode": "0019897712"
       }
     ],
-    "lastOnAirSku": "8686960",
-    "lastOnAirTitle": "La Marey Signature Striped Long Scarf (180 x 65cm) - Light Grey, Beige & Black",
-    "lastOnAirAuctionCode": "0019897678",
+    "lastOnAirSku": "8791878",
+    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
+    "lastOnAirAuctionCode": "0019897712",
     "precedingSku": "8686960",
     "precedingTitle": "La Marey Signature Striped Long Scarf (180 x 65cm) - Light Grey, Beige & Black",
     "precedingAuctionCode": "0019897678"
