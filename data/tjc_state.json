@@ -416580,21 +416580,26 @@
       "sku": "8567118",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "19:32:59",
+      "date": "2026-10-07",
+      "time": "02:15:33",
       "preExisting": true,
       "missedAt": 1790965979052,
       "missedDelay": null,
-      "lastUpdated": 1790965979052,
+      "lastUpdated": 1791335733180,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Multi-Functional UK Plug Socket with 4 Outlets, 3 USB Ports and 1 PD Fast Charge (2200W) - White",
-      "auctionCode": "0019893116",
+      "title": "Multi-Functional UK Plug Socket with 4 Outlets, 3 USB Ports and 1 PD Fast Charge (2200W) with Surge Protection - Black",
+      "auctionCode": "0019898387",
       "source": "gha",
       "productUrl": "/products/home-diy-size-17x3-cm-black-8567117",
       "productUrlChecked": 1790965984250,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791335733180,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8635425": {
       "sku": "8635425",
@@ -430057,8 +430062,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791335598213,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479415,11 +479420,22 @@
         "followingSku": "8312164",
         "followingTitle": "Christmas gift card(pack of 5",
         "followingAuctionCode": "0019898072"
+      },
+      {
+        "start": 1791335598213,
+        "end": 1791335733180,
+        "durationMin": 2.2,
+        "precedingSku": "8312164",
+        "precedingTitle": "Christmas gift card(pack of 5",
+        "precedingAuctionCode": "0019898072",
+        "followingSku": "8567118",
+        "followingTitle": "Multi-Functional UK Plug Socket with 4 Outlets, 3 USB Ports and 1 PD Fast Charge (2200W) with Surge Protection - Black",
+        "followingAuctionCode": "0019898387"
       }
     ],
-    "lastOnAirSku": "8312164",
-    "lastOnAirTitle": "Christmas gift card(pack of 5",
-    "lastOnAirAuctionCode": "0019898072",
+    "lastOnAirSku": "8567118",
+    "lastOnAirTitle": "Multi-Functional UK Plug Socket with 4 Outlets, 3 USB Ports and 1 PD Fast Charge (2200W) with Surge Protection - Black",
+    "lastOnAirAuctionCode": "0019898387",
     "precedingSku": "8312164",
     "precedingTitle": "Christmas gift card(pack of 5",
     "precedingAuctionCode": "0019898072"
