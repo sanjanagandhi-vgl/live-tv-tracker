@@ -431693,11 +431693,29 @@
       "productUrlChecked": 1791364538273,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4522485": {
+      "sku": "4522485",
+      "firstAir": 1791366141550,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791366141550,
+      "title": "Close Out Deal- Designer Inspired Set of 2 - White Crystal Necklace (Size 18+4 Ext) & Earring with Hook",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019899059",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-07",
+      "time": "10:42:21",
+      "productUrl": null,
+      "lastUpdated": 1791366141550,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791366114862,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -481516,11 +481534,22 @@
         "followingSku": "4520228",
         "followingTitle": "Set of 5 Push Back 925-Sterling Silver.",
         "followingAuctionCode": "0019898920"
+      },
+      {
+        "start": 1791366114862,
+        "end": 1791366141550,
+        "durationMin": 0.4,
+        "precedingSku": "4520228",
+        "precedingTitle": "Set of 5 Push Back 925-Sterling Silver.",
+        "precedingAuctionCode": "0019898920",
+        "followingSku": "4522485",
+        "followingTitle": "Close Out Deal- Designer Inspired Set of 2 - White Crystal Necklace (Size 18+4 Ext) & Earring with Hook",
+        "followingAuctionCode": "0019899059"
       }
     ],
-    "lastOnAirSku": "4520228",
-    "lastOnAirTitle": "Set of 5 Push Back 925-Sterling Silver.",
-    "lastOnAirAuctionCode": "0019898920",
+    "lastOnAirSku": "4522485",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Set of 2 - White Crystal Necklace (Size 18+4 Ext) & Earring with Hook",
+    "lastOnAirAuctionCode": "0019899059",
     "precedingSku": "4520228",
     "precedingTitle": "Set of 5 Push Back 925-Sterling Silver.",
     "precedingAuctionCode": "0019898920"
