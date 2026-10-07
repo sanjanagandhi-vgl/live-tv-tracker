@@ -429416,21 +429416,26 @@
       "sku": "8583323",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "16:46:23",
+      "date": "2026-10-07",
+      "time": "09:30:53",
       "preExisting": true,
       "missedAt": 1791301583368,
       "missedDelay": null,
-      "lastUpdated": 1791301583368,
+      "lastUpdated": 1791361853170,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 14) - Beige",
-      "auctionCode": "0019896982",
+      "title": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+      "auctionCode": "0019899174",
       "source": "gha",
       "productUrl": "/products/charlotte-west-jacket-size-12-lilac-8583317",
       "productUrlChecked": 1791301590055,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791361853170,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8544794": {
       "sku": "8544794",
@@ -431459,8 +431464,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791361759224,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -481158,11 +481163,22 @@
         "followingSku": "8585722",
         "followingTitle": "Pure And Natural Womens Long Sleeve Zip Through Funnel Neck Top (Size L) - Chocolate",
         "followingAuctionCode": "0019898536"
+      },
+      {
+        "start": 1791361759224,
+        "end": 1791361853170,
+        "durationMin": 1.6,
+        "precedingSku": "8585708",
+        "precedingTitle": "Pure And Natural Womens Long Sleeve Zip Through Funnel Neck Top (Size L) - Chocolate",
+        "precedingAuctionCode": "0019898526",
+        "followingSku": "8583323",
+        "followingTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+        "followingAuctionCode": "0019899174"
       }
     ],
-    "lastOnAirSku": "8585708",
-    "lastOnAirTitle": "Pure And Natural Womens Long Sleeve Zip Through Funnel Neck Top (Size L) - Chocolate",
-    "lastOnAirAuctionCode": "0019898526",
+    "lastOnAirSku": "8583323",
+    "lastOnAirTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+    "lastOnAirAuctionCode": "0019899174",
     "precedingSku": "8585708",
     "precedingTitle": "Pure And Natural Womens Long Sleeve Zip Through Funnel Neck Top (Size L) - Chocolate",
     "precedingAuctionCode": "0019898526"
