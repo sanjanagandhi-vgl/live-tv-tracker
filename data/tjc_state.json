@@ -430222,11 +430222,29 @@
       "productUrlChecked": 1791347735036,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4409949": {
+      "sku": "4409949",
+      "firstAir": 1791350301408,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791350301408,
+      "title": "EverTrue Bronzella Collection - Pendant with Chain (Size 24) in 18K Gold Plating",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019898156",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-07",
+      "time": "06:18:21",
+      "productUrl": null,
+      "lastUpdated": 1791350301408,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791350237937,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479770,11 +479788,22 @@
         "followingSku": "8352866",
         "followingTitle": "Bronzella Collection - Earring with J Hook in 18K Gold Plating",
         "followingAuctionCode": "0019898180"
+      },
+      {
+        "start": 1791350237937,
+        "end": 1791350301408,
+        "durationMin": 1.1,
+        "precedingSku": "8352866",
+        "precedingTitle": "Bronzella Collection - Earring with J Hook in 18K Gold Plating",
+        "precedingAuctionCode": "0019898180",
+        "followingSku": "4409949",
+        "followingTitle": "EverTrue Bronzella Collection - Pendant with Chain (Size 24) in 18K Gold Plating",
+        "followingAuctionCode": "0019898156"
       }
     ],
-    "lastOnAirSku": "8352866",
-    "lastOnAirTitle": "Bronzella Collection - Earring with J Hook in 18K Gold Plating",
-    "lastOnAirAuctionCode": "0019898180",
+    "lastOnAirSku": "4409949",
+    "lastOnAirTitle": "EverTrue Bronzella Collection - Pendant with Chain (Size 24) in 18K Gold Plating",
+    "lastOnAirAuctionCode": "0019898156",
     "precedingSku": "8352866",
     "precedingTitle": "Bronzella Collection - Earring with J Hook in 18K Gold Plating",
     "precedingAuctionCode": "0019898180"
