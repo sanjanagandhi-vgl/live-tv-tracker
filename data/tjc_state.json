@@ -430690,11 +430690,32 @@
       "productUrl": null,
       "lastUpdated": 1791354381669,
       "source": "gha-variant"
+    },
+    "8749513": {
+      "sku": "8749513",
+      "firstAir": 1791354558648,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791354558648,
+      "title": "EverTrue Bronzella Collection - Cross Open Drop Bangle (Size - 7.5) in 18K Gold Plating",
+      "pdpPrice": 49.99,
+      "auctionCode": "0019898167",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-07",
+      "time": "07:29:18",
+      "productUrl": "/products/evertrue-bronzella-collection-full-bangle-size-7-5-in-18k-gold-plating-8749513?variant=53852606562570",
+      "lastUpdated": 1791354558648,
+      "source": "gha",
+      "productUrlChecked": 1791354560044,
+      "productUrlStatus": 503,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791354438065,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -480315,11 +480336,22 @@
         "followingSku": "8749494",
         "followingTitle": "EverTrue Bronzella Collection - Dragon Embossed Signet Ring in 18K Gold Plating",
         "followingAuctionCode": "0019899112"
+      },
+      {
+        "start": 1791354438065,
+        "end": 1791354558648,
+        "durationMin": 2.0,
+        "precedingSku": "8749494",
+        "precedingTitle": "EverTrue Bronzella Collection - Dragon Embossed Signet Ring in 18K Gold Plating",
+        "precedingAuctionCode": "0019899112",
+        "followingSku": "8749513",
+        "followingTitle": "EverTrue Bronzella Collection - Cross Open Drop Bangle (Size - 7.5) in 18K Gold Plating",
+        "followingAuctionCode": "0019898167"
       }
     ],
-    "lastOnAirSku": "8749494",
-    "lastOnAirTitle": "EverTrue Bronzella Collection - Dragon Embossed Signet Ring in 18K Gold Plating",
-    "lastOnAirAuctionCode": "0019899112",
+    "lastOnAirSku": "8749513",
+    "lastOnAirTitle": "EverTrue Bronzella Collection - Cross Open Drop Bangle (Size - 7.5) in 18K Gold Plating",
+    "lastOnAirAuctionCode": "0019898167",
     "precedingSku": "8749494",
     "precedingTitle": "EverTrue Bronzella Collection - Dragon Embossed Signet Ring in 18K Gold Plating",
     "precedingAuctionCode": "0019899112"
