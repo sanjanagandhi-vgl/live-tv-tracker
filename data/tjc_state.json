@@ -433541,11 +433541,29 @@
       "productUrlChecked": 1791391539909,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8694933": {
+      "sku": "8694933",
+      "firstAir": 1791395599615,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791395599615,
+      "title": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019898911",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-07",
+      "time": "18:53:19",
+      "productUrl": null,
+      "lastUpdated": 1791395599615,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791395357986,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -483749,11 +483767,22 @@
         "followingSku": "4462494",
         "followingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
         "followingAuctionCode": "0019898950"
+      },
+      {
+        "start": 1791395357986,
+        "end": 1791395599615,
+        "durationMin": 4.0,
+        "precedingSku": "4462494",
+        "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+        "precedingAuctionCode": "0019898950",
+        "followingSku": "8694933",
+        "followingTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
+        "followingAuctionCode": "0019898911"
       }
     ],
-    "lastOnAirSku": "4462494",
-    "lastOnAirTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019898950",
+    "lastOnAirSku": "8694933",
+    "lastOnAirTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
+    "lastOnAirAuctionCode": "0019898911",
     "precedingSku": "4462494",
     "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019898950"
