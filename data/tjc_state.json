@@ -433461,11 +433461,29 @@
       "productUrlChecked": 1791388594974,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8573282": {
+      "sku": "8573282",
+      "firstAir": 1791390501410,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791390501410,
+      "title": "Designer Inspired - Textured Top Handle Tote Bag with Shoulder Strap - Black",
+      "pdpPrice": "314.99",
+      "auctionCode": "0019898614",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-07",
+      "time": "17:28:21",
+      "productUrl": null,
+      "lastUpdated": 1791390501410,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791390437428,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -483614,11 +483632,22 @@
         "followingSku": "8769634",
         "followingTitle": "Panda Womens Sherpa Faux Fur Platform Ankle Boot (Size 4) - Black",
         "followingAuctionCode": "0019898733"
+      },
+      {
+        "start": 1791390437428,
+        "end": 1791390501410,
+        "durationMin": 1.1,
+        "precedingSku": "8769634",
+        "precedingTitle": "Panda Womens Sherpa Faux Fur Platform Ankle Boot (Size 4) - Black",
+        "precedingAuctionCode": "0019898733",
+        "followingSku": "8573282",
+        "followingTitle": "Designer Inspired - Textured Top Handle Tote Bag with Shoulder Strap - Black",
+        "followingAuctionCode": "0019898614"
       }
     ],
-    "lastOnAirSku": "8769634",
-    "lastOnAirTitle": "Panda Womens Sherpa Faux Fur Platform Ankle Boot (Size 4) - Black",
-    "lastOnAirAuctionCode": "0019898733",
+    "lastOnAirSku": "8573282",
+    "lastOnAirTitle": "Designer Inspired - Textured Top Handle Tote Bag with Shoulder Strap - Black",
+    "lastOnAirAuctionCode": "0019898614",
     "precedingSku": "8769634",
     "precedingTitle": "Panda Womens Sherpa Faux Fur Platform Ankle Boot (Size 4) - Black",
     "precedingAuctionCode": "0019898733"
