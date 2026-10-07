@@ -420367,21 +420367,26 @@
       "sku": "8795994",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-03",
-      "time": "19:22:21",
+      "date": "2026-10-07",
+      "time": "12:30:52",
       "preExisting": true,
       "missedAt": 1791051741419,
       "missedDelay": null,
-      "lastUpdated": 1791051741419,
+      "lastUpdated": 1791372652236,
       "missedPrice": 249.99,
       "missedImg": true,
       "title": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
-      "auctionCode": "0019895302",
+      "auctionCode": "0019898887",
       "source": "gha",
       "productUrl": "/products/djoy-white-diamond-ring-in-18k-yg-vermeilsterling-silver-silver-wt-5-gms-0-998-ct-8795993",
       "productUrlChecked": 1791051747650,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791372652236,
+      "pdpPrice": "999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8797525": {
       "sku": "8797525",
@@ -432344,8 +432349,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791372557826,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -482274,11 +482279,22 @@
         "followingSku": "8795982",
         "followingTitle": "The Tokyo Treasure - SGL Certified Natural White Diamond (I3-G-H) Wishbone Ring in Rhodium Overlay Sterling Silver 0.50 Ct.",
         "followingAuctionCode": "0019898865"
+      },
+      {
+        "start": 1791372557826,
+        "end": 1791372652236,
+        "durationMin": 1.6,
+        "precedingSku": "8795982",
+        "precedingTitle": "The Tokyo Treasure - SGL Certified Natural White Diamond (I3-G-H) Wishbone Ring in Rhodium Overlay Sterling Silver 0.50 Ct.",
+        "precedingAuctionCode": "0019898865",
+        "followingSku": "8795994",
+        "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019898887"
       }
     ],
-    "lastOnAirSku": "8795982",
-    "lastOnAirTitle": "The Tokyo Treasure - SGL Certified Natural White Diamond (I3-G-H) Wishbone Ring in Rhodium Overlay Sterling Silver 0.50 Ct.",
-    "lastOnAirAuctionCode": "0019898865",
+    "lastOnAirSku": "8795994",
+    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019898887",
     "precedingSku": "8795982",
     "precedingTitle": "The Tokyo Treasure - SGL Certified Natural White Diamond (I3-G-H) Wishbone Ring in Rhodium Overlay Sterling Silver 0.50 Ct.",
     "precedingAuctionCode": "0019898865"
