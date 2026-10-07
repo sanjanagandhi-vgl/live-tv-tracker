@@ -430312,14 +430312,21 @@
       "img": true,
       "date": "2026-10-07",
       "time": "06:38:21",
-      "productUrl": null,
-      "lastUpdated": 1791351501452,
-      "source": "gha"
+      "productUrl": "/products/evertrue-bronzella-collection-hoop-earring-in-18k-gold-plating-8758602",
+      "lastUpdated": 1791352036655,
+      "source": "gha",
+      "missedAt": 1791352036655,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1791352039439,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791352036655,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479912,8 +479919,8 @@
     "lastOnAirSku": "8620691",
     "lastOnAirTitle": "Bronzella Collection - Station Necklace (Size - 20) in 18K Gold Plating 25.80 Gms",
     "lastOnAirAuctionCode": "0019898250",
-    "precedingSku": "8758602",
-    "precedingTitle": "EverTrue Bronzella Collection - Hoop Earring in 18K Gold Plating",
-    "precedingAuctionCode": "0019898235"
+    "precedingSku": "8620691",
+    "precedingTitle": "Bronzella Collection - Station Necklace (Size - 20) in 18K Gold Plating 25.80 Gms",
+    "precedingAuctionCode": "0019898250"
   }
 }
