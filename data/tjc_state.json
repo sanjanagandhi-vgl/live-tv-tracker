@@ -357068,24 +357068,25 @@
       "firstAir": 1789639758596,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789640543055,
-      "title": "Italian Made Yellow Gold Plated Sterling Silver Necklace (Size - 24) with Lobster Clasp",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019873939",
+      "lastAir": 1791343580928,
+      "title": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 24) with Lobster Clasp",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019898460",
       "buy": true,
       "login": false,
-      "date": "2026-09-17",
-      "time": "11:22:23",
+      "date": "2026-10-07",
+      "time": "04:26:20",
       "productUrl": "/products/rhodium-overlaysterling-silver-necklace-size-16-8675203",
-      "lastUpdated": 1789641142169,
-      "source": "gha-variant",
+      "lastUpdated": 1791343580928,
+      "source": "gha",
       "missedAt": 1789641142169,
       "missedDelay": 10,
       "missedPrice": 19.99,
       "missedImg": false,
       "productUrlChecked": 1789641147835,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "img": false
     },
     "8638695": {
       "sku": "8638695",
@@ -430187,8 +430188,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791343526003,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479644,11 +479645,22 @@
         "followingSku": "8616365",
         "followingTitle": "Yellow Gold Plated Sterling Silver Treccia Vintage Bracelet (Size - 7+1 Ext) with Lobster Clasp",
         "followingAuctionCode": "0019898326"
+      },
+      {
+        "start": 1791343526003,
+        "end": 1791343580928,
+        "durationMin": 0.9,
+        "precedingSku": "8616365",
+        "precedingTitle": "Yellow Gold Plated Sterling Silver Treccia Vintage Bracelet (Size - 7+1 Ext) with Lobster Clasp",
+        "precedingAuctionCode": "0019898326",
+        "followingSku": "8675274",
+        "followingTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 24) with Lobster Clasp",
+        "followingAuctionCode": "0019898460"
       }
     ],
-    "lastOnAirSku": "8616365",
-    "lastOnAirTitle": "Yellow Gold Plated Sterling Silver Treccia Vintage Bracelet (Size - 7+1 Ext) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019898326",
+    "lastOnAirSku": "8675274",
+    "lastOnAirTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 24) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019898460",
     "precedingSku": "8616365",
     "precedingTitle": "Yellow Gold Plated Sterling Silver Treccia Vintage Bracelet (Size - 7+1 Ext) with Lobster Clasp",
     "precedingAuctionCode": "0019898326"
