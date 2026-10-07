@@ -433566,11 +433566,29 @@
       "productUrlChecked": 1791397240460,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8503787": {
+      "sku": "8503787",
+      "firstAir": 1791397340975,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791397340975,
+      "title": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Rose",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019898962",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-07",
+      "time": "19:22:20",
+      "productUrl": null,
+      "lastUpdated": 1791397340975,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791396638588,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -483785,11 +483803,22 @@
         "followingSku": "8694933",
         "followingTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
         "followingAuctionCode": "0019898911"
+      },
+      {
+        "start": 1791396638588,
+        "end": 1791397340975,
+        "durationMin": 11.7,
+        "precedingSku": "8694933",
+        "precedingTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
+        "precedingAuctionCode": "0019898911",
+        "followingSku": "8503787",
+        "followingTitle": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Rose",
+        "followingAuctionCode": "0019898962"
       }
     ],
-    "lastOnAirSku": "8694933",
-    "lastOnAirTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
-    "lastOnAirAuctionCode": "0019898911",
+    "lastOnAirSku": "8503787",
+    "lastOnAirTitle": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Rose",
+    "lastOnAirAuctionCode": "0019898962",
     "precedingSku": "8694933",
     "precedingTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
     "precedingAuctionCode": "0019898911"
