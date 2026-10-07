@@ -11102,19 +11102,19 @@
       "sku": "8675534",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-17",
-      "time": "04:53:19",
+      "date": "2026-10-07",
+      "time": "04:38:24",
       "preExisting": true,
       "missedAt": 1785001585296,
       "missedDelay": null,
-      "lastUpdated": 1789617199520,
+      "lastUpdated": 1791344304692,
       "missedPrice": 29.99,
       "missedImg": false,
-      "title": "Italian Made - Stretchable Barrell Bracelet (Size - 6.75) in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019872674",
+      "title": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75-9) in Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019898465",
       "source": "gha",
-      "lastAir": 1789617199520,
-      "pdpPrice": "29.99",
+      "lastAir": 1791344304692,
+      "pdpPrice": "89.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -430188,8 +430188,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791344237911,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479656,11 +479656,22 @@
         "followingSku": "8675274",
         "followingTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 24) with Lobster Clasp",
         "followingAuctionCode": "0019898460"
+      },
+      {
+        "start": 1791344237911,
+        "end": 1791344304692,
+        "durationMin": 1.1,
+        "precedingSku": "8675274",
+        "precedingTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 24) with Lobster Clasp",
+        "precedingAuctionCode": "0019898460",
+        "followingSku": "8675534",
+        "followingTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75-9) in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019898465"
       }
     ],
-    "lastOnAirSku": "8675274",
-    "lastOnAirTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 24) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019898460",
+    "lastOnAirSku": "8675534",
+    "lastOnAirTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75-9) in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019898465",
     "precedingSku": "8675274",
     "precedingTitle": "Italian Made Rhodium Overlay Sterling Silver Necklace (Size - 24) with Lobster Clasp",
     "precedingAuctionCode": "0019898460"
