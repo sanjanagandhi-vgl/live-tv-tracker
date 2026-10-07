@@ -415858,21 +415858,26 @@
       "sku": "4462494",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "13:47:55",
+      "date": "2026-10-07",
+      "time": "18:34:22",
       "preExisting": true,
       "missedAt": 1790945275044,
       "missedDelay": null,
-      "lastUpdated": 1790945275044,
+      "lastUpdated": 1791394462022,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
-      "auctionCode": "0019893324",
+      "auctionCode": "0019898950",
       "source": "gha",
       "productUrl": "/products/white-diamond-pendant-with-chain-size-20-stainless-steel-0-005-ct-4528713",
       "productUrlChecked": 1790945278065,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791394462022,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8565012": {
       "sku": "8565012",
@@ -433539,8 +433544,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791394301951,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -483733,11 +483738,22 @@
         "followingSku": "8798427",
         "followingTitle": "Laurelle Marshmallow Blush Fragrance Gift Set (100ml Body Mist & 75ml Body Lotion)",
         "followingAuctionCode": "0019898944"
+      },
+      {
+        "start": 1791394301951,
+        "end": 1791394462022,
+        "durationMin": 2.7,
+        "precedingSku": "8798427",
+        "precedingTitle": "Laurelle Marshmallow Blush Fragrance Gift Set (100ml Body Mist & 75ml Body Lotion)",
+        "precedingAuctionCode": "0019898944",
+        "followingSku": "4462494",
+        "followingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+        "followingAuctionCode": "0019898950"
       }
     ],
-    "lastOnAirSku": "8798427",
-    "lastOnAirTitle": "Laurelle Marshmallow Blush Fragrance Gift Set (100ml Body Mist & 75ml Body Lotion)",
-    "lastOnAirAuctionCode": "0019898944",
+    "lastOnAirSku": "4462494",
+    "lastOnAirTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019898950",
     "precedingSku": "8798427",
     "precedingTitle": "Laurelle Marshmallow Blush Fragrance Gift Set (100ml Body Mist & 75ml Body Lotion)",
     "precedingAuctionCode": "0019898944"
