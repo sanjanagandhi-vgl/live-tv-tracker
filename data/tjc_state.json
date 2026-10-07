@@ -196249,17 +196249,17 @@
       "firstAir": 1787139262116,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790196742935,
-      "title": "Ladies Diamond Thermal Legging",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019880863",
+      "lastAir": 1791380063063,
+      "title": "Ladies Diamond Thermal Legging (Size - M/L) - Black",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019898630",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-23",
-      "time": "21:52:22",
+      "date": "2026-10-07",
+      "time": "14:34:23",
       "productUrl": "/products/ladies-diamond-thermal-legging",
-      "lastUpdated": 1790196742935,
+      "lastUpdated": 1791380063063,
       "source": "gha",
       "missedAt": 1787140240192,
       "missedDelay": 10,
@@ -432901,8 +432901,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791380000159,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -482897,11 +482897,22 @@
         "followingSku": "8789153",
         "followingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
         "followingAuctionCode": "0019898635"
+      },
+      {
+        "start": 1791380000159,
+        "end": 1791380063063,
+        "durationMin": 1.0,
+        "precedingSku": "8789153",
+        "precedingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
+        "precedingAuctionCode": "0019898635",
+        "followingSku": "8371419",
+        "followingTitle": "Ladies Diamond Thermal Legging (Size - M/L) - Black",
+        "followingAuctionCode": "0019898630"
       }
     ],
-    "lastOnAirSku": "8789153",
-    "lastOnAirTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
-    "lastOnAirAuctionCode": "0019898635",
+    "lastOnAirSku": "8371419",
+    "lastOnAirTitle": "Ladies Diamond Thermal Legging (Size - M/L) - Black",
+    "lastOnAirAuctionCode": "0019898630",
     "precedingSku": "8789153",
     "precedingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
     "precedingAuctionCode": "0019898635"
