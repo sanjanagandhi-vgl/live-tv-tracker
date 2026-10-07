@@ -344491,23 +344491,23 @@
       "sku": "8592997",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "21:30:53",
+      "date": "2026-10-07",
+      "time": "01:14:21",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1790368253146,
+      "lastUpdated": 1791332061890,
       "missedPrice": 117.99,
       "missedImg": true,
       "title": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
-      "auctionCode": "0019884448",
+      "auctionCode": "0019898343",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-solitaire-ring-in-rhodium-overlaysterling-silver-3-500-ct-8592997?variant=53666675851530",
       "productUrlChecked": 1789359449141,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790368253146,
-      "pdpPrice": 117.99,
+      "lastAir": 1791332061890,
+      "pdpPrice": "4999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -430052,8 +430052,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791331837318,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479333,11 +479333,22 @@
         "followingSku": "8723479",
         "followingTitle": "D'Joy - Moissanite 2 in 1 Adjustable Concertina Ring-Bangle in Rhodium Overlay Silver Wt. 10.70 Gms",
         "followingAuctionCode": "0019898309"
+      },
+      {
+        "start": 1791331837318,
+        "end": 1791332061890,
+        "durationMin": 3.7,
+        "precedingSku": "8622551",
+        "precedingTitle": "One Time Deal- Moissanite Hoop Earring in Sterling Silver 1.60 Ct.",
+        "precedingAuctionCode": "0019898377",
+        "followingSku": "8592997",
+        "followingTitle": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
+        "followingAuctionCode": "0019898343"
       }
     ],
-    "lastOnAirSku": "8622551",
-    "lastOnAirTitle": "One Time Deal- Moissanite Hoop Earring in Sterling Silver 1.60 Ct.",
-    "lastOnAirAuctionCode": "0019898377",
+    "lastOnAirSku": "8592997",
+    "lastOnAirTitle": "Premium Old Mine Cut Moissanite Solitaire Ring in Rhodium Overlay Sterling Silver 5.70 Ct.",
+    "lastOnAirAuctionCode": "0019898343",
     "precedingSku": "8622551",
     "precedingTitle": "One Time Deal- Moissanite Hoop Earring in Sterling Silver 1.60 Ct.",
     "precedingAuctionCode": "0019898377"
