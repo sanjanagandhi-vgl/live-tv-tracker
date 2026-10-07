@@ -5186,16 +5186,16 @@
       "firstAir": 1784893701582,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790265145341,
-      "title": "La Marey Solid Jean and Pant/Trouser",
-      "pdpPrice": "14.99",
-      "auctionCode": "0019882570",
+      "lastAir": 1791388157518,
+      "title": "LA Marey Knit Trousers (Size L) - Brown",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019898670",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-24",
-      "time": "16:52:25",
-      "lastUpdated": 1790265145341,
+      "date": "2026-10-07",
+      "time": "16:49:17",
+      "lastUpdated": 1791388157518,
       "source": "gha",
       "missedAt": 1784893996989,
       "missedDelay": 2,
@@ -433414,8 +433414,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791388104077,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -483520,11 +483520,22 @@
         "followingSku": "8625760",
         "followingTitle": "La Marey Heritage Cable Knit Button Front Cardigan (One Size Fits Up To 20) - Cream",
         "followingAuctionCode": "0019898585"
+      },
+      {
+        "start": 1791388104077,
+        "end": 1791388157518,
+        "durationMin": 0.9,
+        "precedingSku": "8625760",
+        "precedingTitle": "La Marey Heritage Cable Knit Button Front Cardigan (One Size Fits Up To 20) - Cream",
+        "precedingAuctionCode": "0019898585",
+        "followingSku": "8231403",
+        "followingTitle": "LA Marey Knit Trousers (Size L) - Brown",
+        "followingAuctionCode": "0019898670"
       }
     ],
-    "lastOnAirSku": "8625760",
-    "lastOnAirTitle": "La Marey Heritage Cable Knit Button Front Cardigan (One Size Fits Up To 20) - Cream",
-    "lastOnAirAuctionCode": "0019898585",
+    "lastOnAirSku": "8231403",
+    "lastOnAirTitle": "LA Marey Knit Trousers (Size L) - Brown",
+    "lastOnAirAuctionCode": "0019898670",
     "precedingSku": "8625760",
     "precedingTitle": "La Marey Heritage Cable Knit Button Front Cardigan (One Size Fits Up To 20) - Cream",
     "precedingAuctionCode": "0019898585"
