@@ -341421,21 +341421,26 @@
       "sku": "8606382",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-10-07",
+      "time": "06:48:20",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1791352100523,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Bronzella Collection - Floral Ring in 18K Gold Plating",
-      "auctionCode": "0019868536",
+      "auctionCode": "0019898182",
       "source": "gha",
       "productUrl": "/products/evertrue-in-18k-yg-plating-floral-ring-pure-natural-bronze-standard-8606382",
       "productUrlChecked": 1789358918811,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791352100523,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8607535": {
       "sku": "8607535",
@@ -430325,8 +430330,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791352036655,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479914,11 +479919,22 @@
         "followingSku": "8620691",
         "followingTitle": "Bronzella Collection - Station Necklace (Size - 20) in 18K Gold Plating 25.80 Gms",
         "followingAuctionCode": "0019898250"
+      },
+      {
+        "start": 1791352036655,
+        "end": 1791352100523,
+        "durationMin": 1.1,
+        "precedingSku": "8620691",
+        "precedingTitle": "Bronzella Collection - Station Necklace (Size - 20) in 18K Gold Plating 25.80 Gms",
+        "precedingAuctionCode": "0019898250",
+        "followingSku": "8606382",
+        "followingTitle": "Bronzella Collection - Floral Ring in 18K Gold Plating",
+        "followingAuctionCode": "0019898182"
       }
     ],
-    "lastOnAirSku": "8620691",
-    "lastOnAirTitle": "Bronzella Collection - Station Necklace (Size - 20) in 18K Gold Plating 25.80 Gms",
-    "lastOnAirAuctionCode": "0019898250",
+    "lastOnAirSku": "8606382",
+    "lastOnAirTitle": "Bronzella Collection - Floral Ring in 18K Gold Plating",
+    "lastOnAirAuctionCode": "0019898182",
     "precedingSku": "8620691",
     "precedingTitle": "Bronzella Collection - Station Necklace (Size - 20) in 18K Gold Plating 25.80 Gms",
     "precedingAuctionCode": "0019898250"
