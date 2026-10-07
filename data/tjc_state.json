@@ -417109,21 +417109,26 @@
       "sku": "8658266",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-03",
-      "time": "00:54:19",
+      "date": "2026-10-07",
+      "time": "10:07:20",
       "preExisting": true,
       "missedAt": 1790985259956,
       "missedDelay": null,
-      "lastUpdated": 1790985259956,
+      "lastUpdated": 1791364040505,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "D'Joy - White Fresh Water Pearl Adjustable Beads Bracelet (Size - 6.5-9.5) in Rhodium Overlay Sterling Silver 30.00 Ct.",
-      "auctionCode": "0019891318",
+      "title": "D'Joy - White Fresh Water Pearl Adjustable Beads Bracelet (Size - 6.5-9.5) in Rhodium Overlay Ste...",
+      "auctionCode": "0019898652",
       "source": "gha",
-      "productUrl": "/products/djoy-white-fresh-water-pearl-adjustable-beads-bracelet-size-6-5-9-5-in-rhodium-overlay-sterling-silver-30-00-ct-8658266",
+      "productUrl": "/products/djoy-white-fresh-water-pearl-adjustable-beads-bracelet-size-6-5-9-5-in-rhodium-overlay-sterling-silver-30-00-ct-8658266?variant=53234112037130",
       "productUrlChecked": 1790985263212,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791364040505,
+      "pdpPrice": 9.99,
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7193061": {
       "sku": "7193061",
@@ -431600,8 +431605,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791363983152,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -481354,11 +481359,22 @@
         "followingSku": "8486383",
         "followingTitle": "D'Joy Natural Pink Diamond Circle Pendant in 18K Vermeil Rose Gold Plated Sterling Silver",
         "followingAuctionCode": "0019898647"
+      },
+      {
+        "start": 1791363983152,
+        "end": 1791364040505,
+        "durationMin": 1.0,
+        "precedingSku": "8486383",
+        "precedingTitle": "D'Joy Natural Pink Diamond Circle Pendant in 18K Vermeil Rose Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019898647",
+        "followingSku": "8658266",
+        "followingTitle": "D'Joy - White Fresh Water Pearl Adjustable Beads Bracelet (Size - 6.5-9.5) in Rhodium Overlay Ste...",
+        "followingAuctionCode": "0019898652"
       }
     ],
-    "lastOnAirSku": "8486383",
-    "lastOnAirTitle": "D'Joy Natural Pink Diamond Circle Pendant in 18K Vermeil Rose Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019898647",
+    "lastOnAirSku": "8658266",
+    "lastOnAirTitle": "D'Joy - White Fresh Water Pearl Adjustable Beads Bracelet (Size - 6.5-9.5) in Rhodium Overlay Ste...",
+    "lastOnAirAuctionCode": "0019898652",
     "precedingSku": "8486383",
     "precedingTitle": "D'Joy Natural Pink Diamond Circle Pendant in 18K Vermeil Rose Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019898647"
