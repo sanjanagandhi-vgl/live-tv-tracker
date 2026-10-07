@@ -431138,16 +431138,60 @@
       "date": "2026-10-07",
       "time": "08:28:20",
       "productUrl": "/products/strada-watch-8721940?variant=53815226302730",
-      "lastUpdated": 1791358100683,
+      "lastUpdated": 1791358640220,
       "source": "gha",
       "productUrlChecked": 1791358106467,
+      "productUrlStatus": 200,
+      "productUrl404": false,
+      "missedAt": 1791358640220,
+      "missedDelay": 9,
+      "missedPrice": 12.99,
+      "missedImg": false
+    },
+    "8721944": {
+      "sku": "8721944",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-07",
+      "time": "08:37:20",
+      "preExisting": true,
+      "missedAt": 1791358640220,
+      "missedDelay": null,
+      "lastUpdated": 1791358640220,
+      "missedPrice": 12.99,
+      "missedImg": false,
+      "title": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch-Rose",
+      "auctionCode": "0019898569",
+      "source": "gha",
+      "productUrl": "/products/strada-watch-8721940",
+      "productUrlChecked": 1791358643198,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8721943": {
+      "sku": "8721943",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-07",
+      "time": "08:37:20",
+      "preExisting": true,
+      "missedAt": 1791358640220,
+      "missedDelay": null,
+      "lastUpdated": 1791358640220,
+      "missedPrice": 12.99,
+      "missedImg": false,
+      "title": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- Yellow",
+      "auctionCode": "0019898568",
+      "source": "gha",
+      "productUrl": "/products/strada-watch-8721940",
+      "productUrlChecked": 1791358643756,
       "productUrlStatus": 200,
       "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791358640220,
     "gaps": [
       {
         "start": 1785823527869,
@@ -480817,8 +480861,8 @@
     "lastOnAirSku": "7576039",
     "lastOnAirTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
     "lastOnAirAuctionCode": "0019899133",
-    "precedingSku": "8721940",
-    "precedingTitle": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- White",
-    "precedingAuctionCode": "0019898567"
+    "precedingSku": "7576039",
+    "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+    "precedingAuctionCode": "0019899133"
   }
 }
