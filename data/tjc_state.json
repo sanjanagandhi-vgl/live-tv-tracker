@@ -430059,11 +430059,29 @@
       "productUrlChecked": 1791330929913,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8439517": {
+      "sku": "8439517",
+      "firstAir": 1791338299901,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791338299901,
+      "title": "Pack of 4 LED Multi-Colour Wire String Lights (200Cm)",
+      "pdpPrice": "52.99",
+      "auctionCode": "0019898379",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-07",
+      "time": "02:58:19",
+      "productUrl": null,
+      "lastUpdated": 1791338299901,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791338128419,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479464,11 +479482,22 @@
         "followingSku": "8791878",
         "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
         "followingAuctionCode": "0019899092"
+      },
+      {
+        "start": 1791338128419,
+        "end": 1791338299901,
+        "durationMin": 2.9,
+        "precedingSku": "8791878",
+        "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "precedingAuctionCode": "0019899092",
+        "followingSku": "8439517",
+        "followingTitle": "Pack of 4 LED Multi-Colour Wire String Lights (200Cm)",
+        "followingAuctionCode": "0019898379"
       }
     ],
-    "lastOnAirSku": "8791878",
-    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
-    "lastOnAirAuctionCode": "0019899092",
+    "lastOnAirSku": "8439517",
+    "lastOnAirTitle": "Pack of 4 LED Multi-Colour Wire String Lights (200Cm)",
+    "lastOnAirAuctionCode": "0019898379",
     "precedingSku": "8791878",
     "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
     "precedingAuctionCode": "0019899092"
