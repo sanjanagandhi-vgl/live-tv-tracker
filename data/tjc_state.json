@@ -379921,17 +379921,17 @@
       "firstAir": 1790038039497,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790038159164,
+      "lastAir": 1791417381574,
       "title": "Close Out Deal- Sterling Silver Heart Pendant",
-      "pdpPrice": "39.99",
-      "auctionCode": "0019879158",
+      "pdpPrice": "34.99",
+      "auctionCode": "0019899733",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-22",
-      "time": "01:49:19",
+      "date": "2026-10-08",
+      "time": "00:56:21",
       "productUrl": "/products/sterling-silver-heart-pendant-8763170",
-      "lastUpdated": 1790038708423,
+      "lastUpdated": 1791417381574,
       "source": "gha",
       "missedAt": 1790038708423,
       "missedDelay": 9,
@@ -434385,8 +434385,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791417324894,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -484876,11 +484876,22 @@
         "followingSku": "8620504",
         "followingTitle": "Sterling Silver Hoop Earring",
         "followingAuctionCode": "0019899729"
+      },
+      {
+        "start": 1791417324894,
+        "end": 1791417381574,
+        "durationMin": 0.9,
+        "precedingSku": "8620504",
+        "precedingTitle": "Sterling Silver Hoop Earring",
+        "precedingAuctionCode": "0019899729",
+        "followingSku": "8763171",
+        "followingTitle": "Close Out Deal- Sterling Silver Heart Pendant",
+        "followingAuctionCode": "0019899733"
       }
     ],
-    "lastOnAirSku": "8620504",
-    "lastOnAirTitle": "Sterling Silver Hoop Earring",
-    "lastOnAirAuctionCode": "0019899729",
+    "lastOnAirSku": "8763171",
+    "lastOnAirTitle": "Close Out Deal- Sterling Silver Heart Pendant",
+    "lastOnAirAuctionCode": "0019899733",
     "precedingSku": "8620504",
     "precedingTitle": "Sterling Silver Hoop Earring",
     "precedingAuctionCode": "0019899729"
