@@ -216863,21 +216863,26 @@
       "sku": "8673790",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-22",
-      "time": "11:33:18",
+      "date": "2026-10-07",
+      "time": "17:38:23",
       "preExisting": true,
       "missedAt": 1787394798559,
       "missedDelay": null,
-      "lastUpdated": 1787394798559,
+      "lastUpdated": 1791391103620,
       "missedPrice": 69.99,
       "missedImg": false,
-      "title": "New Launch Italian Made Romy Necklace (Size - 24) with Lobster Clasp in Sterling Silver",
-      "auctionCode": "0019836220",
+      "title": "Romy Necklace (Size - 24) with Lobster Clasp in Yellow Gold Plated Sterling Silver, Silver Wt. 12.60 Gms",
+      "auctionCode": "0019899458",
       "source": "gha",
       "productUrl": "/products/romy-necklace-size-22-with-lobster-clasp-in-sterling-silver-silver-wt-11-60-gms-8673757",
       "productUrlChecked": 1787394803199,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791391103620,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8673781": {
       "sku": "8673781",
@@ -433485,8 +433490,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791391038997,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -483646,11 +483651,22 @@
         "followingSku": "8573282",
         "followingTitle": "Designer Inspired - Textured Top Handle Tote Bag with Shoulder Strap - Black",
         "followingAuctionCode": "0019898614"
+      },
+      {
+        "start": 1791391038997,
+        "end": 1791391103620,
+        "durationMin": 1.1,
+        "precedingSku": "8573282",
+        "precedingTitle": "Designer Inspired - Textured Top Handle Tote Bag with Shoulder Strap - Beige",
+        "precedingAuctionCode": "0019898614",
+        "followingSku": "8673790",
+        "followingTitle": "Romy Necklace (Size - 24) with Lobster Clasp in Yellow Gold Plated Sterling Silver, Silver Wt. 12.60 Gms",
+        "followingAuctionCode": "0019899458"
       }
     ],
-    "lastOnAirSku": "8573282",
-    "lastOnAirTitle": "Designer Inspired - Textured Top Handle Tote Bag with Shoulder Strap - Beige",
-    "lastOnAirAuctionCode": "0019898614",
+    "lastOnAirSku": "8673790",
+    "lastOnAirTitle": "Romy Necklace (Size - 24) with Lobster Clasp in Yellow Gold Plated Sterling Silver, Silver Wt. 12.60 Gms",
+    "lastOnAirAuctionCode": "0019899458",
     "precedingSku": "8573282",
     "precedingTitle": "Designer Inspired - Textured Top Handle Tote Bag with Shoulder Strap - Beige",
     "precedingAuctionCode": "0019898614"
