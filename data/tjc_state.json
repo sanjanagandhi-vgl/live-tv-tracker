@@ -302842,17 +302842,17 @@
       "firstAir": 1788520398503,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790373680058,
+      "lastAir": 1791367263429,
       "title": "Heart Shape Locket with Chain (Size 20-2 Ext)",
       "pdpPrice": "9.99",
-      "auctionCode": "0019884121",
+      "auctionCode": "0019899060",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-25",
-      "time": "23:01:20",
+      "date": "2026-10-07",
+      "time": "11:01:03",
       "productUrl": "/products/pendant-with-chain-size-20-pure-white-stainless-steel-4478705?variant=53454205255946",
-      "lastUpdated": 1790373680058,
+      "lastUpdated": 1791367263429,
       "source": "gha",
       "missedAt": 1788520999438,
       "missedDelay": 9,
@@ -431732,8 +431732,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791367158214,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -481596,11 +481596,22 @@
         "followingSku": "8646053",
         "followingTitle": "Biggest Close Out Deal- Sterling Silver Band Ring",
         "followingAuctionCode": "0019898921"
+      },
+      {
+        "start": 1791367158214,
+        "end": 1791367263429,
+        "durationMin": 1.8,
+        "precedingSku": "8646053",
+        "precedingTitle": "Biggest Close Out Deal- Sterling Silver Band Ring",
+        "precedingAuctionCode": "0019898921",
+        "followingSku": "4478705",
+        "followingTitle": "Heart Shape Locket with Chain (Size 20-2 Ext)",
+        "followingAuctionCode": "0019899060"
       }
     ],
-    "lastOnAirSku": "8646053",
-    "lastOnAirTitle": "Biggest Close Out Deal- Sterling Silver Band Ring",
-    "lastOnAirAuctionCode": "0019898921",
+    "lastOnAirSku": "4478705",
+    "lastOnAirTitle": "Heart Shape Locket with Chain (Size 20-2 Ext)",
+    "lastOnAirAuctionCode": "0019899060",
     "precedingSku": "8646053",
     "precedingTitle": "Biggest Close Out Deal- Sterling Silver Band Ring",
     "precedingAuctionCode": "0019898921"
