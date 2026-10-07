@@ -392491,21 +392491,26 @@
       "sku": "8677968",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "23:37:19",
+      "date": "2026-10-07",
+      "time": "14:54:21",
       "preExisting": true,
       "missedAt": 1790375839767,
       "missedDelay": null,
-      "lastUpdated": 1790375839767,
+      "lastUpdated": 1791381261528,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "La Marey Women's Fringed Scarf (176 x 66cm) - Purple",
-      "auctionCode": "0019884895",
+      "title": "La Marey Women's Fringed Scarf (176 x 66cm) - Yellow",
+      "auctionCode": "0019898608",
       "source": "gha",
       "productUrl": "/products/la-marey-patterned-scarf-size-one-size-yellow-8677967",
       "productUrlChecked": 1790375845782,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791381261528,
+      "pdpPrice": "103.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7864801": {
       "sku": "7864801",
@@ -432919,8 +432924,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791381199423,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -482937,11 +482942,22 @@
         "followingSku": "8508231",
         "followingTitle": "Multicolour Feather & Dreamcatcher Print RFID Card Wallet",
         "followingAuctionCode": "0019898626"
+      },
+      {
+        "start": 1791381199423,
+        "end": 1791381261528,
+        "durationMin": 1.0,
+        "precedingSku": "8508231",
+        "precedingTitle": "Multicolour Feather & Dreamcatcher Print RFID Card Wallet",
+        "precedingAuctionCode": "0019898626",
+        "followingSku": "8677968",
+        "followingTitle": "La Marey Women's Fringed Scarf (176 x 66cm) - Yellow",
+        "followingAuctionCode": "0019898608"
       }
     ],
-    "lastOnAirSku": "8508231",
-    "lastOnAirTitle": "Multicolour Feather & Dreamcatcher Print RFID Card Wallet",
-    "lastOnAirAuctionCode": "0019898626",
+    "lastOnAirSku": "8677968",
+    "lastOnAirTitle": "La Marey Women's Fringed Scarf (176 x 66cm) - Yellow",
+    "lastOnAirAuctionCode": "0019898608",
     "precedingSku": "8508231",
     "precedingTitle": "Multicolour Feather & Dreamcatcher Print RFID Card Wallet",
     "precedingAuctionCode": "0019898626"
