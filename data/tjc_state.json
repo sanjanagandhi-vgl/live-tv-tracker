@@ -379971,17 +379971,17 @@
       "firstAir": 1790038461948,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790039181862,
+      "lastAir": 1791416837295,
       "title": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
       "pdpPrice": "19.99",
-      "auctionCode": "0019879163",
+      "auctionCode": "0019899730",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-22",
-      "time": "02:06:21",
+      "date": "2026-10-08",
+      "time": "00:47:17",
       "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8763522",
-      "lastUpdated": 1790039743805,
+      "lastUpdated": 1791416837295,
       "source": "gha",
       "missedAt": 1790039743805,
       "missedDelay": 9,
@@ -434385,8 +434385,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791416780489,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -484854,11 +484854,22 @@
         "followingSku": "8722744",
         "followingTitle": "Yellow Gold Plated Sterling Silver Link Chain Bracelet (Size - 8) with Lobster Clasp",
         "followingAuctionCode": "0019899734"
+      },
+      {
+        "start": 1791416780489,
+        "end": 1791416837295,
+        "durationMin": 0.9,
+        "precedingSku": "8763550",
+        "precedingTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
+        "precedingAuctionCode": "0019899731",
+        "followingSku": "8763522",
+        "followingTitle": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
+        "followingAuctionCode": "0019899730"
       }
     ],
-    "lastOnAirSku": "8763550",
-    "lastOnAirTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019899731",
+    "lastOnAirSku": "8763522",
+    "lastOnAirTitle": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019899730",
     "precedingSku": "8763550",
     "precedingTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
     "precedingAuctionCode": "0019899731"
