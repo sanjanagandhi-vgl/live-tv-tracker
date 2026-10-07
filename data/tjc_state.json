@@ -350833,22 +350833,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-07",
-      "time": "15:43:19",
+      "time": "15:45:35",
       "preExisting": true,
       "missedAt": 1789481440481,
       "missedDelay": null,
-      "lastUpdated": 1791384199333,
+      "lastUpdated": 1791384335595,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Dark Green",
-      "auctionCode": "0019898702",
+      "title": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Chocolate",
+      "auctionCode": "0019899778",
       "source": "gha",
       "productUrl": "/products/la-marey-patterned-coat-size-s-m-chocolate-8622224",
       "productUrlChecked": 1789481452674,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791384199333,
-      "pdpPrice": "399.99",
+      "lastAir": 1791384335595,
+      "pdpPrice": "29.99",
       "buy": true,
       "login": false,
       "img": true
@@ -433222,8 +433222,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791384262485,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -483295,11 +483295,22 @@
         "followingSku": "8622224",
         "followingTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Dark Green",
         "followingAuctionCode": "0019898702"
+      },
+      {
+        "start": 1791384262485,
+        "end": 1791384335595,
+        "durationMin": 1.2,
+        "precedingSku": "8622224",
+        "precedingTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Dark Green",
+        "precedingAuctionCode": "0019898702",
+        "followingSku": "8622224",
+        "followingTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Chocolate",
+        "followingAuctionCode": "0019899778"
       }
     ],
     "lastOnAirSku": "8622224",
-    "lastOnAirTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Dark Green",
-    "lastOnAirAuctionCode": "0019898702",
+    "lastOnAirTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Chocolate",
+    "lastOnAirAuctionCode": "0019899778",
     "precedingSku": "8622224",
     "precedingTitle": "La Marey Womens Button-Through Shacket with Contrast Collar (Size L-XL, 16-20) - Dark Green",
     "precedingAuctionCode": "0019898702"
