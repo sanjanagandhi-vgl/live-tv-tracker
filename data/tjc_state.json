@@ -431351,20 +431351,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-07",
-      "time": "09:06:23",
+      "time": "11:50:34",
       "preExisting": true,
       "missedAt": 1791360383081,
       "missedDelay": null,
-      "lastUpdated": 1791360383081,
+      "lastUpdated": 1791370234934,
       "missedPrice": 39.99,
       "missedImg": false,
       "title": "Milan Closeout- Premium Genuine Leather Top Handle Bowling Bag - White",
-      "auctionCode": "0019898531",
+      "auctionCode": "0019899488",
       "source": "gha",
       "productUrl": "/products/premium-genuine-leather-top-handle-bowling-bag-khaki-8569546",
       "productUrlChecked": 1791360386822,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791370234934,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8585722": {
       "sku": "8585722",
@@ -432015,8 +432020,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791370102854,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -481923,11 +481928,22 @@
         "followingSku": "8666668",
         "followingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Solid Rope Necklace  (Size - 20) Weight 22.13 Grams",
         "followingAuctionCode": "0019898243"
+      },
+      {
+        "start": 1791370102854,
+        "end": 1791370234934,
+        "durationMin": 2.2,
+        "precedingSku": "8742763",
+        "precedingTitle": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Overlay Wt. 14.58 Grams",
+        "precedingAuctionCode": "0019898574",
+        "followingSku": "8569541",
+        "followingTitle": "Milan Closeout- Premium Genuine Leather Top Handle Bowling Bag - White",
+        "followingAuctionCode": "0019899488"
       }
     ],
-    "lastOnAirSku": "8742763",
-    "lastOnAirTitle": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Overlay Wt. 14.58 Grams",
-    "lastOnAirAuctionCode": "0019898574",
+    "lastOnAirSku": "8569541",
+    "lastOnAirTitle": "Milan Closeout- Premium Genuine Leather Top Handle Bowling Bag - White",
+    "lastOnAirAuctionCode": "0019899488",
     "precedingSku": "8742763",
     "precedingTitle": "Bronzella Collection - Linking Bracelet (Size - 7.5) in 18K Gold Overlay Wt. 14.58 Grams",
     "precedingAuctionCode": "0019898574"
