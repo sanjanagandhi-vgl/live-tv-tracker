@@ -429291,21 +429291,26 @@
       "sku": "8583319",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "16:34:21",
+      "date": "2026-10-07",
+      "time": "09:33:20",
       "preExisting": true,
       "missedAt": 1791300861371,
       "missedDelay": null,
-      "lastUpdated": 1791300861371,
+      "lastUpdated": 1791362000642,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 16) - Lilac",
-      "auctionCode": "0019896979",
+      "title": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+      "auctionCode": "0019899173",
       "source": "gha",
       "productUrl": "/products/charlotte-west-jacket-size-12-lilac-8583317",
       "productUrlChecked": 1791300868626,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791362000642,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8583318": {
       "sku": "8583318",
@@ -431464,8 +431469,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791361943322,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -481174,11 +481179,22 @@
         "followingSku": "8583323",
         "followingTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
         "followingAuctionCode": "0019899174"
+      },
+      {
+        "start": 1791361943322,
+        "end": 1791362000642,
+        "durationMin": 1.0,
+        "precedingSku": "8583323",
+        "precedingTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+        "precedingAuctionCode": "0019899174",
+        "followingSku": "8583319",
+        "followingTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
+        "followingAuctionCode": "0019899173"
       }
     ],
-    "lastOnAirSku": "8583323",
+    "lastOnAirSku": "8583319",
     "lastOnAirTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
-    "lastOnAirAuctionCode": "0019899174",
+    "lastOnAirAuctionCode": "0019899173",
     "precedingSku": "8583323",
     "precedingTitle": "Charlotte West Ladies Padded Drawstring Hooded Jacket (Size 12) - Lilac",
     "precedingAuctionCode": "0019899174"
