@@ -430898,11 +430898,29 @@
       "productUrl": null,
       "lastUpdated": 1791355582020,
       "source": "gha"
+    },
+    "8275336": {
+      "sku": "8275336",
+      "firstAir": 1791355703973,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791355703973,
+      "title": "EverTrue Bronzella Collection - Necklace (Size - 18)",
+      "pdpPrice": "369.99",
+      "auctionCode": "0019898168",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-07",
+      "time": "07:48:23",
+      "productUrl": null,
+      "lastUpdated": 1791355703973,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791355640981,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -480534,11 +480552,22 @@
         "followingSku": "8749513",
         "followingTitle": "EverTrue Bronzella Collection - Cross Open Drop Bangle (Size - 7.5) in 18K Gold Plating",
         "followingAuctionCode": "0019898167"
+      },
+      {
+        "start": 1791355640981,
+        "end": 1791355703973,
+        "durationMin": 1.0,
+        "precedingSku": "8744723",
+        "precedingTitle": "EverTrue Bronzella Collection - Drop Earring with Push Post in 18K Yellow Plating",
+        "precedingAuctionCode": "0019898157",
+        "followingSku": "8275336",
+        "followingTitle": "EverTrue Bronzella Collection - Necklace (Size - 18)",
+        "followingAuctionCode": "0019898168"
       }
     ],
-    "lastOnAirSku": "8744723",
-    "lastOnAirTitle": "EverTrue Bronzella Collection - Drop Earring with Push Post in 18K Yellow Plating",
-    "lastOnAirAuctionCode": "0019898157",
+    "lastOnAirSku": "8275336",
+    "lastOnAirTitle": "EverTrue Bronzella Collection - Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019898168",
     "precedingSku": "8744723",
     "precedingTitle": "EverTrue Bronzella Collection - Drop Earring with Push Post in 18K Yellow Plating",
     "precedingAuctionCode": "0019898157"
