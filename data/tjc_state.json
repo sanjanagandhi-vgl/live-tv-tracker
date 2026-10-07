@@ -38269,21 +38269,26 @@
       "sku": "8030865",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "12:22:21",
+      "date": "2026-10-07",
+      "time": "10:27:17",
       "preExisting": true,
       "missedAt": 1785496941573,
       "missedDelay": null,
-      "lastUpdated": 1785496941573,
+      "lastUpdated": 1791365237803,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Velvet Glass Lid Multi Row Ring Display Organiser Box - Teal & Black",
-      "auctionCode": "0019802007",
+      "title": "Velvet Glass Lid Multi Row Ring Display Organiser Box - Purple & Cream",
+      "auctionCode": "0019898930",
       "source": "gha",
       "productUrl": "/products/patterned-jewellery-box-size-9x9x2-in-purple-cream-8030861",
       "productUrlChecked": 1785496952458,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791365237803,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8030864": {
       "sku": "8030864",
@@ -431691,8 +431696,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791365180737,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -481489,11 +481494,22 @@
         "followingSku": "8673746",
         "followingTitle": "Italian Made Sterling Silver  Necklace (Size - 18)",
         "followingAuctionCode": "0019898695"
+      },
+      {
+        "start": 1791365180737,
+        "end": 1791365237803,
+        "durationMin": 1.0,
+        "precedingSku": "8673746",
+        "precedingTitle": "Italian Made Sterling Silver  Necklace (Size - 18)",
+        "precedingAuctionCode": "0019898695",
+        "followingSku": "8030865",
+        "followingTitle": "Velvet Glass Lid Multi Row Ring Display Organiser Box - Purple & Cream",
+        "followingAuctionCode": "0019898930"
       }
     ],
-    "lastOnAirSku": "8673746",
-    "lastOnAirTitle": "Italian Made Sterling Silver  Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019898695",
+    "lastOnAirSku": "8030865",
+    "lastOnAirTitle": "Velvet Glass Lid Multi Row Ring Display Organiser Box - Purple & Cream",
+    "lastOnAirAuctionCode": "0019898930",
     "precedingSku": "8673746",
     "precedingTitle": "Italian Made Sterling Silver  Necklace (Size - 18)",
     "precedingAuctionCode": "0019898695"
