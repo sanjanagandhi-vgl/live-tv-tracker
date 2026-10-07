@@ -430240,11 +430240,29 @@
       "productUrl": null,
       "lastUpdated": 1791350356863,
       "source": "gha"
+    },
+    "8758491": {
+      "sku": "8758491",
+      "firstAir": 1791350540416,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791350540416,
+      "title": "EverTrue Bronzella Collection - Paperclip Dangle Earring with Push Post in 18K Gold Plating",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019898178",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-07",
+      "time": "06:22:20",
+      "productUrl": null,
+      "lastUpdated": 1791350540416,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791350434803,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479799,11 +479817,22 @@
         "followingSku": "4409949",
         "followingTitle": "EverTrue Bronzella Collection - Pendant with Chain (Size 24) in 18K Gold Plating",
         "followingAuctionCode": "0019898156"
+      },
+      {
+        "start": 1791350434803,
+        "end": 1791350540416,
+        "durationMin": 1.8,
+        "precedingSku": "4409949",
+        "precedingTitle": "EverTrue Bronzella Collection - Pendant with Chain (Size 24) in 18K Gold Plating",
+        "precedingAuctionCode": "0019898156",
+        "followingSku": "8758491",
+        "followingTitle": "EverTrue Bronzella Collection - Paperclip Dangle Earring with Push Post in 18K Gold Plating",
+        "followingAuctionCode": "0019898178"
       }
     ],
-    "lastOnAirSku": "4409949",
-    "lastOnAirTitle": "EverTrue Bronzella Collection - Pendant with Chain (Size 24) in 18K Gold Plating",
-    "lastOnAirAuctionCode": "0019898156",
+    "lastOnAirSku": "8758491",
+    "lastOnAirTitle": "EverTrue Bronzella Collection - Paperclip Dangle Earring with Push Post in 18K Gold Plating",
+    "lastOnAirAuctionCode": "0019898178",
     "precedingSku": "4409949",
     "precedingTitle": "EverTrue Bronzella Collection - Pendant with Chain (Size 24) in 18K Gold Plating",
     "precedingAuctionCode": "0019898156"
