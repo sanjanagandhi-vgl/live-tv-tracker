@@ -265070,17 +265070,17 @@
       "firstAir": 1787943142052,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791177502977,
+      "lastAir": 1791336382377,
       "title": "Christmas Trio Gift Set",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019893605",
+      "pdpPrice": "200.99",
+      "auctionCode": "0019898352",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-05",
-      "time": "06:18:22",
+      "date": "2026-10-07",
+      "time": "02:26:22",
       "productUrl": "/products/christmas-trio-gift-set8371333",
-      "lastUpdated": 1791177502977,
+      "lastUpdated": 1791336382377,
       "source": "gha",
       "missedAt": 1787943800552,
       "missedDelay": 9,
@@ -430062,8 +430062,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791336327651,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -479431,11 +479431,22 @@
         "followingSku": "8567118",
         "followingTitle": "Multi-Functional UK Plug Socket with 4 Outlets, 3 USB Ports and 1 PD Fast Charge (2200W) with Surge Protection - Black",
         "followingAuctionCode": "0019898387"
+      },
+      {
+        "start": 1791336327651,
+        "end": 1791336382377,
+        "durationMin": 0.9,
+        "precedingSku": "8354262",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019898341",
+        "followingSku": "8371333",
+        "followingTitle": "Christmas Trio Gift Set",
+        "followingAuctionCode": "0019898352"
       }
     ],
-    "lastOnAirSku": "8354262",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019898341",
+    "lastOnAirSku": "8371333",
+    "lastOnAirTitle": "Christmas Trio Gift Set",
+    "lastOnAirAuctionCode": "0019898352",
     "precedingSku": "8354262",
     "precedingTitle": null,
     "precedingAuctionCode": "0019898341"
