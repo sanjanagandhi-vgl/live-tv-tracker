@@ -125493,17 +125493,17 @@
       "firstAir": 1786370303722,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786370545718,
-      "title": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Pink",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019813844",
+      "lastAir": 1791428240020,
+      "title": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Grey",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019899284",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-10",
-      "time": "15:02:25",
+      "date": "2026-10-08",
+      "time": "03:57:20",
       "productUrl": "/products/iw-special-socks-3028415245",
-      "lastUpdated": 1786371205532,
+      "lastUpdated": 1791428240020,
       "source": "gha",
       "missedAt": 1786371205532,
       "missedDelay": 11,
@@ -434430,8 +434430,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791428180816,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485086,11 +485086,22 @@
         "followingSku": "8696827",
         "followingTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
         "followingAuctionCode": "0019899311"
+      },
+      {
+        "start": 1791428180816,
+        "end": 1791428240020,
+        "durationMin": 1.0,
+        "precedingSku": "8696827",
+        "precedingTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+        "precedingAuctionCode": "0019899311",
+        "followingSku": "8415245",
+        "followingTitle": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Grey",
+        "followingAuctionCode": "0019899284"
       }
     ],
-    "lastOnAirSku": "8696827",
-    "lastOnAirTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
-    "lastOnAirAuctionCode": "0019899311",
+    "lastOnAirSku": "8415245",
+    "lastOnAirTitle": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Grey",
+    "lastOnAirAuctionCode": "0019899284",
     "precedingSku": "8696827",
     "precedingTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
     "precedingAuctionCode": "0019899311"
