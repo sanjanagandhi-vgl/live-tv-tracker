@@ -73494,21 +73494,26 @@
       "sku": "8516363",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-04",
-      "time": "17:54:25",
+      "date": "2026-10-08",
+      "time": "17:47:19",
       "preExisting": true,
       "missedAt": 1785862465248,
       "missedDelay": null,
-      "lastUpdated": 1785862465248,
+      "lastUpdated": 1791478039543,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "2 Piece Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Ivory",
-      "auctionCode": "0019805947",
+      "title": "Designer Inspired-  Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Burgundy",
+      "auctionCode": "0019901018",
       "source": "gha",
       "productUrl": "/products/2-piece-genuine-leather-check-stripe-tote-bag-with-matching-zip-pouch-burgundy-multi-8516359",
       "productUrlChecked": 1785862483019,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791478039543,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8553600": {
       "sku": "8553600",
@@ -435629,8 +435634,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791477987724,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486901,11 +486906,22 @@
         "followingSku": "8692507",
         "followingTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
         "followingAuctionCode": "0019900996"
+      },
+      {
+        "start": 1791477987724,
+        "end": 1791478039543,
+        "durationMin": 0.9,
+        "precedingSku": "8692507",
+        "precedingTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
+        "precedingAuctionCode": "0019900996",
+        "followingSku": "8516363",
+        "followingTitle": "Designer Inspired-  Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Burgundy",
+        "followingAuctionCode": "0019901018"
       }
     ],
-    "lastOnAirSku": "8692507",
-    "lastOnAirTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
-    "lastOnAirAuctionCode": "0019900996",
+    "lastOnAirSku": "8516363",
+    "lastOnAirTitle": "Designer Inspired-  Genuine Leather Check Stripe Tote Bag with Matching Zip Pouch - Burgundy",
+    "lastOnAirAuctionCode": "0019901018",
     "precedingSku": "8692507",
     "precedingTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
     "precedingAuctionCode": "0019900996"
