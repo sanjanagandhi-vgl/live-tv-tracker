@@ -407458,18 +407458,23 @@
       "sku": "8692507",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-30",
-      "time": "09:27:19",
+      "date": "2026-10-08",
+      "time": "17:41:23",
       "preExisting": true,
       "missedAt": 1790756839817,
       "missedDelay": null,
-      "lastUpdated": 1790756839817,
+      "lastUpdated": 1791477683354,
       "missedPrice": 49.99,
       "missedImg": false,
-      "title": "Genuine Leather Everyday Crossbody Bag - Brown",
-      "auctionCode": "0019889497",
+      "title": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
+      "auctionCode": "0019900996",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1791477683354,
+      "pdpPrice": "719.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8692512": {
       "sku": "8692512",
@@ -435624,8 +435629,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791477637452,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486885,11 +486890,22 @@
         "followingSku": "8566690",
         "followingTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green - White",
         "followingAuctionCode": "0019901062"
+      },
+      {
+        "start": 1791477637452,
+        "end": 1791477683354,
+        "durationMin": 0.8,
+        "precedingSku": "8566690",
+        "precedingTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green - White",
+        "precedingAuctionCode": "0019901062",
+        "followingSku": "8692507",
+        "followingTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
+        "followingAuctionCode": "0019900996"
       }
     ],
-    "lastOnAirSku": "8566690",
-    "lastOnAirTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green - White",
-    "lastOnAirAuctionCode": "0019901062",
+    "lastOnAirSku": "8692507",
+    "lastOnAirTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
+    "lastOnAirAuctionCode": "0019900996",
     "precedingSku": "8566690",
     "precedingTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green - White",
     "precedingAuctionCode": "0019901062"
