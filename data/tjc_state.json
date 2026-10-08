@@ -361941,21 +361941,26 @@
       "sku": "8758825",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "15:41:20",
+      "date": "2026-10-08",
+      "time": "04:37:18",
       "preExisting": true,
       "missedAt": 1789742480524,
       "missedDelay": null,
-      "lastUpdated": 1789742480524,
+      "lastUpdated": 1791430638052,
       "missedPrice": 5.99,
       "missedImg": false,
       "title": "Opalite Cross Pendant in Silver Tone 10.00 Ct.",
-      "auctionCode": "0019873498",
+      "auctionCode": "0019899326",
       "source": "gha",
       "productUrl": "/products/chrysocolla-jasper-cross-pendant-in-silver-tone-10-00-ct-8681860",
       "productUrlChecked": 1789742485399,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791430638052,
+      "pdpPrice": "5.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8758824": {
       "sku": "8758824",
@@ -434430,8 +434435,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791430399003,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485097,11 +485102,22 @@
         "followingSku": "8415245",
         "followingTitle": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Grey",
         "followingAuctionCode": "0019899284"
+      },
+      {
+        "start": 1791430399003,
+        "end": 1791430638052,
+        "durationMin": 4.0,
+        "precedingSku": "8415245",
+        "precedingTitle": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Grey",
+        "precedingAuctionCode": "0019899284",
+        "followingSku": "8758825",
+        "followingTitle": "Opalite Cross Pendant in Silver Tone 10.00 Ct.",
+        "followingAuctionCode": "0019899326"
       }
     ],
-    "lastOnAirSku": "8415245",
-    "lastOnAirTitle": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Grey",
-    "lastOnAirAuctionCode": "0019899284",
+    "lastOnAirSku": "8758825",
+    "lastOnAirTitle": "Opalite Cross Pendant in Silver Tone 10.00 Ct.",
+    "lastOnAirAuctionCode": "0019899326",
     "precedingSku": "8415245",
     "precedingTitle": "Ladies Cosy Slippers with Socks (UK Size 3-4) - Grey",
     "precedingAuctionCode": "0019899284"
