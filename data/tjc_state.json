@@ -245622,18 +245622,18 @@
       "firstAir": 1787753445423,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788979038527,
-      "title": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Black",
-      "pdpPrice": 24.99,
-      "auctionCode": "0019863948",
+      "lastAir": 1791469942651,
+      "title": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019901339",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-09",
-      "time": "19:37:18",
+      "date": "2026-10-08",
+      "time": "15:32:22",
       "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser-size-12-black-8586624",
-      "lastUpdated": 1788979038527,
-      "source": "gha-variant",
+      "lastUpdated": 1791469942651,
+      "source": "gha",
       "missedAt": 1787754657147,
       "missedDelay": 9,
       "missedPrice": 29.99,
@@ -435183,8 +435183,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791469758835,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486356,11 +486356,22 @@
         "followingSku": "8586654",
         "followingTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
         "followingAuctionCode": "0019899831"
+      },
+      {
+        "start": 1791469758835,
+        "end": 1791469942651,
+        "durationMin": 3.1,
+        "precedingSku": "8586654",
+        "precedingTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
+        "precedingAuctionCode": "0019899831",
+        "followingSku": "8586624",
+        "followingTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
+        "followingAuctionCode": "0019901339"
       }
     ],
-    "lastOnAirSku": "8586654",
+    "lastOnAirSku": "8586624",
     "lastOnAirTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
-    "lastOnAirAuctionCode": "0019899831",
+    "lastOnAirAuctionCode": "0019901339",
     "precedingSku": "8586654",
     "precedingTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
     "precedingAuctionCode": "0019899831"
