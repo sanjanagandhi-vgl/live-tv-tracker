@@ -435262,11 +435262,29 @@
       "productUrl": null,
       "lastUpdated": 1791471744899,
       "source": "gha"
+    },
+    "7851806": {
+      "sku": "7851806",
+      "firstAir": 1791471863006,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791471863006,
+      "title": "La Marey Loungewear Trousers (Size 16 to 18) - Red",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019899953",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-08",
+      "time": "16:04:23",
+      "productUrl": null,
+      "lastUpdated": 1791471863006,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791471813349,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486471,11 +486489,22 @@
         "followingSku": "7990770",
         "followingTitle": "La Marey Zip Detail Ponte Trousers (Size 16-18) - Blue",
         "followingAuctionCode": "0019899946"
+      },
+      {
+        "start": 1791471813349,
+        "end": 1791471863006,
+        "durationMin": 0.8,
+        "precedingSku": "7851814",
+        "precedingTitle": "La Marey Loungewear Trousers (Size 16 to 18) - Red",
+        "precedingAuctionCode": "0019899949",
+        "followingSku": "7851806",
+        "followingTitle": "La Marey Loungewear Trousers (Size 16 to 18) - Red",
+        "followingAuctionCode": "0019899953"
       }
     ],
-    "lastOnAirSku": "7851814",
+    "lastOnAirSku": "7851806",
     "lastOnAirTitle": "La Marey Loungewear Trousers (Size 16 to 18) - Red",
-    "lastOnAirAuctionCode": "0019899949",
+    "lastOnAirAuctionCode": "0019899953",
     "precedingSku": "7851814",
     "precedingTitle": "La Marey Loungewear Trousers (Size 16 to 18) - Red",
     "precedingAuctionCode": "0019899949"
