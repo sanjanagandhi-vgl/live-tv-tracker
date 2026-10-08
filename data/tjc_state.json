@@ -403312,17 +403312,17 @@
       "firstAir": 1790669436565,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791363741318,
+      "lastAir": 1791425479573,
       "title": "Laurelle Fly Fairy EDP - 85ml",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019899281",
+      "pdpPrice": "80.99",
+      "auctionCode": "0019899993",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-07",
-      "time": "10:02:21",
+      "date": "2026-10-08",
+      "time": "03:11:19",
       "productUrl": "/products/laurelle-fly-fairy-85ml-edp-8791878?variant=53824574521610",
-      "lastUpdated": 1791363741318,
+      "lastUpdated": 1791425479573,
       "source": "gha",
       "missedAt": 1790673196907,
       "missedDelay": 10,
@@ -434400,8 +434400,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791425433447,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485001,11 +485001,22 @@
         "followingSku": "7576039",
         "followingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
         "followingAuctionCode": "0019900003"
+      },
+      {
+        "start": 1791425433447,
+        "end": 1791425479573,
+        "durationMin": 0.8,
+        "precedingSku": "7210983",
+        "precedingTitle": "Laurelle Illusion EDP & Body Wash - 100ml each",
+        "precedingAuctionCode": "0019899303",
+        "followingSku": "8791878",
+        "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "followingAuctionCode": "0019899993"
       }
     ],
-    "lastOnAirSku": "7210983",
-    "lastOnAirTitle": "Laurelle Illusion EDP & Body Wash - 100ml each",
-    "lastOnAirAuctionCode": "0019899303",
+    "lastOnAirSku": "8791878",
+    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
+    "lastOnAirAuctionCode": "0019899993",
     "precedingSku": "7210983",
     "precedingTitle": "Laurelle Illusion EDP & Body Wash - 100ml each",
     "precedingAuctionCode": "0019899303"
