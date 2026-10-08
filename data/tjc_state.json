@@ -435226,11 +435226,29 @@
       "productUrlChecked": 1791471202196,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7990770": {
+      "sku": "7990770",
+      "firstAir": 1791471262963,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791471262963,
+      "title": "La Marey Zip Detail Ponte Trousers (Size 16-18) - Blue",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019899946",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-08",
+      "time": "15:54:22",
+      "productUrl": null,
+      "lastUpdated": 1791471262963,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791471198179,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486424,11 +486442,22 @@
         "followingSku": "8287552",
         "followingTitle": "La Marey Checked Shacket (Size - 16 to 18) - Red, White & Navy",
         "followingAuctionCode": "0019899939"
+      },
+      {
+        "start": 1791471198179,
+        "end": 1791471262963,
+        "durationMin": 1.1,
+        "precedingSku": "8620813",
+        "precedingTitle": "La Marey Soft Drape V-Neck Midi Dress with Trim Detail (Size XL, 20-22) - Black",
+        "precedingAuctionCode": "0019899866",
+        "followingSku": "7990770",
+        "followingTitle": "La Marey Zip Detail Ponte Trousers (Size 16-18) - Blue",
+        "followingAuctionCode": "0019899946"
       }
     ],
-    "lastOnAirSku": "8620813",
-    "lastOnAirTitle": "La Marey Soft Drape V-Neck Midi Dress with Trim Detail (Size XL, 20-22) - Black",
-    "lastOnAirAuctionCode": "0019899866",
+    "lastOnAirSku": "7990770",
+    "lastOnAirTitle": "La Marey Zip Detail Ponte Trousers (Size 16-18) - Blue",
+    "lastOnAirAuctionCode": "0019899946",
     "precedingSku": "8620813",
     "precedingTitle": "La Marey Soft Drape V-Neck Midi Dress with Trim Detail (Size XL, 20-22) - Black",
     "precedingAuctionCode": "0019899866"
