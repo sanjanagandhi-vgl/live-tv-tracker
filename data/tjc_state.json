@@ -45818,25 +45818,26 @@
       "sku": "8052773",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-19",
-      "time": "08:29:19",
+      "date": "2026-10-08",
+      "time": "12:48:22",
       "preExisting": true,
       "missedAt": 1785568043658,
       "missedDelay": null,
-      "lastUpdated": 1789802959094,
+      "lastUpdated": 1791460102378,
       "missedPrice": 119.99,
       "missedImg": true,
-      "title": "Luxuriant - Lab Grown Diamond (SI/G-H) Boat Ring in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019876742",
-      "source": "gha-variant",
+      "title": "Luxuriant - Lab Grown Diamond (SI/G-H) Ballerina Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
+      "auctionCode": "0019900511",
+      "source": "gha",
       "productUrl": "/products/luxuriant-lab-grown-diamond-ring-vs-e-f-in-sterling-silver-2048556625",
       "productUrlChecked": 1785568060974,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1789802959094,
-      "pdpPrice": 99.99,
+      "lastAir": 1791460102378,
+      "pdpPrice": "999.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "8052774": {
       "sku": "8052774",
@@ -434926,8 +434927,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791459935334,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485989,11 +485990,22 @@
         "followingSku": "8665257",
         "followingTitle": "Designer Inspired-  Multi Color Keshi Pearl Adjustable Beads Bracelet (Size - 7.5-2 Ext)",
         "followingAuctionCode": "0019899958"
+      },
+      {
+        "start": 1791459935334,
+        "end": 1791460102378,
+        "durationMin": 2.8,
+        "precedingSku": "8665257",
+        "precedingTitle": "Designer Inspired-  Multi Color Keshi Pearl Adjustable Beads Bracelet (Size - 7.5-2 Ext)",
+        "precedingAuctionCode": "0019899958",
+        "followingSku": "8052773",
+        "followingTitle": "Luxuriant - Lab Grown Diamond (SI/G-H) Ballerina Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
+        "followingAuctionCode": "0019900511"
       }
     ],
-    "lastOnAirSku": "8665257",
-    "lastOnAirTitle": "Designer Inspired-  Multi Color Keshi Pearl Adjustable Beads Bracelet (Size - 7.5-2 Ext)",
-    "lastOnAirAuctionCode": "0019899958",
+    "lastOnAirSku": "8052773",
+    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond (SI/G-H) Ballerina Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019900511",
     "precedingSku": "8665257",
     "precedingTitle": "Designer Inspired-  Multi Color Keshi Pearl Adjustable Beads Bracelet (Size - 7.5-2 Ext)",
     "precedingAuctionCode": "0019899958"
