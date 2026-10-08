@@ -355316,23 +355316,23 @@
       "sku": "8642562",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "02:04:22",
+      "date": "2026-10-08",
+      "time": "06:15:35",
       "preExisting": true,
       "missedAt": 1789584080240,
       "missedDelay": null,
-      "lastUpdated": 1791248662536,
+      "lastUpdated": 1791436535996,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament (12cm) - Purple",
-      "auctionCode": "0019896706",
+      "title": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+      "auctionCode": "0019899594",
       "source": "gha",
       "productUrl": "/products/livmore-showpiece-size-one-size-purple-8642560?variant=53709926564106",
       "productUrlChecked": 1789584085311,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791248662536,
-      "pdpPrice": 12.99,
+      "lastAir": 1791436535996,
+      "pdpPrice": "12.99",
       "buy": true,
       "login": false,
       "img": true
@@ -434544,8 +434544,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791436438437,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485332,11 +485332,22 @@
         "followingSku": "8520304",
         "followingTitle": "Bauble Fragrance Reed Diffuser (100ml) - Green",
         "followingAuctionCode": "0019899520"
+      },
+      {
+        "start": 1791436438437,
+        "end": 1791436535996,
+        "durationMin": 1.6,
+        "precedingSku": "8520304",
+        "precedingTitle": "Bauble Fragrance Reed Diffuser (100ml) - Green",
+        "precedingAuctionCode": "0019899520",
+        "followingSku": "8642562",
+        "followingTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+        "followingAuctionCode": "0019899594"
       }
     ],
-    "lastOnAirSku": "8520304",
-    "lastOnAirTitle": "Bauble Fragrance Reed Diffuser (100ml) - Green",
-    "lastOnAirAuctionCode": "0019899520",
+    "lastOnAirSku": "8642562",
+    "lastOnAirTitle": "LIVMORE Rotating Faceted Crystal Lotus Flower Glass Ornament  (12cm) - Purple",
+    "lastOnAirAuctionCode": "0019899594",
     "precedingSku": "8520304",
     "precedingTitle": "Bauble Fragrance Reed Diffuser (100ml) - Green",
     "precedingAuctionCode": "0019899520"
