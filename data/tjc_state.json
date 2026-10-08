@@ -428292,18 +428292,23 @@
       "sku": "8798373",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "09:38:20",
+      "date": "2026-10-08",
+      "time": "10:48:24",
       "preExisting": true,
       "missedAt": 1791275900778,
       "missedDelay": null,
-      "lastUpdated": 1791275900778,
+      "lastUpdated": 1791452904615,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
-      "auctionCode": "0019896973",
+      "auctionCode": "0019899622",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1791452904615,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8798427": {
       "sku": "8798427",
@@ -434767,8 +434772,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791452839353,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485753,11 +485758,22 @@
         "followingSku": "8798357",
         "followingTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
         "followingAuctionCode": "0019899387"
+      },
+      {
+        "start": 1791452839353,
+        "end": 1791452904615,
+        "durationMin": 1.1,
+        "precedingSku": "8798357",
+        "precedingTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
+        "precedingAuctionCode": "0019899387",
+        "followingSku": "8798373",
+        "followingTitle": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
+        "followingAuctionCode": "0019899622"
       }
     ],
-    "lastOnAirSku": "8798357",
-    "lastOnAirTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
-    "lastOnAirAuctionCode": "0019899387",
+    "lastOnAirSku": "8798373",
+    "lastOnAirTitle": "Laurelle Epivida Dermacare Micellar Water Dull Skin - 400ml",
+    "lastOnAirAuctionCode": "0019899622",
     "precedingSku": "8798357",
     "precedingTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
     "precedingAuctionCode": "0019899387"
