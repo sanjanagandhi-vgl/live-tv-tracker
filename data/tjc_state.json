@@ -158649,21 +158649,26 @@
       "sku": "7638770",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "12:30:53",
+      "date": "2026-10-08",
+      "time": "02:36:20",
       "preExisting": true,
       "missedAt": 1786707053417,
       "missedDelay": null,
-      "lastUpdated": 1786707053417,
+      "lastUpdated": 1791423380206,
       "missedPrice": 12.99,
       "missedImg": true,
       "title": "Handcarved Opalite Guardian Angel Figurine Sculpture (Size 8 Cm) & Butterfly Stretchable Bracelet Presented in Velvet Pouch With Gift Card",
-      "auctionCode": "0019820300",
+      "auctionCode": "0019899150",
       "source": "gha",
       "productUrl": "/products/figurine-size-7x1x1-cm-pink-pink",
       "productUrlChecked": 1786707068980,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791423380206,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8307872": {
       "sku": "8307872",
@@ -434390,8 +434395,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791423327279,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -484958,11 +484963,22 @@
         "followingSku": "8312163",
         "followingTitle": "Christmas gift card(pack of 5",
         "followingAuctionCode": "0019899156"
+      },
+      {
+        "start": 1791423327279,
+        "end": 1791423380206,
+        "durationMin": 0.9,
+        "precedingSku": "8371333",
+        "precedingTitle": "Christmas Trio Gift Set",
+        "precedingAuctionCode": "0019899159",
+        "followingSku": "7638770",
+        "followingTitle": "Handcarved Opalite Guardian Angel Figurine Sculpture (Size 8 Cm) & Butterfly Stretchable Bracelet Presented in Velvet Pouch With Gift Card",
+        "followingAuctionCode": "0019899150"
       }
     ],
-    "lastOnAirSku": "8371333",
-    "lastOnAirTitle": "Christmas Trio Gift Set",
-    "lastOnAirAuctionCode": "0019899159",
+    "lastOnAirSku": "7638770",
+    "lastOnAirTitle": "Handcarved Opalite Guardian Angel Figurine Sculpture (Size 8 Cm) & Butterfly Stretchable Bracelet Presented in Velvet Pouch With Gift Card",
+    "lastOnAirAuctionCode": "0019899150",
     "precedingSku": "8371333",
     "precedingTitle": "Christmas Trio Gift Set",
     "precedingAuctionCode": "0019899159"
