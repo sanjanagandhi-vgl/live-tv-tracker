@@ -428251,17 +428251,17 @@
       "firstAir": 1791275478708,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791293727463,
+      "lastAir": 1791452358641,
       "title": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
-      "pdpPrice": "12.99",
-      "auctionCode": "0019898397",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019899387",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-06",
-      "time": "14:35:27",
+      "date": "2026-10-08",
+      "time": "10:39:18",
       "productUrl": "/products/laurelle-ethereal-blue-edp-100ml-tonka-oud-8798357",
-      "lastUpdated": 1791293727463,
+      "lastUpdated": 1791452358641,
       "source": "gha",
       "missedAt": 1791277262519,
       "missedDelay": 10,
@@ -434767,8 +434767,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791452239597,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485742,11 +485742,22 @@
         "followingSku": "221328567",
         "followingTitle": "Laurelle Amarai Fragrance Trio Set - Noir Fleur, Red Desire & Sunlit Bloom EDP- 100ml Each",
         "followingAuctionCode": "0019899332"
+      },
+      {
+        "start": 1791452239597,
+        "end": 1791452358641,
+        "durationMin": 2.0,
+        "precedingSku": "221328567",
+        "precedingTitle": "Laurelle Amarai Fragrance Trio Set - Noir Fleur, Red Desire & Sunlit Bloom EDP- 100ml Each",
+        "precedingAuctionCode": "0019899332",
+        "followingSku": "8798357",
+        "followingTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
+        "followingAuctionCode": "0019899387"
       }
     ],
-    "lastOnAirSku": "221328567",
-    "lastOnAirTitle": "Laurelle Amarai Fragrance Trio Set - Noir Fleur, Red Desire & Sunlit Bloom EDP- 100ml Each",
-    "lastOnAirAuctionCode": "0019899332",
+    "lastOnAirSku": "8798357",
+    "lastOnAirTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
+    "lastOnAirAuctionCode": "0019899387",
     "precedingSku": "221328567",
     "precedingTitle": "Laurelle Amarai Fragrance Trio Set - Noir Fleur, Red Desire & Sunlit Bloom EDP- 100ml Each",
     "precedingAuctionCode": "0019899332"
