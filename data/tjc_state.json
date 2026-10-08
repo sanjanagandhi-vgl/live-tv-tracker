@@ -435108,11 +435108,29 @@
       "productUrlChecked": 1791467664862,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8556470": {
+      "sku": "8556470",
+      "firstAir": 1791467956370,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791467956370,
+      "title": "Set of 2 Floral Print Zip Around Wallet Set - Purple",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019899818",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-08",
+      "time": "14:59:16",
+      "productUrl": null,
+      "lastUpdated": 1791467956370,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791467901219,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486251,11 +486269,22 @@
         "followingSku": "8762472",
         "followingTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
         "followingAuctionCode": "0019899783"
+      },
+      {
+        "start": 1791467901219,
+        "end": 1791467956370,
+        "durationMin": 0.9,
+        "precedingSku": "8762472",
+        "precedingTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+        "precedingAuctionCode": "0019899783",
+        "followingSku": "8556470",
+        "followingTitle": "Set of 2 Floral Print Zip Around Wallet Set - Purple",
+        "followingAuctionCode": "0019899818"
       }
     ],
-    "lastOnAirSku": "8762472",
-    "lastOnAirTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
-    "lastOnAirAuctionCode": "0019899783",
+    "lastOnAirSku": "8556470",
+    "lastOnAirTitle": "Set of 2 Floral Print Zip Around Wallet Set - Purple",
+    "lastOnAirAuctionCode": "0019899818",
     "precedingSku": "8762472",
     "precedingTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
     "precedingAuctionCode": "0019899783"
