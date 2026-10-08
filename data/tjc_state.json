@@ -414942,21 +414942,26 @@
       "sku": "8778311",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "11:29:17",
+      "date": "2026-10-08",
+      "time": "04:48:23",
       "preExisting": true,
       "missedAt": 1790936957892,
       "missedDelay": null,
-      "lastUpdated": 1790936957892,
+      "lastUpdated": 1791431303626,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Interlocking Link Design Necklace (Size - 24)",
-      "auctionCode": "0019893303",
+      "title": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
+      "auctionCode": "0019899324",
       "source": "gha",
       "productUrl": "/products/fancy-necklace-size-18-pure-white-stainless-steel-8778284",
       "productUrlChecked": 1790936962519,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791431303626,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8778309": {
       "sku": "8778309",
@@ -434435,8 +434440,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791431239617,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485124,11 +485129,22 @@
         "followingSku": "8307831",
         "followingTitle": "Genuine Gemstone Handmade Stretchable Bracelet",
         "followingAuctionCode": "0019899323"
+      },
+      {
+        "start": 1791431239617,
+        "end": 1791431303626,
+        "durationMin": 1.1,
+        "precedingSku": "8307831",
+        "precedingTitle": "Genuine Gemstone Handmade Stretchable Bracelet",
+        "precedingAuctionCode": "0019899323",
+        "followingSku": "8778311",
+        "followingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
+        "followingAuctionCode": "0019899324"
       }
     ],
-    "lastOnAirSku": "8307831",
-    "lastOnAirTitle": "Genuine Gemstone Handmade Stretchable Bracelet",
-    "lastOnAirAuctionCode": "0019899323",
+    "lastOnAirSku": "8778311",
+    "lastOnAirTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019899324",
     "precedingSku": "8307831",
     "precedingTitle": "Genuine Gemstone Handmade Stretchable Bracelet",
     "precedingAuctionCode": "0019899323"
