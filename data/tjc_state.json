@@ -426886,21 +426886,26 @@
       "sku": "8696827",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-05",
-      "time": "16:33:20",
+      "date": "2026-10-08",
+      "time": "03:50:35",
       "preExisting": true,
       "missedAt": 1791214400601,
       "missedDelay": null,
-      "lastUpdated": 1791214400601,
+      "lastUpdated": 1791427835027,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Grey",
-      "auctionCode": "0019895548",
+      "title": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+      "auctionCode": "0019899311",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-yellow-8696824",
       "productUrlChecked": 1791214405236,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791427835027,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8696826": {
       "sku": "8696826",
@@ -434402,11 +434407,31 @@
       "productUrlChecked": 1791410244388,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7852099": {
+      "sku": "7852099",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-08",
+      "time": "03:50:35",
+      "preExisting": true,
+      "missedAt": 1791427835027,
+      "missedDelay": null,
+      "lastUpdated": 1791427835027,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Elegant Cashmere Touch Screen Pearl Embellishments Gloves - Grey",
+      "auctionCode": "0019899277",
+      "source": "gha",
+      "productUrl": "/products/cashmere-wool-gloves-one-size",
+      "productUrlChecked": 1791427837706,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791427759066,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485050,11 +485075,22 @@
         "followingSku": "8577150",
         "followingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
         "followingAuctionCode": "0019899295"
+      },
+      {
+        "start": 1791427759066,
+        "end": 1791427835027,
+        "durationMin": 1.3,
+        "precedingSku": "8577150",
+        "precedingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+        "precedingAuctionCode": "0019899295",
+        "followingSku": "8696827",
+        "followingTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+        "followingAuctionCode": "0019899311"
       }
     ],
-    "lastOnAirSku": "8577150",
-    "lastOnAirTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
-    "lastOnAirAuctionCode": "0019899295",
+    "lastOnAirSku": "8696827",
+    "lastOnAirTitle": "Genuine Leather Elegant Small Crossbody Shoulder Bag - Yellow",
+    "lastOnAirAuctionCode": "0019899311",
     "precedingSku": "8577150",
     "precedingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
     "precedingAuctionCode": "0019899295"
