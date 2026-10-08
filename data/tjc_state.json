@@ -22503,17 +22503,23 @@
       "sku": "8287552",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "12:12:24",
+      "date": "2026-10-08",
+      "time": "15:38:24",
       "preExisting": true,
       "missedAt": 1785323544343,
       "missedDelay": null,
-      "lastUpdated": 1785323544343,
+      "lastUpdated": 1791470304288,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "La Marey Checked Shacket (Size - 8 to 10) - Navy, Red & White",
-      "auctionCode": "0019799065",
-      "source": "gha"
+      "title": "La Marey Checked Shacket (Size - 16 to 18) - Red, White & Navy",
+      "auctionCode": "0019899939",
+      "source": "gha",
+      "lastAir": 1791470304288,
+      "pdpPrice": "12.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8588273": {
       "sku": "8588273",
@@ -435183,8 +435189,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791470239143,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486367,11 +486373,22 @@
         "followingSku": "8586624",
         "followingTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
         "followingAuctionCode": "0019901339"
+      },
+      {
+        "start": 1791470239143,
+        "end": 1791470304288,
+        "durationMin": 1.1,
+        "precedingSku": "8586624",
+        "precedingTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
+        "precedingAuctionCode": "0019901339",
+        "followingSku": "8287552",
+        "followingTitle": "La Marey Checked Shacket (Size - 16 to 18) - Red, White & Navy",
+        "followingAuctionCode": "0019899939"
       }
     ],
-    "lastOnAirSku": "8586624",
-    "lastOnAirTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
-    "lastOnAirAuctionCode": "0019901339",
+    "lastOnAirSku": "8287552",
+    "lastOnAirTitle": "La Marey Checked Shacket (Size - 16 to 18) - Red, White & Navy",
+    "lastOnAirAuctionCode": "0019899939",
     "precedingSku": "8586624",
     "precedingTitle": "La Marey Elasticated Waist Stretch Suedette Trousers (Size 12) - Chocolate",
     "precedingAuctionCode": "0019901339"
