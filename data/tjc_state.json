@@ -342696,23 +342696,23 @@
       "sku": "8624558",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-01",
-      "time": "02:39:19",
+      "date": "2026-10-08",
+      "time": "07:21:18",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1790818759207,
+      "lastUpdated": 1791440478444,
       "missedPrice": 17.99,
       "missedImg": true,
       "title": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
-      "auctionCode": "0019890115",
+      "auctionCode": "0019899588",
       "source": "gha",
       "productUrl": "/products/livmore-christmas-ornament-size-one-size-red-8624558?variant=53677357105418",
       "productUrlChecked": 1789359147168,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790818759207,
-      "pdpPrice": "17.99",
+      "lastAir": 1791440478444,
+      "pdpPrice": "159.99",
       "buy": true,
       "login": false,
       "img": true
@@ -434565,8 +434565,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791440439102,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485430,11 +485430,22 @@
         "followingSku": "8801605",
         "followingTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
         "followingAuctionCode": "0019899583"
+      },
+      {
+        "start": 1791440439102,
+        "end": 1791440478444,
+        "durationMin": 0.7,
+        "precedingSku": "8801605",
+        "precedingTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
+        "precedingAuctionCode": "0019899583",
+        "followingSku": "8624558",
+        "followingTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+        "followingAuctionCode": "0019899588"
       }
     ],
-    "lastOnAirSku": "8801605",
-    "lastOnAirTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
-    "lastOnAirAuctionCode": "0019899583",
+    "lastOnAirSku": "8624558",
+    "lastOnAirTitle": "LIVMORE Limited Edition Lotus Crystal & Enamelled Ornament - Green",
+    "lastOnAirAuctionCode": "0019899588",
     "precedingSku": "8801605",
     "precedingTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
     "precedingAuctionCode": "0019899583"
