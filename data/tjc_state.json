@@ -333697,17 +333697,17 @@
       "firstAir": 1789107439884,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791177262438,
+      "lastAir": 1791423045497,
       "title": "Christmas gift card(pack of 5",
       "pdpPrice": "7.99",
-      "auctionCode": "0019893603",
+      "auctionCode": "0019899156",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-05",
-      "time": "06:14:22",
+      "date": "2026-10-08",
+      "time": "02:30:45",
       "productUrl": "/products/christmas-gift-cardpack-of-58312163",
-      "lastUpdated": 1791177262438,
+      "lastUpdated": 1791423045497,
       "source": "gha",
       "missedAt": 1789108371054,
       "missedDelay": 10,
@@ -434390,8 +434390,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791422960154,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -484947,11 +484947,22 @@
         "followingSku": "7966968",
         "followingTitle": "Benson Headband Met Led 3 Mode with Two Batteries One Size - Blue - Grey",
         "followingAuctionCode": "0019899140"
+      },
+      {
+        "start": 1791422960154,
+        "end": 1791423045497,
+        "durationMin": 1.4,
+        "precedingSku": "8609232",
+        "precedingTitle": "LIVMORE Set of 2 - 24K Gold  (99.9% Purity) Fortuna Flake Pens With 2 Refills & Gift Box - Red & Gold",
+        "precedingAuctionCode": "0019899148",
+        "followingSku": "8312163",
+        "followingTitle": "Christmas gift card(pack of 5",
+        "followingAuctionCode": "0019899156"
       }
     ],
-    "lastOnAirSku": "8609232",
-    "lastOnAirTitle": "LIVMORE Set of 2 - 24K Gold  (99.9% Purity) Fortuna Flake Pens With 2 Refills & Gift Box - Red & Gold",
-    "lastOnAirAuctionCode": "0019899148",
+    "lastOnAirSku": "8312163",
+    "lastOnAirTitle": "Christmas gift card(pack of 5",
+    "lastOnAirAuctionCode": "0019899156",
     "precedingSku": "8609232",
     "precedingTitle": "LIVMORE Set of 2 - 24K Gold  (99.9% Purity) Fortuna Flake Pens With 2 Refills & Gift Box - Red & Gold",
     "precedingAuctionCode": "0019899148"
