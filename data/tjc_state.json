@@ -436522,11 +436522,29 @@
       "productUrl": null,
       "lastUpdated": 1791503060027,
       "source": "gha"
+    },
+    "8783986": {
+      "sku": "8783986",
+      "firstAir": 1791503305032,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791503305032,
+      "title": "Fresh Water Pearl Dangling Earring with Lever Back in Yellow",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019901269",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-09",
+      "time": "00:48:25",
+      "productUrl": null,
+      "lastUpdated": 1791503305032,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791503134920,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488138,11 +488156,22 @@
         "followingSku": "8783984",
         "followingTitle": "LA CloseOut-Fresh Water Pearl Beads Bracelet (Size - 7.5-2 Ext)",
         "followingAuctionCode": "0019901334"
+      },
+      {
+        "start": 1791503134920,
+        "end": 1791503305032,
+        "durationMin": 2.8,
+        "precedingSku": "8783984",
+        "precedingTitle": "LA CloseOut-Fresh Water Pearl Beads Bracelet (Size - 7.5-2 Ext)",
+        "precedingAuctionCode": "0019901334",
+        "followingSku": "8783986",
+        "followingTitle": "Fresh Water Pearl Dangling Earring with Lever Back in Yellow",
+        "followingAuctionCode": "0019901269"
       }
     ],
-    "lastOnAirSku": "8783984",
-    "lastOnAirTitle": "LA CloseOut-Fresh Water Pearl Beads Bracelet (Size - 7.5-2 Ext)",
-    "lastOnAirAuctionCode": "0019901334",
+    "lastOnAirSku": "8783986",
+    "lastOnAirTitle": "Fresh Water Pearl Dangling Earring with Lever Back in Yellow",
+    "lastOnAirAuctionCode": "0019901269",
     "precedingSku": "8783984",
     "precedingTitle": "LA CloseOut-Fresh Water Pearl Beads Bracelet (Size - 7.5-2 Ext)",
     "precedingAuctionCode": "0019901334"
