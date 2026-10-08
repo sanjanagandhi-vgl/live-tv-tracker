@@ -435043,11 +435043,29 @@
       "productUrl": null,
       "lastUpdated": 1791467063040,
       "source": "gha"
+    },
+    "8762472": {
+      "sku": "8762472",
+      "firstAir": 1791467240945,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791467240945,
+      "title": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019899783",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-08",
+      "time": "14:47:20",
+      "productUrl": null,
+      "lastUpdated": 1791467240945,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791467134666,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486175,11 +486193,22 @@
         "followingSku": "8800629",
         "followingTitle": "Anna Lihs - Festive Christmas Tree Scented Candle",
         "followingAuctionCode": "0019899787"
+      },
+      {
+        "start": 1791467134666,
+        "end": 1791467240945,
+        "durationMin": 1.8,
+        "precedingSku": "8800629",
+        "precedingTitle": "Anna Lihs - Festive Christmas Tree Scented Candle",
+        "precedingAuctionCode": "0019899787",
+        "followingSku": "8762472",
+        "followingTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+        "followingAuctionCode": "0019899783"
       }
     ],
-    "lastOnAirSku": "8800629",
-    "lastOnAirTitle": "Anna Lihs - Festive Christmas Tree Scented Candle",
-    "lastOnAirAuctionCode": "0019899787",
+    "lastOnAirSku": "8762472",
+    "lastOnAirTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+    "lastOnAirAuctionCode": "0019899783",
     "precedingSku": "8800629",
     "precedingTitle": "Anna Lihs - Festive Christmas Tree Scented Candle",
     "precedingAuctionCode": "0019899787"
