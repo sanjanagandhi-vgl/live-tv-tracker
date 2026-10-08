@@ -6551,19 +6551,19 @@
       "sku": "8647000",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "11:39:17",
+      "date": "2026-10-08",
+      "time": "13:42:20",
       "preExisting": true,
       "missedAt": 1784910932638,
       "missedDelay": null,
-      "lastUpdated": 1791283157309,
+      "lastUpdated": 1791463340459,
       "missedPrice": 74.99,
       "missedImg": false,
       "title": "Maestro Collection- 9K Yellow Gold  Hoop Earring with Clasp",
-      "auctionCode": "0019897952",
+      "auctionCode": "0019899489",
       "source": "gha",
-      "lastAir": 1791283157309,
-      "pdpPrice": "89.99",
+      "lastAir": 1791463340459,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -435028,8 +435028,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791463277294,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486113,11 +486113,22 @@
         "followingSku": "8640990",
         "followingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
         "followingAuctionCode": "0019899472"
+      },
+      {
+        "start": 1791463277294,
+        "end": 1791463340459,
+        "durationMin": 1.1,
+        "precedingSku": "8626563",
+        "precedingTitle": "9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
+        "precedingAuctionCode": "0019899470",
+        "followingSku": "8647000",
+        "followingTitle": "Maestro Collection- 9K Yellow Gold  Hoop Earring with Clasp",
+        "followingAuctionCode": "0019899489"
       }
     ],
-    "lastOnAirSku": "8626563",
-    "lastOnAirTitle": "9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019899470",
+    "lastOnAirSku": "8647000",
+    "lastOnAirTitle": "Maestro Collection- 9K Yellow Gold  Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019899489",
     "precedingSku": "8626563",
     "precedingTitle": "9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
     "precedingAuctionCode": "0019899470"
