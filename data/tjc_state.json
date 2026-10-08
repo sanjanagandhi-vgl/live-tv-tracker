@@ -435524,11 +435524,29 @@
       "productUrlChecked": 1791474803130,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8647071": {
+      "sku": "8647071",
+      "firstAir": 1791475584965,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791475584965,
+      "title": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019900288",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-08",
+      "time": "17:06:24",
+      "productUrl": null,
+      "lastUpdated": 1791475584965,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791475462321,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486766,11 +486784,22 @@
         "followingSku": "8691178",
         "followingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
         "followingAuctionCode": "0019899634"
+      },
+      {
+        "start": 1791475462321,
+        "end": 1791475584965,
+        "durationMin": 2.0,
+        "precedingSku": "8691178",
+        "precedingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+        "precedingAuctionCode": "0019899634",
+        "followingSku": "8647071",
+        "followingTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
+        "followingAuctionCode": "0019900288"
       }
     ],
-    "lastOnAirSku": "8691178",
-    "lastOnAirTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
-    "lastOnAirAuctionCode": "0019899634",
+    "lastOnAirSku": "8647071",
+    "lastOnAirTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
+    "lastOnAirAuctionCode": "0019900288",
     "precedingSku": "8691178",
     "precedingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
     "precedingAuctionCode": "0019899634"
