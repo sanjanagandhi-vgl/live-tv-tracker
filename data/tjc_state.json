@@ -20795,16 +20795,16 @@
       "firstAir": 1785228082304,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789381758087,
+      "lastAir": 1791451944016,
       "title": "Laurelle Amarai Fragrance Trio Set - Noir Fleur, Red Desire & Sunlit Bloom EDP- 100ml Each",
-      "pdpPrice": "17.97",
-      "auctionCode": "0019869947",
+      "pdpPrice": "29.97",
+      "auctionCode": "0019899332",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-14",
-      "time": "11:29:18",
-      "lastUpdated": 1789381758087,
+      "date": "2026-10-08",
+      "time": "10:32:24",
+      "lastUpdated": 1791451944016,
       "source": "gha",
       "missedAt": 1785321863299,
       "missedDelay": 1413,
@@ -434767,8 +434767,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791451850217,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485731,11 +485731,22 @@
         "followingSku": "8791878",
         "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
         "followingAuctionCode": "0019899392"
+      },
+      {
+        "start": 1791451850217,
+        "end": 1791451944016,
+        "durationMin": 1.6,
+        "precedingSku": "8791878",
+        "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "precedingAuctionCode": "0019899392",
+        "followingSku": "221328567",
+        "followingTitle": "Laurelle Amarai Fragrance Trio Set - Noir Fleur, Red Desire & Sunlit Bloom EDP- 100ml Each",
+        "followingAuctionCode": "0019899332"
       }
     ],
-    "lastOnAirSku": "8791878",
-    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
-    "lastOnAirAuctionCode": "0019899392",
+    "lastOnAirSku": "221328567",
+    "lastOnAirTitle": "Laurelle Amarai Fragrance Trio Set - Noir Fleur, Red Desire & Sunlit Bloom EDP- 100ml Each",
+    "lastOnAirAuctionCode": "0019899332",
     "precedingSku": "8791878",
     "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
     "precedingAuctionCode": "0019899392"
