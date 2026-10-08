@@ -422160,21 +422160,26 @@
       "sku": "8789150",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-04",
-      "time": "08:28:56",
+      "date": "2026-10-08",
+      "time": "21:30:49",
       "preExisting": true,
       "missedAt": 1791098936167,
       "missedDelay": null,
-      "lastUpdated": 1791098936167,
+      "lastUpdated": 1791491449056,
       "missedPrice": 37.99,
       "missedImg": true,
       "title": "D'Joy - Lab Grown Diamond Stud Earring with Push Post in Rhodium Overlay Sterling Silver 0.25 Ct.",
-      "auctionCode": "0019896055",
+      "auctionCode": "0019900622",
       "source": "gha",
       "productUrl": "/products/djoy-lab-grown-diamond-earring-in-rhodium-overlaysterling-silver-0-200-ct-8789150",
       "productUrlChecked": 1791098943101,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791491449056,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8774703": {
       "sku": "8774703",
@@ -436032,8 +436037,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791491360216,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -487447,11 +487452,22 @@
         "followingSku": "8759671",
         "followingTitle": "Fifth Avenue CloseOut-10K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Tennis Bracelet (Size - 7.5) 4.00 Ct.",
         "followingAuctionCode": "0019900563"
+      },
+      {
+        "start": 1791491360216,
+        "end": 1791491449056,
+        "durationMin": 1.5,
+        "precedingSku": "8759671",
+        "precedingTitle": "Fifth Avenue CloseOut-10K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Tennis Bracelet (Size - 7.5) 4.00 Ct.",
+        "precedingAuctionCode": "0019900563",
+        "followingSku": "8789150",
+        "followingTitle": "D'Joy - Lab Grown Diamond Stud Earring with Push Post in Rhodium Overlay Sterling Silver 0.25 Ct.",
+        "followingAuctionCode": "0019900622"
       }
     ],
-    "lastOnAirSku": "8759671",
-    "lastOnAirTitle": "Fifth Avenue CloseOut-10K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Tennis Bracelet (Size - 7.5) 4.00 Ct.",
-    "lastOnAirAuctionCode": "0019900563",
+    "lastOnAirSku": "8789150",
+    "lastOnAirTitle": "D'Joy - Lab Grown Diamond Stud Earring with Push Post in Rhodium Overlay Sterling Silver 0.25 Ct.",
+    "lastOnAirAuctionCode": "0019900622",
     "precedingSku": "8759671",
     "precedingTitle": "Fifth Avenue CloseOut-10K Yellow Gold SGL Certified Lab Grown Diamond (VS-E-F) Tennis Bracelet (Size - 7.5) 4.00 Ct.",
     "precedingAuctionCode": "0019900563"
