@@ -434654,11 +434654,29 @@
       "productUrlChecked": 1791444145817,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8676582": {
+      "sku": "8676582",
+      "firstAir": 1791446781581,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791446781581,
+      "title": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
+      "pdpPrice": "239.99",
+      "auctionCode": "0019899413",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-08",
+      "time": "09:06:21",
+      "productUrl": null,
+      "lastUpdated": 1791446781581,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791446599285,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485588,11 +485606,22 @@
         "followingSku": "8631215",
         "followingTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
         "followingAuctionCode": "0019899374"
+      },
+      {
+        "start": 1791446599285,
+        "end": 1791446781581,
+        "durationMin": 3.0,
+        "precedingSku": "8631215",
+        "precedingTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
+        "precedingAuctionCode": "0019899374",
+        "followingSku": "8676582",
+        "followingTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
+        "followingAuctionCode": "0019899413"
       }
     ],
-    "lastOnAirSku": "8631215",
-    "lastOnAirTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
-    "lastOnAirAuctionCode": "0019899374",
+    "lastOnAirSku": "8676582",
+    "lastOnAirTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
+    "lastOnAirAuctionCode": "0019899413",
     "precedingSku": "8631215",
     "precedingTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
     "precedingAuctionCode": "0019899374"
