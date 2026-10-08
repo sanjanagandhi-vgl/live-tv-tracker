@@ -435394,11 +435394,29 @@
       "productUrlChecked": 1791472347685,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8691185": {
+      "sku": "8691185",
+      "firstAir": 1791472763208,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791472763208,
+      "title": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+      "pdpPrice": "345.99",
+      "auctionCode": "0019899636",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-08",
+      "time": "16:19:23",
+      "productUrl": null,
+      "lastUpdated": 1791472763208,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791472461491,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -486614,11 +486632,22 @@
         "followingSku": "7851806",
         "followingTitle": "La Marey Loungewear Trousers (Size 16 to 18) - Red",
         "followingAuctionCode": "0019899953"
+      },
+      {
+        "start": 1791472461491,
+        "end": 1791472763208,
+        "durationMin": 5.0,
+        "precedingSku": "7851806",
+        "precedingTitle": "La Marey Loungewear Trousers (Size 16 to 18) - Red",
+        "precedingAuctionCode": "0019899953",
+        "followingSku": "8691185",
+        "followingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+        "followingAuctionCode": "0019899636"
       }
     ],
-    "lastOnAirSku": "7851806",
-    "lastOnAirTitle": "La Marey Loungewear Trousers (Size 16 to 18) - Red",
-    "lastOnAirAuctionCode": "0019899953",
+    "lastOnAirSku": "8691185",
+    "lastOnAirTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+    "lastOnAirAuctionCode": "0019899636",
     "precedingSku": "7851806",
     "precedingTitle": "La Marey Loungewear Trousers (Size 16 to 18) - Red",
     "precedingAuctionCode": "0019899953"
