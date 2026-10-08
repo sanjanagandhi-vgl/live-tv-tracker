@@ -334062,17 +334062,17 @@
       "firstAir": 1789118664482,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789118839848,
-      "title": "Close Out Deal- Designer Inspired Earring",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019865764",
+      "lastAir": 1791431478253,
+      "title": "Close Out Deal- Designer Inspired Intertwined Hoop Earring",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019899340",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "10:27:19",
+      "date": "2026-10-08",
+      "time": "04:51:18",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8735909",
-      "lastUpdated": 1789119383915,
+      "lastUpdated": 1791431478253,
       "source": "gha",
       "missedAt": 1789119383915,
       "missedDelay": 9,
@@ -434440,8 +434440,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791431434615,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -485140,11 +485140,22 @@
         "followingSku": "8778311",
         "followingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
         "followingAuctionCode": "0019899324"
+      },
+      {
+        "start": 1791431434615,
+        "end": 1791431478253,
+        "durationMin": 0.7,
+        "precedingSku": "8778311",
+        "precedingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
+        "precedingAuctionCode": "0019899324",
+        "followingSku": "8735909",
+        "followingTitle": "Close Out Deal- Designer Inspired Intertwined Hoop Earring",
+        "followingAuctionCode": "0019899340"
       }
     ],
-    "lastOnAirSku": "8778311",
-    "lastOnAirTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019899324",
+    "lastOnAirSku": "8735909",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Intertwined Hoop Earring",
+    "lastOnAirAuctionCode": "0019899340",
     "precedingSku": "8778311",
     "precedingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
     "precedingAuctionCode": "0019899324"
