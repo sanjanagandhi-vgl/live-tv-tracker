@@ -435577,21 +435577,21 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-08",
-      "time": "17:31:23",
+      "time": "22:52:20",
       "preExisting": true,
       "missedAt": 1791475998478,
       "missedDelay": null,
-      "lastUpdated": 1791477083474,
+      "lastUpdated": 1791496340716,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
-      "auctionCode": "0019901615",
+      "auctionCode": "0019901827",
       "source": "gha",
       "productUrl": "/products/la-marey-signature-longline-faux-fur-winter-coat-size-s-m-8-14-beige-8691178",
       "productUrlChecked": 1791476001717,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791477083474,
+      "lastAir": 1791496340716,
       "pdpPrice": "59.99",
       "buy": true,
       "login": false,
@@ -436062,8 +436062,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791496138177,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -487554,11 +487554,22 @@
         "followingSku": "8791878",
         "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
         "followingAuctionCode": "0019901177"
+      },
+      {
+        "start": 1791496138177,
+        "end": 1791496340716,
+        "durationMin": 3.4,
+        "precedingSku": "8791878",
+        "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "precedingAuctionCode": "0019901177",
+        "followingSku": "8691184",
+        "followingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+        "followingAuctionCode": "0019901827"
       }
     ],
-    "lastOnAirSku": "8791878",
-    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
-    "lastOnAirAuctionCode": "0019901177",
+    "lastOnAirSku": "8691184",
+    "lastOnAirTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+    "lastOnAirAuctionCode": "0019901827",
     "precedingSku": "8791878",
     "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
     "precedingAuctionCode": "0019901177"
