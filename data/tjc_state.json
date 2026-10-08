@@ -359872,21 +359872,26 @@
       "sku": "8615677",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-17",
-      "time": "22:17:19",
+      "date": "2026-10-08",
+      "time": "23:29:17",
       "preExisting": true,
       "missedAt": 1789679839993,
       "missedDelay": null,
-      "lastUpdated": 1789679839993,
+      "lastUpdated": 1791498557294,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "Closeout Deal - Genuine Leather Fully Lined Bag With Adjustable Cross Body Strap - Burgundy",
-      "auctionCode": "0019875054",
+      "title": "Closeout Deal - Genuine Leather Fully Lined Bag With Adjustable Cross Body Strap - Dark Green",
+      "auctionCode": "0019901152",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-dark-green-8615674",
       "productUrlChecked": 1789679845110,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791498557294,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8615676": {
       "sku": "8615676",
@@ -436310,8 +436315,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791498437857,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -487835,11 +487840,22 @@
         "followingSku": "8535737",
         "followingTitle": "Designer Inspired- Horizontal Puzzle Fold Nappa Style Hand Bag-Duck Egg",
         "followingAuctionCode": "0019901835"
+      },
+      {
+        "start": 1791498437857,
+        "end": 1791498557294,
+        "durationMin": 2.0,
+        "precedingSku": "8535737",
+        "precedingTitle": "Designer Inspired- Horizontal Puzzle Fold Nappa Style Hand Bag-Duck Egg",
+        "precedingAuctionCode": "0019901835",
+        "followingSku": "8615677",
+        "followingTitle": "Closeout Deal - Genuine Leather Fully Lined Bag With Adjustable Cross Body Strap - Dark Green",
+        "followingAuctionCode": "0019901152"
       }
     ],
-    "lastOnAirSku": "8535737",
-    "lastOnAirTitle": "Designer Inspired- Horizontal Puzzle Fold Nappa Style Hand Bag-Duck Egg",
-    "lastOnAirAuctionCode": "0019901835",
+    "lastOnAirSku": "8615677",
+    "lastOnAirTitle": "Closeout Deal - Genuine Leather Fully Lined Bag With Adjustable Cross Body Strap - Dark Green",
+    "lastOnAirAuctionCode": "0019901152",
     "precedingSku": "8535737",
     "precedingTitle": "Designer Inspired- Horizontal Puzzle Fold Nappa Style Hand Bag-Duck Egg",
     "precedingAuctionCode": "0019901835"
