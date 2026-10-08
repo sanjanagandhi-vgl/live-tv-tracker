@@ -436540,11 +436540,29 @@
       "productUrl": null,
       "lastUpdated": 1791503435986,
       "source": "gha"
+    },
+    "8777171": {
+      "sku": "8777171",
+      "firstAir": 1791503596828,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791503596828,
+      "title": "EverTrue - Natural White Diamond Leaf Vine Ring in Yellow Gold Tone",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019901292",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-09",
+      "time": "00:53:16",
+      "productUrl": null,
+      "lastUpdated": 1791503596828,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791503482913,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488167,11 +488185,22 @@
         "followingSku": "8783986",
         "followingTitle": "Fresh Water Pearl Dangling Earring with Lever Back in Yellow",
         "followingAuctionCode": "0019901269"
+      },
+      {
+        "start": 1791503482913,
+        "end": 1791503596828,
+        "durationMin": 1.9,
+        "precedingSku": "8783986",
+        "precedingTitle": "Fresh Water Pearl Dangling Earring with Lever Back in Yellow",
+        "precedingAuctionCode": "0019901269",
+        "followingSku": "8777171",
+        "followingTitle": "EverTrue - Natural White Diamond Leaf Vine Ring in Yellow Gold Tone",
+        "followingAuctionCode": "0019901292"
       }
     ],
-    "lastOnAirSku": "8783986",
-    "lastOnAirTitle": "Fresh Water Pearl Dangling Earring with Lever Back in Yellow",
-    "lastOnAirAuctionCode": "0019901269",
+    "lastOnAirSku": "8777171",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Leaf Vine Ring in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019901292",
     "precedingSku": "8783986",
     "precedingTitle": "Fresh Water Pearl Dangling Earring with Lever Back in Yellow",
     "precedingAuctionCode": "0019901269"
