@@ -384292,21 +384292,26 @@
       "sku": "8201252",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-23",
-      "time": "12:43:18",
+      "date": "2026-10-09",
+      "time": "03:32:20",
       "preExisting": true,
       "missedAt": 1790163798896,
       "missedDelay": null,
-      "lastUpdated": 1790163798896,
+      "lastUpdated": 1791513140593,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "La Marey Oversized Cardigan (Size 10 to 22) - Chocolate",
-      "auctionCode": "0019881142",
+      "auctionCode": "0019900194",
       "source": "gha",
       "productUrl": "/products/la-marey-oversized-cardigan",
       "productUrlChecked": 1790163803125,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791513140593,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8528738": {
       "sku": "8528738",
@@ -436820,8 +436825,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791513048580,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488598,11 +488603,22 @@
         "followingSku": "8691184",
         "followingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
         "followingAuctionCode": "0019901899"
+      },
+      {
+        "start": 1791513048580,
+        "end": 1791513140593,
+        "durationMin": 1.5,
+        "precedingSku": "8691184",
+        "precedingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+        "precedingAuctionCode": "0019901899",
+        "followingSku": "8201252",
+        "followingTitle": "La Marey Oversized Cardigan (Size 10 to 22) - Chocolate",
+        "followingAuctionCode": "0019900194"
       }
     ],
-    "lastOnAirSku": "8691184",
-    "lastOnAirTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
-    "lastOnAirAuctionCode": "0019901899",
+    "lastOnAirSku": "8201252",
+    "lastOnAirTitle": "La Marey Oversized Cardigan (Size 10 to 22) - Chocolate",
+    "lastOnAirAuctionCode": "0019900194",
     "precedingSku": "8691184",
     "precedingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
     "precedingAuctionCode": "0019901899"
