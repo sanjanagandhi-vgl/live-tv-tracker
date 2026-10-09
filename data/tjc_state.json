@@ -438350,11 +438350,29 @@
       "productUrl": null,
       "lastUpdated": 1791556100522,
       "source": "gha"
+    },
+    "8617474": {
+      "sku": "8617474",
+      "firstAir": 1791556250815,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791556250815,
+      "title": "La Marey Women's Lightweight Checkered Tassel Scarf (178 x 32cm) - Beige",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019901273",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-09",
+      "time": "15:30:50",
+      "productUrl": null,
+      "lastUpdated": 1791556250815,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791556161347,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -490703,11 +490721,22 @@
         "followingSku": "8529501",
         "followingTitle": "LIVMORE Embroidery Jewellery Box (Size 20x20x1 cm) - Turquoise",
         "followingAuctionCode": "0019901742"
+      },
+      {
+        "start": 1791556161347,
+        "end": 1791556250815,
+        "durationMin": 1.5,
+        "precedingSku": "8529501",
+        "precedingTitle": "LIVMORE Embroidery Jewellery Box (Size 20x20x1 cm) - Turquoise",
+        "precedingAuctionCode": "0019901742",
+        "followingSku": "8617474",
+        "followingTitle": "La Marey Women's Lightweight Checkered Tassel Scarf (178 x 32cm) - Beige",
+        "followingAuctionCode": "0019901273"
       }
     ],
-    "lastOnAirSku": "8529501",
-    "lastOnAirTitle": "LIVMORE Embroidery Jewellery Box (Size 20x20x1 cm) - Turquoise",
-    "lastOnAirAuctionCode": "0019901742",
+    "lastOnAirSku": "8617474",
+    "lastOnAirTitle": "La Marey Women's Lightweight Checkered Tassel Scarf (178 x 32cm) - Beige",
+    "lastOnAirAuctionCode": "0019901273",
     "precedingSku": "8529501",
     "precedingTitle": "LIVMORE Embroidery Jewellery Box (Size 20x20x1 cm) - Turquoise",
     "precedingAuctionCode": "0019901742"
