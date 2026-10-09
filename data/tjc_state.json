@@ -32928,23 +32928,23 @@
       "sku": "8505323",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "15:48:24",
+      "date": "2026-10-09",
+      "time": "07:19:17",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1791298104186,
+      "lastUpdated": 1791526757124,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Exquisite Elegance Seamless High Waist Tummy Control Brief (Size L, 14 To 16) - White",
-      "auctionCode": "0019897583",
-      "source": "gha-variant",
+      "title": "Exquisite Elegance Seamless High Waist Tummy Control Brief (Size XXL, 18 To 20) - Black",
+      "auctionCode": "0019900765",
+      "source": "gha",
       "productUrl": "/products/exquisite-elegance-light-control-brief?variant=53099952505098",
       "productUrlChecked": 1785476164876,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1791298104186,
-      "pdpPrice": 7.99,
+      "lastAir": 1791526757124,
+      "pdpPrice": "80.99",
       "buy": true,
       "login": false,
       "img": true
@@ -436994,8 +436994,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791526639343,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -489014,11 +489014,22 @@
         "followingSku": "8613642",
         "followingTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
         "followingAuctionCode": "0019900901"
+      },
+      {
+        "start": 1791526639343,
+        "end": 1791526757124,
+        "durationMin": 2.0,
+        "precedingSku": "8613761",
+        "precedingTitle": "Exquisite Elegance Seamless Padded Bra (Size - Large, 40-42) - White",
+        "precedingAuctionCode": "0019900771",
+        "followingSku": "8505323",
+        "followingTitle": "Exquisite Elegance Seamless High Waist Tummy Control Brief (Size XXL, 18 To 20) - Black",
+        "followingAuctionCode": "0019900765"
       }
     ],
-    "lastOnAirSku": "8613761",
-    "lastOnAirTitle": "Exquisite Elegance Seamless Padded Bra (Size - Large, 40-42) - White",
-    "lastOnAirAuctionCode": "0019900771",
+    "lastOnAirSku": "8505323",
+    "lastOnAirTitle": "Exquisite Elegance Seamless High Waist Tummy Control Brief (Size XXL, 18 To 20) - Black",
+    "lastOnAirAuctionCode": "0019900765",
     "precedingSku": "8613761",
     "precedingTitle": "Exquisite Elegance Seamless Padded Bra (Size - Large, 40-42) - White",
     "precedingAuctionCode": "0019900771"
