@@ -28550,21 +28550,26 @@
       "sku": "8585223",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-10-09",
+      "time": "13:36:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1791549382431,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Malachite Tree of Life Adjustable Necklace (Size - 20-2 Ext) 27.00 Ct.",
-      "auctionCode": "0019801673",
+      "title": "Malachite Tree of Life Adjustable Necklace (Size - 20+2 Ext) 27.00 Ct.",
+      "auctionCode": "0019901866",
       "source": "gha",
       "productUrl": "/products/malachite-tree-of-life-adjustable-necklace-size-20-2-ext-27-00-ct-8585223",
       "productUrlChecked": 1785475045860,
       "productUrlStatus": 403,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791549382431,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8378694": {
       "sku": "8378694",
@@ -438235,8 +438240,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791549329589,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -490508,11 +490513,22 @@
         "followingSku": "8320969",
         "followingTitle": "Grey & Fresh Water Pearl Adjustable Bangle (Size - 7) with Gold Plated Ball",
         "followingAuctionCode": "0019901883"
+      },
+      {
+        "start": 1791549329589,
+        "end": 1791549382431,
+        "durationMin": 0.9,
+        "precedingSku": "8662132",
+        "precedingTitle": "Portable Travel Jewellery Organiser Case with Earring Holder (Size 16x11x6 cm) - White",
+        "precedingAuctionCode": "0019902583",
+        "followingSku": "8585223",
+        "followingTitle": "Malachite Tree of Life Adjustable Necklace (Size - 20+2 Ext) 27.00 Ct.",
+        "followingAuctionCode": "0019901866"
       }
     ],
-    "lastOnAirSku": "8662132",
-    "lastOnAirTitle": "Portable Travel Jewellery Organiser Case with Earring Holder (Size 16x11x6 cm) - White",
-    "lastOnAirAuctionCode": "0019902583",
+    "lastOnAirSku": "8585223",
+    "lastOnAirTitle": "Malachite Tree of Life Adjustable Necklace (Size - 20+2 Ext) 27.00 Ct.",
+    "lastOnAirAuctionCode": "0019901866",
     "precedingSku": "8662132",
     "precedingTitle": "Portable Travel Jewellery Organiser Case with Earring Holder (Size 16x11x6 cm) - White",
     "precedingAuctionCode": "0019902583"
