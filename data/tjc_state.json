@@ -426759,17 +426759,17 @@
       "firstAir": 1791203725512,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791464663539,
+      "lastAir": 1791586942054,
       "title": "Mega Close Out Deal- 9K Yellow Gold Spiga Necklace (Size - 16)",
-      "pdpPrice": "199.99",
-      "auctionCode": "0019899961",
+      "pdpPrice": "499.99",
+      "auctionCode": "0019902344",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-08",
-      "time": "14:04:23",
+      "date": "2026-10-10",
+      "time": "00:02:22",
       "productUrl": "/products/9k-yellow-gold-necklace-size-16-gold-wt-1-15-gms-8810677",
-      "lastUpdated": 1791464663539,
+      "lastUpdated": 1791586942054,
       "source": "gha",
       "missedAt": 1791206061095,
       "missedDelay": 10,
@@ -439196,8 +439196,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791586855074,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491810,11 +491810,22 @@
         "followingSku": "8691113",
         "followingTitle": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
         "followingAuctionCode": "0019902685"
+      },
+      {
+        "start": 1791586855074,
+        "end": 1791586942054,
+        "durationMin": 1.4,
+        "precedingSku": "8235363",
+        "precedingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+        "precedingAuctionCode": "0019903444",
+        "followingSku": "8810677",
+        "followingTitle": "Mega Close Out Deal- 9K Yellow Gold Spiga Necklace (Size - 16)",
+        "followingAuctionCode": "0019902344"
       }
     ],
-    "lastOnAirSku": "8235363",
-    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
-    "lastOnAirAuctionCode": "0019903444",
+    "lastOnAirSku": "8810677",
+    "lastOnAirTitle": "Mega Close Out Deal- 9K Yellow Gold Spiga Necklace (Size - 16)",
+    "lastOnAirAuctionCode": "0019902344",
     "precedingSku": "8235363",
     "precedingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
     "precedingAuctionCode": "0019903444"
