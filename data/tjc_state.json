@@ -391733,21 +391733,26 @@
       "sku": "8320969",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "17:35:29",
+      "date": "2026-10-09",
+      "time": "13:29:17",
       "preExisting": true,
       "missedAt": 1790354129662,
       "missedDelay": null,
-      "lastUpdated": 1790354129662,
+      "lastUpdated": 1791548957333,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Grey & Fresh Water Pearl Adjustable Bangle (Size - 7) with Gold Plated Ball",
-      "auctionCode": "0019883711",
+      "auctionCode": "0019901883",
       "source": "gha",
       "productUrl": "/products/natural-light-brown-leopard-skin-jasper-cross-pendant-in-gold-tone-10-00-ct-8677869",
       "productUrlChecked": 1790354134529,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791548957333,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": false
     },
     "8484128": {
       "sku": "8484128",
@@ -438198,8 +438203,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791548919757,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -490460,11 +490465,22 @@
         "followingSku": "8781199",
         "followingTitle": "Peach Fresh Water Pearl Stud Earring with Push Back in Sterling Silver",
         "followingAuctionCode": "0019901761"
+      },
+      {
+        "start": 1791548919757,
+        "end": 1791548957333,
+        "durationMin": 0.6,
+        "precedingSku": "8714499",
+        "precedingTitle": "White Fresh Water Pearl Adjustable Ring with Enameling",
+        "precedingAuctionCode": "0019901873",
+        "followingSku": "8320969",
+        "followingTitle": "Grey & Fresh Water Pearl Adjustable Bangle (Size - 7) with Gold Plated Ball",
+        "followingAuctionCode": "0019901883"
       }
     ],
-    "lastOnAirSku": "8714499",
-    "lastOnAirTitle": "White Fresh Water Pearl Adjustable Ring with Enameling",
-    "lastOnAirAuctionCode": "0019901873",
+    "lastOnAirSku": "8320969",
+    "lastOnAirTitle": "Grey & Fresh Water Pearl Adjustable Bangle (Size - 7) with Gold Plated Ball",
+    "lastOnAirAuctionCode": "0019901883",
     "precedingSku": "8714499",
     "precedingTitle": "White Fresh Water Pearl Adjustable Ring with Enameling",
     "precedingAuctionCode": "0019901873"
