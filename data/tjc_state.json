@@ -438455,11 +438455,29 @@
       "productUrlChecked": 1791556642020,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8762490": {
+      "sku": "8762490",
+      "firstAir": 1791558327560,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791558327560,
+      "title": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+      "pdpPrice": "134.99",
+      "auctionCode": "0019902531",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-09",
+      "time": "16:05:27",
+      "productUrl": null,
+      "lastUpdated": 1791558327560,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791557959467,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -490819,11 +490837,22 @@
         "followingSku": "8617474",
         "followingTitle": "La Marey Women's Lightweight Checkered Tassel Scarf (178 x 32cm) - Beige",
         "followingAuctionCode": "0019901273"
+      },
+      {
+        "start": 1791557959467,
+        "end": 1791558327560,
+        "durationMin": 6.1,
+        "precedingSku": "8617474",
+        "precedingTitle": "La Marey Women's Lightweight Checkered Tassel Scarf (178 x 32cm) - Beige",
+        "precedingAuctionCode": "0019901273",
+        "followingSku": "8762490",
+        "followingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+        "followingAuctionCode": "0019902531"
       }
     ],
-    "lastOnAirSku": "8617474",
-    "lastOnAirTitle": "La Marey Women's Lightweight Checkered Tassel Scarf (178 x 32cm) - Beige",
-    "lastOnAirAuctionCode": "0019901273",
+    "lastOnAirSku": "8762490",
+    "lastOnAirTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+    "lastOnAirAuctionCode": "0019902531",
     "precedingSku": "8617474",
     "precedingTitle": "La Marey Women's Lightweight Checkered Tassel Scarf (178 x 32cm) - Beige",
     "precedingAuctionCode": "0019901273"
