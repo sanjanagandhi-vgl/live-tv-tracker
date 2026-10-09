@@ -437420,20 +437420,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-09",
-      "time": "10:11:18",
+      "time": "16:25:29",
       "preExisting": true,
       "missedAt": 1791537078480,
       "missedDelay": null,
-      "lastUpdated": 1791537078480,
+      "lastUpdated": 1791559529110,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "USB Rechargeable Waterproof LED Lighted Bobble Hat with Sherpa Lining (Size 26x20 Cm) - Black",
-      "auctionCode": "0019901949",
+      "title": "USB Rechargeable Waterproof LED Bobble Hat with Sherpa Lining  (Size 26x20 Cm) - Grey",
+      "auctionCode": "0019902586",
       "source": "gha",
       "productUrl": "/products/usb-rechargeable-waterproof-led-lighted-sherpa-lined-beanie-hat-with-faux-fur-pom-pom-off-white-8714339",
       "productUrlChecked": 1791537082963,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791559529110,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4388960": {
       "sku": "4388960",
@@ -438543,8 +438548,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791559461432,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -490915,11 +490920,22 @@
         "followingSku": "8762490",
         "followingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
         "followingAuctionCode": "0019902531"
+      },
+      {
+        "start": 1791559461432,
+        "end": 1791559529110,
+        "durationMin": 1.1,
+        "precedingSku": "8762490",
+        "precedingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+        "precedingAuctionCode": "0019902531",
+        "followingSku": "6126642",
+        "followingTitle": "USB Rechargeable Waterproof LED Bobble Hat with Sherpa Lining  (Size 26x20 Cm) - Grey",
+        "followingAuctionCode": "0019902586"
       }
     ],
-    "lastOnAirSku": "8762490",
-    "lastOnAirTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
-    "lastOnAirAuctionCode": "0019902531",
+    "lastOnAirSku": "6126642",
+    "lastOnAirTitle": "USB Rechargeable Waterproof LED Bobble Hat with Sherpa Lining  (Size 26x20 Cm) - Grey",
+    "lastOnAirAuctionCode": "0019902586",
     "precedingSku": "8762490",
     "precedingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
     "precedingAuctionCode": "0019902531"
