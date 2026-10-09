@@ -23741,17 +23741,23 @@
       "sku": "8679505",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-30",
-      "time": "02:16:26",
+      "date": "2026-10-09",
+      "time": "02:19:19",
       "preExisting": true,
       "missedAt": 1785374186340,
       "missedDelay": null,
-      "lastUpdated": 1785374186340,
+      "lastUpdated": 1791508759048,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
-      "auctionCode": "0019799370",
-      "source": "gha"
+      "auctionCode": "0019900145",
+      "source": "gha",
+      "lastAir": 1791508759048,
+      "pdpPrice": "134.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "7814566": {
       "sku": "7814566",
@@ -436811,8 +436817,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791508703222,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488534,11 +488540,22 @@
         "followingSku": "8594290",
         "followingTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
         "followingAuctionCode": "0019900141"
+      },
+      {
+        "start": 1791508703222,
+        "end": 1791508759048,
+        "durationMin": 0.9,
+        "precedingSku": "8594290",
+        "precedingTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
+        "precedingAuctionCode": "0019900141",
+        "followingSku": "8679505",
+        "followingTitle": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
+        "followingAuctionCode": "0019900145"
       }
     ],
-    "lastOnAirSku": "8594290",
-    "lastOnAirTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
-    "lastOnAirAuctionCode": "0019900141",
+    "lastOnAirSku": "8679505",
+    "lastOnAirTitle": "Spongelle Art Chinois Body Buffer - Lavender Sky - 99g",
+    "lastOnAirAuctionCode": "0019900145",
     "precedingSku": "8594290",
     "precedingTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
     "precedingAuctionCode": "0019900141"
