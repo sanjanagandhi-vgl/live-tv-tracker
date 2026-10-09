@@ -157600,17 +157600,17 @@
       "firstAir": 1786693760234,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790978359853,
+      "lastAir": 1791539180467,
       "title": "Cherry Quartz Stretchable Bracelet (Size - 7  to 10) 125.00 Ct.",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019894516",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019901564",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-10-02",
-      "time": "22:59:19",
+      "date": "2026-10-09",
+      "time": "10:46:20",
       "productUrl": "/products/cherry-quartz-stretchable-bracelet-size-7-125-00-ct-8687349",
-      "lastUpdated": 1790978359853,
+      "lastUpdated": 1791539180467,
       "source": "gha",
       "missedAt": 1786695038771,
       "missedDelay": 9,
@@ -437537,9 +437537,16 @@
       "img": true,
       "date": "2026-10-09",
       "time": "10:37:21",
-      "productUrl": null,
-      "lastUpdated": 1791538641894,
-      "source": "gha"
+      "productUrl": "/products/white-fresh-water-pearl-white-cubic-zirconia-ring-pure-yellow-brass-2-010-ct-8714501",
+      "lastUpdated": 1791539180467,
+      "source": "gha",
+      "missedAt": 1791539180467,
+      "missedDelay": 9,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1791539183121,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8710251": {
       "sku": "8710251",
@@ -437561,8 +437568,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791539135013,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -489735,11 +489742,22 @@
         "followingSku": "4475951",
         "followingTitle": "D'Joy - Natural Chrome Diopside Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chai...",
         "followingAuctionCode": "0019901507"
+      },
+      {
+        "start": 1791539135013,
+        "end": 1791539180467,
+        "durationMin": 0.8,
+        "precedingSku": "8356032",
+        "precedingTitle": "White Silver (99.9% Purity) Tree Of Life Collectable",
+        "precedingAuctionCode": "0019901542",
+        "followingSku": "8687349",
+        "followingTitle": "Cherry Quartz Stretchable Bracelet (Size - 7  to 10) 125.00 Ct.",
+        "followingAuctionCode": "0019901564"
       }
     ],
-    "lastOnAirSku": "8356032",
-    "lastOnAirTitle": "White Silver (99.9% Purity) Tree Of Life Collectable",
-    "lastOnAirAuctionCode": "0019901542",
+    "lastOnAirSku": "8687349",
+    "lastOnAirTitle": "Cherry Quartz Stretchable Bracelet (Size - 7  to 10) 125.00 Ct.",
+    "lastOnAirAuctionCode": "0019901564",
     "precedingSku": "8356032",
     "precedingTitle": "White Silver (99.9% Purity) Tree Of Life Collectable",
     "precedingAuctionCode": "0019901542"
