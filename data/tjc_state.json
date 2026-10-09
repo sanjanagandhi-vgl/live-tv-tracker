@@ -362398,21 +362398,26 @@
       "sku": "8613642",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "16:40:40",
+      "date": "2026-10-09",
+      "time": "07:07:18",
       "preExisting": true,
       "missedAt": 1789746040103,
       "missedDelay": null,
-      "lastUpdated": 1789746040103,
+      "lastUpdated": 1791526038572,
       "missedPrice": 8.99,
       "missedImg": true,
-      "title": "LIVMORE Soccer Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Blue (JT-835)",
-      "auctionCode": "0019875989",
+      "title": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+      "auctionCode": "0019900901",
       "source": "gha",
       "productUrl": "/products/livmore-coffee-travel-mug-and-tea-cup-size-one-size-red-8613506",
       "productUrlChecked": 1789746045818,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791526038572,
+      "pdpPrice": "8.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8613622": {
       "sku": "8613622",
@@ -436982,8 +436987,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791525980831,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488991,11 +488996,22 @@
         "followingSku": "8413573",
         "followingTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm)- Yellow",
         "followingAuctionCode": "0019900932"
+      },
+      {
+        "start": 1791525980831,
+        "end": 1791526038572,
+        "durationMin": 1.0,
+        "precedingSku": "8115013",
+        "precedingTitle": "Set of 3 Scented Candle Tins - Wild Jasmine, Lemon & Lavender, Rose & Geranium",
+        "precedingAuctionCode": "0019900898",
+        "followingSku": "8613642",
+        "followingTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+        "followingAuctionCode": "0019900901"
       }
     ],
-    "lastOnAirSku": "8115013",
-    "lastOnAirTitle": "Set of 3 Scented Candle Tins - Wild Jasmine, Lemon & Lavender, Rose & Geranium",
-    "lastOnAirAuctionCode": "0019900898",
+    "lastOnAirSku": "8613642",
+    "lastOnAirTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+    "lastOnAirAuctionCode": "0019900901",
     "precedingSku": "8115013",
     "precedingTitle": "Set of 3 Scented Candle Tins - Wild Jasmine, Lemon & Lavender, Rose & Geranium",
     "precedingAuctionCode": "0019900898"
