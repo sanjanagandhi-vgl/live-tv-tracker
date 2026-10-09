@@ -438829,9 +438829,16 @@
       "img": true,
       "date": "2026-10-09",
       "time": "19:23:18",
-      "productUrl": null,
-      "lastUpdated": 1791570198448,
-      "source": "gha"
+      "productUrl": "/products/nordic-skandi-plush-gonk-door-stop-black-8762448",
+      "lastUpdated": 1791570799362,
+      "source": "gha",
+      "missedAt": 1791570799362,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1791570802901,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8713311": {
       "sku": "8713311",
@@ -438932,11 +438939,49 @@
       "productUrlChecked": 1791570385042,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8618692": {
+      "sku": "8618692",
+      "firstAir": 1791570799362,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791570799362,
+      "title": "Set of 3 Foldable Non-Woven Fabric Printed Storage Organisers - Pink",
+      "pdpPrice": "105.99",
+      "auctionCode": "0019901320",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-09",
+      "time": "19:33:19",
+      "productUrl": null,
+      "lastUpdated": 1791570799362,
+      "source": "gha"
+    },
+    "8762449": {
+      "sku": "8762449",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-09",
+      "time": "19:33:19",
+      "preExisting": true,
+      "missedAt": 1791570799362,
+      "missedDelay": null,
+      "lastUpdated": 1791570799362,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Nordic Skandi Plush Gonk Door Stop - White & Red",
+      "auctionCode": "0019902603",
+      "source": "gha",
+      "productUrl": "/products/nordic-skandi-plush-gonk-door-stop-black-8762448",
+      "productUrlChecked": 1791570803487,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791570741462,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491428,11 +491473,22 @@
         "followingSku": "8762473",
         "followingTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
         "followingAuctionCode": "0019901384"
+      },
+      {
+        "start": 1791570741462,
+        "end": 1791570799362,
+        "durationMin": 1.0,
+        "precedingSku": "8762472",
+        "precedingTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+        "precedingAuctionCode": "0019901386",
+        "followingSku": "8618692",
+        "followingTitle": "Set of 3 Foldable Non-Woven Fabric Printed Storage Organisers - Pink",
+        "followingAuctionCode": "0019901320"
       }
     ],
-    "lastOnAirSku": "8762472",
-    "lastOnAirTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
-    "lastOnAirAuctionCode": "0019901386",
+    "lastOnAirSku": "8618692",
+    "lastOnAirTitle": "Set of 3 Foldable Non-Woven Fabric Printed Storage Organisers - Pink",
+    "lastOnAirAuctionCode": "0019901320",
     "precedingSku": "8762472",
     "precedingTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
     "precedingAuctionCode": "0019901386"
