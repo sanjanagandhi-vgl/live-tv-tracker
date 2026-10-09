@@ -895,22 +895,22 @@
       "sku": "8238629",
       "tvPrice": "",
       "remarks": "",
-      "time": "12:49:20",
+      "time": "07:44:19",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 12.99,
       "missedImg": false,
       "title": "Emreco Vest Tops (Size 10) - Navy",
-      "auctionCode": "0019891251",
+      "auctionCode": "0019900757",
       "source": "gha",
-      "lastAir": 1790855360342,
-      "pdpPrice": "9.99",
+      "lastAir": 1791528259932,
+      "pdpPrice": "159.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-01",
-      "lastUpdated": 1790855360342,
+      "date": "2026-10-09",
+      "lastUpdated": 1791528259932,
       "productUrl": null
     },
     "8238633": {
@@ -436994,8 +436994,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791528198073,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -489047,11 +489047,22 @@
         "followingSku": "8555291",
         "followingTitle": "La Marey Round Neck Keyhole Top (One Size) - Purple",
         "followingAuctionCode": "0019900754"
+      },
+      {
+        "start": 1791528198073,
+        "end": 1791528259932,
+        "durationMin": 1.0,
+        "precedingSku": "8555291",
+        "precedingTitle": "La Marey Round Neck Keyhole Top (One Size) - Purple",
+        "precedingAuctionCode": "0019900754",
+        "followingSku": "8238629",
+        "followingTitle": "Emreco Vest Tops (Size 10) - Navy",
+        "followingAuctionCode": "0019900757"
       }
     ],
-    "lastOnAirSku": "8555291",
-    "lastOnAirTitle": "La Marey Round Neck Keyhole Top (One Size) - Purple",
-    "lastOnAirAuctionCode": "0019900754",
+    "lastOnAirSku": "8238629",
+    "lastOnAirTitle": "Emreco Vest Tops (Size 10) - Navy",
+    "lastOnAirAuctionCode": "0019900757",
     "precedingSku": "8555291",
     "precedingTitle": "La Marey Round Neck Keyhole Top (One Size) - Purple",
     "precedingAuctionCode": "0019900754"
