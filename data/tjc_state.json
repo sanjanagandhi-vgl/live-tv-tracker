@@ -438605,20 +438605,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-09",
-      "time": "16:32:22",
+      "time": "20:58:22",
       "preExisting": true,
       "missedAt": 1791559942039,
       "missedDelay": null,
-      "lastUpdated": 1791559942039,
+      "lastUpdated": 1791575902514,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Luxury Faux Fur Soft Cover Hot Water Bottle - Cream",
-      "auctionCode": "0019902535",
+      "title": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+      "auctionCode": "0019903287",
       "source": "gha",
       "productUrl": "/products/tjc-special-christmas-ornament-size-one-size-grey-8762490",
       "productUrlChecked": 1791559951313,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791575902514,
+      "pdpPrice": "134.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8762493": {
       "sku": "8762493",
@@ -439150,8 +439155,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791575838791,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491676,11 +491681,22 @@
         "followingSku": "8616519",
         "followingTitle": null,
         "followingAuctionCode": "0019901478"
+      },
+      {
+        "start": 1791575838791,
+        "end": 1791575902514,
+        "durationMin": 1.1,
+        "precedingSku": "8616519",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019901478",
+        "followingSku": "8762494",
+        "followingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+        "followingAuctionCode": "0019903287"
       }
     ],
-    "lastOnAirSku": "8616519",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019901478",
+    "lastOnAirSku": "8762494",
+    "lastOnAirTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+    "lastOnAirAuctionCode": "0019903287",
     "precedingSku": "8616519",
     "precedingTitle": null,
     "precedingAuctionCode": "0019901478"
