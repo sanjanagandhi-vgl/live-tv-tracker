@@ -435290,21 +435290,26 @@
       "sku": "8762473",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-08",
-      "time": "15:07:24",
+      "date": "2026-10-09",
+      "time": "19:25:25",
       "preExisting": true,
       "missedAt": 1791468444028,
       "missedDelay": null,
-      "lastUpdated": 1791468444028,
+      "lastUpdated": 1791570325747,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Avocado Novelty Hot Water Bottle & Socks Pamper Gift Set - Green",
-      "auctionCode": "0019899784",
+      "title": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+      "auctionCode": "0019901384",
       "source": "gha",
       "productUrl": "/products/tjc-special-christmas-ornament-size-one-size-brown-8762472",
       "productUrlChecked": 1791468448232,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791570325747,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8287556": {
       "sku": "8287556",
@@ -438823,8 +438828,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791570261774,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491305,11 +491310,22 @@
         "followingSku": "8713286",
         "followingTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
         "followingAuctionCode": "0019901324"
+      },
+      {
+        "start": 1791570261774,
+        "end": 1791570325747,
+        "durationMin": 1.1,
+        "precedingSku": "8762448",
+        "precedingTitle": "Nordic Skandi Plush Gonk Door Stop - Black & Red",
+        "precedingAuctionCode": "0019900337",
+        "followingSku": "8762473",
+        "followingTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+        "followingAuctionCode": "0019901384"
       }
     ],
-    "lastOnAirSku": "8762448",
-    "lastOnAirTitle": "Nordic Skandi Plush Gonk Door Stop - Black & Red",
-    "lastOnAirAuctionCode": "0019900337",
+    "lastOnAirSku": "8762473",
+    "lastOnAirTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+    "lastOnAirAuctionCode": "0019901384",
     "precedingSku": "8762448",
     "precedingTitle": "Nordic Skandi Plush Gonk Door Stop - Black & Red",
     "precedingAuctionCode": "0019900337"
