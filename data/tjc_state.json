@@ -438282,11 +438282,29 @@
       "productUrlChecked": 1791551482966,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8696948": {
+      "sku": "8696948",
+      "firstAir": 1791552384514,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791552384514,
+      "title": "Genuine Leather Passport Holder Travel Cover (14 x 10cm) - Navy",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019901710",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-09",
+      "time": "14:26:24",
+      "productUrl": null,
+      "lastUpdated": 1791552384514,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791552328901,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -490591,11 +490609,22 @@
         "followingSku": "8809223",
         "followingTitle": "Laurelle SOLACE Cherry Blossom Hair and Body Mist Inner Harmony - 100ml",
         "followingAuctionCode": "0019902553"
+      },
+      {
+        "start": 1791552328901,
+        "end": 1791552384514,
+        "durationMin": 0.9,
+        "precedingSku": "8507640",
+        "precedingTitle": "Chandelier Rouge Eau de Parfum - 100ml",
+        "precedingAuctionCode": "0019902002",
+        "followingSku": "8696948",
+        "followingTitle": "Genuine Leather Passport Holder Travel Cover (14 x 10cm) - Navy",
+        "followingAuctionCode": "0019901710"
       }
     ],
-    "lastOnAirSku": "8507640",
-    "lastOnAirTitle": "Chandelier Rouge Eau de Parfum - 100ml",
-    "lastOnAirAuctionCode": "0019902002",
+    "lastOnAirSku": "8696948",
+    "lastOnAirTitle": "Genuine Leather Passport Holder Travel Cover (14 x 10cm) - Navy",
+    "lastOnAirAuctionCode": "0019901710",
     "precedingSku": "8507640",
     "precedingTitle": "Chandelier Rouge Eau de Parfum - 100ml",
     "precedingAuctionCode": "0019902002"
