@@ -431691,21 +431691,26 @@
       "sku": "4507693",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-07",
-      "time": "09:29:19",
+      "date": "2026-10-09",
+      "time": "09:19:18",
       "preExisting": true,
       "missedAt": 1791361759224,
       "missedDelay": null,
-      "lastUpdated": 1791361759224,
+      "lastUpdated": 1791533958964,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red",
-      "auctionCode": "0019898556",
+      "title": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
+      "auctionCode": "0019900660",
       "source": "gha",
       "productUrl": "/products/livmore-2-piece-bamboo-towel-sherpa-fleece-checked-socks-christmas-gift-set-red-black-4507693",
       "productUrlChecked": 1791361766374,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791533958964,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8585723": {
       "sku": "8585723",
@@ -437230,8 +437235,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791533901527,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -489371,11 +489376,22 @@
         "followingSku": "8579327",
         "followingTitle": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
         "followingAuctionCode": "0019900882"
+      },
+      {
+        "start": 1791533901527,
+        "end": 1791533958964,
+        "durationMin": 1.0,
+        "precedingSku": "8579327",
+        "precedingTitle": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
+        "precedingAuctionCode": "0019900882",
+        "followingSku": "4507693",
+        "followingTitle": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
+        "followingAuctionCode": "0019900660"
       }
     ],
-    "lastOnAirSku": "8579327",
-    "lastOnAirTitle": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
-    "lastOnAirAuctionCode": "0019900882",
+    "lastOnAirSku": "4507693",
+    "lastOnAirTitle": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
+    "lastOnAirAuctionCode": "0019900660",
     "precedingSku": "8579327",
     "precedingTitle": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
     "precedingAuctionCode": "0019900882"
