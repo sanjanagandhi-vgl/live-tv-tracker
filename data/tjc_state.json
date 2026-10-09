@@ -57491,17 +57491,17 @@
       "firstAir": 1785663746508,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789085904630,
+      "lastAir": 1791506596951,
       "title": "EverTrue - Natural White Diamond Tree of Life Earring with Lever Back",
       "pdpPrice": "9.99",
-      "auctionCode": "0019864569",
+      "auctionCode": "0019901462",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "01:18:24",
+      "date": "2026-10-09",
+      "time": "01:43:16",
       "productUrl": "/products/evertrue-natural-white-diamond-living-creature-earring-with-lever-back-in-yellow-gold-tone-8688949",
-      "lastUpdated": 1789085904630,
+      "lastUpdated": 1791506596951,
       "source": "gha",
       "missedAt": 1785664341339,
       "missedDelay": 9,
@@ -436811,8 +436811,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791506541191,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488479,11 +488479,22 @@
         "followingSku": "4528713",
         "followingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
         "followingAuctionCode": "0019901449"
+      },
+      {
+        "start": 1791506541191,
+        "end": 1791506596951,
+        "durationMin": 0.9,
+        "precedingSku": "4528713",
+        "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+        "precedingAuctionCode": "0019901449",
+        "followingSku": "8688949",
+        "followingTitle": "EverTrue - Natural White Diamond Tree of Life Earring with Lever Back",
+        "followingAuctionCode": "0019901462"
       }
     ],
-    "lastOnAirSku": "4528713",
-    "lastOnAirTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019901449",
+    "lastOnAirSku": "8688949",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Tree of Life Earring with Lever Back",
+    "lastOnAirAuctionCode": "0019901462",
     "precedingSku": "4528713",
     "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019901449"
