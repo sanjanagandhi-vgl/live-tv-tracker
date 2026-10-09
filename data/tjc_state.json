@@ -437590,11 +437590,29 @@
       "productUrl": null,
       "lastUpdated": 1791540981705,
       "source": "gha"
+    },
+    "8777119": {
+      "sku": "8777119",
+      "firstAir": 1791541400927,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791541400927,
+      "title": "EverTrue - Natural White Diamond Solitaire Drop Earring with Lever Back in Yellow Gold Tone",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019901577",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-09",
+      "time": "11:23:20",
+      "productUrl": null,
+      "lastUpdated": 1791541400927,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791541342191,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -489789,11 +489807,22 @@
         "followingSku": "4532249",
         "followingTitle": "EverTrue - Natural White Diamond Butterfly Pendant with Chain (Size 20) in Yellow Gold Tone",
         "followingAuctionCode": "0019901579"
+      },
+      {
+        "start": 1791541342191,
+        "end": 1791541400927,
+        "durationMin": 1.0,
+        "precedingSku": "8565267",
+        "precedingTitle": "EverTrue - Natural White Diamond Band Ring",
+        "precedingAuctionCode": "0019901621",
+        "followingSku": "8777119",
+        "followingTitle": "EverTrue - Natural White Diamond Solitaire Drop Earring with Lever Back in Yellow Gold Tone",
+        "followingAuctionCode": "0019901577"
       }
     ],
-    "lastOnAirSku": "8565267",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Band Ring",
-    "lastOnAirAuctionCode": "0019901621",
+    "lastOnAirSku": "8777119",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Solitaire Drop Earring with Lever Back in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019901577",
     "precedingSku": "8565267",
     "precedingTitle": "EverTrue - Natural White Diamond Band Ring",
     "precedingAuctionCode": "0019901621"
