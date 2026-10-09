@@ -285363,18 +285363,18 @@
       "firstAir": 1788298250853,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790446941712,
+      "lastAir": 1791507077235,
       "title": "D'Joy - Peridot & White Zircon Bypass Ring in Yellow Gold Plated Sterling Silver 1.27 Ct.",
-      "pdpPrice": 49.99,
-      "auctionCode": "0019886161",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019901092",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-26",
-      "time": "19:22:21",
+      "date": "2026-10-09",
+      "time": "01:51:17",
       "productUrl": "/products/djoy-peridot-white-zircon-fancy-ring-sterling-silver-1-271-ct-8724540",
-      "lastUpdated": 1790446941712,
-      "source": "gha-variant",
+      "lastUpdated": 1791507077235,
+      "source": "gha",
       "missedAt": 1788299483520,
       "missedDelay": 9,
       "missedPrice": 49.99,
@@ -436811,8 +436811,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791506959735,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488501,11 +488501,22 @@
         "followingSku": "8646031",
         "followingTitle": "Diamond Cut Band Ring in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019901481"
+      },
+      {
+        "start": 1791506959735,
+        "end": 1791507077235,
+        "durationMin": 2.0,
+        "precedingSku": "8646031",
+        "precedingTitle": "Diamond Cut Band Ring in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019901481",
+        "followingSku": "8724540",
+        "followingTitle": "D'Joy - Peridot & White Zircon Bypass Ring in Yellow Gold Plated Sterling Silver 1.27 Ct.",
+        "followingAuctionCode": "0019901092"
       }
     ],
-    "lastOnAirSku": "8646031",
-    "lastOnAirTitle": "Diamond Cut Band Ring in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019901481",
+    "lastOnAirSku": "8724540",
+    "lastOnAirTitle": "D'Joy - Peridot & White Zircon Bypass Ring in Yellow Gold Plated Sterling Silver 1.27 Ct.",
+    "lastOnAirAuctionCode": "0019901092",
     "precedingSku": "8646031",
     "precedingTitle": "Diamond Cut Band Ring in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019901481"
