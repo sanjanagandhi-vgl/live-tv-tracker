@@ -14469,16 +14469,16 @@
       "firstAir": 1785050837443,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791463236317,
+      "lastAir": 1791589397195,
       "title": "9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
       "pdpPrice": "299.99",
-      "auctionCode": "0019899470",
+      "auctionCode": "0019902234",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-08",
-      "time": "13:40:36",
-      "lastUpdated": 1791463236317,
+      "date": "2026-10-10",
+      "time": "00:43:17",
+      "lastUpdated": 1791589397195,
       "source": "gha",
       "missedAt": 1785051044214,
       "missedDelay": 1,
@@ -439221,8 +439221,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791589340397,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491846,11 +491846,22 @@
         "followingSku": "8810677",
         "followingTitle": "Mega Close Out Deal- 9K Yellow Gold Spiga Necklace (Size - 16)",
         "followingAuctionCode": "0019902344"
+      },
+      {
+        "start": 1791589340397,
+        "end": 1791589397195,
+        "durationMin": 0.9,
+        "precedingSku": "8572379",
+        "precedingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
+        "precedingAuctionCode": "0019902232",
+        "followingSku": "8626563",
+        "followingTitle": "9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019902234"
       }
     ],
-    "lastOnAirSku": "8572379",
-    "lastOnAirTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
-    "lastOnAirAuctionCode": "0019902232",
+    "lastOnAirSku": "8626563",
+    "lastOnAirTitle": "9K Yellow Gold Bismark Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019902234",
     "precedingSku": "8572379",
     "precedingTitle": "Designer Inspired - 9K Yellow Gold Heart Pendant",
     "precedingAuctionCode": "0019902232"
