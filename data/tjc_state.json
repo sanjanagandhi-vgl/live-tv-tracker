@@ -14312,16 +14312,16 @@
       "firstAir": 1785048985980,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790335039775,
-      "title": "Close Out - Pearl Necklace (Size - 18-2 Ext)",
+      "lastAir": 1791549935119,
+      "title": "Close Out - Pearl Necklace (Size - 18+2 Ext)",
       "pdpPrice": "9.99",
-      "auctionCode": "0019883485",
+      "auctionCode": "0019901874",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-25",
-      "time": "12:17:19",
-      "lastUpdated": 1790335039775,
+      "date": "2026-10-09",
+      "time": "13:45:35",
+      "lastUpdated": 1791549935119,
       "source": "gha",
       "missedAt": 1785049398876,
       "missedDelay": 1,
@@ -438240,8 +438240,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791549862046,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -490524,11 +490524,22 @@
         "followingSku": "8585223",
         "followingTitle": "Malachite Tree of Life Adjustable Necklace (Size - 20+2 Ext) 27.00 Ct.",
         "followingAuctionCode": "0019901866"
+      },
+      {
+        "start": 1791549862046,
+        "end": 1791549935119,
+        "durationMin": 1.2,
+        "precedingSku": "8664248",
+        "precedingTitle": "Black Agate Adjustable Tree of Life Drop Necklace (Size - 18+2 Ext) 45.00 Ct.",
+        "precedingAuctionCode": "0019901867",
+        "followingSku": "8671523",
+        "followingTitle": "Close Out - Pearl Necklace (Size - 18+2 Ext)",
+        "followingAuctionCode": "0019901874"
       }
     ],
-    "lastOnAirSku": "8664248",
-    "lastOnAirTitle": "Black Agate Adjustable Tree of Life Drop Necklace (Size - 18+2 Ext) 45.00 Ct.",
-    "lastOnAirAuctionCode": "0019901867",
+    "lastOnAirSku": "8671523",
+    "lastOnAirTitle": "Close Out - Pearl Necklace (Size - 18+2 Ext)",
+    "lastOnAirAuctionCode": "0019901874",
     "precedingSku": "8664248",
     "precedingTitle": "Black Agate Adjustable Tree of Life Drop Necklace (Size - 18+2 Ext) 45.00 Ct.",
     "precedingAuctionCode": "0019901867"
