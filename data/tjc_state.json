@@ -305769,17 +305769,17 @@
       "firstAir": 1788607341445,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789596863949,
+      "lastAir": 1791585197460,
       "title": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
-      "pdpPrice": 179.99,
-      "auctionCode": "0019873614",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019902685",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-09-16",
-      "time": "23:14:23",
+      "date": "2026-10-09",
+      "time": "23:33:17",
       "productUrl": "/products/9k-yellow-gold-bracelet-size-7-5-8691113?variant=53583072592138",
-      "lastUpdated": 1789596863949,
+      "lastUpdated": 1791585197460,
       "source": "gha",
       "missedAt": 1788608061152,
       "missedDelay": 9,
@@ -439186,8 +439186,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791585141438,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491789,11 +491789,22 @@
         "followingSku": "8640990",
         "followingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
         "followingAuctionCode": "0019902243"
+      },
+      {
+        "start": 1791585141438,
+        "end": 1791585197460,
+        "durationMin": 0.9,
+        "precedingSku": "8734692",
+        "precedingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
+        "precedingAuctionCode": "0019902684",
+        "followingSku": "8691113",
+        "followingTitle": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019902685"
       }
     ],
-    "lastOnAirSku": "8734692",
-    "lastOnAirTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
-    "lastOnAirAuctionCode": "0019902684",
+    "lastOnAirSku": "8691113",
+    "lastOnAirTitle": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019902685",
     "precedingSku": "8734692",
     "precedingTitle": "Live From Vicenza - 9K Yellow Gold Earring with Clasp",
     "precedingAuctionCode": "0019902684"
