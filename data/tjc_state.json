@@ -333608,17 +333608,17 @@
       "firstAir": 1789105638904,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789105759761,
-      "title": "Maison Frill Sleeve Vest - Black",
+      "lastAir": 1791528798253,
+      "title": "Maison Frill Sleeve Vest (Size L, 16-18) - White",
       "pdpPrice": "9.99",
-      "auctionCode": "0019864855",
+      "auctionCode": "0019900784",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "06:49:19",
+      "date": "2026-10-09",
+      "time": "07:53:18",
       "productUrl": "/products/maison-frill-sleeve-vest-black",
-      "lastUpdated": 1789106359570,
+      "lastUpdated": 1791528798253,
       "source": "gha",
       "missedAt": 1789106359570,
       "missedDelay": 10,
@@ -437031,8 +437031,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791528740992,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -489095,11 +489095,22 @@
         "followingSku": "8238629",
         "followingTitle": "Emreco Vest Tops (Size 10) - Navy",
         "followingAuctionCode": "0019900757"
+      },
+      {
+        "start": 1791528740992,
+        "end": 1791528798253,
+        "durationMin": 1.0,
+        "precedingSku": "8237757",
+        "precedingTitle": "La Marey Textured Top (Size XL, 20-22) - Light Beige",
+        "precedingAuctionCode": "0019900776",
+        "followingSku": "7773029",
+        "followingTitle": "Maison Frill Sleeve Vest (Size L, 16-18) - White",
+        "followingAuctionCode": "0019900784"
       }
     ],
-    "lastOnAirSku": "8237757",
-    "lastOnAirTitle": "La Marey Textured Top (Size XL, 20-22) - Light Beige",
-    "lastOnAirAuctionCode": "0019900776",
+    "lastOnAirSku": "7773029",
+    "lastOnAirTitle": "Maison Frill Sleeve Vest (Size L, 16-18) - White",
+    "lastOnAirAuctionCode": "0019900784",
     "precedingSku": "8237757",
     "precedingTitle": "La Marey Textured Top (Size XL, 20-22) - Light Beige",
     "precedingAuctionCode": "0019900776"
