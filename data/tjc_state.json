@@ -407637,17 +407637,17 @@
       "firstAir": 1790773583238,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791221783525,
+      "lastAir": 1791523637285,
       "title": "CHRISTMAS SPECIAL - Set of 6- Cute Christmas Earrings",
       "pdpPrice": "9.99",
-      "auctionCode": "0019895561",
+      "auctionCode": "0019900433",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-05",
-      "time": "18:36:23",
+      "date": "2026-10-09",
+      "time": "06:27:17",
       "productUrl": null,
-      "lastUpdated": 1791221783525,
+      "lastUpdated": 1791523637285,
       "source": "gha",
       "missedAt": 1790774542254,
       "missedDelay": 9,
@@ -436964,8 +436964,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791523581630,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488918,11 +488918,22 @@
         "followingSku": "8801606",
         "followingTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
         "followingAuctionCode": "0019900434"
+      },
+      {
+        "start": 1791523581630,
+        "end": 1791523637285,
+        "durationMin": 0.9,
+        "precedingSku": "8801606",
+        "precedingTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
+        "precedingAuctionCode": "0019900434",
+        "followingSku": "8801612",
+        "followingTitle": "CHRISTMAS SPECIAL - Set of 6- Cute Christmas Earrings",
+        "followingAuctionCode": "0019900433"
       }
     ],
-    "lastOnAirSku": "8801606",
-    "lastOnAirTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
-    "lastOnAirAuctionCode": "0019900434",
+    "lastOnAirSku": "8801612",
+    "lastOnAirTitle": "CHRISTMAS SPECIAL - Set of 6- Cute Christmas Earrings",
+    "lastOnAirAuctionCode": "0019900433",
     "precedingSku": "8801606",
     "precedingTitle": "Santa Figurine Tabletop Christmas Candle (12.5cm) - 33hr Burn Time",
     "precedingAuctionCode": "0019900434"
