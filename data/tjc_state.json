@@ -414601,17 +414601,17 @@
       "firstAir": 1790931141388,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790931260373,
+      "lastAir": 1791529339694,
       "title": "La Marey Signature Striped Long Scarf (180 x 65cm) - Light Grey, Beige & Black",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019891039",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019900678",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-02",
-      "time": "09:54:20",
+      "date": "2026-10-09",
+      "time": "08:02:19",
       "productUrl": "/products/la-marey-signature-printed-scarf-size-one-size-light-grey-8686852",
-      "lastUpdated": 1790931897534,
+      "lastUpdated": 1791529339694,
       "source": "gha",
       "missedAt": 1790931897534,
       "missedDelay": 11,
@@ -437165,8 +437165,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791529261393,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -489240,11 +489240,22 @@
         "followingSku": "7773029",
         "followingTitle": "Maison Frill Sleeve Vest (Size L, 16-18) - White",
         "followingAuctionCode": "0019900784"
+      },
+      {
+        "start": 1791529261393,
+        "end": 1791529339694,
+        "durationMin": 1.3,
+        "precedingSku": "8315442",
+        "precedingTitle": "Womens 300 Denier Thermal Fleece-Lined Tights (Size 20 to 24L) - Wine",
+        "precedingAuctionCode": "0019900830",
+        "followingSku": "8686852",
+        "followingTitle": "La Marey Signature Striped Long Scarf (180 x 65cm) - Light Grey, Beige & Black",
+        "followingAuctionCode": "0019900678"
       }
     ],
-    "lastOnAirSku": "8315442",
-    "lastOnAirTitle": "Womens 300 Denier Thermal Fleece-Lined Tights (Size 20 to 24L) - Wine",
-    "lastOnAirAuctionCode": "0019900830",
+    "lastOnAirSku": "8686852",
+    "lastOnAirTitle": "La Marey Signature Striped Long Scarf (180 x 65cm) - Light Grey, Beige & Black",
+    "lastOnAirAuctionCode": "0019900678",
     "precedingSku": "8315442",
     "precedingTitle": "Womens 300 Denier Thermal Fleece-Lined Tights (Size 20 to 24L) - Wine",
     "precedingAuctionCode": "0019900830"
