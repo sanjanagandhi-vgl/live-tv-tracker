@@ -435594,23 +435594,23 @@
       "sku": "8691184",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-08",
-      "time": "23:06:22",
+      "date": "2026-10-09",
+      "time": "03:08:21",
       "preExisting": true,
       "missedAt": 1791475998478,
       "missedDelay": null,
-      "lastUpdated": 1791497182337,
+      "lastUpdated": 1791511701462,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
-      "auctionCode": "0019901827",
+      "auctionCode": "0019901899",
       "source": "gha",
       "productUrl": "/products/la-marey-signature-longline-faux-fur-winter-coat-size-s-m-8-14-beige-8691178?variant=53868053233930",
       "productUrlChecked": 1791476001717,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791497182337,
-      "pdpPrice": 59.99,
+      "lastAir": 1791511701462,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true
@@ -436820,8 +436820,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791511525157,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488587,11 +488587,22 @@
         "followingSku": "8487252",
         "followingTitle": "La Marey Rich Longline Cardigan with Belt (Size - 10-12) - Chocolate",
         "followingAuctionCode": "0019900195"
+      },
+      {
+        "start": 1791511525157,
+        "end": 1791511701462,
+        "durationMin": 2.9,
+        "precedingSku": "8487252",
+        "precedingTitle": "La Marey Rich Longline Cardigan with Belt (Size - 10-12) - Chocolate",
+        "precedingAuctionCode": "0019900195",
+        "followingSku": "8691184",
+        "followingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+        "followingAuctionCode": "0019901899"
       }
     ],
-    "lastOnAirSku": "8487252",
-    "lastOnAirTitle": "La Marey Rich Longline Cardigan with Belt (Size - 10-12) - Chocolate",
-    "lastOnAirAuctionCode": "0019900195",
+    "lastOnAirSku": "8691184",
+    "lastOnAirTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+    "lastOnAirAuctionCode": "0019901899",
     "precedingSku": "8487252",
     "precedingTitle": "La Marey Rich Longline Cardigan with Belt (Size - 10-12) - Chocolate",
     "precedingAuctionCode": "0019900195"
