@@ -414143,21 +414143,26 @@
       "sku": "8713465",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "05:09:18",
+      "date": "2026-10-09",
+      "time": "17:55:27",
       "preExisting": true,
       "missedAt": 1790914158093,
       "missedDelay": null,
-      "lastUpdated": 1790914158093,
+      "lastUpdated": 1791564927473,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Green Onyx Dangling Earrings with Push Back in Gold Tone 22.50 Ct.",
-      "auctionCode": "0019892337",
+      "title": "Amethyst Dangling Earrings with Push Back in Gold Tone 20.00 Ct.",
+      "auctionCode": "0019901783",
       "source": "gha",
       "productUrl": "/products/amethyst-drop-earrings-8713464",
       "productUrlChecked": 1790914161373,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791564927473,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8713464": {
       "sku": "8713464",
@@ -438768,8 +438773,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791564862376,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491206,11 +491211,22 @@
         "followingSku": "8673794",
         "followingTitle": "Italian Made- Singapore Necklace (Size - 18) with Spring Ring Clasp in Sterling Silver",
         "followingAuctionCode": "0019901476"
+      },
+      {
+        "start": 1791564862376,
+        "end": 1791564927473,
+        "durationMin": 1.1,
+        "precedingSku": "8714418",
+        "precedingTitle": "Purple Amethyst Bangle (Size - 7)",
+        "precedingAuctionCode": "0019902011",
+        "followingSku": "8713465",
+        "followingTitle": "Amethyst Dangling Earrings with Push Back in Gold Tone 20.00 Ct.",
+        "followingAuctionCode": "0019901783"
       }
     ],
-    "lastOnAirSku": "8714418",
-    "lastOnAirTitle": "Purple Amethyst Bangle (Size - 7)",
-    "lastOnAirAuctionCode": "0019902011",
+    "lastOnAirSku": "8713465",
+    "lastOnAirTitle": "Amethyst Dangling Earrings with Push Back in Gold Tone 20.00 Ct.",
+    "lastOnAirAuctionCode": "0019901783",
     "precedingSku": "8714418",
     "precedingTitle": "Purple Amethyst Bangle (Size - 7)",
     "precedingAuctionCode": "0019902011"
