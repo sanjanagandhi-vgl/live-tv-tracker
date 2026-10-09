@@ -436832,11 +436832,32 @@
       "missedDelay": 10,
       "missedPrice": 59.99,
       "missedImg": true
+    },
+    "4394748": {
+      "sku": "4394748",
+      "firstAir": 1791515782835,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791515782835,
+      "title": "Phoenix Carving Red Jade Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 140.00 Ct.",
+      "pdpPrice": 9.99,
+      "auctionCode": "0019900489",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-09",
+      "time": "04:16:22",
+      "productUrl": "/products/red-jade-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-140-00-ct?variant=53173761114378",
+      "lastUpdated": 1791515782835,
+      "source": "gha",
+      "productUrlChecked": 1791515785503,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791515733652,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -488679,11 +488700,22 @@
         "followingSku": "8791878",
         "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
         "followingAuctionCode": "0019901929"
+      },
+      {
+        "start": 1791515733652,
+        "end": 1791515782835,
+        "durationMin": 0.8,
+        "precedingSku": "8791878",
+        "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "precedingAuctionCode": "0019901929",
+        "followingSku": "4394748",
+        "followingTitle": "Phoenix Carving Red Jade Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 140.00 Ct.",
+        "followingAuctionCode": "0019900489"
       }
     ],
-    "lastOnAirSku": "8791878",
-    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
-    "lastOnAirAuctionCode": "0019901929",
+    "lastOnAirSku": "4394748",
+    "lastOnAirTitle": "Phoenix Carving Red Jade Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 140.00 Ct.",
+    "lastOnAirAuctionCode": "0019900489",
     "precedingSku": "8791878",
     "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
     "precedingAuctionCode": "0019901929"
