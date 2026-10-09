@@ -361535,17 +361535,17 @@
       "firstAir": 1789726703181,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789727062468,
+      "lastAir": 1791581239065,
       "title": "Rose Quartz Bear Design Home Decor 40.00 Ct.",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019875553",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019902100",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-09-18",
-      "time": "11:24:22",
+      "date": "2026-10-09",
+      "time": "22:27:19",
       "productUrl": "/products/rose-quartz-bear-design-home-decore-40-00-ct-8682261",
-      "lastUpdated": 1789727664802,
+      "lastUpdated": 1791581239065,
       "source": "gha",
       "missedAt": 1789727664802,
       "missedDelay": 10,
@@ -439181,8 +439181,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791581180060,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491762,11 +491762,22 @@
         "followingSku": "8721098",
         "followingTitle": "EverTrue - Rose Quartz Beads Necklace (Size - 18-2 Ext) in Yellow Gold Tone 135.00 Ct.",
         "followingAuctionCode": "0019902192"
+      },
+      {
+        "start": 1791581180060,
+        "end": 1791581239065,
+        "durationMin": 1.0,
+        "precedingSku": "8721098",
+        "precedingTitle": "EverTrue - Rose Quartz Beads Necklace (Size - 18-2 Ext) in Yellow Gold Tone 135.00 Ct.",
+        "precedingAuctionCode": "0019902192",
+        "followingSku": "8682261",
+        "followingTitle": "Rose Quartz Bear Design Home Decor 40.00 Ct.",
+        "followingAuctionCode": "0019902100"
       }
     ],
-    "lastOnAirSku": "8721098",
-    "lastOnAirTitle": "EverTrue - Rose Quartz Beads Necklace (Size - 18-2 Ext) in Yellow Gold Tone 135.00 Ct.",
-    "lastOnAirAuctionCode": "0019902192",
+    "lastOnAirSku": "8682261",
+    "lastOnAirTitle": "Rose Quartz Bear Design Home Decor 40.00 Ct.",
+    "lastOnAirAuctionCode": "0019902100",
     "precedingSku": "8721098",
     "precedingTitle": "EverTrue - Rose Quartz Beads Necklace (Size - 18-2 Ext) in Yellow Gold Tone 135.00 Ct.",
     "precedingAuctionCode": "0019902192"
