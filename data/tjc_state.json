@@ -437032,9 +437032,16 @@
       "img": true,
       "date": "2026-10-09",
       "time": "07:51:17",
-      "productUrl": null,
-      "lastUpdated": 1791528677938,
-      "source": "gha"
+      "productUrl": "/products/la-marey-knitted-top-size-large-navy-8237744",
+      "lastUpdated": 1791529261393,
+      "source": "gha",
+      "missedAt": 1791529261393,
+      "missedDelay": 10,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1791529270092,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8237747": {
       "sku": "8237747",
@@ -437095,11 +437102,71 @@
       "productUrlChecked": 1791529162658,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8237758": {
+      "sku": "8237758",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-09",
+      "time": "08:01:01",
+      "preExisting": true,
+      "missedAt": 1791529261393,
+      "missedDelay": null,
+      "lastUpdated": 1791529261393,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Textured Top (Size XL, 20-22) - Light Beige",
+      "auctionCode": "0019900782",
+      "source": "gha",
+      "productUrl": "/products/la-marey-knitted-top-size-large-navy-8237744",
+      "productUrlChecked": 1791529271818,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8237756": {
+      "sku": "8237756",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-09",
+      "time": "08:01:01",
+      "preExisting": true,
+      "missedAt": 1791529261393,
+      "missedDelay": null,
+      "lastUpdated": 1791529261393,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Textured Top (Size M, 12-14) - Light Beige",
+      "auctionCode": "0019900781",
+      "source": "gha",
+      "productUrl": "/products/la-marey-knitted-top-size-large-navy-8237744",
+      "productUrlChecked": 1791529272343,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8237755": {
+      "sku": "8237755",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-09",
+      "time": "08:01:01",
+      "preExisting": true,
+      "missedAt": 1791529261393,
+      "missedDelay": null,
+      "lastUpdated": 1791529261393,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Textured Top (Size L, 16-18) - Light Beige",
+      "auctionCode": "0019900780",
+      "source": "gha",
+      "productUrl": "/products/la-marey-knitted-top-size-large-navy-8237744",
+      "productUrlChecked": 1791529273642,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791529261393,
     "gaps": [
       {
         "start": 1785823527869,
@@ -489178,8 +489245,8 @@
     "lastOnAirSku": "8315442",
     "lastOnAirTitle": "Womens 300 Denier Thermal Fleece-Lined Tights (Size 20 to 24L) - Wine",
     "lastOnAirAuctionCode": "0019900830",
-    "precedingSku": "8237757",
-    "precedingTitle": "La Marey Textured Top (Size XL, 20-22) - Light Beige",
-    "precedingAuctionCode": "0019900776"
+    "precedingSku": "8315442",
+    "precedingTitle": "Womens 300 Denier Thermal Fleece-Lined Tights (Size 20 to 24L) - Wine",
+    "precedingAuctionCode": "0019900830"
   }
 }
