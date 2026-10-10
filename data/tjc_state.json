@@ -82513,21 +82513,26 @@
       "sku": "8512165",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-06",
-      "time": "00:44:25",
+      "date": "2026-10-10",
+      "time": "04:50:32",
       "preExisting": true,
       "missedAt": 1785973465865,
       "missedDelay": null,
-      "lastUpdated": 1785973465865,
+      "lastUpdated": 1791604232118,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "Royal Bali Collection - D'Joy Sterling Silver Necklace (Size - 22) with Lobster Clasp",
-      "auctionCode": "0019807674",
+      "auctionCode": "0019901290",
       "source": "gha",
       "productUrl": "/products/royal-bali-collection-djoy-sterling-silver-tulangnaga-necklace-size-30-with-lobster-clasp",
       "productUrlChecked": 1785973470203,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791604232118,
+      "pdpPrice": "159.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8512137": {
       "sku": "8512137",
@@ -439617,8 +439622,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791604159464,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -492462,11 +492467,22 @@
         "followingSku": "8600644",
         "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Necklace (Size - 20) with Clasp, Silver Wt. 72.70 Gms",
         "followingAuctionCode": "0019901271"
+      },
+      {
+        "start": 1791604159464,
+        "end": 1791604232118,
+        "durationMin": 1.2,
+        "precedingSku": "8600644",
+        "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Necklace (Size - 20) with Clasp, Silver Wt. 72.70 Gms",
+        "precedingAuctionCode": "0019901271",
+        "followingSku": "8512165",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Necklace (Size - 22) with Lobster Clasp",
+        "followingAuctionCode": "0019901290"
       }
     ],
-    "lastOnAirSku": "8600644",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Necklace (Size - 20) with Clasp, Silver Wt. 72.70 Gms",
-    "lastOnAirAuctionCode": "0019901271",
+    "lastOnAirSku": "8512165",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Necklace (Size - 22) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019901290",
     "precedingSku": "8600644",
     "precedingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Necklace (Size - 20) with Clasp, Silver Wt. 72.70 Gms",
     "precedingAuctionCode": "0019901271"
