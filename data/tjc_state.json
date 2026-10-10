@@ -11118,19 +11118,19 @@
       "sku": "8675534",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-07",
-      "time": "04:39:17",
+      "date": "2026-10-10",
+      "time": "18:40:30",
       "preExisting": true,
       "missedAt": 1785001585296,
       "missedDelay": null,
-      "lastUpdated": 1791344357128,
+      "lastUpdated": 1791654030705,
       "missedPrice": 29.99,
       "missedImg": false,
-      "title": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75-9) in Yellow Gold Plated Sterling Silver",
-      "auctionCode": "0019898465",
+      "title": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019903870",
       "source": "gha",
-      "lastAir": 1791344357128,
-      "pdpPrice": "89.99",
+      "lastAir": 1791654030705,
+      "pdpPrice": "79.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -440862,8 +440862,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791653956856,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -494202,11 +494202,22 @@
         "followingSku": "8221521",
         "followingTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
         "followingAuctionCode": "0019903809"
+      },
+      {
+        "start": 1791653956856,
+        "end": 1791654030705,
+        "durationMin": 1.2,
+        "precedingSku": "8221521",
+        "precedingTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
+        "precedingAuctionCode": "0019903809",
+        "followingSku": "8675534",
+        "followingTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019903870"
       }
     ],
-    "lastOnAirSku": "8221521",
-    "lastOnAirTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019903809",
+    "lastOnAirSku": "8675534",
+    "lastOnAirTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019903870",
     "precedingSku": "8221521",
     "precedingTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
     "precedingAuctionCode": "0019903809"
