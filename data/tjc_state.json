@@ -440549,11 +440549,29 @@
       "productUrlChecked": 1791649854142,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8782194": {
+      "sku": "8782194",
+      "firstAir": 1791650477755,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791650477755,
+      "title": "9K Yellow Gold Rubellite 5 Stone Ring 1.90 Ct.",
+      "pdpPrice": "1999.99",
+      "auctionCode": "0019904027",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-10",
+      "time": "17:41:17",
+      "productUrl": null,
+      "lastUpdated": 1791650477755,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791650432663,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -493859,11 +493877,22 @@
         "followingSku": "8661477",
         "followingTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
         "followingAuctionCode": "0019904022"
+      },
+      {
+        "start": 1791650432663,
+        "end": 1791650477755,
+        "durationMin": 0.8,
+        "precedingSku": "8661477",
+        "precedingTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
+        "precedingAuctionCode": "0019904022",
+        "followingSku": "8782194",
+        "followingTitle": "9K Yellow Gold Rubellite 5 Stone Ring 1.90 Ct.",
+        "followingAuctionCode": "0019904027"
       }
     ],
-    "lastOnAirSku": "8661477",
-    "lastOnAirTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019904022",
+    "lastOnAirSku": "8782194",
+    "lastOnAirTitle": "9K Yellow Gold Rubellite 5 Stone Ring 1.90 Ct.",
+    "lastOnAirAuctionCode": "0019904027",
     "precedingSku": "8661477",
     "precedingTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
     "precedingAuctionCode": "0019904022"
