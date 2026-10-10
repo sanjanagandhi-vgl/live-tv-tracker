@@ -1818,23 +1818,23 @@
       "sku": "8421313",
       "tvPrice": "",
       "remarks": "",
-      "time": "08:04:22",
+      "time": "03:33:17",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 49.99,
       "missedImg": false,
-      "title": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light fo...",
-      "auctionCode": "0019897195",
+      "title": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+      "auctionCode": "0019901016",
       "source": "gha",
-      "lastAir": 1791270262354,
-      "pdpPrice": 49.99,
+      "lastAir": 1791599597588,
+      "pdpPrice": "240.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-06",
+      "date": "2026-10-10",
       "productUrl": "/products/last-in-stock-chin-fit-elite-with-photon-facelifting-technology-infrared-red-blue-light-for-double-chin-jawline8421313?variant=53577155051786",
-      "lastUpdated": 1791270262354,
+      "lastUpdated": 1791599597588,
       "productUrlChecked": 1789435350170,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -439492,8 +439492,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791599449373,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -492293,11 +492293,22 @@
         "followingSku": "7840314",
         "followingTitle": "Opatra Peeling Gel - 60ml",
         "followingAuctionCode": "0019900997"
+      },
+      {
+        "start": 1791599449373,
+        "end": 1791599597588,
+        "durationMin": 2.5,
+        "precedingSku": "7840314",
+        "precedingTitle": "Opatra Peeling Gel - 60ml",
+        "precedingAuctionCode": "0019900997",
+        "followingSku": "8421313",
+        "followingTitle": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+        "followingAuctionCode": "0019901016"
       }
     ],
-    "lastOnAirSku": "7840314",
-    "lastOnAirTitle": "Opatra Peeling Gel - 60ml",
-    "lastOnAirAuctionCode": "0019900997",
+    "lastOnAirSku": "8421313",
+    "lastOnAirTitle": "Last in Stock: Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+    "lastOnAirAuctionCode": "0019901016",
     "precedingSku": "7840314",
     "precedingTitle": "Opatra Peeling Gel - 60ml",
     "precedingAuctionCode": "0019900997"
