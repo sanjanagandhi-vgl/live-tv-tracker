@@ -15643,16 +15643,16 @@
       "firstAir": 1785091700851,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791593059649,
+      "lastAir": 1791606197413,
       "title": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
-      "pdpPrice": "699.99",
-      "auctionCode": "0019903582",
+      "pdpPrice": "6999.99",
+      "auctionCode": "0019903591",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-10",
-      "time": "01:44:19",
-      "lastUpdated": 1791593059649,
+      "time": "05:23:17",
+      "lastUpdated": 1791606197413,
       "source": "gha",
       "missedAt": 1785092059876,
       "missedDelay": 2,
@@ -439627,8 +439627,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791606140080,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -492494,11 +492494,22 @@
         "followingSku": "8156060",
         "followingTitle": "9K Yellow Gold Butterfly Bangle (Size 7.5) Gold Wt. 3.93 Gms",
         "followingAuctionCode": "0019903603"
+      },
+      {
+        "start": 1791606140080,
+        "end": 1791606197413,
+        "durationMin": 1.0,
+        "precedingSku": "8156060",
+        "precedingTitle": "9K Yellow Gold Butterfly Bangle (Size 7.5) Gold Wt. 3.93 Gms",
+        "precedingAuctionCode": "0019903603",
+        "followingSku": "8640990",
+        "followingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+        "followingAuctionCode": "0019903591"
       }
     ],
-    "lastOnAirSku": "8156060",
-    "lastOnAirTitle": "9K Yellow Gold Butterfly Bangle (Size 7.5) Gold Wt. 3.93 Gms",
-    "lastOnAirAuctionCode": "0019903603",
+    "lastOnAirSku": "8640990",
+    "lastOnAirTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019903591",
     "precedingSku": "8156060",
     "precedingTitle": "9K Yellow Gold Butterfly Bangle (Size 7.5) Gold Wt. 3.93 Gms",
     "precedingAuctionCode": "0019903603"
