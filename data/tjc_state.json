@@ -439897,11 +439897,29 @@
       "auctionCode": "0019898505",
       "source": "gha",
       "productUrl": null
+    },
+    "8565101": {
+      "sku": "8565101",
+      "firstAir": 1791628158573,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791628158573,
+      "title": "LIVMORE Traditional Oriental Flower Double-Sided Embroidered Hanging Wall Ornament with Jade Pendant & Tassel (20cm) - Navy & White",
+      "pdpPrice": "279.99",
+      "auctionCode": "0019903677",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-10",
+      "time": "11:29:18",
+      "productUrl": null,
+      "lastUpdated": 1791628158573,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791628098847,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -493020,11 +493038,22 @@
         "followingSku": "8676581",
         "followingTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
         "followingAuctionCode": "0019903686"
+      },
+      {
+        "start": 1791628098847,
+        "end": 1791628158573,
+        "durationMin": 1.0,
+        "precedingSku": "8676581",
+        "precedingTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
+        "precedingAuctionCode": "0019903686",
+        "followingSku": "8565101",
+        "followingTitle": "LIVMORE Traditional Oriental Flower Double-Sided Embroidered Hanging Wall Ornament with Jade Pendant & Tassel (20cm) - Navy & White",
+        "followingAuctionCode": "0019903677"
       }
     ],
-    "lastOnAirSku": "8676581",
-    "lastOnAirTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
-    "lastOnAirAuctionCode": "0019903686",
+    "lastOnAirSku": "8565101",
+    "lastOnAirTitle": "LIVMORE Traditional Oriental Flower Double-Sided Embroidered Hanging Wall Ornament with Jade Pendant & Tassel (20cm) - Navy & White",
+    "lastOnAirAuctionCode": "0019903677",
     "precedingSku": "8676581",
     "precedingTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
     "precedingAuctionCode": "0019903686"
