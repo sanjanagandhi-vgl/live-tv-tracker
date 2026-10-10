@@ -403472,17 +403472,17 @@
       "firstAir": 1790669436565,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791515659132,
+      "lastAir": 1791625460537,
       "title": "Laurelle Fly Fairy EDP - 85ml",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019901929",
+      "pdpPrice": "80.99",
+      "auctionCode": "0019902026",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-09",
-      "time": "04:14:19",
+      "date": "2026-10-10",
+      "time": "10:44:20",
       "productUrl": "/products/laurelle-fly-fairy-85ml-edp-8791878?variant=53824574521610",
-      "lastUpdated": 1791515659132,
+      "lastUpdated": 1791625460537,
       "source": "gha",
       "missedAt": 1790673196907,
       "missedDelay": 10,
@@ -439895,8 +439895,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791625395602,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -492982,11 +492982,22 @@
         "followingSku": "8694933",
         "followingTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
         "followingAuctionCode": "0019903712"
+      },
+      {
+        "start": 1791625395602,
+        "end": 1791625460537,
+        "durationMin": 1.1,
+        "precedingSku": "8694933",
+        "precedingTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
+        "precedingAuctionCode": "0019903712",
+        "followingSku": "8791878",
+        "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "followingAuctionCode": "0019902026"
       }
     ],
-    "lastOnAirSku": "8694933",
-    "lastOnAirTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
-    "lastOnAirAuctionCode": "0019903712",
+    "lastOnAirSku": "8791878",
+    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
+    "lastOnAirAuctionCode": "0019902026",
     "precedingSku": "8694933",
     "precedingTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
     "precedingAuctionCode": "0019903712"
