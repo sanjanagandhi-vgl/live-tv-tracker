@@ -422551,17 +422551,17 @@
       "firstAir": 1791104240891,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791104664893,
+      "lastAir": 1791659126369,
       "title": "9K Yellow Gold Earring with Push Back",
-      "pdpPrice": "129.99",
-      "auctionCode": "0019893783",
+      "pdpPrice": "2069.99",
+      "auctionCode": "0019903451",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-04",
-      "time": "10:04:24",
+      "date": "2026-10-10",
+      "time": "20:05:26",
       "productUrl": "/products/9k-yellow-gold-earring-gold-wt-0-69-gms-8692322",
-      "lastUpdated": 1791105259361,
+      "lastUpdated": 1791659126369,
       "source": "gha",
       "missedAt": 1791105259361,
       "missedDelay": 10,
@@ -440883,8 +440883,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791659060902,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -494322,11 +494322,22 @@
         "followingSku": "8055952",
         "followingTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
         "followingAuctionCode": "0019903785"
+      },
+      {
+        "start": 1791659060902,
+        "end": 1791659126369,
+        "durationMin": 1.1,
+        "precedingSku": "8055952",
+        "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
+        "precedingAuctionCode": "0019903785",
+        "followingSku": "8692322",
+        "followingTitle": "9K Yellow Gold Earring with Push Back",
+        "followingAuctionCode": "0019903451"
       }
     ],
-    "lastOnAirSku": "8055952",
-    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019903785",
+    "lastOnAirSku": "8692322",
+    "lastOnAirTitle": "9K Yellow Gold Earring with Push Back",
+    "lastOnAirAuctionCode": "0019903451",
     "precedingSku": "8055952",
     "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
     "precedingAuctionCode": "0019903785"
