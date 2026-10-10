@@ -440024,11 +440024,29 @@
       "missedDelay": 10,
       "missedPrice": 15.99,
       "missedImg": false
+    },
+    "8627537": {
+      "sku": "8627537",
+      "firstAir": 1791633924323,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791633924323,
+      "title": "LIVMORE Rose Jacquard Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019903666",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-10",
+      "time": "13:05:24",
+      "productUrl": null,
+      "lastUpdated": 1791633924323,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791633860140,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -493180,11 +493198,22 @@
         "followingSku": "8574914",
         "followingTitle": null,
         "followingAuctionCode": "0019902078"
+      },
+      {
+        "start": 1791633860140,
+        "end": 1791633924323,
+        "durationMin": 1.1,
+        "precedingSku": "8631215",
+        "precedingTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
+        "precedingAuctionCode": "0019902058",
+        "followingSku": "8627537",
+        "followingTitle": "LIVMORE Rose Jacquard Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+        "followingAuctionCode": "0019903666"
       }
     ],
-    "lastOnAirSku": "8631215",
-    "lastOnAirTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
-    "lastOnAirAuctionCode": "0019902058",
+    "lastOnAirSku": "8627537",
+    "lastOnAirTitle": "LIVMORE Rose Jacquard Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+    "lastOnAirAuctionCode": "0019903666",
     "precedingSku": "8631215",
     "precedingTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
     "precedingAuctionCode": "0019902058"
