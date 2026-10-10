@@ -414379,21 +414379,26 @@
       "sku": "8520305",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "07:00:57",
+      "date": "2026-10-10",
+      "time": "22:05:27",
       "preExisting": true,
       "missedAt": 1790920857704,
       "missedDelay": null,
-      "lastUpdated": 1790920857704,
+      "lastUpdated": 1791666327005,
       "missedPrice": 9.99,
       "missedImg": false,
-      "title": "TJC Special Diffuser (Size - One Size) - Red",
-      "auctionCode": "0019892668",
+      "title": "Bauble Fragrance Reed Diffuser (100ml) - Green",
+      "auctionCode": "0019904233",
       "source": "gha",
       "productUrl": "/products/tjc-special-diffuser-size-one-size-green-8520304",
       "productUrlChecked": 1790920865165,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791666327005,
+      "pdpPrice": "50.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8779769": {
       "sku": "8779769",
@@ -441278,8 +441283,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791666260184,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -494761,11 +494766,22 @@
         "followingSku": "8579797",
         "followingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
         "followingAuctionCode": "0019904534"
+      },
+      {
+        "start": 1791666260184,
+        "end": 1791666327005,
+        "durationMin": 1.1,
+        "precedingSku": "8579797",
+        "precedingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
+        "precedingAuctionCode": "0019904534",
+        "followingSku": "8520305",
+        "followingTitle": "Bauble Fragrance Reed Diffuser (100ml) - Green",
+        "followingAuctionCode": "0019904233"
       }
     ],
-    "lastOnAirSku": "8579797",
-    "lastOnAirTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
-    "lastOnAirAuctionCode": "0019904534",
+    "lastOnAirSku": "8520305",
+    "lastOnAirTitle": "Bauble Fragrance Reed Diffuser (100ml) - Green",
+    "lastOnAirAuctionCode": "0019904233",
     "precedingSku": "8579797",
     "precedingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
     "precedingAuctionCode": "0019904534"
