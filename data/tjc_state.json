@@ -750,19 +750,22 @@
       "firstAir": 1784808960674,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784808960674,
+      "lastAir": 1791618795370,
       "title": "Genuine Leather Crescent Shoulder Bag with Curved Top Handle - White",
-      "pdpPrice": 97.99,
-      "auctionCode": "0019790120",
-      "buy": false,
+      "pdpPrice": "29.99",
+      "auctionCode": "0019902675",
+      "buy": true,
       "login": false,
       "img": true,
-      "time": "13:16:00",
+      "time": "08:53:15",
       "source": "gha",
       "missedAt": 1784826347469,
       "missedDelay": 290,
       "missedPrice": 59.99,
-      "missedImg": false
+      "missedImg": false,
+      "date": "2026-10-10",
+      "productUrl": null,
+      "lastUpdated": 1791618795370
     },
     "8238647": {
       "sku": "8238647",
@@ -439692,8 +439695,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791618740764,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -492724,11 +492727,22 @@
         "followingSku": "8692508",
         "followingTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
         "followingAuctionCode": "0019902640"
+      },
+      {
+        "start": 1791618740764,
+        "end": 1791618795370,
+        "durationMin": 0.9,
+        "precedingSku": "8692508",
+        "precedingTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
+        "precedingAuctionCode": "0019902640",
+        "followingSku": "8499876",
+        "followingTitle": "Genuine Leather Crescent Shoulder Bag with Curved Top Handle - White",
+        "followingAuctionCode": "0019902675"
       }
     ],
-    "lastOnAirSku": "8692508",
-    "lastOnAirTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
-    "lastOnAirAuctionCode": "0019902640",
+    "lastOnAirSku": "8499876",
+    "lastOnAirTitle": "Genuine Leather Crescent Shoulder Bag with Curved Top Handle - White",
+    "lastOnAirAuctionCode": "0019902675",
     "precedingSku": "8692508",
     "precedingTitle": "Genuine Leather Everyday Crossbody Bag with Top Handle - Brown",
     "precedingAuctionCode": "0019902640"
