@@ -11451,21 +11451,22 @@
       "firstAir": 1785009799349,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785010593828,
-      "title": "AAA Turkizite Square Gemstone 1.00 Ct.",
-      "pdpPrice": 97.99,
-      "auctionCode": "0019793458",
-      "buy": false,
+      "lastAir": 1791649524289,
+      "title": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
+      "pdpPrice": "2487.99",
+      "auctionCode": "0019904022",
+      "buy": true,
       "login": false,
-      "img": true,
-      "date": "2026-07-25",
-      "time": "21:16:33",
-      "lastUpdated": 1785010640576,
+      "img": false,
+      "date": "2026-10-10",
+      "time": "17:25:24",
+      "lastUpdated": 1791649524289,
       "source": "gha",
       "missedAt": 1785010640576,
       "missedDelay": 1,
       "missedPrice": 97.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8661704": {
       "sku": "8661704",
@@ -440484,8 +440485,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791649340085,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -493780,11 +493781,22 @@
         "followingSku": "8721339",
         "followingTitle": "AAA Turkizite Cushion Cut Gemstone (8x8 mm) 3.00 Ct.",
         "followingAuctionCode": "0019904167"
+      },
+      {
+        "start": 1791649340085,
+        "end": 1791649524289,
+        "durationMin": 3.1,
+        "precedingSku": "8721339",
+        "precedingTitle": "AAA Turkizite Cushion Cut Gemstone (8x8 mm) 3.00 Ct.",
+        "precedingAuctionCode": "0019904167",
+        "followingSku": "8661477",
+        "followingTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
+        "followingAuctionCode": "0019904022"
       }
     ],
-    "lastOnAirSku": "8721339",
-    "lastOnAirTitle": "AAA Turkizite Cushion Cut Gemstone (8x8 mm) 3.00 Ct.",
-    "lastOnAirAuctionCode": "0019904167",
+    "lastOnAirSku": "8661477",
+    "lastOnAirTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019904022",
     "precedingSku": "8721339",
     "precedingTitle": "AAA Turkizite Cushion Cut Gemstone (8x8 mm) 3.00 Ct.",
     "precedingAuctionCode": "0019904167"
