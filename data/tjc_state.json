@@ -388419,21 +388419,26 @@
       "sku": "8744867",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-24",
-      "time": "18:59:21",
+      "date": "2026-10-10",
+      "time": "02:22:21",
       "preExisting": true,
       "missedAt": 1790272761864,
       "missedDelay": null,
-      "lastUpdated": 1790272761864,
+      "lastUpdated": 1791595341250,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "D'Joy - Kwai Blue Sapphire Solitaire Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
-      "auctionCode": "0019881775",
+      "title": "D'Joy - Diffused Blue Sapphire Solitaire Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
+      "auctionCode": "0019902245",
       "source": "gha",
       "productUrl": "/products/djoy-diffused-blue-sapphire-solitaire-earring-with-push-back-in-platinum-overlay-sterling-silver-2-40-ct-8744835",
       "productUrlChecked": 1790272765072,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791595341250,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8753216": {
       "sku": "8753216",
@@ -439263,8 +439268,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791595232190,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491987,11 +491992,22 @@
         "followingSku": "7817788",
         "followingTitle": "Rainbow Sapphire & Natural Zircon Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.75 Ct",
         "followingAuctionCode": "0019901821"
+      },
+      {
+        "start": 1791595232190,
+        "end": 1791595341250,
+        "durationMin": 1.8,
+        "precedingSku": "7817788",
+        "precedingTitle": "Rainbow Sapphire & Natural Zircon Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.75 Ct",
+        "precedingAuctionCode": "0019901821",
+        "followingSku": "8744867",
+        "followingTitle": "D'Joy - Diffused Blue Sapphire Solitaire Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
+        "followingAuctionCode": "0019902245"
       }
     ],
-    "lastOnAirSku": "7817788",
-    "lastOnAirTitle": "Rainbow Sapphire & Natural Zircon Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.75 Ct",
-    "lastOnAirAuctionCode": "0019901821",
+    "lastOnAirSku": "8744867",
+    "lastOnAirTitle": "D'Joy - Diffused Blue Sapphire Solitaire Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
+    "lastOnAirAuctionCode": "0019902245",
     "precedingSku": "7817788",
     "precedingTitle": "Rainbow Sapphire & Natural Zircon Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.75 Ct",
     "precedingAuctionCode": "0019901821"
