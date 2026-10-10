@@ -439242,11 +439242,29 @@
       "productUrl": null,
       "lastUpdated": 1791594933271,
       "source": "gha"
+    },
+    "7817788": {
+      "sku": "7817788",
+      "firstAir": 1791595037081,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791595037081,
+      "title": "Rainbow Sapphire & Natural Zircon Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.75 Ct",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019901821",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-10",
+      "time": "02:17:17",
+      "productUrl": null,
+      "lastUpdated": 1791595037081,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791594980584,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -491958,11 +491976,22 @@
         "followingSku": "4417983",
         "followingTitle": "Rainbow Sapphire Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver 2.78 Ct.",
         "followingAuctionCode": "0019901799"
+      },
+      {
+        "start": 1791594980584,
+        "end": 1791595037081,
+        "durationMin": 0.9,
+        "precedingSku": "4419617",
+        "precedingTitle": "Rainbow Sapphire & White Zircon Butterfly Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 5.60 Ct.",
+        "precedingAuctionCode": "0019901800",
+        "followingSku": "7817788",
+        "followingTitle": "Rainbow Sapphire & Natural Zircon Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.75 Ct",
+        "followingAuctionCode": "0019901821"
       }
     ],
-    "lastOnAirSku": "4419617",
-    "lastOnAirTitle": "Rainbow Sapphire & White Zircon Butterfly Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 5.60 Ct.",
-    "lastOnAirAuctionCode": "0019901800",
+    "lastOnAirSku": "7817788",
+    "lastOnAirTitle": "Rainbow Sapphire & Natural Zircon Bypass Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.75 Ct",
+    "lastOnAirAuctionCode": "0019901821",
     "precedingSku": "4419617",
     "precedingTitle": "Rainbow Sapphire & White Zircon Butterfly Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 5.60 Ct.",
     "precedingAuctionCode": "0019901800"
