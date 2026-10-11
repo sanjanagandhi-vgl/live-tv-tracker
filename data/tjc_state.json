@@ -443875,24 +443875,25 @@
       "firstAir": 1791736278043,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791738199771,
-      "title": "D'Joy - Moissanite Trilogy Ring in Platinum Overlay Sterling Silver 3.96 Ct.",
-      "pdpPrice": 79.99,
-      "auctionCode": "0019906038",
+      "lastAir": 1791752598639,
+      "title": "D'Joy - Moissanite Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 3.96 Ct.",
+      "pdpPrice": "999.99",
+      "auctionCode": "0019906101",
       "buy": true,
       "login": false,
       "date": "2026-10-11",
-      "time": "18:03:19",
+      "time": "22:03:18",
       "productUrl": "/products/djoy-moissanite-ring-in-sterling-silver-4-30-ct",
-      "lastUpdated": 1791738199771,
-      "source": "gha-variant",
+      "lastUpdated": 1791752598639,
+      "source": "gha",
       "missedAt": 1791737012791,
       "missedDelay": 9,
       "missedPrice": 99.99,
       "missedImg": true,
       "productUrlChecked": 1791737018007,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "img": true
     },
     "8351950": {
       "sku": "8351950",
@@ -446118,8 +446119,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791752540644,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -500525,11 +500526,22 @@
         "followingSku": "8624902",
         "followingTitle": "THE MILLIONAIRES HALO - Premium Moissanite & Pink Sapphire Halo Ring in Rhodium Overlay Sterling Silver 3.50 Ct.",
         "followingAuctionCode": "0019903493"
+      },
+      {
+        "start": 1791752540644,
+        "end": 1791752598639,
+        "durationMin": 1.0,
+        "precedingSku": "8624902",
+        "precedingTitle": "THE MILLIONAIRES HALO - Premium Moissanite & Pink Sapphire Halo Ring in Rhodium Overlay Sterling Silver 3.50 Ct.",
+        "precedingAuctionCode": "0019903493",
+        "followingSku": "7643036",
+        "followingTitle": "D'Joy - Moissanite Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 3.96 Ct.",
+        "followingAuctionCode": "0019906101"
       }
     ],
-    "lastOnAirSku": "8624902",
-    "lastOnAirTitle": "THE MILLIONAIRES HALO - Premium Moissanite & Pink Sapphire Halo Ring in Rhodium Overlay Sterling Silver 3.50 Ct.",
-    "lastOnAirAuctionCode": "0019903493",
+    "lastOnAirSku": "7643036",
+    "lastOnAirTitle": "D'Joy - Moissanite Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 3.96 Ct.",
+    "lastOnAirAuctionCode": "0019906101",
     "precedingSku": "8624902",
     "precedingTitle": "THE MILLIONAIRES HALO - Premium Moissanite & Pink Sapphire Halo Ring in Rhodium Overlay Sterling Silver 3.50 Ct.",
     "precedingAuctionCode": "0019903493"
