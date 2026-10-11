@@ -446390,9 +446390,16 @@
       "img": true,
       "date": "2026-10-12",
       "time": "00:39:17",
-      "productUrl": null,
-      "lastUpdated": 1791761957358,
-      "source": "gha"
+      "productUrl": "/products/9k-rose-gold-chain-size-18-gold-wt-3-2-gms",
+      "lastUpdated": 1791762559492,
+      "source": "gha",
+      "missedAt": 1791762559492,
+      "missedDelay": 10,
+      "missedPrice": 399.99,
+      "missedImg": true,
+      "productUrlChecked": 1791762562633,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8734706": {
       "sku": "8734706",
@@ -446414,8 +446421,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791762559492,
     "gaps": [
       {
         "start": 1785823527869,
@@ -500947,8 +500954,8 @@
     "lastOnAirSku": "8781006",
     "lastOnAirTitle": "Designer Inspired Close Out- 9K Yellow Gold Greek Key Bangle (Size - 7)",
     "lastOnAirAuctionCode": "0019904628",
-    "precedingSku": "8321366",
-    "precedingTitle": "24K Yellow Gold Lunar Rabbit Collectible",
-    "precedingAuctionCode": "0019904640"
+    "precedingSku": "8781006",
+    "precedingTitle": "Designer Inspired Close Out- 9K Yellow Gold Greek Key Bangle (Size - 7)",
+    "precedingAuctionCode": "0019904628"
   }
 }
