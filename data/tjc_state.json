@@ -417016,19 +417016,19 @@
       "sku": "8520293",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-09",
-      "time": "06:16:21",
+      "date": "2026-10-11",
+      "time": "02:03:19",
       "preExisting": true,
       "missedAt": 1790969598560,
       "missedDelay": null,
-      "lastUpdated": 1791522981080,
+      "lastUpdated": 1791680599086,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "Christmas Robins Home Fragrance Set- Hand Poured Scented Candle With Ceramic Jar & Reed Diffuser - Christmas Tree & Eucalyptus",
-      "auctionCode": "0019900895",
+      "auctionCode": "0019902629",
       "source": "gha",
       "productUrl": null,
-      "lastAir": 1791522981080,
+      "lastAir": 1791680599086,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
@@ -441313,8 +441313,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791680540343,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -494906,11 +494906,22 @@
         "followingSku": "8575476",
         "followingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Black",
         "followingAuctionCode": "0019904204"
+      },
+      {
+        "start": 1791680540343,
+        "end": 1791680599086,
+        "durationMin": 1.0,
+        "precedingSku": "8575476",
+        "precedingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Black",
+        "precedingAuctionCode": "0019904204",
+        "followingSku": "8520293",
+        "followingTitle": "Christmas Robins Home Fragrance Set- Hand Poured Scented Candle With Ceramic Jar & Reed Diffuser - Christmas Tree & Eucalyptus",
+        "followingAuctionCode": "0019902629"
       }
     ],
-    "lastOnAirSku": "8575476",
-    "lastOnAirTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Black",
-    "lastOnAirAuctionCode": "0019904204",
+    "lastOnAirSku": "8520293",
+    "lastOnAirTitle": "Christmas Robins Home Fragrance Set- Hand Poured Scented Candle With Ceramic Jar & Reed Diffuser - Christmas Tree & Eucalyptus",
+    "lastOnAirAuctionCode": "0019902629",
     "precedingSku": "8575476",
     "precedingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Black",
     "precedingAuctionCode": "0019904204"
