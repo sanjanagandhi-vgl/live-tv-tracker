@@ -395806,17 +395806,17 @@
       "firstAir": 1790510060344,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791590358288,
+      "lastAir": 1791700940399,
       "title": "9K Yellow Gold Hoop Earring",
       "pdpPrice": "129.99",
-      "auctionCode": "0019902244",
+      "auctionCode": "0019904017",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-10",
-      "time": "00:59:18",
+      "date": "2026-10-11",
+      "time": "07:42:20",
       "productUrl": null,
-      "lastUpdated": 1791590358288,
+      "lastUpdated": 1791700940399,
       "source": "gha",
       "missedAt": 1790511437421,
       "missedDelay": 10,
@@ -441655,8 +441655,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791700877921,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -495446,11 +495446,22 @@
         "followingSku": "8698754",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
         "followingAuctionCode": "0019904018"
+      },
+      {
+        "start": 1791700877921,
+        "end": 1791700940399,
+        "durationMin": 1.0,
+        "precedingSku": "8698754",
+        "precedingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
+        "precedingAuctionCode": "0019904018",
+        "followingSku": "8692383",
+        "followingTitle": "9K Yellow Gold Hoop Earring",
+        "followingAuctionCode": "0019904017"
       }
     ],
-    "lastOnAirSku": "8698754",
-    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
-    "lastOnAirAuctionCode": "0019904018",
+    "lastOnAirSku": "8692383",
+    "lastOnAirTitle": "9K Yellow Gold Hoop Earring",
+    "lastOnAirAuctionCode": "0019904017",
     "precedingSku": "8698754",
     "precedingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
     "precedingAuctionCode": "0019904018"
