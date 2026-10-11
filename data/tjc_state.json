@@ -397677,21 +397677,26 @@
       "sku": "8699881",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-27",
-      "time": "20:09:18",
+      "date": "2026-10-11",
+      "time": "12:38:20",
       "preExisting": true,
       "missedAt": 1790536158516,
       "missedDelay": null,
-      "lastUpdated": 1790536158516,
+      "lastUpdated": 1791718700561,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "William Hunt 3D Horse Miyota 2305 Japan Movement 5ATM WR Gradient Pink & Black Moissanite Dial & IPS Plating 304 Stainless Steel Case Watch with Stainless Steel Strap",
-      "auctionCode": "0019886751",
+      "auctionCode": "0019902720",
       "source": "gha",
       "productUrl": "/products/william-hunt-moissanite-watch-pure-white-stainless-steel-0-010-ct-8699881",
       "productUrlChecked": 1790536162287,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791718700561,
+      "pdpPrice": "1199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8699880": {
       "sku": "8699880",
@@ -442595,9 +442600,16 @@
       "img": true,
       "date": "2026-10-11",
       "time": "12:29:17",
-      "productUrl": null,
-      "lastUpdated": 1791718157128,
-      "source": "gha"
+      "productUrl": "/products/moissanite-firecracker-heart-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-2-80-ct-4532285",
+      "lastUpdated": 1791718700561,
+      "source": "gha",
+      "missedAt": 1791718700561,
+      "missedDelay": 9,
+      "missedPrice": 159.99,
+      "missedImg": true,
+      "productUrlChecked": 1791718703768,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8636448": {
       "sku": "8636448",
@@ -442779,8 +442791,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791718637552,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -496757,11 +496769,22 @@
         "followingSku": "8787663",
         "followingTitle": "D'Joy - Moissanite Solitaire Ring in Yellow Gold Plated Sterling Silver 2.78 Ct.",
         "followingAuctionCode": "0019902513"
+      },
+      {
+        "start": 1791718637552,
+        "end": 1791718700561,
+        "durationMin": 1.1,
+        "precedingSku": "8636448",
+        "precedingTitle": "D'Joy - Moissanite Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 2.86 Ct.",
+        "precedingAuctionCode": "0019903153",
+        "followingSku": "8699881",
+        "followingTitle": "William Hunt 3D Horse Miyota 2305 Japan Movement 5ATM WR Gradient Pink & Black Moissanite Dial & IPS Plating 304 Stainless Steel Case Watch with Stainless Steel Strap",
+        "followingAuctionCode": "0019902720"
       }
     ],
-    "lastOnAirSku": "8636448",
-    "lastOnAirTitle": "D'Joy - Moissanite Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 2.86 Ct.",
-    "lastOnAirAuctionCode": "0019903153",
+    "lastOnAirSku": "8699881",
+    "lastOnAirTitle": "William Hunt 3D Horse Miyota 2305 Japan Movement 5ATM WR Gradient Pink & Black Moissanite Dial & IPS Plating 304 Stainless Steel Case Watch with Stainless Steel Strap",
+    "lastOnAirAuctionCode": "0019902720",
     "precedingSku": "8636448",
     "precedingTitle": "D'Joy - Moissanite Dangling Earring with Push Post in Yellow Gold Plated Sterling Silver 2.86 Ct.",
     "precedingAuctionCode": "0019903153"
