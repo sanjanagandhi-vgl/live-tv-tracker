@@ -441657,11 +441657,29 @@
       "productUrlChecked": 1791683601619,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8612180": {
+      "sku": "8612180",
+      "firstAir": 1791703340400,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791703340400,
+      "title": "D'Joy - GRA Certified (D-VVS1) Moissanite Halo Pendant in Rhodium Overlay Sterling Silver 3.05 Ct.",
+      "pdpPrice": "549.99",
+      "auctionCode": "0019902721",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-11",
+      "time": "08:22:20",
+      "productUrl": null,
+      "lastUpdated": 1791703340400,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791703276380,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -495517,11 +495535,22 @@
         "followingSku": "4439799",
         "followingTitle": "D'Joy - Moissanite Cluster Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.20 Ct.",
         "followingAuctionCode": "0019903129"
+      },
+      {
+        "start": 1791703276380,
+        "end": 1791703340400,
+        "durationMin": 1.1,
+        "precedingSku": "8613252",
+        "precedingTitle": "D'Joy - GRA Certified( D-VVS1) Moissanite Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019903189",
+        "followingSku": "8612180",
+        "followingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Halo Pendant in Rhodium Overlay Sterling Silver 3.05 Ct.",
+        "followingAuctionCode": "0019902721"
       }
     ],
-    "lastOnAirSku": "8613252",
-    "lastOnAirTitle": "D'Joy - GRA Certified( D-VVS1) Moissanite Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019903189",
+    "lastOnAirSku": "8612180",
+    "lastOnAirTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Halo Pendant in Rhodium Overlay Sterling Silver 3.05 Ct.",
+    "lastOnAirAuctionCode": "0019902721",
     "precedingSku": "8613252",
     "precedingTitle": "D'Joy - GRA Certified( D-VVS1) Moissanite Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019903189"
