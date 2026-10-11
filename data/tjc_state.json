@@ -417480,21 +417480,26 @@
       "sku": "8162613",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-03",
-      "time": "01:46:20",
+      "date": "2026-10-11",
+      "time": "07:56:19",
       "preExisting": true,
       "missedAt": 1790988380120,
       "missedDelay": null,
-      "lastUpdated": 1790988380120,
+      "lastUpdated": 1791701779441,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Biggest Gold Deal - 24K Yellow Gold Embossed Cross Collectible (40X25.70 MM)",
-      "auctionCode": "0019893816",
+      "title": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+      "auctionCode": "0019904104",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-99-9-purity-dolphin-embossed-collectible-39-85-x-25-95-mm",
       "productUrlChecked": 1790988383357,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791701779441,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "221336347": {
       "sku": "221336347",
@@ -441655,8 +441660,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791701726820,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -495468,11 +495473,22 @@
         "followingSku": "8691038",
         "followingTitle": "Italian 9K Yellow Gold Flat Byzantino Handmade Circolare Bracelet (Size - 8)",
         "followingAuctionCode": "0019904163"
+      },
+      {
+        "start": 1791701726820,
+        "end": 1791701779441,
+        "durationMin": 0.9,
+        "precedingSku": "8691038",
+        "precedingTitle": "Italian 9K Yellow Gold Flat Byzantino Handmade Circolare Bracelet (Size - 8)",
+        "precedingAuctionCode": "0019904163",
+        "followingSku": "8162613",
+        "followingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+        "followingAuctionCode": "0019904104"
       }
     ],
-    "lastOnAirSku": "8691038",
-    "lastOnAirTitle": "Italian 9K Yellow Gold Flat Byzantino Handmade Circolare Bracelet (Size - 8)",
-    "lastOnAirAuctionCode": "0019904163",
+    "lastOnAirSku": "8162613",
+    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+    "lastOnAirAuctionCode": "0019904104",
     "precedingSku": "8691038",
     "precedingTitle": "Italian 9K Yellow Gold Flat Byzantino Handmade Circolare Bracelet (Size - 8)",
     "precedingAuctionCode": "0019904163"
