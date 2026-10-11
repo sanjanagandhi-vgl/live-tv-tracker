@@ -445205,7 +445205,10 @@
       "missedAt": 1791744196997,
       "missedDelay": 10,
       "missedPrice": 59.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1791744263409,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8775658": {
       "sku": "8775658",
@@ -445226,7 +445229,10 @@
       "missedAt": 1791744196997,
       "missedDelay": 10,
       "missedPrice": 59.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1791744264000,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8775655": {
       "sku": "8775655",
@@ -445247,7 +445253,10 @@
       "missedAt": 1791744196997,
       "missedDelay": 10,
       "missedPrice": 59.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1791744264161,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8787695": {
       "sku": "8787695",
@@ -445428,11 +445437,29 @@
       "productUrlChecked": 1791743786855,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7580799": {
+      "sku": "7580799",
+      "firstAir": 1791744260705,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791744260705,
+      "title": "D'Joy - Moissanite 5 Stone Ring in Platinum Overlay Sterling Silver 1.10 Ct.",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019903698",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-11",
+      "time": "19:44:20",
+      "productUrl": null,
+      "lastUpdated": 1791744260705,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791744140500,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -499728,11 +499755,22 @@
         "followingSku": "8547685",
         "followingTitle": "D'Joy -Moissanite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
         "followingAuctionCode": "0019906180"
+      },
+      {
+        "start": 1791744140500,
+        "end": 1791744260705,
+        "durationMin": 2.0,
+        "precedingSku": "8547685",
+        "precedingTitle": "D'Joy -Moissanite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
+        "precedingAuctionCode": "0019906180",
+        "followingSku": "7580799",
+        "followingTitle": "D'Joy - Moissanite 5 Stone Ring in Platinum Overlay Sterling Silver 1.10 Ct.",
+        "followingAuctionCode": "0019903698"
       }
     ],
-    "lastOnAirSku": "8547685",
-    "lastOnAirTitle": "D'Joy -Moissanite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019906180",
+    "lastOnAirSku": "7580799",
+    "lastOnAirTitle": "D'Joy - Moissanite 5 Stone Ring in Platinum Overlay Sterling Silver 1.10 Ct.",
+    "lastOnAirAuctionCode": "0019903698",
     "precedingSku": "8547685",
     "precedingTitle": "D'Joy -Moissanite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
     "precedingAuctionCode": "0019906180"
