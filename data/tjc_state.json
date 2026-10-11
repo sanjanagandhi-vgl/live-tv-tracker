@@ -344935,21 +344935,26 @@
       "sku": "8624902",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-10-11",
+      "time": "21:38:21",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1791751101101,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "THE MILLIONAIRES HALO - Premium Moissanite & Pink Sapphire Halo Ring in Rhodium Overlay Sterling Silver 3.50 Ct.",
-      "auctionCode": "0019867714",
+      "auctionCode": "0019903493",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-pink-sapphire-ring-in-rhodium-overlay-sterling-silver-3-45-ct-8624902",
       "productUrlChecked": 1789359509515,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791751101101,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8624908": {
       "sku": "8624908",
@@ -446113,8 +446118,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791750982539,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -500509,11 +500514,22 @@
         "followingSku": "8689587",
         "followingTitle": "D'Joy - Moissanite Signet Ring in Rhodium Overlay Sterling Silver 5.00 Ct.",
         "followingAuctionCode": "0019902855"
+      },
+      {
+        "start": 1791750982539,
+        "end": 1791751101101,
+        "durationMin": 2.0,
+        "precedingSku": "8689587",
+        "precedingTitle": "D'Joy - Moissanite Signet Ring in Rhodium Overlay Sterling Silver 5.00 Ct.",
+        "precedingAuctionCode": "0019902855",
+        "followingSku": "8624902",
+        "followingTitle": "THE MILLIONAIRES HALO - Premium Moissanite & Pink Sapphire Halo Ring in Rhodium Overlay Sterling Silver 3.50 Ct.",
+        "followingAuctionCode": "0019903493"
       }
     ],
-    "lastOnAirSku": "8689587",
-    "lastOnAirTitle": "D'Joy - Moissanite Signet Ring in Rhodium Overlay Sterling Silver 5.00 Ct.",
-    "lastOnAirAuctionCode": "0019902855",
+    "lastOnAirSku": "8624902",
+    "lastOnAirTitle": "THE MILLIONAIRES HALO - Premium Moissanite & Pink Sapphire Halo Ring in Rhodium Overlay Sterling Silver 3.50 Ct.",
+    "lastOnAirAuctionCode": "0019903493",
     "precedingSku": "8689587",
     "precedingTitle": "D'Joy - Moissanite Signet Ring in Rhodium Overlay Sterling Silver 5.00 Ct.",
     "precedingAuctionCode": "0019902855"
