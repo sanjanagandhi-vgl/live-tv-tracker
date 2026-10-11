@@ -443634,11 +443634,29 @@
       "missedDelay": 9,
       "missedPrice": 29.99,
       "missedImg": false
+    },
+    "4535322": {
+      "sku": "4535322",
+      "firstAir": 1791731432201,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791731432201,
+      "title": "Set of 2 - D'Joy Moissanite Stackable Ring in Yellow Gold Plated Sterling Silver 2.80 Ct.",
+      "pdpPrice": "1299.99",
+      "auctionCode": "0019905526",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-11",
+      "time": "16:10:32",
+      "productUrl": null,
+      "lastUpdated": 1791731432201,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791731303041,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -497758,11 +497776,22 @@
         "followingSku": "8812565",
         "followingTitle": "D'joy Moissanite Ring in Platinum OverlaySterling Silver",
         "followingAuctionCode": "0019905484"
+      },
+      {
+        "start": 1791731303041,
+        "end": 1791731432201,
+        "durationMin": 2.2,
+        "precedingSku": "4452729",
+        "precedingTitle": "Moissanite Solitaire Heart Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
+        "precedingAuctionCode": "0019905629",
+        "followingSku": "4535322",
+        "followingTitle": "Set of 2 - D'Joy Moissanite Stackable Ring in Yellow Gold Plated Sterling Silver 2.80 Ct.",
+        "followingAuctionCode": "0019905526"
       }
     ],
-    "lastOnAirSku": "4452729",
-    "lastOnAirTitle": "Moissanite Solitaire Heart Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019905629",
+    "lastOnAirSku": "4535322",
+    "lastOnAirTitle": "Set of 2 - D'Joy Moissanite Stackable Ring in Yellow Gold Plated Sterling Silver 2.80 Ct.",
+    "lastOnAirAuctionCode": "0019905526",
     "precedingSku": "4452729",
     "precedingTitle": "Moissanite Solitaire Heart Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
     "precedingAuctionCode": "0019905629"
