@@ -305836,17 +305836,17 @@
       "firstAir": 1788607341445,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791605780628,
+      "lastAir": 1791761661367,
       "title": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
-      "pdpPrice": 179.99,
-      "auctionCode": "0019903579",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019904663",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-10-10",
-      "time": "05:16:20",
+      "date": "2026-10-12",
+      "time": "00:34:21",
       "productUrl": "/products/9k-yellow-gold-bracelet-size-7-5-8691113?variant=53583072592138",
-      "lastUpdated": 1791605780628,
+      "lastUpdated": 1791761661367,
       "source": "gha",
       "missedAt": 1788608061152,
       "missedDelay": 9,
@@ -446378,8 +446378,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791761597466,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -500895,11 +500895,22 @@
         "followingSku": "8321366",
         "followingTitle": "24K Yellow Gold Lunar Rabbit Collectible",
         "followingAuctionCode": "0019904640"
+      },
+      {
+        "start": 1791761597466,
+        "end": 1791761661367,
+        "durationMin": 1.1,
+        "precedingSku": "8321366",
+        "precedingTitle": "24K Yellow Gold Lunar Rabbit Collectible",
+        "precedingAuctionCode": "0019904640",
+        "followingSku": "8691113",
+        "followingTitle": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019904663"
       }
     ],
-    "lastOnAirSku": "8321366",
-    "lastOnAirTitle": "24K Yellow Gold Lunar Rabbit Collectible",
-    "lastOnAirAuctionCode": "0019904640",
+    "lastOnAirSku": "8691113",
+    "lastOnAirTitle": "Vicenza Close Out - 9K Yellow Gold Rope Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019904663",
     "precedingSku": "8321366",
     "precedingTitle": "24K Yellow Gold Lunar Rabbit Collectible",
     "precedingAuctionCode": "0019904640"
