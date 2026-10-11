@@ -442983,20 +442983,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-11",
-      "time": "13:44:22",
+      "time": "20:33:17",
       "preExisting": true,
       "missedAt": 1791722662344,
       "missedDelay": null,
-      "lastUpdated": 1791722662344,
+      "lastUpdated": 1791747197567,
       "missedPrice": 199.99,
       "missedImg": true,
       "title": "9K Yellow Gold Moissanite Solitaire Ring 1.80 Ct.",
-      "auctionCode": "0019902161",
+      "auctionCode": "0019906188",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-moissanite-solitaire-ring-1-77-ct-8791879",
       "productUrlChecked": 1791722669314,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791747197567,
+      "pdpPrice": "9999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8610312": {
       "sku": "8610312",
@@ -445731,8 +445736,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791747049556,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -500050,11 +500055,22 @@
         "followingSku": "8797208",
         "followingTitle": "THE SUMMIT- 9K Yellow Gold GRA Certified (VVS1-D) Moissanite Princess Cut Ring 5.00 Ct.",
         "followingAuctionCode": "0019902199"
+      },
+      {
+        "start": 1791747049556,
+        "end": 1791747197567,
+        "durationMin": 2.5,
+        "precedingSku": "8797208",
+        "precedingTitle": "THE SUMMIT- 9K Yellow Gold GRA Certified (VVS1-D) Moissanite Princess Cut Ring 5.00 Ct.",
+        "precedingAuctionCode": "0019902199",
+        "followingSku": "8791880",
+        "followingTitle": "9K Yellow Gold Moissanite Solitaire Ring 1.80 Ct.",
+        "followingAuctionCode": "0019906188"
       }
     ],
-    "lastOnAirSku": "8797208",
-    "lastOnAirTitle": "THE SUMMIT- 9K Yellow Gold GRA Certified (VVS1-D) Moissanite Princess Cut Ring 5.00 Ct.",
-    "lastOnAirAuctionCode": "0019902199",
+    "lastOnAirSku": "8791880",
+    "lastOnAirTitle": "9K Yellow Gold Moissanite Solitaire Ring 1.80 Ct.",
+    "lastOnAirAuctionCode": "0019906188",
     "precedingSku": "8797208",
     "precedingTitle": "THE SUMMIT- 9K Yellow Gold GRA Certified (VVS1-D) Moissanite Princess Cut Ring 5.00 Ct.",
     "precedingAuctionCode": "0019902199"
