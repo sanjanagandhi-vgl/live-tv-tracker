@@ -24444,19 +24444,19 @@
       "sku": "8600605",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-06",
-      "time": "04:48:24",
+      "date": "2026-10-11",
+      "time": "02:57:16",
       "preExisting": true,
       "missedAt": 1785388102705,
       "missedDelay": null,
-      "lastUpdated": 1788666504494,
+      "lastUpdated": 1791683836815,
       "missedPrice": 249.99,
       "missedImg": true,
-      "title": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Bracelet (Size - 7.5), Silver Wt. 27.70 Gms",
-      "auctionCode": "0019858347",
+      "title": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Bracelet (Size - 7.5) with Clasp, Silver Wt. 27.70 Gms",
+      "auctionCode": "0019904164",
       "source": "gha",
-      "lastAir": 1788666504494,
-      "pdpPrice": "199.99",
+      "lastAir": 1791683836815,
+      "pdpPrice": "3578.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -441643,8 +441643,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791683658687,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -495280,11 +495280,22 @@
         "followingSku": "8713286",
         "followingTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
         "followingAuctionCode": "0019903623"
+      },
+      {
+        "start": 1791683658687,
+        "end": 1791683836815,
+        "durationMin": 3.0,
+        "precedingSku": "8762490",
+        "precedingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+        "precedingAuctionCode": "0019904000",
+        "followingSku": "8600605",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Bracelet (Size - 7.5) with Clasp, Silver Wt. 27.70 Gms",
+        "followingAuctionCode": "0019904164"
       }
     ],
-    "lastOnAirSku": "8762490",
-    "lastOnAirTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
-    "lastOnAirAuctionCode": "0019904000",
+    "lastOnAirSku": "8600605",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Tirta Naga Bracelet (Size - 7.5) with Clasp, Silver Wt. 27.70 Gms",
+    "lastOnAirAuctionCode": "0019904164",
     "precedingSku": "8762490",
     "precedingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
     "precedingAuctionCode": "0019904000"
