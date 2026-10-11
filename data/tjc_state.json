@@ -382492,21 +382492,26 @@
       "sku": "4489894",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-22",
-      "time": "23:09:19",
+      "date": "2026-10-11",
+      "time": "15:20:32",
       "preExisting": true,
       "missedAt": 1790114959200,
       "missedDelay": null,
-      "lastUpdated": 1790114959200,
+      "lastUpdated": 1791728432420,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "D'Joy - Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size - 20) 2.50 Ct.",
-      "auctionCode": "0019880320",
+      "auctionCode": "0019902541",
       "source": "gha",
       "productUrl": "/products/royal-bali-collection-djoy-moissanite-solitaire-pendant-in-platinum-overlay-sterling-silver-with-chain-size-20-2-50-ct-2764489893",
       "productUrlChecked": 1790114964301,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791728432420,
+      "pdpPrice": "499.00",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8514647": {
       "sku": "8514647",
@@ -443056,8 +443061,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791728301663,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -497155,11 +497160,22 @@
         "followingSku": "8811825",
         "followingTitle": "D'joy Moissanite Fancy Ring Sterling Silver",
         "followingAuctionCode": "0019905608"
+      },
+      {
+        "start": 1791728301663,
+        "end": 1791728432420,
+        "durationMin": 2.2,
+        "precedingSku": "8811825",
+        "precedingTitle": "D'joy Moissanite Fancy Ring Sterling Silver",
+        "precedingAuctionCode": "0019905608",
+        "followingSku": "4489894",
+        "followingTitle": "D'Joy - Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size - 20) 2.50 Ct.",
+        "followingAuctionCode": "0019902541"
       }
     ],
-    "lastOnAirSku": "8811825",
-    "lastOnAirTitle": "D'joy Moissanite Fancy Ring Sterling Silver",
-    "lastOnAirAuctionCode": "0019905608",
+    "lastOnAirSku": "4489894",
+    "lastOnAirTitle": "D'Joy - Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size - 20) 2.50 Ct.",
+    "lastOnAirAuctionCode": "0019902541",
     "precedingSku": "8811825",
     "precedingTitle": "D'joy Moissanite Fancy Ring Sterling Silver",
     "precedingAuctionCode": "0019905608"
