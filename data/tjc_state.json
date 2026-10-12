@@ -362030,17 +362030,17 @@
       "firstAir": 1789736967483,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791532157499,
+      "lastAir": 1791770236866,
       "title": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019901937",
+      "pdpPrice": "23.99",
+      "auctionCode": "0019905632",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-09",
-      "time": "08:49:17",
+      "date": "2026-10-12",
+      "time": "02:57:16",
       "productUrl": "/products/laurelle-amour-de-carnaval-5-x50ml-body-mist-8789153?variant=53757793239306",
-      "lastUpdated": 1791532157499,
+      "lastUpdated": 1791770236866,
       "source": "gha",
       "missedAt": 1789738351682,
       "missedDelay": 9,
@@ -446443,8 +446443,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791770179483,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -501015,11 +501015,22 @@
         "followingSku": "8672247",
         "followingTitle": "GRA Certified Moissanite Earring with Push Back in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019906286"
+      },
+      {
+        "start": 1791770179483,
+        "end": 1791770236866,
+        "durationMin": 1.0,
+        "precedingSku": "8779771",
+        "precedingTitle": "Lipsy Radiant Pearl EDT - 30ml",
+        "precedingAuctionCode": "0019905537",
+        "followingSku": "8789153",
+        "followingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
+        "followingAuctionCode": "0019905632"
       }
     ],
-    "lastOnAirSku": "8779771",
-    "lastOnAirTitle": "Lipsy Radiant Pearl EDT - 30ml",
-    "lastOnAirAuctionCode": "0019905537",
+    "lastOnAirSku": "8789153",
+    "lastOnAirTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
+    "lastOnAirAuctionCode": "0019905632",
     "precedingSku": "8779771",
     "precedingTitle": "Lipsy Radiant Pearl EDT - 30ml",
     "precedingAuctionCode": "0019905537"
