@@ -447880,11 +447880,29 @@
       "productUrlChecked": 1791799885368,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4581748": {
+      "sku": "4581748",
+      "firstAir": 1791800181072,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791800181072,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019906710",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-12",
+      "time": "11:16:21",
+      "productUrl": null,
+      "lastUpdated": 1791800181072,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791800133876,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -502873,11 +502891,22 @@
         "followingSku": "8750786",
         "followingTitle": "D'Joy - Moissanite Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 5.30 Ct.",
         "followingAuctionCode": "0019906411"
+      },
+      {
+        "start": 1791800133876,
+        "end": 1791800181072,
+        "durationMin": 0.8,
+        "precedingSku": "8613252",
+        "precedingTitle": "D'Joy - GRA Certified( D-VVS1) Moissanite Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019906403",
+        "followingSku": "4581748",
+        "followingTitle": null,
+        "followingAuctionCode": "0019906710"
       }
     ],
-    "lastOnAirSku": "8613252",
-    "lastOnAirTitle": "D'Joy - GRA Certified( D-VVS1) Moissanite Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019906403",
+    "lastOnAirSku": "4581748",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019906710",
     "precedingSku": "8613252",
     "precedingTitle": "D'Joy - GRA Certified( D-VVS1) Moissanite Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019906403"
