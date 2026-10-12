@@ -435882,21 +435882,26 @@
       "sku": "8691186",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-08",
-      "time": "16:53:20",
+      "date": "2026-10-12",
+      "time": "06:48:19",
       "preExisting": true,
       "missedAt": 1791474800027,
       "missedDelay": null,
-      "lastUpdated": 1791474800027,
+      "lastUpdated": 1791784099178,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "La Marey Signature Longline Faux Fur Winter Coat (Size - L-XL, 16-22) - Chocolate",
-      "auctionCode": "0019900354",
+      "title": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+      "auctionCode": "0019904542",
       "source": "gha",
       "productUrl": "/products/la-marey-signature-longline-faux-fur-winter-coat-size-s-m-8-14-beige-8691178",
       "productUrlChecked": 1791474803130,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791784099178,
+      "pdpPrice": "149.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8647071": {
       "sku": "8647071",
@@ -446514,8 +446519,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791784037430,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -501251,11 +501256,22 @@
         "followingSku": "8583338",
         "followingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Blue",
         "followingAuctionCode": "0019906338"
+      },
+      {
+        "start": 1791784037430,
+        "end": 1791784099178,
+        "durationMin": 1.0,
+        "precedingSku": "8583338",
+        "precedingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Blue",
+        "precedingAuctionCode": "0019906338",
+        "followingSku": "8691186",
+        "followingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+        "followingAuctionCode": "0019904542"
       }
     ],
-    "lastOnAirSku": "8583338",
-    "lastOnAirTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Blue",
-    "lastOnAirAuctionCode": "0019906338",
+    "lastOnAirSku": "8691186",
+    "lastOnAirTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+    "lastOnAirAuctionCode": "0019904542",
     "precedingSku": "8583338",
     "precedingTitle": "Charlotte West Womens Alexa Hooded Waterproof Outdoor Parka Jacket (Size 18) - Blue",
     "precedingAuctionCode": "0019906338"
