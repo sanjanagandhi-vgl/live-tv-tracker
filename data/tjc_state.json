@@ -449997,11 +449997,29 @@
       "productUrlChecked": 1791824002131,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8762480": {
+      "sku": "8762480",
+      "firstAir": 1791825679178,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791825679178,
+      "title": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019907153",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-12",
+      "time": "18:21:19",
+      "productUrl": null,
+      "lastUpdated": 1791825679178,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791825501978,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -505309,11 +505327,22 @@
         "followingSku": "8618692",
         "followingTitle": "Set of 3 Foldable Non-Woven Fabric Printed Storage Organisers",
         "followingAuctionCode": "0019906065"
+      },
+      {
+        "start": 1791825501978,
+        "end": 1791825679178,
+        "durationMin": 3.0,
+        "precedingSku": "8618692",
+        "precedingTitle": "Set of 3 Foldable Non-Woven Fabric Printed Storage Organisers",
+        "precedingAuctionCode": "0019906065",
+        "followingSku": "8762480",
+        "followingTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+        "followingAuctionCode": "0019907153"
       }
     ],
-    "lastOnAirSku": "8618692",
-    "lastOnAirTitle": "Set of 3 Foldable Non-Woven Fabric Printed Storage Organisers",
-    "lastOnAirAuctionCode": "0019906065",
+    "lastOnAirSku": "8762480",
+    "lastOnAirTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+    "lastOnAirAuctionCode": "0019907153",
     "precedingSku": "8618692",
     "precedingTitle": "Set of 3 Foldable Non-Woven Fabric Printed Storage Organisers",
     "precedingAuctionCode": "0019906065"
