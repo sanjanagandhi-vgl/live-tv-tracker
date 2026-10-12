@@ -446522,11 +446522,29 @@
       "productUrl": null,
       "lastUpdated": 1791776837702,
       "source": "gha"
+    },
+    "8535729": {
+      "sku": "8535729",
+      "firstAir": 1791787998485,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791787998485,
+      "title": "Women's Ruched-Gathered Texture Shoulder Bag with Chain Detail - Dusty Pink",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019904564",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-12",
+      "time": "07:53:18",
+      "productUrl": null,
+      "lastUpdated": 1791787998485,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791787941374,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -501339,11 +501357,22 @@
         "followingSku": "8586794",
         "followingTitle": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size XL, 20-22) - Chocolate",
         "followingAuctionCode": "0019904607"
+      },
+      {
+        "start": 1791787941374,
+        "end": 1791787998485,
+        "durationMin": 1.0,
+        "precedingSku": "8586794",
+        "precedingTitle": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size XL, 20-22) - Chocolate",
+        "precedingAuctionCode": "0019904607",
+        "followingSku": "8535729",
+        "followingTitle": "Women's Ruched-Gathered Texture Shoulder Bag with Chain Detail - Dusty Pink",
+        "followingAuctionCode": "0019904564"
       }
     ],
-    "lastOnAirSku": "8586794",
-    "lastOnAirTitle": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size XL, 20-22) - Chocolate",
-    "lastOnAirAuctionCode": "0019904607",
+    "lastOnAirSku": "8535729",
+    "lastOnAirTitle": "Women's Ruched-Gathered Texture Shoulder Bag with Chain Detail - Dusty Pink",
+    "lastOnAirAuctionCode": "0019904564",
     "precedingSku": "8586794",
     "precedingTitle": "La Marey Womens Open Front Printed Hem Longline Cardigan (Size XL, 20-22) - Chocolate",
     "precedingAuctionCode": "0019904607"
