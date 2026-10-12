@@ -19870,19 +19870,19 @@
       "sku": "8686775",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-11",
-      "time": "15:08:19",
+      "date": "2026-10-12",
+      "time": "11:33:22",
       "preExisting": true,
       "missedAt": 1785170358233,
       "missedDelay": null,
-      "lastUpdated": 1791727699709,
+      "lastUpdated": 1791801202161,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
-      "auctionCode": "0019905622",
+      "auctionCode": "0019906418",
       "source": "gha",
-      "lastAir": 1791727699709,
-      "pdpPrice": "99.99",
+      "lastAir": 1791801202161,
+      "pdpPrice": "399.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -447922,8 +447922,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791801142790,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -502923,11 +502923,22 @@
         "followingSku": "4581748",
         "followingTitle": null,
         "followingAuctionCode": "0019906710"
+      },
+      {
+        "start": 1791801142790,
+        "end": 1791801202161,
+        "durationMin": 1.0,
+        "precedingSku": "8800062",
+        "precedingTitle": "D'Joy - Moissanite Drop Earring with Lever Back in Rhodium Overlay Sterling Silver 3.70 Ct.",
+        "precedingAuctionCode": "0019906663",
+        "followingSku": "8686775",
+        "followingTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+        "followingAuctionCode": "0019906418"
       }
     ],
-    "lastOnAirSku": "8800062",
-    "lastOnAirTitle": "D'Joy - Moissanite Drop Earring with Lever Back in Rhodium Overlay Sterling Silver 3.70 Ct.",
-    "lastOnAirAuctionCode": "0019906663",
+    "lastOnAirSku": "8686775",
+    "lastOnAirTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+    "lastOnAirAuctionCode": "0019906418",
     "precedingSku": "8800062",
     "precedingTitle": "D'Joy - Moissanite Drop Earring with Lever Back in Rhodium Overlay Sterling Silver 3.70 Ct.",
     "precedingAuctionCode": "0019906663"
