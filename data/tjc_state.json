@@ -24574,18 +24574,18 @@
       "sku": "2937404",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-26",
-      "time": "07:46:21",
+      "date": "2026-10-12",
+      "time": "03:49:16",
       "preExisting": true,
       "missedAt": 1785392957481,
       "missedDelay": null,
-      "lastUpdated": 1790405181535,
+      "lastUpdated": 1791773356984,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Cetuem Radiance Duo with Exfoliating Mask 50ml and SCR Gold Booster Serum 15ml",
-      "auctionCode": "0019883533",
+      "title": "Cetuem: Exfoliating Gel Mask - 50ml",
+      "auctionCode": "0019905556",
       "source": "gha",
-      "lastAir": 1790405181535,
+      "lastAir": 1791773356984,
       "pdpPrice": "14.99",
       "buy": true,
       "login": false,
@@ -446453,8 +446453,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791773301869,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -501058,11 +501058,22 @@
         "followingSku": "8634643",
         "followingTitle": "Remote Control Robot Dog Toy Interactive Touch & Follow Functions - Blue",
         "followingAuctionCode": "0019905640"
+      },
+      {
+        "start": 1791773301869,
+        "end": 1791773356984,
+        "durationMin": 0.9,
+        "precedingSku": "7676726",
+        "precedingTitle": "Douvalls Argan Colour Stick Balm (30g) - Boss Peach",
+        "precedingAuctionCode": "0019905628",
+        "followingSku": "2937404",
+        "followingTitle": "Cetuem: Exfoliating Gel Mask - 50ml",
+        "followingAuctionCode": "0019905556"
       }
     ],
-    "lastOnAirSku": "7676726",
-    "lastOnAirTitle": "Douvalls Argan Colour Stick Balm (30g) - Boss Peach",
-    "lastOnAirAuctionCode": "0019905628",
+    "lastOnAirSku": "2937404",
+    "lastOnAirTitle": "Cetuem: Exfoliating Gel Mask - 50ml",
+    "lastOnAirAuctionCode": "0019905556",
     "precedingSku": "7676726",
     "precedingTitle": "Douvalls Argan Colour Stick Balm (30g) - Boss Peach",
     "precedingAuctionCode": "0019905628"
