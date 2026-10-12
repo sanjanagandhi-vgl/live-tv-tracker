@@ -5085,21 +5085,22 @@
       "firstAir": 1784892327267,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784892501592,
+      "lastAir": 1791784638841,
       "title": "La Marey Signature Faux Fur Longline Coat (Size 16-22) - Black",
-      "pdpPrice": 29.99,
-      "auctionCode": "0019792743",
-      "buy": false,
-      "login": true,
+      "pdpPrice": "79.99",
+      "auctionCode": "0019904545",
+      "buy": true,
+      "login": false,
       "img": true,
-      "date": "2026-07-24",
-      "time": "12:28:21",
-      "lastUpdated": 1784892556907,
+      "date": "2026-10-12",
+      "time": "06:57:18",
+      "lastUpdated": 1791784638841,
       "source": "gha",
       "missedAt": 1784892556907,
       "missedDelay": 1,
       "missedPrice": 29.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8132859": {
       "sku": "8132859",
@@ -446519,8 +446520,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791784580466,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -501267,11 +501268,22 @@
         "followingSku": "8691186",
         "followingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
         "followingAuctionCode": "0019904542"
+      },
+      {
+        "start": 1791784580466,
+        "end": 1791784638841,
+        "durationMin": 1.0,
+        "precedingSku": "8691186",
+        "precedingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+        "precedingAuctionCode": "0019904542",
+        "followingSku": "8207986",
+        "followingTitle": "La Marey Signature Faux Fur Longline Coat (Size 16-22) - Black",
+        "followingAuctionCode": "0019904545"
       }
     ],
-    "lastOnAirSku": "8691186",
-    "lastOnAirTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
-    "lastOnAirAuctionCode": "0019904542",
+    "lastOnAirSku": "8207986",
+    "lastOnAirTitle": "La Marey Signature Faux Fur Longline Coat (Size 16-22) - Black",
+    "lastOnAirAuctionCode": "0019904545",
     "precedingSku": "8691186",
     "precedingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
     "precedingAuctionCode": "0019904542"
