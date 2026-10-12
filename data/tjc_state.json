@@ -449594,11 +449594,29 @@
       "productUrl": null,
       "lastUpdated": 1791820865854,
       "source": "gha"
+    },
+    "8770934": {
+      "sku": "8770934",
+      "firstAir": 1791821184730,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791821184730,
+      "title": "Luxuriant - AAA Ammolite & Lab Grown Diamond (SI-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.80 Ct.",
+      "pdpPrice": "799.99",
+      "auctionCode": "0019904310",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-12",
+      "time": "17:06:24",
+      "productUrl": null,
+      "lastUpdated": 1791821184730,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791820942584,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -504851,11 +504869,22 @@
         "followingSku": "8801980",
         "followingTitle": "D'Joy - Premium Ammolite Solitaire Ring in Rhodium Overlay Sterling Silver 2.30 Ct.",
         "followingAuctionCode": "0019904441"
+      },
+      {
+        "start": 1791820942584,
+        "end": 1791821184730,
+        "durationMin": 4.0,
+        "precedingSku": "8801980",
+        "precedingTitle": "D'Joy - Premium Ammolite Solitaire Ring in Rhodium Overlay Sterling Silver 2.30 Ct.",
+        "precedingAuctionCode": "0019904441",
+        "followingSku": "8770934",
+        "followingTitle": "Luxuriant - AAA Ammolite & Lab Grown Diamond (SI-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.80 Ct.",
+        "followingAuctionCode": "0019904310"
       }
     ],
-    "lastOnAirSku": "8801980",
-    "lastOnAirTitle": "D'Joy - Premium Ammolite Solitaire Ring in Rhodium Overlay Sterling Silver 2.30 Ct.",
-    "lastOnAirAuctionCode": "0019904441",
+    "lastOnAirSku": "8770934",
+    "lastOnAirTitle": "Luxuriant - AAA Ammolite & Lab Grown Diamond (SI-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.80 Ct.",
+    "lastOnAirAuctionCode": "0019904310",
     "precedingSku": "8801980",
     "precedingTitle": "D'Joy - Premium Ammolite Solitaire Ring in Rhodium Overlay Sterling Silver 2.30 Ct.",
     "precedingAuctionCode": "0019904441"
