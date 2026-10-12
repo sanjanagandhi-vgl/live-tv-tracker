@@ -447690,11 +447690,29 @@
       "auctionCode": "0019904827",
       "source": "gha",
       "productUrl": null
+    },
+    "4446500": {
+      "sku": "4446500",
+      "firstAir": 1791796039780,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791796039780,
+      "title": "D'Joy Orissa Natural Rhodolite Garnet &  White Zircon Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver 1.23 Ct.",
+      "pdpPrice": "47.99",
+      "auctionCode": "0019904877",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-12",
+      "time": "10:07:19",
+      "productUrl": null,
+      "lastUpdated": 1791796039780,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791795861643,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -502584,11 +502602,22 @@
         "followingSku": "8762481",
         "followingTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
         "followingAuctionCode": "0019902180"
+      },
+      {
+        "start": 1791795861643,
+        "end": 1791796039780,
+        "durationMin": 3.0,
+        "precedingSku": "8789153",
+        "precedingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
+        "precedingAuctionCode": "0019906549",
+        "followingSku": "4446500",
+        "followingTitle": "D'Joy Orissa Natural Rhodolite Garnet &  White Zircon Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver 1.23 Ct.",
+        "followingAuctionCode": "0019904877"
       }
     ],
-    "lastOnAirSku": "8789153",
-    "lastOnAirTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
-    "lastOnAirAuctionCode": "0019906549",
+    "lastOnAirSku": "4446500",
+    "lastOnAirTitle": "D'Joy Orissa Natural Rhodolite Garnet &  White Zircon Pendant with Chain (Size 20) in Yellow Gold Plated Sterling Silver 1.23 Ct.",
+    "lastOnAirAuctionCode": "0019904877",
     "precedingSku": "8789153",
     "precedingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
     "precedingAuctionCode": "0019906549"
