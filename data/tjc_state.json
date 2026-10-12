@@ -403974,18 +403974,18 @@
       "firstAir": 1790691098927,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791187703998,
-      "title": "New Season - DR Lightfoot - Priscilla Ladies Slippers  (Size 3) - Heather",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019896136",
+      "lastAir": 1791783259987,
+      "title": "New Season - DR Lightfoot - Priscilla Ladies Slippers (Size 3) - Blue",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019904527",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-05",
-      "time": "09:08:23",
+      "date": "2026-10-12",
+      "time": "06:34:19",
       "productUrl": "/products/tjc-special-ladies-shoe-size-3-heather-8778612",
-      "lastUpdated": 1791187703998,
-      "source": "gha-variant",
+      "lastUpdated": 1791783259987,
+      "source": "gha",
       "missedAt": 1790691985399,
       "missedDelay": 9,
       "missedPrice": 19.99,
@@ -446514,8 +446514,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791783199725,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -501229,11 +501229,22 @@
         "followingSku": "8808102",
         "followingTitle": "Ladies Soft Plush Slip-On House Slippers (Size 3) - Beige",
         "followingAuctionCode": "0019906320"
+      },
+      {
+        "start": 1791783199725,
+        "end": 1791783259987,
+        "durationMin": 1.0,
+        "precedingSku": "8808102",
+        "precedingTitle": "Ladies Soft Plush Slip-On House Slippers (Size 3) - Beige",
+        "precedingAuctionCode": "0019906320",
+        "followingSku": "8778612",
+        "followingTitle": "New Season - DR Lightfoot - Priscilla Ladies Slippers (Size 3) - Blue",
+        "followingAuctionCode": "0019904527"
       }
     ],
-    "lastOnAirSku": "8808102",
-    "lastOnAirTitle": "Ladies Soft Plush Slip-On House Slippers (Size 3) - Beige",
-    "lastOnAirAuctionCode": "0019906320",
+    "lastOnAirSku": "8778612",
+    "lastOnAirTitle": "New Season - DR Lightfoot - Priscilla Ladies Slippers (Size 3) - Blue",
+    "lastOnAirAuctionCode": "0019904527",
     "precedingSku": "8808102",
     "precedingTitle": "Ladies Soft Plush Slip-On House Slippers (Size 3) - Beige",
     "precedingAuctionCode": "0019906320"
