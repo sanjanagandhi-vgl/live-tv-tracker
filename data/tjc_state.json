@@ -447591,11 +447591,29 @@
       "productUrlChecked": 1791794135692,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8762481": {
+      "sku": "8762481",
+      "firstAir": 1791794236677,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791794236677,
+      "title": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019902180",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-12",
+      "time": "09:37:16",
+      "productUrl": null,
+      "lastUpdated": 1791794236677,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791794181576,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -502474,11 +502492,22 @@
         "followingSku": "8769441",
         "followingTitle": "Adeline Chain Detail Chunky Cleated Sole Slip-On Trendy Loafers (Size - 4) - Black",
         "followingAuctionCode": "0019905464"
+      },
+      {
+        "start": 1791794181576,
+        "end": 1791794236677,
+        "durationMin": 0.9,
+        "precedingSku": "8419503",
+        "precedingTitle": "Calypso Light Weight Lace Up Trainer With Diamante Detailing (Size 8) - Black",
+        "precedingAuctionCode": "0019905396",
+        "followingSku": "8762481",
+        "followingTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+        "followingAuctionCode": "0019902180"
       }
     ],
-    "lastOnAirSku": "8419503",
-    "lastOnAirTitle": "Calypso Light Weight Lace Up Trainer With Diamante Detailing (Size 8) - Black",
-    "lastOnAirAuctionCode": "0019905396",
+    "lastOnAirSku": "8762481",
+    "lastOnAirTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+    "lastOnAirAuctionCode": "0019902180",
     "precedingSku": "8419503",
     "precedingTitle": "Calypso Light Weight Lace Up Trainer With Diamante Detailing (Size 8) - Black",
     "precedingAuctionCode": "0019905396"
