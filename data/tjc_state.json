@@ -352479,21 +352479,26 @@
       "sku": "8615695",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "17:37:55",
+      "date": "2026-10-12",
+      "time": "04:41:17",
       "preExisting": true,
       "missedAt": 1789490275230,
       "missedDelay": null,
-      "lastUpdated": 1789490275230,
+      "lastUpdated": 1791776477655,
       "missedPrice": 34.99,
       "missedImg": true,
-      "title": "Crossbody Bag (Size - One Size) - Tan",
-      "auctionCode": "0019870547",
+      "title": "Genuine Leather Mummy Style Satchel Bag with Adjustable Shoulder Strap - Dark Blue",
+      "auctionCode": "0019905775",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-dark-blue-8615694",
       "productUrlChecked": 1789490281168,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791776477655,
+      "pdpPrice": "399.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8615697": {
       "sku": "8615697",
@@ -446458,8 +446463,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791776434596,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -501096,11 +501101,22 @@
         "followingSku": "8547685",
         "followingTitle": "D'Joy -Moissanite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.00 Ct.",
         "followingAuctionCode": "0019906288"
+      },
+      {
+        "start": 1791776434596,
+        "end": 1791776477655,
+        "durationMin": 0.7,
+        "precedingSku": "8694933",
+        "precedingTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
+        "precedingAuctionCode": "0019905639",
+        "followingSku": "8615695",
+        "followingTitle": "Genuine Leather Mummy Style Satchel Bag with Adjustable Shoulder Strap - Dark Blue",
+        "followingAuctionCode": "0019905775"
       }
     ],
-    "lastOnAirSku": "8694933",
-    "lastOnAirTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
-    "lastOnAirAuctionCode": "0019905639",
+    "lastOnAirSku": "8615695",
+    "lastOnAirTitle": "Genuine Leather Mummy Style Satchel Bag with Adjustable Shoulder Strap - Dark Blue",
+    "lastOnAirAuctionCode": "0019905775",
     "precedingSku": "8694933",
     "precedingTitle": "LIVMORE Set of 120 Dual Tip Marker Pens with Portable Storage Bag",
     "precedingAuctionCode": "0019905639"
