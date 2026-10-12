@@ -450022,11 +450022,29 @@
       "productUrlChecked": 1791827137858,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8699413": {
+      "sku": "8699413",
+      "firstAir": 1791827725139,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791827725139,
+      "title": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019907132",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-12",
+      "time": "18:55:25",
+      "productUrl": null,
+      "lastUpdated": 1791827725139,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791827597605,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -505356,11 +505374,22 @@
         "followingSku": "8503787",
         "followingTitle": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Rose",
         "followingAuctionCode": "0019906094"
+      },
+      {
+        "start": 1791827597605,
+        "end": 1791827725139,
+        "durationMin": 2.1,
+        "precedingSku": "8503787",
+        "precedingTitle": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Rose",
+        "precedingAuctionCode": "0019906094",
+        "followingSku": "8699413",
+        "followingTitle": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
+        "followingAuctionCode": "0019907132"
       }
     ],
-    "lastOnAirSku": "8503787",
-    "lastOnAirTitle": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Rose",
-    "lastOnAirAuctionCode": "0019906094",
+    "lastOnAirSku": "8699413",
+    "lastOnAirTitle": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
+    "lastOnAirAuctionCode": "0019907132",
     "precedingSku": "8503787",
     "precedingTitle": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Rose",
     "precedingAuctionCode": "0019906094"
