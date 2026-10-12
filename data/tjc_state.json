@@ -440403,21 +440403,26 @@
       "sku": "8627538",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-10",
-      "time": "13:35:26",
+      "date": "2026-10-12",
+      "time": "19:17:19",
       "preExisting": true,
       "missedAt": 1791635726246,
       "missedDelay": null,
-      "lastUpdated": 1791635726246,
+      "lastUpdated": 1791829039584,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "LIVMORE Rose Jacquard Faux Fur Double Layer Blanket (150 x 180cm, Double) - Maroon",
-      "auctionCode": "0019903667",
+      "title": "LIVMORE Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+      "auctionCode": "0019906077",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-180x1-cm-white-8627537",
       "productUrlChecked": 1791635732684,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791829039584,
+      "pdpPrice": "479.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8626886": {
       "sku": "8626886",
@@ -450043,8 +450048,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791828741321,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -505385,11 +505390,22 @@
         "followingSku": "8699413",
         "followingTitle": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
         "followingAuctionCode": "0019907132"
+      },
+      {
+        "start": 1791828741321,
+        "end": 1791829039584,
+        "durationMin": 5.0,
+        "precedingSku": "8699413",
+        "precedingTitle": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
+        "precedingAuctionCode": "0019907132",
+        "followingSku": "8627538",
+        "followingTitle": "LIVMORE Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+        "followingAuctionCode": "0019906077"
       }
     ],
-    "lastOnAirSku": "8699413",
-    "lastOnAirTitle": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
-    "lastOnAirAuctionCode": "0019907132",
+    "lastOnAirSku": "8627538",
+    "lastOnAirTitle": "LIVMORE Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+    "lastOnAirAuctionCode": "0019906077",
     "precedingSku": "8699413",
     "precedingTitle": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
     "precedingAuctionCode": "0019907132"
