@@ -447802,11 +447802,29 @@
       "productUrl": null,
       "lastUpdated": 1791797358719,
       "source": "gha"
+    },
+    "8800721": {
+      "sku": "8800721",
+      "firstAir": 1791797780288,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791797780288,
+      "title": "EverTrue - Black Spinel Necklace (Size - 20-2 Ext) with Lobster Clasp 72.00 Ct.",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019904954",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-12",
+      "time": "10:36:20",
+      "productUrl": null,
+      "lastUpdated": 1791797780288,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791797660616,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -502751,11 +502769,22 @@
         "followingSku": "8684068",
         "followingTitle": "EverTrue - Blue Turquoise Bracelet (Size - 8) in Yellow Gold Tone 14.34 Ct.",
         "followingAuctionCode": "0019904922"
+      },
+      {
+        "start": 1791797660616,
+        "end": 1791797780288,
+        "durationMin": 2.0,
+        "precedingSku": "8684068",
+        "precedingTitle": "EverTrue - Blue Turquoise Bracelet (Size - 8) in Yellow Gold Tone 14.34 Ct.",
+        "precedingAuctionCode": "0019904922",
+        "followingSku": "8800721",
+        "followingTitle": "EverTrue - Black Spinel Necklace (Size - 20-2 Ext) with Lobster Clasp 72.00 Ct.",
+        "followingAuctionCode": "0019904954"
       }
     ],
-    "lastOnAirSku": "8684068",
-    "lastOnAirTitle": "EverTrue - Blue Turquoise Bracelet (Size - 8) in Yellow Gold Tone 14.34 Ct.",
-    "lastOnAirAuctionCode": "0019904922",
+    "lastOnAirSku": "8800721",
+    "lastOnAirTitle": "EverTrue - Black Spinel Necklace (Size - 20-2 Ext) with Lobster Clasp 72.00 Ct.",
+    "lastOnAirAuctionCode": "0019904954",
     "precedingSku": "8684068",
     "precedingTitle": "EverTrue - Blue Turquoise Bracelet (Size - 8) in Yellow Gold Tone 14.34 Ct.",
     "precedingAuctionCode": "0019904922"
