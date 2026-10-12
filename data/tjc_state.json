@@ -339884,21 +339884,26 @@
       "sku": "8684068",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-13",
-      "time": "00:25:27",
+      "date": "2026-10-12",
+      "time": "10:32:21",
       "preExisting": true,
       "missedAt": 1789255527802,
       "missedDelay": null,
-      "lastUpdated": 1789255527802,
+      "lastUpdated": 1791797541101,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "EverTrue - Blue Turquoise Bracelet (Size - 7.5) in Yellow Gold Tone 12.90 Ct.",
-      "auctionCode": "0019867564",
+      "title": "EverTrue - Blue Turquoise Bracelet (Size - 8) in Yellow Gold Tone 14.34 Ct.",
+      "auctionCode": "0019904922",
       "source": "gha",
       "productUrl": "/products/evertrue-blue-turquoise-bracelet-size-8-in-yellow-gold-tone-14-34-ct-8685378",
       "productUrlChecked": 1789255532769,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791797541101,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8685378": {
       "sku": "8685378",
@@ -447800,8 +447805,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791797451511,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -502735,11 +502740,22 @@
         "followingSku": "8754879",
         "followingTitle": "Luxuriant - Lab Grown Padparadscha Sapphire Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver 2.40 Ct.",
         "followingAuctionCode": "0019904888"
+      },
+      {
+        "start": 1791797451511,
+        "end": 1791797541101,
+        "durationMin": 1.5,
+        "precedingSku": "8686563",
+        "precedingTitle": "EverTrue - Blue Turquoise & White Topaz Leaf Vine Necklace (Size - 20) in Yellow Gold Tone 7.90 Ct.",
+        "precedingAuctionCode": "0019904936",
+        "followingSku": "8684068",
+        "followingTitle": "EverTrue - Blue Turquoise Bracelet (Size - 8) in Yellow Gold Tone 14.34 Ct.",
+        "followingAuctionCode": "0019904922"
       }
     ],
-    "lastOnAirSku": "8686563",
-    "lastOnAirTitle": "EverTrue - Blue Turquoise & White Topaz Leaf Vine Necklace (Size - 20) in Yellow Gold Tone 7.90 Ct.",
-    "lastOnAirAuctionCode": "0019904936",
+    "lastOnAirSku": "8684068",
+    "lastOnAirTitle": "EverTrue - Blue Turquoise Bracelet (Size - 8) in Yellow Gold Tone 14.34 Ct.",
+    "lastOnAirAuctionCode": "0019904922",
     "precedingSku": "8686563",
     "precedingTitle": "EverTrue - Blue Turquoise & White Topaz Leaf Vine Necklace (Size - 20) in Yellow Gold Tone 7.90 Ct.",
     "precedingAuctionCode": "0019904936"
