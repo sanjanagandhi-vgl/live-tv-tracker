@@ -359174,21 +359174,26 @@
       "sku": "8763514",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-17",
-      "time": "18:49:18",
+      "date": "2026-10-12",
+      "time": "23:59:16",
       "preExisting": true,
       "missedAt": 1789667358109,
       "missedDelay": null,
-      "lastUpdated": 1789667358109,
+      "lastUpdated": 1791845956690,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "D'Joy - AAA Turkizite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
-      "auctionCode": "0019874035",
+      "auctionCode": "0019907403",
       "source": "gha",
       "productUrl": "/products/djoy-aaa-turkizite-solitaire-bypass-ring-in-yellow-gold-plated-sterling-silver-8763513",
       "productUrlChecked": 1789667363717,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791845956690,
+      "pdpPrice": "799.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8763541": {
       "sku": "8763541",
@@ -450355,8 +450360,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791845837300,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -505840,11 +505845,22 @@
         "followingSku": "8661477",
         "followingTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
         "followingAuctionCode": "0019905188"
+      },
+      {
+        "start": 1791845837300,
+        "end": 1791845956690,
+        "durationMin": 2.0,
+        "precedingSku": "8607635",
+        "precedingTitle": "Premium Turkizite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.26 Ct.",
+        "precedingAuctionCode": "0019905254",
+        "followingSku": "8763514",
+        "followingTitle": "D'Joy - AAA Turkizite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019907403"
       }
     ],
-    "lastOnAirSku": "8607635",
-    "lastOnAirTitle": "Premium Turkizite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.26 Ct.",
-    "lastOnAirAuctionCode": "0019905254",
+    "lastOnAirSku": "8763514",
+    "lastOnAirTitle": "D'Joy - AAA Turkizite Solitaire Bypass Ring in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019907403",
     "precedingSku": "8607635",
     "precedingTitle": "Premium Turkizite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 2.26 Ct.",
     "precedingAuctionCode": "0019905254"
