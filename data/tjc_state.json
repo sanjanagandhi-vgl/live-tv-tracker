@@ -450357,11 +450357,29 @@
       "productUrlChecked": 1791840801074,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7840731": {
+      "sku": "7840731",
+      "firstAir": 1791850536503,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791850536503,
+      "title": "Teddy Fleece Jacket (Size L) - Navy",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019906863",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-13",
+      "time": "01:15:36",
+      "productUrl": null,
+      "lastUpdated": 1791850536503,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791850462850,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -505867,11 +505885,22 @@
         "followingSku": "8431614",
         "followingTitle": "MIDNIGHT TLV DEAL- 24K Yellow Gold 1.00 Gram (99.9% Purity ) Swiss Movement 5 ATM Water Resistant (39mm) with Black Leather Strap EON 1962 Watch",
         "followingAuctionCode": "0019906815"
+      },
+      {
+        "start": 1791850462850,
+        "end": 1791850536503,
+        "durationMin": 1.2,
+        "precedingSku": "8151341",
+        "precedingTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size 12 to 14) - Chocolate",
+        "precedingAuctionCode": "0019906855",
+        "followingSku": "7840731",
+        "followingTitle": "Teddy Fleece Jacket (Size L) - Navy",
+        "followingAuctionCode": "0019906863"
       }
     ],
-    "lastOnAirSku": "8151341",
-    "lastOnAirTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size 12 to 14) - Chocolate",
-    "lastOnAirAuctionCode": "0019906855",
+    "lastOnAirSku": "7840731",
+    "lastOnAirTitle": "Teddy Fleece Jacket (Size L) - Navy",
+    "lastOnAirAuctionCode": "0019906863",
     "precedingSku": "8151341",
     "precedingTitle": "La Marey Signature Genuine Nappa Leather Jacket (Size 12 to 14) - Chocolate",
     "precedingAuctionCode": "0019906855"
