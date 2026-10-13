@@ -179742,21 +179742,26 @@
       "sku": "8431193",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "04:07:19",
+      "date": "2026-10-13",
+      "time": "03:56:21",
       "preExisting": true,
       "missedAt": 1786936039227,
       "missedDelay": null,
-      "lastUpdated": 1786936039227,
+      "lastUpdated": 1791860181108,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "Set of 2 Tropical Print Insulated Tote Bags - Multicolour",
-      "auctionCode": "0019824906",
+      "title": "Set of 2 Tropical Print Insulated Tote Bags - Black & Multicolour",
+      "auctionCode": "0019905804",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-1458431193",
       "productUrlChecked": 1786936054959,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791860181108,
+      "pdpPrice": "119.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7827666": {
       "sku": "7827666",
@@ -450878,8 +450883,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791860125578,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506561,11 +506566,22 @@
         "followingSku": "7731710",
         "followingTitle": "Set of 10 Multi-Colour Floral Embroidered Pouches with Zipper - Teal",
         "followingAuctionCode": "0019905807"
+      },
+      {
+        "start": 1791860125578,
+        "end": 1791860181108,
+        "durationMin": 0.9,
+        "precedingSku": "7731710",
+        "precedingTitle": "Set of 10 Multi-Colour Floral Embroidered Pouches with Zipper - Teal",
+        "precedingAuctionCode": "0019905807",
+        "followingSku": "8431193",
+        "followingTitle": "Set of 2 Tropical Print Insulated Tote Bags - Black & Multicolour",
+        "followingAuctionCode": "0019905804"
       }
     ],
-    "lastOnAirSku": "7731710",
-    "lastOnAirTitle": "Set of 10 Multi-Colour Floral Embroidered Pouches with Zipper - Teal",
-    "lastOnAirAuctionCode": "0019905807",
+    "lastOnAirSku": "8431193",
+    "lastOnAirTitle": "Set of 2 Tropical Print Insulated Tote Bags - Black & Multicolour",
+    "lastOnAirAuctionCode": "0019905804",
     "precedingSku": "7731710",
     "precedingTitle": "Set of 10 Multi-Colour Floral Embroidered Pouches with Zipper - Teal",
     "precedingAuctionCode": "0019905807"
