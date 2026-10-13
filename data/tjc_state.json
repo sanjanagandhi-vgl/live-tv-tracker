@@ -450961,11 +450961,29 @@
       "productUrlChecked": 1791861442350,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8594393": {
+      "sku": "8594393",
+      "firstAir": 1791878900479,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791878900479,
+      "title": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019906498",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-13",
+      "time": "09:08:20",
+      "productUrl": null,
+      "lastUpdated": 1791878900479,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791878658950,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506834,11 +506852,22 @@
         "followingSku": "3301948",
         "followingTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
         "followingAuctionCode": "0019906741"
+      },
+      {
+        "start": 1791878658950,
+        "end": 1791878900479,
+        "durationMin": 4.0,
+        "precedingSku": "3301948",
+        "precedingTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
+        "precedingAuctionCode": "0019906741",
+        "followingSku": "8594393",
+        "followingTitle": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
+        "followingAuctionCode": "0019906498"
       }
     ],
-    "lastOnAirSku": "3301948",
-    "lastOnAirTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
-    "lastOnAirAuctionCode": "0019906741",
+    "lastOnAirSku": "8594393",
+    "lastOnAirTitle": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
+    "lastOnAirAuctionCode": "0019906498",
     "precedingSku": "3301948",
     "precedingTitle": "Doctors Formula- Marine Collagen Instant Eye Hydration Repair Treatment - 15ml",
     "precedingAuctionCode": "0019906741"
