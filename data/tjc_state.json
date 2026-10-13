@@ -430200,21 +430200,26 @@
       "sku": "8666776",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "19:40:33",
+      "date": "2026-10-13",
+      "time": "11:47:19",
       "preExisting": true,
       "missedAt": 1791312033672,
       "missedDelay": null,
-      "lastUpdated": 1791312033672,
+      "lastUpdated": 1791888439020,
       "missedPrice": 27.99,
       "missedImg": true,
-      "title": "LIVMORE Limited Edition Hand Finished Turkish Mosaic Glass  Lamp (Requires E14 Screw Bulb) Mains Powered UK Plug - Blue",
-      "auctionCode": "0019897809",
+      "title": "LIVMORE Limited Edition Hand Finished Turkish Mosaic Glass Lamp with Multicolour Stone Work (Requires E14 Screw Bulb) Mains Powered UK Plug - Multi",
+      "auctionCode": "0019907073",
       "source": "gha",
       "productUrl": "/products/livmore-turkish-mosaic-glass-table-lamp-e14-mains-powered-uk-plug-multicolour-8666775",
       "productUrlChecked": 1791312040168,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791888439020,
+      "pdpPrice": "27.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8666775": {
       "sku": "8666775",
@@ -451132,8 +451137,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791888336235,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -507123,11 +507128,22 @@
         "followingSku": "8635936",
         "followingTitle": "LIVMORE Mango Wood Handcrafted Wooden Platter (Size- 30x15x2 cm) - Multi Colour",
         "followingAuctionCode": "0019906977"
+      },
+      {
+        "start": 1791888336235,
+        "end": 1791888439020,
+        "durationMin": 1.7,
+        "precedingSku": "8635936",
+        "precedingTitle": "Livmore Handcrafted Wooden Platter With Enamel (Size-30X15x2 Cms) - Rectangle",
+        "precedingAuctionCode": "0019906977",
+        "followingSku": "8666776",
+        "followingTitle": "LIVMORE Limited Edition Hand Finished Turkish Mosaic Glass Lamp with Multicolour Stone Work (Requires E14 Screw Bulb) Mains Powered UK Plug - Multi",
+        "followingAuctionCode": "0019907073"
       }
     ],
-    "lastOnAirSku": "8635936",
-    "lastOnAirTitle": "Livmore Handcrafted Wooden Platter With Enamel (Size-30X15x2 Cms) - Rectangle",
-    "lastOnAirAuctionCode": "0019906977",
+    "lastOnAirSku": "8666776",
+    "lastOnAirTitle": "LIVMORE Limited Edition Hand Finished Turkish Mosaic Glass Lamp with Multicolour Stone Work (Requires E14 Screw Bulb) Mains Powered UK Plug - Multi",
+    "lastOnAirAuctionCode": "0019907073",
     "precedingSku": "8635936",
     "precedingTitle": "Livmore Handcrafted Wooden Platter With Enamel (Size-30X15x2 Cms) - Rectangle",
     "precedingAuctionCode": "0019906977"
