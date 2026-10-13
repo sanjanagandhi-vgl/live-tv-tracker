@@ -341425,23 +341425,23 @@
       "sku": "8362617",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "03:43:17",
+      "date": "2026-10-13",
+      "time": "10:56:21",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1791254597523,
+      "lastUpdated": 1791885381658,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Cordless Power Blower - Leaves, Mess, Dust, Snow - 30 Min Run Time, 6000mah Battery, 1 year warranty - Blue",
-      "auctionCode": "0019895864",
+      "auctionCode": "0019906951",
       "source": "gha",
       "productUrl": "/products/dryer-size-one-size-grey-black-8362617?variant=53677311951114",
       "productUrlChecked": 1789358914017,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791254597523,
-      "pdpPrice": "29.99",
+      "lastAir": 1791885381658,
+      "pdpPrice": "314.99",
       "buy": true,
       "login": false,
       "img": true
@@ -451044,8 +451044,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791885325088,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506991,11 +506991,22 @@
         "followingSku": "4507710",
         "followingTitle": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
         "followingAuctionCode": "0019906934"
+      },
+      {
+        "start": 1791885325088,
+        "end": 1791885381658,
+        "durationMin": 0.9,
+        "precedingSku": "4507710",
+        "precedingTitle": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
+        "precedingAuctionCode": "0019906934",
+        "followingSku": "8362617",
+        "followingTitle": "Cordless Power Blower - Leaves, Mess, Dust, Snow - 30 Min Run Time, 6000mah Battery, 1 year warranty - Blue",
+        "followingAuctionCode": "0019906951"
       }
     ],
-    "lastOnAirSku": "4507710",
-    "lastOnAirTitle": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
-    "lastOnAirAuctionCode": "0019906934",
+    "lastOnAirSku": "8362617",
+    "lastOnAirTitle": "Cordless Power Blower - Leaves, Mess, Dust, Snow - 30 Min Run Time, 6000mah Battery, 1 year warranty - Blue",
+    "lastOnAirAuctionCode": "0019906951",
     "precedingSku": "4507710",
     "precedingTitle": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
     "precedingAuctionCode": "0019906934"
