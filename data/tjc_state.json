@@ -451353,9 +451353,16 @@
       "img": true,
       "date": "2026-10-13",
       "time": "15:05:29",
-      "productUrl": null,
-      "lastUpdated": 1791900329793,
-      "source": "gha"
+      "productUrl": "/products/pure-and-natural-top-size-small-oatmeal-8585744",
+      "lastUpdated": 1791900941987,
+      "source": "gha",
+      "missedAt": 1791900941987,
+      "missedDelay": 10,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1791900947026,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8585748": {
       "sku": "8585748",
@@ -451434,11 +451441,71 @@
       "productUrlChecked": 1791900508767,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8585745": {
+      "sku": "8585745",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-13",
+      "time": "15:15:41",
+      "preExisting": true,
+      "missedAt": 1791900941987,
+      "missedDelay": null,
+      "lastUpdated": 1791900941987,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
+      "auctionCode": "0019906745",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-top-size-small-oatmeal-8585744",
+      "productUrlChecked": 1791900947801,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8585743": {
+      "sku": "8585743",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-13",
+      "time": "15:15:41",
+      "preExisting": true,
+      "missedAt": 1791900941987,
+      "missedDelay": null,
+      "lastUpdated": 1791900941987,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
+      "auctionCode": "0019906744",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-top-size-small-oatmeal-8585744",
+      "productUrlChecked": 1791900948162,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8585742": {
+      "sku": "8585742",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-13",
+      "time": "15:15:41",
+      "preExisting": true,
+      "missedAt": 1791900941987,
+      "missedDelay": null,
+      "lastUpdated": 1791900941987,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
+      "auctionCode": "0019906731",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-top-size-small-oatmeal-8585744",
+      "productUrlChecked": 1791900948458,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791900941987,
     "gaps": [
       {
         "start": 1785823527869,
@@ -507543,8 +507610,8 @@
     "lastOnAirSku": "8585001",
     "lastOnAirTitle": "Pure And Natural Ladies Textured Cowl Neck Long Sleeve Top (Size L, 16-18) - Chocolate",
     "lastOnAirAuctionCode": "0019907219",
-    "precedingSku": "8585748",
-    "precedingTitle": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Blue",
-    "precedingAuctionCode": "0019906553"
+    "precedingSku": "8585001",
+    "precedingTitle": "Pure And Natural Ladies Textured Cowl Neck Long Sleeve Top (Size L, 16-18) - Chocolate",
+    "precedingAuctionCode": "0019907219"
   }
 }
