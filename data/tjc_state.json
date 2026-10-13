@@ -450476,11 +450476,29 @@
       "productUrl": null,
       "lastUpdated": 1791855436956,
       "source": "gha"
+    },
+    "7752157": {
+      "sku": "7752157",
+      "firstAir": 1791855557052,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791855557052,
+      "title": "PHILIPS Pack of 3 Filters (Reduces Chlorine & Sediments)",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019905881",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-13",
+      "time": "02:39:17",
+      "productUrl": null,
+      "lastUpdated": 1791855557052,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791855500866,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506074,11 +506092,22 @@
         "followingSku": "6291319",
         "followingTitle": "Handcrafted Rose Flower Bear with Bow (Size 28x18x17Cm) - Turquoise Blue",
         "followingAuctionCode": "0019905774"
+      },
+      {
+        "start": 1791855500866,
+        "end": 1791855557052,
+        "durationMin": 0.9,
+        "precedingSku": "8083760",
+        "precedingTitle": "High Speed Handheld Fan with Digital Display - Portable USB-C Rechargeable Mini Fan - Black",
+        "precedingAuctionCode": "0019905874",
+        "followingSku": "7752157",
+        "followingTitle": "PHILIPS Pack of 3 Filters (Reduces Chlorine & Sediments)",
+        "followingAuctionCode": "0019905881"
       }
     ],
-    "lastOnAirSku": "8083760",
-    "lastOnAirTitle": "High Speed Handheld Fan with Digital Display - Portable USB-C Rechargeable Mini Fan - Black",
-    "lastOnAirAuctionCode": "0019905874",
+    "lastOnAirSku": "7752157",
+    "lastOnAirTitle": "PHILIPS Pack of 3 Filters (Reduces Chlorine & Sediments)",
+    "lastOnAirAuctionCode": "0019905881",
     "precedingSku": "8083760",
     "precedingTitle": "High Speed Handheld Fan with Digital Display - Portable USB-C Rechargeable Mini Fan - Black",
     "precedingAuctionCode": "0019905874"
