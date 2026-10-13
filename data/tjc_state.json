@@ -452649,11 +452649,29 @@
       "productUrlChecked": 1791911664191,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8592138": {
+      "sku": "8592138",
+      "firstAir": 1791911838561,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791911838561,
+      "title": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019907350",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-13",
+      "time": "18:17:18",
+      "productUrl": null,
+      "lastUpdated": 1791911838561,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791911661001,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -508874,11 +508892,22 @@
         "followingSku": "8683719",
         "followingTitle": "La Marey Classic Polka Dot Pattern Lightweight Scarf (180 x 70 cm) - Navy Blue & Red.",
         "followingAuctionCode": "0019907371"
+      },
+      {
+        "start": 1791911661001,
+        "end": 1791911838561,
+        "durationMin": 3.0,
+        "precedingSku": "8683719",
+        "precedingTitle": "La Marey Classic Polka Dot Pattern Lightweight Scarf (180 x 70 cm) - Navy Blue & Red.",
+        "precedingAuctionCode": "0019907371",
+        "followingSku": "8592138",
+        "followingTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
+        "followingAuctionCode": "0019907350"
       }
     ],
-    "lastOnAirSku": "8683719",
-    "lastOnAirTitle": "La Marey Classic Polka Dot Pattern Lightweight Scarf (180 x 70 cm) - Navy Blue & Red.",
-    "lastOnAirAuctionCode": "0019907371",
+    "lastOnAirSku": "8592138",
+    "lastOnAirTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
+    "lastOnAirAuctionCode": "0019907350",
     "precedingSku": "8683719",
     "precedingTitle": "La Marey Classic Polka Dot Pattern Lightweight Scarf (180 x 70 cm) - Navy Blue & Red.",
     "precedingAuctionCode": "0019907371"
