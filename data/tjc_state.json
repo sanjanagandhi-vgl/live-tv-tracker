@@ -158387,21 +158387,26 @@
       "sku": "8379848",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "11:10:39",
+      "date": "2026-10-13",
+      "time": "22:26:19",
       "preExisting": true,
       "missedAt": 1786702239367,
       "missedDelay": null,
-      "lastUpdated": 1786702239367,
+      "lastUpdated": 1791926779649,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Shadow Leap Savage Extrait De Parfum - 100ml",
-      "auctionCode": "0019820686",
+      "title": "Qawafi Shadow Leap Basilisk Extrait De Parfum - 100ml",
+      "auctionCode": "0019908249",
       "source": "gha",
       "productUrl": "/products/shadow-leap-perfume",
       "productUrlChecked": 1786702251106,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791926779649,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8379851": {
       "sku": "8379851",
@@ -452917,8 +452922,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791926539486,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509271,11 +509276,22 @@
         "followingSku": "8739967",
         "followingTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
         "followingAuctionCode": "0019908261"
+      },
+      {
+        "start": 1791926539486,
+        "end": 1791926779649,
+        "durationMin": 4.0,
+        "precedingSku": "8739967",
+        "precedingTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
+        "precedingAuctionCode": "0019908261",
+        "followingSku": "8379848",
+        "followingTitle": "Qawafi Shadow Leap Basilisk Extrait De Parfum - 100ml",
+        "followingAuctionCode": "0019908249"
       }
     ],
-    "lastOnAirSku": "8739967",
-    "lastOnAirTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
-    "lastOnAirAuctionCode": "0019908261",
+    "lastOnAirSku": "8379848",
+    "lastOnAirTitle": "Qawafi Shadow Leap Basilisk Extrait De Parfum - 100ml",
+    "lastOnAirAuctionCode": "0019908249",
     "precedingSku": "8739967",
     "precedingTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
     "precedingAuctionCode": "0019908261"
