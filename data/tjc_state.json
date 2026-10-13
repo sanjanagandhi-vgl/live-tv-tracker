@@ -313419,21 +313419,26 @@
       "sku": "8680215",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-06",
-      "time": "19:24:22",
+      "date": "2026-10-13",
+      "time": "07:40:33",
       "preExisting": true,
       "missedAt": 1788719062011,
       "missedDelay": null,
-      "lastUpdated": 1788719062011,
+      "lastUpdated": 1791873633304,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Opatra Lesley Anne COSY NIGHT Candle",
-      "auctionCode": "0019860478",
+      "auctionCode": "0019906489",
       "source": "gha",
       "productUrl": "/products/opatra-lesley-anne-peace-candle-8680118",
       "productUrlChecked": 1788719065618,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791873633304,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8505207": {
       "sku": "8505207",
@@ -450959,8 +450964,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791873326002,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506796,11 +506801,22 @@
         "followingSku": "7958841",
         "followingTitle": "Opatra LumiFlex LED & NIR Face Mask With Neck Strap - Lifetime Warranty.",
         "followingAuctionCode": "0019907423"
+      },
+      {
+        "start": 1791873326002,
+        "end": 1791873633304,
+        "durationMin": 5.1,
+        "precedingSku": "7958841",
+        "precedingTitle": "Opatra LumiFlex LED & NIR Face Mask With Neck Strap - Lifetime Warranty.",
+        "precedingAuctionCode": "0019907423",
+        "followingSku": "8680215",
+        "followingTitle": "Opatra Lesley Anne COSY NIGHT Candle",
+        "followingAuctionCode": "0019906489"
       }
     ],
-    "lastOnAirSku": "7958841",
-    "lastOnAirTitle": "Opatra LumiFlex LED & NIR Face Mask With Neck Strap - Lifetime Warranty.",
-    "lastOnAirAuctionCode": "0019907423",
+    "lastOnAirSku": "8680215",
+    "lastOnAirTitle": "Opatra Lesley Anne COSY NIGHT Candle",
+    "lastOnAirAuctionCode": "0019906489",
     "precedingSku": "7958841",
     "precedingTitle": "Opatra LumiFlex LED & NIR Face Mask With Neck Strap - Lifetime Warranty.",
     "precedingAuctionCode": "0019907423"
