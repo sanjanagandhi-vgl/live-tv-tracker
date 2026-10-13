@@ -262575,21 +262575,26 @@
       "sku": "8466112",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-28",
-      "time": "13:01:08",
+      "date": "2026-10-13",
+      "time": "03:41:19",
       "preExisting": true,
       "missedAt": 1787918468089,
       "missedDelay": null,
-      "lastUpdated": 1787918468089,
+      "lastUpdated": 1791859279279,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "LA MAREY 2-Piece Sling Crossbody Bag & Matching Wallet Combo - Pumkin Orange",
-      "auctionCode": "0019848129",
+      "auctionCode": "0019905803",
       "source": "gha",
       "productUrl": "/products/la-marey-crossbody-bag-2658466111",
       "productUrlChecked": 1787918472424,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791859279279,
+      "pdpPrice": "239.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8504739": {
       "sku": "8504739",
@@ -450779,8 +450784,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791859232372,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506440,11 +506445,22 @@
         "followingSku": "8502051",
         "followingTitle": "Designer Inspired Embroidered Top-Handle Satchel with Adjustable Crossbody Strap - Black & Brown",
         "followingAuctionCode": "0019905787"
+      },
+      {
+        "start": 1791859232372,
+        "end": 1791859279279,
+        "durationMin": 0.8,
+        "precedingSku": "8441416",
+        "precedingTitle": "La Marey Designer Inspired Sculptured Handle Tote With Inside Pouch - Tan",
+        "precedingAuctionCode": "0019905801",
+        "followingSku": "8466112",
+        "followingTitle": "LA MAREY 2-Piece Sling Crossbody Bag & Matching Wallet Combo - Pumkin Orange",
+        "followingAuctionCode": "0019905803"
       }
     ],
-    "lastOnAirSku": "8441416",
-    "lastOnAirTitle": "La Marey Designer Inspired Sculptured Handle Tote With Inside Pouch - Tan",
-    "lastOnAirAuctionCode": "0019905801",
+    "lastOnAirSku": "8466112",
+    "lastOnAirTitle": "LA MAREY 2-Piece Sling Crossbody Bag & Matching Wallet Combo - Pumkin Orange",
+    "lastOnAirAuctionCode": "0019905803",
     "precedingSku": "8441416",
     "precedingTitle": "La Marey Designer Inspired Sculptured Handle Tote With Inside Pouch - Tan",
     "precedingAuctionCode": "0019905801"
