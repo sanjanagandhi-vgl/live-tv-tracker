@@ -274810,21 +274810,26 @@
       "sku": "8624421",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-30",
-      "time": "22:58:22",
+      "date": "2026-10-13",
+      "time": "23:29:16",
       "preExisting": true,
       "missedAt": 1788127102861,
       "missedDelay": null,
-      "lastUpdated": 1788127102861,
+      "lastUpdated": 1791930556599,
       "missedPrice": 379.99,
       "missedImg": true,
       "title": "EON 1962 Dragon & Phoenix Ronda 775 Swiss Movement 5ATM WR White 24K Gold Coin Dial & IPG 316 Stainless Steel Case Womens Watch with Brown Genuine Leather Strap",
-      "auctionCode": "0019851745",
+      "auctionCode": "0019908277",
       "source": "gha",
       "productUrl": "/products/eon-1962-dragon-phoenix-ronda-775-swiss-movement-5atm-wr-white-24k-gold-coin-dial-ipg-316-stainless-steel-case-womens-watch-6048624420",
       "productUrlChecked": 1788127109510,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791930556599,
+      "pdpPrice": "4999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8532994": {
       "sku": "8532994",
@@ -452922,8 +452927,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791930327813,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509309,11 +509314,22 @@
         "followingSku": "8538095",
         "followingTitle": "CBD Queen: Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
         "followingAuctionCode": "0019908033"
+      },
+      {
+        "start": 1791930327813,
+        "end": 1791930556599,
+        "durationMin": 3.8,
+        "precedingSku": "8538095",
+        "precedingTitle": "CBD Queen: Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
+        "precedingAuctionCode": "0019908033",
+        "followingSku": "8624421",
+        "followingTitle": "EON 1962 Dragon & Phoenix Ronda 775 Swiss Movement 5ATM WR White 24K Gold Coin Dial & IPG 316 Stainless Steel Case Womens Watch with Brown Genuine Leather Strap",
+        "followingAuctionCode": "0019908277"
       }
     ],
-    "lastOnAirSku": "8538095",
-    "lastOnAirTitle": "CBD Queen: Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
-    "lastOnAirAuctionCode": "0019908033",
+    "lastOnAirSku": "8624421",
+    "lastOnAirTitle": "EON 1962 Dragon & Phoenix Ronda 775 Swiss Movement 5ATM WR White 24K Gold Coin Dial & IPG 316 Stainless Steel Case Womens Watch with Brown Genuine Leather Strap",
+    "lastOnAirAuctionCode": "0019908277",
     "precedingSku": "8538095",
     "precedingTitle": "CBD Queen: Broad Spectrum Oil 20% - 2000mg - Natural - 10ml",
     "precedingAuctionCode": "0019908033"
