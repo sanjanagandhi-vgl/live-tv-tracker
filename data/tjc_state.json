@@ -452285,11 +452285,29 @@
       "productUrl": null,
       "lastUpdated": 1791908480327,
       "source": "gha"
+    },
+    "8757743": {
+      "sku": "8757743",
+      "firstAir": 1791908600764,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791908600764,
+      "title": "Jenna Glossy Patent Slip-on Ballet Pumps (Size 4) - Black",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019906999",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-13",
+      "time": "17:23:20",
+      "productUrl": null,
+      "lastUpdated": 1791908600764,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791908540774,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -508477,11 +508495,22 @@
         "followingSku": "8757748",
         "followingTitle": "Jenna Glossy Patent Slip-on Ballet Pumps (Size 4) - Black",
         "followingAuctionCode": "0019907004"
+      },
+      {
+        "start": 1791908540774,
+        "end": 1791908600764,
+        "durationMin": 1.0,
+        "precedingSku": "8757748",
+        "precedingTitle": "Jenna Glossy Patent Slip-on Ballet Pumps (Size 4) - Black",
+        "precedingAuctionCode": "0019907004",
+        "followingSku": "8757743",
+        "followingTitle": "Jenna Glossy Patent Slip-on Ballet Pumps (Size 4) - Black",
+        "followingAuctionCode": "0019906999"
       }
     ],
-    "lastOnAirSku": "8757748",
+    "lastOnAirSku": "8757743",
     "lastOnAirTitle": "Jenna Glossy Patent Slip-on Ballet Pumps (Size 4) - Black",
-    "lastOnAirAuctionCode": "0019907004",
+    "lastOnAirAuctionCode": "0019906999",
     "precedingSku": "8757748",
     "precedingTitle": "Jenna Glossy Patent Slip-on Ballet Pumps (Size 4) - Black",
     "precedingAuctionCode": "0019907004"
