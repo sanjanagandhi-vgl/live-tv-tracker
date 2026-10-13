@@ -410362,17 +410362,17 @@
       "firstAir": 1790822540817,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790822779787,
+      "lastAir": 1791850942011,
       "title": "Teddy Fleece Jacket (Size L) - Tan",
-      "pdpPrice": 39.99,
-      "auctionCode": "0019890331",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019906866",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-01",
-      "time": "03:46:19",
+      "date": "2026-10-13",
+      "time": "01:22:22",
       "productUrl": "/products/teddy-fleece-jacket-size-l-tan?variant=53105670750474",
-      "lastUpdated": 1790823324943,
+      "lastUpdated": 1791850942011,
       "source": "gha",
       "productUrlChecked": 1790822783251,
       "productUrlStatus": 200,
@@ -450378,8 +450378,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791850833577,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -505896,11 +505896,22 @@
         "followingSku": "7840731",
         "followingTitle": "Teddy Fleece Jacket (Size L) - Navy",
         "followingAuctionCode": "0019906863"
+      },
+      {
+        "start": 1791850833577,
+        "end": 1791850942011,
+        "durationMin": 1.8,
+        "precedingSku": "7840731",
+        "precedingTitle": "Teddy Fleece Jacket (Size L) - Navy",
+        "precedingAuctionCode": "0019906863",
+        "followingSku": "7840725",
+        "followingTitle": "Teddy Fleece Jacket (Size L) - Tan",
+        "followingAuctionCode": "0019906866"
       }
     ],
-    "lastOnAirSku": "7840731",
-    "lastOnAirTitle": "Teddy Fleece Jacket (Size L) - Navy",
-    "lastOnAirAuctionCode": "0019906863",
+    "lastOnAirSku": "7840725",
+    "lastOnAirTitle": "Teddy Fleece Jacket (Size L) - Tan",
+    "lastOnAirAuctionCode": "0019906866",
     "precedingSku": "7840731",
     "precedingTitle": "Teddy Fleece Jacket (Size L) - Navy",
     "precedingAuctionCode": "0019906863"
