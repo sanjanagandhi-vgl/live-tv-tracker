@@ -20019,21 +20019,22 @@
       "firstAir": 1785173738594,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785174860830,
-      "title": "Royal Bali Collection - D'Joy Sterling Silver Tulangnaga Necklace (Size - 16) with Lobster Clasp",
-      "pdpPrice": 149.99,
-      "auctionCode": "0019798259",
-      "buy": false,
+      "lastAir": 1791933860927,
+      "title": "Royal Bali Collection - D'Joy Sterling Silver Necklace (Size - 22) with Lobster Clasp",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019907567",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "18:54:20",
-      "lastUpdated": 1785174982258,
+      "date": "2026-10-14",
+      "time": "00:24:20",
+      "lastUpdated": 1791933860927,
       "source": "gha",
       "missedAt": 1785174982258,
       "missedDelay": 2,
       "missedPrice": 149.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8514546": {
       "sku": "8514546",
@@ -452927,8 +452928,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791933635176,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509347,11 +509348,22 @@
         "followingSku": "8514545",
         "followingTitle": "Royal Bali Collection - Sterling Silver Filigree Split Heart Pendant, Silver Wt. 10.80 Gms",
         "followingAuctionCode": "0019908191"
+      },
+      {
+        "start": 1791933635176,
+        "end": 1791933860927,
+        "durationMin": 3.8,
+        "precedingSku": "8514545",
+        "precedingTitle": "Royal Bali Collection - Sterling Silver Filigree Split Heart Pendant, Silver Wt. 10.80 Gms",
+        "precedingAuctionCode": "0019908191",
+        "followingSku": "8512122",
+        "followingTitle": "Royal Bali Collection - D'Joy Sterling Silver Necklace (Size - 22) with Lobster Clasp",
+        "followingAuctionCode": "0019907567"
       }
     ],
-    "lastOnAirSku": "8514545",
-    "lastOnAirTitle": "Royal Bali Collection - Sterling Silver Filigree Split Heart Pendant, Silver Wt. 10.80 Gms",
-    "lastOnAirAuctionCode": "0019908191",
+    "lastOnAirSku": "8512122",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Sterling Silver Necklace (Size - 22) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019907567",
     "precedingSku": "8514545",
     "precedingTitle": "Royal Bali Collection - Sterling Silver Filigree Split Heart Pendant, Silver Wt. 10.80 Gms",
     "precedingAuctionCode": "0019908191"
