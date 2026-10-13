@@ -6701,18 +6701,18 @@
       "sku": "7958078",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-05",
-      "time": "19:43:20",
+      "date": "2026-10-13",
+      "time": "21:17:21",
       "preExisting": true,
       "missedAt": 1784916085649,
       "missedDelay": null,
-      "lastUpdated": 1791225800099,
+      "lastUpdated": 1791922641075,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
-      "auctionCode": "0019896187",
+      "auctionCode": "0019908438",
       "source": "gha",
-      "lastAir": 1791225800099,
+      "lastAir": 1791922641075,
       "pdpPrice": "59.99",
       "buy": true,
       "login": false,
@@ -452917,8 +452917,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791921861100,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509249,11 +509249,22 @@
         "followingSku": "8631215",
         "followingTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
         "followingAuctionCode": "0019907968"
+      },
+      {
+        "start": 1791921861100,
+        "end": 1791922641075,
+        "durationMin": 13.0,
+        "precedingSku": "8631215",
+        "precedingTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
+        "precedingAuctionCode": "0019907968",
+        "followingSku": "7958078",
+        "followingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+        "followingAuctionCode": "0019908438"
       }
     ],
-    "lastOnAirSku": "8631215",
-    "lastOnAirTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
-    "lastOnAirAuctionCode": "0019907968",
+    "lastOnAirSku": "7958078",
+    "lastOnAirTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+    "lastOnAirAuctionCode": "0019908438",
     "precedingSku": "8631215",
     "precedingTitle": "LIVMORE Cordless Vacuum -  Lightweight 3.1Kg,  200w-20kpa  with HEPA Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
     "precedingAuctionCode": "0019907968"
