@@ -452499,9 +452499,16 @@
       "img": true,
       "date": "2026-10-13",
       "time": "18:04:21",
-      "productUrl": null,
-      "lastUpdated": 1791911061064,
-      "source": "gha"
+      "productUrl": "/products/tjc-special-leather-shoulder-bag-burgundy-8669832",
+      "lastUpdated": 1791911661001,
+      "source": "gha",
+      "missedAt": 1791911661001,
+      "missedDelay": 10,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "productUrlChecked": 1791911663290,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8757747": {
       "sku": "8757747",
@@ -452582,11 +452589,71 @@
       "productUrlChecked": 1791909506827,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8669848": {
+      "sku": "8669848",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-13",
+      "time": "18:14:21",
+      "preExisting": true,
+      "missedAt": 1791911661001,
+      "missedDelay": null,
+      "lastUpdated": 1791911661001,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "title": "Mc Lanee Mayfair Monogram Crossbody Bag - Grey",
+      "auctionCode": "0019908445",
+      "source": "gha",
+      "productUrl": "/products/tjc-special-leather-shoulder-bag-burgundy-8669832",
+      "productUrlChecked": 1791911663876,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8669833": {
+      "sku": "8669833",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-13",
+      "time": "18:14:21",
+      "preExisting": true,
+      "missedAt": 1791911661001,
+      "missedDelay": null,
+      "lastUpdated": 1791911661001,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "title": "Mc Lanee Mayfair Monogram Crossbody Bag - Black",
+      "auctionCode": "0019908444",
+      "source": "gha",
+      "productUrl": "/products/tjc-special-leather-shoulder-bag-burgundy-8669832",
+      "productUrlChecked": 1791911664026,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8669832": {
+      "sku": "8669832",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-13",
+      "time": "18:14:21",
+      "preExisting": true,
+      "missedAt": 1791911661001,
+      "missedDelay": null,
+      "lastUpdated": 1791911661001,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "title": "Mc Lanee Mayfair Monogram Crossbody Bag- Burgundy",
+      "auctionCode": "0019908443",
+      "source": "gha",
+      "productUrl": "/products/tjc-special-leather-shoulder-bag-burgundy-8669832",
+      "productUrlChecked": 1791911664191,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791911661001,
     "gaps": [
       {
         "start": 1785823527869,
@@ -508812,8 +508879,8 @@
     "lastOnAirSku": "8683719",
     "lastOnAirTitle": "La Marey Classic Polka Dot Pattern Lightweight Scarf (180 x 70 cm) - Navy Blue & Red.",
     "lastOnAirAuctionCode": "0019907371",
-    "precedingSku": "8669847",
-    "precedingTitle": "Mc Lanee Mayfair Monogram Crossbody Bag- Burgundy",
-    "precedingAuctionCode": "0019908442"
+    "precedingSku": "8683719",
+    "precedingTitle": "La Marey Classic Polka Dot Pattern Lightweight Scarf (180 x 70 cm) - Navy Blue & Red.",
+    "precedingAuctionCode": "0019907371"
   }
 }
