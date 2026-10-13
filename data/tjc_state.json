@@ -450570,11 +450570,29 @@
       "productUrlChecked": 1791856045259,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8439188": {
+      "sku": "8439188",
+      "firstAir": 1791858032708,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791858032708,
+      "title": "Designer Inspired Tote Handbag with Shoulder Strap - Green & White",
+      "pdpPrice": "209.99",
+      "auctionCode": "0019905785",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-13",
+      "time": "03:20:32",
+      "productUrl": null,
+      "lastUpdated": 1791858032708,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791857956035,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506212,11 +506230,22 @@
         "followingSku": "8646875",
         "followingTitle": "Assots London Tina Suede Slouchy Shoulder Bag - Tan",
         "followingAuctionCode": "0019905783"
+      },
+      {
+        "start": 1791857956035,
+        "end": 1791858032708,
+        "durationMin": 1.3,
+        "precedingSku": "8646875",
+        "precedingTitle": "Assots London Tina Suede Slouchy Shoulder Bag - Tan",
+        "precedingAuctionCode": "0019905783",
+        "followingSku": "8439188",
+        "followingTitle": "Designer Inspired Tote Handbag with Shoulder Strap - Green & White",
+        "followingAuctionCode": "0019905785"
       }
     ],
-    "lastOnAirSku": "8646875",
-    "lastOnAirTitle": "Assots London Tina Suede Slouchy Shoulder Bag - Tan",
-    "lastOnAirAuctionCode": "0019905783",
+    "lastOnAirSku": "8439188",
+    "lastOnAirTitle": "Designer Inspired Tote Handbag with Shoulder Strap - Green & White",
+    "lastOnAirAuctionCode": "0019905785",
     "precedingSku": "8646875",
     "precedingTitle": "Assots London Tina Suede Slouchy Shoulder Bag - Tan",
     "precedingAuctionCode": "0019905783"
