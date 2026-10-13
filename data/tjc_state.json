@@ -435972,23 +435972,23 @@
       "sku": "8691186",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-12",
-      "time": "06:55:25",
+      "date": "2026-10-13",
+      "time": "01:26:19",
       "preExisting": true,
       "missedAt": 1791474800027,
       "missedDelay": null,
-      "lastUpdated": 1791784525478,
+      "lastUpdated": 1791851179751,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
-      "auctionCode": "0019904542",
+      "auctionCode": "0019906851",
       "source": "gha",
       "productUrl": "/products/la-marey-signature-longline-faux-fur-winter-coat-size-s-m-8-14-beige-8691178",
       "productUrlChecked": 1791474803130,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791784525478,
-      "pdpPrice": "59.99",
+      "lastAir": 1791851179751,
+      "pdpPrice": "345.99",
       "buy": true,
       "login": false,
       "img": true
@@ -450378,8 +450378,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791851124724,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -505907,11 +505907,22 @@
         "followingSku": "7840725",
         "followingTitle": "Teddy Fleece Jacket (Size L) - Tan",
         "followingAuctionCode": "0019906866"
+      },
+      {
+        "start": 1791851124724,
+        "end": 1791851179751,
+        "durationMin": 0.9,
+        "precedingSku": "7840725",
+        "precedingTitle": "Teddy Fleece Jacket (Size L) - Tan",
+        "precedingAuctionCode": "0019906866",
+        "followingSku": "8691186",
+        "followingTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+        "followingAuctionCode": "0019906851"
       }
     ],
-    "lastOnAirSku": "7840725",
-    "lastOnAirTitle": "Teddy Fleece Jacket (Size L) - Tan",
-    "lastOnAirAuctionCode": "0019906866",
+    "lastOnAirSku": "8691186",
+    "lastOnAirTitle": "La Marey Signature Longline Faux Fur Winter Coat (Size - S-M, 8-14) - Beige",
+    "lastOnAirAuctionCode": "0019906851",
     "precedingSku": "7840725",
     "precedingTitle": "Teddy Fleece Jacket (Size L) - Tan",
     "precedingAuctionCode": "0019906866"
