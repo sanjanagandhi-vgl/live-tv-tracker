@@ -214821,21 +214821,26 @@
       "sku": "8501467",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "21:55:29",
+      "date": "2026-10-13",
+      "time": "03:59:17",
       "preExisting": true,
       "missedAt": 1787345729393,
       "missedDelay": null,
-      "lastUpdated": 1787345729393,
+      "lastUpdated": 1791860357991,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "Floral Crochet Slouchy Tote Bag - Brown",
-      "auctionCode": "0019826262",
+      "auctionCode": "0019905810",
       "source": "gha",
       "productUrl": "/products/crochet-design-slouchy-tote-bag-1958501464",
       "productUrlChecked": 1787345735586,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791860357991,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8501468": {
       "sku": "8501468",
@@ -450883,8 +450888,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791860300721,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506577,11 +506582,22 @@
         "followingSku": "8431193",
         "followingTitle": "Set of 2 Tropical Print Insulated Tote Bags - Black & Multicolour",
         "followingAuctionCode": "0019905804"
+      },
+      {
+        "start": 1791860300721,
+        "end": 1791860357991,
+        "durationMin": 1.0,
+        "precedingSku": "8431193",
+        "precedingTitle": "Set of 2 Tropical Print Insulated Tote Bags - Black & Multicolour",
+        "precedingAuctionCode": "0019905804",
+        "followingSku": "8501467",
+        "followingTitle": "Floral Crochet Slouchy Tote Bag - Brown",
+        "followingAuctionCode": "0019905810"
       }
     ],
-    "lastOnAirSku": "8431193",
-    "lastOnAirTitle": "Set of 2 Tropical Print Insulated Tote Bags - Black & Multicolour",
-    "lastOnAirAuctionCode": "0019905804",
+    "lastOnAirSku": "8501467",
+    "lastOnAirTitle": "Floral Crochet Slouchy Tote Bag - Brown",
+    "lastOnAirAuctionCode": "0019905810",
     "precedingSku": "8431193",
     "precedingTitle": "Set of 2 Tropical Print Insulated Tote Bags - Black & Multicolour",
     "precedingAuctionCode": "0019905804"
