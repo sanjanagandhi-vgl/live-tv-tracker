@@ -167848,21 +167848,26 @@
       "sku": "8576262",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "13:24:22",
+      "date": "2026-10-13",
+      "time": "05:34:21",
       "preExisting": true,
       "missedAt": 1786796662322,
       "missedDelay": null,
-      "lastUpdated": 1786796662322,
+      "lastUpdated": 1791866061532,
       "missedPrice": 69.99,
       "missedImg": true,
       "title": "WILLIAM HUNT Seiko VD53 Japan Quartz 5ATM WR Black Dial & Silver Case Mens Watch with Silver Stainless Steel Strap",
-      "auctionCode": "0019820928",
+      "auctionCode": "0019906804",
       "source": "gha",
       "productUrl": "/products/william-hunt-seiko-vd53-japan-quartz-5atm-wr-black-dial-black-case-mens-watch-with-black-stainless-steel-strap-8576277",
       "productUrlChecked": 1786796677963,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791866061532,
+      "pdpPrice": "299.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8576273": {
       "sku": "8576273",
@@ -450949,8 +450954,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791865878173,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506731,11 +506736,22 @@
         "followingSku": "8431614",
         "followingTitle": "MIDNIGHT TLV DEAL- 24K Yellow Gold 1.00 Gram (99.9% Purity ) Swiss Movement 5 ATM Water Resistant (39mm) with Black Leather Strap EON 1962 Watch",
         "followingAuctionCode": "0019907408"
+      },
+      {
+        "start": 1791865878173,
+        "end": 1791866061532,
+        "durationMin": 3.1,
+        "precedingSku": "8431614",
+        "precedingTitle": "MIDNIGHT TLV DEAL- 24K Yellow Gold 1.00 Gram (99.9% Purity ) Swiss Movement 5 ATM Water Resistant...",
+        "precedingAuctionCode": null,
+        "followingSku": "8576262",
+        "followingTitle": "WILLIAM HUNT Seiko VD53 Japan Quartz 5ATM WR Black Dial & Silver Case Mens Watch with Silver Stainless Steel Strap",
+        "followingAuctionCode": "0019906804"
       }
     ],
-    "lastOnAirSku": "8431614",
-    "lastOnAirTitle": "MIDNIGHT TLV DEAL- 24K Yellow Gold 1.00 Gram (99.9% Purity ) Swiss Movement 5 ATM Water Resistant...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8576262",
+    "lastOnAirTitle": "WILLIAM HUNT Seiko VD53 Japan Quartz 5ATM WR Black Dial & Silver Case Mens Watch with Silver Stainless Steel Strap",
+    "lastOnAirAuctionCode": "0019906804",
     "precedingSku": "8431614",
     "precedingTitle": "MIDNIGHT TLV DEAL- 24K Yellow Gold 1.00 Gram (99.9% Purity ) Swiss Movement 5 ATM Water Resistant...",
     "precedingAuctionCode": null
