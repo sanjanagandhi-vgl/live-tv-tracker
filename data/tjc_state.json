@@ -333847,17 +333847,17 @@
       "firstAir": 1789107439884,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791680958111,
+      "lastAir": 1791862038238,
       "title": "Christmas gift card(pack of 5",
-      "pdpPrice": 7.99,
-      "auctionCode": "0019902638",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019906768",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-11",
-      "time": "02:09:18",
+      "date": "2026-10-13",
+      "time": "04:27:18",
       "productUrl": "/products/christmas-gift-cardpack-of-58312163?variant=53577149677834",
-      "lastUpdated": 1791680958111,
+      "lastUpdated": 1791862038238,
       "source": "gha",
       "missedAt": 1789108371054,
       "missedDelay": 10,
@@ -450949,8 +450949,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791861978637,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506676,11 +506676,22 @@
         "followingSku": "8085424",
         "followingTitle": "Set of 4 Canvas DIY Diamond Paintings (35 x 35 cm) - Multicolour",
         "followingAuctionCode": "0019906769"
+      },
+      {
+        "start": 1791861978637,
+        "end": 1791862038238,
+        "durationMin": 1.0,
+        "precedingSku": "8609232",
+        "precedingTitle": "LIVMORE Set of 2 - 24K Gold  (99.9% Purity) Fortuna Flake Pens With 2 Refills & Gift Box - Red & Gold",
+        "precedingAuctionCode": "0019906727",
+        "followingSku": "8312163",
+        "followingTitle": "Christmas gift card(pack of 5",
+        "followingAuctionCode": "0019906768"
       }
     ],
-    "lastOnAirSku": "8609232",
-    "lastOnAirTitle": "LIVMORE Set of 2 - 24K Gold  (99.9% Purity) Fortuna Flake Pens With 2 Refills & Gift Box - Red & Gold",
-    "lastOnAirAuctionCode": "0019906727",
+    "lastOnAirSku": "8312163",
+    "lastOnAirTitle": "Christmas gift card(pack of 5",
+    "lastOnAirAuctionCode": "0019906768",
     "precedingSku": "8609232",
     "precedingTitle": "LIVMORE Set of 2 - 24K Gold  (99.9% Purity) Fortuna Flake Pens With 2 Refills & Gift Box - Red & Gold",
     "precedingAuctionCode": "0019906727"
