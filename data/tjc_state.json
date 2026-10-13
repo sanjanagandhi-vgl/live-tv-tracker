@@ -24009,19 +24009,19 @@
       "sku": "7635979",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-04",
-      "time": "06:07:17",
+      "date": "2026-10-13",
+      "time": "08:08:20",
       "preExisting": true,
       "missedAt": 1785379835209,
       "missedDelay": null,
-      "lastUpdated": 1785820037826,
+      "lastUpdated": 1791875300213,
       "missedPrice": 39.99,
       "missedImg": true,
-      "title": "Doctors Formula- Marine Collagen Booster Drink 15000mg - 500ml",
-      "auctionCode": "0019806526",
+      "title": "Doctors Formula- Marine Collagen Booster Drink 15000mg - 500ml (BERRY FLAVOUR)",
+      "auctionCode": "0019906779",
       "source": "gha",
-      "lastAir": 1785820037826,
-      "pdpPrice": "39.99",
+      "lastAir": 1791875300213,
+      "pdpPrice": "89.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -450964,8 +450964,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791875130477,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506812,11 +506812,22 @@
         "followingSku": "8680215",
         "followingTitle": "Opatra Lesley Anne COSY NIGHT Candle",
         "followingAuctionCode": "0019906489"
+      },
+      {
+        "start": 1791875130477,
+        "end": 1791875300213,
+        "durationMin": 2.8,
+        "precedingSku": "8680215",
+        "precedingTitle": "Opatra Lesley Anne COSY NIGHT Candle",
+        "precedingAuctionCode": "0019906489",
+        "followingSku": "7635979",
+        "followingTitle": "Doctors Formula- Marine Collagen Booster Drink 15000mg - 500ml (BERRY FLAVOUR)",
+        "followingAuctionCode": "0019906779"
       }
     ],
-    "lastOnAirSku": "8680215",
-    "lastOnAirTitle": "Opatra Lesley Anne COSY NIGHT Candle",
-    "lastOnAirAuctionCode": "0019906489",
+    "lastOnAirSku": "7635979",
+    "lastOnAirTitle": "Doctors Formula- Marine Collagen Booster Drink 15000mg - 500ml (BERRY FLAVOUR)",
+    "lastOnAirAuctionCode": "0019906779",
     "precedingSku": "8680215",
     "precedingTitle": "Opatra Lesley Anne COSY NIGHT Candle",
     "precedingAuctionCode": "0019906489"
