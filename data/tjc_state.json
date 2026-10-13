@@ -414653,21 +414653,26 @@
       "sku": "8779770",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "09:08:21",
+      "date": "2026-10-13",
+      "time": "06:37:17",
       "preExisting": true,
       "missedAt": 1790928501974,
       "missedDelay": null,
-      "lastUpdated": 1790928501974,
+      "lastUpdated": 1791869837776,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Lipsy Royal Garnet EDT - 30ml",
-      "auctionCode": "0019892576",
+      "title": "Lipsy Radiant Pearl EDT - 30ml",
+      "auctionCode": "0019906502",
       "source": "gha",
       "productUrl": "/products/lipsy-radiant-pearl-edt-30ml-8779769",
       "productUrlChecked": 1790928505585,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791869837776,
+      "pdpPrice": "89.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8624985": {
       "sku": "8624985",
@@ -450954,8 +450959,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791869781917,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506758,11 +506763,22 @@
         "followingSku": "6860824",
         "followingTitle": "Cetuem: Ice Pack - 100ml.",
         "followingAuctionCode": "0019906501"
+      },
+      {
+        "start": 1791869781917,
+        "end": 1791869837776,
+        "durationMin": 0.9,
+        "precedingSku": "8306337",
+        "precedingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
+        "precedingAuctionCode": "0019906499",
+        "followingSku": "8779770",
+        "followingTitle": "Lipsy Radiant Pearl EDT - 30ml",
+        "followingAuctionCode": "0019906502"
       }
     ],
-    "lastOnAirSku": "8306337",
-    "lastOnAirTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
-    "lastOnAirAuctionCode": "0019906499",
+    "lastOnAirSku": "8779770",
+    "lastOnAirTitle": "Lipsy Radiant Pearl EDT - 30ml",
+    "lastOnAirAuctionCode": "0019906502",
     "precedingSku": "8306337",
     "precedingTitle": "Laurelle V.V. Love Dama DE ORO EDP - 100ml",
     "precedingAuctionCode": "0019906499"
