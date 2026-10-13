@@ -393392,21 +393392,26 @@
       "sku": "8646831",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-26",
-      "time": "11:45:34",
+      "date": "2026-10-13",
+      "time": "13:02:21",
       "preExisting": true,
       "missedAt": 1790419534422,
       "missedDelay": null,
-      "lastUpdated": 1790419534422,
+      "lastUpdated": 1791892941645,
       "missedPrice": 15.99,
       "missedImg": true,
       "title": "Livmore Super Soft Ombre Design Blanket (150x200cm) 250gsm - Navy",
-      "auctionCode": "0019884891",
+      "auctionCode": "0019907077",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-200x1-cm-red-8646828",
       "productUrlChecked": 1790419539947,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791892941645,
+      "pdpPrice": "25.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8646830": {
       "sku": "8646830",
@@ -451223,8 +451228,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791892865521,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -507258,11 +507263,22 @@
         "followingSku": "8719569",
         "followingTitle": "LIVMORE- Cushion Cover Set of 2 (Size-40x40x8 cm) - Grey",
         "followingAuctionCode": "0019907082"
+      },
+      {
+        "start": 1791892865521,
+        "end": 1791892941645,
+        "durationMin": 1.3,
+        "precedingSku": "8719569",
+        "precedingTitle": "LIVMORE- Cushion Set of 2 (Size-40x40x8 cm) - Grey",
+        "precedingAuctionCode": "0019907082",
+        "followingSku": "8646831",
+        "followingTitle": "Livmore Super Soft Ombre Design Blanket (150x200cm) 250gsm - Navy",
+        "followingAuctionCode": "0019907077"
       }
     ],
-    "lastOnAirSku": "8719569",
-    "lastOnAirTitle": "LIVMORE- Cushion Set of 2 (Size-40x40x8 cm) - Grey",
-    "lastOnAirAuctionCode": "0019907082",
+    "lastOnAirSku": "8646831",
+    "lastOnAirTitle": "Livmore Super Soft Ombre Design Blanket (150x200cm) 250gsm - Navy",
+    "lastOnAirAuctionCode": "0019907077",
     "precedingSku": "8719569",
     "precedingTitle": "LIVMORE- Cushion Set of 2 (Size-40x40x8 cm) - Grey",
     "precedingAuctionCode": "0019907082"
