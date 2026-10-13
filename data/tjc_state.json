@@ -284252,17 +284252,17 @@
       "firstAir": 1788246503542,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788890304163,
-      "title": "CBD Queen- Broad Spectrum Oil 20% - 2000mg - Orange (10ml)",
-      "pdpPrice": "39.99",
-      "auctionCode": "0019860895",
+      "lastAir": 1791870501735,
+      "title": "CBD Queen: Broad Spectrum Oil 20% - 2000mg - Orange (10ml)",
+      "pdpPrice": "300.99",
+      "auctionCode": "0019906780",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-08",
-      "time": "18:58:24",
+      "date": "2026-10-13",
+      "time": "06:48:21",
       "productUrl": null,
-      "lastUpdated": 1788890304163,
+      "lastUpdated": 1791870501735,
       "source": "gha"
     },
     "8538098": {
@@ -450959,8 +450959,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791870379962,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506774,11 +506774,22 @@
         "followingSku": "8779770",
         "followingTitle": "Lipsy Radiant Pearl EDT - 30ml",
         "followingAuctionCode": "0019906502"
+      },
+      {
+        "start": 1791870379962,
+        "end": 1791870501735,
+        "durationMin": 2.0,
+        "precedingSku": "8779770",
+        "precedingTitle": "Lipsy Radiant Pearl EDT - 30ml",
+        "precedingAuctionCode": "0019906502",
+        "followingSku": "8538094",
+        "followingTitle": "CBD Queen: Broad Spectrum Oil 20% - 2000mg - Orange (10ml)",
+        "followingAuctionCode": "0019906780"
       }
     ],
-    "lastOnAirSku": "8779770",
-    "lastOnAirTitle": "Lipsy Radiant Pearl EDT - 30ml",
-    "lastOnAirAuctionCode": "0019906502",
+    "lastOnAirSku": "8538094",
+    "lastOnAirTitle": "CBD Queen: Broad Spectrum Oil 20% - 2000mg - Orange (10ml)",
+    "lastOnAirAuctionCode": "0019906780",
     "precedingSku": "8779770",
     "precedingTitle": "Lipsy Radiant Pearl EDT - 30ml",
     "precedingAuctionCode": "0019906502"
