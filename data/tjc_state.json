@@ -436047,21 +436047,26 @@
       "sku": "8647073",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-08",
-      "time": "17:33:21",
+      "date": "2026-10-13",
+      "time": "02:56:21",
       "preExisting": true,
       "missedAt": 1791477201793,
       "missedDelay": null,
-      "lastUpdated": 1791477201793,
+      "lastUpdated": 1791856581204,
       "missedPrice": 37.99,
       "missedImg": true,
-      "title": "LIVMORE Double Layer Plush Cloudy Fleece Throw Blanket (150 x 200) - Multicolour",
-      "auctionCode": "0019900290",
+      "title": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
+      "auctionCode": "0019906715",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-200x1-cm-beige-8647071",
       "productUrlChecked": 1791477204809,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791856581204,
+      "pdpPrice": "399.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8647072": {
       "sku": "8647072",
@@ -450563,8 +450568,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791856524518,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506169,11 +506174,22 @@
         "followingSku": "7752157",
         "followingTitle": "PHILIPS Pack of 3 Filters (Reduces Chlorine & Sediments)",
         "followingAuctionCode": "0019905881"
+      },
+      {
+        "start": 1791856524518,
+        "end": 1791856581204,
+        "durationMin": 0.9,
+        "precedingSku": "8381603",
+        "precedingTitle": "Set of 10 Hand Printed Personal Cards",
+        "precedingAuctionCode": "0019905879",
+        "followingSku": "8647073",
+        "followingTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
+        "followingAuctionCode": "0019906715"
       }
     ],
-    "lastOnAirSku": "8381603",
-    "lastOnAirTitle": "Set of 10 Hand Printed Personal Cards",
-    "lastOnAirAuctionCode": "0019905879",
+    "lastOnAirSku": "8647073",
+    "lastOnAirTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
+    "lastOnAirAuctionCode": "0019906715",
     "precedingSku": "8381603",
     "precedingTitle": "Set of 10 Hand Printed Personal Cards",
     "precedingAuctionCode": "0019905879"
