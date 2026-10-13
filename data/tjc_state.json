@@ -304566,22 +304566,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-13",
-      "time": "06:25:26",
+      "time": "22:19:08",
       "preExisting": true,
       "missedAt": 1788548359695,
       "missedDelay": null,
-      "lastUpdated": 1791869126773,
+      "lastUpdated": 1791926348010,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
-      "auctionCode": null,
+      "auctionCode": "0019908261",
       "source": "gha",
       "productUrl": "/products/pecksniffs-manuka-honey-orange-blossom-moisturising-hand-wash-500ml-8739964?variant=53623760617738",
       "productUrlChecked": 1788548363413,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791869126773,
-      "pdpPrice": 7.99,
+      "lastAir": 1791926348010,
+      "pdpPrice": "39.99",
       "buy": true,
       "login": false,
       "img": true
@@ -452917,8 +452917,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791926183737,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509260,11 +509260,22 @@
         "followingSku": "7958078",
         "followingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
         "followingAuctionCode": "0019908438"
+      },
+      {
+        "start": 1791926183737,
+        "end": 1791926348010,
+        "durationMin": 2.7,
+        "precedingSku": "7958078",
+        "precedingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+        "precedingAuctionCode": "0019908438",
+        "followingSku": "8739967",
+        "followingTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
+        "followingAuctionCode": "0019908261"
       }
     ],
-    "lastOnAirSku": "7958078",
-    "lastOnAirTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
-    "lastOnAirAuctionCode": "0019908438",
+    "lastOnAirSku": "8739967",
+    "lastOnAirTitle": "Pecksniff's Rose & Peony Liquid Hand Wash - 480ml",
+    "lastOnAirAuctionCode": "0019908261",
     "precedingSku": "7958078",
     "precedingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
     "precedingAuctionCode": "0019908438"
