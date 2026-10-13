@@ -451004,11 +451004,29 @@
       "productUrl": null,
       "lastUpdated": 1791880527606,
       "source": "gha"
+    },
+    "8596464": {
+      "sku": "8596464",
+      "firstAir": 1791880702395,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791880702395,
+      "title": "NEW LAUNCH- Marigold - Lotus Under Eye Serum Trio - Hydrating & Smoothing, Cooling & Depuffing, Anti-Ageing & Brightening",
+      "pdpPrice": "134.99",
+      "auctionCode": "0019906909",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-13",
+      "time": "09:38:22",
+      "productUrl": null,
+      "lastUpdated": 1791880702395,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791880583198,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -506899,11 +506917,22 @@
         "followingSku": "8596358",
         "followingTitle": "NEW LAUNCH- Marigold - Lotus Rice Water Skincare Duo- Foaming Face Wash & Face Cleanser - 100ml Each",
         "followingAuctionCode": "0019906908"
+      },
+      {
+        "start": 1791880583198,
+        "end": 1791880702395,
+        "durationMin": 2.0,
+        "precedingSku": "8596358",
+        "precedingTitle": "NEW LAUNCH- Marigold - Lotus Rice Water Skincare Duo- Foaming Face Wash & Face Cleanser - 100ml Each",
+        "precedingAuctionCode": "0019906908",
+        "followingSku": "8596464",
+        "followingTitle": "NEW LAUNCH- Marigold - Lotus Under Eye Serum Trio - Hydrating & Smoothing, Cooling & Depuffing, Anti-Ageing & Brightening",
+        "followingAuctionCode": "0019906909"
       }
     ],
-    "lastOnAirSku": "8596358",
-    "lastOnAirTitle": "NEW LAUNCH- Marigold - Lotus Rice Water Skincare Duo- Foaming Face Wash & Face Cleanser - 100ml Each",
-    "lastOnAirAuctionCode": "0019906908",
+    "lastOnAirSku": "8596464",
+    "lastOnAirTitle": "NEW LAUNCH- Marigold - Lotus Under Eye Serum Trio - Hydrating & Smoothing, Cooling & Depuffing, Anti-Ageing & Brightening",
+    "lastOnAirAuctionCode": "0019906909",
     "precedingSku": "8596358",
     "precedingTitle": "NEW LAUNCH- Marigold - Lotus Rice Water Skincare Duo- Foaming Face Wash & Face Cleanser - 100ml Each",
     "precedingAuctionCode": "0019906908"
