@@ -351217,18 +351217,18 @@
       "firstAir": 1789482330955,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791182061273,
-      "title": "Pure and Natural Wide Leg Elasticated Waist Drawstring Trousers with Pockets (Size S, 8-10) - Black",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019896567",
+      "lastAir": 1791906078952,
+      "title": "Pure and Natural Wide Leg Elasticated Waist Drawstring Trousers with Pockets (Size L, 16-18) - Khaki",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019907229",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-05",
-      "time": "07:34:21",
+      "date": "2026-10-13",
+      "time": "16:41:18",
       "productUrl": "/products/pure-and-natural-jean-and-pant-trouser-size-small-black-8586300",
-      "lastUpdated": 1791182061273,
-      "source": "gha-variant",
+      "lastUpdated": 1791906078952,
+      "source": "gha",
       "missedAt": 1789483706229,
       "missedDelay": 9,
       "missedPrice": 19.99,
@@ -452185,8 +452185,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791906040297,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -508341,11 +508341,22 @@
         "followingSku": "8586296",
         "followingTitle": "Pure and Natural Wide Leg Elasticated Waist Drawstring Trousers with Pockets (Size L, 16-18) - Khaki",
         "followingAuctionCode": "0019907224"
+      },
+      {
+        "start": 1791906040297,
+        "end": 1791906078952,
+        "durationMin": 0.6,
+        "precedingSku": "8586296",
+        "precedingTitle": "Pure and Natural Wide Leg Elasticated Waist Drawstring Trousers with Pockets (Size L, 16-18) - Khaki",
+        "precedingAuctionCode": "0019907224",
+        "followingSku": "8586300",
+        "followingTitle": "Pure and Natural Wide Leg Elasticated Waist Drawstring Trousers with Pockets (Size L, 16-18) - Khaki",
+        "followingAuctionCode": "0019907229"
       }
     ],
-    "lastOnAirSku": "8586296",
+    "lastOnAirSku": "8586300",
     "lastOnAirTitle": "Pure and Natural Wide Leg Elasticated Waist Drawstring Trousers with Pockets (Size L, 16-18) - Khaki",
-    "lastOnAirAuctionCode": "0019907224",
+    "lastOnAirAuctionCode": "0019907229",
     "precedingSku": "8586296",
     "precedingTitle": "Pure and Natural Wide Leg Elasticated Waist Drawstring Trousers with Pockets (Size L, 16-18) - Khaki",
     "precedingAuctionCode": "0019907224"
