@@ -347435,23 +347435,23 @@
       "sku": "8499867",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "06:36:22",
+      "date": "2026-10-13",
+      "time": "13:18:20",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789882582575,
+      "lastUpdated": 1791893900815,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Green Gleam Multi Purpose Cleaning Solution 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
-      "auctionCode": "0019875027",
+      "title": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
+      "auctionCode": "0019907098",
       "source": "gha",
       "productUrl": "/products/green-glame-multi-purpose-cleaning-solution",
       "productUrlChecked": 1789359940512,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789882582575,
-      "pdpPrice": "19.99",
+      "lastAir": 1791893900815,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -451315,8 +451315,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791893598508,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -507361,11 +507361,22 @@
         "followingSku": "8646831",
         "followingTitle": "Livmore Super Soft Ombre Design Blanket (150x200cm) 250gsm - Navy",
         "followingAuctionCode": "0019907077"
+      },
+      {
+        "start": 1791893598508,
+        "end": 1791893900815,
+        "durationMin": 5.0,
+        "precedingSku": "8646831",
+        "precedingTitle": "Livmore Super Soft Ombre Design Blanket (150x200cm) 250gsm - Navy",
+        "precedingAuctionCode": "0019907077",
+        "followingSku": "8499867",
+        "followingTitle": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
+        "followingAuctionCode": "0019907098"
       }
     ],
-    "lastOnAirSku": "8646831",
-    "lastOnAirTitle": "Livmore Super Soft Ombre Design Blanket (150x200cm) 250gsm - Navy",
-    "lastOnAirAuctionCode": "0019907077",
+    "lastOnAirSku": "8499867",
+    "lastOnAirTitle": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
+    "lastOnAirAuctionCode": "0019907098",
     "precedingSku": "8646831",
     "precedingTitle": "Livmore Super Soft Ombre Design Blanket (150x200cm) 250gsm - Navy",
     "precedingAuctionCode": "0019907077"
