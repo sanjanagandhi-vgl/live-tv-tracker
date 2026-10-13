@@ -452249,11 +452249,29 @@
       "productUrlChecked": 1791906201820,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8757753": {
+      "sku": "8757753",
+      "firstAir": 1791907639760,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791907639760,
+      "title": "Jenna Glossy Patent Slip-on Ballet Pumps (Size 4) - Black",
+      "pdpPrice": "120.99",
+      "auctionCode": "0019907009",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-13",
+      "time": "17:07:19",
+      "productUrl": null,
+      "lastUpdated": 1791907639760,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791907581068,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -508419,11 +508437,22 @@
         "followingSku": "8586300",
         "followingTitle": "Pure and Natural Wide Leg Elasticated Waist Drawstring Trousers with Pockets (Size L, 16-18) - Khaki",
         "followingAuctionCode": "0019907229"
+      },
+      {
+        "start": 1791907581068,
+        "end": 1791907639760,
+        "durationMin": 1.0,
+        "precedingSku": "8201251",
+        "precedingTitle": "La Marey Oversized Cardigan (Size 10 to 22) - Chocolate",
+        "precedingAuctionCode": null,
+        "followingSku": "8757753",
+        "followingTitle": "Jenna Glossy Patent Slip-on Ballet Pumps (Size 4) - Black",
+        "followingAuctionCode": "0019907009"
       }
     ],
-    "lastOnAirSku": "8201251",
-    "lastOnAirTitle": "La Marey Oversized Cardigan (Size 10 to 22) - Chocolate",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8757753",
+    "lastOnAirTitle": "Jenna Glossy Patent Slip-on Ballet Pumps (Size 4) - Black",
+    "lastOnAirAuctionCode": "0019907009",
     "precedingSku": "8201251",
     "precedingTitle": "La Marey Oversized Cardigan (Size 10 to 22) - Chocolate",
     "precedingAuctionCode": null
