@@ -452829,11 +452829,29 @@
       "productUrlChecked": 1791917600961,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8335671": {
+      "sku": "8335671",
+      "firstAir": 1791918504115,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791918504115,
+      "title": "IW Special Clock (Size - One Size) - Green & White",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019907935",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-13",
+      "time": "20:08:24",
+      "productUrl": null,
+      "lastUpdated": 1791918504115,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791918262372,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509142,11 +509160,22 @@
         "followingSku": "8635936",
         "followingTitle": "Livmore Handcrafted Wooden Platter With Enamel (Size-30X15x2 Cms) - Rectangle",
         "followingAuctionCode": "0019908610"
+      },
+      {
+        "start": 1791918262372,
+        "end": 1791918504115,
+        "durationMin": 4.0,
+        "precedingSku": "8635936",
+        "precedingTitle": "Livmore Handcrafted Wooden Platter With Enamel (Size-30X15x2 Cms) - Rectangle",
+        "precedingAuctionCode": "0019908610",
+        "followingSku": "8335671",
+        "followingTitle": "IW Special Clock (Size - One Size) - Green & White",
+        "followingAuctionCode": "0019907935"
       }
     ],
-    "lastOnAirSku": "8635936",
-    "lastOnAirTitle": "Livmore Handcrafted Wooden Platter With Enamel (Size-30X15x2 Cms) - Rectangle",
-    "lastOnAirAuctionCode": "0019908610",
+    "lastOnAirSku": "8335671",
+    "lastOnAirTitle": "IW Special Clock (Size - One Size) - Green & White",
+    "lastOnAirAuctionCode": "0019907935",
     "precedingSku": "8635936",
     "precedingTitle": "Livmore Handcrafted Wooden Platter With Enamel (Size-30X15x2 Cms) - Rectangle",
     "precedingAuctionCode": "0019908610"
