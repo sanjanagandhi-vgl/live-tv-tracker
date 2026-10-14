@@ -458373,11 +458373,29 @@
       "productUrlChecked": 1792017145374,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8734704": {
+      "sku": "8734704",
+      "firstAir": 1792017635408,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792017635408,
+      "title": "9K Yellow Gold Hoop Earring with Clasp",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019908818",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-14",
+      "time": "23:40:35",
+      "productUrl": null,
+      "lastUpdated": 1792017635408,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792017557607,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -515951,11 +515969,22 @@
         "followingSku": "8668706",
         "followingTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
         "followingAuctionCode": "0019908832"
+      },
+      {
+        "start": 1792017557607,
+        "end": 1792017635408,
+        "durationMin": 1.3,
+        "precedingSku": "8668706",
+        "precedingTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
+        "precedingAuctionCode": "0019908832",
+        "followingSku": "8734704",
+        "followingTitle": "9K Yellow Gold Hoop Earring with Clasp",
+        "followingAuctionCode": "0019908818"
       }
     ],
-    "lastOnAirSku": "8668706",
-    "lastOnAirTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
-    "lastOnAirAuctionCode": "0019908832",
+    "lastOnAirSku": "8734704",
+    "lastOnAirTitle": "9K Yellow Gold Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019908818",
     "precedingSku": "8668706",
     "precedingTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
     "precedingAuctionCode": "0019908832"
