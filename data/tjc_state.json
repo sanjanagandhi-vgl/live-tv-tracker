@@ -127735,17 +127735,17 @@
       "firstAir": 1786397136813,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791071240164,
+      "lastAir": 1791962303171,
       "title": "24K Yellow Gold Maneki Neko Lucky Cat Collectible Symbolising Prosperity & Wealth Ornament",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019894825",
+      "pdpPrice": "499.00",
+      "auctionCode": "0019907449",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-04",
-      "time": "00:47:20",
+      "date": "2026-10-14",
+      "time": "08:18:23",
       "productUrl": "/products/24k-yellow-gold-money-tree-collectible-symbolising-wealth-and-good-fortune-ornaments",
-      "lastUpdated": 1791071240164,
+      "lastUpdated": 1791962303171,
       "source": "gha",
       "missedAt": 1786397846599,
       "missedDelay": 10,
@@ -453953,8 +453953,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791962240197,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -510802,11 +510802,22 @@
         "followingSku": "8572368",
         "followingTitle": "9K Yellow Gold Teddy Pendant",
         "followingAuctionCode": "0019907781"
+      },
+      {
+        "start": 1791962240197,
+        "end": 1791962303171,
+        "durationMin": 1.0,
+        "precedingSku": "8572368",
+        "precedingTitle": "9K Yellow Gold Teddy Pendant",
+        "precedingAuctionCode": null,
+        "followingSku": "8355711",
+        "followingTitle": "24K Yellow Gold Maneki Neko Lucky Cat Collectible Symbolising Prosperity & Wealth Ornament",
+        "followingAuctionCode": "0019907449"
       }
     ],
-    "lastOnAirSku": "8572368",
-    "lastOnAirTitle": "9K Yellow Gold Teddy Pendant",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8355711",
+    "lastOnAirTitle": "24K Yellow Gold Maneki Neko Lucky Cat Collectible Symbolising Prosperity & Wealth Ornament",
+    "lastOnAirAuctionCode": "0019907449",
     "precedingSku": "8572368",
     "precedingTitle": "9K Yellow Gold Teddy Pendant",
     "precedingAuctionCode": null
