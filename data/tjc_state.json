@@ -25660,23 +25660,23 @@
       "sku": "7997042",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-12",
-      "time": "03:51:18",
+      "date": "2026-10-14",
+      "time": "19:10:41",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1786503078973,
+      "lastUpdated": 1792001441757,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Laurelle My Mic EDP - 100ml",
-      "auctionCode": "0019816000",
+      "auctionCode": "0019908620",
       "source": "gha",
       "productUrl": "/products/laurelle-my-mic-edp-100ml",
       "productUrlChecked": 1785474503295,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1786503078973,
-      "pdpPrice": "9.99",
+      "lastAir": 1792001441757,
+      "pdpPrice": "17.99",
       "buy": true,
       "login": false,
       "img": true
@@ -457852,8 +457852,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792001302865,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -515218,11 +515218,22 @@
         "followingSku": "8516481",
         "followingTitle": "MEGA  DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019908553"
+      },
+      {
+        "start": 1792001302865,
+        "end": 1792001441757,
+        "durationMin": 2.3,
+        "precedingSku": "8516481",
+        "precedingTitle": "MEGA  DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019908553",
+        "followingSku": "7997042",
+        "followingTitle": "Laurelle My Mic EDP - 100ml",
+        "followingAuctionCode": "0019908620"
       }
     ],
-    "lastOnAirSku": "8516481",
-    "lastOnAirTitle": "MEGA  DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019908553",
+    "lastOnAirSku": "7997042",
+    "lastOnAirTitle": "Laurelle My Mic EDP - 100ml",
+    "lastOnAirAuctionCode": "0019908620",
     "precedingSku": "8516481",
     "precedingTitle": "MEGA  DEAL Moissanite 1.00ct Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019908553"
