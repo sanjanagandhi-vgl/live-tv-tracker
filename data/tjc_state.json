@@ -456048,11 +456048,29 @@
       "productUrl": null,
       "lastUpdated": 1791978198492,
       "source": "gha"
+    },
+    "8746545": {
+      "sku": "8746545",
+      "firstAir": 1791978562060,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791978562060,
+      "title": "9K Yellow Gold Flat Curb Chain (Size - 24) With Lobster Clasp, Gold Wt.12.10 Gms",
+      "pdpPrice": "1199.99",
+      "auctionCode": "0019908809",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "12:49:22",
+      "productUrl": null,
+      "lastUpdated": 1791978562060,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791978509968,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -513120,11 +513138,22 @@
         "followingSku": "8034856",
         "followingTitle": "Maestro 9K Yellow Gold Heart T-Bar Necklace (Size - 20)",
         "followingAuctionCode": "0019908800"
+      },
+      {
+        "start": 1791978509968,
+        "end": 1791978562060,
+        "durationMin": 0.9,
+        "precedingSku": "8477938",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 30) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019908804",
+        "followingSku": "8746545",
+        "followingTitle": "9K Yellow Gold Flat Curb Chain (Size - 24) With Lobster Clasp, Gold Wt.12.10 Gms",
+        "followingAuctionCode": "0019908809"
       }
     ],
-    "lastOnAirSku": "8477938",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 30) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019908804",
+    "lastOnAirSku": "8746545",
+    "lastOnAirTitle": "9K Yellow Gold Flat Curb Chain (Size - 24) With Lobster Clasp, Gold Wt.12.10 Gms",
+    "lastOnAirAuctionCode": "0019908809",
     "precedingSku": "8477938",
     "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 30) with Spring Ring Clasp",
     "precedingAuctionCode": "0019908804"
