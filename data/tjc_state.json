@@ -456542,11 +456542,29 @@
       "auctionCode": "0019908396",
       "source": "gha",
       "productUrl": null
+    },
+    "8521925": {
+      "sku": "8521925",
+      "firstAir": 1791992001046,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791992001046,
+      "title": "Emreco Womens Pull-On Stretch Jersey Trousers with 29 Inch Inside Leg (Size 10) - Taupe",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019908346",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "16:33:21",
+      "productUrl": null,
+      "lastUpdated": 1791992001046,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791991941089,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -513746,11 +513764,22 @@
         "followingSku": "8521960",
         "followingTitle": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Taupe",
         "followingAuctionCode": "0019908364"
+      },
+      {
+        "start": 1791991941089,
+        "end": 1791992001046,
+        "durationMin": 1.0,
+        "precedingSku": "8521960",
+        "precedingTitle": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Taupe",
+        "precedingAuctionCode": "0019908364",
+        "followingSku": "8521925",
+        "followingTitle": "Emreco Womens Pull-On Stretch Jersey Trousers with 29 Inch Inside Leg (Size 10) - Taupe",
+        "followingAuctionCode": "0019908346"
       }
     ],
-    "lastOnAirSku": "8521960",
-    "lastOnAirTitle": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Taupe",
-    "lastOnAirAuctionCode": "0019908364",
+    "lastOnAirSku": "8521925",
+    "lastOnAirTitle": "Emreco Womens Pull-On Stretch Jersey Trousers with 29 Inch Inside Leg (Size 10) - Taupe",
+    "lastOnAirAuctionCode": "0019908346",
     "precedingSku": "8521960",
     "precedingTitle": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Taupe",
     "precedingAuctionCode": "0019908364"
