@@ -457943,11 +457943,29 @@
       "productUrlChecked": 1792003704653,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8597646": {
+      "sku": "8597646",
+      "firstAir": 1792003760029,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792003760029,
+      "title": "Dancing Daisy Plush Toy (18x12x28cm) - White",
+      "pdpPrice": "60.99",
+      "auctionCode": "0019908511",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "19:49:20",
+      "productUrl": null,
+      "lastUpdated": 1792003760029,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792003639074,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -515356,11 +515374,22 @@
         "followingSku": "8367899",
         "followingTitle": "Interactive 3D Magnetic Double Loop Flexible Race Track Playset with Cars - Multi Colour",
         "followingAuctionCode": "0019908510"
+      },
+      {
+        "start": 1792003639074,
+        "end": 1792003760029,
+        "durationMin": 2.0,
+        "precedingSku": "8367899",
+        "precedingTitle": "Interactive 3D Magnetic Double Loop Flexible Race Track Playset with Cars - Multi Colour",
+        "precedingAuctionCode": "0019908510",
+        "followingSku": "8597646",
+        "followingTitle": "Dancing Daisy Plush Toy (18x12x28cm) - White",
+        "followingAuctionCode": "0019908511"
       }
     ],
-    "lastOnAirSku": "8367899",
-    "lastOnAirTitle": "Interactive 3D Magnetic Double Loop Flexible Race Track Playset with Cars - Multi Colour",
-    "lastOnAirAuctionCode": "0019908510",
+    "lastOnAirSku": "8597646",
+    "lastOnAirTitle": "Dancing Daisy Plush Toy (18x12x28cm) - White",
+    "lastOnAirAuctionCode": "0019908511",
     "precedingSku": "8367899",
     "precedingTitle": "Interactive 3D Magnetic Double Loop Flexible Race Track Playset with Cars - Multi Colour",
     "precedingAuctionCode": "0019908510"
