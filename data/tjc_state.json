@@ -125900,23 +125900,23 @@
       "sku": "8245118",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-16",
-      "time": "08:23:19",
+      "date": "2026-10-15",
+      "time": "00:39:17",
       "preExisting": true,
       "missedAt": 1786372254662,
       "missedDelay": null,
-      "lastUpdated": 1786864999863,
+      "lastUpdated": 1792021157586,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "La Marey Genuine Leather crossbody bag",
-      "auctionCode": "0019823871",
+      "title": "La Marey Genuine Leather Checkered Pattern RFID Crossbody Wallet  - Blue",
+      "auctionCode": "0019909256",
       "source": "gha",
       "productUrl": "/products/la-marey-genuine-leather-crossbody-bag",
       "productUrlChecked": 1786372268510,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1786864999863,
-      "pdpPrice": "12.99",
+      "lastAir": 1792021157586,
+      "pdpPrice": "399.99",
       "buy": true,
       "login": false,
       "img": true
@@ -458491,8 +458491,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792021101430,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -516110,11 +516110,22 @@
         "followingSku": "6298111",
         "followingTitle": "3 Layer Velvet Jewellery Box with Mirror Inside and Lock (Size 12 Cm) - Navy",
         "followingAuctionCode": "0019909243"
+      },
+      {
+        "start": 1792021101430,
+        "end": 1792021157586,
+        "durationMin": 0.9,
+        "precedingSku": "6298111",
+        "precedingTitle": "3 Layer Velvet Jewellery Box with Mirror Inside and Lock (Size 12 Cm) - Navy",
+        "precedingAuctionCode": "0019909243",
+        "followingSku": "8245118",
+        "followingTitle": "La Marey Genuine Leather Checkered Pattern RFID Crossbody Wallet  - Blue",
+        "followingAuctionCode": "0019909256"
       }
     ],
-    "lastOnAirSku": "6298111",
-    "lastOnAirTitle": "3 Layer Velvet Jewellery Box with Mirror Inside and Lock (Size 12 Cm) - Navy",
-    "lastOnAirAuctionCode": "0019909243",
+    "lastOnAirSku": "8245118",
+    "lastOnAirTitle": "La Marey Genuine Leather Checkered Pattern RFID Crossbody Wallet  - Blue",
+    "lastOnAirAuctionCode": "0019909256",
     "precedingSku": "6298111",
     "precedingTitle": "3 Layer Velvet Jewellery Box with Mirror Inside and Lock (Size 12 Cm) - Navy",
     "precedingAuctionCode": "0019909243"
