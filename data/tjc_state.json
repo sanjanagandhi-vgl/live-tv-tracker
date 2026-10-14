@@ -456385,9 +456385,16 @@
       "img": false,
       "date": "2026-10-14",
       "time": "16:20:38",
-      "productUrl": null,
-      "lastUpdated": 1791991238966,
-      "source": "gha"
+      "productUrl": "/products/qed-london-poncho-size-one-size-black-8788116",
+      "lastUpdated": 1791991342064,
+      "source": "gha",
+      "missedAt": 1791991342064,
+      "missedDelay": 2,
+      "missedPrice": 14.99,
+      "missedImg": false,
+      "productUrlChecked": 1791991345153,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8788108": {
       "sku": "8788108",
@@ -456428,11 +456435,29 @@
       "productUrlChecked": 1791990747359,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8521960": {
+      "sku": "8521960",
+      "firstAir": 1791991342064,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791991342064,
+      "title": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Taupe",
+      "pdpPrice": "120.99",
+      "auctionCode": "0019908364",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "16:22:22",
+      "productUrl": null,
+      "lastUpdated": 1791991342064,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791991279256,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -513621,11 +513646,22 @@
         "followingSku": "8788116",
         "followingTitle": "QED London Diagonal Diamante Poncho (One Size) - Black",
         "followingAuctionCode": "0019908589"
+      },
+      {
+        "start": 1791991279256,
+        "end": 1791991342064,
+        "durationMin": 1.0,
+        "precedingSku": "8788116",
+        "precedingTitle": "QED London Diagonal Diamante Poncho (One Size) - Black",
+        "precedingAuctionCode": "0019908589",
+        "followingSku": "8521960",
+        "followingTitle": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Taupe",
+        "followingAuctionCode": "0019908364"
       }
     ],
-    "lastOnAirSku": "8788116",
-    "lastOnAirTitle": "QED London Diagonal Diamante Poncho (One Size) - Black",
-    "lastOnAirAuctionCode": "0019908589",
+    "lastOnAirSku": "8521960",
+    "lastOnAirTitle": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Taupe",
+    "lastOnAirAuctionCode": "0019908364",
     "precedingSku": "8788116",
     "precedingTitle": "QED London Diagonal Diamante Poncho (One Size) - Black",
     "precedingAuctionCode": "0019908589"
