@@ -377493,23 +377493,23 @@
       "sku": "8624922",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-12",
-      "time": "11:53:17",
+      "date": "2026-10-14",
+      "time": "21:38:21",
       "preExisting": true,
       "missedAt": 1789988580984,
       "missedDelay": null,
-      "lastUpdated": 1791802397303,
+      "lastUpdated": 1792010301570,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "Moissanite Solitaire Earring with Lever Back in Yellow Gold Plated Sterling Silver 3.60 Ct.",
-      "auctionCode": "0019906413",
+      "auctionCode": "0019909789",
       "source": "gha",
       "productUrl": "/products/moissanite-earring-in-platinum-overlaysterling-silver-3-594-ct-8624922?variant=53276139192586",
       "productUrlChecked": 1789988584494,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791802397303,
-      "pdpPrice": 49.99,
+      "lastAir": 1792010301570,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -458157,8 +458157,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792010182598,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -515622,11 +515622,22 @@
         "followingSku": "8664121",
         "followingTitle": "The Grand Masterpiece - Moissanite Princess Cut Ring in Rhodium Overlay Sterling Silver 7.50 Ct.",
         "followingAuctionCode": "0019909635"
+      },
+      {
+        "start": 1792010182598,
+        "end": 1792010301570,
+        "durationMin": 2.0,
+        "precedingSku": "8664121",
+        "precedingTitle": "The Grand Masterpiece - Moissanite Princess Cut Ring in Rhodium Overlay Sterling Silver 7.50 Ct.",
+        "precedingAuctionCode": "0019909635",
+        "followingSku": "8624922",
+        "followingTitle": "Moissanite Solitaire Earring with Lever Back in Yellow Gold Plated Sterling Silver 3.60 Ct.",
+        "followingAuctionCode": "0019909789"
       }
     ],
-    "lastOnAirSku": "8664121",
-    "lastOnAirTitle": "The Grand Masterpiece - Moissanite Princess Cut Ring in Rhodium Overlay Sterling Silver 7.50 Ct.",
-    "lastOnAirAuctionCode": "0019909635",
+    "lastOnAirSku": "8624922",
+    "lastOnAirTitle": "Moissanite Solitaire Earring with Lever Back in Yellow Gold Plated Sterling Silver 3.60 Ct.",
+    "lastOnAirAuctionCode": "0019909789",
     "precedingSku": "8664121",
     "precedingTitle": "The Grand Masterpiece - Moissanite Princess Cut Ring in Rhodium Overlay Sterling Silver 7.50 Ct.",
     "precedingAuctionCode": "0019909635"
