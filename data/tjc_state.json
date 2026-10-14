@@ -453966,11 +453966,15 @@
       "date": "2026-10-14",
       "time": "09:22:22",
       "productUrl": "/products/dod-9k-yellow-gold-chunky-curb-bracelet-size-7-5-gold-wt-8-6-gms-8826932?variant=53906643386634",
-      "lastUpdated": 1791966142946,
+      "lastUpdated": 1791967536880,
       "source": "gha",
       "productUrlChecked": 1791966145897,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1791967536880,
+      "missedDelay": 23,
+      "missedPrice": 999.99,
+      "missedImg": false
     },
     "7989576": {
       "sku": "7989576",
@@ -453999,8 +454003,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791967536880,
     "gaps": [
       {
         "start": 1785823527869,
@@ -510930,8 +510934,8 @@
     "lastOnAirSku": "8626580",
     "lastOnAirTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 8) with Lobster Clasp",
     "lastOnAirAuctionCode": "0019908815",
-    "precedingSku": "8692856",
-    "precedingTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
-    "precedingAuctionCode": "0019907422"
+    "precedingSku": "8626580",
+    "precedingTitle": "Vicenza Exclusive Pick - 9K Yellow Gold Bismark Bracelet (Size - 8) with Lobster Clasp",
+    "precedingAuctionCode": "0019908815"
   }
 }
