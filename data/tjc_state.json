@@ -457918,11 +457918,29 @@
       "auctionCode": "0019909749",
       "source": "gha",
       "productUrl": null
+    },
+    "8367899": {
+      "sku": "8367899",
+      "firstAir": 1792003342031,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792003342031,
+      "title": "Interactive 3D Magnetic Double Loop Flexible Race Track Playset with Cars - Multi Colour",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019908510",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "19:42:22",
+      "productUrl": null,
+      "lastUpdated": 1792003342031,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792003240526,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -515320,11 +515338,22 @@
         "followingSku": "8343722",
         "followingTitle": "Popcorn & Peanut Nutcrackers Novelty Christmas Gift",
         "followingAuctionCode": "0019908448"
+      },
+      {
+        "start": 1792003240526,
+        "end": 1792003342031,
+        "durationMin": 1.7,
+        "precedingSku": "8596464",
+        "precedingTitle": "NEW LAUNCH- Marigold - Lotus Under Eye Serum Trio - Hydrating & Smoothing, Cooling & Depuffing, Anti-Ageing & Brightening 15ml each",
+        "precedingAuctionCode": "0019908618",
+        "followingSku": "8367899",
+        "followingTitle": "Interactive 3D Magnetic Double Loop Flexible Race Track Playset with Cars - Multi Colour",
+        "followingAuctionCode": "0019908510"
       }
     ],
-    "lastOnAirSku": "8596464",
-    "lastOnAirTitle": "NEW LAUNCH- Marigold - Lotus Under Eye Serum Trio - Hydrating & Smoothing, Cooling & Depuffing, Anti-Ageing & Brightening 15ml each",
-    "lastOnAirAuctionCode": "0019908618",
+    "lastOnAirSku": "8367899",
+    "lastOnAirTitle": "Interactive 3D Magnetic Double Loop Flexible Race Track Playset with Cars - Multi Colour",
+    "lastOnAirAuctionCode": "0019908510",
     "precedingSku": "8596464",
     "precedingTitle": "NEW LAUNCH- Marigold - Lotus Under Eye Serum Trio - Hydrating & Smoothing, Cooling & Depuffing, Anti-Ageing & Brightening 15ml each",
     "precedingAuctionCode": "0019908618"
