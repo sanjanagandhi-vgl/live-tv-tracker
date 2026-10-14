@@ -23538,19 +23538,19 @@
       "sku": "8576690",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "19:03:18",
+      "date": "2026-10-14",
+      "time": "12:34:22",
       "preExisting": true,
       "missedAt": 1785361947517,
       "missedDelay": null,
-      "lastUpdated": 1786989798871,
+      "lastUpdated": 1791977662463,
       "missedPrice": 89.99,
       "missedImg": true,
-      "title": "D'Joy - AAA Zambian Amethyst & Natural White Diamond Solitaire Ring in Rhodium Overlay Sterling Silver 4.36 Ct.",
-      "auctionCode": "0019825516",
+      "title": "D'Joy - Natural Kariba AAA Zambian Amethyst & Natural White Diamond Ring in Rhodium Overlay Sterling Silver 4.36 Ct.",
+      "auctionCode": "0019907913",
       "source": "gha",
-      "lastAir": 1786989798871,
-      "pdpPrice": "59.99",
+      "lastAir": 1791977662463,
+      "pdpPrice": "2099.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -455878,8 +455878,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791977601071,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -512914,11 +512914,22 @@
         "followingSku": "8780568",
         "followingTitle": "9K Yellow Gold Natural Kariba AAAA Zambian Amethyst & Natural White Diamond Ring 7.28 Ct, Gold Wt. 3.00 Gms",
         "followingAuctionCode": "0019909057"
+      },
+      {
+        "start": 1791977601071,
+        "end": 1791977662463,
+        "durationMin": 1.0,
+        "precedingSku": "8608568",
+        "precedingTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & White Zircon Trilogy Ring in Rhodium Overlay Sterling Silver 6.80 Ct.",
+        "precedingAuctionCode": "0019907921",
+        "followingSku": "8576690",
+        "followingTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & Natural White Diamond Ring in Rhodium Overlay Sterling Silver 4.36 Ct.",
+        "followingAuctionCode": "0019907913"
       }
     ],
-    "lastOnAirSku": "8608568",
-    "lastOnAirTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & White Zircon Trilogy Ring in Rhodium Overlay Sterling Silver 6.80 Ct.",
-    "lastOnAirAuctionCode": "0019907921",
+    "lastOnAirSku": "8576690",
+    "lastOnAirTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & Natural White Diamond Ring in Rhodium Overlay Sterling Silver 4.36 Ct.",
+    "lastOnAirAuctionCode": "0019907913",
     "precedingSku": "8608568",
     "precedingTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & White Zircon Trilogy Ring in Rhodium Overlay Sterling Silver 6.80 Ct.",
     "precedingAuctionCode": "0019907921"
