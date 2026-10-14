@@ -457753,11 +457753,29 @@
       "productUrlChecked": 1791998810478,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8627450": {
+      "sku": "8627450",
+      "firstAir": 1791998961230,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791998961230,
+      "title": "Pixiu Genuine Leather Bracelet (Size - 8)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019908669",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "18:29:21",
+      "productUrl": null,
+      "lastUpdated": 1791998961230,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791998903702,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -515089,11 +515107,22 @@
         "followingSku": "8581507",
         "followingTitle": "Moissanite Linking Bracelet (Size - 7.5) with GB Lock Box",
         "followingAuctionCode": "0019908668"
+      },
+      {
+        "start": 1791998903702,
+        "end": 1791998961230,
+        "durationMin": 1.0,
+        "precedingSku": "8581507",
+        "precedingTitle": "Moissanite Linking Bracelet (Size - 7.5) with GB Lock Box",
+        "precedingAuctionCode": "0019908668",
+        "followingSku": "8627450",
+        "followingTitle": "Pixiu Genuine Leather Bracelet (Size - 8)",
+        "followingAuctionCode": "0019908669"
       }
     ],
-    "lastOnAirSku": "8581507",
-    "lastOnAirTitle": "Moissanite Linking Bracelet (Size - 7.5) with GB Lock Box",
-    "lastOnAirAuctionCode": "0019908668",
+    "lastOnAirSku": "8627450",
+    "lastOnAirTitle": "Pixiu Genuine Leather Bracelet (Size - 8)",
+    "lastOnAirAuctionCode": "0019908669",
     "precedingSku": "8581507",
     "precedingTitle": "Moissanite Linking Bracelet (Size - 7.5) with GB Lock Box",
     "precedingAuctionCode": "0019908668"
