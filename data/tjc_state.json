@@ -450229,21 +450229,26 @@
       "sku": "8699420",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-12",
-      "time": "19:21:17",
+      "date": "2026-10-15",
+      "time": "00:51:16",
       "preExisting": true,
       "missedAt": 1791829277529,
       "missedDelay": null,
-      "lastUpdated": 1791829277529,
+      "lastUpdated": 1792021876670,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm)  - Yellow & Beige",
-      "auctionCode": "0019907183",
+      "title": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
+      "auctionCode": "0019909281",
       "source": "gha",
       "productUrl": "/products/cotton-patterned-towel-size-35x1-in-red-navy-8699413",
       "productUrlChecked": 1791829281166,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792021876670,
+      "pdpPrice": "134.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8774719": {
       "sku": "8774719",
@@ -458491,8 +458496,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792021832857,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -516132,11 +516137,22 @@
         "followingSku": "221335928",
         "followingTitle": "Laurelle London Premium Mens Accessories Gift Bundle -Ultimate Gift Set for Him",
         "followingAuctionCode": "0019909248"
+      },
+      {
+        "start": 1792021832857,
+        "end": 1792021876670,
+        "durationMin": 0.7,
+        "precedingSku": "221335928",
+        "precedingTitle": "Laurelle London Premium Mens Accessories Gift Bundle -Ultimate Gift Set for Him",
+        "precedingAuctionCode": "0019909248",
+        "followingSku": "8699420",
+        "followingTitle": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
+        "followingAuctionCode": "0019909281"
       }
     ],
-    "lastOnAirSku": "221335928",
-    "lastOnAirTitle": "Laurelle London Premium Mens Accessories Gift Bundle -Ultimate Gift Set for Him",
-    "lastOnAirAuctionCode": "0019909248",
+    "lastOnAirSku": "8699420",
+    "lastOnAirTitle": "Set of 12 Cotton Woven Kitchen Towels (Size 35x55 cm) - Red & Navy",
+    "lastOnAirAuctionCode": "0019909281",
     "precedingSku": "221335928",
     "precedingTitle": "Laurelle London Premium Mens Accessories Gift Bundle -Ultimate Gift Set for Him",
     "precedingAuctionCode": "0019909248"
