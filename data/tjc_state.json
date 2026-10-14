@@ -454583,9 +454583,16 @@
       "img": true,
       "date": "2026-10-14",
       "time": "11:23:18",
-      "productUrl": null,
-      "lastUpdated": 1791973398719,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-aaa-zambian-amethyst-lab-grown-diamond-si-g-h-halo-drop-earring-with-lever-back-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-70-ct-8779088",
+      "lastUpdated": 1791973998148,
+      "source": "gha",
+      "missedAt": 1791973998148,
+      "missedDelay": 10,
+      "missedPrice": 79.99,
+      "missedImg": true,
+      "productUrlChecked": 1791974000909,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8773232": {
       "sku": "8773232",
@@ -455053,11 +455060,49 @@
       "productUrlChecked": 1791973587662,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8773038": {
+      "sku": "8773038",
+      "firstAir": 1791973998148,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791973998148,
+      "title": "D'Joy - Natural Kariba AAA Zambian Amethyst & Moissanite Ring in Rhodium Overlay Sterling Silver 5.83 Ct.",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019907979",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "11:33:18",
+      "productUrl": null,
+      "lastUpdated": 1791973998148,
+      "source": "gha"
+    },
+    "4531312": {
+      "sku": "4531312",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-14",
+      "time": "11:33:18",
+      "preExisting": true,
+      "missedAt": 1791973998148,
+      "missedDelay": null,
+      "lastUpdated": 1791973998148,
+      "missedPrice": 79.99,
+      "missedImg": true,
+      "title": "Luxuriant - Natural Kariba AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
+      "auctionCode": "0019909196",
+      "source": "gha",
+      "productUrl": "/products/luxuriant-aaa-zambian-amethyst-lab-grown-diamond-si-g-h-halo-drop-earring-with-lever-back-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-70-ct-8779088",
+      "productUrlChecked": 1791974001600,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791973941558,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -512048,11 +512093,22 @@
         "followingSku": "8773232",
         "followingTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & Moissanite Trilogy Ring in Yellow Gold Plated Sterling Silver 2.00 Ct.",
         "followingAuctionCode": "0019908984"
+      },
+      {
+        "start": 1791973941558,
+        "end": 1791973998148,
+        "durationMin": 0.9,
+        "precedingSku": "8773232",
+        "precedingTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & Moissanite Trilogy Ring in Yellow Gold Plated Sterling Silver 2.00 Ct.",
+        "precedingAuctionCode": "0019908984",
+        "followingSku": "8773038",
+        "followingTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & Moissanite Ring in Rhodium Overlay Sterling Silver 5.83 Ct.",
+        "followingAuctionCode": "0019907979"
       }
     ],
-    "lastOnAirSku": "8773232",
-    "lastOnAirTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & Moissanite Trilogy Ring in Yellow Gold Plated Sterling Silver 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019908984",
+    "lastOnAirSku": "8773038",
+    "lastOnAirTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & Moissanite Ring in Rhodium Overlay Sterling Silver 5.83 Ct.",
+    "lastOnAirAuctionCode": "0019907979",
     "precedingSku": "8773232",
     "precedingTitle": "D'Joy - Natural Kariba AAA Zambian Amethyst & Moissanite Trilogy Ring in Yellow Gold Plated Sterling Silver 2.00 Ct.",
     "precedingAuctionCode": "0019908984"
