@@ -439397,21 +439397,26 @@
       "sku": "8762449",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-09",
-      "time": "19:33:19",
+      "date": "2026-10-14",
+      "time": "03:15:34",
       "preExisting": true,
       "missedAt": 1791570799362,
       "missedDelay": null,
-      "lastUpdated": 1791570799362,
+      "lastUpdated": 1791944134017,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Nordic Skandi Plush Gonk Door Stop - White & Red",
-      "auctionCode": "0019902603",
+      "title": "Nordic Skandi Plush Gonk Door Stop - Black & Red",
+      "auctionCode": "0019907592",
       "source": "gha",
       "productUrl": "/products/nordic-skandi-plush-gonk-door-stop-black-8762448",
       "productUrlChecked": 1791570803487,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791944134017,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8683712": {
       "sku": "8683712",
@@ -453033,8 +453038,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791944062275,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509618,11 +509623,22 @@
         "followingSku": "8677967",
         "followingTitle": "La Marey Women's Fringed Scarf (176 x 66cm) - Yellow",
         "followingAuctionCode": "0019907594"
+      },
+      {
+        "start": 1791944062275,
+        "end": 1791944134017,
+        "durationMin": 1.2,
+        "precedingSku": "8713287",
+        "precedingTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
+        "precedingAuctionCode": "0019907587",
+        "followingSku": "8762449",
+        "followingTitle": "Nordic Skandi Plush Gonk Door Stop - Black & Red",
+        "followingAuctionCode": "0019907592"
       }
     ],
-    "lastOnAirSku": "8713287",
-    "lastOnAirTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
-    "lastOnAirAuctionCode": "0019907587",
+    "lastOnAirSku": "8762449",
+    "lastOnAirTitle": "Nordic Skandi Plush Gonk Door Stop - Black & Red",
+    "lastOnAirAuctionCode": "0019907592",
     "precedingSku": "8713287",
     "precedingTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
     "precedingAuctionCode": "0019907587"
