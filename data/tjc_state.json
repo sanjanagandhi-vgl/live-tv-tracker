@@ -452950,11 +452950,29 @@
       "productUrlChecked": 1791936203740,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7595472": {
+      "sku": "7595472",
+      "firstAir": 1791940158505,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791940158505,
+      "title": "Wooden Nativity Scene with 7 Warm LED (Size-29x21x7cm)",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019907514",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "02:09:18",
+      "productUrl": null,
+      "lastUpdated": 1791940158505,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791940100807,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509483,11 +509501,22 @@
         "followingSku": "8559294",
         "followingTitle": "Livmore Set of 2 ID Secure Cover Roller Stamps with Ink - Blue",
         "followingAuctionCode": "0019907528"
+      },
+      {
+        "start": 1791940100807,
+        "end": 1791940158505,
+        "durationMin": 1.0,
+        "precedingSku": "8641926",
+        "precedingTitle": "Christmas Wrapping Paper 40 sheets (20 each colour) (Size - One Size) - Red Green",
+        "precedingAuctionCode": "0019907490",
+        "followingSku": "7595472",
+        "followingTitle": "Wooden Nativity Scene with 7 Warm LED (Size-29x21x7cm)",
+        "followingAuctionCode": "0019907514"
       }
     ],
-    "lastOnAirSku": "8641926",
-    "lastOnAirTitle": "Christmas Wrapping Paper 40 sheets (20 each colour) (Size - One Size) - Red Green",
-    "lastOnAirAuctionCode": "0019907490",
+    "lastOnAirSku": "7595472",
+    "lastOnAirTitle": "Wooden Nativity Scene with 7 Warm LED (Size-29x21x7cm)",
+    "lastOnAirAuctionCode": "0019907514",
     "precedingSku": "8641926",
     "precedingTitle": "Christmas Wrapping Paper 40 sheets (20 each colour) (Size - One Size) - Red Green",
     "precedingAuctionCode": "0019907490"
