@@ -410505,17 +410505,17 @@
       "firstAir": 1790825181370,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790825598475,
-      "title": "JEWELLERY ADVENT CALENDAR- 24 Piece Set - White Crystal, Multi Colour Glass Bracelet (Size 7.5 - 2 Ext), Necklace (Size 20 - 2 Ext),",
-      "pdpPrice": "4.99",
-      "auctionCode": "0019890204",
+      "lastAir": 1791952251673,
+      "title": "JEWELLERY ADVENT CALENDAR- 24 Piece Set - White Crystal, Multi Colour Glass Bracelet (Size 7.5 + 2 Ext), Necklace (Size 20 + 2 Ext),",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019907711",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-01",
-      "time": "04:33:18",
+      "date": "2026-10-14",
+      "time": "05:30:51",
       "productUrl": "/products/jewellery-advent-calendar-24-piece-set-white-crystal-multi-colour-glass-bracelet-size-7-5-2-ext-necklace-size-20-2-ext",
-      "lastUpdated": 1790826141309,
+      "lastUpdated": 1791952251673,
       "source": "gha",
       "missedAt": 1790826141309,
       "missedDelay": 9,
@@ -453469,11 +453469,15 @@
       "date": "2026-10-14",
       "time": "05:22:23",
       "productUrl": "/products/moroccan-amethyst-dangling-earring-with-push-back-in-yellow-gold-plated-sterling-silver-1-40-ct-8618358?variant=53303501488394",
-      "lastUpdated": 1791951743192,
+      "lastUpdated": 1791952251673,
       "source": "gha",
       "productUrlChecked": 1791951748794,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1791952251673,
+      "missedDelay": 8,
+      "missedPrice": 23.99,
+      "missedImg": true
     },
     "8642554": {
       "sku": "8642554",
@@ -453673,8 +453677,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791952158883,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -510412,11 +510416,22 @@
         "followingSku": "8658352",
         "followingTitle": "D'Joy - Pink Conch Shell Donut Shape Drop Earring with Lever Back in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019907694"
+      },
+      {
+        "start": 1791952158883,
+        "end": 1791952251673,
+        "durationMin": 1.5,
+        "precedingSku": "8658352",
+        "precedingTitle": "D'Joy - Pink Conch Shell Donut Shape Drop Earring with Lever Back in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019907694",
+        "followingSku": "4431726",
+        "followingTitle": "JEWELLERY ADVENT CALENDAR- 24 Piece Set - White Crystal, Multi Colour Glass Bracelet (Size 7.5 + 2 Ext), Necklace (Size 20 + 2 Ext),",
+        "followingAuctionCode": "0019907711"
       }
     ],
-    "lastOnAirSku": "8658352",
-    "lastOnAirTitle": "D'Joy - Pink Conch Shell Donut Shape Drop Earring with Lever Back in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019907694",
+    "lastOnAirSku": "4431726",
+    "lastOnAirTitle": "JEWELLERY ADVENT CALENDAR- 24 Piece Set - White Crystal, Multi Colour Glass Bracelet (Size 7.5 + 2 Ext), Necklace (Size 20 + 2 Ext),",
+    "lastOnAirAuctionCode": "0019907711",
     "precedingSku": "8658352",
     "precedingTitle": "D'Joy - Pink Conch Shell Donut Shape Drop Earring with Lever Back in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019907694"
