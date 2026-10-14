@@ -30402,23 +30402,23 @@
       "sku": "8071942",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-29",
-      "time": "06:55:28",
+      "date": "2026-10-14",
+      "time": "20:16:24",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1787982928581,
+      "lastUpdated": 1792005384576,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "One Truth 818- Anti-Ageing Serum - 15ml",
-      "auctionCode": "0019847789",
+      "title": "One Truth 818 Enzyme Masque - 50g",
+      "auctionCode": "0019909634",
       "source": "gha",
       "productUrl": "/products/one-truth-818-enzyme-face-masque-50g?variant=53102419706122",
       "productUrlChecked": 1785475533619,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787982928581,
-      "pdpPrice": 29.99,
+      "lastAir": 1792005384576,
+      "pdpPrice": "149.99",
       "buy": true,
       "login": false,
       "img": true
@@ -458016,8 +458016,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792005334994,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -515448,11 +515448,22 @@
         "followingSku": "8060835",
         "followingTitle": "Boss It Ultra Reflective Tumble Rapid Dryer Ball - Silver",
         "followingAuctionCode": "0019908528"
+      },
+      {
+        "start": 1792005334994,
+        "end": 1792005384576,
+        "durationMin": 0.8,
+        "precedingSku": "8060835",
+        "precedingTitle": "Boss It Ultra Reflective Tumble Rapid Dryer Ball - Silver",
+        "precedingAuctionCode": "0019908528",
+        "followingSku": "8071942",
+        "followingTitle": "One Truth 818 Enzyme Masque - 50g",
+        "followingAuctionCode": "0019909634"
       }
     ],
-    "lastOnAirSku": "8060835",
-    "lastOnAirTitle": "Boss It Ultra Reflective Tumble Rapid Dryer Ball - Silver",
-    "lastOnAirAuctionCode": "0019908528",
+    "lastOnAirSku": "8071942",
+    "lastOnAirTitle": "One Truth 818 Enzyme Masque - 50g",
+    "lastOnAirAuctionCode": "0019909634",
     "precedingSku": "8060835",
     "precedingTitle": "Boss It Ultra Reflective Tumble Rapid Dryer Ball - Silver",
     "precedingAuctionCode": "0019908528"
