@@ -457678,9 +457678,16 @@
       "img": true,
       "date": "2026-10-14",
       "time": "18:21:19",
-      "productUrl": null,
-      "lastUpdated": 1791998479155,
-      "source": "gha"
+      "productUrl": "/products/biggest-designer-closeout-snaffle-bangle",
+      "lastUpdated": 1791998726513,
+      "source": "gha",
+      "missedAt": 1791998726513,
+      "missedDelay": 4,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1791998729329,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8763485": {
       "sku": "8763485",
@@ -457699,11 +457706,31 @@
       "productUrl": null,
       "lastUpdated": 1791998664561,
       "source": "gha"
+    },
+    "7802941": {
+      "sku": "7802941",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-14",
+      "time": "18:25:26",
+      "preExisting": true,
+      "missedAt": 1791998726513,
+      "missedDelay": null,
+      "lastUpdated": 1791998726513,
+      "missedPrice": 8.99,
+      "missedImg": true,
+      "title": "White Diamond Pendant in Yellow Gold Plated & Platinum Overlay Sterling Silver",
+      "auctionCode": "0019908649",
+      "source": "gha",
+      "productUrl": "/products/white-diamond-pendant-in-yellow-gold-plated-platinum-overlay-sterling-silver",
+      "productUrlChecked": 1791998730084,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1791998726513,
     "gaps": [
       {
         "start": 1785823527869,
@@ -515029,8 +515056,8 @@
     "lastOnAirSku": "8763485",
     "lastOnAirTitle": "Sterling Silver Hoop Earring with Clasp",
     "lastOnAirAuctionCode": "0019908632",
-    "precedingSku": "7577529",
-    "precedingTitle": "Boi Ploi Black Spinel Hoop Earrings with Clasp 8.95 Ct",
-    "precedingAuctionCode": "0019908660"
+    "precedingSku": "8763485",
+    "precedingTitle": "Sterling Silver Hoop Earring with Clasp",
+    "precedingAuctionCode": "0019908632"
   }
 }
