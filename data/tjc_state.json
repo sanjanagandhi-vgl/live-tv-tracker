@@ -39496,21 +39496,26 @@
       "sku": "8529490",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "16:08:22",
+      "date": "2026-10-14",
+      "time": "14:58:25",
       "preExisting": true,
       "missedAt": 1785510502957,
       "missedDelay": null,
-      "lastUpdated": 1785510502957,
+      "lastUpdated": 1791986305161,
       "missedPrice": 8.99,
       "missedImg": true,
       "title": "Genuine Leather Elephant RFID Zip Around Card Holder Wallet - Khaki",
-      "auctionCode": "0019801776",
+      "auctionCode": "0019908341",
       "source": "gha",
       "productUrl": "/products/genuine-leather-elephant-rfid-zip-around-card-holder-wallet-grey-8529489",
       "productUrlChecked": 1785510511915,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1791986305161,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8529491": {
       "sku": "8529491",
@@ -456102,8 +456107,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791986181988,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -513226,11 +513231,22 @@
         "followingSku": "8683484",
         "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
         "followingAuctionCode": "0019908549"
+      },
+      {
+        "start": 1791986181988,
+        "end": 1791986305161,
+        "durationMin": 2.1,
+        "precedingSku": "8683484",
+        "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "precedingAuctionCode": "0019908549",
+        "followingSku": "8529490",
+        "followingTitle": "Genuine Leather Elephant RFID Zip Around Card Holder Wallet - Khaki",
+        "followingAuctionCode": "0019908341"
       }
     ],
-    "lastOnAirSku": "8683484",
-    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
-    "lastOnAirAuctionCode": "0019908549",
+    "lastOnAirSku": "8529490",
+    "lastOnAirTitle": "Genuine Leather Elephant RFID Zip Around Card Holder Wallet - Khaki",
+    "lastOnAirAuctionCode": "0019908341",
     "precedingSku": "8683484",
     "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
     "precedingAuctionCode": "0019908549"
