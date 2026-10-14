@@ -457820,16 +457820,40 @@
       "date": "2026-10-14",
       "time": "18:48:22",
       "productUrl": "/products/djoy-moissanite-pendant-in-yellow-gold-plated-with-chain-size-20-1-08-ct-4540303?variant=53872825893130",
-      "lastUpdated": 1792000102406,
+      "lastUpdated": 1792000160575,
       "source": "gha",
       "productUrlChecked": 1792000105290,
+      "productUrlStatus": 200,
+      "productUrl404": false,
+      "missedAt": 1792000160575,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
+    },
+    "4540303": {
+      "sku": "4540303",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-14",
+      "time": "18:49:20",
+      "preExisting": true,
+      "missedAt": 1792000160575,
+      "missedDelay": null,
+      "lastUpdated": 1792000160575,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "D'Joy - Moissanite Pendant in Yellow Gold Plated with Chain (Size 20) 1.08 Ct.",
+      "auctionCode": "0019908667",
+      "source": "gha",
+      "productUrl": "/products/djoy-moissanite-pendant-in-yellow-gold-plated-with-chain-size-20-1-08-ct-4540303",
+      "productUrlChecked": 1792000163782,
       "productUrlStatus": 200,
       "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792000160575,
     "gaps": [
       {
         "start": 1785823527869,
@@ -515188,8 +515212,8 @@
     "lastOnAirSku": "4540302",
     "lastOnAirTitle": "D'Joy - Moissanite Pendant in Yellow Gold Plated with Chain (Size 20) 1.08 Ct.",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8688949",
-    "precedingTitle": "EverTrue - Natural White Diamond Tree of Life Earring with Lever Back",
-    "precedingAuctionCode": "0019908699"
+    "precedingSku": "4540302",
+    "precedingTitle": "D'Joy - Moissanite Pendant in Yellow Gold Plated with Chain (Size 20) 1.08 Ct.",
+    "precedingAuctionCode": null
   }
 }
