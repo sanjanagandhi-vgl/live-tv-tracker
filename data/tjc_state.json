@@ -451036,17 +451036,17 @@
       "firstAir": 1791878900479,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791879861883,
+      "lastAir": 1791955234435,
       "title": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019906498",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019907978",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-13",
-      "time": "09:24:21",
+      "date": "2026-10-14",
+      "time": "06:20:34",
       "productUrl": "/products/rice-glow-night-cream-with-papaya-wheat-germ-50g-rice-infused-moisturizing-day-cream-with-beetroot-moringa-8594393",
-      "lastUpdated": 1791880459695,
+      "lastUpdated": 1791955234435,
       "source": "gha",
       "missedAt": 1791880459695,
       "missedDelay": 10,
@@ -453736,8 +453736,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791955100975,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -510497,11 +510497,22 @@
         "followingSku": "8739949",
         "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
         "followingAuctionCode": "0019907789"
+      },
+      {
+        "start": 1791955100975,
+        "end": 1791955234435,
+        "durationMin": 2.2,
+        "precedingSku": "8241554",
+        "precedingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
+        "precedingAuctionCode": "0019907967",
+        "followingSku": "8594393",
+        "followingTitle": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
+        "followingAuctionCode": "0019907978"
       }
     ],
-    "lastOnAirSku": "8241554",
-    "lastOnAirTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
-    "lastOnAirAuctionCode": "0019907967",
+    "lastOnAirSku": "8594393",
+    "lastOnAirTitle": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
+    "lastOnAirAuctionCode": "0019907978",
     "precedingSku": "8241554",
     "precedingTitle": "Marigold & Lotus - 100% Pure Mafura Oil - 100 ML",
     "precedingAuctionCode": "0019907967"
