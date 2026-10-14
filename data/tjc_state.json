@@ -417712,23 +417712,23 @@
       "sku": "8162613",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-11",
-      "time": "08:03:19",
+      "date": "2026-10-14",
+      "time": "09:36:21",
       "preExisting": true,
       "missedAt": 1790988380120,
       "missedDelay": null,
-      "lastUpdated": 1791702199729,
+      "lastUpdated": 1791966981405,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
-      "auctionCode": "0019904104",
+      "auctionCode": "0019907776",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-99-9-purity-dolphin-embossed-collectible-39-85-x-25-95-mm",
       "productUrlChecked": 1790988383357,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791702199729,
-      "pdpPrice": "19.99",
+      "lastAir": 1791966981405,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true
@@ -453999,8 +453999,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791966861622,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -510914,11 +510914,22 @@
         "followingSku": "8692856",
         "followingTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
         "followingAuctionCode": "0019907422"
+      },
+      {
+        "start": 1791966861622,
+        "end": 1791966981405,
+        "durationMin": 2.0,
+        "precedingSku": "8692856",
+        "precedingTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
+        "precedingAuctionCode": "0019907422",
+        "followingSku": "8162613",
+        "followingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+        "followingAuctionCode": "0019907776"
       }
     ],
-    "lastOnAirSku": "8692856",
-    "lastOnAirTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
-    "lastOnAirAuctionCode": "0019907422",
+    "lastOnAirSku": "8162613",
+    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+    "lastOnAirAuctionCode": "0019907776",
     "precedingSku": "8692856",
     "precedingTitle": "9K Yellow Gold Hand Made BYZANTINE Bracelet (Size - 7.5) with Lobster Clasp, Gold Wt. 8.13 Gms",
     "precedingAuctionCode": "0019907422"
