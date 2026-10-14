@@ -339443,23 +339443,23 @@
       "sku": "8753832",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-12",
-      "time": "00:21:19",
+      "date": "2026-10-14",
+      "time": "08:43:17",
       "preExisting": true,
       "missedAt": 1789253728770,
       "missedDelay": null,
-      "lastUpdated": 1791760879493,
+      "lastUpdated": 1791963797466,
       "missedPrice": 499.99,
       "missedImg": true,
       "title": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
-      "auctionCode": "0019904655",
+      "auctionCode": "0019907779",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-3-60-gms-8753816",
       "productUrlChecked": 1789253737327,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791760879493,
-      "pdpPrice": "499.99",
+      "lastAir": 1791963797466,
+      "pdpPrice": "1999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -453953,8 +453953,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791963741718,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -510824,11 +510824,22 @@
         "followingSku": "7674311",
         "followingTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
         "followingAuctionCode": "0019907446"
+      },
+      {
+        "start": 1791963741718,
+        "end": 1791963797466,
+        "durationMin": 0.9,
+        "precedingSku": "7674311",
+        "precedingTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
+        "precedingAuctionCode": "0019907446",
+        "followingSku": "8753832",
+        "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
+        "followingAuctionCode": "0019907779"
       }
     ],
-    "lastOnAirSku": "7674311",
-    "lastOnAirTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019907446",
+    "lastOnAirSku": "8753832",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp, Gold Wt. 3.60 Gms",
+    "lastOnAirAuctionCode": "0019907779",
     "precedingSku": "7674311",
     "precedingTitle": "Mega Close Out - 9K Yellow Gold Industrial Link Necklace (Size - 20)",
     "precedingAuctionCode": "0019907446"
