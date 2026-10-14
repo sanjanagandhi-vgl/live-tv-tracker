@@ -456109,11 +456109,29 @@
       "auctionCode": "0019908802",
       "source": "gha",
       "productUrl": null
+    },
+    "8645892": {
+      "sku": "8645892",
+      "firstAir": 1791987745854,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791987745854,
+      "title": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size S, 8-10) - Burgundy",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019908498",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "15:22:25",
+      "productUrl": null,
+      "lastUpdated": 1791987745854,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791987677414,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -513258,11 +513276,22 @@
         "followingSku": "8684010",
         "followingTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
         "followingAuctionCode": "0019908338"
+      },
+      {
+        "start": 1791987677414,
+        "end": 1791987745854,
+        "durationMin": 1.1,
+        "precedingSku": "8684010",
+        "precedingTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
+        "precedingAuctionCode": "0019908338",
+        "followingSku": "8645892",
+        "followingTitle": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size S, 8-10) - Burgundy",
+        "followingAuctionCode": "0019908498"
       }
     ],
-    "lastOnAirSku": "8684010",
-    "lastOnAirTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
-    "lastOnAirAuctionCode": "0019908338",
+    "lastOnAirSku": "8645892",
+    "lastOnAirTitle": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size S, 8-10) - Burgundy",
+    "lastOnAirAuctionCode": "0019908498",
     "precedingSku": "8684010",
     "precedingTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
     "precedingAuctionCode": "0019908338"
