@@ -456219,9 +456219,16 @@
       "img": false,
       "date": "2026-10-14",
       "time": "15:54:23",
-      "productUrl": null,
-      "lastUpdated": 1791989663758,
-      "source": "gha"
+      "productUrl": "/products/qed-london-top-size-one-size-black-white-8787997",
+      "lastUpdated": 1791989728626,
+      "source": "gha",
+      "missedAt": 1791989728626,
+      "missedDelay": 1,
+      "missedPrice": 14.99,
+      "missedImg": false,
+      "productUrlChecked": 1791989732036,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8645944": {
       "sku": "8645944",
@@ -456273,6 +456280,24 @@
       "auctionCode": "0019909084",
       "source": "gha",
       "productUrl": null
+    },
+    "8788112": {
+      "sku": "8788112",
+      "firstAir": 1791989728626,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791989728626,
+      "title": "QED London Zebra Pattern Block Roll Neck Top (Size S, 8-10) - Black & White",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019908587",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "15:55:28",
+      "productUrl": null,
+      "lastUpdated": 1791989728626,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -513446,9 +513471,9 @@
         "followingAuctionCode": "0019908578"
       }
     ],
-    "lastOnAirSku": "8787997",
-    "lastOnAirTitle": "QED London Check Print Asymmetric Hem Top (One Size) - Black & White",
-    "lastOnAirAuctionCode": "0019908578",
+    "lastOnAirSku": "8788112",
+    "lastOnAirTitle": "QED London Zebra Pattern Block Roll Neck Top (Size S, 8-10) - Black & White",
+    "lastOnAirAuctionCode": "0019908587",
     "precedingSku": "8645926",
     "precedingTitle": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size S, 8-10) - Burgundy",
     "precedingAuctionCode": "0019908495"
