@@ -335431,17 +335431,17 @@
       "firstAir": 1789139183954,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789140865809,
+      "lastAir": 1791946101238,
       "title": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019865694",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019907484",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "16:34:25",
+      "date": "2026-10-14",
+      "time": "03:48:21",
       "productUrl": "/products/livmore-3d-laser-etched-owl-crystal-ball-with-led-night-light-owl-8695101?variant=53676828131594",
-      "lastUpdated": 1789141469661,
+      "lastUpdated": 1791946101238,
       "source": "gha",
       "productUrlChecked": 1789140870111,
       "productUrlStatus": 200,
@@ -453163,8 +453163,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791945982179,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509803,11 +509803,22 @@
         "followingSku": "8801616",
         "followingTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
         "followingAuctionCode": "0019907501"
+      },
+      {
+        "start": 1791945982179,
+        "end": 1791946101238,
+        "durationMin": 2.0,
+        "precedingSku": "8801616",
+        "precedingTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
+        "precedingAuctionCode": "0019907501",
+        "followingSku": "8695101",
+        "followingTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
+        "followingAuctionCode": "0019907484"
       }
     ],
-    "lastOnAirSku": "8801616",
-    "lastOnAirTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
-    "lastOnAirAuctionCode": "0019907501",
+    "lastOnAirSku": "8695101",
+    "lastOnAirTitle": "LIVMORE 3D Laser Etched Owl Crystal Ball with LED Night Light - OWL",
+    "lastOnAirAuctionCode": "0019907484",
     "precedingSku": "8801616",
     "precedingTitle": "Bright White 100 LED String Lights with Storage Box (10m) - Off White",
     "precedingAuctionCode": "0019907501"
