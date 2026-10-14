@@ -456147,8 +456147,12 @@
       "date": "2026-10-14",
       "time": "15:43:22",
       "productUrl": null,
-      "lastUpdated": 1791989002060,
-      "source": "gha"
+      "lastUpdated": 1791989140568,
+      "source": "gha",
+      "missedAt": 1791989140568,
+      "missedDelay": 2,
+      "missedPrice": 14.99,
+      "missedImg": true
     },
     "8645925": {
       "sku": "8645925",
@@ -456200,11 +456204,80 @@
       "auctionCode": "0019909088",
       "source": "gha",
       "productUrl": null
+    },
+    "8787997": {
+      "sku": "8787997",
+      "firstAir": 1791989140568,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791989140568,
+      "title": "QED London Check Print Asymmetric Hem Top (One Size) - Black & White",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019908578",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-14",
+      "time": "15:45:40",
+      "productUrl": null,
+      "lastUpdated": 1791989140568,
+      "source": "gha"
+    },
+    "8645944": {
+      "sku": "8645944",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-14",
+      "time": "15:45:40",
+      "preExisting": true,
+      "missedAt": 1791989140568,
+      "missedDelay": null,
+      "lastUpdated": 1791989140568,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size XL, 20-22) - Charcoal",
+      "auctionCode": "0019909086",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8645928": {
+      "sku": "8645928",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-14",
+      "time": "15:45:40",
+      "preExisting": true,
+      "missedAt": 1791989140568,
+      "missedDelay": null,
+      "lastUpdated": 1791989140568,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size L, 16-18) - Charcoal",
+      "auctionCode": "0019909085",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8645927": {
+      "sku": "8645927",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-14",
+      "time": "15:45:40",
+      "preExisting": true,
+      "missedAt": 1791989140568,
+      "missedDelay": null,
+      "lastUpdated": 1791989140568,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size M, 12-14) - Charcoal",
+      "auctionCode": "0019909084",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791989062025,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -513360,11 +513433,22 @@
         "followingSku": "8645892",
         "followingTitle": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size S, 8-10) - Burgundy",
         "followingAuctionCode": "0019908498"
+      },
+      {
+        "start": 1791989062025,
+        "end": 1791989140568,
+        "durationMin": 1.3,
+        "precedingSku": "8645926",
+        "precedingTitle": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size S, 8-10) - Burgundy",
+        "precedingAuctionCode": "0019908495",
+        "followingSku": "8787997",
+        "followingTitle": "QED London Check Print Asymmetric Hem Top (One Size) - Black & White",
+        "followingAuctionCode": "0019908578"
       }
     ],
-    "lastOnAirSku": "8645926",
-    "lastOnAirTitle": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size S, 8-10) - Burgundy",
-    "lastOnAirAuctionCode": "0019908495",
+    "lastOnAirSku": "8787997",
+    "lastOnAirTitle": "QED London Check Print Asymmetric Hem Top (One Size) - Black & White",
+    "lastOnAirAuctionCode": "0019908578",
     "precedingSku": "8645926",
     "precedingTitle": "La Marey Heart Embroidered T-shirt with Round Neck and Full Sleeves (Size S, 8-10) - Burgundy",
     "precedingAuctionCode": "0019908495"
