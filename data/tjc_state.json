@@ -456774,11 +456774,29 @@
       "auctionCode": "0019908406",
       "source": "gha",
       "productUrl": null
+    },
+    "8521972": {
+      "sku": "8521972",
+      "firstAir": 1791993198514,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1791993198514,
+      "title": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Black",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019908376",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-14",
+      "time": "16:53:18",
+      "productUrl": null,
+      "lastUpdated": 1791993198514,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791993142477,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -514011,11 +514029,22 @@
         "followingSku": "8521931",
         "followingTitle": "Emreco Womens Pull-On Stretch Jersey Trousers with 29 Inch Inside Leg (Size 10) - Chocolate",
         "followingAuctionCode": "0019908352"
+      },
+      {
+        "start": 1791993142477,
+        "end": 1791993198514,
+        "durationMin": 0.9,
+        "precedingSku": "8521931",
+        "precedingTitle": "Emreco Womens Pull-On Stretch Jersey Trousers with 29 Inch Inside Leg (Size 10) - Chocolate",
+        "precedingAuctionCode": "0019908352",
+        "followingSku": "8521972",
+        "followingTitle": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Black",
+        "followingAuctionCode": "0019908376"
       }
     ],
-    "lastOnAirSku": "8521931",
-    "lastOnAirTitle": "Emreco Womens Pull-On Stretch Jersey Trousers with 29 Inch Inside Leg (Size 10) - Chocolate",
-    "lastOnAirAuctionCode": "0019908352",
+    "lastOnAirSku": "8521972",
+    "lastOnAirTitle": "Emreco Ladies\u00a0Zip Neck Stretch Jersey Top (Size 10) - Black",
+    "lastOnAirAuctionCode": "0019908376",
     "precedingSku": "8521931",
     "precedingTitle": "Emreco Womens Pull-On Stretch Jersey Trousers with 29 Inch Inside Leg (Size 10) - Chocolate",
     "precedingAuctionCode": "0019908352"
