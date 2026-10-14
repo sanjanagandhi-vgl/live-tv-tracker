@@ -7298,19 +7298,19 @@
       "sku": "8055952",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-10",
-      "time": "20:03:17",
+      "date": "2026-10-14",
+      "time": "01:14:21",
       "preExisting": true,
       "missedAt": 1784930728239,
       "missedDelay": null,
-      "lastUpdated": 1791658997647,
+      "lastUpdated": 1791936861198,
       "missedPrice": 199.99,
       "missedImg": true,
       "title": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
-      "auctionCode": "0019903785",
+      "auctionCode": "0019908187",
       "source": "gha",
-      "lastAir": 1791658997647,
-      "pdpPrice": "199.99",
+      "lastAir": 1791936861198,
+      "pdpPrice": "299.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -452953,8 +452953,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1791936798959,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -509428,11 +509428,22 @@
         "followingSku": "8787846",
         "followingTitle": "Royal Bali Collection - 9K Yellow Gold Ring",
         "followingAuctionCode": "0019908144"
+      },
+      {
+        "start": 1791936798959,
+        "end": 1791936861198,
+        "durationMin": 1.0,
+        "precedingSku": "8787846",
+        "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Ring",
+        "precedingAuctionCode": "0019908144",
+        "followingSku": "8055952",
+        "followingTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
+        "followingAuctionCode": "0019908187"
       }
     ],
-    "lastOnAirSku": "8787846",
-    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Ring",
-    "lastOnAirAuctionCode": "0019908144",
+    "lastOnAirSku": "8055952",
+    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019908187",
     "precedingSku": "8787846",
     "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Ring",
     "precedingAuctionCode": "0019908144"
