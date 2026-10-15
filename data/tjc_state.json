@@ -461021,14 +461021,41 @@
       "img": true,
       "date": "2026-10-15",
       "time": "22:10:34",
-      "productUrl": null,
-      "lastUpdated": 1792098634208,
-      "source": "gha"
+      "productUrl": "/products/evertrue-white-diamond-cluster-earring-pure-yellow-brass-0-020-ct-8780928",
+      "lastUpdated": 1792098677287,
+      "source": "gha",
+      "missedAt": 1792098677287,
+      "missedDelay": 1,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1792098689147,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8780929": {
+      "sku": "8780929",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-15",
+      "time": "22:11:17",
+      "preExisting": true,
+      "missedAt": 1792098677287,
+      "missedDelay": null,
+      "lastUpdated": 1792098677287,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
+      "auctionCode": "0019910601",
+      "source": "gha",
+      "productUrl": "/products/evertrue-white-diamond-cluster-earring-pure-yellow-brass-0-020-ct-8780928",
+      "productUrlChecked": 1792098689736,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792098677287,
     "gaps": [
       {
         "start": 1785823527869,
@@ -519465,8 +519492,8 @@
     "lastOnAirSku": "8780928",
     "lastOnAirTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
     "lastOnAirAuctionCode": "0019910554",
-    "precedingSku": "8828845",
-    "precedingTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
-    "precedingAuctionCode": "0019911017"
+    "precedingSku": "8780928",
+    "precedingTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
+    "precedingAuctionCode": "0019910554"
   }
 }
