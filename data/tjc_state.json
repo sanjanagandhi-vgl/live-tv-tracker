@@ -458965,17 +458965,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-15",
-      "time": "09:53:18",
+      "time": "22:26:21",
       "preExisting": true,
       "missedAt": 1792054398504,
       "missedDelay": null,
-      "lastUpdated": 1792054398504,
+      "lastUpdated": 1792099581739,
       "missedPrice": 4.99,
       "missedImg": true,
       "title": "Biggest Pearl Deal 2026- High Luster White Fresh Water Pearl Stud Ball Earring with Push Back",
-      "auctionCode": "0019909316",
+      "auctionCode": "0019911004",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792099581739,
+      "pdpPrice": "4.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8618625": {
       "sku": "8618625",
@@ -461251,8 +461256,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792099234275,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -519706,11 +519711,22 @@
         "followingSku": "8780820",
         "followingTitle": "EverTrue White Diamond Solitaire Ring Pure Yellow Brass  0.017  Ct.",
         "followingAuctionCode": "0019910535"
+      },
+      {
+        "start": 1792099234275,
+        "end": 1792099581739,
+        "durationMin": 5.8,
+        "precedingSku": "8780820",
+        "precedingTitle": "EverTrue White Diamond Solitaire Ring Pure Yellow Brass  0.017  Ct.",
+        "precedingAuctionCode": "0019910535",
+        "followingSku": "8618437",
+        "followingTitle": "Biggest Pearl Deal 2026- High Luster White Fresh Water Pearl Stud Ball Earring with Push Back",
+        "followingAuctionCode": "0019911004"
       }
     ],
-    "lastOnAirSku": "8780820",
-    "lastOnAirTitle": "EverTrue White Diamond Solitaire Ring Pure Yellow Brass  0.017  Ct.",
-    "lastOnAirAuctionCode": "0019910535",
+    "lastOnAirSku": "8618437",
+    "lastOnAirTitle": "Biggest Pearl Deal 2026- High Luster White Fresh Water Pearl Stud Ball Earring with Push Back",
+    "lastOnAirAuctionCode": "0019911004",
     "precedingSku": "8780820",
     "precedingTitle": "EverTrue White Diamond Solitaire Ring Pure Yellow Brass  0.017  Ct.",
     "precedingAuctionCode": "0019910535"
