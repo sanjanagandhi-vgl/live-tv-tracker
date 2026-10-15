@@ -459172,8 +459172,12 @@
       "date": "2026-10-15",
       "time": "10:50:35",
       "productUrl": null,
-      "lastUpdated": 1792057835362,
-      "source": "gha"
+      "lastUpdated": 1792057880139,
+      "source": "gha",
+      "missedAt": 1792057880139,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
     },
     "8772954": {
       "sku": "8772954",
@@ -459194,11 +459198,28 @@
       "productUrlChecked": 1792057540146,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4531225": {
+      "sku": "4531225",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-15",
+      "time": "10:51:20",
+      "preExisting": true,
+      "missedAt": 1792057880139,
+      "missedDelay": null,
+      "lastUpdated": 1792057880139,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Ethiopian Opal Solitaire Pendant in Platinum Overlay Sterling Silver with Chain (Size 20)",
+      "auctionCode": "0019910164",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792057880139,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517173,8 +517194,8 @@
     "lastOnAirSku": "4531228",
     "lastOnAirTitle": "Ethiopian Opal Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
     "lastOnAirAuctionCode": "0019909745",
-    "precedingSku": "8772955",
-    "precedingTitle": "D'Joy - AAA Ethiopian Opal Dangling Earring with Lever Back in Yellow Gold Plated Sterling Silver 1.25 Ct.",
-    "precedingAuctionCode": "0019909748"
+    "precedingSku": "4531228",
+    "precedingTitle": "Ethiopian Opal Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
+    "precedingAuctionCode": "0019909745"
   }
 }
