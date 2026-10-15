@@ -428957,21 +428957,26 @@
       "sku": "8798358",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "10:01:02",
+      "date": "2026-10-15",
+      "time": "14:52:26",
       "preExisting": true,
       "missedAt": 1791277262519,
       "missedDelay": null,
-      "lastUpdated": 1791277262519,
+      "lastUpdated": 1792072346266,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "Laurelle Stellar Echoes - 100ml (Parfum du Marly)",
-      "auctionCode": "0019896976",
+      "title": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
+      "auctionCode": "0019910364",
       "source": "gha",
       "productUrl": "/products/laurelle-ethereal-blue-edp-100ml-tonka-oud-8798357",
       "productUrlChecked": 1791277268771,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792072346266,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "221336833": {
       "sku": "221336833",
@@ -459561,8 +459566,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792072278562,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517653,11 +517658,22 @@
         "followingSku": "8820114",
         "followingTitle": "NEW ARRIVAL- ELLE Fleur Gift Set- 250ml Hair & Body Spray and 100ml Body Lotion",
         "followingAuctionCode": "0019910697"
+      },
+      {
+        "start": 1792072278562,
+        "end": 1792072346266,
+        "durationMin": 1.1,
+        "precedingSku": "8820114",
+        "precedingTitle": "NEW ARRIVAL- ELLE Fleur Gift Set- 250ml Hair & Body Spray and 100ml Body Lotion",
+        "precedingAuctionCode": "0019910697",
+        "followingSku": "8798358",
+        "followingTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
+        "followingAuctionCode": "0019910364"
       }
     ],
-    "lastOnAirSku": "8820114",
-    "lastOnAirTitle": "NEW ARRIVAL- ELLE Fleur Gift Set- 250ml Hair & Body Spray and 100ml Body Lotion",
-    "lastOnAirAuctionCode": "0019910697",
+    "lastOnAirSku": "8798358",
+    "lastOnAirTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
+    "lastOnAirAuctionCode": "0019910364",
     "precedingSku": "8820114",
     "precedingTitle": "NEW ARRIVAL- ELLE Fleur Gift Set- 250ml Hair & Body Spray and 100ml Body Lotion",
     "precedingAuctionCode": "0019910697"
