@@ -459215,11 +459215,29 @@
       "auctionCode": "0019910164",
       "source": "gha",
       "productUrl": null
+    },
+    "8795581": {
+      "sku": "8795581",
+      "firstAir": 1792057945934,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792057945934,
+      "title": "High Luster Peach Fresh Water Pearl Necklace (Size - 18-2 Ext)",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019909864",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "10:52:25",
+      "productUrl": null,
+      "lastUpdated": 1792057945934,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792057880139,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517189,11 +517207,22 @@
         "followingSku": "4531228",
         "followingTitle": "Ethiopian Opal Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
         "followingAuctionCode": "0019909745"
+      },
+      {
+        "start": 1792057880139,
+        "end": 1792057945934,
+        "durationMin": 1.1,
+        "precedingSku": "4531228",
+        "precedingTitle": "Ethiopian Opal Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
+        "precedingAuctionCode": "0019909745",
+        "followingSku": "8795581",
+        "followingTitle": "High Luster Peach Fresh Water Pearl Necklace (Size - 18-2 Ext)",
+        "followingAuctionCode": "0019909864"
       }
     ],
-    "lastOnAirSku": "4531228",
-    "lastOnAirTitle": "Ethiopian Opal Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019909745",
+    "lastOnAirSku": "8795581",
+    "lastOnAirTitle": "High Luster Peach Fresh Water Pearl Necklace (Size - 18-2 Ext)",
+    "lastOnAirAuctionCode": "0019909864",
     "precedingSku": "4531228",
     "precedingTitle": "Ethiopian Opal Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
     "precedingAuctionCode": "0019909745"
