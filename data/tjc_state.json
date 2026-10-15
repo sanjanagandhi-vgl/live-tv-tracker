@@ -6708,18 +6708,18 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-15",
-      "time": "03:59:18",
+      "time": "05:11:20",
       "preExisting": true,
       "missedAt": 1784916085649,
       "missedDelay": null,
-      "lastUpdated": 1792033158231,
+      "lastUpdated": 1792037480665,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
-      "auctionCode": "0019909851",
+      "auctionCode": "0019909853",
       "source": "gha",
-      "lastAir": 1792033158231,
-      "pdpPrice": "59.99",
+      "lastAir": 1792037480665,
+      "pdpPrice": "179.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -458509,8 +458509,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792036701210,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -516227,11 +516227,22 @@
         "followingSku": "8708859",
         "followingTitle": "Mango Wood Hand painted Wooden Elephant Decorative Figurine (20cm) - Black & White",
         "followingAuctionCode": "0019909834"
+      },
+      {
+        "start": 1792036701210,
+        "end": 1792037480665,
+        "durationMin": 13.0,
+        "precedingSku": "8631215",
+        "precedingTitle": "LIVMORE Cordless Vacuum - Lightweight 3.1Kg, 200w-20kpa with HEPA Filter, 2 in 1 Fabric Brush ...",
+        "precedingAuctionCode": null,
+        "followingSku": "7958078",
+        "followingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+        "followingAuctionCode": "0019909853"
       }
     ],
-    "lastOnAirSku": "8631215",
-    "lastOnAirTitle": "LIVMORE Cordless Vacuum - Lightweight 3.1Kg, 200w-20kpa with HEPA Filter, 2 in 1 Fabric Brush ...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "7958078",
+    "lastOnAirTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+    "lastOnAirAuctionCode": "0019909853",
     "precedingSku": "8631215",
     "precedingTitle": "LIVMORE Cordless Vacuum - Lightweight 3.1Kg, 200w-20kpa with HEPA Filter, 2 in 1 Fabric Brush ...",
     "precedingAuctionCode": null
