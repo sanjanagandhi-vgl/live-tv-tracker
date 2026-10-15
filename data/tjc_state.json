@@ -24769,21 +24769,21 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-15",
-      "time": "15:29:17",
+      "time": "15:33:19",
       "preExisting": true,
       "missedAt": 1785398554539,
       "missedDelay": null,
-      "lastUpdated": 1792074557932,
+      "lastUpdated": 1792074799362,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Cetuem- Golden Glow - 50ml (New Packaging)",
-      "auctionCode": "0019910795",
+      "auctionCode": "0019910796",
       "source": "gha",
       "productUrl": "/products/cetuem-golden-glow-50ml?variant=53108226687242",
       "productUrlChecked": 1785398556975,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1792074557932,
+      "lastAir": 1792074799362,
       "pdpPrice": "19.99",
       "buy": true,
       "login": false,
@@ -459566,8 +459566,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792074654635,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517691,11 +517691,22 @@
         "followingSku": "7169130",
         "followingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
         "followingAuctionCode": "0019910795"
+      },
+      {
+        "start": 1792074654635,
+        "end": 1792074799362,
+        "durationMin": 2.4,
+        "precedingSku": "7169130",
+        "precedingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
+        "precedingAuctionCode": "0019910795",
+        "followingSku": "7169130",
+        "followingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
+        "followingAuctionCode": "0019910796"
       }
     ],
     "lastOnAirSku": "7169130",
     "lastOnAirTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
-    "lastOnAirAuctionCode": "0019910795",
+    "lastOnAirAuctionCode": "0019910796",
     "precedingSku": "7169130",
     "precedingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
     "precedingAuctionCode": "0019910795"
