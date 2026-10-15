@@ -458665,11 +458665,29 @@
       "auctionCode": "0019909236",
       "source": "gha",
       "productUrl": null
+    },
+    "8820114": {
+      "sku": "8820114",
+      "firstAir": 1792048106293,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792048106293,
+      "title": "NEW ARRIVAL- ELLE Fleur Gift Set- 250ml Hair & Body Spray and 100ml Body Lotion",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019909892",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "08:08:26",
+      "productUrl": null,
+      "lastUpdated": 1792048106293,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792047797593,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -516540,11 +516558,22 @@
         "followingSku": "8584163",
         "followingTitle": "La Marey Soft Ribbed Light Weight Cardigan (Size XL, 20-22) - Beige",
         "followingAuctionCode": "0019909408"
+      },
+      {
+        "start": 1792047797593,
+        "end": 1792048106293,
+        "durationMin": 5.1,
+        "precedingSku": "8682759",
+        "precedingTitle": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - S, 8-10) - Black",
+        "precedingAuctionCode": "0019908943",
+        "followingSku": "8820114",
+        "followingTitle": "NEW ARRIVAL- ELLE Fleur Gift Set- 250ml Hair & Body Spray and 100ml Body Lotion",
+        "followingAuctionCode": "0019909892"
       }
     ],
-    "lastOnAirSku": "8682759",
-    "lastOnAirTitle": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - S, 8-10) - Black",
-    "lastOnAirAuctionCode": "0019908943",
+    "lastOnAirSku": "8820114",
+    "lastOnAirTitle": "NEW ARRIVAL- ELLE Fleur Gift Set- 250ml Hair & Body Spray and 100ml Body Lotion",
+    "lastOnAirAuctionCode": "0019909892",
     "precedingSku": "8682759",
     "precedingTitle": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - S, 8-10) - Black",
     "precedingAuctionCode": "0019908943"
