@@ -461051,11 +461051,29 @@
       "productUrlChecked": 1792098689736,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4533182": {
+      "sku": "4533182",
+      "firstAir": 1792098743429,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792098743429,
+      "title": "EverTrue - Natural White Diamond Pendant with Chain (Size 20) in Yellow Gold Tone",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019910529",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "22:12:23",
+      "productUrl": null,
+      "lastUpdated": 1792098743429,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792098677287,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -519487,11 +519505,22 @@
         "followingSku": "8780928",
         "followingTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
         "followingAuctionCode": "0019910554"
+      },
+      {
+        "start": 1792098677287,
+        "end": 1792098743429,
+        "durationMin": 1.1,
+        "precedingSku": "8780928",
+        "precedingTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
+        "precedingAuctionCode": "0019910554",
+        "followingSku": "4533182",
+        "followingTitle": "EverTrue - Natural White Diamond Pendant with Chain (Size 20) in Yellow Gold Tone",
+        "followingAuctionCode": "0019910529"
       }
     ],
-    "lastOnAirSku": "8780928",
-    "lastOnAirTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019910554",
+    "lastOnAirSku": "4533182",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Pendant with Chain (Size 20) in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019910529",
     "precedingSku": "8780928",
     "precedingTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
     "precedingAuctionCode": "0019910554"
