@@ -25699,23 +25699,23 @@
       "sku": "7997042",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-14",
-      "time": "19:22:22",
+      "date": "2026-10-15",
+      "time": "15:13:20",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1792002142840,
+      "lastUpdated": 1792073600732,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Laurelle My Mic EDP - 100ml",
-      "auctionCode": "0019908620",
+      "auctionCode": "0019909782",
       "source": "gha",
       "productUrl": "/products/laurelle-my-mic-edp-100ml",
       "productUrlChecked": 1785474503295,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1792002142840,
-      "pdpPrice": "9.99",
+      "lastAir": 1792073600732,
+      "pdpPrice": "17.99",
       "buy": true,
       "login": false,
       "img": true
@@ -459566,8 +459566,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792073544715,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517669,11 +517669,22 @@
         "followingSku": "8798358",
         "followingTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
         "followingAuctionCode": "0019910364"
+      },
+      {
+        "start": 1792073544715,
+        "end": 1792073600732,
+        "durationMin": 0.9,
+        "precedingSku": "8798358",
+        "precedingTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
+        "precedingAuctionCode": "0019910364",
+        "followingSku": "7997042",
+        "followingTitle": "Laurelle My Mic EDP - 100ml",
+        "followingAuctionCode": "0019909782"
       }
     ],
-    "lastOnAirSku": "8798358",
-    "lastOnAirTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
-    "lastOnAirAuctionCode": "0019910364",
+    "lastOnAirSku": "7997042",
+    "lastOnAirTitle": "Laurelle My Mic EDP - 100ml",
+    "lastOnAirAuctionCode": "0019909782",
     "precedingSku": "8798358",
     "precedingTitle": "Laurelle Ethereal Blue EDP - 100ml (Tonka Oud)",
     "precedingAuctionCode": "0019910364"
