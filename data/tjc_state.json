@@ -459489,11 +459489,29 @@
       "productUrlChecked": 1792065674581,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8828845": {
+      "sku": "8828845",
+      "firstAir": 1792065927716,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792065927716,
+      "title": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
+      "pdpPrice": "499.00",
+      "auctionCode": "0019909774",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "13:05:27",
+      "productUrl": null,
+      "lastUpdated": 1792065927716,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792065560734,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517551,11 +517569,22 @@
         "followingSku": "8755098",
         "followingTitle": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
         "followingAuctionCode": "0019909628"
+      },
+      {
+        "start": 1792065560734,
+        "end": 1792065927716,
+        "durationMin": 6.1,
+        "precedingSku": "8755098",
+        "precedingTitle": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
+        "precedingAuctionCode": "0019909628",
+        "followingSku": "8828845",
+        "followingTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
+        "followingAuctionCode": "0019909774"
       }
     ],
-    "lastOnAirSku": "8755098",
-    "lastOnAirTitle": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
-    "lastOnAirAuctionCode": "0019909628",
+    "lastOnAirSku": "8828845",
+    "lastOnAirTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019909774",
     "precedingSku": "8755098",
     "precedingTitle": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
     "precedingAuctionCode": "0019909628"
