@@ -151201,17 +151201,17 @@
       "firstAir": 1786609582530,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791898159462,
+      "lastAir": 1792040838918,
       "title": "Classic Wool Bucket Hat - Red",
-      "pdpPrice": 9.99,
-      "auctionCode": null,
+      "pdpPrice": "9.99",
+      "auctionCode": "0019909460",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-13",
-      "time": "14:29:19",
+      "date": "2026-10-15",
+      "time": "06:07:18",
       "productUrl": "/products/wool-patterned-hat-cap-and-earmuff?variant=53099960041738",
-      "lastUpdated": 1791898159462,
+      "lastUpdated": 1792040838918,
       "source": "gha",
       "missedAt": 1786610190935,
       "missedDelay": 9,
@@ -458509,8 +458509,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792040180648,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -516238,11 +516238,22 @@
         "followingSku": "7958078",
         "followingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
         "followingAuctionCode": "0019909853"
+      },
+      {
+        "start": 1792040180648,
+        "end": 1792040838918,
+        "durationMin": 11.0,
+        "precedingSku": "7958078",
+        "precedingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
+        "precedingAuctionCode": "0019909853",
+        "followingSku": "8205129",
+        "followingTitle": "Classic Wool Bucket Hat - Red",
+        "followingAuctionCode": "0019909460"
       }
     ],
-    "lastOnAirSku": "7958078",
-    "lastOnAirTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
-    "lastOnAirAuctionCode": "0019909853",
+    "lastOnAirSku": "8205129",
+    "lastOnAirTitle": "Classic Wool Bucket Hat - Red",
+    "lastOnAirAuctionCode": "0019909460",
     "precedingSku": "7958078",
     "precedingTitle": "Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm - Upto 100 Day Supply",
     "precedingAuctionCode": "0019909853"
