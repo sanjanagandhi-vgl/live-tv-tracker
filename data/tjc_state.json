@@ -24768,23 +24768,23 @@
       "sku": "7169130",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-04",
-      "time": "03:12:21",
+      "date": "2026-10-15",
+      "time": "15:26:25",
       "preExisting": true,
       "missedAt": 1785398554539,
       "missedDelay": null,
-      "lastUpdated": 1791079941864,
+      "lastUpdated": 1792074385582,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Cetuem- Golden Glow - 50ml (New Packaging)",
-      "auctionCode": "0019896038",
+      "auctionCode": "0019910795",
       "source": "gha",
       "productUrl": "/products/cetuem-golden-glow-50ml?variant=53108226687242",
       "productUrlChecked": 1785398556975,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1791079941864,
-      "pdpPrice": 19.99,
+      "lastAir": 1792074385582,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -459566,8 +459566,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792074327322,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517680,11 +517680,22 @@
         "followingSku": "7997042",
         "followingTitle": "Laurelle My Mic EDP - 100ml",
         "followingAuctionCode": "0019909782"
+      },
+      {
+        "start": 1792074327322,
+        "end": 1792074385582,
+        "durationMin": 1.0,
+        "precedingSku": "7997042",
+        "precedingTitle": "Laurelle My Mic EDP - 100ml",
+        "precedingAuctionCode": null,
+        "followingSku": "7169130",
+        "followingTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
+        "followingAuctionCode": "0019910795"
       }
     ],
-    "lastOnAirSku": "7997042",
-    "lastOnAirTitle": "Laurelle My Mic EDP - 100ml",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "7169130",
+    "lastOnAirTitle": "Cetuem- Golden Glow - 50ml (New Packaging)",
+    "lastOnAirAuctionCode": "0019910795",
     "precedingSku": "7997042",
     "precedingTitle": "Laurelle My Mic EDP - 100ml",
     "precedingAuctionCode": null
