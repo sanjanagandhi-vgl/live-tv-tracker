@@ -460652,14 +460652,61 @@
       "img": true,
       "date": "2026-10-15",
       "time": "19:42:22",
-      "productUrl": null,
-      "lastUpdated": 1792089742035,
-      "source": "gha"
+      "productUrl": "/products/la-marey-checked-belted-winter-shirt",
+      "lastUpdated": 1792089797649,
+      "source": "gha",
+      "missedAt": 1792089797649,
+      "missedDelay": 1,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1792089800046,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7874439": {
+      "sku": "7874439",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-15",
+      "time": "19:43:17",
+      "preExisting": true,
+      "missedAt": 1792089797649,
+      "missedDelay": null,
+      "lastUpdated": 1792089797649,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Checked Belted Winter Shirt (Size 20 to 22) - Brown",
+      "auctionCode": "0019910396",
+      "source": "gha",
+      "productUrl": "/products/la-marey-checked-belted-winter-shirt",
+      "productUrlChecked": 1792089800964,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7874438": {
+      "sku": "7874438",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-15",
+      "time": "19:43:17",
+      "preExisting": true,
+      "missedAt": 1792089797649,
+      "missedDelay": null,
+      "lastUpdated": 1792089797649,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "La Marey Checked Belted Winter Shirt (Size 16 to 18) - Brown",
+      "auctionCode": "0019910395",
+      "source": "gha",
+      "productUrl": "/products/la-marey-checked-belted-winter-shirt",
+      "productUrlChecked": 1792089801691,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792089797649,
     "gaps": [
       {
         "start": 1785823527869,
@@ -518964,8 +519011,8 @@
     "lastOnAirSku": "7874437",
     "lastOnAirTitle": "La Marey Checked Belted Shirt (Size 16 to 18) - Pink",
     "lastOnAirAuctionCode": "0019910393",
-    "precedingSku": "8465931",
-    "precedingTitle": "La Marey Silk-Feel Wide Leg Trousers (Size L/XL, 16 To 22) - Dark Goldenrod",
-    "precedingAuctionCode": "0019910381"
+    "precedingSku": "7874437",
+    "precedingTitle": "La Marey Checked Belted Shirt (Size 16 to 18) - Pink",
+    "precedingAuctionCode": "0019910393"
   }
 }
