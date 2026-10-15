@@ -461006,11 +461006,29 @@
       "auctionCode": "0019910762",
       "source": "gha",
       "productUrl": null
+    },
+    "8780928": {
+      "sku": "8780928",
+      "firstAir": 1792098383880,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792098383880,
+      "title": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019910554",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "22:06:23",
+      "productUrl": null,
+      "lastUpdated": 1792098383880,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792098140713,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -519431,11 +519449,22 @@
         "followingSku": "8828845",
         "followingTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019911017"
+      },
+      {
+        "start": 1792098140713,
+        "end": 1792098383880,
+        "durationMin": 4.1,
+        "precedingSku": "8828845",
+        "precedingTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
+        "precedingAuctionCode": "0019911017",
+        "followingSku": "8780928",
+        "followingTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
+        "followingAuctionCode": "0019910554"
       }
     ],
-    "lastOnAirSku": "8828845",
-    "lastOnAirTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019911017",
+    "lastOnAirSku": "8780928",
+    "lastOnAirTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019910554",
     "precedingSku": "8828845",
     "precedingTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
     "precedingAuctionCode": "0019911017"
