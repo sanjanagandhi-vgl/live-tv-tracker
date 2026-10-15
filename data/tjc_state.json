@@ -1777,23 +1777,23 @@
       "sku": "8519081",
       "tvPrice": "",
       "remarks": "",
-      "time": "01:41:18",
+      "time": "08:42:21",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Leopard Royal Savannah EDP - 100ml",
-      "auctionCode": "0019884552",
+      "auctionCode": "0019909945",
       "source": "gha",
-      "lastAir": 1790383278003,
-      "pdpPrice": "19.99",
+      "lastAir": 1792050141121,
+      "pdpPrice": "24.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-26",
+      "date": "2026-10-15",
       "productUrl": null,
-      "lastUpdated": 1790383278003
+      "lastUpdated": 1792050141121
     },
     "8696197": {
       "sku": "8696197",
@@ -458713,8 +458713,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792050035226,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -516607,11 +516607,22 @@
         "followingSku": "8739949",
         "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
         "followingAuctionCode": "0019909303"
+      },
+      {
+        "start": 1792050035226,
+        "end": 1792050141121,
+        "durationMin": 1.8,
+        "precedingSku": "8739949",
+        "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+        "precedingAuctionCode": "0019909303",
+        "followingSku": "8519081",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019909945"
       }
     ],
-    "lastOnAirSku": "8739949",
-    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
-    "lastOnAirAuctionCode": "0019909303",
+    "lastOnAirSku": "8519081",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019909945",
     "precedingSku": "8739949",
     "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
     "precedingAuctionCode": "0019909303"
