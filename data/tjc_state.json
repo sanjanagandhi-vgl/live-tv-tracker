@@ -411411,22 +411411,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-15",
-      "time": "11:57:17",
+      "time": "19:01:06",
       "preExisting": true,
       "missedAt": 1790851160477,
       "missedDelay": null,
-      "lastUpdated": 1792061837269,
+      "lastUpdated": 1792087266729,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "24K Gold (99.9% Purity) Embossed Cross Collectable",
-      "auctionCode": null,
+      "auctionCode": "0019910963",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2698285299?variant=53109363573002",
       "productUrlChecked": 1790851164291,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792061837269,
-      "pdpPrice": 19.99,
+      "lastAir": 1792087266729,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -460616,8 +460616,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792087102265,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -518873,11 +518873,22 @@
         "followingSku": "8828845",
         "followingTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019910960"
+      },
+      {
+        "start": 1792087102265,
+        "end": 1792087266729,
+        "durationMin": 2.7,
+        "precedingSku": "8828845",
+        "precedingTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
+        "precedingAuctionCode": "0019910960",
+        "followingSku": "8328246",
+        "followingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+        "followingAuctionCode": "0019910963"
       }
     ],
-    "lastOnAirSku": "8828845",
-    "lastOnAirTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019910960",
+    "lastOnAirSku": "8328246",
+    "lastOnAirTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+    "lastOnAirAuctionCode": "0019910963",
     "precedingSku": "8828845",
     "precedingTitle": "OTO- Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
     "precedingAuctionCode": "0019910960"
