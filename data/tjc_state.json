@@ -459287,13 +459287,51 @@
       "date": "2026-10-15",
       "time": "11:17:17",
       "productUrl": null,
-      "lastUpdated": 1792059437251,
-      "source": "gha"
+      "lastUpdated": 1792059502645,
+      "source": "gha",
+      "missedAt": 1792059502645,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
+    },
+    "4457098": {
+      "sku": "4457098",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-15",
+      "time": "11:18:22",
+      "preExisting": true,
+      "missedAt": 1792059502645,
+      "missedDelay": null,
+      "lastUpdated": 1792059502645,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
+      "auctionCode": "0019910141",
+      "source": "gha",
+      "productUrl": null
+    },
+    "4457096": {
+      "sku": "4457096",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-15",
+      "time": "11:18:22",
+      "preExisting": true,
+      "missedAt": 1792059502645,
+      "missedDelay": null,
+      "lastUpdated": 1792059502645,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
+      "auctionCode": "0019910140",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792059502645,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517290,8 +517328,8 @@
     "lastOnAirSku": "4457097",
     "lastOnAirTitle": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
     "lastOnAirAuctionCode": "0019909495",
-    "precedingSku": "8661905",
-    "precedingTitle": "Portable 2 Layer Travel Jewelry Box with Removable Lock - Pink",
-    "precedingAuctionCode": "0019909870"
+    "precedingSku": "4457097",
+    "precedingTitle": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
+    "precedingAuctionCode": "0019909495"
   }
 }
