@@ -461303,11 +461303,29 @@
       "productUrlChecked": 1792103729589,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8780567": {
+      "sku": "8780567",
+      "firstAir": 1792104635056,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792104635056,
+      "title": "9K Yellow Gold AAA Ethiopian Opal Solitaire Pendant 11.10 Ct.",
+      "pdpPrice": "3999.99",
+      "auctionCode": "0019908065",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "23:50:35",
+      "productUrl": null,
+      "lastUpdated": 1792104635056,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792104499238,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -519827,11 +519845,22 @@
         "followingSku": "8753825",
         "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019910350"
+      },
+      {
+        "start": 1792104499238,
+        "end": 1792104635056,
+        "durationMin": 2.3,
+        "precedingSku": "8753825",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp",
+        "precedingAuctionCode": null,
+        "followingSku": "8780567",
+        "followingTitle": "9K Yellow Gold AAA Ethiopian Opal Solitaire Pendant 11.10 Ct.",
+        "followingAuctionCode": "0019908065"
       }
     ],
-    "lastOnAirSku": "8753825",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8780567",
+    "lastOnAirTitle": "9K Yellow Gold AAA Ethiopian Opal Solitaire Pendant 11.10 Ct.",
+    "lastOnAirAuctionCode": "0019908065",
     "precedingSku": "8753825",
     "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 20) with Lobster Clasp",
     "precedingAuctionCode": null
