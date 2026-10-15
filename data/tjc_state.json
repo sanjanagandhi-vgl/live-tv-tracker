@@ -387679,17 +387679,17 @@
       "firstAir": 1790263105410,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791217462345,
+      "lastAir": 1792079729531,
       "title": "La Marey Patterned Top (Size - S/M) - Black",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019896676",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019909599",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-05",
-      "time": "17:24:22",
+      "date": "2026-10-15",
+      "time": "16:55:29",
       "productUrl": "/products/la-marey-patterned-top-size-s-m-black-8620875?variant=53759925453066",
-      "lastUpdated": 1791217462345,
+      "lastUpdated": 1792079729531,
       "source": "gha",
       "missedAt": 1790264000469,
       "missedDelay": 10,
@@ -459977,8 +459977,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792079664605,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -518135,11 +518135,22 @@
         "followingSku": "8574917",
         "followingTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
         "followingAuctionCode": "0019909783"
+      },
+      {
+        "start": 1792079664605,
+        "end": 1792079729531,
+        "durationMin": 1.1,
+        "precedingSku": "8574917",
+        "precedingTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
+        "precedingAuctionCode": "0019909783",
+        "followingSku": "8620875",
+        "followingTitle": "La Marey Patterned Top (Size - S/M) - Black",
+        "followingAuctionCode": "0019909599"
       }
     ],
-    "lastOnAirSku": "8574917",
-    "lastOnAirTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
-    "lastOnAirAuctionCode": "0019909783",
+    "lastOnAirSku": "8620875",
+    "lastOnAirTitle": "La Marey Patterned Top (Size - S/M) - Black",
+    "lastOnAirAuctionCode": "0019909599",
     "precedingSku": "8574917",
     "precedingTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
     "precedingAuctionCode": "0019909783"
