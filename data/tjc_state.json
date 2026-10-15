@@ -459944,14 +459944,41 @@
       "img": true,
       "date": "2026-10-15",
       "time": "16:53:19",
-      "productUrl": null,
-      "lastUpdated": 1792079599180,
-      "source": "gha"
+      "productUrl": "/products/mr-maria-monkey-lamp-soft-white-silicone-nightlight-15cm-8574917",
+      "lastUpdated": 1792079664605,
+      "source": "gha",
+      "missedAt": 1792079664605,
+      "missedDelay": 1,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "productUrlChecked": 1792079667857,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8574915": {
+      "sku": "8574915",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-15",
+      "time": "16:54:24",
+      "preExisting": true,
+      "missedAt": 1792079664605,
+      "missedDelay": null,
+      "lastUpdated": 1792079664605,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "Mr Maria Elephant Lamp - Soft White Silicone Nightlight (15cm)",
+      "auctionCode": "0019909784",
+      "source": "gha",
+      "productUrl": "/products/mr-maria-monkey-lamp-soft-white-silicone-nightlight-15cm-8574917",
+      "productUrlChecked": 1792079668498,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792079664605,
     "gaps": [
       {
         "start": 1785823527869,
@@ -518113,8 +518140,8 @@
     "lastOnAirSku": "8574917",
     "lastOnAirTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
     "lastOnAirAuctionCode": "0019909783",
-    "precedingSku": "8635426",
-    "precedingTitle": "LIVMORE 700gsm Bubble Faux Rabbit Fur & Micro Mink Cushion Cover - Cream",
-    "precedingAuctionCode": "0019909791"
+    "precedingSku": "8574917",
+    "precedingTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
+    "precedingAuctionCode": "0019909783"
   }
 }
