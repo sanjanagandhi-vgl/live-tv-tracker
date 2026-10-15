@@ -461090,11 +461090,29 @@
       "auctionCode": "0019910602",
       "source": "gha",
       "productUrl": null
+    },
+    "8780820": {
+      "sku": "8780820",
+      "firstAir": 1792098981975,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792098981975,
+      "title": "EverTrue White Diamond Solitaire Ring Pure Yellow Brass  0.017  Ct.",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019910535",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "22:16:21",
+      "productUrl": null,
+      "lastUpdated": 1792098981975,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792098860074,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -519537,11 +519555,22 @@
         "followingSku": "4533182",
         "followingTitle": "EverTrue - Natural White Diamond Pendant with Chain (Size 20) in Yellow Gold Tone",
         "followingAuctionCode": "0019910529"
+      },
+      {
+        "start": 1792098860074,
+        "end": 1792098981975,
+        "durationMin": 2.0,
+        "precedingSku": "4533182",
+        "precedingTitle": "EverTrue - Natural White Diamond Pendant with Chain (Size 20) in Yellow Gold Tone",
+        "precedingAuctionCode": "0019910529",
+        "followingSku": "8780820",
+        "followingTitle": "EverTrue White Diamond Solitaire Ring Pure Yellow Brass  0.017  Ct.",
+        "followingAuctionCode": "0019910535"
       }
     ],
-    "lastOnAirSku": "4533182",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Pendant with Chain (Size 20) in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019910529",
+    "lastOnAirSku": "8780820",
+    "lastOnAirTitle": "EverTrue White Diamond Solitaire Ring Pure Yellow Brass  0.017  Ct.",
+    "lastOnAirAuctionCode": "0019910535",
     "precedingSku": "4533182",
     "precedingTitle": "EverTrue - Natural White Diamond Pendant with Chain (Size 20) in Yellow Gold Tone",
     "precedingAuctionCode": "0019910529"
