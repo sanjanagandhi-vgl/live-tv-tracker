@@ -460882,11 +460882,29 @@
       "productUrlChecked": 1792094664377,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8736867": {
+      "sku": "8736867",
+      "firstAir": 1792094900170,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792094900170,
+      "title": "Cute Soft Plush Animal Refrigerator Magnet Toy - Brown Capybara",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019910022",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "21:08:20",
+      "productUrl": null,
+      "lastUpdated": 1792094900170,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792094599850,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -519252,11 +519270,22 @@
         "followingSku": "8343724",
         "followingTitle": "Popcorn & Peanut Nutcrackers Novelty Christmas Gift",
         "followingAuctionCode": "0019910147"
+      },
+      {
+        "start": 1792094599850,
+        "end": 1792094900170,
+        "durationMin": 5.0,
+        "precedingSku": "8343724",
+        "precedingTitle": "Popcorn & Peanut Nutcrackers Novelty Christmas Gift",
+        "precedingAuctionCode": "0019910147",
+        "followingSku": "8736867",
+        "followingTitle": "Cute Soft Plush Animal Refrigerator Magnet Toy - Brown Capybara",
+        "followingAuctionCode": "0019910022"
       }
     ],
-    "lastOnAirSku": "8343724",
-    "lastOnAirTitle": "Popcorn & Peanut Nutcrackers Novelty Christmas Gift",
-    "lastOnAirAuctionCode": "0019910147",
+    "lastOnAirSku": "8736867",
+    "lastOnAirTitle": "Cute Soft Plush Animal Refrigerator Magnet Toy - Brown Capybara",
+    "lastOnAirAuctionCode": "0019910022",
     "precedingSku": "8343724",
     "precedingTitle": "Popcorn & Peanut Nutcrackers Novelty Christmas Gift",
     "precedingAuctionCode": "0019910147"
