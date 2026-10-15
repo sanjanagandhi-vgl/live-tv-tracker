@@ -459997,11 +459997,29 @@
       "auctionCode": "0019909752",
       "source": "gha",
       "productUrl": null
+    },
+    "8823209": {
+      "sku": "8823209",
+      "firstAir": 1792081761739,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792081761739,
+      "title": "D'Joy - Moissanite Solitaire Hoop Earring in Rose Gold Plated Sterling Silver 1.70 Ct.",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019909768",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "17:29:21",
+      "productUrl": null,
+      "lastUpdated": 1792081761739,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792081703021,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -518191,11 +518209,22 @@
         "followingSku": "8597967",
         "followingTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
         "followingAuctionCode": "0019909785"
+      },
+      {
+        "start": 1792081703021,
+        "end": 1792081761739,
+        "durationMin": 1.0,
+        "precedingSku": "8597967",
+        "precedingTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
+        "precedingAuctionCode": "0019909785",
+        "followingSku": "8823209",
+        "followingTitle": "D'Joy - Moissanite Solitaire Hoop Earring in Rose Gold Plated Sterling Silver 1.70 Ct.",
+        "followingAuctionCode": "0019909768"
       }
     ],
-    "lastOnAirSku": "8597967",
-    "lastOnAirTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
-    "lastOnAirAuctionCode": "0019909785",
+    "lastOnAirSku": "8823209",
+    "lastOnAirTitle": "D'Joy - Moissanite Solitaire Hoop Earring in Rose Gold Plated Sterling Silver 1.70 Ct.",
+    "lastOnAirAuctionCode": "0019909768",
     "precedingSku": "8597967",
     "precedingTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
     "precedingAuctionCode": "0019909785"
