@@ -460837,11 +460837,29 @@
       "productUrlChecked": 1792093105503,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8343724": {
+      "sku": "8343724",
+      "firstAir": 1792093757792,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792093757792,
+      "title": "Popcorn & Peanut Nutcrackers Novelty Christmas Gift",
+      "pdpPrice": "60.99",
+      "auctionCode": "0019910147",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "20:49:17",
+      "productUrl": null,
+      "lastUpdated": 1792093757792,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792093703118,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -519196,11 +519214,22 @@
         "followingSku": "7558185",
         "followingTitle": "Set of 3 Hanging Gingerbread Christmas Tree Decor Ornaments - Rose Gold (Stars & Bell)",
         "followingAuctionCode": "0019910129"
+      },
+      {
+        "start": 1792093703118,
+        "end": 1792093757792,
+        "durationMin": 0.9,
+        "precedingSku": "7558185",
+        "precedingTitle": "Set of 3 Hanging Gingerbread Christmas Tree Decor Ornaments - Rose Gold (Stars & Bell)",
+        "precedingAuctionCode": "0019910129",
+        "followingSku": "8343724",
+        "followingTitle": "Popcorn & Peanut Nutcrackers Novelty Christmas Gift",
+        "followingAuctionCode": "0019910147"
       }
     ],
-    "lastOnAirSku": "7558185",
-    "lastOnAirTitle": "Set of 3 Hanging Gingerbread Christmas Tree Decor Ornaments - Rose Gold (Stars & Bell)",
-    "lastOnAirAuctionCode": "0019910129",
+    "lastOnAirSku": "8343724",
+    "lastOnAirTitle": "Popcorn & Peanut Nutcrackers Novelty Christmas Gift",
+    "lastOnAirAuctionCode": "0019910147",
     "precedingSku": "7558185",
     "precedingTitle": "Set of 3 Hanging Gingerbread Christmas Tree Decor Ornaments - Rose Gold (Stars & Bell)",
     "precedingAuctionCode": "0019910129"
