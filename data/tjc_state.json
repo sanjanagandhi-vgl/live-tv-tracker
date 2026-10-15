@@ -459327,11 +459327,29 @@
       "auctionCode": "0019910140",
       "source": "gha",
       "productUrl": null
+    },
+    "8828963": {
+      "sku": "8828963",
+      "firstAir": 1792059559042,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792059559042,
+      "title": "Rhodium Overlay Sterling Silver Flower Drop Earring 1.00 Ct.",
+      "pdpPrice": "199.00",
+      "auctionCode": "0019909775",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "11:19:19",
+      "productUrl": null,
+      "lastUpdated": 1792059559042,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792059502645,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517323,11 +517341,22 @@
         "followingSku": "4457097",
         "followingTitle": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
         "followingAuctionCode": "0019909495"
+      },
+      {
+        "start": 1792059502645,
+        "end": 1792059559042,
+        "durationMin": 0.9,
+        "precedingSku": "4457097",
+        "precedingTitle": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
+        "precedingAuctionCode": "0019909495",
+        "followingSku": "8828963",
+        "followingTitle": "Rhodium Overlay Sterling Silver Flower Drop Earring 1.00 Ct.",
+        "followingAuctionCode": "0019909775"
       }
     ],
-    "lastOnAirSku": "4457097",
-    "lastOnAirTitle": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019909495",
+    "lastOnAirSku": "8828963",
+    "lastOnAirTitle": "Rhodium Overlay Sterling Silver Flower Drop Earring 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019909775",
     "precedingSku": "4457097",
     "precedingTitle": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019909495"
