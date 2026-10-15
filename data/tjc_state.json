@@ -459271,11 +459271,29 @@
       "auctionCode": "0019909865",
       "source": "gha",
       "productUrl": null
+    },
+    "4457097": {
+      "sku": "4457097",
+      "firstAir": 1792058839174,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792058839174,
+      "title": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019909495",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-15",
+      "time": "11:07:19",
+      "productUrl": null,
+      "lastUpdated": 1792058839174,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792058661503,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -517256,11 +517274,22 @@
         "followingSku": "8795581",
         "followingTitle": "High Luster Peach Fresh Water Pearl Necklace (Size - 18-2 Ext)",
         "followingAuctionCode": "0019909864"
+      },
+      {
+        "start": 1792058661503,
+        "end": 1792058839174,
+        "durationMin": 3.0,
+        "precedingSku": "8661905",
+        "precedingTitle": "Portable 2 Layer Travel Jewelry Box with Removable Lock - Pink",
+        "precedingAuctionCode": "0019909870",
+        "followingSku": "4457097",
+        "followingTitle": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
+        "followingAuctionCode": "0019909495"
       }
     ],
-    "lastOnAirSku": "8661905",
-    "lastOnAirTitle": "Portable 2 Layer Travel Jewelry Box with Removable Lock - Pink",
-    "lastOnAirAuctionCode": "0019909870",
+    "lastOnAirSku": "4457097",
+    "lastOnAirTitle": "EverTrue Set of 2 - SI-G-H Lab Grown Diamond Cross & Heart Pendant with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019909495",
     "precedingSku": "8661905",
     "precedingTitle": "Portable 2 Layer Travel Jewelry Box with Removable Lock - Pink",
     "precedingAuctionCode": "0019909870"
