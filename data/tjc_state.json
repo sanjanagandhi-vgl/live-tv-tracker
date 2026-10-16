@@ -25711,23 +25711,23 @@
       "sku": "7997042",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-15",
-      "time": "15:24:22",
+      "date": "2026-10-16",
+      "time": "14:14:25",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1792074262324,
+      "lastUpdated": 1792156465052,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Laurelle My Mic EDP - 100ml",
-      "auctionCode": null,
+      "auctionCode": "0019911493",
       "source": "gha",
       "productUrl": "/products/laurelle-my-mic-edp-100ml?variant=53107574505738",
       "productUrlChecked": 1785474503295,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1792074262324,
-      "pdpPrice": 9.99,
+      "lastAir": 1792156465052,
+      "pdpPrice": "17.99",
       "buy": true,
       "login": false,
       "img": true
@@ -463437,8 +463437,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792156344063,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -522563,11 +522563,22 @@
         "followingSku": "8775676",
         "followingTitle": "Luxuriant - 950 Platinum SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct",
         "followingAuctionCode": "0019910813"
+      },
+      {
+        "start": 1792156344063,
+        "end": 1792156465052,
+        "durationMin": 2.0,
+        "precedingSku": "8775676",
+        "precedingTitle": "Luxuriant - 950 Platinum SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct",
+        "precedingAuctionCode": "0019910813",
+        "followingSku": "7997042",
+        "followingTitle": "Laurelle My Mic EDP - 100ml",
+        "followingAuctionCode": "0019911493"
       }
     ],
-    "lastOnAirSku": "8775676",
-    "lastOnAirTitle": "Luxuriant - 950 Platinum SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct",
-    "lastOnAirAuctionCode": "0019910813",
+    "lastOnAirSku": "7997042",
+    "lastOnAirTitle": "Laurelle My Mic EDP - 100ml",
+    "lastOnAirAuctionCode": "0019911493",
     "precedingSku": "8775676",
     "precedingTitle": "Luxuriant - 950 Platinum SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct",
     "precedingAuctionCode": "0019910813"
