@@ -440641,21 +440641,26 @@
       "sku": "8627549",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-10",
-      "time": "13:35:26",
+      "date": "2026-10-16",
+      "time": "15:36:22",
       "preExisting": true,
       "missedAt": 1791635726246,
       "missedDelay": null,
-      "lastUpdated": 1791635726246,
+      "lastUpdated": 1792161382563,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "LIVMORE Rose Jacquard Faux Fur Double Layer Blanket (150 x 180cm, Double) - Navy",
-      "auctionCode": "0019903668",
+      "title": "LIVMORE Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+      "auctionCode": "0019910864",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-180x1-cm-white-8627537",
       "productUrlChecked": 1791635732470,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792161382563,
+      "pdpPrice": "479.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8627538": {
       "sku": "8627538",
@@ -463487,8 +463492,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792161142947,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -522690,11 +522695,22 @@
         "followingSku": "8686617",
         "followingTitle": "William Hunt Hollow Automatic Mechanical Movement 5ATM WR White Hollow Dial & IPS Plating 304 Stainless Steel Case Mens Watch with Stainless Steel Mesh Strap",
         "followingAuctionCode": "0019910896"
+      },
+      {
+        "start": 1792161142947,
+        "end": 1792161382563,
+        "durationMin": 4.0,
+        "precedingSku": "8686617",
+        "precedingTitle": "William Hunt Hollow Automatic Mechanical Movement 5ATM WR White Hollow Dial & IPS Plating 304 Stainless Steel Case Mens Watch with Stainless Steel Mesh Strap",
+        "precedingAuctionCode": "0019910896",
+        "followingSku": "8627549",
+        "followingTitle": "LIVMORE Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+        "followingAuctionCode": "0019910864"
       }
     ],
-    "lastOnAirSku": "8686617",
-    "lastOnAirTitle": "William Hunt Hollow Automatic Mechanical Movement 5ATM WR White Hollow Dial & IPS Plating 304 Stainless Steel Case Mens Watch with Stainless Steel Mesh Strap",
-    "lastOnAirAuctionCode": "0019910896",
+    "lastOnAirSku": "8627549",
+    "lastOnAirTitle": "LIVMORE Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+    "lastOnAirAuctionCode": "0019910864",
     "precedingSku": "8686617",
     "precedingTitle": "William Hunt Hollow Automatic Mechanical Movement 5ATM WR White Hollow Dial & IPS Plating 304 Stainless Steel Case Mens Watch with Stainless Steel Mesh Strap",
     "precedingAuctionCode": "0019910896"
