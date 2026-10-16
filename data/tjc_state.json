@@ -412810,17 +412810,17 @@
       "firstAir": 1790876838626,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792068558365,
+      "lastAir": 1792113076040,
       "title": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019909780",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019910089",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-15",
-      "time": "13:49:18",
+      "date": "2026-10-16",
+      "time": "02:11:16",
       "productUrl": "/products/40-phillips-batteries-24x-aa-and-16x-aaa-power-alkaline-with-long-life?variant=53107040846090",
-      "lastUpdated": 1792068558365,
+      "lastUpdated": 1792113076040,
       "source": "gha",
       "missedAt": 1790878882184,
       "missedDelay": 10,
@@ -461424,8 +461424,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792113033466,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -520066,11 +520066,22 @@
         "followingSku": "8598153",
         "followingTitle": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Purple",
         "followingAuctionCode": "0019910093"
+      },
+      {
+        "start": 1792113033466,
+        "end": 1792113076040,
+        "durationMin": 0.7,
+        "precedingSku": "8598153",
+        "precedingTitle": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Purple",
+        "precedingAuctionCode": "0019910093",
+        "followingSku": "7576039",
+        "followingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+        "followingAuctionCode": "0019910089"
       }
     ],
-    "lastOnAirSku": "8598153",
-    "lastOnAirTitle": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Purple",
-    "lastOnAirAuctionCode": "0019910093",
+    "lastOnAirSku": "7576039",
+    "lastOnAirTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+    "lastOnAirAuctionCode": "0019910089",
     "precedingSku": "8598153",
     "precedingTitle": "Magnetic Bluetooth 5.3 Speaker with RGB LED Lights & TWS - Purple",
     "precedingAuctionCode": "0019910093"
