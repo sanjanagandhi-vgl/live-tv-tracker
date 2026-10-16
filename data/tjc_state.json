@@ -462715,11 +462715,29 @@
       "productUrlChecked": 1792144162320,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8811404": {
+      "sku": "8811404",
+      "firstAir": 1792144702179,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792144702179,
+      "title": "Interactive Christmas Toy with Santa Hat (23cm) - Capybara",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019910817",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-16",
+      "time": "10:58:22",
+      "productUrl": null,
+      "lastUpdated": 1792144702179,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792144582493,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -521734,11 +521752,22 @@
         "followingSku": "3525268",
         "followingTitle": "Kiss Stud Earrings in 18K Vermeil Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019910732"
+      },
+      {
+        "start": 1792144582493,
+        "end": 1792144702179,
+        "durationMin": 2.0,
+        "precedingSku": "3525268",
+        "precedingTitle": "Kiss Stud Earrings in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019910732",
+        "followingSku": "8811404",
+        "followingTitle": "Interactive Christmas Toy with Santa Hat (23cm) - Capybara",
+        "followingAuctionCode": "0019910817"
       }
     ],
-    "lastOnAirSku": "3525268",
-    "lastOnAirTitle": "Kiss Stud Earrings in 18K Vermeil Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019910732",
+    "lastOnAirSku": "8811404",
+    "lastOnAirTitle": "Interactive Christmas Toy with Santa Hat (23cm) - Capybara",
+    "lastOnAirAuctionCode": "0019910817",
     "precedingSku": "3525268",
     "precedingTitle": "Kiss Stud Earrings in 18K Vermeil Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019910732"
