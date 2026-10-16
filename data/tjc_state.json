@@ -461788,11 +461788,29 @@
       "productUrlChecked": 1792131799760,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "221250856": {
+      "sku": "221250856",
+      "firstAir": 1792132249940,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792132249940,
+      "title": "Cetuem - Intensive , Booster Serum & Creme de Lite",
+      "pdpPrice": "349.98",
+      "auctionCode": "0019910757",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-16",
+      "time": "07:30:49",
+      "productUrl": null,
+      "lastUpdated": 1792132249940,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792131740627,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -520642,11 +520660,22 @@
         "followingSku": "8818046",
         "followingTitle": "NEW ARRIVAL- Me Now Cordless Cool Steam Massage Hair Brush with Hydrating Mist, Vibrating Scalp Massage & USB Rechargeable Design",
         "followingAuctionCode": "0019910604"
+      },
+      {
+        "start": 1792131740627,
+        "end": 1792132249940,
+        "durationMin": 8.5,
+        "precedingSku": "8818046",
+        "precedingTitle": "NEW ARRIVAL- Me Now Cordless Cool Steam Massage Hair Brush with Hydrating Mist, Vibrating Scalp Massage & USB Rechargeable Design",
+        "precedingAuctionCode": "0019910604",
+        "followingSku": "221250856",
+        "followingTitle": "Cetuem - Intensive , Booster Serum & Creme de Lite",
+        "followingAuctionCode": "0019910757"
       }
     ],
-    "lastOnAirSku": "8818046",
-    "lastOnAirTitle": "NEW ARRIVAL- Me Now Cordless Cool Steam Massage Hair Brush with Hydrating Mist, Vibrating Scalp Massage & USB Rechargeable Design",
-    "lastOnAirAuctionCode": "0019910604",
+    "lastOnAirSku": "221250856",
+    "lastOnAirTitle": "Cetuem - Intensive , Booster Serum & Creme de Lite",
+    "lastOnAirAuctionCode": "0019910757",
     "precedingSku": "8818046",
     "precedingTitle": "NEW ARRIVAL- Me Now Cordless Cool Steam Massage Hair Brush with Hydrating Mist, Vibrating Scalp Massage & USB Rechargeable Design",
     "precedingAuctionCode": "0019910604"
