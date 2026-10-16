@@ -462106,16 +462106,37 @@
       "date": "2026-10-16",
       "time": "09:09:19",
       "productUrl": "/products/chilli-charm-jumper-size-one-size-stone-8787675?variant=53900463145226",
-      "lastUpdated": 1792138159120,
+      "lastUpdated": 1792138236268,
       "source": "gha",
       "productUrlChecked": 1792138161954,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792138236268,
+      "missedDelay": 1,
+      "missedPrice": 39.99,
+      "missedImg": true
+    },
+    "8787697": {
+      "sku": "8787697",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-16",
+      "time": "09:10:36",
+      "preExisting": true,
+      "missedAt": 1792138236268,
+      "missedDelay": null,
+      "lastUpdated": 1792138236268,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "title": "Chilli Charm All Over Colourful Cat Print Jumper (One Size) - Beige",
+      "auctionCode": "0019910750",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792138236268,
     "gaps": [
       {
         "start": 1785823527869,
@@ -521014,8 +521035,8 @@
     "lastOnAirSku": "8787675",
     "lastOnAirTitle": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8547919",
-    "precedingTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 18) - Dark Denim",
+    "precedingSku": "8787675",
+    "precedingTitle": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
     "precedingAuctionCode": null
   }
 }
