@@ -463409,11 +463409,29 @@
       "missedDelay": 2,
       "missedPrice": 499.99,
       "missedImg": true
+    },
+    "8775676": {
+      "sku": "8775676",
+      "firstAir": 1792154736140,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792154736140,
+      "title": "Luxuriant - 950 Platinum SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct",
+      "pdpPrice": "4897.99",
+      "auctionCode": "0019910813",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-16",
+      "time": "13:45:36",
+      "productUrl": null,
+      "lastUpdated": 1792154736140,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792154541883,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -522527,11 +522545,22 @@
         "followingSku": "8774804",
         "followingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
         "followingAuctionCode": "0019910301"
+      },
+      {
+        "start": 1792154541883,
+        "end": 1792154736140,
+        "durationMin": 3.2,
+        "precedingSku": "8774804",
+        "precedingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
+        "precedingAuctionCode": "0019910301",
+        "followingSku": "8775676",
+        "followingTitle": "Luxuriant - 950 Platinum SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct",
+        "followingAuctionCode": "0019910813"
       }
     ],
-    "lastOnAirSku": "8774804",
-    "lastOnAirTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019910301",
+    "lastOnAirSku": "8775676",
+    "lastOnAirTitle": "Luxuriant - 950 Platinum SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct",
+    "lastOnAirAuctionCode": "0019910813",
     "precedingSku": "8774804",
     "precedingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
     "precedingAuctionCode": "0019910301"
