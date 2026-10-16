@@ -462222,11 +462222,29 @@
       "auctionCode": "0019910475",
       "source": "gha",
       "productUrl": null
+    },
+    "8512567": {
+      "sku": "8512567",
+      "firstAir": 1792139126947,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792139126947,
+      "title": "Emreco Short Formal Single Breasted Coat (Size - 12) - Camel",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019910455",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-16",
+      "time": "09:25:26",
+      "productUrl": null,
+      "lastUpdated": 1792139126947,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792138999167,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -521131,11 +521149,22 @@
         "followingSku": "8512556",
         "followingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Midnight",
         "followingAuctionCode": "0019910445"
+      },
+      {
+        "start": 1792138999167,
+        "end": 1792139126947,
+        "durationMin": 2.1,
+        "precedingSku": "8512556",
+        "precedingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Midnight",
+        "precedingAuctionCode": "0019910445",
+        "followingSku": "8512567",
+        "followingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Camel",
+        "followingAuctionCode": "0019910455"
       }
     ],
-    "lastOnAirSku": "8512556",
-    "lastOnAirTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Midnight",
-    "lastOnAirAuctionCode": "0019910445",
+    "lastOnAirSku": "8512567",
+    "lastOnAirTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Camel",
+    "lastOnAirAuctionCode": "0019910455",
     "precedingSku": "8512556",
     "precedingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Midnight",
     "precedingAuctionCode": "0019910445"
