@@ -462148,13 +462148,85 @@
       "date": "2026-10-16",
       "time": "09:22:22",
       "productUrl": null,
-      "lastUpdated": 1792138942126,
-      "source": "gha"
+      "lastUpdated": 1792138999167,
+      "source": "gha",
+      "missedAt": 1792138999167,
+      "missedDelay": 1,
+      "missedPrice": 49.99,
+      "missedImg": false
+    },
+    "8512560": {
+      "sku": "8512560",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-16",
+      "time": "09:23:19",
+      "preExisting": true,
+      "missedAt": 1792138999167,
+      "missedDelay": null,
+      "lastUpdated": 1792138999167,
+      "missedPrice": 49.99,
+      "missedImg": false,
+      "title": "Emreco Short Formal Single Breasted Coat (Size - 20) - Midnight",
+      "auctionCode": "0019910478",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8512559": {
+      "sku": "8512559",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-16",
+      "time": "09:23:19",
+      "preExisting": true,
+      "missedAt": 1792138999167,
+      "missedDelay": null,
+      "lastUpdated": 1792138999167,
+      "missedPrice": 49.99,
+      "missedImg": false,
+      "title": "Emreco Short Formal Single Breasted Coat (Size - 18) - Midnight",
+      "auctionCode": "0019910477",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8512558": {
+      "sku": "8512558",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-16",
+      "time": "09:23:19",
+      "preExisting": true,
+      "missedAt": 1792138999167,
+      "missedDelay": null,
+      "lastUpdated": 1792138999167,
+      "missedPrice": 49.99,
+      "missedImg": false,
+      "title": "Emreco Short Formal Single Breasted Coat (Size - 16) - Midnight",
+      "auctionCode": "0019910476",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8512557": {
+      "sku": "8512557",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-16",
+      "time": "09:23:19",
+      "preExisting": true,
+      "missedAt": 1792138999167,
+      "missedDelay": null,
+      "lastUpdated": 1792138999167,
+      "missedPrice": 49.99,
+      "missedImg": false,
+      "title": "Emreco Short Formal Single Breasted Coat (Size - 14) - Midnight",
+      "auctionCode": "0019910475",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792138999167,
     "gaps": [
       {
         "start": 1785823527869,
@@ -521064,8 +521136,8 @@
     "lastOnAirSku": "8512556",
     "lastOnAirTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Midnight",
     "lastOnAirAuctionCode": "0019910445",
-    "precedingSku": "8787675",
-    "precedingTitle": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
-    "precedingAuctionCode": null
+    "precedingSku": "8512556",
+    "precedingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Midnight",
+    "precedingAuctionCode": "0019910445"
   }
 }
