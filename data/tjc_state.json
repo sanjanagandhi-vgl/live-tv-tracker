@@ -461201,18 +461201,23 @@
       "sku": "4533181",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-15",
-      "time": "22:15:34",
+      "date": "2026-10-16",
+      "time": "18:34:21",
       "preExisting": true,
       "missedAt": 1792098934611,
       "missedDelay": null,
-      "lastUpdated": 1792098934611,
+      "lastUpdated": 1792172061054,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "EverTrue - Natural White Diamond Pendant with Chain (Size 20)",
-      "auctionCode": "0019910602",
+      "auctionCode": "0019911708",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792172061054,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8780820": {
       "sku": "8780820",
@@ -463917,8 +463922,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792171999526,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -523241,11 +523246,22 @@
         "followingSku": "8780928",
         "followingTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
         "followingAuctionCode": "0019911707"
+      },
+      {
+        "start": 1792171999526,
+        "end": 1792172061054,
+        "durationMin": 1.0,
+        "precedingSku": "8780928",
+        "precedingTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
+        "precedingAuctionCode": "0019911707",
+        "followingSku": "4533181",
+        "followingTitle": "EverTrue - Natural White Diamond Pendant with Chain (Size 20)",
+        "followingAuctionCode": "0019911708"
       }
     ],
-    "lastOnAirSku": "8780928",
-    "lastOnAirTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019911707",
+    "lastOnAirSku": "4533181",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Pendant with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019911708",
     "precedingSku": "8780928",
     "precedingTitle": "EverTrue - White Diamond Cluster Earring with Push Post in Yellow Gold Tone",
     "precedingAuctionCode": "0019911707"
