@@ -461704,14 +461704,21 @@
       "img": true,
       "date": "2026-10-16",
       "time": "06:35:26",
-      "productUrl": null,
-      "lastUpdated": 1792128926728,
-      "source": "gha"
+      "productUrl": "/products/doctors-formula-probiotics-advanced-repairing-overnight-repairing-serum-30ml-221331446",
+      "lastUpdated": 1792128981127,
+      "source": "gha",
+      "missedAt": 1792128981127,
+      "missedDelay": 1,
+      "missedPrice": 34.98,
+      "missedImg": true,
+      "productUrlChecked": 1792128986314,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792128981127,
     "gaps": [
       {
         "start": 1785823527869,
@@ -520533,8 +520540,8 @@
     "lastOnAirSku": "221331446",
     "lastOnAirTitle": "Doctors Formula Probiotics ADVANCED Repairing Night Skincare Set - 30ml Serum & 50ml Moisturiser",
     "lastOnAirAuctionCode": "0019910780",
-    "precedingSku": "9053751",
-    "precedingTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
-    "precedingAuctionCode": null
+    "precedingSku": "221331446",
+    "precedingTitle": "Doctors Formula Probiotics ADVANCED Repairing Night Skincare Set - 30ml Serum & 50ml Moisturiser",
+    "precedingAuctionCode": "0019910780"
   }
 }
