@@ -462771,11 +462771,29 @@
       "auctionCode": "0019910831",
       "source": "gha",
       "productUrl": null
+    },
+    "8811407": {
+      "sku": "8811407",
+      "firstAir": 1792145357806,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792145357806,
+      "title": "Interactive Christmas Toy with Santa Hat (23cm) - Capybara",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019910819",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-16",
+      "time": "11:09:17",
+      "productUrl": null,
+      "lastUpdated": 1792145357806,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792145237634,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -521801,11 +521819,22 @@
         "followingSku": "8811404",
         "followingTitle": "Interactive Christmas Toy with Santa Hat (23cm) - Capybara",
         "followingAuctionCode": "0019910817"
+      },
+      {
+        "start": 1792145237634,
+        "end": 1792145357806,
+        "durationMin": 2.0,
+        "precedingSku": "8811404",
+        "precedingTitle": "Interactive Christmas Toy with Santa Hat (23cm) - Capybara",
+        "precedingAuctionCode": "0019910817",
+        "followingSku": "8811407",
+        "followingTitle": "Interactive Christmas Toy with Santa Hat (23cm) - Capybara",
+        "followingAuctionCode": "0019910819"
       }
     ],
-    "lastOnAirSku": "8811404",
+    "lastOnAirSku": "8811407",
     "lastOnAirTitle": "Interactive Christmas Toy with Santa Hat (23cm) - Capybara",
-    "lastOnAirAuctionCode": "0019910817",
+    "lastOnAirAuctionCode": "0019910819",
     "precedingSku": "8811404",
     "precedingTitle": "Interactive Christmas Toy with Santa Hat (23cm) - Capybara",
     "precedingAuctionCode": "0019910817"
