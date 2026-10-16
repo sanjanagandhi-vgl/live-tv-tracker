@@ -372163,21 +372163,26 @@
       "sku": "8591537",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "08:48:23",
+      "date": "2026-10-16",
+      "time": "02:16:20",
       "preExisting": true,
       "missedAt": 1789890503600,
       "missedDelay": null,
-      "lastUpdated": 1789890503600,
+      "lastUpdated": 1792113380951,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "Compact 1.7L Electric Mini Dehumidifier With Touch Control Including 4 Lavender Fragrance Oils - White",
-      "auctionCode": "0019878394",
+      "auctionCode": "0019910013",
       "source": "gha",
       "productUrl": "/products/diffuser-size-one-size-white-8591537",
       "productUrlChecked": 1789890507691,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792113380951,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8632973": {
       "sku": "8632973",
@@ -461424,8 +461429,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792113335234,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -520077,11 +520082,22 @@
         "followingSku": "7576039",
         "followingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
         "followingAuctionCode": "0019910089"
+      },
+      {
+        "start": 1792113335234,
+        "end": 1792113380951,
+        "durationMin": 0.8,
+        "precedingSku": "7576039",
+        "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+        "precedingAuctionCode": "0019910089",
+        "followingSku": "8591537",
+        "followingTitle": "Compact 1.7L Electric Mini Dehumidifier With Touch Control Including 4 Lavender Fragrance Oils - White",
+        "followingAuctionCode": "0019910013"
       }
     ],
-    "lastOnAirSku": "7576039",
-    "lastOnAirTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
-    "lastOnAirAuctionCode": "0019910089",
+    "lastOnAirSku": "8591537",
+    "lastOnAirTitle": "Compact 1.7L Electric Mini Dehumidifier With Touch Control Including 4 Lavender Fragrance Oils - White",
+    "lastOnAirAuctionCode": "0019910013",
     "precedingSku": "7576039",
     "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
     "precedingAuctionCode": "0019910089"
