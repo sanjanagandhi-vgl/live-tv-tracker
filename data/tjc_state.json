@@ -461946,11 +461946,15 @@
       "date": "2026-10-16",
       "time": "08:33:18",
       "productUrl": "/products/emreco-jumper-size-large-stone-8523171?variant=53906243813642",
-      "lastUpdated": 1792135998700,
+      "lastUpdated": 1792136061070,
       "source": "gha",
       "productUrlChecked": 1792136002150,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792136061070,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": false
     },
     "8523182": {
       "sku": "8523182",
@@ -462011,11 +462015,62 @@
       "productUrlChecked": 1792135530719,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8523174": {
+      "sku": "8523174",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-16",
+      "time": "08:34:21",
+      "preExisting": true,
+      "missedAt": 1792136061070,
+      "missedDelay": null,
+      "lastUpdated": 1792136061070,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "title": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Stone",
+      "auctionCode": "0019910468",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8523172": {
+      "sku": "8523172",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-16",
+      "time": "08:34:21",
+      "preExisting": true,
+      "missedAt": 1792136061070,
+      "missedDelay": null,
+      "lastUpdated": 1792136061070,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "title": "Emreco Plain Button Sleeve Jumper (Size M, 12-14) - Stone",
+      "auctionCode": "0019910467",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8523171": {
+      "sku": "8523171",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-16",
+      "time": "08:34:21",
+      "preExisting": true,
+      "missedAt": 1792136061070,
+      "missedDelay": null,
+      "lastUpdated": 1792136061070,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "title": "Emreco Plain Button Sleeve Jumper (Size L, 16-18) - Stone",
+      "auctionCode": "0019910466",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792136061070,
     "gaps": [
       {
         "start": 1785823527869,
@@ -520881,8 +520936,8 @@
     "lastOnAirSku": "8523173",
     "lastOnAirTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8818046",
-    "precedingTitle": "NEW ARRIVAL- Me Now Cordless Cool Steam Massage Hair Brush with Hydrating Mist, Vibrating Scalp Massage & USB Rechargeable Design",
-    "precedingAuctionCode": "0019910604"
+    "precedingSku": "8523173",
+    "precedingTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
+    "precedingAuctionCode": null
   }
 }
