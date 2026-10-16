@@ -463434,11 +463434,29 @@
       "productUrlChecked": 1792156347118,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8586028": {
+      "sku": "8586028",
+      "firstAir": 1792157546223,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792157546223,
+      "title": "Mesa Living LED Sensor Light 814.482 - White",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019910879",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-16",
+      "time": "14:32:26",
+      "productUrl": null,
+      "lastUpdated": 1792157546223,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792157454350,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -522585,11 +522603,22 @@
         "followingSku": "8631696",
         "followingTitle": null,
         "followingAuctionCode": "0019910876"
+      },
+      {
+        "start": 1792157454350,
+        "end": 1792157546223,
+        "durationMin": 1.5,
+        "precedingSku": "8631696",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019910876",
+        "followingSku": "8586028",
+        "followingTitle": "Mesa Living LED Sensor Light 814.482 - White",
+        "followingAuctionCode": "0019910879"
       }
     ],
-    "lastOnAirSku": "8631696",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019910876",
+    "lastOnAirSku": "8586028",
+    "lastOnAirTitle": "Mesa Living LED Sensor Light 814.482 - White",
+    "lastOnAirAuctionCode": "0019910879",
     "precedingSku": "8631696",
     "precedingTitle": null,
     "precedingAuctionCode": "0019910876"
