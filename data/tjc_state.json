@@ -463424,14 +463424,21 @@
       "img": true,
       "date": "2026-10-16",
       "time": "14:11:18",
-      "productUrl": null,
-      "lastUpdated": 1792156278100,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-950-platinum-sgl-certified-lab-grown-diamond-vs-e-f-solitaire-pendant-2-00-ct-platinum-wt-1-30-gms-8775676",
+      "lastUpdated": 1792156344063,
+      "source": "gha",
+      "missedAt": 1792156344063,
+      "missedDelay": 1,
+      "missedPrice": 599.99,
+      "missedImg": true,
+      "productUrlChecked": 1792156347118,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792156344063,
     "gaps": [
       {
         "start": 1785823527869,
@@ -522561,8 +522568,8 @@
     "lastOnAirSku": "8775676",
     "lastOnAirTitle": "Luxuriant - 950 Platinum SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct",
     "lastOnAirAuctionCode": "0019910813",
-    "precedingSku": "8774804",
-    "precedingTitle": "Luxuriant - SGL Certified Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 2.00 Ct.",
-    "precedingAuctionCode": "0019910301"
+    "precedingSku": "8775676",
+    "precedingTitle": "Luxuriant - 950 Platinum SGL Certified Lab Grown Diamond (VS-E-F) Solitaire Pendant 2.00 Ct",
+    "precedingAuctionCode": "0019910813"
   }
 }
