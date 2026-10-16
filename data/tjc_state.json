@@ -462090,11 +462090,29 @@
       "auctionCode": "0019910466",
       "source": "gha",
       "productUrl": null
+    },
+    "8787675": {
+      "sku": "8787675",
+      "firstAir": 1792137078660,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792137078660,
+      "title": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019910734",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-16",
+      "time": "08:51:18",
+      "productUrl": null,
+      "lastUpdated": 1792137078660,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792136958953,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -520977,11 +520995,22 @@
         "followingSku": "8547919",
         "followingTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 18) - Dark Denim",
         "followingAuctionCode": "0019910572"
+      },
+      {
+        "start": 1792136958953,
+        "end": 1792137078660,
+        "durationMin": 2.0,
+        "precedingSku": "8547919",
+        "precedingTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 18) - Dark Denim",
+        "precedingAuctionCode": null,
+        "followingSku": "8787675",
+        "followingTitle": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
+        "followingAuctionCode": "0019910734"
       }
     ],
-    "lastOnAirSku": "8547919",
-    "lastOnAirTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 18) - Dark Denim",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8787675",
+    "lastOnAirTitle": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
+    "lastOnAirAuctionCode": "0019910734",
     "precedingSku": "8547919",
     "precedingTitle": "Pure And Natural Womens Tapered Leg Trousers with 27 Inch Leg (Size 18) - Dark Denim",
     "precedingAuctionCode": null
