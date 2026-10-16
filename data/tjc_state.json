@@ -462420,11 +462420,29 @@
       "productUrlChecked": 1792139908055,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8512561": {
+      "sku": "8512561",
+      "firstAir": 1792140036101,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792140036101,
+      "title": "Emreco Short Formal Single Breasted Coat (Size - 12) - Chocolate",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019910450",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-16",
+      "time": "09:40:36",
+      "productUrl": null,
+      "lastUpdated": 1792140036101,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792139901748,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -521351,11 +521369,22 @@
         "followingSku": "8512572",
         "followingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Mulberry",
         "followingAuctionCode": "0019910460"
+      },
+      {
+        "start": 1792139901748,
+        "end": 1792140036101,
+        "durationMin": 2.2,
+        "precedingSku": "8512572",
+        "precedingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Mulberry",
+        "precedingAuctionCode": "0019910460",
+        "followingSku": "8512561",
+        "followingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Chocolate",
+        "followingAuctionCode": "0019910450"
       }
     ],
-    "lastOnAirSku": "8512572",
-    "lastOnAirTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Mulberry",
-    "lastOnAirAuctionCode": "0019910460",
+    "lastOnAirSku": "8512561",
+    "lastOnAirTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Chocolate",
+    "lastOnAirAuctionCode": "0019910450",
     "precedingSku": "8512572",
     "precedingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Mulberry",
     "precedingAuctionCode": "0019910460"
