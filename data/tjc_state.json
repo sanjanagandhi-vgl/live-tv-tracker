@@ -462892,11 +462892,29 @@
       "productUrlChecked": 1792149443891,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8828840": {
+      "sku": "8828840",
+      "firstAir": 1792149679044,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792149679044,
+      "title": "9K Yellow Gold Curb Necklace (Size - 20), Gold Wt.16.70 Gms",
+      "pdpPrice": "19997.00",
+      "auctionCode": "0019910806",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-16",
+      "time": "12:21:19",
+      "productUrl": null,
+      "lastUpdated": 1792149679044,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792149380629,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -521966,11 +521984,22 @@
         "followingSku": "8828969",
         "followingTitle": "9K Yellow Gold Flat Rambo Necklace (Size - 16)",
         "followingAuctionCode": "0019910807"
+      },
+      {
+        "start": 1792149380629,
+        "end": 1792149679044,
+        "durationMin": 5.0,
+        "precedingSku": "8828969",
+        "precedingTitle": "9K Yellow Gold Flat Rambo Necklace (Size - 16)",
+        "precedingAuctionCode": "0019910807",
+        "followingSku": "8828840",
+        "followingTitle": "9K Yellow Gold Curb Necklace (Size - 20), Gold Wt.16.70 Gms",
+        "followingAuctionCode": "0019910806"
       }
     ],
-    "lastOnAirSku": "8828969",
-    "lastOnAirTitle": "9K Yellow Gold Flat Rambo Necklace (Size - 16)",
-    "lastOnAirAuctionCode": "0019910807",
+    "lastOnAirSku": "8828840",
+    "lastOnAirTitle": "9K Yellow Gold Curb Necklace (Size - 20), Gold Wt.16.70 Gms",
+    "lastOnAirAuctionCode": "0019910806",
     "precedingSku": "8828969",
     "precedingTitle": "9K Yellow Gold Flat Rambo Necklace (Size - 16)",
     "precedingAuctionCode": "0019910807"
