@@ -308285,23 +308285,23 @@
       "sku": "8675556",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-08",
-      "time": "00:35:27",
+      "date": "2026-10-16",
+      "time": "11:36:22",
       "preExisting": true,
       "missedAt": 1788647838213,
       "missedDelay": null,
-      "lastUpdated": 1791416127835,
+      "lastUpdated": 1792146982861,
       "missedPrice": 59.99,
       "missedImg": false,
       "title": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext).Silver Wt 9.30 Gms",
-      "auctionCode": "0019899736",
+      "auctionCode": "0019907193",
       "source": "gha",
       "productUrl": "/products/rhodium-overlay-sterling-silver-bracelet-size-7-1-ext-8675555?variant=53413384552714",
       "productUrlChecked": 1788647840847,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791416127835,
-      "pdpPrice": 59.99,
+      "lastAir": 1792146982861,
+      "pdpPrice": "1022.99",
       "buy": true,
       "login": false,
       "img": true
@@ -462830,8 +462830,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792146927097,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -521879,11 +521879,22 @@
         "followingSku": "8675534",
         "followingTitle": "Italian Made - Stretchable Barrell Bracelet (Size - 6.75) in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019907185"
+      },
+      {
+        "start": 1792146927097,
+        "end": 1792146982861,
+        "durationMin": 0.9,
+        "precedingSku": "8675534",
+        "precedingTitle": "Italian Made - Stretchable Barrell Bracelet (Size - 6.75) in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019907185",
+        "followingSku": "8675556",
+        "followingTitle": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext).Silver Wt 9.30 Gms",
+        "followingAuctionCode": "0019907193"
       }
     ],
-    "lastOnAirSku": "8675534",
-    "lastOnAirTitle": "Italian Made - Stretchable Barrell Bracelet (Size - 6.75) in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019907185",
+    "lastOnAirSku": "8675556",
+    "lastOnAirTitle": "Vicenza Close Out- Yellow Gold Plated Sterling Silver Bracelet (Size - 7-1 Ext).Silver Wt 9.30 Gms",
+    "lastOnAirAuctionCode": "0019907193",
     "precedingSku": "8675534",
     "precedingTitle": "Italian Made - Stretchable Barrell Bracelet (Size - 6.75) in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019907185"
