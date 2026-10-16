@@ -461689,11 +461689,29 @@
       "productUrlChecked": 1792122746513,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "221331446": {
+      "sku": "221331446",
+      "firstAir": 1792128437820,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792128437820,
+      "title": "Doctors Formula Probiotics ADVANCED Repairing Night Skincare Set - 30ml Serum & 50ml Moisturiser",
+      "pdpPrice": "217.98",
+      "auctionCode": "0019910780",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-16",
+      "time": "06:27:17",
+      "productUrl": null,
+      "lastUpdated": 1792128437820,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792128381829,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -520499,11 +520517,22 @@
         "followingSku": "9053751",
         "followingTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
         "followingAuctionCode": "0019910778"
+      },
+      {
+        "start": 1792128381829,
+        "end": 1792128437820,
+        "durationMin": 0.9,
+        "precedingSku": "9053751",
+        "precedingTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
+        "precedingAuctionCode": null,
+        "followingSku": "221331446",
+        "followingTitle": "Doctors Formula Probiotics ADVANCED Repairing Night Skincare Set - 30ml Serum & 50ml Moisturiser",
+        "followingAuctionCode": "0019910780"
       }
     ],
-    "lastOnAirSku": "9053751",
-    "lastOnAirTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "221331446",
+    "lastOnAirTitle": "Doctors Formula Probiotics ADVANCED Repairing Night Skincare Set - 30ml Serum & 50ml Moisturiser",
+    "lastOnAirAuctionCode": "0019910780",
     "precedingSku": "9053751",
     "precedingTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
     "precedingAuctionCode": null
