@@ -462132,11 +462132,29 @@
       "auctionCode": "0019910750",
       "source": "gha",
       "productUrl": null
+    },
+    "8512556": {
+      "sku": "8512556",
+      "firstAir": 1792138342163,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792138342163,
+      "title": "Emreco Short Formal Single Breasted Coat (Size - 12) - Midnight",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019910445",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-16",
+      "time": "09:12:22",
+      "productUrl": null,
+      "lastUpdated": 1792138342163,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792138236268,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -521030,11 +521048,22 @@
         "followingSku": "8787675",
         "followingTitle": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
         "followingAuctionCode": "0019910734"
+      },
+      {
+        "start": 1792138236268,
+        "end": 1792138342163,
+        "durationMin": 1.8,
+        "precedingSku": "8787675",
+        "precedingTitle": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
+        "precedingAuctionCode": null,
+        "followingSku": "8512556",
+        "followingTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Midnight",
+        "followingAuctionCode": "0019910445"
       }
     ],
-    "lastOnAirSku": "8787675",
-    "lastOnAirTitle": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8512556",
+    "lastOnAirTitle": "Emreco Short Formal Single Breasted Coat (Size - 12) - Midnight",
+    "lastOnAirAuctionCode": "0019910445",
     "precedingSku": "8787675",
     "precedingTitle": "Chilli Charm Owl & Woodland Tree Print Jumper (One Size) - Beige",
     "precedingAuctionCode": null
