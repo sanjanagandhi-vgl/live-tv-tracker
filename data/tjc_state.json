@@ -464468,16 +464468,20 @@
       "date": "2026-10-16",
       "time": "21:32:21",
       "productUrl": "/products/950-platinum-chain-size-18-platinum-wt-1-6-gms-8828993?variant=53917267591434",
-      "lastUpdated": 1792182741933,
+      "lastUpdated": 1792182798464,
       "source": "gha",
       "productUrlChecked": 1792182441459,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792182798464,
+      "missedDelay": 1,
+      "missedPrice": 199.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792182798464,
     "gaps": [
       {
         "start": 1785823527869,
@@ -523915,8 +523919,8 @@
     "lastOnAirSku": "8828993",
     "lastOnAirTitle": "Rhapsody - 950 Platinum Forzatina Necklace (Size - 18)",
     "lastOnAirAuctionCode": "0019911658",
-    "precedingSku": "8828840",
-    "precedingTitle": "BLACK FRIDAY MEGA DEAL - Italian Made 9K Yellow Gold Curb Necklace (Size - 20), Gold Wt.16.70 Gms",
-    "precedingAuctionCode": null
+    "precedingSku": "8828993",
+    "precedingTitle": "Rhapsody - 950 Platinum Forzatina Necklace (Size - 18)",
+    "precedingAuctionCode": "0019911658"
   }
 }
