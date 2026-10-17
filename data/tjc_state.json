@@ -78903,17 +78903,17 @@
       "firstAir": 1785924935483,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792017502476,
+      "lastAir": 1792222759093,
       "title": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
       "pdpPrice": "149.99",
-      "auctionCode": "0019908832",
+      "auctionCode": "0019911572",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-14",
-      "time": "23:38:22",
+      "date": "2026-10-17",
+      "time": "08:39:19",
       "productUrl": "/products/9k-yellow-gold-ring-8668706",
-      "lastUpdated": 1792017502476,
+      "lastUpdated": 1792222759093,
       "source": "gha",
       "missedAt": 1785926912661,
       "missedDelay": 10,
@@ -465114,8 +465114,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792222639435,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -524922,11 +524922,22 @@
         "followingSku": "8692016",
         "followingTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7) Gold Wt. 6.2 Gms",
         "followingAuctionCode": "0019911466"
+      },
+      {
+        "start": 1792222639435,
+        "end": 1792222759093,
+        "durationMin": 2.0,
+        "precedingSku": "8692016",
+        "precedingTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7) Gold Wt. 6.2 Gms",
+        "precedingAuctionCode": "0019911466",
+        "followingSku": "8668706",
+        "followingTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
+        "followingAuctionCode": "0019911572"
       }
     ],
-    "lastOnAirSku": "8692016",
-    "lastOnAirTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7) Gold Wt. 6.2 Gms",
-    "lastOnAirAuctionCode": "0019911466",
+    "lastOnAirSku": "8668706",
+    "lastOnAirTitle": "Maestro Collection - New Collection 9K Yellow Gold Filigree Ring",
+    "lastOnAirAuctionCode": "0019911572",
     "precedingSku": "8692016",
     "precedingTitle": "Vicenza Close Out - 9K Yellow Gold Bracelet (Size - 7) Gold Wt. 6.2 Gms",
     "precedingAuctionCode": "0019911466"
