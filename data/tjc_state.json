@@ -431975,21 +431975,26 @@
       "sku": "8721943",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-07",
-      "time": "08:37:20",
+      "date": "2026-10-17",
+      "time": "10:51:16",
       "preExisting": true,
       "missedAt": 1791358640220,
       "missedDelay": null,
-      "lastUpdated": 1791358640220,
+      "lastUpdated": 1792230676933,
       "missedPrice": 12.99,
       "missedImg": false,
       "title": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- Yellow",
-      "auctionCode": "0019898568",
+      "auctionCode": "0019911655",
       "source": "gha",
       "productUrl": "/products/strada-watch-8721940",
       "productUrlChecked": 1791358643756,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792230676933,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8569546": {
       "sku": "8569546",
@@ -465174,8 +465179,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792230635477,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -525092,11 +525097,22 @@
         "followingSku": "8820327",
         "followingTitle": "NEW ARRIVAL- ELLE Azra Eau de Parfum (30ml) and Hand Lotion (100ml) Gift Set",
         "followingAuctionCode": "0019911619"
+      },
+      {
+        "start": 1792230635477,
+        "end": 1792230676933,
+        "durationMin": 0.7,
+        "precedingSku": "8820327",
+        "precedingTitle": "NEW ARRIVAL- ELLE Azra Eau de Parfum (30ml) and Hand Lotion (100ml) Gift Set",
+        "precedingAuctionCode": "0019911619",
+        "followingSku": "8721943",
+        "followingTitle": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- Yellow",
+        "followingAuctionCode": "0019911655"
       }
     ],
-    "lastOnAirSku": "8820327",
-    "lastOnAirTitle": "NEW ARRIVAL- ELLE Azra Eau de Parfum (30ml) and Hand Lotion (100ml) Gift Set",
-    "lastOnAirAuctionCode": "0019911619",
+    "lastOnAirSku": "8721943",
+    "lastOnAirTitle": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- Yellow",
+    "lastOnAirAuctionCode": "0019911655",
     "precedingSku": "8820327",
     "precedingTitle": "NEW ARRIVAL- ELLE Azra Eau de Parfum (30ml) and Hand Lotion (100ml) Gift Set",
     "precedingAuctionCode": "0019911619"
