@@ -417868,23 +417868,23 @@
       "sku": "8162613",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-14",
-      "time": "09:41:18",
+      "date": "2026-10-17",
+      "time": "06:46:21",
       "preExisting": true,
       "missedAt": 1790988380120,
       "missedDelay": null,
-      "lastUpdated": 1791967278709,
+      "lastUpdated": 1792215981807,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
-      "auctionCode": "0019907776",
+      "auctionCode": "0019911570",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-99-9-purity-dolphin-embossed-collectible-39-85-x-25-95-mm",
       "productUrlChecked": 1790988383357,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791967278709,
-      "pdpPrice": "19.99",
+      "lastAir": 1792215981807,
+      "pdpPrice": "456.99",
       "buy": true,
       "login": false,
       "img": true
@@ -465064,8 +465064,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792215936541,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -524784,11 +524784,22 @@
         "followingSku": "8724090",
         "followingTitle": "9K Yellow Gold Paperclip Bar Chain (Size - 16) with Lobster Clasp",
         "followingAuctionCode": "0019911615"
+      },
+      {
+        "start": 1792215936541,
+        "end": 1792215981807,
+        "durationMin": 0.8,
+        "precedingSku": "8724083",
+        "precedingTitle": "9K Yellow Gold Venziana Box Necklace (Size - 30) with Lobster Clasp 9.35 gram",
+        "precedingAuctionCode": null,
+        "followingSku": "8162613",
+        "followingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+        "followingAuctionCode": "0019911570"
       }
     ],
-    "lastOnAirSku": "8724083",
-    "lastOnAirTitle": "9K Yellow Gold Venziana Box Necklace (Size - 30) with Lobster Clasp 9.35 gram",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8162613",
+    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+    "lastOnAirAuctionCode": "0019911570",
     "precedingSku": "8724083",
     "precedingTitle": "9K Yellow Gold Venziana Box Necklace (Size - 30) with Lobster Clasp 9.35 gram",
     "precedingAuctionCode": null
