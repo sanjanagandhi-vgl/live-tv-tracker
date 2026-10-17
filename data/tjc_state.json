@@ -429096,21 +429096,26 @@
       "sku": "8627423",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "12:18:21",
+      "date": "2026-10-18",
+      "time": "00:37:17",
       "preExisting": true,
       "missedAt": 1791285501797,
       "missedDelay": null,
-      "lastUpdated": 1791285501797,
+      "lastUpdated": 1792280237505,
       "missedPrice": 37.99,
       "missedImg": true,
-      "title": "White Keshi Pearl Beads Necklace (Size - 20) with Clasp 190.00 Ct.",
-      "auctionCode": "0019898009",
+      "title": "Multi Color Keshi Pearl Beads Necklace (Size - 20) with Clasp 190.00 Ct.",
+      "auctionCode": "0019912635",
       "source": "gha",
       "productUrl": "/products/multi-color-keshi-pearl-beads-necklace-size-20-pure-yellow-brass-190-000-ct-8627421",
       "productUrlChecked": 1791285505230,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792280237505,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8296046": {
       "sku": "8296046",
@@ -466480,8 +466485,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792280181458,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -526816,11 +526821,22 @@
         "followingSku": "8665258",
         "followingTitle": "D'Joy - White Keshi Pearl Adjustable Beads Necklace (Size - 20-2 Ext) in Rhodium Overlay Sterling Silver 250.00 Ct.",
         "followingAuctionCode": "0019912654"
+      },
+      {
+        "start": 1792280181458,
+        "end": 1792280237505,
+        "durationMin": 0.9,
+        "precedingSku": "8665258",
+        "precedingTitle": "D'Joy - White Keshi Pearl Adjustable Beads Necklace (Size - 20-2 Ext) in Rhodium Overlay Sterling Silver 250.00 Ct.",
+        "precedingAuctionCode": "0019912654",
+        "followingSku": "8627423",
+        "followingTitle": "Multi Color Keshi Pearl Beads Necklace (Size - 20) with Clasp 190.00 Ct.",
+        "followingAuctionCode": "0019912635"
       }
     ],
-    "lastOnAirSku": "8665258",
-    "lastOnAirTitle": "D'Joy - White Keshi Pearl Adjustable Beads Necklace (Size - 20-2 Ext) in Rhodium Overlay Sterling Silver 250.00 Ct.",
-    "lastOnAirAuctionCode": "0019912654",
+    "lastOnAirSku": "8627423",
+    "lastOnAirTitle": "Multi Color Keshi Pearl Beads Necklace (Size - 20) with Clasp 190.00 Ct.",
+    "lastOnAirAuctionCode": "0019912635",
     "precedingSku": "8665258",
     "precedingTitle": "D'Joy - White Keshi Pearl Adjustable Beads Necklace (Size - 20-2 Ext) in Rhodium Overlay Sterling Silver 250.00 Ct.",
     "precedingAuctionCode": "0019912654"
