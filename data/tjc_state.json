@@ -465076,14 +465076,21 @@
       "img": false,
       "date": "2026-10-17",
       "time": "07:04:21",
-      "productUrl": null,
-      "lastUpdated": 1792217061544,
-      "source": "gha"
+      "productUrl": "/products/9k-yellow-gold-earring-with-clasp-8734701",
+      "lastUpdated": 1792217128325,
+      "source": "gha",
+      "missedAt": 1792217128325,
+      "missedDelay": 1,
+      "missedPrice": 59.99,
+      "missedImg": false,
+      "productUrlChecked": 1792217131958,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792217128325,
     "gaps": [
       {
         "start": 1785823527869,
@@ -524829,8 +524836,8 @@
     "lastOnAirSku": "8734701",
     "lastOnAirTitle": "9K Yellow Gold Earring with Clasp",
     "lastOnAirAuctionCode": "0019911584",
-    "precedingSku": "8162613",
-    "precedingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
-    "precedingAuctionCode": "0019911570"
+    "precedingSku": "8734701",
+    "precedingTitle": "9K Yellow Gold Earring with Clasp",
+    "precedingAuctionCode": "0019911584"
   }
 }
