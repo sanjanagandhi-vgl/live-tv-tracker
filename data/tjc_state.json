@@ -324415,26 +324415,26 @@
       "sku": "8625171",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-10",
-      "time": "09:46:23",
+      "date": "2026-10-17",
+      "time": "23:10:37",
       "preExisting": true,
       "missedAt": 1788943346008,
       "missedDelay": null,
-      "lastUpdated": 1789029983638,
+      "lastUpdated": 1792275037233,
       "missedPrice": 24.99,
       "missedImg": false,
       "title": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
-      "auctionCode": "0019864153",
+      "auctionCode": "0019912858",
       "source": "gha",
       "productUrl": "/products/la-marey-womens-knitted-longline-cardigan-with-pockets-one-size-8-18-white-light-brown-black-8625170",
       "productUrlChecked": 1788943348769,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789029983638,
-      "pdpPrice": "24.99",
+      "lastAir": 1792275037233,
+      "pdpPrice": "149.99",
       "buy": true,
       "login": false,
-      "img": false
+      "img": true
     },
     "8625172": {
       "sku": "8625172",
@@ -466375,8 +466375,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792274960512,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -526645,11 +526645,22 @@
         "followingSku": "8486515",
         "followingTitle": "William Hunt Limited Edition Japanese Miyota Movement 5 ATM Water Resistant Watch With Date Function & Presentation Box - Blue",
         "followingAuctionCode": "0019912716"
+      },
+      {
+        "start": 1792274960512,
+        "end": 1792275037233,
+        "durationMin": 1.3,
+        "precedingSku": "8486515",
+        "precedingTitle": "William Hunt Limited Edition Japanese Miyota Movement 5 ATM Water Resistant Watch With Date Function & Presentation Box - Blue",
+        "precedingAuctionCode": "0019912716",
+        "followingSku": "8625171",
+        "followingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
+        "followingAuctionCode": "0019912858"
       }
     ],
-    "lastOnAirSku": "8486515",
-    "lastOnAirTitle": "William Hunt Limited Edition Japanese Miyota Movement 5 ATM Water Resistant Watch With Date Function & Presentation Box - Blue",
-    "lastOnAirAuctionCode": "0019912716",
+    "lastOnAirSku": "8625171",
+    "lastOnAirTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
+    "lastOnAirAuctionCode": "0019912858",
     "precedingSku": "8486515",
     "precedingTitle": "William Hunt Limited Edition Japanese Miyota Movement 5 ATM Water Resistant Watch With Date Function & Presentation Box - Blue",
     "precedingAuctionCode": "0019912716"
