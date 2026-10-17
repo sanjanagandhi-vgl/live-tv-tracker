@@ -4668,17 +4668,23 @@
       "sku": "8525760",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-24",
-      "time": "11:26:22",
+      "date": "2026-10-17",
+      "time": "23:23:18",
       "preExisting": true,
       "missedAt": 1784888782088,
       "missedDelay": null,
-      "lastUpdated": 1784888782088,
+      "lastUpdated": 1792275798027,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Tan",
-      "auctionCode": "0019792256",
-      "source": "gha"
+      "auctionCode": "0019913945",
+      "source": "gha",
+      "lastAir": 1792275798027,
+      "pdpPrice": "239.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8525761": {
       "sku": "8525761",
@@ -466375,8 +466381,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792275741088,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -526656,11 +526662,22 @@
         "followingSku": "8625171",
         "followingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
         "followingAuctionCode": "0019912858"
+      },
+      {
+        "start": 1792275741088,
+        "end": 1792275798027,
+        "durationMin": 0.9,
+        "precedingSku": "8625171",
+        "precedingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
+        "precedingAuctionCode": "0019912858",
+        "followingSku": "8525760",
+        "followingTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Tan",
+        "followingAuctionCode": "0019913945"
       }
     ],
-    "lastOnAirSku": "8625171",
-    "lastOnAirTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
-    "lastOnAirAuctionCode": "0019912858",
+    "lastOnAirSku": "8525760",
+    "lastOnAirTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Tan",
+    "lastOnAirAuctionCode": "0019913945",
     "precedingSku": "8625171",
     "precedingTitle": "La Marey Womens Knitted Longline Coatigan with Pockets (One Size, 8-20) - Green & White",
     "precedingAuctionCode": "0019912858"
