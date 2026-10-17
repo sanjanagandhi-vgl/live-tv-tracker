@@ -465356,11 +465356,29 @@
       "missedDelay": 1,
       "missedPrice": 249.99,
       "missedImg": true
+    },
+    "8797464": {
+      "sku": "8797464",
+      "firstAir": 1792237462360,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792237462360,
+      "title": "950 Platinum SGL Certified Natural White Diamond (SI-G-H) Solitaire Ring 1.00 Ct, Platinum Wt. 3.60 Gms",
+      "pdpPrice": "17699.99",
+      "auctionCode": "0019894127",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-17",
+      "time": "12:44:22",
+      "productUrl": null,
+      "lastUpdated": 1792237462360,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792236926204,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -525332,11 +525350,22 @@
         "followingSku": "8828992",
         "followingTitle": "9K Yellow Gold Diamond Cut Prince of Wales Chain (Size - 20)",
         "followingAuctionCode": "0019911957"
+      },
+      {
+        "start": 1792236926204,
+        "end": 1792237462360,
+        "durationMin": 8.9,
+        "precedingSku": "8828992",
+        "precedingTitle": "9K Yellow Gold Diamond Cut Prince of Wales Necklace (Size - 20)",
+        "precedingAuctionCode": null,
+        "followingSku": "8797464",
+        "followingTitle": "950 Platinum SGL Certified Natural White Diamond (SI-G-H) Solitaire Ring 1.00 Ct, Platinum Wt. 3.60 Gms",
+        "followingAuctionCode": "0019894127"
       }
     ],
-    "lastOnAirSku": "8828992",
-    "lastOnAirTitle": "9K Yellow Gold Diamond Cut Prince of Wales Necklace (Size - 20)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8797464",
+    "lastOnAirTitle": "950 Platinum SGL Certified Natural White Diamond (SI-G-H) Solitaire Ring 1.00 Ct, Platinum Wt. 3.60 Gms",
+    "lastOnAirAuctionCode": "0019894127",
     "precedingSku": "8828992",
     "precedingTitle": "9K Yellow Gold Diamond Cut Prince of Wales Necklace (Size - 20)",
     "precedingAuctionCode": null
