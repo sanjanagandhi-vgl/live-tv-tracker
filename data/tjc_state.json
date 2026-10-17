@@ -466004,11 +466004,29 @@
       "missedDelay": 1,
       "missedPrice": 99.99,
       "missedImg": false
+    },
+    "8825307": {
+      "sku": "8825307",
+      "firstAir": 1792257501867,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792257501867,
+      "title": "Lab Grown Diamond Hoop Earring with Clasp in Rhodium Overlay & Rose Gold Plated Sterling Silver 1.00 Ct.",
+      "pdpPrice": "1199.99",
+      "auctionCode": "0019911761",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-17",
+      "time": "18:18:21",
+      "productUrl": null,
+      "lastUpdated": 1792257501867,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792257439043,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -526112,11 +526130,22 @@
         "followingSku": "8828845",
         "followingTitle": "Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019913924"
+      },
+      {
+        "start": 1792257439043,
+        "end": 1792257501867,
+        "durationMin": 1.0,
+        "precedingSku": "8828845",
+        "precedingTitle": "Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
+        "precedingAuctionCode": "0019913924",
+        "followingSku": "8825307",
+        "followingTitle": "Lab Grown Diamond Hoop Earring with Clasp in Rhodium Overlay & Rose Gold Plated Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019911761"
       }
     ],
-    "lastOnAirSku": "8828845",
-    "lastOnAirTitle": "Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019913924",
+    "lastOnAirSku": "8825307",
+    "lastOnAirTitle": "Lab Grown Diamond Hoop Earring with Clasp in Rhodium Overlay & Rose Gold Plated Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019911761",
     "precedingSku": "8828845",
     "precedingTitle": "Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
     "precedingAuctionCode": "0019913924"
