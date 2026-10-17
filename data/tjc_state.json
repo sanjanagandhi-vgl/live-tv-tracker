@@ -460090,18 +460090,23 @@
       "sku": "8631697",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-15",
-      "time": "16:26:21",
+      "date": "2026-10-17",
+      "time": "10:24:22",
       "preExisting": true,
       "missedAt": 1792077981971,
       "missedDelay": null,
-      "lastUpdated": 1792077981971,
+      "lastUpdated": 1792229062578,
       "missedPrice": 19.99,
       "missedImg": false,
-      "title": "Traditional Resin & MDF Christmas Nativity Stable Tabletop Ornament - Multi-Colour",
-      "auctionCode": "0019910412",
+      "title": "Christmas Ornament (Size - One Size) - Multi Color",
+      "auctionCode": "0019911940",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792229062578,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8574917": {
       "sku": "8574917",
@@ -465164,8 +465169,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792228998392,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -525038,11 +525043,22 @@
         "followingSku": "8691112",
         "followingTitle": "Vicenza Launch Quattro Tessere - 9K Yellow Gold Bracelet (Size - 7.5) with Senorita Clasp, Gold Wt.7.80 Gms",
         "followingAuctionCode": "0019911585"
+      },
+      {
+        "start": 1792228998392,
+        "end": 1792229062578,
+        "durationMin": 1.1,
+        "precedingSku": "8811405",
+        "precedingTitle": "Interactive Musical Dancing Christmas Toy with Santa Hat (23cm) - Capybara",
+        "precedingAuctionCode": "0019911932",
+        "followingSku": "8631697",
+        "followingTitle": "Christmas Ornament (Size - One Size) - Multi Color",
+        "followingAuctionCode": "0019911940"
       }
     ],
-    "lastOnAirSku": "8811405",
-    "lastOnAirTitle": "Interactive Musical Dancing Christmas Toy with Santa Hat (23cm) - Capybara",
-    "lastOnAirAuctionCode": "0019911932",
+    "lastOnAirSku": "8631697",
+    "lastOnAirTitle": "Christmas Ornament (Size - One Size) - Multi Color",
+    "lastOnAirAuctionCode": "0019911940",
     "precedingSku": "8811405",
     "precedingTitle": "Interactive Musical Dancing Christmas Toy with Santa Hat (23cm) - Capybara",
     "precedingAuctionCode": "0019911932"
