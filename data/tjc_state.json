@@ -465241,9 +465241,16 @@
       "img": true,
       "date": "2026-10-17",
       "time": "12:05:26",
-      "productUrl": null,
-      "lastUpdated": 1792235126683,
-      "source": "gha"
+      "productUrl": "/products/colombian-emerald-moissanite-pendant-with-torn-chain-19dc-size-18-in-rhodium-overlay-sterling-silver-0-55-ct-1-017-ct-4538119",
+      "lastUpdated": 1792235183661,
+      "source": "gha",
+      "missedAt": 1792235183661,
+      "missedDelay": 1,
+      "missedPrice": 299.99,
+      "missedImg": true,
+      "productUrlChecked": 1792235186655,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8780270": {
       "sku": "8780270",
@@ -465327,8 +465334,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792235183661,
     "gaps": [
       {
         "start": 1785823527869,
@@ -525294,8 +525301,8 @@
     "lastOnAirSku": "4538119",
     "lastOnAirTitle": "D'Joy - Colombian Emerald & Moissanite Halo Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 1.00 Ct.",
     "lastOnAirAuctionCode": "0019911521",
-    "precedingSku": "4509241",
-    "precedingTitle": "Set of 2 - Multi Colour Jadeite Jade Bracelet & Pen (Size - 7.5) 300.00 Ct.",
-    "precedingAuctionCode": null
+    "precedingSku": "4538119",
+    "precedingTitle": "D'Joy - Colombian Emerald & Moissanite Halo Pendant with Chain (Size 18) in Rhodium Overlay Sterling Silver 1.00 Ct.",
+    "precedingAuctionCode": "0019911521"
   }
 }
