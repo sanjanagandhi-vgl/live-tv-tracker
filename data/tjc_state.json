@@ -465061,11 +465061,29 @@
       "productUrlChecked": 1792215335329,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8734701": {
+      "sku": "8734701",
+      "firstAir": 1792216460727,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792216460727,
+      "title": "9K Yellow Gold Earring with Clasp",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019911584",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-17",
+      "time": "06:54:20",
+      "productUrl": null,
+      "lastUpdated": 1792216460727,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792216342839,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -524795,11 +524813,22 @@
         "followingSku": "8162613",
         "followingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
         "followingAuctionCode": "0019911570"
+      },
+      {
+        "start": 1792216342839,
+        "end": 1792216460727,
+        "durationMin": 2.0,
+        "precedingSku": "8162613",
+        "precedingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+        "precedingAuctionCode": "0019911570",
+        "followingSku": "8734701",
+        "followingTitle": "9K Yellow Gold Earring with Clasp",
+        "followingAuctionCode": "0019911584"
       }
     ],
-    "lastOnAirSku": "8162613",
-    "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
-    "lastOnAirAuctionCode": "0019911570",
+    "lastOnAirSku": "8734701",
+    "lastOnAirTitle": "9K Yellow Gold Earring with Clasp",
+    "lastOnAirAuctionCode": "0019911584",
     "precedingSku": "8162613",
     "precedingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
     "precedingAuctionCode": "0019911570"
