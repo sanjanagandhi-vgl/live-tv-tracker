@@ -4543,17 +4543,23 @@
       "sku": "8689649",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-24",
-      "time": "11:01:18",
+      "date": "2026-10-17",
+      "time": "22:40:35",
       "preExisting": true,
       "missedAt": 1784887278885,
       "missedDelay": null,
-      "lastUpdated": 1784887278885,
+      "lastUpdated": 1792273235522,
       "missedPrice": 8.99,
       "missedImg": true,
-      "title": "null",
-      "auctionCode": "0019791380",
-      "source": "gha"
+      "title": "Laurelle Amarai Noir Fleur EDP - 100ml",
+      "auctionCode": "0019912748",
+      "source": "gha",
+      "lastAir": 1792273235522,
+      "pdpPrice": "8.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8689648": {
       "sku": "8689648",
@@ -466351,14 +466357,21 @@
       "img": true,
       "date": "2026-10-17",
       "time": "22:38:21",
-      "productUrl": null,
-      "lastUpdated": 1792273101447,
-      "source": "gha"
+      "productUrl": "/products/beautech-4-in-1-facial-cleansing-brush-2-aa-batteries-not-inc",
+      "lastUpdated": 1792273235522,
+      "source": "gha",
+      "missedAt": 1792273235522,
+      "missedDelay": 2,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1792273238290,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792273158512,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -526594,11 +526607,22 @@
         "followingSku": "7267893",
         "followingTitle": "Beautech 4 in 1 Facial Cleansing Brush (2 AA Batteries,Not Inc.)",
         "followingAuctionCode": "0019912720"
+      },
+      {
+        "start": 1792273158512,
+        "end": 1792273235522,
+        "durationMin": 1.3,
+        "precedingSku": "7267893",
+        "precedingTitle": "Beautech 4 in 1 Facial Cleansing Brush (2 AA Batteries,Not Inc.)",
+        "precedingAuctionCode": "0019912720",
+        "followingSku": "8689649",
+        "followingTitle": "Laurelle Amarai Noir Fleur EDP - 100ml",
+        "followingAuctionCode": "0019912748"
       }
     ],
-    "lastOnAirSku": "7267893",
-    "lastOnAirTitle": "Beautech 4 in 1 Facial Cleansing Brush (2 AA Batteries,Not Inc.)",
-    "lastOnAirAuctionCode": "0019912720",
+    "lastOnAirSku": "8689649",
+    "lastOnAirTitle": "Laurelle Amarai Noir Fleur EDP - 100ml",
+    "lastOnAirAuctionCode": "0019912748",
     "precedingSku": "7267893",
     "precedingTitle": "Beautech 4 in 1 Facial Cleansing Brush (2 AA Batteries,Not Inc.)",
     "precedingAuctionCode": "0019912720"
