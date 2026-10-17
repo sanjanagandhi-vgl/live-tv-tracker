@@ -465995,16 +465995,20 @@
       "date": "2026-10-17",
       "time": "18:03:17",
       "productUrl": "/products/black-friday-only-deal-set-of-2-fountain-of-youth-lifestyle-pure-tripeptide-collagen-100gm-x-2-upto-200-day-supply-221338796?variant=53928561180938",
-      "lastUpdated": 1792256597894,
+      "lastUpdated": 1792256662206,
       "source": "gha",
       "productUrlChecked": 1792256600361,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792256662206,
+      "missedDelay": 1,
+      "missedPrice": 99.99,
+      "missedImg": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792256662206,
     "gaps": [
       {
         "start": 1785823527869,
@@ -526102,8 +526106,8 @@
     "lastOnAirSku": "221338796",
     "lastOnAirTitle": "BLACK FRIDAY ONLY DEAL - Set of 2 Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm x ...",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8212758",
-    "precedingTitle": "LIVEMORE Electric Stepper with LCD Display & Remote - White",
-    "precedingAuctionCode": "0019911538"
+    "precedingSku": "221338796",
+    "precedingTitle": "BLACK FRIDAY ONLY DEAL - Set of 2 Fountain of Youth Lifestyle Pure Tripeptide Collagen - 100gm x ...",
+    "precedingAuctionCode": null
   }
 }
