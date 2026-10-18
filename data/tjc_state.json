@@ -463710,17 +463710,17 @@
       "firstAir": 1792157546223,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792157783213,
+      "lastAir": 1792301182792,
       "title": "Mesa Living LED Sensor Light 814.482 - White",
-      "pdpPrice": 4.99,
-      "auctionCode": null,
+      "pdpPrice": "59.99",
+      "auctionCode": "0019912960",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-16",
-      "time": "14:36:23",
+      "date": "2026-10-18",
+      "time": "06:26:22",
       "productUrl": "/products/mesa-living-led-sensor-light-814-482-white-8586028?variant=53904589095178",
-      "lastUpdated": 1792157839311,
+      "lastUpdated": 1792301182792,
       "source": "gha",
       "productUrlChecked": 1792157785774,
       "productUrlStatus": 200,
@@ -466792,8 +466792,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792301128237,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527381,11 +527381,22 @@
         "followingSku": "8676582",
         "followingTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
         "followingAuctionCode": "0019912930"
+      },
+      {
+        "start": 1792301128237,
+        "end": 1792301182792,
+        "durationMin": 0.9,
+        "precedingSku": "8676582",
+        "precedingTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
+        "precedingAuctionCode": null,
+        "followingSku": "8586028",
+        "followingTitle": "Mesa Living LED Sensor Light 814.482 - White",
+        "followingAuctionCode": "0019912960"
       }
     ],
-    "lastOnAirSku": "8676582",
-    "lastOnAirTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8586028",
+    "lastOnAirTitle": "Mesa Living LED Sensor Light 814.482 - White",
+    "lastOnAirAuctionCode": "0019912960",
     "precedingSku": "8676582",
     "precedingTitle": "LIVMORE Micro Mink Memory Foam Multi-Use Seat Cushion - Back Support, Chairs, Bed - Grey",
     "precedingAuctionCode": null
