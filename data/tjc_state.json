@@ -334643,17 +334643,17 @@
       "firstAir": 1789125384654,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791430757161,
+      "lastAir": 1792298436757,
       "title": "Close Out Deal- Designer Inspired Wavy Hoop Earring",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019899341",
+      "pdpPrice": "4.99",
+      "auctionCode": "0019912554",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-08",
-      "time": "04:39:17",
+      "date": "2026-10-18",
+      "time": "05:40:36",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8735993",
-      "lastUpdated": 1791430757161,
+      "lastUpdated": 1792298436757,
       "source": "gha",
       "missedAt": 1789126039765,
       "missedDelay": 8,
@@ -466759,8 +466759,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792298357795,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527293,11 +527293,22 @@
         "followingSku": "8620863",
         "followingTitle": "EverTrue Bronzella Collection - Floral Ring in 18K Gold Plating",
         "followingAuctionCode": "0019912584"
+      },
+      {
+        "start": 1792298357795,
+        "end": 1792298436757,
+        "durationMin": 1.3,
+        "precedingSku": "8620863",
+        "precedingTitle": "EverTrue Bronzella Collection - Floral Ring in 18K Gold Plating",
+        "precedingAuctionCode": null,
+        "followingSku": "8735993",
+        "followingTitle": "Close Out Deal- Designer Inspired Wavy Hoop Earring",
+        "followingAuctionCode": "0019912554"
       }
     ],
-    "lastOnAirSku": "8620863",
-    "lastOnAirTitle": "EverTrue Bronzella Collection - Floral Ring in 18K Gold Plating",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8735993",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Wavy Hoop Earring",
+    "lastOnAirAuctionCode": "0019912554",
     "precedingSku": "8620863",
     "precedingTitle": "EverTrue Bronzella Collection - Floral Ring in 18K Gold Plating",
     "precedingAuctionCode": null
