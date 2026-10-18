@@ -15704,16 +15704,16 @@
       "firstAir": 1785091700851,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792103902446,
+      "lastAir": 1792324700895,
       "title": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
-      "pdpPrice": "699.99",
-      "auctionCode": "0019910310",
+      "pdpPrice": "6999.99",
+      "auctionCode": "0019911115",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-15",
-      "time": "23:38:22",
-      "lastUpdated": 1792103902446,
+      "date": "2026-10-18",
+      "time": "12:58:20",
+      "lastUpdated": 1792324700895,
       "source": "gha",
       "missedAt": 1785092059876,
       "missedDelay": 2,
@@ -466997,8 +466997,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792324638180,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527949,11 +527949,22 @@
         "followingSku": "8810685",
         "followingTitle": "Mega Close Out Deal- 9K Yellow Gold Spiga Necklace (Size - 16) with Lobster Clasp",
         "followingAuctionCode": "0019912270"
+      },
+      {
+        "start": 1792324638180,
+        "end": 1792324700895,
+        "durationMin": 1.0,
+        "precedingSku": "8692857",
+        "precedingTitle": "9K Yellow Handmade Byzantine Gold Necklace (Size - 19.5) with Sanorita Clasp, Gold Wt. 18.50 Gms",
+        "precedingAuctionCode": "0019914077",
+        "followingSku": "8640990",
+        "followingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+        "followingAuctionCode": "0019911115"
       }
     ],
-    "lastOnAirSku": "8692857",
-    "lastOnAirTitle": "9K Yellow Handmade Byzantine Gold Necklace (Size - 19.5) with Sanorita Clasp, Gold Wt. 18.50 Gms",
-    "lastOnAirAuctionCode": "0019914077",
+    "lastOnAirSku": "8640990",
+    "lastOnAirTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019911115",
     "precedingSku": "8692857",
     "precedingTitle": "9K Yellow Handmade Byzantine Gold Necklace (Size - 19.5) with Sanorita Clasp, Gold Wt. 18.50 Gms",
     "precedingAuctionCode": "0019914077"
