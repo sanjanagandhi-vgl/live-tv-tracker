@@ -467058,11 +467058,29 @@
       "auctionCode": "0019914246",
       "source": "gha",
       "productUrl": null
+    },
+    "8634990": {
+      "sku": "8634990",
+      "firstAir": 1792327398481,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792327398481,
+      "title": "24K Yellow Gold NTGS Certified Foil Painting of Vibrant Horse & Prosperity Artwork",
+      "pdpPrice": "1599.00",
+      "auctionCode": "0019914082",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-18",
+      "time": "13:43:18",
+      "productUrl": null,
+      "lastUpdated": 1792327398481,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792327235182,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -528046,11 +528064,22 @@
         "followingSku": "8828854",
         "followingTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
         "followingAuctionCode": "0019912255"
+      },
+      {
+        "start": 1792327235182,
+        "end": 1792327398481,
+        "durationMin": 2.7,
+        "precedingSku": "8828854",
+        "precedingTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
+        "precedingAuctionCode": "0019912255",
+        "followingSku": "8634990",
+        "followingTitle": "24K Yellow Gold NTGS Certified Foil Painting of Vibrant Horse & Prosperity Artwork",
+        "followingAuctionCode": "0019914082"
       }
     ],
-    "lastOnAirSku": "8828854",
-    "lastOnAirTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
-    "lastOnAirAuctionCode": "0019912255",
+    "lastOnAirSku": "8634990",
+    "lastOnAirTitle": "24K Yellow Gold NTGS Certified Foil Painting of Vibrant Horse & Prosperity Artwork",
+    "lastOnAirAuctionCode": "0019914082",
     "precedingSku": "8828854",
     "precedingTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
     "precedingAuctionCode": "0019912255"
