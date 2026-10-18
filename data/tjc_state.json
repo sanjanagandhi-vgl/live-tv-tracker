@@ -466671,11 +466671,29 @@
       "productUrlChecked": 1792297530290,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8620863": {
+      "sku": "8620863",
+      "firstAir": 1792298238798,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792298238798,
+      "title": "EverTrue Bronzella Collection - Floral Ring in 18K Gold Plating",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019912584",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-18",
+      "time": "05:37:18",
+      "productUrl": null,
+      "lastUpdated": 1792298238798,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792298182338,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527197,11 +527215,22 @@
         "followingSku": "8666733",
         "followingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Bracelet (Size - 7-1 Ext) Weight 6.10 Grams",
         "followingAuctionCode": "0019912559"
+      },
+      {
+        "start": 1792298182338,
+        "end": 1792298238798,
+        "durationMin": 0.9,
+        "precedingSku": "8666733",
+        "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Bracelet (Size - 7-1 Ext) Weight 6.10 Grams",
+        "precedingAuctionCode": "0019912559",
+        "followingSku": "8620863",
+        "followingTitle": "EverTrue Bronzella Collection - Floral Ring in 18K Gold Plating",
+        "followingAuctionCode": "0019912584"
       }
     ],
-    "lastOnAirSku": "8666733",
-    "lastOnAirTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Bracelet (Size - 7-1 Ext) Weight 6.10 Grams",
-    "lastOnAirAuctionCode": "0019912559",
+    "lastOnAirSku": "8620863",
+    "lastOnAirTitle": "EverTrue Bronzella Collection - Floral Ring in 18K Gold Plating",
+    "lastOnAirAuctionCode": "0019912584",
     "precedingSku": "8666733",
     "precedingTitle": "Bronzella Collection - 18K Gold Overlay Italian Made Vortex Bracelet (Size - 7-1 Ext) Weight 6.10 Grams",
     "precedingAuctionCode": "0019912559"
