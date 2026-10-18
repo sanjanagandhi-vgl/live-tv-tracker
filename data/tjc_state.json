@@ -18953,17 +18953,23 @@
       "sku": "8499869",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-27",
-      "time": "13:47:20",
+      "date": "2026-10-19",
+      "time": "00:17:17",
       "preExisting": true,
       "missedAt": 1785156440848,
       "missedDelay": null,
-      "lastUpdated": 1785156440848,
+      "lastUpdated": 1792365437213,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Crossbody Bag (Size - One Size) - Brown",
-      "auctionCode": "0019796558",
-      "source": "gha"
+      "title": "Milan Closeout Genuine Pebble Leather Hobo Crossbody Bag - Off White",
+      "auctionCode": "0019914338",
+      "source": "gha",
+      "lastAir": 1792365437213,
+      "pdpPrice": "719.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8516652": {
       "sku": "8516652",
@@ -468006,8 +468012,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792365334706,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -529431,11 +529437,22 @@
         "followingSku": "8820327",
         "followingTitle": "NEW ARRIVAL- ELLE Azra Eau de Parfum (30ml) and Hand Lotion (100ml) Gift Set",
         "followingAuctionCode": "0019914382"
+      },
+      {
+        "start": 1792365334706,
+        "end": 1792365437213,
+        "durationMin": 1.7,
+        "precedingSku": "8820327",
+        "precedingTitle": "NEW ARRIVAL- ELLE Azra Eau de Parfum (30ml) and Hand Lotion (100ml) Gift Set",
+        "precedingAuctionCode": "0019914382",
+        "followingSku": "8499869",
+        "followingTitle": "Milan Closeout Genuine Pebble Leather Hobo Crossbody Bag - Off White",
+        "followingAuctionCode": "0019914338"
       }
     ],
-    "lastOnAirSku": "8820327",
-    "lastOnAirTitle": "NEW ARRIVAL- ELLE Azra Eau de Parfum (30ml) and Hand Lotion (100ml) Gift Set",
-    "lastOnAirAuctionCode": "0019914382",
+    "lastOnAirSku": "8499869",
+    "lastOnAirTitle": "Milan Closeout Genuine Pebble Leather Hobo Crossbody Bag - Off White",
+    "lastOnAirAuctionCode": "0019914338",
     "precedingSku": "8820327",
     "precedingTitle": "NEW ARRIVAL- ELLE Azra Eau de Parfum (30ml) and Hand Lotion (100ml) Gift Set",
     "precedingAuctionCode": "0019914382"
