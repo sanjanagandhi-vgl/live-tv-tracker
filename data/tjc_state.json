@@ -459828,17 +459828,17 @@
       "firstAir": 1792065927716,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792257382109,
+      "lastAir": 1792330583086,
       "title": "Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019913924",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019913687",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-17",
-      "time": "18:16:22",
+      "date": "2026-10-18",
+      "time": "14:36:23",
       "productUrl": null,
-      "lastUpdated": 1792257382109,
+      "lastUpdated": 1792330583086,
       "source": "gha",
       "missedAt": 1792067599104,
       "missedDelay": 2,
@@ -467111,8 +467111,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792330461270,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -528107,11 +528107,22 @@
         "followingSku": "8634990",
         "followingTitle": "24K Yellow Gold NTGS Certified Foil Painting of Vibrant Horse & Prosperity Artwork",
         "followingAuctionCode": "0019914082"
+      },
+      {
+        "start": 1792330461270,
+        "end": 1792330583086,
+        "durationMin": 2.0,
+        "precedingSku": "8415113",
+        "precedingTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8)",
+        "precedingAuctionCode": "0019913891",
+        "followingSku": "8828845",
+        "followingTitle": "Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
+        "followingAuctionCode": "0019913687"
       }
     ],
-    "lastOnAirSku": "8415113",
-    "lastOnAirTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8)",
-    "lastOnAirAuctionCode": "0019913891",
+    "lastOnAirSku": "8828845",
+    "lastOnAirTitle": "Italian Made Sterling Silver Bismark Bracelet (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019913687",
     "precedingSku": "8415113",
     "precedingTitle": "Yellow Gold Plated Sterling Silver Bismark Bracelet with Lobster Clasp (Size - 8)",
     "precedingAuctionCode": "0019913891"
