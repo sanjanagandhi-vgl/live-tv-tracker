@@ -458345,21 +458345,26 @@
       "sku": "4540303",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-14",
-      "time": "18:49:20",
+      "date": "2026-10-18",
+      "time": "23:39:17",
       "preExisting": true,
       "missedAt": 1792000160575,
       "missedDelay": null,
-      "lastUpdated": 1792000160575,
+      "lastUpdated": 1792363157924,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "D'Joy - Moissanite Pendant in Yellow Gold Plated with Chain (Size 20) 1.08 Ct.",
-      "auctionCode": "0019908667",
+      "auctionCode": "0019914259",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-pendant-in-yellow-gold-plated-with-chain-size-20-1-08-ct-4540303",
       "productUrlChecked": 1792000163782,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792363157924,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8636703": {
       "sku": "8636703",
@@ -467978,8 +467983,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792363102856,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -529359,11 +529364,22 @@
         "followingSku": "8582209",
         "followingTitle": "EverTrue - African Ruby & White Zircon Trilogy Ring in Yellow Gold Tone 2.15 Ct.",
         "followingAuctionCode": "0019914272"
+      },
+      {
+        "start": 1792363102856,
+        "end": 1792363157924,
+        "durationMin": 0.9,
+        "precedingSku": "8582209",
+        "precedingTitle": "EverTrue - African Ruby & White Zircon Trilogy Ring in Yellow Gold Tone 2.15 Ct.",
+        "precedingAuctionCode": "0019914272",
+        "followingSku": "4540303",
+        "followingTitle": "D'Joy - Moissanite Pendant in Yellow Gold Plated with Chain (Size 20) 1.08 Ct.",
+        "followingAuctionCode": "0019914259"
       }
     ],
-    "lastOnAirSku": "8582209",
-    "lastOnAirTitle": "EverTrue - African Ruby & White Zircon Trilogy Ring in Yellow Gold Tone 2.15 Ct.",
-    "lastOnAirAuctionCode": "0019914272",
+    "lastOnAirSku": "4540303",
+    "lastOnAirTitle": "D'Joy - Moissanite Pendant in Yellow Gold Plated with Chain (Size 20) 1.08 Ct.",
+    "lastOnAirAuctionCode": "0019914259",
     "precedingSku": "8582209",
     "precedingTitle": "EverTrue - African Ruby & White Zircon Trilogy Ring in Yellow Gold Tone 2.15 Ct.",
     "precedingAuctionCode": "0019914272"
