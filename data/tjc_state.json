@@ -439507,21 +439507,26 @@
       "sku": "8713310",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-09",
-      "time": "19:26:21",
+      "date": "2026-10-18",
+      "time": "03:35:28",
       "preExisting": true,
       "missedAt": 1791570381376,
       "missedDelay": null,
-      "lastUpdated": 1791570381376,
+      "lastUpdated": 1792290928123,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Beige",
-      "auctionCode": "0019902615",
+      "title": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
+      "auctionCode": "0019913953",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-towel-size-140x1-cm-lavender-lavender-8713286",
       "productUrlChecked": 1791570384594,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792290928123,
+      "pdpPrice": "20.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8713309": {
       "sku": "8713309",
@@ -466618,8 +466623,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792290861003,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527031,11 +527036,22 @@
         "followingSku": "8363827",
         "followingTitle": "QED Chunky Check Scarf (190 x 50 Cm) - Brown",
         "followingAuctionCode": "0019912528"
+      },
+      {
+        "start": 1792290861003,
+        "end": 1792290928123,
+        "durationMin": 1.1,
+        "precedingSku": "8363827",
+        "precedingTitle": "QED Chunky Check Scarf (190 x 50 Cm) - Brown",
+        "precedingAuctionCode": "0019912528",
+        "followingSku": "8713310",
+        "followingTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
+        "followingAuctionCode": "0019913953"
       }
     ],
-    "lastOnAirSku": "8363827",
-    "lastOnAirTitle": "QED Chunky Check Scarf (190 x 50 Cm) - Brown",
-    "lastOnAirAuctionCode": "0019912528",
+    "lastOnAirSku": "8713310",
+    "lastOnAirTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
+    "lastOnAirAuctionCode": "0019913953",
     "precedingSku": "8363827",
     "precedingTitle": "QED Chunky Check Scarf (190 x 50 Cm) - Brown",
     "precedingAuctionCode": "0019912528"
