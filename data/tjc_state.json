@@ -434533,21 +434533,26 @@
       "sku": "8626885",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-07",
-      "time": "20:44:21",
+      "date": "2026-10-18",
+      "time": "09:45:36",
       "preExisting": true,
       "missedAt": 1791402261103,
       "missedDelay": null,
-      "lastUpdated": 1791402261103,
+      "lastUpdated": 1792313136237,
       "missedPrice": 39.99,
       "missedImg": true,
-      "title": "The Paradigm Of Luxury -  Limited Edition Super Soft Soft Faux Rabbit Fur Bubble Texture 1000GSM Rug with Foam Base (100 x 180cm) - Brown",
-      "auctionCode": "0019898868",
+      "title": "Luxury - Limited Edition Super Soft Faux Rabbit Fur Bubble Texture 1000GSM Rug with Foam Base (100 x 180cm) - Beige",
+      "auctionCode": "0019913159",
       "source": "gha",
       "productUrl": "/products/livmore-soft-bubble-tie-dye-faux-fur-rug-with-foam-base-100-x-180cm-beige-8626884",
       "productUrlChecked": 1791402265620,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792313136237,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8660717": {
       "sku": "8660717",
@@ -466917,8 +466922,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792312997518,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527660,11 +527665,22 @@
         "followingSku": "7261223",
         "followingTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
         "followingAuctionCode": "0019913163"
+      },
+      {
+        "start": 1792312997518,
+        "end": 1792313136237,
+        "durationMin": 2.3,
+        "precedingSku": "7261223",
+        "precedingTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
+        "precedingAuctionCode": "0019913163",
+        "followingSku": "8626885",
+        "followingTitle": "Luxury - Limited Edition Super Soft Faux Rabbit Fur Bubble Texture 1000GSM Rug with Foam Base (100 x 180cm) - Beige",
+        "followingAuctionCode": "0019913159"
       }
     ],
-    "lastOnAirSku": "7261223",
-    "lastOnAirTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
-    "lastOnAirAuctionCode": "0019913163",
+    "lastOnAirSku": "8626885",
+    "lastOnAirTitle": "Luxury - Limited Edition Super Soft Faux Rabbit Fur Bubble Texture 1000GSM Rug with Foam Base (100 x 180cm) - Beige",
+    "lastOnAirAuctionCode": "0019913159",
     "precedingSku": "7261223",
     "precedingTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
     "precedingAuctionCode": "0019913163"
