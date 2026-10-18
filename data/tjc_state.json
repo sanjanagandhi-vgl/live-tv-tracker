@@ -270795,23 +270795,23 @@
       "sku": "8613005",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-05",
-      "time": "02:25:25",
+      "date": "2026-10-18",
+      "time": "10:11:18",
       "preExisting": true,
       "missedAt": 1788041128764,
       "missedDelay": null,
-      "lastUpdated": 1788571525530,
+      "lastUpdated": 1792314678625,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "D'Joy - GRA Certified (D-VVS1) Moissanite Hoop Drop Earring with Clasp in Yellow Gold Plated Sterling Silver 1.50 Ct.",
-      "auctionCode": "0019857062",
+      "auctionCode": "0019912324",
       "source": "gha",
       "productUrl": "/products/djoy-gra-certified-moissanite-hoop-earring-with-clasp-in-sterling-silver-1-50-ct-2658613004",
       "productUrlChecked": 1788041133797,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1788571525530,
-      "pdpPrice": "49.99",
+      "lastAir": 1792314678625,
+      "pdpPrice": "39.99",
       "buy": true,
       "login": false,
       "img": true
@@ -466927,8 +466927,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792314635198,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527692,11 +527692,22 @@
         "followingSku": "8613169",
         "followingTitle": "D'Joy - GRA Certified Moissanite Floral Earring with Push Back in Yellow Gold Plated Sterling Silver 2.00 Ct.",
         "followingAuctionCode": "0019912322"
+      },
+      {
+        "start": 1792314635198,
+        "end": 1792314678625,
+        "durationMin": 0.7,
+        "precedingSku": "8613169",
+        "precedingTitle": "D'Joy - GRA Certified Moissanite Floral Earring with Push Back in Yellow Gold Plated Sterling Silver 2.00 Ct.",
+        "precedingAuctionCode": "0019912322",
+        "followingSku": "8613005",
+        "followingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Hoop Drop Earring with Clasp in Yellow Gold Plated Sterling Silver 1.50 Ct.",
+        "followingAuctionCode": "0019912324"
       }
     ],
-    "lastOnAirSku": "8613169",
-    "lastOnAirTitle": "D'Joy - GRA Certified Moissanite Floral Earring with Push Back in Yellow Gold Plated Sterling Silver 2.00 Ct.",
-    "lastOnAirAuctionCode": "0019912322",
+    "lastOnAirSku": "8613005",
+    "lastOnAirTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Hoop Drop Earring with Clasp in Yellow Gold Plated Sterling Silver 1.50 Ct.",
+    "lastOnAirAuctionCode": "0019912324",
     "precedingSku": "8613169",
     "precedingTitle": "D'Joy - GRA Certified Moissanite Floral Earring with Push Back in Yellow Gold Plated Sterling Silver 2.00 Ct.",
     "precedingAuctionCode": "0019912322"
