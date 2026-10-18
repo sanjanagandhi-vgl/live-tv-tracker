@@ -466994,11 +466994,29 @@
       "productUrlChecked": 1792315855131,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8828968": {
+      "sku": "8828968",
+      "firstAir": 1792325597180,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792325597180,
+      "title": "9K Yellow Gold Trace Chain (Size - 18)",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019911565",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-18",
+      "time": "13:13:17",
+      "productUrl": null,
+      "lastUpdated": 1792325597180,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792325301381,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527960,11 +527978,22 @@
         "followingSku": "8640990",
         "followingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
         "followingAuctionCode": "0019911115"
+      },
+      {
+        "start": 1792325301381,
+        "end": 1792325597180,
+        "durationMin": 4.9,
+        "precedingSku": "8640990",
+        "precedingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+        "precedingAuctionCode": "0019911115",
+        "followingSku": "8828968",
+        "followingTitle": "9K Yellow Gold Trace Chain (Size - 18)",
+        "followingAuctionCode": "0019911565"
       }
     ],
-    "lastOnAirSku": "8640990",
-    "lastOnAirTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019911115",
+    "lastOnAirSku": "8828968",
+    "lastOnAirTitle": "9K Yellow Gold Trace Chain (Size - 18)",
+    "lastOnAirAuctionCode": "0019911565",
     "precedingSku": "8640990",
     "precedingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
     "precedingAuctionCode": "0019911115"
