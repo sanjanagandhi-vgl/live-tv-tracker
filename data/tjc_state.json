@@ -467010,13 +467010,52 @@
       "date": "2026-10-18",
       "time": "13:36:21",
       "productUrl": null,
-      "lastUpdated": 1792326981485,
+      "lastUpdated": 1792327101129,
+      "source": "gha",
+      "missedAt": 1792327101129,
+      "missedDelay": 2,
+      "missedPrice": 79.99,
+      "missedImg": true
+    },
+    "8828854": {
+      "sku": "8828854",
+      "firstAir": 1792327101129,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792327101129,
+      "title": "9K Yellow Gold 4-Way Triple-Knot Pendant",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019912255",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-18",
+      "time": "13:38:21",
+      "productUrl": null,
+      "lastUpdated": 1792327101129,
       "source": "gha"
+    },
+    "8828872": {
+      "sku": "8828872",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-18",
+      "time": "13:38:21",
+      "preExisting": true,
+      "missedAt": 1792327101129,
+      "missedDelay": null,
+      "lastUpdated": 1792327101129,
+      "missedPrice": 79.99,
+      "missedImg": true,
+      "title": "9K Yellow Gold Heart Slider Pendant",
+      "auctionCode": "0019914246",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792327038748,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527989,11 +528028,22 @@
         "followingSku": "8828968",
         "followingTitle": "9K Yellow Gold Trace Chain (Size - 18)",
         "followingAuctionCode": "0019911565"
+      },
+      {
+        "start": 1792327038748,
+        "end": 1792327101129,
+        "durationMin": 1.0,
+        "precedingSku": "8828968",
+        "precedingTitle": "BIGGEST BLACK FRIDAY DEAL - 9K Yellow Gold Necklace (Size - 18)",
+        "precedingAuctionCode": "0019911565",
+        "followingSku": "8828854",
+        "followingTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
+        "followingAuctionCode": "0019912255"
       }
     ],
-    "lastOnAirSku": "8828968",
-    "lastOnAirTitle": "BIGGEST BLACK FRIDAY DEAL - 9K Yellow Gold Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019911565",
+    "lastOnAirSku": "8828854",
+    "lastOnAirTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
+    "lastOnAirAuctionCode": "0019912255",
     "precedingSku": "8828968",
     "precedingTitle": "BIGGEST BLACK FRIDAY DEAL - 9K Yellow Gold Necklace (Size - 18)",
     "precedingAuctionCode": "0019911565"
