@@ -386144,21 +386144,26 @@
       "sku": "8795309",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-23",
-      "time": "19:55:28",
+      "date": "2026-10-18",
+      "time": "06:09:18",
       "preExisting": true,
       "missedAt": 1790189728329,
       "missedDelay": null,
-      "lastUpdated": 1790189728329,
+      "lastUpdated": 1792300158117,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Grey",
-      "auctionCode": "0019882144",
+      "title": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+      "auctionCode": "0019912929",
       "source": "gha",
       "productUrl": "/products/tjc-special-water-bottle-size-one-size-black-8795307",
       "productUrlChecked": 1790189732635,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792300158117,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8795308": {
       "sku": "8795308",
@@ -466787,8 +466792,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792300101302,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527354,11 +527359,22 @@
         "followingSku": "8800489",
         "followingTitle": "Pack of 2 - Leopard Print Knitted Cover Reusable Mini Hand Warmers - Grey",
         "followingAuctionCode": "0019912922"
+      },
+      {
+        "start": 1792300101302,
+        "end": 1792300158117,
+        "durationMin": 0.9,
+        "precedingSku": "8800489",
+        "precedingTitle": "Pack of 2 - Leopard Print Knitted Cover Reusable Mini Hand Warmers - Grey",
+        "precedingAuctionCode": null,
+        "followingSku": "8795309",
+        "followingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+        "followingAuctionCode": "0019912929"
       }
     ],
-    "lastOnAirSku": "8800489",
-    "lastOnAirTitle": "Pack of 2 - Leopard Print Knitted Cover Reusable Mini Hand Warmers - Grey",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8795309",
+    "lastOnAirTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+    "lastOnAirAuctionCode": "0019912929",
     "precedingSku": "8800489",
     "precedingTitle": "Pack of 2 - Leopard Print Knitted Cover Reusable Mini Hand Warmers - Grey",
     "precedingAuctionCode": null
