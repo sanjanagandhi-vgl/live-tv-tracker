@@ -466552,8 +466552,12 @@
       "date": "2026-10-18",
       "time": "03:33:17",
       "productUrl": null,
-      "lastUpdated": 1792290797189,
-      "source": "gha"
+      "lastUpdated": 1792290861003,
+      "source": "gha",
+      "missedAt": 1792290861003,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8439311": {
       "sku": "8439311",
@@ -466594,11 +466598,28 @@
       "productUrlChecked": 1792290656132,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8363824": {
+      "sku": "8363824",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-18",
+      "time": "03:34:21",
+      "preExisting": true,
+      "missedAt": 1792290861003,
+      "missedDelay": null,
+      "lastUpdated": 1792290861003,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "QED Stripe Fluffy Scarf (190 x 50 Cm) - Purple",
+      "auctionCode": "0019912529",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792290861003,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527015,8 +527036,8 @@
     "lastOnAirSku": "8363827",
     "lastOnAirTitle": "QED Chunky Check Scarf (190 x 50 Cm) - Brown",
     "lastOnAirAuctionCode": "0019912528",
-    "precedingSku": "8439310",
-    "precedingTitle": "LA MAREY SIGNATURE 100% Premium Leather Handbag with Detachable Sling Strap & Card Holder - Brown",
-    "precedingAuctionCode": "0019912523"
+    "precedingSku": "8363827",
+    "precedingTitle": "QED Chunky Check Scarf (190 x 50 Cm) - Brown",
+    "precedingAuctionCode": "0019912528"
   }
 }
