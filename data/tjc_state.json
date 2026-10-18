@@ -404306,21 +404306,26 @@
       "sku": "8579328",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-29",
-      "time": "15:11:38",
+      "date": "2026-10-19",
+      "time": "00:41:18",
       "preExisting": true,
       "missedAt": 1790691098927,
       "missedDelay": null,
-      "lastUpdated": 1790691098927,
+      "lastUpdated": 1792366878041,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Mushroom Motif Ladies Zip Around RFID Wallet Purse - Light Green",
-      "auctionCode": "0019888955",
+      "title": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
+      "auctionCode": "0019914306",
       "source": "gha",
       "productUrl": "/products/pu-printed-wallet-size-15x2x10-cm-dark-blue-8579336",
       "productUrlChecked": 1790691102498,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792366878041,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8778618": {
       "sku": "8778618",
@@ -468088,8 +468093,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792366833645,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -529535,11 +529540,22 @@
         "followingSku": "8364908",
         "followingTitle": "Close Out Collection Snowflakes Super Soft Cardigan (Size L) - Red",
         "followingAuctionCode": "0019914364"
+      },
+      {
+        "start": 1792366833645,
+        "end": 1792366878041,
+        "durationMin": 0.7,
+        "precedingSku": "8305139",
+        "precedingTitle": "Lotus Lori Pointed Toe Ankle Boots (Size 3) - Navy",
+        "precedingAuctionCode": "0019914375",
+        "followingSku": "8579328",
+        "followingTitle": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
+        "followingAuctionCode": "0019914306"
       }
     ],
-    "lastOnAirSku": "8305139",
-    "lastOnAirTitle": "Lotus Lori Pointed Toe Ankle Boots (Size 3) - Navy",
-    "lastOnAirAuctionCode": "0019914375",
+    "lastOnAirSku": "8579328",
+    "lastOnAirTitle": "Hedgehog Motif Ladies Zip Around RFID Wallet Purse - Red",
+    "lastOnAirAuctionCode": "0019914306",
     "precedingSku": "8305139",
     "precedingTitle": "Lotus Lori Pointed Toe Ankle Boots (Size 3) - Navy",
     "precedingAuctionCode": "0019914375"
