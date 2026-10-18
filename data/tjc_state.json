@@ -453302,21 +453302,26 @@
       "sku": "8335670",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-13",
-      "time": "20:23:19",
+      "date": "2026-10-18",
+      "time": "07:38:21",
       "preExisting": true,
       "missedAt": 1791919399696,
       "missedDelay": null,
-      "lastUpdated": 1791919399696,
+      "lastUpdated": 1792305501916,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "IW Special Clock (Size - One Size) - Green & White",
-      "auctionCode": "0019907955",
+      "auctionCode": "0019912999",
       "source": "gha",
       "productUrl": "/products/iw-special-clock-2818335670",
       "productUrlChecked": 1791919403565,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792305501916,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8514552": {
       "sku": "8514552",
@@ -466807,8 +466812,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792305438342,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527462,11 +527467,22 @@
         "followingSku": "8599417",
         "followingTitle": "Zyliss Zick-Zick Classic Food Chopper - Manual Handheld White Vegetable Slicer, Premium 1 Cup Capacity Stainless Steel Rotating Blade Onion Dicer with Lockable Handle",
         "followingAuctionCode": "0019913170"
+      },
+      {
+        "start": 1792305438342,
+        "end": 1792305501916,
+        "durationMin": 1.1,
+        "precedingSku": "8646524",
+        "precedingTitle": "Electric Non Stick Pot with Steamer for Boiling, Cooking, Frying (1.8L) - White",
+        "precedingAuctionCode": "0019913157",
+        "followingSku": "8335670",
+        "followingTitle": "IW Special Clock (Size - One Size) - Green & White",
+        "followingAuctionCode": "0019912999"
       }
     ],
-    "lastOnAirSku": "8646524",
-    "lastOnAirTitle": "Electric Non Stick Pot with Steamer for Boiling, Cooking, Frying (1.8L) - White",
-    "lastOnAirAuctionCode": "0019913157",
+    "lastOnAirSku": "8335670",
+    "lastOnAirTitle": "IW Special Clock (Size - One Size) - Green & White",
+    "lastOnAirAuctionCode": "0019912999",
     "precedingSku": "8646524",
     "precedingTitle": "Electric Non Stick Pot with Steamer for Boiling, Cooking, Frying (1.8L) - White",
     "precedingAuctionCode": "0019913157"
