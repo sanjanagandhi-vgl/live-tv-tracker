@@ -395631,21 +395631,26 @@
       "sku": "8666429",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-26",
-      "time": "23:02:22",
+      "date": "2026-10-18",
+      "time": "23:18:21",
       "preExisting": true,
       "missedAt": 1790460142304,
       "missedDelay": null,
-      "lastUpdated": 1790460142304,
+      "lastUpdated": 1792361901181,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "LA Close Out - White Fresh Water Pearl Adjustable Beads Necklace (Size - 20)",
-      "auctionCode": "0019885384",
+      "auctionCode": "0019914243",
       "source": "gha",
       "productUrl": "/products/white-fresh-water-pearl-adjustable-beads-necklace-size-20-in-yellow-gold-tone-15-00-ct-8666429",
       "productUrlChecked": 1790460146224,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792361901181,
+      "pdpPrice": "499.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4455506": {
       "sku": "4455506",
@@ -467973,8 +467978,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792361838315,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -529321,11 +529326,22 @@
         "followingSku": "8553015",
         "followingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
         "followingAuctionCode": "0019914248"
+      },
+      {
+        "start": 1792361838315,
+        "end": 1792361901181,
+        "durationMin": 1.0,
+        "precedingSku": "8553015",
+        "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
+        "precedingAuctionCode": null,
+        "followingSku": "8666429",
+        "followingTitle": "LA Close Out - White Fresh Water Pearl Adjustable Beads Necklace (Size - 20)",
+        "followingAuctionCode": "0019914243"
       }
     ],
-    "lastOnAirSku": "8553015",
-    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8666429",
+    "lastOnAirTitle": "LA Close Out - White Fresh Water Pearl Adjustable Beads Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019914243",
     "precedingSku": "8553015",
     "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
     "precedingAuctionCode": null
