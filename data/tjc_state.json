@@ -451546,21 +451546,26 @@
       "sku": "8719612",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-13",
-      "time": "13:09:18",
+      "date": "2026-10-18",
+      "time": "07:53:18",
       "preExisting": true,
       "missedAt": 1791893358170,
       "missedDelay": null,
-      "lastUpdated": 1791893358170,
+      "lastUpdated": 1792306398256,
       "missedPrice": 24.99,
       "missedImg": true,
-      "title": "LIVMORE- Cushion Cover Set of 2 (Size-40x40x8 cm) - Navy",
-      "auctionCode": "0019907663",
+      "title": "LIVMORE - Set of 2 Velvet Seat Cushions (40x40x8 cm) - Grey",
+      "auctionCode": "0019913000",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-cushion-cover-size-40x8-cm-grey-grey-8719568",
       "productUrlChecked": 1791893361856,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792306398256,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8719611": {
       "sku": "8719611",
@@ -466817,8 +466822,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792306102764,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527483,11 +527488,22 @@
         "followingSku": "8335670",
         "followingTitle": "IW Special Clock (Size - One Size) - Green & White",
         "followingAuctionCode": "0019912999"
+      },
+      {
+        "start": 1792306102764,
+        "end": 1792306398256,
+        "durationMin": 4.9,
+        "precedingSku": "8708860",
+        "precedingTitle": "Mango Wood Hand painted Wooden Elephant Decorative Figurine (20cm) - Black & White",
+        "precedingAuctionCode": "0019912928",
+        "followingSku": "8719612",
+        "followingTitle": "LIVMORE - Set of 2 Velvet Seat Cushions (40x40x8 cm) - Grey",
+        "followingAuctionCode": "0019913000"
       }
     ],
-    "lastOnAirSku": "8708860",
-    "lastOnAirTitle": "Mango Wood Hand painted Wooden Elephant Decorative Figurine (20cm) - Black & White",
-    "lastOnAirAuctionCode": "0019912928",
+    "lastOnAirSku": "8719612",
+    "lastOnAirTitle": "LIVMORE - Set of 2 Velvet Seat Cushions (40x40x8 cm) - Grey",
+    "lastOnAirAuctionCode": "0019913000",
     "precedingSku": "8708860",
     "precedingTitle": "Mango Wood Hand painted Wooden Elephant Decorative Figurine (20cm) - Black & White",
     "precedingAuctionCode": "0019912928"
