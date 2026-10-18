@@ -466834,14 +466834,21 @@
       "img": true,
       "date": "2026-10-18",
       "time": "08:37:18",
-      "productUrl": null,
-      "lastUpdated": 1792309038277,
-      "source": "gha"
+      "productUrl": "/products/homesmart-handheld-vacuum-cleaner-with-0-6l-dust-capacity-and-hepa-filter-400w",
+      "lastUpdated": 1792309100528,
+      "source": "gha",
+      "missedAt": 1792309100528,
+      "missedDelay": 1,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1792309103374,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792309100528,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527544,8 +527551,8 @@
     "lastOnAirSku": "7826458",
     "lastOnAirTitle": "Beyond Bliss Corded (4m) 2-in1 Vacuum Cleaner (0.6L Dust Tank Capacity) 400W, 65db",
     "lastOnAirAuctionCode": "0019913123",
-    "precedingSku": "8666775",
-    "precedingTitle": "LIVMORE Limited Edition Hand Finished Turkish Mosaic Glass Lamp with Multicolour Stone Work (Requires E14 Screw Bulb) Mains Powered UK Plug - Multi",
-    "precedingAuctionCode": "0019913167"
+    "precedingSku": "7826458",
+    "precedingTitle": "Beyond Bliss Corded (4m) 2-in1 Vacuum Cleaner (0.6L Dust Tank Capacity) 400W, 65db",
+    "precedingAuctionCode": "0019913123"
   }
 }
