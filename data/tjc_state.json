@@ -414842,23 +414842,23 @@
       "sku": "8779771",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-12",
-      "time": "02:55:24",
+      "date": "2026-10-18",
+      "time": "02:29:17",
       "preExisting": true,
       "missedAt": 1790928501974,
       "missedDelay": null,
-      "lastUpdated": 1791770124771,
+      "lastUpdated": 1792286957110,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Lipsy Radiant Pearl EDT - 30ml",
-      "auctionCode": "0019905537",
+      "auctionCode": "0019912495",
       "source": "gha",
       "productUrl": "/products/lipsy-radiant-pearl-edt-30ml-8779769?variant=53845117403402",
       "productUrlChecked": 1790928505018,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791770124771,
-      "pdpPrice": 9.99,
+      "lastAir": 1792286957110,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -466489,8 +466489,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792286900376,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -526858,11 +526858,22 @@
         "followingSku": "8594290",
         "followingTitle": "Marigold & Lotus Goat Milk Collection of Hand Cream (200g), Foot Cream (200g) & Lip Balm (15g)",
         "followingAuctionCode": "0019912490"
+      },
+      {
+        "start": 1792286900376,
+        "end": 1792286957110,
+        "durationMin": 0.9,
+        "precedingSku": "8504739",
+        "precedingTitle": "Livmore 51-Piece Women's Hair Accessories Gift Set with Hairbrush & Claw Clips - Pink, Orange & Purple",
+        "precedingAuctionCode": "0019912494",
+        "followingSku": "8779771",
+        "followingTitle": "Lipsy Radiant Pearl EDT - 30ml",
+        "followingAuctionCode": "0019912495"
       }
     ],
-    "lastOnAirSku": "8504739",
-    "lastOnAirTitle": "Livmore 51-Piece Women's Hair Accessories Gift Set with Hairbrush & Claw Clips - Pink, Orange & Purple",
-    "lastOnAirAuctionCode": "0019912494",
+    "lastOnAirSku": "8779771",
+    "lastOnAirTitle": "Lipsy Radiant Pearl EDT - 30ml",
+    "lastOnAirAuctionCode": "0019912495",
     "precedingSku": "8504739",
     "precedingTitle": "Livmore 51-Piece Women's Hair Accessories Gift Set with Hairbrush & Claw Clips - Pink, Orange & Purple",
     "precedingAuctionCode": "0019912494"
