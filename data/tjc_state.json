@@ -4163,19 +4163,19 @@
       "sku": "8626601",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-16",
-      "time": "01:22:20",
+      "date": "2026-10-18",
+      "time": "12:21:16",
       "preExisting": true,
       "missedAt": 1784879598171,
       "missedDelay": null,
-      "lastUpdated": 1792110140413,
+      "lastUpdated": 1792322476311,
       "missedPrice": 179.99,
       "missedImg": true,
       "title": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
-      "auctionCode": "0019910344",
+      "auctionCode": "0019911101",
       "source": "gha",
-      "lastAir": 1792110140413,
-      "pdpPrice": "179.99",
+      "lastAir": 1792322476311,
+      "pdpPrice": "299.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -466992,8 +466992,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792322239248,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527900,11 +527900,22 @@
         "followingSku": "8611132",
         "followingTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Pear Cut Solitaire Pendant 10.00 Ct.",
         "followingAuctionCode": "0019914517"
+      },
+      {
+        "start": 1792322239248,
+        "end": 1792322476311,
+        "durationMin": 4.0,
+        "precedingSku": "8611132",
+        "precedingTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Pear Cut Solitaire Pendant 10.00 Ct.",
+        "precedingAuctionCode": "0019914517",
+        "followingSku": "8626601",
+        "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
+        "followingAuctionCode": "0019911101"
       }
     ],
-    "lastOnAirSku": "8611132",
-    "lastOnAirTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Pear Cut Solitaire Pendant 10.00 Ct.",
-    "lastOnAirAuctionCode": "0019914517",
+    "lastOnAirSku": "8626601",
+    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019911101",
     "precedingSku": "8611132",
     "precedingTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Pear Cut Solitaire Pendant 10.00 Ct.",
     "precedingAuctionCode": "0019914517"
