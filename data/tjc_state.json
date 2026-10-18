@@ -465015,21 +465015,26 @@
       "sku": "8775032",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-17",
-      "time": "00:06:21",
+      "date": "2026-10-18",
+      "time": "11:07:17",
       "preExisting": true,
       "missedAt": 1792191981285,
       "missedDelay": null,
-      "lastUpdated": 1792191981285,
+      "lastUpdated": 1792318037690,
       "missedPrice": 275.99,
       "missedImg": false,
       "title": "BLACK FRIDAY SPECIAL D'joy Moissanite Cluster Bracelet (Size - 7.5) in Rhodium OverlaySterling Silver, Silver Wt.23 Gms  16.686  Ct.",
-      "auctionCode": "0019911837",
+      "auctionCode": "0019914084",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-cluster-bracelet-size-7-in-rhodium-overlaysterling-silver-silver-wt-23-gms-15-000-ct-8827716",
       "productUrlChecked": 1792191984952,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792318037690,
+      "pdpPrice": "999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4453851": {
       "sku": "4453851",
@@ -466979,8 +466984,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792317926469,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527810,11 +527815,22 @@
         "followingSku": "8433742",
         "followingTitle": "D'Joy - Moissanite Cross Pendant in Yellow Gold Plated Sterling Silver 1.40 Ct.",
         "followingAuctionCode": "0019912201"
+      },
+      {
+        "start": 1792317926469,
+        "end": 1792318037690,
+        "durationMin": 1.9,
+        "precedingSku": "8547685",
+        "precedingTitle": "D'Joy -Moissanite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Si...",
+        "precedingAuctionCode": null,
+        "followingSku": "8775032",
+        "followingTitle": "BLACK FRIDAY SPECIAL D'joy Moissanite Cluster Bracelet (Size - 7.5) in Rhodium OverlaySterling Silver, Silver Wt.23 Gms  16.686  Ct.",
+        "followingAuctionCode": "0019914084"
       }
     ],
-    "lastOnAirSku": "8547685",
-    "lastOnAirTitle": "D'Joy -Moissanite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Si...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8775032",
+    "lastOnAirTitle": "BLACK FRIDAY SPECIAL D'joy Moissanite Cluster Bracelet (Size - 7.5) in Rhodium OverlaySterling Silver, Silver Wt.23 Gms  16.686  Ct.",
+    "lastOnAirAuctionCode": "0019914084",
     "precedingSku": "8547685",
     "precedingTitle": "D'Joy -Moissanite Solitaire Earring with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Si...",
     "precedingAuctionCode": null
