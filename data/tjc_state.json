@@ -7276,16 +7276,16 @@
       "firstAir": 1784929535364,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790765435324,
+      "lastAir": 1792322597889,
       "title": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019889262",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019911098",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-30",
-      "time": "11:50:35",
-      "lastUpdated": 1790765435324,
+      "date": "2026-10-18",
+      "time": "12:23:17",
+      "lastUpdated": 1792322597889,
       "source": "gha",
       "missedAt": 1784929876646,
       "missedDelay": 1,
@@ -466992,8 +466992,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792322539846,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527911,11 +527911,22 @@
         "followingSku": "8626601",
         "followingTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
         "followingAuctionCode": "0019911101"
+      },
+      {
+        "start": 1792322539846,
+        "end": 1792322597889,
+        "durationMin": 1.0,
+        "precedingSku": "8626601",
+        "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019911101",
+        "followingSku": "8597033",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+        "followingAuctionCode": "0019911098"
       }
     ],
-    "lastOnAirSku": "8626601",
-    "lastOnAirTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019911101",
+    "lastOnAirSku": "8597033",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Necklace (Size - 20) with Spring Ring Clasp",
+    "lastOnAirAuctionCode": "0019911098",
     "precedingSku": "8626601",
     "precedingTitle": "9K Yellow Gold Spiga Necklace (Size - 18) with Spring Ring Clasp",
     "precedingAuctionCode": "0019911101"
