@@ -427300,21 +427300,26 @@
       "sku": "8810685",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-05",
-      "time": "14:14:21",
+      "date": "2026-10-18",
+      "time": "12:48:23",
       "preExisting": true,
       "missedAt": 1791206061095,
       "missedDelay": null,
-      "lastUpdated": 1791206061095,
+      "lastUpdated": 1792324103392,
       "missedPrice": 199.99,
       "missedImg": false,
-      "title": "9K Yellow Gold Necklace (Size - 18), Gold Wt.1.27 Gms",
-      "auctionCode": "0019896680",
+      "title": "Mega Close Out Deal- 9K Yellow Gold Spiga Necklace (Size - 16) with Lobster Clasp",
+      "auctionCode": "0019912270",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-16-gold-wt-1-15-gms-8810677",
       "productUrlChecked": 1791206065200,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792324103392,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8686903": {
       "sku": "8686903",
@@ -466992,8 +466997,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792324037580,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -527933,11 +527938,22 @@
         "followingSku": "8828840",
         "followingTitle": "BLACK FRIDAY MEGA DEAL - Italian Made 9K Yellow Gold Curb Necklace (Size - 20), Gold Wt.16.70 Gms",
         "followingAuctionCode": "0019914247"
+      },
+      {
+        "start": 1792324037580,
+        "end": 1792324103392,
+        "durationMin": 1.1,
+        "precedingSku": "8828840",
+        "precedingTitle": "BLACK FRIDAY MEGA DEAL - Italian Made 9K Yellow Gold Curb Necklace (Size - 20), Gold Wt.16.70 Gms",
+        "precedingAuctionCode": "0019914247",
+        "followingSku": "8810685",
+        "followingTitle": "Mega Close Out Deal- 9K Yellow Gold Spiga Necklace (Size - 16) with Lobster Clasp",
+        "followingAuctionCode": "0019912270"
       }
     ],
-    "lastOnAirSku": "8828840",
-    "lastOnAirTitle": "BLACK FRIDAY MEGA DEAL - Italian Made 9K Yellow Gold Curb Necklace (Size - 20), Gold Wt.16.70 Gms",
-    "lastOnAirAuctionCode": "0019914247",
+    "lastOnAirSku": "8810685",
+    "lastOnAirTitle": "Mega Close Out Deal- 9K Yellow Gold Spiga Necklace (Size - 16) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019912270",
     "precedingSku": "8828840",
     "precedingTitle": "BLACK FRIDAY MEGA DEAL - Italian Made 9K Yellow Gold Curb Necklace (Size - 20), Gold Wt.16.70 Gms",
     "precedingAuctionCode": "0019914247"
