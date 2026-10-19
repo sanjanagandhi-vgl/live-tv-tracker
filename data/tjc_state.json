@@ -146848,21 +146848,26 @@
       "sku": "8604079",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-12",
-      "time": "19:54:23",
+      "date": "2026-10-19",
+      "time": "11:57:18",
       "preExisting": true,
       "missedAt": 1786560863756,
       "missedDelay": null,
-      "lastUpdated": 1786560863756,
+      "lastUpdated": 1792407438762,
       "missedPrice": 239.99,
       "missedImg": true,
-      "title": "Premium African Ruby (7.25 Ct.) & Lab Grown Diamond (SI-G-H 1.15 Ct.) Ring in 18K Gold Vermeil Sterling Silver 8.40 Ct.",
-      "auctionCode": "0019815900",
+      "title": "Luxuriant - Blue Sapphire & Lab Grown Diamond (SI/G-H) Halo Ring in Rhodium Overlay Sterling Silver 8.25 Ct.",
+      "auctionCode": "0019915101",
       "source": "gha",
       "productUrl": "/products/african-ruby-7-15-ct-lab-grown-diamond-si-g-h-1-00-ct-ring-in-18k-vermeil-sterling-silver-8-16-ct-m8604068",
       "productUrlChecked": 1786560870787,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792407438762,
+      "pdpPrice": "2567.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8604080": {
       "sku": "8604080",
@@ -468844,8 +468849,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792407385019,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530643,11 +530648,22 @@
         "followingSku": "4510749",
         "followingTitle": "Oval Locket Pendant with Chain (Size 18)",
         "followingAuctionCode": "0019915218"
+      },
+      {
+        "start": 1792407385019,
+        "end": 1792407438762,
+        "durationMin": 0.9,
+        "precedingSku": "4510749",
+        "precedingTitle": "Oval Locket Pendant with Chain (Size 18)",
+        "precedingAuctionCode": null,
+        "followingSku": "8604079",
+        "followingTitle": "Luxuriant - Blue Sapphire & Lab Grown Diamond (SI/G-H) Halo Ring in Rhodium Overlay Sterling Silver 8.25 Ct.",
+        "followingAuctionCode": "0019915101"
       }
     ],
-    "lastOnAirSku": "4510749",
-    "lastOnAirTitle": "Oval Locket Pendant with Chain (Size 18)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8604079",
+    "lastOnAirTitle": "Luxuriant - Blue Sapphire & Lab Grown Diamond (SI/G-H) Halo Ring in Rhodium Overlay Sterling Silver 8.25 Ct.",
+    "lastOnAirAuctionCode": "0019915101",
     "precedingSku": "4510749",
     "precedingTitle": "Oval Locket Pendant with Chain (Size 18)",
     "precedingAuctionCode": null
