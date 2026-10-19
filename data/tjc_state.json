@@ -466077,24 +466077,25 @@
       "firstAir": 1792241238316,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792241540892,
+      "lastAir": 1792449262185,
       "title": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
-      "pdpPrice": 129.99,
-      "auctionCode": "0019912257",
+      "pdpPrice": "3777.99",
+      "auctionCode": "0019915421",
       "buy": true,
       "login": false,
-      "date": "2026-10-17",
-      "time": "13:52:20",
+      "date": "2026-10-19",
+      "time": "23:34:22",
       "productUrl": "/products/djoy-white-diamond-band-ring-in-18k-yg-vermeilsterling-silver-0-504-ct-8797526",
-      "lastUpdated": 1792241660719,
-      "source": "gha-variant",
+      "lastUpdated": 1792449262185,
+      "source": "gha",
       "missedAt": 1792241660719,
       "missedDelay": 2,
       "missedPrice": 129.99,
       "missedImg": true,
       "productUrlChecked": 1792241665586,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "img": true
     },
     "8797604": {
       "sku": "8797604",
@@ -469798,8 +469799,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792449199110,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -531993,11 +531994,22 @@
         "followingSku": "8797356",
         "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
         "followingAuctionCode": "0019914897"
+      },
+      {
+        "start": 1792449199110,
+        "end": 1792449262185,
+        "durationMin": 1.1,
+        "precedingSku": "8797356",
+        "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterli...",
+        "precedingAuctionCode": null,
+        "followingSku": "8797526",
+        "followingTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+        "followingAuctionCode": "0019915421"
       }
     ],
-    "lastOnAirSku": "8797356",
-    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterli...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8797526",
+    "lastOnAirTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+    "lastOnAirAuctionCode": "0019915421",
     "precedingSku": "8797356",
     "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterli...",
     "precedingAuctionCode": null
