@@ -469511,11 +469511,29 @@
       "productUrlChecked": 1792423991637,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8765416": {
+      "sku": "8765416",
+      "firstAir": 1792428081503,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792428081503,
+      "title": "Created Malachite Plum Blossom Necklace (Size - 20)",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019916018",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-19",
+      "time": "17:41:21",
+      "productUrl": null,
+      "lastUpdated": 1792428081503,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792427843214,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -531478,11 +531496,22 @@
         "followingSku": "8775458",
         "followingTitle": "EverTrue - Red Jade & Black Spinel Twin Dragon-Head Beaded Bracelet (Size - 7) 117.83 Ct.",
         "followingAuctionCode": "0019914932"
+      },
+      {
+        "start": 1792427843214,
+        "end": 1792428081503,
+        "durationMin": 4.0,
+        "precedingSku": "8775458",
+        "precedingTitle": "EverTrue - Red Jade & Black Spinel Twin Dragon-Head Beaded Bracelet (Size - 7) 117.83 Ct.",
+        "precedingAuctionCode": "0019914932",
+        "followingSku": "8765416",
+        "followingTitle": "Created Malachite Plum Blossom Necklace (Size - 20)",
+        "followingAuctionCode": "0019916018"
       }
     ],
-    "lastOnAirSku": "8775458",
-    "lastOnAirTitle": "EverTrue - Red Jade & Black Spinel Twin Dragon-Head Beaded Bracelet (Size - 7) 117.83 Ct.",
-    "lastOnAirAuctionCode": "0019914932",
+    "lastOnAirSku": "8765416",
+    "lastOnAirTitle": "Created Malachite Plum Blossom Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019916018",
     "precedingSku": "8775458",
     "precedingTitle": "EverTrue - Red Jade & Black Spinel Twin Dragon-Head Beaded Bracelet (Size - 7) 117.83 Ct.",
     "precedingAuctionCode": "0019914932"
