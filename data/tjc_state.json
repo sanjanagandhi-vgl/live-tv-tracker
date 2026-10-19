@@ -469678,13 +469678,68 @@
       "date": "2026-10-19",
       "time": "18:46:23",
       "productUrl": null,
-      "lastUpdated": 1792431983314,
-      "source": "gha"
+      "lastUpdated": 1792432040914,
+      "source": "gha",
+      "missedAt": 1792432040914,
+      "missedDelay": 1,
+      "missedPrice": 14.99,
+      "missedImg": true
+    },
+    "8821753": {
+      "sku": "8821753",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-19",
+      "time": "18:47:20",
+      "preExisting": true,
+      "missedAt": 1792432040914,
+      "missedDelay": null,
+      "lastUpdated": 1792432040914,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "QED London  Scarf (Size - One Size) - Ivory Gray",
+      "auctionCode": "0019916009",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8821752": {
+      "sku": "8821752",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-19",
+      "time": "18:47:20",
+      "preExisting": true,
+      "missedAt": 1792432040914,
+      "missedDelay": null,
+      "lastUpdated": 1792432040914,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "QED London  Scarf (Size - One Size) - Chocolate",
+      "auctionCode": "0019916008",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8821691": {
+      "sku": "8821691",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-19",
+      "time": "18:47:20",
+      "preExisting": true,
+      "missedAt": 1792432040914,
+      "missedDelay": null,
+      "lastUpdated": 1792432040914,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "QED London  Scarf (Size - One Size) - Ivory",
+      "auctionCode": "0019916007",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792432040914,
     "gaps": [
       {
         "start": 1785823527869,
@@ -531707,8 +531762,8 @@
     "lastOnAirSku": "8821690",
     "lastOnAirTitle": "QED London  Scarf (Size - One Size) - Ivory Gray",
     "lastOnAirAuctionCode": "0019915555",
-    "precedingSku": "8721943",
-    "precedingTitle": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- Yellow",
-    "precedingAuctionCode": "0019914717"
+    "precedingSku": "8821690",
+    "precedingTitle": "QED London  Scarf (Size - One Size) - Ivory Gray",
+    "precedingAuctionCode": "0019915555"
   }
 }
