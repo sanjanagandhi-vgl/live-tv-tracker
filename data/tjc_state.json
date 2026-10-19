@@ -468315,11 +468315,29 @@
       "productUrlChecked": 1792386505092,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8365399": {
+      "sku": "8365399",
+      "firstAir": 1792388357819,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792388357819,
+      "title": "The Jojoba Company Ultimate Facial Serum with Australian Jojoba and Hyaluronic Acid - 30ml",
+      "pdpPrice": "209.99",
+      "auctionCode": "0019914493",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-19",
+      "time": "06:39:17",
+      "productUrl": null,
+      "lastUpdated": 1792388357819,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792388301679,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -529941,11 +529959,22 @@
         "followingSku": "8064481",
         "followingTitle": "Lowest ever price - Gauder Acrylic Double-Sided Mounting Tape 5M - Wood, Tiles, Plastic, Metal, Paint and Wallpaper - Red",
         "followingAuctionCode": "0019914513"
+      },
+      {
+        "start": 1792388301679,
+        "end": 1792388357819,
+        "durationMin": 0.9,
+        "precedingSku": "8597967",
+        "precedingTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
+        "precedingAuctionCode": "0019914505",
+        "followingSku": "8365399",
+        "followingTitle": "The Jojoba Company Ultimate Facial Serum with Australian Jojoba and Hyaluronic Acid - 30ml",
+        "followingAuctionCode": "0019914493"
       }
     ],
-    "lastOnAirSku": "8597967",
-    "lastOnAirTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
-    "lastOnAirAuctionCode": "0019914505",
+    "lastOnAirSku": "8365399",
+    "lastOnAirTitle": "The Jojoba Company Ultimate Facial Serum with Australian Jojoba and Hyaluronic Acid - 30ml",
+    "lastOnAirAuctionCode": "0019914493",
     "precedingSku": "8597967",
     "precedingTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
     "precedingAuctionCode": "0019914505"
