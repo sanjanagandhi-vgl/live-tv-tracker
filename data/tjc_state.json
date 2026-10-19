@@ -189861,21 +189861,26 @@
       "sku": "8575478",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-18",
-      "time": "16:20:40",
+      "date": "2026-10-19",
+      "time": "08:54:22",
       "preExisting": true,
       "missedAt": 1787066440684,
       "missedDelay": null,
-      "lastUpdated": 1787066440684,
+      "lastUpdated": 1792396462062,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "MEGA BAG CLERANCE OFFER- 100% Genuine Leather Holdall Travel Duffel Bag - Navy",
-      "auctionCode": "0019826605",
+      "title": "MEGA BAG OFFER-100% Genuine Leather Holdall Travel Duffel Bag - Burgundy",
+      "auctionCode": "0019914425",
       "source": "gha",
       "productUrl": "/products/genuine-leather-holdall-travel-duffel-bag-black-8575475",
       "productUrlChecked": 1787066452703,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792396462062,
+      "pdpPrice": "24.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8097791": {
       "sku": "8097791",
@@ -468398,8 +468403,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792396398096,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530076,11 +530081,22 @@
         "followingSku": "8503788",
         "followingTitle": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Dark Blue",
         "followingAuctionCode": "0019914446"
+      },
+      {
+        "start": 1792396398096,
+        "end": 1792396462062,
+        "durationMin": 1.1,
+        "precedingSku": "8439310",
+        "precedingTitle": "LA MAREY SIGNATURE 100% Premium Leather Handbag with Detachable Sling Strap & Card Holder - Brown",
+        "precedingAuctionCode": null,
+        "followingSku": "8575478",
+        "followingTitle": "MEGA BAG OFFER-100% Genuine Leather Holdall Travel Duffel Bag - Burgundy",
+        "followingAuctionCode": "0019914425"
       }
     ],
-    "lastOnAirSku": "8439310",
-    "lastOnAirTitle": "LA MAREY SIGNATURE 100% Premium Leather Handbag with Detachable Sling Strap & Card Holder - Brown",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8575478",
+    "lastOnAirTitle": "MEGA BAG OFFER-100% Genuine Leather Holdall Travel Duffel Bag - Burgundy",
+    "lastOnAirAuctionCode": "0019914425",
     "precedingSku": "8439310",
     "precedingTitle": "LA MAREY SIGNATURE 100% Premium Leather Handbag with Detachable Sling Strap & Card Holder - Brown",
     "precedingAuctionCode": null
