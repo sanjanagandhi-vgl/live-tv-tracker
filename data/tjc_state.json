@@ -468814,14 +468814,21 @@
       "img": true,
       "date": "2026-10-19",
       "time": "11:16:24",
-      "productUrl": null,
-      "lastUpdated": 1792404984125,
-      "source": "gha"
+      "productUrl": "/products/fancy-earring-pure-white-stainless-steel-8742342",
+      "lastUpdated": 1792405040613,
+      "source": "gha",
+      "missedAt": 1792405040613,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1792405042988,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792405040613,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530591,8 +530598,8 @@
     "lastOnAirSku": "8742342",
     "lastOnAirTitle": "Designer Inspired- Chunky Oval Hoop Earring",
     "lastOnAirAuctionCode": "0019915053",
-    "precedingSku": "4528713",
-    "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
-    "precedingAuctionCode": "0019915202"
+    "precedingSku": "8742342",
+    "precedingTitle": "Designer Inspired- Chunky Oval Hoop Earring",
+    "precedingAuctionCode": "0019915053"
   }
 }
