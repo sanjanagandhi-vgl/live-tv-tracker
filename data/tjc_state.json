@@ -420925,21 +420925,26 @@
       "sku": "8797356",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-03",
-      "time": "18:31:19",
+      "date": "2026-10-19",
+      "time": "23:29:18",
       "preExisting": true,
       "missedAt": 1791048679419,
       "missedDelay": null,
-      "lastUpdated": 1791048679419,
+      "lastUpdated": 1792448958044,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
-      "auctionCode": "0019895276",
+      "auctionCode": "0019914897",
       "source": "gha",
       "productUrl": "/products/djoy-natural-white-diamond-i3-g-h-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-0-50-ct-8797355",
       "productUrlChecked": 1791048686804,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792448958044,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4539192": {
       "sku": "4539192",
@@ -469773,8 +469778,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792448901867,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -531957,11 +531962,22 @@
         "followingSku": "8797615",
         "followingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural Earth Mined Diamond (SI-G-H) Ring 1.00 Ct, Platinum Wt. 4.50 Gms",
         "followingAuctionCode": "0019914881"
+      },
+      {
+        "start": 1792448901867,
+        "end": 1792448958044,
+        "durationMin": 0.9,
+        "precedingSku": "8797615",
+        "precedingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural Earth Mined Diamond (SI-G-H) Ring 1.00 Ct...",
+        "precedingAuctionCode": null,
+        "followingSku": "8797356",
+        "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+        "followingAuctionCode": "0019914897"
       }
     ],
-    "lastOnAirSku": "8797615",
-    "lastOnAirTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural Earth Mined Diamond (SI-G-H) Ring 1.00 Ct...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8797356",
+    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+    "lastOnAirAuctionCode": "0019914897",
     "precedingSku": "8797615",
     "precedingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural Earth Mined Diamond (SI-G-H) Ring 1.00 Ct...",
     "precedingAuctionCode": null
