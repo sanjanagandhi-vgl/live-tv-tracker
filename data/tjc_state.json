@@ -468754,11 +468754,49 @@
       "auctionCode": "0019915157",
       "source": "gha",
       "productUrl": null
+    },
+    "4532371": {
+      "sku": "4532371",
+      "firstAir": 1792404327703,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792404327703,
+      "title": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size 17.25)",
+      "pdpPrice": "199.00",
+      "auctionCode": "0019915055",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-19",
+      "time": "11:05:27",
+      "productUrl": null,
+      "lastUpdated": 1792404327703,
+      "source": "gha"
+    },
+    "7172840": {
+      "sku": "7172840",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-19",
+      "time": "11:05:27",
+      "preExisting": true,
+      "missedAt": 1792404327703,
+      "missedDelay": null,
+      "lastUpdated": 1792404327703,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Natural White Diamond Hoop Earrings in Platinum Overlay Sterling Silver",
+      "auctionCode": "0019915203",
+      "source": "gha",
+      "productUrl": "/products/white-diamond-pendant-with-chain-size-20-stainless-steel-0-005-ct-4528713",
+      "productUrlChecked": 1792404330583,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792404261982,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530512,11 +530550,22 @@
         "followingSku": "4528713",
         "followingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
         "followingAuctionCode": "0019915202"
+      },
+      {
+        "start": 1792404261982,
+        "end": 1792404327703,
+        "durationMin": 1.1,
+        "precedingSku": "4528713",
+        "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+        "precedingAuctionCode": "0019915202",
+        "followingSku": "4532371",
+        "followingTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size 17.25)",
+        "followingAuctionCode": "0019915055"
       }
     ],
-    "lastOnAirSku": "4528713",
-    "lastOnAirTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019915202",
+    "lastOnAirSku": "4532371",
+    "lastOnAirTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size 17.25)",
+    "lastOnAirAuctionCode": "0019915055",
     "precedingSku": "4528713",
     "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019915202"
