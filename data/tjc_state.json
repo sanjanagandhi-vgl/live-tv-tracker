@@ -434585,21 +434585,26 @@
       "sku": "8503788",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-07",
-      "time": "19:57:19",
+      "date": "2026-10-19",
+      "time": "07:58:20",
       "preExisting": true,
       "missedAt": 1791399439100,
       "missedDelay": null,
-      "lastUpdated": 1791399439100,
+      "lastUpdated": 1792393100156,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Caramel",
-      "auctionCode": "0019898963",
+      "title": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Dark Blue",
+      "auctionCode": "0019914446",
       "source": "gha",
       "productUrl": "/products/livmore-bamboo-patterned-towel-1458503787",
       "productUrlChecked": 1791399443494,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792393100156,
+      "pdpPrice": "104.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8626884": {
       "sku": "8626884",
@@ -468368,8 +468373,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792393039388,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530035,11 +530040,22 @@
         "followingSku": "8647071",
         "followingTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
         "followingAuctionCode": "0019914462"
+      },
+      {
+        "start": 1792393039388,
+        "end": 1792393100156,
+        "durationMin": 1.0,
+        "precedingSku": "8647071",
+        "precedingTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
+        "precedingAuctionCode": "0019914462",
+        "followingSku": "8503788",
+        "followingTitle": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Dark Blue",
+        "followingAuctionCode": "0019914446"
       }
     ],
-    "lastOnAirSku": "8647071",
-    "lastOnAirTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
-    "lastOnAirAuctionCode": "0019914462",
+    "lastOnAirSku": "8503788",
+    "lastOnAirTitle": "LIVMORE Premium Large Bamboo Bath Sheet (160 x 80cm) - Dark Blue",
+    "lastOnAirAuctionCode": "0019914446",
     "precedingSku": "8647071",
     "precedingTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
     "precedingAuctionCode": "0019914462"
