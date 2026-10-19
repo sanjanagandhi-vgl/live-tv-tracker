@@ -469750,11 +469750,31 @@
       "auctionCode": "0019916007",
       "source": "gha",
       "productUrl": null
+    },
+    "8797668": {
+      "sku": "8797668",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-19",
+      "time": "23:28:21",
+      "preExisting": true,
+      "missedAt": 1792448901867,
+      "missedDelay": null,
+      "lastUpdated": 1792448901867,
+      "missedPrice": 1479.99,
+      "missedImg": true,
+      "title": "The Tokyo Treasure - 950 Platinum SGL Certified Natural Earth Mined Diamond (SI-G-H) Ring 1.00 Ct, Platinum Wt. 4.50 Gms",
+      "auctionCode": "0019914884",
+      "source": "gha",
+      "productUrl": "/products/950-platinum-sgl-certified-natural-white-diamond-si-g-h-ring-1-00-ct-platinum-wt-4-50-gms-8797615",
+      "productUrlChecked": 1792448907916,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792448901867,
     "gaps": [
       {
         "start": 1785823527869,
@@ -531942,8 +531962,8 @@
     "lastOnAirSku": "8797615",
     "lastOnAirTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural Earth Mined Diamond (SI-G-H) Ring 1.00 Ct...",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8777212",
-    "precedingTitle": "9K Yellow Gold Earth Mined White Diamond Circle Pendant 0.25 Ct.",
-    "precedingAuctionCode": "0019914878"
+    "precedingSku": "8797615",
+    "precedingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural Earth Mined Diamond (SI-G-H) Ring 1.00 Ct...",
+    "precedingAuctionCode": null
   }
 }
