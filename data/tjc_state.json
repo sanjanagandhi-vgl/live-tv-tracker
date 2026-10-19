@@ -416583,17 +416583,17 @@
       "firstAir": 1790943634092,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791948797541,
+      "lastAir": 1792404081107,
       "title": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019907633",
+      "pdpPrice": "199.00",
+      "auctionCode": "0019915202",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-14",
-      "time": "04:33:17",
+      "date": "2026-10-19",
+      "time": "11:01:21",
       "productUrl": "/products/white-diamond-pendant-with-chain-size-20-stainless-steel-0-005-ct-4528713?variant=53807629959434",
-      "lastUpdated": 1791948797541,
+      "lastUpdated": 1792404081107,
       "source": "gha",
       "productUrlChecked": 1790944704241,
       "productUrlStatus": 200,
@@ -468757,8 +468757,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792404066742,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530501,11 +530501,22 @@
         "followingSku": "4462494",
         "followingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
         "followingAuctionCode": "0019915042"
+      },
+      {
+        "start": 1792404066742,
+        "end": 1792404081107,
+        "durationMin": 0.2,
+        "precedingSku": "4462494",
+        "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+        "precedingAuctionCode": "0019915042",
+        "followingSku": "4528713",
+        "followingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+        "followingAuctionCode": "0019915202"
       }
     ],
-    "lastOnAirSku": "4462494",
+    "lastOnAirSku": "4528713",
     "lastOnAirTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019915042",
+    "lastOnAirAuctionCode": "0019915202",
     "precedingSku": "4462494",
     "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019915042"
