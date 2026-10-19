@@ -468355,14 +468355,21 @@
       "img": true,
       "date": "2026-10-19",
       "time": "07:49:19",
-      "productUrl": null,
-      "lastUpdated": 1792392559339,
-      "source": "gha"
+      "productUrl": "/products/tech-accessories-size-3x23-cm-white-8711713",
+      "lastUpdated": 1792392637944,
+      "source": "gha",
+      "missedAt": 1792392637944,
+      "missedDelay": 1,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "productUrlChecked": 1792392643970,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792392637944,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530022,8 +530029,8 @@
     "lastOnAirSku": "8711713",
     "lastOnAirTitle": "Night Light Projector with 4 Image Slides - White",
     "lastOnAirAuctionCode": "0019914353",
-    "precedingSku": "8811407",
-    "precedingTitle": "Interactive Musical Dancing Christmas Toy with Santa Hat (23cm) - Capybara",
-    "precedingAuctionCode": "0019914435"
+    "precedingSku": "8711713",
+    "precedingTitle": "Night Light Projector with 4 Image Slides - White",
+    "precedingAuctionCode": "0019914353"
   }
 }
