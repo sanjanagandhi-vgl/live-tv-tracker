@@ -57791,17 +57791,17 @@
       "firstAir": 1785667534069,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790453597933,
+      "lastAir": 1792382839022,
       "title": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
       "pdpPrice": "99.99",
-      "auctionCode": "0019885417",
+      "auctionCode": "0019914015",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-26",
-      "time": "21:13:17",
+      "date": "2026-10-19",
+      "time": "05:07:19",
       "productUrl": "/products/9k-yellow-gold-earring-with-clasp-8597035?variant=53296873832714",
-      "lastUpdated": 1790453597933,
+      "lastUpdated": 1792382839022,
       "source": "gha",
       "missedAt": 1785668541967,
       "missedDelay": 10,
@@ -468283,8 +468283,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792382780274,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -529840,11 +529840,22 @@
         "followingSku": "8556615",
         "followingTitle": "9K Yellow Gold Ball Stud Earrings",
         "followingAuctionCode": "0019914008"
+      },
+      {
+        "start": 1792382780274,
+        "end": 1792382839022,
+        "durationMin": 1.0,
+        "precedingSku": "7988084",
+        "precedingTitle": "9K Yellow Gold Heart Pendant",
+        "precedingAuctionCode": "0019914013",
+        "followingSku": "8597035",
+        "followingTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+        "followingAuctionCode": "0019914015"
       }
     ],
-    "lastOnAirSku": "7988084",
-    "lastOnAirTitle": "9K Yellow Gold Heart Pendant",
-    "lastOnAirAuctionCode": "0019914013",
+    "lastOnAirSku": "8597035",
+    "lastOnAirTitle": "Maestro Collection - 9K Yellow Gold Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019914015",
     "precedingSku": "7988084",
     "precedingTitle": "9K Yellow Gold Heart Pendant",
     "precedingAuctionCode": "0019914013"
