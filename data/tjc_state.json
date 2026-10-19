@@ -339326,23 +339326,23 @@
       "sku": "8579795",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-17",
-      "time": "08:53:17",
+      "date": "2026-10-19",
+      "time": "05:47:16",
       "preExisting": true,
       "missedAt": 1789246401919,
       "missedDelay": null,
-      "lastUpdated": 1792223597192,
+      "lastUpdated": 1792385236421,
       "missedPrice": 899.99,
       "missedImg": true,
-      "title": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp, Gold Wt. 6.00 Gms",
-      "auctionCode": null,
+      "title": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp",
+      "auctionCode": "0019914020",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-necklace-size-20-gold-wt-6-00-gms-8579795?variant=53583062532362",
       "productUrlChecked": 1789246406203,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792223597192,
-      "pdpPrice": 749.99,
+      "lastAir": 1792385236421,
+      "pdpPrice": "799.99",
       "buy": true,
       "login": false,
       "img": true
@@ -468288,8 +468288,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792385136050,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -529878,11 +529878,22 @@
         "followingSku": "8564413",
         "followingTitle": "THE BALI TREASURE - 9K Yellow Gold Handmade Tirta Naga Bracelet (Size - 7.5) with Clasp",
         "followingAuctionCode": "0019914021"
+      },
+      {
+        "start": 1792385136050,
+        "end": 1792385236421,
+        "durationMin": 1.7,
+        "precedingSku": "8564413",
+        "precedingTitle": "THE BALI TREASURE - 9K Yellow Gold Handmade Tirta Naga Bracelet (Size - 7.5) with Clasp",
+        "precedingAuctionCode": "0019914021",
+        "followingSku": "8579795",
+        "followingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019914020"
       }
     ],
-    "lastOnAirSku": "8564413",
-    "lastOnAirTitle": "THE BALI TREASURE - 9K Yellow Gold Handmade Tirta Naga Bracelet (Size - 7.5) with Clasp",
-    "lastOnAirAuctionCode": "0019914021",
+    "lastOnAirSku": "8579795",
+    "lastOnAirTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019914020",
     "precedingSku": "8564413",
     "precedingTitle": "THE BALI TREASURE - 9K Yellow Gold Handmade Tirta Naga Bracelet (Size - 7.5) with Clasp",
     "precedingAuctionCode": "0019914021"
