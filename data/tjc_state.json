@@ -468846,11 +468846,29 @@
       "auctionCode": "0019915222",
       "source": "gha",
       "productUrl": null
+    },
+    "8584658": {
+      "sku": "8584658",
+      "firstAir": 1792408343892,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792408343892,
+      "title": "Pure And Natural Round Neck Sparkling Top (Size L, 16-18) - Red & White",
+      "pdpPrice": "239.99",
+      "auctionCode": "0019913241",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-19",
+      "time": "12:12:23",
+      "productUrl": null,
+      "lastUpdated": 1792408343892,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792408101269,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530659,11 +530677,22 @@
         "followingSku": "8604079",
         "followingTitle": "Luxuriant - Blue Sapphire & Lab Grown Diamond (SI/G-H) Halo Ring in Rhodium Overlay Sterling Silver 8.25 Ct.",
         "followingAuctionCode": "0019915101"
+      },
+      {
+        "start": 1792408101269,
+        "end": 1792408343892,
+        "durationMin": 4.0,
+        "precedingSku": "8604079",
+        "precedingTitle": "Luxuriant - Blue Sapphire & Lab Grown Diamond (SI/G-H) Halo Ring in Rhodium Overlay Sterling Silv...",
+        "precedingAuctionCode": null,
+        "followingSku": "8584658",
+        "followingTitle": "Pure And Natural Round Neck Sparkling Top (Size L, 16-18) - Red & White",
+        "followingAuctionCode": "0019913241"
       }
     ],
-    "lastOnAirSku": "8604079",
-    "lastOnAirTitle": "Luxuriant - Blue Sapphire & Lab Grown Diamond (SI/G-H) Halo Ring in Rhodium Overlay Sterling Silv...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8584658",
+    "lastOnAirTitle": "Pure And Natural Round Neck Sparkling Top (Size L, 16-18) - Red & White",
+    "lastOnAirAuctionCode": "0019913241",
     "precedingSku": "8604079",
     "precedingTitle": "Luxuriant - Blue Sapphire & Lab Grown Diamond (SI/G-H) Halo Ring in Rhodium Overlay Sterling Silv...",
     "precedingAuctionCode": null
