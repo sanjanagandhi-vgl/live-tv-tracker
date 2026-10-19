@@ -377027,21 +377027,26 @@
       "sku": "3341900",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-21",
-      "time": "01:35:28",
+      "date": "2026-10-19",
+      "time": "10:08:21",
       "preExisting": true,
       "missedAt": 1789950928060,
       "missedDelay": null,
-      "lastUpdated": 1789950928060,
+      "lastUpdated": 1792400901588,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "D'Joy - African Ruby (FF) Solitaire Stud Earrings with Lever Back in Platinum Overlay Sterling Silver 3.90 Ct.",
-      "auctionCode": "0019879210",
+      "title": "D'Joy - African Ruby Solitaire Stud Earrings with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 3.90 Ct.",
+      "auctionCode": "0019914733",
       "source": "gha",
       "productUrl": "/products/african-ruby-earrings-with-lever-back-in-18k-vermeil-yellow-gold-plated-sterling-silver-4-13-ct",
       "productUrlChecked": 1789950932112,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792400901588,
+      "pdpPrice": "349.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8483162": {
       "sku": "8483162",
@@ -468619,8 +468624,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792400732057,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530319,11 +530324,22 @@
         "followingSku": "8636598",
         "followingTitle": "La Marey Tassel Fringe Knit Shawl (One Size UK 8-20) - Khaki",
         "followingAuctionCode": "0019913251"
+      },
+      {
+        "start": 1792400732057,
+        "end": 1792400901588,
+        "durationMin": 2.8,
+        "precedingSku": "8684012",
+        "precedingTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
+        "precedingAuctionCode": "0019914387",
+        "followingSku": "3341900",
+        "followingTitle": "D'Joy - African Ruby Solitaire Stud Earrings with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 3.90 Ct.",
+        "followingAuctionCode": "0019914733"
       }
     ],
-    "lastOnAirSku": "8684012",
-    "lastOnAirTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
-    "lastOnAirAuctionCode": "0019914387",
+    "lastOnAirSku": "3341900",
+    "lastOnAirTitle": "D'Joy - African Ruby Solitaire Stud Earrings with Lever Back in 18K Vermeil Yellow Gold Plated Sterling Silver 3.90 Ct.",
+    "lastOnAirAuctionCode": "0019914733",
     "precedingSku": "8684012",
     "precedingTitle": "La Marey Viscose Blend Womens Printed Scarf with Fringed Border (180 x 65cm) - Grey",
     "precedingAuctionCode": "0019914387"
