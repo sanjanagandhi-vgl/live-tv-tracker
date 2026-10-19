@@ -238200,21 +238200,26 @@
       "sku": "8708652",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-24",
-      "time": "20:32:22",
+      "date": "2026-10-19",
+      "time": "03:16:21",
       "preExisting": true,
       "missedAt": 1787599942721,
       "missedDelay": null,
-      "lastUpdated": 1787599942721,
+      "lastUpdated": 1792376181606,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
-      "auctionCode": "0019839785",
+      "auctionCode": "0019913974",
       "source": "gha",
       "productUrl": "/products/william-hunt-watch-pure-white-stainless-steel-8708652",
       "productUrlChecked": 1787599955157,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792376181606,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8697705": {
       "sku": "8697705",
@@ -468134,8 +468139,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792376134199,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -529636,11 +529641,22 @@
         "followingSku": "8676922",
         "followingTitle": "Aviator F Series Luxe Worldmap Watch With World Timer Function, Luminescent Markers, 3 ATM Water Resistancy & Genuine Leather Strap - 2 Year Warranty",
         "followingAuctionCode": "0019913980"
+      },
+      {
+        "start": 1792376134199,
+        "end": 1792376181606,
+        "durationMin": 0.8,
+        "precedingSku": "8252846",
+        "precedingTitle": "WILLIAM HUNT Limited Edition Heritage Automatic Watch with Adjustable Black Leather Strap - 5ATM Water Resistancy & Sapphire Crystal Glass - Gold",
+        "precedingAuctionCode": "0019913973",
+        "followingSku": "8708652",
+        "followingTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
+        "followingAuctionCode": "0019913974"
       }
     ],
-    "lastOnAirSku": "8252846",
-    "lastOnAirTitle": "WILLIAM HUNT Limited Edition Heritage Automatic Watch with Adjustable Black Leather Strap - 5ATM Water Resistancy & Sapphire Crystal Glass - Gold",
-    "lastOnAirAuctionCode": "0019913973",
+    "lastOnAirSku": "8708652",
+    "lastOnAirTitle": "William Hunt Limited Edition Celestial Constellation Automatic Movt Watch With Rotating Globe 3ATM Water Resistancy Presented in a Gift Box - Green",
+    "lastOnAirAuctionCode": "0019913974",
     "precedingSku": "8252846",
     "precedingTitle": "WILLIAM HUNT Limited Edition Heritage Automatic Watch with Adjustable Black Leather Strap - 5ATM Water Resistancy & Sapphire Crystal Glass - Gold",
     "precedingAuctionCode": "0019913973"
