@@ -459473,18 +459473,23 @@
       "sku": "8618619",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-15",
-      "time": "10:05:27",
+      "date": "2026-10-19",
+      "time": "18:14:22",
       "preExisting": true,
       "missedAt": 1792055127624,
       "missedDelay": null,
-      "lastUpdated": 1792055127624,
+      "lastUpdated": 1792430062738,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "Biggest Pearl Deal 2026- High Luster White Fresh Water Pearl Stud Ball Earring with Push Back",
-      "auctionCode": "0019909306",
+      "title": "Biggest Pearl Deal 2026- High Lustre White Fresh Water Pearl Stud Ball Earring with Push Back",
+      "auctionCode": "0019914708",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792430062738,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7993172": {
       "sku": "7993172",
@@ -469660,8 +469665,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792429838253,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -531646,11 +531651,22 @@
         "followingSku": "8765528",
         "followingTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019916010"
+      },
+      {
+        "start": 1792429838253,
+        "end": 1792430062738,
+        "durationMin": 3.7,
+        "precedingSku": "8765528",
+        "precedingTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
+        "precedingAuctionCode": "0019916010",
+        "followingSku": "8618619",
+        "followingTitle": "Biggest Pearl Deal 2026- High Lustre White Fresh Water Pearl Stud Ball Earring with Push Back",
+        "followingAuctionCode": "0019914708"
       }
     ],
-    "lastOnAirSku": "8765528",
-    "lastOnAirTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019916010",
+    "lastOnAirSku": "8618619",
+    "lastOnAirTitle": "Biggest Pearl Deal 2026- High Lustre White Fresh Water Pearl Stud Ball Earring with Push Back",
+    "lastOnAirAuctionCode": "0019914708",
     "precedingSku": "8765528",
     "precedingTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
     "precedingAuctionCode": "0019916010"
