@@ -468770,11 +468770,15 @@
       "date": "2026-10-19",
       "time": "11:11:20",
       "productUrl": "/products/multi-color-cubic-zirconia-pendant-with-chain-size-17-25-pure-white-brass-5-000-ct-4532371?variant=53934539014410",
-      "lastUpdated": 1792404680442,
+      "lastUpdated": 1792404745194,
       "source": "gha",
       "productUrlChecked": 1792404683643,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792404745194,
+      "missedDelay": 1,
+      "missedPrice": 7.99,
+      "missedImg": true
     },
     "7172840": {
       "sku": "7172840",
@@ -468795,6 +468799,24 @@
       "productUrlChecked": 1792404330583,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8742342": {
+      "sku": "8742342",
+      "firstAir": 1792404745194,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792404745194,
+      "title": "Designer Inspired- Chunky Oval Hoop Earring",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019915053",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-19",
+      "time": "11:12:25",
+      "productUrl": null,
+      "lastUpdated": 1792404745194,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -530566,9 +530588,9 @@
         "followingAuctionCode": "0019915055"
       }
     ],
-    "lastOnAirSku": "4532371",
-    "lastOnAirTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size 17.25)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8742342",
+    "lastOnAirTitle": "Designer Inspired- Chunky Oval Hoop Earring",
+    "lastOnAirAuctionCode": "0019915053",
     "precedingSku": "4528713",
     "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019915202"
