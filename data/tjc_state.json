@@ -469549,8 +469549,12 @@
       "date": "2026-10-19",
       "time": "18:09:18",
       "productUrl": null,
-      "lastUpdated": 1792429758757,
-      "source": "gha"
+      "lastUpdated": 1792429838253,
+      "source": "gha",
+      "missedAt": 1792429838253,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8765527": {
       "sku": "8765527",
@@ -469602,11 +469606,62 @@
       "auctionCode": "0019916019",
       "source": "gha",
       "productUrl": null
+    },
+    "8765543": {
+      "sku": "8765543",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-19",
+      "time": "18:10:38",
+      "preExisting": true,
+      "missedAt": 1792429838253,
+      "missedDelay": null,
+      "lastUpdated": 1792429838253,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Lapis Lazuli Plum Blossom Bracelet (Size - 7.5)",
+      "auctionCode": "0019916013",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8765531": {
+      "sku": "8765531",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-19",
+      "time": "18:10:38",
+      "preExisting": true,
+      "missedAt": 1792429838253,
+      "missedDelay": null,
+      "lastUpdated": 1792429838253,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "African Amethyst Plum Blossom Bracelet (Size - 7.5)",
+      "auctionCode": "0019916012",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8765529": {
+      "sku": "8765529",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-19",
+      "time": "18:10:38",
+      "preExisting": true,
+      "missedAt": 1792429838253,
+      "missedDelay": null,
+      "lastUpdated": 1792429838253,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Black Dyed Agate Plum Blossom Bracelet (Size - 7.5)",
+      "auctionCode": "0019916011",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792429838253,
     "gaps": [
       {
         "start": 1785823527869,
@@ -531596,8 +531651,8 @@
     "lastOnAirSku": "8765528",
     "lastOnAirTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
     "lastOnAirAuctionCode": "0019916010",
-    "precedingSku": "8765416",
-    "precedingTitle": "Close Out Deal- Created Malachite Plum Blossom Necklace (Size - 20)",
-    "precedingAuctionCode": "0019916018"
+    "precedingSku": "8765528",
+    "precedingTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
+    "precedingAuctionCode": "0019916010"
   }
 }
