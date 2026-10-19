@@ -435665,21 +435665,26 @@
       "sku": "8696942",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-08",
-      "time": "11:33:19",
+      "date": "2026-10-19",
+      "time": "06:12:22",
       "preExisting": true,
       "missedAt": 1791455599318,
       "missedDelay": null,
-      "lastUpdated": 1791455599318,
+      "lastUpdated": 1792386742032,
       "missedPrice": 6.99,
       "missedImg": true,
-      "title": "Genuine Leather Passport Holder Travel Cover (14 x 10cm) - Burgundy",
-      "auctionCode": "0019899701",
+      "title": "Genuine Leather Passport Holder Travel Cover (14 x 10cm) - Navy",
+      "auctionCode": "0019914524",
       "source": "gha",
       "productUrl": "/products/leather-patterned-passport-holder-size-14x10x1-cm-dark-blue-8696939",
       "productUrlChecked": 1791455602801,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792386742032,
+      "pdpPrice": "5.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8696941": {
       "sku": "8696941",
@@ -468313,8 +468318,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792386678545,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -529914,11 +529919,22 @@
         "followingSku": "8579795",
         "followingTitle": "9K Yellow Gold Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019914020"
+      },
+      {
+        "start": 1792386678545,
+        "end": 1792386742032,
+        "durationMin": 1.1,
+        "precedingSku": "8354262",
+        "precedingTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
+        "precedingAuctionCode": "0019914510",
+        "followingSku": "8696942",
+        "followingTitle": "Genuine Leather Passport Holder Travel Cover (14 x 10cm) - Navy",
+        "followingAuctionCode": "0019914524"
       }
     ],
-    "lastOnAirSku": "8354262",
-    "lastOnAirTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
-    "lastOnAirAuctionCode": "0019914510",
+    "lastOnAirSku": "8696942",
+    "lastOnAirTitle": "Genuine Leather Passport Holder Travel Cover (14 x 10cm) - Navy",
+    "lastOnAirAuctionCode": "0019914524",
     "precedingSku": "8354262",
     "precedingTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
     "precedingAuctionCode": "0019914510"
