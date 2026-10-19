@@ -469021,11 +469021,29 @@
       "auctionCode": "0019913264",
       "source": "gha",
       "productUrl": null
+    },
+    "8583269": {
+      "sku": "8583269",
+      "firstAir": 1792411716711,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792411716711,
+      "title": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019913203",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-19",
+      "time": "13:08:36",
+      "productUrl": null,
+      "lastUpdated": 1792411716711,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792411461432,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -530867,11 +530885,22 @@
         "followingSku": "8512561",
         "followingTitle": "Emreco Short Formal Single Breasted Coat (Size 12) - Midnight",
         "followingAuctionCode": "0019915172"
+      },
+      {
+        "start": 1792411461432,
+        "end": 1792411716711,
+        "durationMin": 4.3,
+        "precedingSku": "8502657",
+        "precedingTitle": "Misumi 100% Cotton Double Layer Blouse With Matching Scarf (One Size, Fit  8 To 18 - Stone",
+        "precedingAuctionCode": "0019913740",
+        "followingSku": "8583269",
+        "followingTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
+        "followingAuctionCode": "0019913203"
       }
     ],
-    "lastOnAirSku": "8502657",
-    "lastOnAirTitle": "Misumi 100% Cotton Double Layer Blouse With Matching Scarf (One Size, Fit  8 To 18 - Stone",
-    "lastOnAirAuctionCode": "0019913740",
+    "lastOnAirSku": "8583269",
+    "lastOnAirTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
+    "lastOnAirAuctionCode": "0019913203",
     "precedingSku": "8502657",
     "precedingTitle": "Misumi 100% Cotton Double Layer Blouse With Matching Scarf (One Size, Fit  8 To 18 - Stone",
     "precedingAuctionCode": "0019913740"
