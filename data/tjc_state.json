@@ -267644,21 +267644,26 @@
       "sku": "8549122",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-29",
-      "time": "10:14:22",
+      "date": "2026-10-19",
+      "time": "20:12:24",
       "preExisting": true,
       "missedAt": 1787994862708,
       "missedDelay": null,
-      "lastUpdated": 1787994862708,
+      "lastUpdated": 1792437144043,
       "missedPrice": 399.99,
       "missedImg": true,
       "title": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Brown Leather Strap",
-      "auctionCode": "0019849409",
+      "auctionCode": "0019915561",
       "source": "gha",
       "productUrl": "/products/william-hunt-dragon-skeleton-miyota-6t15-automatic-mechanical-japan-movement-5atm-wr-mop-dragon-emboss-dial-ips-plating-316-stainless-steel-case-mens-watch-with-leather-strap-2968548683",
       "productUrlChecked": 1787994865628,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792437144043,
+      "pdpPrice": "1299.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8611230": {
       "sku": "8611230",
@@ -469738,8 +469743,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792436727077,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -531812,11 +531817,22 @@
         "followingSku": "7826458",
         "followingTitle": "Beyond Bliss Corded (4m) 2-in1 Vacuum Cleaner (0.6L Dust Tank Capacity) 400W, 65db",
         "followingAuctionCode": "0019914580"
+      },
+      {
+        "start": 1792436727077,
+        "end": 1792437144043,
+        "durationMin": 6.9,
+        "precedingSku": "7826458",
+        "precedingTitle": "Beyond Bliss Corded (4m) 2-in1 Vacuum Cleaner (0.6L Dust Tank Capacity) 400W, 65db",
+        "precedingAuctionCode": "0019914580",
+        "followingSku": "8549122",
+        "followingTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Brown Leather Strap",
+        "followingAuctionCode": "0019915561"
       }
     ],
-    "lastOnAirSku": "7826458",
-    "lastOnAirTitle": "Beyond Bliss Corded (4m) 2-in1 Vacuum Cleaner (0.6L Dust Tank Capacity) 400W, 65db",
-    "lastOnAirAuctionCode": "0019914580",
+    "lastOnAirSku": "8549122",
+    "lastOnAirTitle": "Exclusive William Hunt Automatic Watch With Lapis Lazuli Rotating Day & Night Sphere, Blue Sandstone and MOP Dial & 24K Gold Plated Dragons 5ATM WR with Brown Leather Strap",
+    "lastOnAirAuctionCode": "0019915561",
     "precedingSku": "7826458",
     "precedingTitle": "Beyond Bliss Corded (4m) 2-in1 Vacuum Cleaner (0.6L Dust Tank Capacity) 400W, 65db",
     "precedingAuctionCode": "0019914580"
