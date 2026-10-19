@@ -469662,11 +469662,29 @@
       "auctionCode": "0019916011",
       "source": "gha",
       "productUrl": null
+    },
+    "8821690": {
+      "sku": "8821690",
+      "firstAir": 1792431331954,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792431331954,
+      "title": "QED London  Scarf (Size - One Size) - Ivory Gray",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019915555",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-19",
+      "time": "18:35:31",
+      "productUrl": null,
+      "lastUpdated": 1792431331954,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792431263086,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -531673,11 +531691,22 @@
         "followingSku": "8721943",
         "followingTitle": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- Yellow",
         "followingAuctionCode": "0019914717"
+      },
+      {
+        "start": 1792431263086,
+        "end": 1792431331954,
+        "durationMin": 1.1,
+        "precedingSku": "8721943",
+        "precedingTitle": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- Yellow",
+        "precedingAuctionCode": "0019914717",
+        "followingSku": "8821690",
+        "followingTitle": "QED London  Scarf (Size - One Size) - Ivory Gray",
+        "followingAuctionCode": "0019915555"
       }
     ],
-    "lastOnAirSku": "8721943",
-    "lastOnAirTitle": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- Yellow",
-    "lastOnAirAuctionCode": "0019914717",
+    "lastOnAirSku": "8821690",
+    "lastOnAirTitle": "QED London  Scarf (Size - One Size) - Ivory Gray",
+    "lastOnAirAuctionCode": "0019915555",
     "precedingSku": "8721943",
     "precedingTitle": "Designer Inspired- Japan Movement Water Resistant Industrial Link Watch- Yellow",
     "precedingAuctionCode": "0019914717"
