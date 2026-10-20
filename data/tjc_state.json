@@ -470308,14 +470308,21 @@
       "img": true,
       "date": "2026-10-20",
       "time": "10:31:17",
-      "productUrl": null,
-      "lastUpdated": 1792488677947,
-      "source": "gha"
+      "productUrl": "/products/livmore-decorative-plush-sloth-door-stopper-20x16x20-cm-grey-1668481571",
+      "lastUpdated": 1792488742113,
+      "source": "gha",
+      "missedAt": 1792488742113,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1792488747560,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792488742113,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532954,8 +532961,8 @@
     "lastOnAirSku": "8481571",
     "lastOnAirTitle": "LIVMORE Decorative Plush Dog Door Stopper (22x18x19 cm) - Black",
     "lastOnAirAuctionCode": "0019915907",
-    "precedingSku": "8811408",
-    "precedingTitle": "Interactive Musical Dancing Christmas Toy with Santa Hat (23cm) - Capybara",
-    "precedingAuctionCode": null
+    "precedingSku": "8481571",
+    "precedingTitle": "LIVMORE Decorative Plush Dog Door Stopper (22x18x19 cm) - Black",
+    "precedingAuctionCode": "0019915907"
   }
 }
