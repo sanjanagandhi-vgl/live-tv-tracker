@@ -470293,11 +470293,29 @@
       "missedDelay": 2,
       "missedPrice": 69.99,
       "missedImg": false
+    },
+    "8481571": {
+      "sku": "8481571",
+      "firstAir": 1792488198286,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792488198286,
+      "title": "LIVMORE Decorative Plush Dog Door Stopper (22x18x19 cm) - Black",
+      "pdpPrice": "159.99",
+      "auctionCode": "0019915907",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "10:23:18",
+      "productUrl": null,
+      "lastUpdated": 1792488198286,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792488141304,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532920,11 +532938,22 @@
         "followingSku": "8667857",
         "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
         "followingAuctionCode": "0019915912"
+      },
+      {
+        "start": 1792488141304,
+        "end": 1792488198286,
+        "durationMin": 0.9,
+        "precedingSku": "8811408",
+        "precedingTitle": "Interactive Musical Dancing Christmas Toy with Santa Hat (23cm) - Capybara",
+        "precedingAuctionCode": null,
+        "followingSku": "8481571",
+        "followingTitle": "LIVMORE Decorative Plush Dog Door Stopper (22x18x19 cm) - Black",
+        "followingAuctionCode": "0019915907"
       }
     ],
-    "lastOnAirSku": "8811408",
-    "lastOnAirTitle": "Interactive Musical Dancing Christmas Toy with Santa Hat (23cm) - Capybara",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8481571",
+    "lastOnAirTitle": "LIVMORE Decorative Plush Dog Door Stopper (22x18x19 cm) - Black",
+    "lastOnAirAuctionCode": "0019915907",
     "precedingSku": "8811408",
     "precedingTitle": "Interactive Musical Dancing Christmas Toy with Santa Hat (23cm) - Capybara",
     "precedingAuctionCode": null
