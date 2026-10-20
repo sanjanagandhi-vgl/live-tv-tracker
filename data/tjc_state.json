@@ -22570,19 +22570,19 @@
       "sku": "8247224",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-15",
-      "time": "07:42:20",
+      "date": "2026-10-20",
+      "time": "14:46:23",
       "preExisting": true,
       "missedAt": 1785322999134,
       "missedDelay": null,
-      "lastUpdated": 1792046540548,
+      "lastUpdated": 1792503983508,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "La Marey Pearl Detail Velvet Blouse (Size - L/XL, 16/20) - Dark Purple",
-      "auctionCode": "0019909411",
+      "auctionCode": "0019916120",
       "source": "gha",
-      "lastAir": 1792046540548,
-      "pdpPrice": "15.99",
+      "lastAir": 1792503983508,
+      "pdpPrice": "117.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -470609,8 +470609,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792503936841,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -533343,11 +533343,22 @@
         "followingSku": "8625990",
         "followingTitle": "La Marey Womens Contour Luxe Knitted Poncho Cape (One Size, 8-20) - Black",
         "followingAuctionCode": "0019916107"
+      },
+      {
+        "start": 1792503936841,
+        "end": 1792503983508,
+        "durationMin": 0.8,
+        "precedingSku": "8682759",
+        "precedingTitle": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - S, 8-10) - Black",
+        "precedingAuctionCode": "0019916226",
+        "followingSku": "8247224",
+        "followingTitle": "La Marey Pearl Detail Velvet Blouse (Size - L/XL, 16/20) - Dark Purple",
+        "followingAuctionCode": "0019916120"
       }
     ],
-    "lastOnAirSku": "8682759",
-    "lastOnAirTitle": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - S, 8-10) - Black",
-    "lastOnAirAuctionCode": "0019916226",
+    "lastOnAirSku": "8247224",
+    "lastOnAirTitle": "La Marey Pearl Detail Velvet Blouse (Size - L/XL, 16/20) - Dark Purple",
+    "lastOnAirAuctionCode": "0019916120",
     "precedingSku": "8682759",
     "precedingTitle": "La Marey Women's Elastic Waist Straight Leg Trousers (Size - S, 8-10) - Black",
     "precedingAuctionCode": "0019916226"
