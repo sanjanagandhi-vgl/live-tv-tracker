@@ -470042,14 +470042,39 @@
       "img": true,
       "date": "2026-10-20",
       "time": "02:39:18",
+      "productUrl": "/products/mens-solid-puffer-jacket",
+      "lastUpdated": 1792460489643,
+      "source": "gha",
+      "missedAt": 1792460489643,
+      "missedDelay": 2,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1792460493432,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "7712782": {
+      "sku": "7712782",
+      "firstAir": 1792460489643,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792460489643,
+      "title": "Orange Puffer Jacket - Size L",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019915311",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "02:41:29",
       "productUrl": null,
-      "lastUpdated": 1792460358094,
+      "lastUpdated": 1792460489643,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792460435564,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532419,11 +532444,22 @@
         "followingSku": "8696946",
         "followingTitle": "Genuine Leather Passport Holder Travel Cover (14 x 10cm) - Navy",
         "followingAuctionCode": "0019915318"
+      },
+      {
+        "start": 1792460435564,
+        "end": 1792460489643,
+        "durationMin": 0.9,
+        "precedingSku": "7712787",
+        "precedingTitle": "Orange Puffer Jacket - Size L",
+        "precedingAuctionCode": "0019915310",
+        "followingSku": "7712782",
+        "followingTitle": "Orange Puffer Jacket - Size L",
+        "followingAuctionCode": "0019915311"
       }
     ],
-    "lastOnAirSku": "7712787",
+    "lastOnAirSku": "7712782",
     "lastOnAirTitle": "Orange Puffer Jacket - Size L",
-    "lastOnAirAuctionCode": "0019915310",
+    "lastOnAirAuctionCode": "0019915311",
     "precedingSku": "7712787",
     "precedingTitle": "Orange Puffer Jacket - Size L",
     "precedingAuctionCode": "0019915310"
