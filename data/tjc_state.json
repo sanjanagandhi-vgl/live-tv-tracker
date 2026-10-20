@@ -470609,11 +470609,29 @@
       "auctionCode": "0019916946",
       "source": "gha",
       "productUrl": null
+    },
+    "8830082": {
+      "sku": "8830082",
+      "firstAir": 1792504526762,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792504526762,
+      "title": "La Marey  Jumper (Size - 20) - Pink",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019915500",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "14:55:26",
+      "productUrl": null,
+      "lastUpdated": 1792504526762,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792504463688,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -533357,11 +533375,22 @@
         "followingSku": "8247224",
         "followingTitle": "La Marey Pearl Detail Velvet Blouse (Size - L/XL, 16/20) - Dark Purple",
         "followingAuctionCode": "0019916120"
+      },
+      {
+        "start": 1792504463688,
+        "end": 1792504526762,
+        "durationMin": 1.1,
+        "precedingSku": "8247224",
+        "precedingTitle": "La Marey Pearl Detail Velvet Blouse (Size - L/XL, 16/20) - Dark Purple",
+        "precedingAuctionCode": null,
+        "followingSku": "8830082",
+        "followingTitle": "La Marey  Jumper (Size - 20) - Pink",
+        "followingAuctionCode": "0019915500"
       }
     ],
-    "lastOnAirSku": "8247224",
-    "lastOnAirTitle": "La Marey Pearl Detail Velvet Blouse (Size - L/XL, 16/20) - Dark Purple",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8830082",
+    "lastOnAirTitle": "La Marey  Jumper (Size - 20) - Pink",
+    "lastOnAirAuctionCode": "0019915500",
     "precedingSku": "8247224",
     "precedingTitle": "La Marey Pearl Detail Velvet Blouse (Size - L/XL, 16/20) - Dark Purple",
     "precedingAuctionCode": null
