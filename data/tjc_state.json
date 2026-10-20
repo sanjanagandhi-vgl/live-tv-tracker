@@ -471147,11 +471147,29 @@
       "auctionCode": "0019915540",
       "source": "gha",
       "productUrl": null
+    },
+    "8085866": {
+      "sku": "8085866",
+      "firstAir": 1792506863774,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792506863774,
+      "title": "La Marey Classic Denim Shirt (Size L) - Light Denim",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019916116",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "15:34:23",
+      "productUrl": null,
+      "lastUpdated": 1792506863774,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792506801123,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -533939,11 +533957,22 @@
         "followingSku": "8586248",
         "followingTitle": "Pure And Natural Womens Elastic Waist Wide Leg Textured Jersey Trousers with Mock Tie (Size L, 16-18) - Chocolate",
         "followingAuctionCode": "0019917617"
+      },
+      {
+        "start": 1792506801123,
+        "end": 1792506863774,
+        "durationMin": 1.0,
+        "precedingSku": "8586248",
+        "precedingTitle": "Pure And Natural Womens Elastic Waist Wide Leg Textured Jersey Trousers with Mock Tie (Size L, 16-18) - Chocolate",
+        "precedingAuctionCode": "0019917617",
+        "followingSku": "8085866",
+        "followingTitle": "La Marey Classic Denim Shirt (Size L) - Light Denim",
+        "followingAuctionCode": "0019916116"
       }
     ],
-    "lastOnAirSku": "8586248",
-    "lastOnAirTitle": "Pure And Natural Womens Elastic Waist Wide Leg Textured Jersey Trousers with Mock Tie (Size L, 16-18) - Chocolate",
-    "lastOnAirAuctionCode": "0019917617",
+    "lastOnAirSku": "8085866",
+    "lastOnAirTitle": "La Marey Classic Denim Shirt (Size L) - Light Denim",
+    "lastOnAirAuctionCode": "0019916116",
     "precedingSku": "8586248",
     "precedingTitle": "Pure And Natural Womens Elastic Waist Wide Leg Textured Jersey Trousers with Mock Tie (Size L, 16-18) - Chocolate",
     "precedingAuctionCode": "0019917617"
