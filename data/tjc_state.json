@@ -472573,11 +472573,29 @@
       "productUrlChecked": 1792537105068,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8828935": {
+      "sku": "8828935",
+      "firstAir": 1792537878258,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792537878258,
+      "title": "Wednesday Mega Deal on TLV- Sterling Silver Diamond Cut Trace Necklace (Size - 18)",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019917334",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-21",
+      "time": "00:11:18",
+      "productUrl": null,
+      "lastUpdated": 1792537878258,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792537834426,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535651,11 +535669,22 @@
         "followingSku": "8623062",
         "followingTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
         "followingAuctionCode": "0019917098"
+      },
+      {
+        "start": 1792537834426,
+        "end": 1792537878258,
+        "durationMin": 0.7,
+        "precedingSku": "8623062",
+        "precedingTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
+        "precedingAuctionCode": "0019917098",
+        "followingSku": "8828935",
+        "followingTitle": "Wednesday Mega Deal on TLV- Sterling Silver Diamond Cut Trace Necklace (Size - 18)",
+        "followingAuctionCode": "0019917334"
       }
     ],
-    "lastOnAirSku": "8623062",
-    "lastOnAirTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
-    "lastOnAirAuctionCode": "0019917098",
+    "lastOnAirSku": "8828935",
+    "lastOnAirTitle": "Wednesday Mega Deal on TLV- Sterling Silver Diamond Cut Trace Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019917334",
     "precedingSku": "8623062",
     "precedingTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
     "precedingAuctionCode": "0019917098"
