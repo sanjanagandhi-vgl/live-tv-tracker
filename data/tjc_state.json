@@ -472598,11 +472598,29 @@
       "productUrlChecked": 1792538843805,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8763254": {
+      "sku": "8763254",
+      "firstAir": 1792538900620,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792538900620,
+      "title": "Sterling Silver Oval Shape Decorative Locket Pendant",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019917391",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-21",
+      "time": "00:28:20",
+      "productUrl": null,
+      "lastUpdated": 1792538900620,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792538780322,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535687,11 +535705,22 @@
         "followingSku": "8828935",
         "followingTitle": "Wednesday Mega Deal on TLV- Sterling Silver Diamond Cut Trace Necklace (Size - 18)",
         "followingAuctionCode": "0019917334"
+      },
+      {
+        "start": 1792538780322,
+        "end": 1792538900620,
+        "durationMin": 2.0,
+        "precedingSku": "8828935",
+        "precedingTitle": "Wednesday Mega Deal on TJC - Sterling Silver Diamond Cut Trace Necklace (Size - 18)",
+        "precedingAuctionCode": "0019917334",
+        "followingSku": "8763254",
+        "followingTitle": "Sterling Silver Oval Shape Decorative Locket Pendant",
+        "followingAuctionCode": "0019917391"
       }
     ],
-    "lastOnAirSku": "8828935",
-    "lastOnAirTitle": "Wednesday Mega Deal on TJC - Sterling Silver Diamond Cut Trace Necklace (Size - 18)",
-    "lastOnAirAuctionCode": "0019917334",
+    "lastOnAirSku": "8763254",
+    "lastOnAirTitle": "Sterling Silver Oval Shape Decorative Locket Pendant",
+    "lastOnAirAuctionCode": "0019917391",
     "precedingSku": "8828935",
     "precedingTitle": "Wednesday Mega Deal on TJC - Sterling Silver Diamond Cut Trace Necklace (Size - 18)",
     "precedingAuctionCode": "0019917334"
