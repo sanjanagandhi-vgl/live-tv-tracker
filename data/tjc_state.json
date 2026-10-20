@@ -386618,17 +386618,17 @@
       "firstAir": 1790200279418,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792329681958,
+      "lastAir": 1792539635740,
       "title": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
       "pdpPrice": "9.99",
-      "auctionCode": "0019913864",
+      "auctionCode": "0019917475",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-18",
-      "time": "14:21:21",
+      "date": "2026-10-21",
+      "time": "00:40:35",
       "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8763548",
-      "lastUpdated": 1792329681958,
+      "lastUpdated": 1792539635740,
       "source": "gha",
       "missedAt": 1790200862739,
       "missedDelay": 10,
@@ -472631,8 +472631,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792539560327,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535728,11 +535728,22 @@
         "followingSku": "8763254",
         "followingTitle": "Sterling Silver Oval Shape Decorative Locket Pendant",
         "followingAuctionCode": "0019917391"
+      },
+      {
+        "start": 1792539560327,
+        "end": 1792539635740,
+        "durationMin": 1.3,
+        "precedingSku": "8646076",
+        "precedingTitle": "Yellow Gold Plated Sterling Silver Diamond Cut Band Ring",
+        "precedingAuctionCode": "0019917376",
+        "followingSku": "8763548",
+        "followingTitle": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
+        "followingAuctionCode": "0019917475"
       }
     ],
-    "lastOnAirSku": "8646076",
-    "lastOnAirTitle": "Yellow Gold Plated Sterling Silver Diamond Cut Band Ring",
-    "lastOnAirAuctionCode": "0019917376",
+    "lastOnAirSku": "8763548",
+    "lastOnAirTitle": "Close Out Deal - Sterling Silver Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019917475",
     "precedingSku": "8646076",
     "precedingTitle": "Yellow Gold Plated Sterling Silver Diamond Cut Band Ring",
     "precedingAuctionCode": "0019917376"
