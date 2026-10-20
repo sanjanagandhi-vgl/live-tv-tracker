@@ -347688,23 +347688,23 @@
       "sku": "8499867",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-18",
-      "time": "09:06:20",
+      "date": "2026-10-20",
+      "time": "11:10:36",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1792310780193,
+      "lastUpdated": 1792491036897,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
-      "auctionCode": "0019913130",
+      "auctionCode": "0019915905",
       "source": "gha",
       "productUrl": "/products/green-glame-multi-purpose-cleaning-solution",
       "productUrlChecked": 1789359940512,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792310780193,
-      "pdpPrice": "24.99",
+      "lastAir": 1792491036897,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true
@@ -470411,8 +470411,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792490901473,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -533068,11 +533068,22 @@
         "followingSku": "8499430",
         "followingTitle": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Pink",
         "followingAuctionCode": "0019915906"
+      },
+      {
+        "start": 1792490901473,
+        "end": 1792491036897,
+        "durationMin": 2.3,
+        "precedingSku": "8499430",
+        "precedingTitle": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Pink",
+        "precedingAuctionCode": "0019915906",
+        "followingSku": "8499867",
+        "followingTitle": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
+        "followingAuctionCode": "0019915905"
       }
     ],
-    "lastOnAirSku": "8499430",
-    "lastOnAirTitle": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Pink",
-    "lastOnAirAuctionCode": "0019915906",
+    "lastOnAirSku": "8499867",
+    "lastOnAirTitle": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
+    "lastOnAirAuctionCode": "0019915905",
     "precedingSku": "8499430",
     "precedingTitle": "LIVMORE Set of 3 - Foldable Fabric Storage Boxes with Metal Frame & Clear Windows - Pink",
     "precedingAuctionCode": "0019915906"
