@@ -470413,11 +470413,29 @@
       "auctionCode": "0019916381",
       "source": "gha",
       "productUrl": null
+    },
+    "7846371": {
+      "sku": "7846371",
+      "firstAir": 1792495998199,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792495998199,
+      "title": "Table Lamp (Size - One Size) - Black",
+      "pdpPrice": "100.99",
+      "auctionCode": "0019916025",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "12:33:18",
+      "productUrl": null,
+      "lastUpdated": 1792495998199,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792495850432,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -533106,11 +533124,22 @@
         "followingSku": "8737531",
         "followingTitle": "4-Piece Printed Bedding Set - Inc. Duvet Cover, Fitted Sheet & 2 Pillowcases (Size Double- Light Grey)",
         "followingAuctionCode": "0019915982"
+      },
+      {
+        "start": 1792495850432,
+        "end": 1792495998199,
+        "durationMin": 2.5,
+        "precedingSku": "8737531",
+        "precedingTitle": "4-Piece Printed Bedding Set - Inc. Duvet Cover, Fitted Sheet & 2 Pillowcases (Size Double- Light Grey)",
+        "precedingAuctionCode": "0019915982",
+        "followingSku": "7846371",
+        "followingTitle": "Table Lamp (Size - One Size) - Black",
+        "followingAuctionCode": "0019916025"
       }
     ],
-    "lastOnAirSku": "8737531",
-    "lastOnAirTitle": "4-Piece Printed Bedding Set - Inc. Duvet Cover, Fitted Sheet & 2 Pillowcases (Size Double- Light Grey)",
-    "lastOnAirAuctionCode": "0019915982",
+    "lastOnAirSku": "7846371",
+    "lastOnAirTitle": "Table Lamp (Size - One Size) - Black",
+    "lastOnAirAuctionCode": "0019916025",
     "precedingSku": "8737531",
     "precedingTitle": "4-Piece Printed Bedding Set - Inc. Duvet Cover, Fitted Sheet & 2 Pillowcases (Size Double- Light Grey)",
     "precedingAuctionCode": "0019915982"
