@@ -441000,23 +441000,23 @@
       "sku": "8627538",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-12",
-      "time": "19:24:20",
+      "date": "2026-10-20",
+      "time": "20:18:22",
       "preExisting": true,
       "missedAt": 1791635726246,
       "missedDelay": null,
-      "lastUpdated": 1791829460247,
+      "lastUpdated": 1792523902585,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "LIVMORE Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
-      "auctionCode": "0019906077",
+      "title": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+      "auctionCode": "0019916404",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-180x1-cm-white-8627537",
       "productUrlChecked": 1791635732684,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791829460247,
-      "pdpPrice": "49.99",
+      "lastAir": 1792523902585,
+      "pdpPrice": "479.99",
       "buy": true,
       "login": false,
       "img": true
@@ -472401,8 +472401,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792523304581,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535344,11 +535344,22 @@
         "followingSku": "7846371",
         "followingTitle": "Table Lamp (Size - 30cm Height) - Black",
         "followingAuctionCode": "0019917815"
+      },
+      {
+        "start": 1792523304581,
+        "end": 1792523902585,
+        "durationMin": 10.0,
+        "precedingSku": "7846371",
+        "precedingTitle": "Table Lamp (Size - 30cm Height) - Black",
+        "precedingAuctionCode": "0019917815",
+        "followingSku": "8627538",
+        "followingTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+        "followingAuctionCode": "0019916404"
       }
     ],
-    "lastOnAirSku": "7846371",
-    "lastOnAirTitle": "Table Lamp (Size - 30cm Height) - Black",
-    "lastOnAirAuctionCode": "0019917815",
+    "lastOnAirSku": "8627538",
+    "lastOnAirTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+    "lastOnAirAuctionCode": "0019916404",
     "precedingSku": "7846371",
     "precedingTitle": "Table Lamp (Size - 30cm Height) - Black",
     "precedingAuctionCode": "0019917815"
