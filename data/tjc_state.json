@@ -470279,13 +470279,17 @@
       "date": "2026-10-20",
       "time": "09:35:26",
       "productUrl": null,
-      "lastUpdated": 1792485326868,
-      "source": "gha"
+      "lastUpdated": 1792485439681,
+      "source": "gha",
+      "missedAt": 1792485439681,
+      "missedDelay": 2,
+      "missedPrice": 69.99,
+      "missedImg": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792485439681,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532869,8 +532873,8 @@
     "lastOnAirSku": "9053742",
     "lastOnAirTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
     "lastOnAirAuctionCode": "0019915508",
-    "precedingSku": "3456340",
-    "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-    "precedingAuctionCode": "0019915472"
+    "precedingSku": "9053742",
+    "precedingTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
+    "precedingAuctionCode": "0019915508"
   }
 }
