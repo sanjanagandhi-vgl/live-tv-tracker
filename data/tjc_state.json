@@ -472508,11 +472508,29 @@
       "auctionCode": "0019916998",
       "source": "gha",
       "productUrl": null
+    },
+    "7848909": {
+      "sku": "7848909",
+      "firstAir": 1792536799611,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792536799611,
+      "title": "La Marey Sequin Top (Size L) - Purple",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019917018",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "23:53:19",
+      "productUrl": null,
+      "lastUpdated": 1792536799611,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792536742762,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535564,11 +535582,22 @@
         "followingSku": "8233580",
         "followingTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
         "followingAuctionCode": "0019917852"
+      },
+      {
+        "start": 1792536742762,
+        "end": 1792536799611,
+        "durationMin": 0.9,
+        "precedingSku": "8736187",
+        "precedingTitle": "La Marey Signature Genuine Leather Jacket (Size L, 16-18) - Black",
+        "precedingAuctionCode": "0019916962",
+        "followingSku": "7848909",
+        "followingTitle": "La Marey Sequin Top (Size L) - Purple",
+        "followingAuctionCode": "0019917018"
       }
     ],
-    "lastOnAirSku": "8736187",
-    "lastOnAirTitle": "La Marey Signature Genuine Leather Jacket (Size L, 16-18) - Black",
-    "lastOnAirAuctionCode": "0019916962",
+    "lastOnAirSku": "7848909",
+    "lastOnAirTitle": "La Marey Sequin Top (Size L) - Purple",
+    "lastOnAirAuctionCode": "0019917018",
     "precedingSku": "8736187",
     "precedingTitle": "La Marey Signature Genuine Leather Jacket (Size L, 16-18) - Black",
     "precedingAuctionCode": "0019916962"
