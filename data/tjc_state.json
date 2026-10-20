@@ -404115,23 +404115,23 @@
       "sku": "8667857",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-05",
-      "time": "06:37:18",
+      "date": "2026-10-20",
+      "time": "10:12:21",
       "preExisting": true,
       "missedAt": 1790677461928,
       "missedDelay": null,
-      "lastUpdated": 1791178638858,
+      "lastUpdated": 1792487541344,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
-      "auctionCode": "0019896552",
+      "auctionCode": "0019915912",
       "source": "gha",
       "productUrl": "/products/livmore-candle-holder-size-one-size-white-8667855?variant=53822892933386",
       "productUrlChecked": 1790677469873,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791178638858,
-      "pdpPrice": 9.99,
+      "lastAir": 1792487541344,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -470288,8 +470288,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792487479263,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532901,11 +532901,22 @@
         "followingSku": "8718097",
         "followingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Fleurie Emerald - 300ML",
         "followingAuctionCode": "0019915884"
+      },
+      {
+        "start": 1792487479263,
+        "end": 1792487541344,
+        "durationMin": 1.0,
+        "precedingSku": "8718097",
+        "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Fleurie Emerald - 300ML",
+        "precedingAuctionCode": null,
+        "followingSku": "8667857",
+        "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "followingAuctionCode": "0019915912"
       }
     ],
-    "lastOnAirSku": "8718097",
-    "lastOnAirTitle": "NUSUK Arabian Oud Home Fragrance Collection - Fleurie Emerald - 300ML",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8667857",
+    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+    "lastOnAirAuctionCode": "0019915912",
     "precedingSku": "8718097",
     "precedingTitle": "NUSUK Arabian Oud Home Fragrance Collection - Fleurie Emerald - 300ML",
     "precedingAuctionCode": null
