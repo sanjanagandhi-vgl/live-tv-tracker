@@ -1780,23 +1780,23 @@
       "sku": "8519081",
       "tvPrice": "",
       "remarks": "",
-      "time": "14:35:27",
+      "time": "08:10:37",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Leopard Royal Savannah EDP - 100ml",
-      "auctionCode": "0019910487",
+      "auctionCode": "0019915467",
       "source": "gha",
-      "lastAir": 1792071327253,
-      "pdpPrice": "19.99",
+      "lastAir": 1792480237910,
+      "pdpPrice": "139.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-15",
+      "date": "2026-10-20",
       "productUrl": null,
-      "lastUpdated": 1792071327253
+      "lastUpdated": 1792480237910
     },
     "8696197": {
       "sku": "8696197",
@@ -470241,8 +470241,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792480039809,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532799,11 +532799,22 @@
         "followingSku": "8627002",
         "followingTitle": "NEW LAUNCH- Jojoba Activating Cleansing Oil - 125ml",
         "followingAuctionCode": "0019916364"
+      },
+      {
+        "start": 1792480039809,
+        "end": 1792480237910,
+        "durationMin": 3.3,
+        "precedingSku": "8660888",
+        "precedingTitle": "CBD Queen- Broad Spectrum Oil - 2000mg - Peppermint 10ml 20% with 30ml Muscle and Joint Balm",
+        "precedingAuctionCode": null,
+        "followingSku": "8519081",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019915467"
       }
     ],
-    "lastOnAirSku": "8660888",
-    "lastOnAirTitle": "CBD Queen- Broad Spectrum Oil - 2000mg - Peppermint 10ml 20% with 30ml Muscle and Joint Balm",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8519081",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019915467",
     "precedingSku": "8660888",
     "precedingTitle": "CBD Queen- Broad Spectrum Oil - 2000mg - Peppermint 10ml 20% with 30ml Muscle and Joint Balm",
     "precedingAuctionCode": null
