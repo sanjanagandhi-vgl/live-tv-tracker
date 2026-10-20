@@ -472398,11 +472398,29 @@
       "auctionCode": "0019916235",
       "source": "gha",
       "productUrl": null
+    },
+    "8630878": {
+      "sku": "8630878",
+      "firstAir": 1792525759159,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792525759159,
+      "title": "LIVMORE Non Slip Velvet Clothes Hangers - Set of 50 - Grey",
+      "pdpPrice": "34.99",
+      "auctionCode": "0019915627",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "20:49:19",
+      "productUrl": null,
+      "lastUpdated": 1792525759159,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792525583031,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535355,11 +535373,22 @@
         "followingSku": "8627538",
         "followingTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
         "followingAuctionCode": "0019916404"
+      },
+      {
+        "start": 1792525583031,
+        "end": 1792525759159,
+        "durationMin": 2.9,
+        "precedingSku": "8627538",
+        "precedingTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+        "precedingAuctionCode": "0019916404",
+        "followingSku": "8630878",
+        "followingTitle": "LIVMORE Non Slip Velvet Clothes Hangers - Set of 50 - Grey",
+        "followingAuctionCode": "0019915627"
       }
     ],
-    "lastOnAirSku": "8627538",
-    "lastOnAirTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
-    "lastOnAirAuctionCode": "0019916404",
+    "lastOnAirSku": "8630878",
+    "lastOnAirTitle": "LIVMORE Non Slip Velvet Clothes Hangers - Set of 50 - Grey",
+    "lastOnAirAuctionCode": "0019915627",
     "precedingSku": "8627538",
     "precedingTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
     "precedingAuctionCode": "0019916404"
