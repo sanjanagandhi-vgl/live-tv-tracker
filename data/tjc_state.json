@@ -350425,23 +350425,23 @@
       "sku": "3301946",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-21",
-      "time": "06:23:18",
+      "date": "2026-10-20",
+      "time": "09:44:21",
       "preExisting": true,
       "missedAt": 1789458262644,
       "missedDelay": null,
-      "lastUpdated": 1789968198763,
+      "lastUpdated": 1792485861968,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Doctors Formula- Anti-Ageing Restoring Night Moisturiser - 50ml",
-      "auctionCode": "0019876617",
+      "auctionCode": "0019915588",
       "source": "gha",
       "productUrl": "/products/doctors-formula-anti-ageing-restoring-night-moisturiser-50ml?variant=53108150075658",
       "productUrlChecked": 1789458266747,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789968198763,
-      "pdpPrice": 29.99,
+      "lastAir": 1792485861968,
+      "pdpPrice": "120.99",
       "buy": true,
       "login": false,
       "img": true
@@ -470288,8 +470288,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792485797537,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532879,11 +532879,22 @@
         "followingSku": "9053742",
         "followingTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
         "followingAuctionCode": "0019916416"
+      },
+      {
+        "start": 1792485797537,
+        "end": 1792485861968,
+        "durationMin": 1.1,
+        "precedingSku": "9053742",
+        "precedingTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
+        "precedingAuctionCode": "0019916416",
+        "followingSku": "3301946",
+        "followingTitle": "Doctors Formula- Anti-Ageing Restoring Night Moisturiser - 50ml",
+        "followingAuctionCode": "0019915588"
       }
     ],
-    "lastOnAirSku": "9053742",
-    "lastOnAirTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
-    "lastOnAirAuctionCode": "0019916416",
+    "lastOnAirSku": "3301946",
+    "lastOnAirTitle": "Doctors Formula- Anti-Ageing Restoring Night Moisturiser - 50ml",
+    "lastOnAirAuctionCode": "0019915588",
     "precedingSku": "9053742",
     "precedingTitle": "Doctors Formula: Dragons Blood Sensitive Wrinkle Reducer - 30ml",
     "precedingAuctionCode": "0019916416"
