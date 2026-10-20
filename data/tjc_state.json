@@ -472420,11 +472420,29 @@
       "missedDelay": 1,
       "missedPrice": 19.99,
       "missedImg": true
+    },
+    "8525681": {
+      "sku": "8525681",
+      "firstAir": 1792530741960,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792530741960,
+      "title": "Genuine Leather RFID Blocking Zip Around Card Holder Wallet - Black",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019916997",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "22:12:21",
+      "productUrl": null,
+      "lastUpdated": 1792530741960,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792530679434,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535432,11 +535450,22 @@
         "followingSku": "8695247",
         "followingTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Relief - Flower",
         "followingAuctionCode": "0019917041"
+      },
+      {
+        "start": 1792530679434,
+        "end": 1792530741960,
+        "durationMin": 1.0,
+        "precedingSku": "8695247",
+        "precedingTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Relief - Flower",
+        "precedingAuctionCode": "0019917041",
+        "followingSku": "8525681",
+        "followingTitle": "Genuine Leather RFID Blocking Zip Around Card Holder Wallet - Black",
+        "followingAuctionCode": "0019916997"
       }
     ],
-    "lastOnAirSku": "8695247",
-    "lastOnAirTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Relief - Flower",
-    "lastOnAirAuctionCode": "0019917041",
+    "lastOnAirSku": "8525681",
+    "lastOnAirTitle": "Genuine Leather RFID Blocking Zip Around Card Holder Wallet - Black",
+    "lastOnAirAuctionCode": "0019916997",
     "precedingSku": "8695247",
     "precedingTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Relief - Flower",
     "precedingAuctionCode": "0019917041"
