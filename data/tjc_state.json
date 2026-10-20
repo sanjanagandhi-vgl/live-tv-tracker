@@ -23946,19 +23946,19 @@
       "sku": "8365400",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-19",
-      "time": "06:58:23",
+      "date": "2026-10-20",
+      "time": "07:25:26",
       "preExisting": true,
       "missedAt": 1785376463096,
       "missedDelay": null,
-      "lastUpdated": 1792389503180,
+      "lastUpdated": 1792477526631,
       "missedPrice": 54.99,
       "missedImg": true,
       "title": "NEW LAUNCH- The Jojoba Company Neck and Decolletage Lifting Concentrate - 30ml",
-      "auctionCode": "0019914483",
+      "auctionCode": "0019915405",
       "source": "gha",
-      "lastAir": 1792389503180,
-      "pdpPrice": "54.99",
+      "lastAir": 1792477526631,
+      "pdpPrice": "269.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -470185,8 +470185,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792477462496,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532721,11 +532721,22 @@
         "followingSku": "7267893",
         "followingTitle": "Beautech 4 in 1 Facial Cleansing Brush (2 AA Batteries,Not Inc.)",
         "followingAuctionCode": "0019915669"
+      },
+      {
+        "start": 1792477462496,
+        "end": 1792477526631,
+        "durationMin": 1.1,
+        "precedingSku": "7267893",
+        "precedingTitle": "Beautech 4 in 1 Facial Cleansing Brush (2 AA Batteries,Not Inc.)",
+        "precedingAuctionCode": "0019915669",
+        "followingSku": "8365400",
+        "followingTitle": "NEW LAUNCH- The Jojoba Company Neck and Decolletage Lifting Concentrate - 30ml",
+        "followingAuctionCode": "0019915405"
       }
     ],
-    "lastOnAirSku": "7267893",
-    "lastOnAirTitle": "Beautech 4 in 1 Facial Cleansing Brush (2 AA Batteries,Not Inc.)",
-    "lastOnAirAuctionCode": "0019915669",
+    "lastOnAirSku": "8365400",
+    "lastOnAirTitle": "NEW LAUNCH- The Jojoba Company Neck and Decolletage Lifting Concentrate - 30ml",
+    "lastOnAirAuctionCode": "0019915405",
     "precedingSku": "7267893",
     "precedingTitle": "Beautech 4 in 1 Facial Cleansing Brush (2 AA Batteries,Not Inc.)",
     "precedingAuctionCode": "0019915669"
