@@ -470318,11 +470318,29 @@
       "productUrlChecked": 1792488747560,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8632963": {
+      "sku": "8632963",
+      "firstAir": 1792488928472,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792488928472,
+      "title": "Rabbit Bluetooth Speaker (Size 78x72 cm) - light apricot",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019915900",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "10:35:28",
+      "productUrl": null,
+      "lastUpdated": 1792488928472,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792488742113,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532956,11 +532974,22 @@
         "followingSku": "8481571",
         "followingTitle": "LIVMORE Decorative Plush Dog Door Stopper (22x18x19 cm) - Black",
         "followingAuctionCode": "0019915907"
+      },
+      {
+        "start": 1792488742113,
+        "end": 1792488928472,
+        "durationMin": 3.1,
+        "precedingSku": "8481571",
+        "precedingTitle": "LIVMORE Decorative Plush Dog Door Stopper (22x18x19 cm) - Black",
+        "precedingAuctionCode": "0019915907",
+        "followingSku": "8632963",
+        "followingTitle": "Rabbit Bluetooth Speaker (Size 78x72 cm) - light apricot",
+        "followingAuctionCode": "0019915900"
       }
     ],
-    "lastOnAirSku": "8481571",
-    "lastOnAirTitle": "LIVMORE Decorative Plush Dog Door Stopper (22x18x19 cm) - Black",
-    "lastOnAirAuctionCode": "0019915907",
+    "lastOnAirSku": "8632963",
+    "lastOnAirTitle": "Rabbit Bluetooth Speaker (Size 78x72 cm) - light apricot",
+    "lastOnAirAuctionCode": "0019915900",
     "precedingSku": "8481571",
     "precedingTitle": "LIVMORE Decorative Plush Dog Door Stopper (22x18x19 cm) - Black",
     "precedingAuctionCode": "0019915907"
