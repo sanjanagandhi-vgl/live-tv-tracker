@@ -470088,14 +470088,21 @@
       "img": true,
       "date": "2026-10-20",
       "time": "02:47:08",
-      "productUrl": null,
-      "lastUpdated": 1792460828680,
-      "source": "gha"
+      "productUrl": "/products/mens-solid-puffer-jacket",
+      "lastUpdated": 1792460900124,
+      "source": "gha",
+      "missedAt": 1792460900124,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1792460902993,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792460900124,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532481,8 +532488,8 @@
     "lastOnAirSku": "7712777",
     "lastOnAirTitle": "Orange Puffer Jacket - Size L",
     "lastOnAirAuctionCode": "0019915309",
-    "precedingSku": "7712787",
+    "precedingSku": "7712777",
     "precedingTitle": "Orange Puffer Jacket - Size L",
-    "precedingAuctionCode": "0019915310"
+    "precedingAuctionCode": "0019915309"
   }
 }
