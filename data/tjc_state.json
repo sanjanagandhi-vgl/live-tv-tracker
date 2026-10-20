@@ -466102,16 +466102,16 @@
       "firstAir": 1792241238316,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792450278481,
+      "lastAir": 1792456703162,
       "title": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
-      "pdpPrice": 129.99,
-      "auctionCode": null,
-      "buy": false,
+      "pdpPrice": "129.99",
+      "auctionCode": "0019916276",
+      "buy": true,
       "login": false,
-      "date": "2026-10-19",
-      "time": "23:51:18",
+      "date": "2026-10-20",
+      "time": "01:38:23",
       "productUrl": "/products/djoy-white-diamond-band-ring-in-18k-yg-vermeilsterling-silver-0-504-ct-8797526?variant=53914073235722",
-      "lastUpdated": 1792450278481,
+      "lastUpdated": 1792456703162,
       "source": "gha",
       "missedAt": 1792241660719,
       "missedDelay": 2,
@@ -469918,8 +469918,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792456254227,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532223,11 +532223,22 @@
         "followingSku": "8574520",
         "followingTitle": "D'Joy - Boulder Opal Triplet & White Zircon Bracelet (Size - 8) with GB Lock Box in Rhodium Overlay Sterling Silver 15.38 Ct.",
         "followingAuctionCode": "0019915385"
+      },
+      {
+        "start": 1792456254227,
+        "end": 1792456703162,
+        "durationMin": 7.5,
+        "precedingSku": "8574520",
+        "precedingTitle": "D'Joy - Boulder Opal Triplet & White Zircon Bracelet (Size - 8) with GB Lock Box in Rhodium Overl...",
+        "precedingAuctionCode": null,
+        "followingSku": "8797526",
+        "followingTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+        "followingAuctionCode": "0019916276"
       }
     ],
-    "lastOnAirSku": "8574520",
-    "lastOnAirTitle": "D'Joy - Boulder Opal Triplet & White Zircon Bracelet (Size - 8) with GB Lock Box in Rhodium Overl...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8797526",
+    "lastOnAirTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+    "lastOnAirAuctionCode": "0019916276",
     "precedingSku": "8574520",
     "precedingTitle": "D'Joy - Boulder Opal Triplet & White Zircon Bracelet (Size - 8) with GB Lock Box in Rhodium Overl...",
     "precedingAuctionCode": null
