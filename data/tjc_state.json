@@ -377579,17 +377579,17 @@
       "firstAir": 1789977932549,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791181461195,
+      "lastAir": 1792537398666,
       "title": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
       "pdpPrice": "39.99",
-      "auctionCode": "0019893852",
+      "auctionCode": "0019917098",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-05",
-      "time": "07:24:21",
+      "date": "2026-10-21",
+      "time": "00:03:18",
       "productUrl": null,
-      "lastUpdated": 1791181461195,
+      "lastUpdated": 1792537398666,
       "source": "gha",
       "missedAt": 1789980074156,
       "missedDelay": 9,
@@ -472576,8 +472576,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792537342987,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535640,11 +535640,22 @@
         "followingSku": "7848909",
         "followingTitle": "La Marey Sequin Top (Size L) - Purple",
         "followingAuctionCode": "0019917018"
+      },
+      {
+        "start": 1792537342987,
+        "end": 1792537398666,
+        "durationMin": 0.9,
+        "precedingSku": "8225737",
+        "precedingTitle": "La Marey Sequined Jumper (Size - L, 16-18) - Grey",
+        "precedingAuctionCode": "0019917014",
+        "followingSku": "8623062",
+        "followingTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
+        "followingAuctionCode": "0019917098"
       }
     ],
-    "lastOnAirSku": "8225737",
-    "lastOnAirTitle": "La Marey Sequined Jumper (Size - L, 16-18) - Grey",
-    "lastOnAirAuctionCode": "0019917014",
+    "lastOnAirSku": "8623062",
+    "lastOnAirTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
+    "lastOnAirAuctionCode": "0019917098",
     "precedingSku": "8225737",
     "precedingTitle": "La Marey Sequined Jumper (Size - L, 16-18) - Grey",
     "precedingAuctionCode": "0019917014"
