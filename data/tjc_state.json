@@ -470263,11 +470263,29 @@
       "missedDelay": 1,
       "missedPrice": 17.99,
       "missedImg": false
+    },
+    "8714597": {
+      "sku": "8714597",
+      "firstAir": 1792483835619,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792483835619,
+      "title": "Doctors Formula Dragons Blood - The Calming Anti-Ageing Collection",
+      "pdpPrice": "372.99",
+      "auctionCode": "0019915232",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-20",
+      "time": "09:10:35",
+      "productUrl": null,
+      "lastUpdated": 1792483835619,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792483759346,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532835,11 +532853,22 @@
         "followingSku": "8519081",
         "followingTitle": "Leopard Royal Savannah EDP - 100ml",
         "followingAuctionCode": "0019915467"
+      },
+      {
+        "start": 1792483759346,
+        "end": 1792483835619,
+        "durationMin": 1.3,
+        "precedingSku": "3456340",
+        "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "precedingAuctionCode": "0019915472",
+        "followingSku": "8714597",
+        "followingTitle": "Doctors Formula Dragons Blood - The Calming Anti-Ageing Collection",
+        "followingAuctionCode": "0019915232"
       }
     ],
-    "lastOnAirSku": "3456340",
-    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-    "lastOnAirAuctionCode": "0019915472",
+    "lastOnAirSku": "8714597",
+    "lastOnAirTitle": "Doctors Formula Dragons Blood - The Calming Anti-Ageing Collection",
+    "lastOnAirAuctionCode": "0019915232",
     "precedingSku": "3456340",
     "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
     "precedingAuctionCode": "0019915472"
