@@ -25751,23 +25751,23 @@
       "sku": "7997042",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-17",
-      "time": "22:03:19",
+      "date": "2026-10-20",
+      "time": "18:19:19",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1792270999326,
+      "lastUpdated": 1792516759376,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Laurelle My Mic EDP - 100ml",
-      "auctionCode": "0019913944",
+      "auctionCode": "0019915852",
       "source": "gha",
       "productUrl": "/products/laurelle-my-mic-edp-100ml?variant=53107574505738",
       "productUrlChecked": 1785474503295,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1792270999326,
-      "pdpPrice": "9.99",
+      "lastAir": 1792516759376,
+      "pdpPrice": "17.99",
       "buy": true,
       "login": false,
       "img": true
@@ -472396,8 +472396,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792516540384,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535262,11 +535262,22 @@
         "followingSku": "8710980",
         "followingTitle": "Crossbody Bag (Size - One Size) - Black",
         "followingAuctionCode": "0019916234"
+      },
+      {
+        "start": 1792516540384,
+        "end": 1792516759376,
+        "durationMin": 3.6,
+        "precedingSku": "8636598",
+        "precedingTitle": "La Marey Tassel Fringe Knit Shawl (One Size UK 8-20) - Khaki",
+        "precedingAuctionCode": null,
+        "followingSku": "7997042",
+        "followingTitle": "Laurelle My Mic EDP - 100ml",
+        "followingAuctionCode": "0019915852"
       }
     ],
-    "lastOnAirSku": "8636598",
-    "lastOnAirTitle": "La Marey Tassel Fringe Knit Shawl (One Size UK 8-20) - Khaki",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "7997042",
+    "lastOnAirTitle": "Laurelle My Mic EDP - 100ml",
+    "lastOnAirAuctionCode": "0019915852",
     "precedingSku": "8636598",
     "precedingTitle": "La Marey Tassel Fringe Knit Shawl (One Size UK 8-20) - Khaki",
     "precedingAuctionCode": null
