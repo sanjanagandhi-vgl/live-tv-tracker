@@ -470210,11 +470210,29 @@
       "productUrlChecked": 1792478438835,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8627002": {
+      "sku": "8627002",
+      "firstAir": 1792478839502,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792478839502,
+      "title": "NEW LAUNCH- Jojoba Activating Cleansing Oil - 125ml",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019916364",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-20",
+      "time": "07:47:19",
+      "productUrl": null,
+      "lastUpdated": 1792478839502,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792478783183,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532760,11 +532778,22 @@
         "followingSku": "8365400",
         "followingTitle": "NEW LAUNCH- The Jojoba Company Neck and Decolletage Lifting Concentrate - 30ml",
         "followingAuctionCode": "0019915405"
+      },
+      {
+        "start": 1792478783183,
+        "end": 1792478839502,
+        "durationMin": 0.9,
+        "precedingSku": "8365399",
+        "precedingTitle": "The Jojoba Company Ultimate Facial Serum with Australian Jojoba and Hyaluronic Acid - 30ml",
+        "precedingAuctionCode": "0019915407",
+        "followingSku": "8627002",
+        "followingTitle": "NEW LAUNCH- Jojoba Activating Cleansing Oil - 125ml",
+        "followingAuctionCode": "0019916364"
       }
     ],
-    "lastOnAirSku": "8365399",
-    "lastOnAirTitle": "The Jojoba Company Ultimate Facial Serum with Australian Jojoba and Hyaluronic Acid - 30ml",
-    "lastOnAirAuctionCode": "0019915407",
+    "lastOnAirSku": "8627002",
+    "lastOnAirTitle": "NEW LAUNCH- Jojoba Activating Cleansing Oil - 125ml",
+    "lastOnAirAuctionCode": "0019916364",
     "precedingSku": "8365399",
     "precedingTitle": "The Jojoba Company Ultimate Facial Serum with Australian Jojoba and Hyaluronic Acid - 30ml",
     "precedingAuctionCode": "0019915407"
