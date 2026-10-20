@@ -466127,24 +466127,25 @@
       "firstAir": 1792241238316,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792450278481,
-      "title": "D'Joy - White Diamond Band Ring in Rhodium Overlay Sterling Silver  0.50 Ct.",
-      "pdpPrice": 129.99,
-      "auctionCode": "0019915430",
+      "lastAir": 1792457180966,
+      "title": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+      "pdpPrice": "129.99",
+      "auctionCode": "0019916293",
       "buy": true,
       "login": false,
-      "date": "2026-10-19",
-      "time": "23:51:18",
+      "date": "2026-10-20",
+      "time": "01:46:20",
       "productUrl": "/products/djoy-white-diamond-band-ring-in-18k-yg-vermeilsterling-silver-0-504-ct-8797526?variant=53914073235722",
-      "lastUpdated": 1792450278481,
-      "source": "gha-variant",
+      "lastUpdated": 1792457180966,
+      "source": "gha",
       "missedAt": 1792241660719,
       "missedDelay": 2,
       "missedPrice": 129.99,
       "missedImg": true,
       "productUrlChecked": 1792241666583,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "img": true
     },
     "8797605": {
       "sku": "8797605",
@@ -469915,11 +469916,31 @@
       "productUrlChecked": 1792456257433,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8797599": {
+      "sku": "8797599",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-20",
+      "time": "01:46:20",
+      "preExisting": true,
+      "missedAt": 1792457180966,
+      "missedDelay": null,
+      "lastUpdated": 1792457180966,
+      "missedPrice": 129.99,
+      "missedImg": true,
+      "title": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+      "auctionCode": "0019916292",
+      "source": "gha",
+      "productUrl": "/products/djoy-white-diamond-band-ring-in-18k-yg-vermeilsterling-silver-0-504-ct-8797526",
+      "productUrlChecked": 1792457183846,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792457136231,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -532234,11 +532255,22 @@
         "followingSku": "8797526",
         "followingTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
         "followingAuctionCode": "0019916276"
+      },
+      {
+        "start": 1792457136231,
+        "end": 1792457180966,
+        "durationMin": 0.7,
+        "precedingSku": "8797526",
+        "precedingTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+        "precedingAuctionCode": "0019916276",
+        "followingSku": "8797604",
+        "followingTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+        "followingAuctionCode": "0019916293"
       }
     ],
-    "lastOnAirSku": "8797526",
+    "lastOnAirSku": "8797604",
     "lastOnAirTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
-    "lastOnAirAuctionCode": "0019916276",
+    "lastOnAirAuctionCode": "0019916293",
     "precedingSku": "8797526",
     "precedingTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
     "precedingAuctionCode": "0019916276"
