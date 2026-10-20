@@ -428331,21 +428331,26 @@
       "sku": "8808140",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-05",
-      "time": "21:26:16",
+      "date": "2026-10-20",
+      "time": "12:04:20",
       "preExisting": true,
       "missedAt": 1791231976293,
       "missedDelay": null,
-      "lastUpdated": 1791231976293,
+      "lastUpdated": 1792494260973,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Luxury Faux Fur Throw Blanket with Plush Backing (150x200cm) - Brown",
-      "auctionCode": "0019893517",
+      "title": "Limited Edition 800 GSM Luxury Faux Rabbit Fur Bubble Blanket with Insulating Micro Mink Plush Backing (King 150x200cm) - Chocolate",
+      "auctionCode": "0019915936",
       "source": "gha",
       "productUrl": "/products/tjc-special-blanket-brown-8808140",
       "productUrlChecked": 1791231980774,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792494260973,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4538580": {
       "sku": "4538580",
@@ -470411,8 +470416,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792494141540,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -533079,11 +533084,22 @@
         "followingSku": "8499867",
         "followingTitle": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
         "followingAuctionCode": "0019915905"
+      },
+      {
+        "start": 1792494141540,
+        "end": 1792494260973,
+        "durationMin": 2.0,
+        "precedingSku": "8591537",
+        "precedingTitle": "Compact 1.7L Electric Mini Dehumidifier With Touch Control Including 4 Lavender Fragrance Oils - White",
+        "precedingAuctionCode": "0019915945",
+        "followingSku": "8808140",
+        "followingTitle": "Limited Edition 800 GSM Luxury Faux Rabbit Fur Bubble Blanket with Insulating Micro Mink Plush Backing (King 150x200cm) - Chocolate",
+        "followingAuctionCode": "0019915936"
       }
     ],
-    "lastOnAirSku": "8591537",
-    "lastOnAirTitle": "Compact 1.7L Electric Mini Dehumidifier With Touch Control Including 4 Lavender Fragrance Oils - White",
-    "lastOnAirAuctionCode": "0019915945",
+    "lastOnAirSku": "8808140",
+    "lastOnAirTitle": "Limited Edition 800 GSM Luxury Faux Rabbit Fur Bubble Blanket with Insulating Micro Mink Plush Backing (King 150x200cm) - Chocolate",
+    "lastOnAirAuctionCode": "0019915936",
     "precedingSku": "8591537",
     "precedingTitle": "Compact 1.7L Electric Mini Dehumidifier With Touch Control Including 4 Lavender Fragrance Oils - White",
     "precedingAuctionCode": "0019915945"
