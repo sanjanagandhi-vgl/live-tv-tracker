@@ -24676,19 +24676,19 @@
       "sku": "2937404",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-12",
-      "time": "03:52:19",
+      "date": "2026-10-21",
+      "time": "02:51:18",
       "preExisting": true,
       "missedAt": 1785392957481,
       "missedDelay": null,
-      "lastUpdated": 1791773539850,
+      "lastUpdated": 1792547478370,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Cetuem: Exfoliating Gel Mask - 50ml",
-      "auctionCode": "0019905556",
+      "auctionCode": "0019917204",
       "source": "gha",
-      "lastAir": 1791773539850,
-      "pdpPrice": "14.99",
+      "lastAir": 1792547478370,
+      "pdpPrice": "34.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -472675,8 +472675,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792547357734,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535915,11 +535915,22 @@
         "followingSku": "7389066",
         "followingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
         "followingAuctionCode": "0019917970"
+      },
+      {
+        "start": 1792547357734,
+        "end": 1792547478370,
+        "durationMin": 2.0,
+        "precedingSku": "7389066",
+        "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "precedingAuctionCode": null,
+        "followingSku": "2937404",
+        "followingTitle": "Cetuem: Exfoliating Gel Mask - 50ml",
+        "followingAuctionCode": "0019917204"
       }
     ],
-    "lastOnAirSku": "7389066",
-    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "2937404",
+    "lastOnAirTitle": "Cetuem: Exfoliating Gel Mask - 50ml",
+    "lastOnAirAuctionCode": "0019917204",
     "precedingSku": "7389066",
     "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
     "precedingAuctionCode": null
