@@ -32331,21 +32331,26 @@
       "sku": "4326759",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "06:08:21",
+      "date": "2026-10-21",
+      "time": "16:39:21",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1785474501184,
+      "lastUpdated": 1792597161479,
       "missedPrice": 149.99,
       "missedImg": true,
-      "title": "GP Amore Collection - White Diamond & Blue Sapphire Pendant with Chain in 18K Yellow Gold Vermeil Sterling Silver 0.50 Ct",
-      "auctionCode": "0019800069",
+      "title": "Live From Vicenza GP Amore Collection - Blue Diamond & Blue Sapphire Spiral Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct",
+      "auctionCode": "0019916504",
       "source": "gha",
       "productUrl": "/products/gp-amore-collection-diamond-heart-pendant-with-chain-in-sterling-silver",
       "productUrlChecked": 1785475906001,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792597161479,
+      "pdpPrice": "3999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "2912204": {
       "sku": "2912204",
@@ -475038,8 +475043,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792597102974,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -538861,11 +538866,22 @@
         "followingSku": "8787851",
         "followingTitle": "SUPER FIND - GP Starry Sky Swiss Movt. 5ATM with Sapphire Crystals in Dual Tone Stainless Steel Watch. 36mm Case with Signature Natural Blue Sapphire Crown",
         "followingAuctionCode": "0019916869"
+      },
+      {
+        "start": 1792597102974,
+        "end": 1792597161479,
+        "durationMin": 1.0,
+        "precedingSku": "8594208",
+        "precedingTitle": "GP - AAA Gemfields Zambian Emerald & Blue Sapphire Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
+        "precedingAuctionCode": "0019916970",
+        "followingSku": "4326759",
+        "followingTitle": "Live From Vicenza GP Amore Collection - Blue Diamond & Blue Sapphire Spiral Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct",
+        "followingAuctionCode": "0019916504"
       }
     ],
-    "lastOnAirSku": "8594208",
-    "lastOnAirTitle": "GP - AAA Gemfields Zambian Emerald & Blue Sapphire Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
-    "lastOnAirAuctionCode": "0019916970",
+    "lastOnAirSku": "4326759",
+    "lastOnAirTitle": "Live From Vicenza GP Amore Collection - Blue Diamond & Blue Sapphire Spiral Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct",
+    "lastOnAirAuctionCode": "0019916504",
     "precedingSku": "8594208",
     "precedingTitle": "GP - AAA Gemfields Zambian Emerald & Blue Sapphire Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
     "precedingAuctionCode": "0019916970"
