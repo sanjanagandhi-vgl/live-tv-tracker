@@ -469357,21 +469357,26 @@
       "sku": "8583233",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-19",
-      "time": "13:35:26",
+      "date": "2026-10-21",
+      "time": "07:21:19",
       "preExisting": true,
       "missedAt": 1792413326581,
       "missedDelay": null,
-      "lastUpdated": 1792413326581,
+      "lastUpdated": 1792563679322,
       "missedPrice": 34.99,
       "missedImg": true,
-      "title": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size M, 12-14) - Off White & Olive",
-      "auctionCode": "0019913214",
+      "title": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
+      "auctionCode": "0019917666",
       "source": "gha",
       "productUrl": "/products/charlotte-west-jacket-size-large-olive-off-white-8583232",
       "productUrlChecked": 1792413333588,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792563679322,
+      "pdpPrice": "449.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8583232": {
       "sku": "8583232",
@@ -473076,8 +473081,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792563637596,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -536525,11 +536530,22 @@
         "followingSku": "8627538",
         "followingTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
         "followingAuctionCode": "0019917985"
+      },
+      {
+        "start": 1792563637596,
+        "end": 1792563679322,
+        "durationMin": 0.7,
+        "precedingSku": "8627538",
+        "precedingTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
+        "precedingAuctionCode": "0019917985",
+        "followingSku": "8583233",
+        "followingTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
+        "followingAuctionCode": "0019917666"
       }
     ],
-    "lastOnAirSku": "8627538",
-    "lastOnAirTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
-    "lastOnAirAuctionCode": "0019917985",
+    "lastOnAirSku": "8583233",
+    "lastOnAirTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
+    "lastOnAirAuctionCode": "0019917666",
     "precedingSku": "8627538",
     "precedingTitle": "TODAY ONLY PRICE - Rose Jacquard 900gsm Faux Fur Double Layer Blanket (150 x 180cm, Double) - White",
     "precedingAuctionCode": "0019917985"
