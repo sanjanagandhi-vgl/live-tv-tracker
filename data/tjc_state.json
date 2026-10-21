@@ -469729,17 +469729,17 @@
       "firstAir": 1792428081503,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792428797316,
-      "title": "Close Out Deal- Created Malachite Plum Blossom Necklace (Size - 20)",
-      "pdpPrice": "14.99",
-      "auctionCode": "0019916018",
+      "lastAir": 1792576400443,
+      "title": "Close Out Deal- Created Malachite Plum Blossom Necklace (Size - 20-2 Ext)",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019916778",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-19",
-      "time": "17:53:17",
+      "date": "2026-10-21",
+      "time": "10:53:20",
       "productUrl": null,
-      "lastUpdated": 1792428926722,
+      "lastUpdated": 1792576400443,
       "source": "gha",
       "missedAt": 1792428926722,
       "missedDelay": 2,
@@ -473749,8 +473749,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792576342000,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -537374,11 +537374,22 @@
         "followingSku": "8741965",
         "followingTitle": "Close Out - Big Classic Hoop Earring with Clasp",
         "followingAuctionCode": "0019916769"
+      },
+      {
+        "start": 1792576342000,
+        "end": 1792576400443,
+        "durationMin": 1.0,
+        "precedingSku": "8741965",
+        "precedingTitle": "Close Out - Big Classic Hoop Earring with Clasp",
+        "precedingAuctionCode": null,
+        "followingSku": "8765416",
+        "followingTitle": "Close Out Deal- Created Malachite Plum Blossom Necklace (Size - 20-2 Ext)",
+        "followingAuctionCode": "0019916778"
       }
     ],
-    "lastOnAirSku": "8741965",
-    "lastOnAirTitle": "Close Out - Big Classic Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8765416",
+    "lastOnAirTitle": "Close Out Deal- Created Malachite Plum Blossom Necklace (Size - 20-2 Ext)",
+    "lastOnAirAuctionCode": "0019916778",
     "precedingSku": "8741965",
     "precedingTitle": "Close Out - Big Classic Hoop Earring with Clasp",
     "precedingAuctionCode": null
