@@ -460786,18 +460786,18 @@
       "firstAir": 1792085730586,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792360037176,
-      "title": "EverTrue - Natural White Diamond Leaf Vine Filigree Ring",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019914571",
+      "lastAir": 1792541064374,
+      "title": "EverTrue - Natural White Diamond Leaf Vine Filigree Ring in Yellow Gold Tone",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019917216",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-18",
-      "time": "22:47:17",
+      "date": "2026-10-21",
+      "time": "01:04:24",
       "productUrl": "/products/evertrue-white-diamond-band-ring-pure-yellow-brass-0-024-ct-8777214",
-      "lastUpdated": 1792360037176,
-      "source": "gha-variant",
+      "lastUpdated": 1792541064374,
+      "source": "gha",
       "missedAt": 1792086035989,
       "missedDelay": 1,
       "missedPrice": 9.99,
@@ -472631,8 +472631,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792540999269,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535761,11 +535761,22 @@
         "followingSku": "8769831",
         "followingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
         "followingAuctionCode": "0019917049"
+      },
+      {
+        "start": 1792540999269,
+        "end": 1792541064374,
+        "durationMin": 1.1,
+        "precedingSku": "8769831",
+        "precedingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
+        "precedingAuctionCode": "0019917049",
+        "followingSku": "8777214",
+        "followingTitle": "EverTrue - Natural White Diamond Leaf Vine Filigree Ring in Yellow Gold Tone",
+        "followingAuctionCode": "0019917216"
       }
     ],
-    "lastOnAirSku": "8769831",
-    "lastOnAirTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
-    "lastOnAirAuctionCode": "0019917049",
+    "lastOnAirSku": "8777214",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Leaf Vine Filigree Ring in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019917216",
     "precedingSku": "8769831",
     "precedingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
     "precedingAuctionCode": "0019917049"
