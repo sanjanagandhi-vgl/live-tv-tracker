@@ -415908,17 +415908,17 @@
       "firstAir": 1790939780363,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792065500790,
+      "lastAir": 1792578860590,
       "title": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019909628",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019918078",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-10-15",
-      "time": "12:58:20",
+      "date": "2026-10-21",
+      "time": "11:34:20",
       "productUrl": "/products/multi-colour-gemstone-glass-jar-one-size-250-00-ct-8755098?variant=53807199781130",
-      "lastUpdated": 1792065500790,
+      "lastUpdated": 1792578860590,
       "source": "gha",
       "productUrlChecked": 1790940445048,
       "productUrlStatus": 200,
@@ -473757,8 +473757,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792578677560,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -537415,11 +537415,22 @@
         "followingSku": "4532371",
         "followingTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size - 20-2 Ext)",
         "followingAuctionCode": "0019916819"
+      },
+      {
+        "start": 1792578677560,
+        "end": 1792578860590,
+        "durationMin": 3.1,
+        "precedingSku": "4532371",
+        "precedingTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size - 20-2 Ext)",
+        "precedingAuctionCode": null,
+        "followingSku": "8755098",
+        "followingTitle": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
+        "followingAuctionCode": "0019918078"
       }
     ],
-    "lastOnAirSku": "4532371",
-    "lastOnAirTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size - 20-2 Ext)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8755098",
+    "lastOnAirTitle": "Multi-Colour Gemstone Glass Jar (One Size) - 250.00 Ct.",
+    "lastOnAirAuctionCode": "0019918078",
     "precedingSku": "4532371",
     "precedingTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size - 20-2 Ext)",
     "precedingAuctionCode": null
