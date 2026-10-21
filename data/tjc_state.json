@@ -472144,17 +472144,17 @@
       "firstAir": 1792512262493,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792535958208,
+      "lastAir": 1792558344993,
       "title": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
       "pdpPrice": "37.99",
-      "auctionCode": "0019917852",
+      "auctionCode": "0019917962",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-20",
-      "time": "23:39:18",
+      "date": "2026-10-21",
+      "time": "05:52:24",
       "productUrl": "/products/la-marey-velvet-sequins-dress",
-      "lastUpdated": 1792535958208,
+      "lastUpdated": 1792558344993,
       "source": "gha",
       "missedAt": 1792513531512,
       "missedDelay": 2,
@@ -472996,8 +472996,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792558278684,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -536335,11 +536335,22 @@
         "followingSku": "8770934",
         "followingTitle": "Luxuriant - AAA Ammolite & Lab Grown Diamond (SI-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.80 Ct.",
         "followingAuctionCode": "0019915752"
+      },
+      {
+        "start": 1792558278684,
+        "end": 1792558344993,
+        "durationMin": 1.1,
+        "precedingSku": "8620810",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019917966",
+        "followingSku": "8233580",
+        "followingTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
+        "followingAuctionCode": "0019917962"
       }
     ],
-    "lastOnAirSku": "8620810",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019917966",
+    "lastOnAirSku": "8233580",
+    "lastOnAirTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
+    "lastOnAirAuctionCode": "0019917962",
     "precedingSku": "8620810",
     "precedingTitle": null,
     "precedingAuctionCode": "0019917966"
