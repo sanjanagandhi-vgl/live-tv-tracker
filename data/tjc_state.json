@@ -473737,16 +473737,20 @@
       "date": "2026-10-21",
       "time": "10:51:19",
       "productUrl": "/products/fancy-earring-pure-white-stainless-steel-8741965?variant=53934539112714",
-      "lastUpdated": 1792576279272,
+      "lastUpdated": 1792576342000,
       "source": "gha",
       "productUrlChecked": 1792576281945,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792576342000,
+      "missedDelay": 1,
+      "missedPrice": 7.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792576342000,
     "gaps": [
       {
         "start": 1785823527869,
@@ -537375,8 +537379,8 @@
     "lastOnAirSku": "8741965",
     "lastOnAirTitle": "Close Out - Big Classic Hoop Earring with Clasp",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8616438",
-    "precedingTitle": "Sterling Silver Deck Pave Curb Necklace (Size - 20) with Lobster Clasp",
-    "precedingAuctionCode": "0019916180"
+    "precedingSku": "8741965",
+    "precedingTitle": "Close Out - Big Classic Hoop Earring with Clasp",
+    "precedingAuctionCode": null
   }
 }
