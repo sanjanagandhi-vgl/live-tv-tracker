@@ -473672,11 +473672,32 @@
       "productUrl": null,
       "lastUpdated": 1792573757920,
       "source": "gha"
+    },
+    "7962093": {
+      "sku": "7962093",
+      "firstAir": 1792573886203,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792573886203,
+      "title": "One Time Deal - White Diamond Band Ring in 18K YG Vermeil Sterling Silver",
+      "pdpPrice": 19.99,
+      "auctionCode": null,
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-10-21",
+      "time": "10:11:26",
+      "productUrl": "/products/white-diamond-ring-in-sterling-silver-1738039408?variant=53173841395978",
+      "lastUpdated": 1792573886203,
+      "source": "gha",
+      "productUrlChecked": 1792573889453,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792573838564,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -537223,11 +537244,22 @@
         "followingSku": "4331019",
         "followingTitle": "LUCY Q - Bubble Collection Pendant with Chain (Size - 18) in Rhodium Overlay Sterling Silver, Silver Wt. 8.00 Gms.",
         "followingAuctionCode": "0019916154"
+      },
+      {
+        "start": 1792573838564,
+        "end": 1792573886203,
+        "durationMin": 0.8,
+        "precedingSku": "7973873",
+        "precedingTitle": "Yellow Diamond Band Ring in Rhodium Overlay Sterling Silver 0.25 Ct.",
+        "precedingAuctionCode": "0019916164",
+        "followingSku": "7962093",
+        "followingTitle": "One Time Deal - White Diamond Band Ring in 18K YG Vermeil Sterling Silver",
+        "followingAuctionCode": null
       }
     ],
-    "lastOnAirSku": "7973873",
-    "lastOnAirTitle": "Yellow Diamond Band Ring in Rhodium Overlay Sterling Silver 0.25 Ct.",
-    "lastOnAirAuctionCode": "0019916164",
+    "lastOnAirSku": "7962093",
+    "lastOnAirTitle": "One Time Deal - White Diamond Band Ring in 18K YG Vermeil Sterling Silver",
+    "lastOnAirAuctionCode": null,
     "precedingSku": "7973873",
     "precedingTitle": "Yellow Diamond Band Ring in Rhodium Overlay Sterling Silver 0.25 Ct.",
     "precedingAuctionCode": "0019916164"
