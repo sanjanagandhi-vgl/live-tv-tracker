@@ -475667,13 +475667,51 @@
       "date": "2026-10-21",
       "time": "22:03:21",
       "productUrl": null,
-      "lastUpdated": 1792616601733,
-      "source": "gha"
+      "lastUpdated": 1792616664230,
+      "source": "gha",
+      "missedAt": 1792616664230,
+      "missedDelay": 1,
+      "missedPrice": 49.99,
+      "missedImg": true
+    },
+    "8782647": {
+      "sku": "8782647",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-21",
+      "time": "22:04:24",
+      "preExisting": true,
+      "missedAt": 1792616664230,
+      "missedDelay": null,
+      "lastUpdated": 1792616664230,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "title": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
+      "auctionCode": "0019918289",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8763903": {
+      "sku": "8763903",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-21",
+      "time": "22:04:24",
+      "preExisting": true,
+      "missedAt": 1792616664230,
+      "missedDelay": null,
+      "lastUpdated": 1792616664230,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "title": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 8) 40.30 Ct.",
+      "auctionCode": "0019918288",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792616664230,
     "gaps": [
       {
         "start": 1785823527869,
@@ -539720,8 +539758,8 @@
     "lastOnAirSku": "8763902",
     "lastOnAirTitle": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
     "lastOnAirAuctionCode": "0019918287",
-    "precedingSku": "8752496",
-    "precedingTitle": "Luxuriant - Lab Grown Columbian Emerald & Lab Grown Diamond (SI-G-H) Ring in Rhodium Overlay Sterling Silver 3.35 Ct.",
-    "precedingAuctionCode": "0019919115"
+    "precedingSku": "8763902",
+    "precedingTitle": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
+    "precedingAuctionCode": "0019918287"
   }
 }
