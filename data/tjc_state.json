@@ -353009,21 +353009,26 @@
       "sku": "8574496",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "18:55:31",
+      "date": "2026-10-21",
+      "time": "06:41:19",
       "preExisting": true,
       "missedAt": 1789494931648,
       "missedDelay": null,
-      "lastUpdated": 1789494931648,
+      "lastUpdated": 1792561279268,
       "missedPrice": 9.99,
       "missedImg": false,
-      "title": "3D Laser-Engraved Crystal Ball LED Night Light - Jellyfish with Full Moon & Stars (8cm)",
-      "auctionCode": "0019871928",
+      "title": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
+      "auctionCode": "0019916376",
       "source": "gha",
       "productUrl": "/products/night-light-size-one-size-transparent-8574481",
       "productUrlChecked": 1789494935985,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792561279268,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8574497": {
       "sku": "8574497",
@@ -473066,8 +473071,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792561236041,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -536471,11 +536476,22 @@
         "followingSku": "7576039",
         "followingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
         "followingAuctionCode": "0019917992"
+      },
+      {
+        "start": 1792561236041,
+        "end": 1792561279268,
+        "durationMin": 0.7,
+        "precedingSku": "7576039",
+        "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+        "precedingAuctionCode": "0019917992",
+        "followingSku": "8574496",
+        "followingTitle": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
+        "followingAuctionCode": "0019916376"
       }
     ],
-    "lastOnAirSku": "7576039",
-    "lastOnAirTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
-    "lastOnAirAuctionCode": "0019917992",
+    "lastOnAirSku": "8574496",
+    "lastOnAirTitle": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
+    "lastOnAirAuctionCode": "0019916376",
     "precedingSku": "7576039",
     "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
     "precedingAuctionCode": "0019917992"
