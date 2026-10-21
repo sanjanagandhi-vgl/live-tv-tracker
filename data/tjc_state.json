@@ -1827,23 +1827,23 @@
       "sku": "8421313",
       "tvPrice": "",
       "remarks": "",
-      "time": "07:12:22",
+      "time": "02:57:22",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 49.99,
       "missedImg": false,
-      "title": "Last in Stock- Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light fo...",
-      "auctionCode": null,
+      "title": "Last in Stock- Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+      "auctionCode": "0019917206",
       "source": "gha",
-      "lastAir": 1792476742732,
-      "pdpPrice": 49.99,
+      "lastAir": 1792547842060,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "productUrl": "/products/last-in-stock-chin-fit-elite-with-photon-facelifting-technology-infrared-red-blue-light-for-double-chin-jawline8421313?variant=53577155051786",
-      "lastUpdated": 1792476742732,
+      "lastUpdated": 1792547842060,
       "productUrlChecked": 1789435350170,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -472675,8 +472675,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792547781345,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535926,11 +535926,22 @@
         "followingSku": "2937404",
         "followingTitle": "Cetuem: Exfoliating Gel Mask - 50ml",
         "followingAuctionCode": "0019917204"
+      },
+      {
+        "start": 1792547781345,
+        "end": 1792547842060,
+        "durationMin": 1.0,
+        "precedingSku": "2937404",
+        "precedingTitle": "Cetuem: Exfoliating Gel Mask - 50ml",
+        "precedingAuctionCode": "0019917204",
+        "followingSku": "8421313",
+        "followingTitle": "Last in Stock- Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+        "followingAuctionCode": "0019917206"
       }
     ],
-    "lastOnAirSku": "2937404",
-    "lastOnAirTitle": "Cetuem: Exfoliating Gel Mask - 50ml",
-    "lastOnAirAuctionCode": "0019917204",
+    "lastOnAirSku": "8421313",
+    "lastOnAirTitle": "Last in Stock- Chin Fit Elite with Photon Face-Lifting Technology & Infrared, RED & BLUE Light for Double Chin & Jawline",
+    "lastOnAirAuctionCode": "0019917206",
     "precedingSku": "2937404",
     "precedingTitle": "Cetuem: Exfoliating Gel Mask - 50ml",
     "precedingAuctionCode": "0019917204"
