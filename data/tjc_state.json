@@ -475481,11 +475481,29 @@
       "productUrlChecked": 1792601365422,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8703500": {
+      "sku": "8703500",
+      "firstAir": 1792604902210,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792604902210,
+      "title": "Vintage Rotary Telephone Music Box - Black",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019918699",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-21",
+      "time": "18:48:22",
+      "productUrl": null,
+      "lastUpdated": 1792604902210,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792604734385,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -539406,11 +539424,22 @@
         "followingSku": "8788138",
         "followingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
         "followingAuctionCode": "0019918032"
+      },
+      {
+        "start": 1792604734385,
+        "end": 1792604902210,
+        "durationMin": 2.8,
+        "precedingSku": "8788138",
+        "precedingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) ...",
+        "precedingAuctionCode": null,
+        "followingSku": "8703500",
+        "followingTitle": "Vintage Rotary Telephone Music Box - Black",
+        "followingAuctionCode": "0019918699"
       }
     ],
-    "lastOnAirSku": "8788138",
-    "lastOnAirTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) ...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8703500",
+    "lastOnAirTitle": "Vintage Rotary Telephone Music Box - Black",
+    "lastOnAirAuctionCode": "0019918699",
     "precedingSku": "8788138",
     "precedingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) ...",
     "precedingAuctionCode": null
