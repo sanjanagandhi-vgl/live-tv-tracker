@@ -474646,11 +474646,29 @@
       "auctionCode": "0019916426",
       "source": "gha",
       "productUrl": null
+    },
+    "8783166": {
+      "sku": "8783166",
+      "firstAir": 1792591838426,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792591838426,
+      "title": "GP - AAA Premium Turkizite, White Zircon & Blue Sapphire Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.30 Ct.",
+      "pdpPrice": "399.99",
+      "auctionCode": "0019916576",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-21",
+      "time": "15:10:38",
+      "productUrl": null,
+      "lastUpdated": 1792591838426,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792591527986,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -538439,11 +538457,22 @@
         "followingSku": "8786199",
         "followingTitle": "GP - Ethiopian Opal, White Zircon & Blue Sapphire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.60 Ct.",
         "followingAuctionCode": "0019916422"
+      },
+      {
+        "start": 1792591527986,
+        "end": 1792591838426,
+        "durationMin": 5.2,
+        "precedingSku": "8801873",
+        "precedingTitle": "GP - AAA Ethiopian Opal, White Zircon & Blue Sapphire Ring in Yellow Gold Plated Sterling Silver ...",
+        "precedingAuctionCode": null,
+        "followingSku": "8783166",
+        "followingTitle": "GP - AAA Premium Turkizite, White Zircon & Blue Sapphire Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.30 Ct.",
+        "followingAuctionCode": "0019916576"
       }
     ],
-    "lastOnAirSku": "8801873",
-    "lastOnAirTitle": "GP - AAA Ethiopian Opal, White Zircon & Blue Sapphire Ring in Yellow Gold Plated Sterling Silver ...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8783166",
+    "lastOnAirTitle": "GP - AAA Premium Turkizite, White Zircon & Blue Sapphire Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.30 Ct.",
+    "lastOnAirAuctionCode": "0019916576",
     "precedingSku": "8801873",
     "precedingTitle": "GP - AAA Ethiopian Opal, White Zircon & Blue Sapphire Ring in Yellow Gold Plated Sterling Silver ...",
     "precedingAuctionCode": null
