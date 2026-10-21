@@ -469018,21 +469018,26 @@
       "sku": "7172840",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-19",
-      "time": "11:05:27",
+      "date": "2026-10-21",
+      "time": "10:22:22",
       "preExisting": true,
       "missedAt": 1792404327703,
       "missedDelay": null,
-      "lastUpdated": 1792404327703,
+      "lastUpdated": 1792574542172,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Natural White Diamond Hoop Earrings in Platinum Overlay Sterling Silver",
-      "auctionCode": "0019915203",
+      "title": "White Diamond Full Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019916767",
       "source": "gha",
       "productUrl": "/products/white-diamond-pendant-with-chain-size-20-stainless-steel-0-005-ct-4528713",
       "productUrlChecked": 1792404330583,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792574542172,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8742342": {
       "sku": "8742342",
@@ -473714,8 +473719,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792574480297,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -537284,11 +537289,22 @@
         "followingSku": "8763171",
         "followingTitle": "Close Out Deal- Sterling Silver Heart Pendant",
         "followingAuctionCode": "0019916177"
+      },
+      {
+        "start": 1792574480297,
+        "end": 1792574542172,
+        "durationMin": 1.0,
+        "precedingSku": "8663019",
+        "precedingTitle": "LA Closeout Deals Multi Colour Fresh Water Pearl Necklace Lobster Clasp 75.00 Ct. (16 inch)",
+        "precedingAuctionCode": "0019916179",
+        "followingSku": "7172840",
+        "followingTitle": "White Diamond Full Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019916767"
       }
     ],
-    "lastOnAirSku": "8663019",
-    "lastOnAirTitle": "LA Closeout Deals Multi Colour Fresh Water Pearl Necklace Lobster Clasp 75.00 Ct. (16 inch)",
-    "lastOnAirAuctionCode": "0019916179",
+    "lastOnAirSku": "7172840",
+    "lastOnAirTitle": "White Diamond Full Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019916767",
     "precedingSku": "8663019",
     "precedingTitle": "LA Closeout Deals Multi Colour Fresh Water Pearl Necklace Lobster Clasp 75.00 Ct. (16 inch)",
     "precedingAuctionCode": "0019916179"
