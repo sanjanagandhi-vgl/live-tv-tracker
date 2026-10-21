@@ -392897,21 +392897,26 @@
       "sku": "8800440",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "19:33:20",
+      "date": "2026-10-21",
+      "time": "23:41:22",
       "preExisting": true,
       "missedAt": 1790361200413,
       "missedDelay": null,
-      "lastUpdated": 1790361200413,
+      "lastUpdated": 1792622482426,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Super Soft Plush Fluffy Sheepskin Shape Faux Fur Rug (60x70cm) - Grey",
-      "auctionCode": "0019884256",
+      "title": "Super Soft Plush Fluffy Sheepskin Shape Faux Fur Rug (60x70cm) - Cream",
+      "auctionCode": "0019918199",
       "source": "gha",
       "productUrl": "/products/tjc-special-rug-and-door-mat-white-8800438",
       "productUrlChecked": 1790361204233,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792622482426,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8800439": {
       "sku": "8800439",
@@ -475803,8 +475808,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792622358210,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -539879,11 +539884,22 @@
         "followingSku": "8574496",
         "followingTitle": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
         "followingAuctionCode": "0019918177"
+      },
+      {
+        "start": 1792622358210,
+        "end": 1792622482426,
+        "durationMin": 2.1,
+        "precedingSku": "7846372",
+        "precedingTitle": "Table Lamp (Size - 30cm Height) - Black",
+        "precedingAuctionCode": "0019918186",
+        "followingSku": "8800440",
+        "followingTitle": "Super Soft Plush Fluffy Sheepskin Shape Faux Fur Rug (60x70cm) - Cream",
+        "followingAuctionCode": "0019918199"
       }
     ],
-    "lastOnAirSku": "7846372",
-    "lastOnAirTitle": "Table Lamp (Size - 30cm Height) - Black",
-    "lastOnAirAuctionCode": "0019918186",
+    "lastOnAirSku": "8800440",
+    "lastOnAirTitle": "Super Soft Plush Fluffy Sheepskin Shape Faux Fur Rug (60x70cm) - Cream",
+    "lastOnAirAuctionCode": "0019918199",
     "precedingSku": "7846372",
     "precedingTitle": "Table Lamp (Size - 30cm Height) - Black",
     "precedingAuctionCode": "0019918186"
