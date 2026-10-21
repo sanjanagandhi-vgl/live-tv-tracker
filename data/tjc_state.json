@@ -352866,21 +352866,26 @@
       "sku": "8615697",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "17:37:55",
+      "date": "2026-10-21",
+      "time": "12:53:20",
       "preExisting": true,
       "missedAt": 1789490275230,
       "missedDelay": null,
-      "lastUpdated": 1789490275230,
+      "lastUpdated": 1792583600882,
       "missedPrice": 34.99,
       "missedImg": true,
-      "title": "Leather Crossbody Bag - Burgundy",
-      "auctionCode": "0019870548",
+      "title": "Genuine Leather Mummy Style Satchel Bag with Adjustable Shoulder Strap - Dark Blue",
+      "auctionCode": "0019918549",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-dark-blue-8615694",
       "productUrlChecked": 1789490281348,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792583600882,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8615698": {
       "sku": "8615698",
@@ -474089,8 +474094,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792583436198,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -537802,11 +537807,22 @@
         "followingSku": "8706989",
         "followingTitle": "Love Italian Style Polka Dot Crinkled Trousers (One Size, 10-22) - Light Brown With White Spots",
         "followingAuctionCode": "0019917834"
+      },
+      {
+        "start": 1792583436198,
+        "end": 1792583600882,
+        "durationMin": 2.7,
+        "precedingSku": "8584920",
+        "precedingTitle": "Pure And Natural Ladies Cowl Neck Long Sleeve Top (Size L, 16-18) - Blue",
+        "precedingAuctionCode": "0019917827",
+        "followingSku": "8615697",
+        "followingTitle": "Genuine Leather Mummy Style Satchel Bag with Adjustable Shoulder Strap - Dark Blue",
+        "followingAuctionCode": "0019918549"
       }
     ],
-    "lastOnAirSku": "8584920",
-    "lastOnAirTitle": "Pure And Natural Ladies Cowl Neck Long Sleeve Top (Size L, 16-18) - Blue",
-    "lastOnAirAuctionCode": "0019917827",
+    "lastOnAirSku": "8615697",
+    "lastOnAirTitle": "Genuine Leather Mummy Style Satchel Bag with Adjustable Shoulder Strap - Dark Blue",
+    "lastOnAirAuctionCode": "0019918549",
     "precedingSku": "8584920",
     "precedingTitle": "Pure And Natural Ladies Cowl Neck Long Sleeve Top (Size L, 16-18) - Blue",
     "precedingAuctionCode": "0019917827"
