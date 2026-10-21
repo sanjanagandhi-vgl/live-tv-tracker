@@ -471711,21 +471711,26 @@
       "sku": "8583288",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-20",
-      "time": "16:30:51",
+      "date": "2026-10-21",
+      "time": "06:55:26",
       "preExisting": true,
       "missedAt": 1792510251254,
       "missedDelay": null,
-      "lastUpdated": 1792510251254,
+      "lastUpdated": 1792562126716,
       "missedPrice": 44.99,
       "missedImg": true,
-      "title": "DULCE CAROLINE Reversible Ladies Padded Jacket With Hood (Size M, 12-14) - Black",
-      "auctionCode": "0019917177",
+      "title": "DULCE CAROLINE Reversible Ladies Padded Jacket With Hood (Size L, 16-18) - Red",
+      "auctionCode": "0019917975",
       "source": "gha",
       "productUrl": "/products/charlotte-west-nylon-jacket-size-large-black-8583287",
       "productUrlChecked": 1792510258002,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792562126716,
+      "pdpPrice": "44.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8583287": {
       "sku": "8583287",
@@ -473071,8 +473076,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792562060955,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -536487,11 +536492,22 @@
         "followingSku": "8574496",
         "followingTitle": "3D Laser-Engraved Crystal Ball LED Night Light - Christmas Snowmen with Santa's Sleigh, Moon, & Pine Tree (8cm)",
         "followingAuctionCode": "0019916376"
+      },
+      {
+        "start": 1792562060955,
+        "end": 1792562126716,
+        "durationMin": 1.1,
+        "precedingSku": "8583294",
+        "precedingTitle": "DULCE CAROLINE Reversible Ladies Padded Jacket With Hood (Size L, 16-18) - Red",
+        "precedingAuctionCode": "0019917977",
+        "followingSku": "8583288",
+        "followingTitle": "DULCE CAROLINE Reversible Ladies Padded Jacket With Hood (Size L, 16-18) - Red",
+        "followingAuctionCode": "0019917975"
       }
     ],
-    "lastOnAirSku": "8583294",
+    "lastOnAirSku": "8583288",
     "lastOnAirTitle": "DULCE CAROLINE Reversible Ladies Padded Jacket With Hood (Size L, 16-18) - Red",
-    "lastOnAirAuctionCode": "0019917977",
+    "lastOnAirAuctionCode": "0019917975",
     "precedingSku": "8583294",
     "precedingTitle": "DULCE CAROLINE Reversible Ladies Padded Jacket With Hood (Size L, 16-18) - Red",
     "precedingAuctionCode": "0019917977"
