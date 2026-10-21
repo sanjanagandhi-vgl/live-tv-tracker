@@ -284927,21 +284927,26 @@
       "sku": "8309400",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-01",
-      "time": "15:43:22",
+      "date": "2026-10-21",
+      "time": "07:31:20",
       "preExisting": true,
       "missedAt": 1788273802051,
       "missedDelay": null,
-      "lastUpdated": 1788273802051,
+      "lastUpdated": 1792564280607,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Green",
-      "auctionCode": "0019852683",
+      "title": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Grey",
+      "auctionCode": "0019917614",
       "source": "gha",
       "productUrl": "/products/la-marey-chiffon-solid-scarf-size-one-size-black-black-8309396",
       "productUrlChecked": 1788273804553,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792564280607,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8309402": {
       "sku": "8309402",
@@ -473086,8 +473091,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792564252263,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -536546,11 +536551,22 @@
         "followingSku": "8583233",
         "followingTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
         "followingAuctionCode": "0019917666"
+      },
+      {
+        "start": 1792564252263,
+        "end": 1792564280607,
+        "durationMin": 0.5,
+        "precedingSku": "8583268",
+        "precedingTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
+        "precedingAuctionCode": "0019917671",
+        "followingSku": "8309400",
+        "followingTitle": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Grey",
+        "followingAuctionCode": "0019917614"
       }
     ],
-    "lastOnAirSku": "8583268",
-    "lastOnAirTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
-    "lastOnAirAuctionCode": "0019917671",
+    "lastOnAirSku": "8309400",
+    "lastOnAirTitle": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Grey",
+    "lastOnAirAuctionCode": "0019917614",
     "precedingSku": "8583268",
     "precedingTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
     "precedingAuctionCode": "0019917671"
