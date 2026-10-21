@@ -380865,21 +380865,26 @@
       "sku": "8379939",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-22",
-      "time": "07:45:35",
+      "date": "2026-10-21",
+      "time": "02:15:35",
       "preExisting": true,
       "missedAt": 1790059535969,
       "missedDelay": null,
-      "lastUpdated": 1790059535969,
+      "lastUpdated": 1792545335479,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Andalusian Orchard Rogue - 100ml",
-      "auctionCode": "0019880393",
+      "title": "Qawafi Andalusian Orchard Rogue - 100ml",
+      "auctionCode": "0019917523",
       "source": "gha",
       "productUrl": "/products/mysteries-crown-perfume",
       "productUrlChecked": 1790059540398,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792545335479,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8379717": {
       "sku": "8379717",
@@ -472662,8 +472667,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792545262729,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535858,11 +535863,22 @@
         "followingSku": "8736870",
         "followingTitle": "Cute Soft Plush Animal Refrigerator Magnet Toy - Brown Capybara",
         "followingAuctionCode": "0019917526"
+      },
+      {
+        "start": 1792545262729,
+        "end": 1792545335479,
+        "durationMin": 1.2,
+        "precedingSku": "8736870",
+        "precedingTitle": "Cute Soft Plush Animal Refrigerator Magnet Toy - Brown Capybara",
+        "precedingAuctionCode": "0019917526",
+        "followingSku": "8379939",
+        "followingTitle": "Qawafi Andalusian Orchard Rogue - 100ml",
+        "followingAuctionCode": "0019917523"
       }
     ],
-    "lastOnAirSku": "8736870",
-    "lastOnAirTitle": "Cute Soft Plush Animal Refrigerator Magnet Toy - Brown Capybara",
-    "lastOnAirAuctionCode": "0019917526",
+    "lastOnAirSku": "8379939",
+    "lastOnAirTitle": "Qawafi Andalusian Orchard Rogue - 100ml",
+    "lastOnAirAuctionCode": "0019917523",
     "precedingSku": "8736870",
     "precedingTitle": "Cute Soft Plush Animal Refrigerator Magnet Toy - Brown Capybara",
     "precedingAuctionCode": "0019917526"
