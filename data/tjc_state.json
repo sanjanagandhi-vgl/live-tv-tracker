@@ -192950,21 +192950,26 @@
       "sku": "8571948",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "03:13:24",
+      "date": "2026-10-21",
+      "time": "04:54:21",
       "preExisting": true,
       "missedAt": 1787105604295,
       "missedDelay": null,
-      "lastUpdated": 1787105604295,
+      "lastUpdated": 1792554861756,
       "missedPrice": 39.99,
       "missedImg": true,
       "title": "D'Joy - Ammolite & White Zircon Ring in Yellow Gold Plated Sterling Silver 1.43 Ct.",
-      "auctionCode": "0019827772",
+      "auctionCode": "0019915459",
       "source": "gha",
       "productUrl": "/products/djoy-ammolite-white-zircon-ring-in-yellow-gold-plated-sterling-silver-1-43-ct-m8571947",
       "productUrlChecked": 1787105621012,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792554861756,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8571989": {
       "sku": "8571989",
@@ -472820,8 +472825,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792554798882,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -536137,11 +536142,22 @@
         "followingSku": "8795294",
         "followingTitle": "D'Joy - AAA Ammolite & Natural White Diamond Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 3.30 Ct.",
         "followingAuctionCode": "0019915710"
+      },
+      {
+        "start": 1792554798882,
+        "end": 1792554861756,
+        "durationMin": 1.0,
+        "precedingSku": "8791080",
+        "precedingTitle": "D'Joy - AAA Ammolite, Natural Chrome Diopside & White Zircon Halo Ring in 18K Vermeil Yellow Gold...",
+        "precedingAuctionCode": null,
+        "followingSku": "8571948",
+        "followingTitle": "D'Joy - Ammolite & White Zircon Ring in Yellow Gold Plated Sterling Silver 1.43 Ct.",
+        "followingAuctionCode": "0019915459"
       }
     ],
-    "lastOnAirSku": "8791080",
-    "lastOnAirTitle": "D'Joy - AAA Ammolite, Natural Chrome Diopside & White Zircon Halo Ring in 18K Vermeil Yellow Gold...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8571948",
+    "lastOnAirTitle": "D'Joy - Ammolite & White Zircon Ring in Yellow Gold Plated Sterling Silver 1.43 Ct.",
+    "lastOnAirAuctionCode": "0019915459",
     "precedingSku": "8791080",
     "precedingTitle": "D'Joy - AAA Ammolite, Natural Chrome Diopside & White Zircon Halo Ring in 18K Vermeil Yellow Gold...",
     "precedingAuctionCode": null
