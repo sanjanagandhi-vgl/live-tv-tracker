@@ -393681,21 +393681,26 @@
       "sku": "8535765",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-26",
-      "time": "11:15:35",
+      "date": "2026-10-21",
+      "time": "02:30:49",
       "preExisting": true,
       "missedAt": 1790417735579,
       "missedDelay": null,
-      "lastUpdated": 1790417735579,
+      "lastUpdated": 1792546249074,
       "missedPrice": 23.99,
       "missedImg": false,
-      "title": "Designer Inspired- Ladies Paisley Pattern Handle Tote Bag with Scarf Accent - Navy",
-      "auctionCode": "0019884887",
+      "title": "Designer Inspired- Ladies Paisley Pattern Handle Tote Bag with Scarf Accent - Pink",
+      "auctionCode": "0019917513",
       "source": "gha",
       "productUrl": "/products/pu-patterned-tote-bag-size-26x14x7-cm-black-white-8535764",
       "productUrlChecked": 1790417739212,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792546249074,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8535763": {
       "sku": "8535763",
@@ -472667,8 +472672,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792546157181,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535885,11 +535890,22 @@
         "followingSku": "8665215",
         "followingTitle": "Dual-Sided 2-in-1 Jewelry Case & 6-Piece Manicure Tool Set Organizer - Brown",
         "followingAuctionCode": "0019917536"
+      },
+      {
+        "start": 1792546157181,
+        "end": 1792546249074,
+        "durationMin": 1.5,
+        "precedingSku": "8665215",
+        "precedingTitle": "Dual-Sided 2-in-1 Jewelry Case & 6-Piece Manicure Tool Set Organizer - Brown",
+        "precedingAuctionCode": null,
+        "followingSku": "8535765",
+        "followingTitle": "Designer Inspired- Ladies Paisley Pattern Handle Tote Bag with Scarf Accent - Pink",
+        "followingAuctionCode": "0019917513"
       }
     ],
-    "lastOnAirSku": "8665215",
-    "lastOnAirTitle": "Dual-Sided 2-in-1 Jewelry Case & 6-Piece Manicure Tool Set Organizer - Brown",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8535765",
+    "lastOnAirTitle": "Designer Inspired- Ladies Paisley Pattern Handle Tote Bag with Scarf Accent - Pink",
+    "lastOnAirAuctionCode": "0019917513",
     "precedingSku": "8665215",
     "precedingTitle": "Dual-Sided 2-in-1 Jewelry Case & 6-Piece Manicure Tool Set Organizer - Brown",
     "precedingAuctionCode": null
