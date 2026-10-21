@@ -363051,21 +363051,26 @@
       "sku": "4446115",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "17:01:07",
+      "date": "2026-10-21",
+      "time": "18:21:21",
       "preExisting": true,
       "missedAt": 1789747267578,
       "missedDelay": null,
-      "lastUpdated": 1789747267578,
+      "lastUpdated": 1792603281855,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 2 - Multi-Color Crystal Keychain in Unicorn & Dragon Design",
-      "auctionCode": "0019874727",
+      "auctionCode": "0019917950",
       "source": "gha",
       "productUrl": "/products/set-of-2-multi-color-crystal-keychain-2964446111",
       "productUrlChecked": 1789747277036,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792603281855,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4446114": {
       "sku": "4446114",
@@ -475479,8 +475484,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792603161023,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -539379,11 +539384,22 @@
         "followingSku": "8695946",
         "followingTitle": "GP Royal Art Deco Collection - White Baroque Pearl & Blue Sapphire Beads Necklace (Size - 20) in Rhodium Overlay Sterling Silver 170.00 Ct.",
         "followingAuctionCode": "0019917217"
+      },
+      {
+        "start": 1792603161023,
+        "end": 1792603281855,
+        "durationMin": 2.0,
+        "precedingSku": "8631042",
+        "precedingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set. Can hold up to 7kgs weight",
+        "precedingAuctionCode": null,
+        "followingSku": "4446115",
+        "followingTitle": "Set of 2 - Multi-Color Crystal Keychain in Unicorn & Dragon Design",
+        "followingAuctionCode": "0019917950"
       }
     ],
-    "lastOnAirSku": "8631042",
-    "lastOnAirTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set. Can hold up to 7kgs weight",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "4446115",
+    "lastOnAirTitle": "Set of 2 - Multi-Color Crystal Keychain in Unicorn & Dragon Design",
+    "lastOnAirAuctionCode": "0019917950",
     "precedingSku": "8631042",
     "precedingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set. Can hold up to 7kgs weight",
     "precedingAuctionCode": null
