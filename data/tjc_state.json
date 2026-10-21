@@ -475566,11 +475566,29 @@
       "productUrlChecked": 1792606109709,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8818190": {
+      "sku": "8818190",
+      "firstAir": 1792606235858,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792606235858,
+      "title": "Closeout Deal - Pearl & Bead Shoulder Knitted Poncho (One Size, 8-18) - Light Grey",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019918229",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-21",
+      "time": "19:10:35",
+      "productUrl": null,
+      "lastUpdated": 1792606235858,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792606040112,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -539502,11 +539520,22 @@
         "followingSku": "8703500",
         "followingTitle": "Vintage Rotary Telephone Music Box - Black",
         "followingAuctionCode": "0019918699"
+      },
+      {
+        "start": 1792606040112,
+        "end": 1792606235858,
+        "durationMin": 3.3,
+        "precedingSku": "8703500",
+        "precedingTitle": "Vintage Rotary Telephone Music Box - Black",
+        "precedingAuctionCode": "0019918699",
+        "followingSku": "8818190",
+        "followingTitle": "Closeout Deal - Pearl & Bead Shoulder Knitted Poncho (One Size, 8-18) - Light Grey",
+        "followingAuctionCode": "0019918229"
       }
     ],
-    "lastOnAirSku": "8703500",
-    "lastOnAirTitle": "Vintage Rotary Telephone Music Box - Black",
-    "lastOnAirAuctionCode": "0019918699",
+    "lastOnAirSku": "8818190",
+    "lastOnAirTitle": "Closeout Deal - Pearl & Bead Shoulder Knitted Poncho (One Size, 8-18) - Light Grey",
+    "lastOnAirAuctionCode": "0019918229",
     "precedingSku": "8703500",
     "precedingTitle": "Vintage Rotary Telephone Music Box - Black",
     "precedingAuctionCode": "0019918699"
