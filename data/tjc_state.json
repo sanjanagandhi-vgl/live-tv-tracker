@@ -417144,20 +417144,20 @@
       "sku": "8354263",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-19",
-      "time": "00:09:18",
+      "date": "2026-10-21",
+      "time": "22:05:28",
       "preExisting": true,
       "missedAt": 1790954903402,
       "missedDelay": null,
-      "lastUpdated": 1792364958810,
+      "lastUpdated": 1792616728857,
       "missedPrice": 4.99,
       "missedImg": false,
       "title": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
-      "auctionCode": null,
+      "auctionCode": "0019918162",
       "source": "gha",
       "productUrl": "/products/sleek-ergonomic-tws-earbuds-with-150mah-charging-case-and-2-3-hours-playtime-black-8354262?variant=53915856175370",
-      "lastAir": 1792364958810,
-      "pdpPrice": 4.99,
+      "lastAir": 1792616728857,
+      "pdpPrice": "4.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -475710,8 +475710,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792616664230,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -539753,11 +539753,22 @@
         "followingSku": "8763902",
         "followingTitle": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
         "followingAuctionCode": "0019918287"
+      },
+      {
+        "start": 1792616664230,
+        "end": 1792616728857,
+        "durationMin": 1.1,
+        "precedingSku": "8763902",
+        "precedingTitle": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
+        "precedingAuctionCode": "0019918287",
+        "followingSku": "8354263",
+        "followingTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
+        "followingAuctionCode": "0019918162"
       }
     ],
-    "lastOnAirSku": "8763902",
-    "lastOnAirTitle": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
-    "lastOnAirAuctionCode": "0019918287",
+    "lastOnAirSku": "8354263",
+    "lastOnAirTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
+    "lastOnAirAuctionCode": "0019918162",
     "precedingSku": "8763902",
     "precedingTitle": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
     "precedingAuctionCode": "0019918287"
