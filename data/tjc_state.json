@@ -474188,11 +474188,29 @@
       "productUrlChecked": 1792586187362,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8821689": {
+      "sku": "8821689",
+      "firstAir": 1792586302650,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792586302650,
+      "title": "QED London Dot Pattern Scarf (Free Size) - Ivory",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019917777",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-21",
+      "time": "13:38:22",
+      "productUrl": null,
+      "lastUpdated": 1792586302650,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792586128382,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -537926,11 +537944,22 @@
         "followingSku": "8690905",
         "followingTitle": "La Marey Cosy Borg Tie-Front Jacket (Size L-XL, 16-22) - Beige",
         "followingAuctionCode": "0019916920"
+      },
+      {
+        "start": 1792586128382,
+        "end": 1792586302650,
+        "durationMin": 2.9,
+        "precedingSku": "8690905",
+        "precedingTitle": "La Marey Cosy Borg Tie-Front Jacket (Size L-XL, 16-22) - Beige",
+        "precedingAuctionCode": "0019916920",
+        "followingSku": "8821689",
+        "followingTitle": "QED London Dot Pattern Scarf (Free Size) - Ivory",
+        "followingAuctionCode": "0019917777"
       }
     ],
-    "lastOnAirSku": "8690905",
-    "lastOnAirTitle": "La Marey Cosy Borg Tie-Front Jacket (Size L-XL, 16-22) - Beige",
-    "lastOnAirAuctionCode": "0019916920",
+    "lastOnAirSku": "8821689",
+    "lastOnAirTitle": "QED London Dot Pattern Scarf (Free Size) - Ivory",
+    "lastOnAirAuctionCode": "0019917777",
     "precedingSku": "8690905",
     "precedingTitle": "La Marey Cosy Borg Tie-Front Jacket (Size L-XL, 16-22) - Beige",
     "precedingAuctionCode": "0019916920"
