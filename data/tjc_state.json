@@ -31091,23 +31091,23 @@
       "sku": "8695946",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "23:28:22",
+      "date": "2026-10-21",
+      "time": "17:50:43",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1787351302568,
+      "lastUpdated": 1792601443090,
       "missedPrice": 119.99,
       "missedImg": true,
       "title": "GP Royal Art Deco Collection - White Baroque Pearl & Blue Sapphire Beads Necklace (Size - 20) in Rhodium Overlay Sterling Silver 170.00 Ct.",
-      "auctionCode": "0019834853",
+      "auctionCode": "0019917217",
       "source": "gha",
       "productUrl": "/products/gp-royal-art-deco-collection-white-baroque-pearl-blue-sapphire-beads-necklace-size-20-in-rhodium-overlay-sterling-silver-170-00-ct-8695946",
       "productUrlChecked": 1785475615463,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787351302568,
-      "pdpPrice": "119.99",
+      "lastAir": 1792601443090,
+      "pdpPrice": "1799.99",
       "buy": true,
       "login": false,
       "img": true
@@ -475479,8 +475479,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792601358901,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -539368,11 +539368,22 @@
         "followingSku": "8699809",
         "followingTitle": "GP - Natural White Diamond & Blue Sapphire Serpentine Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.25 Ct.",
         "followingAuctionCode": "0019918977"
+      },
+      {
+        "start": 1792601358901,
+        "end": 1792601443090,
+        "durationMin": 1.4,
+        "precedingSku": "8699809",
+        "precedingTitle": "GP - Natural White Diamond & Blue Sapphire Serpentine Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.25 Ct.",
+        "precedingAuctionCode": "0019918977",
+        "followingSku": "8695946",
+        "followingTitle": "GP Royal Art Deco Collection - White Baroque Pearl & Blue Sapphire Beads Necklace (Size - 20) in Rhodium Overlay Sterling Silver 170.00 Ct.",
+        "followingAuctionCode": "0019917217"
       }
     ],
-    "lastOnAirSku": "8699809",
-    "lastOnAirTitle": "GP - Natural White Diamond & Blue Sapphire Serpentine Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.25 Ct.",
-    "lastOnAirAuctionCode": "0019918977",
+    "lastOnAirSku": "8695946",
+    "lastOnAirTitle": "GP Royal Art Deco Collection - White Baroque Pearl & Blue Sapphire Beads Necklace (Size - 20) in Rhodium Overlay Sterling Silver 170.00 Ct.",
+    "lastOnAirAuctionCode": "0019917217",
     "precedingSku": "8699809",
     "precedingTitle": "GP - Natural White Diamond & Blue Sapphire Serpentine Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.25 Ct.",
     "precedingAuctionCode": "0019918977"
