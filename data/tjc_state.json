@@ -4615,19 +4615,19 @@
       "sku": "7389066",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-20",
-      "time": "23:16:21",
+      "date": "2026-10-21",
+      "time": "02:38:19",
       "preExisting": true,
       "missedAt": 1784887878647,
       "missedDelay": null,
-      "lastUpdated": 1792534581331,
+      "lastUpdated": 1792546699946,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-      "auctionCode": "0019916942",
+      "auctionCode": "0019917970",
       "source": "gha",
-      "lastAir": 1792534581331,
-      "pdpPrice": "9.99",
+      "lastAir": 1792546699946,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -472672,8 +472672,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792546585024,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535901,11 +535901,22 @@
         "followingSku": "8535765",
         "followingTitle": "Designer Inspired- Ladies Paisley Pattern Handle Tote Bag with Scarf Accent - Pink",
         "followingAuctionCode": "0019917513"
+      },
+      {
+        "start": 1792546585024,
+        "end": 1792546699946,
+        "durationMin": 1.9,
+        "precedingSku": "8535765",
+        "precedingTitle": "Designer Inspired- Ladies Paisley Pattern Handle Tote Bag with Scarf Accent - Pink",
+        "precedingAuctionCode": null,
+        "followingSku": "7389066",
+        "followingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "followingAuctionCode": "0019917970"
       }
     ],
-    "lastOnAirSku": "8535765",
-    "lastOnAirTitle": "Designer Inspired- Ladies Paisley Pattern Handle Tote Bag with Scarf Accent - Pink",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "7389066",
+    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+    "lastOnAirAuctionCode": "0019917970",
     "precedingSku": "8535765",
     "precedingTitle": "Designer Inspired- Ladies Paisley Pattern Handle Tote Bag with Scarf Accent - Pink",
     "precedingAuctionCode": null
