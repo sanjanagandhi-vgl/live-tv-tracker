@@ -380556,17 +380556,17 @@
       "firstAir": 1790038039497,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791418163402,
+      "lastAir": 1792574135953,
       "title": "Close Out Deal- Sterling Silver Heart Pendant",
-      "pdpPrice": 34.99,
-      "auctionCode": "0019899733",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019916177",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-08",
-      "time": "01:09:23",
+      "date": "2026-10-21",
+      "time": "10:15:35",
       "productUrl": "/products/sterling-silver-heart-pendant-8763170?variant=53709927481610",
-      "lastUpdated": 1791418163402,
+      "lastUpdated": 1792574135953,
       "source": "gha",
       "missedAt": 1790038708423,
       "missedDelay": 9,
@@ -473714,8 +473714,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792574061360,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -537273,11 +537273,22 @@
         "followingSku": "7962093",
         "followingTitle": "One Time Deal - White Diamond Band Ring in 18K YG Vermeil Sterling Silver",
         "followingAuctionCode": null
+      },
+      {
+        "start": 1792574061360,
+        "end": 1792574135953,
+        "durationMin": 1.2,
+        "precedingSku": "8194444",
+        "precedingTitle": "Treasure Of Siam - Sterling Silver Heart Necklace (Size 18 - 1 Ext) in Yellow Gold Plating",
+        "precedingAuctionCode": "0019916170",
+        "followingSku": "8763171",
+        "followingTitle": "Close Out Deal- Sterling Silver Heart Pendant",
+        "followingAuctionCode": "0019916177"
       }
     ],
-    "lastOnAirSku": "8194444",
-    "lastOnAirTitle": "Treasure Of Siam - Sterling Silver Heart Necklace (Size 18 - 1 Ext) in Yellow Gold Plating",
-    "lastOnAirAuctionCode": "0019916170",
+    "lastOnAirSku": "8763171",
+    "lastOnAirTitle": "Close Out Deal- Sterling Silver Heart Pendant",
+    "lastOnAirAuctionCode": "0019916177",
     "precedingSku": "8194444",
     "precedingTitle": "Treasure Of Siam - Sterling Silver Heart Necklace (Size 18 - 1 Ext) in Yellow Gold Plating",
     "precedingAuctionCode": "0019916170"
