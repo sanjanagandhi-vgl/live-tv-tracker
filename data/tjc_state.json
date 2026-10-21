@@ -2209,23 +2209,23 @@
       "sku": "8426918",
       "tvPrice": "",
       "remarks": "",
-      "time": "10:25:25",
+      "time": "01:21:19",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Natural White Diamond Hoop Earring",
-      "auctionCode": "0019909562",
+      "auctionCode": "0019917243",
       "source": "gha",
-      "lastAir": 1792056325954,
-      "pdpPrice": "9.99",
+      "lastAir": 1792542079814,
+      "pdpPrice": "299.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-15",
+      "date": "2026-10-21",
       "productUrl": "/products/evertrue-white-diamond-full-hoop-earring?variant=53107443171594",
-      "lastUpdated": 1792056325954,
+      "lastUpdated": 1792542079814,
       "productUrlChecked": 1789508443278,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -472631,8 +472631,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792542036681,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -535783,11 +535783,22 @@
         "followingSku": "8675203",
         "followingTitle": "Italian Made Yellow Gold Plated Sterling Silver Necklace (Size - 16) with Lobster Clasp",
         "followingAuctionCode": "0019917316"
+      },
+      {
+        "start": 1792542036681,
+        "end": 1792542079814,
+        "durationMin": 0.7,
+        "precedingSku": "8675203",
+        "precedingTitle": "Italian Made Yellow Gold Plated Sterling Silver Necklace (Size - 16) with Lobster Clasp",
+        "precedingAuctionCode": "0019917316",
+        "followingSku": "8426918",
+        "followingTitle": "Natural White Diamond Hoop Earring",
+        "followingAuctionCode": "0019917243"
       }
     ],
-    "lastOnAirSku": "8675203",
-    "lastOnAirTitle": "Italian Made Yellow Gold Plated Sterling Silver Necklace (Size - 16) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019917316",
+    "lastOnAirSku": "8426918",
+    "lastOnAirTitle": "Natural White Diamond Hoop Earring",
+    "lastOnAirAuctionCode": "0019917243",
     "precedingSku": "8675203",
     "precedingTitle": "Italian Made Yellow Gold Plated Sterling Silver Necklace (Size - 16) with Lobster Clasp",
     "precedingAuctionCode": "0019917316"
