@@ -473721,11 +473721,29 @@
       "productUrl": null,
       "lastUpdated": 1792573942040,
       "source": "gha"
+    },
+    "8741965": {
+      "sku": "8741965",
+      "firstAir": 1792575983929,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792575983929,
+      "title": "Close Out - Big Classic Hoop Earring with Clasp",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019916769",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-21",
+      "time": "10:46:23",
+      "productUrl": null,
+      "lastUpdated": 1792575983929,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792575935526,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -537338,11 +537356,22 @@
         "followingSku": "8616438",
         "followingTitle": "Sterling Silver Deck Pave Curb Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019916180"
+      },
+      {
+        "start": 1792575935526,
+        "end": 1792575983929,
+        "durationMin": 0.8,
+        "precedingSku": "8616438",
+        "precedingTitle": "Sterling Silver Deck Pave Curb Necklace (Size - 20) with Lobster Clasp",
+        "precedingAuctionCode": "0019916180",
+        "followingSku": "8741965",
+        "followingTitle": "Close Out - Big Classic Hoop Earring with Clasp",
+        "followingAuctionCode": "0019916769"
       }
     ],
-    "lastOnAirSku": "8616438",
-    "lastOnAirTitle": "Sterling Silver Deck Pave Curb Necklace (Size - 20) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019916180",
+    "lastOnAirSku": "8741965",
+    "lastOnAirTitle": "Close Out - Big Classic Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019916769",
     "precedingSku": "8616438",
     "precedingTitle": "Sterling Silver Deck Pave Curb Necklace (Size - 20) with Lobster Clasp",
     "precedingAuctionCode": "0019916180"
