@@ -475081,8 +475081,12 @@
       "date": "2026-10-21",
       "time": "17:04:22",
       "productUrl": null,
-      "lastUpdated": 1792598662272,
-      "source": "gha"
+      "lastUpdated": 1792598783995,
+      "source": "gha",
+      "missedAt": 1792598783995,
+      "missedDelay": 2,
+      "missedPrice": 139.99,
+      "missedImg": true
     },
     "4531668": {
       "sku": "4531668",
@@ -475103,11 +475107,63 @@
       "productUrlChecked": 1792598191800,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8575769": {
+      "sku": "8575769",
+      "firstAir": 1792598783995,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792598783995,
+      "title": "GP Family Legacy Italy - Natural Champagne Diamond With Blue, Green, Red & Yellow Diamond & Blue Sapphire Cluster Floral Ring in 18K Gold Vermeil Sterling Silver 1.00 Ct.",
+      "pdpPrice": "2345.99",
+      "auctionCode": "0019916698",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-21",
+      "time": "17:06:23",
+      "productUrl": null,
+      "lastUpdated": 1792598783995,
+      "source": "gha"
+    },
+    "4534263": {
+      "sku": "4534263",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-21",
+      "time": "17:06:23",
+      "preExisting": true,
+      "missedAt": 1792598783995,
+      "missedDelay": null,
+      "lastUpdated": 1792598783995,
+      "missedPrice": 139.99,
+      "missedImg": true,
+      "title": "GP - Blue Diamond & Blue Sapphire Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
+      "auctionCode": "0019918468",
+      "source": "gha",
+      "productUrl": null
+    },
+    "4534262": {
+      "sku": "4534262",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-21",
+      "time": "17:06:23",
+      "preExisting": true,
+      "missedAt": 1792598783995,
+      "missedDelay": null,
+      "lastUpdated": 1792598783995,
+      "missedPrice": 139.99,
+      "missedImg": true,
+      "title": "GP - Champagne Diamond & Blue Sapphire Pendant with Chain (Size 20) in 18K Vermeil Rose Gold Plated Sterling Silver 0.50 Ct.",
+      "auctionCode": "0019918467",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792598728329,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -538962,11 +539018,22 @@
         "followingSku": "4534261",
         "followingTitle": "GP - Blue Diamond & Blue Sapphire Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
         "followingAuctionCode": "0019916493"
+      },
+      {
+        "start": 1792598728329,
+        "end": 1792598783995,
+        "durationMin": 0.9,
+        "precedingSku": "4534261",
+        "precedingTitle": "GP - Blue Diamond & Blue Sapphire Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
+        "precedingAuctionCode": "0019916493",
+        "followingSku": "8575769",
+        "followingTitle": "GP Family Legacy Italy - Natural Champagne Diamond With Blue, Green, Red & Yellow Diamond & Blue Sapphire Cluster Floral Ring in 18K Gold Vermeil Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019916698"
       }
     ],
-    "lastOnAirSku": "4534261",
-    "lastOnAirTitle": "GP - Blue Diamond & Blue Sapphire Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
-    "lastOnAirAuctionCode": "0019916493",
+    "lastOnAirSku": "8575769",
+    "lastOnAirTitle": "GP Family Legacy Italy - Natural Champagne Diamond With Blue, Green, Red & Yellow Diamond & Blue Sapphire Cluster Floral Ring in 18K Gold Vermeil Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019916698",
     "precedingSku": "4534261",
     "precedingTitle": "GP - Blue Diamond & Blue Sapphire Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
     "precedingAuctionCode": "0019916493"
