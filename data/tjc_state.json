@@ -462821,17 +462821,17 @@
       "firstAir": 1792135527055,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792135998700,
+      "lastAir": 1792685130813,
       "title": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
-      "pdpPrice": 29.99,
-      "auctionCode": null,
+      "pdpPrice": "29.99",
+      "auctionCode": "0019919859",
       "buy": true,
       "login": false,
-      "img": false,
-      "date": "2026-10-16",
-      "time": "08:33:18",
+      "img": true,
+      "date": "2026-10-22",
+      "time": "17:05:30",
       "productUrl": "/products/emreco-jumper-size-large-stone-8523171?variant=53906243813642",
-      "lastUpdated": 1792136061070,
+      "lastUpdated": 1792685130813,
       "source": "gha",
       "productUrlChecked": 1792136002150,
       "productUrlStatus": 200,
@@ -477942,8 +477942,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792685064748,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542711,11 +542711,22 @@
         "followingSku": "8632892",
         "followingTitle": "La Marey Patterned Skirt (Size - L-XL) - Pink",
         "followingAuctionCode": "0019919189"
+      },
+      {
+        "start": 1792685064748,
+        "end": 1792685130813,
+        "durationMin": 1.1,
+        "precedingSku": "8523177",
+        "precedingTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
+        "precedingAuctionCode": "0019919864",
+        "followingSku": "8523173",
+        "followingTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
+        "followingAuctionCode": "0019919859"
       }
     ],
-    "lastOnAirSku": "8523177",
+    "lastOnAirSku": "8523173",
     "lastOnAirTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
-    "lastOnAirAuctionCode": "0019919864",
+    "lastOnAirAuctionCode": "0019919859",
     "precedingSku": "8523177",
     "precedingTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
     "precedingAuctionCode": "0019919864"
