@@ -415518,25 +415518,26 @@
       "sku": "8808040",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-05",
-      "time": "12:41:19",
+      "date": "2026-10-22",
+      "time": "13:44:23",
       "preExisting": true,
       "missedAt": 1790931197388,
       "missedDelay": null,
-      "lastUpdated": 1791200479531,
+      "lastUpdated": 1792673063087,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Faux Fur Christmas Pattern Slipper (Size 5) - Brown & White",
-      "auctionCode": "0019896646",
-      "source": "gha-variant",
+      "title": "Faux Fur Christmas Pattern Slipper (Size 4) - Red & White",
+      "auctionCode": "0019919158",
+      "source": "gha",
       "productUrl": "/products/tjc-special-ladies-slipper-size-37-white-red-8807940",
       "productUrlChecked": 1790931204832,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791200479531,
-      "pdpPrice": 9.99,
+      "lastAir": 1792673063087,
+      "pdpPrice": "9.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "8808038": {
       "sku": "8808038",
@@ -477403,8 +477404,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792672942879,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542051,11 +542052,22 @@
         "followingSku": "8762495",
         "followingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
         "followingAuctionCode": "0019919147"
+      },
+      {
+        "start": 1792672942879,
+        "end": 1792673063087,
+        "durationMin": 2.0,
+        "precedingSku": "8762495",
+        "precedingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+        "precedingAuctionCode": "0019919147",
+        "followingSku": "8808040",
+        "followingTitle": "Faux Fur Christmas Pattern Slipper (Size 4) - Red & White",
+        "followingAuctionCode": "0019919158"
       }
     ],
-    "lastOnAirSku": "8762495",
-    "lastOnAirTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
-    "lastOnAirAuctionCode": "0019919147",
+    "lastOnAirSku": "8808040",
+    "lastOnAirTitle": "Faux Fur Christmas Pattern Slipper (Size 4) - Red & White",
+    "lastOnAirAuctionCode": "0019919158",
     "precedingSku": "8762495",
     "precedingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
     "precedingAuctionCode": "0019919147"
