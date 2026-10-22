@@ -478324,14 +478324,39 @@
       "img": true,
       "date": "2026-10-22",
       "time": "20:05:28",
+      "productUrl": "/products/rhodium-overlay-sterling-silver-earring-8828931",
+      "lastUpdated": 1792696040224,
+      "source": "gha",
+      "missedAt": 1792696040224,
+      "missedDelay": 2,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1792696043496,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8784874": {
+      "sku": "8784874",
+      "firstAir": 1792696040224,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792696040224,
+      "title": "Biggest Close Out-  9K Rose Gold SGL Certified Natural Champagne Diamond Ring 2.00 Ct.",
+      "pdpPrice": "14567.99",
+      "auctionCode": "0019920411",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-22",
+      "time": "20:07:20",
       "productUrl": null,
-      "lastUpdated": 1792695928983,
+      "lastUpdated": 1792696040224,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792695988597,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -543231,11 +543256,22 @@
         "followingSku": "8525773",
         "followingTitle": "Designer-Inspired Stylish Clutch with Chain Strap - Off White",
         "followingAuctionCode": "0019920285"
+      },
+      {
+        "start": 1792695988597,
+        "end": 1792696040224,
+        "durationMin": 0.9,
+        "precedingSku": "8828931",
+        "precedingTitle": "Diamond Cut Creole Earring with Clasp in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019920242",
+        "followingSku": "8784874",
+        "followingTitle": "Biggest Close Out-  9K Rose Gold SGL Certified Natural Champagne Diamond Ring 2.00 Ct.",
+        "followingAuctionCode": "0019920411"
       }
     ],
-    "lastOnAirSku": "8828931",
-    "lastOnAirTitle": "Diamond Cut Creole Earring with Clasp in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019920242",
+    "lastOnAirSku": "8784874",
+    "lastOnAirTitle": "Biggest Close Out-  9K Rose Gold SGL Certified Natural Champagne Diamond Ring 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019920411",
     "precedingSku": "8828931",
     "precedingTitle": "Diamond Cut Creole Earring with Clasp in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019920242"
