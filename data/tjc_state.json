@@ -4605,16 +4605,16 @@
       "firstAir": 1784887342450,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792700542500,
+      "lastAir": 1792701744008,
       "title": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
       "pdpPrice": "9.99",
-      "auctionCode": "0019920421",
+      "auctionCode": "0019919994",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-22",
-      "time": "21:22:22",
-      "lastUpdated": 1792700542500,
+      "time": "21:42:24",
+      "lastUpdated": 1792701744008,
       "source": "gha",
       "missedAt": 1784887878647,
       "missedDelay": 2,
@@ -478498,8 +478498,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792701559500,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -543432,11 +543432,22 @@
         "followingSku": "8769843",
         "followingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
         "followingAuctionCode": "0019919213"
+      },
+      {
+        "start": 1792701559500,
+        "end": 1792701744008,
+        "durationMin": 3.1,
+        "precedingSku": "8769831",
+        "precedingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
+        "precedingAuctionCode": "0019919208",
+        "followingSku": "3456340",
+        "followingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "followingAuctionCode": "0019919994"
       }
     ],
-    "lastOnAirSku": "8769831",
-    "lastOnAirTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
-    "lastOnAirAuctionCode": "0019919208",
+    "lastOnAirSku": "3456340",
+    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+    "lastOnAirAuctionCode": "0019919994",
     "precedingSku": "8769831",
     "precedingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
     "precedingAuctionCode": "0019919208"
