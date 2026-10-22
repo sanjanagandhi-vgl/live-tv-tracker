@@ -472894,17 +472894,17 @@
       "firstAir": 1792536799611,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792537038993,
+      "lastAir": 1792660160244,
       "title": "La Marey Sequin Top (Size L) - Purple",
-      "pdpPrice": 19.99,
-      "auctionCode": null,
-      "buy": false,
+      "pdpPrice": "27.99",
+      "auctionCode": "0019918952",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-20",
-      "time": "23:57:18",
+      "date": "2026-10-22",
+      "time": "10:09:20",
       "productUrl": "/products/la-marey-sequin-top?variant=53099818811658",
-      "lastUpdated": 1792537101930,
+      "lastUpdated": 1792660160244,
       "source": "gha",
       "productUrlChecked": 1792537041701,
       "productUrlStatus": 200,
@@ -476873,8 +476873,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792660042032,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541323,11 +541323,22 @@
         "followingSku": "8738422",
         "followingTitle": "Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019919408"
+      },
+      {
+        "start": 1792660042032,
+        "end": 1792660160244,
+        "durationMin": 2.0,
+        "precedingSku": "8738422",
+        "precedingTitle": "Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
+        "precedingAuctionCode": "0019919408",
+        "followingSku": "7848909",
+        "followingTitle": "La Marey Sequin Top (Size L) - Purple",
+        "followingAuctionCode": "0019918952"
       }
     ],
-    "lastOnAirSku": "8738422",
-    "lastOnAirTitle": "Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019919408",
+    "lastOnAirSku": "7848909",
+    "lastOnAirTitle": "La Marey Sequin Top (Size L) - Purple",
+    "lastOnAirAuctionCode": "0019918952",
     "precedingSku": "8738422",
     "precedingTitle": "Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
     "precedingAuctionCode": "0019919408"
