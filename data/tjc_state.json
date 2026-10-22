@@ -477297,11 +477297,32 @@
       "auctionCode": "0019918844",
       "source": "gha",
       "productUrl": null
+    },
+    "8588568": {
+      "sku": "8588568",
+      "firstAir": 1792668985029,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792668985029,
+      "title": "La Marey Long-sleeve Blouse (Size - L-XL, 16-22) - Black Leopard",
+      "pdpPrice": 269.99,
+      "auctionCode": null,
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-22",
+      "time": "12:36:25",
+      "productUrl": "/products/la-marey-patterned-blouse-size-s-m-burgundy-8588568?variant=53949588373770",
+      "lastUpdated": 1792668985029,
+      "source": "gha",
+      "productUrlChecked": 1792668987606,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792668927970,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541882,11 +541903,22 @@
         "followingSku": "8588627",
         "followingTitle": "La Marey Women Pleated Long Sleeved Blouse (S-M - UK 8-14) - Burgundy",
         "followingAuctionCode": "0019918810"
+      },
+      {
+        "start": 1792668927970,
+        "end": 1792668985029,
+        "durationMin": 1.0,
+        "precedingSku": "8588627",
+        "precedingTitle": "La Marey Women Pleated Long Sleeved Blouse (S-M - UK 8-14) - Burgundy",
+        "precedingAuctionCode": "0019918810",
+        "followingSku": "8588568",
+        "followingTitle": "La Marey Long-sleeve Blouse (Size - L-XL, 16-22) - Black Leopard",
+        "followingAuctionCode": null
       }
     ],
-    "lastOnAirSku": "8588627",
-    "lastOnAirTitle": "La Marey Women Pleated Long Sleeved Blouse (S-M - UK 8-14) - Burgundy",
-    "lastOnAirAuctionCode": "0019918810",
+    "lastOnAirSku": "8588568",
+    "lastOnAirTitle": "La Marey Long-sleeve Blouse (Size - L-XL, 16-22) - Black Leopard",
+    "lastOnAirAuctionCode": null,
     "precedingSku": "8588627",
     "precedingTitle": "La Marey Women Pleated Long Sleeved Blouse (S-M - UK 8-14) - Burgundy",
     "precedingAuctionCode": "0019918810"
