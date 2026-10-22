@@ -477944,11 +477944,29 @@
       "auctionCode": "0019919191",
       "source": "gha",
       "productUrl": null
+    },
+    "8778702": {
+      "sku": "8778702",
+      "firstAir": 1792686332880,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792686332880,
+      "title": "Ivy Faux Suede Dual Zip Low Block Heel Polyurethane Ankle Boots (Size 3) - Black",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019918845",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-22",
+      "time": "17:25:32",
+      "productUrl": null,
+      "lastUpdated": 1792686332880,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792686266175,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542727,11 +542745,22 @@
         "followingSku": "8523173",
         "followingTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
         "followingAuctionCode": "0019919859"
+      },
+      {
+        "start": 1792686266175,
+        "end": 1792686332880,
+        "durationMin": 1.1,
+        "precedingSku": "8535359",
+        "precedingTitle": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
+        "precedingAuctionCode": "0019919845",
+        "followingSku": "8778702",
+        "followingTitle": "Ivy Faux Suede Dual Zip Low Block Heel Polyurethane Ankle Boots (Size 3) - Black",
+        "followingAuctionCode": "0019918845"
       }
     ],
-    "lastOnAirSku": "8535359",
-    "lastOnAirTitle": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
-    "lastOnAirAuctionCode": "0019919845",
+    "lastOnAirSku": "8778702",
+    "lastOnAirTitle": "Ivy Faux Suede Dual Zip Low Block Heel Polyurethane Ankle Boots (Size 3) - Black",
+    "lastOnAirAuctionCode": "0019918845",
     "precedingSku": "8535359",
     "precedingTitle": "Designer Closeout - Patent Chic Saddle Crossbody Bag with Chain-link Shoulder Strap - Black",
     "precedingAuctionCode": "0019919845"
