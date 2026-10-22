@@ -136480,17 +136480,17 @@
       "firstAir": 1786464384147,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789438836575,
+      "lastAir": 1792682481471,
       "title": "La Marey Silk Feeling Wide Leg Trousers (Size - L-XL) - Black",
       "pdpPrice": "24.99",
-      "auctionCode": "0019869965",
+      "auctionCode": "0019919257",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-15",
-      "time": "03:20:36",
+      "date": "2026-10-22",
+      "time": "16:21:21",
       "productUrl": "/products/la-marey-patterned-jean-and-pant-trouser-1548465933",
-      "lastUpdated": 1789438836575,
+      "lastUpdated": 1792682481471,
       "source": "gha",
       "missedAt": 1786465039835,
       "missedDelay": 10,
@@ -477709,8 +477709,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792682436598,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542445,11 +542445,22 @@
         "followingSku": "8625701",
         "followingTitle": "La Marey Luxe Velvet Button Detail Two Way Blouse (Size XL, 20-22) - Burgundy",
         "followingAuctionCode": "0019918816"
+      },
+      {
+        "start": 1792682436598,
+        "end": 1792682481471,
+        "durationMin": 0.7,
+        "precedingSku": "8625701",
+        "precedingTitle": "La Marey Luxe Velvet Button Detail Two Way Blouse (Size XL, 20-22) - Burgundy",
+        "precedingAuctionCode": "0019918816",
+        "followingSku": "8465933",
+        "followingTitle": "La Marey Silk Feeling Wide Leg Trousers (Size - L-XL) - Black",
+        "followingAuctionCode": "0019919257"
       }
     ],
-    "lastOnAirSku": "8625701",
-    "lastOnAirTitle": "La Marey Luxe Velvet Button Detail Two Way Blouse (Size XL, 20-22) - Burgundy",
-    "lastOnAirAuctionCode": "0019918816",
+    "lastOnAirSku": "8465933",
+    "lastOnAirTitle": "La Marey Silk Feeling Wide Leg Trousers (Size - L-XL) - Black",
+    "lastOnAirAuctionCode": "0019919257",
     "precedingSku": "8625701",
     "precedingTitle": "La Marey Luxe Velvet Button Detail Two Way Blouse (Size XL, 20-22) - Burgundy",
     "precedingAuctionCode": "0019918816"
