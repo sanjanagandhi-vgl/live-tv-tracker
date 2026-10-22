@@ -478234,9 +478234,16 @@
       "img": true,
       "date": "2026-10-22",
       "time": "19:09:19",
-      "productUrl": null,
-      "lastUpdated": 1792692559405,
-      "source": "gha"
+      "productUrl": "/products/adjustable-textured-bangle-in-silver-tone-8777278",
+      "lastUpdated": 1792692638144,
+      "source": "gha",
+      "missedAt": 1792692638144,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1792692640727,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8742343": {
       "sku": "8742343",
@@ -478257,11 +478264,31 @@
       "productUrlChecked": 1792691905445,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8777277": {
+      "sku": "8777277",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-22",
+      "time": "19:10:38",
+      "preExisting": true,
+      "missedAt": 1792692638144,
+      "missedDelay": null,
+      "lastUpdated": 1792692638144,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Adjustable Textured Bangle (Size - 7) in Silver Tone",
+      "auctionCode": "0019920337",
+      "source": "gha",
+      "productUrl": "/products/adjustable-textured-bangle-in-silver-tone-8777278",
+      "productUrlChecked": 1792692641241,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792692638144,
     "gaps": [
       {
         "start": 1785823527869,
@@ -543133,8 +543160,8 @@
     "lastOnAirSku": "8777278",
     "lastOnAirTitle": "Close Out Deal- Adjustable Textured Bangle (Size -7)",
     "lastOnAirAuctionCode": "0019920235",
-    "precedingSku": "8741963",
-    "precedingTitle": "Paperclip-Shaped Hoop Earring with Push Back",
-    "precedingAuctionCode": "0019920232"
+    "precedingSku": "8777278",
+    "precedingTitle": "Close Out Deal- Adjustable Textured Bangle (Size -7)",
+    "precedingAuctionCode": "0019920235"
   }
 }
