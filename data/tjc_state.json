@@ -476554,21 +476554,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-22",
-      "time": "11:17:20",
+      "time": "12:54:21",
       "preExisting": true,
       "missedAt": 1792655182319,
       "missedDelay": null,
-      "lastUpdated": 1792664240650,
+      "lastUpdated": 1792670061271,
       "missedPrice": 24.99,
       "missedImg": false,
-      "title": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 14) - Chocolate",
-      "auctionCode": "0019919431",
-      "source": "gha-variant",
+      "title": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 20) - Navy",
+      "auctionCode": "0019919834",
+      "source": "gha",
       "productUrl": null,
-      "lastAir": 1792664240650,
-      "pdpPrice": 24.99,
+      "lastAir": 1792670061271,
+      "pdpPrice": "24.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": false
     },
     "8821488": {
       "sku": "8821488",
@@ -477390,8 +477391,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792669941369,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541994,11 +541995,22 @@
         "followingSku": "8588615",
         "followingTitle": "La Marey Long-sleeve Blouse (Size - L-XL, 16-22) - Black Leopard",
         "followingAuctionCode": "0019918808"
+      },
+      {
+        "start": 1792669941369,
+        "end": 1792670061271,
+        "durationMin": 2.0,
+        "precedingSku": "8588615",
+        "precedingTitle": "La Marey Women Pleated Long Sleeved Blouse (L-XL - UK 16-22) - Burgundy",
+        "precedingAuctionCode": "0019918808",
+        "followingSku": "8821490",
+        "followingTitle": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 20) - Navy",
+        "followingAuctionCode": "0019919834"
       }
     ],
-    "lastOnAirSku": "8588615",
-    "lastOnAirTitle": "La Marey Women Pleated Long Sleeved Blouse (L-XL - UK 16-22) - Burgundy",
-    "lastOnAirAuctionCode": "0019918808",
+    "lastOnAirSku": "8821490",
+    "lastOnAirTitle": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 20) - Navy",
+    "lastOnAirAuctionCode": "0019919834",
     "precedingSku": "8588615",
     "precedingTitle": "La Marey Women Pleated Long Sleeved Blouse (L-XL - UK 16-22) - Burgundy",
     "precedingAuctionCode": "0019918808"
