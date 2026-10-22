@@ -1780,23 +1780,23 @@
       "sku": "8519081",
       "tvPrice": "",
       "remarks": "",
-      "time": "08:27:17",
+      "time": "08:17:21",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Leopard Royal Savannah EDP - 100ml",
-      "auctionCode": null,
+      "auctionCode": "0019918557",
       "source": "gha",
-      "lastAir": 1792481237840,
-      "pdpPrice": 19.99,
-      "buy": false,
+      "lastAir": 1792653441195,
+      "pdpPrice": "19.99",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-20",
+      "date": "2026-10-22",
       "productUrl": "/products/laurelle-gold-leopard-edp-100ml?variant=53106114724106",
-      "lastUpdated": 1792481237840,
+      "lastUpdated": 1792653441195,
       "productUrlChecked": 1792481240848,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -476272,8 +476272,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792653197679,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -540634,11 +540634,22 @@
         "followingSku": "8235959",
         "followingTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Bangle (Size - 7.5)",
         "followingAuctionCode": "0019918454"
+      },
+      {
+        "start": 1792653197679,
+        "end": 1792653441195,
+        "durationMin": 4.1,
+        "precedingSku": "8235959",
+        "precedingTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Bangle (Size - 7.5)",
+        "precedingAuctionCode": "0019918454",
+        "followingSku": "8519081",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019918557"
       }
     ],
-    "lastOnAirSku": "8235959",
-    "lastOnAirTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Bangle (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019918454",
+    "lastOnAirSku": "8519081",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019918557",
     "precedingSku": "8235959",
     "precedingTitle": "Designer Inspired - EverTrue - Natural Chrome Diopside Panther Bangle (Size - 7.5)",
     "precedingAuctionCode": "0019918454"
