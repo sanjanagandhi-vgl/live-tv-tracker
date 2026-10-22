@@ -477688,11 +477688,29 @@
       "productUrlChecked": 1792680747986,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8625701": {
+      "sku": "8625701",
+      "firstAir": 1792681704036,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792681704036,
+      "title": "La Marey Luxe Velvet Button Detail Two Way Blouse (Size XL, 20-22) - Burgundy",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019918816",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-22",
+      "time": "16:08:24",
+      "productUrl": null,
+      "lastUpdated": 1792681704036,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792681342538,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542416,11 +542434,22 @@
         "followingSku": "8585784",
         "followingTitle": "Pure And Natural Ladies Nehru Collar 3-Button Placket Pleated Top (Size S, 8-10) - Navy",
         "followingAuctionCode": "0019918913"
+      },
+      {
+        "start": 1792681342538,
+        "end": 1792681704036,
+        "durationMin": 6.0,
+        "precedingSku": "8287287",
+        "precedingTitle": "Pure And Natural Classic Cape With Belt (One Size) - Khaki",
+        "precedingAuctionCode": "0019919253",
+        "followingSku": "8625701",
+        "followingTitle": "La Marey Luxe Velvet Button Detail Two Way Blouse (Size XL, 20-22) - Burgundy",
+        "followingAuctionCode": "0019918816"
       }
     ],
-    "lastOnAirSku": "8287287",
-    "lastOnAirTitle": "Pure And Natural Classic Cape With Belt (One Size) - Khaki",
-    "lastOnAirAuctionCode": "0019919253",
+    "lastOnAirSku": "8625701",
+    "lastOnAirTitle": "La Marey Luxe Velvet Button Detail Two Way Blouse (Size XL, 20-22) - Burgundy",
+    "lastOnAirAuctionCode": "0019918816",
     "precedingSku": "8287287",
     "precedingTitle": "Pure And Natural Classic Cape With Belt (One Size) - Khaki",
     "precedingAuctionCode": "0019919253"
