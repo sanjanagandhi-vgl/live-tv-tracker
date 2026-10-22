@@ -476432,8 +476432,12 @@
       "date": "2026-10-22",
       "time": "08:47:16",
       "productUrl": null,
-      "lastUpdated": 1792655236361,
-      "source": "gha"
+      "lastUpdated": 1792655304213,
+      "source": "gha",
+      "missedAt": 1792655304213,
+      "missedDelay": 1,
+      "missedPrice": 24.99,
+      "missedImg": false
     },
     "8821498": {
       "sku": "8821498",
@@ -476519,11 +476523,96 @@
       "auctionCode": "0019919224",
       "source": "gha",
       "productUrl": null
+    },
+    "8821505": {
+      "sku": "8821505",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-22",
+      "time": "08:48:24",
+      "preExisting": true,
+      "missedAt": 1792655304213,
+      "missedDelay": null,
+      "lastUpdated": 1792655304213,
+      "missedPrice": 24.99,
+      "missedImg": false,
+      "title": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 20) - Burgundy",
+      "auctionCode": "0019919234",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8821504": {
+      "sku": "8821504",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-22",
+      "time": "08:48:24",
+      "preExisting": true,
+      "missedAt": 1792655304213,
+      "missedDelay": null,
+      "lastUpdated": 1792655304213,
+      "missedPrice": 24.99,
+      "missedImg": false,
+      "title": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 18) - Burgundy",
+      "auctionCode": "0019919233",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8821503": {
+      "sku": "8821503",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-22",
+      "time": "08:48:24",
+      "preExisting": true,
+      "missedAt": 1792655304213,
+      "missedDelay": null,
+      "lastUpdated": 1792655304213,
+      "missedPrice": 24.99,
+      "missedImg": false,
+      "title": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 16) - Burgundy",
+      "auctionCode": "0019919232",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8821502": {
+      "sku": "8821502",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-22",
+      "time": "08:48:24",
+      "preExisting": true,
+      "missedAt": 1792655304213,
+      "missedDelay": null,
+      "lastUpdated": 1792655304213,
+      "missedPrice": 24.99,
+      "missedImg": false,
+      "title": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 14) - Burgundy",
+      "auctionCode": "0019919231",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8821500": {
+      "sku": "8821500",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-22",
+      "time": "08:48:24",
+      "preExisting": true,
+      "missedAt": 1792655304213,
+      "missedDelay": null,
+      "lastUpdated": 1792655304213,
+      "missedPrice": 24.99,
+      "missedImg": false,
+      "title": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 12) - Burgundy",
+      "auctionCode": "0019919230",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792655304213,
     "gaps": [
       {
         "start": 1785823527869,
@@ -540922,8 +541011,8 @@
     "lastOnAirSku": "8821501",
     "lastOnAirTitle": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 20) - Ivory",
     "lastOnAirAuctionCode": "0019919229",
-    "precedingSku": "8808093",
-    "precedingTitle": "Womens Zipper Ankle Boots (Size 4) - Red",
-    "precedingAuctionCode": null
+    "precedingSku": "8821501",
+    "precedingTitle": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 20) - Ivory",
+    "precedingAuctionCode": "0019919229"
   }
 }
