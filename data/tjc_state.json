@@ -205633,21 +205633,26 @@
       "sku": "8205085",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-20",
-      "time": "18:58:26",
+      "date": "2026-10-22",
+      "time": "15:26:23",
       "preExisting": true,
       "missedAt": 1787248706126,
       "missedDelay": null,
-      "lastUpdated": 1787248706126,
+      "lastUpdated": 1792679183493,
       "missedPrice": 5.99,
       "missedImg": true,
-      "title": "Designer Closeout Deal - Beanie Hat & Fingerless Glove Set with Colourful Button Accents - Burgundy",
-      "auctionCode": "0019833969",
+      "title": "Designer Closeout Deal - Beanie Hat & Fingerless Glove Set with Colourful Button Accents - Black",
+      "auctionCode": "0019919267",
       "source": "gha",
       "productUrl": "/products/beanie-hat-glove-set-with-colorful-button-accents",
       "productUrlChecked": 1787248721143,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792679183493,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8502006": {
       "sku": "8502006",
@@ -477454,8 +477459,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792679127756,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542146,11 +542151,22 @@
         "followingSku": "8744787",
         "followingTitle": "Milan CloseOut- Designer Inspired 100% Full Grain  Genuine Leather Multi-Pocket Crossbody Shoulder Bag - Green",
         "followingAuctionCode": "0019919850"
+      },
+      {
+        "start": 1792679127756,
+        "end": 1792679183493,
+        "durationMin": 0.9,
+        "precedingSku": "8744787",
+        "precedingTitle": "Milan CloseOut- Designer Inspired 100% Full Grain  Genuine Leather Multi-Pocket Crossbody Shoulder Bag - Green",
+        "precedingAuctionCode": "0019919850",
+        "followingSku": "8205085",
+        "followingTitle": "Designer Closeout Deal - Beanie Hat & Fingerless Glove Set with Colourful Button Accents - Black",
+        "followingAuctionCode": "0019919267"
       }
     ],
-    "lastOnAirSku": "8744787",
-    "lastOnAirTitle": "Milan CloseOut- Designer Inspired 100% Full Grain  Genuine Leather Multi-Pocket Crossbody Shoulder Bag - Green",
-    "lastOnAirAuctionCode": "0019919850",
+    "lastOnAirSku": "8205085",
+    "lastOnAirTitle": "Designer Closeout Deal - Beanie Hat & Fingerless Glove Set with Colourful Button Accents - Black",
+    "lastOnAirAuctionCode": "0019919267",
     "precedingSku": "8744787",
     "precedingTitle": "Milan CloseOut- Designer Inspired 100% Full Grain  Genuine Leather Multi-Pocket Crossbody Shoulder Bag - Green",
     "precedingAuctionCode": "0019919850"
