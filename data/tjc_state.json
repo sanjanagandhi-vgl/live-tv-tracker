@@ -477426,11 +477426,29 @@
       "missedDelay": 1,
       "missedPrice": 9.97,
       "missedImg": false
+    },
+    "221339463": {
+      "sku": "221339463",
+      "firstAir": 1792676362251,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792676362251,
+      "title": "Christmas Set of 3 EDP Collection - Wings, RED Serenity Now & Chandelier Rouge - 3x100ml Each",
+      "pdpPrice": "45.99",
+      "auctionCode": "0019919821",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-22",
+      "time": "14:39:22",
+      "productUrl": null,
+      "lastUpdated": 1792676362251,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792676240809,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542099,11 +542117,22 @@
         "followingSku": "8683484",
         "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
         "followingAuctionCode": "0019919053"
+      },
+      {
+        "start": 1792676240809,
+        "end": 1792676362251,
+        "durationMin": 2.0,
+        "precedingSku": "3456340",
+        "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "precedingAuctionCode": "0019919456",
+        "followingSku": "221339463",
+        "followingTitle": "Christmas Set of 3 EDP Collection - Wings, RED Serenity Now & Chandelier Rouge - 3x100ml Each",
+        "followingAuctionCode": "0019919821"
       }
     ],
-    "lastOnAirSku": "3456340",
-    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-    "lastOnAirAuctionCode": "0019919456",
+    "lastOnAirSku": "221339463",
+    "lastOnAirTitle": "Christmas Set of 3 EDP Collection - Wings, RED Serenity Now & Chandelier Rouge - 3x100ml Each",
+    "lastOnAirAuctionCode": "0019919821",
     "precedingSku": "3456340",
     "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
     "precedingAuctionCode": "0019919456"
