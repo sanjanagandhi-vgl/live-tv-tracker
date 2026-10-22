@@ -415693,21 +415693,26 @@
       "sku": "8686859",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "10:04:57",
+      "date": "2026-10-22",
+      "time": "09:46:22",
       "preExisting": true,
       "missedAt": 1790931897534,
       "missedDelay": null,
-      "lastUpdated": 1790931897534,
+      "lastUpdated": 1792658782398,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "La Marey Signature Printed Scarf (Size - One Size) - Navy Blue",
-      "auctionCode": "0019892218",
+      "title": "La Marey Signature Striped Shawl (180 x 65cm) - Light Grey, Beige & Black",
+      "auctionCode": "0019918535",
       "source": "gha",
       "productUrl": "/products/la-marey-signature-printed-scarf-size-one-size-light-grey-8686852",
       "productUrlChecked": 1790931906607,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792658782398,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7268908": {
       "sku": "7268908",
@@ -476868,8 +476873,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792658661848,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541296,11 +541301,22 @@
         "followingSku": "8486535",
         "followingTitle": "William Hunt Miyota Japanese Movement With Date Function Black Sunray Dial Watch - Black",
         "followingAuctionCode": "0019918590"
+      },
+      {
+        "start": 1792658661848,
+        "end": 1792658782398,
+        "durationMin": 2.0,
+        "precedingSku": "8486535",
+        "precedingTitle": "William Hunt Miyota Japanese Movement With Date Function Black Sunray Dial Watch - Black",
+        "precedingAuctionCode": "0019918590",
+        "followingSku": "8686859",
+        "followingTitle": "La Marey Signature Striped Shawl (180 x 65cm) - Light Grey, Beige & Black",
+        "followingAuctionCode": "0019918535"
       }
     ],
-    "lastOnAirSku": "8486535",
-    "lastOnAirTitle": "William Hunt Miyota Japanese Movement With Date Function Black Sunray Dial Watch - Black",
-    "lastOnAirAuctionCode": "0019918590",
+    "lastOnAirSku": "8686859",
+    "lastOnAirTitle": "La Marey Signature Striped Shawl (180 x 65cm) - Light Grey, Beige & Black",
+    "lastOnAirAuctionCode": "0019918535",
     "precedingSku": "8486535",
     "precedingTitle": "William Hunt Miyota Japanese Movement With Date Function Black Sunray Dial Watch - Black",
     "precedingAuctionCode": "0019918590"
