@@ -476870,11 +476870,29 @@
       "productUrlChecked": 1792657644334,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8787743": {
+      "sku": "8787743",
+      "firstAir": 1792661305144,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792661305144,
+      "title": "Chilli Charm Boxy Jumper With Buttons (One Size) - Pink Melange",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019918836",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-22",
+      "time": "10:28:25",
+      "productUrl": null,
+      "lastUpdated": 1792661305144,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792661182908,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541356,11 +541374,22 @@
         "followingSku": "8583371",
         "followingTitle": "Charlotte West Womens Cotton Blend Cuffed Sweatpants Lounge Joggers (Size 20 To 22) - Khaki",
         "followingAuctionCode": "0019918927"
+      },
+      {
+        "start": 1792661182908,
+        "end": 1792661305144,
+        "durationMin": 2.0,
+        "precedingSku": "8583371",
+        "precedingTitle": "Charlotte West Womens Cotton Blend Cuffed Sweatpants Lounge Joggers (Size 20 To 22) - Khaki",
+        "precedingAuctionCode": "0019918927",
+        "followingSku": "8787743",
+        "followingTitle": "Chilli Charm Boxy Jumper With Buttons (One Size) - Pink Melange",
+        "followingAuctionCode": "0019918836"
       }
     ],
-    "lastOnAirSku": "8583371",
-    "lastOnAirTitle": "Charlotte West Womens Cotton Blend Cuffed Sweatpants Lounge Joggers (Size 20 To 22) - Khaki",
-    "lastOnAirAuctionCode": "0019918927",
+    "lastOnAirSku": "8787743",
+    "lastOnAirTitle": "Chilli Charm Boxy Jumper With Buttons (One Size) - Pink Melange",
+    "lastOnAirAuctionCode": "0019918836",
     "precedingSku": "8583371",
     "precedingTitle": "Charlotte West Womens Cotton Blend Cuffed Sweatpants Lounge Joggers (Size 20 To 22) - Khaki",
     "precedingAuctionCode": "0019918927"
