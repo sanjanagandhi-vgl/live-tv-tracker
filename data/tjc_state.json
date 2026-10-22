@@ -475761,18 +475761,23 @@
       "sku": "8782647",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-21",
-      "time": "22:04:24",
+      "date": "2026-10-22",
+      "time": "07:02:22",
       "preExisting": true,
       "missedAt": 1792616664230,
       "missedDelay": null,
-      "lastUpdated": 1792616664230,
+      "lastUpdated": 1792648942213,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
-      "auctionCode": "0019918289",
+      "auctionCode": "0019919292",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792648942213,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8763903": {
       "sku": "8763903",
@@ -476222,8 +476227,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792648861522,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -540485,11 +540490,22 @@
         "followingSku": "4479260",
         "followingTitle": "California Black Jadeite & Moissanite Cross Pendant with Chain (Size 18) with Lobster Clasp in Rhodium Overlay Sterling Silver 18.20 Ct.",
         "followingAuctionCode": "0019918457"
+      },
+      {
+        "start": 1792648861522,
+        "end": 1792648942213,
+        "durationMin": 1.3,
+        "precedingSku": "8787851",
+        "precedingTitle": "SUPER FIND - GP Starry Sky Swiss Quartrz Movt. 5ATM with Sapphire Crystals in Dual Tone Stainless Steel Watch. 36mm Case with Signature Natural Blue Sapphire Crown",
+        "precedingAuctionCode": "0019919306",
+        "followingSku": "8782647",
+        "followingTitle": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
+        "followingAuctionCode": "0019919292"
       }
     ],
-    "lastOnAirSku": "8787851",
-    "lastOnAirTitle": "SUPER FIND - GP Starry Sky Swiss Quartrz Movt. 5ATM with Sapphire Crystals in Dual Tone Stainless Steel Watch. 36mm Case with Signature Natural Blue Sapphire Crown",
-    "lastOnAirAuctionCode": "0019919306",
+    "lastOnAirSku": "8782647",
+    "lastOnAirTitle": "Type A Natural Jadeite & Natural Chrome Diopside Dragon Bracelet (Size - 7)",
+    "lastOnAirAuctionCode": "0019919292",
     "precedingSku": "8787851",
     "precedingTitle": "SUPER FIND - GP Starry Sky Swiss Quartrz Movt. 5ATM with Sapphire Crystals in Dual Tone Stainless Steel Watch. 36mm Case with Signature Natural Blue Sapphire Crown",
     "precedingAuctionCode": "0019919306"
