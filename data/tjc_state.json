@@ -476624,8 +476624,12 @@
       "date": "2026-10-22",
       "time": "09:03:19",
       "productUrl": null,
-      "lastUpdated": 1792656199836,
-      "source": "gha"
+      "lastUpdated": 1792656264656,
+      "source": "gha",
+      "missedAt": 1792656264656,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true
     },
     "7865210": {
       "sku": "7865210",
@@ -476641,8 +476645,12 @@
       "date": "2026-10-22",
       "time": "09:03:19",
       "productUrl": null,
-      "lastUpdated": 1792656199836,
-      "source": "gha-variant"
+      "lastUpdated": 1792656264656,
+      "source": "gha-variant",
+      "missedAt": 1792656264656,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true
     },
     "7865195": {
       "sku": "7865195",
@@ -476658,8 +476666,12 @@
       "date": "2026-10-22",
       "time": "09:03:19",
       "productUrl": null,
-      "lastUpdated": 1792656199836,
-      "source": "gha-variant"
+      "lastUpdated": 1792656264656,
+      "source": "gha-variant",
+      "missedAt": 1792656264656,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true
     },
     "7865196": {
       "sku": "7865196",
@@ -476675,8 +476687,12 @@
       "date": "2026-10-22",
       "time": "09:03:19",
       "productUrl": null,
-      "lastUpdated": 1792656199836,
-      "source": "gha-variant"
+      "lastUpdated": 1792656264656,
+      "source": "gha-variant",
+      "missedAt": 1792656264656,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true
     },
     "7865211": {
       "sku": "7865211",
@@ -476692,8 +476708,12 @@
       "date": "2026-10-22",
       "time": "09:03:19",
       "productUrl": null,
-      "lastUpdated": 1792656199836,
-      "source": "gha-variant"
+      "lastUpdated": 1792656264656,
+      "source": "gha-variant",
+      "missedAt": 1792656264656,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true
     },
     "7865213": {
       "sku": "7865213",
@@ -476709,13 +476729,17 @@
       "date": "2026-10-22",
       "time": "09:03:19",
       "productUrl": null,
-      "lastUpdated": 1792656199836,
-      "source": "gha-variant"
+      "lastUpdated": 1792656264656,
+      "source": "gha-variant",
+      "missedAt": 1792656264656,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792656264656,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541125,8 +541149,8 @@
     "lastOnAirSku": "7865194",
     "lastOnAirTitle": "La Marey Festive Velvet Blouse (Size 16 to 18) - Purple",
     "lastOnAirAuctionCode": "0019918653",
-    "precedingSku": "8821501",
-    "precedingTitle": "Pure And Natural Ladies Ribbed Trim Long Sleeve Knit Roll Neck Jumper (Size 20) - Ivory",
-    "precedingAuctionCode": "0019919229"
+    "precedingSku": "7865194",
+    "precedingTitle": "La Marey Festive Velvet Blouse (Size 16 to 18) - Purple",
+    "precedingAuctionCode": "0019918653"
   }
 }
