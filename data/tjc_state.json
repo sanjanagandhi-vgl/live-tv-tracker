@@ -477274,13 +477274,34 @@
       "date": "2026-10-22",
       "time": "12:34:21",
       "productUrl": null,
-      "lastUpdated": 1792668861563,
-      "source": "gha"
+      "lastUpdated": 1792668927970,
+      "source": "gha",
+      "missedAt": 1792668927970,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
+    },
+    "8588628": {
+      "sku": "8588628",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-22",
+      "time": "12:35:27",
+      "preExisting": true,
+      "missedAt": 1792668927970,
+      "missedDelay": null,
+      "lastUpdated": 1792668927970,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "La Marey Long-sleeve Blouse (Size - L-XL, 16-22) - Black Leopard",
+      "auctionCode": "0019918844",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792668927970,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541866,8 +541887,8 @@
     "lastOnAirSku": "8588627",
     "lastOnAirTitle": "La Marey Women Pleated Long Sleeved Blouse (S-M - UK 8-14) - Burgundy",
     "lastOnAirAuctionCode": "0019918810",
-    "precedingSku": "8233580",
-    "precedingTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
-    "precedingAuctionCode": null
+    "precedingSku": "8588627",
+    "precedingTitle": "La Marey Women Pleated Long Sleeved Blouse (S-M - UK 8-14) - Burgundy",
+    "precedingAuctionCode": "0019918810"
   }
 }
