@@ -477897,11 +477897,29 @@
       "auctionCode": "0019919190",
       "source": "gha",
       "productUrl": null
+    },
+    "8632892": {
+      "sku": "8632892",
+      "firstAir": 1792684279302,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792684279302,
+      "title": "La Marey Patterned Skirt (Size - L-XL) - Pink",
+      "pdpPrice": "359.99",
+      "auctionCode": "0019919189",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-22",
+      "time": "16:51:19",
+      "productUrl": null,
+      "lastUpdated": 1792684279302,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792684242638,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542658,11 +542676,22 @@
         "followingSku": "8465931",
         "followingTitle": "La Marey Silk-Feel Wide Leg Trousers (Size L-XL, 16 To 22) - Dark Goldenrod",
         "followingAuctionCode": "0019919255"
+      },
+      {
+        "start": 1792684242638,
+        "end": 1792684279302,
+        "durationMin": 0.6,
+        "precedingSku": "8632890",
+        "precedingTitle": "La Marey Patterned Skirt (Size - L-XL) - Pink",
+        "precedingAuctionCode": "0019919188",
+        "followingSku": "8632892",
+        "followingTitle": "La Marey Patterned Skirt (Size - L-XL) - Pink",
+        "followingAuctionCode": "0019919189"
       }
     ],
-    "lastOnAirSku": "8632890",
+    "lastOnAirSku": "8632892",
     "lastOnAirTitle": "La Marey Patterned Skirt (Size - L-XL) - Pink",
-    "lastOnAirAuctionCode": "0019919188",
+    "lastOnAirAuctionCode": "0019919189",
     "precedingSku": "8632890",
     "precedingTitle": "La Marey Patterned Skirt (Size - L-XL) - Pink",
     "precedingAuctionCode": "0019919188"
