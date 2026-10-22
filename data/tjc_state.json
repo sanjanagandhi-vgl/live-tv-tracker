@@ -477258,11 +477258,29 @@
       "missedDelay": 1,
       "missedPrice": 12.99,
       "missedImg": false
+    },
+    "8588627": {
+      "sku": "8588627",
+      "firstAir": 1792668382035,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792668382035,
+      "title": "La Marey Women Pleated Long Sleeved Blouse (S-M - UK 8-14) - Burgundy",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019918810",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-22",
+      "time": "12:26:22",
+      "productUrl": null,
+      "lastUpdated": 1792668382035,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792668199072,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541832,11 +541850,22 @@
         "followingSku": "8233580",
         "followingTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
         "followingAuctionCode": "0019919626"
+      },
+      {
+        "start": 1792668199072,
+        "end": 1792668382035,
+        "durationMin": 3.0,
+        "precedingSku": "8233580",
+        "precedingTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
+        "precedingAuctionCode": null,
+        "followingSku": "8588627",
+        "followingTitle": "La Marey Women Pleated Long Sleeved Blouse (S-M - UK 8-14) - Burgundy",
+        "followingAuctionCode": "0019918810"
       }
     ],
-    "lastOnAirSku": "8233580",
-    "lastOnAirTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8588627",
+    "lastOnAirTitle": "La Marey Women Pleated Long Sleeved Blouse (S-M - UK 8-14) - Burgundy",
+    "lastOnAirAuctionCode": "0019918810",
     "precedingSku": "8233580",
     "precedingTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
     "precedingAuctionCode": null
