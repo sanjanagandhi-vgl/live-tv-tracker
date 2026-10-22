@@ -471906,18 +471906,23 @@
       "sku": "8583298",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-20",
-      "time": "16:20:47",
+      "date": "2026-10-22",
+      "time": "11:35:28",
       "preExisting": true,
       "missedAt": 1792509647611,
       "missedDelay": null,
-      "lastUpdated": 1792509647611,
+      "lastUpdated": 1792665328301,
       "missedPrice": 44.99,
       "missedImg": true,
-      "title": "DULCE CAROLINE Reversible Ladies Padded Jacket With Hood (Size M, 12-14) - Red",
-      "auctionCode": "0019917185",
+      "title": "Charlotte West Reversible Lightweight Jacket (Size XXL, 24 to 26) - Red",
+      "auctionCode": "0019919318",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792665328301,
+      "pdpPrice": "44.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8583297": {
       "sku": "8583297",
@@ -477159,8 +477164,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792665262679,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541697,11 +541702,22 @@
         "followingSku": "8583294",
         "followingTitle": "Charlotte West Reversible Lightweight Jacket (Size XXL, 24 to 26) - Red",
         "followingAuctionCode": "0019919317"
+      },
+      {
+        "start": 1792665262679,
+        "end": 1792665328301,
+        "durationMin": 1.1,
+        "precedingSku": "8583294",
+        "precedingTitle": "Charlotte West Reversible Lightweight Jacket (Size XXL, 24 to 26) - Red",
+        "precedingAuctionCode": "0019919317",
+        "followingSku": "8583298",
+        "followingTitle": "Charlotte West Reversible Lightweight Jacket (Size XXL, 24 to 26) - Red",
+        "followingAuctionCode": "0019919318"
       }
     ],
-    "lastOnAirSku": "8583294",
+    "lastOnAirSku": "8583298",
     "lastOnAirTitle": "Charlotte West Reversible Lightweight Jacket (Size XXL, 24 to 26) - Red",
-    "lastOnAirAuctionCode": "0019919317",
+    "lastOnAirAuctionCode": "0019919318",
     "precedingSku": "8583294",
     "precedingTitle": "Charlotte West Reversible Lightweight Jacket (Size XXL, 24 to 26) - Red",
     "precedingAuctionCode": "0019919317"
