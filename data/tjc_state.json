@@ -334399,23 +334399,23 @@
       "sku": "8683484",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-19",
-      "time": "08:27:17",
+      "date": "2026-10-22",
+      "time": "13:50:39",
       "preExisting": true,
       "missedAt": 1789116038316,
       "missedDelay": null,
-      "lastUpdated": 1792394837990,
+      "lastUpdated": 1792673439511,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
-      "auctionCode": null,
+      "auctionCode": "0019919053",
       "source": "gha",
       "productUrl": "/products/socks-size-s-m-black-white-8683473?variant=53637245075722",
       "productUrlChecked": 1789116041413,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792394837990,
-      "pdpPrice": 7.99,
+      "lastAir": 1792673439511,
+      "pdpPrice": "149.99",
       "buy": true,
       "login": false,
       "img": true
@@ -477404,8 +477404,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792673363106,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542063,11 +542063,22 @@
         "followingSku": "8808040",
         "followingTitle": "Faux Fur Christmas Pattern Slipper (Size 4) - Red & White",
         "followingAuctionCode": "0019919158"
+      },
+      {
+        "start": 1792673363106,
+        "end": 1792673439511,
+        "durationMin": 1.3,
+        "precedingSku": "8808043",
+        "precedingTitle": "Faux Fur Christmas Pattern Slipper (Size 4) - Red & White",
+        "precedingAuctionCode": "0019919159",
+        "followingSku": "8683484",
+        "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "followingAuctionCode": "0019919053"
       }
     ],
-    "lastOnAirSku": "8808043",
-    "lastOnAirTitle": "Faux Fur Christmas Pattern Slipper (Size 4) - Red & White",
-    "lastOnAirAuctionCode": "0019919159",
+    "lastOnAirSku": "8683484",
+    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+    "lastOnAirAuctionCode": "0019919053",
     "precedingSku": "8808043",
     "precedingTitle": "Faux Fur Christmas Pattern Slipper (Size 4) - Red & White",
     "precedingAuctionCode": "0019919159"
