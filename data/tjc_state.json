@@ -439722,21 +439722,26 @@
       "sku": "8762495",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-09",
-      "time": "16:32:22",
+      "date": "2026-10-22",
+      "time": "13:35:34",
       "preExisting": true,
       "missedAt": 1791559942039,
       "missedDelay": null,
-      "lastUpdated": 1791559942039,
+      "lastUpdated": 1792672534738,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Luxury Faux Fur Soft Cover Hot Water Bottle - Brown",
-      "auctionCode": "0019902536",
+      "title": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+      "auctionCode": "0019919147",
       "source": "gha",
       "productUrl": "/products/tjc-special-christmas-ornament-size-one-size-grey-8762490",
       "productUrlChecked": 1791559950296,
       "productUrlStatus": 503,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792672534738,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8762494": {
       "sku": "8762494",
@@ -477398,8 +477403,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792672342764,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542035,11 +542040,22 @@
         "followingSku": "8647071",
         "followingTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Off White & Brown",
         "followingAuctionCode": "0019919876"
+      },
+      {
+        "start": 1792672342764,
+        "end": 1792672534738,
+        "durationMin": 3.2,
+        "precedingSku": "8647071",
+        "precedingTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Beige",
+        "precedingAuctionCode": "0019919876",
+        "followingSku": "8762495",
+        "followingTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+        "followingAuctionCode": "0019919147"
       }
     ],
-    "lastOnAirSku": "8647071",
-    "lastOnAirTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Beige",
-    "lastOnAirAuctionCode": "0019919876",
+    "lastOnAirSku": "8762495",
+    "lastOnAirTitle": "Luxury Faux Fur Soft Cover Hot Water Bottle - Grey",
+    "lastOnAirAuctionCode": "0019919147",
     "precedingSku": "8647071",
     "precedingTitle": "LIVMORE Double Layer Plush Cloudy Cozy Blanket (150 x 200) - Beige",
     "precedingAuctionCode": "0019919876"
