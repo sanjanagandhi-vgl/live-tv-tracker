@@ -89552,21 +89552,21 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-22",
-      "time": "00:53:17",
+      "time": "09:55:28",
       "preExisting": true,
       "missedAt": 1786057413979,
       "missedDelay": null,
-      "lastUpdated": 1792626797791,
+      "lastUpdated": 1792659328350,
       "missedPrice": 299.99,
       "missedImg": true,
       "title": "Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
-      "auctionCode": "0019918625",
+      "auctionCode": "0019919408",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-cubic-zirconia-bracelet-size-7-5-39-00-ct-8738422",
       "productUrlChecked": 1786057424657,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1792626797791,
+      "lastAir": 1792659328350,
       "pdpPrice": "199.99",
       "buy": true,
       "login": false,
@@ -476873,8 +476873,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792659263273,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -541312,11 +541312,22 @@
         "followingSku": "8686859",
         "followingTitle": "La Marey Signature Striped Shawl (180 x 65cm) - Light Grey, Beige & Black",
         "followingAuctionCode": "0019918535"
+      },
+      {
+        "start": 1792659263273,
+        "end": 1792659328350,
+        "durationMin": 1.1,
+        "precedingSku": "8686859",
+        "precedingTitle": "La Marey Signature Striped Shawl (180 x 65cm) - Light Grey, Beige & Black",
+        "precedingAuctionCode": "0019918535",
+        "followingSku": "8738422",
+        "followingTitle": "Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
+        "followingAuctionCode": "0019919408"
       }
     ],
-    "lastOnAirSku": "8686859",
-    "lastOnAirTitle": "La Marey Signature Striped Shawl (180 x 65cm) - Light Grey, Beige & Black",
-    "lastOnAirAuctionCode": "0019918535",
+    "lastOnAirSku": "8738422",
+    "lastOnAirTitle": "Maestro Collection -9K Yellow Gold Cubic Zirconia Bracelet (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019919408",
     "precedingSku": "8686859",
     "precedingTitle": "La Marey Signature Striped Shawl (180 x 65cm) - Light Grey, Beige & Black",
     "precedingAuctionCode": "0019918535"
