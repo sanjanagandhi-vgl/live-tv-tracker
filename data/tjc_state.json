@@ -477874,13 +477874,34 @@
       "date": "2026-10-22",
       "time": "16:49:18",
       "productUrl": null,
-      "lastUpdated": 1792684158075,
-      "source": "gha"
+      "lastUpdated": 1792684242638,
+      "source": "gha",
+      "missedAt": 1792684242638,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true
+    },
+    "8632891": {
+      "sku": "8632891",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-22",
+      "time": "16:50:42",
+      "preExisting": true,
+      "missedAt": 1792684242638,
+      "missedDelay": null,
+      "lastUpdated": 1792684242638,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "La Marey Patterned Skirt (Size - L-XL) - Gold",
+      "auctionCode": "0019919190",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792684242638,
     "gaps": [
       {
         "start": 1785823527869,
@@ -542642,8 +542663,8 @@
     "lastOnAirSku": "8632890",
     "lastOnAirTitle": "La Marey Patterned Skirt (Size - L-XL) - Pink",
     "lastOnAirAuctionCode": "0019919188",
-    "precedingSku": "8628665",
-    "precedingTitle": "La Marey Luxe Velvet Button Detail Two Way Blouse (Size XL, 20-22) - Burgundy",
-    "precedingAuctionCode": "0019918821"
+    "precedingSku": "8632890",
+    "precedingTitle": "La Marey Patterned Skirt (Size - L-XL) - Pink",
+    "precedingAuctionCode": "0019919188"
   }
 }
