@@ -168176,21 +168176,26 @@
       "sku": "8576274",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "13:24:22",
+      "date": "2026-10-23",
+      "time": "21:33:19",
       "preExisting": true,
       "missedAt": 1786796662322,
       "missedDelay": null,
-      "lastUpdated": 1786796662322,
+      "lastUpdated": 1792787599957,
       "missedPrice": 69.99,
       "missedImg": true,
-      "title": "WILLIAM HUNT Seiko VD53 Japan Quartz 5ATM WR Blue Dial & Silver Case Mens Watch with Silver Stainless Steel Strap",
-      "auctionCode": "0019820930",
+      "title": "WILLIAM HUNT Seiko VD53 Japan Quartz 5ATM WR Black Dial & Silver Case Mens Watch with Silver Stainless Steel Strap",
+      "auctionCode": "0019921676",
       "source": "gha",
       "productUrl": "/products/william-hunt-seiko-vd53-japan-quartz-5atm-wr-black-dial-black-case-mens-watch-with-black-stainless-steel-strap-8576277",
       "productUrlChecked": 1786796680242,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792787599957,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8124805": {
       "sku": "8124805",
@@ -481359,8 +481364,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792787454199,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547162,11 +547167,22 @@
         "followingSku": "8613622",
         "followingTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
         "followingAuctionCode": "0019921393"
+      },
+      {
+        "start": 1792787454199,
+        "end": 1792787599957,
+        "durationMin": 2.4,
+        "precedingSku": "8592138",
+        "precedingTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
+        "precedingAuctionCode": null,
+        "followingSku": "8576274",
+        "followingTitle": "WILLIAM HUNT Seiko VD53 Japan Quartz 5ATM WR Black Dial & Silver Case Mens Watch with Silver Stainless Steel Strap",
+        "followingAuctionCode": "0019921676"
       }
     ],
-    "lastOnAirSku": "8592138",
-    "lastOnAirTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8576274",
+    "lastOnAirTitle": "WILLIAM HUNT Seiko VD53 Japan Quartz 5ATM WR Black Dial & Silver Case Mens Watch with Silver Stainless Steel Strap",
+    "lastOnAirAuctionCode": "0019921676",
     "precedingSku": "8592138",
     "precedingTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
     "precedingAuctionCode": null
