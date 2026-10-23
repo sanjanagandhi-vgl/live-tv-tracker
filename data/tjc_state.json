@@ -479520,20 +479520,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-23",
-      "time": "08:49:19",
+      "time": "21:04:21",
       "preExisting": true,
       "missedAt": 1792741759530,
       "missedDelay": null,
-      "lastUpdated": 1792741759530,
+      "lastUpdated": 1792785861334,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Designer Inspired Lion Print Shoulder Bag with Chain Strap - Lilac Luster",
-      "auctionCode": "0019920084",
+      "title": "Designer Inspired Parrot Print Shoulder Bag with Chain Strap - Teal & Pink",
+      "auctionCode": "0019921416",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-blue-yellow-8535850",
       "productUrlChecked": 1792741762695,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792785861334,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8535851": {
       "sku": "8535851",
@@ -481349,8 +481354,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792785744331,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547130,11 +547135,22 @@
         "followingSku": "8544861",
         "followingTitle": "LIVMORE Set of 3 Reusable Silicone Food Bag leakproof, Heat Resistant and Dishwasher Safe",
         "followingAuctionCode": "0019920652"
+      },
+      {
+        "start": 1792785744331,
+        "end": 1792785861334,
+        "durationMin": 2.0,
+        "precedingSku": "8631042",
+        "precedingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set. Can hold up to 7kgs weight",
+        "precedingAuctionCode": "0019920654",
+        "followingSku": "8535852",
+        "followingTitle": "Designer Inspired Parrot Print Shoulder Bag with Chain Strap - Teal & Pink",
+        "followingAuctionCode": "0019921416"
       }
     ],
-    "lastOnAirSku": "8631042",
-    "lastOnAirTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set. Can hold up to 7kgs weight",
-    "lastOnAirAuctionCode": "0019920654",
+    "lastOnAirSku": "8535852",
+    "lastOnAirTitle": "Designer Inspired Parrot Print Shoulder Bag with Chain Strap - Teal & Pink",
+    "lastOnAirAuctionCode": "0019921416",
     "precedingSku": "8631042",
     "precedingTitle": "LIVMORE 12-Piece Heavy Duty Transparent Removable Wall Hooks Set. Can hold up to 7kgs weight",
     "precedingAuctionCode": "0019920654"
