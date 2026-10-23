@@ -14448,18 +14448,18 @@
       "sku": "4313892",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "22:13:17",
+      "date": "2026-10-23",
+      "time": "22:48:23",
       "preExisting": true,
       "missedAt": 1785049844655,
       "missedDelay": null,
-      "lastUpdated": 1790370797946,
+      "lastUpdated": 1792792103820,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 5 - Multi Colour Fresh Water Pearl Stud Earrings with Push Backs",
-      "auctionCode": "0019884005",
+      "auctionCode": "0019920874",
       "source": "gha",
-      "lastAir": 1790370797946,
+      "lastAir": 1792792103820,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
@@ -481407,8 +481407,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792792040055,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547276,11 +547276,22 @@
         "followingSku": "8261207",
         "followingTitle": "African Amethyst Cuff Bangle (Size 7 Adjustable) in Yellow Gold Plated 20.00 Ct.",
         "followingAuctionCode": "0019920751"
+      },
+      {
+        "start": 1792792040055,
+        "end": 1792792103820,
+        "durationMin": 1.1,
+        "precedingSku": "8273055",
+        "precedingTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
+        "precedingAuctionCode": "0019920858",
+        "followingSku": "4313892",
+        "followingTitle": "Set of 5 - Multi Colour Fresh Water Pearl Stud Earrings with Push Backs",
+        "followingAuctionCode": "0019920874"
       }
     ],
-    "lastOnAirSku": "8273055",
-    "lastOnAirTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
-    "lastOnAirAuctionCode": "0019920858",
+    "lastOnAirSku": "4313892",
+    "lastOnAirTitle": "Set of 5 - Multi Colour Fresh Water Pearl Stud Earrings with Push Backs",
+    "lastOnAirAuctionCode": "0019920874",
     "precedingSku": "8273055",
     "precedingTitle": "Vintage Glamour Collection - Bezel Set Cubic Zirconia Bracelet (Size 7.5) - Green",
     "precedingAuctionCode": "0019920858"
