@@ -480462,11 +480462,29 @@
       "productUrl": null,
       "lastUpdated": 1792762256188,
       "source": "gha"
+    },
+    "8787191": {
+      "sku": "8787191",
+      "firstAir": 1792762345688,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792762345688,
+      "title": "Multi Color Crystal Poppy Flower Dangling Earring with Push Back",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019920319",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-23",
+      "time": "14:32:25",
+      "productUrl": null,
+      "lastUpdated": 1792762345688,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792762279914,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -546081,11 +546099,22 @@
         "followingSku": "8106465",
         "followingTitle": null,
         "followingAuctionCode": "0019920599"
+      },
+      {
+        "start": 1792762279914,
+        "end": 1792762345688,
+        "durationMin": 1.1,
+        "precedingSku": "8787344",
+        "precedingTitle": "Red Crystal Poppy Flower Brooch",
+        "precedingAuctionCode": "0019920320",
+        "followingSku": "8787191",
+        "followingTitle": "Multi Color Crystal Poppy Flower Dangling Earring with Push Back",
+        "followingAuctionCode": "0019920319"
       }
     ],
-    "lastOnAirSku": "8787344",
-    "lastOnAirTitle": "Red Crystal Poppy Flower Brooch",
-    "lastOnAirAuctionCode": "0019920320",
+    "lastOnAirSku": "8787191",
+    "lastOnAirTitle": "Multi Color Crystal Poppy Flower Dangling Earring with Push Back",
+    "lastOnAirAuctionCode": "0019920319",
     "precedingSku": "8787344",
     "precedingTitle": "Red Crystal Poppy Flower Brooch",
     "precedingAuctionCode": "0019920320"
