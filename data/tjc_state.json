@@ -290994,21 +290994,26 @@
       "sku": "8498099",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-02",
-      "time": "17:57:20",
+      "date": "2026-10-23",
+      "time": "08:56:21",
       "preExisting": true,
       "missedAt": 1788368240167,
       "missedDelay": null,
-      "lastUpdated": 1788368240167,
+      "lastUpdated": 1792742181597,
       "missedPrice": 6.99,
       "missedImg": true,
       "title": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
-      "auctionCode": "0019853470",
+      "auctionCode": "0019920073",
       "source": "gha",
       "productUrl": "/products/la-marey-botanical-embroidered-tunic-top-one-size-black-1668498063",
       "productUrlChecked": 1788368244064,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792742181597,
+      "pdpPrice": "179.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8498101": {
       "sku": "8498101",
@@ -479507,8 +479512,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792742126736,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -544936,11 +544941,22 @@
         "followingSku": "8683484",
         "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
         "followingAuctionCode": "0019920133"
+      },
+      {
+        "start": 1792742126736,
+        "end": 1792742181597,
+        "durationMin": 0.9,
+        "precedingSku": "8683484",
+        "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "precedingAuctionCode": "0019920133",
+        "followingSku": "8498099",
+        "followingTitle": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
+        "followingAuctionCode": "0019920073"
       }
     ],
-    "lastOnAirSku": "8683484",
-    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
-    "lastOnAirAuctionCode": "0019920133",
+    "lastOnAirSku": "8498099",
+    "lastOnAirTitle": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
+    "lastOnAirAuctionCode": "0019920073",
     "precedingSku": "8683484",
     "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
     "precedingAuctionCode": "0019920133"
