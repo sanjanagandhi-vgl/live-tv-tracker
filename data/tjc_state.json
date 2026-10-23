@@ -416019,23 +416019,23 @@
       "sku": "8778308",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-03",
-      "time": "03:29:16",
+      "date": "2026-10-23",
+      "time": "10:14:25",
       "preExisting": true,
       "missedAt": 1790936957892,
       "missedDelay": null,
-      "lastUpdated": 1790994556282,
+      "lastUpdated": 1792746865337,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
-      "auctionCode": "0019894699",
+      "auctionCode": null,
       "source": "gha",
-      "productUrl": "/products/fancy-necklace-size-18-pure-white-stainless-steel-8778284",
+      "productUrl": "/products/fancy-necklace-size-18-pure-white-stainless-steel-8778284?variant=53827451552010",
       "productUrlChecked": 1790936963162,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790994556282,
-      "pdpPrice": "9.99",
+      "lastAir": 1792746865337,
+      "pdpPrice": 9.99,
       "buy": true,
       "login": false,
       "img": true
@@ -479966,8 +479966,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792746798634,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -545450,11 +545450,22 @@
         "followingSku": "8422662",
         "followingTitle": "D'Joy Green Diamond Stud Earring with Push Back in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019919933"
+      },
+      {
+        "start": 1792746798634,
+        "end": 1792746865337,
+        "durationMin": 1.1,
+        "precedingSku": "8422662",
+        "precedingTitle": "D'Joy Green Diamond Stud Earring with Push Back in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019919933",
+        "followingSku": "8778308",
+        "followingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
+        "followingAuctionCode": null
       }
     ],
-    "lastOnAirSku": "8422662",
-    "lastOnAirTitle": "D'Joy Green Diamond Stud Earring with Push Back in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019919933",
+    "lastOnAirSku": "8778308",
+    "lastOnAirTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
+    "lastOnAirAuctionCode": null,
     "precedingSku": "8422662",
     "precedingTitle": "D'Joy Green Diamond Stud Earring with Push Back in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019919933"
