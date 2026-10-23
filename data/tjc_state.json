@@ -479254,11 +479254,29 @@
       "auctionCode": "0019919783",
       "source": "gha",
       "productUrl": null
+    },
+    "8818151": {
+      "sku": "8818151",
+      "firstAir": 1792740328448,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792740328448,
+      "title": "Farm Animals 100 Piece Jigsaw Puzzle for Kids - Green",
+      "pdpPrice": "40.99",
+      "auctionCode": "0019919984",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-23",
+      "time": "08:25:28",
+      "productUrl": null,
+      "lastUpdated": 1792740328448,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792739958337,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -544664,11 +544682,22 @@
         "followingSku": "8508209",
         "followingTitle": "Peacock Print RFID Card Wallet - Teal",
         "followingAuctionCode": "0019920581"
+      },
+      {
+        "start": 1792739958337,
+        "end": 1792740328448,
+        "durationMin": 6.2,
+        "precedingSku": "8417818",
+        "precedingTitle": "Set of 2 - Faux Flower Branches with LED Lights (50-60cm) - Pink",
+        "precedingAuctionCode": "0019920129",
+        "followingSku": "8818151",
+        "followingTitle": "Farm Animals 100 Piece Jigsaw Puzzle for Kids - Green",
+        "followingAuctionCode": "0019919984"
       }
     ],
-    "lastOnAirSku": "8417818",
-    "lastOnAirTitle": "Set of 2 - Faux Flower Branches with LED Lights (50-60cm) - Pink",
-    "lastOnAirAuctionCode": "0019920129",
+    "lastOnAirSku": "8818151",
+    "lastOnAirTitle": "Farm Animals 100 Piece Jigsaw Puzzle for Kids - Green",
+    "lastOnAirAuctionCode": "0019919984",
     "precedingSku": "8417818",
     "precedingTitle": "Set of 2 - Faux Flower Branches with LED Lights (50-60cm) - Pink",
     "precedingAuctionCode": "0019920129"
