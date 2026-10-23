@@ -439308,21 +439308,26 @@
       "sku": "8556618",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-09",
-      "time": "12:53:19",
+      "date": "2026-10-23",
+      "time": "23:29:18",
       "preExisting": true,
       "missedAt": 1791546799233,
       "missedDelay": null,
-      "lastUpdated": 1791546799233,
+      "lastUpdated": 1792794558444,
       "missedPrice": 6.99,
       "missedImg": true,
       "title": "Beaded Rosary Cross Necklace (Size - 30) in Silver Tone",
-      "auctionCode": "0019901646",
+      "auctionCode": "0019920902",
       "source": "gha",
       "productUrl": "/products/beaded-rosary-cross-necklace-size-30-in-gold-tone8556616",
       "productUrlChecked": 1791546803451,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792794558444,
+      "pdpPrice": "6.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8631426": {
       "sku": "8631426",
@@ -481407,8 +481412,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792794384765,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547309,11 +547314,22 @@
         "followingSku": "8765528",
         "followingTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
         "followingAuctionCode": "0019920870"
+      },
+      {
+        "start": 1792794384765,
+        "end": 1792794558444,
+        "durationMin": 2.9,
+        "precedingSku": "8765528",
+        "precedingTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
+        "precedingAuctionCode": "0019920870",
+        "followingSku": "8556618",
+        "followingTitle": "Beaded Rosary Cross Necklace (Size - 30) in Silver Tone",
+        "followingAuctionCode": "0019920902"
       }
     ],
-    "lastOnAirSku": "8765528",
-    "lastOnAirTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019920870",
+    "lastOnAirSku": "8556618",
+    "lastOnAirTitle": "Beaded Rosary Cross Necklace (Size - 30) in Silver Tone",
+    "lastOnAirAuctionCode": "0019920902",
     "precedingSku": "8765528",
     "precedingTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
     "precedingAuctionCode": "0019920870"
