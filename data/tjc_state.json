@@ -480220,11 +480220,29 @@
       "productUrlChecked": 1792749441412,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8782659": {
+      "sku": "8782659",
+      "firstAir": 1792750238494,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792750238494,
+      "title": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019919903",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-23",
+      "time": "11:10:38",
+      "productUrl": null,
+      "lastUpdated": 1792750238494,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792750101081,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -545729,11 +545747,22 @@
         "followingSku": "8777394",
         "followingTitle": "Rope Chain Necklace (Size - 18)",
         "followingAuctionCode": "0019920646"
+      },
+      {
+        "start": 1792750101081,
+        "end": 1792750238494,
+        "durationMin": 2.3,
+        "precedingSku": "8723844",
+        "precedingTitle": "White Keshi Pearl Solitaire Earring with Push Back",
+        "precedingAuctionCode": "0019919970",
+        "followingSku": "8782659",
+        "followingTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
+        "followingAuctionCode": "0019919903"
       }
     ],
-    "lastOnAirSku": "8723844",
-    "lastOnAirTitle": "White Keshi Pearl Solitaire Earring with Push Back",
-    "lastOnAirAuctionCode": "0019919970",
+    "lastOnAirSku": "8782659",
+    "lastOnAirTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
+    "lastOnAirAuctionCode": "0019919903",
     "precedingSku": "8723844",
     "precedingTitle": "White Keshi Pearl Solitaire Earring with Push Back",
     "precedingAuctionCode": "0019919970"
