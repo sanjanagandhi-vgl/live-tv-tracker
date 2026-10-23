@@ -440147,21 +440147,26 @@
       "sku": "8713288",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-09",
-      "time": "19:26:21",
+      "date": "2026-10-23",
+      "time": "07:42:21",
       "preExisting": true,
       "missedAt": 1791570381376,
       "missedDelay": null,
-      "lastUpdated": 1791570381376,
+      "lastUpdated": 1792737741384,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Mint Green",
-      "auctionCode": "0019902613",
+      "title": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
+      "auctionCode": "0019920022",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-towel-size-140x1-cm-lavender-lavender-8713286",
       "productUrlChecked": 1791570384898,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792737741384,
+      "pdpPrice": "20.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8713287": {
       "sku": "8713287",
@@ -479242,8 +479247,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792737679137,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -544616,11 +544621,22 @@
         "followingSku": "8788138",
         "followingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
         "followingAuctionCode": "0019920047"
+      },
+      {
+        "start": 1792737679137,
+        "end": 1792737741384,
+        "durationMin": 1.0,
+        "precedingSku": "8788138",
+        "precedingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
+        "precedingAuctionCode": "0019920047",
+        "followingSku": "8713288",
+        "followingTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
+        "followingAuctionCode": "0019920022"
       }
     ],
-    "lastOnAirSku": "8788138",
-    "lastOnAirTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
-    "lastOnAirAuctionCode": "0019920047",
+    "lastOnAirSku": "8713288",
+    "lastOnAirTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
+    "lastOnAirAuctionCode": "0019920022",
     "precedingSku": "8788138",
     "precedingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
     "precedingAuctionCode": "0019920047"
