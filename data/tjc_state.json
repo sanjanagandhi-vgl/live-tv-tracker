@@ -99004,21 +99004,26 @@
       "sku": "7841847",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "14:01:05",
+      "date": "2026-10-23",
+      "time": "07:48:24",
       "preExisting": true,
       "missedAt": 1786107665308,
       "missedDelay": null,
-      "lastUpdated": 1786107665308,
+      "lastUpdated": 1792738104034,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "GENOA TIME V2 Seiko VJ32 with Date Japan Movement 3ATM Water Resistant White Crystal MOP Dial Watch with Red Colour Leather & Alloy Strap",
-      "auctionCode": "0019810890",
+      "title": "GENOA TIME V2 Seiko VJ32 with Date Japan Movement 3ATM Water Resistant White Crystal MOP Dial Watch with Yellow Leather & Alloy Strap",
+      "auctionCode": "0019920109",
       "source": "gha",
       "productUrl": "/products/white-crystal-watch-pure-natural-leather",
       "productUrlChecked": 1786107682331,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792738104034,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8423019": {
       "sku": "8423019",
@@ -479247,8 +479252,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792738037397,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -544632,11 +544637,22 @@
         "followingSku": "8713288",
         "followingTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
         "followingAuctionCode": "0019920022"
+      },
+      {
+        "start": 1792738037397,
+        "end": 1792738104034,
+        "durationMin": 1.1,
+        "precedingSku": "8713288",
+        "precedingTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
+        "precedingAuctionCode": "0019920022",
+        "followingSku": "7841847",
+        "followingTitle": "GENOA TIME V2 Seiko VJ32 with Date Japan Movement 3ATM Water Resistant White Crystal MOP Dial Watch with Yellow Leather & Alloy Strap",
+        "followingAuctionCode": "0019920109"
       }
     ],
-    "lastOnAirSku": "8713288",
-    "lastOnAirTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
-    "lastOnAirAuctionCode": "0019920022",
+    "lastOnAirSku": "7841847",
+    "lastOnAirTitle": "GENOA TIME V2 Seiko VJ32 with Date Japan Movement 3ATM Water Resistant White Crystal MOP Dial Watch with Yellow Leather & Alloy Strap",
+    "lastOnAirAuctionCode": "0019920109",
     "precedingSku": "8713288",
     "precedingTitle": "LIVMORE Quick-Dry Microfiber Soft Absorbent Bath Towel (70 x 140cm, 290 GSM) - Lavender",
     "precedingAuctionCode": "0019920022"
