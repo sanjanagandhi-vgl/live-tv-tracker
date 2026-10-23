@@ -479574,14 +479574,21 @@
       "img": true,
       "date": "2026-10-23",
       "time": "09:17:21",
-      "productUrl": null,
-      "lastUpdated": 1792743441855,
-      "source": "gha"
+      "productUrl": "/products/white-shell-pearl-black-crystal-poppy-flower-necklace-size-20-2-ext-8780606",
+      "lastUpdated": 1792743502871,
+      "source": "gha",
+      "missedAt": 1792743502871,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1792743505518,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792743502871,
     "gaps": [
       {
         "start": 1785823527869,
@@ -545036,8 +545043,8 @@
     "lastOnAirSku": "8780606",
     "lastOnAirTitle": "White Shell Pearl & Black Crystal Poppy Flower Necklace (Size - 20-2 Ext)",
     "lastOnAirAuctionCode": "0019920305",
-    "precedingSku": "8498099",
-    "precedingTitle": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
-    "precedingAuctionCode": "0019920073"
+    "precedingSku": "8780606",
+    "precedingTitle": "White Shell Pearl & Black Crystal Poppy Flower Necklace (Size - 20-2 Ext)",
+    "precedingAuctionCode": "0019920305"
   }
 }
