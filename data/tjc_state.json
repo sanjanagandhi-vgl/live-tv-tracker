@@ -470129,17 +470129,17 @@
       "firstAir": 1792428926722,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792689982392,
+      "lastAir": 1792794039760,
       "title": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
       "pdpPrice": "9.99",
-      "auctionCode": "0019920244",
+      "auctionCode": "0019920870",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-22",
-      "time": "18:26:22",
+      "date": "2026-10-23",
+      "time": "23:20:39",
       "productUrl": null,
-      "lastUpdated": 1792689982392,
+      "lastUpdated": 1792794039760,
       "source": "gha",
       "missedAt": 1792429838253,
       "missedDelay": 1,
@@ -481407,8 +481407,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792793903178,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547298,11 +547298,22 @@
         "followingSku": "8765416",
         "followingTitle": "Close Out Deal- Created Malachite Plum Blossom Necklace (Size - 20)",
         "followingAuctionCode": "0019920879"
+      },
+      {
+        "start": 1792793903178,
+        "end": 1792794039760,
+        "durationMin": 2.3,
+        "precedingSku": "8765416",
+        "precedingTitle": "Close Out Deal- Created Malachite Plum Blossom Necklace (Size - 20)",
+        "precedingAuctionCode": null,
+        "followingSku": "8765528",
+        "followingTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
+        "followingAuctionCode": "0019920870"
       }
     ],
-    "lastOnAirSku": "8765416",
-    "lastOnAirTitle": "Close Out Deal- Created Malachite Plum Blossom Necklace (Size - 20)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8765528",
+    "lastOnAirTitle": "Created Malachite Plum Blossom Bracelet (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019920870",
     "precedingSku": "8765416",
     "precedingTitle": "Close Out Deal- Created Malachite Plum Blossom Necklace (Size - 20)",
     "precedingAuctionCode": null
