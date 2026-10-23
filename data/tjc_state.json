@@ -479584,11 +479584,29 @@
       "productUrlChecked": 1792743505518,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8780631": {
+      "sku": "8780631",
+      "firstAir": 1792743559630,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792743559630,
+      "title": "Multi Color Crystal Poppy Flower & England Flag Motif Brooch",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019920307",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-23",
+      "time": "09:19:19",
+      "productUrl": null,
+      "lastUpdated": 1792743559630,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792743502871,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -545038,11 +545056,22 @@
         "followingSku": "8780598",
         "followingTitle": "Black Crystal Floral Design Brooch",
         "followingAuctionCode": "0019920300"
+      },
+      {
+        "start": 1792743502871,
+        "end": 1792743559630,
+        "durationMin": 0.9,
+        "precedingSku": "8780606",
+        "precedingTitle": "White Shell Pearl & Black Crystal Poppy Flower Necklace (Size - 20-2 Ext)",
+        "precedingAuctionCode": "0019920305",
+        "followingSku": "8780631",
+        "followingTitle": "Multi Color Crystal Poppy Flower & England Flag Motif Brooch",
+        "followingAuctionCode": "0019920307"
       }
     ],
-    "lastOnAirSku": "8780606",
-    "lastOnAirTitle": "White Shell Pearl & Black Crystal Poppy Flower Necklace (Size - 20-2 Ext)",
-    "lastOnAirAuctionCode": "0019920305",
+    "lastOnAirSku": "8780631",
+    "lastOnAirTitle": "Multi Color Crystal Poppy Flower & England Flag Motif Brooch",
+    "lastOnAirAuctionCode": "0019920307",
     "precedingSku": "8780606",
     "precedingTitle": "White Shell Pearl & Black Crystal Poppy Flower Necklace (Size - 20-2 Ext)",
     "precedingAuctionCode": "0019920305"
