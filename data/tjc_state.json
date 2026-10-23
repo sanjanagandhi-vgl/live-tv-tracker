@@ -481336,14 +481336,21 @@
       "img": false,
       "date": "2026-10-23",
       "time": "20:38:21",
-      "productUrl": null,
-      "lastUpdated": 1792784301446,
-      "source": "gha"
+      "productUrl": "/products/tjc-special-multi-purpose-cleaner-size-one-size-blue-8757665",
+      "lastUpdated": 1792784361777,
+      "source": "gha",
+      "missedAt": 1792784361777,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": false,
+      "productUrlChecked": 1792784365051,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792784361777,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547117,8 +547124,8 @@
     "lastOnAirSku": "8757665",
     "lastOnAirTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Mint & Lemon",
     "lastOnAirAuctionCode": "0019920647",
-    "precedingSku": "8739950",
-    "precedingTitle": "Cyclax Vitamin E Face & Body Cream - 300ml",
-    "precedingAuctionCode": "0019914706"
+    "precedingSku": "8757665",
+    "precedingTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Mint & Lemon",
+    "precedingAuctionCode": "0019920647"
   }
 }
