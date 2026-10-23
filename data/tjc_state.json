@@ -480934,8 +480934,12 @@
       "date": "2026-10-23",
       "time": "17:07:21",
       "productUrl": null,
-      "lastUpdated": 1792771641454,
-      "source": "gha"
+      "lastUpdated": 1792771704093,
+      "source": "gha",
+      "missedAt": 1792771704093,
+      "missedDelay": 1,
+      "missedPrice": 7.99,
+      "missedImg": true
     },
     "8833090": {
       "sku": "8833090",
@@ -480987,11 +480991,62 @@
       "auctionCode": "0019920895",
       "source": "gha",
       "productUrl": null
+    },
+    "8833094": {
+      "sku": "8833094",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-23",
+      "time": "17:08:24",
+      "preExisting": true,
+      "missedAt": 1792771704093,
+      "missedDelay": null,
+      "lastUpdated": 1792771704093,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size XXL, 20-22) - Nude",
+      "auctionCode": "0019920900",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8833093": {
+      "sku": "8833093",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-23",
+      "time": "17:08:24",
+      "preExisting": true,
+      "missedAt": 1792771704093,
+      "missedDelay": null,
+      "lastUpdated": 1792771704093,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size XL, 16-18) - Nude",
+      "auctionCode": "0019920899",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8833091": {
+      "sku": "8833091",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-23",
+      "time": "17:08:24",
+      "preExisting": true,
+      "missedAt": 1792771704093,
+      "missedDelay": null,
+      "lastUpdated": 1792771704093,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size L, 14-16) - Nude",
+      "auctionCode": "0019920898",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792771704093,
     "gaps": [
       {
         "start": 1785823527869,
@@ -546688,8 +546743,8 @@
     "lastOnAirSku": "8833092",
     "lastOnAirTitle": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size XXL, 20-22) - Black",
     "lastOnAirAuctionCode": "0019920439",
-    "precedingSku": "8523004",
-    "precedingTitle": "JCK Vegas Deal- STRADA Limited Edition Japanese Movement Water Resistant Serpent Watch - Rose",
-    "precedingAuctionCode": "0019920696"
+    "precedingSku": "8833092",
+    "precedingTitle": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size XXL, 20-22) - Black",
+    "precedingAuctionCode": "0019920439"
   }
 }
