@@ -481240,11 +481240,29 @@
       "productUrl": null,
       "lastUpdated": 1792777279212,
       "source": "gha"
+    },
+    "8823262": {
+      "sku": "8823262",
+      "firstAir": 1792777464498,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792777464498,
+      "title": "A festive felt tree set with 22 colorful ornaments Tree (Size - One Size) - Green",
+      "pdpPrice": "80.99",
+      "auctionCode": "0019921480",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-23",
+      "time": "18:44:24",
+      "productUrl": null,
+      "lastUpdated": 1792777464498,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792777342072,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -546980,11 +546998,22 @@
         "followingSku": "4533130",
         "followingTitle": "Black Crystal Tree of Life Pendant with Chain (Size 24-2 Ext)",
         "followingAuctionCode": "0019921568"
+      },
+      {
+        "start": 1792777342072,
+        "end": 1792777464498,
+        "durationMin": 2.0,
+        "precedingSku": "8782268",
+        "precedingTitle": "White Crystal Poppy Flower Brooch",
+        "precedingAuctionCode": "0019921590",
+        "followingSku": "8823262",
+        "followingTitle": "A festive felt tree set with 22 colorful ornaments Tree (Size - One Size) - Green",
+        "followingAuctionCode": "0019921480"
       }
     ],
-    "lastOnAirSku": "8782268",
-    "lastOnAirTitle": "White Crystal Poppy Flower Brooch",
-    "lastOnAirAuctionCode": "0019921590",
+    "lastOnAirSku": "8823262",
+    "lastOnAirTitle": "A festive felt tree set with 22 colorful ornaments Tree (Size - One Size) - Green",
+    "lastOnAirAuctionCode": "0019921480",
     "precedingSku": "8782268",
     "precedingTitle": "White Crystal Poppy Flower Brooch",
     "precedingAuctionCode": "0019921590"
