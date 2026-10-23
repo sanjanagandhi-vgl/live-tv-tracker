@@ -334668,23 +334668,23 @@
       "sku": "4505304",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-24",
-      "time": "11:32:24",
+      "date": "2026-10-23",
+      "time": "04:03:20",
       "preExisting": true,
       "missedAt": 1789122038940,
       "missedDelay": null,
-      "lastUpdated": 1790245944909,
+      "lastUpdated": 1792724600074,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "Set of 2 - Leaf Vine Enameled Earring with Push Post & Pendant with Chain (Size 16-2 Ext)",
-      "auctionCode": "0019882136",
+      "auctionCode": "0019918715",
       "source": "gha",
       "productUrl": "/products/set-of-2-leaf-vine-enameled-earring-with-push-post-pendant-with-chain-size-16-2-ext-in-yellow-gold-tone-4505292",
       "productUrlChecked": 1789122046923,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790245944909,
-      "pdpPrice": "7.99",
+      "lastAir": 1792724600074,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -479026,8 +479026,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792724542439,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -544224,11 +544224,22 @@
         "followingSku": "8353997",
         "followingTitle": "Limited Collection Sparkling Sequin Scarf (One Size, 180 x 70cm) - Purple",
         "followingAuctionCode": "0019919562"
+      },
+      {
+        "start": 1792724542439,
+        "end": 1792724600074,
+        "durationMin": 1.0,
+        "precedingSku": "8312164",
+        "precedingTitle": "Christmas Gift Card - Pack of 5",
+        "precedingAuctionCode": "0019919489",
+        "followingSku": "4505304",
+        "followingTitle": "Set of 2 - Leaf Vine Enameled Earring with Push Post & Pendant with Chain (Size 16-2 Ext)",
+        "followingAuctionCode": "0019918715"
       }
     ],
-    "lastOnAirSku": "8312164",
-    "lastOnAirTitle": "Christmas Gift Card - Pack of 5",
-    "lastOnAirAuctionCode": "0019919489",
+    "lastOnAirSku": "4505304",
+    "lastOnAirTitle": "Set of 2 - Leaf Vine Enameled Earring with Push Post & Pendant with Chain (Size 16-2 Ext)",
+    "lastOnAirAuctionCode": "0019918715",
     "precedingSku": "8312164",
     "precedingTitle": "Christmas Gift Card - Pack of 5",
     "precedingAuctionCode": "0019919489"
