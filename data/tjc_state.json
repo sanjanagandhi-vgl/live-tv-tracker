@@ -480422,11 +480422,29 @@
       "productUrlChecked": 1792754787176,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8106465": {
+      "sku": "8106465",
+      "firstAir": 1792757268202,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792757268202,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019920599",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-23",
+      "time": "13:07:48",
+      "productUrl": null,
+      "lastUpdated": 1792757268202,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792756999586,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -546030,11 +546048,22 @@
         "followingSku": "7632745",
         "followingTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
         "followingAuctionCode": "0019921104"
+      },
+      {
+        "start": 1792756999586,
+        "end": 1792757268202,
+        "durationMin": 4.5,
+        "precedingSku": "7632745",
+        "precedingTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
+        "precedingAuctionCode": "0019921104",
+        "followingSku": "8106465",
+        "followingTitle": null,
+        "followingAuctionCode": "0019920599"
       }
     ],
-    "lastOnAirSku": "7632745",
-    "lastOnAirTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
-    "lastOnAirAuctionCode": "0019921104",
+    "lastOnAirSku": "8106465",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019920599",
     "precedingSku": "7632745",
     "precedingTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
     "precedingAuctionCode": "0019921104"
