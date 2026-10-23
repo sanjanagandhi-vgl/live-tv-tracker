@@ -479068,14 +479068,39 @@
       "img": true,
       "date": "2026-10-23",
       "time": "05:02:22",
+      "productUrl": "/products/murano-glass-necklace-size-20",
+      "lastUpdated": 1792728260737,
+      "source": "gha",
+      "missedAt": 1792728260737,
+      "missedDelay": 2,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "productUrlChecked": 1792728268419,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8433706": {
+      "sku": "8433706",
+      "firstAir": 1792728260737,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792728260737,
+      "title": "Golden Shell Pearl Necklace (Size - 18+2 Ext) in Silver Tone",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019918763",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-23",
+      "time": "05:04:20",
       "productUrl": null,
-      "lastUpdated": 1792728142450,
+      "lastUpdated": 1792728260737,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792728198228,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -544338,11 +544363,22 @@
         "followingSku": "8274130",
         "followingTitle": "Blue Colour Murano Style & Blue Glass Necklace (Size 20) with Magnetic Clasp in Silver Tone",
         "followingAuctionCode": "0019918762"
+      },
+      {
+        "start": 1792728198228,
+        "end": 1792728260737,
+        "durationMin": 1.0,
+        "precedingSku": "8274130",
+        "precedingTitle": "Blue Colour Murano Style & Blue Glass Necklace (Size 20) with Magnetic Clasp in Silver Tone",
+        "precedingAuctionCode": "0019918762",
+        "followingSku": "8433706",
+        "followingTitle": "Golden Shell Pearl Necklace (Size - 18+2 Ext) in Silver Tone",
+        "followingAuctionCode": "0019918763"
       }
     ],
-    "lastOnAirSku": "8274130",
-    "lastOnAirTitle": "Blue Colour Murano Style & Blue Glass Necklace (Size 20) with Magnetic Clasp in Silver Tone",
-    "lastOnAirAuctionCode": "0019918762",
+    "lastOnAirSku": "8433706",
+    "lastOnAirTitle": "Golden Shell Pearl Necklace (Size - 18+2 Ext) in Silver Tone",
+    "lastOnAirAuctionCode": "0019918763",
     "precedingSku": "8274130",
     "precedingTitle": "Blue Colour Murano Style & Blue Glass Necklace (Size 20) with Magnetic Clasp in Silver Tone",
     "precedingAuctionCode": "0019918762"
