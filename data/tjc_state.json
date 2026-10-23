@@ -480105,11 +480105,29 @@
       "productUrlChecked": 1792748131512,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8777394": {
+      "sku": "8777394",
+      "firstAir": 1792748438530,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792748438530,
+      "title": "Rope Chain Necklace (Size - 18)",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019920646",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-23",
+      "time": "10:40:38",
+      "productUrl": null,
+      "lastUpdated": 1792748438530,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792748302626,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -545603,11 +545621,22 @@
         "followingSku": "8778308",
         "followingTitle": "Mega Close Out Deal - Byzantine Necklace (Size - 18)",
         "followingAuctionCode": null
+      },
+      {
+        "start": 1792748302626,
+        "end": 1792748438530,
+        "durationMin": 2.3,
+        "precedingSku": "8481390",
+        "precedingTitle": "Adjustable Byzantine Bracelet (Size - 9.5) in Yellow Gold Tone",
+        "precedingAuctionCode": "0019919940",
+        "followingSku": "8777394",
+        "followingTitle": "Rope Chain Necklace (Size - 18)",
+        "followingAuctionCode": "0019920646"
       }
     ],
-    "lastOnAirSku": "8481390",
-    "lastOnAirTitle": "Adjustable Byzantine Bracelet (Size - 9.5) in Yellow Gold Tone",
-    "lastOnAirAuctionCode": "0019919940",
+    "lastOnAirSku": "8777394",
+    "lastOnAirTitle": "Rope Chain Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019920646",
     "precedingSku": "8481390",
     "precedingTitle": "Adjustable Byzantine Bracelet (Size - 9.5) in Yellow Gold Tone",
     "precedingAuctionCode": "0019919940"
