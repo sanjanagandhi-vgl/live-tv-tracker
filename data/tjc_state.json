@@ -343144,22 +343144,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-23",
-      "time": "00:33:19",
+      "time": "12:43:19",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1792711999215,
+      "lastUpdated": 1792755799558,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
-      "auctionCode": "0019919692",
+      "auctionCode": "0019921104",
       "source": "gha",
       "productUrl": "/products/patterned-jewellery-box-size-10x10x5-multi-color",
       "productUrlChecked": 1789359099709,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792711999215,
-      "pdpPrice": "7.99",
+      "lastAir": 1792755799558,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true
@@ -480425,8 +480425,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792755438497,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -546019,11 +546019,22 @@
         "followingSku": "8248352",
         "followingTitle": "The Exotic Collection - Mother of Pearl Rope Necklace With Lobster Claw Clasp (Size - 19.5+2 EXT) - Multi",
         "followingAuctionCode": "0019920564"
+      },
+      {
+        "start": 1792755438497,
+        "end": 1792755799558,
+        "durationMin": 6.0,
+        "precedingSku": "8248352",
+        "precedingTitle": "The Exotic Collection - Mother of Pearl Rope Necklace With Lobster Claw Clasp (Size - 19.5+2 EXT) - Multi",
+        "precedingAuctionCode": "0019920564",
+        "followingSku": "7632745",
+        "followingTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
+        "followingAuctionCode": "0019921104"
       }
     ],
-    "lastOnAirSku": "8248352",
-    "lastOnAirTitle": "The Exotic Collection - Mother of Pearl Rope Necklace With Lobster Claw Clasp (Size - 19.5+2 EXT) - Multi",
-    "lastOnAirAuctionCode": "0019920564",
+    "lastOnAirSku": "7632745",
+    "lastOnAirTitle": "Total Vision - Set of 3 Leatherette Jewellery Box With Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Pink, Mint Green & Black",
+    "lastOnAirAuctionCode": "0019921104",
     "precedingSku": "8248352",
     "precedingTitle": "The Exotic Collection - Mother of Pearl Rope Necklace With Lobster Claw Clasp (Size - 19.5+2 EXT) - Multi",
     "precedingAuctionCode": "0019920564"
