@@ -479509,11 +479509,29 @@
       "productUrlChecked": 1792741762896,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8780598": {
+      "sku": "8780598",
+      "firstAir": 1792742840105,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792742840105,
+      "title": "Black Crystal Floral Design Brooch",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019920300",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-23",
+      "time": "09:07:20",
+      "productUrl": null,
+      "lastUpdated": 1792742840105,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792742730621,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -544952,11 +544970,22 @@
         "followingSku": "8498099",
         "followingTitle": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
         "followingAuctionCode": "0019920073"
+      },
+      {
+        "start": 1792742730621,
+        "end": 1792742840105,
+        "durationMin": 1.8,
+        "precedingSku": "8498099",
+        "precedingTitle": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
+        "precedingAuctionCode": "0019920073",
+        "followingSku": "8780598",
+        "followingTitle": "Black Crystal Floral Design Brooch",
+        "followingAuctionCode": "0019920300"
       }
     ],
-    "lastOnAirSku": "8498099",
-    "lastOnAirTitle": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
-    "lastOnAirAuctionCode": "0019920073",
+    "lastOnAirSku": "8780598",
+    "lastOnAirTitle": "Black Crystal Floral Design Brooch",
+    "lastOnAirAuctionCode": "0019920300",
     "precedingSku": "8498099",
     "precedingTitle": "La Marey Botanical Embroidered Tunic Top (One Size) - Purple",
     "precedingAuctionCode": "0019920073"
