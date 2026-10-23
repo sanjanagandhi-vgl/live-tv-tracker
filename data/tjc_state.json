@@ -101076,21 +101076,26 @@
       "sku": "8261207",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "18:10:40",
+      "date": "2026-10-23",
+      "time": "22:28:21",
       "preExisting": true,
       "missedAt": 1786122640544,
       "missedDelay": null,
-      "lastUpdated": 1786122640544,
+      "lastUpdated": 1792790901211,
       "missedPrice": 5.99,
       "missedImg": true,
-      "title": "Green Quartz Cuff Bangle (Size 7 Adjustable) in Yellow Gold Plated 20.00 Ct.",
-      "auctionCode": "0019810661",
+      "title": "African Amethyst Cuff Bangle (Size 7 Adjustable) in Yellow Gold Plated 20.00 Ct.",
+      "auctionCode": "0019920751",
       "source": "gha",
       "productUrl": "/products/blue-quartz-cuff-bangle-size-7-adjustable-in-yellow-gold-plated-20-00-ct",
       "productUrlChecked": 1786122654770,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792790901211,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8261209": {
       "sku": "8261209",
@@ -481380,8 +481385,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792790844932,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547238,11 +547243,22 @@
         "followingSku": "8278838",
         "followingTitle": "Austrian Multi Colour Crystal & Pearl Dangle Charm Bracelet (Size - 7-1 EXT) in Yellow Gold Tone",
         "followingAuctionCode": "0019920767"
+      },
+      {
+        "start": 1792790844932,
+        "end": 1792790901211,
+        "durationMin": 0.9,
+        "precedingSku": "4532371",
+        "precedingTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size - 20-2 Ext)",
+        "precedingAuctionCode": "0019920747",
+        "followingSku": "8261207",
+        "followingTitle": "African Amethyst Cuff Bangle (Size 7 Adjustable) in Yellow Gold Plated 20.00 Ct.",
+        "followingAuctionCode": "0019920751"
       }
     ],
-    "lastOnAirSku": "4532371",
-    "lastOnAirTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size - 20-2 Ext)",
-    "lastOnAirAuctionCode": "0019920747",
+    "lastOnAirSku": "8261207",
+    "lastOnAirTitle": "African Amethyst Cuff Bangle (Size 7 Adjustable) in Yellow Gold Plated 20.00 Ct.",
+    "lastOnAirAuctionCode": "0019920751",
     "precedingSku": "4532371",
     "precedingTitle": "Multi Color Cubic Zirconia Cross Pendant with Chain (Size - 20-2 Ext)",
     "precedingAuctionCode": "0019920747"
