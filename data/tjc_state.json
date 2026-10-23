@@ -363137,21 +363137,26 @@
       "sku": "8613622",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "16:40:40",
+      "date": "2026-10-23",
+      "time": "21:14:22",
       "preExisting": true,
       "missedAt": 1789746040103,
       "missedDelay": null,
-      "lastUpdated": 1789746040103,
+      "lastUpdated": 1792786462512,
       "missedPrice": 8.99,
       "missedImg": true,
-      "title": "LIVMORE Flower Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Pink (JT-834)",
-      "auctionCode": "0019875988",
+      "title": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+      "auctionCode": "0019921393",
       "source": "gha",
       "productUrl": "/products/livmore-coffee-travel-mug-and-tea-cup-size-one-size-red-8613506",
       "productUrlChecked": 1789746045975,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792786462512,
+      "pdpPrice": "8.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8613545": {
       "sku": "8613545",
@@ -481354,8 +481359,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792786398973,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547146,11 +547151,22 @@
         "followingSku": "8535852",
         "followingTitle": "Designer Inspired Parrot Print Shoulder Bag with Chain Strap - Teal & Pink",
         "followingAuctionCode": "0019921416"
+      },
+      {
+        "start": 1792786398973,
+        "end": 1792786462512,
+        "durationMin": 1.1,
+        "precedingSku": "8535852",
+        "precedingTitle": "Designer Inspired Parrot Print Shoulder Bag with Chain Strap - Teal & Pink",
+        "precedingAuctionCode": "0019921416",
+        "followingSku": "8613622",
+        "followingTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+        "followingAuctionCode": "0019921393"
       }
     ],
-    "lastOnAirSku": "8535852",
-    "lastOnAirTitle": "Designer Inspired Parrot Print Shoulder Bag with Chain Strap - Teal & Pink",
-    "lastOnAirAuctionCode": "0019921416",
+    "lastOnAirSku": "8613622",
+    "lastOnAirTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+    "lastOnAirAuctionCode": "0019921393",
     "precedingSku": "8535852",
     "precedingTitle": "Designer Inspired Parrot Print Shoulder Bag with Chain Strap - Teal & Pink",
     "precedingAuctionCode": "0019921416"
