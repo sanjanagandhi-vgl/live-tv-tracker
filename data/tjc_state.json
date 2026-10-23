@@ -481042,11 +481042,29 @@
       "auctionCode": "0019920898",
       "source": "gha",
       "productUrl": null
+    },
+    "8833074": {
+      "sku": "8833074",
+      "firstAir": 1792771771316,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792771771316,
+      "title": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size XXL, 20-22) - Black",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019920431",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-23",
+      "time": "17:09:31",
+      "productUrl": null,
+      "lastUpdated": 1792771771316,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792771704093,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -546738,11 +546756,22 @@
         "followingSku": "8830142",
         "followingTitle": "La Marey Women Sequin Mesh V-neck Top (Size 18) - Black",
         "followingAuctionCode": "0019920343"
+      },
+      {
+        "start": 1792771704093,
+        "end": 1792771771316,
+        "durationMin": 1.1,
+        "precedingSku": "8833092",
+        "precedingTitle": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size XXL, 20-22) - Black",
+        "precedingAuctionCode": "0019920439",
+        "followingSku": "8833074",
+        "followingTitle": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size XXL, 20-22) - Black",
+        "followingAuctionCode": "0019920431"
       }
     ],
-    "lastOnAirSku": "8833092",
+    "lastOnAirSku": "8833074",
     "lastOnAirTitle": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size XXL, 20-22) - Black",
-    "lastOnAirAuctionCode": "0019920439",
+    "lastOnAirAuctionCode": "0019920431",
     "precedingSku": "8833092",
     "precedingTitle": "Ezee Ultra Relax Wireless Seamless Padded Comfort Bra (Size XXL, 20-22) - Black",
     "precedingAuctionCode": "0019920439"
