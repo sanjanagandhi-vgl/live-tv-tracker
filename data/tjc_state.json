@@ -336710,21 +336710,26 @@
       "sku": "8597968",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-11",
-      "time": "21:26:24",
+      "date": "2026-10-23",
+      "time": "02:14:22",
       "preExisting": true,
       "missedAt": 1789158384174,
       "missedDelay": null,
-      "lastUpdated": 1789158384174,
+      "lastUpdated": 1792718062043,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Cordless and Portable Lint Remover with Digital Display - Purple",
-      "auctionCode": "0019866861",
+      "title": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
+      "auctionCode": "0019919346",
       "source": "gha",
       "productUrl": "/products/multi-purpose-cleaner-size-one-size-white-8597967",
       "productUrlChecked": 1789158393102,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792718062043,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8262439": {
       "sku": "8262439",
@@ -478959,8 +478964,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792717998850,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -544036,11 +544041,22 @@
         "followingSku": "8457950",
         "followingTitle": "Livmore 6-Piece Beaded Stationery Gift Set (inc. 1 x Decorative Box, 5 x Pens, & 1 x Diary) - Silver & Blue",
         "followingAuctionCode": "0019919463"
+      },
+      {
+        "start": 1792717998850,
+        "end": 1792718062043,
+        "durationMin": 1.1,
+        "precedingSku": "8624644",
+        "precedingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
+        "precedingAuctionCode": "0019919415",
+        "followingSku": "8597968",
+        "followingTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
+        "followingAuctionCode": "0019919346"
       }
     ],
-    "lastOnAirSku": "8624644",
-    "lastOnAirTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
-    "lastOnAirAuctionCode": "0019919415",
+    "lastOnAirSku": "8597968",
+    "lastOnAirTitle": "Cordless Rechargeable Electric Lint Remover with 3 Speed & Digital Display - White",
+    "lastOnAirAuctionCode": "0019919346",
     "precedingSku": "8624644",
     "precedingTitle": "3 in 1 Fast Charging USB Cable Multi Connector Charger Cord - White",
     "precedingAuctionCode": "0019919415"
