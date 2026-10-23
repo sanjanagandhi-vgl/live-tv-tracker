@@ -481289,11 +481289,29 @@
       "auctionCode": "0019921807",
       "source": "gha",
       "productUrl": null
+    },
+    "221339799": {
+      "sku": "221339799",
+      "firstAir": 1792779262163,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792779262163,
+      "title": "Christmas Gift Deal- SET OF 2 - Helene Fischer That's Me 10 ML - 10ML Rollerball Eau de Parfum",
+      "pdpPrice": "41.98",
+      "auctionCode": "0019921733",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-23",
+      "time": "19:14:22",
+      "productUrl": null,
+      "lastUpdated": 1792779262163,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792778966484,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547040,11 +547058,22 @@
         "followingSku": "8823262",
         "followingTitle": "A festive felt tree set with 22 colorful ornaments Tree (Size - One Size) - Green",
         "followingAuctionCode": "0019921480"
+      },
+      {
+        "start": 1792778966484,
+        "end": 1792779262163,
+        "durationMin": 4.9,
+        "precedingSku": "8106465",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019921808",
+        "followingSku": "221339799",
+        "followingTitle": "Christmas Gift Deal- SET OF 2 - Helene Fischer That's Me 10 ML - 10ML Rollerball Eau de Parfum",
+        "followingAuctionCode": "0019921733"
       }
     ],
-    "lastOnAirSku": "8106465",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019921808",
+    "lastOnAirSku": "221339799",
+    "lastOnAirTitle": "Christmas Gift Deal- SET OF 2 - Helene Fischer That's Me 10 ML - 10ML Rollerball Eau de Parfum",
+    "lastOnAirAuctionCode": "0019921733",
     "precedingSku": "8106465",
     "precedingTitle": null,
     "precedingAuctionCode": "0019921808"
