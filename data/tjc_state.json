@@ -478731,18 +478731,23 @@
       "sku": "8784876",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-22",
-      "time": "20:50:36",
+      "date": "2026-10-24",
+      "time": "20:50:37",
       "preExisting": true,
       "missedAt": 1792698636796,
       "missedDelay": null,
-      "lastUpdated": 1792698636796,
+      "lastUpdated": 1792871437582,
       "missedPrice": 799.99,
       "missedImg": true,
       "title": "Biggest Close Out-  9K Rose Gold SGL Certified Natural Champagne Diamond Ring 2.00 Ct.",
-      "auctionCode": "0019920413",
+      "auctionCode": "0019921506",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792871437582,
+      "pdpPrice": "2999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8784875": {
       "sku": "8784875",
@@ -483845,8 +483850,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792871301815,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550352,11 +550357,22 @@
         "followingSku": "8784997",
         "followingTitle": "Luxoro - 9K Rose Gold SGL Certified Natural Pink Diamond Ring 0.50 Ct.",
         "followingAuctionCode": "0019921490"
+      },
+      {
+        "start": 1792871301815,
+        "end": 1792871437582,
+        "durationMin": 2.3,
+        "precedingSku": "8784997",
+        "precedingTitle": "Luxoro - 9K Rose Gold SGL Certified Natural Pink Diamond Ring 0.50 Ct.",
+        "precedingAuctionCode": null,
+        "followingSku": "8784876",
+        "followingTitle": "Biggest Close Out-  9K Rose Gold SGL Certified Natural Champagne Diamond Ring 2.00 Ct.",
+        "followingAuctionCode": "0019921506"
       }
     ],
-    "lastOnAirSku": "8784997",
-    "lastOnAirTitle": "Luxoro - 9K Rose Gold SGL Certified Natural Pink Diamond Ring 0.50 Ct.",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8784876",
+    "lastOnAirTitle": "Biggest Close Out-  9K Rose Gold SGL Certified Natural Champagne Diamond Ring 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019921506",
     "precedingSku": "8784997",
     "precedingTitle": "Luxoro - 9K Rose Gold SGL Certified Natural Pink Diamond Ring 0.50 Ct.",
     "precedingAuctionCode": null
