@@ -165551,21 +165551,26 @@
       "sku": "8552955",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "23:21:19",
+      "date": "2026-10-24",
+      "time": "04:41:19",
       "preExisting": true,
       "missedAt": 1786746079651,
       "missedDelay": null,
-      "lastUpdated": 1786746079651,
+      "lastUpdated": 1792813279097,
       "missedPrice": 12.99,
       "missedImg": false,
-      "title": "Italian Made - Rhodium Overlay Sterling Silver Marina Anchor Necklace (Size - 24) with Lobster Clasp",
-      "auctionCode": "0019820020",
+      "title": "Italian Made - Rhodium Overlay Sterling Silver Necklace (Size - 20) with Lobster Clasp",
+      "auctionCode": "0019921211",
       "source": "gha",
       "productUrl": "/products/italian-made-rhodium-overlay-sterling-silver-marina-anchor-necklace-size-20-with-lobster-clasp-8552925",
       "productUrlChecked": 1786746085840,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792813279097,
+      "pdpPrice": "457.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8552963": {
       "sku": "8552963",
@@ -481709,8 +481714,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792813237416,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547798,11 +547803,22 @@
         "followingSku": "8763550",
         "followingTitle": "Close Out Deal - Sterling Silver Heart Bangle (Size - 7.5)",
         "followingAuctionCode": "0019921201"
+      },
+      {
+        "start": 1792813237416,
+        "end": 1792813279097,
+        "durationMin": 0.7,
+        "precedingSku": "8552905",
+        "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
+        "precedingAuctionCode": "0019921209",
+        "followingSku": "8552955",
+        "followingTitle": "Italian Made - Rhodium Overlay Sterling Silver Necklace (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019921211"
       }
     ],
-    "lastOnAirSku": "8552905",
-    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019921209",
+    "lastOnAirSku": "8552955",
+    "lastOnAirTitle": "Italian Made - Rhodium Overlay Sterling Silver Necklace (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019921211",
     "precedingSku": "8552905",
     "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 24) with Lobster Clasp",
     "precedingAuctionCode": "0019921209"
