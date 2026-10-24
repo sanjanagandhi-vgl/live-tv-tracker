@@ -214597,21 +214597,26 @@
       "sku": "8556471",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "19:30:56",
+      "date": "2026-10-24",
+      "time": "03:28:23",
       "preExisting": true,
       "missedAt": 1787337056143,
       "missedDelay": null,
-      "lastUpdated": 1787337056143,
+      "lastUpdated": 1792808903099,
       "missedPrice": 6.99,
       "missedImg": true,
-      "title": "Set of 2 Floral Print Zip Around Wallet Set - Burgundy",
-      "auctionCode": "0019832173",
+      "title": "Set of 2 Leopard Print Zip Around Wallet Set - Brown",
+      "auctionCode": "0019921335",
       "source": "gha",
       "productUrl": "/products/flower-wallet-size-19x9x1-cm-beige-8556466",
       "productUrlChecked": 1787337062623,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792808903099,
+      "pdpPrice": "6.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8519573": {
       "sku": "8519573",
@@ -481668,8 +481673,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792808840406,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547724,11 +547729,22 @@
         "followingSku": "8309402",
         "followingTitle": "La Marey 100% Mulberry Silk Chiffon Scarf (106 x 195 cm) - Grey",
         "followingAuctionCode": "0019921328"
+      },
+      {
+        "start": 1792808840406,
+        "end": 1792808903099,
+        "durationMin": 1.0,
+        "precedingSku": "8575477",
+        "precedingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
+        "precedingAuctionCode": "0019921331",
+        "followingSku": "8556471",
+        "followingTitle": "Set of 2 Leopard Print Zip Around Wallet Set - Brown",
+        "followingAuctionCode": "0019921335"
       }
     ],
-    "lastOnAirSku": "8575477",
-    "lastOnAirTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
-    "lastOnAirAuctionCode": "0019921331",
+    "lastOnAirSku": "8556471",
+    "lastOnAirTitle": "Set of 2 Leopard Print Zip Around Wallet Set - Brown",
+    "lastOnAirAuctionCode": "0019921335",
     "precedingSku": "8575477",
     "precedingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
     "precedingAuctionCode": "0019921331"
