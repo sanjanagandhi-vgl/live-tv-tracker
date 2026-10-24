@@ -440977,21 +440977,26 @@
       "sku": "8762483",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-10",
-      "time": "07:21:17",
+      "date": "2026-10-24",
+      "time": "02:36:20",
       "preExisting": true,
       "missedAt": 1791613277248,
       "missedDelay": null,
-      "lastUpdated": 1791613277248,
+      "lastUpdated": 1792805780720,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Capybara Novelty Plush Cover Hot Water Bottle - Beige",
-      "auctionCode": "0019902087",
+      "title": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+      "auctionCode": "0019921343",
       "source": "gha",
       "productUrl": "/products/tjc-special-christmas-ornament-size-one-size-grey-8762478",
       "productUrlChecked": 1791613280641,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792805780720,
+      "pdpPrice": "179.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8762479": {
       "sku": "8762479",
@@ -481648,8 +481653,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792805727110,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547660,11 +547665,22 @@
         "followingSku": "8246600",
         "followingTitle": "Alpha Essential Renewal Lotion 10% Glycolic AHA",
         "followingAuctionCode": "0019921265"
+      },
+      {
+        "start": 1792805727110,
+        "end": 1792805780720,
+        "durationMin": 0.9,
+        "precedingSku": "8519081",
+        "precedingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "precedingAuctionCode": "0019921284",
+        "followingSku": "8762483",
+        "followingTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+        "followingAuctionCode": "0019921343"
       }
     ],
-    "lastOnAirSku": "8519081",
-    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
-    "lastOnAirAuctionCode": "0019921284",
+    "lastOnAirSku": "8762483",
+    "lastOnAirTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+    "lastOnAirAuctionCode": "0019921343",
     "precedingSku": "8519081",
     "precedingTitle": "Leopard Royal Savannah EDP - 100ml",
     "precedingAuctionCode": "0019921284"
