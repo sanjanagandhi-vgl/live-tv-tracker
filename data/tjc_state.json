@@ -171327,17 +171327,17 @@
       "firstAir": 1786857862212,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792474528016,
+      "lastAir": 1792804158072,
       "title": "Alpha Essential Renewal Lotion 10% Glycolic AHA",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019915701",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019921265",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-20",
-      "time": "06:35:28",
+      "date": "2026-10-24",
+      "time": "02:09:18",
       "productUrl": "/products/alpha-essential-renewal-lotion-10-glycolic-aha",
-      "lastUpdated": 1792474528016,
+      "lastUpdated": 1792804158072,
       "source": "gha",
       "missedAt": 1786858529505,
       "missedDelay": 9,
@@ -481648,8 +481648,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792804102359,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547649,11 +547649,22 @@
         "followingSku": "8695247",
         "followingTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Relief - Flower",
         "followingAuctionCode": "0019920926"
+      },
+      {
+        "start": 1792804102359,
+        "end": 1792804158072,
+        "durationMin": 0.9,
+        "precedingSku": "8695247",
+        "precedingTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Re...",
+        "precedingAuctionCode": null,
+        "followingSku": "8246600",
+        "followingTitle": "Alpha Essential Renewal Lotion 10% Glycolic AHA",
+        "followingAuctionCode": "0019921265"
       }
     ],
-    "lastOnAirSku": "8695247",
-    "lastOnAirTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Re...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8246600",
+    "lastOnAirTitle": "Alpha Essential Renewal Lotion 10% Glycolic AHA",
+    "lastOnAirAuctionCode": "0019921265",
     "precedingSku": "8695247",
     "precedingTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Re...",
     "precedingAuctionCode": null
