@@ -14967,7 +14967,7 @@
       "firstAir": 1785071901136,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792815261317,
+      "lastAir": 1792815382530,
       "title": "D'Joy - Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size - 20) 2.50 Ct.",
       "pdpPrice": "29.99",
       "auctionCode": "0019921139",
@@ -14975,8 +14975,8 @@
       "login": false,
       "img": true,
       "date": "2026-10-24",
-      "time": "05:14:21",
-      "lastUpdated": 1792815261317,
+      "time": "05:16:22",
+      "lastUpdated": 1792815382530,
       "source": "gha",
       "missedAt": 1785072645234,
       "missedDelay": 1,
@@ -481764,8 +481764,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792815337723,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547872,6 +547872,17 @@
         "precedingSku": "8433743",
         "precedingTitle": "D'Joy - Moissanite Cross Pendant in Yellow Gold Plated Sterling Silver 1.40 Ct.",
         "precedingAuctionCode": "0019921135",
+        "followingSku": "4489893",
+        "followingTitle": "D'Joy - Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size - 20) 2.50 Ct.",
+        "followingAuctionCode": "0019921139"
+      },
+      {
+        "start": 1792815337723,
+        "end": 1792815382530,
+        "durationMin": 0.7,
+        "precedingSku": "4489893",
+        "precedingTitle": "D'Joy - Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size - 20) 2.50 Ct.",
+        "precedingAuctionCode": "0019921139",
         "followingSku": "4489893",
         "followingTitle": "D'Joy - Moissanite Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size - 20) 2.50 Ct.",
         "followingAuctionCode": "0019921139"
