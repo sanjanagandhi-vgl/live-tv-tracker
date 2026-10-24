@@ -483314,20 +483314,25 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-24",
-      "time": "17:32:22",
+      "time": "21:31:19",
       "preExisting": true,
       "missedAt": 1792859542778,
       "missedDelay": null,
-      "lastUpdated": 1792859542778,
+      "lastUpdated": 1792873879746,
       "missedPrice": 2379.99,
       "missedImg": true,
-      "title": "Luxoro - 14K Yellow Gold AAA Colombian Emerald & Natural White Diamond Halo Ring 1.85 Ct.",
-      "auctionCode": "0019923043",
+      "title": "Tony Diniz Collection - Certified and Appraised14K Yellow Gold AAA Colombian Emerald & Natural White Diamond Halo Ring 1.85 Ct.",
+      "auctionCode": "0019921786",
       "source": "gha",
       "productUrl": "/products/luxoro-14k-yellow-gold-aaa-colombian-emerald-natural-white-diamond-halo-ring-1-85-ct-gold-wt-3-40-gms-8770249",
       "productUrlChecked": 1792859546918,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792873879746,
+      "pdpPrice": "4999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8770255": {
       "sku": "8770255",
@@ -483855,8 +483860,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792873855394,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550406,11 +550411,22 @@
         "followingSku": "8301561",
         "followingTitle": "9K Yellow Gold Wide Bold Band Ring",
         "followingAuctionCode": "0019923235"
+      },
+      {
+        "start": 1792873855394,
+        "end": 1792873879746,
+        "durationMin": 0.4,
+        "precedingSku": "8301561",
+        "precedingTitle": "9K Yellow Gold Wide Bold Band Ring",
+        "precedingAuctionCode": null,
+        "followingSku": "8839502",
+        "followingTitle": "Tony Diniz Collection - Certified and Appraised14K Yellow Gold AAA Colombian Emerald & Natural White Diamond Halo Ring 1.85 Ct.",
+        "followingAuctionCode": "0019921786"
       }
     ],
-    "lastOnAirSku": "8301561",
-    "lastOnAirTitle": "9K Yellow Gold Wide Bold Band Ring",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8839502",
+    "lastOnAirTitle": "Tony Diniz Collection - Certified and Appraised14K Yellow Gold AAA Colombian Emerald & Natural White Diamond Halo Ring 1.85 Ct.",
+    "lastOnAirAuctionCode": "0019921786",
     "precedingSku": "8301561",
     "precedingTitle": "9K Yellow Gold Wide Bold Band Ring",
     "precedingAuctionCode": null
