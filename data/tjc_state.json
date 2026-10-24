@@ -470967,18 +470967,23 @@
       "sku": "8633184",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-20",
-      "time": "10:47:19",
+      "date": "2026-10-24",
+      "time": "22:11:18",
       "preExisting": true,
       "missedAt": 1792489639598,
       "missedDelay": null,
-      "lastUpdated": 1792489639598,
+      "lastUpdated": 1792876278247,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Rabbit Bluetooth Speaker (Size 78x72 cm) - light apricot",
-      "auctionCode": "0019916393",
+      "title": "Horse Bluetooth Speaker (Model - K-315S) with 3W Output, 300mAh Battery and Type-C Charging - Brown",
+      "auctionCode": "0019921482",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792876278247,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8633151": {
       "sku": "8633151",
@@ -483868,8 +483873,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792876239332,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550452,11 +550457,22 @@
         "followingSku": "8801612",
         "followingTitle": "CHRISTMAS SPECIAL - Set of 6- Cute Christmas Earrings",
         "followingAuctionCode": "0019921514"
+      },
+      {
+        "start": 1792876239332,
+        "end": 1792876278247,
+        "durationMin": 0.6,
+        "precedingSku": "8818165",
+        "precedingTitle": "Prehistoric Dinosaurs 100 Piece Jigsaw Puzzle for Kids - Brown",
+        "precedingAuctionCode": "0019921504",
+        "followingSku": "8633184",
+        "followingTitle": "Horse Bluetooth Speaker (Model - K-315S) with 3W Output, 300mAh Battery and Type-C Charging - Brown",
+        "followingAuctionCode": "0019921482"
       }
     ],
-    "lastOnAirSku": "8818165",
-    "lastOnAirTitle": "Prehistoric Dinosaurs 100 Piece Jigsaw Puzzle for Kids - Brown",
-    "lastOnAirAuctionCode": "0019921504",
+    "lastOnAirSku": "8633184",
+    "lastOnAirTitle": "Horse Bluetooth Speaker (Model - K-315S) with 3W Output, 300mAh Battery and Type-C Charging - Brown",
+    "lastOnAirAuctionCode": "0019921482",
     "precedingSku": "8818165",
     "precedingTitle": "Prehistoric Dinosaurs 100 Piece Jigsaw Puzzle for Kids - Brown",
     "precedingAuctionCode": "0019921504"
