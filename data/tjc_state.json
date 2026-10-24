@@ -483651,13 +483651,17 @@
       "date": "2026-10-24",
       "time": "20:01:19",
       "productUrl": null,
-      "lastUpdated": 1792868479672,
-      "source": "gha"
+      "lastUpdated": 1792868543117,
+      "source": "gha",
+      "missedAt": 1792868543117,
+      "missedDelay": 1,
+      "missedPrice": 3499.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792868543117,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550157,8 +550161,8 @@
     "lastOnAirSku": "8797372",
     "lastOnAirTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Ring 2.00 Ct, Platinum Wt. 4.50 Gms",
     "lastOnAirAuctionCode": "0019921561",
-    "precedingSku": "8774579",
-    "precedingTitle": "950 Platinum SGL Certified Natural White Diamond Ring 1.00 Ct,Platinum Wt. 3.00 Gms",
-    "precedingAuctionCode": null
+    "precedingSku": "8797372",
+    "precedingTitle": "The Tokyo Treasure - 950 Platinum SGL Certified Natural White Diamond (SI-G-H) Ring 2.00 Ct, Platinum Wt. 4.50 Gms",
+    "precedingAuctionCode": "0019921561"
   }
 }
