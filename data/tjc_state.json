@@ -482289,11 +482289,29 @@
       "auctionCode": "0019921685",
       "source": "gha",
       "productUrl": null
+    },
+    "8788207": {
+      "sku": "8788207",
+      "firstAir": 1792835360362,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792835360362,
+      "title": "Live From Tanzania - D'Joy - Premium Tanzanite Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 1.15 Ct.",
+      "pdpPrice": "1399.99",
+      "auctionCode": "0019921924",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-24",
+      "time": "10:49:20",
+      "productUrl": null,
+      "lastUpdated": 1792835360362,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792835303601,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -548535,11 +548553,22 @@
         "followingSku": "8757665",
         "followingTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Mint & Lemon",
         "followingAuctionCode": "0019921944"
+      },
+      {
+        "start": 1792835303601,
+        "end": 1792835360362,
+        "durationMin": 0.9,
+        "precedingSku": "8811401",
+        "precedingTitle": "Live From Tanzania - D'Joy - Premium Tanzanite & Natural White Zircon Halo Ring in Yellow Gold Plated Sterling Silver 0.80 Ct.",
+        "precedingAuctionCode": "0019921684",
+        "followingSku": "8788207",
+        "followingTitle": "Live From Tanzania - D'Joy - Premium Tanzanite Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 1.15 Ct.",
+        "followingAuctionCode": "0019921924"
       }
     ],
-    "lastOnAirSku": "8811401",
-    "lastOnAirTitle": "Live From Tanzania - D'Joy - Premium Tanzanite & Natural White Zircon Halo Ring in Yellow Gold Plated Sterling Silver 0.80 Ct.",
-    "lastOnAirAuctionCode": "0019921684",
+    "lastOnAirSku": "8788207",
+    "lastOnAirTitle": "Live From Tanzania - D'Joy - Premium Tanzanite Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 1.15 Ct.",
+    "lastOnAirAuctionCode": "0019921924",
     "precedingSku": "8811401",
     "precedingTitle": "Live From Tanzania - D'Joy - Premium Tanzanite & Natural White Zircon Halo Ring in Yellow Gold Plated Sterling Silver 0.80 Ct.",
     "precedingAuctionCode": "0019921684"
