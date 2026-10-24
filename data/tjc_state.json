@@ -165191,23 +165191,23 @@
       "sku": "8553754",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-24",
-      "time": "20:50:42",
+      "date": "2026-10-24",
+      "time": "22:59:20",
       "preExisting": true,
       "missedAt": 1786741998865,
       "missedDelay": null,
-      "lastUpdated": 1787601042154,
+      "lastUpdated": 1792879160192,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Fragrance Works Soft Sandalwood EDP - 100ml",
-      "auctionCode": "0019838980",
+      "title": "Fragrance Works Ombre Oud EDP - 100ml",
+      "auctionCode": "0019921683",
       "source": "gha",
       "productUrl": "/products/close-out-deal-fragrance-works-berry-blooms-edp-100ml",
       "productUrlChecked": 1786742011469,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1787601042154,
-      "pdpPrice": "19.99",
+      "lastAir": 1792879160192,
+      "pdpPrice": "159.99",
       "buy": true,
       "login": false,
       "img": true
@@ -483883,8 +483883,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792879101317,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550522,11 +550522,22 @@
         "followingSku": "8762466",
         "followingTitle": "Festive Doves Print Super Soft Flannel Fleece Throw Blanket (120 x 150cm) - Blue",
         "followingAuctionCode": "0019921548"
+      },
+      {
+        "start": 1792879101317,
+        "end": 1792879160192,
+        "durationMin": 1.0,
+        "precedingSku": "8762466",
+        "precedingTitle": "Festive Doves Print Super Soft Flannel Fleece Throw Blanket (120 x 150cm) - Blue",
+        "precedingAuctionCode": "0019921548",
+        "followingSku": "8553754",
+        "followingTitle": "Fragrance Works Ombre Oud EDP - 100ml",
+        "followingAuctionCode": "0019921683"
       }
     ],
-    "lastOnAirSku": "8762466",
-    "lastOnAirTitle": "Festive Doves Print Super Soft Flannel Fleece Throw Blanket (120 x 150cm) - Blue",
-    "lastOnAirAuctionCode": "0019921548",
+    "lastOnAirSku": "8553754",
+    "lastOnAirTitle": "Fragrance Works Ombre Oud EDP - 100ml",
+    "lastOnAirAuctionCode": "0019921683",
     "precedingSku": "8762466",
     "precedingTitle": "Festive Doves Print Super Soft Flannel Fleece Throw Blanket (120 x 150cm) - Blue",
     "precedingAuctionCode": "0019921548"
