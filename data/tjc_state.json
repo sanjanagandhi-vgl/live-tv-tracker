@@ -481691,16 +481691,20 @@
       "date": "2026-10-24",
       "time": "04:02:24",
       "productUrl": "/products/keychain-1058414415?variant=53109361574154",
-      "lastUpdated": 1792810944110,
+      "lastUpdated": 1792810998856,
       "source": "gha",
       "productUrlChecked": 1792810947065,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792810998856,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792810998856,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547771,8 +547775,8 @@
     "lastOnAirSku": "8414415",
     "lastOnAirTitle": "Set of 2 - Beaded Bear & Heart Design Key Chains (12cm) - White & Black",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8575477",
-    "precedingTitle": "100% Genuine Leather Holdall Travel Duffel Bag - Navy",
-    "precedingAuctionCode": "0019921331"
+    "precedingSku": "8414415",
+    "precedingTitle": "Set of 2 - Beaded Bear & Heart Design Key Chains (12cm) - White & Black",
+    "precedingAuctionCode": null
   }
 }
