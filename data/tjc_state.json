@@ -417577,21 +417577,26 @@
       "sku": "8667889",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "17:25:34",
+      "date": "2026-10-24",
+      "time": "22:47:17",
       "preExisting": true,
       "missedAt": 1790958334300,
       "missedDelay": null,
-      "lastUpdated": 1790958334300,
+      "lastUpdated": 1792878437700,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Angel",
-      "auctionCode": "0019893210",
+      "title": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+      "auctionCode": "0019921537",
       "source": "gha",
       "productUrl": "/products/livmore-candle-holder-size-one-size-white-8667855",
       "productUrlChecked": 1790958338023,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792878437700,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8712472": {
       "sku": "8712472",
@@ -483873,8 +483878,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792878337110,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550490,11 +550495,22 @@
         "followingSku": "7846371",
         "followingTitle": "Table Lamp (Size - 30cm Height) - Black",
         "followingAuctionCode": "0019921540"
+      },
+      {
+        "start": 1792878337110,
+        "end": 1792878437700,
+        "durationMin": 1.7,
+        "precedingSku": "7846371",
+        "precedingTitle": "Table Lamp (Size - 30cm Height) - Black",
+        "precedingAuctionCode": "0019921540",
+        "followingSku": "8667889",
+        "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "followingAuctionCode": "0019921537"
       }
     ],
-    "lastOnAirSku": "7846371",
-    "lastOnAirTitle": "Table Lamp (Size - 30cm Height) - Black",
-    "lastOnAirAuctionCode": "0019921540",
+    "lastOnAirSku": "8667889",
+    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+    "lastOnAirAuctionCode": "0019921537",
     "precedingSku": "7846371",
     "precedingTitle": "Table Lamp (Size - 30cm Height) - Black",
     "precedingAuctionCode": "0019921540"
