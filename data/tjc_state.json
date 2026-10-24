@@ -13827,18 +13827,18 @@
       "sku": "8564247",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-28",
-      "time": "22:46:23",
+      "date": "2026-10-24",
+      "time": "18:12:43",
       "preExisting": true,
       "missedAt": 1785040636946,
       "missedDelay": null,
-      "lastUpdated": 1790631983523,
+      "lastUpdated": 1792861963460,
       "missedPrice": 27.99,
       "missedImg": true,
-      "title": "EverTrue - Natural White Diamond Necklace (Size - 20)",
-      "auctionCode": "0019887482",
+      "title": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
+      "auctionCode": "0019921773",
       "source": "gha",
-      "lastAir": 1790631983523,
+      "lastAir": 1792861963460,
       "pdpPrice": "27.99",
       "buy": true,
       "login": false,
@@ -483486,8 +483486,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792861343257,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -549883,11 +549883,22 @@
         "followingSku": "8780272",
         "followingTitle": "D'Joy - Colombian Emerald & Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019921779"
+      },
+      {
+        "start": 1792861343257,
+        "end": 1792861963460,
+        "durationMin": 10.3,
+        "precedingSku": "8780272",
+        "precedingTitle": "D'Joy - Colombian Emerald & Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019921779",
+        "followingSku": "8564247",
+        "followingTitle": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
+        "followingAuctionCode": "0019921773"
       }
     ],
-    "lastOnAirSku": "8780272",
-    "lastOnAirTitle": "D'Joy - Colombian Emerald & Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019921779",
+    "lastOnAirSku": "8564247",
+    "lastOnAirTitle": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019921773",
     "precedingSku": "8780272",
     "precedingTitle": "D'Joy - Colombian Emerald & Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019921779"
