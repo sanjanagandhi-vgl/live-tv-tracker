@@ -421483,21 +421483,26 @@
       "sku": "8797514",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-03",
-      "time": "18:39:18",
+      "date": "2026-10-24",
+      "time": "18:21:17",
       "preExisting": true,
       "missedAt": 1791049158287,
       "missedDelay": null,
-      "lastUpdated": 1791049158287,
+      "lastUpdated": 1792862477271,
       "missedPrice": 99.99,
       "missedImg": false,
-      "title": "The Tokyo Treasure - D'Joy White Diamond (I3-G-H) Hoop Earring in Rhodium Overlay Sterling Silver 0.33 Ct.",
-      "auctionCode": "0019895317",
+      "title": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.30 Ct.",
+      "auctionCode": "0019921718",
       "source": "gha",
       "productUrl": "/products/djoy-natural-white-diamond-i3-g-h-hoop-earring-in-18k-vermeil-yellow-gold-plated-sterling-silver-0-33-ct-8797513",
       "productUrlChecked": 1791049161715,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792862477271,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8795993": {
       "sku": "8795993",
@@ -483486,8 +483491,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792862438075,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -549894,11 +549899,22 @@
         "followingSku": "8564247",
         "followingTitle": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
         "followingAuctionCode": "0019921773"
+      },
+      {
+        "start": 1792862438075,
+        "end": 1792862477271,
+        "durationMin": 0.7,
+        "precedingSku": "8564247",
+        "precedingTitle": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
+        "precedingAuctionCode": "0019921773",
+        "followingSku": "8797514",
+        "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.30 Ct.",
+        "followingAuctionCode": "0019921718"
       }
     ],
-    "lastOnAirSku": "8564247",
-    "lastOnAirTitle": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019921773",
+    "lastOnAirSku": "8797514",
+    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.30 Ct.",
+    "lastOnAirAuctionCode": "0019921718",
     "precedingSku": "8564247",
     "precedingTitle": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
     "precedingAuctionCode": "0019921773"
