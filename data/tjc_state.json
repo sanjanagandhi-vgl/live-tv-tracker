@@ -482747,13 +482747,34 @@
       "date": "2026-10-24",
       "time": "12:19:18",
       "productUrl": null,
-      "lastUpdated": 1792840758723,
-      "source": "gha"
+      "lastUpdated": 1792840838360,
+      "source": "gha",
+      "missedAt": 1792840838360,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
+    },
+    "8777473": {
+      "sku": "8777473",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-24",
+      "time": "12:20:38",
+      "preExisting": true,
+      "missedAt": 1792840838360,
+      "missedDelay": null,
+      "lastUpdated": 1792840838360,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Live From Tanzania - D'Joy - Premium Tanzanite Solitaire Stud Earring with Push Post in Yellow Gold Plated Sterling Silver.",
+      "auctionCode": "0019921927",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792840838360,
     "gaps": [
       {
         "start": 1785823527869,
@@ -549033,8 +549054,8 @@
     "lastOnAirSku": "8777472",
     "lastOnAirTitle": "Live From Tanzania - D'Joy - Premium Tanzanite Solitaire Stud Earring with Push Post in Yellow Gold Plated Sterling Silver.",
     "lastOnAirAuctionCode": "0019921926",
-    "precedingSku": "8775072",
-    "precedingTitle": "Live From Tanzania - D'Joy - Tanzanite & Natural White Diamond in Yellow Gold Plated Sterling Silver 0.80 Ct.",
-    "precedingAuctionCode": "0019921735"
+    "precedingSku": "8777472",
+    "precedingTitle": "Live From Tanzania - D'Joy - Premium Tanzanite Solitaire Stud Earring with Push Post in Yellow Gold Plated Sterling Silver.",
+    "precedingAuctionCode": "0019921926"
   }
 }
