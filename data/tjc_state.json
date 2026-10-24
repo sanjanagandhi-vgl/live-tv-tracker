@@ -88035,21 +88035,26 @@
       "sku": "7948825",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-06",
-      "time": "11:15:37",
+      "date": "2026-10-24",
+      "time": "08:30:53",
       "preExisting": true,
       "missedAt": 1786011337384,
       "missedDelay": null,
-      "lastUpdated": 1786011337384,
+      "lastUpdated": 1792827053491,
       "missedPrice": 4.99,
       "missedImg": true,
-      "title": "NUSUK Arabian Oud Home Fragrance Collection - Asrar - 300ML",
-      "auctionCode": "0019809370",
+      "title": "Arabian Oud Home Fragrance Collection- Al Shakhsiyat - 300ML",
+      "auctionCode": "0019921917",
       "source": "gha",
       "productUrl": "/products/nusuk-fleurie-emerald-air-freshener-spray-300ml-8718097",
       "productUrlChecked": 1786011356893,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792827053491,
+      "pdpPrice": "4.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "221329811": {
       "sku": "221329811",
@@ -481979,8 +481984,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792826900998,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -548189,11 +548194,22 @@
         "followingSku": "8380931",
         "followingTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
         "followingAuctionCode": "0019918575"
+      },
+      {
+        "start": 1792826900998,
+        "end": 1792827053491,
+        "durationMin": 2.5,
+        "precedingSku": "8841778",
+        "precedingTitle": "Velvet Filled Christmas Stockings (52 cm) - White",
+        "precedingAuctionCode": "0019921028",
+        "followingSku": "7948825",
+        "followingTitle": "Arabian Oud Home Fragrance Collection- Al Shakhsiyat - 300ML",
+        "followingAuctionCode": "0019921917"
       }
     ],
-    "lastOnAirSku": "8841778",
-    "lastOnAirTitle": "Velvet Filled Christmas Stockings (52 cm) - White",
-    "lastOnAirAuctionCode": "0019921028",
+    "lastOnAirSku": "7948825",
+    "lastOnAirTitle": "Arabian Oud Home Fragrance Collection- Al Shakhsiyat - 300ML",
+    "lastOnAirAuctionCode": "0019921917",
     "precedingSku": "8841778",
     "precedingTitle": "Velvet Filled Christmas Stockings (52 cm) - White",
     "precedingAuctionCode": "0019921028"
