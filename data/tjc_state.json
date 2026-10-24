@@ -481796,11 +481796,29 @@
       "productUrlChecked": 1792815745194,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7746509": {
+      "sku": "7746509",
+      "firstAir": 1792822398190,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792822398190,
+      "title": "ROLSON 50kg Heavy Duty Folding Trolley",
+      "pdpPrice": "44.99",
+      "auctionCode": "0019921400",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-24",
+      "time": "07:13:18",
+      "productUrl": null,
+      "lastUpdated": 1792822398190,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792822341319,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547987,11 +548005,22 @@
         "followingSku": "8597274",
         "followingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Dark Brown",
         "followingAuctionCode": "0019921411"
+      },
+      {
+        "start": 1792822341319,
+        "end": 1792822398190,
+        "durationMin": 0.9,
+        "precedingSku": "8106465",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019921391",
+        "followingSku": "7746509",
+        "followingTitle": "ROLSON 50kg Heavy Duty Folding Trolley",
+        "followingAuctionCode": "0019921400"
       }
     ],
-    "lastOnAirSku": "8106465",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019921391",
+    "lastOnAirSku": "7746509",
+    "lastOnAirTitle": "ROLSON 50kg Heavy Duty Folding Trolley",
+    "lastOnAirAuctionCode": "0019921400",
     "precedingSku": "8106465",
     "precedingTitle": null,
     "precedingAuctionCode": "0019921391"
