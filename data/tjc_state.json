@@ -181713,21 +181713,26 @@
       "sku": "8552930",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "11:36:23",
+      "date": "2026-10-25",
+      "time": "00:35:31",
       "preExisting": true,
       "missedAt": 1786962983883,
       "missedDelay": null,
-      "lastUpdated": 1786962983883,
+      "lastUpdated": 1792884931347,
       "missedPrice": 69.99,
       "missedImg": true,
-      "title": "Sterling Silver Paper Chain (Size - 20) with Lobster Clasp, Silver Wt. 10.20 Gms",
-      "auctionCode": "0019825629",
+      "title": "NIGHTOWL SPECIAL - Yellow Gold Plated Sterling Silver Paper Chain (Size - 22), Silver Wt. 11.00 Gms",
+      "auctionCode": "0019922142",
       "source": "gha",
       "productUrl": "/products/sterling-silver-paper-square-chain-6018553066",
       "productUrlChecked": 1786962989834,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792884931347,
+      "pdpPrice": "399.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8553067": {
       "sku": "8553067",
@@ -483908,8 +483913,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792884799708,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550613,11 +550618,22 @@
         "followingSku": "8763487",
         "followingTitle": "Sterling Silver Hoop Earring with Clasp",
         "followingAuctionCode": "0019922162"
+      },
+      {
+        "start": 1792884799708,
+        "end": 1792884931347,
+        "durationMin": 2.2,
+        "precedingSku": "8499795",
+        "precedingTitle": "La Bella Fine Italian Jewellery - Sterling Silver Bracelet (Size - 7.5) with Lobster Clasp",
+        "precedingAuctionCode": null,
+        "followingSku": "8552930",
+        "followingTitle": "NIGHTOWL SPECIAL - Yellow Gold Plated Sterling Silver Paper Chain (Size - 22), Silver Wt. 11.00 Gms",
+        "followingAuctionCode": "0019922142"
       }
     ],
-    "lastOnAirSku": "8499795",
-    "lastOnAirTitle": "La Bella Fine Italian Jewellery - Sterling Silver Bracelet (Size - 7.5) with Lobster Clasp",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8552930",
+    "lastOnAirTitle": "NIGHTOWL SPECIAL - Yellow Gold Plated Sterling Silver Paper Chain (Size - 22), Silver Wt. 11.00 Gms",
+    "lastOnAirAuctionCode": "0019922142",
     "precedingSku": "8499795",
     "precedingTitle": "La Bella Fine Italian Jewellery - Sterling Silver Bracelet (Size - 7.5) with Lobster Clasp",
     "precedingAuctionCode": null
