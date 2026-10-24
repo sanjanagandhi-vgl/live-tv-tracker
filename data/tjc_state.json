@@ -483433,11 +483433,29 @@
       "productUrl": null,
       "lastUpdated": 1792860142350,
       "source": "gha"
+    },
+    "8793459": {
+      "sku": "8793459",
+      "firstAir": 1792860339723,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792860339723,
+      "title": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond (VS) Halo Ring 2.30 Ct, Platinum Wt.7.65 Gms",
+      "pdpPrice": "3999.99",
+      "auctionCode": "0019921794",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-24",
+      "time": "17:45:39",
+      "productUrl": null,
+      "lastUpdated": 1792860339723,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792860199522,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -549811,11 +549829,22 @@
         "followingSku": "8959816",
         "followingTitle": "RHAPSODY - Certified and Appraised 950 Platinum AGI Certified AAAA Colombian Emerald and White Diamond (VS-E-F) Halo Ring 2.40 Ct, Platinum 7.19 Gms.",
         "followingAuctionCode": "0019921795"
+      },
+      {
+        "start": 1792860199522,
+        "end": 1792860339723,
+        "durationMin": 2.3,
+        "precedingSku": "8959816",
+        "precedingTitle": "RHAPSODY - Certified and Appraised 950 Platinum AGI Certified AAAA Colombian Emerald and White Diamond (VS-E-F) Halo Ring 2.40 Ct, Platinum 7.19 Gms.",
+        "precedingAuctionCode": "0019921795",
+        "followingSku": "8793459",
+        "followingTitle": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond (VS) Halo Ring 2.30 Ct, Platinum Wt.7.65 Gms",
+        "followingAuctionCode": "0019921794"
       }
     ],
-    "lastOnAirSku": "8959816",
-    "lastOnAirTitle": "RHAPSODY - Certified and Appraised 950 Platinum AGI Certified AAAA Colombian Emerald and White Diamond (VS-E-F) Halo Ring 2.40 Ct, Platinum 7.19 Gms.",
-    "lastOnAirAuctionCode": "0019921795",
+    "lastOnAirSku": "8793459",
+    "lastOnAirTitle": "The Tokyo Treasure - 900 White Platinum AAAA Colombian Emerald & White Diamond (VS) Halo Ring 2.30 Ct, Platinum Wt.7.65 Gms",
+    "lastOnAirAuctionCode": "0019921794",
     "precedingSku": "8959816",
     "precedingTitle": "RHAPSODY - Certified and Appraised 950 Platinum AGI Certified AAAA Colombian Emerald and White Diamond (VS-E-F) Halo Ring 2.40 Ct, Platinum 7.19 Gms.",
     "precedingAuctionCode": "0019921795"
