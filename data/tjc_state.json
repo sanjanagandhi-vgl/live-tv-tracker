@@ -360676,22 +360676,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-24",
-      "time": "23:33:19",
+      "time": "23:35:28",
       "preExisting": true,
       "missedAt": 1789679839993,
       "missedDelay": null,
-      "lastUpdated": 1792881199123,
+      "lastUpdated": 1792881328272,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "Closeout Deal - Genuine Leather Fully Lined Bag With Adjustable Cross Body Strap - Dark Green",
-      "auctionCode": null,
+      "auctionCode": "0019923366",
       "source": "gha",
       "productUrl": "/products/crossbody-bag-size-one-size-dark-green-8615674?variant=53718826680586",
       "productUrlChecked": 1789679845110,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792881199123,
-      "pdpPrice": 99.99,
+      "lastAir": 1792881328272,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -483883,8 +483883,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792881260961,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550544,11 +550544,22 @@
         "followingSku": "8686617",
         "followingTitle": "William Hunt Automatic Mechanical Movement 5ATM WR White Hollow Dial & IPS Plating 304 Stainless Steel Case Mens Watch with Stainless Steel Mesh Strap",
         "followingAuctionCode": "0019921719"
+      },
+      {
+        "start": 1792881260961,
+        "end": 1792881328272,
+        "durationMin": 1.1,
+        "precedingSku": "8615677",
+        "precedingTitle": "Closeout Deal - Genuine Leather Fully Lined Bag With Adjustable Cross Body Strap - Dark Green",
+        "precedingAuctionCode": null,
+        "followingSku": "8615677",
+        "followingTitle": "Closeout Deal - Genuine Leather Fully Lined Bag With Adjustable Cross Body Strap - Dark Green",
+        "followingAuctionCode": "0019923366"
       }
     ],
     "lastOnAirSku": "8615677",
     "lastOnAirTitle": "Closeout Deal - Genuine Leather Fully Lined Bag With Adjustable Cross Body Strap - Dark Green",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirAuctionCode": "0019923366",
     "precedingSku": "8615677",
     "precedingTitle": "Closeout Deal - Genuine Leather Fully Lined Bag With Adjustable Cross Body Strap - Dark Green",
     "precedingAuctionCode": null
