@@ -461957,21 +461957,26 @@
       "sku": "8762466",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-15",
-      "time": "20:38:21",
+      "date": "2026-10-24",
+      "time": "22:54:24",
       "preExisting": true,
       "missedAt": 1792093101797,
       "missedDelay": null,
-      "lastUpdated": 1792093101797,
+      "lastUpdated": 1792878864077,
       "missedPrice": 12.99,
       "missedImg": true,
       "title": "Festive Doves Print Super Soft Flannel Fleece Throw Blanket (120 x 150cm) - Blue",
-      "auctionCode": "0019910776",
+      "auctionCode": "0019921548",
       "source": "gha",
       "productUrl": "/products/tjc-special-christmas-ornament-size-one-size-blue-8762466",
       "productUrlChecked": 1792093105503,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792878864077,
+      "pdpPrice": "12.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8343724": {
       "sku": "8343724",
@@ -483878,8 +483883,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792878743236,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550506,11 +550511,22 @@
         "followingSku": "8667889",
         "followingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
         "followingAuctionCode": "0019921537"
+      },
+      {
+        "start": 1792878743236,
+        "end": 1792878864077,
+        "durationMin": 2.0,
+        "precedingSku": "8667889",
+        "precedingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
+        "precedingAuctionCode": "0019921537",
+        "followingSku": "8762466",
+        "followingTitle": "Festive Doves Print Super Soft Flannel Fleece Throw Blanket (120 x 150cm) - Blue",
+        "followingAuctionCode": "0019921548"
       }
     ],
-    "lastOnAirSku": "8667889",
-    "lastOnAirTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
-    "lastOnAirAuctionCode": "0019921537",
+    "lastOnAirSku": "8762466",
+    "lastOnAirTitle": "Festive Doves Print Super Soft Flannel Fleece Throw Blanket (120 x 150cm) - Blue",
+    "lastOnAirAuctionCode": "0019921548",
     "precedingSku": "8667889",
     "precedingTitle": "LIVMORE Porcelain Colour Changing Tealight Dome with Remote Control - Santa Claus",
     "precedingAuctionCode": "0019921537"
