@@ -263777,21 +263777,26 @@
       "sku": "8597274",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-28",
-      "time": "16:45:36",
+      "date": "2026-10-24",
+      "time": "06:56:20",
       "preExisting": true,
       "missedAt": 1787931936754,
       "missedDelay": null,
-      "lastUpdated": 1787931936754,
+      "lastUpdated": 1792821380701,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Blue",
-      "auctionCode": "0019845819",
+      "title": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Dark Brown",
+      "auctionCode": "0019921411",
       "source": "gha",
       "productUrl": "/products/set-of-5-large-non-woven-clothes-bedding-storage-bags-60-x-41-x-34-cm-beige-8596858",
       "productUrlChecked": 1787931940020,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792821380701,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8525894": {
       "sku": "8525894",
@@ -481794,8 +481799,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792821262738,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547971,11 +547976,22 @@
         "followingSku": "8818151",
         "followingTitle": "Wildlife Animals 100 Piece Jigsaw Puzzle for Kids - Orange",
         "followingAuctionCode": "0019921884"
+      },
+      {
+        "start": 1792821262738,
+        "end": 1792821380701,
+        "durationMin": 2.0,
+        "precedingSku": "8818151",
+        "precedingTitle": "Wildlife Animals 100 Piece Jigsaw Puzzle for Kids - Orange",
+        "precedingAuctionCode": "0019921884",
+        "followingSku": "8597274",
+        "followingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Dark Brown",
+        "followingAuctionCode": "0019921411"
       }
     ],
-    "lastOnAirSku": "8818151",
-    "lastOnAirTitle": "Wildlife Animals 100 Piece Jigsaw Puzzle for Kids - Orange",
-    "lastOnAirAuctionCode": "0019921884",
+    "lastOnAirSku": "8597274",
+    "lastOnAirTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Dark Brown",
+    "lastOnAirAuctionCode": "0019921411",
     "precedingSku": "8818151",
     "precedingTitle": "Wildlife Animals 100 Piece Jigsaw Puzzle for Kids - Orange",
     "precedingAuctionCode": "0019921884"
