@@ -429876,21 +429876,26 @@
       "sku": "8221522",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "13:10:40",
+      "date": "2026-10-24",
+      "time": "18:27:19",
       "preExisting": true,
       "missedAt": 1791288640989,
       "missedDelay": null,
-      "lastUpdated": 1791288640989,
+      "lastUpdated": 1792862839283,
       "missedPrice": 24.99,
       "missedImg": true,
-      "title": "Natural White Diamond Full Hoop Earring in 18K Yellow Gold Plated Sterling Silver",
-      "auctionCode": "0019898011",
+      "title": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
+      "auctionCode": "0019921724",
       "source": "gha",
       "productUrl": "/products/natural-white-diamond-full-hoop-earring-sterling-silver",
       "productUrlChecked": 1791288646123,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792862839283,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8551019": {
       "sku": "8551019",
@@ -483491,8 +483496,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792862782275,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -549910,11 +549915,22 @@
         "followingSku": "8797514",
         "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.30 Ct.",
         "followingAuctionCode": "0019921718"
+      },
+      {
+        "start": 1792862782275,
+        "end": 1792862839283,
+        "durationMin": 1.0,
+        "precedingSku": "8797514",
+        "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.30 Ct.",
+        "precedingAuctionCode": "0019921718",
+        "followingSku": "8221522",
+        "followingTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
+        "followingAuctionCode": "0019921724"
       }
     ],
-    "lastOnAirSku": "8797514",
-    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.30 Ct.",
-    "lastOnAirAuctionCode": "0019921718",
+    "lastOnAirSku": "8221522",
+    "lastOnAirTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019921724",
     "precedingSku": "8797514",
     "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Hoop Earring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.30 Ct.",
     "precedingAuctionCode": "0019921718"
