@@ -483521,16 +483521,20 @@
       "date": "2026-10-24",
       "time": "19:05:29",
       "productUrl": "/products/djoy-white-diamond-band-ring-in-18k-yg-vermeilsterling-silver-0-504-ct-8797526?variant=53921633370378",
-      "lastUpdated": 1792865129666,
+      "lastUpdated": 1792865182699,
       "source": "gha-variant",
       "productUrlChecked": 1792865132939,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792865182699,
+      "missedDelay": 1,
+      "missedPrice": 129.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792865182699,
     "gaps": [
       {
         "start": 1785823527869,
@@ -549997,8 +550001,8 @@
     "lastOnAirSku": "8797592",
     "lastOnAirTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8797356",
-    "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterli...",
+    "precedingSku": "8797592",
+    "precedingTitle": "D'Joy - Natural White Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
     "precedingAuctionCode": null
   }
 }
