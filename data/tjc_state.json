@@ -421745,23 +421745,23 @@
       "sku": "8795994",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-07",
-      "time": "12:39:19",
+      "date": "2026-10-24",
+      "time": "18:40:36",
       "preExisting": true,
       "missedAt": 1791051741419,
       "missedDelay": null,
-      "lastUpdated": 1791373159351,
+      "lastUpdated": 1792863636675,
       "missedPrice": 249.99,
       "missedImg": true,
       "title": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
-      "auctionCode": "0019898887",
+      "auctionCode": "0019921593",
       "source": "gha",
       "productUrl": "/products/djoy-white-diamond-ring-in-18k-yg-vermeilsterling-silver-silver-wt-5-gms-0-998-ct-8795993",
       "productUrlChecked": 1791051747650,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791373159351,
-      "pdpPrice": "249.99",
+      "lastAir": 1792863636675,
+      "pdpPrice": "999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -483501,8 +483501,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792863552730,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -549931,11 +549931,22 @@
         "followingSku": "8221522",
         "followingTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
         "followingAuctionCode": "0019921724"
+      },
+      {
+        "start": 1792863552730,
+        "end": 1792863636675,
+        "durationMin": 1.4,
+        "precedingSku": "4539193",
+        "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019921722",
+        "followingSku": "8795994",
+        "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019921593"
       }
     ],
-    "lastOnAirSku": "4539193",
-    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019921722",
+    "lastOnAirSku": "8795994",
+    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019921593",
     "precedingSku": "4539193",
     "precedingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019921722"
