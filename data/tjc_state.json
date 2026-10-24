@@ -2597,15 +2597,23 @@
       "sku": "8499878",
       "tvPrice": "",
       "remarks": "",
-      "time": "18:05:47",
+      "time": "01:34:22",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Crossbody Bag (Size - One Size) - Black",
-      "auctionCode": "0019790122",
-      "source": "gha"
+      "title": "Genuine Leather Crescent Shoulder Bag with Curved Top Handle - Black",
+      "auctionCode": "0019921262",
+      "source": "gha",
+      "lastAir": 1792802062904,
+      "pdpPrice": "639.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-24",
+      "productUrl": null,
+      "lastUpdated": 1792802062904
     },
     "8660859": {
       "sku": "8660859",
@@ -481637,8 +481645,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792801999693,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -547616,11 +547624,22 @@
         "followingSku": "8769843",
         "followingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
         "followingAuctionCode": "0019921164"
+      },
+      {
+        "start": 1792801999693,
+        "end": 1792802062904,
+        "durationMin": 1.1,
+        "precedingSku": "8769855",
+        "precedingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
+        "precedingAuctionCode": "0019921169",
+        "followingSku": "8499878",
+        "followingTitle": "Genuine Leather Crescent Shoulder Bag with Curved Top Handle - Black",
+        "followingAuctionCode": "0019921262"
       }
     ],
-    "lastOnAirSku": "8769855",
-    "lastOnAirTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
-    "lastOnAirAuctionCode": "0019921169",
+    "lastOnAirSku": "8499878",
+    "lastOnAirTitle": "Genuine Leather Crescent Shoulder Bag with Curved Top Handle - Black",
+    "lastOnAirAuctionCode": "0019921262",
     "precedingSku": "8769855",
     "precedingTitle": "Eskimo Womens Embroidered Trim Faux Suede Backless Platform Mule Slippers (Size 4) - Black",
     "precedingAuctionCode": "0019921169"
