@@ -486422,13 +486422,34 @@
       "date": "2026-10-25",
       "time": "17:23:18",
       "productUrl": null,
-      "lastUpdated": 1792948998265,
-      "source": "gha"
+      "lastUpdated": 1792949063655,
+      "source": "gha",
+      "missedAt": 1792949063655,
+      "missedDelay": 1,
+      "missedPrice": 89.99,
+      "missedImg": true
+    },
+    "8784941": {
+      "sku": "8784941",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-25",
+      "time": "17:24:23",
+      "preExisting": true,
+      "missedAt": 1792949063655,
+      "missedDelay": null,
+      "lastUpdated": 1792949063655,
+      "missedPrice": 89.99,
+      "missedImg": true,
+      "title": "D'Joy - Black Diamond (I3) Stud Earring with Push Post in Rhodium Overlay Sterling Silver 1.00 Ct.",
+      "auctionCode": "0019923748",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792949063655,
     "gaps": [
       {
         "start": 1785823527869,
@@ -553632,8 +553653,8 @@
     "lastOnAirSku": "8784940",
     "lastOnAirTitle": "D'Joy - Black Diamond (I3) Stud Earring with Push Post in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
     "lastOnAirAuctionCode": "0019919308",
-    "precedingSku": "8784914",
-    "precedingTitle": "D'Joy - Black Diamond (I3) Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
-    "precedingAuctionCode": "0019919307"
+    "precedingSku": "8784940",
+    "precedingTitle": "D'Joy - Black Diamond (I3) Stud Earring with Push Post in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+    "precedingAuctionCode": "0019919308"
   }
 }
