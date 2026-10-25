@@ -486406,11 +486406,29 @@
       "auctionCode": "0019923912",
       "source": "gha",
       "productUrl": null
+    },
+    "8784940": {
+      "sku": "8784940",
+      "firstAir": 1792948704518,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792948704518,
+      "title": "D'Joy - Black Diamond (I3) Stud Earring with Push Post in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019919308",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-25",
+      "time": "17:18:24",
+      "productUrl": null,
+      "lastUpdated": 1792948704518,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792948638854,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -553598,11 +553616,22 @@
         "followingSku": "8784914",
         "followingTitle": "D'Joy - Black Diamond (I3) Solitaire Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019919307"
+      },
+      {
+        "start": 1792948638854,
+        "end": 1792948704518,
+        "durationMin": 1.1,
+        "precedingSku": "8784914",
+        "precedingTitle": "D'Joy - Black Diamond (I3) Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "precedingAuctionCode": "0019919307",
+        "followingSku": "8784940",
+        "followingTitle": "D'Joy - Black Diamond (I3) Stud Earring with Push Post in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019919308"
       }
     ],
-    "lastOnAirSku": "8784914",
-    "lastOnAirTitle": "D'Joy - Black Diamond (I3) Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019919307",
+    "lastOnAirSku": "8784940",
+    "lastOnAirTitle": "D'Joy - Black Diamond (I3) Stud Earring with Push Post in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019919308",
     "precedingSku": "8784914",
     "precedingTitle": "D'Joy - Black Diamond (I3) Solitaire Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.00 Ct.",
     "precedingAuctionCode": "0019919307"
