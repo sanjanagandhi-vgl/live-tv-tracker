@@ -486603,11 +486603,29 @@
       "productUrlChecked": 1792952305116,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8777392": {
+      "sku": "8777392",
+      "firstAir": 1792952780935,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792952780935,
+      "title": "Green Crystal & White Cubic Zirconia Bracelet (Size - 7.5)",
+      "pdpPrice": "18.99",
+      "auctionCode": "0019922134",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-25",
+      "time": "18:26:20",
+      "productUrl": null,
+      "lastUpdated": 1792952780935,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792952599457,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -553828,11 +553846,22 @@
         "followingSku": "8297074",
         "followingTitle": "Black Diamond Solitaire Stud Push Post Earring in 14K Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019916965"
+      },
+      {
+        "start": 1792952599457,
+        "end": 1792952780935,
+        "durationMin": 3.0,
+        "precedingSku": "8687356",
+        "precedingTitle": "Green Jade Stretchable Bracelet (Size - 7) 110.00 Ct.",
+        "precedingAuctionCode": "0019922151",
+        "followingSku": "8777392",
+        "followingTitle": "Green Crystal & White Cubic Zirconia Bracelet (Size - 7.5)",
+        "followingAuctionCode": "0019922134"
       }
     ],
-    "lastOnAirSku": "8687356",
-    "lastOnAirTitle": "Green Jade Stretchable Bracelet (Size - 7) 110.00 Ct.",
-    "lastOnAirAuctionCode": "0019922151",
+    "lastOnAirSku": "8777392",
+    "lastOnAirTitle": "Green Crystal & White Cubic Zirconia Bracelet (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019922134",
     "precedingSku": "8687356",
     "precedingTitle": "Green Jade Stretchable Bracelet (Size - 7) 110.00 Ct.",
     "precedingAuctionCode": "0019922151"
