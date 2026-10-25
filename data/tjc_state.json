@@ -487011,8 +487011,12 @@
       "date": "2026-10-25",
       "time": "20:37:21",
       "productUrl": null,
-      "lastUpdated": 1792960641749,
-      "source": "gha"
+      "lastUpdated": 1792960702608,
+      "source": "gha",
+      "missedAt": 1792960702608,
+      "missedDelay": 1,
+      "missedPrice": 295.99,
+      "missedImg": true
     },
     "8745622": {
       "sku": "8745622",
@@ -487028,8 +487032,12 @@
       "date": "2026-10-25",
       "time": "20:37:21",
       "productUrl": null,
-      "lastUpdated": 1792960641749,
-      "source": "gha-variant"
+      "lastUpdated": 1792960702608,
+      "source": "gha-variant",
+      "missedAt": 1792960702608,
+      "missedDelay": 1,
+      "missedPrice": 295.99,
+      "missedImg": true
     },
     "8745623": {
       "sku": "8745623",
@@ -487045,8 +487053,12 @@
       "date": "2026-10-25",
       "time": "20:37:21",
       "productUrl": null,
-      "lastUpdated": 1792960641749,
-      "source": "gha-variant"
+      "lastUpdated": 1792960702608,
+      "source": "gha-variant",
+      "missedAt": 1792960702608,
+      "missedDelay": 1,
+      "missedPrice": 295.99,
+      "missedImg": true
     },
     "8745624": {
       "sku": "8745624",
@@ -487062,8 +487074,12 @@
       "date": "2026-10-25",
       "time": "20:37:21",
       "productUrl": null,
-      "lastUpdated": 1792960641749,
-      "source": "gha-variant"
+      "lastUpdated": 1792960702608,
+      "source": "gha-variant",
+      "missedAt": 1792960702608,
+      "missedDelay": 1,
+      "missedPrice": 295.99,
+      "missedImg": true
     },
     "8745625": {
       "sku": "8745625",
@@ -487079,8 +487095,12 @@
       "date": "2026-10-25",
       "time": "20:37:21",
       "productUrl": null,
-      "lastUpdated": 1792960641749,
-      "source": "gha-variant"
+      "lastUpdated": 1792960702608,
+      "source": "gha-variant",
+      "missedAt": 1792960702608,
+      "missedDelay": 1,
+      "missedPrice": 295.99,
+      "missedImg": true
     },
     "8745626": {
       "sku": "8745626",
@@ -487096,8 +487116,12 @@
       "date": "2026-10-25",
       "time": "20:37:21",
       "productUrl": null,
-      "lastUpdated": 1792960641749,
-      "source": "gha-variant"
+      "lastUpdated": 1792960702608,
+      "source": "gha-variant",
+      "missedAt": 1792960702608,
+      "missedDelay": 1,
+      "missedPrice": 295.99,
+      "missedImg": true
     },
     "8745627": {
       "sku": "8745627",
@@ -487113,8 +487137,12 @@
       "date": "2026-10-25",
       "time": "20:37:21",
       "productUrl": null,
-      "lastUpdated": 1792960641749,
-      "source": "gha-variant"
+      "lastUpdated": 1792960702608,
+      "source": "gha-variant",
+      "missedAt": 1792960702608,
+      "missedDelay": 1,
+      "missedPrice": 295.99,
+      "missedImg": true
     },
     "8745628": {
       "sku": "8745628",
@@ -487130,8 +487158,12 @@
       "date": "2026-10-25",
       "time": "20:37:21",
       "productUrl": null,
-      "lastUpdated": 1792960641749,
-      "source": "gha-variant"
+      "lastUpdated": 1792960702608,
+      "source": "gha-variant",
+      "missedAt": 1792960702608,
+      "missedDelay": 1,
+      "missedPrice": 295.99,
+      "missedImg": true
     },
     "8745629": {
       "sku": "8745629",
@@ -487147,13 +487179,17 @@
       "date": "2026-10-25",
       "time": "20:37:21",
       "productUrl": null,
-      "lastUpdated": 1792960641749,
-      "source": "gha-variant"
+      "lastUpdated": 1792960702608,
+      "source": "gha-variant",
+      "missedAt": 1792960702608,
+      "missedDelay": 1,
+      "missedPrice": 295.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792960702608,
     "gaps": [
       {
         "start": 1785823527869,
@@ -554489,8 +554525,8 @@
     "lastOnAirSku": "8745621",
     "lastOnAirTitle": "Lab Grown Colombian Emerald and Lab Grown Diamond (SI-G-H) Ring in 18K Yellow Vermeil Sterling Silver 4.20 Ct.",
     "lastOnAirAuctionCode": "0019921639",
-    "precedingSku": "8664131",
-    "precedingTitle": "D'Joy - Moissanite Earring with Push Back in Rhodium Overlay Sterling Silver 1.35 Ct.",
-    "precedingAuctionCode": null
+    "precedingSku": "8745621",
+    "precedingTitle": "Lab Grown Colombian Emerald and Lab Grown Diamond (SI-G-H) Ring in 18K Yellow Vermeil Sterling Silver 4.20 Ct.",
+    "precedingAuctionCode": "0019921639"
   }
 }
