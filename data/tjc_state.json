@@ -357871,23 +357871,23 @@
       "sku": "8620504",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-09",
-      "time": "11:49:16",
+      "date": "2026-10-25",
+      "time": "01:27:18",
       "preExisting": true,
       "missedAt": 1789638503073,
       "missedDelay": null,
-      "lastUpdated": 1791542956855,
+      "lastUpdated": 1792888038694,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "Sterling Silver Hoop Earring",
-      "auctionCode": "0019901582",
+      "auctionCode": "0019922199",
       "source": "gha",
       "productUrl": "/products/sterling-silver-hoop-earring-with-clasp-8620504?variant=53191670726922",
       "productUrlChecked": 1789638507692,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1791542956855,
-      "pdpPrice": "8.99",
+      "lastAir": 1792888038694,
+      "pdpPrice": "7.99",
       "buy": true,
       "login": false,
       "img": true
@@ -483913,8 +483913,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792887983804,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550662,11 +550662,22 @@
         "followingSku": "8763256",
         "followingTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
         "followingAuctionCode": "0019922212"
+      },
+      {
+        "start": 1792887983804,
+        "end": 1792888038694,
+        "durationMin": 0.9,
+        "precedingSku": "8763256",
+        "precedingTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
+        "precedingAuctionCode": "0019922212",
+        "followingSku": "8620504",
+        "followingTitle": "Sterling Silver Hoop Earring",
+        "followingAuctionCode": "0019922199"
       }
     ],
-    "lastOnAirSku": "8763256",
-    "lastOnAirTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
-    "lastOnAirAuctionCode": "0019922212",
+    "lastOnAirSku": "8620504",
+    "lastOnAirTitle": "Sterling Silver Hoop Earring",
+    "lastOnAirAuctionCode": "0019922199",
     "precedingSku": "8763256",
     "precedingTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
     "precedingAuctionCode": "0019922212"
