@@ -484479,11 +484479,32 @@
       "productUrl": null,
       "lastUpdated": 1792923438281,
       "source": "gha"
+    },
+    "8788155": {
+      "sku": "8788155",
+      "firstAir": 1792925358081,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792925358081,
+      "title": "Live from Tanzania - D'Joy - Premium Tanzanite & Natural White Zircon Halo Ring in Platinum Overl...",
+      "pdpPrice": 1899.99,
+      "auctionCode": null,
+      "buy": false,
+      "login": false,
+      "img": true,
+      "date": "2026-10-25",
+      "time": "10:49:18",
+      "productUrl": "/products/djoy-tanzanite-white-zircon-main-stone-with-side-stone-ring-in-platinum-overlaysterling-silver-0-871-ct-8788155?variant=53956944789770",
+      "lastUpdated": 1792925358081,
+      "source": "gha",
+      "productUrlChecked": 1792925361011,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792925301762,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -551506,11 +551527,22 @@
         "followingSku": "8579329",
         "followingTitle": "Live from Tanzania - D'Joy - Premium Tanzanite & White Zircon Dangling Earring with Push Post in Rhodium Overlay Sterling Silver 1.80 Ct.",
         "followingAuctionCode": "0019917509"
+      },
+      {
+        "start": 1792925301762,
+        "end": 1792925358081,
+        "durationMin": 0.9,
+        "precedingSku": "8579309",
+        "precedingTitle": "Live from Tanzania - Premium Tanzanite & Lab Grown Diamond (SI-G-H) Cluster Ring in Rhodium Overlay Sterling Silver 1.37 Ct.",
+        "precedingAuctionCode": "0019917500",
+        "followingSku": "8788155",
+        "followingTitle": "Live from Tanzania - D'Joy - Premium Tanzanite & Natural White Zircon Halo Ring in Platinum Overl...",
+        "followingAuctionCode": null
       }
     ],
-    "lastOnAirSku": "8579309",
-    "lastOnAirTitle": "Live from Tanzania - Premium Tanzanite & Lab Grown Diamond (SI-G-H) Cluster Ring in Rhodium Overlay Sterling Silver 1.37 Ct.",
-    "lastOnAirAuctionCode": "0019917500",
+    "lastOnAirSku": "8788155",
+    "lastOnAirTitle": "Live from Tanzania - D'Joy - Premium Tanzanite & Natural White Zircon Halo Ring in Platinum Overl...",
+    "lastOnAirAuctionCode": null,
     "precedingSku": "8579309",
     "precedingTitle": "Live from Tanzania - Premium Tanzanite & Lab Grown Diamond (SI-G-H) Cluster Ring in Rhodium Overlay Sterling Silver 1.37 Ct.",
     "precedingAuctionCode": "0019917500"
