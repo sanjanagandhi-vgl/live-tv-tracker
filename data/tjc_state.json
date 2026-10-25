@@ -480851,18 +480851,23 @@
       "sku": "8832324",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-23",
-      "time": "15:50:40",
+      "date": "2026-10-25",
+      "time": "07:14:23",
       "preExisting": true,
       "missedAt": 1792767040879,
       "missedDelay": null,
-      "lastUpdated": 1792767040879,
+      "lastUpdated": 1792912463828,
       "missedPrice": 5.99,
       "missedImg": true,
-      "title": "Unstoppable Fresh Scented Wax Candle - Blue",
-      "auctionCode": "0019921247",
+      "title": "Cherry Bakewell Scented Wax Candle - Strawberry Pink",
+      "auctionCode": "0019922251",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792912463828,
+      "pdpPrice": "75.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8832323": {
       "sku": "8832323",
@@ -483963,11 +483968,31 @@
       "productUrlChecked": 1792893041829,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8247016": {
+      "sku": "8247016",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-25",
+      "time": "07:14:23",
+      "preExisting": true,
+      "missedAt": 1792912463828,
+      "missedDelay": null,
+      "lastUpdated": 1792912463828,
+      "missedPrice": 299.99,
+      "missedImg": true,
+      "title": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap",
+      "auctionCode": "0019922488",
+      "source": "gha",
+      "productUrl": "/products/limited-edition-william-hunt-london-dragon-watch-with-automatic-movt-5-atm-water-resistancy-blue-sapphire-crystal-dial-and-adjustable-milanese-strap",
+      "productUrlChecked": 1792912466395,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792912399547,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550891,11 +550916,22 @@
         "followingSku": "8309885",
         "followingTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap - Gold",
         "followingAuctionCode": "0019922482"
+      },
+      {
+        "start": 1792912399547,
+        "end": 1792912463828,
+        "durationMin": 1.1,
+        "precedingSku": "8309885",
+        "precedingTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap - Gold",
+        "precedingAuctionCode": "0019922482",
+        "followingSku": "8832324",
+        "followingTitle": "Cherry Bakewell Scented Wax Candle - Strawberry Pink",
+        "followingAuctionCode": "0019922251"
       }
     ],
-    "lastOnAirSku": "8309885",
-    "lastOnAirTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap - Gold",
-    "lastOnAirAuctionCode": "0019922482",
+    "lastOnAirSku": "8832324",
+    "lastOnAirTitle": "Cherry Bakewell Scented Wax Candle - Strawberry Pink",
+    "lastOnAirAuctionCode": "0019922251",
     "precedingSku": "8309885",
     "precedingTitle": "Limited Edition William Hunt London Dragon Watch with Automatic Movt. 5 ATM Water Resistancy, Blue Sapphire Crystal Dial and Adjustable Milanese Strap - Gold",
     "precedingAuctionCode": "0019922482"
