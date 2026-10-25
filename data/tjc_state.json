@@ -485338,11 +485338,29 @@
       "auctionCode": "0019921836",
       "source": "gha",
       "productUrl": null
+    },
+    "8800986": {
+      "sku": "8800986",
+      "firstAir": 1792940359964,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792940359964,
+      "title": "D'Joy - Black Diamond Full Eternity Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+      "pdpPrice": "1999.99",
+      "auctionCode": "0019923955",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-25",
+      "time": "14:59:19",
+      "productUrl": null,
+      "lastUpdated": 1792940359964,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792940238997,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -552486,11 +552504,22 @@
         "followingSku": "8806460",
         "followingTitle": "D'Joy - Black Diamond & Natural White Diamond Crisscross Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019921835"
+      },
+      {
+        "start": 1792940238997,
+        "end": 1792940359964,
+        "durationMin": 2.0,
+        "precedingSku": "8806460",
+        "precedingTitle": "D'Joy - Black Diamond & Natural White Diamond Crisscross Ring in Rhodium Overlay Sterling Silver ...",
+        "precedingAuctionCode": null,
+        "followingSku": "8800986",
+        "followingTitle": "D'Joy - Black Diamond Full Eternity Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019923955"
       }
     ],
-    "lastOnAirSku": "8806460",
-    "lastOnAirTitle": "D'Joy - Black Diamond & Natural White Diamond Crisscross Ring in Rhodium Overlay Sterling Silver ...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8800986",
+    "lastOnAirTitle": "D'Joy - Black Diamond Full Eternity Band Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019923955",
     "precedingSku": "8806460",
     "precedingTitle": "D'Joy - Black Diamond & Natural White Diamond Crisscross Ring in Rhodium Overlay Sterling Silver ...",
     "precedingAuctionCode": null
