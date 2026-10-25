@@ -485167,14 +485167,39 @@
       "img": true,
       "date": "2026-10-25",
       "time": "14:37:18",
+      "productUrl": "/products/djoy-black-diamond-white-diamond-full-hoop-earring-in-rhodium-overlaysterling-silver-0-548-ct-8795956",
+      "lastUpdated": 1792939159392,
+      "source": "gha",
+      "missedAt": 1792939159392,
+      "missedDelay": 2,
+      "missedPrice": 99.99,
+      "missedImg": true,
+      "productUrlChecked": 1792939161819,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8806460": {
+      "sku": "8806460",
+      "firstAir": 1792939159392,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792939159392,
+      "title": "D'Joy - Black Diamond & Natural White Diamond Crisscross Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+      "pdpPrice": "2999.99",
+      "auctionCode": "0019921835",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-25",
+      "time": "14:39:19",
       "productUrl": null,
-      "lastUpdated": 1792939038144,
+      "lastUpdated": 1792939159392,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792939102641,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -552307,11 +552332,22 @@
         "followingSku": "8782265",
         "followingTitle": "White Crystal & Resin Poppy Flower Brooch",
         "followingAuctionCode": "0019921998"
+      },
+      {
+        "start": 1792939102641,
+        "end": 1792939159392,
+        "durationMin": 0.9,
+        "precedingSku": "8795956",
+        "precedingTitle": "D'Joy - Black Diamond & White Diamond Full Hoop Earring in Rhodium Overlay Sterling Silver 0.50 Ct.",
+        "precedingAuctionCode": "0019916936",
+        "followingSku": "8806460",
+        "followingTitle": "D'Joy - Black Diamond & Natural White Diamond Crisscross Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019921835"
       }
     ],
-    "lastOnAirSku": "8795956",
-    "lastOnAirTitle": "D'Joy - Black Diamond & White Diamond Full Hoop Earring in Rhodium Overlay Sterling Silver 0.50 Ct.",
-    "lastOnAirAuctionCode": "0019916936",
+    "lastOnAirSku": "8806460",
+    "lastOnAirTitle": "D'Joy - Black Diamond & Natural White Diamond Crisscross Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019921835",
     "precedingSku": "8795956",
     "precedingTitle": "D'Joy - Black Diamond & White Diamond Full Hoop Earring in Rhodium Overlay Sterling Silver 0.50 Ct.",
     "precedingAuctionCode": "0019916936"
