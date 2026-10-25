@@ -375195,21 +375195,26 @@
       "sku": "8734822",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "13:41:17",
+      "date": "2026-10-25",
+      "time": "23:52:22",
       "preExisting": true,
       "missedAt": 1789908077814,
       "missedDelay": null,
-      "lastUpdated": 1789908077814,
+      "lastUpdated": 1792972342991,
       "missedPrice": 499.99,
       "missedImg": true,
       "title": "First Time Ever- THE ORISSA 9K Yellow Gold AAA Orissa Natural Rhodolite Garnet Solitaire Ring 4.34 Ct.",
-      "auctionCode": "0019876770",
+      "auctionCode": "0019923001",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-aaa-rhodolite-garnet-solitaire-ring-4-34-ct-8734821",
       "productUrlChecked": 1789908086828,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792972342991,
+      "pdpPrice": "8999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8551020": {
       "sku": "8551020",
@@ -487649,8 +487654,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792972160291,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -555168,11 +555173,22 @@
         "followingSku": "8744100",
         "followingTitle": "Orissa Natural Rhodolite Garnet & White Zircon Sunburst Dangling Earring with Push Back in Yellow Gold Plated Sterling Silver 1.04 Ct.",
         "followingAuctionCode": "0019922945"
+      },
+      {
+        "start": 1792972160291,
+        "end": 1792972342991,
+        "durationMin": 3.0,
+        "precedingSku": "8413280",
+        "precedingTitle": "D'Joy Orissa Natural Rhodolite Garnet & White Zircon Tennis Bracelet (Size - 7) with GB Lock Box in Rhodium Overlay Sterling Silver 13.75 Ct.",
+        "precedingAuctionCode": "0019922887",
+        "followingSku": "8734822",
+        "followingTitle": "First Time Ever- THE ORISSA 9K Yellow Gold AAA Orissa Natural Rhodolite Garnet Solitaire Ring 4.34 Ct.",
+        "followingAuctionCode": "0019923001"
       }
     ],
-    "lastOnAirSku": "8413280",
-    "lastOnAirTitle": "D'Joy Orissa Natural Rhodolite Garnet & White Zircon Tennis Bracelet (Size - 7) with GB Lock Box in Rhodium Overlay Sterling Silver 13.75 Ct.",
-    "lastOnAirAuctionCode": "0019922887",
+    "lastOnAirSku": "8734822",
+    "lastOnAirTitle": "First Time Ever- THE ORISSA 9K Yellow Gold AAA Orissa Natural Rhodolite Garnet Solitaire Ring 4.34 Ct.",
+    "lastOnAirAuctionCode": "0019923001",
     "precedingSku": "8413280",
     "precedingTitle": "D'Joy Orissa Natural Rhodolite Garnet & White Zircon Tennis Bracelet (Size - 7) with GB Lock Box in Rhodium Overlay Sterling Silver 13.75 Ct.",
     "precedingAuctionCode": "0019922887"
