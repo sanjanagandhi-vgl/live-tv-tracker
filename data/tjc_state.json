@@ -342887,21 +342887,26 @@
       "sku": "8215583",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-10-25",
+      "time": "18:42:23",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1792953743358,
       "missedPrice": 12.99,
       "missedImg": true,
       "title": "THE ULTIMATE UNIVERSAL JEWELLERY CLEANER - Eco-Friendly Non Toxic Natural Diamond Shine Formula For Gold, Silver, Platinum & All Gemstones (250 ml)",
-      "auctionCode": "0019868593",
+      "auctionCode": "0019922143",
       "source": "gha",
       "productUrl": "/products/the-ultimate-universal-jewellery-cleaner-eco-friendly-non-toxic-natural-diamond-shine-formula-for-gold-silver-platinum-all-gemstones-250-ml",
       "productUrlChecked": 1789359046305,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792953743358,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8514569": {
       "sku": "8514569",
@@ -486836,8 +486841,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792953640470,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -554080,11 +554085,22 @@
         "followingSku": "7442610",
         "followingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
         "followingAuctionCode": "0019922203"
+      },
+      {
+        "start": 1792953640470,
+        "end": 1792953743358,
+        "durationMin": 1.7,
+        "precedingSku": "7442610",
+        "precedingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
+        "precedingAuctionCode": "0019922203",
+        "followingSku": "8215583",
+        "followingTitle": "THE ULTIMATE UNIVERSAL JEWELLERY CLEANER - Eco-Friendly Non Toxic Natural Diamond Shine Formula For Gold, Silver, Platinum & All Gemstones (250 ml)",
+        "followingAuctionCode": "0019922143"
       }
     ],
-    "lastOnAirSku": "7442610",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
-    "lastOnAirAuctionCode": "0019922203",
+    "lastOnAirSku": "8215583",
+    "lastOnAirTitle": "THE ULTIMATE UNIVERSAL JEWELLERY CLEANER - Eco-Friendly Non Toxic Natural Diamond Shine Formula For Gold, Silver, Platinum & All Gemstones (250 ml)",
+    "lastOnAirAuctionCode": "0019922143",
     "precedingSku": "7442610",
     "precedingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
     "precedingAuctionCode": "0019922203"
