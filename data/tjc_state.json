@@ -308572,23 +308572,23 @@
       "sku": "8616409",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-15",
-      "time": "12:48:22",
+      "date": "2026-10-25",
+      "time": "01:12:23",
       "preExisting": true,
       "missedAt": 1788644734574,
       "missedDelay": null,
-      "lastUpdated": 1789472902825,
+      "lastUpdated": 1792887143230,
       "missedPrice": 79.99,
       "missedImg": true,
       "title": "Vicenza Close Out- Sterling Silver Bismark Quarda Necklace (Size - 20) with Lobster Clasp",
-      "auctionCode": "0019871240",
+      "auctionCode": "0019922215",
       "source": "gha",
       "productUrl": "/products/sterling-silver-bismark-quarda-necklace-size-20-silver-wt-12-80-gms-8616398",
       "productUrlChecked": 1788644738864,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789472902825,
-      "pdpPrice": "69.99",
+      "lastAir": 1792887143230,
+      "pdpPrice": "129.99",
       "buy": true,
       "login": false,
       "img": true
@@ -483913,8 +483913,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792887079765,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550640,11 +550640,22 @@
         "followingSku": "8723842",
         "followingTitle": "La Bella Italian Made- Sterling Silver Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019922222"
+      },
+      {
+        "start": 1792887079765,
+        "end": 1792887143230,
+        "durationMin": 1.1,
+        "precedingSku": "8320958",
+        "precedingTitle": "La Bella Sterling Silver Rope Bracelet (Size 7.5) with Lobster Clasp, Silver Wt. 18.50 Gms.",
+        "precedingAuctionCode": "0019922218",
+        "followingSku": "8616409",
+        "followingTitle": "Vicenza Close Out- Sterling Silver Bismark Quarda Necklace (Size - 20) with Lobster Clasp",
+        "followingAuctionCode": "0019922215"
       }
     ],
-    "lastOnAirSku": "8320958",
-    "lastOnAirTitle": "La Bella Sterling Silver Rope Bracelet (Size 7.5) with Lobster Clasp, Silver Wt. 18.50 Gms.",
-    "lastOnAirAuctionCode": "0019922218",
+    "lastOnAirSku": "8616409",
+    "lastOnAirTitle": "Vicenza Close Out- Sterling Silver Bismark Quarda Necklace (Size - 20) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019922215",
     "precedingSku": "8320958",
     "precedingTitle": "La Bella Sterling Silver Rope Bracelet (Size 7.5) with Lobster Clasp, Silver Wt. 18.50 Gms.",
     "precedingAuctionCode": "0019922218"
