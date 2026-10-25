@@ -351096,17 +351096,17 @@
       "firstAir": 1789471463662,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792329438383,
+      "lastAir": 1792887799031,
       "title": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
-      "pdpPrice": 19.99,
-      "auctionCode": null,
+      "pdpPrice": "19.99",
+      "auctionCode": "0019922212",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-18",
-      "time": "14:17:18",
+      "date": "2026-10-25",
+      "time": "01:23:19",
       "productUrl": "/products/sterling-silver-pendant-8763256?variant=53697987641610",
-      "lastUpdated": 1792329438383,
+      "lastUpdated": 1792887799031,
       "source": "gha",
       "missedAt": 1789472544827,
       "missedDelay": 9,
@@ -483913,8 +483913,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792887742352,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550651,11 +550651,22 @@
         "followingSku": "8616409",
         "followingTitle": "Vicenza Close Out- Sterling Silver Bismark Quarda Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019922215"
+      },
+      {
+        "start": 1792887742352,
+        "end": 1792887799031,
+        "durationMin": 0.9,
+        "precedingSku": "8478763",
+        "precedingTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Curb Necklace (Size - 20)",
+        "precedingAuctionCode": "0019922217",
+        "followingSku": "8763256",
+        "followingTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
+        "followingAuctionCode": "0019922212"
       }
     ],
-    "lastOnAirSku": "8478763",
-    "lastOnAirTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Curb Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019922217",
+    "lastOnAirSku": "8763256",
+    "lastOnAirTitle": "Close Out Deal- Sterling Silver Decorative Locket Pendant",
+    "lastOnAirAuctionCode": "0019922212",
     "precedingSku": "8478763",
     "precedingTitle": "La Bella Handmade - Yellow Gold Plated Sterling Silver Curb Necklace (Size - 20)",
     "precedingAuctionCode": "0019922217"
