@@ -459778,18 +459778,23 @@
       "sku": "8297074",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-15",
-      "time": "00:33:16",
+      "date": "2026-10-25",
+      "time": "17:55:30",
       "preExisting": true,
       "missedAt": 1792020796533,
       "missedDelay": null,
-      "lastUpdated": 1792020796533,
+      "lastUpdated": 1792950930484,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Black Diamond Solitaire Stud Push Post Earring in Platinum Overlay Sterling Silver",
-      "auctionCode": "0019909236",
+      "title": "Black Diamond Solitaire Stud Push Post Earring in 14K Yellow Gold Plated Sterling Silver",
+      "auctionCode": "0019916965",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1792950930484,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8820114": {
       "sku": "8820114",
@@ -486508,11 +486513,15 @@
       "date": "2026-10-25",
       "time": "17:47:19",
       "productUrl": "/products/black-diamond-white-diamond-pendant-with-torn-chain-19dc-size-20-in-rhodium-overlay-sterling-silver-0-48-ct-0-500-ct-4538989?variant=53913567723786",
-      "lastUpdated": 1792950439643,
+      "lastUpdated": 1792950930484,
       "source": "gha",
       "productUrlChecked": 1792950351202,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792950930484,
+      "missedDelay": 8,
+      "missedPrice": 89.99,
+      "missedImg": true
     },
     "7561803": {
       "sku": "7561803",
@@ -486567,8 +486576,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792950862560,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -553778,11 +553787,22 @@
         "followingSku": "8690624",
         "followingTitle": "First Time Ever- Earth Mined Black Diamond (1.00 Cts) & Natural White Jade Solitaire Band Ring in Sterling Silver Total- 13.40 Ct.",
         "followingAuctionCode": "0019921852"
+      },
+      {
+        "start": 1792950862560,
+        "end": 1792950930484,
+        "durationMin": 1.1,
+        "precedingSku": "8282987",
+        "precedingTitle": "D'Joy Black Diamond Buckle Ring in Rhodium Overlay Sterling Silver 0.50 Ct.",
+        "precedingAuctionCode": null,
+        "followingSku": "8297074",
+        "followingTitle": "Black Diamond Solitaire Stud Push Post Earring in 14K Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019916965"
       }
     ],
-    "lastOnAirSku": "8282987",
-    "lastOnAirTitle": "D'Joy Black Diamond Buckle Ring in Rhodium Overlay Sterling Silver 0.50 Ct.",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8297074",
+    "lastOnAirTitle": "Black Diamond Solitaire Stud Push Post Earring in 14K Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019916965",
     "precedingSku": "8282987",
     "precedingTitle": "D'Joy Black Diamond Buckle Ring in Rhodium Overlay Sterling Silver 0.50 Ct.",
     "precedingAuctionCode": null
