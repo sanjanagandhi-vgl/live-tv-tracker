@@ -487225,14 +487225,39 @@
       "img": true,
       "date": "2026-10-25",
       "time": "21:04:26",
+      "productUrl": "/products/9k-yellow-gold-chain-size-30-gold-wt-13-69-gms-8828933",
+      "lastUpdated": 1792962383924,
+      "source": "gha",
+      "missedAt": 1792962383924,
+      "missedDelay": 2,
+      "missedPrice": 1599.99,
+      "missedImg": true,
+      "productUrlChecked": 1792962386684,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8828966": {
+      "sku": "8828966",
+      "firstAir": 1792962383924,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792962383924,
+      "title": "Hatton Garden CloseOut- 9K Yellow Gold Bangle (Size - 7.5), Gold Wt. 4.08 Gms",
+      "pdpPrice": "1799.99",
+      "auctionCode": "0019923970",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-25",
+      "time": "21:06:23",
       "productUrl": null,
-      "lastUpdated": 1792962266018,
+      "lastUpdated": 1792962383924,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792962330876,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -554585,11 +554610,22 @@
         "followingSku": "8828933",
         "followingTitle": "Hatton Garden CloseOut- 9K Yellow Gold Paper Clip Necklace (Size - 30), Gold Wt 14.00 Gms",
         "followingAuctionCode": "0019923969"
+      },
+      {
+        "start": 1792962330876,
+        "end": 1792962383924,
+        "durationMin": 0.9,
+        "precedingSku": "8828933",
+        "precedingTitle": "Hatton Garden CloseOut- 9K Yellow Gold Paper Clip Necklace (Size - 30), Gold Wt 14.00 Gms",
+        "precedingAuctionCode": "0019923969",
+        "followingSku": "8828966",
+        "followingTitle": "Hatton Garden CloseOut- 9K Yellow Gold Bangle (Size - 7.5), Gold Wt. 4.08 Gms",
+        "followingAuctionCode": "0019923970"
       }
     ],
-    "lastOnAirSku": "8828933",
-    "lastOnAirTitle": "Hatton Garden CloseOut- 9K Yellow Gold Paper Clip Necklace (Size - 30), Gold Wt 14.00 Gms",
-    "lastOnAirAuctionCode": "0019923969",
+    "lastOnAirSku": "8828966",
+    "lastOnAirTitle": "Hatton Garden CloseOut- 9K Yellow Gold Bangle (Size - 7.5), Gold Wt. 4.08 Gms",
+    "lastOnAirAuctionCode": "0019923970",
     "precedingSku": "8828933",
     "precedingTitle": "Hatton Garden CloseOut- 9K Yellow Gold Paper Clip Necklace (Size - 30), Gold Wt 14.00 Gms",
     "precedingAuctionCode": "0019923969"
