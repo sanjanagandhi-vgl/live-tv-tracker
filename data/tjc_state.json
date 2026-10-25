@@ -389937,21 +389937,26 @@
       "sku": "8754401",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-24",
-      "time": "20:09:20",
+      "date": "2026-10-25",
+      "time": "01:42:23",
       "preExisting": true,
       "missedAt": 1790276960012,
       "missedDelay": null,
-      "lastUpdated": 1790276960012,
+      "lastUpdated": 1792892543781,
       "missedPrice": 159.99,
       "missedImg": true,
       "title": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Earring with Lever Back in Rhodium Overlay Sterling Silver 4.20 Ct.",
-      "auctionCode": "0019883830",
+      "auctionCode": "0019922823",
       "source": "gha",
       "productUrl": "/products/luxuriant-diffused-blue-sapphire-lab-grown-diamond-halo-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-4-25-ct-4524994",
       "productUrlChecked": 1790276963228,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792892543781,
+      "pdpPrice": "1599.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8744832": {
       "sku": "8744832",
@@ -483913,8 +483918,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792892479290,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550728,11 +550733,22 @@
         "followingSku": "4524994",
         "followingTitle": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 4.25 Ct.",
         "followingAuctionCode": "0019922808"
+      },
+      {
+        "start": 1792892479290,
+        "end": 1792892543781,
+        "durationMin": 1.1,
+        "precedingSku": "4524994",
+        "precedingTitle": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 4.25 Ct.",
+        "precedingAuctionCode": "0019922808",
+        "followingSku": "8754401",
+        "followingTitle": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Earring with Lever Back in Rhodium Overlay Sterling Silver 4.20 Ct.",
+        "followingAuctionCode": "0019922823"
       }
     ],
-    "lastOnAirSku": "4524994",
-    "lastOnAirTitle": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 4.25 Ct.",
-    "lastOnAirAuctionCode": "0019922808",
+    "lastOnAirSku": "8754401",
+    "lastOnAirTitle": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Earring with Lever Back in Rhodium Overlay Sterling Silver 4.20 Ct.",
+    "lastOnAirAuctionCode": "0019922823",
     "precedingSku": "4524994",
     "precedingTitle": "Luxuriant - Kwai Blue Sapphire & Lab Grown Diamond Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 4.25 Ct.",
     "precedingAuctionCode": "0019922808"
