@@ -482155,21 +482155,26 @@
       "sku": "8024670",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-24",
-      "time": "09:34:19",
+      "date": "2026-10-25",
+      "time": "08:07:17",
       "preExisting": true,
       "missedAt": 1792830859903,
       "missedDelay": null,
-      "lastUpdated": 1792830859903,
+      "lastUpdated": 1792915637962,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "Turkish Magnetic Cordless Table Lamp with 3 Color Modes, Touch Control and 360 degree Rotation (31 Cm) - Black & Gold",
-      "auctionCode": "0019920932",
+      "auctionCode": "0019922260",
       "source": "gha",
       "productUrl": "/products/magnetic-table-lamp",
       "productUrlChecked": 1792830863912,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1792915637962,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8024669": {
       "sku": "8024669",
@@ -483991,8 +483996,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792915401554,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550949,11 +550954,22 @@
         "followingSku": "8194432",
         "followingTitle": "21V Cordless Electric Chainsaw - Pruning, Cutting, Shaping - 2 Batteries - 6-Inch Blue",
         "followingAuctionCode": "0019922280"
+      },
+      {
+        "start": 1792915401554,
+        "end": 1792915637962,
+        "durationMin": 3.9,
+        "precedingSku": "8194432",
+        "precedingTitle": "21V Cordless Electric Chainsaw - Pruning, Cutting, Shaping - 2 Batteries - 6-Inch Blue",
+        "precedingAuctionCode": "0019922280",
+        "followingSku": "8024670",
+        "followingTitle": "Turkish Magnetic Cordless Table Lamp with 3 Color Modes, Touch Control and 360 degree Rotation (31 Cm) - Black & Gold",
+        "followingAuctionCode": "0019922260"
       }
     ],
-    "lastOnAirSku": "8194432",
-    "lastOnAirTitle": "21V Cordless Electric Chainsaw - Pruning, Cutting, Shaping - 2 Batteries - 6-Inch Blue",
-    "lastOnAirAuctionCode": "0019922280",
+    "lastOnAirSku": "8024670",
+    "lastOnAirTitle": "Turkish Magnetic Cordless Table Lamp with 3 Color Modes, Touch Control and 360 degree Rotation (31 Cm) - Black & Gold",
+    "lastOnAirAuctionCode": "0019922260",
     "precedingSku": "8194432",
     "precedingTitle": "21V Cordless Electric Chainsaw - Pruning, Cutting, Shaping - 2 Batteries - 6-Inch Blue",
     "precedingAuctionCode": "0019922280"
