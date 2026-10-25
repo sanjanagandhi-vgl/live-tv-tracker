@@ -487260,11 +487260,29 @@
       "productUrlChecked": 1792962944743,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8664133": {
+      "sku": "8664133",
+      "firstAir": 1792964600479,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792964600479,
+      "title": "D'Joy - Moissanite Solitaire Earring with Push Back in Rhodium Overlay Sterling Silver 1.00 Ct.",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019922669",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-25",
+      "time": "21:43:20",
+      "productUrl": null,
+      "lastUpdated": 1792964600479,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792964543727,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -554661,11 +554679,22 @@
         "followingSku": "8664075",
         "followingTitle": "D'Joy - Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.40 Ct.",
         "followingAuctionCode": "0019922626"
+      },
+      {
+        "start": 1792964543727,
+        "end": 1792964600479,
+        "durationMin": 0.9,
+        "precedingSku": "8664075",
+        "precedingTitle": "D'Joy - Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.40 Ct.",
+        "precedingAuctionCode": null,
+        "followingSku": "8664133",
+        "followingTitle": "D'Joy - Moissanite Solitaire Earring with Push Back in Rhodium Overlay Sterling Silver 1.00 Ct.",
+        "followingAuctionCode": "0019922669"
       }
     ],
-    "lastOnAirSku": "8664075",
-    "lastOnAirTitle": "D'Joy - Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.40 Ct.",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8664133",
+    "lastOnAirTitle": "D'Joy - Moissanite Solitaire Earring with Push Back in Rhodium Overlay Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019922669",
     "precedingSku": "8664075",
     "precedingTitle": "D'Joy - Moissanite Halo Ring in Rhodium Overlay Sterling Silver 1.40 Ct.",
     "precedingAuctionCode": null
