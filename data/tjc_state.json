@@ -485727,11 +485727,15 @@
       "date": "2026-10-25",
       "time": "16:25:29",
       "productUrl": "/products/djoy-black-diamond-line-bracelet-1-row-size-7-5-in-rhodium-overlaysterling-silver-silver-wt-7-76-gms-3-040-ct-8810900?variant=53913619890442",
-      "lastUpdated": 1792945529737,
+      "lastUpdated": 1792945581291,
       "source": "gha",
       "productUrlChecked": 1792945532764,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1792945581291,
+      "missedDelay": 1,
+      "missedPrice": 349.99,
+      "missedImg": true
     },
     "8796564": {
       "sku": "8796564",
@@ -485851,6 +485855,24 @@
       "auctionCode": "0019921628",
       "source": "gha",
       "productUrl": null
+    },
+    "8796678": {
+      "sku": "8796678",
+      "firstAir": 1792945581291,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792945581291,
+      "title": "D'Joy - Black Diamond & White Diamond Cluster Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+      "pdpPrice": "2399.99",
+      "auctionCode": "0019921861",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-25",
+      "time": "16:26:21",
+      "productUrl": null,
+      "lastUpdated": 1792945581291,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -553034,9 +553056,9 @@
         "followingAuctionCode": "0019921627"
       }
     ],
-    "lastOnAirSku": "8810900",
-    "lastOnAirTitle": "D'Joy - Black Diamond Tennis Bracelet (Size - 7.5) in Rhodium Overlay Sterling Silver 3.00 Ct.",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8796678",
+    "lastOnAirTitle": "D'Joy - Black Diamond & White Diamond Cluster Ring in Rhodium Overlay Sterling Silver 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019921861",
     "precedingSku": "4426273",
     "precedingTitle": "D'Joy - Black Diamond & White Diamond Cross Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 0.50 Ct.",
     "precedingAuctionCode": "0019916941"
