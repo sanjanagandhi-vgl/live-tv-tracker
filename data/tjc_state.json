@@ -25800,23 +25800,23 @@
       "sku": "7997042",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-24",
-      "time": "00:25:28",
+      "date": "2026-10-25",
+      "time": "06:12:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1792797928213,
+      "lastUpdated": 1792908742437,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Laurelle My Mic EDP - 100ml",
-      "auctionCode": "0019921233",
+      "auctionCode": "0019922505",
       "source": "gha",
       "productUrl": "/products/laurelle-my-mic-edp-100ml?variant=53107574505738",
       "productUrlChecked": 1785474503295,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1792797928213,
-      "pdpPrice": "9.99",
+      "lastAir": 1792908742437,
+      "pdpPrice": "169.99",
       "buy": true,
       "login": false,
       "img": true
@@ -483966,8 +483966,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792908679757,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -550869,11 +550869,22 @@
         "followingSku": "8694759",
         "followingTitle": "Luxuriant - 9K Yellow Gold AAA Ethiopian Opal & Lab Grown Diamond (SI-G-H) Trilogy Ring 2.95 Ct.",
         "followingAuctionCode": "0019923540"
+      },
+      {
+        "start": 1792908679757,
+        "end": 1792908742437,
+        "durationMin": 1.0,
+        "precedingSku": "8610736",
+        "precedingTitle": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Pink",
+        "precedingAuctionCode": "0019922518",
+        "followingSku": "7997042",
+        "followingTitle": "Laurelle My Mic EDP - 100ml",
+        "followingAuctionCode": "0019922505"
       }
     ],
-    "lastOnAirSku": "8610736",
-    "lastOnAirTitle": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Pink",
-    "lastOnAirAuctionCode": "0019922518",
+    "lastOnAirSku": "7997042",
+    "lastOnAirTitle": "Laurelle My Mic EDP - 100ml",
+    "lastOnAirAuctionCode": "0019922505",
     "precedingSku": "8610736",
     "precedingTitle": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Pink",
     "precedingAuctionCode": "0019922518"
