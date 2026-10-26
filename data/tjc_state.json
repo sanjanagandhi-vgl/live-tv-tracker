@@ -489390,11 +489390,29 @@
       "auctionCode": "0019922461",
       "source": "gha",
       "productUrl": null
+    },
+    "8520806": {
+      "sku": "8520806",
+      "firstAir": 1793033320220,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793033320220,
+      "title": "Emreco Single Breasted Herringbone Revere Collar Coat (Size 20) - Black & White",
+      "pdpPrice": "300.99",
+      "auctionCode": "0019922391",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-26",
+      "time": "16:48:40",
+      "productUrl": null,
+      "lastUpdated": 1793033320220,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793033191275,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557506,11 +557524,22 @@
         "followingSku": "8702822",
         "followingTitle": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
         "followingAuctionCode": "0019922456"
+      },
+      {
+        "start": 1793033191275,
+        "end": 1793033320220,
+        "durationMin": 2.1,
+        "precedingSku": "8702822",
+        "precedingTitle": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
+        "precedingAuctionCode": "0019922456",
+        "followingSku": "8520806",
+        "followingTitle": "Emreco Single Breasted Herringbone Revere Collar Coat (Size 20) - Black & White",
+        "followingAuctionCode": "0019922391"
       }
     ],
-    "lastOnAirSku": "8702822",
-    "lastOnAirTitle": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
-    "lastOnAirAuctionCode": "0019922456",
+    "lastOnAirSku": "8520806",
+    "lastOnAirTitle": "Emreco Single Breasted Herringbone Revere Collar Coat (Size 20) - Black & White",
+    "lastOnAirAuctionCode": "0019922391",
     "precedingSku": "8702822",
     "precedingTitle": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
     "precedingAuctionCode": "0019922456"
