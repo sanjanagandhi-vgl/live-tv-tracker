@@ -421690,23 +421690,23 @@
       "sku": "4539193",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-25",
-      "time": "02:38:24",
+      "date": "2026-10-26",
+      "time": "02:35:31",
       "preExisting": true,
       "missedAt": 1791049835408,
       "missedDelay": null,
-      "lastUpdated": 1792895904687,
+      "lastUpdated": 1792982131501,
       "missedPrice": 79.99,
       "missedImg": true,
-      "title": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in R...",
-      "auctionCode": null,
+      "title": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019924071",
       "source": "gha",
       "productUrl": "/products/djoy-natural-white-diamond-i3-g-h-pendant-with-chain-size-18-2-ext-in-rhodium-overlay-sterling-silver-4539192?variant=53822891196682",
       "productUrlChecked": 1791049840234,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792895904687,
-      "pdpPrice": 79.99,
+      "lastAir": 1792982131501,
+      "pdpPrice": "79.99",
       "buy": true,
       "login": false,
       "img": true
@@ -487707,8 +487707,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792982063865,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -555314,11 +555314,22 @@
         "followingSku": "8564247",
         "followingTitle": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
         "followingAuctionCode": "0019923641"
+      },
+      {
+        "start": 1792982063865,
+        "end": 1792982131501,
+        "durationMin": 1.1,
+        "precedingSku": "8221522",
+        "precedingTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
+        "precedingAuctionCode": null,
+        "followingSku": "4539193",
+        "followingTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019924071"
       }
     ],
-    "lastOnAirSku": "8221522",
-    "lastOnAirTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "4539193",
+    "lastOnAirTitle": "The Tokyo Treasure - Natural White Diamond (I3-G-H) Heart Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019924071",
     "precedingSku": "8221522",
     "precedingTitle": "Natural White Diamond Full Hoop Earring in Yellow Gold Overlay Sterling Silver",
     "precedingAuctionCode": null
