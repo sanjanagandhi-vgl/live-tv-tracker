@@ -489071,13 +489071,85 @@
       "date": "2026-10-26",
       "time": "14:51:23",
       "productUrl": null,
-      "lastUpdated": 1793026283121,
-      "source": "gha"
+      "lastUpdated": 1793026345248,
+      "source": "gha",
+      "missedAt": 1793026345248,
+      "missedDelay": 1,
+      "missedPrice": 14.99,
+      "missedImg": true
+    },
+    "8822799": {
+      "sku": "8822799",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-26",
+      "time": "14:52:25",
+      "preExisting": true,
+      "missedAt": 1793026345248,
+      "missedDelay": null,
+      "lastUpdated": 1793026345248,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Stone",
+      "auctionCode": "0019922522",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8822798": {
+      "sku": "8822798",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-26",
+      "time": "14:52:25",
+      "preExisting": true,
+      "missedAt": 1793026345248,
+      "missedDelay": null,
+      "lastUpdated": 1793026345248,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Pistachio",
+      "auctionCode": "0019922521",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8822797": {
+      "sku": "8822797",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-26",
+      "time": "14:52:25",
+      "preExisting": true,
+      "missedAt": 1793026345248,
+      "missedDelay": null,
+      "lastUpdated": 1793026345248,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Pink",
+      "auctionCode": "0019922520",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8822781": {
+      "sku": "8822781",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-26",
+      "time": "14:52:25",
+      "preExisting": true,
+      "missedAt": 1793026345248,
+      "missedDelay": null,
+      "lastUpdated": 1793026345248,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Hot Pink",
+      "auctionCode": "0019922519",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793026345248,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557139,8 +557211,8 @@
     "lastOnAirSku": "8822780",
     "lastOnAirTitle": "3 Piece Executive Gift Set with Ballpoint Pen - Stone",
     "lastOnAirAuctionCode": "0019922494",
-    "precedingSku": "8686419",
-    "precedingTitle": "DOD - La Marey Soft Touch Embroidered Winter Shawl (Size 174 x 64Cm) - Grey",
-    "precedingAuctionCode": "0019924576"
+    "precedingSku": "8822780",
+    "precedingTitle": "3 Piece Executive Gift Set with Ballpoint Pen - Stone",
+    "precedingAuctionCode": "0019922494"
   }
 }
