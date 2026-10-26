@@ -489675,11 +489675,29 @@
       "auctionCode": "0019922444",
       "source": "gha",
       "productUrl": null
+    },
+    "8683606": {
+      "sku": "8683606",
+      "firstAir": 1793035402256,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793035402256,
+      "title": "La Marey Argyle Cardigan (Size XL, 20-22) - Coffee",
+      "pdpPrice": "319.99",
+      "auctionCode": "0019923373",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-26",
+      "time": "17:23:22",
+      "productUrl": null,
+      "lastUpdated": 1793035402256,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793035348408,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557813,11 +557831,22 @@
         "followingSku": "8520821",
         "followingTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 14) - Brown",
         "followingAuctionCode": "0019922402"
+      },
+      {
+        "start": 1793035348408,
+        "end": 1793035402256,
+        "durationMin": 0.9,
+        "precedingSku": "8523181",
+        "precedingTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
+        "precedingAuctionCode": "0019924297",
+        "followingSku": "8683606",
+        "followingTitle": "La Marey Argyle Cardigan (Size XL, 20-22) - Coffee",
+        "followingAuctionCode": "0019923373"
       }
     ],
-    "lastOnAirSku": "8523181",
-    "lastOnAirTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
-    "lastOnAirAuctionCode": "0019924297",
+    "lastOnAirSku": "8683606",
+    "lastOnAirTitle": "La Marey Argyle Cardigan (Size XL, 20-22) - Coffee",
+    "lastOnAirAuctionCode": "0019923373",
     "precedingSku": "8523181",
     "precedingTitle": "Emreco Plain Button Sleeve Jumper (Size XL, 20-22) - Brown",
     "precedingAuctionCode": "0019924297"
