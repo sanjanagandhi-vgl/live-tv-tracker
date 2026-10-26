@@ -487707,11 +487707,29 @@
       "productUrlChecked": 1792977803349,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8547834": {
+      "sku": "8547834",
+      "firstAir": 1792996346064,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1792996346064,
+      "title": "Douvalls Argan Botanical Serum - 30ml",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019923097",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-26",
+      "time": "06:32:26",
+      "productUrl": null,
+      "lastUpdated": 1792996346064,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792996257339,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -555361,11 +555379,22 @@
         "followingSku": "7992480",
         "followingTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
         "followingAuctionCode": "0019923093"
+      },
+      {
+        "start": 1792996257339,
+        "end": 1792996346064,
+        "durationMin": 1.5,
+        "precedingSku": "7992480",
+        "precedingTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
+        "precedingAuctionCode": "0019923093",
+        "followingSku": "8547834",
+        "followingTitle": "Douvalls Argan Botanical Serum - 30ml",
+        "followingAuctionCode": "0019923097"
       }
     ],
-    "lastOnAirSku": "7992480",
-    "lastOnAirTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
-    "lastOnAirAuctionCode": "0019923093",
+    "lastOnAirSku": "8547834",
+    "lastOnAirTitle": "Douvalls Argan Botanical Serum - 30ml",
+    "lastOnAirAuctionCode": "0019923097",
     "precedingSku": "7992480",
     "precedingTitle": "Douvalls Argan Infused Growth Serum Mascara 6ml | Achieve Longer, Fuller, and Voluminous Eyelashes",
     "precedingAuctionCode": "0019923093"
