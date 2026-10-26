@@ -123504,17 +123504,17 @@
       "firstAir": 1786335383920,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786335439046,
+      "lastAir": 1792995041319,
       "title": "Mark Hill Pick 'N' Mix Heat Protection Volume Mousse - 200ml",
-      "pdpPrice": "2.99",
-      "auctionCode": "0019812346",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019923099",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-10",
-      "time": "05:17:19",
+      "date": "2026-10-26",
+      "time": "06:10:41",
       "productUrl": null,
-      "lastUpdated": 1792763784217,
+      "lastUpdated": 1792995041319,
       "source": "gha",
       "missedAt": 1792763784217,
       "missedDelay": 107139,
@@ -487710,8 +487710,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792994959662,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -555339,11 +555339,22 @@
         "followingSku": "8566305",
         "followingTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
         "followingAuctionCode": "0019923098"
+      },
+      {
+        "start": 1792994959662,
+        "end": 1792995041319,
+        "durationMin": 1.4,
+        "precedingSku": "8566305",
+        "precedingTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
+        "precedingAuctionCode": "0019923098",
+        "followingSku": "8566307",
+        "followingTitle": "Mark Hill Pick 'N' Mix Heat Protection Volume Mousse - 200ml",
+        "followingAuctionCode": "0019923099"
       }
     ],
-    "lastOnAirSku": "8566305",
-    "lastOnAirTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
-    "lastOnAirAuctionCode": "0019923098",
+    "lastOnAirSku": "8566307",
+    "lastOnAirTitle": "Mark Hill Pick 'N' Mix Heat Protection Volume Mousse - 200ml",
+    "lastOnAirAuctionCode": "0019923099",
     "precedingSku": "8566305",
     "precedingTitle": "2 Piece Set- Mark Hill Let's Hydrate Hydrating Treatment Cream (200ml) & Hair Oil (50ml)",
     "precedingAuctionCode": "0019923098"
