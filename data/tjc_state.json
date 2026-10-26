@@ -489055,11 +489055,29 @@
       "auctionCode": "0019922313",
       "source": "gha",
       "productUrl": null
+    },
+    "8822780": {
+      "sku": "8822780",
+      "firstAir": 1793025443503,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793025443503,
+      "title": "3 Piece Executive Gift Set with Ballpoint Pen - Stone",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019922494",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-26",
+      "time": "14:37:23",
+      "productUrl": null,
+      "lastUpdated": 1793025443503,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793025268115,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557105,11 +557123,22 @@
         "followingSku": "221339799",
         "followingTitle": "Christmas Gift Deal- SET OF 2 - Helene Fischer That's Me 10 ML - 10ML Rollerball Eau de Parfum",
         "followingAuctionCode": "0019924596"
+      },
+      {
+        "start": 1793025268115,
+        "end": 1793025443503,
+        "durationMin": 2.9,
+        "precedingSku": "8686419",
+        "precedingTitle": "DOD - La Marey Soft Touch Embroidered Winter Shawl (Size 174 x 64Cm) - Grey",
+        "precedingAuctionCode": "0019924576",
+        "followingSku": "8822780",
+        "followingTitle": "3 Piece Executive Gift Set with Ballpoint Pen - Stone",
+        "followingAuctionCode": "0019922494"
       }
     ],
-    "lastOnAirSku": "8686419",
-    "lastOnAirTitle": "DOD - La Marey Soft Touch Embroidered Winter Shawl (Size 174 x 64Cm) - Grey",
-    "lastOnAirAuctionCode": "0019924576",
+    "lastOnAirSku": "8822780",
+    "lastOnAirTitle": "3 Piece Executive Gift Set with Ballpoint Pen - Stone",
+    "lastOnAirAuctionCode": "0019922494",
     "precedingSku": "8686419",
     "precedingTitle": "DOD - La Marey Soft Touch Embroidered Winter Shawl (Size 174 x 64Cm) - Grey",
     "precedingAuctionCode": "0019924576"
