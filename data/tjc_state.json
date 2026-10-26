@@ -488101,13 +488101,51 @@
       "date": "2026-10-26",
       "time": "11:48:26",
       "productUrl": null,
-      "lastUpdated": 1793015306138,
-      "source": "gha"
+      "lastUpdated": 1793015360316,
+      "source": "gha",
+      "missedAt": 1793015360316,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
+    },
+    "8699835": {
+      "sku": "8699835",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-26",
+      "time": "11:49:20",
+      "preExisting": true,
+      "missedAt": 1793015360316,
+      "missedDelay": null,
+      "lastUpdated": 1793015360316,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Designer Inspired-Poppy Embellishment Crossbody Bag - Beige",
+      "auctionCode": "0019924060",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8699834": {
+      "sku": "8699834",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-26",
+      "time": "11:49:20",
+      "preExisting": true,
+      "missedAt": 1793015360316,
+      "missedDelay": null,
+      "lastUpdated": 1793015360316,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Designer Inspired-Poppy Embellishment Crossbody Bag - Black",
+      "auctionCode": "0019924059",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793015360316,
     "gaps": [
       {
         "start": 1785823527869,
@@ -556015,8 +556053,8 @@
     "lastOnAirSku": "8699833",
     "lastOnAirTitle": "Designer Inspired-Poppy Embellishment Crossbody Bag - Beige",
     "lastOnAirAuctionCode": "0019924058",
-    "precedingSku": "8778376",
-    "precedingTitle": "MIDNIGHT MEGA DEAL- Organic Keshi Pearl  Necklace (Size - 20) with Clasp 80.00 Ct.",
-    "precedingAuctionCode": "0019924186"
+    "precedingSku": "8699833",
+    "precedingTitle": "Designer Inspired-Poppy Embellishment Crossbody Bag - Beige",
+    "precedingAuctionCode": "0019924058"
   }
 }
