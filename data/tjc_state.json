@@ -428264,17 +428264,17 @@
       "firstAir": 1791214046386,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792654581785,
+      "lastAir": 1793028560077,
       "title": "Womens Zipper Ankle Boots (Size 4) - Red",
-      "pdpPrice": 17.99,
-      "auctionCode": null,
-      "buy": false,
+      "pdpPrice": "17.99",
+      "auctionCode": "0019923389",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-22",
-      "time": "08:36:21",
+      "date": "2026-10-26",
+      "time": "15:29:20",
       "productUrl": "/products/tjc-special-ladies-slipper-size-37-red-8808093?variant=53848863932682",
-      "lastUpdated": 1792654581785,
+      "lastUpdated": 1793028560077,
       "source": "gha",
       "missedAt": 1791215133471,
       "missedDelay": 10,
@@ -489153,8 +489153,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793028517421,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557233,11 +557233,22 @@
         "followingSku": "8535324",
         "followingTitle": "Glossy Patent Finish Crescent Curved Shoulder Bag with Adjustable Strap - Beige",
         "followingAuctionCode": "0019924645"
+      },
+      {
+        "start": 1793028517421,
+        "end": 1793028560077,
+        "durationMin": 0.7,
+        "precedingSku": "8535324",
+        "precedingTitle": "Glossy Patent Finish Crescent Curved Shoulder Bag with Adjustable Strap - Beige",
+        "precedingAuctionCode": null,
+        "followingSku": "8808093",
+        "followingTitle": "Womens Zipper Ankle Boots (Size 4) - Red",
+        "followingAuctionCode": "0019923389"
       }
     ],
-    "lastOnAirSku": "8535324",
-    "lastOnAirTitle": "Glossy Patent Finish Crescent Curved Shoulder Bag with Adjustable Strap - Beige",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8808093",
+    "lastOnAirTitle": "Womens Zipper Ankle Boots (Size 4) - Red",
+    "lastOnAirAuctionCode": "0019923389",
     "precedingSku": "8535324",
     "precedingTitle": "Glossy Patent Finish Crescent Curved Shoulder Bag with Adjustable Strap - Beige",
     "precedingAuctionCode": null
