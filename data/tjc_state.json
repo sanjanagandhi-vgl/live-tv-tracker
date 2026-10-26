@@ -489865,11 +489865,29 @@
       "auctionCode": "0019925031",
       "source": "gha",
       "productUrl": null
+    },
+    "8682321": {
+      "sku": "8682321",
+      "firstAir": 1793045480596,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793045480596,
+      "title": "La Marey Couture Collection Limited Editon Premium Genuine Leather Crossbody Bag - Black Red",
+      "pdpPrice": "1999.99",
+      "auctionCode": "0019924679",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-26",
+      "time": "20:11:20",
+      "productUrl": null,
+      "lastUpdated": 1793045480596,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793044945370,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -558091,11 +558109,22 @@
         "followingSku": "8597276",
         "followingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Dark Brown",
         "followingAuctionCode": "0019922407"
+      },
+      {
+        "start": 1793044945370,
+        "end": 1793045480596,
+        "durationMin": 8.9,
+        "precedingSku": "8597276",
+        "precedingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Dark Brown",
+        "precedingAuctionCode": "0019922407",
+        "followingSku": "8682321",
+        "followingTitle": "La Marey Couture Collection Limited Editon Premium Genuine Leather Crossbody Bag - Black Red",
+        "followingAuctionCode": "0019924679"
       }
     ],
-    "lastOnAirSku": "8597276",
-    "lastOnAirTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Dark Brown",
-    "lastOnAirAuctionCode": "0019922407",
+    "lastOnAirSku": "8682321",
+    "lastOnAirTitle": "La Marey Couture Collection Limited Editon Premium Genuine Leather Crossbody Bag - Black Red",
+    "lastOnAirAuctionCode": "0019924679",
     "precedingSku": "8597276",
     "precedingTitle": "Set of 5 Large Non-Woven Clothes & Bedding Storage Bags (60 x 41 x 34 cm) - Dark Brown",
     "precedingAuctionCode": "0019922407"
