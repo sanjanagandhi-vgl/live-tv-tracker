@@ -473094,17 +473094,17 @@
       "firstAir": 1792512262493,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792668147789,
+      "lastAir": 1793016503588,
       "title": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
-      "pdpPrice": 37.99,
-      "auctionCode": null,
-      "buy": false,
+      "pdpPrice": "37.99",
+      "auctionCode": "0019922483",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-22",
-      "time": "12:22:27",
+      "date": "2026-10-26",
+      "time": "12:08:23",
       "productUrl": "/products/la-marey-velvet-sequins-dress?variant=53105042096394",
-      "lastUpdated": 1792668147789,
+      "lastUpdated": 1793016503588,
       "source": "gha",
       "missedAt": 1792513531512,
       "missedDelay": 2,
@@ -488144,8 +488144,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793016331096,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -556059,11 +556059,22 @@
         "followingSku": "8686419",
         "followingTitle": "DOD - La Marey Soft Touch Printed Winter Shawl (Size 174 x 64Cm) - Grey",
         "followingAuctionCode": "0019924171"
+      },
+      {
+        "start": 1793016331096,
+        "end": 1793016503588,
+        "durationMin": 2.9,
+        "precedingSku": "8686419",
+        "precedingTitle": "DOD - La Marey Soft Touch Hand Embroidered Winter Shawl (Size 174 x 64Cm) - Grey",
+        "precedingAuctionCode": "0019924171",
+        "followingSku": "8233580",
+        "followingTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
+        "followingAuctionCode": "0019922483"
       }
     ],
-    "lastOnAirSku": "8686419",
-    "lastOnAirTitle": "DOD - La Marey Soft Touch Hand Embroidered Winter Shawl (Size 174 x 64Cm) - Grey",
-    "lastOnAirAuctionCode": "0019924171",
+    "lastOnAirSku": "8233580",
+    "lastOnAirTitle": "La Marey Velvet Sequins Dress (Size L, 16 to 18) - Black",
+    "lastOnAirAuctionCode": "0019922483",
     "precedingSku": "8686419",
     "precedingTitle": "DOD - La Marey Soft Touch Hand Embroidered Winter Shawl (Size 174 x 64Cm) - Grey",
     "precedingAuctionCode": "0019924171"
