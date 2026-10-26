@@ -470103,23 +470103,23 @@
       "sku": "8583268",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-21",
-      "time": "07:29:20",
+      "date": "2026-10-26",
+      "time": "17:48:28",
       "preExisting": true,
       "missedAt": 1792412784549,
       "missedDelay": null,
-      "lastUpdated": 1792564160043,
+      "lastUpdated": 1793036908600,
       "missedPrice": 34.99,
       "missedImg": true,
       "title": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
-      "auctionCode": "0019917671",
+      "auctionCode": "0019924280",
       "source": "gha",
       "productUrl": "/products/charlotte-west-jacket-size-large-olive-off-white-8583232",
       "productUrlChecked": 1792412788983,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792564160043,
-      "pdpPrice": "34.99",
+      "lastAir": 1793036908600,
+      "pdpPrice": "120.99",
       "buy": true,
       "login": false,
       "img": true
@@ -489790,8 +489790,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793036841175,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557936,11 +557936,22 @@
         "followingSku": "8683606",
         "followingTitle": "La Marey Argyle Cardigan (Size XL, 20-22) - Coffee",
         "followingAuctionCode": "0019923373"
+      },
+      {
+        "start": 1793036841175,
+        "end": 1793036908600,
+        "durationMin": 1.1,
+        "precedingSku": "8620886",
+        "precedingTitle": "La Marey Luxe Drape Trousers (Size - S-M, 8-14) - Black",
+        "precedingAuctionCode": "0019923486",
+        "followingSku": "8583268",
+        "followingTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
+        "followingAuctionCode": "0019924280"
       }
     ],
-    "lastOnAirSku": "8620886",
-    "lastOnAirTitle": "La Marey Luxe Drape Trousers (Size - S-M, 8-14) - Black",
-    "lastOnAirAuctionCode": "0019923486",
+    "lastOnAirSku": "8583268",
+    "lastOnAirTitle": "Charlotte West Frankie Half-Zip Fleece Pullover Jacket With Front Patch Pocket (Size XXL. 24-26) - Off White & Tan",
+    "lastOnAirAuctionCode": "0019924280",
     "precedingSku": "8620886",
     "precedingTitle": "La Marey Luxe Drape Trousers (Size - S-M, 8-14) - Black",
     "precedingAuctionCode": "0019923486"
