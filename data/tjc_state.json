@@ -482543,21 +482543,26 @@
       "sku": "8024669",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-24",
-      "time": "09:34:19",
+      "date": "2026-10-26",
+      "time": "19:01:14",
       "preExisting": true,
       "missedAt": 1792830859903,
       "missedDelay": null,
-      "lastUpdated": 1792830859903,
+      "lastUpdated": 1793041274618,
       "missedPrice": 49.99,
       "missedImg": true,
-      "title": "Turkish Magnetic Cordless Table Lamp with 3 Color Modes, Touch Control and 360 degree Rotation (31 Cm) - White & Gold",
-      "auctionCode": "0019920931",
+      "title": "Turkish Magnetic Cordless Table Lamp with 3 Color Modes, Touch Control and 360 degree Rotation (31 Cm) - Black & Gold",
+      "auctionCode": "0019924023",
       "source": "gha",
       "productUrl": "/products/magnetic-table-lamp",
       "productUrlChecked": 1792830864118,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793041274618,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8788220": {
       "sku": "8788220",
@@ -489863,8 +489868,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793041042354,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -558053,11 +558058,22 @@
         "followingSku": "8632963",
         "followingTitle": "Bluetooth Speaker (Size 78x72 cm) - Blue",
         "followingAuctionCode": "0019924043"
+      },
+      {
+        "start": 1793041042354,
+        "end": 1793041274618,
+        "durationMin": 3.9,
+        "precedingSku": "8632963",
+        "precedingTitle": "Bluetooth Speaker (Size 78x72 cm) - Blue",
+        "precedingAuctionCode": "0019924043",
+        "followingSku": "8024669",
+        "followingTitle": "Turkish Magnetic Cordless Table Lamp with 3 Color Modes, Touch Control and 360 degree Rotation (31 Cm) - Black & Gold",
+        "followingAuctionCode": "0019924023"
       }
     ],
-    "lastOnAirSku": "8632963",
-    "lastOnAirTitle": "Bluetooth Speaker (Size 78x72 cm) - Blue",
-    "lastOnAirAuctionCode": "0019924043",
+    "lastOnAirSku": "8024669",
+    "lastOnAirTitle": "Turkish Magnetic Cordless Table Lamp with 3 Color Modes, Touch Control and 360 degree Rotation (31 Cm) - Black & Gold",
+    "lastOnAirAuctionCode": "0019924023",
     "precedingSku": "8632963",
     "precedingTitle": "Bluetooth Speaker (Size 78x72 cm) - Blue",
     "precedingAuctionCode": "0019924043"
