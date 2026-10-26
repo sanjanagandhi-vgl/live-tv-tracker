@@ -488158,11 +488158,29 @@
       "auctionCode": "0019922311",
       "source": "gha",
       "productUrl": null
+    },
+    "8777817": {
+      "sku": "8777817",
+      "firstAir": 1793020403943,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793020403943,
+      "title": "Designer Inspired- Green Jade Dragon Engraved Ring 22.00 Ct.",
+      "pdpPrice": "1299.99",
+      "auctionCode": "0019924133",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-26",
+      "time": "13:13:23",
+      "productUrl": null,
+      "lastUpdated": 1793020403943,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793020139199,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -556153,11 +556171,22 @@
         "followingSku": "8615936",
         "followingTitle": "D'Joy - Premium White Edison Pearl (12-13mm) Necklace (Size - 18) in Rhodium Overlay Sterling Silver 12.70 Ct.",
         "followingAuctionCode": "0019922310"
+      },
+      {
+        "start": 1793020139199,
+        "end": 1793020403943,
+        "durationMin": 4.4,
+        "precedingSku": "8615936",
+        "precedingTitle": "D'Joy - Premium White Edison Pearl (12-13mm) Necklace (Size - 18) in Rhodium Overlay Sterling Silver 12.70 Ct.",
+        "precedingAuctionCode": "0019922310",
+        "followingSku": "8777817",
+        "followingTitle": "Designer Inspired- Green Jade Dragon Engraved Ring 22.00 Ct.",
+        "followingAuctionCode": "0019924133"
       }
     ],
-    "lastOnAirSku": "8615936",
-    "lastOnAirTitle": "D'Joy - Premium White Edison Pearl (12-13mm) Necklace (Size - 18) in Rhodium Overlay Sterling Silver 12.70 Ct.",
-    "lastOnAirAuctionCode": "0019922310",
+    "lastOnAirSku": "8777817",
+    "lastOnAirTitle": "Designer Inspired- Green Jade Dragon Engraved Ring 22.00 Ct.",
+    "lastOnAirAuctionCode": "0019924133",
     "precedingSku": "8615936",
     "precedingTitle": "D'Joy - Premium White Edison Pearl (12-13mm) Necklace (Size - 18) in Rhodium Overlay Sterling Silver 12.70 Ct.",
     "precedingAuctionCode": "0019922310"
