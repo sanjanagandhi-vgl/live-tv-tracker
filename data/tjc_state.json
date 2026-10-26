@@ -489317,11 +489317,29 @@
       "auctionCode": "0019922381",
       "source": "gha",
       "productUrl": null
+    },
+    "8702822": {
+      "sku": "8702822",
+      "firstAir": 1793031341880,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793031341880,
+      "title": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
+      "pdpPrice": "35.99",
+      "auctionCode": "0019922456",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-26",
+      "time": "16:15:41",
+      "productUrl": null,
+      "lastUpdated": 1793031341880,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793031147344,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557422,11 +557440,22 @@
         "followingSku": "8677324",
         "followingTitle": "La Marey Soft Leopaod Fleece Jacket with Contrast Trim (Size XL, 20-22) - Chocolate",
         "followingAuctionCode": "0019922361"
+      },
+      {
+        "start": 1793031147344,
+        "end": 1793031341880,
+        "durationMin": 3.2,
+        "precedingSku": "8578778",
+        "precedingTitle": "La Marey Round-neck Blouse (Size - S, 8-10) - Blue",
+        "precedingAuctionCode": "0019923525",
+        "followingSku": "8702822",
+        "followingTitle": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
+        "followingAuctionCode": "0019922456"
       }
     ],
-    "lastOnAirSku": "8578778",
-    "lastOnAirTitle": "La Marey Round-neck Blouse (Size - S, 8-10) - Blue",
-    "lastOnAirAuctionCode": "0019923525",
+    "lastOnAirSku": "8702822",
+    "lastOnAirTitle": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
+    "lastOnAirAuctionCode": "0019922456",
     "precedingSku": "8578778",
     "precedingTitle": "La Marey Round-neck Blouse (Size - S, 8-10) - Blue",
     "precedingAuctionCode": "0019923525"
