@@ -489338,17 +489338,17 @@
       "firstAir": 1793031341880,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793033067508,
-      "title": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
-      "pdpPrice": "17.99",
-      "auctionCode": "0019922456",
+      "lastAir": 1793051602813,
+      "title": "La Marey Signature Glove (Size - Large) - Brown",
+      "pdpPrice": "224.99",
+      "auctionCode": "0019925219",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-26",
-      "time": "16:44:27",
+      "time": "21:53:22",
       "productUrl": null,
-      "lastUpdated": 1793033191275,
+      "lastUpdated": 1793051602813,
       "source": "gha",
       "missedAt": 1793033191275,
       "missedDelay": 2,
@@ -490073,8 +490073,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793051544098,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -558362,11 +558362,22 @@
         "followingSku": "8763395",
         "followingTitle": "Moissanite Solitaire Stud Earring with Screw Back in Yellow Gold Plated Sterling Silver 2.40 Ct.",
         "followingAuctionCode": "0019925115"
+      },
+      {
+        "start": 1793051544098,
+        "end": 1793051602813,
+        "durationMin": 1.0,
+        "precedingSku": "8763395",
+        "precedingTitle": "Moissanite Solitaire Stud Earring with Screw Back in Yellow Gold Plated Sterling Silver 2.40 Ct.",
+        "precedingAuctionCode": "0019925115",
+        "followingSku": "8702822",
+        "followingTitle": "La Marey Signature Glove (Size - Large) - Brown",
+        "followingAuctionCode": "0019925219"
       }
     ],
-    "lastOnAirSku": "8763395",
-    "lastOnAirTitle": "Moissanite Solitaire Stud Earring with Screw Back in Yellow Gold Plated Sterling Silver 2.40 Ct.",
-    "lastOnAirAuctionCode": "0019925115",
+    "lastOnAirSku": "8702822",
+    "lastOnAirTitle": "La Marey Signature Glove (Size - Large) - Brown",
+    "lastOnAirAuctionCode": "0019925219",
     "precedingSku": "8763395",
     "precedingTitle": "Moissanite Solitaire Stud Earring with Screw Back in Yellow Gold Plated Sterling Silver 2.40 Ct.",
     "precedingAuctionCode": "0019925115"
