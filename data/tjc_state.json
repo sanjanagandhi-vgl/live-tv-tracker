@@ -334567,23 +334567,23 @@
       "sku": "8683484",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-23",
-      "time": "08:54:22",
+      "date": "2026-10-26",
+      "time": "07:32:23",
       "preExisting": true,
       "missedAt": 1789116038316,
       "missedDelay": null,
-      "lastUpdated": 1792742062849,
+      "lastUpdated": 1792999943345,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
-      "auctionCode": "0019920133",
+      "auctionCode": "0019923148",
       "source": "gha",
       "productUrl": "/products/socks-size-s-m-black-white-8683473?variant=53637245075722",
       "productUrlChecked": 1789116041413,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792742062849,
-      "pdpPrice": "7.99",
+      "lastAir": 1792999943345,
+      "pdpPrice": "29.99",
       "buy": true,
       "login": false,
       "img": true
@@ -487760,8 +487760,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792999879388,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -555466,11 +555466,22 @@
         "followingSku": "7851192",
         "followingTitle": "Closeout Deal - 2 Piece Set - Cashmere Diamond Pattern Hat and Gloves - Navy",
         "followingAuctionCode": "0019923126"
+      },
+      {
+        "start": 1792999879388,
+        "end": 1792999943345,
+        "durationMin": 1.1,
+        "precedingSku": "7851192",
+        "precedingTitle": "Closeout Deal - 2 Piece Set - Cashmere Diamond Pattern Hat and Gloves - Navy",
+        "precedingAuctionCode": "0019923126",
+        "followingSku": "8683484",
+        "followingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "followingAuctionCode": "0019923148"
       }
     ],
-    "lastOnAirSku": "7851192",
-    "lastOnAirTitle": "Closeout Deal - 2 Piece Set - Cashmere Diamond Pattern Hat and Gloves - Navy",
-    "lastOnAirAuctionCode": "0019923126",
+    "lastOnAirSku": "8683484",
+    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+    "lastOnAirAuctionCode": "0019923148",
     "precedingSku": "7851192",
     "precedingTitle": "Closeout Deal - 2 Piece Set - Cashmere Diamond Pattern Hat and Gloves - Navy",
     "precedingAuctionCode": "0019923126"
