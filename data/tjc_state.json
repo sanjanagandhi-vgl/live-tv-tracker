@@ -489150,11 +489150,29 @@
       "auctionCode": "0019922519",
       "source": "gha",
       "productUrl": null
+    },
+    "8677324": {
+      "sku": "8677324",
+      "firstAir": 1793029401823,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793029401823,
+      "title": "La Marey Soft Leopaod Fleece Jacket with Contrast Trim (Size XL, 20-22) - Chocolate",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019922361",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-26",
+      "time": "15:43:21",
+      "productUrl": null,
+      "lastUpdated": 1793029401823,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793029281146,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557244,11 +557262,22 @@
         "followingSku": "8808093",
         "followingTitle": "Womens Zipper Ankle Boots (Size 4) - Red",
         "followingAuctionCode": "0019923389"
+      },
+      {
+        "start": 1793029281146,
+        "end": 1793029401823,
+        "durationMin": 2.0,
+        "precedingSku": "8808097",
+        "precedingTitle": "Womens Zipper Ankle Boots (Size 4) - Red",
+        "precedingAuctionCode": "0019923393",
+        "followingSku": "8677324",
+        "followingTitle": "La Marey Soft Leopaod Fleece Jacket with Contrast Trim (Size XL, 20-22) - Chocolate",
+        "followingAuctionCode": "0019922361"
       }
     ],
-    "lastOnAirSku": "8808097",
-    "lastOnAirTitle": "Womens Zipper Ankle Boots (Size 4) - Red",
-    "lastOnAirAuctionCode": "0019923393",
+    "lastOnAirSku": "8677324",
+    "lastOnAirTitle": "La Marey Soft Leopaod Fleece Jacket with Contrast Trim (Size XL, 20-22) - Chocolate",
+    "lastOnAirAuctionCode": "0019922361",
     "precedingSku": "8808097",
     "precedingTitle": "Womens Zipper Ankle Boots (Size 4) - Red",
     "precedingAuctionCode": "0019923393"
