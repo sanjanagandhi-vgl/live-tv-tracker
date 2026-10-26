@@ -488847,9 +488847,16 @@
       "img": true,
       "date": "2026-10-26",
       "time": "13:42:24",
-      "productUrl": null,
-      "lastUpdated": 1793022144018,
-      "source": "gha"
+      "productUrl": "/products/djoy-premium-white-edison-pearl-10-11mm-stud-ball-earring-with-push-back-in-rhodium-overlay-sterling-silver-15-40-ct-8618142",
+      "lastUpdated": 1793022267340,
+      "source": "gha",
+      "missedAt": 1793022267340,
+      "missedDelay": 2,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1793022269371,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "4532558": {
       "sku": "4532558",
@@ -488890,11 +488897,29 @@
       "productUrlChecked": 1793021906770,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8615904": {
+      "sku": "8615904",
+      "firstAir": 1793022267340,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793022267340,
+      "title": "D'Joy - Premium White Edison Pearl (10-11mm) & Lab Grown Diamond Trilogy Ring in Rhodium Overlay Sterling Silver 7.80 Ct.",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019922312",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-26",
+      "time": "13:44:27",
+      "productUrl": null,
+      "lastUpdated": 1793022267340,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793022202020,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -556918,11 +556943,22 @@
         "followingSku": "8618142",
         "followingTitle": "D'Joy - Premium White Edison Pearl (10-11mm) Star Ball Earring with Push Back in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019922332"
+      },
+      {
+        "start": 1793022202020,
+        "end": 1793022267340,
+        "durationMin": 1.1,
+        "precedingSku": "8618142",
+        "precedingTitle": "D'Joy - Premium White Edison Pearl (10-11mm) Star Ball Earring with Push Back in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019922332",
+        "followingSku": "8615904",
+        "followingTitle": "D'Joy - Premium White Edison Pearl (10-11mm) & Lab Grown Diamond Trilogy Ring in Rhodium Overlay Sterling Silver 7.80 Ct.",
+        "followingAuctionCode": "0019922312"
       }
     ],
-    "lastOnAirSku": "8618142",
-    "lastOnAirTitle": "D'Joy - Premium White Edison Pearl (10-11mm) Star Ball Earring with Push Back in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019922332",
+    "lastOnAirSku": "8615904",
+    "lastOnAirTitle": "D'Joy - Premium White Edison Pearl (10-11mm) & Lab Grown Diamond Trilogy Ring in Rhodium Overlay Sterling Silver 7.80 Ct.",
+    "lastOnAirAuctionCode": "0019922312",
     "precedingSku": "8618142",
     "precedingTitle": "D'Joy - Premium White Edison Pearl (10-11mm) Star Ball Earring with Push Back in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019922332"
