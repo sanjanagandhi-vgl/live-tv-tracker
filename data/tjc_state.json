@@ -449396,21 +449396,26 @@
       "sku": "4581749",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-12",
-      "time": "11:34:20",
+      "date": "2026-10-26",
+      "time": "21:37:20",
       "preExisting": true,
       "missedAt": 1791801260326,
       "missedDelay": null,
-      "lastUpdated": 1791801260326,
+      "lastUpdated": 1793050640403,
       "missedPrice": 29.99,
       "missedImg": false,
-      "title": "Moissanite Pendant with Chain (Size 20) in Platinum Overlay Sterling Silver  2.090  Ct.",
-      "auctionCode": "0019906712",
+      "title": "Moissanite Cross Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver with Chain (Size 20) 2.10 Ct.",
+      "auctionCode": "0019925076",
       "source": "gha",
       "productUrl": "/products/moissanite-cross-pendant-with-chain-size-20-in-18k-yg-plating-sterling-silver-2-090-ct-4581748",
       "productUrlChecked": 1791801267494,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793050640403,
+      "pdpPrice": "499.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8824572": {
       "sku": "8824572",
@@ -490063,8 +490068,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793050584453,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -558330,11 +558335,22 @@
         "followingSku": "8690294",
         "followingTitle": "D'Joy - Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver  5.95 Ct.",
         "followingAuctionCode": "0019925088"
+      },
+      {
+        "start": 1793050584453,
+        "end": 1793050640403,
+        "durationMin": 0.9,
+        "precedingSku": "8690294",
+        "precedingTitle": "D'Joy - Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver  5.95 Ct.",
+        "precedingAuctionCode": "0019925088",
+        "followingSku": "4581749",
+        "followingTitle": "Moissanite Cross Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver with Chain (Size 20) 2.10 Ct.",
+        "followingAuctionCode": "0019925076"
       }
     ],
-    "lastOnAirSku": "8690294",
-    "lastOnAirTitle": "D'Joy - Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver  5.95 Ct.",
-    "lastOnAirAuctionCode": "0019925088",
+    "lastOnAirSku": "4581749",
+    "lastOnAirTitle": "Moissanite Cross Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver with Chain (Size 20) 2.10 Ct.",
+    "lastOnAirAuctionCode": "0019925076",
     "precedingSku": "8690294",
     "precedingTitle": "D'Joy - Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver  5.95 Ct.",
     "precedingAuctionCode": "0019925088"
