@@ -487942,11 +487942,29 @@
       "auctionCode": "0019924049",
       "source": "gha",
       "productUrl": null
+    },
+    "8686419": {
+      "sku": "8686419",
+      "firstAir": 1793006142164,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793006142164,
+      "title": "DOD - La Marey Soft Touch Printed Winter Shawl (Size 174 x 64Cm) - Grey",
+      "pdpPrice": "24.99",
+      "auctionCode": "0019924052",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-26",
+      "time": "09:15:42",
+      "productUrl": null,
+      "lastUpdated": 1793006142164,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793005881375,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -555739,11 +555757,22 @@
         "followingSku": "8535324",
         "followingTitle": "Glossy Patent Finish Crescent Curved Shoulder Bag with Adjustable Strap - Black",
         "followingAuctionCode": "0019923158"
+      },
+      {
+        "start": 1793005881375,
+        "end": 1793006142164,
+        "durationMin": 4.3,
+        "precedingSku": "8535324",
+        "precedingTitle": "Glossy Patent Finish Crescent Curved Shoulder Bag with Adjustable Strap - Black",
+        "precedingAuctionCode": null,
+        "followingSku": "8686419",
+        "followingTitle": "DOD - La Marey Soft Touch Printed Winter Shawl (Size 174 x 64Cm) - Grey",
+        "followingAuctionCode": "0019924052"
       }
     ],
-    "lastOnAirSku": "8535324",
-    "lastOnAirTitle": "Glossy Patent Finish Crescent Curved Shoulder Bag with Adjustable Strap - Black",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8686419",
+    "lastOnAirTitle": "DOD - La Marey Soft Touch Printed Winter Shawl (Size 174 x 64Cm) - Grey",
+    "lastOnAirAuctionCode": "0019924052",
     "precedingSku": "8535324",
     "precedingTitle": "Glossy Patent Finish Crescent Curved Shoulder Bag with Adjustable Strap - Black",
     "precedingAuctionCode": null
