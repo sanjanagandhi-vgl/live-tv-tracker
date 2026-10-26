@@ -488539,7 +488539,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021579952,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8778167": {
       "sku": "8778167",
@@ -488560,7 +488563,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021580398,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8778253": {
       "sku": "8778253",
@@ -488581,7 +488587,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021580548,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8777823": {
       "sku": "8777823",
@@ -488602,7 +488611,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021580850,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8778168": {
       "sku": "8778168",
@@ -488623,7 +488635,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021581019,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8778254": {
       "sku": "8778254",
@@ -488644,7 +488659,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021581261,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8777824": {
       "sku": "8777824",
@@ -488665,7 +488683,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021581447,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8778169": {
       "sku": "8778169",
@@ -488686,7 +488707,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021581627,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8778255": {
       "sku": "8778255",
@@ -488707,7 +488731,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021581854,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8777825": {
       "sku": "8777825",
@@ -488728,7 +488755,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021582051,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8778170": {
       "sku": "8778170",
@@ -488749,7 +488779,10 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021582767,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8778256": {
       "sku": "8778256",
@@ -488770,12 +488803,33 @@
       "missedAt": 1793021360360,
       "missedDelay": 2,
       "missedPrice": 29.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793021582962,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "4532533": {
+      "sku": "4532533",
+      "firstAir": 1793021577255,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793021577255,
+      "title": "Green Jade Engraved Dragon Pendant with Yellow Gold Tone  Chain (Size 20) 21.45 Ct.",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019924581",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-26",
+      "time": "13:32:57",
+      "productUrl": null,
+      "lastUpdated": 1793021577255,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793021308020,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -556777,11 +556831,22 @@
         "followingSku": "8777817",
         "followingTitle": "Designer Inspired- Green Jade Dragon Engraved Ring 22.00 Ct.",
         "followingAuctionCode": "0019924133"
+      },
+      {
+        "start": 1793021308020,
+        "end": 1793021577255,
+        "durationMin": 4.5,
+        "precedingSku": "8777817",
+        "precedingTitle": "Designer Inspired- Green Jade Dragon Engraved Ring 22.00 Ct.",
+        "precedingAuctionCode": "0019924133",
+        "followingSku": "4532533",
+        "followingTitle": "Green Jade Engraved Dragon Pendant with Yellow Gold Tone  Chain (Size 20) 21.45 Ct.",
+        "followingAuctionCode": "0019924581"
       }
     ],
-    "lastOnAirSku": "8777817",
-    "lastOnAirTitle": "Designer Inspired- Green Jade Dragon Engraved Ring 22.00 Ct.",
-    "lastOnAirAuctionCode": "0019924133",
+    "lastOnAirSku": "4532533",
+    "lastOnAirTitle": "Green Jade Engraved Dragon Pendant with Yellow Gold Tone  Chain (Size 20) 21.45 Ct.",
+    "lastOnAirAuctionCode": "0019924581",
     "precedingSku": "8777817",
     "precedingTitle": "Designer Inspired- Green Jade Dragon Engraved Ring 22.00 Ct.",
     "precedingAuctionCode": "0019924133"
