@@ -487747,14 +487747,21 @@
       "img": true,
       "date": "2026-10-26",
       "time": "07:27:20",
-      "productUrl": null,
-      "lastUpdated": 1792999640079,
-      "source": "gha"
+      "productUrl": "/products/touch-beauty-sonic-hot-cold-facial-massager",
+      "lastUpdated": 1792999703890,
+      "source": "gha",
+      "missedAt": 1792999703890,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1792999706401,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1792999703890,
     "gaps": [
       {
         "start": 1785823527869,
@@ -555453,8 +555460,8 @@
     "lastOnAirSku": "7804567",
     "lastOnAirTitle": "Touch Beauty Sonic Hot & Cold Facial Massager",
     "lastOnAirAuctionCode": "0019923102",
-    "precedingSku": "7981122",
-    "precedingTitle": "BIGGEST OPATRA DEAL- Opatra LumiEye - RF, EMS, Ion Vibration & LED Light Therapy Device For Eyes",
-    "precedingAuctionCode": "0019923101"
+    "precedingSku": "7804567",
+    "precedingTitle": "Touch Beauty Sonic Hot & Cold Facial Massager",
+    "precedingAuctionCode": "0019923102"
   }
 }
