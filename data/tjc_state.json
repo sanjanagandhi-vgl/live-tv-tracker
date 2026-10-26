@@ -480344,17 +480344,17 @@
       "firstAir": 1792745438296,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792935862322,
+      "lastAir": 1793052561107,
       "title": "Black Crystal Tree of Life Pendant with Chain (Size 24-2 Ext)",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019922002",
+      "pdpPrice": "60.99",
+      "auctionCode": "0019924925",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-25",
-      "time": "13:44:22",
+      "date": "2026-10-26",
+      "time": "22:09:21",
       "productUrl": "/products/black-crystal-tree-of-life-pendant-with-chain-size-24-2-ext-4533130",
-      "lastUpdated": 1792935862322,
+      "lastUpdated": 1793052561107,
       "source": "gha",
       "missedAt": 1792745598842,
       "missedDelay": 1,
@@ -490073,8 +490073,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793052331701,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -558373,11 +558373,22 @@
         "followingSku": "8702822",
         "followingTitle": "La Marey Signature Glove (Size - Large) - Brown",
         "followingAuctionCode": "0019925219"
+      },
+      {
+        "start": 1793052331701,
+        "end": 1793052561107,
+        "durationMin": 3.8,
+        "precedingSku": "8702822",
+        "precedingTitle": "La Marey Signature Glove (Size - Large) - Brown",
+        "precedingAuctionCode": "0019925219",
+        "followingSku": "4533130",
+        "followingTitle": "Black Crystal Tree of Life Pendant with Chain (Size 24-2 Ext)",
+        "followingAuctionCode": "0019924925"
       }
     ],
-    "lastOnAirSku": "8702822",
-    "lastOnAirTitle": "La Marey Signature Glove (Size - Large) - Brown",
-    "lastOnAirAuctionCode": "0019925219",
+    "lastOnAirSku": "4533130",
+    "lastOnAirTitle": "Black Crystal Tree of Life Pendant with Chain (Size 24-2 Ext)",
+    "lastOnAirAuctionCode": "0019924925",
     "precedingSku": "8702822",
     "precedingTitle": "La Marey Signature Glove (Size - Large) - Brown",
     "precedingAuctionCode": "0019925219"
