@@ -480957,17 +480957,17 @@
       "firstAir": 1792757268202,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792822278892,
+      "lastAir": 1793038286434,
       "title": "Home -DIY (Size 60x103 cm) - Grey & Grey",
       "pdpPrice": null,
-      "auctionCode": "0019921391",
+      "auctionCode": "0019922768",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-10-24",
-      "time": "07:11:18",
+      "date": "2026-10-26",
+      "time": "18:11:26",
       "productUrl": null,
-      "lastUpdated": 1792822278892,
+      "lastUpdated": 1793038286434,
       "source": "gha",
       "missedAt": 1792758929552,
       "missedDelay": 2,
@@ -489790,8 +489790,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793038243947,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557958,11 +557958,22 @@
         "followingSku": "8633005",
         "followingTitle": "Set of 3 Heavy-Duty Multipurpose Duct Tape Rolls - Strong Adhesive Repair Tape - Grey",
         "followingAuctionCode": "0019924033"
+      },
+      {
+        "start": 1793038243947,
+        "end": 1793038286434,
+        "durationMin": 0.7,
+        "precedingSku": "8633005",
+        "precedingTitle": "Set of 3 Heavy-Duty Multipurpose Duct Tape Rolls - Strong Adhesive Repair Tape - Grey",
+        "precedingAuctionCode": "0019924033",
+        "followingSku": "8106465",
+        "followingTitle": null,
+        "followingAuctionCode": "0019922768"
       }
     ],
-    "lastOnAirSku": "8633005",
-    "lastOnAirTitle": "Set of 3 Heavy-Duty Multipurpose Duct Tape Rolls - Strong Adhesive Repair Tape - Grey",
-    "lastOnAirAuctionCode": "0019924033",
+    "lastOnAirSku": "8106465",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019922768",
     "precedingSku": "8633005",
     "precedingTitle": "Set of 3 Heavy-Duty Multipurpose Duct Tape Rolls - Strong Adhesive Repair Tape - Grey",
     "precedingAuctionCode": "0019924033"
