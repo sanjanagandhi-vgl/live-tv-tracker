@@ -489333,13 +489333,68 @@
       "date": "2026-10-26",
       "time": "16:44:27",
       "productUrl": null,
-      "lastUpdated": 1793033067508,
-      "source": "gha"
+      "lastUpdated": 1793033191275,
+      "source": "gha",
+      "missedAt": 1793033191275,
+      "missedDelay": 2,
+      "missedPrice": 17.99,
+      "missedImg": true
+    },
+    "8702821": {
+      "sku": "8702821",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-26",
+      "time": "16:46:31",
+      "preExisting": true,
+      "missedAt": 1793033191275,
+      "missedDelay": null,
+      "lastUpdated": 1793033191275,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "La Marey Signature Glove (Size - Large) - Black",
+      "auctionCode": "0019924667",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8702820": {
+      "sku": "8702820",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-26",
+      "time": "16:46:31",
+      "preExisting": true,
+      "missedAt": 1793033191275,
+      "missedDelay": null,
+      "lastUpdated": 1793033191275,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "La Marey Signature Glove (Size - Small) - Black",
+      "auctionCode": "0019924666",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8702823": {
+      "sku": "8702823",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-26",
+      "time": "16:46:31",
+      "preExisting": true,
+      "missedAt": 1793033191275,
+      "missedDelay": null,
+      "lastUpdated": 1793033191275,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "La Marey Signature Glove (Size - Large) - Brown",
+      "auctionCode": "0019922461",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793033191275,
     "gaps": [
       {
         "start": 1785823527869,
@@ -557456,8 +557511,8 @@
     "lastOnAirSku": "8702822",
     "lastOnAirTitle": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
     "lastOnAirAuctionCode": "0019922456",
-    "precedingSku": "8578778",
-    "precedingTitle": "La Marey Round-neck Blouse (Size - S, 8-10) - Blue",
-    "precedingAuctionCode": "0019923525"
+    "precedingSku": "8702822",
+    "precedingTitle": "La Marey Signature Glove and Mitten (Size - Large) - Brown",
+    "precedingAuctionCode": "0019922456"
   }
 }
