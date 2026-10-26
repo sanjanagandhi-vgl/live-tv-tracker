@@ -474535,21 +474535,26 @@
       "sku": "8763395",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-21",
-      "time": "09:30:51",
+      "date": "2026-10-26",
+      "time": "21:48:29",
       "preExisting": true,
       "missedAt": 1792571451249,
       "missedDelay": null,
-      "lastUpdated": 1792571451249,
+      "lastUpdated": 1793051309690,
       "missedPrice": 27.99,
       "missedImg": true,
-      "title": "D'Joy - Moissanite Solitaire Stud Earring with Screw Back in Platinum Overlay Sterling Silver 2.50 Ct.",
-      "auctionCode": "0019917994",
+      "title": "Moissanite Solitaire Stud Earring with Screw Back in Yellow Gold Plated Sterling Silver 2.40 Ct.",
+      "auctionCode": "0019925115",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-solitaire-stud-earring-with-screw-back-in-yellow-gold-plated-sterling-silver-2-40-ct-8763394",
       "productUrlChecked": 1792571454589,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793051309690,
+      "pdpPrice": "699.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4331019": {
       "sku": "4331019",
@@ -490068,8 +490073,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793051183735,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -558346,11 +558351,22 @@
         "followingSku": "4581749",
         "followingTitle": "Moissanite Cross Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver with Chain (Size 20) 2.10 Ct.",
         "followingAuctionCode": "0019925076"
+      },
+      {
+        "start": 1793051183735,
+        "end": 1793051309690,
+        "durationMin": 2.1,
+        "precedingSku": "4581749",
+        "precedingTitle": "Moissanite Cross Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver with Chain (Size 20) 2.10 Ct.",
+        "precedingAuctionCode": "0019925076",
+        "followingSku": "8763395",
+        "followingTitle": "Moissanite Solitaire Stud Earring with Screw Back in Yellow Gold Plated Sterling Silver 2.40 Ct.",
+        "followingAuctionCode": "0019925115"
       }
     ],
-    "lastOnAirSku": "4581749",
-    "lastOnAirTitle": "Moissanite Cross Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver with Chain (Size 20) 2.10 Ct.",
-    "lastOnAirAuctionCode": "0019925076",
+    "lastOnAirSku": "8763395",
+    "lastOnAirTitle": "Moissanite Solitaire Stud Earring with Screw Back in Yellow Gold Plated Sterling Silver 2.40 Ct.",
+    "lastOnAirAuctionCode": "0019925115",
     "precedingSku": "4581749",
     "precedingTitle": "Moissanite Cross Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver with Chain (Size 20) 2.10 Ct.",
     "precedingAuctionCode": "0019925076"
