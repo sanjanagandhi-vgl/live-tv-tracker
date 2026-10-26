@@ -13830,18 +13830,18 @@
       "sku": "8564247",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-25",
-      "time": "02:19:19",
+      "date": "2026-10-26",
+      "time": "02:07:21",
       "preExisting": true,
       "missedAt": 1785040636946,
       "missedDelay": null,
-      "lastUpdated": 1792894759559,
+      "lastUpdated": 1792980441004,
       "missedPrice": 27.99,
       "missedImg": true,
       "title": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
-      "auctionCode": "0019923487",
+      "auctionCode": "0019923641",
       "source": "gha",
-      "lastAir": 1792894759559,
+      "lastAir": 1792980441004,
       "pdpPrice": "27.99",
       "buy": true,
       "login": false,
@@ -487704,8 +487704,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1792980265276,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -555300,11 +555300,22 @@
         "followingSku": "8739950",
         "followingTitle": "Cyclax Vitamin E Face & Body Cream - 300ml",
         "followingAuctionCode": "0019923015"
+      },
+      {
+        "start": 1792980265276,
+        "end": 1792980441004,
+        "durationMin": 2.9,
+        "precedingSku": "8647000",
+        "precedingTitle": "Maestro Collection- 9K Yellow Gold  Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019923079",
+        "followingSku": "8564247",
+        "followingTitle": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
+        "followingAuctionCode": "0019923641"
       }
     ],
-    "lastOnAirSku": "8647000",
-    "lastOnAirTitle": "Maestro Collection- 9K Yellow Gold  Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019923079",
+    "lastOnAirSku": "8564247",
+    "lastOnAirTitle": "Designer Inspired - Natural White Diamond Station Necklace (Size - 20)",
+    "lastOnAirAuctionCode": "0019923641",
     "precedingSku": "8647000",
     "precedingTitle": "Maestro Collection- 9K Yellow Gold  Hoop Earring with Clasp",
     "precedingAuctionCode": "0019923079"
