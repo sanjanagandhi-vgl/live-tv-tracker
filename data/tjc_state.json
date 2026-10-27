@@ -214585,21 +214585,26 @@
       "sku": "8556466",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "19:30:56",
+      "date": "2026-10-27",
+      "time": "04:27:20",
       "preExisting": true,
       "missedAt": 1787337056143,
       "missedDelay": null,
-      "lastUpdated": 1787337056143,
+      "lastUpdated": 1793075240795,
       "missedPrice": 6.99,
       "missedImg": true,
-      "title": "Set of 2 Floral Print Zip Around Wallet Set - Beige",
-      "auctionCode": "0019832170",
+      "title": "Set of 2 Leopard Print Zip Around Wallet Set - Brown",
+      "auctionCode": "0019924364",
       "source": "gha",
       "productUrl": "/products/flower-wallet-size-19x9x1-cm-beige-8556466",
       "productUrlChecked": 1787337060007,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793075240795,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8556467": {
       "sku": "8556467",
@@ -491270,8 +491275,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793075130648,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -559889,11 +559894,22 @@
         "followingSku": "8411769",
         "followingTitle": "Genuine Leather Panda Print Pattern Wallet with Dual Zip (Size 12x4x10 cm) - Off White",
         "followingAuctionCode": "0019924386"
+      },
+      {
+        "start": 1793075130648,
+        "end": 1793075240795,
+        "durationMin": 1.8,
+        "precedingSku": "8525676",
+        "precedingTitle": "Genuine Leather RFID Blocking Zip Around Card Holder Wallet - Khaki",
+        "precedingAuctionCode": "0019924391",
+        "followingSku": "8556466",
+        "followingTitle": "Set of 2 Leopard Print Zip Around Wallet Set - Brown",
+        "followingAuctionCode": "0019924364"
       }
     ],
-    "lastOnAirSku": "8525676",
-    "lastOnAirTitle": "Genuine Leather RFID Blocking Zip Around Card Holder Wallet - Khaki",
-    "lastOnAirAuctionCode": "0019924391",
+    "lastOnAirSku": "8556466",
+    "lastOnAirTitle": "Set of 2 Leopard Print Zip Around Wallet Set - Brown",
+    "lastOnAirAuctionCode": "0019924364",
     "precedingSku": "8525676",
     "precedingTitle": "Genuine Leather RFID Blocking Zip Around Card Holder Wallet - Khaki",
     "precedingAuctionCode": "0019924391"
