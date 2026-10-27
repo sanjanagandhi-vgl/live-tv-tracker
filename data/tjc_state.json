@@ -477706,21 +477706,26 @@
       "sku": "8787746",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-22",
-      "time": "10:46:23",
+      "date": "2026-10-27",
+      "time": "14:54:26",
       "preExisting": true,
       "missedAt": 1792662383153,
       "missedDelay": null,
-      "lastUpdated": 1792662383153,
+      "lastUpdated": 1793112866406,
       "missedPrice": 39.99,
       "missedImg": false,
-      "title": "Chilli Charm Boxy Jumper With Buttons (One Size) - Pink Melange",
-      "auctionCode": "0019918842",
+      "title": "Chilli Charm Boxy Jumper with Buttons (One Size, 8-18) - Pink Melange",
+      "auctionCode": "0019925148",
       "source": "gha",
       "productUrl": "/products/chilli-charm-jumper-size-one-size-stone-8787743",
       "productUrlChecked": 1792662388759,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793112866406,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8787745": {
       "sku": "8787745",
@@ -491660,8 +491665,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793112801087,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560664,11 +560669,22 @@
         "followingSku": "8788042",
         "followingTitle": "QED London Abstract Zebra Oversized Cowl Neck Top (Size M-L, 12-16) - Stone",
         "followingAuctionCode": "0019925041"
+      },
+      {
+        "start": 1793112801087,
+        "end": 1793112866406,
+        "durationMin": 1.1,
+        "precedingSku": "8623062",
+        "precedingTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
+        "precedingAuctionCode": "0019925143",
+        "followingSku": "8787746",
+        "followingTitle": "Chilli Charm Boxy Jumper with Buttons (One Size, 8-18) - Pink Melange",
+        "followingAuctionCode": "0019925148"
       }
     ],
-    "lastOnAirSku": "8623062",
-    "lastOnAirTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
-    "lastOnAirAuctionCode": "0019925143",
+    "lastOnAirSku": "8787746",
+    "lastOnAirTitle": "Chilli Charm Boxy Jumper with Buttons (One Size, 8-18) - Pink Melange",
+    "lastOnAirAuctionCode": "0019925148",
     "precedingSku": "8623062",
     "precedingTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
     "precedingAuctionCode": "0019925143"
