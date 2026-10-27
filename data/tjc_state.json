@@ -471242,17 +471242,17 @@
       "firstAir": 1792478839502,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792479260810,
+      "lastAir": 1793082383095,
       "title": "NEW LAUNCH- Jojoba Activating Cleansing Oil - 125ml",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019916364",
+      "pdpPrice": 399.99,
+      "auctionCode": null,
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-20",
-      "time": "07:54:20",
-      "productUrl": "/products/jojoba-activating-cleansing-oil-125ml-8627002",
-      "lastUpdated": 1792479328749,
+      "date": "2026-10-27",
+      "time": "06:26:23",
+      "productUrl": "/products/jojoba-activating-cleansing-oil-125ml-8627002?variant=53901119127818",
+      "lastUpdated": 1793082383095,
       "source": "gha",
       "missedAt": 1792479328749,
       "missedDelay": 1,
@@ -491293,8 +491293,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793082330959,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560000,11 +560000,22 @@
         "followingSku": "8365399",
         "followingTitle": "The Jojoba Company Ultimate Facial Serum with Australian Jojoba and Hyaluronic Acid - 30ml",
         "followingAuctionCode": "0019925265"
+      },
+      {
+        "start": 1793082330959,
+        "end": 1793082383095,
+        "durationMin": 0.9,
+        "precedingSku": "8365400",
+        "precedingTitle": "NEW LAUNCH- The Jojoba Company Neck and Decolletage Lifting Concentrate - 30ml",
+        "precedingAuctionCode": "0019924131",
+        "followingSku": "8627002",
+        "followingTitle": "NEW LAUNCH- Jojoba Activating Cleansing Oil - 125ml",
+        "followingAuctionCode": null
       }
     ],
-    "lastOnAirSku": "8365400",
-    "lastOnAirTitle": "NEW LAUNCH- The Jojoba Company Neck and Decolletage Lifting Concentrate - 30ml",
-    "lastOnAirAuctionCode": "0019924131",
+    "lastOnAirSku": "8627002",
+    "lastOnAirTitle": "NEW LAUNCH- Jojoba Activating Cleansing Oil - 125ml",
+    "lastOnAirAuctionCode": null,
     "precedingSku": "8365400",
     "precedingTitle": "NEW LAUNCH- The Jojoba Company Neck and Decolletage Lifting Concentrate - 30ml",
     "precedingAuctionCode": "0019924131"
