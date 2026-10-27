@@ -492096,11 +492096,29 @@
       "missedDelay": 1,
       "missedPrice": 12.99,
       "missedImg": true
+    },
+    "8635114": {
+      "sku": "8635114",
+      "firstAir": 1793118264947,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793118264947,
+      "title": "La Marey Soft Luxe Velvet Style Jacket (Size XL, 20-22) - Green",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019925121",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-27",
+      "time": "16:24:24",
+      "productUrl": null,
+      "lastUpdated": 1793118264947,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793118144689,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -561169,11 +561187,22 @@
         "followingSku": "7874400",
         "followingTitle": "La Marey Checked Belted Shirt (Size 16 to 18) - Pink",
         "followingAuctionCode": "0019926478"
+      },
+      {
+        "start": 1793118144689,
+        "end": 1793118264947,
+        "durationMin": 2.0,
+        "precedingSku": "7966921",
+        "precedingTitle": "Tamsy Lightweight Stretch Trousers (Size 10) - Khaki",
+        "precedingAuctionCode": null,
+        "followingSku": "8635114",
+        "followingTitle": "La Marey Soft Luxe Velvet Style Jacket (Size XL, 20-22) - Green",
+        "followingAuctionCode": "0019925121"
       }
     ],
-    "lastOnAirSku": "7966921",
-    "lastOnAirTitle": "Tamsy Lightweight Stretch Trousers (Size 10) - Khaki",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8635114",
+    "lastOnAirTitle": "La Marey Soft Luxe Velvet Style Jacket (Size XL, 20-22) - Green",
+    "lastOnAirAuctionCode": "0019925121",
     "precedingSku": "7966921",
     "precedingTitle": "Tamsy Lightweight Stretch Trousers (Size 10) - Khaki",
     "precedingAuctionCode": null
