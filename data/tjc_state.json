@@ -489463,18 +489463,23 @@
       "sku": "8702820",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-26",
-      "time": "16:46:31",
+      "date": "2026-10-27",
+      "time": "10:55:31",
       "preExisting": true,
       "missedAt": 1793033191275,
       "missedDelay": null,
-      "lastUpdated": 1793033191275,
+      "lastUpdated": 1793098531458,
       "missedPrice": 17.99,
       "missedImg": true,
-      "title": "La Marey Signature Glove (Size - Small) - Black",
-      "auctionCode": "0019924666",
+      "title": "La Marey Signature Glove (Size - Large) - Brown",
+      "auctionCode": "0019925303",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793098531458,
+      "pdpPrice": "224.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8702823": {
       "sku": "8702823",
@@ -491415,8 +491420,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793098399229,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560287,11 +560292,22 @@
         "followingSku": "7746509",
         "followingTitle": "ROLSON 50kg Heavy Duty Folding Trolley",
         "followingAuctionCode": "0019924506"
+      },
+      {
+        "start": 1793098399229,
+        "end": 1793098531458,
+        "durationMin": 2.2,
+        "precedingSku": "8591537",
+        "precedingTitle": "Compact 1.7L Electric Mini Dehumidifier With Touch Control Including 4 Lavender Fragrance Oils - White",
+        "precedingAuctionCode": "0019924420",
+        "followingSku": "8702820",
+        "followingTitle": "La Marey Signature Glove (Size - Large) - Brown",
+        "followingAuctionCode": "0019925303"
       }
     ],
-    "lastOnAirSku": "8591537",
-    "lastOnAirTitle": "Compact 1.7L Electric Mini Dehumidifier With Touch Control Including 4 Lavender Fragrance Oils - White",
-    "lastOnAirAuctionCode": "0019924420",
+    "lastOnAirSku": "8702820",
+    "lastOnAirTitle": "La Marey Signature Glove (Size - Large) - Brown",
+    "lastOnAirAuctionCode": "0019925303",
     "precedingSku": "8591537",
     "precedingTitle": "Compact 1.7L Electric Mini Dehumidifier With Touch Control Including 4 Lavender Fragrance Oils - White",
     "precedingAuctionCode": "0019924420"
