@@ -404639,23 +404639,23 @@
       "sku": "8624696",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-20",
-      "time": "05:16:20",
+      "date": "2026-10-27",
+      "time": "03:21:20",
       "preExisting": true,
       "missedAt": 1790676640168,
       "missedDelay": null,
-      "lastUpdated": 1792469780725,
+      "lastUpdated": 1793071280911,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
-      "auctionCode": null,
+      "auctionCode": "0019924396",
       "source": "gha",
       "productUrl": "/products/tech-accessories-size-23x3-cm-white-8624695?variant=53822891229450",
       "productUrlChecked": 1790676643513,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792469780725,
-      "pdpPrice": 14.99,
+      "lastAir": 1793071280911,
+      "pdpPrice": "14.99",
       "buy": true,
       "login": false,
       "img": true
@@ -491270,8 +491270,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793071239781,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -559823,11 +559823,22 @@
         "followingSku": "8597646",
         "followingTitle": "Dancing Daisy Plush Toy (18x12x28cm) - White",
         "followingAuctionCode": "0019924397"
+      },
+      {
+        "start": 1793071239781,
+        "end": 1793071280911,
+        "durationMin": 0.7,
+        "precedingSku": "8597646",
+        "precedingTitle": "Dancing Daisy Plush Toy (18x12x28cm) - White",
+        "precedingAuctionCode": "0019924397",
+        "followingSku": "8624696",
+        "followingTitle": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
+        "followingAuctionCode": "0019924396"
       }
     ],
-    "lastOnAirSku": "8597646",
-    "lastOnAirTitle": "Dancing Daisy Plush Toy (18x12x28cm) - White",
-    "lastOnAirAuctionCode": "0019924397",
+    "lastOnAirSku": "8624696",
+    "lastOnAirTitle": "Universal Extension Socket 2M with 4 Outlets, 3 USB Ports and 1 C-Type Fast Charge (1800W) - White",
+    "lastOnAirAuctionCode": "0019924396",
     "precedingSku": "8597646",
     "precedingTitle": "Dancing Daisy Plush Toy (18x12x28cm) - White",
     "precedingAuctionCode": "0019924397"
