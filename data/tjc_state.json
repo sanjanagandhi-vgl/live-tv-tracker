@@ -413741,23 +413741,23 @@
       "sku": "8576756",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-21",
-      "time": "00:53:21",
+      "date": "2026-10-27",
+      "time": "03:42:23",
       "preExisting": true,
       "missedAt": 1790887999768,
       "missedDelay": null,
-      "lastUpdated": 1792540401941,
+      "lastUpdated": 1793072543900,
       "missedPrice": 14.99,
       "missedImg": true,
       "title": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
-      "auctionCode": "0019915853",
+      "auctionCode": "0019924416",
       "source": "gha",
       "productUrl": "/products/livmore-showpiece-size-one-size-blue-8576754",
       "productUrlChecked": 1790888004185,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792540401941,
-      "pdpPrice": "14.99",
+      "lastAir": 1793072543900,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true
@@ -491270,8 +491270,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793072440729,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -559856,11 +559856,22 @@
         "followingSku": "8354263",
         "followingTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
         "followingAuctionCode": "0019924419"
+      },
+      {
+        "start": 1793072440729,
+        "end": 1793072543900,
+        "durationMin": 1.7,
+        "precedingSku": "8354263",
+        "precedingTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
+        "precedingAuctionCode": "0019924419",
+        "followingSku": "8576756",
+        "followingTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+        "followingAuctionCode": "0019924416"
       }
     ],
-    "lastOnAirSku": "8354263",
-    "lastOnAirTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
-    "lastOnAirAuctionCode": "0019924419",
+    "lastOnAirSku": "8576756",
+    "lastOnAirTitle": "LIVMORE Solar Maneki Neko Lucky Money Cat Figurine - Light Blue & Red",
+    "lastOnAirAuctionCode": "0019924416",
     "precedingSku": "8354263",
     "precedingTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
     "precedingAuctionCode": "0019924419"
