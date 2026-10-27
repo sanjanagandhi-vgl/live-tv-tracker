@@ -1780,23 +1780,23 @@
       "sku": "8519081",
       "tvPrice": "",
       "remarks": "",
-      "time": "02:34:22",
+      "time": "08:39:25",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Leopard Royal Savannah EDP - 100ml",
-      "auctionCode": "0019921284",
+      "auctionCode": "0019923761",
       "source": "gha",
-      "lastAir": 1792805662176,
-      "pdpPrice": "19.99",
+      "lastAir": 1793090365646,
+      "pdpPrice": "24.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-24",
+      "date": "2026-10-27",
       "productUrl": "/products/laurelle-gold-leopard-edp-100ml?variant=53106114724106",
-      "lastUpdated": 1792805662176,
+      "lastUpdated": 1793090365646,
       "productUrlChecked": 1792481240848,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -491360,8 +491360,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793090130448,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560166,11 +560166,22 @@
         "followingSku": "3456340",
         "followingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
         "followingAuctionCode": "0019923757"
+      },
+      {
+        "start": 1793090130448,
+        "end": 1793090365646,
+        "durationMin": 3.9,
+        "precedingSku": "3456340",
+        "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "precedingAuctionCode": "0019923757",
+        "followingSku": "8519081",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019923761"
       }
     ],
-    "lastOnAirSku": "3456340",
-    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-    "lastOnAirAuctionCode": "0019923757",
+    "lastOnAirSku": "8519081",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019923761",
     "precedingSku": "3456340",
     "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
     "precedingAuctionCode": "0019923757"
