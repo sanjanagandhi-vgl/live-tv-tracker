@@ -21759,19 +21759,19 @@
       "sku": "8706766",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-03",
-      "time": "21:28:23",
+      "date": "2026-10-27",
+      "time": "23:37:21",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1788467303303,
+      "lastUpdated": 1793144241679,
       "missedPrice": 99.99,
       "missedImg": false,
-      "title": "Luxuriant - AAA RatanakirI Blue Zircon & Lab Grown Diamond Halo Ring in Rhodium Overlay Sterling ...",
-      "auctionCode": "0019856008",
+      "title": "Luxuriant - AAA RatanakirI Blue Zircon & Lab Grown Diamond Halo Ring in Rhodium Overlay Sterling Silver 1.75 Ct.",
+      "auctionCode": "0019925587",
       "source": "gha",
-      "lastAir": 1788467303303,
-      "pdpPrice": 99.99,
+      "lastAir": 1793144241679,
+      "pdpPrice": "949.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -493784,8 +493784,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793144132805,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -563063,11 +563063,22 @@
         "followingSku": "8690574",
         "followingTitle": "D'Joy - White Jade & Lab Grown Blue Diamond Solitaire Band Ring in Rhodium Overlay Sterling Silver 20.33 Ct.",
         "followingAuctionCode": "0019925185"
+      },
+      {
+        "start": 1793144132805,
+        "end": 1793144241679,
+        "durationMin": 1.8,
+        "precedingSku": "8690574",
+        "precedingTitle": "D'Joy - White Jade & Lab Grown Blue Diamond Solitaire Band Ring in Rhodium Overlay Sterling Silver 20.33 Ct.",
+        "precedingAuctionCode": "0019925185",
+        "followingSku": "8706766",
+        "followingTitle": "Luxuriant - AAA RatanakirI Blue Zircon & Lab Grown Diamond Halo Ring in Rhodium Overlay Sterling Silver 1.75 Ct.",
+        "followingAuctionCode": "0019925587"
       }
     ],
-    "lastOnAirSku": "8690574",
-    "lastOnAirTitle": "D'Joy - White Jade & Lab Grown Blue Diamond Solitaire Band Ring in Rhodium Overlay Sterling Silver 20.33 Ct.",
-    "lastOnAirAuctionCode": "0019925185",
+    "lastOnAirSku": "8706766",
+    "lastOnAirTitle": "Luxuriant - AAA RatanakirI Blue Zircon & Lab Grown Diamond Halo Ring in Rhodium Overlay Sterling Silver 1.75 Ct.",
+    "lastOnAirAuctionCode": "0019925587",
     "precedingSku": "8690574",
     "precedingTitle": "D'Joy - White Jade & Lab Grown Blue Diamond Solitaire Band Ring in Rhodium Overlay Sterling Silver 20.33 Ct.",
     "precedingAuctionCode": "0019925185"
