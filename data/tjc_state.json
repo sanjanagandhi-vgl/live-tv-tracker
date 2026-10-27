@@ -417586,20 +417586,20 @@
       "sku": "8354263",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-21",
-      "time": "22:09:18",
+      "date": "2026-10-27",
+      "time": "03:37:18",
       "preExisting": true,
       "missedAt": 1790954903402,
       "missedDelay": null,
-      "lastUpdated": 1792616958249,
+      "lastUpdated": 1793072238921,
       "missedPrice": 4.99,
       "missedImg": false,
       "title": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
-      "auctionCode": null,
+      "auctionCode": "0019924419",
       "source": "gha",
       "productUrl": "/products/sleek-ergonomic-tws-earbuds-with-150mah-charging-case-and-2-3-hours-playtime-black-8354262?variant=53915856175370",
-      "lastAir": 1792616958249,
-      "pdpPrice": 4.99,
+      "lastAir": 1793072238921,
+      "pdpPrice": "4.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -491270,8 +491270,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793072182934,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -559845,11 +559845,22 @@
         "followingSku": "8519532",
         "followingTitle": "12-Piece Pink Magic Sponge Eraser Set - High-Density Melamine Foam 30D Cleaning Pads for Kitchen, Bathroom & Walls (10x6x2cm) - Pink",
         "followingAuctionCode": "0019924415"
+      },
+      {
+        "start": 1793072182934,
+        "end": 1793072238921,
+        "durationMin": 0.9,
+        "precedingSku": "8438897",
+        "precedingTitle": "147pcs Professional Watch Repair Tool Kit - Battery Replacement Tools, Link Remover, Spring Bars & Case Opener",
+        "precedingAuctionCode": "0019924418",
+        "followingSku": "8354263",
+        "followingTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
+        "followingAuctionCode": "0019924419"
       }
     ],
-    "lastOnAirSku": "8438897",
-    "lastOnAirTitle": "147pcs Professional Watch Repair Tool Kit - Battery Replacement Tools, Link Remover, Spring Bars & Case Opener",
-    "lastOnAirAuctionCode": "0019924418",
+    "lastOnAirSku": "8354263",
+    "lastOnAirTitle": "Sleek Ergonomic TWS Earbuds with 150mAh Charging Case and 2-3 Hours Playtime - Black",
+    "lastOnAirAuctionCode": "0019924419",
     "precedingSku": "8438897",
     "precedingTitle": "147pcs Professional Watch Repair Tool Kit - Battery Replacement Tools, Link Remover, Spring Bars & Case Opener",
     "precedingAuctionCode": "0019924418"
