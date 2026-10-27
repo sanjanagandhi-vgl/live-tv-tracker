@@ -491667,11 +491667,29 @@
       "productUrlChecked": 1793111735127,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8523221": {
+      "sku": "8523221",
+      "firstAir": 1793114732772,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793114732772,
+      "title": "Emreco Plain Chenille Jumper (Size XL, 20-22) - Turquoise",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019924830",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-27",
+      "time": "15:25:32",
+      "productUrl": null,
+      "lastUpdated": 1793114732772,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793114665082,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560685,11 +560703,22 @@
         "followingSku": "8787746",
         "followingTitle": "Chilli Charm Boxy Jumper with Buttons (One Size, 8-18) - Pink Melange",
         "followingAuctionCode": "0019925148"
+      },
+      {
+        "start": 1793114665082,
+        "end": 1793114732772,
+        "durationMin": 1.1,
+        "precedingSku": "8683607",
+        "precedingTitle": "La Marey Argyle Cardigan (Size XL, 20-22) - Coffee",
+        "precedingAuctionCode": "0019926016",
+        "followingSku": "8523221",
+        "followingTitle": "Emreco Plain Chenille Jumper (Size XL, 20-22) - Turquoise",
+        "followingAuctionCode": "0019924830"
       }
     ],
-    "lastOnAirSku": "8683607",
-    "lastOnAirTitle": "La Marey Argyle Cardigan (Size XL, 20-22) - Coffee",
-    "lastOnAirAuctionCode": "0019926016",
+    "lastOnAirSku": "8523221",
+    "lastOnAirTitle": "Emreco Plain Chenille Jumper (Size XL, 20-22) - Turquoise",
+    "lastOnAirAuctionCode": "0019924830",
     "precedingSku": "8683607",
     "precedingTitle": "La Marey Argyle Cardigan (Size XL, 20-22) - Coffee",
     "precedingAuctionCode": "0019926016"
