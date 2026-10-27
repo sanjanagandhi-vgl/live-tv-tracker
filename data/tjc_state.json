@@ -491305,14 +491305,21 @@
       "img": true,
       "date": "2026-10-27",
       "time": "07:09:18",
-      "productUrl": null,
-      "lastUpdated": 1793084958583,
-      "source": "gha"
+      "productUrl": "/products/touch-beauty-ultrasonic-exfoliating-scrub-beauty-device-with-ion-therapy-3-modes",
+      "lastUpdated": 1793085042481,
+      "source": "gha",
+      "missedAt": 1793085042481,
+      "missedDelay": 1,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "productUrlChecked": 1793085047808,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793085042481,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560056,8 +560063,8 @@
     "lastOnAirSku": "8024000",
     "lastOnAirTitle": "Touch Beauty Ultrasonic Exfoliating Scrub Beauty Device with Ion Therapy & 3 Modes",
     "lastOnAirAuctionCode": "0019924668",
-    "precedingSku": "8053094",
-    "precedingTitle": "CBD Queen- Rescue Balm 6% Super Strength - Lavender & Eucalyptus",
-    "precedingAuctionCode": "0019923705"
+    "precedingSku": "8024000",
+    "precedingTitle": "Touch Beauty Ultrasonic Exfoliating Scrub Beauty Device with Ion Therapy & 3 Modes",
+    "precedingAuctionCode": "0019924668"
   }
 }
