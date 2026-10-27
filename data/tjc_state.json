@@ -362175,21 +362175,26 @@
       "sku": "8788139",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "09:35:33",
+      "date": "2026-10-27",
+      "time": "18:17:25",
       "preExisting": true,
       "missedAt": 1789720533117,
       "missedDelay": null,
-      "lastUpdated": 1789720533117,
+      "lastUpdated": 1793125045180,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Amour de Carnaval Jet Set Pack (Includes Body mist, Lotion and Shower Gel) - Orange",
-      "auctionCode": "0019874445",
+      "title": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
+      "auctionCode": "0019925280",
       "source": "gha",
       "productUrl": "/products/amour-de-carnaval-jet-set-pack-includes-body-mist-lotion-and-shower-gel-pink-8788138",
       "productUrlChecked": 1789720542026,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793125045180,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7823297": {
       "sku": "7823297",
@@ -493162,8 +493167,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793124146909,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -562265,11 +562270,22 @@
         "followingSku": "8632892",
         "followingTitle": "La Marey Luxe Metallic Gold Pleated Maxi Skirt (Size L-XL, 16-22) - Pink",
         "followingAuctionCode": "0019925166"
+      },
+      {
+        "start": 1793124146909,
+        "end": 1793125045180,
+        "durationMin": 15.0,
+        "precedingSku": "4465761",
+        "precedingTitle": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
+        "precedingAuctionCode": "0019925019",
+        "followingSku": "8788139",
+        "followingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
+        "followingAuctionCode": "0019925280"
       }
     ],
-    "lastOnAirSku": "4465761",
-    "lastOnAirTitle": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
-    "lastOnAirAuctionCode": "0019925019",
+    "lastOnAirSku": "8788139",
+    "lastOnAirTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
+    "lastOnAirAuctionCode": "0019925280",
     "precedingSku": "4465761",
     "precedingTitle": "Super Find - La Marey Womens Set of 2 High Waist Seamless Shaper Shorts (Size S-M, UK 8-14) - Black & Skin",
     "precedingAuctionCode": "0019925019"
