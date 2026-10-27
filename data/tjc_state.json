@@ -491577,13 +491577,34 @@
       "date": "2026-10-27",
       "time": "13:09:21",
       "productUrl": null,
-      "lastUpdated": 1793106561802,
-      "source": "gha"
+      "lastUpdated": 1793106641738,
+      "source": "gha",
+      "missedAt": 1793106641738,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
+    },
+    "8707756": {
+      "sku": "8707756",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-27",
+      "time": "13:10:41",
+      "preExisting": true,
+      "missedAt": 1793106641738,
+      "missedDelay": null,
+      "lastUpdated": 1793106641738,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "LIVMORE Flashlights and Torchlight (Size - One Size) - Red & Black",
+      "auctionCode": "0019926014",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793106641738,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560536,8 +560557,8 @@
     "lastOnAirSku": "8707758",
     "lastOnAirTitle": "LIVMORE Flashlights and Torchlight (Size - One Size) - Blue & Black",
     "lastOnAirAuctionCode": "0019926008",
-    "precedingSku": "8610737",
-    "precedingTitle": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Turquoise",
-    "precedingAuctionCode": "0019925290"
+    "precedingSku": "8707758",
+    "precedingTitle": "LIVMORE Flashlights and Torchlight (Size - One Size) - Blue & Black",
+    "precedingAuctionCode": "0019926008"
   }
 }
