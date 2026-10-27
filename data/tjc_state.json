@@ -481328,21 +481328,26 @@
       "sku": "8832359",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-23",
-      "time": "16:05:32",
+      "date": "2026-10-27",
+      "time": "10:04:24",
       "preExisting": true,
       "missedAt": 1792767932561,
       "missedDelay": null,
-      "lastUpdated": 1792767932561,
+      "lastUpdated": 1793095464965,
       "missedPrice": 5.99,
       "missedImg": true,
-      "title": "Cherry Bakewell Scented Wax Candle - Strawberry Pink",
-      "auctionCode": "0019921259",
+      "title": "Rose Wonderland Scented Wax Candle - Pastel Pink",
+      "auctionCode": "0019924516",
       "source": "gha",
       "productUrl": "/products/tjc-special-candle-size-one-size-blush-pink-8832286",
       "productUrlChecked": 1792767935639,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793095464965,
+      "pdpPrice": "5.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8832358": {
       "sku": "8832358",
@@ -491385,8 +491390,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793095345841,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560224,11 +560229,22 @@
         "followingSku": "8657826",
         "followingTitle": "DEAL OF THE DAY- Beautech Hair Growth Cap with Red Light Therapy (72 LED Lights)",
         "followingAuctionCode": "0019924493"
+      },
+      {
+        "start": 1793095345841,
+        "end": 1793095464965,
+        "durationMin": 2.0,
+        "precedingSku": "8657826",
+        "precedingTitle": "DEAL OF THE DAY- Beautech Hair Growth Cap with Red Light Therapy (72 LED Lights)",
+        "precedingAuctionCode": "0019924493",
+        "followingSku": "8832359",
+        "followingTitle": "Rose Wonderland Scented Wax Candle - Pastel Pink",
+        "followingAuctionCode": "0019924516"
       }
     ],
-    "lastOnAirSku": "8657826",
-    "lastOnAirTitle": "DEAL OF THE DAY- Beautech Hair Growth Cap with Red Light Therapy (72 LED Lights)",
-    "lastOnAirAuctionCode": "0019924493",
+    "lastOnAirSku": "8832359",
+    "lastOnAirTitle": "Rose Wonderland Scented Wax Candle - Pastel Pink",
+    "lastOnAirAuctionCode": "0019924516",
     "precedingSku": "8657826",
     "precedingTitle": "DEAL OF THE DAY- Beautech Hair Growth Cap with Red Light Therapy (72 LED Lights)",
     "precedingAuctionCode": "0019924493"
