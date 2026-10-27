@@ -491433,16 +491433,37 @@
       "date": "2026-10-27",
       "time": "11:22:23",
       "productUrl": "/products/livmore-patterned-rug-and-door-mat-size-60x1-cm-brown-8692017?variant=53964326732042",
-      "lastUpdated": 1793100143306,
+      "lastUpdated": 1793100199544,
       "source": "gha",
       "productUrlChecked": 1793100145470,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793100199544,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
+    },
+    "8692017": {
+      "sku": "8692017",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-27",
+      "time": "11:23:19",
+      "preExisting": true,
+      "missedAt": 1793100199544,
+      "missedDelay": null,
+      "lastUpdated": 1793100199544,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "LIVMORE Cow-Print Faux Fur Rug (60x40 cm) - Brown",
+      "auctionCode": "0019925271",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793100199544,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560340,8 +560361,8 @@
     "lastOnAirSku": "8692018",
     "lastOnAirTitle": "LIVMORE Cow-Print Faux Fur Rug (60x40 cm) - Beige",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8702820",
-    "precedingTitle": "La Marey Genuine Leather Signature Glove (Size - Small) - Black",
-    "precedingAuctionCode": "0019925303"
+    "precedingSku": "8692018",
+    "precedingTitle": "LIVMORE Cow-Print Faux Fur Rug (60x40 cm) - Beige",
+    "precedingAuctionCode": null
   }
 }
