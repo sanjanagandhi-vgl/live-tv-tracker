@@ -36985,23 +36985,23 @@
       "sku": "8610737",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-25",
-      "time": "00:06:23",
+      "date": "2026-10-27",
+      "time": "12:47:20",
       "preExisting": true,
       "missedAt": 1785483562155,
       "missedDelay": null,
-      "lastUpdated": 1792883183048,
+      "lastUpdated": 1793105240172,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Turquoise",
-      "auctionCode": "0019921753",
+      "auctionCode": "0019925290",
       "source": "gha",
       "productUrl": "/products/voltz-10k-power-bank-6018610736",
       "productUrlChecked": 1785483572240,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1792883183048,
-      "pdpPrice": "12.99",
+      "lastAir": 1793105240172,
+      "pdpPrice": "150.99",
       "buy": true,
       "login": false,
       "img": true
@@ -491564,8 +491564,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793105184476,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560491,11 +560491,22 @@
         "followingSku": "8707647",
         "followingTitle": "Rechargeable 800 Lumen Tactical LED Torch with COB Side Light & Zoomable Focus - Black",
         "followingAuctionCode": "0019923931"
+      },
+      {
+        "start": 1793105184476,
+        "end": 1793105240172,
+        "durationMin": 0.9,
+        "precedingSku": "7576039",
+        "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+        "precedingAuctionCode": "0019925885",
+        "followingSku": "8610737",
+        "followingTitle": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Turquoise",
+        "followingAuctionCode": "0019925290"
       }
     ],
-    "lastOnAirSku": "7576039",
-    "lastOnAirTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
-    "lastOnAirAuctionCode": "0019925885",
+    "lastOnAirSku": "8610737",
+    "lastOnAirTitle": "Voltz 10,000mAh Mini Pocket-Size Fast Charging Power Bank - Turquoise",
+    "lastOnAirAuctionCode": "0019925290",
     "precedingSku": "7576039",
     "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
     "precedingAuctionCode": "0019925885"
