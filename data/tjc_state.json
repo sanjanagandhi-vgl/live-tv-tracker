@@ -491357,11 +491357,29 @@
       "auctionCode": "0019923783",
       "source": "gha",
       "productUrl": null
+    },
+    "8657826": {
+      "sku": "8657826",
+      "firstAir": 1793092344266,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793092344266,
+      "title": "DEAL OF THE DAY- Beautech Hair Growth Cap with Red Light Therapy (72 LED Lights)",
+      "pdpPrice": "559.99",
+      "auctionCode": "0019924493",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-27",
+      "time": "09:12:24",
+      "productUrl": null,
+      "lastUpdated": 1793092344266,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793092160414,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560188,11 +560206,22 @@
         "followingSku": "221339462",
         "followingTitle": "SOLACE Set of 3 Hair & Body Mists - Cherry Blossom Inner Harmony, Zesty Orange Energise & Lotus Flower Relaxation - 100ml Each (300ml Total)",
         "followingAuctionCode": "0019923770"
+      },
+      {
+        "start": 1793092160414,
+        "end": 1793092344266,
+        "durationMin": 3.1,
+        "precedingSku": "221339462",
+        "precedingTitle": "SOLACE Set of 3 Hair & Body Mists - Cherry Blossom Inner Harmony, Zesty Orange Energise & Lotus F...",
+        "precedingAuctionCode": null,
+        "followingSku": "8657826",
+        "followingTitle": "DEAL OF THE DAY- Beautech Hair Growth Cap with Red Light Therapy (72 LED Lights)",
+        "followingAuctionCode": "0019924493"
       }
     ],
-    "lastOnAirSku": "221339462",
-    "lastOnAirTitle": "SOLACE Set of 3 Hair & Body Mists - Cherry Blossom Inner Harmony, Zesty Orange Energise & Lotus F...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8657826",
+    "lastOnAirTitle": "DEAL OF THE DAY- Beautech Hair Growth Cap with Red Light Therapy (72 LED Lights)",
+    "lastOnAirAuctionCode": "0019924493",
     "precedingSku": "221339462",
     "precedingTitle": "SOLACE Set of 3 Hair & Body Mists - Cherry Blossom Inner Harmony, Zesty Orange Energise & Lotus F...",
     "precedingAuctionCode": null
