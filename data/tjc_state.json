@@ -158413,17 +158413,17 @@
       "firstAir": 1786700839535,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789868838788,
+      "lastAir": 1793068640664,
       "title": "Set of 2 QAWAFI Elysian",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019875388",
+      "pdpPrice": "159.99",
+      "auctionCode": "0019924333",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-20",
-      "time": "02:47:18",
+      "date": "2026-10-27",
+      "time": "02:37:20",
       "productUrl": "/products/elysian-fields-perfume",
-      "lastUpdated": 1789868838788,
+      "lastUpdated": 1793068640664,
       "source": "gha",
       "missedAt": 1786701800934,
       "missedDelay": 10,
@@ -491240,8 +491240,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793068584284,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -559760,11 +559760,22 @@
         "followingSku": "8788138",
         "followingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
         "followingAuctionCode": "0019924304"
+      },
+      {
+        "start": 1793068584284,
+        "end": 1793068640664,
+        "durationMin": 0.9,
+        "precedingSku": "8788138",
+        "precedingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
+        "precedingAuctionCode": "0019924304",
+        "followingSku": "8379930",
+        "followingTitle": "Set of 2 QAWAFI Elysian",
+        "followingAuctionCode": "0019924333"
       }
     ],
-    "lastOnAirSku": "8788138",
-    "lastOnAirTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
-    "lastOnAirAuctionCode": "0019924304",
+    "lastOnAirSku": "8379930",
+    "lastOnAirTitle": "Set of 2 QAWAFI Elysian",
+    "lastOnAirAuctionCode": "0019924333",
     "precedingSku": "8788138",
     "precedingTitle": "Laurelle Amour de Carnaval Luxe Jet Gift Set Pack (Includes Body Wash (90 ml), Body Mist (40 ml) & Body Butter (50 ml) - Pink (Tropical Bliss)",
     "precedingAuctionCode": "0019924304"
