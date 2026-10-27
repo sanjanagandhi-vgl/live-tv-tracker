@@ -230712,21 +230712,26 @@
       "sku": "8502109",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-23",
-      "time": "20:59:19",
+      "date": "2026-10-27",
+      "time": "23:54:29",
       "preExisting": true,
       "missedAt": 1787515159941,
       "missedDelay": null,
-      "lastUpdated": 1787515159941,
+      "lastUpdated": 1793145269112,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "D'Joy - Ratanakiri Blue Zircon & White Zircon Trilogy Halo Ring in Rhodium Overlay Sterling Silver 2.74 Ct.",
-      "auctionCode": "0019837643",
+      "auctionCode": "0019925627",
       "source": "gha",
       "productUrl": "/products/djoy-blue-zircon-white-zircon-trilogy-ring-in-rhodium-overlay-sterling-silver-2-74-ct",
       "productUrlChecked": 1787515174471,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793145269112,
+      "pdpPrice": "49.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8502110": {
       "sku": "8502110",
@@ -493784,8 +493789,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793145199771,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -563074,11 +563079,22 @@
         "followingSku": "8706766",
         "followingTitle": "Luxuriant - AAA RatanakirI Blue Zircon & Lab Grown Diamond Halo Ring in Rhodium Overlay Sterling Silver 1.75 Ct.",
         "followingAuctionCode": "0019925587"
+      },
+      {
+        "start": 1793145199771,
+        "end": 1793145269112,
+        "durationMin": 1.2,
+        "precedingSku": "8502119",
+        "precedingTitle": "Ratanakiri AAA Blue Zircon (Oval 2.00 Cts) and Lab Grown Diamond ( 0.50 Cts) Ring in Rhodium Overlay Sterling Silver 2.50 Ct.",
+        "precedingAuctionCode": "0019925662",
+        "followingSku": "8502109",
+        "followingTitle": "D'Joy - Ratanakiri Blue Zircon & White Zircon Trilogy Halo Ring in Rhodium Overlay Sterling Silver 2.74 Ct.",
+        "followingAuctionCode": "0019925627"
       }
     ],
-    "lastOnAirSku": "8502119",
-    "lastOnAirTitle": "Ratanakiri AAA Blue Zircon (Oval 2.00 Cts) and Lab Grown Diamond ( 0.50 Cts) Ring in Rhodium Overlay Sterling Silver 2.50 Ct.",
-    "lastOnAirAuctionCode": "0019925662",
+    "lastOnAirSku": "8502109",
+    "lastOnAirTitle": "D'Joy - Ratanakiri Blue Zircon & White Zircon Trilogy Halo Ring in Rhodium Overlay Sterling Silver 2.74 Ct.",
+    "lastOnAirAuctionCode": "0019925627",
     "precedingSku": "8502119",
     "precedingTitle": "Ratanakiri AAA Blue Zircon (Oval 2.00 Cts) and Lab Grown Diamond ( 0.50 Cts) Ring in Rhodium Overlay Sterling Silver 2.50 Ct.",
     "precedingAuctionCode": "0019925662"
