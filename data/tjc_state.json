@@ -4619,16 +4619,16 @@
       "firstAir": 1784887342450,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792736727932,
+      "lastAir": 1793089344731,
       "title": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019920136",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019923757",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-23",
-      "time": "07:25:27",
-      "lastUpdated": 1792736727932,
+      "date": "2026-10-27",
+      "time": "08:22:24",
+      "lastUpdated": 1793089344731,
       "source": "gha",
       "missedAt": 1784887878647,
       "missedDelay": 2,
@@ -491360,8 +491360,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793089039882,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -560155,11 +560155,22 @@
         "followingSku": "8789153",
         "followingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
         "followingAuctionCode": "0019923756"
+      },
+      {
+        "start": 1793089039882,
+        "end": 1793089344731,
+        "durationMin": 5.1,
+        "precedingSku": "8789153",
+        "precedingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
+        "precedingAuctionCode": "0019923756",
+        "followingSku": "3456340",
+        "followingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "followingAuctionCode": "0019923757"
       }
     ],
-    "lastOnAirSku": "8789153",
-    "lastOnAirTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
-    "lastOnAirAuctionCode": "0019923756",
+    "lastOnAirSku": "3456340",
+    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+    "lastOnAirAuctionCode": "0019923757",
     "precedingSku": "8789153",
     "precedingTitle": "Laurelle Amour de Carnaval 5 Piece Fragrance Body Mist Gift Set - 5 x 50ml",
     "precedingAuctionCode": "0019923756"
