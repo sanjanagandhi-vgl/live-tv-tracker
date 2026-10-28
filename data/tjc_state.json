@@ -200280,21 +200280,26 @@
       "sku": "8556035",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-20",
-      "time": "08:30:55",
+      "date": "2026-10-28",
+      "time": "05:37:21",
       "preExisting": true,
       "missedAt": 1787211055962,
       "missedDelay": null,
-      "lastUpdated": 1787211055962,
+      "lastUpdated": 1793165841172,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "WILLIAM HUNT Automatic 3ATM WR Silver Hollow Dial & Silver Case Watch with Black Silicone Strap",
-      "auctionCode": "0019830597",
+      "auctionCode": "0019925734",
       "source": "gha",
       "productUrl": "/products/william-hunt-automatic-3atm-wr-hollow-dial-black-case-mens-watch-with-black-silicone-strap-6058555501",
       "productUrlChecked": 1787211060968,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793165841172,
+      "pdpPrice": "789.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8556023": {
       "sku": "8556023",
@@ -494506,8 +494511,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793165784679,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -563972,11 +563977,22 @@
         "followingSku": "8625160",
         "followingTitle": "Gamages Of London Limited Edition Hand Assembled Amour 3ATM Water Resistant Swiss Movement Natural Diamond Watch With Genuine Leather Strap (With 5 Year Warranty) - Blue",
         "followingAuctionCode": "0019925929"
+      },
+      {
+        "start": 1793165784679,
+        "end": 1793165841172,
+        "durationMin": 0.9,
+        "precedingSku": "8625160",
+        "precedingTitle": "Gamages Of London Limited Edition Hand Assembled Amour 3ATM Water Resistant Swiss Movement Natural Diamond Watch With Genuine Leather Strap (With 5 Year Warranty) - Blue",
+        "precedingAuctionCode": "0019925929",
+        "followingSku": "8556035",
+        "followingTitle": "WILLIAM HUNT Automatic 3ATM WR Silver Hollow Dial & Silver Case Watch with Black Silicone Strap",
+        "followingAuctionCode": "0019925734"
       }
     ],
-    "lastOnAirSku": "8625160",
-    "lastOnAirTitle": "Gamages Of London Limited Edition Hand Assembled Amour 3ATM Water Resistant Swiss Movement Natural Diamond Watch With Genuine Leather Strap (With 5 Year Warranty) - Blue",
-    "lastOnAirAuctionCode": "0019925929",
+    "lastOnAirSku": "8556035",
+    "lastOnAirTitle": "WILLIAM HUNT Automatic 3ATM WR Silver Hollow Dial & Silver Case Watch with Black Silicone Strap",
+    "lastOnAirAuctionCode": "0019925734",
     "precedingSku": "8625160",
     "precedingTitle": "Gamages Of London Limited Edition Hand Assembled Amour 3ATM Water Resistant Swiss Movement Natural Diamond Watch With Genuine Leather Strap (With 5 Year Warranty) - Blue",
     "precedingAuctionCode": "0019925929"
