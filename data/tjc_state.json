@@ -495128,11 +495128,29 @@
       "auctionCode": "0019926492",
       "source": "gha",
       "productUrl": null
+    },
+    "8588561": {
+      "sku": "8588561",
+      "firstAir": 1793194640934,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793194640934,
+      "title": "Peacock Design LED Solar Wall Light (12 x 8.5 x 20cm) - Multi Color",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019926621",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-28",
+      "time": "13:37:20",
+      "productUrl": null,
+      "lastUpdated": 1793194640934,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793194587600,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -564938,11 +564956,22 @@
         "followingSku": "8658952",
         "followingTitle": "- 3 in 1 Livmore Garment Steamer with Vacuum Suction For Faster Decreasing and Dry Iron, 1 Year warranty - 140ml Water Tank - White",
         "followingAuctionCode": "0019926622"
+      },
+      {
+        "start": 1793194587600,
+        "end": 1793194640934,
+        "durationMin": 0.9,
+        "precedingSku": "8658952",
+        "precedingTitle": "- 3 in 1 Livmore Garment Steamer with Vacuum Suction For Faster Decreasing and Dry Iron, 1 Year warranty - 140ml Water Tank - White",
+        "precedingAuctionCode": "0019926622",
+        "followingSku": "8588561",
+        "followingTitle": "Peacock Design LED Solar Wall Light (12 x 8.5 x 20cm) - Multi Color",
+        "followingAuctionCode": "0019926621"
       }
     ],
-    "lastOnAirSku": "8658952",
-    "lastOnAirTitle": "- 3 in 1 Livmore Garment Steamer with Vacuum Suction For Faster Decreasing and Dry Iron, 1 Year warranty - 140ml Water Tank - White",
-    "lastOnAirAuctionCode": "0019926622",
+    "lastOnAirSku": "8588561",
+    "lastOnAirTitle": "Peacock Design LED Solar Wall Light (12 x 8.5 x 20cm) - Multi Color",
+    "lastOnAirAuctionCode": "0019926621",
     "precedingSku": "8658952",
     "precedingTitle": "- 3 in 1 Livmore Garment Steamer with Vacuum Suction For Faster Decreasing and Dry Iron, 1 Year warranty - 140ml Water Tank - White",
     "precedingAuctionCode": "0019926622"
