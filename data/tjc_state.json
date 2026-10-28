@@ -2733,15 +2733,23 @@
       "sku": "8565731",
       "tvPrice": "",
       "remarks": "",
-      "time": "21:42:39",
+      "time": "20:46:37",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 39.99,
       "missedImg": false,
       "title": "Genuine Leather Slouchy Flapover Crossbody Shoulder Bag - Coffee",
-      "auctionCode": "0019790665",
-      "source": "gha"
+      "auctionCode": "0019927200",
+      "source": "gha",
+      "lastAir": 1793220397663,
+      "pdpPrice": "639.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-28",
+      "productUrl": null,
+      "lastUpdated": 1793220397663
     },
     "8565755": {
       "sku": "8565755",
@@ -495545,8 +495553,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793220343867,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -565583,11 +565591,22 @@
         "followingSku": "8754377",
         "followingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
         "followingAuctionCode": "0019927212"
+      },
+      {
+        "start": 1793220343867,
+        "end": 1793220397663,
+        "durationMin": 0.9,
+        "precedingSku": "8754377",
+        "precedingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
+        "precedingAuctionCode": "0019927212",
+        "followingSku": "8565731",
+        "followingTitle": "Genuine Leather Slouchy Flapover Crossbody Shoulder Bag - Coffee",
+        "followingAuctionCode": "0019927200"
       }
     ],
-    "lastOnAirSku": "8754377",
-    "lastOnAirTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
-    "lastOnAirAuctionCode": "0019927212",
+    "lastOnAirSku": "8565731",
+    "lastOnAirTitle": "Genuine Leather Slouchy Flapover Crossbody Shoulder Bag - Coffee",
+    "lastOnAirAuctionCode": "0019927200",
     "precedingSku": "8754377",
     "precedingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
     "precedingAuctionCode": "0019927212"
