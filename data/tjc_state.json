@@ -449425,18 +449425,23 @@
       "sku": "8762482",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-12",
-      "time": "10:03:21",
+      "date": "2026-10-28",
+      "time": "03:37:18",
       "preExisting": true,
       "missedAt": 1791795801139,
       "missedDelay": null,
-      "lastUpdated": 1791795801139,
+      "lastUpdated": 1793158638350,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Bear Novelty Plush Cover Hot Water Bottle - Dark brown",
-      "auctionCode": "0019904827",
+      "title": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+      "auctionCode": "0019924466",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793158638350,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4446500": {
       "sku": "4446500",
@@ -494378,8 +494383,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793158584410,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -563745,11 +563750,22 @@
         "followingSku": "7827691",
         "followingTitle": "LINEA Energy Efficient Heater With Infrared Motion Sensor, Remote Control & 3 Heating Modes (1200W, 2000W, and ECO)",
         "followingAuctionCode": "0019924498"
+      },
+      {
+        "start": 1793158584410,
+        "end": 1793158638350,
+        "durationMin": 0.9,
+        "precedingSku": "8695248",
+        "precedingTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Relief - Panda",
+        "precedingAuctionCode": "0019924470",
+        "followingSku": "8762482",
+        "followingTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+        "followingAuctionCode": "0019924466"
       }
     ],
-    "lastOnAirSku": "8695248",
-    "lastOnAirTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Relief - Panda",
-    "lastOnAirAuctionCode": "0019924470",
+    "lastOnAirSku": "8762482",
+    "lastOnAirTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
+    "lastOnAirAuctionCode": "0019924466",
     "precedingSku": "8695248",
     "precedingTitle": "Set of 2 Chiming Enamelled Cloisonne Baoding Balls For Meditation, Hand Flexibility and Stress Relief - Panda",
     "precedingAuctionCode": "0019924470"
