@@ -256610,23 +256610,23 @@
       "sku": "8572244",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-22",
-      "time": "07:15:33",
+      "date": "2026-10-28",
+      "time": "06:25:31",
       "preExisting": true,
       "missedAt": 1787826930821,
       "missedDelay": null,
-      "lastUpdated": 1792649733930,
+      "lastUpdated": 1793168731584,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Green Jade Stretchable Lion Charm Bracelet (Size - 7) 115.00 Ct.",
-      "auctionCode": "0019918440",
+      "auctionCode": "0019926210",
       "source": "gha",
       "productUrl": "/products/green-jade-stretchable-wolf-charm-bracelet-size-7-5-110-00-ct-8572202",
       "productUrlChecked": 1787826937020,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792649733930,
-      "pdpPrice": "19.99",
+      "lastAir": 1793168731584,
+      "pdpPrice": "17.99",
       "buy": true,
       "login": false,
       "img": true
@@ -494577,11 +494577,15 @@
       "date": "2026-10-28",
       "time": "06:17:20",
       "productUrl": "/products/amber-cubic-zirconia-bracelet-size-7-5-with-ext-sterling-silver-10-08-ct-silver-wt-9-00-gms?variant=53107574964490",
-      "lastUpdated": 1793168240760,
+      "lastUpdated": 1793168731584,
       "source": "gha",
       "productUrlChecked": 1793168242991,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793168731584,
+      "missedDelay": 8,
+      "missedPrice": 19.99,
+      "missedImg": true
     },
     "8181804": {
       "sku": "8181804",
@@ -494603,8 +494607,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793168664395,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -564113,11 +564117,22 @@
         "followingSku": "8065851",
         "followingTitle": "Designer Inspired - Italian Made Sterling Silver Infinity knot Bangle",
         "followingAuctionCode": "0019926184"
+      },
+      {
+        "start": 1793168664395,
+        "end": 1793168731584,
+        "durationMin": 1.1,
+        "precedingSku": "8065851",
+        "precedingTitle": "Designer Inspired - Italian Made Sterling Silver Infinity knot Bangle",
+        "precedingAuctionCode": null,
+        "followingSku": "8572244",
+        "followingTitle": "Green Jade Stretchable Lion Charm Bracelet (Size - 7) 115.00 Ct.",
+        "followingAuctionCode": "0019926210"
       }
     ],
-    "lastOnAirSku": "8065851",
-    "lastOnAirTitle": "Designer Inspired - Italian Made Sterling Silver Infinity knot Bangle",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8572244",
+    "lastOnAirTitle": "Green Jade Stretchable Lion Charm Bracelet (Size - 7) 115.00 Ct.",
+    "lastOnAirAuctionCode": "0019926210",
     "precedingSku": "8065851",
     "precedingTitle": "Designer Inspired - Italian Made Sterling Silver Infinity knot Bangle",
     "precedingAuctionCode": null
