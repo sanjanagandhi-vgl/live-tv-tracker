@@ -387119,23 +387119,23 @@
       "sku": "8795309",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-18",
-      "time": "06:16:21",
+      "date": "2026-10-28",
+      "time": "19:22:30",
       "preExisting": true,
       "missedAt": 1790189728329,
       "missedDelay": null,
-      "lastUpdated": 1792300581691,
+      "lastUpdated": 1793215350739,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
-      "auctionCode": null,
+      "auctionCode": "0019927410",
       "source": "gha",
       "productUrl": "/products/tjc-special-water-bottle-size-one-size-black-8795307?variant=53792222773514",
       "productUrlChecked": 1790189732635,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792300581691,
-      "pdpPrice": 19.99,
+      "lastAir": 1793215350739,
+      "pdpPrice": "39.99",
       "buy": true,
       "login": false,
       "img": true
@@ -495444,8 +495444,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793214985577,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -565449,11 +565449,22 @@
         "followingSku": "8574917",
         "followingTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
         "followingAuctionCode": "0019926854"
+      },
+      {
+        "start": 1793214985577,
+        "end": 1793215350739,
+        "durationMin": 6.1,
+        "precedingSku": "8574917",
+        "precedingTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
+        "precedingAuctionCode": "0019926854",
+        "followingSku": "8795309",
+        "followingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+        "followingAuctionCode": "0019927410"
       }
     ],
-    "lastOnAirSku": "8574917",
-    "lastOnAirTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
-    "lastOnAirAuctionCode": "0019926854",
+    "lastOnAirSku": "8795309",
+    "lastOnAirTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+    "lastOnAirAuctionCode": "0019927410",
     "precedingSku": "8574917",
     "precedingTitle": "Mr Maria Monkey Lamp - Soft White Silicone Nightlight (15cm)",
     "precedingAuctionCode": "0019926854"
