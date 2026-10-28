@@ -342603,21 +342603,26 @@
       "sku": "8658870",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "05:07:20",
+      "date": "2026-10-28",
+      "time": "14:13:25",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789358840876,
+      "lastUpdated": 1793196805403,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "D'Joy - Premium African Ruby & White Zircon Drop Earring with Lever Back in Yellow Gold Plated Sterling Silver 1.50 Ct.",
-      "auctionCode": "0019868716",
+      "auctionCode": "0019926221",
       "source": "gha",
       "productUrl": "/products/djoy-african-ruby-white-zircon-main-stone-with-side-stone-earring-sterling-silver-1-510-ct-8658870",
       "productUrlChecked": 1789358964639,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793196805403,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4485375": {
       "sku": "4485375",
@@ -495156,8 +495161,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793196750294,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -564985,11 +564990,22 @@
         "followingSku": "4497184",
         "followingTitle": "D'Joy - Chanthaburi African Ruby & White Zircon Floral Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 1.70 Ct.",
         "followingAuctionCode": "0019926219"
+      },
+      {
+        "start": 1793196750294,
+        "end": 1793196805403,
+        "durationMin": 0.9,
+        "precedingSku": "4497184",
+        "precedingTitle": "D'Joy - Chanthaburi African Ruby & White Zircon Floral Pendant with Chain (Size 20) in Rhodium Ov...",
+        "precedingAuctionCode": null,
+        "followingSku": "8658870",
+        "followingTitle": "D'Joy - Premium African Ruby & White Zircon Drop Earring with Lever Back in Yellow Gold Plated Sterling Silver 1.50 Ct.",
+        "followingAuctionCode": "0019926221"
       }
     ],
-    "lastOnAirSku": "4497184",
-    "lastOnAirTitle": "D'Joy - Chanthaburi African Ruby & White Zircon Floral Pendant with Chain (Size 20) in Rhodium Ov...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8658870",
+    "lastOnAirTitle": "D'Joy - Premium African Ruby & White Zircon Drop Earring with Lever Back in Yellow Gold Plated Sterling Silver 1.50 Ct.",
+    "lastOnAirAuctionCode": "0019926221",
     "precedingSku": "4497184",
     "precedingTitle": "D'Joy - Chanthaburi African Ruby & White Zircon Floral Pendant with Chain (Size 20) in Rhodium Ov...",
     "precedingAuctionCode": null
