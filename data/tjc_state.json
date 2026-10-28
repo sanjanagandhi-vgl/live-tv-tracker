@@ -494956,16 +494956,20 @@
       "date": "2026-10-28",
       "time": "08:39:21",
       "productUrl": "/products/moissanite-gra-certified-solitaire-pendant-with-chain-size-20-in-18k-vermeil-yg-plated-sterling-silver-1-20-ct?variant=53105884889354",
-      "lastUpdated": 1793176761010,
+      "lastUpdated": 1793176840888,
       "source": "gha",
       "productUrlChecked": 1793176763219,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793176840888,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793176840888,
     "gaps": [
       {
         "start": 1785823527869,
@@ -564611,8 +564615,8 @@
     "lastOnAirSku": "4268943",
     "lastOnAirTitle": "Radianta Moissanite GRA Certified Solitaire Pendant with Chain (Size 20) in 18K Vermeil Rose Gold...",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "4493503",
-    "precedingTitle": "D'Joy - Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver with Chain (Size 20) 1.0...",
+    "precedingSku": "4268943",
+    "precedingTitle": "Radianta Moissanite GRA Certified Solitaire Pendant with Chain (Size 20) in 18K Vermeil Rose Gold...",
     "precedingAuctionCode": null
   }
 }
