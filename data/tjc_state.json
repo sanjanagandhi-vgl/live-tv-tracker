@@ -440980,21 +440980,26 @@
       "sku": "8683749",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-09",
-      "time": "20:36:22",
+      "date": "2026-10-28",
+      "time": "03:46:23",
       "preExisting": true,
       "missedAt": 1791574582441,
       "missedDelay": null,
-      "lastUpdated": 1791574582441,
+      "lastUpdated": 1793159183008,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "LIVMORE Bear Digital Print Soft Flannel Fleece Throw Blanket (150 x 200cm, 230 GSM) - Brown White",
-      "auctionCode": "0019902626",
+      "title": "LIVMORE Playful Dog Digital Print Soft Flannel Fleece Throw Blanket (150 x 200cm, 230 GSM) - Red",
+      "auctionCode": "0019924495",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-blanket-size-200x1-cm-red-8683652",
       "productUrlChecked": 1791574586611,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793159183008,
+      "pdpPrice": "40.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8683713": {
       "sku": "8683713",
@@ -494386,8 +494391,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793159142916,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -563764,11 +563769,22 @@
         "followingSku": "8762482",
         "followingTitle": "Fox Novelty Plush Cover Hot Water Bottle - Grey",
         "followingAuctionCode": "0019924466"
+      },
+      {
+        "start": 1793159142916,
+        "end": 1793159183008,
+        "durationMin": 0.7,
+        "precedingSku": "8499867",
+        "precedingTitle": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
+        "precedingAuctionCode": "0019924474",
+        "followingSku": "8683749",
+        "followingTitle": "LIVMORE Playful Dog Digital Print Soft Flannel Fleece Throw Blanket (150 x 200cm, 230 GSM) - Red",
+        "followingAuctionCode": "0019924495"
       }
     ],
-    "lastOnAirSku": "8499867",
-    "lastOnAirTitle": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
-    "lastOnAirAuctionCode": "0019924474",
+    "lastOnAirSku": "8683749",
+    "lastOnAirTitle": "LIVMORE Playful Dog Digital Print Soft Flannel Fleece Throw Blanket (150 x 200cm, 230 GSM) - Red",
+    "lastOnAirAuctionCode": "0019924495",
     "precedingSku": "8499867",
     "precedingTitle": "Green Gleam Multi Purpose Cleaning Solution - Kitchen, Bathroom, Mirrors, Windows, Carpets, Laundry Stains, Upholstery - 2x (Total 2L) - Sprayer Bottle - MAKES UP TO 200 BOTTLES!",
     "precedingAuctionCode": "0019924474"
