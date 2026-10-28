@@ -275486,21 +275486,26 @@
       "sku": "8481308",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-31",
-      "time": "00:12:23",
+      "date": "2026-10-28",
+      "time": "06:09:22",
       "preExisting": true,
       "missedAt": 1788131543601,
       "missedDelay": null,
-      "lastUpdated": 1788131543601,
+      "lastUpdated": 1793167762103,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "D'Joy - African Amethyst, Emerald & White Zircon Earring with Push Back in Yellow Gold Plated Sterling Silver 2.48 Ct.",
-      "auctionCode": "0019850215",
+      "auctionCode": "0019926162",
       "source": "gha",
       "productUrl": "/products/djoy-african-amethyst-emerald-white-zircon-earring-with-push-back-in-sterling-silver-2-48-ct",
       "productUrlChecked": 1788131547760,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793167762103,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7807954": {
       "sku": "7807954",
@@ -494511,8 +494516,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793167703936,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -563999,11 +564004,22 @@
         "followingSku": "7315468",
         "followingTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
         "followingAuctionCode": "0019926161"
+      },
+      {
+        "start": 1793167703936,
+        "end": 1793167762103,
+        "durationMin": 1.0,
+        "precedingSku": "7315468",
+        "precedingTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
+        "precedingAuctionCode": null,
+        "followingSku": "8481308",
+        "followingTitle": "D'Joy - African Amethyst, Emerald & White Zircon Earring with Push Back in Yellow Gold Plated Sterling Silver 2.48 Ct.",
+        "followingAuctionCode": "0019926162"
       }
     ],
-    "lastOnAirSku": "7315468",
-    "lastOnAirTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8481308",
+    "lastOnAirTitle": "D'Joy - African Amethyst, Emerald & White Zircon Earring with Push Back in Yellow Gold Plated Sterling Silver 2.48 Ct.",
+    "lastOnAirAuctionCode": "0019926162",
     "precedingSku": "7315468",
     "precedingTitle": "Sterling Silver Oval Twisted Hoop Creole Earring with Clasp",
     "precedingAuctionCode": null
