@@ -421311,22 +421311,23 @@
       "sku": "3680994",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-21",
-      "time": "12:01:19",
+      "date": "2026-10-28",
+      "time": "14:49:21",
       "preExisting": true,
       "missedAt": 1791041445776,
       "missedDelay": null,
-      "lastUpdated": 1792580479340,
+      "lastUpdated": 1793198961088,
       "missedPrice": 137.99,
       "missedImg": false,
-      "title": "Ruby & Natural White Diamond Halo Ring in Platinum Overlay Sterling Silver 4.00 Ct.",
-      "auctionCode": "0019918061",
-      "source": "gha-variant",
+      "title": "D'Joy - Chanthaburi Ruby & Natural White Diamond Halo Ring in Platinum Overlay Sterling Silver 4.00 Ct.",
+      "auctionCode": "0019926562",
+      "source": "gha",
       "productUrl": null,
-      "lastAir": 1792580479340,
-      "pdpPrice": 137.99,
+      "lastAir": 1793198961088,
+      "pdpPrice": "499.99",
       "buy": true,
-      "login": false
+      "login": false,
+      "img": true
     },
     "3683145": {
       "sku": "3683145",
@@ -495365,8 +495366,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793198907209,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -565238,11 +565239,22 @@
         "followingSku": "7442305",
         "followingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
         "followingAuctionCode": "0019926242"
+      },
+      {
+        "start": 1793198907209,
+        "end": 1793198961088,
+        "durationMin": 0.9,
+        "precedingSku": "7442305",
+        "precedingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
+        "precedingAuctionCode": "0019926242",
+        "followingSku": "3680994",
+        "followingTitle": "D'Joy - Chanthaburi Ruby & Natural White Diamond Halo Ring in Platinum Overlay Sterling Silver 4.00 Ct.",
+        "followingAuctionCode": "0019926562"
       }
     ],
-    "lastOnAirSku": "7442305",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
-    "lastOnAirAuctionCode": "0019926242",
+    "lastOnAirSku": "3680994",
+    "lastOnAirTitle": "D'Joy - Chanthaburi Ruby & Natural White Diamond Halo Ring in Platinum Overlay Sterling Silver 4.00 Ct.",
+    "lastOnAirAuctionCode": "0019926562",
     "precedingSku": "7442305",
     "precedingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
     "precedingAuctionCode": "0019926242"
