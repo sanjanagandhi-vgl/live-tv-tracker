@@ -377415,21 +377415,26 @@
       "sku": "8617549",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-21",
-      "time": "00:47:17",
+      "date": "2026-10-28",
+      "time": "15:29:21",
       "preExisting": true,
       "missedAt": 1789948037833,
       "missedDelay": null,
-      "lastUpdated": 1789948037833,
+      "lastUpdated": 1793201361130,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "AAA African Ruby & Moissanite Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.14 Ct.",
-      "auctionCode": "0019878764",
+      "auctionCode": "0019926275",
       "source": "gha",
       "productUrl": "/products/grand-statement-mirage-collection-aaa-african-ruby-moissanite-halo-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-8-14-ct-m8617503",
       "productUrlChecked": 1789948044605,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793201361130,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8562328": {
       "sku": "8562328",
@@ -495409,8 +495414,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793201305659,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -565315,11 +565320,22 @@
         "followingSku": "4488780",
         "followingTitle": "GRAND STATEMENT MIRAGE COLLECTION - AAA African Ruby & Moissanite Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 7.90 Ct.",
         "followingAuctionCode": "0019926281"
+      },
+      {
+        "start": 1793201305659,
+        "end": 1793201361130,
+        "durationMin": 0.9,
+        "precedingSku": "4488780",
+        "precedingTitle": "GRAND STATEMENT MIRAGE COLLECTION - AAA African Ruby & Moissanite Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 7.90 Ct.",
+        "precedingAuctionCode": "0019926281",
+        "followingSku": "8617549",
+        "followingTitle": "AAA African Ruby & Moissanite Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.14 Ct.",
+        "followingAuctionCode": "0019926275"
       }
     ],
-    "lastOnAirSku": "4488780",
-    "lastOnAirTitle": "GRAND STATEMENT MIRAGE COLLECTION - AAA African Ruby & Moissanite Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 7.90 Ct.",
-    "lastOnAirAuctionCode": "0019926281",
+    "lastOnAirSku": "8617549",
+    "lastOnAirTitle": "AAA African Ruby & Moissanite Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.14 Ct.",
+    "lastOnAirAuctionCode": "0019926275",
     "precedingSku": "4488780",
     "precedingTitle": "GRAND STATEMENT MIRAGE COLLECTION - AAA African Ruby & Moissanite Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 7.90 Ct.",
     "precedingAuctionCode": "0019926281"
