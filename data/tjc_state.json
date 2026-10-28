@@ -495441,11 +495441,29 @@
       "auctionCode": "0019926642",
       "source": "gha",
       "productUrl": null
+    },
+    "8699788": {
+      "sku": "8699788",
+      "firstAir": 1793216962850,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793216962850,
+      "title": "Christmas Church Modelling Water Lamp LED Musical Lantern with Angel (11 x 7.8 x 23cm) - White",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019927178",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-28",
+      "time": "19:49:22",
+      "productUrl": null,
+      "lastUpdated": 1793216962850,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793216904826,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -565460,11 +565478,22 @@
         "followingSku": "8795309",
         "followingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
         "followingAuctionCode": "0019927410"
+      },
+      {
+        "start": 1793216904826,
+        "end": 1793216962850,
+        "durationMin": 1.0,
+        "precedingSku": "8795309",
+        "precedingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+        "precedingAuctionCode": "0019927410",
+        "followingSku": "8699788",
+        "followingTitle": "Christmas Church Modelling Water Lamp LED Musical Lantern with Angel (11 x 7.8 x 23cm) - White",
+        "followingAuctionCode": "0019927178"
       }
     ],
-    "lastOnAirSku": "8795309",
-    "lastOnAirTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
-    "lastOnAirAuctionCode": "0019927410",
+    "lastOnAirSku": "8699788",
+    "lastOnAirTitle": "Christmas Church Modelling Water Lamp LED Musical Lantern with Angel (11 x 7.8 x 23cm) - White",
+    "lastOnAirAuctionCode": "0019927178",
     "precedingSku": "8795309",
     "precedingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
     "precedingAuctionCode": "0019927410"
