@@ -300034,17 +300034,17 @@
       "firstAir": 1788455905465,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790551997790,
+      "lastAir": 1793175341233,
       "title": "D'Joy - Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver with Chain (Size 20) 1.00 Ct.",
-      "pdpPrice": "29.99",
-      "auctionCode": "0019886997",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019926072",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-28",
-      "time": "00:33:17",
+      "date": "2026-10-28",
+      "time": "08:15:41",
       "productUrl": "/products/moissanite-pendant-with-chain-size-20-in-platinum-overlay-sterling-silver-1-000-ct-4493503",
-      "lastUpdated": 1790551997790,
+      "lastUpdated": 1793175341233,
       "source": "gha",
       "missedAt": 1788456652796,
       "missedDelay": 10,
@@ -493891,11 +493891,15 @@
       "date": "2026-10-28",
       "time": "00:07:22",
       "productUrl": "/products/djoy-blue-zircon-white-zircon-swirl-stud-earring-with-push-back-in-platinum-overlay-sterling-silver-2-15-ct-8695076?variant=53387861229834",
-      "lastUpdated": 1793146042471,
+      "lastUpdated": 1793175341233,
       "source": "gha",
       "productUrlChecked": 1793146044898,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793175341233,
+      "missedDelay": 488,
+      "missedPrice": 39.99,
+      "missedImg": true
     },
     "4503799": {
       "sku": "4503799",
@@ -494886,8 +494890,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793175262724,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -564506,11 +564510,22 @@
         "followingSku": "8672240",
         "followingTitle": "CLOSE OUT DEAL Moissanite Earring with Push Back in Yellow Gold Plated Sterling Silver 1.00 Ct",
         "followingAuctionCode": "0019926067"
+      },
+      {
+        "start": 1793175262724,
+        "end": 1793175341233,
+        "durationMin": 1.3,
+        "precedingSku": "8672240",
+        "precedingTitle": "CLOSE OUT DEAL Moissanite Earring with Push Back in Yellow Gold Plated Sterling Silver 1.00 Ct",
+        "precedingAuctionCode": "0019926067",
+        "followingSku": "4493503",
+        "followingTitle": "D'Joy - Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver with Chain (Size 20) 1.00 Ct.",
+        "followingAuctionCode": "0019926072"
       }
     ],
-    "lastOnAirSku": "8672240",
-    "lastOnAirTitle": "CLOSE OUT DEAL Moissanite Earring with Push Back in Yellow Gold Plated Sterling Silver 1.00 Ct",
-    "lastOnAirAuctionCode": "0019926067",
+    "lastOnAirSku": "4493503",
+    "lastOnAirTitle": "D'Joy - Moissanite Solitaire Pendant in Platinum Overlay Sterling Silver with Chain (Size 20) 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019926072",
     "precedingSku": "8672240",
     "precedingTitle": "CLOSE OUT DEAL Moissanite Earring with Push Back in Yellow Gold Plated Sterling Silver 1.00 Ct",
     "precedingAuctionCode": "0019926067"
