@@ -28862,22 +28862,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-28",
-      "time": "08:03:21",
+      "time": "22:36:23",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1793174601873,
+      "lastUpdated": 1793226983996,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "D'Joy - Moissanite Tennis Bracelet (Size - 8) with Lobster Clasp in Yellow Gold Plated Sterling Silver 2.60 Ct.",
-      "auctionCode": "0019925887",
+      "auctionCode": "0019927640",
       "source": "gha",
       "productUrl": "/products/djoy-moissanite-tennis-bracelet-in-yellow-gold-overlay-sterling-silver",
       "productUrlChecked": 1785475046001,
       "productUrlStatus": 403,
       "productUrl404": false,
-      "lastAir": 1793174601873,
-      "pdpPrice": "39.99",
+      "lastAir": 1793226983996,
+      "pdpPrice": "4995.99",
       "buy": true,
       "login": false,
       "img": true
@@ -495672,8 +495672,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793226930335,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -565754,11 +565754,22 @@
         "followingSku": "8493540",
         "followingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Solitaire Stud Push Post Earring in Rhodium Overlay Sterling Silver 1.02 Ct.",
         "followingAuctionCode": "0019927619"
+      },
+      {
+        "start": 1793226930335,
+        "end": 1793226983996,
+        "durationMin": 0.9,
+        "precedingSku": "8547687",
+        "precedingTitle": "D'Joy - Moissanite Cluster Halo Necklace (Size - 20) with Lobster Clasp in Rhodium Overlay Sterling Silver 4.76 Ct.",
+        "precedingAuctionCode": "0019927643",
+        "followingSku": "8416438",
+        "followingTitle": "D'Joy - Moissanite Tennis Bracelet (Size - 8) with Lobster Clasp in Yellow Gold Plated Sterling Silver 2.60 Ct.",
+        "followingAuctionCode": "0019927640"
       }
     ],
-    "lastOnAirSku": "8547687",
-    "lastOnAirTitle": "D'Joy - Moissanite Cluster Halo Necklace (Size - 20) with Lobster Clasp in Rhodium Overlay Sterling Silver 4.76 Ct.",
-    "lastOnAirAuctionCode": "0019927643",
+    "lastOnAirSku": "8416438",
+    "lastOnAirTitle": "D'Joy - Moissanite Tennis Bracelet (Size - 8) with Lobster Clasp in Yellow Gold Plated Sterling Silver 2.60 Ct.",
+    "lastOnAirAuctionCode": "0019927640",
     "precedingSku": "8547687",
     "precedingTitle": "D'Joy - Moissanite Cluster Halo Necklace (Size - 20) with Lobster Clasp in Rhodium Overlay Sterling Silver 4.76 Ct.",
     "precedingAuctionCode": "0019927643"
