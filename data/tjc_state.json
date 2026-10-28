@@ -495034,11 +495034,29 @@
       "missedDelay": 1,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8525389": {
+      "sku": "8525389",
+      "firstAir": 1793187681589,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793187681589,
+      "title": "Stylish Embroidered Sleek Multi-Pocket Handbag with Adjustable Shoulder Strap - Latte",
+      "pdpPrice": "404.99",
+      "auctionCode": "0019926491",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-28",
+      "time": "11:41:21",
+      "productUrl": null,
+      "lastUpdated": 1793187681589,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793187642400,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -564811,11 +564829,22 @@
         "followingSku": "8614426",
         "followingTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
         "followingAuctionCode": "0019926704"
+      },
+      {
+        "start": 1793187642400,
+        "end": 1793187681589,
+        "durationMin": 0.7,
+        "precedingSku": "8614426",
+        "precedingTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
+        "precedingAuctionCode": "0019926704",
+        "followingSku": "8525389",
+        "followingTitle": "Stylish Embroidered Sleek Multi-Pocket Handbag with Adjustable Shoulder Strap - Latte",
+        "followingAuctionCode": "0019926491"
       }
     ],
-    "lastOnAirSku": "8614426",
-    "lastOnAirTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
-    "lastOnAirAuctionCode": "0019926704",
+    "lastOnAirSku": "8525389",
+    "lastOnAirTitle": "Stylish Embroidered Sleek Multi-Pocket Handbag with Adjustable Shoulder Strap - Latte",
+    "lastOnAirAuctionCode": "0019926491",
     "precedingSku": "8614426",
     "precedingTitle": "LIVMORE Princess Insulated Stainless Steel Double-Wall Vacuum Flask 400ml - Red",
     "precedingAuctionCode": "0019926704"
