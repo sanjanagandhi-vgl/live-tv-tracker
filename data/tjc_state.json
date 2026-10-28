@@ -219189,21 +219189,26 @@
       "sku": "8685537",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-22",
-      "time": "19:29:19",
+      "date": "2026-10-28",
+      "time": "15:37:21",
       "preExisting": true,
       "missedAt": 1787423359955,
       "missedDelay": null,
-      "lastUpdated": 1787423359955,
+      "lastUpdated": 1793201841420,
       "missedPrice": 399.99,
       "missedImg": true,
-      "title": "D'Joy - AAA African Ruby Tennis Bracelet (Size - 8) in Rhodium Overlay Sterling Silver 39.00 Ct.",
-      "auctionCode": "0019836006",
+      "title": "BRAND NEW LAUNCH - AAA African Ruby Tennis Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 33.00 Ct.",
+      "auctionCode": "0019927265",
       "source": "gha",
       "productUrl": "/products/djoy-fissure-filled-ruby-bracelet-size-7-in-rhodium-overlaysterling-silver-silver-wt-8-5-gms-36-000-ct-8685325",
       "productUrlChecked": 1787423363883,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793201841420,
+      "pdpPrice": "1999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8685536": {
       "sku": "8685536",
@@ -495414,8 +495419,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793201733867,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -565331,11 +565336,22 @@
         "followingSku": "8617549",
         "followingTitle": "AAA African Ruby & Moissanite Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.14 Ct.",
         "followingAuctionCode": "0019926275"
+      },
+      {
+        "start": 1793201733867,
+        "end": 1793201841420,
+        "durationMin": 1.8,
+        "precedingSku": "8617549",
+        "precedingTitle": "AAA African Ruby & Moissanite Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.14 Ct.",
+        "precedingAuctionCode": "0019926275",
+        "followingSku": "8685537",
+        "followingTitle": "BRAND NEW LAUNCH - AAA African Ruby Tennis Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 33.00 Ct.",
+        "followingAuctionCode": "0019927265"
       }
     ],
-    "lastOnAirSku": "8617549",
-    "lastOnAirTitle": "AAA African Ruby & Moissanite Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.14 Ct.",
-    "lastOnAirAuctionCode": "0019926275",
+    "lastOnAirSku": "8685537",
+    "lastOnAirTitle": "BRAND NEW LAUNCH - AAA African Ruby Tennis Bracelet (Size - 7) in Rhodium Overlay Sterling Silver 33.00 Ct.",
+    "lastOnAirAuctionCode": "0019927265",
     "precedingSku": "8617549",
     "precedingTitle": "AAA African Ruby & Moissanite Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 8.14 Ct.",
     "precedingAuctionCode": "0019926275"
