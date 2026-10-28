@@ -454789,21 +454789,26 @@
       "sku": "8625160",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-14",
-      "time": "03:01:03",
+      "date": "2026-10-28",
+      "time": "05:30:55",
       "preExisting": true,
       "missedAt": 1791943263156,
       "missedDelay": null,
-      "lastUpdated": 1791943263156,
+      "lastUpdated": 1793165455746,
       "missedPrice": 69.99,
       "missedImg": true,
       "title": "Gamages Of London Limited Edition Hand Assembled Amour 3ATM Water Resistant Swiss Movement Natural Diamond Watch With Genuine Leather Strap (With 5 Year Warranty) - Blue",
-      "auctionCode": "0019907662",
+      "auctionCode": "0019925929",
       "source": "gha",
       "productUrl": "/products/gamages-of-london-limited-edition-hand-assembled-romantic-diamond-3atm-water-resistant-swiss-movement-natural-diamond-watch-with-genuine-leather-strap-with-5-year-warranty-2768625127",
       "productUrlChecked": 1791943268861,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793165455746,
+      "pdpPrice": "69.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8625128": {
       "sku": "8625128",
@@ -494501,8 +494506,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793165359974,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -563956,11 +563961,22 @@
         "followingSku": "8030238",
         "followingTitle": "GAMAGES OF LONDON Limited Edition Alluring Diamond Swiss  Movement Water Resistant Ladies Watch with Teal Leather Strap - 5 Year Warranty",
         "followingAuctionCode": "0019925886"
+      },
+      {
+        "start": 1793165359974,
+        "end": 1793165455746,
+        "durationMin": 1.6,
+        "precedingSku": "8030238",
+        "precedingTitle": "GAMAGES OF LONDON Limited Edition Alluring Diamond Swiss  Movement Water Resistant Ladies Watch with Teal Leather Strap - 5 Year Warranty",
+        "precedingAuctionCode": "0019925886",
+        "followingSku": "8625160",
+        "followingTitle": "Gamages Of London Limited Edition Hand Assembled Amour 3ATM Water Resistant Swiss Movement Natural Diamond Watch With Genuine Leather Strap (With 5 Year Warranty) - Blue",
+        "followingAuctionCode": "0019925929"
       }
     ],
-    "lastOnAirSku": "8030238",
-    "lastOnAirTitle": "GAMAGES OF LONDON Limited Edition Alluring Diamond Swiss  Movement Water Resistant Ladies Watch with Teal Leather Strap - 5 Year Warranty",
-    "lastOnAirAuctionCode": "0019925886",
+    "lastOnAirSku": "8625160",
+    "lastOnAirTitle": "Gamages Of London Limited Edition Hand Assembled Amour 3ATM Water Resistant Swiss Movement Natural Diamond Watch With Genuine Leather Strap (With 5 Year Warranty) - Blue",
+    "lastOnAirAuctionCode": "0019925929",
     "precedingSku": "8030238",
     "precedingTitle": "GAMAGES OF LONDON Limited Edition Alluring Diamond Swiss  Movement Water Resistant Ladies Watch with Teal Leather Strap - 5 Year Warranty",
     "precedingAuctionCode": "0019925886"
