@@ -495502,13 +495502,51 @@
       "date": "2026-10-28",
       "time": "20:44:24",
       "productUrl": null,
-      "lastUpdated": 1793220264688,
-      "source": "gha"
+      "lastUpdated": 1793220343867,
+      "source": "gha",
+      "missedAt": 1793220343867,
+      "missedDelay": 1,
+      "missedPrice": 27.99,
+      "missedImg": true
+    },
+    "8754379": {
+      "sku": "8754379",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-28",
+      "time": "20:45:43",
+      "preExisting": true,
+      "missedAt": 1793220343867,
+      "missedDelay": null,
+      "lastUpdated": 1793220343867,
+      "missedPrice": 27.99,
+      "missedImg": true,
+      "title": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
+      "auctionCode": "0019927214",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8754378": {
+      "sku": "8754378",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-28",
+      "time": "20:45:43",
+      "preExisting": true,
+      "missedAt": 1793220343867,
+      "missedDelay": null,
+      "lastUpdated": 1793220343867,
+      "missedPrice": 27.99,
+      "missedImg": true,
+      "title": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - White Musk (9 x 9 x 14 cm)",
+      "auctionCode": "0019927213",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793220343867,
     "gaps": [
       {
         "start": 1785823527869,
@@ -565550,8 +565588,8 @@
     "lastOnAirSku": "8754377",
     "lastOnAirTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
     "lastOnAirAuctionCode": "0019927212",
-    "precedingSku": "8699788",
-    "precedingTitle": "Christmas Church Modelling Water Lamp LED Musical Lantern with Angel (11 x 7.8 x 23cm) - White",
-    "precedingAuctionCode": null
+    "precedingSku": "8754377",
+    "precedingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
+    "precedingAuctionCode": "0019927212"
   }
 }
