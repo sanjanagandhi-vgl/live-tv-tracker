@@ -153067,17 +153067,17 @@
       "firstAir": 1786630004940,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788730836428,
+      "lastAir": 1793179857968,
       "title": "24K Yellow Gold Horse Design Frame",
-      "pdpPrice": "99.99",
-      "auctionCode": "0019859051",
+      "pdpPrice": "69.99",
+      "auctionCode": "0019926406",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-06",
-      "time": "22:40:36",
+      "date": "2026-10-28",
+      "time": "09:30:57",
       "productUrl": "/products/24k-yellow-gold-mg-standard-accessories-gold-wt-10-gms-8522316",
-      "lastUpdated": 1788730836428,
+      "lastUpdated": 1793179857968,
       "source": "gha",
       "missedAt": 1786631961580,
       "missedDelay": 10,
@@ -495007,8 +495007,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793179641087,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -564704,11 +564704,22 @@
         "followingSku": "8415418",
         "followingTitle": "9K Yellow Gold Diamond Cut Band Ring",
         "followingAuctionCode": "0019926389"
+      },
+      {
+        "start": 1793179641087,
+        "end": 1793179857968,
+        "durationMin": 3.6,
+        "precedingSku": "8415431",
+        "precedingTitle": "9K Yellow Gold Diamond Cut Band Ring",
+        "precedingAuctionCode": "0019926744",
+        "followingSku": "8522316",
+        "followingTitle": "24K Yellow Gold Horse Design Frame",
+        "followingAuctionCode": "0019926406"
       }
     ],
-    "lastOnAirSku": "8415431",
-    "lastOnAirTitle": "9K Yellow Gold Diamond Cut Band Ring",
-    "lastOnAirAuctionCode": "0019926744",
+    "lastOnAirSku": "8522316",
+    "lastOnAirTitle": "24K Yellow Gold Horse Design Frame",
+    "lastOnAirAuctionCode": "0019926406",
     "precedingSku": "8415431",
     "precedingTitle": "9K Yellow Gold Diamond Cut Band Ring",
     "precedingAuctionCode": "0019926744"
