@@ -480842,17 +480842,17 @@
       "firstAir": 1792746941177,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792791500701,
+      "lastAir": 1793161943804,
       "title": "Pink Cubic Zirconia Heart Necklace (Size - 20-2 Ext)",
-      "pdpPrice": 8.99,
-      "auctionCode": null,
+      "pdpPrice": "8.99",
+      "auctionCode": "0019924432",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-23",
-      "time": "22:38:20",
+      "date": "2026-10-28",
+      "time": "04:32:23",
       "productUrl": "/products/pink-cubic-zirconia-heart-necklace-size-20-2-ext-3-00-ct-8770473?variant=53949591683338",
-      "lastUpdated": 1792791500701,
+      "lastUpdated": 1793161943804,
       "source": "gha",
       "productUrlChecked": 1792747343867,
       "productUrlStatus": 200,
@@ -494441,8 +494441,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793161880632,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -563852,11 +563852,22 @@
         "followingSku": "8777394",
         "followingTitle": "Chunky Rope Necklace (Size - 18)",
         "followingAuctionCode": "0019924439"
+      },
+      {
+        "start": 1793161880632,
+        "end": 1793161943804,
+        "durationMin": 1.1,
+        "precedingSku": "8777394",
+        "precedingTitle": "Chunky Rope Necklace (Size - 18)",
+        "precedingAuctionCode": null,
+        "followingSku": "8770473",
+        "followingTitle": "Pink Cubic Zirconia Heart Necklace (Size - 20-2 Ext)",
+        "followingAuctionCode": "0019924432"
       }
     ],
-    "lastOnAirSku": "8777394",
-    "lastOnAirTitle": "Chunky Rope Necklace (Size - 18)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8770473",
+    "lastOnAirTitle": "Pink Cubic Zirconia Heart Necklace (Size - 20-2 Ext)",
+    "lastOnAirAuctionCode": "0019924432",
     "precedingSku": "8777394",
     "precedingTitle": "Chunky Rope Necklace (Size - 18)",
     "precedingAuctionCode": null
