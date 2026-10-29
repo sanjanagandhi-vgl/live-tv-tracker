@@ -20594,19 +20594,19 @@
       "sku": "8698755",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "00:34:23",
+      "date": "2026-10-29",
+      "time": "04:48:23",
       "preExisting": true,
       "missedAt": 1785184949278,
       "missedDelay": null,
-      "lastUpdated": 1786923263305,
+      "lastUpdated": 1793249303734,
       "missedPrice": 199.99,
       "missedImg": true,
-      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
-      "auctionCode": "0019825027",
+      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace",
+      "auctionCode": "0019927083",
       "source": "gha",
-      "lastAir": 1786923263305,
-      "pdpPrice": "189.99",
+      "lastAir": 1793249303734,
+      "pdpPrice": "129.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -496097,8 +496097,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793249183172,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566388,11 +566388,22 @@
         "followingSku": "8689613",
         "followingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
         "followingAuctionCode": "0019928152"
+      },
+      {
+        "start": 1793249183172,
+        "end": 1793249303734,
+        "durationMin": 2.0,
+        "precedingSku": "8689613",
+        "precedingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
+        "precedingAuctionCode": "0019928152",
+        "followingSku": "8698755",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace",
+        "followingAuctionCode": "0019927083"
       }
     ],
-    "lastOnAirSku": "8689613",
-    "lastOnAirTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
-    "lastOnAirAuctionCode": "0019928152",
+    "lastOnAirSku": "8698755",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace",
+    "lastOnAirAuctionCode": "0019927083",
     "precedingSku": "8689613",
     "precedingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
     "precedingAuctionCode": "0019928152"
