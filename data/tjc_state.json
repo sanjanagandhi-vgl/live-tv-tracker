@@ -490074,17 +490074,17 @@
       "firstAir": 1793034335526,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793110846411,
+      "lastAir": 1793272462728,
       "title": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
       "pdpPrice": "59.99",
-      "auctionCode": "0019926004",
+      "auctionCode": "0019927546",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-27",
-      "time": "14:20:46",
+      "date": "2026-10-29",
+      "time": "11:14:22",
       "productUrl": null,
-      "lastUpdated": 1793110846411,
+      "lastUpdated": 1793272462728,
       "source": "gha",
       "missedAt": 1793034746410,
       "missedDelay": 1,
@@ -496400,8 +496400,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793272399701,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566966,11 +566966,22 @@
         "followingSku": "8520816",
         "followingTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
         "followingAuctionCode": "0019928030"
+      },
+      {
+        "start": 1793272399701,
+        "end": 1793272462728,
+        "durationMin": 1.1,
+        "precedingSku": "8520816",
+        "precedingTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
+        "precedingAuctionCode": "0019928030",
+        "followingSku": "8520821",
+        "followingTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
+        "followingAuctionCode": "0019927546"
       }
     ],
-    "lastOnAirSku": "8520816",
+    "lastOnAirSku": "8520821",
     "lastOnAirTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
-    "lastOnAirAuctionCode": "0019928030",
+    "lastOnAirAuctionCode": "0019927546",
     "precedingSku": "8520816",
     "precedingTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
     "precedingAuctionCode": "0019928030"
