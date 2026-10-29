@@ -496202,11 +496202,29 @@
       "auctionCode": "0019927353",
       "source": "gha",
       "productUrl": null
+    },
+    "8633319": {
+      "sku": "8633319",
+      "firstAir": 1793258783082,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793258783082,
+      "title": "Livemore Oval Shape Himalayan Salt Lamp (10cm Height) - Orange & Pink",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019927317",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-29",
+      "time": "07:26:23",
+      "productUrl": null,
+      "lastUpdated": 1793258783082,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793258731726,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566639,11 +566657,22 @@
         "followingSku": "8225769",
         "followingTitle": "100% Mulberry Silk Quilt with Butterfly Quilting (Double) - Off White",
         "followingAuctionCode": "0019927349"
+      },
+      {
+        "start": 1793258731726,
+        "end": 1793258783082,
+        "durationMin": 0.9,
+        "precedingSku": "8412038",
+        "precedingTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
+        "precedingAuctionCode": "0019927385",
+        "followingSku": "8633319",
+        "followingTitle": "Livemore Oval Shape Himalayan Salt Lamp (10cm Height) - Orange & Pink",
+        "followingAuctionCode": "0019927317"
       }
     ],
-    "lastOnAirSku": "8412038",
-    "lastOnAirTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
-    "lastOnAirAuctionCode": "0019927385",
+    "lastOnAirSku": "8633319",
+    "lastOnAirTitle": "Livemore Oval Shape Himalayan Salt Lamp (10cm Height) - Orange & Pink",
+    "lastOnAirAuctionCode": "0019927317",
     "precedingSku": "8412038",
     "precedingTitle": "LA Marey Signature Collection - 3 Piece Set - 100% Mulberry Silk Fitted Sheets & 2 Mother Of Pearl Button Pillowcases Double (190 x 135 cm - Beige",
     "precedingAuctionCode": "0019927385"
