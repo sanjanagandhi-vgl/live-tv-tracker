@@ -306016,23 +306016,23 @@
       "sku": "8527328",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-29",
-      "time": "00:04:23",
+      "date": "2026-10-29",
+      "time": "23:14:23",
       "preExisting": true,
       "missedAt": 1788562235204,
       "missedDelay": null,
-      "lastUpdated": 1790636663191,
+      "lastUpdated": 1793315663447,
       "missedPrice": 299.99,
       "missedImg": true,
-      "title": "JCK Vegas Finds- 14K White Gold Natural Earth Mined Diamond (SI G-H) Journey Pendant 0.50 Ct.",
-      "auctionCode": "0019887553",
+      "title": "JCK Vegas Finds- 14K Yellow Gold Natural Earth Mined Diamond ( SI G-H) Journey Pendant 0.50 Ct.",
+      "auctionCode": "0019929352",
       "source": "gha",
       "productUrl": "/products/gold-white-diamond-pendant-0-50-ct?variant=53104429039882",
       "productUrlChecked": 1788562238454,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790636663191,
-      "pdpPrice": 299.99,
+      "lastAir": 1793315663447,
+      "pdpPrice": "2699.99",
       "buy": true,
       "login": false,
       "img": true
@@ -499720,8 +499720,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793315599988,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -570847,11 +570847,22 @@
         "followingSku": "8547568",
         "followingTitle": "D'Joy Multi Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.58 Ct.",
         "followingAuctionCode": "0019929341"
+      },
+      {
+        "start": 1793315599988,
+        "end": 1793315663447,
+        "durationMin": 1.1,
+        "precedingSku": "8547568",
+        "precedingTitle": "D'Joy Multi Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.58 Ct.",
+        "precedingAuctionCode": "0019929341",
+        "followingSku": "8527328",
+        "followingTitle": "JCK Vegas Finds- 14K Yellow Gold Natural Earth Mined Diamond ( SI G-H) Journey Pendant 0.50 Ct.",
+        "followingAuctionCode": "0019929352"
       }
     ],
-    "lastOnAirSku": "8547568",
-    "lastOnAirTitle": "D'Joy Multi Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.58 Ct.",
-    "lastOnAirAuctionCode": "0019929341",
+    "lastOnAirSku": "8527328",
+    "lastOnAirTitle": "JCK Vegas Finds- 14K Yellow Gold Natural Earth Mined Diamond ( SI G-H) Journey Pendant 0.50 Ct.",
+    "lastOnAirAuctionCode": "0019929352",
     "precedingSku": "8547568",
     "precedingTitle": "D'Joy Multi Diamond Band Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.58 Ct.",
     "precedingAuctionCode": "0019929341"
