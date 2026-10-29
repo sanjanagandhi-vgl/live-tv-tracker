@@ -2126,23 +2126,23 @@
       "sku": "8548666",
       "tvPrice": "",
       "remarks": "",
-      "time": "06:43:17",
+      "time": "16:51:21",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 24.99,
       "missedImg": false,
       "title": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-      "auctionCode": "0019886247",
+      "auctionCode": "0019926446",
       "source": "gha",
-      "lastAir": 1790574197840,
-      "pdpPrice": "19.99",
+      "lastAir": 1793292681159,
+      "pdpPrice": "120.00",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-28",
+      "date": "2026-10-29",
       "productUrl": null,
-      "lastUpdated": 1790574197840
+      "lastUpdated": 1793292681159
     },
     "8548674": {
       "sku": "8548674",
@@ -498578,8 +498578,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793292385216,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -569386,11 +569386,22 @@
         "followingSku": "8640990",
         "followingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
         "followingAuctionCode": "0019928478"
+      },
+      {
+        "start": 1793292385216,
+        "end": 1793292681159,
+        "durationMin": 4.9,
+        "precedingSku": "8640990",
+        "precedingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
+        "precedingAuctionCode": "0019928478",
+        "followingSku": "8548666",
+        "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "followingAuctionCode": "0019926446"
       }
     ],
-    "lastOnAirSku": "8640990",
-    "lastOnAirTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019928478",
+    "lastOnAirSku": "8548666",
+    "lastOnAirTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+    "lastOnAirAuctionCode": "0019926446",
     "precedingSku": "8640990",
     "precedingTitle": "Vicenza Exclusive 9K Yellow Gold Bismark Necklace (Size - 20)",
     "precedingAuctionCode": "0019928478"
