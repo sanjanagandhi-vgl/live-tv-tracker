@@ -498753,16 +498753,40 @@
       "date": "2026-10-29",
       "time": "18:40:42",
       "productUrl": "/products/white-crystal-plastic-pearl-multi-glass-christmas-charm-necklace-size-20-2-ext-8770542?variant=53999622062346",
-      "lastUpdated": 1793299242576,
+      "lastUpdated": 1793299282121,
       "source": "gha",
       "productUrlChecked": 1793299244843,
+      "productUrlStatus": 200,
+      "productUrl404": false,
+      "missedAt": 1793299282121,
+      "missedDelay": 1,
+      "missedPrice": 15.99,
+      "missedImg": true
+    },
+    "8770535": {
+      "sku": "8770535",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-29",
+      "time": "18:41:22",
+      "preExisting": true,
+      "missedAt": 1793299282121,
+      "missedDelay": null,
+      "lastUpdated": 1793299282121,
+      "missedPrice": 15.99,
+      "missedImg": true,
+      "title": "Christmas Special -  Multi Colour Crystal and Pearl Charm Bracelet (Size - 7.5-1 Ext)",
+      "auctionCode": "0019929783",
+      "source": "gha",
+      "productUrl": "/products/white-crystal-plastic-pearl-multi-glass-christmas-charm-necklace-size-20-2-ext-8770542",
+      "productUrlChecked": 1793299287497,
       "productUrlStatus": 200,
       "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793299282121,
     "gaps": [
       {
         "start": 1785823527869,
@@ -569684,8 +569708,8 @@
     "lastOnAirSku": "8770542",
     "lastOnAirTitle": "Christmas Special - Multi Colour Crystal and Pearl Charm Necklace (Size - 20-2 Ext)",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8569846",
-    "precedingTitle": "D'Joy - Natural Chrome Diopside Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
-    "precedingAuctionCode": "0019928976"
+    "precedingSku": "8770542",
+    "precedingTitle": "Christmas Special - Multi Colour Crystal and Pearl Charm Necklace (Size - 20-2 Ext)",
+    "precedingAuctionCode": null
   }
 }
