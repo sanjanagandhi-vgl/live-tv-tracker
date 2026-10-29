@@ -496119,11 +496119,29 @@
       "productUrlChecked": 1793254163883,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8832314": {
+      "sku": "8832314",
+      "firstAir": 1793255239709,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793255239709,
+      "title": "Cherry Bakewell Scented Wax Candle - Strawberry Pink",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019927219",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-29",
+      "time": "06:27:19",
+      "productUrl": null,
+      "lastUpdated": 1793255239709,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793255183490,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566501,11 +566519,22 @@
         "followingSku": "8203511",
         "followingTitle": "Rotating Christmas Tree Topper with Music & Lighting - Santa in a Hot Air Balloon, USB Type-C Powered",
         "followingAuctionCode": "0019927199"
+      },
+      {
+        "start": 1793255183490,
+        "end": 1793255239709,
+        "durationMin": 0.9,
+        "precedingSku": "8203511",
+        "precedingTitle": "Rotating Christmas Tree Topper with Music & Lighting - Santa in a Hot Air Balloon, USB Type-C Powered",
+        "precedingAuctionCode": "0019927199",
+        "followingSku": "8832314",
+        "followingTitle": "Cherry Bakewell Scented Wax Candle - Strawberry Pink",
+        "followingAuctionCode": "0019927219"
       }
     ],
-    "lastOnAirSku": "8203511",
-    "lastOnAirTitle": "Rotating Christmas Tree Topper with Music & Lighting - Santa in a Hot Air Balloon, USB Type-C Powered",
-    "lastOnAirAuctionCode": "0019927199",
+    "lastOnAirSku": "8832314",
+    "lastOnAirTitle": "Cherry Bakewell Scented Wax Candle - Strawberry Pink",
+    "lastOnAirAuctionCode": "0019927219",
     "precedingSku": "8203511",
     "precedingTitle": "Rotating Christmas Tree Topper with Music & Lighting - Santa in a Hot Air Balloon, USB Type-C Powered",
     "precedingAuctionCode": "0019927199"
