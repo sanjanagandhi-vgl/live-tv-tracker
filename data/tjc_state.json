@@ -481480,17 +481480,17 @@
       "firstAir": 1792757268202,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793038642368,
+      "lastAir": 1793263585552,
       "title": "Home -DIY (Size 60x103 cm) - Grey & Grey",
       "pdpPrice": null,
-      "auctionCode": "0019922768",
+      "auctionCode": "0019928001",
       "buy": true,
       "login": false,
       "img": false,
-      "date": "2026-10-26",
-      "time": "18:17:22",
+      "date": "2026-10-29",
+      "time": "08:46:25",
       "productUrl": null,
-      "lastUpdated": 1793038642368,
+      "lastUpdated": 1793263585552,
       "source": "gha",
       "missedAt": 1792758929552,
       "missedDelay": 2,
@@ -496250,8 +496250,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793263540530,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566728,11 +566728,22 @@
         "followingSku": "8795309",
         "followingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
         "followingAuctionCode": "0019928131"
+      },
+      {
+        "start": 1793263540530,
+        "end": 1793263585552,
+        "durationMin": 0.8,
+        "precedingSku": "8795309",
+        "precedingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+        "precedingAuctionCode": "0019928131",
+        "followingSku": "8106465",
+        "followingTitle": null,
+        "followingAuctionCode": "0019928001"
       }
     ],
-    "lastOnAirSku": "8795309",
-    "lastOnAirTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
-    "lastOnAirAuctionCode": "0019928131",
+    "lastOnAirSku": "8106465",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019928001",
     "precedingSku": "8795309",
     "precedingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
     "precedingAuctionCode": "0019928131"
