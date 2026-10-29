@@ -443008,9 +443008,16 @@
       "img": true,
       "date": "2026-10-29",
       "time": "00:50:43",
-      "productUrl": null,
-      "lastUpdated": 1793235043122,
-      "source": "gha"
+      "productUrl": "/products/9k-yellow-gold-hollow-6-sided-curb-chain-bracelet-7-5-inch-6-9-grams",
+      "lastUpdated": 1793280561577,
+      "source": "gha",
+      "missedAt": 1793280561577,
+      "missedDelay": 759,
+      "missedPrice": 699.99,
+      "missedImg": true,
+      "productUrlChecked": 1793280563830,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8791964": {
       "sku": "8791964",
@@ -497762,8 +497769,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793280561577,
     "gaps": [
       {
         "start": 1785823527869,
@@ -568454,8 +568461,8 @@
     "lastOnAirSku": "8669826",
     "lastOnAirTitle": "ONE TO OWN - Marceline Monogram Genuine Leather Structured Top-Handle Bag - Black Brown",
     "lastOnAirAuctionCode": "0019928111",
-    "precedingSku": "8436980",
-    "precedingTitle": "La Marey Pull-On Shirred Waist Culottes (Size 8-20) - Navy Blue",
-    "precedingAuctionCode": "0019928052"
+    "precedingSku": "8669826",
+    "precedingTitle": "ONE TO OWN - Marceline Monogram Genuine Leather Structured Top-Handle Bag - Black Brown",
+    "precedingAuctionCode": "0019928111"
   }
 }
