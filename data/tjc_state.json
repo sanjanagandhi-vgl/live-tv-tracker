@@ -107655,21 +107655,26 @@
       "sku": "8245394",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-08",
-      "time": "08:16:26",
+      "date": "2026-10-29",
+      "time": "14:39:22",
       "preExisting": true,
       "missedAt": 1786173386497,
       "missedDelay": null,
-      "lastUpdated": 1786173386497,
+      "lastUpdated": 1793284762912,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Harry Potter Magical Essence Men Wisdom EDP - 100ml",
-      "auctionCode": "0019810935",
+      "auctionCode": "0019927787",
       "source": "gha",
       "productUrl": "/products/harry-potter-magical-essence-man-edp-100ml",
       "productUrlChecked": 1786173393898,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793284762912,
+      "pdpPrice": "399.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8412037": {
       "sku": "8412037",
@@ -498047,8 +498052,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793284587849,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -568767,11 +568772,22 @@
         "followingSku": "8632892",
         "followingTitle": "La Marey Luxe Metallic Gold Pleated Maxi Skirt (Size L-XL, 16-22) - Pink",
         "followingAuctionCode": "0019928088"
+      },
+      {
+        "start": 1793284587849,
+        "end": 1793284762912,
+        "durationMin": 2.9,
+        "precedingSku": "8707757",
+        "precedingTitle": "LIVMORE  Rechargeable 800 Lumen Tactical LED Torch with 6 Light Modes - Pink",
+        "precedingAuctionCode": "0019927249",
+        "followingSku": "8245394",
+        "followingTitle": "Harry Potter Magical Essence Men Wisdom EDP - 100ml",
+        "followingAuctionCode": "0019927787"
       }
     ],
-    "lastOnAirSku": "8707757",
-    "lastOnAirTitle": "LIVMORE  Rechargeable 800 Lumen Tactical LED Torch with 6 Light Modes - Pink",
-    "lastOnAirAuctionCode": "0019927249",
+    "lastOnAirSku": "8245394",
+    "lastOnAirTitle": "Harry Potter Magical Essence Men Wisdom EDP - 100ml",
+    "lastOnAirAuctionCode": "0019927787",
     "precedingSku": "8707757",
     "precedingTitle": "LIVMORE  Rechargeable 800 Lumen Tactical LED Torch with 6 Light Modes - Pink",
     "precedingAuctionCode": "0019927249"
