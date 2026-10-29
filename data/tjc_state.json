@@ -496965,11 +496965,29 @@
       "missedDelay": 1,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8519966": {
+      "sku": "8519966",
+      "firstAir": 1793275883701,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793275883701,
+      "title": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 12) - Navy",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019928162",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-29",
+      "time": "12:11:23",
+      "productUrl": null,
+      "lastUpdated": 1793275883701,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793275763048,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -567600,11 +567618,22 @@
         "followingSku": "8226320",
         "followingTitle": "Emreco Bengaline Turn Up Short (Size 16) - Navy",
         "followingAuctionCode": "0019927274"
+      },
+      {
+        "start": 1793275763048,
+        "end": 1793275883701,
+        "durationMin": 2.0,
+        "precedingSku": "8226269",
+        "precedingTitle": "Emreco Short Sleeve Printed Top (Size 20) - Pink",
+        "precedingAuctionCode": "0019927319",
+        "followingSku": "8519966",
+        "followingTitle": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 12) - Navy",
+        "followingAuctionCode": "0019928162"
       }
     ],
-    "lastOnAirSku": "8226269",
-    "lastOnAirTitle": "Emreco Short Sleeve Printed Top (Size 20) - Pink",
-    "lastOnAirAuctionCode": "0019927319",
+    "lastOnAirSku": "8519966",
+    "lastOnAirTitle": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 12) - Navy",
+    "lastOnAirAuctionCode": "0019928162",
     "precedingSku": "8226269",
     "precedingTitle": "Emreco Short Sleeve Printed Top (Size 20) - Pink",
     "precedingAuctionCode": "0019927319"
