@@ -468602,23 +468602,23 @@
       "sku": "7261218",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-21",
-      "time": "06:26:20",
+      "date": "2026-10-29",
+      "time": "07:04:23",
       "preExisting": true,
       "missedAt": 1792312758541,
       "missedDelay": null,
-      "lastUpdated": 1792560380943,
+      "lastUpdated": 1793257463097,
       "missedPrice": 59.99,
       "missedImg": true,
       "title": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
-      "auctionCode": "0019917990",
+      "auctionCode": "0019927352",
       "source": "gha",
       "productUrl": "/products/homesmart-memory-foam-patterned-bedding-set-size-90x4-cm-white-white",
       "productUrlChecked": 1792312762166,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792560380943,
-      "pdpPrice": "59.99",
+      "lastAir": 1793257463097,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true
@@ -496161,8 +496161,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793257402417,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566573,11 +566573,22 @@
         "followingSku": "7576039",
         "followingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
         "followingAuctionCode": "0019927215"
+      },
+      {
+        "start": 1793257402417,
+        "end": 1793257463097,
+        "durationMin": 1.0,
+        "precedingSku": "7576039",
+        "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
+        "precedingAuctionCode": "0019927215",
+        "followingSku": "7261218",
+        "followingTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
+        "followingAuctionCode": "0019927352"
       }
     ],
-    "lastOnAirSku": "7576039",
-    "lastOnAirTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
-    "lastOnAirAuctionCode": "0019927215",
+    "lastOnAirSku": "7261218",
+    "lastOnAirTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
+    "lastOnAirAuctionCode": "0019927352",
     "precedingSku": "7576039",
     "precedingTitle": "40 PHILLIPS Batteries- 24x AA and 16x AAA - Power Alkaline with Long Life",
     "precedingAuctionCode": "0019927215"
