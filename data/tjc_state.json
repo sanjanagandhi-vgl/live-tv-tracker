@@ -167847,21 +167847,26 @@
       "sku": "8373886",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "10:40:38",
+      "date": "2026-10-29",
+      "time": "21:56:24",
       "preExisting": true,
       "missedAt": 1786786838434,
       "missedDelay": null,
-      "lastUpdated": 1786786838434,
+      "lastUpdated": 1793310984277,
       "missedPrice": 2789.99,
       "missedImg": true,
       "title": "Rhapsody 950 Platinum AGI Certified & Appraised AAAA Intense Vivid Tanzanite & (VS-E-F) Natural Diamond Halo Ring 3.20 Ct.",
-      "auctionCode": "0019821691",
+      "auctionCode": "0019927930",
       "source": "gha",
       "productUrl": "/products/rhapsody-950-platinum-agi-certified-appraised-aaaa-intense-vivid-tanzanite-vs-e-f-natural-diamond-ring-3-20-ct",
       "productUrlChecked": 1786786843981,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793310984277,
+      "pdpPrice": "2799.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8373887": {
       "sku": "8373887",
@@ -499103,8 +499108,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793310930281,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -570175,11 +570180,22 @@
         "followingSku": "8690903",
         "followingTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
         "followingAuctionCode": "0019929624"
+      },
+      {
+        "start": 1793310930281,
+        "end": 1793310984277,
+        "durationMin": 0.9,
+        "precedingSku": "8690903",
+        "precedingTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
+        "precedingAuctionCode": "0019929624",
+        "followingSku": "8373886",
+        "followingTitle": "Rhapsody 950 Platinum AGI Certified & Appraised AAAA Intense Vivid Tanzanite & (VS-E-F) Natural Diamond Halo Ring 3.20 Ct.",
+        "followingAuctionCode": "0019927930"
       }
     ],
-    "lastOnAirSku": "8690903",
-    "lastOnAirTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
-    "lastOnAirAuctionCode": "0019929624",
+    "lastOnAirSku": "8373886",
+    "lastOnAirTitle": "Rhapsody 950 Platinum AGI Certified & Appraised AAAA Intense Vivid Tanzanite & (VS-E-F) Natural Diamond Halo Ring 3.20 Ct.",
+    "lastOnAirAuctionCode": "0019927930",
     "precedingSku": "8690903",
     "precedingTitle": "Milan Close Out - 9K Yellow Gold Byzantino Circolare Necklace (Size - 20), Gold Wt.15.00 Gms",
     "precedingAuctionCode": "0019929624"
