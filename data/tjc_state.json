@@ -496247,11 +496247,29 @@
       "productUrlChecked": 1793259561752,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8745883": {
+      "sku": "8745883",
+      "firstAir": 1793265043619,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793265043619,
+      "title": "Solar Emergency Power Light Rechargable - 1200mAh Battery - Green",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019927332",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-29",
+      "time": "09:10:43",
+      "productUrl": null,
+      "lastUpdated": 1793265043619,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793264842186,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566750,11 +566768,22 @@
         "followingSku": "8754377",
         "followingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
         "followingAuctionCode": "0019928377"
+      },
+      {
+        "start": 1793264842186,
+        "end": 1793265043619,
+        "durationMin": 3.4,
+        "precedingSku": "8754377",
+        "precedingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
+        "precedingAuctionCode": "0019928377",
+        "followingSku": "8745883",
+        "followingTitle": "Solar Emergency Power Light Rechargable - 1200mAh Battery - Green",
+        "followingAuctionCode": "0019927332"
       }
     ],
-    "lastOnAirSku": "8754377",
-    "lastOnAirTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
-    "lastOnAirAuctionCode": "0019928377",
+    "lastOnAirSku": "8745883",
+    "lastOnAirTitle": "Solar Emergency Power Light Rechargable - 1200mAh Battery - Green",
+    "lastOnAirAuctionCode": "0019927332",
     "precedingSku": "8754377",
     "precedingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
     "precedingAuctionCode": "0019928377"
