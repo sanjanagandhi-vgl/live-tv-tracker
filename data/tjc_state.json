@@ -18383,21 +18383,22 @@
       "firstAir": 1785143663921,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785144141293,
+      "lastAir": 1793268442796,
       "title": "Dead Sea Dream Purifying Mineral Mud Mask - 150ml",
-      "pdpPrice": 16.99,
-      "auctionCode": "0019796062",
-      "buy": false,
+      "pdpPrice": "89.99",
+      "auctionCode": "0019927228",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-27",
-      "time": "10:22:21",
-      "lastUpdated": 1785144199636,
+      "date": "2026-10-29",
+      "time": "10:07:22",
+      "lastUpdated": 1793268442796,
       "source": "gha",
       "missedAt": 1785144199636,
       "missedDelay": 1,
       "missedPrice": 16.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8509507": {
       "sku": "8509507",
@@ -496298,8 +496299,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793268390325,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566809,11 +566810,22 @@
         "followingSku": "8745883",
         "followingTitle": "Solar Emergency Power Light Rechargable - 1200mAh Battery - Green",
         "followingAuctionCode": "0019927332"
+      },
+      {
+        "start": 1793268390325,
+        "end": 1793268442796,
+        "durationMin": 0.9,
+        "precedingSku": "8689613",
+        "precedingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
+        "precedingAuctionCode": "0019928501",
+        "followingSku": "7841258",
+        "followingTitle": "Dead Sea Dream Purifying Mineral Mud Mask - 150ml",
+        "followingAuctionCode": "0019927228"
       }
     ],
-    "lastOnAirSku": "8689613",
-    "lastOnAirTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
-    "lastOnAirAuctionCode": "0019928501",
+    "lastOnAirSku": "7841258",
+    "lastOnAirTitle": "Dead Sea Dream Purifying Mineral Mud Mask - 150ml",
+    "lastOnAirAuctionCode": "0019927228",
     "precedingSku": "8689613",
     "precedingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
     "precedingAuctionCode": "0019928501"
