@@ -194934,21 +194934,26 @@
       "sku": "8097756",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "08:40:38",
+      "date": "2026-10-29",
+      "time": "12:50:45",
       "preExisting": true,
       "missedAt": 1787125238111,
       "missedDelay": null,
-      "lastUpdated": 1787125238111,
+      "lastUpdated": 1793278245605,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Emreco Fleece Lined Pull On Bengaline Trouser (Size 20) - Stone",
-      "auctionCode": "0019829091",
+      "title": "Emreco Fleece Lined Pull On Bengaline Trouser (Size 10) - Stone",
+      "auctionCode": "0019928026",
       "source": "gha",
       "productUrl": "/products/emreco-woven-jean-and-pant-trouser",
       "productUrlChecked": 1787125242802,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793278245605,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8134058": {
       "sku": "8134058",
@@ -497706,8 +497711,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793278160553,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -568360,11 +568365,22 @@
         "followingSku": "8521707",
         "followingTitle": "Emreco Jean Style Stretch Trousers (Size 20) - Chocolate",
         "followingAuctionCode": "0019927367"
+      },
+      {
+        "start": 1793278160553,
+        "end": 1793278245605,
+        "durationMin": 1.4,
+        "precedingSku": "7976394",
+        "precedingTitle": "Tamsy Boat Neck Batwing Sleeve Jumper (One Size 8-18) - Light Grey",
+        "precedingAuctionCode": "0019928053",
+        "followingSku": "8097756",
+        "followingTitle": "Emreco Fleece Lined Pull On Bengaline Trouser (Size 10) - Stone",
+        "followingAuctionCode": "0019928026"
       }
     ],
-    "lastOnAirSku": "7976394",
-    "lastOnAirTitle": "Tamsy Boat Neck Batwing Sleeve Jumper (One Size 8-18) - Light Grey",
-    "lastOnAirAuctionCode": "0019928053",
+    "lastOnAirSku": "8097756",
+    "lastOnAirTitle": "Emreco Fleece Lined Pull On Bengaline Trouser (Size 10) - Stone",
+    "lastOnAirAuctionCode": "0019928026",
     "precedingSku": "7976394",
     "precedingTitle": "Tamsy Boat Neck Batwing Sleeve Jumper (One Size 8-18) - Light Grey",
     "precedingAuctionCode": "0019928053"
