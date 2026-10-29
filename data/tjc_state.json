@@ -7349,16 +7349,16 @@
       "firstAir": 1784929942806,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791072437599,
+      "lastAir": 1793294187987,
       "title": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
-      "pdpPrice": "199.99",
-      "auctionCode": "0019896033",
+      "pdpPrice": "969.99",
+      "auctionCode": "0019928511",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-04",
-      "time": "01:07:17",
-      "lastUpdated": 1791072437599,
+      "date": "2026-10-29",
+      "time": "17:16:27",
+      "lastUpdated": 1793294187987,
       "source": "gha",
       "missedAt": 1784930728239,
       "missedDelay": 2,
@@ -498583,8 +498583,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793294067706,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -569424,11 +569424,22 @@
         "followingSku": "8828854",
         "followingTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
         "followingAuctionCode": "0019926459"
+      },
+      {
+        "start": 1793294067706,
+        "end": 1793294187987,
+        "durationMin": 2.0,
+        "precedingSku": "8828854",
+        "precedingTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
+        "precedingAuctionCode": null,
+        "followingSku": "8055959",
+        "followingTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
+        "followingAuctionCode": "0019928511"
       }
     ],
-    "lastOnAirSku": "8828854",
-    "lastOnAirTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8055959",
+    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Spiga Necklace (Size 16) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019928511",
     "precedingSku": "8828854",
     "precedingTitle": "9K Yellow Gold 4-Way Triple-Knot Pendant",
     "precedingAuctionCode": null
