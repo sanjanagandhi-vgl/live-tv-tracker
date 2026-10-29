@@ -496429,11 +496429,29 @@
       "productUrlChecked": 1793272105839,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8686520": {
+      "sku": "8686520",
+      "firstAir": 1793273962022,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793273962022,
+      "title": "La Marey Soft Lightweight Printed Scarf (Size 168 x 36Cm) - Yellow",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019928119",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-10-29",
+      "time": "11:39:22",
+      "productUrl": null,
+      "lastUpdated": 1793273962022,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793273731596,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -567042,11 +567060,22 @@
         "followingSku": "8520796",
         "followingTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
         "followingAuctionCode": "0019927541"
+      },
+      {
+        "start": 1793273731596,
+        "end": 1793273962022,
+        "durationMin": 3.8,
+        "precedingSku": "8520801",
+        "precedingTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
+        "precedingAuctionCode": "0019927566",
+        "followingSku": "8686520",
+        "followingTitle": "La Marey Soft Lightweight Printed Scarf (Size 168 x 36Cm) - Yellow",
+        "followingAuctionCode": "0019928119"
       }
     ],
-    "lastOnAirSku": "8520801",
-    "lastOnAirTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
-    "lastOnAirAuctionCode": "0019927566",
+    "lastOnAirSku": "8686520",
+    "lastOnAirTitle": "La Marey Soft Lightweight Printed Scarf (Size 168 x 36Cm) - Yellow",
+    "lastOnAirAuctionCode": "0019928119",
     "precedingSku": "8520801",
     "precedingTitle": "Emreco Womens Suedette Pocket Detail Lightweight Jacket (Size 20) - Khaki",
     "precedingAuctionCode": "0019927566"
