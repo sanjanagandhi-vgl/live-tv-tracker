@@ -498659,11 +498659,29 @@
       "missedDelay": 1,
       "missedPrice": 19.99,
       "missedImg": true
+    },
+    "3674131": {
+      "sku": "3674131",
+      "firstAir": 1793298386026,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793298386026,
+      "title": "D'Joy - Natural White Diamond Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019928910",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-29",
+      "time": "18:26:26",
+      "productUrl": null,
+      "lastUpdated": 1793298386026,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793298331235,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -569547,11 +569565,22 @@
         "followingSku": "8675533",
         "followingTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019928960"
+      },
+      {
+        "start": 1793298331235,
+        "end": 1793298386026,
+        "durationMin": 0.9,
+        "precedingSku": "8675533",
+        "precedingTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019928960",
+        "followingSku": "3674131",
+        "followingTitle": "D'Joy - Natural White Diamond Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019928910"
       }
     ],
-    "lastOnAirSku": "8675533",
-    "lastOnAirTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019928960",
+    "lastOnAirSku": "3674131",
+    "lastOnAirTitle": "D'Joy - Natural White Diamond Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019928910",
     "precedingSku": "8675533",
     "precedingTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019928960"
