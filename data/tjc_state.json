@@ -492099,17 +492099,17 @@
       "firstAir": 1793114732772,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793114961470,
-      "title": "Emreco Plain Chenille Jumper (Size XL, 20-22) - Turquoise",
+      "lastAir": 1793272946513,
+      "title": "Emreco Plain Chenille Jumper (Size S, 8-10) - Khaki",
       "pdpPrice": "27.99",
-      "auctionCode": "0019924830",
+      "auctionCode": "0019927529",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-27",
-      "time": "15:29:21",
+      "date": "2026-10-29",
+      "time": "11:22:26",
       "productUrl": "/products/emreco-jumper-size-large-denim-8523219",
-      "lastUpdated": 1793115060264,
+      "lastUpdated": 1793272946513,
       "source": "gha",
       "missedAt": 1793115060264,
       "missedDelay": 2,
@@ -496400,8 +496400,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793272881266,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566988,11 +566988,22 @@
         "followingSku": "8520806",
         "followingTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
         "followingAuctionCode": "0019928031"
+      },
+      {
+        "start": 1793272881266,
+        "end": 1793272946513,
+        "durationMin": 1.1,
+        "precedingSku": "8520806",
+        "precedingTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
+        "precedingAuctionCode": "0019928031",
+        "followingSku": "8523221",
+        "followingTitle": "Emreco Plain Chenille Jumper (Size S, 8-10) - Khaki",
+        "followingAuctionCode": "0019927529"
       }
     ],
-    "lastOnAirSku": "8520806",
-    "lastOnAirTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
-    "lastOnAirAuctionCode": "0019928031",
+    "lastOnAirSku": "8523221",
+    "lastOnAirTitle": "Emreco Plain Chenille Jumper (Size S, 8-10) - Khaki",
+    "lastOnAirAuctionCode": "0019927529",
     "precedingSku": "8520806",
     "precedingTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
     "precedingAuctionCode": "0019928031"
