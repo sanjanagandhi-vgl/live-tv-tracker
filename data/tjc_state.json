@@ -496362,14 +496362,21 @@
       "img": true,
       "date": "2026-10-29",
       "time": "10:46:24",
-      "productUrl": null,
-      "lastUpdated": 1793270784087,
-      "source": "gha"
+      "productUrl": "/products/doctors-formula-marine-collagen-illuminating-cleansing-balm-150ml-221332438",
+      "lastUpdated": 1793270840328,
+      "source": "gha",
+      "missedAt": 1793270840328,
+      "missedDelay": 1,
+      "missedPrice": 34.99,
+      "missedImg": true,
+      "productUrlChecked": 1793270842596,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793270840328,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566917,8 +566924,8 @@
     "lastOnAirSku": "221332438",
     "lastOnAirTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
     "lastOnAirAuctionCode": "0019928018",
-    "precedingSku": "8509507",
-    "precedingTitle": "Dead Sea Dream Hand & Foot Cream Duo Bundle (150ml - 50ml)",
-    "precedingAuctionCode": "0019927226"
+    "precedingSku": "221332438",
+    "precedingTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
+    "precedingAuctionCode": "0019928018"
   }
 }
