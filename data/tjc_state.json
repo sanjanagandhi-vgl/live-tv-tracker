@@ -496158,11 +496158,29 @@
       "auctionCode": "0019927231",
       "source": "gha",
       "productUrl": null
+    },
+    "8225769": {
+      "sku": "8225769",
+      "firstAir": 1793257999801,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793257999801,
+      "title": "100% Mulberry Silk Quilt with Butterfly Quilting (Double) - Off White",
+      "pdpPrice": "599.99",
+      "auctionCode": "0019927349",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-29",
+      "time": "07:13:19",
+      "productUrl": null,
+      "lastUpdated": 1793257999801,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793257943994,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566584,11 +566602,22 @@
         "followingSku": "7261218",
         "followingTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
         "followingAuctionCode": "0019927352"
+      },
+      {
+        "start": 1793257943994,
+        "end": 1793257999801,
+        "durationMin": 0.9,
+        "precedingSku": "7261218",
+        "precedingTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
+        "precedingAuctionCode": "0019927352",
+        "followingSku": "8225769",
+        "followingTitle": "100% Mulberry Silk Quilt with Butterfly Quilting (Double) - Off White",
+        "followingAuctionCode": "0019927349"
       }
     ],
-    "lastOnAirSku": "7261218",
-    "lastOnAirTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
-    "lastOnAirAuctionCode": "0019927352",
+    "lastOnAirSku": "8225769",
+    "lastOnAirTitle": "100% Mulberry Silk Quilt with Butterfly Quilting (Double) - Off White",
+    "lastOnAirAuctionCode": "0019927349",
     "precedingSku": "7261218",
     "precedingTitle": "7 Zone Contoured Memory Foam Deluxe Mattress Topper- (Double Size, 135x190x4 cm)",
     "precedingAuctionCode": "0019927352"
