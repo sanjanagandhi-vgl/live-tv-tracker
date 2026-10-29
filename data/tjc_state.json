@@ -11188,21 +11188,22 @@
       "firstAir": 1785000724422,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785001398570,
-      "title": "Stretchable Barrell Bracelet (Size - 6.75) in Yellow Gold Plated Sterling Silver",
-      "pdpPrice": 29.99,
-      "auctionCode": "0019795019",
-      "buy": false,
-      "login": true,
-      "img": false,
-      "date": "2026-07-25",
-      "time": "18:43:18",
-      "lastUpdated": 1785001585296,
+      "lastAir": 1793298047444,
+      "title": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
+      "pdpPrice": "1599.99",
+      "auctionCode": "0019928960",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-29",
+      "time": "18:20:47",
+      "lastUpdated": 1793298047444,
       "source": "gha",
       "missedAt": 1785001585296,
       "missedDelay": 3,
       "missedPrice": 29.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8553007": {
       "sku": "8553007",
@@ -498661,8 +498662,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793297960718,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -569535,11 +569536,22 @@
         "followingSku": "7709840",
         "followingTitle": "Moissanite Solitaire Stud Earrings in 18K Vermeil Yellow Gold Plated Sterling Silver 1.14 Ct.",
         "followingAuctionCode": null
+      },
+      {
+        "start": 1793297960718,
+        "end": 1793298047444,
+        "durationMin": 1.4,
+        "precedingSku": "8615962",
+        "precedingTitle": "D'Joy - Premium White Edison Pearl (10-11mm) Stud Ball Earring with Push Back in Rhodium Overlay Sterling Silver 15.34 Ct.",
+        "precedingAuctionCode": "0019928975",
+        "followingSku": "8675533",
+        "followingTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019928960"
       }
     ],
-    "lastOnAirSku": "8615962",
-    "lastOnAirTitle": "D'Joy - Premium White Edison Pearl (10-11mm) Stud Ball Earring with Push Back in Rhodium Overlay Sterling Silver 15.34 Ct.",
-    "lastOnAirAuctionCode": "0019928975",
+    "lastOnAirSku": "8675533",
+    "lastOnAirTitle": "Italian Made - Stretchable Barrel Bracelet (Size - 6.75 - 9 in) Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019928960",
     "precedingSku": "8615962",
     "precedingTitle": "D'Joy - Premium White Edison Pearl (10-11mm) Stud Ball Earring with Push Back in Rhodium Overlay Sterling Silver 15.34 Ct.",
     "precedingAuctionCode": "0019928975"
