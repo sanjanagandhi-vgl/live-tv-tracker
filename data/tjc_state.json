@@ -497741,11 +497741,29 @@
       "auctionCode": "0019928057",
       "source": "gha",
       "productUrl": null
+    },
+    "8669826": {
+      "sku": "8669826",
+      "firstAir": 1793279445097,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793279445097,
+      "title": "ONE TO OWN - Marceline Monogram Genuine Leather Structured Top-Handle Bag - Black Brown",
+      "pdpPrice": "1259.99",
+      "auctionCode": "0019928111",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-29",
+      "time": "13:10:45",
+      "productUrl": null,
+      "lastUpdated": 1793279445097,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793279002082,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -568420,11 +568438,22 @@
         "followingSku": "8097744",
         "followingTitle": "Emreco Fleece Lined Pull On Bengaline Trousers With 29 Inch Leg (Size 10) - Chocolate",
         "followingAuctionCode": "0019928027"
+      },
+      {
+        "start": 1793279002082,
+        "end": 1793279445097,
+        "durationMin": 7.4,
+        "precedingSku": "8436980",
+        "precedingTitle": "La Marey Pull-On Shirred Waist Culottes (Size 8-20) - Navy Blue",
+        "precedingAuctionCode": "0019928052",
+        "followingSku": "8669826",
+        "followingTitle": "ONE TO OWN - Marceline Monogram Genuine Leather Structured Top-Handle Bag - Black Brown",
+        "followingAuctionCode": "0019928111"
       }
     ],
-    "lastOnAirSku": "8436980",
-    "lastOnAirTitle": "La Marey Pull-On Shirred Waist Culottes (Size 8-20) - Navy Blue",
-    "lastOnAirAuctionCode": "0019928052",
+    "lastOnAirSku": "8669826",
+    "lastOnAirTitle": "ONE TO OWN - Marceline Monogram Genuine Leather Structured Top-Handle Bag - Black Brown",
+    "lastOnAirAuctionCode": "0019928111",
     "precedingSku": "8436980",
     "precedingTitle": "La Marey Pull-On Shirred Waist Culottes (Size 8-20) - Navy Blue",
     "precedingAuctionCode": "0019928052"
