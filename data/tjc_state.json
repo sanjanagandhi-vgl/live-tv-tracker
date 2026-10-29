@@ -81199,21 +81199,26 @@
       "sku": "8569846",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-05",
-      "time": "19:12:23",
+      "date": "2026-10-29",
+      "time": "18:31:02",
       "preExisting": true,
       "missedAt": 1785953543273,
       "missedDelay": null,
-      "lastUpdated": 1785953543273,
+      "lastUpdated": 1793298662548,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "D'Joy - Natural Chrome Diopside Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
-      "auctionCode": "0019807969",
+      "auctionCode": "0019928976",
       "source": "gha",
       "productUrl": "/products/djoy-natural-chrome-diopside-earring-in-sterling-silver-0-800-ct-6018569845",
       "productUrlChecked": 1785953549317,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793298662548,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8704404": {
       "sku": "8704404",
@@ -498735,8 +498740,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793298505222,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -569631,11 +569636,22 @@
         "followingSku": "3674131",
         "followingTitle": "D'Joy - Natural White Diamond Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019928910"
+      },
+      {
+        "start": 1793298505222,
+        "end": 1793298662548,
+        "durationMin": 2.6,
+        "precedingSku": "3674131",
+        "precedingTitle": "D'Joy - Natural White Diamond Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019928910",
+        "followingSku": "8569846",
+        "followingTitle": "D'Joy - Natural Chrome Diopside Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019928976"
       }
     ],
-    "lastOnAirSku": "3674131",
-    "lastOnAirTitle": "D'Joy - Natural White Diamond Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019928910",
+    "lastOnAirSku": "8569846",
+    "lastOnAirTitle": "D'Joy - Natural Chrome Diopside Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019928976",
     "precedingSku": "3674131",
     "precedingTitle": "D'Joy - Natural White Diamond Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019928910"
