@@ -153117,17 +153117,17 @@
       "firstAir": 1786630004940,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793180187352,
+      "lastAir": 1793250383433,
       "title": "24K Yellow Gold Horse Design Frame",
-      "pdpPrice": 69.99,
-      "auctionCode": null,
+      "pdpPrice": "299.99",
+      "auctionCode": "0019927076",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-28",
-      "time": "09:36:27",
+      "date": "2026-10-29",
+      "time": "05:06:23",
       "productUrl": "/products/24k-yellow-gold-mg-standard-accessories-gold-wt-10-gms-8522316?variant=53364286292234",
-      "lastUpdated": 1793180187352,
+      "lastUpdated": 1793250383433,
       "source": "gha",
       "missedAt": 1786631961580,
       "missedDelay": 10,
@@ -496097,8 +496097,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793250330273,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566410,11 +566410,22 @@
         "followingSku": "8433852",
         "followingTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
         "followingAuctionCode": "0019927082"
+      },
+      {
+        "start": 1793250330273,
+        "end": 1793250383433,
+        "durationMin": 0.9,
+        "precedingSku": "8433852",
+        "precedingTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
+        "precedingAuctionCode": "0019927082",
+        "followingSku": "8522316",
+        "followingTitle": "24K Yellow Gold Horse Design Frame",
+        "followingAuctionCode": "0019927076"
       }
     ],
-    "lastOnAirSku": "8433852",
-    "lastOnAirTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
-    "lastOnAirAuctionCode": "0019927082",
+    "lastOnAirSku": "8522316",
+    "lastOnAirTitle": "24K Yellow Gold Horse Design Frame",
+    "lastOnAirAuctionCode": "0019927076",
     "precedingSku": "8433852",
     "precedingTitle": "24K Yellow Gold (99.9 % Purity) Phoenix Pattern Collectable",
     "precedingAuctionCode": "0019927082"
