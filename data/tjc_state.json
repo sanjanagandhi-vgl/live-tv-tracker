@@ -17837,16 +17837,16 @@
       "firstAir": 1785132438765,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792123877221,
+      "lastAir": 1793247862378,
       "title": "9K Yellow Gold Hoop Earring",
       "pdpPrice": "199.99",
-      "auctionCode": "0019910228",
+      "auctionCode": "0019927031",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-16",
-      "time": "05:11:17",
-      "lastUpdated": 1792123877221,
+      "date": "2026-10-29",
+      "time": "04:24:22",
+      "lastUpdated": 1793247862378,
       "source": "gha",
       "missedAt": 1785132891998,
       "missedDelay": 2,
@@ -496094,8 +496094,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793247799203,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566363,11 +566363,22 @@
         "followingSku": "8572443",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
         "followingAuctionCode": "0019927030"
+      },
+      {
+        "start": 1793247799203,
+        "end": 1793247862378,
+        "durationMin": 1.1,
+        "precedingSku": "8572443",
+        "precedingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
+        "precedingAuctionCode": "0019927030",
+        "followingSku": "8588299",
+        "followingTitle": "9K Yellow Gold Hoop Earring",
+        "followingAuctionCode": "0019927031"
       }
     ],
-    "lastOnAirSku": "8572443",
-    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
-    "lastOnAirAuctionCode": "0019927030",
+    "lastOnAirSku": "8588299",
+    "lastOnAirTitle": "9K Yellow Gold Hoop Earring",
+    "lastOnAirAuctionCode": "0019927031",
     "precedingSku": "8572443",
     "precedingTitle": "Designer Inspired- 9K Yellow Gold Stud Earring with Push Back",
     "precedingAuctionCode": "0019927030"
