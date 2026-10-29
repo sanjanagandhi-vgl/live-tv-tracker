@@ -496387,14 +496387,21 @@
       "img": false,
       "date": "2026-10-29",
       "time": "11:07:20",
-      "productUrl": null,
-      "lastUpdated": 1793272040689,
-      "source": "gha"
+      "productUrl": "/products/mega-clearance-deal-221340987",
+      "lastUpdated": 1793272103454,
+      "source": "gha",
+      "missedAt": 1793272103454,
+      "missedDelay": 1,
+      "missedPrice": 29.96,
+      "missedImg": false,
+      "productUrlChecked": 1793272105839,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793272103454,
     "gaps": [
       {
         "start": 1785823527869,
@@ -566953,8 +566960,8 @@
     "lastOnAirSku": "221340987",
     "lastOnAirTitle": "Mega Clearance Deal - Laurelle London 4 Piece Fragrance Set (Royal Ring Blue & Gold EDP 80ml each, Royale Gold EDT & My Mic EDP 100ml each)",
     "lastOnAirAuctionCode": "0019928013",
-    "precedingSku": "221332438",
-    "precedingTitle": "Doctors Formula- Marine Collagen - Illuminating Cleansing Balm - 150ml",
-    "precedingAuctionCode": "0019928018"
+    "precedingSku": "221340987",
+    "precedingTitle": "Mega Clearance Deal - Laurelle London 4 Piece Fragrance Set (Royal Ring Blue & Gold EDP 80ml each, Royale Gold EDT & My Mic EDP 100ml each)",
+    "precedingAuctionCode": "0019928013"
   }
 }
