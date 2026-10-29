@@ -497006,8 +497006,12 @@
       "date": "2026-10-29",
       "time": "12:19:19",
       "productUrl": null,
-      "lastUpdated": 1793276359550,
-      "source": "gha"
+      "lastUpdated": 1793276443039,
+      "source": "gha",
+      "missedAt": 1793276443039,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": true
     },
     "8519970": {
       "sku": "8519970",
@@ -497108,11 +497112,96 @@
       "productUrlChecked": 1793276243918,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8519964": {
+      "sku": "8519964",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-29",
+      "time": "12:20:43",
+      "preExisting": true,
+      "missedAt": 1793276443039,
+      "missedDelay": null,
+      "lastUpdated": 1793276443039,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 20) - Navy",
+      "auctionCode": "0019928171",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8519963": {
+      "sku": "8519963",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-29",
+      "time": "12:20:43",
+      "preExisting": true,
+      "missedAt": 1793276443039,
+      "missedDelay": null,
+      "lastUpdated": 1793276443039,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 18) - Navy",
+      "auctionCode": "0019928170",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8519962": {
+      "sku": "8519962",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-29",
+      "time": "12:20:43",
+      "preExisting": true,
+      "missedAt": 1793276443039,
+      "missedDelay": null,
+      "lastUpdated": 1793276443039,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 16) - Navy",
+      "auctionCode": "0019928169",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8519961": {
+      "sku": "8519961",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-29",
+      "time": "12:20:43",
+      "preExisting": true,
+      "missedAt": 1793276443039,
+      "missedDelay": null,
+      "lastUpdated": 1793276443039,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 14) - Navy",
+      "auctionCode": "0019928168",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8519959": {
+      "sku": "8519959",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-29",
+      "time": "12:20:43",
+      "preExisting": true,
+      "missedAt": 1793276443039,
+      "missedDelay": null,
+      "lastUpdated": 1793276443039,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "title": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 12) - Navy",
+      "auctionCode": "0019928167",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793276443039,
     "gaps": [
       {
         "start": 1785823527869,
@@ -567759,8 +567848,8 @@
     "lastOnAirSku": "8519960",
     "lastOnAirTitle": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 12) - Navy",
     "lastOnAirAuctionCode": "0019928156",
-    "precedingSku": "8226269",
-    "precedingTitle": "Emreco Short Sleeve Printed Top (Size 20) - Pink",
-    "precedingAuctionCode": "0019927319"
+    "precedingSku": "8519960",
+    "precedingTitle": "Emreco Classic Zebra Print 3-4 Sleeve Collared Blouse (Size 12) - Navy",
+    "precedingAuctionCode": "0019928156"
   }
 }
