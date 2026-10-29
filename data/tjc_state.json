@@ -498737,11 +498737,29 @@
       "auctionCode": "0019928913",
       "source": "gha",
       "productUrl": null
+    },
+    "8770542": {
+      "sku": "8770542",
+      "firstAir": 1793298865658,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793298865658,
+      "title": "Christmas Special -  Multi Colour Crystal and Pearl Charm Necklace (Size - 20-2 Ext)",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019929782",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-29",
+      "time": "18:34:25",
+      "productUrl": null,
+      "lastUpdated": 1793298865658,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793298746665,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -569647,11 +569665,22 @@
         "followingSku": "8569846",
         "followingTitle": "D'Joy - Natural Chrome Diopside Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
         "followingAuctionCode": "0019928976"
+      },
+      {
+        "start": 1793298746665,
+        "end": 1793298865658,
+        "durationMin": 2.0,
+        "precedingSku": "8569846",
+        "precedingTitle": "D'Joy - Natural Chrome Diopside Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
+        "precedingAuctionCode": "0019928976",
+        "followingSku": "8770542",
+        "followingTitle": "Christmas Special -  Multi Colour Crystal and Pearl Charm Necklace (Size - 20-2 Ext)",
+        "followingAuctionCode": "0019929782"
       }
     ],
-    "lastOnAirSku": "8569846",
-    "lastOnAirTitle": "D'Joy - Natural Chrome Diopside Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
-    "lastOnAirAuctionCode": "0019928976",
+    "lastOnAirSku": "8770542",
+    "lastOnAirTitle": "Christmas Special -  Multi Colour Crystal and Pearl Charm Necklace (Size - 20-2 Ext)",
+    "lastOnAirAuctionCode": "0019929782",
     "precedingSku": "8569846",
     "precedingTitle": "D'Joy - Natural Chrome Diopside Stud Earring with Push Back in Yellow Gold Plated Sterling Silver",
     "precedingAuctionCode": "0019928976"
