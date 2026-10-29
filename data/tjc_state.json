@@ -194874,21 +194874,26 @@
       "sku": "8097744",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-19",
-      "time": "08:38:23",
+      "date": "2026-10-29",
+      "time": "12:52:24",
       "preExisting": true,
       "missedAt": 1787125103166,
       "missedDelay": null,
-      "lastUpdated": 1787125103166,
+      "lastUpdated": 1793278344161,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Fleece Lined Pull On Bengaline Trouser 29 (Size - 20) - Black",
-      "auctionCode": "0019829088",
+      "title": "Emreco Fleece Lined Pull On Bengaline Trousers With 29 Inch Leg (Size 10) - Chocolate",
+      "auctionCode": "0019928027",
       "source": "gha",
       "productUrl": "/products/fleece-lined-pull-on-bengaline-trouser",
       "productUrlChecked": 1787125107346,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793278344161,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8097742": {
       "sku": "8097742",
@@ -497711,8 +497716,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793278282154,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -568376,11 +568381,22 @@
         "followingSku": "8097756",
         "followingTitle": "Emreco Fleece Lined Pull On Bengaline Trouser (Size 10) - Stone",
         "followingAuctionCode": "0019928026"
+      },
+      {
+        "start": 1793278282154,
+        "end": 1793278344161,
+        "durationMin": 1.0,
+        "precedingSku": "8097756",
+        "precedingTitle": "Emreco Fleece Lined Pull On Bengaline Trouser (Size 10) - Stone",
+        "precedingAuctionCode": "0019928026",
+        "followingSku": "8097744",
+        "followingTitle": "Emreco Fleece Lined Pull On Bengaline Trousers With 29 Inch Leg (Size 10) - Chocolate",
+        "followingAuctionCode": "0019928027"
       }
     ],
-    "lastOnAirSku": "8097756",
-    "lastOnAirTitle": "Emreco Fleece Lined Pull On Bengaline Trouser (Size 10) - Stone",
-    "lastOnAirAuctionCode": "0019928026",
+    "lastOnAirSku": "8097744",
+    "lastOnAirTitle": "Emreco Fleece Lined Pull On Bengaline Trousers With 29 Inch Leg (Size 10) - Chocolate",
+    "lastOnAirAuctionCode": "0019928027",
     "precedingSku": "8097756",
     "precedingTitle": "Emreco Fleece Lined Pull On Bengaline Trouser (Size 10) - Stone",
     "precedingAuctionCode": "0019928026"
