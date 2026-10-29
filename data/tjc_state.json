@@ -498064,9 +498064,16 @@
       "img": true,
       "date": "2026-10-29",
       "time": "15:09:25",
-      "productUrl": null,
-      "lastUpdated": 1793286565563,
-      "source": "gha"
+      "productUrl": "/products/exclusive-uk-launch-harry-potter-magical-essence-woman-mystic-edp-30ml",
+      "lastUpdated": 1793286642248,
+      "source": "gha",
+      "missedAt": 1793286642248,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1793286644226,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8245384": {
       "sku": "8245384",
@@ -498107,11 +498114,31 @@
       "productUrlChecked": 1793286083322,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8356491": {
+      "sku": "8356491",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-29",
+      "time": "15:10:42",
+      "preExisting": true,
+      "missedAt": 1793286642248,
+      "missedDelay": null,
+      "lastUpdated": 1793286642248,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "EXCLUSIVE - Harry Potter Magical Essence Man Legendary EDP - 50ml",
+      "auctionCode": "0019927802",
+      "source": "gha",
+      "productUrl": "/products/exclusive-uk-launch-harry-potter-magical-essence-woman-mystic-edp-30ml",
+      "productUrlChecked": 1793286644794,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793286642248,
     "gaps": [
       {
         "start": 1785823527869,
@@ -568846,8 +568873,8 @@
     "lastOnAirSku": "8356159",
     "lastOnAirTitle": "EXCLUSIVE - Harry Potter Magical Essence Woman Mystic EDP - 30ml",
     "lastOnAirAuctionCode": "0019927796",
-    "precedingSku": "8707757",
-    "precedingTitle": "LIVMORE  Rechargeable 800 Lumen Tactical LED Torch with 6 Light Modes - Pink",
-    "precedingAuctionCode": "0019927249"
+    "precedingSku": "8356159",
+    "precedingTitle": "EXCLUSIVE - Harry Potter Magical Essence Woman Mystic EDP - 30ml",
+    "precedingAuctionCode": "0019927796"
   }
 }
