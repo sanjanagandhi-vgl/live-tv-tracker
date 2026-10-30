@@ -12685,17 +12685,23 @@
       "sku": "8433677",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-26",
-      "time": "01:51:33",
+      "date": "2026-10-30",
+      "time": "11:21:21",
       "preExisting": true,
       "missedAt": 1785027093122,
       "missedDelay": null,
-      "lastUpdated": 1785027093122,
+      "lastUpdated": 1793359281059,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Golden Shell Pearl Beads Necklace (Size - 18.5-2 Ext) in Silver Tone",
-      "auctionCode": "0019794972",
-      "source": "gha"
+      "title": "White Shell Pearl Beads Necklace (Size - 18.5+2 Ext) in Silver Tone",
+      "auctionCode": "0019928350",
+      "source": "gha",
+      "lastAir": 1793359281059,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8481390": {
       "sku": "8481390",
@@ -500697,8 +500703,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793359242596,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572209,11 +572215,22 @@
         "followingSku": "1988038",
         "followingTitle": "Set of 2 - Multi Colour and Green Murano Style Basket Earrings in Stainless Steel",
         "followingAuctionCode": "0019928340"
+      },
+      {
+        "start": 1793359242596,
+        "end": 1793359281059,
+        "durationMin": 0.6,
+        "precedingSku": "4465004",
+        "precedingTitle": "Set of 2 - White Crystal Dragon Enamelled Bangle & Push Back Earrings in Silver & Yellow Gold Tone",
+        "precedingAuctionCode": null,
+        "followingSku": "8433677",
+        "followingTitle": "White Shell Pearl Beads Necklace (Size - 18.5+2 Ext) in Silver Tone",
+        "followingAuctionCode": "0019928350"
       }
     ],
-    "lastOnAirSku": "4465004",
-    "lastOnAirTitle": "Set of 2 - White Crystal Dragon Enamelled Bangle & Push Back Earrings in Silver & Yellow Gold Tone",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8433677",
+    "lastOnAirTitle": "White Shell Pearl Beads Necklace (Size - 18.5+2 Ext) in Silver Tone",
+    "lastOnAirAuctionCode": "0019928350",
     "precedingSku": "4465004",
     "precedingTitle": "Set of 2 - White Crystal Dragon Enamelled Bangle & Push Back Earrings in Silver & Yellow Gold Tone",
     "precedingAuctionCode": null
