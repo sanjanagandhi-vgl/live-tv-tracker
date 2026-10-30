@@ -502071,8 +502071,12 @@
       "date": "2026-10-30",
       "time": "16:39:21",
       "productUrl": null,
-      "lastUpdated": 1793378361143,
-      "source": "gha"
+      "lastUpdated": 1793378442628,
+      "source": "gha",
+      "missedAt": 1793378442628,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
     },
     "8832236": {
       "sku": "8832236",
@@ -502173,11 +502177,96 @@
       "productUrlChecked": 1793378138287,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8832242": {
+      "sku": "8832242",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "16:40:42",
+      "preExisting": true,
+      "missedAt": 1793378442628,
+      "missedDelay": null,
+      "lastUpdated": 1793378442628,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Pure And Natural Rhinestone Star Brushed Jumper (Size 20) - Ivory",
+      "auctionCode": "0019930766",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8832241": {
+      "sku": "8832241",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "16:40:42",
+      "preExisting": true,
+      "missedAt": 1793378442628,
+      "missedDelay": null,
+      "lastUpdated": 1793378442628,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Pure And Natural Rhinestone Star Brushed Jumper (Size 18) - Ivory",
+      "auctionCode": "0019930765",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8832240": {
+      "sku": "8832240",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "16:40:42",
+      "preExisting": true,
+      "missedAt": 1793378442628,
+      "missedDelay": null,
+      "lastUpdated": 1793378442628,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Pure And Natural Rhinestone Star Brushed Jumper (Size 16) - Ivory",
+      "auctionCode": "0019930764",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8832239": {
+      "sku": "8832239",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "16:40:42",
+      "preExisting": true,
+      "missedAt": 1793378442628,
+      "missedDelay": null,
+      "lastUpdated": 1793378442628,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Pure And Natural Rhinestone Star Brushed Jumper (Size 14) - Ivory",
+      "auctionCode": "0019930763",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8832237": {
+      "sku": "8832237",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "16:40:42",
+      "preExisting": true,
+      "missedAt": 1793378442628,
+      "missedDelay": null,
+      "lastUpdated": 1793378442628,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Pure And Natural Rhinestone Star Brushed Jumper (Size 12) - Ivory",
+      "auctionCode": "0019930762",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793378442628,
     "gaps": [
       {
         "start": 1785823527869,
@@ -573869,8 +573958,8 @@
     "lastOnAirSku": "8832238",
     "lastOnAirTitle": "Pure And Natural Rhinestone Star Brushed Jumper (Size 20) - Burgundy",
     "lastOnAirAuctionCode": "0019929995",
-    "precedingSku": "8364907",
-    "precedingTitle": "Close Out Collection Snowflakes Super Soft Cardigan (Size L) - Red",
-    "precedingAuctionCode": "0019930222"
+    "precedingSku": "8832238",
+    "precedingTitle": "Pure And Natural Rhinestone Star Brushed Jumper (Size 20) - Burgundy",
+    "precedingAuctionCode": "0019929995"
   }
 }
