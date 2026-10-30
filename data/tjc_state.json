@@ -428033,21 +428033,26 @@
       "sku": "8030239",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-05",
-      "time": "00:12:21",
+      "date": "2026-10-30",
+      "time": "05:17:19",
       "preExisting": true,
       "missedAt": 1791155541071,
       "missedDelay": null,
-      "lastUpdated": 1791155541071,
+      "lastUpdated": 1793337439184,
       "missedPrice": 69.99,
       "missedImg": true,
       "title": "GAMAGES OF LONDON Limited Edition Alluring Diamond Swiss  Movement Water Resistant Ladies Watch with Teal Leather Strap - 5 Year Warranty",
-      "auctionCode": "0019893442",
+      "auctionCode": "0019929836",
       "source": "gha",
       "productUrl": "/products/gamages-of-london-limited-edition-pure-heart-diamond-in-gold-champagne-quartz-watch-with-stainless-steel-5-year-warranty",
       "productUrlChecked": 1791155544389,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793337439184,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7939328": {
       "sku": "7939328",
@@ -499749,11 +499754,31 @@
       "productUrlChecked": 1793326466819,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8433938": {
+      "sku": "8433938",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "05:17:19",
+      "preExisting": true,
+      "missedAt": 1793337439184,
+      "missedDelay": null,
+      "lastUpdated": 1793337439184,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "GAMAGES OF LONDON Dreamy Diamond Swiss Quartz 3ATM WR Wild Berry Pink Dial & Gold Case Ladies Watch with Rose Pink Leather Strap",
+      "auctionCode": "0019929837",
+      "source": "gha",
+      "productUrl": "/products/gamages-of-london-swiss-quartz-ladies-watch-in-stainless-steel-2148580784",
+      "productUrlChecked": 1793337441532,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793337340484,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -571044,11 +571069,22 @@
         "followingSku": "8624421",
         "followingTitle": "EON 1962 Dragon & Phoenix Ronda 775 Swiss Movement 5ATM WR White 24K Gold Coin Dial & IPG 316 Stainless Steel Case Womens Watch with Brown Genuine Leather Strap",
         "followingAuctionCode": "0019929833"
+      },
+      {
+        "start": 1793337340484,
+        "end": 1793337439184,
+        "durationMin": 1.6,
+        "precedingSku": "8580785",
+        "precedingTitle": "GAMAGES OF LONDON Eternal Diamond Swiss Quartz 3ATM Ladies Watch with Steel Case & Leather Strapl - Gold White",
+        "precedingAuctionCode": "0019929835",
+        "followingSku": "8030239",
+        "followingTitle": "GAMAGES OF LONDON Limited Edition Alluring Diamond Swiss  Movement Water Resistant Ladies Watch with Teal Leather Strap - 5 Year Warranty",
+        "followingAuctionCode": "0019929836"
       }
     ],
-    "lastOnAirSku": "8580785",
-    "lastOnAirTitle": "GAMAGES OF LONDON Eternal Diamond Swiss Quartz 3ATM Ladies Watch with Steel Case & Leather Strapl - Gold White",
-    "lastOnAirAuctionCode": "0019929835",
+    "lastOnAirSku": "8030239",
+    "lastOnAirTitle": "GAMAGES OF LONDON Limited Edition Alluring Diamond Swiss  Movement Water Resistant Ladies Watch with Teal Leather Strap - 5 Year Warranty",
+    "lastOnAirAuctionCode": "0019929836",
     "precedingSku": "8580785",
     "precedingTitle": "GAMAGES OF LONDON Eternal Diamond Swiss Quartz 3ATM Ladies Watch with Steel Case & Leather Strapl - Gold White",
     "precedingAuctionCode": "0019929835"
