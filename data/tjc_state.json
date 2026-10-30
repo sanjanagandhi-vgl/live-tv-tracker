@@ -481126,17 +481126,17 @@
       "firstAir": 1792744463893,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792936399413,
+      "lastAir": 1793401945199,
       "title": "White Crystal & Resin Poppy Flower Brooch",
-      "pdpPrice": 9.99,
-      "auctionCode": null,
+      "pdpPrice": "9.99",
+      "auctionCode": "0019930531",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-25",
-      "time": "13:53:19",
+      "date": "2026-10-30",
+      "time": "23:12:25",
       "productUrl": "/products/white-crystal-resin-poppy-flower-brooch-8782265?variant=53956826693898",
-      "lastUpdated": 1792936399413,
+      "lastUpdated": 1793401945199,
       "source": "gha",
       "missedAt": 1792745182300,
       "missedDelay": 10,
@@ -503139,8 +503139,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793401890496,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575091,11 +575091,22 @@
         "followingSku": "7632745",
         "followingTitle": "Set of 3 Jewellery Box with Soft Velvet Interior & 3 Hooks (Size 10x10x5 cm) - Black, White & Green",
         "followingAuctionCode": "0019930466"
+      },
+      {
+        "start": 1793401890496,
+        "end": 1793401945199,
+        "durationMin": 0.9,
+        "precedingSku": "4533728",
+        "precedingTitle": "White Crystal Poppy Flower Pendant with Chain (Size 24-2 Ext)",
+        "precedingAuctionCode": "0019930530",
+        "followingSku": "8782265",
+        "followingTitle": "White Crystal & Resin Poppy Flower Brooch",
+        "followingAuctionCode": "0019930531"
       }
     ],
-    "lastOnAirSku": "4533728",
-    "lastOnAirTitle": "White Crystal Poppy Flower Pendant with Chain (Size 24-2 Ext)",
-    "lastOnAirAuctionCode": "0019930530",
+    "lastOnAirSku": "8782265",
+    "lastOnAirTitle": "White Crystal & Resin Poppy Flower Brooch",
+    "lastOnAirAuctionCode": "0019930531",
     "precedingSku": "4533728",
     "precedingTitle": "White Crystal Poppy Flower Pendant with Chain (Size 24-2 Ext)",
     "precedingAuctionCode": "0019930530"
