@@ -481176,17 +481176,17 @@
       "firstAir": 1792744838264,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793053400100,
+      "lastAir": 1793402182408,
       "title": "White Crystal Poppy Flower Photo Locket Necklace (Size - 20-2 Ext)",
-      "pdpPrice": 9.99,
-      "auctionCode": null,
+      "pdpPrice": "9.99",
+      "auctionCode": "0019930533",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-26",
-      "time": "22:23:20",
+      "date": "2026-10-30",
+      "time": "23:16:22",
       "productUrl": "/products/white-crystal-poppy-flower-photo-locket-necklace-size-20-2-ext-8780829?variant=53956826595594",
-      "lastUpdated": 1793053400100,
+      "lastUpdated": 1793402182408,
       "source": "gha",
       "missedAt": 1792745182300,
       "missedDelay": 2,
@@ -503139,8 +503139,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793402141871,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575102,11 +575102,22 @@
         "followingSku": "8782265",
         "followingTitle": "White Crystal & Resin Poppy Flower Brooch",
         "followingAuctionCode": "0019930531"
+      },
+      {
+        "start": 1793402141871,
+        "end": 1793402182408,
+        "durationMin": 0.7,
+        "precedingSku": "8787191",
+        "precedingTitle": "Multi Color Crystal Poppy Flower Dangling Earring with Push Back",
+        "precedingAuctionCode": "0019930532",
+        "followingSku": "8780829",
+        "followingTitle": "White Crystal Poppy Flower Photo Locket Necklace (Size - 20-2 Ext)",
+        "followingAuctionCode": "0019930533"
       }
     ],
-    "lastOnAirSku": "8787191",
-    "lastOnAirTitle": "Multi Color Crystal Poppy Flower Dangling Earring with Push Back",
-    "lastOnAirAuctionCode": "0019930532",
+    "lastOnAirSku": "8780829",
+    "lastOnAirTitle": "White Crystal Poppy Flower Photo Locket Necklace (Size - 20-2 Ext)",
+    "lastOnAirAuctionCode": "0019930533",
     "precedingSku": "8787191",
     "precedingTitle": "Multi Color Crystal Poppy Flower Dangling Earring with Push Back",
     "precedingAuctionCode": "0019930532"
