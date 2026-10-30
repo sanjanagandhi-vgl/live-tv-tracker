@@ -387529,23 +387529,23 @@
       "sku": "8795308",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-01",
-      "time": "02:20:34",
+      "date": "2026-10-30",
+      "time": "20:42:25",
       "preExisting": true,
       "missedAt": 1790189728329,
       "missedDelay": null,
-      "lastUpdated": 1790817634140,
+      "lastUpdated": 1793392945644,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
-      "auctionCode": "0019890155",
+      "auctionCode": "0019928510",
       "source": "gha",
       "productUrl": "/products/tjc-special-water-bottle-size-one-size-black-8795307?variant=53792222740746",
       "productUrlChecked": 1790189732843,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790817634140,
-      "pdpPrice": 19.99,
+      "lastAir": 1793392945644,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -502994,8 +502994,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793392762932,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574814,11 +574814,22 @@
         "followingSku": "8680718",
         "followingTitle": "La Marey Home Signature Collection - Set of 3 - 1100 GSM Faux Rabbit Fur Duvet Cover and 2 Pillowcases With Anti Static (King, 225 x 220 cm) - Grey",
         "followingAuctionCode": "0019929202"
+      },
+      {
+        "start": 1793392762932,
+        "end": 1793392945644,
+        "durationMin": 3.0,
+        "precedingSku": "8680718",
+        "precedingTitle": "La Marey Home Signature Collection - Set of 3 - 1100 GSM Faux Rabbit Fur Duvet Cover and 2 Pillow...",
+        "precedingAuctionCode": null,
+        "followingSku": "8795308",
+        "followingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+        "followingAuctionCode": "0019928510"
       }
     ],
-    "lastOnAirSku": "8680718",
-    "lastOnAirTitle": "La Marey Home Signature Collection - Set of 3 - 1100 GSM Faux Rabbit Fur Duvet Cover and 2 Pillow...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8795308",
+    "lastOnAirTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+    "lastOnAirAuctionCode": "0019928510",
     "precedingSku": "8680718",
     "precedingTitle": "La Marey Home Signature Collection - Set of 3 - 1100 GSM Faux Rabbit Fur Duvet Cover and 2 Pillow...",
     "precedingAuctionCode": null
