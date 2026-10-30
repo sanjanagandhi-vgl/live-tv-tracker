@@ -499720,11 +499720,29 @@
       "missedDelay": 1,
       "missedPrice": 79.99,
       "missedImg": true
+    },
+    "8197749": {
+      "sku": "8197749",
+      "firstAir": 1793326343892,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793326343892,
+      "title": "Set of 2 Woven Pattern Cosmetic Bags - White & Black",
+      "pdpPrice": "8.99",
+      "auctionCode": "0019928417",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "02:12:23",
+      "productUrl": null,
+      "lastUpdated": 1793326343892,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793326279980,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -570949,11 +570967,22 @@
         "followingSku": "7953434",
         "followingTitle": "Marigold + Lotus Moringa Oil 100ml",
         "followingAuctionCode": "0019928449"
+      },
+      {
+        "start": 1793326279980,
+        "end": 1793326343892,
+        "durationMin": 1.1,
+        "precedingSku": "8341810",
+        "precedingTitle": "Bondi Blades Derma Razor 3-Pack",
+        "precedingAuctionCode": "0019928433",
+        "followingSku": "8197749",
+        "followingTitle": "Set of 2 Woven Pattern Cosmetic Bags - White & Black",
+        "followingAuctionCode": "0019928417"
       }
     ],
-    "lastOnAirSku": "8341810",
-    "lastOnAirTitle": "Bondi Blades Derma Razor 3-Pack",
-    "lastOnAirAuctionCode": "0019928433",
+    "lastOnAirSku": "8197749",
+    "lastOnAirTitle": "Set of 2 Woven Pattern Cosmetic Bags - White & Black",
+    "lastOnAirAuctionCode": "0019928417",
     "precedingSku": "8341810",
     "precedingTitle": "Bondi Blades Derma Razor 3-Pack",
     "precedingAuctionCode": "0019928433"
