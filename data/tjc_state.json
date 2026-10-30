@@ -500918,14 +500918,39 @@
       "img": true,
       "date": "2026-10-30",
       "time": "12:15:42",
+      "productUrl": "/products/fancy-earring-pure-yellow-brass-8744740",
+      "lastUpdated": 1793362640043,
+      "source": "gha",
+      "missedAt": 1793362640043,
+      "missedDelay": 2,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1793362642262,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8798694": {
+      "sku": "8798694",
+      "firstAir": 1793362640043,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793362640043,
+      "title": "Manhattan Close Out - Tri-Colour Multi-Strand Bangle",
+      "pdpPrice": "199.00",
+      "auctionCode": "0019929933",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "12:17:20",
       "productUrl": null,
-      "lastUpdated": 1793362542615,
+      "lastUpdated": 1793362640043,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793362587570,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572491,11 +572516,22 @@
         "followingSku": "8744643",
         "followingTitle": "Manhattan Close Out - Tri-Colour Cuff Bangle (Size - 7.5)",
         "followingAuctionCode": "0019929879"
+      },
+      {
+        "start": 1793362587570,
+        "end": 1793362640043,
+        "durationMin": 0.9,
+        "precedingSku": "8744740",
+        "precedingTitle": "Manhattan Close Out - Hoop Earrings with Clasp",
+        "precedingAuctionCode": "0019929917",
+        "followingSku": "8798694",
+        "followingTitle": "Manhattan Close Out - Tri-Colour Multi-Strand Bangle",
+        "followingAuctionCode": "0019929933"
       }
     ],
-    "lastOnAirSku": "8744740",
-    "lastOnAirTitle": "Manhattan Close Out - Hoop Earrings with Clasp",
-    "lastOnAirAuctionCode": "0019929917",
+    "lastOnAirSku": "8798694",
+    "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Multi-Strand Bangle",
+    "lastOnAirAuctionCode": "0019929933",
     "precedingSku": "8744740",
     "precedingTitle": "Manhattan Close Out - Hoop Earrings with Clasp",
     "precedingAuctionCode": "0019929917"
