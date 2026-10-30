@@ -289002,23 +289002,23 @@
       "sku": "8660929",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-27",
-      "time": "04:48:24",
+      "date": "2026-10-30",
+      "time": "09:48:24",
       "preExisting": true,
       "missedAt": 1788352760523,
       "missedDelay": null,
-      "lastUpdated": 1793076504888,
+      "lastUpdated": 1793353704986,
       "missedPrice": 49.99,
       "missedImg": true,
       "title": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
-      "auctionCode": null,
+      "auctionCode": "0019929417",
       "source": "gha",
       "productUrl": "/products/tjc-special-leather-tote-bag-black-8660910?variant=53413322195210",
       "productUrlChecked": 1788352768362,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1793076504888,
-      "pdpPrice": 39.99,
+      "lastAir": 1793353704986,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -500537,8 +500537,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793353640136,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572005,11 +572005,22 @@
         "followingSku": "8660941",
         "followingTitle": "Ashwood Croc Effect Real Leather Shoulder Bag - Dark Red",
         "followingAuctionCode": "0019929418"
+      },
+      {
+        "start": 1793353640136,
+        "end": 1793353704986,
+        "durationMin": 1.1,
+        "precedingSku": "8660941",
+        "precedingTitle": "Ashwood Croc Effect Real Leather Shoulder Bag - Dark Red",
+        "precedingAuctionCode": "0019929418",
+        "followingSku": "8660929",
+        "followingTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
+        "followingAuctionCode": "0019929417"
       }
     ],
-    "lastOnAirSku": "8660941",
-    "lastOnAirTitle": "Ashwood Croc Effect Real Leather Shoulder Bag - Dark Red",
-    "lastOnAirAuctionCode": "0019929418",
+    "lastOnAirSku": "8660929",
+    "lastOnAirTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
+    "lastOnAirAuctionCode": "0019929417",
     "precedingSku": "8660941",
     "precedingTitle": "Ashwood Croc Effect Real Leather Shoulder Bag - Dark Red",
     "precedingAuctionCode": "0019929418"
