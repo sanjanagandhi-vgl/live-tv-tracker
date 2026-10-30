@@ -31597,23 +31597,23 @@
       "sku": "8698460",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-06",
-      "time": "13:03:19",
+      "date": "2026-10-30",
+      "time": "22:06:24",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1788696199565,
+      "lastUpdated": 1793397984319,
       "missedPrice": 79.99,
       "missedImg": true,
-      "title": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Starfish Pendant in 18K Vermeil Yellow Gold Plated Sterling Silver 5.80 Ct.",
-      "auctionCode": "0019858458",
+      "title": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Starfish Pendant in Rhodium Overlay Sterling Silver 5.80 Ct.",
+      "auctionCode": "0019930446",
       "source": "gha",
       "productUrl": "/products/gp-larimar-blue-sapphire-pendant-in-rhodium-overlay-sterling-silver-5-80-ct-8698460",
       "productUrlChecked": 1785475684012,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1788696199565,
-      "pdpPrice": "79.99",
+      "lastAir": 1793397984319,
+      "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true
@@ -502994,8 +502994,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793397803929,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574858,11 +574858,22 @@
         "followingSku": "8666627",
         "followingTitle": "One Truth 818- Atomiser - 50ml",
         "followingAuctionCode": "0019931420"
+      },
+      {
+        "start": 1793397803929,
+        "end": 1793397984319,
+        "durationMin": 3.0,
+        "precedingSku": "8666627",
+        "precedingTitle": "One Truth 818- Atomiser - 50ml",
+        "precedingAuctionCode": "0019931420",
+        "followingSku": "8698460",
+        "followingTitle": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Starfish Pendant in Rhodium Overlay Sterling Silver 5.80 Ct.",
+        "followingAuctionCode": "0019930446"
       }
     ],
-    "lastOnAirSku": "8666627",
-    "lastOnAirTitle": "One Truth 818- Atomiser - 50ml",
-    "lastOnAirAuctionCode": "0019931420",
+    "lastOnAirSku": "8698460",
+    "lastOnAirTitle": "Live From Vicenza GP Capri Sealife Collection - Larimar & Blue Sapphire Starfish Pendant in Rhodium Overlay Sterling Silver 5.80 Ct.",
+    "lastOnAirAuctionCode": "0019930446",
     "precedingSku": "8666627",
     "precedingTitle": "One Truth 818- Atomiser - 50ml",
     "precedingAuctionCode": "0019931420"
