@@ -502332,17 +502332,17 @@
       "firstAir": 1793379082865,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793380242263,
-      "title": "QED London Bottom and Legging - Black Navy",
-      "pdpPrice": 19.99,
-      "auctionCode": null,
+      "lastAir": 1793393545555,
+      "title": "QED London  Bottom and Legging - Black Navy",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019931399",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-30",
-      "time": "17:10:42",
+      "time": "20:52:25",
       "productUrl": "/products/qed-london-bottom-and-legging-black-navy-8619117?variant=54005298069770",
-      "lastUpdated": 1793380283110,
+      "lastUpdated": 1793393545555,
       "source": "gha",
       "productUrlChecked": 1793380244658,
       "productUrlStatus": 200,
@@ -502994,8 +502994,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793393443843,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574825,11 +574825,22 @@
         "followingSku": "8795308",
         "followingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
         "followingAuctionCode": "0019928510"
+      },
+      {
+        "start": 1793393443843,
+        "end": 1793393545555,
+        "durationMin": 1.7,
+        "precedingSku": "8795308",
+        "precedingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
+        "precedingAuctionCode": "0019928510",
+        "followingSku": "8619117",
+        "followingTitle": "QED London  Bottom and Legging - Black Navy",
+        "followingAuctionCode": "0019931399"
       }
     ],
-    "lastOnAirSku": "8795308",
-    "lastOnAirTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
-    "lastOnAirAuctionCode": "0019928510",
+    "lastOnAirSku": "8619117",
+    "lastOnAirTitle": "QED London  Bottom and Legging - Black Navy",
+    "lastOnAirAuctionCode": "0019931399",
     "precedingSku": "8795308",
     "precedingTitle": "Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
     "precedingAuctionCode": "0019928510"
