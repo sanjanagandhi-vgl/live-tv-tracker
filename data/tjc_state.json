@@ -500768,14 +500768,39 @@
       "img": false,
       "date": "2026-10-30",
       "time": "11:46:24",
+      "productUrl": "/products/fancy-earring-pure-white-brass-8744702",
+      "lastUpdated": 1793360904381,
+      "source": "gha",
+      "missedAt": 1793360904381,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false,
+      "productUrlChecked": 1793360906626,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8798710": {
+      "sku": "8798710",
+      "firstAir": 1793360904381,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793360904381,
+      "title": "Manhattan Close Out - Tri-Colour Hoop Earrings with Clasp",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019929934",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "11:48:24",
       "productUrl": null,
-      "lastUpdated": 1793360784119,
+      "lastUpdated": 1793360904381,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793360838833,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572308,11 +572333,22 @@
         "followingSku": "8798760",
         "followingTitle": "Manhattan Close Out - Tri-Colour Knot Stud Earrings with Push Back",
         "followingAuctionCode": "0019929954"
+      },
+      {
+        "start": 1793360838833,
+        "end": 1793360904381,
+        "durationMin": 1.1,
+        "precedingSku": "8744702",
+        "precedingTitle": "Manhattan Close Out - Geometric Beaded Hoop Earrings with Clasp",
+        "precedingAuctionCode": "0019929907",
+        "followingSku": "8798710",
+        "followingTitle": "Manhattan Close Out - Tri-Colour Hoop Earrings with Clasp",
+        "followingAuctionCode": "0019929934"
       }
     ],
-    "lastOnAirSku": "8744702",
-    "lastOnAirTitle": "Manhattan Close Out - Geometric Beaded Hoop Earrings with Clasp",
-    "lastOnAirAuctionCode": "0019929907",
+    "lastOnAirSku": "8798710",
+    "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Hoop Earrings with Clasp",
+    "lastOnAirAuctionCode": "0019929934",
     "precedingSku": "8744702",
     "precedingTitle": "Manhattan Close Out - Geometric Beaded Hoop Earrings with Clasp",
     "precedingAuctionCode": "0019929907"
