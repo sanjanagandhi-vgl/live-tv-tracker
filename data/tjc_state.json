@@ -502278,13 +502278,34 @@
       "date": "2026-10-30",
       "time": "16:49:21",
       "productUrl": null,
-      "lastUpdated": 1793378961327,
-      "source": "gha"
+      "lastUpdated": 1793379041725,
+      "source": "gha",
+      "missedAt": 1793379041725,
+      "missedDelay": 1,
+      "missedPrice": 12.99,
+      "missedImg": true
+    },
+    "8626251": {
+      "sku": "8626251",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "16:50:41",
+      "preExisting": true,
+      "missedAt": 1793379041725,
+      "missedDelay": null,
+      "lastUpdated": 1793379041725,
+      "missedPrice": 12.99,
+      "missedImg": true,
+      "title": "La Marey Luxe Glow Wool Blend Sequin Evening Shawl (70 x 178cm) - Brown",
+      "auctionCode": "0019929576",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793379041725,
     "gaps": [
       {
         "start": 1785823527869,
@@ -573987,8 +574008,8 @@
     "lastOnAirSku": "8626250",
     "lastOnAirTitle": "La Marey Luxe Glow Wool Blend Sequin Evening Shawl (70 x 178cm) - Brown",
     "lastOnAirAuctionCode": "0019929569",
-    "precedingSku": "8832238",
-    "precedingTitle": "Pure And Natural Rhinestone Star Brushed Jumper (Size 20) - Burgundy",
-    "precedingAuctionCode": "0019929995"
+    "precedingSku": "8626250",
+    "precedingTitle": "La Marey Luxe Glow Wool Blend Sequin Evening Shawl (70 x 178cm) - Brown",
+    "precedingAuctionCode": "0019929569"
   }
 }
