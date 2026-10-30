@@ -255008,21 +255008,26 @@
       "sku": "8516223",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-27",
-      "time": "03:39:20",
+      "date": "2026-10-30",
+      "time": "10:07:20",
       "preExisting": true,
       "missedAt": 1787798360972,
       "missedDelay": null,
-      "lastUpdated": 1787798360972,
+      "lastUpdated": 1793354840266,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "African Amethyst Cluster Ring 9.44 Ct.",
-      "auctionCode": "0019844890",
+      "title": "Close Out Deal- African Amethyst Cluster Ring 10.00 Ct.",
+      "auctionCode": null,
       "source": "gha",
-      "productUrl": "/products/african-amethyst-cluster-ring-9-44-ct",
+      "productUrl": "/products/african-amethyst-cluster-ring-9-44-ct?variant=53410622144778",
       "productUrlChecked": 1787798366379,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793354840266,
+      "pdpPrice": 3456.99,
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8516449": {
       "sku": "8516449",
@@ -500537,8 +500542,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793354663282,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572016,11 +572021,22 @@
         "followingSku": "8660929",
         "followingTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
         "followingAuctionCode": "0019929417"
+      },
+      {
+        "start": 1793354663282,
+        "end": 1793354840266,
+        "durationMin": 2.9,
+        "precedingSku": "8660929",
+        "precedingTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
+        "precedingAuctionCode": "0019929417",
+        "followingSku": "8516223",
+        "followingTitle": "Close Out Deal- African Amethyst Cluster Ring 10.00 Ct.",
+        "followingAuctionCode": null
       }
     ],
-    "lastOnAirSku": "8660929",
-    "lastOnAirTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
-    "lastOnAirAuctionCode": "0019929417",
+    "lastOnAirSku": "8516223",
+    "lastOnAirTitle": "Close Out Deal- African Amethyst Cluster Ring 10.00 Ct.",
+    "lastOnAirAuctionCode": null,
     "precedingSku": "8660929",
     "precedingTitle": "Ashwood Oxford Real Leather Shoulder Tote Bag - Yellow",
     "precedingAuctionCode": "0019929417"
