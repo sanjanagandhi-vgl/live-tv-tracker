@@ -502301,11 +502301,29 @@
       "auctionCode": "0019929576",
       "source": "gha",
       "productUrl": null
+    },
+    "8619117": {
+      "sku": "8619117",
+      "firstAir": 1793379082865,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793379082865,
+      "title": "QED London  Bottom and Legging - Black Navy",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019929564",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "16:51:22",
+      "productUrl": null,
+      "lastUpdated": 1793379082865,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793379041725,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574003,11 +574021,22 @@
         "followingSku": "8626250",
         "followingTitle": "La Marey Luxe Glow Wool Blend Sequin Evening Shawl (70 x 178cm) - Brown",
         "followingAuctionCode": "0019929569"
+      },
+      {
+        "start": 1793379041725,
+        "end": 1793379082865,
+        "durationMin": 0.7,
+        "precedingSku": "8626250",
+        "precedingTitle": "La Marey Luxe Glow Wool Blend Sequin Evening Shawl (70 x 178cm) - Brown",
+        "precedingAuctionCode": "0019929569",
+        "followingSku": "8619117",
+        "followingTitle": "QED London  Bottom and Legging - Black Navy",
+        "followingAuctionCode": "0019929564"
       }
     ],
-    "lastOnAirSku": "8626250",
-    "lastOnAirTitle": "La Marey Luxe Glow Wool Blend Sequin Evening Shawl (70 x 178cm) - Brown",
-    "lastOnAirAuctionCode": "0019929569",
+    "lastOnAirSku": "8619117",
+    "lastOnAirTitle": "QED London  Bottom and Legging - Black Navy",
+    "lastOnAirAuctionCode": "0019929564",
     "precedingSku": "8626250",
     "precedingTitle": "La Marey Luxe Glow Wool Blend Sequin Evening Shawl (70 x 178cm) - Brown",
     "precedingAuctionCode": "0019929569"
