@@ -502816,11 +502816,29 @@
       "productUrlChecked": 1793381896764,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8789079": {
+      "sku": "8789079",
+      "firstAir": 1793386584529,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793386584529,
+      "title": "NY Closeout Deal - Star Light Collection - White Austrian Crystal Hoop Earrings with Clasp - White",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019928869",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "18:56:24",
+      "productUrl": null,
+      "lastUpdated": 1793386584529,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793386492524,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574584,11 +574602,22 @@
         "followingSku": "8380931",
         "followingTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
         "followingAuctionCode": "0019928429"
+      },
+      {
+        "start": 1793386492524,
+        "end": 1793386584529,
+        "durationMin": 1.5,
+        "precedingSku": "8380931",
+        "precedingTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
+        "precedingAuctionCode": null,
+        "followingSku": "8789079",
+        "followingTitle": "NY Closeout Deal - Star Light Collection - White Austrian Crystal Hoop Earrings with Clasp - White",
+        "followingAuctionCode": "0019928869"
       }
     ],
-    "lastOnAirSku": "8380931",
-    "lastOnAirTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8789079",
+    "lastOnAirTitle": "NY Closeout Deal - Star Light Collection - White Austrian Crystal Hoop Earrings with Clasp - White",
+    "lastOnAirAuctionCode": "0019928869",
     "precedingSku": "8380931",
     "precedingTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
     "precedingAuctionCode": null
