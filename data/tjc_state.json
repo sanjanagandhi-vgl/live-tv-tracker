@@ -501522,8 +501522,12 @@
       "date": "2026-10-30",
       "time": "14:56:27",
       "productUrl": null,
-      "lastUpdated": 1793372187220,
-      "source": "gha"
+      "lastUpdated": 1793372242439,
+      "source": "gha",
+      "missedAt": 1793372242439,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
     },
     "8585773": {
       "sku": "8585773",
@@ -501575,11 +501579,62 @@
       "auctionCode": "0019929548",
       "source": "gha",
       "productUrl": null
+    },
+    "8832191": {
+      "sku": "8832191",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "14:57:22",
+      "preExisting": true,
+      "missedAt": 1793372242439,
+      "missedDelay": null,
+      "lastUpdated": 1793372242439,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Pure And Natural Animal Print Top (Size XL, 20-22) - Brown",
+      "auctionCode": "0019929562",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8832189": {
+      "sku": "8832189",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "14:57:22",
+      "preExisting": true,
+      "missedAt": 1793372242439,
+      "missedDelay": null,
+      "lastUpdated": 1793372242439,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Pure And Natural Animal Print Top (Size M, 12-14) - Brown",
+      "auctionCode": "0019929561",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8832188": {
+      "sku": "8832188",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "14:57:22",
+      "preExisting": true,
+      "missedAt": 1793372242439,
+      "missedDelay": null,
+      "lastUpdated": 1793372242439,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Pure And Natural Animal Print Top (Size L, 16-18) - Brown",
+      "auctionCode": "0019929560",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793372242439,
     "gaps": [
       {
         "start": 1785823527869,
@@ -573249,8 +573304,8 @@
     "lastOnAirSku": "8832190",
     "lastOnAirTitle": "Pure And Natural Animal Print Top (Size XL, 20-22) - Brown",
     "lastOnAirAuctionCode": "0019929559",
-    "precedingSku": "8832143",
-    "precedingTitle": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Purple",
-    "precedingAuctionCode": "0019930745"
+    "precedingSku": "8832190",
+    "precedingTitle": "Pure And Natural Animal Print Top (Size XL, 20-22) - Brown",
+    "precedingAuctionCode": "0019929559"
   }
 }
