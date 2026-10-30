@@ -364469,21 +364469,26 @@
       "sku": "8506327",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "20:48:29",
+      "date": "2026-10-30",
+      "time": "18:22:27",
       "preExisting": true,
       "missedAt": 1789760909180,
       "missedDelay": null,
-      "lastUpdated": 1789760909180,
+      "lastUpdated": 1793384547606,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Hanging Travel Luggage Organizer - 3-Tier Portable Wardrobe Shelves & Oxford Cloth Packing Cube (30x23x56cm) - Black",
-      "auctionCode": "0019874782",
+      "title": "Hanging Wardrobe Organizer - 3-Tier Wardrobe Shelves & Oxford Cloth Packing Cube (30x23x56cm) - Grey",
+      "auctionCode": "0019928430",
       "source": "gha",
       "productUrl": "/products/patterned-storage-box-size-30x22x5-cm-black-8506327",
       "productUrlChecked": 1789760920463,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793384547606,
+      "pdpPrice": "14.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8420758": {
       "sku": "8420758",
@@ -502814,8 +502819,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793384483025,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574535,11 +574540,22 @@
         "followingSku": "8205065",
         "followingTitle": "Designer Closeout Deal - Scarf with Colourful Button Accents - Burgundy",
         "followingAuctionCode": "0019928438"
+      },
+      {
+        "start": 1793384483025,
+        "end": 1793384547606,
+        "durationMin": 1.1,
+        "precedingSku": "8205065",
+        "precedingTitle": "Designer Closeout Deal - Scarf with Colourful Button Accents - Burgundy",
+        "precedingAuctionCode": null,
+        "followingSku": "8506327",
+        "followingTitle": "Hanging Wardrobe Organizer - 3-Tier Wardrobe Shelves & Oxford Cloth Packing Cube (30x23x56cm) - Grey",
+        "followingAuctionCode": "0019928430"
       }
     ],
-    "lastOnAirSku": "8205065",
-    "lastOnAirTitle": "Designer Closeout Deal - Scarf with Colourful Button Accents - Burgundy",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8506327",
+    "lastOnAirTitle": "Hanging Wardrobe Organizer - 3-Tier Wardrobe Shelves & Oxford Cloth Packing Cube (30x23x56cm) - Grey",
+    "lastOnAirAuctionCode": "0019928430",
     "precedingSku": "8205065",
     "precedingTitle": "Designer Closeout Deal - Scarf with Colourful Button Accents - Burgundy",
     "precedingAuctionCode": null
