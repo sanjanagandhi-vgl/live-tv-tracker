@@ -14919,19 +14919,19 @@
       "sku": "8666627",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-14",
-      "time": "15:35:30",
+      "date": "2026-10-30",
+      "time": "21:25:30",
       "preExisting": true,
       "missedAt": 1785069863496,
       "missedDelay": null,
-      "lastUpdated": 1789396530603,
+      "lastUpdated": 1793395530214,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "One Truth 818- Atomiser - 50ml",
-      "auctionCode": "0019869730",
+      "auctionCode": "0019930873",
       "source": "gha",
-      "lastAir": 1789396530603,
-      "pdpPrice": "29.99",
+      "lastAir": 1793395530214,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -502994,8 +502994,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793395162000,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574836,11 +574836,22 @@
         "followingSku": "8619117",
         "followingTitle": "QED London  Bottom and Legging - Black Navy",
         "followingAuctionCode": "0019931399"
+      },
+      {
+        "start": 1793395162000,
+        "end": 1793395530214,
+        "durationMin": 6.1,
+        "precedingSku": "8619117",
+        "precedingTitle": "QED London Bottom and Legging - Black Navy",
+        "precedingAuctionCode": null,
+        "followingSku": "8666627",
+        "followingTitle": "One Truth 818- Atomiser - 50ml",
+        "followingAuctionCode": "0019930873"
       }
     ],
-    "lastOnAirSku": "8619117",
-    "lastOnAirTitle": "QED London Bottom and Legging - Black Navy",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8666627",
+    "lastOnAirTitle": "One Truth 818- Atomiser - 50ml",
+    "lastOnAirAuctionCode": "0019930873",
     "precedingSku": "8619117",
     "precedingTitle": "QED London Bottom and Legging - Black Navy",
     "precedingAuctionCode": null
