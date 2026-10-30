@@ -501703,11 +501703,29 @@
       "auctionCode": "0019929295",
       "source": "gha",
       "productUrl": null
+    },
+    "8832250": {
+      "sku": "8832250",
+      "firstAir": 1793377108798,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793377108798,
+      "title": "Pure And Natural Rhinestone Star Brushed Jumper (Size 10) - Burgundy",
+      "pdpPrice": "150.99",
+      "auctionCode": "0019930007",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "16:18:28",
+      "productUrl": null,
+      "lastUpdated": 1793377108798,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793377040772,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -573383,11 +573401,22 @@
         "followingSku": "3890811",
         "followingTitle": "Long Sleeves Blazer with Notched Lapel Collar (Size L,16-18) - Grey",
         "followingAuctionCode": "0019930200"
+      },
+      {
+        "start": 1793377040772,
+        "end": 1793377108798,
+        "durationMin": 1.1,
+        "precedingSku": "8364907",
+        "precedingTitle": "Close Out Collection Snowflakes Super Soft Cardigan (Size L) - Red",
+        "precedingAuctionCode": "0019930222",
+        "followingSku": "8832250",
+        "followingTitle": "Pure And Natural Rhinestone Star Brushed Jumper (Size 10) - Burgundy",
+        "followingAuctionCode": "0019930007"
       }
     ],
-    "lastOnAirSku": "8364907",
-    "lastOnAirTitle": "Close Out Collection Snowflakes Super Soft Cardigan (Size L) - Red",
-    "lastOnAirAuctionCode": "0019930222",
+    "lastOnAirSku": "8832250",
+    "lastOnAirTitle": "Pure And Natural Rhinestone Star Brushed Jumper (Size 10) - Burgundy",
+    "lastOnAirAuctionCode": "0019930007",
     "precedingSku": "8364907",
     "precedingTitle": "Close Out Collection Snowflakes Super Soft Cardigan (Size L) - Red",
     "precedingAuctionCode": "0019930222"
