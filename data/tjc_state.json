@@ -501164,16 +501164,60 @@
       "date": "2026-10-30",
       "time": "13:13:21",
       "productUrl": "/products/cuff-bangle-pure-white-brass-8744684?variant=54005812592906",
-      "lastUpdated": 1793366001209,
+      "lastUpdated": 1793366064707,
       "source": "gha",
       "productUrlChecked": 1793366003953,
+      "productUrlStatus": 200,
+      "productUrl404": false,
+      "missedAt": 1793366064707,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
+    },
+    "8744686": {
+      "sku": "8744686",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "13:14:24",
+      "preExisting": true,
+      "missedAt": 1793366064707,
+      "missedDelay": null,
+      "lastUpdated": 1793366064707,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Manhattan Close Out - Textured Bangle (Size - 7)",
+      "auctionCode": "0019930245",
+      "source": "gha",
+      "productUrl": "/products/cuff-bangle-pure-white-brass-8744684",
+      "productUrlChecked": 1793366067132,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8744685": {
+      "sku": "8744685",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-10-30",
+      "time": "13:14:24",
+      "preExisting": true,
+      "missedAt": 1793366064707,
+      "missedDelay": null,
+      "lastUpdated": 1793366064707,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Manhattan Close Out - Textured Bangle (Size - 7)",
+      "auctionCode": "0019930244",
+      "source": "gha",
+      "productUrl": "/products/cuff-bangle-pure-white-brass-8744684",
+      "productUrlChecked": 1793366067638,
       "productUrlStatus": 200,
       "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793366064707,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572788,8 +572832,8 @@
     "lastOnAirSku": "8744684",
     "lastOnAirTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8798712",
-    "precedingTitle": "Manhattan Close Out - Tri-Colour Twisted Hoop Earrings with Clasp",
-    "precedingAuctionCode": "0019929935"
+    "precedingSku": "8744684",
+    "precedingTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
+    "precedingAuctionCode": null
   }
 }
