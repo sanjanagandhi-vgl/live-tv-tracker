@@ -402948,23 +402948,23 @@
       "sku": "8692178",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-20",
-      "time": "00:39:18",
+      "date": "2026-10-30",
+      "time": "00:45:42",
       "preExisting": true,
       "missedAt": 1790619505856,
       "missedDelay": null,
-      "lastUpdated": 1792453158469,
+      "lastUpdated": 1793321142121,
       "missedPrice": 999.99,
       "missedImg": true,
       "title": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
-      "auctionCode": "0019916254",
+      "auctionCode": "0019928650",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-bracelet-size-7-5-gold-wt-8-60-gms-8692176",
       "productUrlChecked": 1790619509132,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792453158469,
-      "pdpPrice": "999.99",
+      "lastAir": 1793321142121,
+      "pdpPrice": "8765.99",
       "buy": true,
       "login": false,
       "img": true
@@ -499723,8 +499723,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793321063462,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -570894,11 +570894,22 @@
         "followingSku": "8689613",
         "followingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
         "followingAuctionCode": "0019928614"
+      },
+      {
+        "start": 1793321063462,
+        "end": 1793321142121,
+        "durationMin": 1.3,
+        "precedingSku": "7723008",
+        "precedingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
+        "precedingAuctionCode": "0019928598",
+        "followingSku": "8692178",
+        "followingTitle": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
+        "followingAuctionCode": "0019928650"
       }
     ],
-    "lastOnAirSku": "7723008",
-    "lastOnAirTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
-    "lastOnAirAuctionCode": "0019928598",
+    "lastOnAirSku": "8692178",
+    "lastOnAirTitle": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
+    "lastOnAirAuctionCode": "0019928650",
     "precedingSku": "7723008",
     "precedingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
     "precedingAuctionCode": "0019928598"
