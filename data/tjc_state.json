@@ -184778,21 +184778,26 @@
       "sku": "8671496",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-17",
-      "time": "17:47:21",
+      "date": "2026-10-30",
+      "time": "06:07:19",
       "preExisting": true,
       "missedAt": 1786985241074,
       "missedDelay": null,
-      "lastUpdated": 1786985241074,
+      "lastUpdated": 1793340439245,
       "missedPrice": 24.99,
       "missedImg": true,
-      "title": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Smile (Pink Cream)",
-      "auctionCode": "0019826378",
+      "title": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
+      "auctionCode": "0019928608",
       "source": "gha",
       "productUrl": "/products/bodyography-lipstick-elizabeth-red-satin-matte-8671494",
       "productUrlChecked": 1786985246072,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793340439245,
+      "pdpPrice": "449.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8671497": {
       "sku": "8671497",
@@ -499975,8 +499980,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793340071781,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -571300,11 +571305,22 @@
         "followingSku": "8692178",
         "followingTitle": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
         "followingAuctionCode": "0019929872"
+      },
+      {
+        "start": 1793340071781,
+        "end": 1793340439245,
+        "durationMin": 6.1,
+        "precedingSku": "8692178",
+        "precedingTitle": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
+        "precedingAuctionCode": "0019929872",
+        "followingSku": "8671496",
+        "followingTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
+        "followingAuctionCode": "0019928608"
       }
     ],
-    "lastOnAirSku": "8692178",
-    "lastOnAirTitle": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
-    "lastOnAirAuctionCode": "0019929872",
+    "lastOnAirSku": "8671496",
+    "lastOnAirTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
+    "lastOnAirAuctionCode": "0019928608",
     "precedingSku": "8692178",
     "precedingTitle": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
     "precedingAuctionCode": "0019929872"
