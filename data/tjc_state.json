@@ -500868,14 +500868,21 @@
       "img": true,
       "date": "2026-10-30",
       "time": "12:04:27",
-      "productUrl": null,
-      "lastUpdated": 1793361867429,
-      "source": "gha"
+      "productUrl": "/products/fancy-earring-pure-yellow-brass-8744651",
+      "lastUpdated": 1793361931650,
+      "source": "gha",
+      "missedAt": 1793361931650,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1793361935015,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793361931650,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572435,8 +572442,8 @@
     "lastOnAirSku": "8744651",
     "lastOnAirTitle": "Manhattan Close Out - Twisted Hexagon Hoop Earrings with Clasp",
     "lastOnAirAuctionCode": "0019929883",
-    "precedingSku": "8798762",
-    "precedingTitle": "Manhattan Close Out - Tri-Colour Knot Stud Earrings with Push Back",
-    "precedingAuctionCode": "0019929955"
+    "precedingSku": "8744651",
+    "precedingTitle": "Manhattan Close Out - Twisted Hexagon Hoop Earrings with Clasp",
+    "precedingAuctionCode": "0019929883"
   }
 }
