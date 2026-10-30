@@ -500209,11 +500209,29 @@
       "productUrlChecked": 1793350107582,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8832147": {
+      "sku": "8832147",
+      "firstAir": 1793351545931,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793351545931,
+      "title": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Maroon",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019929464",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "09:12:25",
+      "productUrl": null,
+      "lastUpdated": 1793351545931,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793351442722,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -571636,11 +571654,22 @@
         "followingSku": "8226302",
         "followingTitle": "Emreco Bengaline Crop Trousers (Size 12) - White",
         "followingAuctionCode": "0019929298"
+      },
+      {
+        "start": 1793351442722,
+        "end": 1793351545931,
+        "durationMin": 1.7,
+        "precedingSku": "8226302",
+        "precedingTitle": "Emreco Bengaline Crop Trousers (Size 12) - White",
+        "precedingAuctionCode": "0019929298",
+        "followingSku": "8832147",
+        "followingTitle": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Maroon",
+        "followingAuctionCode": "0019929464"
       }
     ],
-    "lastOnAirSku": "8226302",
-    "lastOnAirTitle": "Emreco Bengaline Crop Trousers (Size 12) - White",
-    "lastOnAirAuctionCode": "0019929298",
+    "lastOnAirSku": "8832147",
+    "lastOnAirTitle": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Maroon",
+    "lastOnAirAuctionCode": "0019929464",
     "precedingSku": "8226302",
     "precedingTitle": "Emreco Bengaline Crop Trousers (Size 12) - White",
     "precedingAuctionCode": "0019929298"
