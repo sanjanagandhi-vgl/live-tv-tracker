@@ -14920,17 +14920,17 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-10-30",
-      "time": "21:31:20",
+      "time": "21:36:25",
       "preExisting": true,
       "missedAt": 1785069863496,
       "missedDelay": null,
-      "lastUpdated": 1793395880923,
+      "lastUpdated": 1793396185158,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "One Truth 818- Atomiser - 50ml",
-      "auctionCode": "0019930873",
+      "auctionCode": "0019931420",
       "source": "gha",
-      "lastAir": 1793395880923,
+      "lastAir": 1793396185158,
       "pdpPrice": "29.99",
       "buy": true,
       "login": false,
@@ -502994,8 +502994,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793395945510,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574847,11 +574847,22 @@
         "followingSku": "8666627",
         "followingTitle": "One Truth 818- Atomiser - 50ml",
         "followingAuctionCode": "0019930873"
+      },
+      {
+        "start": 1793395945510,
+        "end": 1793396185158,
+        "durationMin": 4.0,
+        "precedingSku": "8666627",
+        "precedingTitle": "One Truth 818- Atomiser - 50ml",
+        "precedingAuctionCode": "0019930873",
+        "followingSku": "8666627",
+        "followingTitle": "One Truth 818- Atomiser - 50ml",
+        "followingAuctionCode": "0019931420"
       }
     ],
     "lastOnAirSku": "8666627",
     "lastOnAirTitle": "One Truth 818- Atomiser - 50ml",
-    "lastOnAirAuctionCode": "0019930873",
+    "lastOnAirAuctionCode": "0019931420",
     "precedingSku": "8666627",
     "precedingTitle": "One Truth 818- Atomiser - 50ml",
     "precedingAuctionCode": "0019930873"
