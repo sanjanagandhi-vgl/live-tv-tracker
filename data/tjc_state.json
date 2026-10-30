@@ -501069,16 +501069,20 @@
       "date": "2026-10-30",
       "time": "12:43:23",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8744658?variant=54005810987274",
-      "lastUpdated": 1793364203929,
+      "lastUpdated": 1793364264030,
       "source": "gha",
       "productUrlChecked": 1793364206259,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793364264030,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793364264030,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572660,8 +572664,8 @@
     "lastOnAirSku": "8744658",
     "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Greek-Key Hoop Earrings with Clasp",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8744740",
-    "precedingTitle": "Manhattan Close Out - Hoop Earrings with Clasp",
-    "precedingAuctionCode": "0019929917"
+    "precedingSku": "8744658",
+    "precedingTitle": "Manhattan Close Out - Tri-Colour Greek-Key Hoop Earrings with Clasp",
+    "precedingAuctionCode": null
   }
 }
