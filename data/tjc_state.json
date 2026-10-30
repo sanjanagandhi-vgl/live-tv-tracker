@@ -500994,11 +500994,33 @@
       "date": "2026-10-30",
       "time": "12:29:21",
       "productUrl": "/products/fancy-earring-pure-yellow-brass-8744223?variant=54005808333066",
-      "lastUpdated": 1793363361204,
+      "lastUpdated": 1793363461580,
       "source": "gha",
       "productUrlChecked": 1793363363395,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793363461580,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": true
+    },
+    "4539433": {
+      "sku": "4539433",
+      "firstAir": 1793363461580,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793363461580,
+      "title": "Manhattan Close Out - Multi-Strand Bangle (Size 7-7.5) and Adjustable Ring (Size - I to R) Set",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019929952",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "12:31:01",
+      "productUrl": null,
+      "lastUpdated": 1793363461580,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -572582,9 +572604,9 @@
         "followingAuctionCode": "0019929933"
       }
     ],
-    "lastOnAirSku": "8744223",
-    "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Oval Hoop Earrings with Clasp",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "4539433",
+    "lastOnAirTitle": "Manhattan Close Out - Multi-Strand Bangle (Size 7-7.5) and Adjustable Ring (Size - I to R) Set",
+    "lastOnAirAuctionCode": "0019929952",
     "precedingSku": "8744740",
     "precedingTitle": "Manhattan Close Out - Hoop Earrings with Clasp",
     "precedingAuctionCode": "0019929917"
