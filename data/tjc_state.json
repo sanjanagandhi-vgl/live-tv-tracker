@@ -386572,21 +386572,26 @@
       "sku": "7713918",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-23",
-      "time": "15:13:20",
+      "date": "2026-10-30",
+      "time": "22:21:19",
       "preExisting": true,
       "missedAt": 1790172800323,
       "missedDelay": null,
-      "lastUpdated": 1790172800323,
+      "lastUpdated": 1793398879965,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "LUCY Q Amore Filigree Collection - Rhodium Overlay Sterling Silver Heart Earrings with Lever Back",
-      "auctionCode": "0019880039",
+      "auctionCode": "0019930441",
       "source": "gha",
       "productUrl": "/products/lucy-q-amore-filigree-collection-heart-pendant-with-adjustable-chain-size-28-24-20-16-in-rhodium-overlay-sterling-silver",
       "productUrlChecked": 1790172803924,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793398879965,
+      "pdpPrice": "149.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8699189": {
       "sku": "8699189",
@@ -503076,8 +503081,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793398839607,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574962,11 +574967,22 @@
         "followingSku": "3599178",
         "followingTitle": "One Time Mega Deal - Rose Quartz Pendant with Chain (Size 24) in Silver Tone 16.00 Ct.",
         "followingAuctionCode": "0019930430"
+      },
+      {
+        "start": 1793398839607,
+        "end": 1793398879965,
+        "durationMin": 0.7,
+        "precedingSku": "8640812",
+        "precedingTitle": "Pink Conch Shell & White Edison Pearl Adjustable Flower Necklace with Cotton Thread (Size - 26)",
+        "precedingAuctionCode": "0019930439",
+        "followingSku": "7713918",
+        "followingTitle": "LUCY Q Amore Filigree Collection - Rhodium Overlay Sterling Silver Heart Earrings with Lever Back",
+        "followingAuctionCode": "0019930441"
       }
     ],
-    "lastOnAirSku": "8640812",
-    "lastOnAirTitle": "Pink Conch Shell & White Edison Pearl Adjustable Flower Necklace with Cotton Thread (Size - 26)",
-    "lastOnAirAuctionCode": "0019930439",
+    "lastOnAirSku": "7713918",
+    "lastOnAirTitle": "LUCY Q Amore Filigree Collection - Rhodium Overlay Sterling Silver Heart Earrings with Lever Back",
+    "lastOnAirAuctionCode": "0019930441",
     "precedingSku": "8640812",
     "precedingTitle": "Pink Conch Shell & White Edison Pearl Adjustable Flower Necklace with Cotton Thread (Size - 26)",
     "precedingAuctionCode": "0019930439"
