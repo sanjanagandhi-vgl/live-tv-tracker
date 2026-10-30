@@ -499735,14 +499735,21 @@
       "img": true,
       "date": "2026-10-30",
       "time": "02:13:18",
-      "productUrl": null,
-      "lastUpdated": 1793326398742,
-      "source": "gha"
+      "productUrl": "/products/set-of-2-woven-pattern-cosmetic-bags-white-black",
+      "lastUpdated": 1793326464146,
+      "source": "gha",
+      "missedAt": 1793326464146,
+      "missedDelay": 1,
+      "missedPrice": 8.99,
+      "missedImg": true,
+      "productUrlChecked": 1793326466819,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793326464146,
     "gaps": [
       {
         "start": 1785823527869,
@@ -570983,8 +570990,8 @@
     "lastOnAirSku": "8197749",
     "lastOnAirTitle": "Set of 2 Woven Pattern Cosmetic Bags - White & Black",
     "lastOnAirAuctionCode": "0019928417",
-    "precedingSku": "8341810",
-    "precedingTitle": "Bondi Blades Derma Razor 3-Pack",
-    "precedingAuctionCode": "0019928433"
+    "precedingSku": "8197749",
+    "precedingTitle": "Set of 2 Woven Pattern Cosmetic Bags - White & Black",
+    "precedingAuctionCode": "0019928417"
   }
 }
