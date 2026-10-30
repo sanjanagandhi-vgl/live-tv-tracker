@@ -503125,14 +503125,21 @@
       "img": true,
       "date": "2026-10-30",
       "time": "22:29:18",
-      "productUrl": null,
-      "lastUpdated": 1793399358935,
-      "source": "gha"
+      "productUrl": "/products/pink-conch-shell-stone-necklace-23-0-ct-1968640568",
+      "lastUpdated": 1793399457862,
+      "source": "gha",
+      "missedAt": 1793399457862,
+      "missedDelay": 2,
+      "missedPrice": 29.99,
+      "missedImg": true,
+      "productUrlChecked": 1793399460380,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793399457862,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575055,8 +575062,8 @@
     "lastOnAirSku": "8640811",
     "lastOnAirTitle": "Pink Conch Shell & White Edison Pearl Adjustable Flower Necklace with Cotton Thread (Size - 26)",
     "lastOnAirAuctionCode": "0019930445",
-    "precedingSku": "8658163",
-    "precedingTitle": "D'Joy - Pink Conch Shell Solitaire Lever Back Earring in Yellow Gold Plated Sterling Silver",
-    "precedingAuctionCode": "0019930444"
+    "precedingSku": "8640811",
+    "precedingTitle": "Pink Conch Shell & White Edison Pearl Adjustable Flower Necklace with Cotton Thread (Size - 26)",
+    "precedingAuctionCode": "0019930445"
   }
 }
