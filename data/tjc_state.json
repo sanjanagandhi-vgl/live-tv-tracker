@@ -338462,17 +338462,17 @@
       "firstAir": 1789207528818,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793320040704,
+      "lastAir": 1793335839152,
       "title": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
-      "pdpPrice": 999.99,
-      "auctionCode": null,
+      "pdpPrice": "999.99",
+      "auctionCode": "0019929871",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-10-30",
-      "time": "00:27:20",
+      "time": "04:50:39",
       "productUrl": "/products/9k-yellow-gold-bracelet-size-8-gold-wt-10-80-gms-8689613?variant=53583068102922",
-      "lastUpdated": 1793320040704,
+      "lastUpdated": 1793335839152,
       "source": "gha",
       "missedAt": 1789239143526,
       "missedDelay": 9,
@@ -499752,8 +499752,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793335711578,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -571022,11 +571022,22 @@
         "followingSku": "8212261",
         "followingTitle": "Livmore Rechargeable Waist Massager with Heat and Vibration Therapy - Black",
         "followingAuctionCode": "0019928442"
+      },
+      {
+        "start": 1793335711578,
+        "end": 1793335839152,
+        "durationMin": 2.1,
+        "precedingSku": "8212261",
+        "precedingTitle": "Livmore Rechargeable Waist Massager with Heat and Vibration Therapy - Black",
+        "precedingAuctionCode": null,
+        "followingSku": "8689613",
+        "followingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
+        "followingAuctionCode": "0019929871"
       }
     ],
-    "lastOnAirSku": "8212261",
-    "lastOnAirTitle": "Livmore Rechargeable Waist Massager with Heat and Vibration Therapy - Black",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8689613",
+    "lastOnAirTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
+    "lastOnAirAuctionCode": "0019929871",
     "precedingSku": "8212261",
     "precedingTitle": "Livmore Rechargeable Waist Massager with Heat and Vibration Therapy - Black",
     "precedingAuctionCode": null
