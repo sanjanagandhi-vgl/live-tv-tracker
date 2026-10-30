@@ -19819,17 +19819,23 @@
       "sku": "8226302",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-27",
-      "time": "16:56:23",
+      "date": "2026-10-30",
+      "time": "09:04:23",
       "preExisting": true,
       "missedAt": 1785167783328,
       "missedDelay": null,
-      "lastUpdated": 1785167783328,
+      "lastUpdated": 1793351063348,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Emreco Bengaline Crop Trousers (Size 14) - White",
-      "auctionCode": "0019796970",
-      "source": "gha"
+      "title": "Emreco Bengaline Crop Trousers (Size 12) - White",
+      "auctionCode": "0019929298",
+      "source": "gha",
+      "lastAir": 1793351063348,
+      "pdpPrice": "12.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8547863": {
       "sku": "8547863",
@@ -500206,8 +500212,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793350946135,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -571619,11 +571625,22 @@
         "followingSku": "8584868",
         "followingTitle": "Pure and Natural Long Sleeve Round Neck Printed Stripe Top (Size XL, 20-22) - Wine",
         "followingAuctionCode": "0019929457"
+      },
+      {
+        "start": 1793350946135,
+        "end": 1793351063348,
+        "durationMin": 2.0,
+        "precedingSku": "8226296",
+        "precedingTitle": "Emreco Bengaline Crop Trousers (Size 12) - Navy",
+        "precedingAuctionCode": "0019929297",
+        "followingSku": "8226302",
+        "followingTitle": "Emreco Bengaline Crop Trousers (Size 12) - White",
+        "followingAuctionCode": "0019929298"
       }
     ],
-    "lastOnAirSku": "8226296",
-    "lastOnAirTitle": "Emreco Bengaline Crop Trousers (Size 12) - Navy",
-    "lastOnAirAuctionCode": "0019929297",
+    "lastOnAirSku": "8226302",
+    "lastOnAirTitle": "Emreco Bengaline Crop Trousers (Size 12) - White",
+    "lastOnAirAuctionCode": "0019929298",
     "precedingSku": "8226296",
     "precedingTitle": "Emreco Bengaline Crop Trousers (Size 12) - Navy",
     "precedingAuctionCode": "0019929297"
