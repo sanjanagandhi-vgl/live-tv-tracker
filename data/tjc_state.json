@@ -275688,23 +275688,23 @@
       "sku": "8624421",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-27",
-      "time": "05:29:20",
+      "date": "2026-10-30",
+      "time": "04:58:24",
       "preExisting": true,
       "missedAt": 1788127102861,
       "missedDelay": null,
-      "lastUpdated": 1793078960343,
+      "lastUpdated": 1793336304785,
       "missedPrice": 379.99,
       "missedImg": true,
       "title": "EON 1962 Dragon & Phoenix Ronda 775 Swiss Movement 5ATM WR White 24K Gold Coin Dial & IPG 316 Stainless Steel Case Womens Watch with Brown Genuine Leather Strap",
-      "auctionCode": "0019924345",
+      "auctionCode": "0019929833",
       "source": "gha",
       "productUrl": "/products/eon-1962-dragon-phoenix-ronda-775-swiss-movement-5atm-wr-white-24k-gold-coin-dial-ipg-316-stainless-steel-case-womens-watch-6048624420",
       "productUrlChecked": 1788127109510,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1793078960343,
-      "pdpPrice": "299.99",
+      "lastAir": 1793336304785,
+      "pdpPrice": "4999.99",
       "buy": true,
       "login": false,
       "img": true
@@ -499752,8 +499752,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793336240408,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -571033,11 +571033,22 @@
         "followingSku": "8689613",
         "followingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
         "followingAuctionCode": "0019929871"
+      },
+      {
+        "start": 1793336240408,
+        "end": 1793336304785,
+        "durationMin": 1.1,
+        "precedingSku": "8689613",
+        "precedingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
+        "precedingAuctionCode": "0019929871",
+        "followingSku": "8624421",
+        "followingTitle": "EON 1962 Dragon & Phoenix Ronda 775 Swiss Movement 5ATM WR White 24K Gold Coin Dial & IPG 316 Stainless Steel Case Womens Watch with Brown Genuine Leather Strap",
+        "followingAuctionCode": "0019929833"
       }
     ],
-    "lastOnAirSku": "8689613",
-    "lastOnAirTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
-    "lastOnAirAuctionCode": "0019929871",
+    "lastOnAirSku": "8624421",
+    "lastOnAirTitle": "EON 1962 Dragon & Phoenix Ronda 775 Swiss Movement 5ATM WR White 24K Gold Coin Dial & IPG 316 Stainless Steel Case Womens Watch with Brown Genuine Leather Strap",
+    "lastOnAirAuctionCode": "0019929833",
     "precedingSku": "8689613",
     "precedingTitle": "Maestro Collection 9K Yellow Gold Double Curb Bracelet (Size - 8) with Lobster Clasp 10.85 Gram",
     "precedingAuctionCode": "0019929871"
