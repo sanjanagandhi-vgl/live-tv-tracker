@@ -481909,21 +481909,26 @@
       "sku": "8498662",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-23",
-      "time": "15:34:23",
+      "date": "2026-10-30",
+      "time": "06:18:23",
       "preExisting": true,
       "missedAt": 1792766063901,
       "missedDelay": null,
-      "lastUpdated": 1792766063901,
+      "lastUpdated": 1793341103269,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Dr Botanicals Brightening Duo Moisturiser with 1% Vitamin C & Vitamin E - 60ml",
-      "auctionCode": "0019920146",
+      "title": "Dr Botanicals Hydrating Day Moisturiser with 1% Hyaluronic Acid & 1% Vitamin C - 60ml",
+      "auctionCode": "0019928624",
       "source": "gha",
       "productUrl": "/products/dr-botanicals-hydrating-mask-with-1-hyaluronic-acid-1-gluconolactone-60ml",
       "productUrlChecked": 1792766068621,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793341103269,
+      "pdpPrice": "39.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8832325": {
       "sku": "8832325",
@@ -499980,8 +499985,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793341044617,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -571316,11 +571321,22 @@
         "followingSku": "8671496",
         "followingTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
         "followingAuctionCode": "0019928608"
+      },
+      {
+        "start": 1793341044617,
+        "end": 1793341103269,
+        "durationMin": 1.0,
+        "precedingSku": "8671496",
+        "precedingTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
+        "precedingAuctionCode": "0019928608",
+        "followingSku": "8498662",
+        "followingTitle": "Dr Botanicals Hydrating Day Moisturiser with 1% Hyaluronic Acid & 1% Vitamin C - 60ml",
+        "followingAuctionCode": "0019928624"
       }
     ],
-    "lastOnAirSku": "8671496",
-    "lastOnAirTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
-    "lastOnAirAuctionCode": "0019928608",
+    "lastOnAirSku": "8498662",
+    "lastOnAirTitle": "Dr Botanicals Hydrating Day Moisturiser with 1% Hyaluronic Acid & 1% Vitamin C - 60ml",
+    "lastOnAirAuctionCode": "0019928624",
     "precedingSku": "8671496",
     "precedingTitle": "Bodyography Lipstick Creamy - High-Pigment with Aloe - Vit E- Mistral (Nude Shimmer)",
     "precedingAuctionCode": "0019928608"
