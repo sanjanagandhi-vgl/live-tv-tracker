@@ -501078,11 +501078,29 @@
       "missedDelay": 1,
       "missedPrice": 19.99,
       "missedImg": true
+    },
+    "4528138": {
+      "sku": "4528138",
+      "firstAir": 1793364344068,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793364344068,
+      "title": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
+      "pdpPrice": "159.99",
+      "auctionCode": "0019930246",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "12:45:44",
+      "productUrl": null,
+      "lastUpdated": 1793364344068,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793364264030,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572659,11 +572677,22 @@
         "followingSku": "8798694",
         "followingTitle": "Manhattan Close Out - Tri-Colour Multi-Strand Bangle",
         "followingAuctionCode": "0019929933"
+      },
+      {
+        "start": 1793364264030,
+        "end": 1793364344068,
+        "durationMin": 1.3,
+        "precedingSku": "8744658",
+        "precedingTitle": "Manhattan Close Out - Tri-Colour Greek-Key Hoop Earrings with Clasp",
+        "precedingAuctionCode": null,
+        "followingSku": "4528138",
+        "followingTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
+        "followingAuctionCode": "0019930246"
       }
     ],
-    "lastOnAirSku": "8744658",
-    "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Greek-Key Hoop Earrings with Clasp",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "4528138",
+    "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
+    "lastOnAirAuctionCode": "0019930246",
     "precedingSku": "8744658",
     "precedingTitle": "Manhattan Close Out - Tri-Colour Greek-Key Hoop Earrings with Clasp",
     "precedingAuctionCode": null
