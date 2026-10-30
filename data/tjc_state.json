@@ -500674,14 +500674,21 @@
       "img": true,
       "date": "2026-10-30",
       "time": "10:29:23",
-      "productUrl": null,
-      "lastUpdated": 1793356163608,
-      "source": "gha"
+      "productUrl": "/products/set-of-2-multi-colour-pearl-multi-colour-agate-adjustable-bangle-145-00-ct",
+      "lastUpdated": 1793356261430,
+      "source": "gha",
+      "missedAt": 1793356261430,
+      "missedDelay": 2,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "productUrlChecked": 1793356264180,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793356261430,
     "gaps": [
       {
         "start": 1785823527869,
@@ -572186,8 +572193,8 @@
     "lastOnAirSku": "4419858",
     "lastOnAirTitle": "Set of 2 - Multi Colour Pearl & Multi Colour Agate Adjustable Bangle 145.00 Ct.",
     "lastOnAirAuctionCode": "0019928336",
-    "precedingSku": "8376254",
-    "precedingTitle": "Sterling Silver Anchor Pendant",
-    "precedingAuctionCode": "0019928323"
+    "precedingSku": "4419858",
+    "precedingTitle": "Set of 2 - Multi Colour Pearl & Multi Colour Agate Adjustable Bangle 145.00 Ct.",
+    "precedingAuctionCode": "0019928336"
   }
 }
