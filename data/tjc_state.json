@@ -30912,23 +30912,23 @@
       "sku": "8567190",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-18",
-      "time": "21:47:19",
+      "date": "2026-10-30",
+      "time": "18:27:22",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1789764439510,
+      "lastUpdated": 1793384842937,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Novelty Lobster Cartoon Mini Backpack Rucksack - Yellow",
-      "auctionCode": "0019875187",
+      "title": "Novelty Lobster Cartoon Mini Backpack Rucksack - Black",
+      "auctionCode": "0019928444",
       "source": "gha",
       "productUrl": "/products/patterned-backpack-size-25x5x36-cm-red-8567189?variant=53369738494218",
       "productUrlChecked": 1785475558094,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1789764439510,
-      "pdpPrice": 9.99,
+      "lastAir": 1793384842937,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -502819,8 +502819,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793384732148,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -574551,11 +574551,22 @@
         "followingSku": "8506327",
         "followingTitle": "Hanging Wardrobe Organizer - 3-Tier Wardrobe Shelves & Oxford Cloth Packing Cube (30x23x56cm) - Grey",
         "followingAuctionCode": "0019928430"
+      },
+      {
+        "start": 1793384732148,
+        "end": 1793384842937,
+        "durationMin": 1.8,
+        "precedingSku": "8506327",
+        "precedingTitle": "Hanging Wardrobe Organizer - 3-Tier Wardrobe Shelves & Oxford Cloth Packing Cube (30x23x56cm) - Grey",
+        "precedingAuctionCode": "0019928430",
+        "followingSku": "8567190",
+        "followingTitle": "Novelty Lobster Cartoon Mini Backpack Rucksack - Black",
+        "followingAuctionCode": "0019928444"
       }
     ],
-    "lastOnAirSku": "8506327",
-    "lastOnAirTitle": "Hanging Wardrobe Organizer - 3-Tier Wardrobe Shelves & Oxford Cloth Packing Cube (30x23x56cm) - Grey",
-    "lastOnAirAuctionCode": "0019928430",
+    "lastOnAirSku": "8567190",
+    "lastOnAirTitle": "Novelty Lobster Cartoon Mini Backpack Rucksack - Black",
+    "lastOnAirAuctionCode": "0019928444",
     "precedingSku": "8506327",
     "precedingTitle": "Hanging Wardrobe Organizer - 3-Tier Wardrobe Shelves & Oxford Cloth Packing Cube (30x23x56cm) - Grey",
     "precedingAuctionCode": "0019928430"
