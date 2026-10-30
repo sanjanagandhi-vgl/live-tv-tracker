@@ -500894,11 +500894,33 @@
       "date": "2026-10-30",
       "time": "12:11:19",
       "productUrl": "/products/cuff-bangle-pure-yellow-brass-8744643?variant=54005808955658",
-      "lastUpdated": 1793362279959,
+      "lastUpdated": 1793362345303,
       "source": "gha",
       "productUrlChecked": 1793362283454,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793362345303,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
+    },
+    "8744740": {
+      "sku": "8744740",
+      "firstAir": 1793362345303,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793362345303,
+      "title": "Manhattan Close Out - Hoop Earrings with Clasp",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019929917",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-30",
+      "time": "12:12:25",
+      "productUrl": null,
+      "lastUpdated": 1793362345303,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -572471,9 +572493,9 @@
         "followingAuctionCode": "0019929879"
       }
     ],
-    "lastOnAirSku": "8744643",
-    "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Cuff Bangle (Size - 7.5)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8744740",
+    "lastOnAirTitle": "Manhattan Close Out - Hoop Earrings with Clasp",
+    "lastOnAirAuctionCode": "0019929917",
     "precedingSku": "8744651",
     "precedingTitle": "Manhattan Close Out - Twisted Hexagon Hoop Earrings with Clasp",
     "precedingAuctionCode": "0019929883"
