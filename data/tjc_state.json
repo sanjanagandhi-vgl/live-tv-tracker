@@ -94906,21 +94906,26 @@
       "sku": "8305899",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-07",
-      "time": "06:38:23",
+      "date": "2026-10-30",
+      "time": "06:27:19",
       "preExisting": true,
       "missedAt": 1786081103370,
       "missedDelay": null,
-      "lastUpdated": 1786081103370,
+      "lastUpdated": 1793341639841,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Douvalls Argan Brow Tinted Growth Serum - Soft Brown",
-      "auctionCode": "0019810810",
+      "title": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
+      "auctionCode": "0019928623",
       "source": "gha",
       "productUrl": "/products/douvalls-tinted-eyebrow-growth-serum",
       "productUrlChecked": 1786081110580,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793341639841,
+      "pdpPrice": "125.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8071880": {
       "sku": "8071880",
@@ -500005,8 +500010,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793341530184,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -571352,11 +571357,22 @@
         "followingSku": "8498662",
         "followingTitle": "Dr Botanicals Hydrating Day Moisturiser with 1% Hyaluronic Acid & 1% Vitamin C - 60ml",
         "followingAuctionCode": "0019928624"
+      },
+      {
+        "start": 1793341530184,
+        "end": 1793341639841,
+        "durationMin": 1.8,
+        "precedingSku": "8498662",
+        "precedingTitle": "Dr Botanicals Hydrating Day Moisturiser with 1% Hyaluronic Acid & 1% Vitamin C - 60ml",
+        "precedingAuctionCode": "0019928624",
+        "followingSku": "8305899",
+        "followingTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
+        "followingAuctionCode": "0019928623"
       }
     ],
-    "lastOnAirSku": "8498662",
-    "lastOnAirTitle": "Dr Botanicals Hydrating Day Moisturiser with 1% Hyaluronic Acid & 1% Vitamin C - 60ml",
-    "lastOnAirAuctionCode": "0019928624",
+    "lastOnAirSku": "8305899",
+    "lastOnAirTitle": "Set of 2 Douvalls Argan Brow Tinted Growth Serum - Soft Brown & Dark Brown",
+    "lastOnAirAuctionCode": "0019928623",
     "precedingSku": "8498662",
     "precedingTitle": "Dr Botanicals Hydrating Day Moisturiser with 1% Hyaluronic Acid & 1% Vitamin C - 60ml",
     "precedingAuctionCode": "0019928624"
