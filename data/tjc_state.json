@@ -112378,17 +112378,17 @@
       "firstAir": 1786227678809,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792884743591,
+      "lastAir": 1793403640839,
       "title": "La Bella Fine Italian Jewellery - Sterling Silver Bracelet (Size - 7.5) with Lobster Clasp",
-      "pdpPrice": 29.99,
-      "auctionCode": null,
+      "pdpPrice": "29.99",
+      "auctionCode": "0019930684",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-25",
-      "time": "00:32:23",
+      "date": "2026-10-30",
+      "time": "23:40:40",
       "productUrl": "/products/la-bella-fine-italian-jewellery-sterling-silver-bracelet-size-7-5-with-lobster-clasp?variant=53108187365642",
-      "lastUpdated": 1792884743591,
+      "lastUpdated": 1793403640839,
       "source": "gha",
       "missedAt": 1786228341353,
       "missedDelay": 9,
@@ -503139,8 +503139,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793403562029,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575124,11 +575124,22 @@
         "followingSku": "8681101",
         "followingTitle": "Bronzella Collection - Full Hoop Earring with Clasp in 18K Gold Plating 8.80 Gms",
         "followingAuctionCode": "0019930680"
+      },
+      {
+        "start": 1793403562029,
+        "end": 1793403640839,
+        "durationMin": 1.3,
+        "precedingSku": "8681101",
+        "precedingTitle": "Bronzella Collection - Full Hoop Earring with Clasp in 18K Gold Plating 8.80 Gms",
+        "precedingAuctionCode": "0019930680",
+        "followingSku": "8499795",
+        "followingTitle": "La Bella Fine Italian Jewellery - Sterling Silver Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019930684"
       }
     ],
-    "lastOnAirSku": "8681101",
-    "lastOnAirTitle": "Bronzella Collection - Full Hoop Earring with Clasp in 18K Gold Plating 8.80 Gms",
-    "lastOnAirAuctionCode": "0019930680",
+    "lastOnAirSku": "8499795",
+    "lastOnAirTitle": "La Bella Fine Italian Jewellery - Sterling Silver Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019930684",
     "precedingSku": "8681101",
     "precedingTitle": "Bronzella Collection - Full Hoop Earring with Clasp in 18K Gold Plating 8.80 Gms",
     "precedingAuctionCode": "0019930680"
