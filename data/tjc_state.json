@@ -444149,24 +444149,25 @@
       "firstAir": 1791704434099,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792957463282,
+      "lastAir": 1793399600121,
       "title": "Moissanite Cluster Boat Ring in Rhodium Overlay Sterling Silver 2.64 Ct.",
-      "pdpPrice": 49.99,
-      "auctionCode": "0019922724",
+      "pdpPrice": "1049.99",
+      "auctionCode": "0019930458",
       "buy": true,
       "login": false,
-      "date": "2026-10-25",
-      "time": "19:44:23",
+      "date": "2026-10-30",
+      "time": "22:33:20",
       "productUrl": "/products/moissanite-cluster-boat-ring-in-rhodium-overlay-sterling-silver-2-64-ct",
-      "lastUpdated": 1792957463282,
-      "source": "gha-variant",
+      "lastUpdated": 1793399600121,
+      "source": "gha",
       "missedAt": 1791705741662,
       "missedDelay": 10,
       "missedPrice": 49.99,
       "missedImg": true,
       "productUrlChecked": 1791705745689,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "img": true
     },
     "7270121": {
       "sku": "7270121",
@@ -503138,8 +503139,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793399457862,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575057,11 +575058,22 @@
         "followingSku": "8640811",
         "followingTitle": "Pink Conch Shell & White Edison Pearl Adjustable Flower Necklace with Cotton Thread (Size - 26)",
         "followingAuctionCode": "0019930445"
+      },
+      {
+        "start": 1793399457862,
+        "end": 1793399600121,
+        "durationMin": 2.4,
+        "precedingSku": "8640811",
+        "precedingTitle": "Pink Conch Shell & White Edison Pearl Adjustable Flower Necklace with Cotton Thread (Size - 26)",
+        "precedingAuctionCode": "0019930445",
+        "followingSku": "7270120",
+        "followingTitle": "Moissanite Cluster Boat Ring in Rhodium Overlay Sterling Silver 2.64 Ct.",
+        "followingAuctionCode": "0019930458"
       }
     ],
-    "lastOnAirSku": "8640811",
-    "lastOnAirTitle": "Pink Conch Shell & White Edison Pearl Adjustable Flower Necklace with Cotton Thread (Size - 26)",
-    "lastOnAirAuctionCode": "0019930445",
+    "lastOnAirSku": "7270120",
+    "lastOnAirTitle": "Moissanite Cluster Boat Ring in Rhodium Overlay Sterling Silver 2.64 Ct.",
+    "lastOnAirAuctionCode": "0019930458",
     "precedingSku": "8640811",
     "precedingTitle": "Pink Conch Shell & White Edison Pearl Adjustable Flower Necklace with Cotton Thread (Size - 26)",
     "precedingAuctionCode": "0019930445"
