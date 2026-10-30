@@ -426271,21 +426271,26 @@
       "sku": "7442396",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-04",
-      "time": "18:13:18",
+      "date": "2026-10-30",
+      "time": "23:50:39",
       "preExisting": true,
       "missedAt": 1791133998743,
       "missedDelay": null,
-      "lastUpdated": 1791133998743,
+      "lastUpdated": 1793404239888,
       "missedPrice": 39.99,
       "missedImg": true,
-      "title": "Ethiopian Welo Opal and Natural Cambodian Zircon Ring in Platinum Plating Sterling Silver 0.96 Ct.",
-      "auctionCode": "0019895465",
+      "title": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
+      "auctionCode": "0019930695",
       "source": "gha",
       "productUrl": "/products/princess-diana-inspired-halo-ring-in-sterling-silver-1638267968",
       "productUrlChecked": 1791134007746,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793404239888,
+      "pdpPrice": "149.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "7442394": {
       "sku": "7442394",
@@ -503139,8 +503144,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793404160009,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575135,11 +575140,22 @@
         "followingSku": "8499795",
         "followingTitle": "La Bella Fine Italian Jewellery - Sterling Silver Bracelet (Size - 7.5) with Lobster Clasp",
         "followingAuctionCode": "0019930684"
+      },
+      {
+        "start": 1793404160009,
+        "end": 1793404239888,
+        "durationMin": 1.3,
+        "precedingSku": "8500488",
+        "precedingTitle": "Orissa Natural Rhodolite Garnet Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver 1.43 Ct.",
+        "precedingAuctionCode": "0019930685",
+        "followingSku": "7442396",
+        "followingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
+        "followingAuctionCode": "0019930695"
       }
     ],
-    "lastOnAirSku": "8500488",
-    "lastOnAirTitle": "Orissa Natural Rhodolite Garnet Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver 1.43 Ct.",
-    "lastOnAirAuctionCode": "0019930685",
+    "lastOnAirSku": "7442396",
+    "lastOnAirTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
+    "lastOnAirAuctionCode": "0019930695",
     "precedingSku": "8500488",
     "precedingTitle": "Orissa Natural Rhodolite Garnet Solitaire Stud Push Post Earring in Yellow Gold Plated Sterling Silver 1.43 Ct.",
     "precedingAuctionCode": "0019930685"
