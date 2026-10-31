@@ -21254,17 +21254,23 @@
       "sku": "8532711",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "11:44:23",
+      "date": "2026-10-31",
+      "time": "00:48:25",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785321863299,
+      "lastUpdated": 1793407705315,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "La Marey Signature 100% Mulberry Silk Scarf (Size 50 x 175 cm) Yellow",
-      "auctionCode": "0019799204",
-      "source": "gha"
+      "title": "100% Mulberry Silk Signature Printed Silk Scarf (Size 50 x 175 m) - Aqua",
+      "auctionCode": "0019930342",
+      "source": "gha",
+      "lastAir": 1793407705315,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8535501": {
       "sku": "8535501",
@@ -503226,8 +503232,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793407641717,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575277,11 +575283,22 @@
         "followingSku": "8525763",
         "followingTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Blue",
         "followingAuctionCode": "0019930355"
+      },
+      {
+        "start": 1793407641717,
+        "end": 1793407705315,
+        "durationMin": 1.1,
+        "precedingSku": "8525763",
+        "precedingTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Blue",
+        "precedingAuctionCode": "0019930355",
+        "followingSku": "8532711",
+        "followingTitle": "100% Mulberry Silk Signature Printed Silk Scarf (Size 50 x 175 m) - Aqua",
+        "followingAuctionCode": "0019930342"
       }
     ],
-    "lastOnAirSku": "8525763",
-    "lastOnAirTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Blue",
-    "lastOnAirAuctionCode": "0019930355",
+    "lastOnAirSku": "8532711",
+    "lastOnAirTitle": "100% Mulberry Silk Signature Printed Silk Scarf (Size 50 x 175 m) - Aqua",
+    "lastOnAirAuctionCode": "0019930342",
     "precedingSku": "8525763",
     "precedingTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Blue",
     "precedingAuctionCode": "0019930355"
