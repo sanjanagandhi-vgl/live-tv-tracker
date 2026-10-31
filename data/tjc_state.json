@@ -503641,11 +503641,29 @@
       "productUrlChecked": 1793435459709,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8192147": {
+      "sku": "8192147",
+      "firstAir": 1793441479053,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793441479053,
+      "title": "Luxuriant SI-G/H Lab Grown Diamond Infinity Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019931073",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-10-31",
+      "time": "10:11:19",
+      "productUrl": null,
+      "lastUpdated": 1793441479053,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793441241136,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -576058,11 +576076,22 @@
         "followingSku": "8619117",
         "followingTitle": "QED Set of Two Fleece Leggings (Size XXL, 24-26) - Black & Navy",
         "followingAuctionCode": "0019931686"
+      },
+      {
+        "start": 1793441241136,
+        "end": 1793441479053,
+        "durationMin": 4.0,
+        "precedingSku": "8619117",
+        "precedingTitle": "QED Set of Two Fleece Leggings (Size XXL, 24-26) - Black & Navy",
+        "precedingAuctionCode": "0019931686",
+        "followingSku": "8192147",
+        "followingTitle": "Luxuriant SI-G/H Lab Grown Diamond Infinity Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019931073"
       }
     ],
-    "lastOnAirSku": "8619117",
-    "lastOnAirTitle": "QED Set of Two Fleece Leggings (Size XXL, 24-26) - Black & Navy",
-    "lastOnAirAuctionCode": "0019931686",
+    "lastOnAirSku": "8192147",
+    "lastOnAirTitle": "Luxuriant SI-G/H Lab Grown Diamond Infinity Earring with Push Back in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019931073",
     "precedingSku": "8619117",
     "precedingTitle": "QED Set of Two Fleece Leggings (Size XXL, 24-26) - Black & Navy",
     "precedingAuctionCode": "0019931686"
