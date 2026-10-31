@@ -4202,18 +4202,18 @@
       "sku": "8626601",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-29",
-      "time": "16:26:26",
+      "date": "2026-10-31",
+      "time": "04:18:23",
       "preExisting": true,
       "missedAt": 1784879598171,
       "missedDelay": null,
-      "lastUpdated": 1793291186642,
+      "lastUpdated": 1793420303902,
       "missedPrice": 179.99,
       "missedImg": true,
       "title": "Biggest Close Out -9K Yellow Gold Spiga Necklace (Size - 24)",
-      "auctionCode": "0019926425",
+      "auctionCode": "0019931462",
       "source": "gha",
-      "lastAir": 1793291186642,
+      "lastAir": 1793420303902,
       "pdpPrice": "199.99",
       "buy": true,
       "login": false,
@@ -503324,8 +503324,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793419840436,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575562,11 +575562,22 @@
         "followingSku": "8630816",
         "followingTitle": "D'Joy - Ethiopian Opal Beads Necklace (Size - 18-2 Ext) in 18K Vermeil Yellow Gold Plated Sterling Silver 40.00 Ct.",
         "followingAuctionCode": "0019931461"
+      },
+      {
+        "start": 1793419840436,
+        "end": 1793420303902,
+        "durationMin": 7.7,
+        "precedingSku": "8630816",
+        "precedingTitle": "D'Joy - Ethiopian Opal Beads Necklace (Size - 18-2 Ext) in 18K Vermeil Yellow Gold Plated Sterlin...",
+        "precedingAuctionCode": null,
+        "followingSku": "8626601",
+        "followingTitle": "Biggest Close Out -9K Yellow Gold Spiga Necklace (Size - 24)",
+        "followingAuctionCode": "0019931462"
       }
     ],
-    "lastOnAirSku": "8630816",
-    "lastOnAirTitle": "D'Joy - Ethiopian Opal Beads Necklace (Size - 18-2 Ext) in 18K Vermeil Yellow Gold Plated Sterlin...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8626601",
+    "lastOnAirTitle": "Biggest Close Out -9K Yellow Gold Spiga Necklace (Size - 24)",
+    "lastOnAirAuctionCode": "0019931462",
     "precedingSku": "8630816",
     "precedingTitle": "D'Joy - Ethiopian Opal Beads Necklace (Size - 18-2 Ext) in 18K Vermeil Yellow Gold Plated Sterlin...",
     "precedingAuctionCode": null
