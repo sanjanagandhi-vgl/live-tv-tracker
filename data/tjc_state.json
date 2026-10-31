@@ -498454,9 +498454,16 @@
       "img": true,
       "date": "2026-10-31",
       "time": "01:28:24",
-      "productUrl": null,
-      "lastUpdated": 1793410104135,
-      "source": "gha"
+      "productUrl": "/products/designer-inspired-ethiopian-opal-brown-zircon-cluster-bracelet",
+      "lastUpdated": 1793410159801,
+      "source": "gha",
+      "missedAt": 1793410159801,
+      "missedDelay": 1,
+      "missedPrice": 149.99,
+      "missedImg": true,
+      "productUrlChecked": 1793410161585,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7324685": {
       "sku": "7324685",
@@ -503271,8 +503278,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793410159801,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575371,8 +575378,8 @@
     "lastOnAirSku": "8184020",
     "lastOnAirTitle": "Designer Inspired -  Ethiopian Opal & Brown Zircon Cluster Bracelet (Size 7) in Rhodium Overlay Sterling Silver 13.57 Ct, Silver Wt. 16.31 Gms.",
     "lastOnAirAuctionCode": "0019931441",
-    "precedingSku": "4537573",
-    "precedingTitle": "D'Joy - Ethiopian Opal Solitaire Pendant in Yellow Gold Plated Sterling Silver with Chain (Size 20)",
-    "precedingAuctionCode": "0019931435"
+    "precedingSku": "8184020",
+    "precedingTitle": "Designer Inspired -  Ethiopian Opal & Brown Zircon Cluster Bracelet (Size 7) in Rhodium Overlay Sterling Silver 13.57 Ct, Silver Wt. 16.31 Gms.",
+    "precedingAuctionCode": "0019931441"
   }
 }
