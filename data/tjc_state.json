@@ -498394,21 +498394,26 @@
       "sku": "8356491",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-29",
-      "time": "15:10:42",
+      "date": "2026-10-31",
+      "time": "01:03:20",
       "preExisting": true,
       "missedAt": 1793286642248,
       "missedDelay": null,
-      "lastUpdated": 1793286642248,
+      "lastUpdated": 1793408600135,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "EXCLUSIVE - Harry Potter Magical Essence Man Legendary EDP - 50ml",
-      "auctionCode": "0019927802",
+      "auctionCode": "0019931427",
       "source": "gha",
       "productUrl": "/products/exclusive-uk-launch-harry-potter-magical-essence-woman-mystic-edp-30ml",
       "productUrlChecked": 1793286644794,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793408600135,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8795919": {
       "sku": "8795919",
@@ -503266,8 +503271,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793408466000,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575328,11 +575333,22 @@
         "followingSku": "8532711",
         "followingTitle": "100% Mulberry Silk Signature Printed Silk Scarf (Size 50 x 175 m) - Aqua",
         "followingAuctionCode": "0019930342"
+      },
+      {
+        "start": 1793408466000,
+        "end": 1793408600135,
+        "durationMin": 2.2,
+        "precedingSku": "8683484",
+        "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
+        "precedingAuctionCode": "0019930359",
+        "followingSku": "8356491",
+        "followingTitle": "EXCLUSIVE - Harry Potter Magical Essence Man Legendary EDP - 50ml",
+        "followingAuctionCode": "0019931427"
       }
     ],
-    "lastOnAirSku": "8683484",
-    "lastOnAirTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
-    "lastOnAirAuctionCode": "0019930359",
+    "lastOnAirSku": "8356491",
+    "lastOnAirTitle": "EXCLUSIVE - Harry Potter Magical Essence Man Legendary EDP - 50ml",
+    "lastOnAirAuctionCode": "0019931427",
     "precedingSku": "8683484",
     "precedingTitle": "Set of 4 Pairs Unisex Copper Infused Ankle Socks (Size S-M, 5 to 10) - Black, White, Grey & Beige",
     "precedingAuctionCode": "0019930359"
