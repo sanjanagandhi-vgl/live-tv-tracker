@@ -50404,21 +50404,26 @@
       "sku": "8609013",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-01",
-      "time": "15:44:23",
+      "date": "2026-10-31",
+      "time": "11:09:22",
       "preExisting": true,
       "missedAt": 1785595463932,
       "missedDelay": null,
-      "lastUpdated": 1785595463932,
+      "lastUpdated": 1793444962291,
       "missedPrice": 999.99,
       "missedImg": true,
       "title": "Manhattan Close Out Deal - 14K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Ring 2.00 Ct.",
-      "auctionCode": "0019801252",
+      "auctionCode": "0019931115",
       "source": "gha",
       "productUrl": "/products/manhattan-close-out-deal-14k-yellow-gold-sgl-certified-lab-grown-green-diamond-si-solitaire-ring-2-00-ct-m8608998",
       "productUrlChecked": 1785595485486,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793444962291,
+      "pdpPrice": "14566.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8609014": {
       "sku": "8609014",
@@ -503702,8 +503707,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793444664728,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -576160,11 +576165,22 @@
         "followingSku": "8515099",
         "followingTitle": "Luxuriant - Lab Grown Diamond Sterling Silver Necklace (Size - 20)",
         "followingAuctionCode": "0019931055"
+      },
+      {
+        "start": 1793444664728,
+        "end": 1793444962291,
+        "durationMin": 5.0,
+        "precedingSku": "8515099",
+        "precedingTitle": "Luxuriant - Lab Grown Diamond Sterling Silver Necklace (Size - 20)",
+        "precedingAuctionCode": "0019931055",
+        "followingSku": "8609013",
+        "followingTitle": "Manhattan Close Out Deal - 14K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Ring 2.00 Ct.",
+        "followingAuctionCode": "0019931115"
       }
     ],
-    "lastOnAirSku": "8515099",
-    "lastOnAirTitle": "Luxuriant - Lab Grown Diamond Sterling Silver Necklace (Size - 20)",
-    "lastOnAirAuctionCode": "0019931055",
+    "lastOnAirSku": "8609013",
+    "lastOnAirTitle": "Manhattan Close Out Deal - 14K Yellow Gold SGL Certified Lab Grown Green Diamond (SI) Solitaire Ring 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019931115",
     "precedingSku": "8515099",
     "precedingTitle": "Luxuriant - Lab Grown Diamond Sterling Silver Necklace (Size - 20)",
     "precedingAuctionCode": "0019931055"
