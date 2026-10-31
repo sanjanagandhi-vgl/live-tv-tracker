@@ -503689,14 +503689,21 @@
       "img": true,
       "date": "2026-10-31",
       "time": "11:03:20",
-      "productUrl": null,
-      "lastUpdated": 1793444600795,
-      "source": "gha"
+      "productUrl": "/products/luxuriant-lab-grown-diamond-sterling-silver-necklace-size-20-8515099",
+      "lastUpdated": 1793444664728,
+      "source": "gha",
+      "missedAt": 1793444664728,
+      "missedDelay": 1,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "productUrlChecked": 1793444667612,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793444664728,
     "gaps": [
       {
         "start": 1785823527869,
@@ -576158,8 +576165,8 @@
     "lastOnAirSku": "8515099",
     "lastOnAirTitle": "Luxuriant - Lab Grown Diamond Sterling Silver Necklace (Size - 20)",
     "lastOnAirAuctionCode": "0019931055",
-    "precedingSku": "4455129",
-    "precedingTitle": "Lucy Q - Lab Grown Diamond (VS-E-F) Bubble Pendant with Chain (Size 18-2 Ext) in Rhodium Overlay ...",
-    "precedingAuctionCode": null
+    "precedingSku": "8515099",
+    "precedingTitle": "Luxuriant - Lab Grown Diamond Sterling Silver Necklace (Size - 20)",
+    "precedingAuctionCode": "0019931055"
   }
 }
