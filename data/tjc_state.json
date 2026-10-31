@@ -19579,19 +19579,19 @@
       "sku": "8503684",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-24",
-      "time": "07:18:24",
+      "date": "2026-10-31",
+      "time": "03:45:41",
       "preExisting": true,
       "missedAt": 1785166157710,
       "missedDelay": null,
-      "lastUpdated": 1790230704250,
+      "lastUpdated": 1793418341749,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
-      "auctionCode": "0019882025",
+      "auctionCode": "0019930347",
       "source": "gha",
-      "lastAir": 1790230704250,
-      "pdpPrice": "19.99",
+      "lastAir": 1793418341749,
+      "pdpPrice": "29.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -503321,8 +503321,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793418262559,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575526,11 +575526,22 @@
         "followingSku": "8413610",
         "followingTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm - Pink",
         "followingAuctionCode": "0019930332"
+      },
+      {
+        "start": 1793418262559,
+        "end": 1793418341749,
+        "durationMin": 1.3,
+        "precedingSku": "8413610",
+        "precedingTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm - Pink",
+        "precedingAuctionCode": "0019930332",
+        "followingSku": "8503684",
+        "followingTitle": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
+        "followingAuctionCode": "0019930347"
       }
     ],
-    "lastOnAirSku": "8413610",
-    "lastOnAirTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm - Pink",
-    "lastOnAirAuctionCode": "0019930332",
+    "lastOnAirSku": "8503684",
+    "lastOnAirTitle": "LIVMORE Set of 3 Bamboo Towels -  500GSM -INC- Face Towel 33x34 CM, Hand Towel 33x73 CM, Bath Sheet 70x140 CM - Yellow",
+    "lastOnAirAuctionCode": "0019930347",
     "precedingSku": "8413610",
     "precedingTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm - Pink",
     "precedingAuctionCode": "0019930332"
