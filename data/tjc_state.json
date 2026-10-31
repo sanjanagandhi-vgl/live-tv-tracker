@@ -437640,21 +437640,26 @@
       "sku": "8762474",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-08",
-      "time": "15:07:24",
+      "date": "2026-10-31",
+      "time": "02:18:23",
       "preExisting": true,
       "missedAt": 1791468444028,
       "missedDelay": null,
-      "lastUpdated": 1791468444028,
+      "lastUpdated": 1793413103387,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Cat Novelty Hot Water Bottle & Socks Pamper Gift Set - Grey",
-      "auctionCode": "0019899785",
+      "title": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+      "auctionCode": "0019928766",
       "source": "gha",
       "productUrl": "/products/tjc-special-christmas-ornament-size-one-size-brown-8762472",
       "productUrlChecked": 1791468448073,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793413103387,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8762473": {
       "sku": "8762473",
@@ -503286,8 +503291,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793413040774,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575403,11 +575408,22 @@
         "followingSku": "6291319",
         "followingTitle": "Handcrafted Rose Flower Bear with Bow (Size 28x18x17Cm) - Turquoise Blue",
         "followingAuctionCode": "0019930148"
+      },
+      {
+        "start": 1793413040774,
+        "end": 1793413103387,
+        "durationMin": 1.0,
+        "precedingSku": "4507719",
+        "precedingTitle": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
+        "precedingAuctionCode": "0019928757",
+        "followingSku": "8762474",
+        "followingTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+        "followingAuctionCode": "0019928766"
       }
     ],
-    "lastOnAirSku": "4507719",
-    "lastOnAirTitle": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
-    "lastOnAirAuctionCode": "0019928757",
+    "lastOnAirSku": "8762474",
+    "lastOnAirTitle": "Highland Cow Novelty Hot Water Bottle & Socks Pamper Gift Set - Brown",
+    "lastOnAirAuctionCode": "0019928766",
     "precedingSku": "4507719",
     "precedingTitle": "LIVMORE 2-Piece Bamboo Towel & Sherpa Fleece Checked Socks Christmas Gift Set - Red & Black",
     "precedingAuctionCode": "0019928757"
