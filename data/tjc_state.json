@@ -23732,19 +23732,19 @@
       "sku": "8576663",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-06",
-      "time": "05:13:17",
+      "date": "2026-10-31",
+      "time": "22:11:20",
       "preExisting": true,
       "missedAt": 1785360383844,
       "missedDelay": null,
-      "lastUpdated": 1785989597185,
+      "lastUpdated": 1793484680701,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "D'Joy - AAA Zambian Amethyst & White Zircon Dangle Earring with Push Post in Rhodium Overlay Sterling Silver 2.50 Ct.",
-      "auctionCode": "0019808291",
+      "auctionCode": "0019931873",
       "source": "gha",
-      "lastAir": 1785989597185,
-      "pdpPrice": "59.99",
+      "lastAir": 1793484680701,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -504412,8 +504412,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793484642391,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -577167,11 +577167,22 @@
         "followingSku": "4484609",
         "followingTitle": "D'Joy - Natural Larimar & White Zircon Drop Pendant with Chain (Size 20) in Platinum Overlay Sterling Silver 2.36 Ct.",
         "followingAuctionCode": "0019931865"
+      },
+      {
+        "start": 1793484642391,
+        "end": 1793484680701,
+        "durationMin": 0.6,
+        "precedingSku": "8567915",
+        "precedingTitle": "D'Joy - Peacock Triplet Quartz & White Zircon Dangling Earring with Push Post in Platinum Overlay Sterling Silver 3.16 Ct.",
+        "precedingAuctionCode": "0019931871",
+        "followingSku": "8576663",
+        "followingTitle": "D'Joy - AAA Zambian Amethyst & White Zircon Dangle Earring with Push Post in Rhodium Overlay Sterling Silver 2.50 Ct.",
+        "followingAuctionCode": "0019931873"
       }
     ],
-    "lastOnAirSku": "8567915",
-    "lastOnAirTitle": "D'Joy - Peacock Triplet Quartz & White Zircon Dangling Earring with Push Post in Platinum Overlay Sterling Silver 3.16 Ct.",
-    "lastOnAirAuctionCode": "0019931871",
+    "lastOnAirSku": "8576663",
+    "lastOnAirTitle": "D'Joy - AAA Zambian Amethyst & White Zircon Dangle Earring with Push Post in Rhodium Overlay Sterling Silver 2.50 Ct.",
+    "lastOnAirAuctionCode": "0019931873",
     "precedingSku": "8567915",
     "precedingTitle": "D'Joy - Peacock Triplet Quartz & White Zircon Dangling Earring with Push Post in Platinum Overlay Sterling Silver 3.16 Ct.",
     "precedingAuctionCode": "0019931871"
