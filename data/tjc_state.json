@@ -79478,23 +79478,23 @@
       "sku": "8646991",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-19",
-      "time": "05:04:21",
+      "date": "2026-10-31",
+      "time": "08:11:21",
       "preExisting": true,
       "missedAt": 1785928646680,
       "missedDelay": null,
-      "lastUpdated": 1792382661040,
+      "lastUpdated": 1793434281180,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
-      "auctionCode": "0019914011",
+      "auctionCode": "0019929684",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-hoop-earring-with-clasp-8646993",
       "productUrlChecked": 1785928654481,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1792382661040,
-      "pdpPrice": "59.99",
+      "lastAir": 1793434281180,
+      "pdpPrice": "79.99",
       "buy": true,
       "login": false,
       "img": true
@@ -503619,8 +503619,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793434239896,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575967,11 +575967,22 @@
         "followingSku": "8414783",
         "followingTitle": "Tucson Preview- Natural Type A Jadeite Bracelet t (Size - 7) with Panther Lock 140.00 Ct.",
         "followingAuctionCode": "0019931479"
+      },
+      {
+        "start": 1793434239896,
+        "end": 1793434281180,
+        "durationMin": 0.7,
+        "precedingSku": "8588299",
+        "precedingTitle": "9K Yellow Gold Hoop Earring",
+        "precedingAuctionCode": "0019929656",
+        "followingSku": "8646991",
+        "followingTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
+        "followingAuctionCode": "0019929684"
       }
     ],
-    "lastOnAirSku": "8588299",
-    "lastOnAirTitle": "9K Yellow Gold Hoop Earring",
-    "lastOnAirAuctionCode": "0019929656",
+    "lastOnAirSku": "8646991",
+    "lastOnAirTitle": "Maestro Collection-9K Yellow Gold Hoop Earring with Clasp(Width 1.96mm)",
+    "lastOnAirAuctionCode": "0019929684",
     "precedingSku": "8588299",
     "precedingTitle": "9K Yellow Gold Hoop Earring",
     "precedingAuctionCode": "0019929656"
