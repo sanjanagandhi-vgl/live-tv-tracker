@@ -148350,21 +148350,26 @@
       "sku": "8328561",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-12",
-      "time": "22:55:30",
+      "date": "2026-10-31",
+      "time": "23:46:28",
       "preExisting": true,
       "missedAt": 1786571730875,
       "missedDelay": null,
-      "lastUpdated": 1786571730875,
+      "lastUpdated": 1793490388001,
       "missedPrice": 29.99,
       "missedImg": true,
       "title": "24K Gold (99.9% Purity) Embossed Dragon Treasure",
-      "auctionCode": "0019819313",
+      "auctionCode": "0019932017",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-1745043338",
       "productUrlChecked": 1786571743026,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793490388001,
+      "pdpPrice": "59.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8430998": {
       "sku": "8430998",
@@ -504898,14 +504903,21 @@
       "img": true,
       "date": "2026-10-31",
       "time": "23:44:22",
-      "productUrl": null,
-      "lastUpdated": 1793490262579,
-      "source": "gha"
+      "productUrl": "/products/djoy-rose-de-france-amethyst-orissa-rose-garnet-dangling-earring-with-push-post-in-rose-gold-plated-sterling-silver-2-60-ct-8701669",
+      "lastUpdated": 1793490388001,
+      "source": "gha",
+      "missedAt": 1793490388001,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1793490391136,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793490339870,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -577758,11 +577770,22 @@
         "followingSku": "8701669",
         "followingTitle": "D'Joy - AAA Rose De France Amethyst & Orissa Rose Garnet Dangling Earring with Push Post in Rose Gold Plated Sterling Silver 2.60 Ct.",
         "followingAuctionCode": "0019931999"
+      },
+      {
+        "start": 1793490339870,
+        "end": 1793490388001,
+        "durationMin": 0.8,
+        "precedingSku": "8701669",
+        "precedingTitle": "D'Joy - AAA Rose De France Amethyst & Orissa Rose Garnet Dangling Earring with Push Post in Rose Gold Plated Sterling Silver 2.60 Ct.",
+        "precedingAuctionCode": "0019931999",
+        "followingSku": "8328561",
+        "followingTitle": "24K Gold (99.9% Purity) Embossed Dragon Treasure",
+        "followingAuctionCode": "0019932017"
       }
     ],
-    "lastOnAirSku": "8701669",
-    "lastOnAirTitle": "D'Joy - AAA Rose De France Amethyst & Orissa Rose Garnet Dangling Earring with Push Post in Rose Gold Plated Sterling Silver 2.60 Ct.",
-    "lastOnAirAuctionCode": "0019931999",
+    "lastOnAirSku": "8328561",
+    "lastOnAirTitle": "24K Gold (99.9% Purity) Embossed Dragon Treasure",
+    "lastOnAirAuctionCode": "0019932017",
     "precedingSku": "8701669",
     "precedingTitle": "D'Joy - AAA Rose De France Amethyst & Orissa Rose Garnet Dangling Earring with Push Post in Rose Gold Plated Sterling Silver 2.60 Ct.",
     "precedingAuctionCode": "0019931999"
