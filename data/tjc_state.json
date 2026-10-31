@@ -2126,23 +2126,23 @@
       "sku": "8548666",
       "tvPrice": "",
       "remarks": "",
-      "time": "17:04:23",
+      "time": "09:13:21",
       "preExisting": true,
       "missedAt": 1784826347469,
       "missedDelay": null,
       "missedPrice": 24.99,
       "missedImg": false,
       "title": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-      "auctionCode": "0019926446",
+      "auctionCode": "0019931527",
       "source": "gha",
-      "lastAir": 1793293463867,
+      "lastAir": 1793438001427,
       "pdpPrice": "19.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-29",
+      "date": "2026-10-31",
       "productUrl": null,
-      "lastUpdated": 1793293463867
+      "lastUpdated": 1793438001427
     },
     "8548674": {
       "sku": "8548674",
@@ -503644,8 +503644,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793437268199,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -576014,11 +576014,22 @@
         "followingSku": "8691041",
         "followingTitle": "9K Yellow Gold Rope Necklace (Size - 30) with Lobster Clasp, Gold Wt. 4.22 Gms",
         "followingAuctionCode": "0019930472"
+      },
+      {
+        "start": 1793437268199,
+        "end": 1793438001427,
+        "durationMin": 12.2,
+        "precedingSku": "8698755",
+        "precedingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace",
+        "precedingAuctionCode": null,
+        "followingSku": "8548666",
+        "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "followingAuctionCode": "0019931527"
       }
     ],
-    "lastOnAirSku": "8698755",
-    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8548666",
+    "lastOnAirTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+    "lastOnAirAuctionCode": "0019931527",
     "precedingSku": "8698755",
     "precedingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace",
     "precedingAuctionCode": null
