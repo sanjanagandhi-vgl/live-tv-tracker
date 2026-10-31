@@ -504327,16 +504327,20 @@
       "date": "2026-10-31",
       "time": "18:53:21",
       "productUrl": "/products/rhodium-overlaysterling-silver-bracelet-size-9-8828847?variant=53917256777994",
-      "lastUpdated": 1793472801790,
+      "lastUpdated": 1793472862796,
       "source": "gha",
       "productUrlChecked": 1793472804318,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793472862796,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793472862796,
     "gaps": [
       {
         "start": 1785823527869,
@@ -576963,8 +576967,8 @@
     "lastOnAirSku": "8828847",
     "lastOnAirTitle": "Tree of Life Sliding Adjustable Bracelet (Size 6.5-9) in Rhodium Overlay Sterling Silver",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8615962",
-    "precedingTitle": "D'Joy - Purple Edison Pearl (10-11mm) Stud Ball Earring with Push Back in Rhodium Overlay Sterling Silver 11.40 Ct.",
-    "precedingAuctionCode": "0019932618"
+    "precedingSku": "8828847",
+    "precedingTitle": "Tree of Life Sliding Adjustable Bracelet (Size 6.5-9) in Rhodium Overlay Sterling Silver",
+    "precedingAuctionCode": null
   }
 }
