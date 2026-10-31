@@ -107582,23 +107582,23 @@
       "sku": "8413610",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-20",
-      "time": "02:21:22",
+      "date": "2026-10-31",
+      "time": "03:38:25",
       "preExisting": true,
       "missedAt": 1786166439168,
       "missedDelay": null,
-      "lastUpdated": 1787188882661,
+      "lastUpdated": 1793417905862,
       "missedPrice": 5.99,
       "missedImg": true,
-      "title": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm)- Yellow",
-      "auctionCode": "0019830265",
+      "title": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm - Pink",
+      "auctionCode": "0019930332",
       "source": "gha",
       "productUrl": "/products/artificial-flower-3048413573",
       "productUrlChecked": 1786166458603,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1787188882661,
-      "pdpPrice": "4.99",
+      "lastAir": 1793417905862,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -503321,8 +503321,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793417839411,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575515,11 +575515,22 @@
         "followingSku": "8479353",
         "followingTitle": "Green Lotus Flower Flat Stone Basin Water Flow Fountain Tabletop Ornament (Size 18 x 11 x 12 cm)",
         "followingAuctionCode": "0019930343"
+      },
+      {
+        "start": 1793417839411,
+        "end": 1793417905862,
+        "durationMin": 1.1,
+        "precedingSku": "8479353",
+        "precedingTitle": "Green Lotus Flower Flat Stone Basin Water Flow Fountain Tabletop Ornament (Size 18 x 11 x 12 cm)",
+        "precedingAuctionCode": "0019930343",
+        "followingSku": "8413610",
+        "followingTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm - Pink",
+        "followingAuctionCode": "0019930332"
       }
     ],
-    "lastOnAirSku": "8479353",
-    "lastOnAirTitle": "Green Lotus Flower Flat Stone Basin Water Flow Fountain Tabletop Ornament (Size 18 x 11 x 12 cm)",
-    "lastOnAirAuctionCode": "0019930343",
+    "lastOnAirSku": "8413610",
+    "lastOnAirTitle": "Set of 2 Artificial Hydrangea Faux Flower with LED Lights (60 cm - Pink",
+    "lastOnAirAuctionCode": "0019930332",
     "precedingSku": "8479353",
     "precedingTitle": "Green Lotus Flower Flat Stone Basin Water Flow Fountain Tabletop Ornament (Size 18 x 11 x 12 cm)",
     "precedingAuctionCode": "0019930343"
