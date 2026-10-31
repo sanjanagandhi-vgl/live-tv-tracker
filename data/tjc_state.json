@@ -490018,18 +490018,23 @@
       "sku": "8822799",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-26",
-      "time": "14:52:25",
+      "date": "2026-10-31",
+      "time": "00:32:24",
       "preExisting": true,
       "missedAt": 1793026345248,
       "missedDelay": null,
-      "lastUpdated": 1793026345248,
+      "lastUpdated": 1793406744833,
       "missedPrice": 14.99,
       "missedImg": true,
-      "title": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Stone",
-      "auctionCode": "0019922522",
+      "title": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Pistachio",
+      "auctionCode": "0019930362",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793406744833,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8822798": {
       "sku": "8822798",
@@ -503220,8 +503225,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793406660204,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575249,11 +575254,22 @@
         "followingSku": "221339463",
         "followingTitle": "Mega Deals- Christmas Set of 3 EDP Collection - Wings, RED Serenity Now & Chandelier Rouge - 3x100ml Each",
         "followingAuctionCode": "0019930333"
+      },
+      {
+        "start": 1793406660204,
+        "end": 1793406744833,
+        "durationMin": 1.4,
+        "precedingSku": "221339463",
+        "precedingTitle": "Mega Deals- Christmas Set of 3 EDP Collection - Wings, RED Serenity Now & Chandelier Rouge - 3x100ml Each",
+        "precedingAuctionCode": "0019930333",
+        "followingSku": "8822799",
+        "followingTitle": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Pistachio",
+        "followingAuctionCode": "0019930362"
       }
     ],
-    "lastOnAirSku": "221339463",
-    "lastOnAirTitle": "Mega Deals- Christmas Set of 3 EDP Collection - Wings, RED Serenity Now & Chandelier Rouge - 3x100ml Each",
-    "lastOnAirAuctionCode": "0019930333",
+    "lastOnAirSku": "8822799",
+    "lastOnAirTitle": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Pistachio",
+    "lastOnAirAuctionCode": "0019930362",
     "precedingSku": "221339463",
     "precedingTitle": "Mega Deals- Christmas Set of 3 EDP Collection - Wings, RED Serenity Now & Chandelier Rouge - 3x100ml Each",
     "precedingAuctionCode": "0019930333"
