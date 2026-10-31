@@ -4677,21 +4677,22 @@
       "firstAir": 1784888059989,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1784888727443,
-      "title": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Pink",
-      "pdpPrice": 19.99,
-      "auctionCode": "0019792255",
-      "buy": false,
+      "lastAir": 1793407105318,
+      "title": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Blue",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019930355",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-24",
-      "time": "11:25:27",
-      "lastUpdated": 1784888782088,
+      "date": "2026-10-31",
+      "time": "00:38:25",
+      "lastUpdated": 1793407105318,
       "source": "gha",
       "missedAt": 1784888782088,
       "missedDelay": 1,
       "missedPrice": 19.99,
-      "missedImg": false
+      "missedImg": false,
+      "productUrl": null
     },
     "8525762": {
       "sku": "8525762",
@@ -503225,8 +503226,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793406983125,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -575265,11 +575266,22 @@
         "followingSku": "8822799",
         "followingTitle": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Pistachio",
         "followingAuctionCode": "0019930362"
+      },
+      {
+        "start": 1793406983125,
+        "end": 1793407105318,
+        "durationMin": 2.0,
+        "precedingSku": "8822799",
+        "precedingTitle": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Pistachio",
+        "precedingAuctionCode": "0019930362",
+        "followingSku": "8525763",
+        "followingTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Blue",
+        "followingAuctionCode": "0019930355"
       }
     ],
-    "lastOnAirSku": "8822799",
-    "lastOnAirTitle": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Pistachio",
-    "lastOnAirAuctionCode": "0019930362",
+    "lastOnAirSku": "8525763",
+    "lastOnAirTitle": "Designer Heart-Shaped Crossbody Bag with Chain Strap - Blue",
+    "lastOnAirAuctionCode": "0019930355",
     "precedingSku": "8822799",
     "precedingTitle": "Alice Wheeler 3 Piece Bow Card Holder, Key Ring and Pen Gift Set  - Pistachio",
     "precedingAuctionCode": "0019930362"
