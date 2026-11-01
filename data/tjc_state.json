@@ -396527,21 +396527,26 @@
       "sku": "8500700",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-26",
-      "time": "22:01:19",
+      "date": "2026-11-01",
+      "time": "00:18:24",
       "preExisting": true,
       "missedAt": 1790456479046,
       "missedDelay": null,
-      "lastUpdated": 1790456479046,
+      "lastUpdated": 1793492304259,
       "missedPrice": 39.99,
       "missedImg": true,
-      "title": "JCK Vegas Close Out - Multi-Tourmaline Tennis Bracelet (Size - 7-2 Ext) with Lobster Clasp 3.25 Ct.",
-      "auctionCode": "0019886188",
+      "title": "Tanzanite Tennis Bracelet (Size - 7-2 Ext) with GB Lock Box 3.20 Ct.",
+      "auctionCode": "0019932101",
       "source": "gha",
       "productUrl": "/products/djoy-mystic-topaz-white-zircon-adjustable-bracelet-size-10-5-in-rhodium-overlay-sterling-silver-7-71-ct",
       "productUrlChecked": 1790456481831,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793492304259,
+      "pdpPrice": "2949.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8192590": {
       "sku": "8192590",
@@ -505201,8 +505206,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793492244500,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578088,11 +578093,22 @@
         "followingSku": "3811710",
         "followingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
         "followingAuctionCode": "0019932036"
+      },
+      {
+        "start": 1793492244500,
+        "end": 1793492304259,
+        "durationMin": 1.0,
+        "precedingSku": "3811710",
+        "precedingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
+        "precedingAuctionCode": "0019932036",
+        "followingSku": "8500700",
+        "followingTitle": "Tanzanite Tennis Bracelet (Size - 7-2 Ext) with GB Lock Box 3.20 Ct.",
+        "followingAuctionCode": "0019932101"
       }
     ],
-    "lastOnAirSku": "3811710",
-    "lastOnAirTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
-    "lastOnAirAuctionCode": "0019932036",
+    "lastOnAirSku": "8500700",
+    "lastOnAirTitle": "Tanzanite Tennis Bracelet (Size - 7-2 Ext) with GB Lock Box 3.20 Ct.",
+    "lastOnAirAuctionCode": "0019932101",
     "precedingSku": "3811710",
     "precedingTitle": "Royal Bali Collection - D'Joy Masoala Blue Sapphire (FF) & Natural Zircon Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
     "precedingAuctionCode": "0019932036"
