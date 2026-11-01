@@ -508385,16 +508385,20 @@
       "date": "2026-11-01",
       "time": "21:31:20",
       "productUrl": "/products/rachel-galley-9k-white-gold-vs-lab-grown-diamond-vs-earring-gold-wt-1-07-gms-2-000-ct-8045521?variant=53672101937418",
-      "lastUpdated": 1793568680897,
+      "lastUpdated": 1793568744754,
       "source": "gha",
       "productUrlChecked": 1793568683855,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793568744754,
+      "missedDelay": 1,
+      "missedPrice": 599.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793568744754,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582110,8 +582114,8 @@
     "lastOnAirSku": "8045521",
     "lastOnAirTitle": "Rachel Galley 9K White Gold VS Lab Grown Diamond VS Earring 2.000 Ct.",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8774719",
-    "precedingTitle": "Luxuriant - 950 Platinum IGI Certified Grown Diamond (VS/E-F) Trilogy Ring 4.00 Ct, Platinum Wt. 3.80 Gms",
-    "precedingAuctionCode": "0019933823"
+    "precedingSku": "8045521",
+    "precedingTitle": "Rachel Galley 9K White Gold VS Lab Grown Diamond VS Earring 2.000 Ct.",
+    "precedingAuctionCode": null
   }
 }
