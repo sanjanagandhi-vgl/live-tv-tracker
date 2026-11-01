@@ -291372,17 +291372,17 @@
       "firstAir": 1788366503897,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1788366503897,
-      "title": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Red",
-      "pdpPrice": "14.99",
-      "auctionCode": "0019855013",
+      "lastAir": 1793504960445,
+      "title": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Black",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019930833",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-02",
-      "time": "17:28:23",
+      "date": "2026-11-01",
+      "time": "03:49:20",
       "productUrl": "/products/la-marey-embroidered-soft-touch-top-9068437424",
-      "lastUpdated": 1788367106005,
+      "lastUpdated": 1793504960445,
       "source": "gha",
       "missedAt": 1788367106005,
       "missedDelay": 10,
@@ -505655,8 +505655,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793504903433,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578641,11 +578641,22 @@
         "followingSku": "7567193",
         "followingTitle": "First Time Launch - Classic Purple Velour Shirt (Size L, 16 - 18)",
         "followingAuctionCode": "0019930827"
+      },
+      {
+        "start": 1793504903433,
+        "end": 1793504960445,
+        "durationMin": 1.0,
+        "precedingSku": "8623062",
+        "precedingTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
+        "precedingAuctionCode": "0019930845",
+        "followingSku": "8437428",
+        "followingTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Black",
+        "followingAuctionCode": "0019930833"
       }
     ],
-    "lastOnAirSku": "8623062",
-    "lastOnAirTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
-    "lastOnAirAuctionCode": "0019930845",
+    "lastOnAirSku": "8437428",
+    "lastOnAirTitle": "La Marey Embroidered Soft Touch Top (Size XL, 20-22) - Black",
+    "lastOnAirAuctionCode": "0019930833",
     "precedingSku": "8623062",
     "precedingTitle": "La Marey Ladies Houndstooth Tailored Longline Blazer (Size S, 8-10) - Beige & Green",
     "precedingAuctionCode": "0019930845"
