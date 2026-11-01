@@ -403316,23 +403316,23 @@
       "sku": "8692178",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-30",
-      "time": "05:59:19",
+      "date": "2026-11-01",
+      "time": "23:50:40",
       "preExisting": true,
       "missedAt": 1790619505856,
       "missedDelay": null,
-      "lastUpdated": 1793339959265,
+      "lastUpdated": 1793577040759,
       "missedPrice": 999.99,
       "missedImg": true,
       "title": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
-      "auctionCode": "0019929872",
+      "auctionCode": "0019933271",
       "source": "gha",
       "productUrl": "/products/9k-yellow-gold-bracelet-size-7-5-gold-wt-8-60-gms-8692176?variant=53822892278026",
       "productUrlChecked": 1790619509132,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1793339959265,
-      "pdpPrice": "999.99",
+      "lastAir": 1793577040759,
+      "pdpPrice": "1299.99",
       "buy": true,
       "login": false,
       "img": true
@@ -508515,8 +508515,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793576958771,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582315,11 +582315,22 @@
         "followingSku": "8786466",
         "followingTitle": "Royal Bali Collection - 9K Yellow Gold Tri-Colour Band Ring",
         "followingAuctionCode": "0019933220"
+      },
+      {
+        "start": 1793576958771,
+        "end": 1793577040759,
+        "durationMin": 1.4,
+        "precedingSku": "8786466",
+        "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Tri-Colour Band Ring",
+        "precedingAuctionCode": "0019933220",
+        "followingSku": "8692178",
+        "followingTitle": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
+        "followingAuctionCode": "0019933271"
       }
     ],
-    "lastOnAirSku": "8786466",
-    "lastOnAirTitle": "Royal Bali Collection - 9K Yellow Gold Tri-Colour Band Ring",
-    "lastOnAirAuctionCode": "0019933220",
+    "lastOnAirSku": "8692178",
+    "lastOnAirTitle": "Vicenza Closeout Deal - 9K Yellow Gold Byzantine Bracelet (Size - 7.5), Gold Wt. 9.00 Gms",
+    "lastOnAirAuctionCode": "0019933271",
     "precedingSku": "8786466",
     "precedingTitle": "Royal Bali Collection - 9K Yellow Gold Tri-Colour Band Ring",
     "precedingAuctionCode": "0019933220"
