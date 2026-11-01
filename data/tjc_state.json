@@ -481781,17 +481781,17 @@
       "firstAir": 1792750238494,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792750461512,
+      "lastAir": 1793518879715,
       "title": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019919903",
+      "pdpPrice": "199.00",
+      "auctionCode": "0019931859",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-23",
-      "time": "11:14:21",
+      "date": "2026-11-01",
+      "time": "07:41:19",
       "productUrl": "/products/black-onyx-nautical-rope-bracelet-size-8-5-8782659",
-      "lastUpdated": 1792750582757,
+      "lastUpdated": 1793518879715,
       "source": "gha",
       "missedAt": 1792750582757,
       "missedDelay": 2,
@@ -505871,8 +505871,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793518759981,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578989,11 +578989,22 @@
         "followingSku": "8798760",
         "followingTitle": "Manhattan Close Out - Tri-Colour Knot Stud Earrings with Push Back",
         "followingAuctionCode": "0019931836"
+      },
+      {
+        "start": 1793518759981,
+        "end": 1793518879715,
+        "durationMin": 2.0,
+        "precedingSku": "8744651",
+        "precedingTitle": "Manhattan Close Out - Twisted Hexagon Hoop Earrings with Clasp",
+        "precedingAuctionCode": "0019931846",
+        "followingSku": "8782659",
+        "followingTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
+        "followingAuctionCode": "0019931859"
       }
     ],
-    "lastOnAirSku": "8744651",
-    "lastOnAirTitle": "Manhattan Close Out - Twisted Hexagon Hoop Earrings with Clasp",
-    "lastOnAirAuctionCode": "0019931846",
+    "lastOnAirSku": "8782659",
+    "lastOnAirTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
+    "lastOnAirAuctionCode": "0019931859",
     "precedingSku": "8744651",
     "precedingTitle": "Manhattan Close Out - Twisted Hexagon Hoop Earrings with Clasp",
     "precedingAuctionCode": "0019931846"
