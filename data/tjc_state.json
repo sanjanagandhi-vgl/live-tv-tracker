@@ -20056,19 +20056,19 @@
       "sku": "8686775",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-18",
-      "time": "11:38:21",
+      "date": "2026-11-01",
+      "time": "09:24:22",
       "preExisting": true,
       "missedAt": 1785170358233,
       "missedDelay": null,
-      "lastUpdated": 1792319901348,
+      "lastUpdated": 1793525062742,
       "missedPrice": 149.99,
       "missedImg": true,
       "title": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
-      "auctionCode": "0019912251",
+      "auctionCode": "0019933369",
       "source": "gha",
-      "lastAir": 1792319901348,
-      "pdpPrice": "99.99",
+      "lastAir": 1793525062742,
+      "pdpPrice": "179.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -505930,8 +505930,12 @@
       "date": "2026-11-01",
       "time": "09:22:23",
       "productUrl": null,
-      "lastUpdated": 1793524943561,
-      "source": "gha"
+      "lastUpdated": 1793525062742,
+      "source": "gha",
+      "missedAt": 1793525062742,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8731842": {
       "sku": "8731842",
@@ -505947,8 +505951,12 @@
       "date": "2026-11-01",
       "time": "09:22:23",
       "productUrl": null,
-      "lastUpdated": 1793524943561,
-      "source": "gha-variant"
+      "lastUpdated": 1793525062742,
+      "source": "gha-variant",
+      "missedAt": 1793525062742,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8731843": {
       "sku": "8731843",
@@ -505964,8 +505972,12 @@
       "date": "2026-11-01",
       "time": "09:22:23",
       "productUrl": null,
-      "lastUpdated": 1793524943561,
-      "source": "gha-variant"
+      "lastUpdated": 1793525062742,
+      "source": "gha-variant",
+      "missedAt": 1793525062742,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8731844": {
       "sku": "8731844",
@@ -505981,8 +505993,12 @@
       "date": "2026-11-01",
       "time": "09:22:23",
       "productUrl": null,
-      "lastUpdated": 1793524943561,
-      "source": "gha-variant"
+      "lastUpdated": 1793525062742,
+      "source": "gha-variant",
+      "missedAt": 1793525062742,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8731845": {
       "sku": "8731845",
@@ -505998,8 +506014,12 @@
       "date": "2026-11-01",
       "time": "09:22:23",
       "productUrl": null,
-      "lastUpdated": 1793524943561,
-      "source": "gha-variant"
+      "lastUpdated": 1793525062742,
+      "source": "gha-variant",
+      "missedAt": 1793525062742,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8731846": {
       "sku": "8731846",
@@ -506015,8 +506035,12 @@
       "date": "2026-11-01",
       "time": "09:22:23",
       "productUrl": null,
-      "lastUpdated": 1793524943561,
-      "source": "gha-variant"
+      "lastUpdated": 1793525062742,
+      "source": "gha-variant",
+      "missedAt": 1793525062742,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8731847": {
       "sku": "8731847",
@@ -506032,8 +506056,12 @@
       "date": "2026-11-01",
       "time": "09:22:23",
       "productUrl": null,
-      "lastUpdated": 1793524943561,
-      "source": "gha-variant"
+      "lastUpdated": 1793525062742,
+      "source": "gha-variant",
+      "missedAt": 1793525062742,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8731848": {
       "sku": "8731848",
@@ -506049,8 +506077,12 @@
       "date": "2026-11-01",
       "time": "09:22:23",
       "productUrl": null,
-      "lastUpdated": 1793524943561,
-      "source": "gha-variant"
+      "lastUpdated": 1793525062742,
+      "source": "gha-variant",
+      "missedAt": 1793525062742,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8731849": {
       "sku": "8731849",
@@ -506066,13 +506098,17 @@
       "date": "2026-11-01",
       "time": "09:22:23",
       "productUrl": null,
-      "lastUpdated": 1793524943561,
-      "source": "gha-variant"
+      "lastUpdated": 1793525062742,
+      "source": "gha-variant",
+      "missedAt": 1793525062742,
+      "missedDelay": 2,
+      "missedPrice": 49.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793524998511,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -579277,11 +579313,22 @@
         "followingSku": "8731841",
         "followingTitle": "D'Joy - Moissanite Ballerina Ring in Platinum Overlay Sterling Silver",
         "followingAuctionCode": "0019932308"
+      },
+      {
+        "start": 1793524998511,
+        "end": 1793525062742,
+        "durationMin": 1.1,
+        "precedingSku": "8731841",
+        "precedingTitle": "D'Joy Moissanite Ballerina Ring in Platinum Overlay Sterling Silver",
+        "precedingAuctionCode": "0019932308",
+        "followingSku": "8686775",
+        "followingTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+        "followingAuctionCode": "0019933369"
       }
     ],
-    "lastOnAirSku": "8731841",
-    "lastOnAirTitle": "D'Joy Moissanite Ballerina Ring in Platinum Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019932308",
+    "lastOnAirSku": "8686775",
+    "lastOnAirTitle": "One Time Deal-Moissanite Necklace (Size - 20) in Lobster Clasp in Yellow Gold Sterling Silver",
+    "lastOnAirAuctionCode": "0019933369",
     "precedingSku": "8731841",
     "precedingTitle": "D'Joy Moissanite Ballerina Ring in Platinum Overlay Sterling Silver",
     "precedingAuctionCode": "0019932308"
