@@ -128169,17 +128169,17 @@
       "firstAir": 1786395271028,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1786395438904,
+      "lastAir": 1793513131216,
       "title": "Red Jade Carved Phoenix Bangle (Size - 8.25) 239.25 Ct",
-      "pdpPrice": "59.99",
-      "auctionCode": "0019813514",
+      "pdpPrice": "129.99",
+      "auctionCode": "0019932191",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-08-10",
-      "time": "21:57:18",
+      "date": "2026-11-01",
+      "time": "06:05:31",
       "productUrl": "/products/red-jade-carved-phoenix-burmese-bangle",
-      "lastUpdated": 1786396038646,
+      "lastUpdated": 1793513131216,
       "source": "gha",
       "missedAt": 1786396038646,
       "missedDelay": 10,
@@ -505713,9 +505713,16 @@
       "img": true,
       "date": "2026-11-01",
       "time": "05:19:28",
-      "productUrl": null,
-      "lastUpdated": 1793510368314,
-      "source": "gha"
+      "productUrl": "/products/9k-white-gold-chain-size-22",
+      "lastUpdated": 1793513131216,
+      "source": "gha",
+      "missedAt": 1793513131216,
+      "missedDelay": 46,
+      "missedPrice": 199.99,
+      "missedImg": true,
+      "productUrlChecked": 1793513133984,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "7457295": {
       "sku": "7457295",
@@ -505744,8 +505751,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793512581969,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578774,11 +578781,22 @@
         "followingSku": "8635007",
         "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
         "followingAuctionCode": "0019930961"
+      },
+      {
+        "start": 1793512581969,
+        "end": 1793513131216,
+        "durationMin": 9.2,
+        "precedingSku": "8522316",
+        "precedingTitle": "24K Yellow Gold Horse Design Frame",
+        "precedingAuctionCode": "0019930960",
+        "followingSku": "8426436",
+        "followingTitle": "Red Jade Carved Phoenix Bangle (Size - 8.25) 239.25 Ct",
+        "followingAuctionCode": "0019932191"
       }
     ],
-    "lastOnAirSku": "8522316",
-    "lastOnAirTitle": "24K Yellow Gold Horse Design Frame",
-    "lastOnAirAuctionCode": "0019930960",
+    "lastOnAirSku": "8426436",
+    "lastOnAirTitle": "Red Jade Carved Phoenix Bangle (Size - 8.25) 239.25 Ct",
+    "lastOnAirAuctionCode": "0019932191",
     "precedingSku": "8522316",
     "precedingTitle": "24K Yellow Gold Horse Design Frame",
     "precedingAuctionCode": "0019930960"
