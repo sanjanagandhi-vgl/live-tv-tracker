@@ -314781,17 +314781,17 @@
       "firstAir": 1788732557749,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790641237039,
+      "lastAir": 1793574440957,
       "title": "Vicenza  Close Out- 18K Yellow Gold Bismark Necklace (Size - 20) 4.50 grams",
-      "pdpPrice": "999.99",
-      "auctionCode": "0019888362",
+      "pdpPrice": "1299.99",
+      "auctionCode": "0019933768",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-29",
-      "time": "01:20:37",
+      "date": "2026-11-01",
+      "time": "23:07:20",
       "productUrl": "/products/18k-yellow-gold-necklace-size-20-gold-wt-4-50-gms-8750389",
-      "lastUpdated": 1790641237039,
+      "lastUpdated": 1793574440957,
       "source": "gha",
       "missedAt": 1788734184685,
       "missedDelay": 10,
@@ -508490,8 +508490,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793574331150,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582257,11 +582257,22 @@
         "followingSku": "8698756",
         "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16)",
         "followingAuctionCode": "0019933769"
+      },
+      {
+        "start": 1793574331150,
+        "end": 1793574440957,
+        "durationMin": 1.8,
+        "precedingSku": "8596988",
+        "precedingTitle": "Maestro Collection- 9K Yellow Gold Graduated Fancy Necklace (Size - 20), Gold Wt. 7.50 Gms",
+        "precedingAuctionCode": "0019933259",
+        "followingSku": "8750389",
+        "followingTitle": "Vicenza  Close Out- 18K Yellow Gold Bismark Necklace (Size - 20) 4.50 grams",
+        "followingAuctionCode": "0019933768"
       }
     ],
-    "lastOnAirSku": "8596988",
-    "lastOnAirTitle": "Maestro Collection- 9K Yellow Gold Graduated Fancy Necklace (Size - 20), Gold Wt. 7.50 Gms",
-    "lastOnAirAuctionCode": "0019933259",
+    "lastOnAirSku": "8750389",
+    "lastOnAirTitle": "Vicenza  Close Out- 18K Yellow Gold Bismark Necklace (Size - 20) 4.50 grams",
+    "lastOnAirAuctionCode": "0019933768",
     "precedingSku": "8596988",
     "precedingTitle": "Maestro Collection- 9K Yellow Gold Graduated Fancy Necklace (Size - 20), Gold Wt. 7.50 Gms",
     "precedingAuctionCode": "0019933259"
