@@ -381940,21 +381940,26 @@
       "sku": "7957011",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-22",
-      "time": "04:52:25",
+      "date": "2026-11-01",
+      "time": "03:38:23",
       "preExisting": true,
       "missedAt": 1790049145730,
       "missedDelay": null,
-      "lastUpdated": 1790049145730,
+      "lastUpdated": 1793504303031,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Midlength Knitted Stylish Coat (Size 8) - Black",
-      "auctionCode": "0019879498",
+      "title": "Midlength Knitted Stylish Coat (Size 20) - Red",
+      "auctionCode": "0019933356",
       "source": "gha",
       "productUrl": "/products/knitted-mid-length-collared-coat",
       "productUrlChecked": 1790049153261,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793504303031,
+      "pdpPrice": "37.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8411750": {
       "sku": "8411750",
@@ -505598,11 +505603,15 @@
       "date": "2026-11-01",
       "time": "03:37:19",
       "productUrl": "/products/knitted-mid-length-collared-coat?variant=53102235648266",
-      "lastUpdated": 1793504239628,
+      "lastUpdated": 1793504303031,
       "source": "gha",
       "productUrlChecked": 1793504242741,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793504303031,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
@@ -578594,9 +578603,9 @@
         "followingAuctionCode": "0019930827"
       }
     ],
-    "lastOnAirSku": "7957018",
+    "lastOnAirSku": "7957011",
     "lastOnAirTitle": "Midlength Knitted Stylish Coat (Size 20) - Red",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirAuctionCode": "0019933356",
     "precedingSku": "3889798",
     "precedingTitle": "TAMSY 100% PU leather Trouser with 2 Functional Front Pockets and 2 Back Pockets (Size 16) - Navy",
     "precedingAuctionCode": "0019930825"
