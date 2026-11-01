@@ -505825,16 +505825,54 @@
       "date": "2026-11-01",
       "time": "06:56:23",
       "productUrl": "/products/24k-yellow-gold-99-9-purity-embossed-collectible-1358196984?variant=53108969537802",
-      "lastUpdated": 1793516183670,
+      "lastUpdated": 1793516239345,
       "source": "gha",
       "productUrlChecked": 1793516186336,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793516239345,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
+    },
+    "8235367": {
+      "sku": "8235367",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-01",
+      "time": "06:57:19",
+      "preExisting": true,
+      "missedAt": 1793516239345,
+      "missedDelay": null,
+      "lastUpdated": 1793516239345,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Biggest Gold Deal - 24K Yellow Gold Embossed Wings",
+      "auctionCode": "0019932228",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8267622": {
+      "sku": "8267622",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-01",
+      "time": "06:57:19",
+      "preExisting": true,
+      "missedAt": 1793516239345,
+      "missedDelay": null,
+      "lastUpdated": 1793516239345,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "24K Yellow Gold Rabbit Embossed Foil",
+      "auctionCode": "0019932226",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793516239345,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578934,8 +578972,8 @@
     "lastOnAirSku": "8185341",
     "lastOnAirTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8770535",
-    "precedingTitle": "Christmas Special -  Multi Colour Crystal and Pearl Charm Bracelet (Size - 7.5-1 Ext)",
-    "precedingAuctionCode": "0019932170"
+    "precedingSku": "8185341",
+    "precedingTitle": "24K Yellow Gold (99.9% Purity) Embossed Collectible",
+    "precedingAuctionCode": null
   }
 }
