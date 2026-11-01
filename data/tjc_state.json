@@ -272138,23 +272138,23 @@
       "sku": "8613202",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-09",
-      "time": "00:31:19",
+      "date": "2026-11-01",
+      "time": "15:24:23",
       "preExisting": true,
       "missedAt": 1788042800023,
       "missedDelay": null,
-      "lastUpdated": 1788910279113,
+      "lastUpdated": 1793546663667,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "D'Joy - GRA Certified (D-VVS1) Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 3.90 Ct.",
-      "auctionCode": "0019862213",
+      "auctionCode": "0019932238",
       "source": "gha",
       "productUrl": "/products/djoy-gra-certified-d-vvs1-moissanite-solitaire-ring-in-rhodium-overlay-sterling-silver-2-60-ct-m8613188",
       "productUrlChecked": 1788042871107,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1788910279113,
-      "pdpPrice": "99.99",
+      "lastAir": 1793546663667,
+      "pdpPrice": "2499.99",
       "buy": true,
       "login": false,
       "img": true
@@ -506473,8 +506473,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793546600153,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -579877,11 +579877,22 @@
         "followingSku": "7194712",
         "followingTitle": "9K Yellow Gold Moissanite Boat Ring 1.97 Ct.",
         "followingAuctionCode": "0019930547"
+      },
+      {
+        "start": 1793546600153,
+        "end": 1793546663667,
+        "durationMin": 1.1,
+        "precedingSku": "8611132",
+        "precedingTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Pear Cut Solitaire Pendant 10.00 Ct.",
+        "precedingAuctionCode": "0019931252",
+        "followingSku": "8613202",
+        "followingTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 3.90 Ct.",
+        "followingAuctionCode": "0019932238"
       }
     ],
-    "lastOnAirSku": "8611132",
-    "lastOnAirTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Pear Cut Solitaire Pendant 10.00 Ct.",
-    "lastOnAirAuctionCode": "0019931252",
+    "lastOnAirSku": "8613202",
+    "lastOnAirTitle": "D'Joy - GRA Certified (D-VVS1) Moissanite Trilogy Ring in Rhodium Overlay Sterling Silver 3.90 Ct.",
+    "lastOnAirAuctionCode": "0019932238",
     "precedingSku": "8611132",
     "precedingTitle": "9K Yellow Gold GRA Certified (D-VVS1) Moissanite Pear Cut Solitaire Pendant 10.00 Ct.",
     "precedingAuctionCode": "0019931252"
