@@ -501408,21 +501408,26 @@
       "sku": "8744685",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-30",
-      "time": "13:14:24",
+      "date": "2026-11-01",
+      "time": "07:52:22",
       "preExisting": true,
       "missedAt": 1793366064707,
       "missedDelay": null,
-      "lastUpdated": 1793366064707,
+      "lastUpdated": 1793519542815,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Manhattan Close Out - Textured Bangle (Size - 7)",
-      "auctionCode": "0019930244",
+      "auctionCode": "0019931849",
       "source": "gha",
       "productUrl": "/products/cuff-bangle-pure-white-brass-8744684",
       "productUrlChecked": 1793366067638,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793519542815,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4528141": {
       "sku": "4528141",
@@ -505871,8 +505876,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793519479384,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -579000,11 +579005,22 @@
         "followingSku": "8782659",
         "followingTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
         "followingAuctionCode": "0019931859"
+      },
+      {
+        "start": 1793519479384,
+        "end": 1793519542815,
+        "durationMin": 1.1,
+        "precedingSku": "8782659",
+        "precedingTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
+        "precedingAuctionCode": "0019931859",
+        "followingSku": "8744685",
+        "followingTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
+        "followingAuctionCode": "0019931849"
       }
     ],
-    "lastOnAirSku": "8782659",
-    "lastOnAirTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
-    "lastOnAirAuctionCode": "0019931859",
+    "lastOnAirSku": "8744685",
+    "lastOnAirTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
+    "lastOnAirAuctionCode": "0019931849",
     "precedingSku": "8782659",
     "precedingTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
     "precedingAuctionCode": "0019931859"
