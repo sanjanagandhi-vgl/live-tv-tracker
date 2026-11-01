@@ -501451,17 +501451,17 @@
       "firstAir": 1793364344068,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793364681573,
+      "lastAir": 1793558544386,
       "title": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
       "pdpPrice": "19.99",
-      "auctionCode": "0019930246",
+      "auctionCode": "0019931842",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-30",
-      "time": "12:51:21",
+      "date": "2026-11-01",
+      "time": "18:42:24",
       "productUrl": "/products/2-piece-set-fancy-bracelet-and-earring-pure-yellow-brass-4528138",
-      "lastUpdated": 1793364801805,
+      "lastUpdated": 1793558544386,
       "source": "gha",
       "missedAt": 1793364801805,
       "missedDelay": 2,
@@ -508078,8 +508078,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793558441914,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -581647,11 +581647,22 @@
         "followingSku": "8744685",
         "followingTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
         "followingAuctionCode": "0019934156"
+      },
+      {
+        "start": 1793558441914,
+        "end": 1793558544386,
+        "durationMin": 1.7,
+        "precedingSku": "8744685",
+        "precedingTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
+        "precedingAuctionCode": "0019934156",
+        "followingSku": "4528138",
+        "followingTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
+        "followingAuctionCode": "0019931842"
       }
     ],
-    "lastOnAirSku": "8744685",
-    "lastOnAirTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
-    "lastOnAirAuctionCode": "0019934156",
+    "lastOnAirSku": "4528138",
+    "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
+    "lastOnAirAuctionCode": "0019931842",
     "precedingSku": "8744685",
     "precedingTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
     "precedingAuctionCode": "0019934156"
