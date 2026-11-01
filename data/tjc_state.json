@@ -429142,17 +429142,17 @@
       "firstAir": 1791214046386,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793028985851,
+      "lastAir": 1793501139267,
       "title": "Womens Zipper Ankle Boots (Size 4) - Red",
-      "pdpPrice": 17.99,
-      "auctionCode": null,
+      "pdpPrice": "17.99",
+      "auctionCode": "0019930813",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-26",
-      "time": "15:36:25",
+      "date": "2026-11-01",
+      "time": "02:45:39",
       "productUrl": "/products/tjc-special-ladies-slipper-size-37-red-8808093?variant=53848863932682",
-      "lastUpdated": 1793028985851,
+      "lastUpdated": 1793501139267,
       "source": "gha",
       "missedAt": 1791215133471,
       "missedDelay": 10,
@@ -505361,8 +505361,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793501063838,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578292,11 +578292,22 @@
         "followingSku": "221327824",
         "followingTitle": "SET OF  2 x Laurelle Wings Eau De Parfum - 100ml",
         "followingAuctionCode": "0019930807"
+      },
+      {
+        "start": 1793501063838,
+        "end": 1793501139267,
+        "durationMin": 1.3,
+        "precedingSku": "221327824",
+        "precedingTitle": "SET OF  2 x Laurelle Wings Eau De Parfum - 100ml",
+        "precedingAuctionCode": "0019930807",
+        "followingSku": "8808093",
+        "followingTitle": "Womens Zipper Ankle Boots (Size 4) - Red",
+        "followingAuctionCode": "0019930813"
       }
     ],
-    "lastOnAirSku": "221327824",
-    "lastOnAirTitle": "SET OF  2 x Laurelle Wings Eau De Parfum - 100ml",
-    "lastOnAirAuctionCode": "0019930807",
+    "lastOnAirSku": "8808093",
+    "lastOnAirTitle": "Womens Zipper Ankle Boots (Size 4) - Red",
+    "lastOnAirAuctionCode": "0019930813",
     "precedingSku": "221327824",
     "precedingTitle": "SET OF  2 x Laurelle Wings Eau De Parfum - 100ml",
     "precedingAuctionCode": "0019930807"
