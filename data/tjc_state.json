@@ -20675,19 +20675,19 @@
       "sku": "8698756",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-06",
-      "time": "23:04:24",
+      "date": "2026-11-01",
+      "time": "22:34:22",
       "preExisting": true,
       "missedAt": 1785184949278,
       "missedDelay": null,
-      "lastUpdated": 1788732264170,
+      "lastUpdated": 1793572462529,
       "missedPrice": 199.99,
       "missedImg": true,
-      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16.0)",
-      "auctionCode": "0019859070",
+      "title": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16)",
+      "auctionCode": "0019933769",
       "source": "gha",
-      "lastAir": 1788732264170,
-      "pdpPrice": 149.99,
+      "lastAir": 1793572462529,
+      "pdpPrice": "2319.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -508465,8 +508465,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793572399624,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582221,11 +582221,22 @@
         "followingSku": "8570642",
         "followingTitle": "9K Yellow Gold Infinity Chain Bracelet (Size - 7.5) with Spring Clasp",
         "followingAuctionCode": "0019933245"
+      },
+      {
+        "start": 1793572399624,
+        "end": 1793572462529,
+        "durationMin": 1.0,
+        "precedingSku": "8572442",
+        "precedingTitle": "9K Yellow Gold Drop Earring with Push Back",
+        "precedingAuctionCode": "0019933246",
+        "followingSku": "8698756",
+        "followingTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16)",
+        "followingAuctionCode": "0019933769"
       }
     ],
-    "lastOnAirSku": "8572442",
-    "lastOnAirTitle": "9K Yellow Gold Drop Earring with Push Back",
-    "lastOnAirAuctionCode": "0019933246",
+    "lastOnAirSku": "8698756",
+    "lastOnAirTitle": "Designer Inspired- 9K Yellow Gold Heart Charm Paperclip Necklace (Size - 16)",
+    "lastOnAirAuctionCode": "0019933769",
     "precedingSku": "8572442",
     "precedingTitle": "9K Yellow Gold Drop Earring with Push Back",
     "precedingAuctionCode": "0019933246"
