@@ -505512,11 +505512,49 @@
       "productUrlChecked": 1793503589496,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7567193": {
+      "sku": "7567193",
+      "firstAir": 1793503858297,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793503858297,
+      "title": "First Time Launch - Classic Purple Velour Shirt (Size L, 16 - 18)",
+      "pdpPrice": "15.99",
+      "auctionCode": "0019930827",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-01",
+      "time": "03:30:58",
+      "productUrl": null,
+      "lastUpdated": 1793503858297,
+      "source": "gha"
+    },
+    "3889796": {
+      "sku": "3889796",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-01",
+      "time": "03:30:58",
+      "preExisting": true,
+      "missedAt": 1793503858297,
+      "missedDelay": null,
+      "lastUpdated": 1793503858297,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "TAMSY 100% PU leather Trouser with 2 Functional Front Pockets and 2 Back Pockets (Size 16) - Navy",
+      "auctionCode": "0019930829",
+      "source": "gha",
+      "productUrl": "/products/tamsy-trouser-with-2-functional-front-pockets-and-2-back-pockets-black",
+      "productUrlChecked": 1793503861440,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793503759514,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578490,11 +578528,22 @@
         "followingSku": "6067549",
         "followingTitle": "Kris Ana Coloured Border Wrap",
         "followingAuctionCode": "0019930821"
+      },
+      {
+        "start": 1793503759514,
+        "end": 1793503858297,
+        "durationMin": 1.6,
+        "precedingSku": "3889798",
+        "precedingTitle": "TAMSY 100% PU leather Trouser with 2 Functional Front Pockets and 2 Back Pockets (Size 16) - Navy",
+        "precedingAuctionCode": "0019930825",
+        "followingSku": "7567193",
+        "followingTitle": "First Time Launch - Classic Purple Velour Shirt (Size L, 16 - 18)",
+        "followingAuctionCode": "0019930827"
       }
     ],
-    "lastOnAirSku": "3889798",
-    "lastOnAirTitle": "TAMSY 100% PU leather Trouser with 2 Functional Front Pockets and 2 Back Pockets (Size 16) - Navy",
-    "lastOnAirAuctionCode": "0019930825",
+    "lastOnAirSku": "7567193",
+    "lastOnAirTitle": "First Time Launch - Classic Purple Velour Shirt (Size L, 16 - 18)",
+    "lastOnAirAuctionCode": "0019930827",
     "precedingSku": "3889798",
     "precedingTitle": "TAMSY 100% PU leather Trouser with 2 Functional Front Pockets and 2 Back Pockets (Size 16) - Navy",
     "precedingAuctionCode": "0019930825"
