@@ -148022,23 +148022,23 @@
       "sku": "8557819",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-01",
-      "time": "03:44:26",
+      "date": "2026-11-01",
+      "time": "19:22:23",
       "preExisting": true,
       "missedAt": 1786565671729,
       "missedDelay": null,
-      "lastUpdated": 1788230666382,
+      "lastUpdated": 1793560943752,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "Multi Lab Grown Diamond SI Boat Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
-      "auctionCode": "0019852855",
+      "auctionCode": "0019933849",
       "source": "gha",
       "productUrl": "/products/first-time-ever-multi-lab-grown-diamond-si-boat-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-0-50-ct",
       "productUrlChecked": 1786565683894,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1788230666382,
-      "pdpPrice": "99.99",
+      "lastAir": 1793560943752,
+      "pdpPrice": "79.99",
       "buy": true,
       "login": false,
       "img": true
@@ -508147,8 +508147,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793560880102,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -581771,11 +581771,22 @@
         "followingSku": "8537777",
         "followingTitle": "Luxuriant SI-G-H Lab Grown Multi Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 3.50 Ct.",
         "followingAuctionCode": "0019934137"
+      },
+      {
+        "start": 1793560880102,
+        "end": 1793560943752,
+        "durationMin": 1.1,
+        "precedingSku": "8537777",
+        "precedingTitle": "Luxuriant SI-G-H Lab Grown Multi Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling ...",
+        "precedingAuctionCode": null,
+        "followingSku": "8557819",
+        "followingTitle": "Multi Lab Grown Diamond SI Boat Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+        "followingAuctionCode": "0019933849"
       }
     ],
-    "lastOnAirSku": "8537777",
-    "lastOnAirTitle": "Luxuriant SI-G-H Lab Grown Multi Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling ...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8557819",
+    "lastOnAirTitle": "Multi Lab Grown Diamond SI Boat Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 0.50 Ct.",
+    "lastOnAirAuctionCode": "0019933849",
     "precedingSku": "8537777",
     "precedingTitle": "Luxuriant SI-G-H Lab Grown Multi Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling ...",
     "precedingAuctionCode": null
