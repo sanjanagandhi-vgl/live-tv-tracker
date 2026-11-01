@@ -260667,21 +260667,26 @@
       "sku": "6900599",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-28",
-      "time": "03:26:22",
+      "date": "2026-11-01",
+      "time": "03:04:25",
       "preExisting": true,
       "missedAt": 1787883982371,
       "missedDelay": null,
-      "lastUpdated": 1787883982371,
+      "lastUpdated": 1793502265390,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Kris Ana Diamante Trim Poncho (One Size, Fits Approx 8-18) - Baby Blue",
-      "auctionCode": "0019845918",
+      "title": "Crystal Trim Poncho (One Size, Fits Approx 8-18) - Orange",
+      "auctionCode": "0019930822",
       "source": "gha",
       "productUrl": "/products/kris-ana-diamonte-trim-poncho-light-grey",
       "productUrlChecked": 1787883992914,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793502265390,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8416783": {
       "sku": "8416783",
@@ -505405,8 +505410,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793502200759,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578358,11 +578363,22 @@
         "followingSku": "8566686",
         "followingTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green",
         "followingAuctionCode": "0019930798"
+      },
+      {
+        "start": 1793502200759,
+        "end": 1793502265390,
+        "durationMin": 1.1,
+        "precedingSku": "8289984",
+        "precedingTitle": "Super Soft Oversized Floral Embroidery Scarf (180 x 65cm) - Brown",
+        "precedingAuctionCode": "0019930796",
+        "followingSku": "6900599",
+        "followingTitle": "Crystal Trim Poncho (One Size, Fits Approx 8-18) - Orange",
+        "followingAuctionCode": "0019930822"
       }
     ],
-    "lastOnAirSku": "8289984",
-    "lastOnAirTitle": "Super Soft Oversized Floral Embroidery Scarf (180 x 65cm) - Brown",
-    "lastOnAirAuctionCode": "0019930796",
+    "lastOnAirSku": "6900599",
+    "lastOnAirTitle": "Crystal Trim Poncho (One Size, Fits Approx 8-18) - Orange",
+    "lastOnAirAuctionCode": "0019930822",
     "precedingSku": "8289984",
     "precedingTitle": "Super Soft Oversized Floral Embroidery Scarf (180 x 65cm) - Brown",
     "precedingAuctionCode": "0019930796"
