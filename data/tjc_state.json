@@ -508097,14 +508097,21 @@
       "img": true,
       "date": "2026-11-01",
       "time": "18:49:19",
-      "productUrl": null,
-      "lastUpdated": 1793558959375,
-      "source": "gha"
+      "productUrl": "/products/2-piece-set-cuff-bangle-and-fancy-ring-pure-yellow-brass-4521628",
+      "lastUpdated": 1793559042874,
+      "source": "gha",
+      "missedAt": 1793559042874,
+      "missedDelay": 1,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "productUrlChecked": 1793559049487,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793559042874,
     "gaps": [
       {
         "start": 1785823527869,
@@ -581699,8 +581706,8 @@
     "lastOnAirSku": "4521628",
     "lastOnAirTitle": "Manhattan Close Out - Multi-Strand Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - S to U) Set",
     "lastOnAirAuctionCode": "0019931841",
-    "precedingSku": "4528138",
-    "precedingTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
-    "precedingAuctionCode": "0019931842"
+    "precedingSku": "4521628",
+    "precedingTitle": "Manhattan Close Out - Multi-Strand Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - S to U) Set",
+    "precedingAuctionCode": "0019931841"
   }
 }
