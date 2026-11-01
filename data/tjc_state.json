@@ -507440,11 +507440,29 @@
       "missedDelay": 2,
       "missedPrice": 39.99,
       "missedImg": true
+    },
+    "8621963": {
+      "sku": "8621963",
+      "firstAir": 1793553863153,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793553863153,
+      "title": "D'Joy - Pink Moissanite & Moissanite Ring in Rhodium Overlay Sterling Silver 3.57 Ct.",
+      "pdpPrice": "1919.99",
+      "auctionCode": "0019930505",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-01",
+      "time": "17:24:23",
+      "productUrl": null,
+      "lastUpdated": 1793553863153,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793553799581,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -580924,11 +580942,22 @@
         "followingSku": "8626855",
         "followingTitle": "The Royal Asscher Collection -9K Rose Gold Pink Moissanite Solitaire Ring 4.10 Ct.",
         "followingAuctionCode": "0019930482"
+      },
+      {
+        "start": 1793553799581,
+        "end": 1793553863153,
+        "durationMin": 1.1,
+        "precedingSku": "8626855",
+        "precedingTitle": "The Royal Asscher Collection -9K Rose Gold Pink Moissanite Solitaire Ring 4.10 Ct.",
+        "precedingAuctionCode": null,
+        "followingSku": "8621963",
+        "followingTitle": "D'Joy - Pink Moissanite & Moissanite Ring in Rhodium Overlay Sterling Silver 3.57 Ct.",
+        "followingAuctionCode": "0019930505"
       }
     ],
-    "lastOnAirSku": "8626855",
-    "lastOnAirTitle": "The Royal Asscher Collection -9K Rose Gold Pink Moissanite Solitaire Ring 4.10 Ct.",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8621963",
+    "lastOnAirTitle": "D'Joy - Pink Moissanite & Moissanite Ring in Rhodium Overlay Sterling Silver 3.57 Ct.",
+    "lastOnAirAuctionCode": "0019930505",
     "precedingSku": "8626855",
     "precedingTitle": "The Royal Asscher Collection -9K Rose Gold Pink Moissanite Solitaire Ring 4.10 Ct.",
     "precedingAuctionCode": null
