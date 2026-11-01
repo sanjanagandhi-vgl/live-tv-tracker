@@ -507691,9 +507691,16 @@
       "img": true,
       "date": "2026-11-01",
       "time": "18:11:20",
-      "productUrl": null,
-      "lastUpdated": 1793556680287,
-      "source": "gha"
+      "productUrl": "/products/natural-jade-beads-bracelet-pure-white-stainless-steel-140-000-ct",
+      "lastUpdated": 1793558741227,
+      "source": "gha",
+      "missedAt": 1793558741227,
+      "missedDelay": 34,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1793558744055,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8625753": {
       "sku": "8625753",
@@ -508075,11 +508082,29 @@
       "auctionCode": "0019933497",
       "source": "gha",
       "productUrl": null
+    },
+    "4521628": {
+      "sku": "4521628",
+      "firstAir": 1793558741227,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793558741227,
+      "title": "Manhattan Close Out - Multi-Strand Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - S to U) Set",
+      "pdpPrice": "159.99",
+      "auctionCode": "0019931841",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-01",
+      "time": "18:45:41",
+      "productUrl": null,
+      "lastUpdated": 1793558741227,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793558663506,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -581658,11 +581683,22 @@
         "followingSku": "4528138",
         "followingTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
         "followingAuctionCode": "0019931842"
+      },
+      {
+        "start": 1793558663506,
+        "end": 1793558741227,
+        "durationMin": 1.3,
+        "precedingSku": "4528138",
+        "precedingTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
+        "precedingAuctionCode": "0019931842",
+        "followingSku": "4521628",
+        "followingTitle": "Manhattan Close Out - Multi-Strand Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - S to U) Set",
+        "followingAuctionCode": "0019931841"
       }
     ],
-    "lastOnAirSku": "4528138",
-    "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
-    "lastOnAirAuctionCode": "0019931842",
+    "lastOnAirSku": "4521628",
+    "lastOnAirTitle": "Manhattan Close Out - Multi-Strand Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - S to U) Set",
+    "lastOnAirAuctionCode": "0019931841",
     "precedingSku": "4528138",
     "precedingTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
     "precedingAuctionCode": "0019931842"
