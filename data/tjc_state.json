@@ -169570,21 +169570,26 @@
       "sku": "8537777",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-15",
-      "time": "17:14:23",
+      "date": "2026-11-01",
+      "time": "19:11:21",
       "preExisting": true,
       "missedAt": 1786810463779,
       "missedDelay": null,
-      "lastUpdated": 1786810463779,
+      "lastUpdated": 1793560281897,
       "missedPrice": 399.99,
       "missedImg": true,
       "title": "Luxuriant SI-G-H Lab Grown Multi Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 3.50 Ct.",
-      "auctionCode": "0019823506",
+      "auctionCode": "0019934137",
       "source": "gha",
       "productUrl": "/products/luxuriant-si-g-h-lab-grown-multi-diamond-cluster-ring-in-18k-vermeil-yellow-gold-plated-sterling-silver-3-50-ct",
       "productUrlChecked": 1786810477660,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793560281897,
+      "pdpPrice": "14567.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8537778": {
       "sku": "8537778",
@@ -508110,8 +508115,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793560162421,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -581723,11 +581728,22 @@
         "followingSku": "8548666",
         "followingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
         "followingAuctionCode": "0019934172"
+      },
+      {
+        "start": 1793560162421,
+        "end": 1793560281897,
+        "durationMin": 2.0,
+        "precedingSku": "8548677",
+        "precedingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
+        "precedingAuctionCode": null,
+        "followingSku": "8537777",
+        "followingTitle": "Luxuriant SI-G-H Lab Grown Multi Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 3.50 Ct.",
+        "followingAuctionCode": "0019934137"
       }
     ],
-    "lastOnAirSku": "8548677",
-    "lastOnAirTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8537777",
+    "lastOnAirTitle": "Luxuriant SI-G-H Lab Grown Multi Diamond Cluster Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 3.50 Ct.",
+    "lastOnAirAuctionCode": "0019934137",
     "precedingSku": "8548677",
     "precedingTitle": "Celestial Zodiac Collection - Sagittarius 24k Gold Coin Collectibles",
     "precedingAuctionCode": null
