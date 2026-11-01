@@ -210570,24 +210570,24 @@
       "sku": "8635007",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-19",
-      "time": "05:35:28",
+      "date": "2026-11-01",
+      "time": "05:40:41",
       "preExisting": true,
       "missedAt": 1787311158705,
       "missedDelay": null,
-      "lastUpdated": 1792384528999,
+      "lastUpdated": 1793511641391,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
-      "auctionCode": null,
+      "auctionCode": "0019930961",
       "source": "gha",
       "productUrl": "/products/24k-yellow-gold-mg-standard-accessories-gold-wt-10-gms-2368635004?variant=53294166573322",
       "productUrlChecked": 1787311162380,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1792384528999,
-      "pdpPrice": 19.99,
-      "buy": false,
+      "lastAir": 1793511641391,
+      "pdpPrice": "19.99",
+      "buy": true,
       "login": false,
       "img": true
     },
@@ -505744,8 +505744,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793511513212,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578763,11 +578763,22 @@
         "followingSku": "7341827",
         "followingTitle": "9K White Gold  Earring,  Gold Wt. 1 Gms",
         "followingAuctionCode": "0019930926"
+      },
+      {
+        "start": 1793511513212,
+        "end": 1793511641391,
+        "durationMin": 2.1,
+        "precedingSku": "7939312",
+        "precedingTitle": "9K Yellow Gold Hand Made Spiga Necklace (Size 20) with Spring Ring Clasp",
+        "precedingAuctionCode": "0019930966",
+        "followingSku": "8635007",
+        "followingTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+        "followingAuctionCode": "0019930961"
       }
     ],
-    "lastOnAirSku": "7939312",
-    "lastOnAirTitle": "9K Yellow Gold Hand Made Spiga Necklace (Size 20) with Spring Ring Clasp",
-    "lastOnAirAuctionCode": "0019930966",
+    "lastOnAirSku": "8635007",
+    "lastOnAirTitle": "24K Yellow Gold Fairytale Unicorn Collectible (31x45.5 mm)",
+    "lastOnAirAuctionCode": "0019930961",
     "precedingSku": "7939312",
     "precedingTitle": "9K Yellow Gold Hand Made Spiga Necklace (Size 20) with Spring Ring Clasp",
     "precedingAuctionCode": "0019930966"
