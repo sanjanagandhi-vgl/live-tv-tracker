@@ -481740,21 +481740,26 @@
       "sku": "8777420",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-23",
-      "time": "10:57:17",
+      "date": "2026-11-01",
+      "time": "08:06:23",
       "preExisting": true,
       "missedAt": 1792749437691,
       "missedDelay": null,
-      "lastUpdated": 1792749437691,
+      "lastUpdated": 1793520383654,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Rope Chain Necklace (Size - 22)",
-      "auctionCode": "0019920649",
+      "title": "Chunky Rope Necklace (Size - 18)",
+      "auctionCode": "0019931860",
       "source": "gha",
       "productUrl": "/products/rope-chain-necklace-size-18-8777394",
       "productUrlChecked": 1792749441229,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793520383654,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8777419": {
       "sku": "8777419",
@@ -505876,8 +505881,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793520331716,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -579016,11 +579021,22 @@
         "followingSku": "8744685",
         "followingTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
         "followingAuctionCode": "0019931849"
+      },
+      {
+        "start": 1793520331716,
+        "end": 1793520383654,
+        "durationMin": 0.9,
+        "precedingSku": "8744685",
+        "precedingTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
+        "precedingAuctionCode": null,
+        "followingSku": "8777420",
+        "followingTitle": "Chunky Rope Necklace (Size - 18)",
+        "followingAuctionCode": "0019931860"
       }
     ],
-    "lastOnAirSku": "8744685",
-    "lastOnAirTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8777420",
+    "lastOnAirTitle": "Chunky Rope Necklace (Size - 18)",
+    "lastOnAirAuctionCode": "0019931860",
     "precedingSku": "8744685",
     "precedingTitle": "Manhattan Close Out - Textured Bangle (Size - 7)",
     "precedingAuctionCode": null
