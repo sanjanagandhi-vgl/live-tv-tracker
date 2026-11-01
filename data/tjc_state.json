@@ -505407,11 +505407,29 @@
       "auctionCode": "0019930797",
       "source": "gha",
       "productUrl": null
+    },
+    "6067549": {
+      "sku": "6067549",
+      "firstAir": 1793502504251,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793502504251,
+      "title": "Kris Ana Coloured Border Wrap",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019930821",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-01",
+      "time": "03:08:24",
+      "productUrl": null,
+      "lastUpdated": 1793502504251,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793502440018,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -578374,11 +578392,22 @@
         "followingSku": "6900599",
         "followingTitle": "Crystal Trim Poncho (One Size, Fits Approx 8-18) - Orange",
         "followingAuctionCode": "0019930822"
+      },
+      {
+        "start": 1793502440018,
+        "end": 1793502504251,
+        "durationMin": 1.1,
+        "precedingSku": "6900599",
+        "precedingTitle": "Crystal Trim Poncho (One Size, Fits Approx 8-18) - Orange",
+        "precedingAuctionCode": "0019930822",
+        "followingSku": "6067549",
+        "followingTitle": "Kris Ana Coloured Border Wrap",
+        "followingAuctionCode": "0019930821"
       }
     ],
-    "lastOnAirSku": "6900599",
-    "lastOnAirTitle": "Crystal Trim Poncho (One Size, Fits Approx 8-18) - Orange",
-    "lastOnAirAuctionCode": "0019930822",
+    "lastOnAirSku": "6067549",
+    "lastOnAirTitle": "Kris Ana Coloured Border Wrap",
+    "lastOnAirAuctionCode": "0019930821",
     "precedingSku": "6900599",
     "precedingTitle": "Crystal Trim Poncho (One Size, Fits Approx 8-18) - Orange",
     "precedingAuctionCode": "0019930822"
