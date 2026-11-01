@@ -481938,17 +481938,17 @@
       "firstAir": 1792750238494,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793519440230,
+      "lastAir": 1793559080734,
       "title": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
       "pdpPrice": "9.99",
-      "auctionCode": "0019931859",
+      "auctionCode": "0019934159",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-11-01",
-      "time": "07:50:40",
+      "time": "18:51:20",
       "productUrl": "/products/black-onyx-nautical-rope-bracelet-size-8-5-8782659",
-      "lastUpdated": 1793519440230,
+      "lastUpdated": 1793559080734,
       "source": "gha",
       "missedAt": 1792750582757,
       "missedDelay": 2,
@@ -508110,8 +508110,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793559042874,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -581701,11 +581701,22 @@
         "followingSku": "4521628",
         "followingTitle": "Manhattan Close Out - Multi-Strand Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - S to U) Set",
         "followingAuctionCode": "0019931841"
+      },
+      {
+        "start": 1793559042874,
+        "end": 1793559080734,
+        "durationMin": 0.6,
+        "precedingSku": "4521628",
+        "precedingTitle": "Manhattan Close Out - Multi-Strand Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - S to U) Set",
+        "precedingAuctionCode": "0019931841",
+        "followingSku": "8782659",
+        "followingTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
+        "followingAuctionCode": "0019934159"
       }
     ],
-    "lastOnAirSku": "4521628",
-    "lastOnAirTitle": "Manhattan Close Out - Multi-Strand Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - S to U) Set",
-    "lastOnAirAuctionCode": "0019931841",
+    "lastOnAirSku": "8782659",
+    "lastOnAirTitle": "Mega Close Out - Black Onyx Byzantine Bracelet (Size - 8.5)",
+    "lastOnAirAuctionCode": "0019934159",
     "precedingSku": "4521628",
     "precedingTitle": "Manhattan Close Out - Multi-Strand Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - S to U) Set",
     "precedingAuctionCode": "0019931841"
