@@ -500968,21 +500968,26 @@
       "sku": "8832149",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-30",
-      "time": "09:35:30",
+      "date": "2026-11-02",
+      "time": "02:12:25",
       "preExisting": true,
       "missedAt": 1793352930771,
       "missedDelay": null,
-      "lastUpdated": 1793352930771,
+      "lastUpdated": 1793585545927,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Pure and Natural Shimmer Top (Size - L, 16-18) - Purple",
-      "auctionCode": "0019929469",
+      "title": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Maroon",
+      "auctionCode": "0019934192",
       "source": "gha",
       "productUrl": "/products/pure-and-natural-shimmer-top-size-l-16-18-dark-grey-8832116",
       "productUrlChecked": 1793352934961,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793585545927,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4441181": {
       "sku": "4441181",
@@ -508643,8 +508648,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793585443359,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582542,11 +582547,22 @@
         "followingSku": "8832147",
         "followingTitle": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Maroon",
         "followingAuctionCode": "0019934189"
+      },
+      {
+        "start": 1793585443359,
+        "end": 1793585545927,
+        "durationMin": 1.7,
+        "precedingSku": "8832147",
+        "precedingTitle": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Maroon",
+        "precedingAuctionCode": "0019934189",
+        "followingSku": "8832149",
+        "followingTitle": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Maroon",
+        "followingAuctionCode": "0019934192"
       }
     ],
-    "lastOnAirSku": "8832147",
+    "lastOnAirSku": "8832149",
     "lastOnAirTitle": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Maroon",
-    "lastOnAirAuctionCode": "0019934189",
+    "lastOnAirAuctionCode": "0019934192",
     "precedingSku": "8832147",
     "precedingTitle": "Pure and Natural Shimmer Top (Size - XL, 20-22) - Maroon",
     "precedingAuctionCode": "0019934189"
