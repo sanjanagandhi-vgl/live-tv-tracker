@@ -502007,18 +502007,23 @@
       "sku": "8585770",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-30",
-      "time": "14:53:22",
+      "date": "2026-11-02",
+      "time": "02:45:41",
       "preExisting": true,
       "missedAt": 1793372002636,
       "missedDelay": null,
-      "lastUpdated": 1793372002636,
+      "lastUpdated": 1793587541125,
       "missedPrice": 19.99,
       "missedImg": false,
-      "title": "Pure And Natural Brushed Long Sleeve Peacock Printed Top (Size L, 16-18) - Purple",
-      "auctionCode": "0019929548",
+      "title": "Pure And Natural Brushed Long Sleeve Peacock Printed Top (Size XL, 20-22) - Purple",
+      "auctionCode": "0019934198",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793587541125,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8832191": {
       "sku": "8832191",
@@ -508653,8 +508658,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793587242712,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582596,11 +582601,22 @@
         "followingSku": "8832070",
         "followingTitle": "Pure And Natural Side Stripe Elasticated Waist Wide Leg Trousers (Size XL, 20-22) - Olive",
         "followingAuctionCode": "0019933547"
+      },
+      {
+        "start": 1793587242712,
+        "end": 1793587541125,
+        "durationMin": 5.0,
+        "precedingSku": "8832070",
+        "precedingTitle": "Pure And Natural Side Stripe Elasticated Waist Wide Leg Trousers (Size XL, 20-22) - Olive",
+        "precedingAuctionCode": "0019933547",
+        "followingSku": "8585770",
+        "followingTitle": "Pure And Natural Brushed Long Sleeve Peacock Printed Top (Size XL, 20-22) - Purple",
+        "followingAuctionCode": "0019934198"
       }
     ],
-    "lastOnAirSku": "8832070",
-    "lastOnAirTitle": "Pure And Natural Side Stripe Elasticated Waist Wide Leg Trousers (Size XL, 20-22) - Olive",
-    "lastOnAirAuctionCode": "0019933547",
+    "lastOnAirSku": "8585770",
+    "lastOnAirTitle": "Pure And Natural Brushed Long Sleeve Peacock Printed Top (Size XL, 20-22) - Purple",
+    "lastOnAirAuctionCode": "0019934198",
     "precedingSku": "8832070",
     "precedingTitle": "Pure And Natural Side Stripe Elasticated Waist Wide Leg Trousers (Size XL, 20-22) - Olive",
     "precedingAuctionCode": "0019933547"
