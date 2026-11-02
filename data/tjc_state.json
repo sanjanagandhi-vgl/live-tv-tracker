@@ -510166,11 +510166,29 @@
       "productUrlChecked": 1793638471145,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8625123": {
+      "sku": "8625123",
+      "firstAir": 1793638534530,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793638534530,
+      "title": "Heat Machine Ladies Thermal Tights - 300 Denier (Size L-XL, 18-20) - Black",
+      "pdpPrice": "25.99",
+      "auctionCode": "0019931524",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-02",
+      "time": "16:55:34",
+      "productUrl": null,
+      "lastUpdated": 1793638534530,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793638465944,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -584519,11 +584537,22 @@
         "followingSku": "8697591",
         "followingTitle": "La Marey Signature Genuine Leather Flap Top Handle Bag with Shoulder Strap - Dark Purple",
         "followingAuctionCode": "0019934712"
+      },
+      {
+        "start": 1793638465944,
+        "end": 1793638534530,
+        "durationMin": 1.1,
+        "precedingSku": "8697591",
+        "precedingTitle": "La Marey Signature Genuine Leather Flap Top Handle Bag with Shoulder Strap - Dark Purple",
+        "precedingAuctionCode": "0019934712",
+        "followingSku": "8625123",
+        "followingTitle": "Heat Machine Ladies Thermal Tights - 300 Denier (Size L-XL, 18-20) - Black",
+        "followingAuctionCode": "0019931524"
       }
     ],
-    "lastOnAirSku": "8697591",
-    "lastOnAirTitle": "La Marey Signature Genuine Leather Flap Top Handle Bag with Shoulder Strap - Dark Purple",
-    "lastOnAirAuctionCode": "0019934712",
+    "lastOnAirSku": "8625123",
+    "lastOnAirTitle": "Heat Machine Ladies Thermal Tights - 300 Denier (Size L-XL, 18-20) - Black",
+    "lastOnAirAuctionCode": "0019931524",
     "precedingSku": "8697591",
     "precedingTitle": "La Marey Signature Genuine Leather Flap Top Handle Bag with Shoulder Strap - Dark Purple",
     "precedingAuctionCode": "0019934712"
