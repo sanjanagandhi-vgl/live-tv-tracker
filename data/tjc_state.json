@@ -510839,11 +510839,29 @@
       "productUrlChecked": 1793645074486,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8822938": {
+      "sku": "8822938",
+      "firstAir": 1793645143705,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793645143705,
+      "title": null,
+      "pdpPrice": null,
+      "auctionCode": "0019935381",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-11-02",
+      "time": "18:45:43",
+      "productUrl": null,
+      "lastUpdated": 1793645143705,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793645068780,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -585247,11 +585265,22 @@
         "followingSku": "8830818",
         "followingTitle": "D'Joy - AAA Natural Radiant Ember Garnet & White Zircon Dangling Earring with Push Post in Rhodium Overlay Sterling Silver 1.65 Ct.",
         "followingAuctionCode": "0019931605"
+      },
+      {
+        "start": 1793645068780,
+        "end": 1793645143705,
+        "durationMin": 1.2,
+        "precedingSku": "4490628",
+        "precedingTitle": "D'Joy - Natural Radiant Ember Garnet, White Zircon & Ethiopian Opal Drop Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
+        "precedingAuctionCode": "0019932481",
+        "followingSku": "8822938",
+        "followingTitle": null,
+        "followingAuctionCode": "0019935381"
       }
     ],
-    "lastOnAirSku": "4490628",
-    "lastOnAirTitle": "D'Joy - Natural Radiant Ember Garnet, White Zircon & Ethiopian Opal Drop Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
-    "lastOnAirAuctionCode": "0019932481",
+    "lastOnAirSku": "8822938",
+    "lastOnAirTitle": null,
+    "lastOnAirAuctionCode": "0019935381",
     "precedingSku": "4490628",
     "precedingTitle": "D'Joy - Natural Radiant Ember Garnet, White Zircon & Ethiopian Opal Drop Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 1.10 Ct.",
     "precedingAuctionCode": "0019932481"
