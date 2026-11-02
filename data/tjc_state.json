@@ -510206,9 +510206,16 @@
       "img": true,
       "date": "2026-11-02",
       "time": "17:13:24",
-      "productUrl": null,
-      "lastUpdated": 1793639604999,
-      "source": "gha"
+      "productUrl": "/products/bottom-and-legging-black-8625107",
+      "lastUpdated": 1793639677830,
+      "source": "gha",
+      "missedAt": 1793639677830,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1793639682716,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8625125": {
       "sku": "8625125",
@@ -510249,11 +510256,51 @@
       "productUrlChecked": 1793639283693,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8625122": {
+      "sku": "8625122",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-02",
+      "time": "17:14:37",
+      "preExisting": true,
+      "missedAt": 1793639677830,
+      "missedDelay": null,
+      "lastUpdated": 1793639677830,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Heat Machine Ladies Thermal Tights - 300 Denier (Size L-XL, 18-20) - Chocolate",
+      "auctionCode": "0019932362",
+      "source": "gha",
+      "productUrl": "/products/bottom-and-legging-black-8625107",
+      "productUrlChecked": 1793639683060,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8625121": {
+      "sku": "8625121",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-02",
+      "time": "17:14:37",
+      "preExisting": true,
+      "missedAt": 1793639677830,
+      "missedDelay": null,
+      "lastUpdated": 1793639677830,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Heat Machine Ladies Thermal Tights - 300 Denier (Size M-L, 14-16) - Chocolate",
+      "auctionCode": "0019932361",
+      "source": "gha",
+      "productUrl": "/products/bottom-and-legging-black-8625107",
+      "productUrlChecked": 1793639683440,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793639677830,
     "gaps": [
       {
         "start": 1785823527869,
@@ -584618,8 +584665,8 @@
     "lastOnAirSku": "8625120",
     "lastOnAirTitle": "Heat Machine Ladies Thermal Tights - 300 Denier (Size L-XL, 18-20) - Black",
     "lastOnAirAuctionCode": "0019931521",
-    "precedingSku": "8697591",
-    "precedingTitle": "La Marey Signature Genuine Leather Flap Top Handle Bag with Shoulder Strap - Dark Purple",
-    "precedingAuctionCode": "0019934712"
+    "precedingSku": "8625120",
+    "precedingTitle": "Heat Machine Ladies Thermal Tights - 300 Denier (Size L-XL, 18-20) - Black",
+    "precedingAuctionCode": "0019931521"
   }
 }
