@@ -394241,23 +394241,23 @@
       "sku": "8228261",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-26",
-      "time": "18:35:31",
+      "date": "2026-11-02",
+      "time": "07:29:22",
       "preExisting": true,
       "missedAt": 1790360662448,
       "missedDelay": null,
-      "lastUpdated": 1793039731527,
+      "lastUpdated": 1793604562143,
       "missedPrice": 4.99,
       "missedImg": true,
       "title": "Arabian Oud Home Fragrance Collection- Dubai Abeer - 300ML",
-      "auctionCode": "0019922384",
+      "auctionCode": "0019933745",
       "source": "gha",
       "productUrl": "/products/arabian-oud-home-fragrance-collection-300ml?variant=53107314491658",
       "productUrlChecked": 1790360668279,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1793039731527,
-      "pdpPrice": "4.99",
+      "lastAir": 1793604562143,
+      "pdpPrice": "50.99",
       "buy": true,
       "login": false,
       "img": true
@@ -508750,8 +508750,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793604503615,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582891,11 +582891,22 @@
         "followingSku": "7723008",
         "followingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
         "followingAuctionCode": "0019934025"
+      },
+      {
+        "start": 1793604503615,
+        "end": 1793604562143,
+        "durationMin": 1.0,
+        "precedingSku": "7723008",
+        "precedingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
+        "precedingAuctionCode": "0019934025",
+        "followingSku": "8228261",
+        "followingTitle": "Arabian Oud Home Fragrance Collection- Dubai Abeer - 300ML",
+        "followingAuctionCode": "0019933745"
       }
     ],
-    "lastOnAirSku": "7723008",
-    "lastOnAirTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
-    "lastOnAirAuctionCode": "0019934025",
+    "lastOnAirSku": "8228261",
+    "lastOnAirTitle": "Arabian Oud Home Fragrance Collection- Dubai Abeer - 300ML",
+    "lastOnAirAuctionCode": "0019933745",
     "precedingSku": "7723008",
     "precedingTitle": "MAESTRO COLLECTION - 9K Yellow Gold Hoop Earrings with Clasp",
     "precedingAuctionCode": "0019934025"
