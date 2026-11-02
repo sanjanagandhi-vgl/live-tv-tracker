@@ -508763,13 +508763,34 @@
       "date": "2026-11-02",
       "time": "07:45:40",
       "productUrl": null,
-      "lastUpdated": 1793605540354,
-      "source": "gha"
+      "lastUpdated": 1793605583722,
+      "source": "gha",
+      "missedAt": 1793605583722,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
+    },
+    "8666790": {
+      "sku": "8666790",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-02",
+      "time": "07:46:23",
+      "preExisting": true,
+      "missedAt": 1793605583722,
+      "missedDelay": null,
+      "lastUpdated": 1793605583722,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "LIVMORE Table Lamp (15cm) - Dark Green",
+      "auctionCode": "0019934219",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793605583722,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582936,8 +582957,8 @@
     "lastOnAirSku": "8666789",
     "lastOnAirTitle": "LIVMORE Table Lamp (15cm) - Dark Green",
     "lastOnAirAuctionCode": "0019934218",
-    "precedingSku": "8228261",
-    "precedingTitle": "Arabian Oud Home Fragrance Collection- Dubai Abeer - 300ML",
-    "precedingAuctionCode": "0019933745"
+    "precedingSku": "8666789",
+    "precedingTitle": "LIVMORE Table Lamp (15cm) - Dark Green",
+    "precedingAuctionCode": "0019934218"
   }
 }
