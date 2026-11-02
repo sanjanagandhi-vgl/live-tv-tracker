@@ -511396,11 +511396,29 @@
       "auctionCode": "0019932162",
       "source": "gha",
       "productUrl": null
+    },
+    "8789105": {
+      "sku": "8789105",
+      "firstAir": 1793653644403,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793653644403,
+      "title": "EverTrue - White Crystal & White Shell Pearl Dangling Earring with Push Back 2.00 Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019935261",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-02",
+      "time": "21:07:24",
+      "productUrl": null,
+      "lastUpdated": 1793653644403,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793653534500,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -585859,11 +585877,22 @@
         "followingSku": "8645253",
         "followingTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
         "followingAuctionCode": "0019932466"
+      },
+      {
+        "start": 1793653534500,
+        "end": 1793653644403,
+        "durationMin": 1.8,
+        "precedingSku": "8645253",
+        "precedingTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
+        "precedingAuctionCode": "0019932466",
+        "followingSku": "8789105",
+        "followingTitle": "EverTrue - White Crystal & White Shell Pearl Dangling Earring with Push Back 2.00 Ct.",
+        "followingAuctionCode": "0019935261"
       }
     ],
-    "lastOnAirSku": "8645253",
-    "lastOnAirTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
-    "lastOnAirAuctionCode": "0019932466",
+    "lastOnAirSku": "8789105",
+    "lastOnAirTitle": "EverTrue - White Crystal & White Shell Pearl Dangling Earring with Push Back 2.00 Ct.",
+    "lastOnAirAuctionCode": "0019935261",
     "precedingSku": "8645253",
     "precedingTitle": "Tony Diniz Collection - 9K Yellow Gold AAAA Natural Radiant Ember Garnet & Natural White Diamond Halo Ring 1.80 Ct.",
     "precedingAuctionCode": "0019932466"
