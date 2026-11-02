@@ -141860,17 +141860,17 @@
       "firstAir": 1786520183130,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793372601475,
+      "lastAir": 1793588239123,
       "title": "Long Sleeves Blazer with Notched Lapel Collar (Size L,16-18) - Grey",
-      "pdpPrice": 19.99,
-      "auctionCode": null,
+      "pdpPrice": "19.99",
+      "auctionCode": "0019932600",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-30",
-      "time": "15:03:21",
+      "date": "2026-11-02",
+      "time": "02:57:19",
       "productUrl": "/products/tamsy-long-sleeves-blazer-with-notched-lapel-collar-grey?variant=53099990352138",
-      "lastUpdated": 1793372601475,
+      "lastUpdated": 1793588239123,
       "source": "gha",
       "missedAt": 1786520903750,
       "missedDelay": 10,
@@ -508661,8 +508661,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793588000371,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582626,11 +582626,22 @@
         "followingSku": "8832190",
         "followingTitle": "Pure And Natural Animal Print Top (Size XL, 20-22) - Brown",
         "followingAuctionCode": "0019934202"
+      },
+      {
+        "start": 1793588000371,
+        "end": 1793588239123,
+        "durationMin": 4.0,
+        "precedingSku": "8832190",
+        "precedingTitle": "Pure And Natural Animal Print Top (Size XL, 20-22) - Brown",
+        "precedingAuctionCode": "0019934202",
+        "followingSku": "3890811",
+        "followingTitle": "Long Sleeves Blazer with Notched Lapel Collar (Size L,16-18) - Grey",
+        "followingAuctionCode": "0019932600"
       }
     ],
-    "lastOnAirSku": "8832190",
-    "lastOnAirTitle": "Pure And Natural Animal Print Top (Size XL, 20-22) - Brown",
-    "lastOnAirAuctionCode": "0019934202",
+    "lastOnAirSku": "3890811",
+    "lastOnAirTitle": "Long Sleeves Blazer with Notched Lapel Collar (Size L,16-18) - Grey",
+    "lastOnAirAuctionCode": "0019932600",
     "precedingSku": "8832190",
     "precedingTitle": "Pure And Natural Animal Print Top (Size XL, 20-22) - Brown",
     "precedingAuctionCode": "0019934202"
