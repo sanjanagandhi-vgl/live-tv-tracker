@@ -492697,18 +492697,23 @@
       "sku": "8707755",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-27",
-      "time": "12:37:21",
+      "date": "2026-11-02",
+      "time": "06:02:25",
       "preExisting": true,
       "missedAt": 1793104641448,
       "missedDelay": null,
-      "lastUpdated": 1793104641448,
+      "lastUpdated": 1793599345385,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "LIVMORE Flashlights and Torchlight (Size - One Size) - Purple & Black",
-      "auctionCode": "0019924555",
+      "title": "LIVMORE Rechargeable 800 Lumen Tactical LED Torch with COB Side Light & Zoomable Focus - Navy Blue",
+      "auctionCode": "0019933742",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793599345385,
+      "pdpPrice": "89.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8707754": {
       "sku": "8707754",
@@ -508684,8 +508689,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793598438272,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582770,11 +582775,22 @@
         "followingSku": "7930470",
         "followingTitle": "Ladies Boots MONTREAL (Size 4) - Camel",
         "followingAuctionCode": "0019932738"
+      },
+      {
+        "start": 1793598438272,
+        "end": 1793599345385,
+        "durationMin": 15.1,
+        "precedingSku": "7930478",
+        "precedingTitle": "Ladies Boots MONTREAL (Size 4) - Camel",
+        "precedingAuctionCode": "0019932739",
+        "followingSku": "8707755",
+        "followingTitle": "LIVMORE Rechargeable 800 Lumen Tactical LED Torch with COB Side Light & Zoomable Focus - Navy Blue",
+        "followingAuctionCode": "0019933742"
       }
     ],
-    "lastOnAirSku": "7930478",
-    "lastOnAirTitle": "Ladies Boots MONTREAL (Size 4) - Camel",
-    "lastOnAirAuctionCode": "0019932739",
+    "lastOnAirSku": "8707755",
+    "lastOnAirTitle": "LIVMORE Rechargeable 800 Lumen Tactical LED Torch with COB Side Light & Zoomable Focus - Navy Blue",
+    "lastOnAirAuctionCode": "0019933742",
     "precedingSku": "7930478",
     "precedingTitle": "Ladies Boots MONTREAL (Size 4) - Camel",
     "precedingAuctionCode": "0019932739"
