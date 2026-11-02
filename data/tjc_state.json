@@ -457863,21 +457863,26 @@
       "sku": "4531312",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-14",
-      "time": "11:33:18",
+      "date": "2026-11-02",
+      "time": "23:05:35",
       "preExisting": true,
       "missedAt": 1791973998148,
       "missedDelay": null,
-      "lastUpdated": 1791973998148,
+      "lastUpdated": 1793660735149,
       "missedPrice": 79.99,
       "missedImg": true,
-      "title": "Luxuriant - Natural Kariba AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
-      "auctionCode": "0019909196",
+      "title": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
+      "auctionCode": "0019935056",
       "source": "gha",
       "productUrl": "/products/luxuriant-aaa-zambian-amethyst-lab-grown-diamond-si-g-h-halo-drop-earring-with-lever-back-in-18k-vermeil-yellow-gold-plated-sterling-silver-1-70-ct-8779088",
       "productUrlChecked": 1791974001600,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793660735149,
+      "pdpPrice": "999.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4533383": {
       "sku": "4533383",
@@ -511575,8 +511580,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793660654842,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -586123,11 +586128,22 @@
         "followingSku": "8773087",
         "followingTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.34 Ct.",
         "followingAuctionCode": "0019935047"
+      },
+      {
+        "start": 1793660654842,
+        "end": 1793660735149,
+        "durationMin": 1.3,
+        "precedingSku": "8773087",
+        "precedingTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.34 Ct.",
+        "precedingAuctionCode": "0019935047",
+        "followingSku": "4531312",
+        "followingTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
+        "followingAuctionCode": "0019935056"
       }
     ],
-    "lastOnAirSku": "8773087",
-    "lastOnAirTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.34 Ct.",
-    "lastOnAirAuctionCode": "0019935047",
+    "lastOnAirSku": "4531312",
+    "lastOnAirTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
+    "lastOnAirAuctionCode": "0019935056",
     "precedingSku": "8773087",
     "precedingTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.34 Ct.",
     "precedingAuctionCode": "0019935047"
