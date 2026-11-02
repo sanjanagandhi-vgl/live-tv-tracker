@@ -602,23 +602,23 @@
       "sku": "7800646",
       "tvPrice": "",
       "remarks": "",
-      "time": "15:19:21",
+      "time": "03:10:41",
       "preExisting": true,
       "missedAt": 1784790839132,
       "missedDelay": null,
       "missedPrice": null,
       "missedImg": false,
       "title": "La Marey Tweed Long Sleeve Buttoned Blazer (Size 18 To 20) - White",
-      "auctionCode": "0019930194",
+      "auctionCode": "0019932603",
       "source": "gha",
-      "lastAir": 1793373561517,
-      "pdpPrice": "17.99",
+      "lastAir": 1793589041917,
+      "pdpPrice": "39.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-30",
+      "date": "2026-11-02",
       "productUrl": null,
-      "lastUpdated": 1793373561517
+      "lastUpdated": 1793589041917
     },
     "7800650": {
       "sku": "7800650",
@@ -508681,8 +508681,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793588359441,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582657,11 +582657,22 @@
         "followingSku": "3890811",
         "followingTitle": "Long Sleeves Blazer with Notched Lapel Collar (Size L,16-18) - Grey",
         "followingAuctionCode": "0019932600"
+      },
+      {
+        "start": 1793588359441,
+        "end": 1793589041917,
+        "durationMin": 11.4,
+        "precedingSku": "3890811",
+        "precedingTitle": "Long Sleeves Blazer with Notched Lapel Collar (Size L,16-18) - Grey",
+        "precedingAuctionCode": "0019932600",
+        "followingSku": "7800646",
+        "followingTitle": "La Marey Tweed Long Sleeve Buttoned Blazer (Size 18 To 20) - White",
+        "followingAuctionCode": "0019932603"
       }
     ],
-    "lastOnAirSku": "3890811",
-    "lastOnAirTitle": "Long Sleeves Blazer with Notched Lapel Collar (Size L,16-18) - Grey",
-    "lastOnAirAuctionCode": "0019932600",
+    "lastOnAirSku": "7800646",
+    "lastOnAirTitle": "La Marey Tweed Long Sleeve Buttoned Blazer (Size 18 To 20) - White",
+    "lastOnAirAuctionCode": "0019932603",
     "precedingSku": "3890811",
     "precedingTitle": "Long Sleeves Blazer with Notched Lapel Collar (Size L,16-18) - Grey",
     "precedingAuctionCode": "0019932600"
