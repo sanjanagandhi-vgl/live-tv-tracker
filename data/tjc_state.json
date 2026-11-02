@@ -23820,19 +23820,19 @@
       "sku": "8576690",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-14",
-      "time": "12:37:19",
+      "date": "2026-11-02",
+      "time": "23:14:26",
       "preExisting": true,
       "missedAt": 1785361947517,
       "missedDelay": null,
-      "lastUpdated": 1791977839306,
+      "lastUpdated": 1793661266182,
       "missedPrice": 89.99,
       "missedImg": true,
-      "title": "D'Joy - Natural Kariba AAA Zambian Amethyst & Natural White Diamond Ring in Rhodium Overlay Sterling Silver 4.36 Ct.",
-      "auctionCode": "0019907913",
+      "title": "D'Joy - Natural AAA Zambian Amethyst & Natural White Diamond Ring in Rhodium Overlay Sterling Silver 4.36 Ct.",
+      "auctionCode": "0019935120",
       "source": "gha",
-      "lastAir": 1791977839306,
-      "pdpPrice": "99.99",
+      "lastAir": 1793661266182,
+      "pdpPrice": "2099.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -511580,8 +511580,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793661146587,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -586139,11 +586139,22 @@
         "followingSku": "4531312",
         "followingTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
         "followingAuctionCode": "0019935056"
+      },
+      {
+        "start": 1793661146587,
+        "end": 1793661266182,
+        "durationMin": 2.0,
+        "precedingSku": "4531312",
+        "precedingTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
+        "precedingAuctionCode": "0019935056",
+        "followingSku": "8576690",
+        "followingTitle": "D'Joy - Natural AAA Zambian Amethyst & Natural White Diamond Ring in Rhodium Overlay Sterling Silver 4.36 Ct.",
+        "followingAuctionCode": "0019935120"
       }
     ],
-    "lastOnAirSku": "4531312",
-    "lastOnAirTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
-    "lastOnAirAuctionCode": "0019935056",
+    "lastOnAirSku": "8576690",
+    "lastOnAirTitle": "D'Joy - Natural AAA Zambian Amethyst & Natural White Diamond Ring in Rhodium Overlay Sterling Silver 4.36 Ct.",
+    "lastOnAirAuctionCode": "0019935120",
     "precedingSku": "4531312",
     "precedingTitle": "Natural AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 2.40 Ct.",
     "precedingAuctionCode": "0019935056"
