@@ -508983,11 +508983,29 @@
       "auctionCode": "0019934221",
       "source": "gha",
       "productUrl": null
+    },
+    "8721432": {
+      "sku": "8721432",
+      "firstAir": 1793612143233,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793612143233,
+      "title": "Crystal Embellished Spherical Evening Clutch Bag & Wristlet (Size 13x13x1 cm) - Multi Colour",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019934223",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-02",
+      "time": "09:35:43",
+      "productUrl": null,
+      "lastUpdated": 1793612143233,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793612010246,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -583204,11 +583222,22 @@
         "followingSku": "8575459",
         "followingTitle": "Women's Genuine Leather Modern Top-Handle Satchel Bag with Adjustable Shoulder Strap - Tan",
         "followingAuctionCode": "0019934220"
+      },
+      {
+        "start": 1793612010246,
+        "end": 1793612143233,
+        "durationMin": 2.2,
+        "precedingSku": "8575459",
+        "precedingTitle": "Women's Genuine Leather Modern Top-Handle Satchel Bag with Adjustable Shoulder Strap - Tan",
+        "precedingAuctionCode": "0019934220",
+        "followingSku": "8721432",
+        "followingTitle": "Crystal Embellished Spherical Evening Clutch Bag & Wristlet (Size 13x13x1 cm) - Multi Colour",
+        "followingAuctionCode": "0019934223"
       }
     ],
-    "lastOnAirSku": "8575459",
-    "lastOnAirTitle": "Women's Genuine Leather Modern Top-Handle Satchel Bag with Adjustable Shoulder Strap - Tan",
-    "lastOnAirAuctionCode": "0019934220",
+    "lastOnAirSku": "8721432",
+    "lastOnAirTitle": "Crystal Embellished Spherical Evening Clutch Bag & Wristlet (Size 13x13x1 cm) - Multi Colour",
+    "lastOnAirAuctionCode": "0019934223",
     "precedingSku": "8575459",
     "precedingTitle": "Women's Genuine Leather Modern Top-Handle Satchel Bag with Adjustable Shoulder Strap - Tan",
     "precedingAuctionCode": "0019934220"
