@@ -508786,11 +508786,29 @@
       "auctionCode": "0019934219",
       "source": "gha",
       "productUrl": null
+    },
+    "8575020": {
+      "sku": "8575020",
+      "firstAir": 1793605649485,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793605649485,
+      "title": "Plant Rack - 6- Pot Circles - Metal -  80cm Tall Black",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019933986",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-02",
+      "time": "07:47:29",
+      "productUrl": null,
+      "lastUpdated": 1793605649485,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793605583722,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582952,11 +582970,22 @@
         "followingSku": "8666789",
         "followingTitle": "LIVMORE Table Lamp (15cm) - Dark Green",
         "followingAuctionCode": "0019934218"
+      },
+      {
+        "start": 1793605583722,
+        "end": 1793605649485,
+        "durationMin": 1.1,
+        "precedingSku": "8666789",
+        "precedingTitle": "LIVMORE Table Lamp (15cm) - Dark Green",
+        "precedingAuctionCode": "0019934218",
+        "followingSku": "8575020",
+        "followingTitle": "Plant Rack - 6- Pot Circles - Metal -  80cm Tall Black",
+        "followingAuctionCode": "0019933986"
       }
     ],
-    "lastOnAirSku": "8666789",
-    "lastOnAirTitle": "LIVMORE Table Lamp (15cm) - Dark Green",
-    "lastOnAirAuctionCode": "0019934218",
+    "lastOnAirSku": "8575020",
+    "lastOnAirTitle": "Plant Rack - 6- Pot Circles - Metal -  80cm Tall Black",
+    "lastOnAirAuctionCode": "0019933986",
     "precedingSku": "8666789",
     "precedingTitle": "LIVMORE Table Lamp (15cm) - Dark Green",
     "precedingAuctionCode": "0019934218"
