@@ -510337,8 +510337,12 @@
       "date": "2026-11-02",
       "time": "17:31:26",
       "productUrl": null,
-      "lastUpdated": 1793640686804,
-      "source": "gha"
+      "lastUpdated": 1793640745590,
+      "source": "gha",
+      "missedAt": 1793640745590,
+      "missedDelay": 1,
+      "missedPrice": 17.99,
+      "missedImg": true
     },
     "8625119": {
       "sku": "8625119",
@@ -510379,6 +510383,75 @@
       "productUrlChecked": 1793640279042,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8844945": {
+      "sku": "8844945",
+      "firstAir": 1793640745590,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793640745590,
+      "title": "Ladies Soft Cozy High Ankle Winter Tall Slipper Boots (Size 7) - Red",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019932961",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-02",
+      "time": "17:32:25",
+      "productUrl": null,
+      "lastUpdated": 1793640745590,
+      "source": "gha"
+    },
+    "8844943": {
+      "sku": "8844943",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-02",
+      "time": "17:32:25",
+      "preExisting": true,
+      "missedAt": 1793640745590,
+      "missedDelay": null,
+      "lastUpdated": 1793640745590,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "Ladies Tall Pom Pom Indoor Winter Slipper (Size 7) - Navy & White",
+      "auctionCode": "0019932966",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8844942": {
+      "sku": "8844942",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-02",
+      "time": "17:32:25",
+      "preExisting": true,
+      "missedAt": 1793640745590,
+      "missedDelay": null,
+      "lastUpdated": 1793640745590,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "Ladies Tall Pom Pom Indoor Winter Slipper (Size 6) - Navy & White",
+      "auctionCode": "0019932965",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8844781": {
+      "sku": "8844781",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-02",
+      "time": "17:32:25",
+      "preExisting": true,
+      "missedAt": 1793640745590,
+      "missedDelay": null,
+      "lastUpdated": 1793640745590,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "Ladies Tall Pom Pom Indoor Winter Slipper (Size 5) - Navy & White",
+      "auctionCode": "0019932964",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
@@ -584756,9 +584829,9 @@
         "followingAuctionCode": "0019931518"
       }
     ],
-    "lastOnAirSku": "8844780",
+    "lastOnAirSku": "8844945",
     "lastOnAirTitle": "Ladies Soft Cozy High Ankle Winter Tall Slipper Boots (Size 7) - Red",
-    "lastOnAirAuctionCode": "0019932960",
+    "lastOnAirAuctionCode": "0019932961",
     "precedingSku": "8625120",
     "precedingTitle": "Heat Machine Ladies Thermal Tights - 300 Denier (Size L-XL, 18-20) - Black",
     "precedingAuctionCode": "0019931521"
