@@ -510021,11 +510021,29 @@
       "missedDelay": 2,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8697591": {
+      "sku": "8697591",
+      "firstAir": 1793636367068,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793636367068,
+      "title": "La Marey Signature Genuine Leather Flap Top Handle Bag with Shoulder Strap - Dark Purple",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019934712",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-02",
+      "time": "16:19:27",
+      "productUrl": null,
+      "lastUpdated": 1793636367068,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793636306969,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -584363,11 +584381,22 @@
         "followingSku": "8359187",
         "followingTitle": "La Marey Soft High-Neck Cardigan (Fits UK 8-20) - Cherry Red",
         "followingAuctionCode": "0019933352"
+      },
+      {
+        "start": 1793636306969,
+        "end": 1793636367068,
+        "durationMin": 1.0,
+        "precedingSku": "8699952",
+        "precedingTitle": "La Marey Cozy Fold-Over Turtleneck Knit Jumper (Size - S-M, 8-14) - Red",
+        "precedingAuctionCode": "0019933318",
+        "followingSku": "8697591",
+        "followingTitle": "La Marey Signature Genuine Leather Flap Top Handle Bag with Shoulder Strap - Dark Purple",
+        "followingAuctionCode": "0019934712"
       }
     ],
-    "lastOnAirSku": "8699952",
-    "lastOnAirTitle": "La Marey Cozy Fold-Over Turtleneck Knit Jumper (Size - S-M, 8-14) - Red",
-    "lastOnAirAuctionCode": "0019933318",
+    "lastOnAirSku": "8697591",
+    "lastOnAirTitle": "La Marey Signature Genuine Leather Flap Top Handle Bag with Shoulder Strap - Dark Purple",
+    "lastOnAirAuctionCode": "0019934712",
     "precedingSku": "8699952",
     "precedingTitle": "La Marey Cozy Fold-Over Turtleneck Knit Jumper (Size - S-M, 8-14) - Red",
     "precedingAuctionCode": "0019933318"
