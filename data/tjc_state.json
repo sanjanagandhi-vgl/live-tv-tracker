@@ -342605,23 +342605,23 @@
       "sku": "8515940",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-20",
-      "time": "13:51:18",
+      "date": "2026-11-02",
+      "time": "19:14:27",
       "preExisting": true,
       "missedAt": 1789358840876,
       "missedDelay": null,
-      "lastUpdated": 1789908678557,
+      "lastUpdated": 1793646867917,
       "missedPrice": 99.99,
       "missedImg": true,
-      "title": "D'Joy - Natural Radiant Ember Garnet Full Bangle (Size - 7.5) in Rhodium Overlay Sterling Silver ...",
-      "auctionCode": "0019878427",
+      "title": "D'Joy - Natural Radiant Ember Garnet Full Bangle (Size - 7.5) in Rhodium Overlay Sterling Silver 2.85 Ct.",
+      "auctionCode": "0019932430",
       "source": "gha",
       "productUrl": "/products/djoy-natural-radiant-ember-garnet-full-bangle-size-7-5-in-rhodium-overlay-sterling-silver-2-85-ct-8515940?variant=53191652868362",
       "productUrlChecked": 1789358848597,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1789908678557,
-      "pdpPrice": 99.99,
+      "lastAir": 1793646867917,
+      "pdpPrice": "3400.99",
       "buy": true,
       "login": false,
       "img": true
@@ -511000,8 +511000,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793646645880,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -585416,11 +585416,22 @@
         "followingSku": "8822938",
         "followingTitle": null,
         "followingAuctionCode": "0019935381"
+      },
+      {
+        "start": 1793646645880,
+        "end": 1793646867917,
+        "durationMin": 3.7,
+        "precedingSku": "8822938",
+        "precedingTitle": null,
+        "precedingAuctionCode": "0019935381",
+        "followingSku": "8515940",
+        "followingTitle": "D'Joy - Natural Radiant Ember Garnet Full Bangle (Size - 7.5) in Rhodium Overlay Sterling Silver 2.85 Ct.",
+        "followingAuctionCode": "0019932430"
       }
     ],
-    "lastOnAirSku": "8822938",
-    "lastOnAirTitle": null,
-    "lastOnAirAuctionCode": "0019935381",
+    "lastOnAirSku": "8515940",
+    "lastOnAirTitle": "D'Joy - Natural Radiant Ember Garnet Full Bangle (Size - 7.5) in Rhodium Overlay Sterling Silver 2.85 Ct.",
+    "lastOnAirAuctionCode": "0019932430",
     "precedingSku": "8822938",
     "precedingTitle": null,
     "precedingAuctionCode": "0019935381"
