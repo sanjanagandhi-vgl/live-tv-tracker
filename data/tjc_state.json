@@ -509300,8 +509300,12 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha"
+      "lastUpdated": 1793619062312,
+      "source": "gha",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8299895": {
       "sku": "8299895",
@@ -509317,8 +509321,12 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha-variant"
+      "lastUpdated": 1793619062312,
+      "source": "gha-variant",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8299885": {
       "sku": "8299885",
@@ -509334,8 +509342,12 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha-variant"
+      "lastUpdated": 1793619062312,
+      "source": "gha-variant",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8299888": {
       "sku": "8299888",
@@ -509351,8 +509363,12 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha-variant"
+      "lastUpdated": 1793619062312,
+      "source": "gha-variant",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8299897": {
       "sku": "8299897",
@@ -509368,8 +509384,12 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha-variant"
+      "lastUpdated": 1793619062312,
+      "source": "gha-variant",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8299890": {
       "sku": "8299890",
@@ -509385,8 +509405,12 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha-variant"
+      "lastUpdated": 1793619062312,
+      "source": "gha-variant",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8299904": {
       "sku": "8299904",
@@ -509402,8 +509426,12 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha-variant"
+      "lastUpdated": 1793619062312,
+      "source": "gha-variant",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8299892": {
       "sku": "8299892",
@@ -509419,8 +509447,12 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha-variant"
+      "lastUpdated": 1793619062312,
+      "source": "gha-variant",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8299907": {
       "sku": "8299907",
@@ -509436,8 +509468,12 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha-variant"
+      "lastUpdated": 1793619062312,
+      "source": "gha-variant",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     },
     "8299893": {
       "sku": "8299893",
@@ -509453,13 +509489,17 @@
       "date": "2026-11-02",
       "time": "11:29:27",
       "productUrl": null,
-      "lastUpdated": 1793618967765,
-      "source": "gha-variant"
+      "lastUpdated": 1793619062312,
+      "source": "gha-variant",
+      "missedAt": 1793619062312,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793619062312,
     "gaps": [
       {
         "start": 1785823527869,
@@ -583725,8 +583765,8 @@
     "lastOnAirSku": "8299884",
     "lastOnAirTitle": "La Marey Ribbed Stretch Corduroy Trousers (Size - XXL, 24-26) - Brown",
     "lastOnAirAuctionCode": "0019934375",
-    "precedingSku": "8699833",
-    "precedingTitle": "Designer Inspired-Poppy Embellishment Crossbody Bag - Apricot & Red",
-    "precedingAuctionCode": "0019932661"
+    "precedingSku": "8299884",
+    "precedingTitle": "La Marey Ribbed Stretch Corduroy Trousers (Size - XXL, 24-26) - Brown",
+    "precedingAuctionCode": "0019934375"
   }
 }
