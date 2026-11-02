@@ -6248,16 +6248,16 @@
       "firstAir": 1784905640907,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793375840721,
-      "title": "La Marey Soft Ribbed Light Weight Cardigan (Size XL, 20-22) - Sage",
-      "pdpPrice": 12.99,
-      "auctionCode": null,
+      "lastAir": 1793591481563,
+      "title": "La Marey Soft Ribbed Light Weight Cardigan (Size XL, 20-22) - Blue",
+      "pdpPrice": "12.99",
+      "auctionCode": "0019933690",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-30",
-      "time": "15:57:20",
-      "lastUpdated": 1793375840721,
+      "date": "2026-11-02",
+      "time": "03:51:21",
+      "lastUpdated": 1793591481563,
       "source": "gha",
       "missedAt": 1784905833905,
       "missedDelay": 1,
@@ -508681,8 +508681,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793591443100,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -582679,11 +582679,22 @@
         "followingSku": "8584159",
         "followingTitle": "La Marey Soft Ribbed Light Weight Cardigan (Size XL, 20-22) - Blue",
         "followingAuctionCode": "0019933688"
+      },
+      {
+        "start": 1793591443100,
+        "end": 1793591481563,
+        "durationMin": 0.6,
+        "precedingSku": "8584159",
+        "precedingTitle": "La Marey Soft Ribbed Light Weight Cardigan (Size XL, 20-22) - Blue",
+        "precedingAuctionCode": "0019933688",
+        "followingSku": "8584192",
+        "followingTitle": "La Marey Soft Ribbed Light Weight Cardigan (Size XL, 20-22) - Blue",
+        "followingAuctionCode": "0019933690"
       }
     ],
-    "lastOnAirSku": "8584159",
+    "lastOnAirSku": "8584192",
     "lastOnAirTitle": "La Marey Soft Ribbed Light Weight Cardigan (Size XL, 20-22) - Blue",
-    "lastOnAirAuctionCode": "0019933688",
+    "lastOnAirAuctionCode": "0019933690",
     "precedingSku": "8584159",
     "precedingTitle": "La Marey Soft Ribbed Light Weight Cardigan (Size XL, 20-22) - Blue",
     "precedingAuctionCode": "0019933688"
