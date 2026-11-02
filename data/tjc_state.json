@@ -509203,11 +509203,15 @@
       "date": "2026-11-02",
       "time": "11:16:27",
       "productUrl": "/products/tjc-special-ladies-shoe-size-4-tan-8770133?variant=54004331381002",
-      "lastUpdated": 1793618187466,
+      "lastUpdated": 1793618242442,
       "source": "gha",
       "productUrlChecked": 1793618191653,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793618242442,
+      "missedDelay": 1,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8770134": {
       "sku": "8770134",
@@ -509223,11 +509227,15 @@
       "date": "2026-11-02",
       "time": "11:16:27",
       "productUrl": "/products/tjc-special-ladies-shoe-size-4-tan-8770133?variant=54004331381002",
-      "lastUpdated": 1793618187466,
+      "lastUpdated": 1793618242442,
       "source": "gha-variant",
       "productUrlChecked": 1793618192332,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793618242442,
+      "missedDelay": 1,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8770135": {
       "sku": "8770135",
@@ -509243,11 +509251,15 @@
       "date": "2026-11-02",
       "time": "11:16:27",
       "productUrl": "/products/tjc-special-ladies-shoe-size-4-tan-8770133?variant=54004331381002",
-      "lastUpdated": 1793618187466,
+      "lastUpdated": 1793618242442,
       "source": "gha-variant",
       "productUrlChecked": 1793618192522,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793618242442,
+      "missedDelay": 1,
+      "missedPrice": 49.99,
+      "missedImg": true
     },
     "8770137": {
       "sku": "8770137",
@@ -509263,11 +509275,33 @@
       "date": "2026-11-02",
       "time": "11:16:27",
       "productUrl": "/products/tjc-special-ladies-shoe-size-4-tan-8770133?variant=54004331381002",
-      "lastUpdated": 1793618187466,
+      "lastUpdated": 1793618242442,
       "source": "gha-variant",
       "productUrlChecked": 1793618193009,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793618242442,
+      "missedDelay": 1,
+      "missedPrice": 49.99,
+      "missedImg": true
+    },
+    "8299884": {
+      "sku": "8299884",
+      "firstAir": 1793618242442,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793618242442,
+      "title": "La Marey Ribbed Stretch Corduroy Trousers (Size - XXL, 24-26) - Brown",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019934375",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-11-02",
+      "time": "11:17:22",
+      "productUrl": null,
+      "lastUpdated": 1793618242442,
+      "source": "gha"
     }
   },
   "gapTracking": {
@@ -583535,9 +583569,9 @@
         "followingAuctionCode": "0019934336"
       }
     ],
-    "lastOnAirSku": "8770133",
-    "lastOnAirTitle": "Zermatt Faux Fur Collar Faux Suede Zip Ankle Boots (Size 4) - Tan",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8299884",
+    "lastOnAirTitle": "La Marey Ribbed Stretch Corduroy Trousers (Size - XXL, 24-26) - Brown",
+    "lastOnAirAuctionCode": "0019934375",
     "precedingSku": "8699833",
     "precedingTitle": "Designer Inspired-Poppy Embellishment Crossbody Bag - Apricot & Red",
     "precedingAuctionCode": "0019932661"
