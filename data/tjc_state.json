@@ -512299,16 +512299,71 @@
       "date": "2026-11-03",
       "time": "14:27:23",
       "productUrl": "/products/la-marey-acrylic-patterned-hat-cap-and-earmuff-size-20x1-cm-beige-8686490?variant=53998501986570",
-      "lastUpdated": 1793716043814,
+      "lastUpdated": 1793716107003,
       "source": "gha",
       "productUrlChecked": 1793716046955,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793716107003,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
+    },
+    "8686493": {
+      "sku": "8686493",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "14:28:27",
+      "preExisting": true,
+      "missedAt": 1793716107003,
+      "missedDelay": null,
+      "lastUpdated": 1793716107003,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Acrylic Patterned Hat, Cap and Earmuff (Size 20x1 cm) - Grey",
+      "auctionCode": "0019935977",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8686492": {
+      "sku": "8686492",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "14:28:27",
+      "preExisting": true,
+      "missedAt": 1793716107003,
+      "missedDelay": null,
+      "lastUpdated": 1793716107003,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Acrylic Patterned Hat, Cap and Earmuff (Size 20x1 cm) - Red",
+      "auctionCode": "0019935976",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8686490": {
+      "sku": "8686490",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "14:28:27",
+      "preExisting": true,
+      "missedAt": 1793716107003,
+      "missedDelay": null,
+      "lastUpdated": 1793716107003,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Acrylic Patterned Hat, Cap and Earmuff (Size 20x1 cm) - Beige",
+      "auctionCode": "0019935975",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793716107003,
     "gaps": [
       {
         "start": 1785823527869,
@@ -587234,8 +587289,8 @@
     "lastOnAirSku": "8686491",
     "lastOnAirTitle": "La Marey Heart Patch Ribbed Turn-Up Cuff Knit Beanie Hat (20 x 20cm) - Black",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8625570",
-    "precedingTitle": "3 Pairs - Exquisite Elegance Casual Footies (Size 4-8) - Nude",
-    "precedingAuctionCode": "0019934724"
+    "precedingSku": "8686491",
+    "precedingTitle": "La Marey Heart Patch Ribbed Turn-Up Cuff Knit Beanie Hat (20 x 20cm) - Black",
+    "precedingAuctionCode": null
   }
 }
