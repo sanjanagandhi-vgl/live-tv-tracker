@@ -512400,8 +512400,12 @@
       "date": "2026-11-03",
       "time": "14:45:45",
       "productUrl": null,
-      "lastUpdated": 1793717145292,
-      "source": "gha"
+      "lastUpdated": 1793717241301,
+      "source": "gha",
+      "missedAt": 1793717241301,
+      "missedDelay": 2,
+      "missedPrice": 39.99,
+      "missedImg": true
     },
     "8787944": {
       "sku": "8787944",
@@ -512422,6 +512426,23 @@
       "productUrlChecked": 1793716880005,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8787942": {
+      "sku": "8787942",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "14:47:21",
+      "preExisting": true,
+      "missedAt": 1793717241301,
+      "missedDelay": null,
+      "lastUpdated": 1793717241301,
+      "missedPrice": 39.99,
+      "missedImg": true,
+      "title": "Chilli & Charm Women's Viscose Blend Faux Fur Cuff Knit Jumper (Size M-L, 16-22) - Black",
+      "auctionCode": "0019934962",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
