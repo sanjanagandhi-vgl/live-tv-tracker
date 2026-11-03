@@ -513418,14 +513418,21 @@
       "img": false,
       "date": "2026-11-03",
       "time": "18:34:39",
-      "productUrl": null,
-      "lastUpdated": 1793730879037,
-      "source": "gha"
+      "productUrl": "/products/alo-221329968",
+      "lastUpdated": 1793730943848,
+      "source": "gha",
+      "missedAt": 1793730943848,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": false,
+      "productUrlChecked": 1793730946289,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793730943848,
     "gaps": [
       {
         "start": 1785823527869,
@@ -588505,8 +588512,8 @@
     "lastOnAirSku": "221329968",
     "lastOnAirTitle": "Set of 2- Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (200 ML)",
     "lastOnAirAuctionCode": "0019936420",
-    "precedingSku": "8586028",
-    "precedingTitle": "Mesa Living LED Sensor Light - White",
-    "precedingAuctionCode": null
+    "precedingSku": "221329968",
+    "precedingTitle": "Set of 2- Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (200 ML)",
+    "precedingAuctionCode": "0019936420"
   }
 }
