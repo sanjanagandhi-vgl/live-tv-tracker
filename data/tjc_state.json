@@ -512799,11 +512799,29 @@
       "productUrlChecked": 1793721682371,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8498774": {
+      "sku": "8498774",
+      "firstAir": 1793722768364,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793722768364,
+      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019934902",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "16:19:28",
+      "productUrl": null,
+      "lastUpdated": 1793722768364,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793722589541,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -587779,11 +587797,22 @@
         "followingSku": "8844952",
         "followingTitle": "Ladies Soft Cozy High Ankle Winter Tall Slipper Boots (Size 7) - Red",
         "followingAuctionCode": "0019936033"
+      },
+      {
+        "start": 1793722589541,
+        "end": 1793722768364,
+        "durationMin": 3.0,
+        "precedingSku": "8844952",
+        "precedingTitle": "Ladies Soft Cozy High Ankle Winter Tall Slipper Boots (Size 7) - Red",
+        "precedingAuctionCode": "0019936033",
+        "followingSku": "8498774",
+        "followingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
+        "followingAuctionCode": "0019934902"
       }
     ],
-    "lastOnAirSku": "8844952",
-    "lastOnAirTitle": "Ladies Soft Cozy High Ankle Winter Tall Slipper Boots (Size 7) - Red",
-    "lastOnAirAuctionCode": "0019936033",
+    "lastOnAirSku": "8498774",
+    "lastOnAirTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
+    "lastOnAirAuctionCode": "0019934902",
     "precedingSku": "8844952",
     "precedingTitle": "Ladies Soft Cozy High Ankle Winter Tall Slipper Boots (Size 7) - Red",
     "precedingAuctionCode": "0019936033"
