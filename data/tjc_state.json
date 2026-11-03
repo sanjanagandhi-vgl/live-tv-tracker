@@ -491498,18 +491498,23 @@
       "sku": "4518884",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-26",
-      "time": "21:06:26",
+      "date": "2026-11-03",
+      "time": "20:39:32",
       "preExisting": true,
       "missedAt": 1793048786869,
       "missedDelay": null,
-      "lastUpdated": 1793048786869,
+      "lastUpdated": 1793738372693,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "DOORBUSTER DEAL - Set of 3 Genuine Leather Bags - Monogram Large Bag with Matching Wallet & Stoage Pouch - Black",
-      "auctionCode": "0019925072",
+      "title": "Set of 3 Genuine Leather Bags - Monogram Large Tote Bag with Matching Wallet & Stoage Pouch - Brown",
+      "auctionCode": "0019935326",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793738372693,
+      "pdpPrice": "809.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4533728": {
       "sku": "4533728",
@@ -513674,8 +513679,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793738135972,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -588816,11 +588821,22 @@
         "followingSku": "8742294",
         "followingTitle": "DOORBUSTER DEAL - THE LARGEST & HEAVIEST WEIGHT BLANKET AT TJC - Super Soft Embossed King Size Faux Mink Blanket 1800gsm (200 x 215cm) - Burgundy",
         "followingAuctionCode": "0019935246"
+      },
+      {
+        "start": 1793738135972,
+        "end": 1793738372693,
+        "durationMin": 3.9,
+        "precedingSku": "8742294",
+        "precedingTitle": "DOORBUSTER DEAL - THE LARGEST & HEAVIEST WEIGHT BLANKET AT TJC - Super Soft Embossed King Size Faux Mink Blanket 1800gsm (200 x 215cm) - Burgundy",
+        "precedingAuctionCode": "0019935246",
+        "followingSku": "4518884",
+        "followingTitle": "Set of 3 Genuine Leather Bags - Monogram Large Tote Bag with Matching Wallet & Stoage Pouch - Brown",
+        "followingAuctionCode": "0019935326"
       }
     ],
-    "lastOnAirSku": "8742294",
-    "lastOnAirTitle": "DOORBUSTER DEAL - THE LARGEST & HEAVIEST WEIGHT BLANKET AT TJC - Super Soft Embossed King Size Faux Mink Blanket 1800gsm (200 x 215cm) - Burgundy",
-    "lastOnAirAuctionCode": "0019935246",
+    "lastOnAirSku": "4518884",
+    "lastOnAirTitle": "Set of 3 Genuine Leather Bags - Monogram Large Tote Bag with Matching Wallet & Stoage Pouch - Brown",
+    "lastOnAirAuctionCode": "0019935326",
     "precedingSku": "8742294",
     "precedingTitle": "DOORBUSTER DEAL - THE LARGEST & HEAVIEST WEIGHT BLANKET AT TJC - Super Soft Embossed King Size Faux Mink Blanket 1800gsm (200 x 215cm) - Burgundy",
     "precedingAuctionCode": "0019935246"
