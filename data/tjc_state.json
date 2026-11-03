@@ -513653,11 +513653,29 @@
       "auctionCode": "0019936429",
       "source": "gha",
       "productUrl": null
+    },
+    "8742294": {
+      "sku": "8742294",
+      "firstAir": 1793736205414,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793736205414,
+      "title": "DOORBUSTER DEAL - THE LARGEST & HEAVIEST WEIGHT BLANKET AT TJC - Super Soft Embossed King Size Faux Mink Blanket 1800gsm (200 x 215cm) - Burgundy",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019935246",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "20:03:25",
+      "productUrl": null,
+      "lastUpdated": 1793736205414,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793736083118,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -588787,11 +588805,22 @@
         "followingSku": "8791878",
         "followingTitle": "Laurelle Fly Fairy EDP - 85ml",
         "followingAuctionCode": "0019935320"
+      },
+      {
+        "start": 1793736083118,
+        "end": 1793736205414,
+        "durationMin": 2.0,
+        "precedingSku": "8791878",
+        "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
+        "precedingAuctionCode": "0019935320",
+        "followingSku": "8742294",
+        "followingTitle": "DOORBUSTER DEAL - THE LARGEST & HEAVIEST WEIGHT BLANKET AT TJC - Super Soft Embossed King Size Faux Mink Blanket 1800gsm (200 x 215cm) - Burgundy",
+        "followingAuctionCode": "0019935246"
       }
     ],
-    "lastOnAirSku": "8791878",
-    "lastOnAirTitle": "Laurelle Fly Fairy EDP - 85ml",
-    "lastOnAirAuctionCode": "0019935320",
+    "lastOnAirSku": "8742294",
+    "lastOnAirTitle": "DOORBUSTER DEAL - THE LARGEST & HEAVIEST WEIGHT BLANKET AT TJC - Super Soft Embossed King Size Faux Mink Blanket 1800gsm (200 x 215cm) - Burgundy",
+    "lastOnAirAuctionCode": "0019935246",
     "precedingSku": "8791878",
     "precedingTitle": "Laurelle Fly Fairy EDP - 85ml",
     "precedingAuctionCode": "0019935320"
