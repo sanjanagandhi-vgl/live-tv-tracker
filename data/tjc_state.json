@@ -512194,11 +512194,29 @@
       "auctionCode": "0019935847",
       "source": "gha",
       "productUrl": null
+    },
+    "8823243": {
+      "sku": "8823243",
+      "firstAir": 1793711137479,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793711137479,
+      "title": "TJC Special Cotton Towel - Pink",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019934855",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "13:05:37",
+      "productUrl": null,
+      "lastUpdated": 1793711137479,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793711005051,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -587075,11 +587093,22 @@
         "followingSku": "8466016",
         "followingTitle": "Mini Handheld 130,000 RPM Turbo Jet Fan & Air Blower with LED Light - Aluminum Electric Blower - Dark Blue",
         "followingAuctionCode": "0019935037"
+      },
+      {
+        "start": 1793711005051,
+        "end": 1793711137479,
+        "durationMin": 2.2,
+        "precedingSku": "8510542",
+        "precedingTitle": "Wireless Ear Clip Butterfly Earrings Bluetooth Earbuds - Premium Bluetooth V6.0, 230mAh Charging ...",
+        "precedingAuctionCode": null,
+        "followingSku": "8823243",
+        "followingTitle": "TJC Special Cotton Towel - Pink",
+        "followingAuctionCode": "0019934855"
       }
     ],
-    "lastOnAirSku": "8510542",
-    "lastOnAirTitle": "Wireless Ear Clip Butterfly Earrings Bluetooth Earbuds - Premium Bluetooth V6.0, 230mAh Charging ...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8823243",
+    "lastOnAirTitle": "TJC Special Cotton Towel - Pink",
+    "lastOnAirAuctionCode": "0019934855",
     "precedingSku": "8510542",
     "precedingTitle": "Wireless Ear Clip Butterfly Earrings Bluetooth Earbuds - Premium Bluetooth V6.0, 230mAh Charging ...",
     "precedingAuctionCode": null
