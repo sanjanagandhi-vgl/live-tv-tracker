@@ -14939,18 +14939,18 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-11-03",
-      "time": "05:54:24",
+      "time": "21:31:34",
       "preExisting": true,
       "missedAt": 1785069863496,
       "missedDelay": null,
-      "lastUpdated": 1793685264725,
+      "lastUpdated": 1793741494423,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "One Truth 818- Atomiser - 50ml",
-      "auctionCode": "0019934050",
+      "auctionCode": "0019936062",
       "source": "gha",
-      "lastAir": 1793685264725,
-      "pdpPrice": "29.99",
+      "lastAir": 1793741494423,
+      "pdpPrice": "99.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -513718,8 +513718,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793740848579,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -588882,11 +588882,22 @@
         "followingSku": "8657828",
         "followingTitle": "LIVMORE Set of 2 Red Light Foot Therapy Wraps, 660nm Red & 850nm Near-Infrared Light Neoprene Foot Wraps",
         "followingAuctionCode": "0019936441"
+      },
+      {
+        "start": 1793740848579,
+        "end": 1793741494423,
+        "durationMin": 10.8,
+        "precedingSku": "8657828",
+        "precedingTitle": "LIVMORE Set of 2 Red Light Foot Therapy Wraps, 660nm Red & 850nm Near-Infrared Light Neoprene Foot Wraps",
+        "precedingAuctionCode": "0019936441",
+        "followingSku": "8666627",
+        "followingTitle": "One Truth 818- Atomiser - 50ml",
+        "followingAuctionCode": "0019936062"
       }
     ],
-    "lastOnAirSku": "8657828",
-    "lastOnAirTitle": "LIVMORE Set of 2 Red Light Foot Therapy Wraps, 660nm Red & 850nm Near-Infrared Light Neoprene Foot Wraps",
-    "lastOnAirAuctionCode": "0019936441",
+    "lastOnAirSku": "8666627",
+    "lastOnAirTitle": "One Truth 818- Atomiser - 50ml",
+    "lastOnAirAuctionCode": "0019936062",
     "precedingSku": "8657828",
     "precedingTitle": "LIVMORE Set of 2 Red Light Foot Therapy Wraps, 660nm Red & 850nm Near-Infrared Light Neoprene Foot Wraps",
     "precedingAuctionCode": "0019936441"
