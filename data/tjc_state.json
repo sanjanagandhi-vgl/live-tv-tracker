@@ -512359,11 +512359,29 @@
       "auctionCode": "0019935975",
       "source": "gha",
       "productUrl": null
+    },
+    "8787943": {
+      "sku": "8787943",
+      "firstAir": 1793716162283,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793716162283,
+      "title": "Chilli & Charm Women's Viscose Blend Faux Fur Cuff Knit Jumper (Size S-M, 8-14) - Black",
+      "pdpPrice": "350.99",
+      "auctionCode": "0019934879",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "14:29:22",
+      "productUrl": null,
+      "lastUpdated": 1793716162283,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793716107003,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -587284,11 +587302,22 @@
         "followingSku": "8686491",
         "followingTitle": "La Marey Heart Patch Ribbed Turn-Up Cuff Knit Beanie Hat (20 x 20cm) - Black",
         "followingAuctionCode": "0019935859"
+      },
+      {
+        "start": 1793716107003,
+        "end": 1793716162283,
+        "durationMin": 0.9,
+        "precedingSku": "8686491",
+        "precedingTitle": "La Marey Heart Patch Ribbed Turn-Up Cuff Knit Beanie Hat (20 x 20cm) - Black",
+        "precedingAuctionCode": null,
+        "followingSku": "8787943",
+        "followingTitle": "Chilli & Charm Women's Viscose Blend Faux Fur Cuff Knit Jumper (Size S-M, 8-14) - Black",
+        "followingAuctionCode": "0019934879"
       }
     ],
-    "lastOnAirSku": "8686491",
-    "lastOnAirTitle": "La Marey Heart Patch Ribbed Turn-Up Cuff Knit Beanie Hat (20 x 20cm) - Black",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8787943",
+    "lastOnAirTitle": "Chilli & Charm Women's Viscose Blend Faux Fur Cuff Knit Jumper (Size S-M, 8-14) - Black",
+    "lastOnAirAuctionCode": "0019934879",
     "precedingSku": "8686491",
     "precedingTitle": "La Marey Heart Patch Ribbed Turn-Up Cuff Knit Beanie Hat (20 x 20cm) - Black",
     "precedingAuctionCode": null
