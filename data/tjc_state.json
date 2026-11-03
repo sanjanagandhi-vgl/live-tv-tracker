@@ -512815,13 +512815,85 @@
       "date": "2026-11-03",
       "time": "16:36:35",
       "productUrl": null,
-      "lastUpdated": 1793723795219,
-      "source": "gha"
+      "lastUpdated": 1793723843397,
+      "source": "gha",
+      "missedAt": 1793723843397,
+      "missedDelay": 1,
+      "missedPrice": 59.99,
+      "missedImg": true
+    },
+    "8498779": {
+      "sku": "8498779",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "16:37:23",
+      "preExisting": true,
+      "missedAt": 1793723843397,
+      "missedDelay": null,
+      "lastUpdated": 1793723843397,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Deep Red",
+      "auctionCode": "0019935035",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8498778": {
+      "sku": "8498778",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "16:37:23",
+      "preExisting": true,
+      "missedAt": 1793723843397,
+      "missedDelay": null,
+      "lastUpdated": 1793723843397,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
+      "auctionCode": "0019935033",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8498777": {
+      "sku": "8498777",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "16:37:23",
+      "preExisting": true,
+      "missedAt": 1793723843397,
+      "missedDelay": null,
+      "lastUpdated": 1793723843397,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 16) - Deep Red",
+      "auctionCode": "0019935032",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8498776": {
+      "sku": "8498776",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "16:37:23",
+      "preExisting": true,
+      "missedAt": 1793723843397,
+      "missedDelay": null,
+      "lastUpdated": 1793723843397,
+      "missedPrice": 59.99,
+      "missedImg": true,
+      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 14) - Deep Red",
+      "auctionCode": "0019935031",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793723843397,
     "gaps": [
       {
         "start": 1785823527869,
@@ -587813,8 +587885,8 @@
     "lastOnAirSku": "8498774",
     "lastOnAirTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
     "lastOnAirAuctionCode": "0019934902",
-    "precedingSku": "8844952",
-    "precedingTitle": "Ladies Soft Cozy High Ankle Winter Tall Slipper Boots (Size 7) - Red",
-    "precedingAuctionCode": "0019936033"
+    "precedingSku": "8498774",
+    "precedingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
+    "precedingAuctionCode": "0019934902"
   }
 }
