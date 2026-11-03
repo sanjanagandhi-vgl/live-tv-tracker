@@ -513715,11 +513715,29 @@
       "auctionCode": "0019935328",
       "source": "gha",
       "productUrl": null
+    },
+    "8538407": {
+      "sku": "8538407",
+      "firstAir": 1793747136488,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793747136488,
+      "title": "Designer Inspired - Multi-Pocket Slouchy Shoulder Handbag with Detachable Strap - Black",
+      "pdpPrice": "319.99",
+      "auctionCode": "0019935592",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "23:05:36",
+      "productUrl": null,
+      "lastUpdated": 1793747136488,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793747064423,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -588937,11 +588955,22 @@
         "followingSku": "221341852",
         "followingTitle": "Laurelle London & V.V. LOVE Fragrance Gift Set of 3 - Royal Ring EDP (80ml) & ROBOT EDT & La Bella Viva EDP (2x 100ml)",
         "followingAuctionCode": "0019934911"
+      },
+      {
+        "start": 1793747064423,
+        "end": 1793747136488,
+        "durationMin": 1.2,
+        "precedingSku": "8686491",
+        "precedingTitle": "La Marey Heart Patch Ribbed Turn-Up Cuff Knit Beanie Hat (20 x 20cm) - Light Brown",
+        "precedingAuctionCode": "0019936416",
+        "followingSku": "8538407",
+        "followingTitle": "Designer Inspired - Multi-Pocket Slouchy Shoulder Handbag with Detachable Strap - Black",
+        "followingAuctionCode": "0019935592"
       }
     ],
-    "lastOnAirSku": "8686491",
-    "lastOnAirTitle": "La Marey Heart Patch Ribbed Turn-Up Cuff Knit Beanie Hat (20 x 20cm) - Light Brown",
-    "lastOnAirAuctionCode": "0019936416",
+    "lastOnAirSku": "8538407",
+    "lastOnAirTitle": "Designer Inspired - Multi-Pocket Slouchy Shoulder Handbag with Detachable Strap - Black",
+    "lastOnAirAuctionCode": "0019935592",
     "precedingSku": "8686491",
     "precedingTitle": "La Marey Heart Patch Ribbed Turn-Up Cuff Knit Beanie Hat (20 x 20cm) - Light Brown",
     "precedingAuctionCode": "0019936416"
