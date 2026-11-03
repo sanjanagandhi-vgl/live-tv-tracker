@@ -513443,14 +513443,41 @@
       "img": true,
       "date": "2026-11-03",
       "time": "19:03:24",
-      "productUrl": null,
-      "lastUpdated": 1793732604651,
-      "source": "gha"
+      "productUrl": "/products/candle-set-size-one-size-multi-color-8754508",
+      "lastUpdated": 1793732669646,
+      "source": "gha",
+      "missedAt": 1793732669646,
+      "missedDelay": 1,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "productUrlChecked": 1793732672427,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8754508": {
+      "sku": "8754508",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "19:04:29",
+      "preExisting": true,
+      "missedAt": 1793732669646,
+      "missedDelay": null,
+      "lastUpdated": 1793732669646,
+      "missedPrice": 7.99,
+      "missedImg": true,
+      "title": "Set of 2 - Christmas Special Ginger Bread & Snowman Scented  Candle - Chocolate & Vanilla",
+      "auctionCode": "0019935806",
+      "source": "gha",
+      "productUrl": "/products/candle-set-size-one-size-multi-color-8754508",
+      "productUrlChecked": 1793732673019,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793732669646,
     "gaps": [
       {
         "start": 1785823527869,
@@ -588552,8 +588579,8 @@
     "lastOnAirSku": "8754496",
     "lastOnAirTitle": "Set of 2 - Christmas Special Ginger Bread & Snowman Scented  Candle - Chocolate & Vanilla",
     "lastOnAirAuctionCode": "0019934442",
-    "precedingSku": "8644034",
-    "precedingTitle": "Marigold & Lotus Jojoba Skin & Hair Care Set - Jojoba Moisturising Cream (100G), Jojoba Hair Oil (100ml) & Jojoba Face Serum (30ml)",
-    "precedingAuctionCode": "0019936415"
+    "precedingSku": "8754496",
+    "precedingTitle": "Set of 2 - Christmas Special Ginger Bread & Snowman Scented  Candle - Chocolate & Vanilla",
+    "precedingAuctionCode": "0019934442"
   }
 }
