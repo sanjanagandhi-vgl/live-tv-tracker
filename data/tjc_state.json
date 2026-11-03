@@ -513052,11 +513052,29 @@
       "auctionCode": "0019934983",
       "source": "gha",
       "productUrl": null
+    },
+    "8769729": {
+      "sku": "8769729",
+      "firstAir": 1793724937780,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793724937780,
+      "title": "Melrose Pull-On Platform Ankle Boot With Ribbed Knit Sock Collar & Embroidered Trim (Size 8) - Tan",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019934872",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "16:55:37",
+      "productUrl": null,
+      "lastUpdated": 1793724937780,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793724872469,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -588065,11 +588083,22 @@
         "followingSku": "8498762",
         "followingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
         "followingAuctionCode": "0019934893"
+      },
+      {
+        "start": 1793724872469,
+        "end": 1793724937780,
+        "durationMin": 1.1,
+        "precedingSku": "8498762",
+        "precedingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
+        "precedingAuctionCode": "0019934893",
+        "followingSku": "8769729",
+        "followingTitle": "Melrose Pull-On Platform Ankle Boot With Ribbed Knit Sock Collar & Embroidered Trim (Size 8) - Tan",
+        "followingAuctionCode": "0019934872"
       }
     ],
-    "lastOnAirSku": "8498762",
-    "lastOnAirTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
-    "lastOnAirAuctionCode": "0019934893",
+    "lastOnAirSku": "8769729",
+    "lastOnAirTitle": "Melrose Pull-On Platform Ankle Boot With Ribbed Knit Sock Collar & Embroidered Trim (Size 8) - Tan",
+    "lastOnAirAuctionCode": "0019934872",
     "precedingSku": "8498762",
     "precedingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
     "precedingAuctionCode": "0019934893"
