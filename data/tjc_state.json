@@ -512151,11 +512151,15 @@
       "date": "2026-11-03",
       "time": "13:02:26",
       "productUrl": "/products/earbud-and-in-ear-headphone-size-6x3-cm-gold-8510542?variant=53256650653962",
-      "lastUpdated": 1793710946509,
+      "lastUpdated": 1793711005051,
       "source": "gha",
       "productUrlChecked": 1793710949172,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793711005051,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8466015": {
       "sku": "8466015",
@@ -512173,11 +512177,28 @@
       "auctionCode": "0019935484",
       "source": "gha",
       "productUrl": null
+    },
+    "8510543": {
+      "sku": "8510543",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "13:03:25",
+      "preExisting": true,
+      "missedAt": 1793711005051,
+      "missedDelay": null,
+      "lastUpdated": 1793711005051,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Wireless Ear Clip Butterfly Earrings Bluetooth Earbuds - Premium Bluetooth V6.0, 230mAh Charging Case 3-4 Hours Music Time - Shiny Black",
+      "auctionCode": "0019935847",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793711005051,
     "gaps": [
       {
         "start": 1785823527869,
@@ -587059,8 +587080,8 @@
     "lastOnAirSku": "8510542",
     "lastOnAirTitle": "Wireless Ear Clip Butterfly Earrings Bluetooth Earbuds - Premium Bluetooth V6.0, 230mAh Charging ...",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8632913",
-    "precedingTitle": "Christmas Garland with Wreath Design (30cm) - Red",
-    "precedingAuctionCode": "0019934854"
+    "precedingSku": "8510542",
+    "precedingTitle": "Wireless Ear Clip Butterfly Earrings Bluetooth Earbuds - Premium Bluetooth V6.0, 230mAh Charging ...",
+    "precedingAuctionCode": null
   }
 }
