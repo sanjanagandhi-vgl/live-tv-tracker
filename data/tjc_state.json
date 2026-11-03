@@ -512467,11 +512467,29 @@
       "auctionCode": "0019934962",
       "source": "gha",
       "productUrl": null
+    },
+    "8193861": {
+      "sku": "8193861",
+      "firstAir": 1793718565438,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793718565438,
+      "title": "La Marey V-Neck Polo T-Shirt (Size XL, Fit 20 To 22) - Pink",
+      "pdpPrice": "27.99",
+      "auctionCode": "0019934725",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "15:09:25",
+      "productUrl": null,
+      "lastUpdated": 1793718565438,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793718506376,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -587414,11 +587432,22 @@
         "followingSku": "8625107",
         "followingTitle": "Heat Machine Ladies Thermal Tights (Size L-XL, 18-20) - Blue",
         "followingAuctionCode": "0019935334"
+      },
+      {
+        "start": 1793718506376,
+        "end": 1793718565438,
+        "durationMin": 1.0,
+        "precedingSku": "8625107",
+        "precedingTitle": "Heat Machine Ladies Thermal Tights (Size L-XL, 18-20) - Blue",
+        "precedingAuctionCode": "0019935334",
+        "followingSku": "8193861",
+        "followingTitle": "La Marey V-Neck Polo T-Shirt (Size XL, Fit 20 To 22) - Pink",
+        "followingAuctionCode": "0019934725"
       }
     ],
-    "lastOnAirSku": "8625107",
-    "lastOnAirTitle": "Heat Machine Ladies Thermal Tights (Size L-XL, 18-20) - Blue",
-    "lastOnAirAuctionCode": "0019935334",
+    "lastOnAirSku": "8193861",
+    "lastOnAirTitle": "La Marey V-Neck Polo T-Shirt (Size XL, Fit 20 To 22) - Pink",
+    "lastOnAirAuctionCode": "0019934725",
     "precedingSku": "8625107",
     "precedingTitle": "Heat Machine Ladies Thermal Tights (Size L-XL, 18-20) - Blue",
     "precedingAuctionCode": "0019935334"
