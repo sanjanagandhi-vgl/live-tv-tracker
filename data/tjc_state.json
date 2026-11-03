@@ -23881,21 +23881,22 @@
       "firstAir": 1785364702897,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1785393436491,
-      "title": "Luxuriant - AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gol...",
-      "pdpPrice": 999.99,
-      "auctionCode": "0019799894",
-      "buy": false,
+      "lastAir": 1793665594578,
+      "title": "Luxuriant - AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.60 Ct.",
+      "pdpPrice": "999.99",
+      "auctionCode": "0019935197",
+      "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-07-30",
-      "time": "07:37:16",
-      "lastUpdated": 1785393436491,
+      "date": "2026-11-03",
+      "time": "00:26:34",
+      "lastUpdated": 1793665594578,
       "source": "gha",
       "missedAt": 1785365660251,
       "missedDelay": 0,
       "missedPrice": 99.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrl": null
     },
     "8516221": {
       "sku": "8516221",
@@ -511669,8 +511670,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793665534010,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -586283,11 +586284,22 @@
         "followingSku": "8780568",
         "followingTitle": "9K Yellow Gold Natural AAAA Zambian Amethyst & Natural White Diamond Ring 7.30 Ct.",
         "followingAuctionCode": "0019935094"
+      },
+      {
+        "start": 1793665534010,
+        "end": 1793665594578,
+        "durationMin": 1.0,
+        "precedingSku": "8780568",
+        "precedingTitle": "9K Yellow Gold Natural AAAA Zambian Amethyst & Natural White Diamond Ring 7.30 Ct.",
+        "precedingAuctionCode": "0019935094",
+        "followingSku": "8579243",
+        "followingTitle": "Luxuriant - AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.60 Ct.",
+        "followingAuctionCode": "0019935197"
       }
     ],
-    "lastOnAirSku": "8780568",
-    "lastOnAirTitle": "9K Yellow Gold Natural AAAA Zambian Amethyst & Natural White Diamond Ring 7.30 Ct.",
-    "lastOnAirAuctionCode": "0019935094",
+    "lastOnAirSku": "8579243",
+    "lastOnAirTitle": "Luxuriant - AAA Zambian Amethyst & Lab Grown Diamond (SI-G-H) Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.60 Ct.",
+    "lastOnAirAuctionCode": "0019935197",
     "precedingSku": "8780568",
     "precedingTitle": "9K Yellow Gold Natural AAAA Zambian Amethyst & Natural White Diamond Ring 7.30 Ct.",
     "precedingAuctionCode": "0019935094"
