@@ -512676,11 +512676,50 @@
       "date": "2026-11-03",
       "time": "15:51:21",
       "productUrl": "/products/chilli-charm-jumper-size-m-l-hot-pink-8787607?variant=54042710212874",
-      "lastUpdated": 1793721081731,
+      "lastUpdated": 1793721147278,
       "source": "gha",
       "productUrlChecked": 1793721084816,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793721147278,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
+    },
+    "8787607": {
+      "sku": "8787607",
+      "firstAir": 1793721147278,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793721147278,
+      "title": "Chilli & Charm Multi Stripe Colour Block Knit Jumper (Size M-L, 12-16) - Hot Pink",
+      "pdpPrice": "120.99",
+      "auctionCode": "0019934823",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "15:52:27",
+      "productUrl": null,
+      "lastUpdated": 1793721147278,
+      "source": "gha"
+    },
+    "8787610": {
+      "sku": "8787610",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "15:52:27",
+      "preExisting": true,
+      "missedAt": 1793721147278,
+      "missedDelay": null,
+      "lastUpdated": 1793721147278,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Chilli & Charm Multi Stripe Colour Block Knit Jumper (Size L-XL, 18-22) - Royal Blue",
+      "auctionCode": "0019934943",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
@@ -587652,9 +587691,9 @@
         "followingAuctionCode": "0019934825"
       }
     ],
-    "lastOnAirSku": "8787609",
+    "lastOnAirSku": "8787607",
     "lastOnAirTitle": "Chilli & Charm Multi Stripe Colour Block Knit Jumper (Size M-L, 12-16) - Hot Pink",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirAuctionCode": "0019934823",
     "precedingSku": "8619117",
     "precedingTitle": "QED Set of Two Fleece Leggings (Size XXL, 24-26) - Black & Navy",
     "precedingAuctionCode": "0019934659"
