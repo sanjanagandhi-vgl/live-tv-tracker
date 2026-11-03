@@ -511657,16 +511657,20 @@
       "date": "2026-11-03",
       "time": "00:03:24",
       "productUrl": "/products/djoy-aaa-zambian-amethyst-white-zircon-drop-earring-with-push-post-in-yellow-gold-plated-sterling-silver-2-42-ct-8786198?variant=53852452651274",
-      "lastUpdated": 1793664204904,
+      "lastUpdated": 1793664271468,
       "source": "gha",
       "productUrlChecked": 1793664208138,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793664271468,
+      "missedDelay": 1,
+      "missedPrice": 59.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793664271468,
     "gaps": [
       {
         "start": 1785823527869,
@@ -586273,8 +586277,8 @@
     "lastOnAirSku": "8786198",
     "lastOnAirTitle": "D'Joy - Natural AAA Zambian Amethyst & White Zircon Drop Earring with Push Post in Yellow Gold Pl...",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8586986",
-    "precedingTitle": "Rare Size AAA Zambian Amethyst & Natural White Diamond Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 10.16 Ct.",
-    "precedingAuctionCode": "0019935181"
+    "precedingSku": "8786198",
+    "precedingTitle": "D'Joy - Natural AAA Zambian Amethyst & White Zircon Drop Earring with Push Post in Yellow Gold Pl...",
+    "precedingAuctionCode": null
   }
 }
