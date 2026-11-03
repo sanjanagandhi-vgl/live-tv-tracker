@@ -512979,11 +512979,29 @@
       "auctionCode": "0019935000",
       "source": "gha",
       "productUrl": null
+    },
+    "8498762": {
+      "sku": "8498762",
+      "firstAir": 1793724445562,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793724445562,
+      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
+      "pdpPrice": "799.99",
+      "auctionCode": "0019934893",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "16:47:25",
+      "productUrl": null,
+      "lastUpdated": 1793724445562,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793724345960,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -587981,11 +587999,22 @@
         "followingSku": "8498768",
         "followingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
         "followingAuctionCode": "0019934897"
+      },
+      {
+        "start": 1793724345960,
+        "end": 1793724445562,
+        "durationMin": 1.7,
+        "precedingSku": "8498768",
+        "precedingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
+        "precedingAuctionCode": "0019934897",
+        "followingSku": "8498762",
+        "followingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
+        "followingAuctionCode": "0019934893"
       }
     ],
-    "lastOnAirSku": "8498768",
+    "lastOnAirSku": "8498762",
     "lastOnAirTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
-    "lastOnAirAuctionCode": "0019934897",
+    "lastOnAirAuctionCode": "0019934893",
     "precedingSku": "8498768",
     "precedingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 18) - Deep Red",
     "precedingAuctionCode": "0019934897"
