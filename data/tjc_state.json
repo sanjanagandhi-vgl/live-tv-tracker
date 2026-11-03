@@ -513142,11 +513142,29 @@
       "auctionCode": "0019934972",
       "source": "gha",
       "productUrl": null
+    },
+    "8769723": {
+      "sku": "8769723",
+      "firstAir": 1793725346888,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793725346888,
+      "title": "Melrose Pull-On Platform Ankle Boot With Ribbed Knit Sock Collar & Embroidered Trim (Size 8) - Tan",
+      "pdpPrice": "14.99",
+      "auctionCode": "0019934867",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-03",
+      "time": "17:02:26",
+      "productUrl": null,
+      "lastUpdated": 1793725346888,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793725279245,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -588166,11 +588184,22 @@
         "followingSku": "8769729",
         "followingTitle": "Melrose Pull-On Platform Ankle Boot With Ribbed Knit Sock Collar & Embroidered Trim (Size 8) - Tan",
         "followingAuctionCode": "0019934872"
+      },
+      {
+        "start": 1793725279245,
+        "end": 1793725346888,
+        "durationMin": 1.1,
+        "precedingSku": "8769729",
+        "precedingTitle": "Melrose Pull-On Platform Ankle Boot With Ribbed Knit Sock Collar & Embroidered Trim (Size 8) - Tan",
+        "precedingAuctionCode": "0019934872",
+        "followingSku": "8769723",
+        "followingTitle": "Melrose Pull-On Platform Ankle Boot With Ribbed Knit Sock Collar & Embroidered Trim (Size 8) - Tan",
+        "followingAuctionCode": "0019934867"
       }
     ],
-    "lastOnAirSku": "8769729",
+    "lastOnAirSku": "8769723",
     "lastOnAirTitle": "Melrose Pull-On Platform Ankle Boot With Ribbed Knit Sock Collar & Embroidered Trim (Size 8) - Tan",
-    "lastOnAirAuctionCode": "0019934872",
+    "lastOnAirAuctionCode": "0019934867",
     "precedingSku": "8769729",
     "precedingTitle": "Melrose Pull-On Platform Ankle Boot With Ribbed Knit Sock Collar & Embroidered Trim (Size 8) - Tan",
     "precedingAuctionCode": "0019934872"
