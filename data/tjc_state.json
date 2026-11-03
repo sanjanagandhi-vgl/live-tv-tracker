@@ -512210,13 +512210,52 @@
       "date": "2026-11-03",
       "time": "13:35:35",
       "productUrl": null,
-      "lastUpdated": 1793712935926,
+      "lastUpdated": 1793713042203,
+      "source": "gha",
+      "missedAt": 1793713042203,
+      "missedDelay": 2,
+      "missedPrice": 17.99,
+      "missedImg": true
+    },
+    "221342029": {
+      "sku": "221342029",
+      "firstAir": 1793713042203,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793713042203,
+      "title": "Set of 2 - Christy Renaissance Egyptian Cotton Hand Towels  50 x 100 cm - PINK",
+      "pdpPrice": "101.99",
+      "auctionCode": "0019934820",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-11-03",
+      "time": "13:37:22",
+      "productUrl": null,
+      "lastUpdated": 1793713042203,
       "source": "gha"
+    },
+    "8823245": {
+      "sku": "8823245",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "13:37:22",
+      "preExisting": true,
+      "missedAt": 1793713042203,
+      "missedDelay": null,
+      "lastUpdated": 1793713042203,
+      "missedPrice": 17.99,
+      "missedImg": true,
+      "title": "Christy Renaissance Egyptian Cotton Bath Towels 675gsm 76 x 142 cm - BLUE",
+      "auctionCode": "0019934949",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793712987515,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -587104,11 +587143,22 @@
         "followingSku": "8823243",
         "followingTitle": "TJC Special Cotton Towel - Pink",
         "followingAuctionCode": "0019934855"
+      },
+      {
+        "start": 1793712987515,
+        "end": 1793713042203,
+        "durationMin": 0.9,
+        "precedingSku": "8823243",
+        "precedingTitle": "Christy Renaissance Egyptian Cotton Bath Towels 500gsm 76 x 142 cm PINK",
+        "precedingAuctionCode": "0019934855",
+        "followingSku": "221342029",
+        "followingTitle": "Set of 2 - Christy Renaissance Egyptian Cotton Hand Towels  50 x 100 cm - PINK",
+        "followingAuctionCode": "0019934820"
       }
     ],
-    "lastOnAirSku": "8823243",
-    "lastOnAirTitle": "Christy Renaissance Egyptian Cotton Bath Towels 500gsm 76 x 142 cm PINK",
-    "lastOnAirAuctionCode": "0019934855",
+    "lastOnAirSku": "221342029",
+    "lastOnAirTitle": "Set of 2 - Christy Renaissance Egyptian Cotton Hand Towels  50 x 100 cm - PINK",
+    "lastOnAirAuctionCode": "0019934820",
     "precedingSku": "8823243",
     "precedingTitle": "Christy Renaissance Egyptian Cotton Bath Towels 500gsm 76 x 142 cm PINK",
     "precedingAuctionCode": "0019934855"
