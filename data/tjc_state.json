@@ -14938,19 +14938,19 @@
       "sku": "8666627",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-30",
-      "time": "22:02:24",
+      "date": "2026-11-03",
+      "time": "05:23:22",
       "preExisting": true,
       "missedAt": 1785069863496,
       "missedDelay": null,
-      "lastUpdated": 1793397744785,
+      "lastUpdated": 1793683402030,
       "missedPrice": 99.99,
       "missedImg": true,
       "title": "One Truth 818- Atomiser - 50ml",
-      "auctionCode": "0019931420",
+      "auctionCode": "0019934050",
       "source": "gha",
-      "lastAir": 1793397744785,
-      "pdpPrice": "29.99",
+      "lastAir": 1793683402030,
+      "pdpPrice": "239.99",
       "buy": true,
       "login": false,
       "img": true,
@@ -511863,8 +511863,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793680643886,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -586598,11 +586598,22 @@
         "followingSku": "8680718",
         "followingTitle": "La Marey Home Signature Collection - Set of 3 - 1100 GSM Faux Rabbit Fur Duvet Cover and 2 Pillowcases With Anti Static (King, 225 x 220 cm) - White & Light Grey",
         "followingAuctionCode": "0019934036"
+      },
+      {
+        "start": 1793680643886,
+        "end": 1793683402030,
+        "durationMin": 46.0,
+        "precedingSku": "8680718",
+        "precedingTitle": "La Marey Home Signature Collection - Set of 3 - 1100 GSM Faux Rabbit Fur Duvet Cover and 2 Pillowcases With Anti Static (King, 225 x 220 cm) - White & Light Grey",
+        "precedingAuctionCode": "0019934036",
+        "followingSku": "8666627",
+        "followingTitle": "One Truth 818- Atomiser - 50ml",
+        "followingAuctionCode": "0019934050"
       }
     ],
-    "lastOnAirSku": "8680718",
-    "lastOnAirTitle": "La Marey Home Signature Collection - Set of 3 - 1100 GSM Faux Rabbit Fur Duvet Cover and 2 Pillowcases With Anti Static (King, 225 x 220 cm) - White & Light Grey",
-    "lastOnAirAuctionCode": "0019934036",
+    "lastOnAirSku": "8666627",
+    "lastOnAirTitle": "One Truth 818- Atomiser - 50ml",
+    "lastOnAirAuctionCode": "0019934050",
     "precedingSku": "8680718",
     "precedingTitle": "La Marey Home Signature Collection - Set of 3 - 1100 GSM Faux Rabbit Fur Duvet Cover and 2 Pillowcases With Anti Static (King, 225 x 220 cm) - White & Light Grey",
     "precedingAuctionCode": "0019934036"
