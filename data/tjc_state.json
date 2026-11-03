@@ -513289,8 +513289,12 @@
       "date": "2026-11-03",
       "time": "17:51:26",
       "productUrl": null,
-      "lastUpdated": 1793728286946,
-      "source": "gha"
+      "lastUpdated": 1793728350146,
+      "source": "gha",
+      "missedAt": 1793728350146,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8787988": {
       "sku": "8787988",
@@ -513331,11 +513335,79 @@
       "productUrlChecked": 1793727515942,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8751145": {
+      "sku": "8751145",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "17:52:30",
+      "preExisting": true,
+      "missedAt": 1793728350146,
+      "missedDelay": null,
+      "lastUpdated": 1793728350146,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Woven Scarf (180 x 70cm) - Black",
+      "auctionCode": "0019935071",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8751144": {
+      "sku": "8751144",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "17:52:30",
+      "preExisting": true,
+      "missedAt": 1793728350146,
+      "missedDelay": null,
+      "lastUpdated": 1793728350146,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Woven Scarf (180 x 70cm) - Blue",
+      "auctionCode": "0019935070",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8751143": {
+      "sku": "8751143",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "17:52:30",
+      "preExisting": true,
+      "missedAt": 1793728350146,
+      "missedDelay": null,
+      "lastUpdated": 1793728350146,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Woven Scarf (180 x 70cm) - Beige",
+      "auctionCode": "0019935069",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8751142": {
+      "sku": "8751142",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-03",
+      "time": "17:52:30",
+      "preExisting": true,
+      "missedAt": 1793728350146,
+      "missedDelay": null,
+      "lastUpdated": 1793728350146,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "La Marey Woven Scarf (180 x 70cm) - Green",
+      "auctionCode": "0019935068",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793728350146,
     "gaps": [
       {
         "start": 1785823527869,
@@ -588382,8 +588454,8 @@
     "lastOnAirSku": "8751141",
     "lastOnAirTitle": "La Marey Woven Scarf (180 x 70cm) - Black",
     "lastOnAirAuctionCode": "0019934815",
-    "precedingSku": "8299884",
-    "precedingTitle": "La Marey Ribbed Stretch Corduroy Trousers (Size - XXL, 24-26) - Brown",
-    "precedingAuctionCode": "0019934882"
+    "precedingSku": "8751141",
+    "precedingTitle": "La Marey Woven Scarf (180 x 70cm) - Black",
+    "precedingAuctionCode": "0019934815"
   }
 }
