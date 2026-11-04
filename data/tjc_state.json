@@ -514395,14 +514395,21 @@
       "img": true,
       "date": "2026-11-04",
       "time": "09:22:25",
-      "productUrl": null,
-      "lastUpdated": 1793784145452,
-      "source": "gha"
+      "productUrl": "/products/sleeping-beauty-turquoise-necklace-size-18-13-50-ct-8520023",
+      "lastUpdated": 1793784200362,
+      "source": "gha",
+      "missedAt": 1793784200362,
+      "missedDelay": 1,
+      "missedPrice": 77.99,
+      "missedImg": true,
+      "productUrlChecked": 1793784202843,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793784200362,
     "gaps": [
       {
         "start": 1785823527869,
@@ -589955,8 +589962,8 @@
     "lastOnAirSku": "8520023",
     "lastOnAirTitle": "Rare Tucson 2025 Find - Arizona Sleeping Beauty Turquoise Necklace (Size - 18)",
     "lastOnAirAuctionCode": "0019935669",
-    "precedingSku": "8683398",
-    "precedingTitle": "D'Joy - Natural Sleeping Beauty Turquoise Solitaire Ring in Platinum Overlay Sterling Silver 1.10 Ct.",
-    "precedingAuctionCode": "0019936539"
+    "precedingSku": "8520023",
+    "precedingTitle": "Rare Tucson 2025 Find - Arizona Sleeping Beauty Turquoise Necklace (Size - 18)",
+    "precedingAuctionCode": "0019935669"
   }
 }
