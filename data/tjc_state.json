@@ -516177,11 +516177,29 @@
       "productUrlChecked": 1793807907472,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8751124": {
+      "sku": "8751124",
+      "firstAir": 1793809252663,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793809252663,
+      "title": "La Marey Signature 100% Wool Ombre Scarf (One Size) - Brown",
+      "pdpPrice": "89.99",
+      "auctionCode": "0019936322",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-04",
+      "time": "16:20:52",
+      "productUrl": null,
+      "lastUpdated": 1793809252663,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793808950928,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592059,11 +592077,22 @@
         "followingSku": "8585752",
         "followingTitle": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
         "followingAuctionCode": "0019936270"
+      },
+      {
+        "start": 1793808950928,
+        "end": 1793809252663,
+        "durationMin": 5.0,
+        "precedingSku": "8585748",
+        "precedingTitle": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
+        "precedingAuctionCode": "0019936269",
+        "followingSku": "8751124",
+        "followingTitle": "La Marey Signature 100% Wool Ombre Scarf (One Size) - Brown",
+        "followingAuctionCode": "0019936322"
       }
     ],
-    "lastOnAirSku": "8585748",
-    "lastOnAirTitle": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
-    "lastOnAirAuctionCode": "0019936269",
+    "lastOnAirSku": "8751124",
+    "lastOnAirTitle": "La Marey Signature 100% Wool Ombre Scarf (One Size) - Brown",
+    "lastOnAirAuctionCode": "0019936322",
     "precedingSku": "8585748",
     "precedingTitle": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
     "precedingAuctionCode": "0019936269"
