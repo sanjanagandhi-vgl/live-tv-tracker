@@ -516599,16 +516599,20 @@
       "date": "2026-11-04",
       "time": "19:09:24",
       "productUrl": "/products/shadazzle-multi-purpose-cleaner-polish-lavender-8688699?variant=53430744514826",
-      "lastUpdated": 1793819364070,
+      "lastUpdated": 1793819443514,
       "source": "gha",
       "productUrlChecked": 1793819366238,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793819443514,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793819443514,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592623,8 +592627,8 @@
     "lastOnAirSku": "8688700",
     "lastOnAirTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Lavender",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8579284",
-    "precedingTitle": "Livmore Mini Portable ABS Air Purifier, Ideal for home, office, car or travel use,  Helps reduce dust, odours, and air impurities  - Black",
-    "precedingAuctionCode": "0019936632"
+    "precedingSku": "8688700",
+    "precedingTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Lavender",
+    "precedingAuctionCode": null
   }
 }
