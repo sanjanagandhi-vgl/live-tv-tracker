@@ -515061,8 +515061,12 @@
       "date": "2026-11-04",
       "time": "11:53:21",
       "productUrl": null,
-      "lastUpdated": 1793793201596,
-      "source": "gha"
+      "lastUpdated": 1793793269014,
+      "source": "gha",
+      "missedAt": 1793793269014,
+      "missedDelay": 1,
+      "missedPrice": 69.99,
+      "missedImg": true
     },
     "8785024": {
       "sku": "8785024",
@@ -515199,11 +515203,28 @@
       "auctionCode": "0019935630",
       "source": "gha",
       "productUrl": null
+    },
+    "8809448": {
+      "sku": "8809448",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "11:54:29",
+      "preExisting": true,
+      "missedAt": 1793793269014,
+      "missedDelay": null,
+      "lastUpdated": 1793793269014,
+      "missedPrice": 69.99,
+      "missedImg": true,
+      "title": "Live From Jaipur - Luxuriant AAA Lab Grown Alexandrite Solitaire Lever Back Earring in Platinum Overlay Sterling Silver 2.45 Ct.",
+      "auctionCode": "0019936593",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793793269014,
     "gaps": [
       {
         "start": 1785823527869,
@@ -590888,8 +590909,8 @@
     "lastOnAirSku": "8809449",
     "lastOnAirTitle": "Live From Jaipur - Luxuriant AAA Lab Grown Alexandrite Solitaire Lever Back Earring in Platinum Overlay Sterling Silver 2.45 Ct.",
     "lastOnAirAuctionCode": "0019935616",
-    "precedingSku": "8785011",
-    "precedingTitle": "Luxuriant - AAA Lab Grown Alexandrite & Lab Grown Diamond (SI-G-H) Trilogy Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.50 Ct.",
-    "precedingAuctionCode": "0019935629"
+    "precedingSku": "8809449",
+    "precedingTitle": "Live From Jaipur - Luxuriant AAA Lab Grown Alexandrite Solitaire Lever Back Earring in Platinum Overlay Sterling Silver 2.45 Ct.",
+    "precedingAuctionCode": "0019935616"
   }
 }
