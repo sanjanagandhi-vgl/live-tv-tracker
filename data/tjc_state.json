@@ -514445,13 +514445,51 @@
       "date": "2026-11-04",
       "time": "09:45:43",
       "productUrl": null,
-      "lastUpdated": 1793785543018,
-      "source": "gha"
+      "lastUpdated": 1793785640851,
+      "source": "gha",
+      "missedAt": 1793785640851,
+      "missedDelay": 2,
+      "missedPrice": 5.99,
+      "missedImg": true
+    },
+    "8789081": {
+      "sku": "8789081",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "09:47:20",
+      "preExisting": true,
+      "missedAt": 1793785640851,
+      "missedDelay": null,
+      "lastUpdated": 1793785640851,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Blue Crystal Hoop Earring with Clasp",
+      "auctionCode": "0019936592",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8789086": {
+      "sku": "8789086",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "09:47:20",
+      "preExisting": true,
+      "missedAt": 1793785640851,
+      "missedDelay": null,
+      "lastUpdated": 1793785640851,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "EverTrue - White Crystal Hoop Earring with Clasp",
+      "auctionCode": "0019936591",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793785640851,
     "gaps": [
       {
         "start": 1785823527869,
@@ -590037,8 +590075,8 @@
     "lastOnAirSku": "8789080",
     "lastOnAirTitle": "Multi Color Crystal Hoop Earring with Clasp",
     "lastOnAirAuctionCode": "0019935884",
-    "precedingSku": "8731841",
-    "precedingTitle": "D'Joy Moissanite Ballerina Ring in Platinum Overlay Sterling Silver",
-    "precedingAuctionCode": "0019936557"
+    "precedingSku": "8789080",
+    "precedingTitle": "Multi Color Crystal Hoop Earring with Clasp",
+    "precedingAuctionCode": "0019935884"
   }
 }
