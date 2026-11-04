@@ -516713,11 +516713,29 @@
       "productUrlChecked": 1793821251188,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8845740": {
+      "sku": "8845740",
+      "firstAir": 1793822003440,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793822003440,
+      "title": "Christy Renaissance Egyptian Cotton Hand Towel 675gsm 60 x 40 cm - PINK",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019936685",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-04",
+      "time": "19:53:23",
+      "productUrl": null,
+      "lastUpdated": 1793822003440,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793821947264,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592749,11 +592767,22 @@
         "followingSku": "8823243",
         "followingTitle": "Christy Renaissance Egyptian Cotton Bath Towel 675gsm 76 x 142 cm - Pink",
         "followingAuctionCode": "0019936674"
+      },
+      {
+        "start": 1793821947264,
+        "end": 1793822003440,
+        "durationMin": 0.9,
+        "precedingSku": "8823243",
+        "precedingTitle": "Christy Renaissance Egyptian Cotton Bath Towel 675gsm 76 x 142 cm - Pink",
+        "precedingAuctionCode": "0019936674",
+        "followingSku": "8845740",
+        "followingTitle": "Christy Renaissance Egyptian Cotton Hand Towel 675gsm 60 x 40 cm - PINK",
+        "followingAuctionCode": "0019936685"
       }
     ],
-    "lastOnAirSku": "8823243",
-    "lastOnAirTitle": "Christy Renaissance Egyptian Cotton Bath Towel 675gsm 76 x 142 cm - Pink",
-    "lastOnAirAuctionCode": "0019936674",
+    "lastOnAirSku": "8845740",
+    "lastOnAirTitle": "Christy Renaissance Egyptian Cotton Hand Towel 675gsm 60 x 40 cm - PINK",
+    "lastOnAirAuctionCode": "0019936685",
     "precedingSku": "8823243",
     "precedingTitle": "Christy Renaissance Egyptian Cotton Bath Towel 675gsm 76 x 142 cm - Pink",
     "precedingAuctionCode": "0019936674"
