@@ -516410,11 +516410,29 @@
       "productUrlChecked": 1793811879426,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8778726": {
+      "sku": "8778726",
+      "firstAir": 1793812404149,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793812404149,
+      "title": "Lyanna Lace-up Chunky Cleated Sole Combat Polyurethane Ankle Boots (Size 3) - Black",
+      "pdpPrice": "279.99",
+      "auctionCode": "0019936287",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-04",
+      "time": "17:13:24",
+      "productUrl": null,
+      "lastUpdated": 1793812404149,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793812282850,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592336,11 +592354,22 @@
         "followingSku": "8690700",
         "followingTitle": "La Marey Super Soft Pearl Detail Christmas Tree Jumper (Size L, 16-18) - Green",
         "followingAuctionCode": "0019936353"
+      },
+      {
+        "start": 1793812282850,
+        "end": 1793812404149,
+        "durationMin": 2.0,
+        "precedingSku": "8690700",
+        "precedingTitle": "La Marey Super Soft Pearl Detail Christmas Tree Jumper (Size L, 16-18) - Green",
+        "precedingAuctionCode": "0019936353",
+        "followingSku": "8778726",
+        "followingTitle": "Lyanna Lace-up Chunky Cleated Sole Combat Polyurethane Ankle Boots (Size 3) - Black",
+        "followingAuctionCode": "0019936287"
       }
     ],
-    "lastOnAirSku": "8690700",
-    "lastOnAirTitle": "La Marey Super Soft Pearl Detail Christmas Tree Jumper (Size L, 16-18) - Green",
-    "lastOnAirAuctionCode": "0019936353",
+    "lastOnAirSku": "8778726",
+    "lastOnAirTitle": "Lyanna Lace-up Chunky Cleated Sole Combat Polyurethane Ankle Boots (Size 3) - Black",
+    "lastOnAirAuctionCode": "0019936287",
     "precedingSku": "8690700",
     "precedingTitle": "La Marey Super Soft Pearl Detail Christmas Tree Jumper (Size L, 16-18) - Green",
     "precedingAuctionCode": "0019936353"
