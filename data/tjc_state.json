@@ -515748,14 +515748,75 @@
       "img": false,
       "date": "2026-11-04",
       "time": "15:11:25",
-      "productUrl": null,
-      "lastUpdated": 1793805085879,
-      "source": "gha"
+      "productUrl": "/products/chilli-charm-jumper-size-m-l-black-8787756",
+      "lastUpdated": 1793805683766,
+      "source": "gha",
+      "missedAt": 1793805683766,
+      "missedDelay": 10,
+      "missedPrice": 34.99,
+      "missedImg": false,
+      "productUrlChecked": 1793805686296,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8787757": {
+      "sku": "8787757",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "15:21:23",
+      "preExisting": true,
+      "missedAt": 1793805683766,
+      "missedDelay": null,
+      "lastUpdated": 1793805683766,
+      "missedPrice": 34.99,
+      "missedImg": false,
+      "title": "Chilli Charm Sparkle Jumper (Size L-XL, 18-22) - Black",
+      "auctionCode": "0019937322",
+      "source": "gha",
+      "productUrl": "/products/chilli-charm-jumper-size-m-l-black-8787756",
+      "productUrlChecked": 1793805686713,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8787758": {
+      "sku": "8787758",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "15:21:23",
+      "preExisting": true,
+      "missedAt": 1793805683766,
+      "missedDelay": null,
+      "lastUpdated": 1793805683766,
+      "missedPrice": 34.99,
+      "missedImg": false,
+      "title": "Chilli Charm Sparkle Jumper (Size M-L, 12-16) - Ivory",
+      "auctionCode": "0019937323",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8787759": {
+      "sku": "8787759",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "15:21:23",
+      "preExisting": true,
+      "missedAt": 1793805683766,
+      "missedDelay": null,
+      "lastUpdated": 1793805683766,
+      "missedPrice": 34.99,
+      "missedImg": false,
+      "title": "Chilli Charm Sparkle Jumper (Size L-XL, 18-22) - Ivory",
+      "auctionCode": "0019937324",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793805683766,
     "gaps": [
       {
         "start": 1785823527869,
@@ -591561,8 +591622,8 @@
     "lastOnAirSku": "8787756",
     "lastOnAirTitle": "Chilli Charm Sparkle Jumper (Size L-XL, 18-22) - Ivory",
     "lastOnAirAuctionCode": "0019937321",
-    "precedingSku": "8807940",
-    "precedingTitle": "Faux Fur Christmas Pattern Slipper (Size 4) - Red & White",
-    "precedingAuctionCode": "0019936141"
+    "precedingSku": "8787756",
+    "precedingTitle": "Chilli Charm Sparkle Jumper (Size L-XL, 18-22) - Ivory",
+    "precedingAuctionCode": "0019937321"
   }
 }
