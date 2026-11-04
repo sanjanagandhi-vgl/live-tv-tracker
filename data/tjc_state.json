@@ -515626,14 +515626,21 @@
       "img": true,
       "date": "2026-11-04",
       "time": "13:29:23",
-      "productUrl": null,
-      "lastUpdated": 1793798963512,
-      "source": "gha"
+      "productUrl": "/products/9k-white-gold-lab-grown-diamond-pendant-0-40-ct-8784489",
+      "lastUpdated": 1793799064551,
+      "source": "gha",
+      "missedAt": 1793799064551,
+      "missedDelay": 2,
+      "missedPrice": 89.99,
+      "missedImg": true,
+      "productUrlChecked": 1793799067368,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793799064551,
     "gaps": [
       {
         "start": 1785823527869,
@@ -591362,8 +591369,8 @@
     "lastOnAirSku": "8784489",
     "lastOnAirTitle": "9K White Gold Lab Grown Diamond Pendant 0.40 Ct.",
     "lastOnAirAuctionCode": "0019937340",
-    "precedingSku": "8784488",
-    "precedingTitle": "SHOWSTOPPER DEAL - Live From India Special- 9K Yellow Gold Lab Grown Diamond (GH-SI) Pendant",
-    "precedingAuctionCode": "0019937004"
+    "precedingSku": "8784489",
+    "precedingTitle": "9K White Gold Lab Grown Diamond Pendant 0.40 Ct.",
+    "precedingAuctionCode": "0019937340"
   }
 }
