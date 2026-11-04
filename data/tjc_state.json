@@ -490965,20 +490965,20 @@
       "sku": "8702820",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-02",
-      "time": "14:53:23",
+      "date": "2026-11-04",
+      "time": "16:44:25",
       "preExisting": true,
       "missedAt": 1793033191275,
       "missedDelay": null,
-      "lastUpdated": 1793631203424,
+      "lastUpdated": 1793810665872,
       "missedPrice": 17.99,
       "missedImg": true,
       "title": "La Marey Signature Glove (Size - Large) - Brown",
-      "auctionCode": "0019932668",
+      "auctionCode": "0019936299",
       "source": "gha",
       "productUrl": null,
-      "lastAir": 1793631203424,
-      "pdpPrice": "17.99",
+      "lastAir": 1793810665872,
+      "pdpPrice": "69.99",
       "buy": true,
       "login": false,
       "img": true
@@ -516305,8 +516305,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793810548287,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592195,11 +592195,22 @@
         "followingSku": "8751124",
         "followingTitle": "La Marey Signature 100% Wool Ombre Scarf (One Size) - Brown",
         "followingAuctionCode": "0019936322"
+      },
+      {
+        "start": 1793810548287,
+        "end": 1793810665872,
+        "durationMin": 2.0,
+        "precedingSku": "8751124",
+        "precedingTitle": "La Marey Signature 100% Wool Ombre Scarf (One Size) - Brown",
+        "precedingAuctionCode": "0019936322",
+        "followingSku": "8702820",
+        "followingTitle": "La Marey Signature Glove (Size - Large) - Brown",
+        "followingAuctionCode": "0019936299"
       }
     ],
-    "lastOnAirSku": "8751124",
-    "lastOnAirTitle": "La Marey Signature 100% Wool Ombre Scarf (One Size) - Brown",
-    "lastOnAirAuctionCode": "0019936322",
+    "lastOnAirSku": "8702820",
+    "lastOnAirTitle": "La Marey Signature Glove (Size - Large) - Brown",
+    "lastOnAirAuctionCode": "0019936299",
     "precedingSku": "8751124",
     "precedingTitle": "La Marey Signature 100% Wool Ombre Scarf (One Size) - Brown",
     "precedingAuctionCode": "0019936322"
