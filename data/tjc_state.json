@@ -513998,11 +513998,50 @@
       "date": "2026-11-04",
       "time": "01:18:26",
       "productUrl": "/products/evertrue-white-crystal-hoop-earring-with-clasp-8789110?variant=54027543445770",
-      "lastUpdated": 1793755106355,
+      "lastUpdated": 1793755161509,
       "source": "gha",
       "productUrlChecked": 1793755108410,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793755161509,
+      "missedDelay": 1,
+      "missedPrice": 8.99,
+      "missedImg": true
+    },
+    "8789181": {
+      "sku": "8789181",
+      "firstAir": 1793755161509,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793755161509,
+      "title": "EverTrue - White Crystal & White Mystic Colour Glass Adjustable Necklace (Size - 20) 50.00 Ct.",
+      "pdpPrice": "49.99",
+      "auctionCode": "0019935795",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-04",
+      "time": "01:19:21",
+      "productUrl": null,
+      "lastUpdated": 1793755161509,
+      "source": "gha"
+    },
+    "8789082": {
+      "sku": "8789082",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "01:19:21",
+      "preExisting": true,
+      "missedAt": 1793755161509,
+      "missedDelay": null,
+      "lastUpdated": 1793755161509,
+      "missedPrice": 8.99,
+      "missedImg": true,
+      "title": "White Crystal Hoop Earring with Clasp",
+      "auctionCode": "0019935792",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
@@ -589271,9 +589310,9 @@
         "followingAuctionCode": "0019935529"
       }
     ],
-    "lastOnAirSku": "8789110",
-    "lastOnAirTitle": "EverTrue - White Crystal Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8789181",
+    "lastOnAirTitle": "EverTrue - White Crystal & White Mystic Colour Glass Adjustable Necklace (Size - 20) 50.00 Ct.",
+    "lastOnAirAuctionCode": "0019935795",
     "precedingSku": "8247226",
     "precedingTitle": "La Marey Pearl Detail Velvet Blouse (Size - L/XL, 16/20) - Dark Purple",
     "precedingAuctionCode": "0019935676"
