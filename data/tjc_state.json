@@ -516608,11 +516608,29 @@
       "missedDelay": 1,
       "missedPrice": 9.99,
       "missedImg": true
+    },
+    "8682250": {
+      "sku": "8682250",
+      "firstAir": 1793819963171,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793819963171,
+      "title": "LIVMORE Handcrafted Turkish Style Mosaic Glass Plug In Light With E14 Bulb Included - Pink",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019936666",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-04",
+      "time": "19:19:23",
+      "productUrl": null,
+      "lastUpdated": 1793819963171,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793819443514,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592622,11 +592640,22 @@
         "followingSku": "8688700",
         "followingTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Lavender",
         "followingAuctionCode": "0019936660"
+      },
+      {
+        "start": 1793819443514,
+        "end": 1793819963171,
+        "durationMin": 8.7,
+        "precedingSku": "8688700",
+        "precedingTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Lavender",
+        "precedingAuctionCode": null,
+        "followingSku": "8682250",
+        "followingTitle": "LIVMORE Handcrafted Turkish Style Mosaic Glass Plug In Light With E14 Bulb Included - Pink",
+        "followingAuctionCode": "0019936666"
       }
     ],
-    "lastOnAirSku": "8688700",
-    "lastOnAirTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Lavender",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8682250",
+    "lastOnAirTitle": "LIVMORE Handcrafted Turkish Style Mosaic Glass Plug In Light With E14 Bulb Included - Pink",
+    "lastOnAirAuctionCode": "0019936666",
     "precedingSku": "8688700",
     "precedingTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Lavender",
     "precedingAuctionCode": null
