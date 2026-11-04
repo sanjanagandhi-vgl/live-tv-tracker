@@ -516583,11 +516583,29 @@
       "auctionCode": "0019936288",
       "source": "gha",
       "productUrl": null
+    },
+    "8688700": {
+      "sku": "8688700",
+      "firstAir": 1793818640676,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793818640676,
+      "title": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Lavender",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019936660",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-04",
+      "time": "18:57:20",
+      "productUrl": null,
+      "lastUpdated": 1793818640676,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793818285441,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592586,11 +592604,22 @@
         "followingSku": "8579284",
         "followingTitle": "Livmore Mini Portable ABS Air Purifier, Ideal for home, office, car or travel use,  Helps reduce dust, odours, and air impurities  - Black",
         "followingAuctionCode": "0019936632"
+      },
+      {
+        "start": 1793818285441,
+        "end": 1793818640676,
+        "durationMin": 5.9,
+        "precedingSku": "8579284",
+        "precedingTitle": "Livmore Mini Portable ABS Air Purifier, Ideal for home, office, car or travel use,  Helps reduce dust, odours, and air impurities  - Black",
+        "precedingAuctionCode": "0019936632",
+        "followingSku": "8688700",
+        "followingTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Lavender",
+        "followingAuctionCode": "0019936660"
       }
     ],
-    "lastOnAirSku": "8579284",
-    "lastOnAirTitle": "Livmore Mini Portable ABS Air Purifier, Ideal for home, office, car or travel use,  Helps reduce dust, odours, and air impurities  - Black",
-    "lastOnAirAuctionCode": "0019936632",
+    "lastOnAirSku": "8688700",
+    "lastOnAirTitle": "Shadazzle All Natural Multi Purpose Cleaner & Polish Paste with Applicator Sponge - Lavender",
+    "lastOnAirAuctionCode": "0019936660",
     "precedingSku": "8579284",
     "precedingTitle": "Livmore Mini Portable ABS Air Purifier, Ideal for home, office, car or travel use,  Helps reduce dust, odours, and air impurities  - Black",
     "precedingAuctionCode": "0019936632"
