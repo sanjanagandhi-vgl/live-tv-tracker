@@ -515586,11 +515586,29 @@
       "auctionCode": "0019935554",
       "source": "gha",
       "productUrl": null
+    },
+    "8784488": {
+      "sku": "8784488",
+      "firstAir": 1793797275787,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793797275787,
+      "title": "SHOWSTOPPER DEAL - Live From India Special- 9K Yellow Gold Lab Grown Diamond Pendant",
+      "pdpPrice": "799.99",
+      "auctionCode": "0019937004",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-04",
+      "time": "13:01:15",
+      "productUrl": null,
+      "lastUpdated": 1793797275787,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793797041814,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -591292,11 +591310,22 @@
         "followingSku": "8821271",
         "followingTitle": "ONE TO OWN - Live From Jaipur - Luxuriant 9K Yellow Gold AAA Lab Grown Alexandrite Solitaire Ring 2.80 Ct.",
         "followingAuctionCode": "0019935553"
+      },
+      {
+        "start": 1793797041814,
+        "end": 1793797275787,
+        "durationMin": 3.9,
+        "precedingSku": "8821271",
+        "precedingTitle": "ONE TO OWN - Live From Jaipur - Luxuriant 9K Yellow Gold AAA Lab Grown Alexandrite Solitaire Ring 2.80 Ct.",
+        "precedingAuctionCode": "0019935553",
+        "followingSku": "8784488",
+        "followingTitle": "SHOWSTOPPER DEAL - Live From India Special- 9K Yellow Gold Lab Grown Diamond Pendant",
+        "followingAuctionCode": "0019937004"
       }
     ],
-    "lastOnAirSku": "8821271",
-    "lastOnAirTitle": "ONE TO OWN - Live From Jaipur - Luxuriant 9K Yellow Gold AAA Lab Grown Alexandrite Solitaire Ring 2.80 Ct.",
-    "lastOnAirAuctionCode": "0019935553",
+    "lastOnAirSku": "8784488",
+    "lastOnAirTitle": "SHOWSTOPPER DEAL - Live From India Special- 9K Yellow Gold Lab Grown Diamond Pendant",
+    "lastOnAirAuctionCode": "0019937004",
     "precedingSku": "8821271",
     "precedingTitle": "ONE TO OWN - Live From Jaipur - Luxuriant 9K Yellow Gold AAA Lab Grown Alexandrite Solitaire Ring 2.80 Ct.",
     "precedingAuctionCode": "0019935553"
