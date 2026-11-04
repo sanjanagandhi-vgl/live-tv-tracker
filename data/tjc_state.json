@@ -30865,23 +30865,23 @@
       "sku": "8712385",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-03",
-      "time": "04:04:25",
+      "date": "2026-11-04",
+      "time": "18:38:25",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1793678665768,
+      "lastUpdated": 1793817505025,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "SEJOY Cordless Water Flosser with 5 Cleaning Modes, 6 Jet Tips & IPX7 Waterproof Design - Purple",
-      "auctionCode": null,
+      "auctionCode": "0019936636",
       "source": "gha",
       "productUrl": "/products/sejoy-cordless-water-flosser-with-5-cleaning-modes-6-jet-tips-ipx7-waterproof-design-purple-8712276?variant=53672929362186",
       "productUrlChecked": 1785475545516,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1793678665768,
-      "pdpPrice": 7.99,
+      "lastAir": 1793817505025,
+      "pdpPrice": "50.99",
       "buy": true,
       "login": false,
       "img": true
@@ -516586,8 +516586,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793817335810,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592564,11 +592564,22 @@
         "followingSku": "7997042",
         "followingTitle": "Laurelle My Mic EDP - 100ml",
         "followingAuctionCode": "0019936627"
+      },
+      {
+        "start": 1793817335810,
+        "end": 1793817505025,
+        "durationMin": 2.8,
+        "precedingSku": "7997042",
+        "precedingTitle": "Laurelle My Mic EDP - 100ml",
+        "precedingAuctionCode": "0019936627",
+        "followingSku": "8712385",
+        "followingTitle": "SEJOY Cordless Water Flosser with 5 Cleaning Modes, 6 Jet Tips & IPX7 Waterproof Design - Purple",
+        "followingAuctionCode": "0019936636"
       }
     ],
-    "lastOnAirSku": "7997042",
-    "lastOnAirTitle": "Laurelle My Mic EDP - 100ml",
-    "lastOnAirAuctionCode": "0019936627",
+    "lastOnAirSku": "8712385",
+    "lastOnAirTitle": "SEJOY Cordless Water Flosser with 5 Cleaning Modes, 6 Jet Tips & IPX7 Waterproof Design - Purple",
+    "lastOnAirAuctionCode": "0019936636",
     "precedingSku": "7997042",
     "precedingTitle": "Laurelle My Mic EDP - 100ml",
     "precedingAuctionCode": "0019936627"
