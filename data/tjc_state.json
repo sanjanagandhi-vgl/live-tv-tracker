@@ -1780,23 +1780,23 @@
       "sku": "8519081",
       "tvPrice": "",
       "remarks": "",
-      "time": "07:02:27",
+      "time": "23:04:26",
       "preExisting": true,
       "missedAt": 1784808960674,
       "missedDelay": null,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Leopard Royal Savannah EDP - 100ml",
-      "auctionCode": null,
+      "auctionCode": "0019937475",
       "source": "gha",
-      "lastAir": 1793689347596,
-      "pdpPrice": 19.99,
+      "lastAir": 1793833466657,
+      "pdpPrice": "24.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "productUrl": "/products/laurelle-gold-leopard-edp-100ml?variant=53106114724106",
-      "lastUpdated": 1793689347596,
+      "lastUpdated": 1793833466657,
       "productUrlChecked": 1792481240848,
       "productUrlStatus": 200,
       "productUrl404": false
@@ -516791,8 +516791,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793833347839,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592879,11 +592879,22 @@
         "followingSku": "4528138",
         "followingTitle": "Manhattan Close Out - Tri-Colour Wheat Chain Bracelet (Size - 7.5) and Hoop Earrings Set",
         "followingAuctionCode": "0019937424"
+      },
+      {
+        "start": 1793833347839,
+        "end": 1793833466657,
+        "durationMin": 2.0,
+        "precedingSku": "8744656",
+        "precedingTitle": "Manhattan Close Out - Tri-Colour Wide Flat Hoop Earrings with Clasp",
+        "precedingAuctionCode": "0019937433",
+        "followingSku": "8519081",
+        "followingTitle": "Leopard Royal Savannah EDP - 100ml",
+        "followingAuctionCode": "0019937475"
       }
     ],
-    "lastOnAirSku": "8744656",
-    "lastOnAirTitle": "Manhattan Close Out - Tri-Colour Wide Flat Hoop Earrings with Clasp",
-    "lastOnAirAuctionCode": "0019937433",
+    "lastOnAirSku": "8519081",
+    "lastOnAirTitle": "Leopard Royal Savannah EDP - 100ml",
+    "lastOnAirAuctionCode": "0019937475",
     "precedingSku": "8744656",
     "precedingTitle": "Manhattan Close Out - Tri-Colour Wide Flat Hoop Earrings with Clasp",
     "precedingAuctionCode": "0019937433"
