@@ -454104,17 +454104,17 @@
       "firstAir": 1791899478627,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791899958136,
-      "title": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Pink",
-      "pdpPrice": 29.99,
-      "auctionCode": null,
+      "lastAir": 1793808203897,
+      "title": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
+      "pdpPrice": "29.99",
+      "auctionCode": "0019936270",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-13",
-      "time": "14:59:18",
+      "date": "2026-11-04",
+      "time": "16:03:23",
       "productUrl": "/products/pure-and-natural-top-size-small-wine-8585752?variant=53890288976138",
-      "lastUpdated": 1791900505670,
+      "lastUpdated": 1793808203897,
       "source": "gha",
       "productUrlChecked": 1791899961094,
       "productUrlStatus": 200,
@@ -516180,8 +516180,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793808146231,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592048,11 +592048,22 @@
         "followingSku": "8586316",
         "followingTitle": "Pure and Natural Pull on Trousers (Size L, 16-18) - Black",
         "followingAuctionCode": "0019936272"
+      },
+      {
+        "start": 1793808146231,
+        "end": 1793808203897,
+        "durationMin": 1.0,
+        "precedingSku": "8586316",
+        "precedingTitle": "Pure and Natural Pull on Trousers (Size L, 16-18) - Black",
+        "precedingAuctionCode": "0019936272",
+        "followingSku": "8585752",
+        "followingTitle": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
+        "followingAuctionCode": "0019936270"
       }
     ],
-    "lastOnAirSku": "8586316",
-    "lastOnAirTitle": "Pure and Natural Pull on Trousers (Size L, 16-18) - Black",
-    "lastOnAirAuctionCode": "0019936272",
+    "lastOnAirSku": "8585752",
+    "lastOnAirTitle": "Pure and Natural Contrast Ribbed Neck Jumper (Size L, 16-18) - Oatmeal",
+    "lastOnAirAuctionCode": "0019936270",
     "precedingSku": "8586316",
     "precedingTitle": "Pure and Natural Pull on Trousers (Size L, 16-18) - Black",
     "precedingAuctionCode": "0019936272"
