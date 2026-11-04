@@ -509894,18 +509894,23 @@
       "sku": "8751116",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-02",
-      "time": "14:48:26",
+      "date": "2026-11-04",
+      "time": "07:39:20",
       "preExisting": true,
       "missedAt": 1793630906027,
       "missedDelay": null,
-      "lastUpdated": 1793630906027,
+      "lastUpdated": 1793777960961,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "La Marey Angora Blend Ribbed Turn-Up Cuff Knit Beanie Hat (23 x 22cm) - Blue",
-      "auctionCode": "0019933455",
+      "auctionCode": "0019935929",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793777960961,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8751115": {
       "sku": "8751115",
@@ -514270,8 +514275,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793777903623,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -589731,11 +589736,22 @@
         "followingSku": "8795307",
         "followingTitle": "Keplin Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty - Black",
         "followingAuctionCode": "0019935981"
+      },
+      {
+        "start": 1793777903623,
+        "end": 1793777960961,
+        "durationMin": 1.0,
+        "precedingSku": "8795307",
+        "precedingTitle": "Keplin Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty -...",
+        "precedingAuctionCode": null,
+        "followingSku": "8751116",
+        "followingTitle": "La Marey Angora Blend Ribbed Turn-Up Cuff Knit Beanie Hat (23 x 22cm) - Blue",
+        "followingAuctionCode": "0019935929"
       }
     ],
-    "lastOnAirSku": "8795307",
-    "lastOnAirTitle": "Keplin Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty -...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8751116",
+    "lastOnAirTitle": "La Marey Angora Blend Ribbed Turn-Up Cuff Knit Beanie Hat (23 x 22cm) - Blue",
+    "lastOnAirAuctionCode": "0019935929",
     "precedingSku": "8795307",
     "precedingTitle": "Keplin Rechargeable Electric Hot Water Bottle Soft Hand Warmer Heating Pad With 1 Year Warranty -...",
     "precedingAuctionCode": null
