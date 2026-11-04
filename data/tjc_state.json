@@ -514429,11 +514429,29 @@
       "productUrlChecked": 1793785348143,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8789080": {
+      "sku": "8789080",
+      "firstAir": 1793785401415,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793785401415,
+      "title": "Multi Color Crystal Hoop Earring with Clasp",
+      "pdpPrice": "5.99",
+      "auctionCode": "0019935884",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-04",
+      "time": "09:43:21",
+      "productUrl": null,
+      "lastUpdated": 1793785401415,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793785244757,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -590003,11 +590021,22 @@
         "followingSku": "8731841",
         "followingTitle": "D'Joy Moissanite Ballerina Ring in Platinum Overlay Sterling Silver",
         "followingAuctionCode": "0019936557"
+      },
+      {
+        "start": 1793785244757,
+        "end": 1793785401415,
+        "durationMin": 2.6,
+        "precedingSku": "8731841",
+        "precedingTitle": "D'Joy Moissanite Ballerina Ring in Platinum Overlay Sterling Silver",
+        "precedingAuctionCode": "0019936557",
+        "followingSku": "8789080",
+        "followingTitle": "Multi Color Crystal Hoop Earring with Clasp",
+        "followingAuctionCode": "0019935884"
       }
     ],
-    "lastOnAirSku": "8731841",
-    "lastOnAirTitle": "D'Joy Moissanite Ballerina Ring in Platinum Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019936557",
+    "lastOnAirSku": "8789080",
+    "lastOnAirTitle": "Multi Color Crystal Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019935884",
     "precedingSku": "8731841",
     "precedingTitle": "D'Joy Moissanite Ballerina Ring in Platinum Overlay Sterling Silver",
     "precedingAuctionCode": "0019936557"
