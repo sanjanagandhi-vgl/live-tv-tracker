@@ -328268,21 +328268,26 @@
       "sku": "8579565",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-09",
-      "time": "20:07:25",
+      "date": "2026-11-04",
+      "time": "06:54:23",
       "preExisting": true,
       "missedAt": 1788980845478,
       "missedDelay": null,
-      "lastUpdated": 1788980845478,
+      "lastUpdated": 1793775263430,
       "missedPrice": 19.99,
       "missedImg": false,
-      "title": "La Marey 70% Wool Check Blanket Scarf Shawl (70 x 200cm) - Grey",
-      "auctionCode": "0019863899",
+      "title": "La Marey 100% Merino Wool Tartan Check Scarf Shawl (70 x 200cm) - Pink",
+      "auctionCode": "0019936528",
       "source": "gha",
       "productUrl": "/products/la-marey-wool-patterned-scarf-size-one-size-red-8578937",
       "productUrlChecked": 1788980849171,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793775263430,
+      "pdpPrice": "239.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8579566": {
       "sku": "8579566",
@@ -514265,8 +514270,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793775200526,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -589704,11 +589709,22 @@
         "followingSku": "8787191",
         "followingTitle": "Multi Color Crystal Poppy Flower Dangling Earring with Push Back",
         "followingAuctionCode": "0019935926"
+      },
+      {
+        "start": 1793775200526,
+        "end": 1793775263430,
+        "durationMin": 1.0,
+        "precedingSku": "8699833",
+        "precedingTitle": "Designer Inspired-Poppy Embellishment Crossbody Bag - Apricot & Red",
+        "precedingAuctionCode": "0019935927",
+        "followingSku": "8579565",
+        "followingTitle": "La Marey 100% Merino Wool Tartan Check Scarf Shawl (70 x 200cm) - Pink",
+        "followingAuctionCode": "0019936528"
       }
     ],
-    "lastOnAirSku": "8699833",
-    "lastOnAirTitle": "Designer Inspired-Poppy Embellishment Crossbody Bag - Apricot & Red",
-    "lastOnAirAuctionCode": "0019935927",
+    "lastOnAirSku": "8579565",
+    "lastOnAirTitle": "La Marey 100% Merino Wool Tartan Check Scarf Shawl (70 x 200cm) - Pink",
+    "lastOnAirAuctionCode": "0019936528",
     "precedingSku": "8699833",
     "precedingTitle": "Designer Inspired-Poppy Embellishment Crossbody Bag - Apricot & Red",
     "precedingAuctionCode": "0019935927"
