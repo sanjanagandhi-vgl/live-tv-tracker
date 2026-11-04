@@ -515962,9 +515962,16 @@
       "img": false,
       "date": "2026-11-04",
       "time": "15:50:42",
-      "productUrl": null,
-      "lastUpdated": 1793807442456,
-      "source": "gha"
+      "productUrl": "/products/pure-and-natural-acrylic-jumper-size-large-wine-8555780",
+      "lastUpdated": 1793807482225,
+      "source": "gha",
+      "missedAt": 1793807482225,
+      "missedDelay": 1,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "productUrlChecked": 1793807484306,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8555787": {
       "sku": "8555787",
@@ -516025,11 +516032,71 @@
       "productUrlChecked": 1793807149190,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8555783": {
+      "sku": "8555783",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "15:51:22",
+      "preExisting": true,
+      "missedAt": 1793807482225,
+      "missedDelay": null,
+      "lastUpdated": 1793807482225,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "title": "Pure And Natural Floral Print Jumper (Size XL, 20-22) - Wine",
+      "auctionCode": "0019936201",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-acrylic-jumper-size-large-wine-8555780",
+      "productUrlChecked": 1793807484628,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8555781": {
+      "sku": "8555781",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "15:51:22",
+      "preExisting": true,
+      "missedAt": 1793807482225,
+      "missedDelay": null,
+      "lastUpdated": 1793807482225,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "title": "Pure And Natural Floral Print Jumper (Size M, 12-14) - Wine",
+      "auctionCode": "0019936200",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-acrylic-jumper-size-large-wine-8555780",
+      "productUrlChecked": 1793807484728,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8555780": {
+      "sku": "8555780",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-04",
+      "time": "15:51:22",
+      "preExisting": true,
+      "missedAt": 1793807482225,
+      "missedDelay": null,
+      "lastUpdated": 1793807482225,
+      "missedPrice": 29.99,
+      "missedImg": false,
+      "title": "Pure And Natural Floral Print Jumper (Size L, 16-18) - Wine",
+      "auctionCode": "0019936199",
+      "source": "gha",
+      "productUrl": "/products/pure-and-natural-acrylic-jumper-size-large-wine-8555780",
+      "productUrlChecked": 1793807484847,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793807482225,
     "gaps": [
       {
         "start": 1785823527869,
@@ -591879,8 +591946,8 @@
     "lastOnAirSku": "8555782",
     "lastOnAirTitle": "Pure And Natural Floral Print Jumper (Size XL, 20-22) - Pink",
     "lastOnAirAuctionCode": "0019936177",
-    "precedingSku": "8555786",
+    "precedingSku": "8555782",
     "precedingTitle": "Pure And Natural Floral Print Jumper (Size XL, 20-22) - Pink",
-    "precedingAuctionCode": "0019936179"
+    "precedingAuctionCode": "0019936177"
   }
 }
