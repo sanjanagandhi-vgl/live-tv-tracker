@@ -516305,11 +516305,29 @@
       "productUrlChecked": 1793810551752,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8682632": {
+      "sku": "8682632",
+      "firstAir": 1793811154122,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793811154122,
+      "title": "Genuine Leather Crossbody Bag & Scarf - Black",
+      "pdpPrice": "129.99",
+      "auctionCode": "0019936328",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-04",
+      "time": "16:52:34",
+      "productUrl": null,
+      "lastUpdated": 1793811154122,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793811048896,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592209,11 +592227,22 @@
         "followingSku": "8702820",
         "followingTitle": "La Marey Signature Glove (Size - Large) - Brown",
         "followingAuctionCode": "0019936299"
+      },
+      {
+        "start": 1793811048896,
+        "end": 1793811154122,
+        "durationMin": 1.8,
+        "precedingSku": "8702820",
+        "precedingTitle": "La Marey Signature Glove (Size - Large) - Brown",
+        "precedingAuctionCode": null,
+        "followingSku": "8682632",
+        "followingTitle": "Genuine Leather Crossbody Bag & Scarf - Black",
+        "followingAuctionCode": "0019936328"
       }
     ],
-    "lastOnAirSku": "8702820",
-    "lastOnAirTitle": "La Marey Signature Glove (Size - Large) - Brown",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8682632",
+    "lastOnAirTitle": "Genuine Leather Crossbody Bag & Scarf - Black",
+    "lastOnAirAuctionCode": "0019936328",
     "precedingSku": "8702820",
     "precedingTitle": "La Marey Signature Glove (Size - Large) - Brown",
     "precedingAuctionCode": null
