@@ -491174,17 +491174,17 @@
       "firstAir": 1793034335526,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793272583056,
+      "lastAir": 1793814658886,
       "title": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
-      "pdpPrice": "59.99",
-      "auctionCode": "0019927546",
+      "pdpPrice": "180.99",
+      "auctionCode": "0019936335",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-29",
-      "time": "11:16:23",
+      "date": "2026-11-04",
+      "time": "17:50:58",
       "productUrl": null,
-      "lastUpdated": 1793272583056,
+      "lastUpdated": 1793814658886,
       "source": "gha",
       "missedAt": 1793034746410,
       "missedDelay": 1,
@@ -516583,8 +516583,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793814610488,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -592539,11 +592539,22 @@
         "followingSku": "8583323",
         "followingTitle": "Charlotte West Amber Ladies Padded Drawstring Hooded Puffer Jacket (Size 12) - Lilac",
         "followingAuctionCode": "0019936303"
+      },
+      {
+        "start": 1793814610488,
+        "end": 1793814658886,
+        "durationMin": 0.8,
+        "precedingSku": "8583323",
+        "precedingTitle": "Charlotte West Amber Ladies Padded Drawstring Hooded Puffer Jacket (Size 12) - Lilac",
+        "precedingAuctionCode": "0019936303",
+        "followingSku": "8520821",
+        "followingTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
+        "followingAuctionCode": "0019936335"
       }
     ],
-    "lastOnAirSku": "8583323",
-    "lastOnAirTitle": "Charlotte West Amber Ladies Padded Drawstring Hooded Puffer Jacket (Size 12) - Lilac",
-    "lastOnAirAuctionCode": "0019936303",
+    "lastOnAirSku": "8520821",
+    "lastOnAirTitle": "Emreco Single Breasted Check Revere Collar Coat (Size 20) - Neutral",
+    "lastOnAirAuctionCode": "0019936335",
     "precedingSku": "8583323",
     "precedingTitle": "Charlotte West Amber Ladies Padded Drawstring Hooded Puffer Jacket (Size 12) - Lilac",
     "precedingAuctionCode": "0019936303"
