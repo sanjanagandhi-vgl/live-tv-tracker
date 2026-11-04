@@ -515837,11 +515837,29 @@
       "auctionCode": "0019937324",
       "source": "gha",
       "productUrl": null
+    },
+    "8555794": {
+      "sku": "8555794",
+      "firstAir": 1793806264624,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793806264624,
+      "title": "Pure And Natural Floral Print Jumper (Size XL, 20-22) - Pink",
+      "pdpPrice": "120.99",
+      "auctionCode": "0019936183",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-11-04",
+      "time": "15:31:04",
+      "productUrl": null,
+      "lastUpdated": 1793806264624,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793806109467,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -591653,11 +591671,22 @@
         "followingSku": "8736139",
         "followingTitle": "La Marey Signature Genuine Leather Jacket (Size L, 16-18) - Black",
         "followingAuctionCode": "0019936311"
+      },
+      {
+        "start": 1793806109467,
+        "end": 1793806264624,
+        "durationMin": 2.6,
+        "precedingSku": "8736139",
+        "precedingTitle": "La Marey Signature Genuine Leather Jacket (Size L, 16-18) - Black",
+        "precedingAuctionCode": null,
+        "followingSku": "8555794",
+        "followingTitle": "Pure And Natural Floral Print Jumper (Size XL, 20-22) - Pink",
+        "followingAuctionCode": "0019936183"
       }
     ],
-    "lastOnAirSku": "8736139",
-    "lastOnAirTitle": "La Marey Signature Genuine Leather Jacket (Size L, 16-18) - Black",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8555794",
+    "lastOnAirTitle": "Pure And Natural Floral Print Jumper (Size XL, 20-22) - Pink",
+    "lastOnAirAuctionCode": "0019936183",
     "precedingSku": "8736139",
     "precedingTitle": "La Marey Signature Genuine Leather Jacket (Size L, 16-18) - Black",
     "precedingAuctionCode": null
