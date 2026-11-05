@@ -519000,14 +519000,61 @@
       "img": true,
       "date": "2026-11-05",
       "time": "15:06:28",
-      "productUrl": null,
-      "lastUpdated": 1793891188746,
-      "source": "gha"
+      "productUrl": "/products/christmas-tree-with-gold-accents-40cm-gold-8632940",
+      "lastUpdated": 1793891244987,
+      "source": "gha",
+      "missedAt": 1793891244987,
+      "missedDelay": 1,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "productUrlChecked": 1793891247459,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8632942": {
+      "sku": "8632942",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-05",
+      "time": "15:07:24",
+      "preExisting": true,
+      "missedAt": 1793891244987,
+      "missedDelay": null,
+      "lastUpdated": 1793891244987,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Decorative Christmas Tree (40 cm) - Red",
+      "auctionCode": "0019938614",
+      "source": "gha",
+      "productUrl": "/products/christmas-tree-with-gold-accents-40cm-gold-8632940",
+      "productUrlChecked": 1793891247806,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8632941": {
+      "sku": "8632941",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-05",
+      "time": "15:07:24",
+      "preExisting": true,
+      "missedAt": 1793891244987,
+      "missedDelay": null,
+      "lastUpdated": 1793891244987,
+      "missedPrice": 14.99,
+      "missedImg": true,
+      "title": "Decorative Christmas Tree (40 cm) - Green",
+      "auctionCode": "0019938613",
+      "source": "gha",
+      "productUrl": "/products/christmas-tree-with-gold-accents-40cm-gold-8632940",
+      "productUrlChecked": 1793891248012,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793891244987,
     "gaps": [
       {
         "start": 1785823527869,
@@ -595781,8 +595828,8 @@
     "lastOnAirSku": "8632940",
     "lastOnAirTitle": "Decorative Christmas Tree (40 cm) - Red",
     "lastOnAirAuctionCode": "0019937350",
-    "precedingSku": "8754508",
-    "precedingTitle": "Set of 2 - Christmas Special Ginger Bread & SnowmanScented Soy Wax Candle - Chocolate & Vanilla",
-    "precedingAuctionCode": null
+    "precedingSku": "8632940",
+    "precedingTitle": "Decorative Christmas Tree (40 cm) - Red",
+    "precedingAuctionCode": "0019937350"
   }
 }
