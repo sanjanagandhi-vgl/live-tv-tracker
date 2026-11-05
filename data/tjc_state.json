@@ -519301,9 +519301,16 @@
       "img": true,
       "date": "2026-11-05",
       "time": "20:03:23",
-      "productUrl": null,
-      "lastUpdated": 1793909003643,
-      "source": "gha"
+      "productUrl": "/products/peacock-tanzanite-round-6-faceted-0-78-cts",
+      "lastUpdated": 1793909067895,
+      "source": "gha",
+      "missedAt": 1793909067895,
+      "missedDelay": 1,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1793909070789,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8814284": {
       "sku": "8814284",
@@ -519327,8 +519334,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793909067895,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596289,8 +596296,8 @@
     "lastOnAirSku": "6050294",
     "lastOnAirTitle": "Peacock Tanzanite Round 6 Faceted 0.78 Cts",
     "lastOnAirAuctionCode": "0019938633",
-    "precedingSku": "8759063",
-    "precedingTitle": "Certified & Appraised AAAA Tanzanite Cushion Cut Gemstone (7.5 mm) 1.75 Ct.",
-    "precedingAuctionCode": "0019937449"
+    "precedingSku": "6050294",
+    "precedingTitle": "Peacock Tanzanite Round 6 Faceted 0.78 Cts",
+    "precedingAuctionCode": "0019938633"
   }
 }
