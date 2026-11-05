@@ -513299,25 +513299,26 @@
       "sku": "8498770",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-03",
-      "time": "23:48:25",
+      "date": "2026-11-05",
+      "time": "08:38:29",
       "preExisting": true,
       "missedAt": 1793724386457,
       "missedDelay": null,
-      "lastUpdated": 1793749705944,
+      "lastUpdated": 1793867909857,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 14) - Olive & Cream",
-      "auctionCode": "0019936425",
-      "source": "gha-variant",
+      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
+      "auctionCode": "0019936728",
+      "source": "gha",
       "productUrl": "/products/charlotte-west-jacket-size-12-black-8498762?variant=53924402233610",
-      "lastAir": 1793749705944,
-      "pdpPrice": 59.99,
+      "lastAir": 1793867909857,
+      "pdpPrice": "59.99",
       "buy": true,
       "login": false,
       "productUrlChecked": 1793749710809,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "img": true
     },
     "8498762": {
       "sku": "8498762",
@@ -517009,8 +517010,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793867842692,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -593515,11 +593516,22 @@
         "followingSku": "8498764",
         "followingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
         "followingAuctionCode": "0019936731"
+      },
+      {
+        "start": 1793867842692,
+        "end": 1793867909857,
+        "durationMin": 1.1,
+        "precedingSku": "8498764",
+        "precedingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
+        "precedingAuctionCode": null,
+        "followingSku": "8498770",
+        "followingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
+        "followingAuctionCode": "0019936728"
       }
     ],
-    "lastOnAirSku": "8498764",
+    "lastOnAirSku": "8498770",
     "lastOnAirTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirAuctionCode": "0019936728",
     "precedingSku": "8498764",
     "precedingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
     "precedingAuctionCode": null
