@@ -428602,21 +428602,26 @@
       "sku": "8566689",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-04",
-      "time": "23:59:17",
+      "date": "2026-11-05",
+      "time": "06:54:27",
       "preExisting": true,
       "missedAt": 1791154757959,
       "missedDelay": null,
-      "lastUpdated": 1791154757959,
+      "lastUpdated": 1793861667259,
       "missedPrice": 34.99,
       "missedImg": true,
-      "title": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green - White",
-      "auctionCode": "0019895978",
+      "title": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green",
+      "auctionCode": "0019936455",
       "source": "gha",
       "productUrl": "/products/genuine-leather-flap-over-satchel-crossbody-bag-with-2-straps-dark-green-8566685",
       "productUrlChecked": 1791154762823,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793861667259,
+      "pdpPrice": "79.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8931863": {
       "sku": "8931863",
@@ -516905,8 +516910,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793861546115,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -593312,11 +593317,22 @@
         "followingSku": "221342380",
         "followingTitle": "Christmas Gift Deal- SET OF 2 - V.V. Love ROBOT and Laurelle Wings Eau De Parfum 100ML",
         "followingAuctionCode": "0019937864"
+      },
+      {
+        "start": 1793861546115,
+        "end": 1793861667259,
+        "durationMin": 2.0,
+        "precedingSku": "221342380",
+        "precedingTitle": "Christmas Gift Deal- SET OF 2 - V.V. Love ROBOT and Laurelle Wings Eau De Parfum 100ML",
+        "precedingAuctionCode": "0019937864",
+        "followingSku": "8566689",
+        "followingTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green",
+        "followingAuctionCode": "0019936455"
       }
     ],
-    "lastOnAirSku": "221342380",
-    "lastOnAirTitle": "Christmas Gift Deal- SET OF 2 - V.V. Love ROBOT and Laurelle Wings Eau De Parfum 100ML",
-    "lastOnAirAuctionCode": "0019937864",
+    "lastOnAirSku": "8566689",
+    "lastOnAirTitle": "Genuine Leather Flap Over Satchel Crossbody Bag with 2 Straps - Dark Green",
+    "lastOnAirAuctionCode": "0019936455",
     "precedingSku": "221342380",
     "precedingTitle": "Christmas Gift Deal- SET OF 2 - V.V. Love ROBOT and Laurelle Wings Eau De Parfum 100ML",
     "precedingAuctionCode": "0019937864"
