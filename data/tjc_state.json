@@ -363724,22 +363724,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-11-05",
-      "time": "09:53:22",
+      "time": "09:55:38",
       "preExisting": true,
       "missedAt": 1789734863646,
       "missedDelay": null,
-      "lastUpdated": 1793872402804,
+      "lastUpdated": 1793872538152,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
-      "auctionCode": "0019938013",
+      "auctionCode": "0019938012",
       "source": "gha",
       "productUrl": "/products/magnetic-lock-in-rhodium-overlay-pure-white-stainless-steel-4464147",
       "productUrlChecked": 1789734868048,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1793872402804,
-      "pdpPrice": "25.99",
+      "lastAir": 1793872538152,
+      "pdpPrice": "9.99",
       "buy": true,
       "login": false,
       "img": true
@@ -517490,8 +517490,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793872466680,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -594062,11 +594062,22 @@
         "followingSku": "4464157",
         "followingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
         "followingAuctionCode": "0019938013"
+      },
+      {
+        "start": 1793872466680,
+        "end": 1793872538152,
+        "durationMin": 1.2,
+        "precedingSku": "4464157",
+        "precedingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+        "precedingAuctionCode": "0019938013",
+        "followingSku": "4464157",
+        "followingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+        "followingAuctionCode": "0019938012"
       }
     ],
     "lastOnAirSku": "4464157",
     "lastOnAirTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
-    "lastOnAirAuctionCode": "0019938013",
+    "lastOnAirAuctionCode": "0019938012",
     "precedingSku": "4464157",
     "precedingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
     "precedingAuctionCode": "0019938013"
