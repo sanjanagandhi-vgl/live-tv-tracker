@@ -518620,9 +518620,16 @@
       "img": true,
       "date": "2026-11-05",
       "time": "13:07:24",
-      "productUrl": null,
-      "lastUpdated": 1793884044805,
-      "source": "gha"
+      "productUrl": "/products/djoy-zambian-emerald-solitaire-pendant-sterling-silver-0-869-ct-8777027",
+      "lastUpdated": 1793884108691,
+      "source": "gha",
+      "missedAt": 1793884108691,
+      "missedDelay": 1,
+      "missedPrice": 49.99,
+      "missedImg": true,
+      "productUrlChecked": 1793884110761,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8777026": {
       "sku": "8777026",
@@ -518786,8 +518793,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793884108691,
     "gaps": [
       {
         "start": 1785823527869,
@@ -595495,8 +595502,8 @@
     "lastOnAirSku": "8777027",
     "lastOnAirTitle": "Live From Jaipur - D'Joy AAA Zambian Emerald Floral Pendant in Yellow Gold Plated Sterling Silver",
     "lastOnAirAuctionCode": "0019934083",
-    "precedingSku": "8576686",
-    "precedingTitle": "Live From Jaipur - D'Joy AAA Gemfields Zambian Emerald Adjustable Bypass Ring in Rhodium Overlay Sterling Silver",
-    "precedingAuctionCode": "0019936979"
+    "precedingSku": "8777027",
+    "precedingTitle": "Live From Jaipur - D'Joy AAA Zambian Emerald Floral Pendant in Yellow Gold Plated Sterling Silver",
+    "precedingAuctionCode": "0019934083"
   }
 }
