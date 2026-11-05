@@ -519122,11 +519122,29 @@
       "productUrlChecked": 1793903311145,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8480842": {
+      "sku": "8480842",
+      "firstAir": 1793903548290,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793903548290,
+      "title": "AAA Santamaria Aquamarine Oval Cut Gemstone (8x6 mm) 1.00 ct",
+      "pdpPrice": "5989.99",
+      "auctionCode": "0019937458",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-05",
+      "time": "18:32:28",
+      "productUrl": null,
+      "lastUpdated": 1793903548290,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793903308419,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596016,11 +596034,22 @@
         "followingSku": "8072101",
         "followingTitle": "AAAA Australian Black Ridge Triplet Opal (10x8 mm)",
         "followingAuctionCode": "0019937454"
+      },
+      {
+        "start": 1793903308419,
+        "end": 1793903548290,
+        "durationMin": 4.0,
+        "precedingSku": "8072101",
+        "precedingTitle": "AAAA Australian Black Ridge Triplet Opal (10x8 mm)",
+        "precedingAuctionCode": "0019937454",
+        "followingSku": "8480842",
+        "followingTitle": "AAA Santamaria Aquamarine Oval Cut Gemstone (8x6 mm) 1.00 ct",
+        "followingAuctionCode": "0019937458"
       }
     ],
-    "lastOnAirSku": "8072101",
-    "lastOnAirTitle": "AAAA Australian Black Ridge Triplet Opal (10x8 mm)",
-    "lastOnAirAuctionCode": "0019937454",
+    "lastOnAirSku": "8480842",
+    "lastOnAirTitle": "AAA Santamaria Aquamarine Oval Cut Gemstone (8x6 mm) 1.00 ct",
+    "lastOnAirAuctionCode": "0019937458",
     "precedingSku": "8072101",
     "precedingTitle": "AAAA Australian Black Ridge Triplet Opal (10x8 mm)",
     "precedingAuctionCode": "0019937454"
