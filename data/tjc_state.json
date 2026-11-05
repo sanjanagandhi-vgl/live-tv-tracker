@@ -518560,11 +518560,49 @@
       "productUrlChecked": 1793881407404,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8777018": {
+      "sku": "8777018",
+      "firstAir": 1793882910874,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793882910874,
+      "title": "Live From Jaipur - D'Joy AAA Zambian Emerald Floral Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+      "pdpPrice": "999.99",
+      "auctionCode": "0019932898",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-05",
+      "time": "12:48:30",
+      "productUrl": null,
+      "lastUpdated": 1793882910874,
+      "source": "gha"
+    },
+    "8576700": {
+      "sku": "8576700",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-05",
+      "time": "12:48:30",
+      "preExisting": true,
+      "missedAt": 1793882910874,
+      "missedDelay": null,
+      "lastUpdated": 1793882910874,
+      "missedPrice": 69.99,
+      "missedImg": true,
+      "title": "Live From Jaipur - D'Joy AAA Gemfields Zambian Emerald Adjustable Bypass Ring in Rhodium Overlay Sterling Silver",
+      "auctionCode": "0019936984",
+      "source": "gha",
+      "productUrl": "/products/djoy-premium-zambian-emerald-adjustable-bypass-ring-in-rhodium-overlay-sterling-silver",
+      "productUrlChecked": 1793882912829,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793882846483,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -595256,11 +595294,22 @@
         "followingSku": "8576686",
         "followingTitle": "Live From Jaipur - D'Joy AAA Gemfields Zambian Emerald Adjustable Bypass Ring in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019936979"
+      },
+      {
+        "start": 1793882846483,
+        "end": 1793882910874,
+        "durationMin": 1.1,
+        "precedingSku": "8576686",
+        "precedingTitle": "Live From Jaipur - D'Joy AAA Gemfields Zambian Emerald Adjustable Bypass Ring in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019936979",
+        "followingSku": "8777018",
+        "followingTitle": "Live From Jaipur - D'Joy AAA Zambian Emerald Floral Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+        "followingAuctionCode": "0019932898"
       }
     ],
-    "lastOnAirSku": "8576686",
-    "lastOnAirTitle": "Live From Jaipur - D'Joy AAA Gemfields Zambian Emerald Adjustable Bypass Ring in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019936979",
+    "lastOnAirSku": "8777018",
+    "lastOnAirTitle": "Live From Jaipur - D'Joy AAA Zambian Emerald Floral Ring in 18K Vermeil Yellow Gold Plated Sterling Silver",
+    "lastOnAirAuctionCode": "0019932898",
     "precedingSku": "8576686",
     "precedingTitle": "Live From Jaipur - D'Joy AAA Gemfields Zambian Emerald Adjustable Bypass Ring in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019936979"
