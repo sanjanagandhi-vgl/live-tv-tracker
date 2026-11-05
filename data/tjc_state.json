@@ -519197,11 +519197,29 @@
       "missedDelay": 1,
       "missedPrice": 499.99,
       "missedImg": true
+    },
+    "8222034": {
+      "sku": "8222034",
+      "firstAir": 1793905405013,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793905405013,
+      "title": "AAAA PIRINEU Tourmaline Octagon Gemstone 1.00 Ct.",
+      "pdpPrice": "3799.99",
+      "auctionCode": "0019937472",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-05",
+      "time": "19:03:25",
+      "productUrl": null,
+      "lastUpdated": 1793905405013,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793905109701,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596124,11 +596142,22 @@
         "followingSku": "8374431",
         "followingTitle": "AAA Pink Spinel Pear Cut Gemstone 1.00 ct",
         "followingAuctionCode": "0019937457"
+      },
+      {
+        "start": 1793905109701,
+        "end": 1793905405013,
+        "durationMin": 4.9,
+        "precedingSku": "8374431",
+        "precedingTitle": "AAA Pink Spinel Pear Cut Gemstone 1.00 ct",
+        "precedingAuctionCode": null,
+        "followingSku": "8222034",
+        "followingTitle": "AAAA PIRINEU Tourmaline Octagon Gemstone 1.00 Ct.",
+        "followingAuctionCode": "0019937472"
       }
     ],
-    "lastOnAirSku": "8374431",
-    "lastOnAirTitle": "AAA Pink Spinel Pear Cut Gemstone 1.00 ct",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8222034",
+    "lastOnAirTitle": "AAAA PIRINEU Tourmaline Octagon Gemstone 1.00 Ct.",
+    "lastOnAirAuctionCode": "0019937472",
     "precedingSku": "8374431",
     "precedingTitle": "AAA Pink Spinel Pear Cut Gemstone 1.00 ct",
     "precedingAuctionCode": null
