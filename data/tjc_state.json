@@ -517481,13 +517481,17 @@
       "date": "2026-11-05",
       "time": "09:51:21",
       "productUrl": null,
-      "lastUpdated": 1793872281662,
-      "source": "gha"
+      "lastUpdated": 1793872348630,
+      "source": "gha",
+      "missedAt": 1793872348630,
+      "missedDelay": 1,
+      "missedPrice": 9.97,
+      "missedImg": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793872348630,
     "gaps": [
       {
         "start": 1785823527869,
@@ -594052,8 +594056,8 @@
     "lastOnAirSku": "221342374",
     "lastOnAirTitle": "Set of 3 Christmas Tree Decorations Eau de Parfum Gift Set",
     "lastOnAirAuctionCode": "0019937543",
-    "precedingSku": "8287548",
-    "precedingTitle": "La Marey Checked Shacket (Size - 12 to 14) - Navy, Red & White",
-    "precedingAuctionCode": "0019936857"
+    "precedingSku": "221342374",
+    "precedingTitle": "Set of 3 Christmas Tree Decorations Eau de Parfum Gift Set",
+    "precedingAuctionCode": "0019937543"
   }
 }
