@@ -512567,18 +512567,23 @@
       "sku": "8466015",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-03",
-      "time": "12:53:23",
+      "date": "2026-11-05",
+      "time": "17:59:25",
       "preExisting": true,
       "missedAt": 1793710403206,
       "missedDelay": null,
-      "lastUpdated": 1793710403206,
+      "lastUpdated": 1793901565498,
       "missedPrice": 29.99,
       "missedImg": true,
-      "title": "Mini Handheld 130,000 RPM Turbo Jet Fan & Air Blower with LED Light - Aluminum Electric Blower - Black",
-      "auctionCode": "0019935484",
+      "title": "Mini Handheld 130,000 RPM Turbo Jet Fan & Air Blower with LED Light - Aluminum Electric Blower - Dark Blue",
+      "auctionCode": "0019938091",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793901565498,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8510543": {
       "sku": "8510543",
@@ -519056,8 +519061,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793901509413,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -595914,11 +595919,22 @@
         "followingSku": "8631215",
         "followingTitle": "BLACK FRIDAY DOORBUSTER - LIVMORE Cordless Vacuum - Lightweight 3.1Kg,  200w-20kpa with HEPA 13 Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
         "followingAuctionCode": "0019938018"
+      },
+      {
+        "start": 1793901509413,
+        "end": 1793901565498,
+        "durationMin": 0.9,
+        "precedingSku": "8631215",
+        "precedingTitle": "BLACK FRIDAY DOORBUSTER - LIVMORE Cordless Vacuum - Lightweight 3.1Kg,  200w-20kpa with HEPA 13 Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
+        "precedingAuctionCode": "0019938018",
+        "followingSku": "8466015",
+        "followingTitle": "Mini Handheld 130,000 RPM Turbo Jet Fan & Air Blower with LED Light - Aluminum Electric Blower - Dark Blue",
+        "followingAuctionCode": "0019938091"
       }
     ],
-    "lastOnAirSku": "8631215",
-    "lastOnAirTitle": "BLACK FRIDAY DOORBUSTER - LIVMORE Cordless Vacuum - Lightweight 3.1Kg,  200w-20kpa with HEPA 13 Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
-    "lastOnAirAuctionCode": "0019938018",
+    "lastOnAirSku": "8466015",
+    "lastOnAirTitle": "Mini Handheld 130,000 RPM Turbo Jet Fan & Air Blower with LED Light - Aluminum Electric Blower - Dark Blue",
+    "lastOnAirAuctionCode": "0019938091",
     "precedingSku": "8631215",
     "precedingTitle": "BLACK FRIDAY DOORBUSTER - LIVMORE Cordless Vacuum - Lightweight 3.1Kg,  200w-20kpa with HEPA 13 Filter, 2 in 1 Fabric Brush & Wall Bracket- Up to 60 Min Runtime With LIFETIME WARRANTY",
     "precedingAuctionCode": "0019938018"
