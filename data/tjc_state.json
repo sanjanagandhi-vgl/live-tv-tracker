@@ -519261,11 +519261,29 @@
       "auctionCode": "0019938794",
       "source": "gha",
       "productUrl": null
+    },
+    "8814283": {
+      "sku": "8814283",
+      "firstAir": 1793908109123,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793908109123,
+      "title": "AAAA Ethiopian Opal Oval Shape Gemstone 10.70 Ct.",
+      "pdpPrice": "1299.99",
+      "auctionCode": "0019938630",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-05",
+      "time": "19:48:29",
+      "productUrl": null,
+      "lastUpdated": 1793908109123,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793907945622,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596210,11 +596228,22 @@
         "followingSku": "8759063",
         "followingTitle": "Certified & Appraised AAAA Tanzanite Cushion Cut Gemstone (7.5 mm) 1.75 Ct.",
         "followingAuctionCode": "0019937449"
+      },
+      {
+        "start": 1793907945622,
+        "end": 1793908109123,
+        "durationMin": 2.7,
+        "precedingSku": "8759063",
+        "precedingTitle": "Certified & Appraised AAAA Tanzanite Cushion Cut Gemstone (7.5 mm) 1.75 Ct.",
+        "precedingAuctionCode": "0019937449",
+        "followingSku": "8814283",
+        "followingTitle": "AAAA Ethiopian Opal Oval Shape Gemstone 10.70 Ct.",
+        "followingAuctionCode": "0019938630"
       }
     ],
-    "lastOnAirSku": "8759063",
-    "lastOnAirTitle": "Certified & Appraised AAAA Tanzanite Cushion Cut Gemstone (7.5 mm) 1.75 Ct.",
-    "lastOnAirAuctionCode": "0019937449",
+    "lastOnAirSku": "8814283",
+    "lastOnAirTitle": "AAAA Ethiopian Opal Oval Shape Gemstone 10.70 Ct.",
+    "lastOnAirAuctionCode": "0019938630",
     "precedingSku": "8759063",
     "precedingTitle": "Certified & Appraised AAAA Tanzanite Cushion Cut Gemstone (7.5 mm) 1.75 Ct.",
     "precedingAuctionCode": "0019937449"
