@@ -519212,14 +519212,21 @@
       "img": true,
       "date": "2026-11-05",
       "time": "19:18:28",
-      "productUrl": null,
-      "lastUpdated": 1793906308879,
-      "source": "gha"
+      "productUrl": "/products/aaaa-lagoon-tourmaline-octagon-gemstone-1-50-ct-8222034",
+      "lastUpdated": 1793906364012,
+      "source": "gha",
+      "missedAt": 1793906364012,
+      "missedDelay": 1,
+      "missedPrice": 499.99,
+      "missedImg": true,
+      "productUrlChecked": 1793906366511,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793906364012,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596158,8 +596165,8 @@
     "lastOnAirSku": "8222034",
     "lastOnAirTitle": "AAAA PIRINEU Tourmaline Octagon Gemstone 1.00 Ct.",
     "lastOnAirAuctionCode": "0019937472",
-    "precedingSku": "8374431",
-    "precedingTitle": "AAA Pink Spinel Pear Cut Gemstone 1.00 ct",
-    "precedingAuctionCode": null
+    "precedingSku": "8222034",
+    "precedingTitle": "AAAA PIRINEU Tourmaline Octagon Gemstone 1.00 Ct.",
+    "precedingAuctionCode": "0019937472"
   }
 }
