@@ -157691,21 +157691,26 @@
       "sku": "4460169",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-14",
-      "time": "05:37:20",
+      "date": "2026-11-05",
+      "time": "04:15:43",
       "preExisting": true,
       "missedAt": 1786682240175,
       "missedDelay": null,
-      "lastUpdated": 1786682240175,
+      "lastUpdated": 1793852143701,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "EverTrue - Lapis Lazuli & Blue Cubic Zirconia Pendant with Chain (Size 20) 17.50 Ct.",
-      "auctionCode": "0019819973",
+      "title": "EverTrue - Labradorite & Champagne Cubic Zirconia Pendant with Chain (Size 20) 18.37 Ct.",
+      "auctionCode": "0019937131",
       "source": "gha",
       "productUrl": "/products/evertrue-cubic-zirconia-pendant-with-chain-7054460169",
       "productUrlChecked": 1786682259363,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793852143701,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8477942": {
       "sku": "8477942",
@@ -516861,8 +516866,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793852064372,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -593147,11 +593152,22 @@
         "followingSku": "8615937",
         "followingTitle": "D'Joy - Premium White Edison Pearl (12-13mm) Necklace (Size - 18) in Rhodium Overlay Sterling Silver 12.70 Ct.",
         "followingAuctionCode": "0019937240"
+      },
+      {
+        "start": 1793852064372,
+        "end": 1793852143701,
+        "durationMin": 1.3,
+        "precedingSku": "8615937",
+        "precedingTitle": "D'Joy - Premium White Edison Pearl (12-13mm) Necklace (Size - 18) in Rhodium Overlay Sterling Silver 12.70 Ct.",
+        "precedingAuctionCode": "0019937240",
+        "followingSku": "4460169",
+        "followingTitle": "EverTrue - Labradorite & Champagne Cubic Zirconia Pendant with Chain (Size 20) 18.37 Ct.",
+        "followingAuctionCode": "0019937131"
       }
     ],
-    "lastOnAirSku": "8615937",
-    "lastOnAirTitle": "D'Joy - Premium White Edison Pearl (12-13mm) Necklace (Size - 18) in Rhodium Overlay Sterling Silver 12.70 Ct.",
-    "lastOnAirAuctionCode": "0019937240",
+    "lastOnAirSku": "4460169",
+    "lastOnAirTitle": "EverTrue - Labradorite & Champagne Cubic Zirconia Pendant with Chain (Size 20) 18.37 Ct.",
+    "lastOnAirAuctionCode": "0019937131",
     "precedingSku": "8615937",
     "precedingTitle": "D'Joy - Premium White Edison Pearl (12-13mm) Necklace (Size - 18) in Rhodium Overlay Sterling Silver 12.70 Ct.",
     "precedingAuctionCode": "0019937240"
