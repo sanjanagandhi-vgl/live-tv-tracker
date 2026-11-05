@@ -363723,23 +363723,23 @@
       "sku": "4464157",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-02",
-      "time": "22:31:18",
+      "date": "2026-11-05",
+      "time": "09:53:22",
       "preExisting": true,
       "missedAt": 1789734863646,
       "missedDelay": null,
-      "lastUpdated": 1790976678684,
+      "lastUpdated": 1793872402804,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Yellow Gold Plating",
-      "auctionCode": "0019893337",
+      "title": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+      "auctionCode": "0019938013",
       "source": "gha",
       "productUrl": "/products/magnetic-lock-in-rhodium-overlay-pure-white-stainless-steel-4464147",
       "productUrlChecked": 1789734868048,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790976678684,
-      "pdpPrice": "9.99",
+      "lastAir": 1793872402804,
+      "pdpPrice": "25.99",
       "buy": true,
       "login": false,
       "img": true
@@ -517490,8 +517490,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793872348630,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -594051,11 +594051,22 @@
         "followingSku": "221342374",
         "followingTitle": "Set of 3 Christmas Tree Decorations Eau de Parfum Gift Set",
         "followingAuctionCode": "0019937543"
+      },
+      {
+        "start": 1793872348630,
+        "end": 1793872402804,
+        "durationMin": 0.9,
+        "precedingSku": "221342374",
+        "precedingTitle": "Set of 3 Christmas Tree Decorations Eau de Parfum Gift Set",
+        "precedingAuctionCode": "0019937543",
+        "followingSku": "4464157",
+        "followingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+        "followingAuctionCode": "0019938013"
       }
     ],
-    "lastOnAirSku": "221342374",
-    "lastOnAirTitle": "Set of 3 Christmas Tree Decorations Eau de Parfum Gift Set",
-    "lastOnAirAuctionCode": "0019937543",
+    "lastOnAirSku": "4464157",
+    "lastOnAirTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+    "lastOnAirAuctionCode": "0019938013",
     "precedingSku": "221342374",
     "precedingTitle": "Set of 3 Christmas Tree Decorations Eau de Parfum Gift Set",
     "precedingAuctionCode": "0019937543"
