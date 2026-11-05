@@ -517465,11 +517465,29 @@
       "productUrlChecked": 1793871337956,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "221342374": {
+      "sku": "221342374",
+      "firstAir": 1793871748337,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793871748337,
+      "title": "Set of 3 Christmas Tree Decorations Eau de Parfum Gift Set",
+      "pdpPrice": "239.97",
+      "auctionCode": "0019937543",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-11-05",
+      "time": "09:42:28",
+      "productUrl": null,
+      "lastUpdated": 1793871748337,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793871563268,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -594018,11 +594036,22 @@
         "followingSku": "8556562",
         "followingTitle": "Pure And Natural Cable Jumper (Size XL, 20-22) - Red",
         "followingAuctionCode": "0019937216"
+      },
+      {
+        "start": 1793871563268,
+        "end": 1793871748337,
+        "durationMin": 3.1,
+        "precedingSku": "8287548",
+        "precedingTitle": "La Marey Checked Shacket (Size - 12 to 14) - Navy, Red & White",
+        "precedingAuctionCode": "0019936857",
+        "followingSku": "221342374",
+        "followingTitle": "Set of 3 Christmas Tree Decorations Eau de Parfum Gift Set",
+        "followingAuctionCode": "0019937543"
       }
     ],
-    "lastOnAirSku": "8287548",
-    "lastOnAirTitle": "La Marey Checked Shacket (Size - 12 to 14) - Navy, Red & White",
-    "lastOnAirAuctionCode": "0019936857",
+    "lastOnAirSku": "221342374",
+    "lastOnAirTitle": "Set of 3 Christmas Tree Decorations Eau de Parfum Gift Set",
+    "lastOnAirAuctionCode": "0019937543",
     "precedingSku": "8287548",
     "precedingTitle": "La Marey Checked Shacket (Size - 12 to 14) - Navy, Red & White",
     "precedingAuctionCode": "0019936857"
