@@ -517538,17 +517538,17 @@
       "firstAir": 1793874562979,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793875164056,
+      "lastAir": 1793875281637,
       "title": "Live From Jaipur - Natural White Diamond Ring",
-      "pdpPrice": 9.99,
-      "auctionCode": null,
-      "buy": false,
+      "pdpPrice": "199.99",
+      "auctionCode": "0019938139",
+      "buy": true,
       "login": false,
       "img": true,
       "date": "2026-11-05",
-      "time": "10:39:24",
+      "time": "10:41:21",
       "productUrl": "/products/evertrue-natural-white-diamond-ring-8780332?variant=53994005299466",
-      "lastUpdated": 1793875246425,
+      "lastUpdated": 1793875281637,
       "source": "gha",
       "productUrlChecked": 1793875166310,
       "productUrlStatus": 200,
@@ -518273,7 +518273,10 @@
       "missedAt": 1793875246425,
       "missedDelay": 1,
       "missedPrice": 9.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793875283836,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8777138": {
       "sku": "8777138",
@@ -518294,7 +518297,10 @@
       "missedAt": 1793875246425,
       "missedDelay": 1,
       "missedPrice": 9.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793875284295,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8780340": {
       "sku": "8780340",
@@ -518315,7 +518321,10 @@
       "missedAt": 1793875246425,
       "missedDelay": 1,
       "missedPrice": 9.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793875284518,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8780351": {
       "sku": "8780351",
@@ -518336,7 +518345,10 @@
       "missedAt": 1793875246425,
       "missedDelay": 1,
       "missedPrice": 9.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793875284614,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8777150": {
       "sku": "8777150",
@@ -518357,7 +518369,10 @@
       "missedAt": 1793875246425,
       "missedDelay": 1,
       "missedPrice": 9.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793875284869,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8777139": {
       "sku": "8777139",
@@ -518378,12 +518393,15 @@
       "missedAt": 1793875246425,
       "missedDelay": 1,
       "missedPrice": 9.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1793875284954,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793875246425,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -594998,11 +595016,22 @@
         "followingSku": "8780332",
         "followingTitle": "Live From Jaipur -  Natural White Diamond Ring",
         "followingAuctionCode": "0019937963"
+      },
+      {
+        "start": 1793875246425,
+        "end": 1793875281637,
+        "durationMin": 0.6,
+        "precedingSku": "8780332",
+        "precedingTitle": "Live From Jaipur - Natural White Diamond Ring",
+        "precedingAuctionCode": null,
+        "followingSku": "8780332",
+        "followingTitle": "Live From Jaipur - Natural White Diamond Ring",
+        "followingAuctionCode": "0019938139"
       }
     ],
     "lastOnAirSku": "8780332",
     "lastOnAirTitle": "Live From Jaipur - Natural White Diamond Ring",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirAuctionCode": "0019938139",
     "precedingSku": "8780332",
     "precedingTitle": "Live From Jaipur - Natural White Diamond Ring",
     "precedingAuctionCode": null
