@@ -498594,18 +498594,23 @@
       "sku": "8521708",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-29",
-      "time": "12:29:20",
+      "date": "2026-11-05",
+      "time": "08:44:28",
       "preExisting": true,
       "missedAt": 1793276960415,
       "missedDelay": null,
-      "lastUpdated": 1793276960415,
+      "lastUpdated": 1793868268762,
       "missedPrice": 24.99,
       "missedImg": true,
-      "title": "Emreco Jean Style Stretch Trousers (Size 14) - Stone",
-      "auctionCode": "0019927430",
+      "title": "Emreco Jean Style Stretch Trousers (Size 20) - Navy",
+      "auctionCode": "0019937062",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793868268762,
+      "pdpPrice": "359.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8521706": {
       "sku": "8521706",
@@ -517010,8 +517015,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793868202509,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -593527,11 +593532,22 @@
         "followingSku": "8498770",
         "followingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
         "followingAuctionCode": "0019936728"
+      },
+      {
+        "start": 1793868202509,
+        "end": 1793868268762,
+        "durationMin": 1.1,
+        "precedingSku": "8498770",
+        "precedingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
+        "precedingAuctionCode": "0019936728",
+        "followingSku": "8521708",
+        "followingTitle": "Emreco Jean Style Stretch Trousers (Size 20) - Navy",
+        "followingAuctionCode": "0019937062"
       }
     ],
-    "lastOnAirSku": "8498770",
-    "lastOnAirTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
-    "lastOnAirAuctionCode": "0019936728",
+    "lastOnAirSku": "8521708",
+    "lastOnAirTitle": "Emreco Jean Style Stretch Trousers (Size 20) - Navy",
+    "lastOnAirAuctionCode": "0019937062",
     "precedingSku": "8498770",
     "precedingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
     "precedingAuctionCode": "0019936728"
