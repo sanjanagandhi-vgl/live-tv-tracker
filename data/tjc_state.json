@@ -507003,21 +507003,26 @@
       "sku": "8745886",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-01",
-      "time": "13:52:24",
+      "date": "2026-11-05",
+      "time": "02:23:23",
       "preExisting": true,
       "missedAt": 1793541144940,
       "missedDelay": null,
-      "lastUpdated": 1793541144940,
+      "lastUpdated": 1793845403543,
       "missedPrice": 9.99,
       "missedImg": false,
       "title": "Solar Rechargeable LED Lantern Lamp - 6 Red and White Light Modes (1200mAh) - Orange",
-      "auctionCode": "0019931405",
+      "auctionCode": "0019936097",
       "source": "gha",
       "productUrl": "/products/flashlights-and-torchlight-size-one-size-green-8745885",
       "productUrlChecked": 1793541150897,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793845403543,
+      "pdpPrice": "19.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8562404": {
       "sku": "8562404",
@@ -516846,8 +516851,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793845346998,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -593066,11 +593071,22 @@
         "followingSku": "8762448",
         "followingTitle": "Nordic Skandi Plush Gonk Door Stop - Black & Red",
         "followingAuctionCode": "0019935990"
+      },
+      {
+        "start": 1793845346998,
+        "end": 1793845403543,
+        "durationMin": 0.9,
+        "precedingSku": "8801616",
+        "precedingTitle": "INDOOR-OUTDOOR Bright White 100 LED String Lights with Storage Box (10m) - Off White",
+        "precedingAuctionCode": "0019936059",
+        "followingSku": "8745886",
+        "followingTitle": "Solar Rechargeable LED Lantern Lamp - 6 Red and White Light Modes (1200mAh) - Orange",
+        "followingAuctionCode": "0019936097"
       }
     ],
-    "lastOnAirSku": "8801616",
-    "lastOnAirTitle": "INDOOR-OUTDOOR Bright White 100 LED String Lights with Storage Box (10m) - Off White",
-    "lastOnAirAuctionCode": "0019936059",
+    "lastOnAirSku": "8745886",
+    "lastOnAirTitle": "Solar Rechargeable LED Lantern Lamp - 6 Red and White Light Modes (1200mAh) - Orange",
+    "lastOnAirAuctionCode": "0019936097",
     "precedingSku": "8801616",
     "precedingTitle": "INDOOR-OUTDOOR Bright White 100 LED String Lights with Storage Box (10m) - Off White",
     "precedingAuctionCode": "0019936059"
