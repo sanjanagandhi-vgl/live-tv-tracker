@@ -14987,16 +14987,16 @@
       "firstAir": 1785070396767,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789397961373,
+      "lastAir": 1793892869729,
       "title": "One Truth 818 Anti-Ageing Cleanser (50ml)",
       "pdpPrice": "19.99",
-      "auctionCode": "0019869733",
+      "auctionCode": "0019937839",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-14",
-      "time": "15:59:21",
-      "lastUpdated": 1789397961373,
+      "date": "2026-11-05",
+      "time": "15:34:29",
+      "lastUpdated": 1793892869729,
       "source": "gha",
       "missedAt": 1785071127585,
       "missedDelay": 2,
@@ -519053,8 +519053,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793892671353,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -595834,11 +595834,22 @@
         "followingSku": "8666627",
         "followingTitle": "One Truth 818- Atomiser - 50ml",
         "followingAuctionCode": "0019937832"
+      },
+      {
+        "start": 1793892671353,
+        "end": 1793892869729,
+        "durationMin": 3.3,
+        "precedingSku": "8666627",
+        "precedingTitle": "One Truth 818- Atomiser - 50ml",
+        "precedingAuctionCode": "0019937832",
+        "followingSku": "8354345",
+        "followingTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
+        "followingAuctionCode": "0019937839"
       }
     ],
-    "lastOnAirSku": "8666627",
-    "lastOnAirTitle": "One Truth 818- Atomiser - 50ml",
-    "lastOnAirAuctionCode": "0019937832",
+    "lastOnAirSku": "8354345",
+    "lastOnAirTitle": "One Truth 818 Anti-Ageing Cleanser (50ml)",
+    "lastOnAirAuctionCode": "0019937839",
     "precedingSku": "8666627",
     "precedingTitle": "One Truth 818- Atomiser - 50ml",
     "precedingAuctionCode": "0019937832"
