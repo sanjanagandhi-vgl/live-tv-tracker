@@ -519112,14 +519112,21 @@
       "img": true,
       "date": "2026-11-05",
       "time": "18:27:24",
-      "productUrl": null,
-      "lastUpdated": 1793903244287,
-      "source": "gha"
+      "productUrl": "/products/aaaa-australian-lightning-ridge-gemstone-10x8-mm-1-90-ct-8072101",
+      "lastUpdated": 1793903308419,
+      "source": "gha",
+      "missedAt": 1793903308419,
+      "missedDelay": 1,
+      "missedPrice": 89.99,
+      "missedImg": true,
+      "productUrlChecked": 1793903311145,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793903308419,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596014,8 +596021,8 @@
     "lastOnAirSku": "8072101",
     "lastOnAirTitle": "AAAA Australian Black Ridge Triplet Opal (10x8 mm)",
     "lastOnAirAuctionCode": "0019937454",
-    "precedingSku": "8699548",
-    "precedingTitle": "AAAA Honey Zircon Oval Cut Gemstone (9x7 mm) 2.50 Ct.",
-    "precedingAuctionCode": "0019937452"
+    "precedingSku": "8072101",
+    "precedingTitle": "AAAA Australian Black Ridge Triplet Opal (10x8 mm)",
+    "precedingAuctionCode": "0019937454"
   }
 }
