@@ -517635,24 +517635,25 @@
       "firstAir": 1793874665921,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793875164056,
+      "lastAir": 1793875548785,
       "title": "Live From Jaipur - Natural White Diamond Ring",
-      "pdpPrice": 9.99,
-      "auctionCode": "0019937976",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019938174",
       "buy": true,
       "login": false,
       "date": "2026-11-05",
-      "time": "10:39:24",
+      "time": "10:45:48",
       "productUrl": "/products/evertrue-natural-white-diamond-ring-8780332?variant=53994005299466",
-      "lastUpdated": 1793875246425,
-      "source": "gha-variant",
+      "lastUpdated": 1793875548785,
+      "source": "gha",
       "productUrlChecked": 1793875167313,
       "productUrlStatus": 200,
       "productUrl404": false,
       "missedAt": 1793875246425,
       "missedDelay": 1,
       "missedPrice": 9.99,
-      "missedImg": true
+      "missedImg": true,
+      "img": true
     },
     "8777142": {
       "sku": "8777142",
@@ -518400,8 +518401,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793875469305,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -595027,11 +595028,22 @@
         "followingSku": "8780332",
         "followingTitle": "Live From Jaipur - Natural White Diamond Ring",
         "followingAuctionCode": "0019938139"
+      },
+      {
+        "start": 1793875469305,
+        "end": 1793875548785,
+        "durationMin": 1.3,
+        "precedingSku": "8780332",
+        "precedingTitle": "Live From Jaipur - Natural White Diamond Ring",
+        "precedingAuctionCode": "0019938139",
+        "followingSku": "8780343",
+        "followingTitle": "Live From Jaipur - Natural White Diamond Ring",
+        "followingAuctionCode": "0019938174"
       }
     ],
-    "lastOnAirSku": "8780332",
+    "lastOnAirSku": "8780343",
     "lastOnAirTitle": "Live From Jaipur - Natural White Diamond Ring",
-    "lastOnAirAuctionCode": "0019938139",
+    "lastOnAirAuctionCode": "0019938174",
     "precedingSku": "8780332",
     "precedingTitle": "Live From Jaipur - Natural White Diamond Ring",
     "precedingAuctionCode": "0019938139"
