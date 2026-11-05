@@ -513396,25 +513396,26 @@
       "sku": "8498764",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-03",
-      "time": "23:48:25",
+      "date": "2026-11-05",
+      "time": "08:31:04",
       "preExisting": true,
       "missedAt": 1793724872469,
       "missedDelay": null,
-      "lastUpdated": 1793749705944,
+      "lastUpdated": 1793867464163,
       "missedPrice": 59.99,
       "missedImg": true,
-      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 14) - Black",
-      "auctionCode": "0019936437",
-      "source": "gha-variant",
+      "title": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
+      "auctionCode": "0019936731",
+      "source": "gha",
       "productUrl": "/products/charlotte-west-jacket-size-12-black-8498762?variant=53924402233610",
-      "lastAir": 1793749705944,
-      "pdpPrice": 59.99,
+      "lastAir": 1793867464163,
+      "pdpPrice": "129.99",
       "buy": true,
       "login": false,
       "productUrlChecked": 1793749711956,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "img": true
     },
     "8769729": {
       "sku": "8769729",
@@ -517008,8 +517009,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793867362943,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -593503,11 +593504,22 @@
         "followingSku": "8619117",
         "followingTitle": "QED Set of Two Fleece Leggings (Size XXL, 24-26) - Black & Navy",
         "followingAuctionCode": "0019936795"
+      },
+      {
+        "start": 1793867362943,
+        "end": 1793867464163,
+        "durationMin": 1.7,
+        "precedingSku": "8619117",
+        "precedingTitle": "QED Set of Two Fleece Leggings (Size XXL, 24-26) - Black & Navy",
+        "precedingAuctionCode": "0019936795",
+        "followingSku": "8498764",
+        "followingTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
+        "followingAuctionCode": "0019936731"
       }
     ],
-    "lastOnAirSku": "8619117",
-    "lastOnAirTitle": "QED Set of Two Fleece Leggings (Size XXL, 24-26) - Black & Navy",
-    "lastOnAirAuctionCode": "0019936795",
+    "lastOnAirSku": "8498764",
+    "lastOnAirTitle": "Charlotte West Ladies Long Sheroa Lined Jacket (Size 20) - Olive & Cream",
+    "lastOnAirAuctionCode": "0019936731",
     "precedingSku": "8619117",
     "precedingTitle": "QED Set of Two Fleece Leggings (Size XXL, 24-26) - Black & Navy",
     "precedingAuctionCode": "0019936795"
