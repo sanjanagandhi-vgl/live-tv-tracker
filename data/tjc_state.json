@@ -513891,22 +513891,22 @@
       "tvPrice": "",
       "remarks": "",
       "date": "2026-11-05",
-      "time": "14:34:28",
+      "time": "21:04:27",
       "preExisting": true,
       "missedAt": 1793732669646,
       "missedDelay": null,
-      "lastUpdated": 1793889268569,
+      "lastUpdated": 1793912667279,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Set of 2 - Christmas Special Ginger Bread & SnowmanScented Soy Wax Candle - Chocolate & Vanilla",
-      "auctionCode": null,
+      "title": "Set of 2 - Christmas Special Ginger Bread & SnowmanScented Wax Candle - Chocolate & Vanilla",
+      "auctionCode": "0019938782",
       "source": "gha",
       "productUrl": "/products/candle-set-size-one-size-multi-color-8754508?variant=54005517943050",
       "productUrlChecked": 1793732673019,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1793889268569,
-      "pdpPrice": 7.99,
+      "lastAir": 1793912667279,
+      "pdpPrice": "89.99",
       "buy": true,
       "login": false,
       "img": true
@@ -519522,8 +519522,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793912603968,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596501,11 +596501,22 @@
         "followingSku": "8751645",
         "followingTitle": "Luxuriant - 9K Yellow Gold AAA Turkizite & Lab Grown Yellow Diamond (SI-G-H) Halo Ring 2.20 Ct.",
         "followingAuctionCode": "0019937303"
+      },
+      {
+        "start": 1793912603968,
+        "end": 1793912667279,
+        "durationMin": 1.1,
+        "precedingSku": "8661477",
+        "precedingTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
+        "precedingAuctionCode": "0019937310",
+        "followingSku": "8754508",
+        "followingTitle": "Set of 2 - Christmas Special Ginger Bread & SnowmanScented Wax Candle - Chocolate & Vanilla",
+        "followingAuctionCode": "0019938782"
       }
     ],
-    "lastOnAirSku": "8661477",
-    "lastOnAirTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
-    "lastOnAirAuctionCode": "0019937310",
+    "lastOnAirSku": "8754508",
+    "lastOnAirTitle": "Set of 2 - Christmas Special Ginger Bread & SnowmanScented Wax Candle - Chocolate & Vanilla",
+    "lastOnAirAuctionCode": "0019938782",
     "precedingSku": "8661477",
     "precedingTitle": "AAA Turkizite Princess Cut Gemstone 1.00 Ct.",
     "precedingAuctionCode": "0019937310"
