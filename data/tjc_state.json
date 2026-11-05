@@ -519188,16 +519188,20 @@
       "date": "2026-11-05",
       "time": "18:57:25",
       "productUrl": "/products/aaa-pink-spinel-pear-cut-gemstone-8374431?variant=53712959865098",
-      "lastUpdated": 1793905045022,
+      "lastUpdated": 1793905109701,
       "source": "gha",
       "productUrlChecked": 1793905047472,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793905109701,
+      "missedDelay": 1,
+      "missedPrice": 499.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793905109701,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596125,8 +596129,8 @@
     "lastOnAirSku": "8374431",
     "lastOnAirTitle": "AAA Pink Spinel Pear Cut Gemstone 1.00 ct",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8374430",
-    "precedingTitle": "AAA Pink Spinel Oval Cut Gemstone 1.00 Ct.",
+    "precedingSku": "8374431",
+    "precedingTitle": "AAA Pink Spinel Pear Cut Gemstone 1.00 ct",
     "precedingAuctionCode": null
   }
 }
