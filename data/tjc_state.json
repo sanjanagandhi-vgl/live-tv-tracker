@@ -21664,17 +21664,23 @@
       "sku": "221301098",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-29",
-      "time": "11:44:23",
+      "date": "2026-11-05",
+      "time": "06:07:23",
       "preExisting": true,
       "missedAt": 1785321863299,
       "missedDelay": null,
-      "lastUpdated": 1785321863299,
+      "lastUpdated": 1793858843153,
       "missedPrice": 19.99,
       "missedImg": true,
       "title": "Mega Bundle Deal- Set of 2- Laurelle Royal and Gold Ring 80ml EDP",
-      "auctionCode": "0019798895",
-      "source": "gha"
+      "auctionCode": "0019936463",
+      "source": "gha",
+      "lastAir": 1793858843153,
+      "pdpPrice": "80.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "productUrl": null
     },
     "8671522": {
       "sku": "8671522",
@@ -516877,8 +516883,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793858478154,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -593229,11 +593235,22 @@
         "followingSku": "8635360",
         "followingTitle": "Exclusive Limited Edition Enamelled & Set With Austrian Crystals - Christmas Train Trinket Box Presented in a Gift Box",
         "followingAuctionCode": "0019937496"
+      },
+      {
+        "start": 1793858478154,
+        "end": 1793858843153,
+        "durationMin": 6.1,
+        "precedingSku": "8635360",
+        "precedingTitle": "Exclusive Limited Edition Enamelled & Set With Austrian Crystals - Christmas Train Trinket Box Presented in a Gift Box",
+        "precedingAuctionCode": "0019937496",
+        "followingSku": "221301098",
+        "followingTitle": "Mega Bundle Deal- Set of 2- Laurelle Royal and Gold Ring 80ml EDP",
+        "followingAuctionCode": "0019936463"
       }
     ],
-    "lastOnAirSku": "8635360",
-    "lastOnAirTitle": "Exclusive Limited Edition Enamelled & Set With Austrian Crystals - Christmas Train Trinket Box Presented in a Gift Box",
-    "lastOnAirAuctionCode": "0019937496",
+    "lastOnAirSku": "221301098",
+    "lastOnAirTitle": "Mega Bundle Deal- Set of 2- Laurelle Royal and Gold Ring 80ml EDP",
+    "lastOnAirAuctionCode": "0019936463",
     "precedingSku": "8635360",
     "precedingTitle": "Exclusive Limited Edition Enamelled & Set With Austrian Crystals - Christmas Train Trinket Box Presented in a Gift Box",
     "precedingAuctionCode": "0019937496"
