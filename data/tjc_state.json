@@ -518445,11 +518445,29 @@
       "productUrlChecked": 1793876909728,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8776484": {
+      "sku": "8776484",
+      "firstAir": 1793877146980,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793877146980,
+      "title": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
+      "pdpPrice": "299.00",
+      "auctionCode": "0019938010",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-05",
+      "time": "11:12:26",
+      "productUrl": null,
+      "lastUpdated": 1793877146980,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793876846193,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -595086,11 +595104,22 @@
         "followingSku": "8780343",
         "followingTitle": "Live From Jaipur - Natural White Diamond Ring",
         "followingAuctionCode": "0019938174"
+      },
+      {
+        "start": 1793876846193,
+        "end": 1793877146980,
+        "durationMin": 5.0,
+        "precedingSku": "8777057",
+        "precedingTitle": "Live From Jaipur - EverTrue White Diamond Leaf Vine Dangling Earring with Push Back",
+        "precedingAuctionCode": "0019937165",
+        "followingSku": "8776484",
+        "followingTitle": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
+        "followingAuctionCode": "0019938010"
       }
     ],
-    "lastOnAirSku": "8777057",
-    "lastOnAirTitle": "Live From Jaipur - EverTrue White Diamond Leaf Vine Dangling Earring with Push Back",
-    "lastOnAirAuctionCode": "0019937165",
+    "lastOnAirSku": "8776484",
+    "lastOnAirTitle": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
+    "lastOnAirAuctionCode": "0019938010",
     "precedingSku": "8777057",
     "precedingTitle": "Live From Jaipur - EverTrue White Diamond Leaf Vine Dangling Earring with Push Back",
     "precedingAuctionCode": "0019937165"
