@@ -519097,11 +519097,29 @@
       "auctionCode": "0019938793",
       "source": "gha",
       "productUrl": null
+    },
+    "8072101": {
+      "sku": "8072101",
+      "firstAir": 1793902846933,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793902846933,
+      "title": "AAAA Australian Black Ridge Triplet Opal (10x8 mm)",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019937454",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-05",
+      "time": "18:20:46",
+      "productUrl": null,
+      "lastUpdated": 1793902846933,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793902644406,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -595980,11 +595998,22 @@
         "followingSku": "8699548",
         "followingTitle": "AAAA Honey Zircon Oval Cut Gemstone (9x7 mm) 2.50 Ct.",
         "followingAuctionCode": "0019937452"
+      },
+      {
+        "start": 1793902644406,
+        "end": 1793902846933,
+        "durationMin": 3.4,
+        "precedingSku": "8699548",
+        "precedingTitle": "AAAA Honey Zircon Oval Cut Gemstone (9x7 mm) 2.50 Ct.",
+        "precedingAuctionCode": "0019937452",
+        "followingSku": "8072101",
+        "followingTitle": "AAAA Australian Black Ridge Triplet Opal (10x8 mm)",
+        "followingAuctionCode": "0019937454"
       }
     ],
-    "lastOnAirSku": "8699548",
-    "lastOnAirTitle": "AAAA Honey Zircon Oval Cut Gemstone (9x7 mm) 2.50 Ct.",
-    "lastOnAirAuctionCode": "0019937452",
+    "lastOnAirSku": "8072101",
+    "lastOnAirTitle": "AAAA Australian Black Ridge Triplet Opal (10x8 mm)",
+    "lastOnAirAuctionCode": "0019937454",
     "precedingSku": "8699548",
     "precedingTitle": "AAAA Honey Zircon Oval Cut Gemstone (9x7 mm) 2.50 Ct.",
     "precedingAuctionCode": "0019937452"
