@@ -521657,11 +521657,29 @@
       "productUrlChecked": 1793998406908,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8777636": {
+      "sku": "8777636",
+      "firstAir": 1794003446707,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794003446707,
+      "title": "White Topaz Earring Sterling Silver  1.208  Ct.",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019939484",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "22:17:26",
+      "productUrl": null,
+      "lastUpdated": 1794003446707,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794003397060,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -599607,11 +599625,22 @@
         "followingSku": "8363355",
         "followingTitle": "Designer Inspired - Double Dragon Head Bracelet (Size - 8)",
         "followingAuctionCode": "0019939473"
+      },
+      {
+        "start": 1794003397060,
+        "end": 1794003446707,
+        "durationMin": 0.8,
+        "precedingSku": "8283777",
+        "precedingTitle": "Lucy Q-Drop Bauble Collection White Shell Pearl Pendant with Red Ribbon",
+        "precedingAuctionCode": "0019939467",
+        "followingSku": "8777636",
+        "followingTitle": "White Topaz Earring Sterling Silver  1.208  Ct.",
+        "followingAuctionCode": "0019939484"
       }
     ],
-    "lastOnAirSku": "8283777",
-    "lastOnAirTitle": "Lucy Q-Drop Bauble Collection White Shell Pearl Pendant with Red Ribbon",
-    "lastOnAirAuctionCode": "0019939467",
+    "lastOnAirSku": "8777636",
+    "lastOnAirTitle": "White Topaz Earring Sterling Silver  1.208  Ct.",
+    "lastOnAirAuctionCode": "0019939484",
     "precedingSku": "8283777",
     "precedingTitle": "Lucy Q-Drop Bauble Collection White Shell Pearl Pendant with Red Ribbon",
     "precedingAuctionCode": "0019939467"
