@@ -321188,17 +321188,17 @@
       "firstAir": 1788853535306,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791552261509,
+      "lastAir": 1793946661389,
       "title": "Chandelier Rouge Eau de Parfum - 100ml",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019902002",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019938387",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-09",
-      "time": "14:24:21",
+      "date": "2026-11-06",
+      "time": "06:31:01",
       "productUrl": "/products/chand-rouge-eau-de-parfum-100ml?variant=53107205079306",
-      "lastUpdated": 1791552261509,
+      "lastUpdated": 1793946661389,
       "source": "gha",
       "missedAt": 1788854463130,
       "missedDelay": 10,
@@ -519912,8 +519912,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793946562869,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597309,11 +597309,22 @@
         "followingSku": "3456340",
         "followingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
         "followingAuctionCode": "0019938386"
+      },
+      {
+        "start": 1793946562869,
+        "end": 1793946661389,
+        "durationMin": 1.6,
+        "precedingSku": "3456340",
+        "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "precedingAuctionCode": "0019938386",
+        "followingSku": "8507640",
+        "followingTitle": "Chandelier Rouge Eau de Parfum - 100ml",
+        "followingAuctionCode": "0019938387"
       }
     ],
-    "lastOnAirSku": "3456340",
-    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-    "lastOnAirAuctionCode": "0019938386",
+    "lastOnAirSku": "8507640",
+    "lastOnAirTitle": "Chandelier Rouge Eau de Parfum - 100ml",
+    "lastOnAirAuctionCode": "0019938387",
     "precedingSku": "3456340",
     "precedingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
     "precedingAuctionCode": "0019938386"
