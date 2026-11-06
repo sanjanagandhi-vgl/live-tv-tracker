@@ -520272,11 +520272,29 @@
       "auctionCode": "0019938455",
       "source": "gha",
       "productUrl": null
+    },
+    "8686632": {
+      "sku": "8686632",
+      "firstAir": 1793956165885,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793956165885,
+      "title": "La Marey Ladies Soft Plush Faux Fur Neck Warmer Collar Scarf - Grey",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019938444",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "09:09:25",
+      "productUrl": null,
+      "lastUpdated": 1793956165885,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793955936492,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597793,11 +597811,22 @@
         "followingSku": "8632879",
         "followingTitle": "Flocked Christmas Standing Reindeer Tabletop Figurine (15 x 23cm) - Brown",
         "followingAuctionCode": "0019938454"
+      },
+      {
+        "start": 1793955936492,
+        "end": 1793956165885,
+        "durationMin": 3.8,
+        "precedingSku": "221342374",
+        "precedingTitle": "Laurelle London 3 Piece Hanging Tree EDP Fragrance Ornament Bundle (Bronze, Black & Purple)",
+        "precedingAuctionCode": "0019938962",
+        "followingSku": "8686632",
+        "followingTitle": "La Marey Ladies Soft Plush Faux Fur Neck Warmer Collar Scarf - Grey",
+        "followingAuctionCode": "0019938444"
       }
     ],
-    "lastOnAirSku": "221342374",
-    "lastOnAirTitle": "Laurelle London 3 Piece Hanging Tree EDP Fragrance Ornament Bundle (Bronze, Black & Purple)",
-    "lastOnAirAuctionCode": "0019938962",
+    "lastOnAirSku": "8686632",
+    "lastOnAirTitle": "La Marey Ladies Soft Plush Faux Fur Neck Warmer Collar Scarf - Grey",
+    "lastOnAirAuctionCode": "0019938444",
     "precedingSku": "221342374",
     "precedingTitle": "Laurelle London 3 Piece Hanging Tree EDP Fragrance Ornament Bundle (Bronze, Black & Purple)",
     "precedingAuctionCode": "0019938962"
