@@ -519914,11 +519914,29 @@
       "auctionCode": "0019938873",
       "source": "gha",
       "productUrl": null
+    },
+    "8718261": {
+      "sku": "8718261",
+      "firstAir": 1793950106865,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793950106865,
+      "title": "LA MAREY Floral Enamel 4 Piece Hair Accessories Set (Hairpin, Clips & Elastic Rope) - Light Blue",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019938283",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "07:28:26",
+      "productUrl": null,
+      "lastUpdated": 1793950106865,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793949986990,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597347,11 +597365,22 @@
         "followingSku": "8735538",
         "followingTitle": "Teddy Faux Fur Striped Vanity Cosmetic Pouch - Red Beige & Black",
         "followingAuctionCode": "0019937840"
+      },
+      {
+        "start": 1793949986990,
+        "end": 1793950106865,
+        "durationMin": 2.0,
+        "precedingSku": "8745886",
+        "precedingTitle": "Solar Rechargeable LED Lantern Lamp - 6 Red and White Light Modes (1200mAh) - Orange",
+        "precedingAuctionCode": "0019938419",
+        "followingSku": "8718261",
+        "followingTitle": "LA MAREY Floral Enamel 4 Piece Hair Accessories Set (Hairpin, Clips & Elastic Rope) - Light Blue",
+        "followingAuctionCode": "0019938283"
       }
     ],
-    "lastOnAirSku": "8745886",
-    "lastOnAirTitle": "Solar Rechargeable LED Lantern Lamp - 6 Red and White Light Modes (1200mAh) - Orange",
-    "lastOnAirAuctionCode": "0019938419",
+    "lastOnAirSku": "8718261",
+    "lastOnAirTitle": "LA MAREY Floral Enamel 4 Piece Hair Accessories Set (Hairpin, Clips & Elastic Rope) - Light Blue",
+    "lastOnAirAuctionCode": "0019938283",
     "precedingSku": "8745886",
     "precedingTitle": "Solar Rechargeable LED Lantern Lamp - 6 Red and White Light Modes (1200mAh) - Orange",
     "precedingAuctionCode": "0019938419"
