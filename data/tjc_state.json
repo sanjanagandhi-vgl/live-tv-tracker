@@ -520020,13 +520020,51 @@
       "date": "2026-11-06",
       "time": "07:48:26",
       "productUrl": null,
-      "lastUpdated": 1793951306928,
-      "source": "gha"
+      "lastUpdated": 1793951361343,
+      "source": "gha",
+      "missedAt": 1793951361343,
+      "missedDelay": 1,
+      "missedPrice": 5.99,
+      "missedImg": true
+    },
+    "8741841": {
+      "sku": "8741841",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "07:49:21",
+      "preExisting": true,
+      "missedAt": 1793951361343,
+      "missedDelay": null,
+      "lastUpdated": 1793951361343,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
+      "auctionCode": "0019938952",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8741799": {
+      "sku": "8741799",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "07:49:21",
+      "preExisting": true,
+      "missedAt": 1793951361343,
+      "missedDelay": null,
+      "lastUpdated": 1793951361343,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Yellow",
+      "auctionCode": "0019938951",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793951361343,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597482,8 +597520,8 @@
     "lastOnAirSku": "8741797",
     "lastOnAirTitle": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
     "lastOnAirAuctionCode": "0019938950",
-    "precedingSku": "8718261",
-    "precedingTitle": "LA MAREY Floral Enamel 4 Piece Hair Accessories Set (Hairpin, Clips & Elastic Rope) - Light Blue",
-    "precedingAuctionCode": "0019938283"
+    "precedingSku": "8741797",
+    "precedingTitle": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
+    "precedingAuctionCode": "0019938950"
   }
 }
