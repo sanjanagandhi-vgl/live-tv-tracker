@@ -520138,11 +520138,29 @@
       "auctionCode": "0019937966",
       "source": "gha",
       "productUrl": null
+    },
+    "4539496": {
+      "sku": "4539496",
+      "firstAir": 1793953585403,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793953585403,
+      "title": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
+      "pdpPrice": "299.99",
+      "auctionCode": "0019938492",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "08:26:25",
+      "productUrl": null,
+      "lastUpdated": 1793953585403,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793953536827,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597626,11 +597644,22 @@
         "followingSku": "8818162",
         "followingTitle": "Safari Wild Animals 100 Piece Jigsaw Puzzle for Kids - Jungle",
         "followingAuctionCode": "0019938420"
+      },
+      {
+        "start": 1793953536827,
+        "end": 1793953585403,
+        "durationMin": 0.8,
+        "precedingSku": "8818162",
+        "precedingTitle": "Safari Wild Animals 100 Piece Jigsaw Puzzle for Kids - Jungle",
+        "precedingAuctionCode": "0019938420",
+        "followingSku": "4539496",
+        "followingTitle": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
+        "followingAuctionCode": "0019938492"
       }
     ],
-    "lastOnAirSku": "8818162",
-    "lastOnAirTitle": "Safari Wild Animals 100 Piece Jigsaw Puzzle for Kids - Jungle",
-    "lastOnAirAuctionCode": "0019938420",
+    "lastOnAirSku": "4539496",
+    "lastOnAirTitle": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
+    "lastOnAirAuctionCode": "0019938492",
     "precedingSku": "8818162",
     "precedingTitle": "Safari Wild Animals 100 Piece Jigsaw Puzzle for Kids - Jungle",
     "precedingAuctionCode": "0019938420"
