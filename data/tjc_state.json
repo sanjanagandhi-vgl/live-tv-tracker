@@ -521225,11 +521225,29 @@
       "auctionCode": "0019938639",
       "source": "gha",
       "productUrl": null
+    },
+    "8759236": {
+      "sku": "8759236",
+      "firstAir": 1793992466572,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793992466572,
+      "title": "Red & White Striped Christmas Bauble 2 Wick Candle (11x11 cm) - Approx Burn Time - 100 Hours",
+      "pdpPrice": "119.99",
+      "auctionCode": "0019936621",
+      "buy": true,
+      "login": false,
+      "img": false,
+      "date": "2026-11-06",
+      "time": "19:14:26",
+      "productUrl": null,
+      "lastUpdated": 1793992466572,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793992250269,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -599065,11 +599083,22 @@
         "followingSku": "8770535",
         "followingTitle": "Christmas Special -  Crystal & Enamel  Charm Bracelet (Size - 7.5-1 Ext)",
         "followingAuctionCode": "0019937818"
+      },
+      {
+        "start": 1793992250269,
+        "end": 1793992466572,
+        "durationMin": 3.6,
+        "precedingSku": "8770535",
+        "precedingTitle": "Christmas Special -  Crystal & Enamel  Charm Bracelet (Size - 7.5-1 Ext)",
+        "precedingAuctionCode": "0019937818",
+        "followingSku": "8759236",
+        "followingTitle": "Red & White Striped Christmas Bauble 2 Wick Candle (11x11 cm) - Approx Burn Time - 100 Hours",
+        "followingAuctionCode": "0019936621"
       }
     ],
-    "lastOnAirSku": "8770535",
-    "lastOnAirTitle": "Christmas Special -  Crystal & Enamel  Charm Bracelet (Size - 7.5-1 Ext)",
-    "lastOnAirAuctionCode": "0019937818",
+    "lastOnAirSku": "8759236",
+    "lastOnAirTitle": "Red & White Striped Christmas Bauble 2 Wick Candle (11x11 cm) - Approx Burn Time - 100 Hours",
+    "lastOnAirAuctionCode": "0019936621",
     "precedingSku": "8770535",
     "precedingTitle": "Christmas Special -  Crystal & Enamel  Charm Bracelet (Size - 7.5-1 Ext)",
     "precedingAuctionCode": "0019937818"
