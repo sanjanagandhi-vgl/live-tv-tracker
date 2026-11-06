@@ -244976,23 +244976,23 @@
       "sku": "8339964",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-25",
-      "time": "22:09:21",
+      "date": "2026-11-06",
+      "time": "04:33:22",
       "preExisting": true,
       "missedAt": 1787737840210,
       "missedDelay": null,
-      "lastUpdated": 1790370561339,
+      "lastUpdated": 1793939602591,
       "missedPrice": 3.99,
       "missedImg": true,
       "title": "Dragon Guard Bangle (Adjustable)",
-      "auctionCode": "0019884007",
+      "auctionCode": "0019938173",
       "source": "gha",
       "productUrl": "/products/adjustable-pixiu-bangle-size-7-to-7-5",
       "productUrlChecked": 1787737843987,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1790370561339,
-      "pdpPrice": "3.99",
+      "lastAir": 1793939602591,
+      "pdpPrice": "49.99",
       "buy": true,
       "login": false,
       "img": true
@@ -519759,8 +519759,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793939548271,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597079,11 +597079,22 @@
         "followingSku": "8713469",
         "followingTitle": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
         "followingAuctionCode": "0019938140"
+      },
+      {
+        "start": 1793939548271,
+        "end": 1793939602591,
+        "durationMin": 0.9,
+        "precedingSku": "8713469",
+        "precedingTitle": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
+        "precedingAuctionCode": "0019938140",
+        "followingSku": "8339964",
+        "followingTitle": "Dragon Guard Bangle (Adjustable)",
+        "followingAuctionCode": "0019938173"
       }
     ],
-    "lastOnAirSku": "8713469",
-    "lastOnAirTitle": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
-    "lastOnAirAuctionCode": "0019938140",
+    "lastOnAirSku": "8339964",
+    "lastOnAirTitle": "Dragon Guard Bangle (Adjustable)",
+    "lastOnAirAuctionCode": "0019938173",
     "precedingSku": "8713469",
     "precedingTitle": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
     "precedingAuctionCode": "0019938140"
