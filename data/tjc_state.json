@@ -521263,11 +521263,15 @@
       "date": "2026-11-06",
       "time": "19:36:29",
       "productUrl": "/products/candle-size-one-size-multi-color-8754550?variant=54005518663946",
-      "lastUpdated": 1793993789332,
+      "lastUpdated": 1793993843765,
       "source": "gha",
       "productUrlChecked": 1793993791546,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1793993843765,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
     },
     "8759289": {
       "sku": "8759289",
@@ -521285,11 +521289,45 @@
       "auctionCode": "0019939742",
       "source": "gha",
       "productUrl": null
+    },
+    "8754562": {
+      "sku": "8754562",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "19:37:23",
+      "preExisting": true,
+      "missedAt": 1793993843765,
+      "missedDelay": null,
+      "lastUpdated": 1793993843765,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Lavender Scented Candle With Jar - Approx 48 Hour Burn Time  (11x4x4 cm)",
+      "auctionCode": "0019939744",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8754551": {
+      "sku": "8754551",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "19:37:23",
+      "preExisting": true,
+      "missedAt": 1793993843765,
+      "missedDelay": null,
+      "lastUpdated": 1793993843765,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Rose Scented Candle With Jar - Approx 48 Hour Burn Time  (11x4x4 cm)",
+      "auctionCode": "0019939743",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793993843765,
     "gaps": [
       {
         "start": 1785823527869,
@@ -599152,8 +599190,8 @@
     "lastOnAirSku": "8754550",
     "lastOnAirTitle": "Rose Scented Candle With Jar - Approx 48 Hour Burn Time (11x4x4 cm)",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8759236",
-    "precedingTitle": "Red & White Striped Christmas Bauble 2 Wick Candle (11x11 cm) - Approx Burn Time - 100 Hours",
-    "precedingAuctionCode": "0019936621"
+    "precedingSku": "8754550",
+    "precedingTitle": "Rose Scented Candle With Jar - Approx 48 Hour Burn Time (11x4x4 cm)",
+    "precedingAuctionCode": null
   }
 }
