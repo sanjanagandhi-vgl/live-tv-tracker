@@ -521323,11 +521323,29 @@
       "auctionCode": "0019939743",
       "source": "gha",
       "productUrl": null
+    },
+    "8678259": {
+      "sku": "8678259",
+      "firstAir": 1793994148604,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793994148604,
+      "title": "LIVMORE LED Picture (30x40CM) - Christmas Tree",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019939874",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "19:42:28",
+      "productUrl": null,
+      "lastUpdated": 1793994148604,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793993843765,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -599185,11 +599203,22 @@
         "followingSku": "8754550",
         "followingTitle": "Rose Scented Candle With Jar - Approx 48 Hour Burn Time  (11x4x4 cm)",
         "followingAuctionCode": "0019936624"
+      },
+      {
+        "start": 1793993843765,
+        "end": 1793994148604,
+        "durationMin": 5.1,
+        "precedingSku": "8754550",
+        "precedingTitle": "Rose Scented Candle With Jar - Approx 48 Hour Burn Time (11x4x4 cm)",
+        "precedingAuctionCode": null,
+        "followingSku": "8678259",
+        "followingTitle": "LIVMORE LED Picture (30x40CM) - Christmas Tree",
+        "followingAuctionCode": "0019939874"
       }
     ],
-    "lastOnAirSku": "8754550",
-    "lastOnAirTitle": "Rose Scented Candle With Jar - Approx 48 Hour Burn Time (11x4x4 cm)",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8678259",
+    "lastOnAirTitle": "LIVMORE LED Picture (30x40CM) - Christmas Tree",
+    "lastOnAirAuctionCode": "0019939874",
     "precedingSku": "8754550",
     "precedingTitle": "Rose Scented Candle With Jar - Approx 48 Hour Burn Time (11x4x4 cm)",
     "precedingAuctionCode": null
