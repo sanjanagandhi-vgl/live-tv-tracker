@@ -3633,23 +3633,23 @@
       "sku": "4505144",
       "tvPrice": "",
       "remarks": "",
-      "time": "04:48:20",
+      "time": "01:05:35",
       "preExisting": true,
       "missedAt": 1784874647956,
       "missedDelay": null,
       "missedPrice": 7.99,
       "missedImg": true,
       "title": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
-      "auctionCode": "0019907636",
+      "auctionCode": "0019938288",
       "source": "gha",
-      "lastAir": 1791949700475,
+      "lastAir": 1793927135814,
       "pdpPrice": "7.99",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-14",
+      "date": "2026-11-06",
       "productUrl": null,
-      "lastUpdated": 1791949700475
+      "lastUpdated": 1793927135814
     },
     "8666394": {
       "sku": "8666394",
@@ -519716,8 +519716,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793927066988,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596871,11 +596871,22 @@
         "followingSku": "8776484",
         "followingTitle": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
         "followingAuctionCode": "0019938539"
+      },
+      {
+        "start": 1793927066988,
+        "end": 1793927135814,
+        "durationMin": 1.1,
+        "precedingSku": "8776484",
+        "precedingTitle": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
+        "precedingAuctionCode": null,
+        "followingSku": "4505144",
+        "followingTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
+        "followingAuctionCode": "0019938288"
       }
     ],
-    "lastOnAirSku": "8776484",
-    "lastOnAirTitle": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "4505144",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Leaf Vine Drop Pendant with Chain (Size 20)",
+    "lastOnAirAuctionCode": "0019938288",
     "precedingSku": "8776484",
     "precedingTitle": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
     "precedingAuctionCode": null
