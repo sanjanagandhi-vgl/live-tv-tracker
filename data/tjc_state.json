@@ -455777,21 +455777,26 @@
       "sku": "8592148",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-13",
-      "time": "18:32:25",
+      "date": "2026-11-06",
+      "time": "08:39:22",
       "preExisting": true,
       "missedAt": 1791912745010,
       "missedDelay": null,
-      "lastUpdated": 1791912745010,
+      "lastUpdated": 1793954362539,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Peacock",
-      "auctionCode": "0019908075",
+      "title": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
+      "auctionCode": "0019938418",
       "source": "gha",
       "productUrl": "/products/bliss-beyond-embossed-jewellery-organiser-size-20x20x5-cm-silver-golden-8592138",
       "productUrlChecked": 1791912748408,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793954362539,
+      "pdpPrice": "134.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8719613": {
       "sku": "8719613",
@@ -520214,8 +520219,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793954306785,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597710,11 +597715,22 @@
         "followingSku": "4539496",
         "followingTitle": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
         "followingAuctionCode": "0019938492"
+      },
+      {
+        "start": 1793954306785,
+        "end": 1793954362539,
+        "durationMin": 0.9,
+        "precedingSku": "4539496",
+        "precedingTitle": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
+        "precedingAuctionCode": "0019938492",
+        "followingSku": "8592148",
+        "followingTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
+        "followingAuctionCode": "0019938418"
       }
     ],
-    "lastOnAirSku": "4539496",
-    "lastOnAirTitle": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
-    "lastOnAirAuctionCode": "0019938492",
+    "lastOnAirSku": "8592148",
+    "lastOnAirTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
+    "lastOnAirAuctionCode": "0019938418",
     "precedingSku": "4539496",
     "precedingTitle": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
     "precedingAuctionCode": "0019938492"
