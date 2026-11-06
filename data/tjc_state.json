@@ -336484,17 +336484,17 @@
       "firstAir": 1789129104596,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792630039834,
+      "lastAir": 1793940043980,
       "title": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
-      "pdpPrice": 9.99,
-      "auctionCode": null,
+      "pdpPrice": "39.99",
+      "auctionCode": "0019938143",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-22",
-      "time": "01:47:19",
+      "date": "2026-11-06",
+      "time": "04:40:43",
       "productUrl": "/products/2-piece-set-fancy-necklace-and-fancy-earring-pure-yellow-brass-4522489?variant=53676978110730",
-      "lastUpdated": 1792630039834,
+      "lastUpdated": 1793940043980,
       "source": "gha",
       "missedAt": 1789129770400,
       "missedDelay": 10,
@@ -519759,8 +519759,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793939841526,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597090,11 +597090,22 @@
         "followingSku": "8339964",
         "followingTitle": "Dragon Guard Bangle (Adjustable)",
         "followingAuctionCode": "0019938173"
+      },
+      {
+        "start": 1793939841526,
+        "end": 1793940043980,
+        "durationMin": 3.4,
+        "precedingSku": "8339964",
+        "precedingTitle": "Dragon Guard Bangle (Adjustable)",
+        "precedingAuctionCode": "0019938173",
+        "followingSku": "4522489",
+        "followingTitle": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
+        "followingAuctionCode": "0019938143"
       }
     ],
-    "lastOnAirSku": "8339964",
-    "lastOnAirTitle": "Dragon Guard Bangle (Adjustable)",
-    "lastOnAirAuctionCode": "0019938173",
+    "lastOnAirSku": "4522489",
+    "lastOnAirTitle": "Close Out Deal- Designer Inspired Set of 2 - Earring with Hoop & Pendant with Chain (Size - 18)",
+    "lastOnAirAuctionCode": "0019938143",
     "precedingSku": "8339964",
     "precedingTitle": "Dragon Guard Bangle (Adjustable)",
     "precedingAuctionCode": "0019938173"
