@@ -521592,11 +521592,29 @@
       "auctionCode": "0019940286",
       "source": "gha",
       "productUrl": null
+    },
+    "8609385": {
+      "sku": "8609385",
+      "firstAir": 1793997072680,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793997072680,
+      "title": "Set of 2 - 24K Gold (99.9% Purity) Black Pens with Refils & Gift Box",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019938795",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "20:31:12",
+      "productUrl": null,
+      "lastUpdated": 1793997072680,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793996964011,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -599487,11 +599505,22 @@
         "followingSku": "8631123",
         "followingTitle": "LIVMORE Decorative Aroma Diffuser Humidifier Set with 7 Essential Oils (130ml Capacity) - Pink",
         "followingAuctionCode": "0019938827"
+      },
+      {
+        "start": 1793996964011,
+        "end": 1793997072680,
+        "durationMin": 1.8,
+        "precedingSku": "8631123",
+        "precedingTitle": "LIVMORE Decorative Aroma Diffuser Humidifier Set with 7 Essential Oils (130ml Capacity) - Pink",
+        "precedingAuctionCode": null,
+        "followingSku": "8609385",
+        "followingTitle": "Set of 2 - 24K Gold (99.9% Purity) Black Pens with Refils & Gift Box",
+        "followingAuctionCode": "0019938795"
       }
     ],
-    "lastOnAirSku": "8631123",
-    "lastOnAirTitle": "LIVMORE Decorative Aroma Diffuser Humidifier Set with 7 Essential Oils (130ml Capacity) - Pink",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8609385",
+    "lastOnAirTitle": "Set of 2 - 24K Gold (99.9% Purity) Black Pens with Refils & Gift Box",
+    "lastOnAirAuctionCode": "0019938795",
     "precedingSku": "8631123",
     "precedingTitle": "LIVMORE Decorative Aroma Diffuser Humidifier Set with 7 Essential Oils (130ml Capacity) - Pink",
     "precedingAuctionCode": null
