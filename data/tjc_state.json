@@ -520216,11 +520216,29 @@
       "auctionCode": "0019938493",
       "source": "gha",
       "productUrl": null
+    },
+    "8632879": {
+      "sku": "8632879",
+      "firstAir": 1793954788058,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793954788058,
+      "title": "Flocked Christmas Standing Reindeer Tabletop Figurine (15 x 23cm) - Brown",
+      "pdpPrice": "79.99",
+      "auctionCode": "0019938454",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "08:46:28",
+      "productUrl": null,
+      "lastUpdated": 1793954788058,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793954744541,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597726,11 +597744,22 @@
         "followingSku": "8592148",
         "followingTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
         "followingAuctionCode": "0019938418"
+      },
+      {
+        "start": 1793954744541,
+        "end": 1793954788058,
+        "durationMin": 0.7,
+        "precedingSku": "8592148",
+        "precedingTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
+        "precedingAuctionCode": "0019938418",
+        "followingSku": "8632879",
+        "followingTitle": "Flocked Christmas Standing Reindeer Tabletop Figurine (15 x 23cm) - Brown",
+        "followingAuctionCode": "0019938454"
       }
     ],
-    "lastOnAirSku": "8592148",
-    "lastOnAirTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
-    "lastOnAirAuctionCode": "0019938418",
+    "lastOnAirSku": "8632879",
+    "lastOnAirTitle": "Flocked Christmas Standing Reindeer Tabletop Figurine (15 x 23cm) - Brown",
+    "lastOnAirAuctionCode": "0019938454",
     "precedingSku": "8592148",
     "precedingTitle": "Embossed Jewellery Keepsake Ring Box (20 x 20 x 5cm) - Butterfly",
     "precedingAuctionCode": "0019938418"
