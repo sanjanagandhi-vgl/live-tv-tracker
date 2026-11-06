@@ -215505,21 +215505,26 @@
       "sku": "8625544",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-21",
-      "time": "19:48:23",
+      "date": "2026-11-06",
+      "time": "11:07:23",
       "preExisting": true,
       "missedAt": 1787338103225,
       "missedDelay": null,
-      "lastUpdated": 1787338103225,
+      "lastUpdated": 1793963243145,
       "missedPrice": 12.99,
       "missedImg": true,
-      "title": "Blue Howlite Gemstone Bonsai Tree with Maneki-Neko Lucky Cat 100.00 Ct.",
-      "auctionCode": "0019834780",
+      "title": "African Amethyst Gemstone Bonsai Tree with Maneki-Neko Lucky Cat 100.00 Ct.",
+      "auctionCode": "0019937921",
       "source": "gha",
       "productUrl": "/products/african-amethyst-accessories-pure-rose-brass-100-000-ct-8625529",
       "productUrlChecked": 1787338108642,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793963243145,
+      "pdpPrice": "29.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8324453": {
       "sku": "8324453",
@@ -520475,8 +520480,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793963136588,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -598092,11 +598097,22 @@
         "followingSku": "8556615",
         "followingTitle": "9K Yellow Gold Ball Stud Earrings",
         "followingAuctionCode": "0019938925"
+      },
+      {
+        "start": 1793963136588,
+        "end": 1793963243145,
+        "durationMin": 1.8,
+        "precedingSku": "8480204",
+        "precedingTitle": "EverTrue White Diamond Heart Link Bracelet - Yellow (Size - 7.5)",
+        "precedingAuctionCode": "0019938929",
+        "followingSku": "8625544",
+        "followingTitle": "African Amethyst Gemstone Bonsai Tree with Maneki-Neko Lucky Cat 100.00 Ct.",
+        "followingAuctionCode": "0019937921"
       }
     ],
-    "lastOnAirSku": "8480204",
-    "lastOnAirTitle": "EverTrue White Diamond Heart Link Bracelet - Yellow (Size - 7.5)",
-    "lastOnAirAuctionCode": "0019938929",
+    "lastOnAirSku": "8625544",
+    "lastOnAirTitle": "African Amethyst Gemstone Bonsai Tree with Maneki-Neko Lucky Cat 100.00 Ct.",
+    "lastOnAirAuctionCode": "0019937921",
     "precedingSku": "8480204",
     "precedingTitle": "EverTrue White Diamond Heart Link Bracelet - Yellow (Size - 7.5)",
     "precedingAuctionCode": "0019938929"
