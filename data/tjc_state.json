@@ -440682,17 +440682,17 @@
       "firstAir": 1791540381206,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792543102259,
+      "lastAir": 1793928802691,
       "title": "EverTrue - Natural White Diamond Butterfly Pendant with Chain (Size 20) in Yellow Gold Tone",
-      "pdpPrice": 9.99,
-      "auctionCode": null,
+      "pdpPrice": "9.99",
+      "auctionCode": "0019938276",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-21",
-      "time": "01:38:22",
+      "date": "2026-11-06",
+      "time": "01:33:22",
       "productUrl": "/products/evertrue-natural-white-diamond-butterfly-pendant-with-chain-size-20-in-yellow-gold-tone-4532249?variant=53852407070986",
-      "lastUpdated": 1792543102259,
+      "lastUpdated": 1793928802691,
       "source": "gha",
       "missedAt": 1791541581289,
       "missedDelay": 10,
@@ -519716,8 +519716,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793928744948,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596915,11 +596915,22 @@
         "followingSku": "8777142",
         "followingTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
         "followingAuctionCode": "0019938551"
+      },
+      {
+        "start": 1793928744948,
+        "end": 1793928802691,
+        "durationMin": 1.0,
+        "precedingSku": "8777121",
+        "precedingTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
+        "precedingAuctionCode": "0019938552",
+        "followingSku": "4532249",
+        "followingTitle": "EverTrue - Natural White Diamond Butterfly Pendant with Chain (Size 20) in Yellow Gold Tone",
+        "followingAuctionCode": "0019938276"
       }
     ],
-    "lastOnAirSku": "8777121",
-    "lastOnAirTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
-    "lastOnAirAuctionCode": "0019938552",
+    "lastOnAirSku": "4532249",
+    "lastOnAirTitle": "EverTrue - Natural White Diamond Butterfly Pendant with Chain (Size 20) in Yellow Gold Tone",
+    "lastOnAirAuctionCode": "0019938276",
     "precedingSku": "8777121",
     "precedingTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
     "precedingAuctionCode": "0019938552"
