@@ -520154,13 +520154,68 @@
       "date": "2026-11-06",
       "time": "08:37:22",
       "productUrl": null,
-      "lastUpdated": 1793954242947,
-      "source": "gha"
+      "lastUpdated": 1793954306785,
+      "source": "gha",
+      "missedAt": 1793954306785,
+      "missedDelay": 1,
+      "missedPrice": 9.99,
+      "missedImg": true
+    },
+    "4539504": {
+      "sku": "4539504",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "08:38:26",
+      "preExisting": true,
+      "missedAt": 1793954306785,
+      "missedDelay": null,
+      "lastUpdated": 1793954306785,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Green Howlite & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
+      "auctionCode": "0019938495",
+      "source": "gha",
+      "productUrl": null
+    },
+    "4539503": {
+      "sku": "4539503",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "08:38:26",
+      "preExisting": true,
+      "missedAt": 1793954306785,
+      "missedDelay": null,
+      "lastUpdated": 1793954306785,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
+      "auctionCode": "0019938494",
+      "source": "gha",
+      "productUrl": null
+    },
+    "4539500": {
+      "sku": "4539500",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "08:38:26",
+      "preExisting": true,
+      "missedAt": 1793954306785,
+      "missedDelay": null,
+      "lastUpdated": 1793954306785,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "African Amethyst & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
+      "auctionCode": "0019938493",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793954306785,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597660,8 +597715,8 @@
     "lastOnAirSku": "4539496",
     "lastOnAirTitle": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
     "lastOnAirAuctionCode": "0019938492",
-    "precedingSku": "8818162",
-    "precedingTitle": "Safari Wild Animals 100 Piece Jigsaw Puzzle for Kids - Jungle",
-    "precedingAuctionCode": "0019938420"
+    "precedingSku": "4539496",
+    "precedingTitle": "Rose Quartz & Glass Heart Pendant with Chain (Size 20-2 Ext) & Mirror Set 130.00 Ct.",
+    "precedingAuctionCode": "0019938492"
   }
 }
