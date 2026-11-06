@@ -504009,21 +504009,26 @@
       "sku": "8789108",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-30",
-      "time": "19:12:26",
+      "date": "2026-11-06",
+      "time": "11:36:27",
       "preExisting": true,
       "missedAt": 1793387546587,
       "missedDelay": null,
-      "lastUpdated": 1793387546587,
+      "lastUpdated": 1793964987315,
       "missedPrice": 5.99,
       "missedImg": true,
       "title": "NY Closeout Deal - Star Light Collection - White Austrian Crystal Hoop Earrings with Clasp - Yellow",
-      "auctionCode": "0019931316",
+      "auctionCode": "0019938892",
       "source": "gha",
       "productUrl": "/products/white-crystal-fancy-earring-pure-white-brass-0-010-ct-8789079",
       "productUrlChecked": 1793387550422,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793964987315,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8789067": {
       "sku": "8789067",
@@ -520480,8 +520485,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793964934877,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -598119,11 +598124,22 @@
         "followingSku": "8723844",
         "followingTitle": "White Keshi Pearl Solitaire Earring with Push Back",
         "followingAuctionCode": "0019937913"
+      },
+      {
+        "start": 1793964934877,
+        "end": 1793964987315,
+        "durationMin": 0.9,
+        "precedingSku": "8795581",
+        "precedingTitle": "High Luster Peach Fresh Water Pearl Necklace (Size - 18-2 Ext)",
+        "precedingAuctionCode": "0019937934",
+        "followingSku": "8789108",
+        "followingTitle": "NY Closeout Deal - Star Light Collection - White Austrian Crystal Hoop Earrings with Clasp - Yellow",
+        "followingAuctionCode": "0019938892"
       }
     ],
-    "lastOnAirSku": "8795581",
-    "lastOnAirTitle": "High Luster Peach Fresh Water Pearl Necklace (Size - 18-2 Ext)",
-    "lastOnAirAuctionCode": "0019937934",
+    "lastOnAirSku": "8789108",
+    "lastOnAirTitle": "NY Closeout Deal - Star Light Collection - White Austrian Crystal Hoop Earrings with Clasp - Yellow",
+    "lastOnAirAuctionCode": "0019938892",
     "precedingSku": "8795581",
     "precedingTitle": "High Luster Peach Fresh Water Pearl Necklace (Size - 18-2 Ext)",
     "precedingAuctionCode": "0019937934"
