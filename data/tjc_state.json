@@ -302629,17 +302629,17 @@
       "firstAir": 1788491903621,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1789134442201,
-      "title": "3 Piece Set- Mark Hill Hey Curls Shampoo (250ml), Conditioner (250ml) & Curl Jelly (200ml)",
-      "pdpPrice": "4.99",
-      "auctionCode": "0019865541",
+      "lastAir": 1793945137585,
+      "title": "3 Piece Set: Mark Hill Hey Curls Shampoo (250ml), Conditioner (250ml) & Curl Jelly (200ml)",
+      "pdpPrice": "17.99",
+      "auctionCode": "0019937834",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-09-11",
-      "time": "14:47:22",
+      "date": "2026-11-06",
+      "time": "06:05:37",
       "productUrl": "/products/3-piece-set-mark-hill-hey-curls-shampoo-250ml-conditioner-250ml-curl-jelly-200ml-8566304",
-      "lastUpdated": 1789134442201,
+      "lastUpdated": 1793945137585,
       "source": "gha",
       "missedAt": 1788492651449,
       "missedDelay": 9,
@@ -519912,8 +519912,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793944535483,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597276,11 +597276,22 @@
         "followingSku": "8777142",
         "followingTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
         "followingAuctionCode": "0019938865"
+      },
+      {
+        "start": 1793944535483,
+        "end": 1793945137585,
+        "durationMin": 10.0,
+        "precedingSku": "8777142",
+        "precedingTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
+        "precedingAuctionCode": "0019938865",
+        "followingSku": "8566304",
+        "followingTitle": "3 Piece Set: Mark Hill Hey Curls Shampoo (250ml), Conditioner (250ml) & Curl Jelly (200ml)",
+        "followingAuctionCode": "0019937834"
       }
     ],
-    "lastOnAirSku": "8777142",
-    "lastOnAirTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
-    "lastOnAirAuctionCode": "0019938865",
+    "lastOnAirSku": "8566304",
+    "lastOnAirTitle": "3 Piece Set: Mark Hill Hey Curls Shampoo (250ml), Conditioner (250ml) & Curl Jelly (200ml)",
+    "lastOnAirAuctionCode": "0019937834",
     "precedingSku": "8777142",
     "precedingTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
     "precedingAuctionCode": "0019938865"
