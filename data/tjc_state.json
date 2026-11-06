@@ -363790,23 +363790,23 @@
       "sku": "4464157",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-05",
-      "time": "10:05:37",
+      "date": "2026-11-06",
+      "time": "07:50:43",
       "preExisting": true,
       "missedAt": 1789734863646,
       "missedDelay": null,
-      "lastUpdated": 1793873137299,
+      "lastUpdated": 1793951443118,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
-      "auctionCode": "0019938012",
+      "auctionCode": "0019938858",
       "source": "gha",
       "productUrl": "/products/magnetic-lock-in-rhodium-overlay-pure-white-stainless-steel-4464147",
       "productUrlChecked": 1789734868048,
       "productUrlStatus": 200,
       "productUrl404": false,
-      "lastAir": 1793873137299,
-      "pdpPrice": "9.99",
+      "lastAir": 1793951443118,
+      "pdpPrice": "199.99",
       "buy": true,
       "login": false,
       "img": true
@@ -520063,8 +520063,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793951361343,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597515,11 +597515,22 @@
         "followingSku": "8741797",
         "followingTitle": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
         "followingAuctionCode": "0019938950"
+      },
+      {
+        "start": 1793951361343,
+        "end": 1793951443118,
+        "durationMin": 1.4,
+        "precedingSku": "8741797",
+        "precedingTitle": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
+        "precedingAuctionCode": "0019938950",
+        "followingSku": "4464157",
+        "followingTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+        "followingAuctionCode": "0019938858"
       }
     ],
-    "lastOnAirSku": "8741797",
-    "lastOnAirTitle": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
-    "lastOnAirAuctionCode": "0019938950",
+    "lastOnAirSku": "4464157",
+    "lastOnAirTitle": "Set of 2 - Magnetic Lock with Lobster Clasp and Extra Safety Catch in Two Tone Plating",
+    "lastOnAirAuctionCode": "0019938858",
     "precedingSku": "8741797",
     "precedingTitle": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
     "precedingAuctionCode": "0019938950"
