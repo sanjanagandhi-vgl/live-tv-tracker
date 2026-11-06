@@ -392751,17 +392751,17 @@
       "firstAir": 1790325501705,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1790357543443,
+      "lastAir": 1793931644458,
       "title": "Laurelle Gent Skin Cleansing Hand and Face Lotion with Almond Oil & Panthenol - 100ml",
-      "pdpPrice": "3.99",
-      "auctionCode": "0019884876",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019938066",
       "buy": true,
       "login": false,
-      "img": false,
-      "date": "2026-09-25",
-      "time": "18:32:23",
+      "img": true,
+      "date": "2026-11-06",
+      "time": "02:20:44",
       "productUrl": null,
-      "lastUpdated": 1790357543443,
+      "lastUpdated": 1793931644458,
       "source": "gha",
       "missedAt": 1790326235712,
       "missedDelay": 0,
@@ -519716,8 +519716,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793931562639,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596970,11 +596970,22 @@
         "followingSku": "3492618",
         "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
         "followingAuctionCode": "0019938075"
+      },
+      {
+        "start": 1793931562639,
+        "end": 1793931644458,
+        "durationMin": 1.4,
+        "precedingSku": "3492618",
+        "precedingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+        "precedingAuctionCode": "0019938075",
+        "followingSku": "8791320",
+        "followingTitle": "Laurelle Gent Skin Cleansing Hand and Face Lotion with Almond Oil & Panthenol - 100ml",
+        "followingAuctionCode": "0019938066"
       }
     ],
-    "lastOnAirSku": "3492618",
-    "lastOnAirTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
-    "lastOnAirAuctionCode": "0019938075",
+    "lastOnAirSku": "8791320",
+    "lastOnAirTitle": "Laurelle Gent Skin Cleansing Hand and Face Lotion with Almond Oil & Panthenol - 100ml",
+    "lastOnAirAuctionCode": "0019938066",
     "precedingSku": "3492618",
     "precedingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
     "precedingAuctionCode": "0019938075"
