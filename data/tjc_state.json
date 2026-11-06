@@ -520294,11 +520294,29 @@
       "missedDelay": 1,
       "missedPrice": 7.99,
       "missedImg": true
+    },
+    "8744707": {
+      "sku": "8744707",
+      "firstAir": 1793958866703,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793958866703,
+      "title": "Mega Close Out Deal-  Hoop Earring with Clasp",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019938885",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "09:54:26",
+      "productUrl": null,
+      "lastUpdated": 1793958866703,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793958802848,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597837,11 +597855,22 @@
         "followingSku": "8841314",
         "followingTitle": "Closeout Deal Men's 6 Pair Multi Colour Dot Print Socks Set of 2 (UK 6-11)",
         "followingAuctionCode": "0019938615"
+      },
+      {
+        "start": 1793958802848,
+        "end": 1793958866703,
+        "durationMin": 1.1,
+        "precedingSku": "8841314",
+        "precedingTitle": "Closeout Deal Men's 6 Pair Multi Colour Dot Print Socks Set of 2 (UK 6-11)",
+        "precedingAuctionCode": "0019938615",
+        "followingSku": "8744707",
+        "followingTitle": "Mega Close Out Deal-  Hoop Earring with Clasp",
+        "followingAuctionCode": "0019938885"
       }
     ],
-    "lastOnAirSku": "8841314",
-    "lastOnAirTitle": "Closeout Deal Men's 6 Pair Multi Colour Dot Print Socks Set of 2 (UK 6-11)",
-    "lastOnAirAuctionCode": "0019938615",
+    "lastOnAirSku": "8744707",
+    "lastOnAirTitle": "Mega Close Out Deal-  Hoop Earring with Clasp",
+    "lastOnAirAuctionCode": "0019938885",
     "precedingSku": "8841314",
     "precedingTitle": "Closeout Deal Men's 6 Pair Multi Colour Dot Print Socks Set of 2 (UK 6-11)",
     "precedingAuctionCode": "0019938615"
