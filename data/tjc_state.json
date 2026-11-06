@@ -519892,11 +519892,28 @@
       "auctionCode": "0019938233",
       "source": "gha",
       "productUrl": null
+    },
+    "8777151": {
+      "sku": "8777151",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "05:55:35",
+      "preExisting": true,
+      "missedAt": 1793944535483,
+      "missedDelay": null,
+      "lastUpdated": 1793944535483,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Live From Jaipur - Natural White Diamond Bubble Ring",
+      "auctionCode": "0019938873",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793944535483,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597264,8 +597281,8 @@
     "lastOnAirSku": "8777142",
     "lastOnAirTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
     "lastOnAirAuctionCode": "0019938865",
-    "precedingSku": "8306528",
-    "precedingTitle": "COLLECTOR'S EDITION - The Mineral Collection - 45 in 1 Comprehensive Set with Magnifying Glass",
-    "precedingAuctionCode": "0019938262"
+    "precedingSku": "8777142",
+    "precedingTitle": "Live From Jaipur - Natural White Diamond Bubble Ring",
+    "precedingAuctionCode": "0019938865"
   }
 }
