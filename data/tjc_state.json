@@ -519665,21 +519665,26 @@
       "sku": "8806525",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-05",
-      "time": "20:42:27",
+      "date": "2026-11-06",
+      "time": "00:26:26",
       "preExisting": true,
       "missedAt": 1793911347656,
       "missedDelay": null,
-      "lastUpdated": 1793911347656,
+      "lastUpdated": 1793924786576,
       "missedPrice": 999.99,
       "missedImg": true,
-      "title": "MONSTER DEAL - 14K Yellow Gold AAA 120-Facet Hanabi Cut Turkizite Solitaire Ring 3.05 Ct.",
-      "auctionCode": "0019937251",
+      "title": "14K Yellow Gold AAA Turkizite Solitaire Ring 3.05 Ct.",
+      "auctionCode": "0019938831",
       "source": "gha",
       "productUrl": "/products/14k-yellow-gold-aaa-turkizite-solitaire-ring-gold-wt-1-53-gms-3-058-ct-8806562",
       "productUrlChecked": 1793911351617,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793924786576,
+      "pdpPrice": "14799.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4443186": {
       "sku": "4443186",
@@ -519701,8 +519706,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793924603610,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596812,11 +596817,22 @@
         "followingSku": "8553016",
         "followingTitle": "Sterling Silver Grumetta Rada Chain (Size - 18) with Lobster Clasp",
         "followingAuctionCode": "0019938591"
+      },
+      {
+        "start": 1793924603610,
+        "end": 1793924786576,
+        "durationMin": 3.0,
+        "precedingSku": "8553016",
+        "precedingTitle": "Sterling Silver Grumetta Rada Chain (Size - 22) with Lobster Clasp",
+        "precedingAuctionCode": "0019938591",
+        "followingSku": "8806525",
+        "followingTitle": "14K Yellow Gold AAA Turkizite Solitaire Ring 3.05 Ct.",
+        "followingAuctionCode": "0019938831"
       }
     ],
-    "lastOnAirSku": "8553016",
-    "lastOnAirTitle": "Sterling Silver Grumetta Rada Chain (Size - 22) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019938591",
+    "lastOnAirSku": "8806525",
+    "lastOnAirTitle": "14K Yellow Gold AAA Turkizite Solitaire Ring 3.05 Ct.",
+    "lastOnAirAuctionCode": "0019938831",
     "precedingSku": "8553016",
     "precedingTitle": "Sterling Silver Grumetta Rada Chain (Size - 22) with Lobster Clasp",
     "precedingAuctionCode": "0019938591"
