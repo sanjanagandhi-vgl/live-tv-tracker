@@ -41370,17 +41370,17 @@
       "firstAir": 1785521958379,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1792747854342,
+      "lastAir": 1793929842356,
       "title": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp",
-      "pdpPrice": 9.99,
-      "auctionCode": null,
+      "pdpPrice": "9.99",
+      "auctionCode": "0019938331",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-23",
-      "time": "10:30:54",
+      "date": "2026-11-06",
+      "time": "01:50:42",
       "productUrl": "/products/evertrue-white-diamond-linking-bracelet-size-7-5-with-lobster-clasp?variant=53107085705482",
-      "lastUpdated": 1792747854342,
+      "lastUpdated": 1793929842356,
       "source": "gha",
       "missedAt": 1785522654833,
       "missedDelay": 10,
@@ -519716,8 +519716,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793929761143,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596926,11 +596926,22 @@
         "followingSku": "4532249",
         "followingTitle": "EverTrue - Natural White Diamond Butterfly Pendant with Chain (Size 20) in Yellow Gold Tone",
         "followingAuctionCode": "0019938276"
+      },
+      {
+        "start": 1793929761143,
+        "end": 1793929842356,
+        "durationMin": 1.4,
+        "precedingSku": "4528713",
+        "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
+        "precedingAuctionCode": "0019938347",
+        "followingSku": "8484038",
+        "followingTitle": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp",
+        "followingAuctionCode": "0019938331"
       }
     ],
-    "lastOnAirSku": "4528713",
-    "lastOnAirTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
-    "lastOnAirAuctionCode": "0019938347",
+    "lastOnAirSku": "8484038",
+    "lastOnAirTitle": "Natural White Diamond Linking Bracelet (Size - 7.5) with Lobster Clasp",
+    "lastOnAirAuctionCode": "0019938331",
     "precedingSku": "4528713",
     "precedingTitle": "Natural White Diamond Tree of Life Pendant with Chain (Size 20)",
     "precedingAuctionCode": "0019938347"
