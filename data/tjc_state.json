@@ -413501,17 +413501,17 @@
       "firstAir": 1790849841240,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791073941498,
+      "lastAir": 1793966738897,
       "title": "24K Gold (99.9% Purity) Embossed Cross Collectable",
-      "pdpPrice": "19.99",
-      "auctionCode": "0019895250",
+      "pdpPrice": "37.99",
+      "auctionCode": "0019938942",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-04",
-      "time": "01:32:21",
+      "date": "2026-11-06",
+      "time": "12:05:38",
       "productUrl": "/products/24k-yellow-gold-99-99-purity-embossed-collectable-2698285299",
-      "lastUpdated": 1791073941498,
+      "lastUpdated": 1793966738897,
       "source": "gha",
       "missedAt": 1790851160477,
       "missedDelay": 10,
@@ -520530,8 +520530,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793966604737,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -598191,11 +598191,22 @@
         "followingSku": "8777394",
         "followingTitle": "Chunky Rope Necklace (Size - 18)",
         "followingAuctionCode": "0019937914"
+      },
+      {
+        "start": 1793966604737,
+        "end": 1793966738897,
+        "durationMin": 2.2,
+        "precedingSku": "8789111",
+        "precedingTitle": "White Crystal Dangling Earring with Push Back",
+        "precedingAuctionCode": "0019938966",
+        "followingSku": "8328248",
+        "followingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+        "followingAuctionCode": "0019938942"
       }
     ],
-    "lastOnAirSku": "8789111",
-    "lastOnAirTitle": "White Crystal Dangling Earring with Push Back",
-    "lastOnAirAuctionCode": "0019938966",
+    "lastOnAirSku": "8328248",
+    "lastOnAirTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+    "lastOnAirAuctionCode": "0019938942",
     "precedingSku": "8789111",
     "precedingTitle": "White Crystal Dangling Earring with Push Back",
     "precedingAuctionCode": "0019938966"
