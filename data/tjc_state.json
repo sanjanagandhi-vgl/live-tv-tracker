@@ -395912,21 +395912,26 @@
       "sku": "8713469",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-09-26",
-      "time": "14:58:20",
+      "date": "2026-11-06",
+      "time": "04:25:33",
       "preExisting": true,
       "missedAt": 1790431100347,
       "missedDelay": null,
-      "lastUpdated": 1790431100347,
+      "lastUpdated": 1793939133763,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Brown Labradorite Dangling Earrings with Push Back in Gold Tone 5.60 Ct.",
-      "auctionCode": "0019885817",
+      "title": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
+      "auctionCode": "0019938140",
       "source": "gha",
       "productUrl": "/products/fashion-jewellery-and-accessories-size-one-size-purple-purple-8713468",
       "productUrlChecked": 1790431104643,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793939133763,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8714418": {
       "sku": "8714418",
@@ -519754,8 +519759,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793939067702,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597063,11 +597068,22 @@
         "followingSku": "8770473",
         "followingTitle": "Pink Cubic Zirconia Heart Necklace (Size - 20-2 Ext)",
         "followingAuctionCode": "0019938137"
+      },
+      {
+        "start": 1793939067702,
+        "end": 1793939133763,
+        "durationMin": 1.1,
+        "precedingSku": "8770473",
+        "precedingTitle": "Pink Cubic Zirconia Heart Necklace (Size - 20-2 Ext)",
+        "precedingAuctionCode": "0019938137",
+        "followingSku": "8713469",
+        "followingTitle": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
+        "followingAuctionCode": "0019938140"
       }
     ],
-    "lastOnAirSku": "8770473",
-    "lastOnAirTitle": "Pink Cubic Zirconia Heart Necklace (Size - 20-2 Ext)",
-    "lastOnAirAuctionCode": "0019938137",
+    "lastOnAirSku": "8713469",
+    "lastOnAirTitle": "Purple Amethyst Dangling Earrings with Push Back in Gold Tone 5.30 Ct.",
+    "lastOnAirAuctionCode": "0019938140",
     "precedingSku": "8770473",
     "precedingTitle": "Pink Cubic Zirconia Heart Necklace (Size - 20-2 Ext)",
     "precedingAuctionCode": "0019938137"
