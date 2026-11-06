@@ -518695,17 +518695,17 @@
       "firstAir": 1793877146980,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793927002839,
+      "lastAir": 1794009507262,
       "title": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
-      "pdpPrice": 19.99,
-      "auctionCode": null,
+      "pdpPrice": "19.99",
+      "auctionCode": "0019939546",
       "buy": true,
       "login": false,
       "img": true,
       "date": "2026-11-06",
-      "time": "01:03:22",
+      "time": "23:58:27",
       "productUrl": "/products/evertrue-natural-white-diamond-tennis-bracelet-size-7-5-with-gb-lock-box-8776484?variant=53994004709642",
-      "lastUpdated": 1793927002839,
+      "lastUpdated": 1794009507262,
       "source": "gha",
       "missedAt": 1793878282080,
       "missedDelay": 2,
@@ -521946,8 +521946,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794009442319,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -599948,11 +599948,22 @@
         "followingSku": "8828962",
         "followingTitle": "Graduated Creole Earring with Clasp in Rhodium Overlay Sterling Silver",
         "followingAuctionCode": "0019939405"
+      },
+      {
+        "start": 1794009442319,
+        "end": 1794009507262,
+        "durationMin": 1.1,
+        "precedingSku": "8828962",
+        "precedingTitle": "Graduated Creole Earring with Clasp in Rhodium Overlay Sterling Silver",
+        "precedingAuctionCode": "0019939405",
+        "followingSku": "8776484",
+        "followingTitle": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
+        "followingAuctionCode": "0019939546"
       }
     ],
-    "lastOnAirSku": "8828962",
-    "lastOnAirTitle": "Graduated Creole Earring with Clasp in Rhodium Overlay Sterling Silver",
-    "lastOnAirAuctionCode": "0019939405",
+    "lastOnAirSku": "8776484",
+    "lastOnAirTitle": "Live From Jaipur - Natural White Diamond Tennis Bracelet (Size - 7.5) with GB Lock Box",
+    "lastOnAirAuctionCode": "0019939546",
     "precedingSku": "8828962",
     "precedingTitle": "Graduated Creole Earring with Clasp in Rhodium Overlay Sterling Silver",
     "precedingAuctionCode": "0019939405"
