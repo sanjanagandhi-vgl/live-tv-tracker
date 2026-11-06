@@ -431195,18 +431195,23 @@
       "sku": "8798375",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-06",
-      "time": "09:38:20",
+      "date": "2026-11-06",
+      "time": "18:31:09",
       "preExisting": true,
       "missedAt": 1791275900778,
       "missedDelay": null,
-      "lastUpdated": 1791275900778,
+      "lastUpdated": 1793989869947,
       "missedPrice": 7.99,
       "missedImg": true,
-      "title": "Laurelle Epivida Dermacare Micellar Textured Skin - 400ml",
-      "auctionCode": "0019896974",
+      "title": "Epivida Dermacare 3 in 1 Skinology For Face, Eyes & Lips Micellar Water 400ml - Dull Skin",
+      "auctionCode": "0019936609",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1793989869947,
+      "pdpPrice": "7.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8798373": {
       "sku": "8798373",
@@ -521223,8 +521228,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793989706957,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -599027,11 +599032,22 @@
         "followingSku": "8244715",
         "followingTitle": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
         "followingAuctionCode": "0019940371"
+      },
+      {
+        "start": 1793989706957,
+        "end": 1793989869947,
+        "durationMin": 2.7,
+        "precedingSku": "8244715",
+        "precedingTitle": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
+        "precedingAuctionCode": "0019940371",
+        "followingSku": "8798375",
+        "followingTitle": "Epivida Dermacare 3 in 1 Skinology For Face, Eyes & Lips Micellar Water 400ml - Dull Skin",
+        "followingAuctionCode": "0019936609"
       }
     ],
-    "lastOnAirSku": "8244715",
-    "lastOnAirTitle": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
-    "lastOnAirAuctionCode": "0019940371",
+    "lastOnAirSku": "8798375",
+    "lastOnAirTitle": "Epivida Dermacare 3 in 1 Skinology For Face, Eyes & Lips Micellar Water 400ml - Dull Skin",
+    "lastOnAirAuctionCode": "0019936609",
     "precedingSku": "8244715",
     "precedingTitle": "Marigold & Lotus- Aloe Vera Gel with Vitamin A & E (100 ML)",
     "precedingAuctionCode": "0019940371"
