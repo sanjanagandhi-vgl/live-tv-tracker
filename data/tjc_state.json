@@ -200541,17 +200541,17 @@
       "firstAir": 1787205327975,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791531261252,
+      "lastAir": 1793930964849,
       "title": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
-      "pdpPrice": "7.99",
-      "auctionCode": "0019901897",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019938075",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-09",
-      "time": "08:34:21",
+      "date": "2026-11-06",
+      "time": "02:09:24",
       "productUrl": "/products/laurelle-royale-edition-gold-eau-de-toilette-100ml?variant=53108289274122",
-      "lastUpdated": 1791531261252,
+      "lastUpdated": 1793930964849,
       "source": "gha",
       "missedAt": 1787206343271,
       "missedDelay": 11,
@@ -519716,8 +519716,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793930738485,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -596959,11 +596959,22 @@
         "followingSku": "7995055",
         "followingTitle": "EverTrue - Natural White Diamond Floral Vine Ring",
         "followingAuctionCode": "0019938309"
+      },
+      {
+        "start": 1793930738485,
+        "end": 1793930964849,
+        "durationMin": 3.8,
+        "precedingSku": "7995055",
+        "precedingTitle": "EverTrue - Natural White Diamond Floral Vine Ring",
+        "precedingAuctionCode": "0019938309",
+        "followingSku": "3492618",
+        "followingTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+        "followingAuctionCode": "0019938075"
       }
     ],
-    "lastOnAirSku": "7995055",
-    "lastOnAirTitle": "EverTrue - Natural White Diamond Floral Vine Ring",
-    "lastOnAirAuctionCode": "0019938309",
+    "lastOnAirSku": "3492618",
+    "lastOnAirTitle": "Laurelle Royale Edition - Gold Eau De Toilette - 100ml",
+    "lastOnAirAuctionCode": "0019938075",
     "precedingSku": "7995055",
     "precedingTitle": "EverTrue - Natural White Diamond Floral Vine Ring",
     "precedingAuctionCode": "0019938309"
