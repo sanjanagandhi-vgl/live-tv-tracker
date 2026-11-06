@@ -521147,11 +521147,29 @@
       "productUrlChecked": 1793986469673,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "4512567": {
+      "sku": "4512567",
+      "firstAir": 1793987002129,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793987002129,
+      "title": "Compact Flap Wallet with Gold V Logo Accent - Green",
+      "pdpPrice": "59.99",
+      "auctionCode": "0019938638",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "17:43:22",
+      "productUrl": null,
+      "lastUpdated": 1793987002129,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793986947843,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -598921,11 +598939,22 @@
         "followingSku": "8707696",
         "followingTitle": "LIVMORE Self Heating Foot Warmer Insoles 8 Hour Heat (10 Pairs Pack, 27cm) - Beige",
         "followingAuctionCode": "0019938596"
+      },
+      {
+        "start": 1793986947843,
+        "end": 1793987002129,
+        "durationMin": 0.9,
+        "precedingSku": "8636479",
+        "precedingTitle": "La Marey Womens Casual Batwing Sleeve Open Front Knit Cardigan (One Size, 10-22) - Green",
+        "precedingAuctionCode": "0019937765",
+        "followingSku": "4512567",
+        "followingTitle": "Compact Flap Wallet with Gold V Logo Accent - Green",
+        "followingAuctionCode": "0019938638"
       }
     ],
-    "lastOnAirSku": "8636479",
-    "lastOnAirTitle": "La Marey Womens Casual Batwing Sleeve Open Front Knit Cardigan (One Size, 10-22) - Green",
-    "lastOnAirAuctionCode": "0019937765",
+    "lastOnAirSku": "4512567",
+    "lastOnAirTitle": "Compact Flap Wallet with Gold V Logo Accent - Green",
+    "lastOnAirAuctionCode": "0019938638",
     "precedingSku": "8636479",
     "precedingTitle": "La Marey Womens Casual Batwing Sleeve Open Front Knit Cardigan (One Size, 10-22) - Green",
     "precedingAuctionCode": "0019937765"
