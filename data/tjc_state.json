@@ -520692,9 +520692,16 @@
       "img": true,
       "date": "2026-11-06",
       "time": "14:57:23",
-      "productUrl": null,
-      "lastUpdated": 1793977043357,
-      "source": "gha"
+      "productUrl": "/products/fashion-jewellery-and-accessories-size-one-size-red-8738880",
+      "lastUpdated": 1793977110270,
+      "source": "gha",
+      "missedAt": 1793977110270,
+      "missedDelay": 1,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "productUrlChecked": 1793977112779,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8738849": {
       "sku": "8738849",
@@ -520775,11 +520782,51 @@
       "productUrlChecked": 1793976279680,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8738879": {
+      "sku": "8738879",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "14:58:30",
+      "preExisting": true,
+      "missedAt": 1793977110270,
+      "missedDelay": null,
+      "lastUpdated": 1793977110270,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Set of 2 Christmas Snowflake & Festive Boot Crystal Brooch - Red & Green",
+      "auctionCode": "0019937727",
+      "source": "gha",
+      "productUrl": "/products/fashion-jewellery-and-accessories-size-one-size-red-8738880",
+      "productUrlChecked": 1793977113001,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8738878": {
+      "sku": "8738878",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-06",
+      "time": "14:58:30",
+      "preExisting": true,
+      "missedAt": 1793977110270,
+      "missedDelay": null,
+      "lastUpdated": 1793977110270,
+      "missedPrice": 5.99,
+      "missedImg": true,
+      "title": "Set of 2 Christmas Wreath & Candy Cane Crystal Brooch Cum Pendant - Red & Green",
+      "auctionCode": "0019937726",
+      "source": "gha",
+      "productUrl": "/products/fashion-jewellery-and-accessories-size-one-size-red-8738880",
+      "productUrlChecked": 1793977113573,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1793977110270,
     "gaps": [
       {
         "start": 1785823527869,
@@ -598510,8 +598557,8 @@
     "lastOnAirSku": "8738880",
     "lastOnAirTitle": "Set of 2 Christmas Tree Brooch & Festive Penguin Crystal Brooch Cum Pendant - Multi-colour",
     "lastOnAirAuctionCode": "0019935946",
-    "precedingSku": "8507640",
-    "precedingTitle": "Chandelier Rouge Eau de Parfum - 100ml",
-    "precedingAuctionCode": "0019939793"
+    "precedingSku": "8738880",
+    "precedingTitle": "Set of 2 Christmas Tree Brooch & Festive Penguin Crystal Brooch Cum Pendant - Multi-colour",
+    "precedingAuctionCode": "0019935946"
   }
 }
