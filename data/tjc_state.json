@@ -4630,16 +4630,16 @@
       "firstAir": 1784887342450,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793090064179,
+      "lastAir": 1793946266301,
       "title": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
-      "pdpPrice": "9.99",
-      "auctionCode": "0019923757",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019938386",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-27",
-      "time": "08:34:24",
-      "lastUpdated": 1793090064179,
+      "date": "2026-11-06",
+      "time": "06:24:26",
+      "lastUpdated": 1793946266301,
       "source": "gha",
       "missedAt": 1784887878647,
       "missedDelay": 2,
@@ -519912,8 +519912,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793946203858,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597298,11 +597298,22 @@
         "followingSku": "8594393",
         "followingTitle": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
         "followingAuctionCode": "0019937826"
+      },
+      {
+        "start": 1793946203858,
+        "end": 1793946266301,
+        "durationMin": 1.0,
+        "precedingSku": "8594393",
+        "precedingTitle": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
+        "precedingAuctionCode": "0019937826",
+        "followingSku": "3456340",
+        "followingTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+        "followingAuctionCode": "0019938386"
       }
     ],
-    "lastOnAirSku": "8594393",
-    "lastOnAirTitle": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
-    "lastOnAirAuctionCode": "0019937826",
+    "lastOnAirSku": "3456340",
+    "lastOnAirTitle": "Set of 2 Laurelle Royal Ring 80ml EDP - Blue and Gold",
+    "lastOnAirAuctionCode": "0019938386",
     "precedingSku": "8594393",
     "precedingTitle": "NEW LAUNCH- Marigold - Lotus Rice Infused Nourishing Day & Night Cream Duo - 50g Each",
     "precedingAuctionCode": "0019937826"
