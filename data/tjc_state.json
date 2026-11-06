@@ -481656,21 +481656,26 @@
       "sku": "8818162",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-23",
-      "time": "08:42:23",
+      "date": "2026-11-06",
+      "time": "08:22:29",
       "preExisting": true,
       "missedAt": 1792741343693,
       "missedDelay": null,
-      "lastUpdated": 1792741343693,
+      "lastUpdated": 1793953349843,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "TJC Special Toy (Size - One Size) - Orange",
-      "auctionCode": "0019919985",
+      "title": "Safari Wild Animals 100 Piece Jigsaw Puzzle for Kids - Jungle",
+      "auctionCode": "0019938420",
       "source": "gha",
       "productUrl": "/products/tjc-special-toy-size-one-size-green-8818151",
       "productUrlChecked": 1792741348177,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793953349843,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8535860": {
       "sku": "8535860",
@@ -520136,8 +520141,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793953283760,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597610,11 +597615,22 @@
         "followingSku": "8669599",
         "followingTitle": "LIVMORE Hot Water Bottle with Koala Plush Cover - Grey",
         "followingAuctionCode": "0019937964"
+      },
+      {
+        "start": 1793953283760,
+        "end": 1793953349843,
+        "durationMin": 1.1,
+        "precedingSku": "8537158",
+        "precedingTitle": "Hap Golf Caddy - Red, Orange, Green & Blue",
+        "precedingAuctionCode": null,
+        "followingSku": "8818162",
+        "followingTitle": "Safari Wild Animals 100 Piece Jigsaw Puzzle for Kids - Jungle",
+        "followingAuctionCode": "0019938420"
       }
     ],
-    "lastOnAirSku": "8537158",
-    "lastOnAirTitle": "Hap Golf Caddy - Red, Orange, Green & Blue",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8818162",
+    "lastOnAirTitle": "Safari Wild Animals 100 Piece Jigsaw Puzzle for Kids - Jungle",
+    "lastOnAirAuctionCode": "0019938420",
     "precedingSku": "8537158",
     "precedingTitle": "Hap Golf Caddy - Red, Orange, Green & Blue",
     "precedingAuctionCode": null
