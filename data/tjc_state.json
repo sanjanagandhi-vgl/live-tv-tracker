@@ -520004,11 +520004,29 @@
       "auctionCode": "0019938380",
       "source": "gha",
       "productUrl": null
+    },
+    "8741797": {
+      "sku": "8741797",
+      "firstAir": 1793950845913,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793950845913,
+      "title": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
+      "pdpPrice": "7.99",
+      "auctionCode": "0019938950",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "07:40:45",
+      "productUrl": null,
+      "lastUpdated": 1793950845913,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793950707703,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597448,11 +597466,22 @@
         "followingSku": "8718261",
         "followingTitle": "LA MAREY Floral Enamel 4 Piece Hair Accessories Set (Hairpin, Clips & Elastic Rope) - Light Blue",
         "followingAuctionCode": "0019938283"
+      },
+      {
+        "start": 1793950707703,
+        "end": 1793950845913,
+        "durationMin": 2.3,
+        "precedingSku": "8718261",
+        "precedingTitle": "LA MAREY Floral Enamel 4 Piece Hair Accessories Set (Hairpin, Clips & Elastic Rope) - Light Blue",
+        "precedingAuctionCode": "0019938283",
+        "followingSku": "8741797",
+        "followingTitle": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
+        "followingAuctionCode": "0019938950"
       }
     ],
-    "lastOnAirSku": "8718261",
-    "lastOnAirTitle": "LA MAREY Floral Enamel 4 Piece Hair Accessories Set (Hairpin, Clips & Elastic Rope) - Light Blue",
-    "lastOnAirAuctionCode": "0019938283",
+    "lastOnAirSku": "8741797",
+    "lastOnAirTitle": "Set of 2 Crystal Lips & Heart Keyrings Bag Charms (13cm & 13.5cm) - Grey",
+    "lastOnAirAuctionCode": "0019938950",
     "precedingSku": "8718261",
     "precedingTitle": "LA MAREY Floral Enamel 4 Piece Hair Accessories Set (Hairpin, Clips & Elastic Rope) - Light Blue",
     "precedingAuctionCode": "0019938283"
