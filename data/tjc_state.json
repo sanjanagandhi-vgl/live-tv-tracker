@@ -520932,11 +520932,29 @@
       "auctionCode": "0019939870",
       "source": "gha",
       "productUrl": null
+    },
+    "8810343": {
+      "sku": "8810343",
+      "firstAir": 1793980586495,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1793980586495,
+      "title": "Lightweight Soft Drape Scarf (125 x 135cm) - Green",
+      "pdpPrice": "9.99",
+      "auctionCode": "0019938476",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-06",
+      "time": "15:56:26",
+      "productUrl": null,
+      "lastUpdated": 1793980586495,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793980470124,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -598684,11 +598702,22 @@
         "followingSku": "221342374",
         "followingTitle": "Laurelle London 3 Piece Hanging Tree EDP Fragrance Ornament Bundle (Bronze, Black & Purple)",
         "followingAuctionCode": "0019939866"
+      },
+      {
+        "start": 1793980470124,
+        "end": 1793980586495,
+        "durationMin": 1.9,
+        "precedingSku": "221342374",
+        "precedingTitle": "Laurelle London 3 Piece Hanging Tree EDP Fragrance Ornament Bundle (Bronze, Black & Purple)",
+        "precedingAuctionCode": "0019940102",
+        "followingSku": "8810343",
+        "followingTitle": "Lightweight Soft Drape Scarf (125 x 135cm) - Green",
+        "followingAuctionCode": "0019938476"
       }
     ],
-    "lastOnAirSku": "221342374",
-    "lastOnAirTitle": "Laurelle London 3 Piece Hanging Tree EDP Fragrance Ornament Bundle (Bronze, Black & Purple)",
-    "lastOnAirAuctionCode": "0019940102",
+    "lastOnAirSku": "8810343",
+    "lastOnAirTitle": "Lightweight Soft Drape Scarf (125 x 135cm) - Green",
+    "lastOnAirAuctionCode": "0019938476",
     "precedingSku": "221342374",
     "precedingTitle": "Laurelle London 3 Piece Hanging Tree EDP Fragrance Ornament Bundle (Bronze, Black & Purple)",
     "precedingAuctionCode": "0019940102"
