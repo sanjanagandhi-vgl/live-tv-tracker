@@ -510203,21 +510203,26 @@
       "sku": "8735538",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-02",
-      "time": "14:17:26",
+      "date": "2026-11-06",
+      "time": "07:07:22",
       "preExisting": true,
       "missedAt": 1793629046614,
       "missedDelay": null,
-      "lastUpdated": 1793629046614,
+      "lastUpdated": 1793948842310,
       "missedPrice": 5.99,
       "missedImg": true,
-      "title": "Teddy Faux Fur Vanity Cosmetic Pouch - Green",
-      "auctionCode": "0019933069",
+      "title": "Teddy Faux Fur Striped Vanity Cosmetic Pouch - Red Beige & Black",
+      "auctionCode": "0019937840",
       "source": "gha",
       "productUrl": "/products/patterned-coin-pouch-size-21x12x13-cm-pink-brown-8735534",
       "productUrlChecked": 1793629049595,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1793948842310,
+      "pdpPrice": "9.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8751120": {
       "sku": "8751120",
@@ -519912,8 +519917,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1793948735994,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -597331,11 +597336,22 @@
         "followingSku": "221342374",
         "followingTitle": "Laurelle London 3 Piece Hanging Tree EDP Fragrance Ornament Bundle (Bronze, Black & Purple)",
         "followingAuctionCode": "0019938861"
+      },
+      {
+        "start": 1793948735994,
+        "end": 1793948842310,
+        "durationMin": 1.8,
+        "precedingSku": "8312164",
+        "precedingTitle": "Christmas Gift Card - Pack of 5",
+        "precedingAuctionCode": "0019938414",
+        "followingSku": "8735538",
+        "followingTitle": "Teddy Faux Fur Striped Vanity Cosmetic Pouch - Red Beige & Black",
+        "followingAuctionCode": "0019937840"
       }
     ],
-    "lastOnAirSku": "8312164",
-    "lastOnAirTitle": "Christmas Gift Card - Pack of 5",
-    "lastOnAirAuctionCode": "0019938414",
+    "lastOnAirSku": "8735538",
+    "lastOnAirTitle": "Teddy Faux Fur Striped Vanity Cosmetic Pouch - Red Beige & Black",
+    "lastOnAirAuctionCode": "0019937840",
     "precedingSku": "8312164",
     "precedingTitle": "Christmas Gift Card - Pack of 5",
     "precedingAuctionCode": "0019938414"
