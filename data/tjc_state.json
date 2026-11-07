@@ -525222,11 +525222,29 @@
       "productUrlChecked": 1794088110247,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8754521": {
+      "sku": "8754521",
+      "firstAir": 1794093080493,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794093080493,
+      "title": "Scented Candle Glass Jar (12.5x 10x 10cm) - Green Cedar",
+      "pdpPrice": "89.99",
+      "auctionCode": "0019940790",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-07",
+      "time": "23:11:20",
+      "productUrl": null,
+      "lastUpdated": 1794093080493,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794093045844,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -603876,11 +603894,22 @@
         "followingSku": "8380931",
         "followingTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
         "followingAuctionCode": "0019940792"
+      },
+      {
+        "start": 1794093045844,
+        "end": 1794093080493,
+        "durationMin": 0.6,
+        "precedingSku": "8380931",
+        "precedingTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
+        "precedingAuctionCode": "0019940792",
+        "followingSku": "8754521",
+        "followingTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Green Cedar",
+        "followingAuctionCode": "0019940790"
       }
     ],
-    "lastOnAirSku": "8380931",
-    "lastOnAirTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
-    "lastOnAirAuctionCode": "0019940792",
+    "lastOnAirSku": "8754521",
+    "lastOnAirTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Green Cedar",
+    "lastOnAirAuctionCode": "0019940790",
     "precedingSku": "8380931",
     "precedingTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
     "precedingAuctionCode": "0019940792"
