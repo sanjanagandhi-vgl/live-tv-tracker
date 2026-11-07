@@ -30891,23 +30891,23 @@
       "sku": "8712385",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-06",
-      "time": "18:52:29",
+      "date": "2026-11-07",
+      "time": "03:33:21",
       "preExisting": true,
       "missedAt": 1785474501184,
       "missedDelay": null,
-      "lastUpdated": 1793991149432,
+      "lastUpdated": 1794022401334,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "SEJOY Cordless Water Flosser with 5 Cleaning Modes, 6 Jet Tips & IPX7 Waterproof Design - Purple",
-      "auctionCode": null,
+      "auctionCode": "0019940449",
       "source": "gha",
       "productUrl": "/products/sejoy-cordless-water-flosser-with-5-cleaning-modes-6-jet-tips-ipx7-waterproof-design-purple-8712276?variant=53672929362186",
       "productUrlChecked": 1785475545516,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1793991149432,
-      "pdpPrice": 7.99,
+      "lastAir": 1794022401334,
+      "pdpPrice": "50.99",
       "buy": true,
       "login": false,
       "img": true
@@ -522425,8 +522425,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794022344793,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -600548,11 +600548,22 @@
         "followingSku": "8631123",
         "followingTitle": "LIVMORE Decorative Aroma Diffuser Humidifier Set with 7 Essential Oils (130ml Capacity) - Pink",
         "followingAuctionCode": "0019940467"
+      },
+      {
+        "start": 1794022344793,
+        "end": 1794022401334,
+        "durationMin": 0.9,
+        "precedingSku": "8631122",
+        "precedingTitle": "LIVMORE Decorative Aroma Diffuser Humidifier Set with 7 Essential Oils (130ml Capacity) - Blue",
+        "precedingAuctionCode": "0019940472",
+        "followingSku": "8712385",
+        "followingTitle": "SEJOY Cordless Water Flosser with 5 Cleaning Modes, 6 Jet Tips & IPX7 Waterproof Design - Purple",
+        "followingAuctionCode": "0019940449"
       }
     ],
-    "lastOnAirSku": "8631122",
-    "lastOnAirTitle": "LIVMORE Decorative Aroma Diffuser Humidifier Set with 7 Essential Oils (130ml Capacity) - Blue",
-    "lastOnAirAuctionCode": "0019940472",
+    "lastOnAirSku": "8712385",
+    "lastOnAirTitle": "SEJOY Cordless Water Flosser with 5 Cleaning Modes, 6 Jet Tips & IPX7 Waterproof Design - Purple",
+    "lastOnAirAuctionCode": "0019940449",
     "precedingSku": "8631122",
     "precedingTitle": "LIVMORE Decorative Aroma Diffuser Humidifier Set with 7 Essential Oils (130ml Capacity) - Blue",
     "precedingAuctionCode": "0019940472"
