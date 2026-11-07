@@ -523118,13 +523118,68 @@
       "date": "2026-11-07",
       "time": "14:23:20",
       "productUrl": null,
-      "lastUpdated": 1794061400647,
-      "source": "gha"
+      "lastUpdated": 1794061464728,
+      "source": "gha",
+      "missedAt": 1794061464728,
+      "missedDelay": 1,
+      "missedPrice": 12.98,
+      "missedImg": true
+    },
+    "8706592": {
+      "sku": "8706592",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-07",
+      "time": "14:24:24",
+      "preExisting": true,
+      "missedAt": 1794061464728,
+      "missedDelay": null,
+      "lastUpdated": 1794061464728,
+      "missedPrice": 12.98,
+      "missedImg": true,
+      "title": "Livmore 30 Piece Stainless Steel Manicure Pedicure Grooming Set with Zippered Case - Green",
+      "auctionCode": "0019941128",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8706590": {
+      "sku": "8706590",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-07",
+      "time": "14:24:24",
+      "preExisting": true,
+      "missedAt": 1794061464728,
+      "missedDelay": null,
+      "lastUpdated": 1794061464728,
+      "missedPrice": 12.98,
+      "missedImg": true,
+      "title": "Livmore 30 Piece Stainless Steel Manicure Pedicure Grooming Set with Zippered Case - Purple",
+      "auctionCode": "0019941127",
+      "source": "gha",
+      "productUrl": null
+    },
+    "8706589": {
+      "sku": "8706589",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-07",
+      "time": "14:24:24",
+      "preExisting": true,
+      "missedAt": 1794061464728,
+      "missedDelay": null,
+      "lastUpdated": 1794061464728,
+      "missedPrice": 12.98,
+      "missedImg": true,
+      "title": "Livmore 30 Piece Stainless Steel Manicure Pedicure Grooming Set with Zippered Case - Black",
+      "auctionCode": "0019941126",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1794061464728,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601570,8 +601625,8 @@
     "lastOnAirSku": "8706548",
     "lastOnAirTitle": "Livmore 30 Piece Stainless Steel Manicure Pedicure Grooming Set with Zippered Case - Mint",
     "lastOnAirAuctionCode": "0019937354",
-    "precedingSku": "8800645",
-    "precedingTitle": "BEAUTY GALA LAUNCH- Laurelle 12 Days of Christmas EDP",
-    "precedingAuctionCode": "0019941245"
+    "precedingSku": "8706548",
+    "precedingTitle": "Livmore 30 Piece Stainless Steel Manicure Pedicure Grooming Set with Zippered Case - Mint",
+    "precedingAuctionCode": "0019937354"
   }
 }
