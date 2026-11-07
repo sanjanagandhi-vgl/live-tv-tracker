@@ -41741,21 +41741,26 @@
       "sku": "8702912",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-07-31",
-      "time": "21:49:07",
+      "date": "2026-11-07",
+      "time": "23:19:20",
       "preExisting": true,
       "missedAt": 1785530947401,
       "missedDelay": null,
-      "lastUpdated": 1785530947401,
+      "lastUpdated": 1794093560687,
       "missedPrice": 129.99,
       "missedImg": true,
-      "title": "William Hunt MIYOTA 2035 Japan Movement 5ATM WR Gold Sunray Navy Blue & Gold Earth Pattern Relief Dragon Dial & Two-Tone Plating Mens Watch with Stainless Steel Strap",
-      "auctionCode": "0019803249",
+      "title": "William Hunt Limited Edition Japanese Movement 5ATM WR Dragon & Earth Watch With Scratch Resistant Mineral Glass Dial & 45MM Case - Two Tone",
+      "auctionCode": "0019940769",
       "source": "gha",
       "productUrl": "/products/william-hunt-watch-pure-white-stainless-steel-8702880",
       "productUrlChecked": 1785530963328,
       "productUrlStatus": 500,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1794093560687,
+      "pdpPrice": "1279.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8356475": {
       "sku": "8356475",
@@ -525238,13 +525243,34 @@
       "date": "2026-11-07",
       "time": "23:17:22",
       "productUrl": null,
-      "lastUpdated": 1794093442971,
-      "source": "gha"
+      "lastUpdated": 1794093560687,
+      "source": "gha",
+      "missedAt": 1794093560687,
+      "missedDelay": 2,
+      "missedPrice": 9.99,
+      "missedImg": true
+    },
+    "8754519": {
+      "sku": "8754519",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-07",
+      "time": "23:19:20",
+      "preExisting": true,
+      "missedAt": 1794093560687,
+      "missedDelay": null,
+      "lastUpdated": 1794093560687,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "title": "Scented Candle Glass Jar (12.5x 10x 10cm) - Cinammon & Orange",
+      "auctionCode": "0019940791",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794093505026,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -603905,11 +603931,22 @@
         "followingSku": "8754521",
         "followingTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Green Cedar",
         "followingAuctionCode": "0019940790"
+      },
+      {
+        "start": 1794093505026,
+        "end": 1794093560687,
+        "durationMin": 0.9,
+        "precedingSku": "8754521",
+        "precedingTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Green Cedar",
+        "precedingAuctionCode": "0019940790",
+        "followingSku": "8702912",
+        "followingTitle": "William Hunt Limited Edition Japanese Movement 5ATM WR Dragon & Earth Watch With Scratch Resistant Mineral Glass Dial & 45MM Case - Two Tone",
+        "followingAuctionCode": "0019940769"
       }
     ],
-    "lastOnAirSku": "8754521",
-    "lastOnAirTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Green Cedar",
-    "lastOnAirAuctionCode": "0019940790",
+    "lastOnAirSku": "8702912",
+    "lastOnAirTitle": "William Hunt Limited Edition Japanese Movement 5ATM WR Dragon & Earth Watch With Scratch Resistant Mineral Glass Dial & 45MM Case - Two Tone",
+    "lastOnAirAuctionCode": "0019940769",
     "precedingSku": "8754521",
     "precedingTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Green Cedar",
     "precedingAuctionCode": "0019940790"
