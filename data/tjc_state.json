@@ -523215,14 +523215,41 @@
       "img": true,
       "date": "2026-11-07",
       "time": "15:29:21",
-      "productUrl": null,
-      "lastUpdated": 1794065361491,
-      "source": "gha"
+      "productUrl": "/products/laurelle-pra-de-paradox-pink-snake-bottle-8833147",
+      "lastUpdated": 1794065462609,
+      "source": "gha",
+      "missedAt": 1794065462609,
+      "missedDelay": 2,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "productUrlChecked": 1794065465281,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8833148": {
+      "sku": "8833148",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-07",
+      "time": "15:31:02",
+      "preExisting": true,
+      "missedAt": 1794065462609,
+      "missedDelay": null,
+      "lastUpdated": 1794065462609,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Laurelle Lancome Tresor Cream Snake Bottle",
+      "auctionCode": "0019940606",
+      "source": "gha",
+      "productUrl": "/products/laurelle-pra-de-paradox-pink-snake-bottle-8833147",
+      "productUrlChecked": 1794065465643,
+      "productUrlStatus": 200,
+      "productUrl404": false
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1794065462609,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601712,8 +601739,8 @@
     "lastOnAirSku": "8833147",
     "lastOnAirTitle": "Laurelle Serpant De Saphir Snake Bottle EDP - 100ML",
     "lastOnAirAuctionCode": "0019940605",
-    "precedingSku": "8619130",
-    "precedingTitle": "Reduce Fat-Fast GLP-1 Capsules",
-    "precedingAuctionCode": null
+    "precedingSku": "8833147",
+    "precedingTitle": "Laurelle Serpant De Saphir Snake Bottle EDP - 100ML",
+    "precedingAuctionCode": "0019940605"
   }
 }
