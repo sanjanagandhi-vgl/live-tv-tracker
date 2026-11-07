@@ -484176,17 +484176,17 @@
       "firstAir": 1792825340633,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793674241340,
+      "lastAir": 1794092601225,
       "title": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
-      "pdpPrice": 9.99,
-      "auctionCode": null,
+      "pdpPrice": "249.99",
+      "auctionCode": "0019940792",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-11-03",
-      "time": "02:50:41",
+      "date": "2026-11-07",
+      "time": "23:03:21",
       "productUrl": "/products/learning-toy-size-one-size-black-multicolor-8380931?variant=53949674782986",
-      "lastUpdated": 1793674241340,
+      "lastUpdated": 1794092601225,
       "source": "gha",
       "productUrlChecked": 1792825764289,
       "productUrlStatus": 200,
@@ -525225,8 +525225,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794092545514,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -603865,11 +603865,22 @@
         "followingSku": "8739949",
         "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
         "followingAuctionCode": "0019940715"
+      },
+      {
+        "start": 1794092545514,
+        "end": 1794092601225,
+        "durationMin": 0.9,
+        "precedingSku": "8739949",
+        "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+        "precedingAuctionCode": "0019940715",
+        "followingSku": "8380931",
+        "followingTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
+        "followingAuctionCode": "0019940792"
       }
     ],
-    "lastOnAirSku": "8739949",
-    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
-    "lastOnAirAuctionCode": "0019940715",
+    "lastOnAirSku": "8380931",
+    "lastOnAirTitle": "Dartboard Set with Support Stand & 6 Darts (42 x 42cm)",
+    "lastOnAirAuctionCode": "0019940792",
     "precedingSku": "8739949",
     "precedingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
     "precedingAuctionCode": "0019940715"
