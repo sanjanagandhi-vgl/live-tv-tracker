@@ -480719,21 +480719,26 @@
       "sku": "8777277",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-22",
-      "time": "19:10:38",
+      "date": "2026-11-07",
+      "time": "05:04:25",
       "preExisting": true,
       "missedAt": 1792692638144,
       "missedDelay": null,
-      "lastUpdated": 1792692638144,
+      "lastUpdated": 1794027865982,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "Adjustable Textured Bangle (Size - 7) in Silver Tone",
-      "auctionCode": "0019920337",
+      "title": "Close Out Deal- Adjustable Textured Bangle (Size - 7.5)",
+      "auctionCode": "0019939963",
       "source": "gha",
       "productUrl": "/products/adjustable-textured-bangle-in-silver-tone-8777278",
       "productUrlChecked": 1792692641241,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1794027865982,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8636702": {
       "sku": "8636702",
@@ -522425,8 +522430,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794027443046,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -600581,11 +600586,22 @@
         "followingSku": "8328248",
         "followingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
         "followingAuctionCode": "0019940473"
+      },
+      {
+        "start": 1794027443046,
+        "end": 1794027865982,
+        "durationMin": 7.0,
+        "precedingSku": "8328248",
+        "precedingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+        "precedingAuctionCode": "0019940473",
+        "followingSku": "8777277",
+        "followingTitle": "Close Out Deal- Adjustable Textured Bangle (Size - 7.5)",
+        "followingAuctionCode": "0019939963"
       }
     ],
-    "lastOnAirSku": "8328248",
-    "lastOnAirTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
-    "lastOnAirAuctionCode": "0019940473",
+    "lastOnAirSku": "8777277",
+    "lastOnAirTitle": "Close Out Deal- Adjustable Textured Bangle (Size - 7.5)",
+    "lastOnAirAuctionCode": "0019939963",
     "precedingSku": "8328248",
     "precedingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
     "precedingAuctionCode": "0019940473"
