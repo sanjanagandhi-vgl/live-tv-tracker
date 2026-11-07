@@ -522979,16 +522979,20 @@
       "date": "2026-11-07",
       "time": "12:09:22",
       "productUrl": "/products/laurelle-12-days-of-christmas-edp-8800645?variant=54004336754954",
-      "lastUpdated": 1794053362378,
+      "lastUpdated": 1794053444093,
       "source": "gha",
       "productUrlChecked": 1794053364841,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1794053444093,
+      "missedDelay": 1,
+      "missedPrice": 24.99,
+      "missedImg": true
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1794053444093,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601412,8 +601416,8 @@
     "lastOnAirSku": "8800645",
     "lastOnAirTitle": "BEAUTY GALA LAUNCH- Laurelle 12 Days of Christmas EDP",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8792711",
-    "precedingTitle": "Sarah Jessica Parker NYC Crush Set- Eau de Parfum Spray 100ml, Body Lotion 200ml & Body Mist Spray 236ml",
-    "precedingAuctionCode": "0019937343"
+    "precedingSku": "8800645",
+    "precedingTitle": "BEAUTY GALA LAUNCH- Laurelle 12 Days of Christmas EDP",
+    "precedingAuctionCode": null
   }
 }
