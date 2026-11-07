@@ -520880,21 +520880,26 @@
       "sku": "8738849",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-06",
-      "time": "14:44:33",
+      "date": "2026-11-07",
+      "time": "22:05:35",
       "preExisting": true,
       "missedAt": 1793976273889,
       "missedDelay": null,
-      "lastUpdated": 1793976273889,
+      "lastUpdated": 1794089135503,
       "missedPrice": 6.99,
       "missedImg": true,
       "title": "Christmas Snowman Keychain & Matching Push Back Drop Earrings Set - White",
-      "auctionCode": "0019939917",
+      "auctionCode": "0019940718",
       "source": "gha",
       "productUrl": "/products/keychain-size-one-size-pink-8738859",
       "productUrlChecked": 1793976279177,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1794089135503,
+      "pdpPrice": "149.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8738876": {
       "sku": "8738876",
@@ -525217,8 +525222,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794089066510,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -603824,11 +603829,22 @@
         "followingSku": "8778847",
         "followingTitle": "9K Yellow Gold AAA Trillion Cut Turkizite Solitaire Stud Earring with Push Post 2.37 Ct.",
         "followingAuctionCode": "0019941684"
+      },
+      {
+        "start": 1794089066510,
+        "end": 1794089135503,
+        "durationMin": 1.1,
+        "precedingSku": "8778847",
+        "precedingTitle": "9K Yellow Gold AAA Trillion Cut Turkizite Solitaire Stud Earring with Push Post 2.37 Ct.",
+        "precedingAuctionCode": "0019941684",
+        "followingSku": "8738849",
+        "followingTitle": "Christmas Snowman Keychain & Matching Push Back Drop Earrings Set - White",
+        "followingAuctionCode": "0019940718"
       }
     ],
-    "lastOnAirSku": "8778847",
-    "lastOnAirTitle": "9K Yellow Gold AAA Trillion Cut Turkizite Solitaire Stud Earring with Push Post 2.37 Ct.",
-    "lastOnAirAuctionCode": "0019941684",
+    "lastOnAirSku": "8738849",
+    "lastOnAirTitle": "Christmas Snowman Keychain & Matching Push Back Drop Earrings Set - White",
+    "lastOnAirAuctionCode": "0019940718",
     "precedingSku": "8778847",
     "precedingTitle": "9K Yellow Gold AAA Trillion Cut Turkizite Solitaire Stud Earring with Push Post 2.37 Ct.",
     "precedingAuctionCode": "0019941684"
