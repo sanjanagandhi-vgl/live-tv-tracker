@@ -522725,11 +522725,29 @@
       "auctionCode": "0019940573",
       "source": "gha",
       "productUrl": null
+    },
+    "8802169": {
+      "sku": "8802169",
+      "firstAir": 1794046843974,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794046843974,
+      "title": "OPI Cherry-On Bag Nail Lacquer Polish - 15ml",
+      "pdpPrice": "149.99",
+      "auctionCode": "0019937083",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-07",
+      "time": "10:20:43",
+      "productUrl": null,
+      "lastUpdated": 1794046843974,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794046760672,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601115,11 +601133,22 @@
         "followingSku": "8691042",
         "followingTitle": "Closeout 9K Yellow Gold Handmade Graduated Rope Necklace (Size - 20) with Lobster Clasp, Gold Wt. 14.50 Gms",
         "followingAuctionCode": "0019940478"
+      },
+      {
+        "start": 1794046760672,
+        "end": 1794046843974,
+        "durationMin": 1.4,
+        "precedingSku": "8802152",
+        "precedingTitle": "OPI Cherry-On Bag Nail Lacquer Polish - 15ml",
+        "precedingAuctionCode": "0019937075",
+        "followingSku": "8802169",
+        "followingTitle": "OPI Cherry-On Bag Nail Lacquer Polish - 15ml",
+        "followingAuctionCode": "0019937083"
       }
     ],
-    "lastOnAirSku": "8802152",
+    "lastOnAirSku": "8802169",
     "lastOnAirTitle": "OPI Cherry-On Bag Nail Lacquer Polish - 15ml",
-    "lastOnAirAuctionCode": "0019937075",
+    "lastOnAirAuctionCode": "0019937083",
     "precedingSku": "8802152",
     "precedingTitle": "OPI Cherry-On Bag Nail Lacquer Polish - 15ml",
     "precedingAuctionCode": "0019937075"
