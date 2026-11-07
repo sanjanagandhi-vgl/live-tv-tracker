@@ -523175,11 +523175,29 @@
       "auctionCode": "0019941126",
       "source": "gha",
       "productUrl": null
+    },
+    "8619130": {
+      "sku": "8619130",
+      "firstAir": 1794061536142,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794061536142,
+      "title": "Reduce Fat-Fast GLP-1 Capsules",
+      "pdpPrice": "150.99",
+      "auctionCode": "0019937502",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-07",
+      "time": "14:25:36",
+      "productUrl": null,
+      "lastUpdated": 1794061536142,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794061464728,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601620,11 +601638,22 @@
         "followingSku": "8706548",
         "followingTitle": "Livmore 30 Piece Stainless Steel Manicure Pedicure Grooming Set with Zippered Case - Green",
         "followingAuctionCode": "0019937354"
+      },
+      {
+        "start": 1794061464728,
+        "end": 1794061536142,
+        "durationMin": 1.2,
+        "precedingSku": "8706548",
+        "precedingTitle": "Livmore 30 Piece Stainless Steel Manicure Pedicure Grooming Set with Zippered Case - Mint",
+        "precedingAuctionCode": "0019937354",
+        "followingSku": "8619130",
+        "followingTitle": "Reduce Fat-Fast GLP-1 Capsules",
+        "followingAuctionCode": "0019937502"
       }
     ],
-    "lastOnAirSku": "8706548",
-    "lastOnAirTitle": "Livmore 30 Piece Stainless Steel Manicure Pedicure Grooming Set with Zippered Case - Mint",
-    "lastOnAirAuctionCode": "0019937354",
+    "lastOnAirSku": "8619130",
+    "lastOnAirTitle": "Reduce Fat-Fast GLP-1 Capsules",
+    "lastOnAirAuctionCode": "0019937502",
     "precedingSku": "8706548",
     "precedingTitle": "Livmore 30 Piece Stainless Steel Manicure Pedicure Grooming Set with Zippered Case - Mint",
     "precedingAuctionCode": "0019937354"
