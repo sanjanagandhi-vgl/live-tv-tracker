@@ -522866,11 +522866,29 @@
       "auctionCode": "0019940580",
       "source": "gha",
       "productUrl": null
+    },
+    "8792711": {
+      "sku": "8792711",
+      "firstAir": 1794047241894,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794047241894,
+      "title": "Sarah Jessica Parker NYC Crush Set- Eau de Parfum Spray 100ml, Body Lotion 200ml & Body Mist Spray 236ml",
+      "pdpPrice": "150.98",
+      "auctionCode": "0019937343",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-07",
+      "time": "10:27:21",
+      "productUrl": null,
+      "lastUpdated": 1794047241894,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794047134035,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601267,11 +601285,22 @@
         "followingSku": "8802169",
         "followingTitle": "OPI Cherry-On Bag Nail Lacquer Polish - 15ml",
         "followingAuctionCode": "0019937083"
+      },
+      {
+        "start": 1794047134035,
+        "end": 1794047241894,
+        "durationMin": 1.8,
+        "precedingSku": "8802169",
+        "precedingTitle": "OPI Cherry-On Bag Nail Lacquer Polish - 15ml",
+        "precedingAuctionCode": "0019937083",
+        "followingSku": "8792711",
+        "followingTitle": "Sarah Jessica Parker NYC Crush Set- Eau de Parfum Spray 100ml, Body Lotion 200ml & Body Mist Spray 236ml",
+        "followingAuctionCode": "0019937343"
       }
     ],
-    "lastOnAirSku": "8802169",
-    "lastOnAirTitle": "OPI Cherry-On Bag Nail Lacquer Polish - 15ml",
-    "lastOnAirAuctionCode": "0019937083",
+    "lastOnAirSku": "8792711",
+    "lastOnAirTitle": "Sarah Jessica Parker NYC Crush Set- Eau de Parfum Spray 100ml, Body Lotion 200ml & Body Mist Spray 236ml",
+    "lastOnAirAuctionCode": "0019937343",
     "precedingSku": "8802169",
     "precedingTitle": "OPI Cherry-On Bag Nail Lacquer Polish - 15ml",
     "precedingAuctionCode": "0019937083"
