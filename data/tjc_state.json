@@ -294782,17 +294782,17 @@
       "firstAir": 1788397762470,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793970266344,
+      "lastAir": 1794091881175,
       "title": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
-      "pdpPrice": "6.99",
-      "auctionCode": "0019938479",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019940715",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-11-06",
-      "time": "13:04:26",
+      "date": "2026-11-07",
+      "time": "22:51:21",
       "productUrl": "/products/cyclax-cocoa-butter-rich-body-cream-8739949?variant=53504169902346",
-      "lastUpdated": 1793970266344,
+      "lastUpdated": 1794091881175,
       "source": "gha",
       "missedAt": 1788398357923,
       "missedDelay": 10,
@@ -525225,8 +525225,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794091844094,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -603854,11 +603854,22 @@
         "followingSku": "4512567",
         "followingTitle": "Compact Flap Wallet with Gold V Logo Accent - Green",
         "followingAuctionCode": "0019940707"
+      },
+      {
+        "start": 1794091844094,
+        "end": 1794091881175,
+        "durationMin": 0.6,
+        "precedingSku": "7997042",
+        "precedingTitle": "Laurelle My Mic EDP - 100ml",
+        "precedingAuctionCode": "0019940725",
+        "followingSku": "8739949",
+        "followingTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+        "followingAuctionCode": "0019940715"
       }
     ],
-    "lastOnAirSku": "7997042",
-    "lastOnAirTitle": "Laurelle My Mic EDP - 100ml",
-    "lastOnAirAuctionCode": "0019940725",
+    "lastOnAirSku": "8739949",
+    "lastOnAirTitle": "Cyclax Cocoa Butter Rich Body Cream - 300ml",
+    "lastOnAirAuctionCode": "0019940715",
     "precedingSku": "7997042",
     "precedingTitle": "Laurelle My Mic EDP - 100ml",
     "precedingAuctionCode": "0019940725"
