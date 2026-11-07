@@ -522498,14 +522498,39 @@
       "img": true,
       "date": "2026-11-07",
       "time": "07:37:21",
+      "productUrl": "/products/fancy-earring-pure-yellow-brass-8744648",
+      "lastUpdated": 1794037161724,
+      "source": "gha",
+      "missedAt": 1794037161724,
+      "missedDelay": 2,
+      "missedPrice": 9.99,
+      "missedImg": true,
+      "productUrlChecked": 1794037164409,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "4521624": {
+      "sku": "4521624",
+      "firstAir": 1794037161724,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794037161724,
+      "title": "Set of 2 - Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - O to Q)",
+      "pdpPrice": "39.99",
+      "auctionCode": "0019939043",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-07",
+      "time": "07:39:21",
       "productUrl": null,
-      "lastUpdated": 1794037041482,
+      "lastUpdated": 1794037161724,
       "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794037105003,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -600759,11 +600784,22 @@
         "followingSku": "8723842",
         "followingTitle": "La Bella Italian Made- Sterling Silver Necklace (Size - 20) with Lobster Clasp",
         "followingAuctionCode": "0019939035"
+      },
+      {
+        "start": 1794037105003,
+        "end": 1794037161724,
+        "durationMin": 0.9,
+        "precedingSku": "8744648",
+        "precedingTitle": "Hoop Earring with Clasp",
+        "precedingAuctionCode": "0019939037",
+        "followingSku": "4521624",
+        "followingTitle": "Set of 2 - Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - O to Q)",
+        "followingAuctionCode": "0019939043"
       }
     ],
-    "lastOnAirSku": "8744648",
-    "lastOnAirTitle": "Hoop Earring with Clasp",
-    "lastOnAirAuctionCode": "0019939037",
+    "lastOnAirSku": "4521624",
+    "lastOnAirTitle": "Set of 2 - Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - O to Q)",
+    "lastOnAirAuctionCode": "0019939043",
     "precedingSku": "8744648",
     "precedingTitle": "Hoop Earring with Clasp",
     "precedingAuctionCode": "0019939037"
