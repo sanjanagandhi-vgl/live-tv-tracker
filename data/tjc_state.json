@@ -523105,8 +523105,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1794060645205,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601543,6 +601543,6 @@
     "lastOnAirAuctionCode": "0019941245",
     "precedingSku": "8800645",
     "precedingTitle": "BEAUTY GALA LAUNCH- Laurelle 12 Days of Christmas EDP",
-    "precedingAuctionCode": null
+    "precedingAuctionCode": "0019941245"
   }
 }
