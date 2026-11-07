@@ -523245,11 +523245,29 @@
       "productUrlChecked": 1794065465643,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "8822261": {
+      "sku": "8822261",
+      "firstAir": 1794065547042,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794065547042,
+      "title": "Laurelle Collection Lumiere Jasmine 3 Piece Fragrance Gift Set - inc. Candle, Reed Diffuser & EDP",
+      "pdpPrice": "249.99",
+      "auctionCode": "0019937361",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-07",
+      "time": "15:32:27",
+      "productUrl": null,
+      "lastUpdated": 1794065547042,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794065462609,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601734,11 +601752,22 @@
         "followingSku": "8833147",
         "followingTitle": "Laurelle Pra de Paradox Pink Snake Bottle",
         "followingAuctionCode": "0019940605"
+      },
+      {
+        "start": 1794065462609,
+        "end": 1794065547042,
+        "durationMin": 1.4,
+        "precedingSku": "8833147",
+        "precedingTitle": "Laurelle Serpant De Saphir Snake Bottle EDP - 100ML",
+        "precedingAuctionCode": "0019940605",
+        "followingSku": "8822261",
+        "followingTitle": "Laurelle Collection Lumiere Jasmine 3 Piece Fragrance Gift Set - inc. Candle, Reed Diffuser & EDP",
+        "followingAuctionCode": "0019937361"
       }
     ],
-    "lastOnAirSku": "8833147",
-    "lastOnAirTitle": "Laurelle Serpant De Saphir Snake Bottle EDP - 100ML",
-    "lastOnAirAuctionCode": "0019940605",
+    "lastOnAirSku": "8822261",
+    "lastOnAirTitle": "Laurelle Collection Lumiere Jasmine 3 Piece Fragrance Gift Set - inc. Candle, Reed Diffuser & EDP",
+    "lastOnAirAuctionCode": "0019937361",
     "precedingSku": "8833147",
     "precedingTitle": "Laurelle Serpant De Saphir Snake Bottle EDP - 100ML",
     "precedingAuctionCode": "0019940605"
