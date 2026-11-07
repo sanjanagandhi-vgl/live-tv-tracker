@@ -477342,18 +477342,23 @@
       "sku": "8783172",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-21",
-      "time": "15:22:21",
+      "date": "2026-11-07",
+      "time": "08:49:21",
       "preExisting": true,
       "missedAt": 1792592541360,
       "missedDelay": null,
-      "lastUpdated": 1792592541360,
+      "lastUpdated": 1794041361551,
       "missedPrice": 279.99,
       "missedImg": true,
       "title": "GP - AAA Premium Turkizite, White Zircon & Blue Sapphire Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.30 Ct.",
-      "auctionCode": "0019916577",
+      "auctionCode": "0019939123",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1794041361551,
+      "pdpPrice": "279.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4538760": {
       "sku": "4538760",
@@ -522575,8 +522580,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794041185625,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -600896,11 +600901,22 @@
         "followingSku": "8641888",
         "followingTitle": "Rhapsody - 950 Platinum AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.60 Ct, Platinum Wt. 3.75 Gms",
         "followingAuctionCode": "0019939094"
+      },
+      {
+        "start": 1794041185625,
+        "end": 1794041361551,
+        "durationMin": 2.9,
+        "precedingSku": "8641887",
+        "precedingTitle": "Rhapsody - 950 Platinum AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.60 Ct, Platinum Wt. 3.75 Gms",
+        "precedingAuctionCode": "0019940406",
+        "followingSku": "8783172",
+        "followingTitle": "GP - AAA Premium Turkizite, White Zircon & Blue Sapphire Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.30 Ct.",
+        "followingAuctionCode": "0019939123"
       }
     ],
-    "lastOnAirSku": "8641887",
-    "lastOnAirTitle": "Rhapsody - 950 Platinum AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.60 Ct, Platinum Wt. 3.75 Gms",
-    "lastOnAirAuctionCode": "0019940406",
+    "lastOnAirSku": "8783172",
+    "lastOnAirTitle": "GP - AAA Premium Turkizite, White Zircon & Blue Sapphire Halo Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 2.30 Ct.",
+    "lastOnAirAuctionCode": "0019939123",
     "precedingSku": "8641887",
     "precedingTitle": "Rhapsody - 950 Platinum AAAA Turkizite & White Diamond (VS-E-F) Halo Pendant 5.60 Ct, Platinum Wt. 3.75 Gms",
     "precedingAuctionCode": "0019940406"
