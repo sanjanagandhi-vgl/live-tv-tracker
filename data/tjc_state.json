@@ -522524,13 +522524,34 @@
       "date": "2026-11-07",
       "time": "07:52:28",
       "productUrl": null,
-      "lastUpdated": 1794037948163,
-      "source": "gha"
+      "lastUpdated": 1794038000483,
+      "source": "gha",
+      "missedAt": 1794038000483,
+      "missedDelay": 1,
+      "missedPrice": 19.99,
+      "missedImg": true
+    },
+    "4521625": {
+      "sku": "4521625",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-07",
+      "time": "07:53:20",
+      "preExisting": true,
+      "missedAt": 1794038000483,
+      "missedDelay": null,
+      "lastUpdated": 1794038000483,
+      "missedPrice": 19.99,
+      "missedImg": true,
+      "title": "Set of 2 - Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - O to Q)",
+      "auctionCode": "0019940435",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1794038000483,
     "gaps": [
       {
         "start": 1785823527869,
@@ -600800,8 +600821,8 @@
     "lastOnAirSku": "4521624",
     "lastOnAirTitle": "Set of 2 - Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - O to Q)",
     "lastOnAirAuctionCode": "0019939043",
-    "precedingSku": "8744648",
-    "precedingTitle": "Hoop Earring with Clasp",
-    "precedingAuctionCode": "0019939037"
+    "precedingSku": "4521624",
+    "precedingTitle": "Set of 2 - Cuff Bangle (Size 7-7.5) & Adjustable Ring (Size - O to Q)",
+    "precedingAuctionCode": "0019939043"
   }
 }
