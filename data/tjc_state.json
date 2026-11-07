@@ -435078,17 +435078,17 @@
       "firstAir": 1791368725684,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1791368840988,
+      "lastAir": 1794021080385,
       "title": "Bronzella Collection - Dragon Ring in 18K Gold Plating",
-      "pdpPrice": "14.99",
-      "auctionCode": "0019898577",
+      "pdpPrice": "179.99",
+      "auctionCode": "0019939857",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-10-07",
-      "time": "11:27:20",
+      "date": "2026-11-07",
+      "time": "03:11:20",
       "productUrl": "/products/evertrue-in-18k-yg-plating-fancy-ring-pure-natural-bronze-standard-8769337",
-      "lastUpdated": 1791369381210,
+      "lastUpdated": 1794021080385,
       "source": "gha",
       "missedAt": 1791369381210,
       "missedDelay": 9,
@@ -522415,8 +522415,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794020963666,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -600516,11 +600516,22 @@
         "followingSku": "8618350",
         "followingTitle": "Biggest Carat Weight Ring - 9K Yellow Gold AAA Natural Moroccan Amethyst Solitaire Ring 9.06 Ct.",
         "followingAuctionCode": "0019940057"
+      },
+      {
+        "start": 1794020963666,
+        "end": 1794021080385,
+        "durationMin": 1.9,
+        "precedingSku": "8328248",
+        "precedingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
+        "precedingAuctionCode": "0019939803",
+        "followingSku": "8769337",
+        "followingTitle": "Bronzella Collection - Dragon Ring in 18K Gold Plating",
+        "followingAuctionCode": "0019939857"
       }
     ],
-    "lastOnAirSku": "8328248",
-    "lastOnAirTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
-    "lastOnAirAuctionCode": "0019939803",
+    "lastOnAirSku": "8769337",
+    "lastOnAirTitle": "Bronzella Collection - Dragon Ring in 18K Gold Plating",
+    "lastOnAirAuctionCode": "0019939857",
     "precedingSku": "8328248",
     "precedingTitle": "24K Gold (99.9% Purity) Embossed Cross Collectable",
     "precedingAuctionCode": "0019939803"
