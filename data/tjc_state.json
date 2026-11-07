@@ -522988,11 +522988,29 @@
       "missedDelay": 1,
       "missedPrice": 24.99,
       "missedImg": true
+    },
+    "8822258": {
+      "sku": "8822258",
+      "firstAir": 1794053547795,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794053547795,
+      "title": "NEW LAUNCH- Laurelle Orange Blossom 3 Piece Fragrance Gift Set - inc. Candle, Reed Diffuser & EDP",
+      "pdpPrice": "19.99",
+      "auctionCode": "0019937346",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-07",
+      "time": "12:12:27",
+      "productUrl": null,
+      "lastUpdated": 1794053547795,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794053444093,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601411,11 +601429,22 @@
         "followingSku": "221343077",
         "followingTitle": "Set of 2 - Douvall's Argan Brow Tinted Growth Serum (Soft Brown) & Argan Growth Serum Mascara",
         "followingAuctionCode": "0019940599"
+      },
+      {
+        "start": 1794053444093,
+        "end": 1794053547795,
+        "durationMin": 1.7,
+        "precedingSku": "8800645",
+        "precedingTitle": "BEAUTY GALA LAUNCH- Laurelle 12 Days of Christmas EDP",
+        "precedingAuctionCode": null,
+        "followingSku": "8822258",
+        "followingTitle": "NEW LAUNCH- Laurelle Orange Blossom 3 Piece Fragrance Gift Set - inc. Candle, Reed Diffuser & EDP",
+        "followingAuctionCode": "0019937346"
       }
     ],
-    "lastOnAirSku": "8800645",
-    "lastOnAirTitle": "BEAUTY GALA LAUNCH- Laurelle 12 Days of Christmas EDP",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8822258",
+    "lastOnAirTitle": "NEW LAUNCH- Laurelle Orange Blossom 3 Piece Fragrance Gift Set - inc. Candle, Reed Diffuser & EDP",
+    "lastOnAirAuctionCode": "0019937346",
     "precedingSku": "8800645",
     "precedingTitle": "BEAUTY GALA LAUNCH- Laurelle 12 Days of Christmas EDP",
     "precedingAuctionCode": null
