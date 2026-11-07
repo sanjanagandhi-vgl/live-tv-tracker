@@ -523200,11 +523200,29 @@
       "missedDelay": 0,
       "missedPrice": 49.99,
       "missedImg": true
+    },
+    "8833147": {
+      "sku": "8833147",
+      "firstAir": 1794064345964,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794064345964,
+      "title": "Laurelle Pra de Paradox Pink Snake Bottle",
+      "pdpPrice": "198.99",
+      "auctionCode": "0019940605",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-07",
+      "time": "15:12:25",
+      "productUrl": null,
+      "lastUpdated": 1794064345964,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794064164689,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -601678,11 +601696,22 @@
         "followingSku": "8619130",
         "followingTitle": "Reduce Fat-Fast GLP-1 Capsules",
         "followingAuctionCode": "0019941462"
+      },
+      {
+        "start": 1794064164689,
+        "end": 1794064345964,
+        "durationMin": 3.0,
+        "precedingSku": "8619130",
+        "precedingTitle": "Reduce Fat-Fast GLP-1 Capsules",
+        "precedingAuctionCode": null,
+        "followingSku": "8833147",
+        "followingTitle": "Laurelle Pra de Paradox Pink Snake Bottle",
+        "followingAuctionCode": "0019940605"
       }
     ],
-    "lastOnAirSku": "8619130",
-    "lastOnAirTitle": "Reduce Fat-Fast GLP-1 Capsules",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8833147",
+    "lastOnAirTitle": "Laurelle Pra de Paradox Pink Snake Bottle",
+    "lastOnAirAuctionCode": "0019940605",
     "precedingSku": "8619130",
     "precedingTitle": "Reduce Fat-Fast GLP-1 Capsules",
     "precedingAuctionCode": null
