@@ -497300,17 +497300,17 @@
       "firstAir": 1793218544074,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1793847563817,
+      "lastAir": 1794119305966,
       "title": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
       "pdpPrice": "27.99",
-      "auctionCode": "0019935972",
+      "auctionCode": "0019939701",
       "buy": true,
       "login": false,
       "img": true,
-      "date": "2026-11-05",
-      "time": "02:59:23",
+      "date": "2026-11-08",
+      "time": "06:28:25",
       "productUrl": null,
-      "lastUpdated": 1793847563817,
+      "lastUpdated": 1794119305966,
       "source": "gha",
       "missedAt": 1793220343867,
       "missedDelay": 1,
@@ -525378,8 +525378,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794119242539,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604238,11 +604238,22 @@
         "followingSku": "8631696",
         "followingTitle": "Christmas Ornament (Size - One Size) - Multi Color",
         "followingAuctionCode": "0019939675"
+      },
+      {
+        "start": 1794119242539,
+        "end": 1794119305966,
+        "durationMin": 1.1,
+        "precedingSku": "8707754",
+        "precedingTitle": "LIVMORE  Rechargeable 800 Lumen Tactical LED Torch with 6 Light Modes - Pink",
+        "precedingAuctionCode": "0019939693",
+        "followingSku": "8754377",
+        "followingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
+        "followingAuctionCode": "0019939701"
       }
     ],
-    "lastOnAirSku": "8707754",
-    "lastOnAirTitle": "LIVMORE  Rechargeable 800 Lumen Tactical LED Torch with 6 Light Modes - Pink",
-    "lastOnAirAuctionCode": "0019939693",
+    "lastOnAirSku": "8754377",
+    "lastOnAirTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
+    "lastOnAirAuctionCode": "0019939701",
     "precedingSku": "8707754",
     "precedingTitle": "LIVMORE  Rechargeable 800 Lumen Tactical LED Torch with 6 Light Modes - Pink",
     "precedingAuctionCode": "0019939693"
