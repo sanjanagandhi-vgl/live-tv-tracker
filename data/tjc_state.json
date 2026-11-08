@@ -527958,7 +527958,10 @@
       "missedAt": 1794152672990,
       "missedDelay": 2,
       "missedPrice": 49.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1794152749518,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8831621": {
       "sku": "8831621",
@@ -527979,7 +527982,10 @@
       "missedAt": 1794152672990,
       "missedDelay": 2,
       "missedPrice": 49.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1794152749967,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8831573": {
       "sku": "8831573",
@@ -528000,12 +528006,33 @@
       "missedAt": 1794152672990,
       "missedDelay": 2,
       "missedPrice": 49.99,
-      "missedImg": true
+      "missedImg": true,
+      "productUrlChecked": 1794152750137,
+      "productUrlStatus": 200,
+      "productUrl404": false
+    },
+    "8831530": {
+      "sku": "8831530",
+      "firstAir": 1794152746620,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794152746620,
+      "title": "D'Joy - Honey Jade & White Cubic Zirconia Adjustable Luna Moon Necklace (Size - 28) in Yellow Gold Plated Sterling Silver 100.00 Ct.",
+      "pdpPrice": "99.99",
+      "auctionCode": "0019941030",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-08",
+      "time": "15:45:46",
+      "productUrl": null,
+      "lastUpdated": 1794152746620,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794152604052,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -607260,11 +607287,22 @@
         "followingSku": "8831608",
         "followingTitle": "D'Joy - Honey Jade & Red Garnet Flower Ring in Yellow Gold Plated Sterling Silver 35.00 Ct.",
         "followingAuctionCode": "0019941006"
+      },
+      {
+        "start": 1794152604052,
+        "end": 1794152746620,
+        "durationMin": 2.4,
+        "precedingSku": "8831608",
+        "precedingTitle": "D'Joy - Honey Jade & Red Garnet Flower Ring in Yellow Gold Plated Sterling Silver 35.00 Ct.",
+        "precedingAuctionCode": "0019941006",
+        "followingSku": "8831530",
+        "followingTitle": "D'Joy - Honey Jade & White Cubic Zirconia Adjustable Luna Moon Necklace (Size - 28) in Yellow Gold Plated Sterling Silver 100.00 Ct.",
+        "followingAuctionCode": "0019941030"
       }
     ],
-    "lastOnAirSku": "8831608",
-    "lastOnAirTitle": "D'Joy - Honey Jade & Red Garnet Flower Ring in Yellow Gold Plated Sterling Silver 35.00 Ct.",
-    "lastOnAirAuctionCode": "0019941006",
+    "lastOnAirSku": "8831530",
+    "lastOnAirTitle": "D'Joy - Honey Jade & White Cubic Zirconia Adjustable Luna Moon Necklace (Size - 28) in Yellow Gold Plated Sterling Silver 100.00 Ct.",
+    "lastOnAirAuctionCode": "0019941030",
     "precedingSku": "8831608",
     "precedingTitle": "D'Joy - Honey Jade & Red Garnet Flower Ring in Yellow Gold Plated Sterling Silver 35.00 Ct.",
     "precedingAuctionCode": "0019941006"
