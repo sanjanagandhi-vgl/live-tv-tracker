@@ -525479,13 +525479,34 @@
       "date": "2026-11-08",
       "time": "09:31:20",
       "productUrl": null,
-      "lastUpdated": 1794130280837,
-      "source": "gha"
+      "lastUpdated": 1794130347908,
+      "source": "gha",
+      "missedAt": 1794130347908,
+      "missedDelay": 1,
+      "missedPrice": 24.99,
+      "missedImg": true
+    },
+    "8703814": {
+      "sku": "8703814",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-08",
+      "time": "09:32:27",
+      "preExisting": true,
+      "missedAt": 1794130347908,
+      "missedDelay": null,
+      "lastUpdated": 1794130347908,
+      "missedPrice": 24.99,
+      "missedImg": true,
+      "title": "LIVMORE Table Lamp Aroma Diffuser & Ultrasonic Humidifier (160 ml) with Warm LED Light and 10 Essential Oils - Black",
+      "auctionCode": "0019941865",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1794130347908,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604459,8 +604480,8 @@
     "lastOnAirSku": "8703813",
     "lastOnAirTitle": "LIVMORE Table Lamp Aroma Diffuser & Ultrasonic Humidifier (160 ml) with Warm LED Light and 10 Aroma Oils - White",
     "lastOnAirAuctionCode": "0019941864",
-    "precedingSku": "8745878",
-    "precedingTitle": "Holy Family Hand Painted Resin Christmas Nativity Statue (26.5cm) - Multicolour",
-    "precedingAuctionCode": "0019940155"
+    "precedingSku": "8703813",
+    "precedingTitle": "LIVMORE Table Lamp Aroma Diffuser & Ultrasonic Humidifier (160 ml) with Warm LED Light and 10 Aroma Oils - White",
+    "precedingAuctionCode": "0019941864"
   }
 }
