@@ -65416,21 +65416,26 @@
       "sku": "8545209",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-08-03",
-      "time": "11:57:18",
+      "date": "2026-11-08",
+      "time": "02:10:47",
       "preExisting": true,
       "missedAt": 1785754638139,
       "missedDelay": null,
-      "lastUpdated": 1785754638139,
+      "lastUpdated": 1794103847793,
       "missedPrice": 24.99,
       "missedImg": true,
-      "title": "3 in 1 Weekend Bag with Suit-Dress Carrier & Rucksack - Burgundy",
-      "auctionCode": "0019804876",
+      "title": "3 in 1 Weekend Bag with Suit-Dress Carrier & Rucksack - Beige",
+      "auctionCode": "0019939619",
       "source": "gha",
       "productUrl": "/products/patterned-travel-bag-size-52x31x37-cm-beige-8545201",
       "productUrlChecked": 1785754642984,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1794103847793,
+      "pdpPrice": "99.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8540720": {
       "sku": "8540720",
@@ -525314,8 +525319,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794103764457,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604075,11 +604080,22 @@
         "followingSku": "8619905",
         "followingTitle": "The Original Wash Matik Cleaning System With Anti kink hose (approx 9 feet) BEATS ANY HOSEPIPE BAN! Saves Water!",
         "followingAuctionCode": "0019940660"
+      },
+      {
+        "start": 1794103764457,
+        "end": 1794103847793,
+        "durationMin": 1.4,
+        "precedingSku": "8619905",
+        "precedingTitle": "The Original Wash Matik Cleaning System With Anti kink hose (approx 9 feet) BEATS ANY HOSEPIPE BAN! Saves Water!",
+        "precedingAuctionCode": "0019940660",
+        "followingSku": "8545209",
+        "followingTitle": "3 in 1 Weekend Bag with Suit-Dress Carrier & Rucksack - Beige",
+        "followingAuctionCode": "0019939619"
       }
     ],
-    "lastOnAirSku": "8619905",
-    "lastOnAirTitle": "The Original Wash Matik Cleaning System With Anti kink hose (approx 9 feet) BEATS ANY HOSEPIPE BAN! Saves Water!",
-    "lastOnAirAuctionCode": "0019940660",
+    "lastOnAirSku": "8545209",
+    "lastOnAirTitle": "3 in 1 Weekend Bag with Suit-Dress Carrier & Rucksack - Beige",
+    "lastOnAirAuctionCode": "0019939619",
     "precedingSku": "8619905",
     "precedingTitle": "The Original Wash Matik Cleaning System With Anti kink hose (approx 9 feet) BEATS ANY HOSEPIPE BAN! Saves Water!",
     "precedingAuctionCode": "0019940660"
