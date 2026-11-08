@@ -526834,11 +526834,29 @@
       "auctionCode": "0019941985",
       "source": "gha",
       "productUrl": null
+    },
+    "8796510": {
+      "sku": "8796510",
+      "firstAir": 1794140361758,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794140361758,
+      "title": "Luxuriant - AAA Lab Grown Columbian Emerald & Lab Grown Diamond (SI-G-H) Solitaire Ring in Rhodium Overlay Sterling Silver 3.30 Ct.",
+      "pdpPrice": "289.99",
+      "auctionCode": "0019940899",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-08",
+      "time": "12:19:21",
+      "productUrl": null,
+      "lastUpdated": 1794140361758,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794140305038,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -605972,11 +605990,22 @@
         "followingSku": "4538920",
         "followingTitle": "Luxuriant - AAA Lab Grown Columbian Emerald & Lab Grown Diamond (SI-G-H) Halo Heart Pendant with Chain (Size 20) in 18K Vermeil Yellow Gold Plated Sterling Silver 4.40 Ct.",
         "followingAuctionCode": "0019941984"
+      },
+      {
+        "start": 1794140305038,
+        "end": 1794140361758,
+        "durationMin": 0.9,
+        "precedingSku": "4538920",
+        "precedingTitle": "Luxuriant - AAA Lab Grown Colombian Emerald & Lab Grown Diamond (SI-G-H) Halo Heart Pendant with ...",
+        "precedingAuctionCode": null,
+        "followingSku": "8796510",
+        "followingTitle": "Luxuriant - AAA Lab Grown Columbian Emerald & Lab Grown Diamond (SI-G-H) Solitaire Ring in Rhodium Overlay Sterling Silver 3.30 Ct.",
+        "followingAuctionCode": "0019940899"
       }
     ],
-    "lastOnAirSku": "4538920",
-    "lastOnAirTitle": "Luxuriant - AAA Lab Grown Colombian Emerald & Lab Grown Diamond (SI-G-H) Halo Heart Pendant with ...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8796510",
+    "lastOnAirTitle": "Luxuriant - AAA Lab Grown Columbian Emerald & Lab Grown Diamond (SI-G-H) Solitaire Ring in Rhodium Overlay Sterling Silver 3.30 Ct.",
+    "lastOnAirAuctionCode": "0019940899",
     "precedingSku": "4538920",
     "precedingTitle": "Luxuriant - AAA Lab Grown Colombian Emerald & Lab Grown Diamond (SI-G-H) Halo Heart Pendant with ...",
     "precedingAuctionCode": null
