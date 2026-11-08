@@ -520376,18 +520376,23 @@
       "sku": "8669587",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-06",
-      "time": "08:16:24",
+      "date": "2026-11-08",
+      "time": "07:34:26",
       "preExisting": true,
       "missedAt": 1793952984357,
       "missedDelay": null,
-      "lastUpdated": 1793952984357,
+      "lastUpdated": 1794123266993,
       "missedPrice": 9.99,
       "missedImg": true,
-      "title": "LIVMORE Hot Water Bottle with Highland Cow Plush Cover - Brown",
-      "auctionCode": "0019937966",
+      "title": "LIVMORE Hot Water Bottle with Koala Plush Cover - Grey",
+      "auctionCode": "0019940227",
       "source": "gha",
-      "productUrl": null
+      "productUrl": null,
+      "lastAir": 1794123266993,
+      "pdpPrice": "119.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "4539496": {
       "sku": "4539496",
@@ -525408,8 +525413,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794123145797,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604312,11 +604317,22 @@
         "followingSku": "8682317",
         "followingTitle": "LIVMORE Handcrafted Turkish Style Mosaic Glass Plug In Light with E14 Bulb Included - Burgundy",
         "followingAuctionCode": "0019941866"
+      },
+      {
+        "start": 1794123145797,
+        "end": 1794123266993,
+        "durationMin": 2.0,
+        "precedingSku": "8682317",
+        "precedingTitle": "LIVMORE Handcrafted Turkish Style Mosaic Glass Plug In Light with E14 Bulb Included - Burgundy",
+        "precedingAuctionCode": "0019941866",
+        "followingSku": "8669587",
+        "followingTitle": "LIVMORE Hot Water Bottle with Koala Plush Cover - Grey",
+        "followingAuctionCode": "0019940227"
       }
     ],
-    "lastOnAirSku": "8682317",
-    "lastOnAirTitle": "LIVMORE Handcrafted Turkish Style Mosaic Glass Plug In Light with E14 Bulb Included - Burgundy",
-    "lastOnAirAuctionCode": "0019941866",
+    "lastOnAirSku": "8669587",
+    "lastOnAirTitle": "LIVMORE Hot Water Bottle with Koala Plush Cover - Grey",
+    "lastOnAirAuctionCode": "0019940227",
     "precedingSku": "8682317",
     "precedingTitle": "LIVMORE Handcrafted Turkish Style Mosaic Glass Plug In Light with E14 Bulb Included - Burgundy",
     "precedingAuctionCode": "0019941866"
