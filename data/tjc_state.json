@@ -525413,11 +525413,29 @@
       "productUrlChecked": 1794123148586,
       "productUrlStatus": 200,
       "productUrl404": false
+    },
+    "7704507": {
+      "sku": "7704507",
+      "firstAir": 1794126268306,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794126268306,
+      "title": "Car Vacuum Cleaner  - with 12v Power - Blue & White",
+      "pdpPrice": "6.99",
+      "auctionCode": "0019940354",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-08",
+      "time": "08:24:28",
+      "productUrl": null,
+      "lastUpdated": 1794126268306,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794126203131,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604353,11 +604371,22 @@
         "followingSku": "8800645",
         "followingTitle": "BEAUTY GALA LAUNCH- Laurelle 12 Days of Christmas EDP",
         "followingAuctionCode": "0019941906"
+      },
+      {
+        "start": 1794126203131,
+        "end": 1794126268306,
+        "durationMin": 1.1,
+        "precedingSku": "7826458",
+        "precedingTitle": "Beyond Bliss Corded (4m) 2-in1 Vacuum Cleaner (0.6L Dust Tank Capacity) 400W, 65db",
+        "precedingAuctionCode": "0019940199",
+        "followingSku": "7704507",
+        "followingTitle": "Car Vacuum Cleaner  - with 12v Power - Blue & White",
+        "followingAuctionCode": "0019940354"
       }
     ],
-    "lastOnAirSku": "7826458",
-    "lastOnAirTitle": "Beyond Bliss Corded (4m) 2-in1 Vacuum Cleaner (0.6L Dust Tank Capacity) 400W, 65db",
-    "lastOnAirAuctionCode": "0019940199",
+    "lastOnAirSku": "7704507",
+    "lastOnAirTitle": "Car Vacuum Cleaner  - with 12v Power - Blue & White",
+    "lastOnAirAuctionCode": "0019940354",
     "precedingSku": "7826458",
     "precedingTitle": "Beyond Bliss Corded (4m) 2-in1 Vacuum Cleaner (0.6L Dust Tank Capacity) 400W, 65db",
     "precedingAuctionCode": "0019940199"
