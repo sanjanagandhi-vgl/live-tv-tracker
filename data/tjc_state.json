@@ -526808,16 +526808,37 @@
       "date": "2026-11-08",
       "time": "12:17:20",
       "productUrl": "/products/luxuriant-aaa-lab-grown-columbian-emerald-lab-grown-diamond-si-g-h-pendant-with-chain-size-20-in-18k-vermeil-yellow-gold-plated-sterling-silver-4-40-ct-4538920?variant=53994002907402",
-      "lastUpdated": 1794140240447,
+      "lastUpdated": 1794140305038,
       "source": "gha",
       "productUrlChecked": 1794140242469,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1794140305038,
+      "missedDelay": 1,
+      "missedPrice": 189.99,
+      "missedImg": true
+    },
+    "4579407": {
+      "sku": "4579407",
+      "tvPrice": "",
+      "remarks": "",
+      "date": "2026-11-08",
+      "time": "12:18:25",
+      "preExisting": true,
+      "missedAt": 1794140305038,
+      "missedDelay": null,
+      "lastUpdated": 1794140305038,
+      "missedPrice": 189.99,
+      "missedImg": true,
+      "title": "Luxuriant - Lab Grown Columbian Emerald & White Zircon Halo Pendant with Chain (Size 20) in Rhodium Overlay Sterling Silver 3.85 Ct.",
+      "auctionCode": "0019941985",
+      "source": "gha",
+      "productUrl": null
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1794140305038,
     "gaps": [
       {
         "start": 1785823527869,
@@ -605956,8 +605977,8 @@
     "lastOnAirSku": "4538920",
     "lastOnAirTitle": "Luxuriant - AAA Lab Grown Colombian Emerald & Lab Grown Diamond (SI-G-H) Halo Heart Pendant with ...",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "8796018",
-    "precedingTitle": "Luxuriant - AAA Lab Grown Colombian Emerald & Lab Grown Diamond (SI-G-H) Halo Heart Ring in 18K Vermeil Yellow Gold Plated Sterling Silver 1.80 Ct.",
-    "precedingAuctionCode": "0019941966"
+    "precedingSku": "4538920",
+    "precedingTitle": "Luxuriant - AAA Lab Grown Colombian Emerald & Lab Grown Diamond (SI-G-H) Halo Heart Pendant with ...",
+    "precedingAuctionCode": null
   }
 }
