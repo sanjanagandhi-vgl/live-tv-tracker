@@ -444338,21 +444338,26 @@
       "sku": "8791965",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-10",
-      "time": "21:17:20",
+      "date": "2026-11-08",
+      "time": "10:54:26",
       "preExisting": true,
       "missedAt": 1791663440388,
       "missedDelay": null,
-      "lastUpdated": 1791663440388,
+      "lastUpdated": 1794135266009,
       "missedPrice": 699.99,
       "missedImg": true,
-      "title": "Red Carpet Collectio - 9K Yellow Gold AAAA Lab Grown Columbian Emerald 2.5Cts & Lab Grown Diamond (VS-E-F) 1.00 Cts Halo Ring Total- 3.50 Ct.",
-      "auctionCode": "0019904432",
+      "title": "Red Carpet Collectio - 9K Yellow Gold AAAA Lab Grown Colombian Emerald 2.5Cts & Lab Grown Diamond (VS-E-F) 1.00 Cts Halo Ring Total- 3.50 Ct.",
+      "auctionCode": "0019940817",
       "source": "gha",
       "productUrl": "/products/luxuriant-9k-yellow-gold-aaaa-lab-grown-columbian-emerald-lab-grown-diamond-vs-e-f-halo-ring-3-50-ct-8791964",
       "productUrlChecked": 1791663444343,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1794135266009,
+      "pdpPrice": "599.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8752496": {
       "sku": "8752496",
@@ -525978,8 +525983,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794135144974,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -605036,11 +605041,22 @@
         "followingSku": "8573332",
         "followingTitle": "D'Joy - AAA Lab Grown Colombian Emerald & White Zircon Halo Necklace (Size - 20) in Rhodium Overlay Sterling Silver 1.00 Ct.",
         "followingAuctionCode": "0019940927"
+      },
+      {
+        "start": 1794135144974,
+        "end": 1794135266009,
+        "durationMin": 2.0,
+        "precedingSku": "8573332",
+        "precedingTitle": "D'Joy - AAA Lab Grown Colombian Emerald & White Zircon Halo Necklace (Size - 20) in Rhodium Overl...",
+        "precedingAuctionCode": null,
+        "followingSku": "8791965",
+        "followingTitle": "Red Carpet Collectio - 9K Yellow Gold AAAA Lab Grown Colombian Emerald 2.5Cts & Lab Grown Diamond (VS-E-F) 1.00 Cts Halo Ring Total- 3.50 Ct.",
+        "followingAuctionCode": "0019940817"
       }
     ],
-    "lastOnAirSku": "8573332",
-    "lastOnAirTitle": "D'Joy - AAA Lab Grown Colombian Emerald & White Zircon Halo Necklace (Size - 20) in Rhodium Overl...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8791965",
+    "lastOnAirTitle": "Red Carpet Collectio - 9K Yellow Gold AAAA Lab Grown Colombian Emerald 2.5Cts & Lab Grown Diamond (VS-E-F) 1.00 Cts Halo Ring Total- 3.50 Ct.",
+    "lastOnAirAuctionCode": "0019940817",
     "precedingSku": "8573332",
     "precedingTitle": "D'Joy - AAA Lab Grown Colombian Emerald & White Zircon Halo Necklace (Size - 20) in Rhodium Overl...",
     "precedingAuctionCode": null
