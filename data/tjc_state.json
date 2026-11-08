@@ -2855,22 +2855,23 @@
       "sku": "8619905",
       "tvPrice": "",
       "remarks": "",
-      "time": "10:42:23",
+      "time": "01:49:21",
       "preExisting": true,
       "missedAt": 1784839359254,
       "missedDelay": null,
       "missedPrice": 29.99,
       "missedImg": false,
       "title": "The Original Wash Matik Cleaning System With Anti kink hose (approx 9 feet) BEATS ANY HOSEPIPE BAN! Saves Water!",
-      "auctionCode": "0019795791",
+      "auctionCode": "0019940660",
       "source": "gha",
-      "lastAir": 1785058943168,
-      "pdpPrice": 29.99,
-      "buy": false,
-      "login": true,
-      "img": false,
-      "date": "2026-07-26",
-      "lastUpdated": 1785058943168
+      "lastAir": 1794102561215,
+      "pdpPrice": "200.99",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-08",
+      "lastUpdated": 1794102561215,
+      "productUrl": null
     },
     "8636934": {
       "sku": "8636934",
@@ -525313,8 +525314,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794102265245,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604063,11 +604064,22 @@
         "followingSku": "8064481",
         "followingTitle": "Lowest ever price - Gauder Acrylic Double-Sided Mounting Tape 5M - Wood, Tiles, Plastic, Metal, Paint and Wallpaper - Red",
         "followingAuctionCode": "0019940666"
+      },
+      {
+        "start": 1794102265245,
+        "end": 1794102561215,
+        "durationMin": 4.9,
+        "precedingSku": "8519572",
+        "precedingTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
+        "precedingAuctionCode": "0019940665",
+        "followingSku": "8619905",
+        "followingTitle": "The Original Wash Matik Cleaning System With Anti kink hose (approx 9 feet) BEATS ANY HOSEPIPE BAN! Saves Water!",
+        "followingAuctionCode": "0019940660"
       }
     ],
-    "lastOnAirSku": "8519572",
-    "lastOnAirTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
-    "lastOnAirAuctionCode": "0019940665",
+    "lastOnAirSku": "8619905",
+    "lastOnAirTitle": "The Original Wash Matik Cleaning System With Anti kink hose (approx 9 feet) BEATS ANY HOSEPIPE BAN! Saves Water!",
+    "lastOnAirAuctionCode": "0019940660",
     "precedingSku": "8519572",
     "precedingTitle": "Pack of 3 - Houndstooth Non-Woven Extra Large Storage Organizer Box (50 x 32 x 30 cm) - Black",
     "precedingAuctionCode": "0019940665"
