@@ -525502,11 +525502,29 @@
       "auctionCode": "0019941865",
       "source": "gha",
       "productUrl": null
+    },
+    "8706827": {
+      "sku": "8706827",
+      "firstAir": 1794130401670,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794130401670,
+      "title": "LIVMORE Crystal Glass Bird & Flower Tabletop Figurine Ornament (11 x 15.5cm)  - Yellow Pink",
+      "pdpPrice": "199.99",
+      "auctionCode": "0019940336",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-08",
+      "time": "09:33:21",
+      "productUrl": null,
+      "lastUpdated": 1794130401670,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794130347908,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604475,11 +604493,22 @@
         "followingSku": "8703813",
         "followingTitle": "LIVMORE Table Lamp Aroma Diffuser & Ultrasonic Humidifier (160 ml) with Warm LED Light and 10 Essential Oils - White",
         "followingAuctionCode": "0019941864"
+      },
+      {
+        "start": 1794130347908,
+        "end": 1794130401670,
+        "durationMin": 0.9,
+        "precedingSku": "8703813",
+        "precedingTitle": "LIVMORE Table Lamp Aroma Diffuser & Ultrasonic Humidifier (160 ml) with Warm LED Light and 10 Aroma Oils - White",
+        "precedingAuctionCode": "0019941864",
+        "followingSku": "8706827",
+        "followingTitle": "LIVMORE Crystal Glass Bird & Flower Tabletop Figurine Ornament (11 x 15.5cm)  - Yellow Pink",
+        "followingAuctionCode": "0019940336"
       }
     ],
-    "lastOnAirSku": "8703813",
-    "lastOnAirTitle": "LIVMORE Table Lamp Aroma Diffuser & Ultrasonic Humidifier (160 ml) with Warm LED Light and 10 Aroma Oils - White",
-    "lastOnAirAuctionCode": "0019941864",
+    "lastOnAirSku": "8706827",
+    "lastOnAirTitle": "LIVMORE Crystal Glass Bird & Flower Tabletop Figurine Ornament (11 x 15.5cm)  - Yellow Pink",
+    "lastOnAirAuctionCode": "0019940336",
     "precedingSku": "8703813",
     "precedingTitle": "LIVMORE Table Lamp Aroma Diffuser & Ultrasonic Humidifier (160 ml) with Warm LED Light and 10 Aroma Oils - White",
     "precedingAuctionCode": "0019941864"
