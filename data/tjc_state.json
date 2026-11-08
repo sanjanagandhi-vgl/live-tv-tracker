@@ -512896,21 +512896,26 @@
       "sku": "8632910",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-11-03",
-      "time": "12:38:27",
+      "date": "2026-11-08",
+      "time": "06:39:21",
       "preExisting": true,
       "missedAt": 1793709507914,
       "missedDelay": null,
-      "lastUpdated": 1793709507914,
+      "lastUpdated": 1794119961016,
       "missedPrice": 19.99,
       "missedImg": true,
-      "title": "Christmas Garland with Wreath Design (30cm) - Gold",
-      "auctionCode": "0019934946",
+      "title": "Christmas Garland with Wreath Design (30cm) - Red",
+      "auctionCode": "0019940429",
       "source": "gha",
       "productUrl": "/products/christmas-garland-with-wreath-design-30cm-red-8632913",
       "productUrlChecked": 1793709511972,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "lastAir": 1794119961016,
+      "pdpPrice": "199.99",
+      "buy": true,
+      "login": false,
+      "img": true
     },
     "8466016": {
       "sku": "8466016",
@@ -525378,8 +525383,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794119903537,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604249,11 +604254,22 @@
         "followingSku": "8754377",
         "followingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
         "followingAuctionCode": "0019939701"
+      },
+      {
+        "start": 1794119903537,
+        "end": 1794119961016,
+        "durationMin": 1.0,
+        "precedingSku": "8754377",
+        "precedingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
+        "precedingAuctionCode": "0019939701",
+        "followingSku": "8632910",
+        "followingTitle": "Christmas Garland with Wreath Design (30cm) - Red",
+        "followingAuctionCode": "0019940429"
       }
     ],
-    "lastOnAirSku": "8754377",
-    "lastOnAirTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
-    "lastOnAirAuctionCode": "0019939701",
+    "lastOnAirSku": "8632910",
+    "lastOnAirTitle": "Christmas Garland with Wreath Design (30cm) - Red",
+    "lastOnAirAuctionCode": "0019940429",
     "precedingSku": "8754377",
     "precedingTitle": "LIVMORE Cordless Automatic Electric Fragrance Oil Diffuser with Light 500ML - Vanilla (9 x 9 x 14 cm)",
     "precedingAuctionCode": "0019939701"
