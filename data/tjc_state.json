@@ -143036,23 +143036,23 @@
       "sku": "8532908",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-28",
-      "time": "13:48:27",
+      "date": "2026-11-08",
+      "time": "09:51:21",
       "preExisting": true,
       "missedAt": 1786524800906,
       "missedDelay": null,
-      "lastUpdated": 1793195307137,
+      "lastUpdated": 1794131481234,
       "missedPrice": 39.99,
       "missedImg": true,
       "title": "Rustic Hand Carved Wooden 4-Drawer Storage Chest with Oxidised Silver Embossed Detail (30 x 10 x 20 cm) - Brown & Silver",
-      "auctionCode": "0019926543",
+      "auctionCode": "0019940366",
       "source": "gha",
       "productUrl": "/products/livmore-patterned-storage-box-size-7x1x1-cm-white-8531877",
       "productUrlChecked": 1786524809853,
       "productUrlStatus": 500,
       "productUrl404": false,
-      "lastAir": 1793195307137,
-      "pdpPrice": "19.99",
+      "lastAir": 1794131481234,
+      "pdpPrice": "37.99",
       "buy": true,
       "login": false,
       "img": true
@@ -525550,8 +525550,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794131444835,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604542,11 +604542,22 @@
         "followingSku": "8754521",
         "followingTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Cinammon & Orange",
         "followingAuctionCode": "0019941963"
+      },
+      {
+        "start": 1794131444835,
+        "end": 1794131481234,
+        "durationMin": 0.6,
+        "precedingSku": "8754521",
+        "precedingTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Cinammon & Orange",
+        "precedingAuctionCode": "0019941963",
+        "followingSku": "8532908",
+        "followingTitle": "Rustic Hand Carved Wooden 4-Drawer Storage Chest with Oxidised Silver Embossed Detail (30 x 10 x 20 cm) - Brown & Silver",
+        "followingAuctionCode": "0019940366"
       }
     ],
-    "lastOnAirSku": "8754521",
-    "lastOnAirTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Cinammon & Orange",
-    "lastOnAirAuctionCode": "0019941963",
+    "lastOnAirSku": "8532908",
+    "lastOnAirTitle": "Rustic Hand Carved Wooden 4-Drawer Storage Chest with Oxidised Silver Embossed Detail (30 x 10 x 20 cm) - Brown & Silver",
+    "lastOnAirAuctionCode": "0019940366",
     "precedingSku": "8754521",
     "precedingTitle": "Scented Candle Glass Jar (12.5x 10x 10cm) - Cinammon & Orange",
     "precedingAuctionCode": "0019941963"
