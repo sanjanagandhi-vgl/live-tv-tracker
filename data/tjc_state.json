@@ -8782,18 +8782,18 @@
       "sku": "8071901",
       "tvPrice": "",
       "remarks": "",
-      "date": "2026-10-24",
-      "time": "04:13:18",
+      "date": "2026-11-08",
+      "time": "05:52:25",
       "preExisting": true,
       "missedAt": 1784957507635,
       "missedDelay": null,
-      "lastUpdated": 1792811598673,
+      "lastUpdated": 1794117145907,
       "missedPrice": 9.99,
       "missedImg": true,
       "title": "Round Magnetic Lock (8mm) with Lobster Clasp (11mm) in Rhodium Overlay Sterling Silver",
-      "auctionCode": "0019921212",
+      "auctionCode": "0019940132",
       "source": "gha",
-      "lastAir": 1792811598673,
+      "lastAir": 1794117145907,
       "pdpPrice": "9.99",
       "buy": true,
       "login": false,
@@ -525367,8 +525367,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794117081005,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604194,11 +604194,22 @@
         "followingSku": "8755202",
         "followingTitle": "Black Friday Preview- 9K Yellow Gold Belcher Necklace (Size - 22)",
         "followingAuctionCode": "0019941877"
+      },
+      {
+        "start": 1794117081005,
+        "end": 1794117145907,
+        "durationMin": 1.1,
+        "precedingSku": "8553013",
+        "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 20) with Lobster Clasp",
+        "precedingAuctionCode": "0019940130",
+        "followingSku": "8071901",
+        "followingTitle": "Round Magnetic Lock (8mm) with Lobster Clasp (11mm) in Rhodium Overlay Sterling Silver",
+        "followingAuctionCode": "0019940132"
       }
     ],
-    "lastOnAirSku": "8553013",
-    "lastOnAirTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 20) with Lobster Clasp",
-    "lastOnAirAuctionCode": "0019940130",
+    "lastOnAirSku": "8071901",
+    "lastOnAirTitle": "Round Magnetic Lock (8mm) with Lobster Clasp (11mm) in Rhodium Overlay Sterling Silver",
+    "lastOnAirAuctionCode": "0019940132",
     "precedingSku": "8553013",
     "precedingTitle": "Italian Made - Yellow Gold Plated Sterling Silver Grumetta Rada Chain (Size - 20) with Lobster Clasp",
     "precedingAuctionCode": "0019940130"
