@@ -527344,11 +527344,29 @@
       "auctionCode": "0019942458",
       "source": "gha",
       "productUrl": null
+    },
+    "8781539": {
+      "sku": "8781539",
+      "firstAir": 1794148467165,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794148467165,
+      "title": "Luxuriant - Honey Jade, White Mother Of Pearl & Lab Grown Diamond Floral Band Ring in Yellow Gold Plated Sterling Silver 15.10 Ct.",
+      "pdpPrice": "999.99",
+      "auctionCode": "0019940977",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-08",
+      "time": "14:34:27",
+      "productUrl": null,
+      "lastUpdated": 1794148467165,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794148348165,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -606548,11 +606566,22 @@
         "followingSku": "8831528",
         "followingTitle": "D'Joy - Honey Jade & Crystal Adjustable Sculpted Necklace (Size - 28) in Yellow Gold Plated Sterling Silver 52.00 Ct.",
         "followingAuctionCode": "0019941026"
+      },
+      {
+        "start": 1794148348165,
+        "end": 1794148467165,
+        "durationMin": 2.0,
+        "precedingSku": "8831523",
+        "precedingTitle": "D'Joy - Honey Jade Heart-Shaped Earring with Hook in Yellow Gold Plated Sterling Silver 28.00 Ct.",
+        "precedingAuctionCode": "0019942456",
+        "followingSku": "8781539",
+        "followingTitle": "Luxuriant - Honey Jade, White Mother Of Pearl & Lab Grown Diamond Floral Band Ring in Yellow Gold Plated Sterling Silver 15.10 Ct.",
+        "followingAuctionCode": "0019940977"
       }
     ],
-    "lastOnAirSku": "8831523",
-    "lastOnAirTitle": "D'Joy - Honey Jade Heart-Shaped Earring with Hook in Yellow Gold Plated Sterling Silver 28.00 Ct.",
-    "lastOnAirAuctionCode": "0019942456",
+    "lastOnAirSku": "8781539",
+    "lastOnAirTitle": "Luxuriant - Honey Jade, White Mother Of Pearl & Lab Grown Diamond Floral Band Ring in Yellow Gold Plated Sterling Silver 15.10 Ct.",
+    "lastOnAirAuctionCode": "0019940977",
     "precedingSku": "8831523",
     "precedingTitle": "D'Joy - Honey Jade Heart-Shaped Earring with Hook in Yellow Gold Plated Sterling Silver 28.00 Ct.",
     "precedingAuctionCode": "0019942456"
