@@ -528069,11 +528069,29 @@
       "auctionCode": "0019941883",
       "source": "gha",
       "productUrl": null
+    },
+    "8831574": {
+      "sku": "8831574",
+      "firstAir": 1794153385760,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794153385760,
+      "title": "Honey Jade Band Ring 20.00 Ct.",
+      "pdpPrice": "87.99",
+      "auctionCode": "0019941043",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-08",
+      "time": "15:56:25",
+      "productUrl": null,
+      "lastUpdated": 1794153385760,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794153334187,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -607339,11 +607357,22 @@
         "followingSku": "8831530",
         "followingTitle": "D'Joy - Honey Jade & White Cubic Zirconia Adjustable Luna Moon Necklace (Size - 28) in Yellow Gold Plated Sterling Silver 100.00 Ct.",
         "followingAuctionCode": "0019941030"
+      },
+      {
+        "start": 1794153334187,
+        "end": 1794153385760,
+        "durationMin": 0.9,
+        "precedingSku": "8831530",
+        "precedingTitle": "D'Joy - Honey Jade & White Cubic Zirconia Adjustable Luna Moon Necklace (Size - 28) in Yellow Gol...",
+        "precedingAuctionCode": null,
+        "followingSku": "8831574",
+        "followingTitle": "Honey Jade Band Ring 20.00 Ct.",
+        "followingAuctionCode": "0019941043"
       }
     ],
-    "lastOnAirSku": "8831530",
-    "lastOnAirTitle": "D'Joy - Honey Jade & White Cubic Zirconia Adjustable Luna Moon Necklace (Size - 28) in Yellow Gol...",
-    "lastOnAirAuctionCode": null,
+    "lastOnAirSku": "8831574",
+    "lastOnAirTitle": "Honey Jade Band Ring 20.00 Ct.",
+    "lastOnAirAuctionCode": "0019941043",
     "precedingSku": "8831530",
     "precedingTitle": "D'Joy - Honey Jade & White Cubic Zirconia Adjustable Luna Moon Necklace (Size - 28) in Yellow Gol...",
     "precedingAuctionCode": null
