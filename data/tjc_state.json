@@ -525310,17 +525310,17 @@
       "firstAir": 1794095959870,
       "tvPrice": "",
       "remarks": "",
-      "lastAir": 1794097104966,
+      "lastAir": 1794114441240,
       "title": "Black Friday Preview- 9K Yellow Gold Belcher Necklace (Size - 22)",
-      "pdpPrice": "129.99",
-      "auctionCode": "0019940835",
+      "pdpPrice": "1099.99",
+      "auctionCode": "0019941877",
       "buy": true,
       "login": false,
       "img": false,
       "date": "2026-11-08",
-      "time": "00:18:24",
+      "time": "05:07:21",
       "productUrl": "/products/9k-yellow-gold-chain-size-22-with-spring-ring-clasp-8755202",
-      "lastUpdated": 1794097245544,
+      "lastUpdated": 1794114441240,
       "source": "gha",
       "missedAt": 1794097245544,
       "missedDelay": 2,
@@ -525357,8 +525357,8 @@
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794114202157,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -604173,11 +604173,22 @@
         "followingSku": "8801615",
         "followingTitle": "INDOOR-OUTDOOR Bright White 100 LED String Lights with Storage Box (10m) - Off White",
         "followingAuctionCode": "0019940116"
+      },
+      {
+        "start": 1794114202157,
+        "end": 1794114441240,
+        "durationMin": 4.0,
+        "precedingSku": "8801615",
+        "precedingTitle": "INDOOR-OUTDOOR Bright White 100 LED String Lights with Storage Box (10m) - Off White",
+        "precedingAuctionCode": "0019940116",
+        "followingSku": "8755202",
+        "followingTitle": "Black Friday Preview- 9K Yellow Gold Belcher Necklace (Size - 22)",
+        "followingAuctionCode": "0019941877"
       }
     ],
-    "lastOnAirSku": "8801615",
-    "lastOnAirTitle": "INDOOR-OUTDOOR Bright White 100 LED String Lights with Storage Box (10m) - Off White",
-    "lastOnAirAuctionCode": "0019940116",
+    "lastOnAirSku": "8755202",
+    "lastOnAirTitle": "Black Friday Preview- 9K Yellow Gold Belcher Necklace (Size - 22)",
+    "lastOnAirAuctionCode": "0019941877",
     "precedingSku": "8801615",
     "precedingTitle": "INDOOR-OUTDOOR Bright White 100 LED String Lights with Storage Box (10m) - Off White",
     "precedingAuctionCode": "0019940116"
