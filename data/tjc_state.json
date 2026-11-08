@@ -527381,9 +527381,16 @@
       "img": true,
       "date": "2026-11-08",
       "time": "14:52:25",
-      "productUrl": null,
-      "lastUpdated": 1794149545963,
-      "source": "gha"
+      "productUrl": "/products/dyed-honey-jade-white-mother-of-pearl-red-garnet-moissanite-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-0-96-ct-28-960-ct-4538718",
+      "lastUpdated": 1794149668101,
+      "source": "gha",
+      "missedAt": 1794149668101,
+      "missedDelay": 2,
+      "missedPrice": 44.99,
+      "missedImg": true,
+      "productUrlChecked": 1794149670019,
+      "productUrlStatus": 200,
+      "productUrl404": false
     },
     "8781717": {
       "sku": "8781717",
@@ -527520,11 +527527,29 @@
       "auctionCode": "0019940979",
       "source": "gha",
       "productUrl": null
+    },
+    "8831526": {
+      "sku": "8831526",
+      "firstAir": 1794149668101,
+      "tvPrice": "",
+      "remarks": "",
+      "lastAir": 1794149668101,
+      "title": "D'Joy - Honey Jade Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 32.00 Ct.",
+      "pdpPrice": "549.99",
+      "auctionCode": "0019941003",
+      "buy": true,
+      "login": false,
+      "img": true,
+      "date": "2026-11-08",
+      "time": "14:54:28",
+      "productUrl": null,
+      "lastUpdated": 1794149668101,
+      "source": "gha"
     }
   },
   "gapTracking": {
-    "inGap": true,
-    "gapStart": 1794149602057,
+    "inGap": false,
+    "gapStart": null,
     "gaps": [
       {
         "start": 1785823527869,
@@ -606746,11 +606771,22 @@
         "followingSku": "4538718",
         "followingTitle": "D'Joy - Honey Jade & Multi-Gemstone Floral Oval Pendant in Rhodium Overlay Sterling Silver with Chain (Size 20) 29.00 Ct.",
         "followingAuctionCode": "0019940974"
+      },
+      {
+        "start": 1794149602057,
+        "end": 1794149668101,
+        "durationMin": 1.1,
+        "precedingSku": "4538718",
+        "precedingTitle": "D'Joy - Honey Jade & Multi-Gemstone Floral Oval Pendant in Rhodium Overlay Sterling Silver with Chain (Size 20) 29.00 Ct.",
+        "precedingAuctionCode": "0019940974",
+        "followingSku": "8831526",
+        "followingTitle": "D'Joy - Honey Jade Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 32.00 Ct.",
+        "followingAuctionCode": "0019941003"
       }
     ],
-    "lastOnAirSku": "4538718",
-    "lastOnAirTitle": "D'Joy - Honey Jade & Multi-Gemstone Floral Oval Pendant in Rhodium Overlay Sterling Silver with Chain (Size 20) 29.00 Ct.",
-    "lastOnAirAuctionCode": "0019940974",
+    "lastOnAirSku": "8831526",
+    "lastOnAirTitle": "D'Joy - Honey Jade Hoop Earring with Clasp in Yellow Gold Plated Sterling Silver 32.00 Ct.",
+    "lastOnAirAuctionCode": "0019941003",
     "precedingSku": "4538718",
     "precedingTitle": "D'Joy - Honey Jade & Multi-Gemstone Floral Oval Pendant in Rhodium Overlay Sterling Silver with Chain (Size 20) 29.00 Ct.",
     "precedingAuctionCode": "0019940974"
