@@ -526875,11 +526875,15 @@
       "date": "2026-11-08",
       "time": "12:24:25",
       "productUrl": "/products/luxuriant-aaa-lab-grown-columbian-emerald-lab-grown-diamond-si-g-h-pendant-with-chain-size-20-in-rhodium-overlay-sterling-silver-3-30-ct-4538924?variant=53994003300618",
-      "lastUpdated": 1794140665144,
+      "lastUpdated": 1794140736110,
       "source": "gha",
       "productUrlChecked": 1794140667512,
       "productUrlStatus": 200,
-      "productUrl404": false
+      "productUrl404": false,
+      "missedAt": 1794140736110,
+      "missedDelay": 1,
+      "missedPrice": 279.99,
+      "missedImg": true
     },
     "8796518": {
       "sku": "8796518",
@@ -527043,8 +527047,8 @@
     }
   },
   "gapTracking": {
-    "inGap": false,
-    "gapStart": null,
+    "inGap": true,
+    "gapStart": 1794140736110,
     "gaps": [
       {
         "start": 1785823527869,
@@ -606194,8 +606198,8 @@
     "lastOnAirSku": "4538924",
     "lastOnAirTitle": "Luxuriant - AAA Lab Grown Columbian Emerald & Lab Grown Diamond (SI-G-H) Pendant with Chain (Size...",
     "lastOnAirAuctionCode": null,
-    "precedingSku": "4538920",
-    "precedingTitle": "Luxuriant - AAA Lab Grown Colombian Emerald & Lab Grown Diamond (SI-G-H) Halo Heart Pendant with ...",
+    "precedingSku": "4538924",
+    "precedingTitle": "Luxuriant - AAA Lab Grown Columbian Emerald & Lab Grown Diamond (SI-G-H) Pendant with Chain (Size...",
     "precedingAuctionCode": null
   }
 }
